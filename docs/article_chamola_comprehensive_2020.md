@@ -53,12 +53,16 @@ public health and infectious diseases](article_yang_combating_2020)
 
 * [Future (post-COVID) digital, smart and sustainable
 cities in the wake of 6G: Digital twins, immersive
-realities and new urban economies](article_allam_future_2021)* [Leveraging Digital Transformation Technologies to
+realities and new urban economies](article_allam_future_2021)
+* [Leveraging Digital Transformation Technologies to
 Tackle COVID-19: Proposing a Privacy-First
-Holistic Framework](article_arpaci_leveraging_2021)* [How the 5G Enabled the COVID-19 Pandemic
+Holistic Framework](article_arpaci_leveraging_2021)
+* [How the 5G Enabled the COVID-19 Pandemic
 Prevention and Control: Materiality, Affordance,
-and (De-)Spatialization](article_li_how_2022)* [Contributions of Smart City Solutions and
+and (De-)Spatialization](article_li_how_2022)
+* [Contributions of Smart City Solutions and
 Technologies to Resilience against the COVID-19
-Pandemic: A Literature Review](article_sharifi_contributions_2021)* [Impact of COVID-19 on IoT Adoption in Healthcare,
+Pandemic: A Literature Review](article_sharifi_contributions_2021)
+* [Impact of COVID-19 on IoT Adoption in Healthcare,
 Smart Homes, Smart Buildings, Smart Cities,
 Transportation and Industrial IoT](article_umair_impact_2021)

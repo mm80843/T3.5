@@ -58,15 +58,21 @@ their inactivation with biocidal agents](article_kampf_persistence_2020)
 ### Cited by 
 
 * [A Review on Building Design as a Biomedical
-System for Preventing COVID-19 Pandemic](article_amran_review_2022)* [Prophylactic Architecture: Formulating the Concept
-of Pandemic-Resilient Homes](article_elrayies_prophylactic_2022)* [A critical analysis of the impacts of COVID-19 on the
+System for Preventing COVID-19 Pandemic](article_amran_review_2022)
+* [Prophylactic Architecture: Formulating the Concept
+of Pandemic-Resilient Homes](article_elrayies_prophylactic_2022)
+* [A critical analysis of the impacts of COVID-19 on the
 global economy and ecosystems and opportunities for
-circular economy strategies](article_ibn-mohammed_critical_2021)* [COVID-19 and Green Housing: A Review of
-Relevant Literature](article_kaklauskas_covid-19_2021)* [A Global Survey of Infection Control and
+circular economy strategies](article_ibn-mohammed_critical_2021)
+* [COVID-19 and Green Housing: A Review of
+Relevant Literature](article_kaklauskas_covid-19_2021)
+* [A Global Survey of Infection Control and
 Mitigation Measures for Combating the Transmission
 of COVID-19 Pandemic in Buildings Under
-Facilities Management Services](article_sarvari_global_2022)* [Readiness Assessment of Green Building
+Facilities Management Services](article_sarvari_global_2022)
+* [Readiness Assessment of Green Building
 Certification Systems for Residential Buildings
-during Pandemics](article_tleuken_readiness_2021)* [Impact of COVID-19 on IoT Adoption in Healthcare,
+during Pandemics](article_tleuken_readiness_2021)
+* [Impact of COVID-19 on IoT Adoption in Healthcare,
 Smart Homes, Smart Buildings, Smart Cities,
 Transportation and Industrial IoT](article_umair_impact_2021)

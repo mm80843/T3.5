@@ -23,5 +23,6 @@ case study](article_saari_effect_2006)
 ### Cited by 
 
 * [Prophylactic Architecture: Formulating the Concept
-of Pandemic-Resilient Homes](article_elrayies_prophylactic_2022)* [A review of facilities management interventions to
+of Pandemic-Resilient Homes](article_elrayies_prophylactic_2022)
+* [A review of facilities management interventions to
 mitigate respiratory infections in existing buildings](article_zhang_review_2022)
