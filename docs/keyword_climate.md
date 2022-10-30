@@ -1,0 +1,29 @@
+# Keyword: __climate__
+## Clusters
+
+* Cluster 2: [construction-resilience](cluster_2.md)
+* Cluster 4: [air-formaldehyde](cluster_4.md)
+
+## Concepts
+
+ ![](imgs/keyword_climate.jpg)
+
+
+## Articles
+* Effects of temperature and humidity on the spread of
+COVID-19: A systematic review ([mecenas_effects_2020](article_mecenas_effects_2020.md))
+* realdania_refleksioner_2022_EN ([realdania_refleksioner_2022_EN](article_realdania_refleksioner_2022_EN.md))
+* The effect of a redesigned floor plan, occupant density
+and the quality of indoor climate on the cost of space,
+productivity and sick leave in an office building–A
+case study ([saari_effect_2006](article_saari_effect_2006.md))
+* Navigating Climate Change: Rethinking the Role of
+Buildings ([cole_navigating_2020](article_cole_navigating_2020.md))
+* harvard_th_chan_schoold_of_public_health_coronavirus_2020 ([harvard_th_chan_schoold_of_public_health_coronavirus_2020](article_harvard_th_chan_schoold_of_public_health_coronavirus_2020.md))
+* Climate and the spread of COVID-19 ([chen_climate_2021](article_chen_climate_2021.md))
+* Characterization and performance evaluation of a
+full-scale activated carbon-based dynamic botanical air
+filtration system for improving indoor air quality ([wang_characterization_2011](article_wang_characterization_2011.md))
+* harvard_chan_community_coronavirus_2020 ([harvard_chan_community_coronavirus_2020](article_harvard_chan_community_coronavirus_2020.md))
+* martin_impact_2008 ([martin_impact_2008](article_martin_impact_2008.md))
+* carvalhaes_covid-19_2020 ([carvalhaes_covid-19_2020](article_carvalhaes_covid-19_2020.md))
