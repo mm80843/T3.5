@@ -1,12 +1,12 @@
 # Article: __Assessment of Building Automation and Control Systems in Danish Healthcare Facilities in the COVID-19 Era__ (pedersen_assessment_2022)
 
 * [10.3390/app12010427](https://doi.org/10.3390/app12010427)
-* Cluster: [building-space](cluster_7.md)
+* Cluster: [building-space](cluster_7)
 
 
 ## Keywords
 
-[domain](keyword_domain.md), [ventilation](keyword_ventilation.md), [build](keyword_build.md), [control](keyword_control.md)
+[domain](keyword_domain), [ventilation](keyword_ventilation), [build](keyword_build), [control](keyword_control)
 
 ## Abstract
 
@@ -44,7 +44,7 @@ flexibility and storage.
 
 * [A critical analysis of the impacts of COVID-19 on the
 global economy and ecosystems and opportunities for
-circular economy strategies](article_ibn-mohammed_critical_2021.md)
+circular economy strategies](article_ibn-mohammed_critical_2021)
 
 ### Cited by 
 

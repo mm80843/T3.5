@@ -1,12 +1,12 @@
 # Article: __How the 5G Enabled the COVID-19 Pandemic Prevention and Control: Materiality, Affordance, and (De-)Spatialization__ (li_how_2022)
 
 * [10.3390/ijerph19158965](https://doi.org/10.3390/ijerph19158965)
-* Cluster: [blockchain-technology](cluster_13.md)
+* Cluster: [blockchain-technology](cluster_13)
 
 
 ## Keywords
 
-[pandemic](keyword_pandemic.md), [control](keyword_control.md), [china](keyword_china.md)
+[pandemic](keyword_pandemic), [control](keyword_control), [china](keyword_china)
 
 ## Abstract
 
@@ -40,9 +40,9 @@ on 5G also offers practical implications.
 
 * [A Comprehensive Review of the COVID-19 Pandemic
 and the Role of IoT, Drones, AI, Blockchain, and
-5G in Managing its Impact](article_chamola_comprehensive_2020.md)
+5G in Managing its Impact](article_chamola_comprehensive_2020)
 * [The role of 5G for digital healthcare against COVID-19
-pandemic: Opportunities and challenges](article_siriwardhana_role_2021.md)
+pandemic: Opportunities and challenges](article_siriwardhana_role_2021)
 
 ### Cited by 
 

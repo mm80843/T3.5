@@ -1,12 +1,12 @@
 # Article: __COVID19-Routes: A Safe Pedestrian Navigation Service__ (cantarero_covid19-routes_2021)
 
 * [10.1109/ACCESS.2021.3092970](https://doi.org/10.1109/ACCESS.2021.3092970)
-* Cluster: [health-city](cluster_0.md)
+* Cluster: [health-city](cluster_0)
 
 
 ## Keywords
 
-[online](keyword_online.md), [pandemic](keyword_pandemic.md), [city](keyword_city.md), [knowledge](keyword_knowledge.md)
+[online](keyword_online), [pandemic](keyword_pandemic), [city](keyword_city), [knowledge](keyword_knowledge)
 
 ## Abstract
 
@@ -42,9 +42,9 @@ with low exposure to COVID-19.
 
 ### References 
 
-* [The Smart City and Covid‐19](article_webb_smart_2020.md)
+* [The Smart City and Covid‐19](article_webb_smart_2020)
 * [Internet of things (IoT) applications to fight against
-COVID-19 pandemic](article_singh_internet_2020.md)
+COVID-19 pandemic](article_singh_internet_2020)
 
 ### Cited by 
 

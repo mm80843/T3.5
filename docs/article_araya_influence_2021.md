@@ -1,12 +1,12 @@
 # Article: __Influence between COVID-19 Impacts and Project Stakeholders in Chilean Construction Projects__ (araya_influence_2021)
 
 * [10.3390/su131810082](https://doi.org/10.3390/su131810082)
-* Cluster: [construction-project](cluster_3.md)
+* Cluster: [construction-project](cluster_3)
 
 
 ## Keywords
 
-[construction](keyword_construction.md), [pandemic](keyword_pandemic.md), [worker](keyword_worker.md)
+[construction](keyword_construction), [pandemic](keyword_pandemic), [worker](keyword_worker)
 
 ## Abstract
 
@@ -46,19 +46,19 @@ on the construction sector.
 
 * [Guidelines for Responding to COVID-19 Pandemic:
 Best Practices, Impacts, and Future Research
-Directions](article_assaad_guidelines_2021.md)
+Directions](article_assaad_guidelines_2021)
 * [Mechanisms for addressing the impact of COVID-19 on
-infrastructure projects](article_king_mechanisms_2021.md)
+infrastructure projects](article_king_mechanisms_2021)
 * [The Impact of Pandemic Crisis on the Survival of
-Construction Industry: A Case of COVID-19](article_gamil_impact_2020.md)
+Construction Industry: A Case of COVID-19](article_gamil_impact_2020)
 * [Identifying Actions to Control and Mitigate the
 Effects of the COVID-19 Pandemic on Construction
-Organizations: Preliminary Findings](article_raoufi_identifying_2021.md)
+Organizations: Preliminary Findings](article_raoufi_identifying_2021)
 * [Analysis of COVID-19 Concerns Raised by the
 Construction Workforce and Development of
-Mitigation Practices](article_bou_hatoum_analysis_2021.md)
+Mitigation Practices](article_bou_hatoum_analysis_2021)
 
 ### Cited by 
 
 * [Perception of COVID-19 impacts on the construction
-industry over time](article_rokooei_perception_2022.md)
+industry over time](article_rokooei_perception_2022)

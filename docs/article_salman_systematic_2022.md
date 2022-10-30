@@ -56,11 +56,11 @@ study to assess its impact on IAQ.
 
 * [Rapid expansion of temporary, reliable airborne-infection
 isolation rooms with negative air machines for critical
-COVID-19 patients](article_lee_rapid_2020.md)
+COVID-19 patients](article_lee_rapid_2020)
 * [How can airborne transmission of COVID-19 indoors be
-minimised?](article_morawska_how_2020-1.md)
+minimised?](article_morawska_how_2020-1)
 * [Continuous IEQ monitoring system: Context and
-development](article_parkinson_continuous_2019.md)
+development](article_parkinson_continuous_2019)
 
 ### Cited by 
 

@@ -1,12 +1,12 @@
 # Article: __COVID-19 Experience Transforming the Protective Environment of Office Buildings and Spaces__ (phapant_covid-19_2021)
 
 * [10.3390/su132413636](https://doi.org/10.3390/su132413636)
-* Cluster: [building-space](cluster_7.md)
+* Cluster: [building-space](cluster_7)
 
 
 ## Keywords
 
-[virus](keyword_virus.md), [pandemic](keyword_pandemic.md), [infection](keyword_infection.md), [worker](keyword_worker.md), [office](keyword_office.md), [coronavirus](keyword_coronavirus.md), [ventilation](keyword_ventilation.md)
+[virus](keyword_virus), [pandemic](keyword_pandemic), [infection](keyword_infection), [worker](keyword_worker), [office](keyword_office), [coronavirus](keyword_coronavirus), [ventilation](keyword_ventilation)
 
 ## Abstract
 
@@ -50,13 +50,13 @@ protect workers from the COVID-19 pandemic.
 ### References 
 
 * [Antivirus-built environment: Lessons learned from
-Covid-19 pandemic](article_megahed_antivirus-built_2020.md)
+Covid-19 pandemic](article_megahed_antivirus-built_2020)
 * [2019 Novel Coronavirus (COVID-19) Pandemic:
 Built Environment Considerations To Reduce
-Transmission](article_dietz_2019_2020.md)
+Transmission](article_dietz_2019_2020)
 * [Ten questions concerning occupant health in buildings
 during normal operations and extreme events including the
-COVID-19 pandemic](article_awada_ten_2021.md)
+COVID-19 pandemic](article_awada_ten_2021)
 
 ### Cited by 
 

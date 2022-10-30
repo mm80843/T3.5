@@ -1,12 +1,12 @@
 # Article: __The COVID-19 pandemic: Impacts on cities and major lessons for urban planning, design, and management__ (sharifi_covid-19_2020)
 
 * [10.1016/j.scitotenv.2020.142391](https://doi.org/10.1016/j.scitotenv.2020.142391)
-* Cluster: [health-city](cluster_0.md)
+* Cluster: [health-city](cluster_0)
 
 
 ## Keywords
 
-[pandemic](keyword_pandemic.md), [city](keyword_city.md), [china](keyword_china.md), [virus](keyword_virus.md), [pollution](keyword_pollution.md)
+[pandemic](keyword_pandemic), [city](keyword_city), [china](keyword_china), [virus](keyword_virus), [pollution](keyword_pollution)
 
 ## Abstract
 
@@ -57,13 +57,13 @@ Unlabelled Image
 
 ### References 
 
-* [Smart cities and a data-driven response to COVID-19](article_james_smart_2020.md)
+* [Smart cities and a data-driven response to COVID-19](article_james_smart_2020)
 
 ### Cited by 
 
 * [A Review on Building Design as a Biomedical
-System for Preventing COVID-19 Pandemic](article_amran_review_2022.md)* [Prophylactic Architecture: Formulating the Concept
-of Pandemic-Resilient Homes](article_elrayies_prophylactic_2022.md)* [Respiratory pandemics, urban planning and design: A
-multidisciplinary rapid review of the literature](article_harris_respiratory_2022.md)* [Contributions of Smart City Solutions and
+System for Preventing COVID-19 Pandemic](article_amran_review_2022)* [Prophylactic Architecture: Formulating the Concept
+of Pandemic-Resilient Homes](article_elrayies_prophylactic_2022)* [Respiratory pandemics, urban planning and design: A
+multidisciplinary rapid review of the literature](article_harris_respiratory_2022)* [Contributions of Smart City Solutions and
 Technologies to Resilience against the COVID-19
-Pandemic: A Literature Review](article_sharifi_contributions_2021.md)
+Pandemic: A Literature Review](article_sharifi_contributions_2021)

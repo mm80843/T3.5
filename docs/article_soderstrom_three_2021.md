@@ -1,12 +1,12 @@
 # Article: __The three modes of existence of the pandemic smart city__ (soderstrom_three_2021)
 
 * [10.1080/02723638.2020.1807167](https://doi.org/10.1080/02723638.2020.1807167)
-* Cluster: [health-city](cluster_0.md)
+* Cluster: [health-city](cluster_0)
 
 
 ## Keywords
 
-[pandemic](keyword_pandemic.md), [technology](keyword_technology.md), [data](keyword_data.md), [ontology](keyword_ontology.md)
+[pandemic](keyword_pandemic), [technology](keyword_technology), [data](keyword_data), [ontology](keyword_ontology)
 
 ## Abstract
 

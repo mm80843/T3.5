@@ -1,12 +1,12 @@
 # Article: __Digital Twin of COVID-19 Mass Vaccination Centers__ (pilati_digital_2021)
 
 * [10.3390/su13137396](https://doi.org/10.3390/su13137396)
-* Cluster: [blockchain-technology](cluster_13.md)
+* Cluster: [blockchain-technology](cluster_13)
 
 
 ## Keywords
 
-[simulation](keyword_simulation.md), [pandemic](keyword_pandemic.md), [system](keyword_system.md)
+[simulation](keyword_simulation), [pandemic](keyword_pandemic), [system](keyword_system)
 
 ## Abstract
 
@@ -41,7 +41,7 @@ in queue for each phase and resource utilization.
 ### References 
 
 * [Internet of things (IoT) applications to fight against
-COVID-19 pandemic](article_singh_internet_2020.md)
+COVID-19 pandemic](article_singh_internet_2020)
 
 ### Cited by 
 

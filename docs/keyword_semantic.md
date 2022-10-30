@@ -1,7 +1,7 @@
 # Keyword: __semantic__
 ## Clusters
 
-* Cluster 15: [ontology-datum](cluster_15.md)
+* Cluster 15: [ontology-datum](cluster_15)
 
 ## Concepts
 
@@ -10,22 +10,22 @@
 
 ## Articles
 * Construction of a Linked Data Set of COVID-19
-Knowledge Graphs: Development and Applications ([wang_construction_2022](article_wang_construction_2022.md))
+Knowledge Graphs: Development and Applications ([wang_construction_2022](article_wang_construction_2022))
 * An Overview of Biomedical Ontologies for Pandemics
-and Infectious Diseases Representation ([bayoudhi_overview_2021](article_bayoudhi_overview_2021.md))
+and Infectious Diseases Representation ([bayoudhi_overview_2021](article_bayoudhi_overview_2021))
 * CIDO, a community-based ontology for coronavirus disease
-knowledge and data integration, sharing, and analysis ([he_cido_2020](article_he_cido_2020.md))
+knowledge and data integration, sharing, and analysis ([he_cido_2020](article_he_cido_2020))
 * COVID-19 and Green Housing: A Review of
-Relevant Literature ([kaklauskas_covid-19_2021](article_kaklauskas_covid-19_2021.md))
+Relevant Literature ([kaklauskas_covid-19_2021](article_kaklauskas_covid-19_2021))
 * Impact of COVID-19 on IoT Adoption in Healthcare,
 Smart Homes, Smart Buildings, Smart Cities,
-Transportation and Industrial IoT ([umair_impact_2021](article_umair_impact_2021.md))
-* realdania_refleksioner_2022-150 ([realdania_refleksioner_2022-150](article_realdania_refleksioner_2022-150.md))
+Transportation and Industrial IoT ([umair_impact_2021](article_umair_impact_2021))
+* realdania_refleksioner_2022-150 ([realdania_refleksioner_2022-150](article_realdania_refleksioner_2022-150))
 * DeepSOCIAL: Social Distancing Monitoring and
-Infection Risk Assessment in COVID-19 Pandemic ([rezaei_deepsocial_2020](article_rezaei_deepsocial_2020.md))
+Infection Risk Assessment in COVID-19 Pandemic ([rezaei_deepsocial_2020](article_rezaei_deepsocial_2020))
 * DeepSOCIAL: Social Distancing Monitoring and
-Infection Risk Assessment in COVID-19 Pandemic ([rezaei_deepsocial_2020](article_rezaei_deepsocial_2020.md))
+Infection Risk Assessment in COVID-19 Pandemic ([rezaei_deepsocial_2020](article_rezaei_deepsocial_2020))
 * DeepSOCIAL: Social Distancing Monitoring and
-Infection Risk Assessment in COVID-19 Pandemic ([rezaei_deepsocial_2020](article_rezaei_deepsocial_2020.md))
+Infection Risk Assessment in COVID-19 Pandemic ([rezaei_deepsocial_2020](article_rezaei_deepsocial_2020))
 * DeepSOCIAL: Social Distancing Monitoring and
-Infection Risk Assessment in COVID-19 Pandemic ([rezaei_deepsocial_2020](article_rezaei_deepsocial_2020.md))
+Infection Risk Assessment in COVID-19 Pandemic ([rezaei_deepsocial_2020](article_rezaei_deepsocial_2020))

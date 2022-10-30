@@ -1,12 +1,12 @@
 # Article: ____ (mehtab_alam_role_2021)
 
 * [10.6084/M9.FIGSHARE.14369627](https://doi.org/10.6084/M9.FIGSHARE.14369627)
-* Cluster: [health-city](cluster_0.md)
+* Cluster: [health-city](cluster_0)
 
 
 ## Keywords
 
-[china](keyword_china.md), [coronavirus](keyword_coronavirus.md), [infection](keyword_infection.md), [quarantine](keyword_quarantine.md)
+[china](keyword_china), [coronavirus](keyword_coronavirus), [infection](keyword_infection), [quarantine](keyword_quarantine)
 
 ## Abstract
 

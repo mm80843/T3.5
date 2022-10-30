@@ -15,11 +15,11 @@
 ### References 
 
 * [Indoor Air Quality: Rethinking rules of building
-design strategies in post-pandemic architecture](article_megahed_indoor_2021.md)
+design strategies in post-pandemic architecture](article_megahed_indoor_2021)
 * [Ventilation use in nonmedical settings during COVID-19:
-Cleaning protocol, maintenance, and recommendations](article_nembhard_ventilation_2020.md)
+Cleaning protocol, maintenance, and recommendations](article_nembhard_ventilation_2020)
 
 ### Cited by 
 
 * [Prophylactic Architecture: Formulating the Concept
-of Pandemic-Resilient Homes](article_elrayies_prophylactic_2022.md)
+of Pandemic-Resilient Homes](article_elrayies_prophylactic_2022)

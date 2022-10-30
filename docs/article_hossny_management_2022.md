@@ -1,12 +1,12 @@
 # Article: __Management of the COVID-19 pandemic: challenges, practices, and organizational support__ (hossny_management_2022)
 
 * [10.1186/s12912-022-00972-5](https://doi.org/10.1186/s12912-022-00972-5)
-* Cluster: [health-city](cluster_0.md)
+* Cluster: [health-city](cluster_0)
 
 
 ## Keywords
 
-[hospital](keyword_hospital.md), [pandemic](keyword_pandemic.md), [management](keyword_management.md), [anxiety](keyword_anxiety.md), [healthcare](keyword_healthcare.md)
+[hospital](keyword_hospital), [pandemic](keyword_pandemic), [management](keyword_management), [anxiety](keyword_anxiety), [healthcare](keyword_healthcare)
 
 ## Abstract
 
@@ -56,7 +56,7 @@ to better equip them for the current and future crises.
 
 * [Health, Economic and Social Development Challenges
 of the COVID-19 Pandemic: Strategies for Multiple
-and Interconnected Issues](article_panneer_health_2022.md)
+and Interconnected Issues](article_panneer_health_2022)
 
 ### Cited by 
 

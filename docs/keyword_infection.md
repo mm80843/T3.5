@@ -1,7 +1,7 @@
 # Keyword: __infection__
 ## Clusters
 
-* Cluster 8: [air-ventilation](cluster_8.md)
+* Cluster 8: [air-ventilation](cluster_8)
 
 ## Concepts
 
@@ -10,22 +10,22 @@
 
 ## Articles
 * A Review on Building Design as a Biomedical
-System for Preventing COVID-19 Pandemic ([amran_review_2022](article_amran_review_2022.md))
+System for Preventing COVID-19 Pandemic ([amran_review_2022](article_amran_review_2022))
 * The effect of occupant distribution on energy consumption
 and COVID-19 infection in buildings: A case study of
-university building ([mokhtari_effect_2021](article_mokhtari_effect_2021.md))
-* realdania_refleksioner_2022_EN ([realdania_refleksioner_2022_EN](article_realdania_refleksioner_2022_EN.md))
-* udomiaye_architectural_2020 ([udomiaye_architectural_2020](article_udomiaye_architectural_2020.md))
+university building ([mokhtari_effect_2021](article_mokhtari_effect_2021))
+* realdania_refleksioner_2022_EN ([realdania_refleksioner_2022_EN](article_realdania_refleksioner_2022_EN))
+* udomiaye_architectural_2020 ([udomiaye_architectural_2020](article_udomiaye_architectural_2020))
 * How can airborne transmission of COVID-19 indoors be
-minimised? ([morawska_how_2020](article_morawska_how_2020.md))
+minimised? ([morawska_how_2020](article_morawska_how_2020))
 * The socio-economic determinants of COVID-19: A spatial
-analysis of German county level data ([ehlert_socio-economic_2021](article_ehlert_socio-economic_2021.md))
+analysis of German county level data ([ehlert_socio-economic_2021](article_ehlert_socio-economic_2021))
 * Antivirus-built environment: Lessons learned from
-Covid-19 pandemic ([megahed_antivirus-built_2020](article_megahed_antivirus-built_2020.md))
+Covid-19 pandemic ([megahed_antivirus-built_2020](article_megahed_antivirus-built_2020))
 * Prophylactic Architecture: Formulating the Concept
-of Pandemic-Resilient Homes ([elrayies_prophylactic_2022](article_elrayies_prophylactic_2022.md))
+of Pandemic-Resilient Homes ([elrayies_prophylactic_2022](article_elrayies_prophylactic_2022))
 * Methods for air cleaning and protection of building
-occupants from airborne pathogens ([bolashikov_methods_2009](article_bolashikov_methods_2009.md))
+occupants from airborne pathogens ([bolashikov_methods_2009](article_bolashikov_methods_2009))
 * A Comprehensive Review of the COVID-19 Pandemic
 and the Role of IoT, Drones, AI, Blockchain, and
-5G in Managing its Impact ([chamola_comprehensive_2020](article_chamola_comprehensive_2020.md))
+5G in Managing its Impact ([chamola_comprehensive_2020](article_chamola_comprehensive_2020))

@@ -1,12 +1,12 @@
 # Article: __A Global Survey of Infection Control and Mitigation Measures for Combating the Transmission of COVID-19 Pandemic in Buildings Under Facilities Management Services__ (sarvari_global_2022)
 
 * [10.3389/fbuil.2021.644104](https://doi.org/10.3389/fbuil.2021.644104)
-* Cluster: [building-space](cluster_7.md)
+* Cluster: [building-space](cluster_7)
 
 
 ## Keywords
 
-[construction](keyword_construction.md), [building](keyword_building.md), [design](keyword_design.md), [build](keyword_build.md), [transmission](keyword_transmission.md), [coronavirus](keyword_coronavirus.md), [china](keyword_china.md)
+[construction](keyword_construction), [building](keyword_building), [design](keyword_design), [build](keyword_build), [transmission](keyword_transmission), [coronavirus](keyword_coronavirus), [china](keyword_china)
 
 ## Abstract
 
@@ -52,9 +52,9 @@ of buildings.
 ### References 
 
 * [Effects of temperature and humidity on the spread of
-COVID-19: A systematic review](article_mecenas_effects_2020.md)
+COVID-19: A systematic review](article_mecenas_effects_2020)
 * [COVID-19 Could Leverage a Sustainable Built
-Environment](article_pinheiro_covid-19_2020.md)
+Environment](article_pinheiro_covid-19_2020)
 
 ### Cited by 
 

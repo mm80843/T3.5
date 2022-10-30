@@ -1,12 +1,12 @@
 # Article: __Recently employed engineering techniques to reduce the spread of COVID-19 (corona virus disease 2019): a review study__ (saman_recently_2021)
 
 * [10.11591/ijeecs.v22.i1.pp277-286](https://doi.org/10.11591/ijeecs.v22.i1.pp277-286)
-* Cluster: [air-ventilation](cluster_8.md)
+* Cluster: [air-ventilation](cluster_8)
 
 
 ## Keywords
 
-[online](keyword_online.md), [coronavirus](keyword_coronavirus.md), [virus](keyword_virus.md), [robot](keyword_robot.md), [pandemic](keyword_pandemic.md), [drone](keyword_drone.md)
+[online](keyword_online), [coronavirus](keyword_coronavirus), [virus](keyword_virus), [robot](keyword_robot), [pandemic](keyword_pandemic), [drone](keyword_drone)
 
 ## Abstract
 

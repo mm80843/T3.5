@@ -1,12 +1,12 @@
 # Article: __Towards Resilient Residential Buildings and Neighborhoods in Light of COVID-19 Pandemic—The Scenario of Podgorica, Montenegro__ (bojovic_towards_2022)
 
 * [10.3390/su14031302](https://doi.org/10.3390/su14031302)
-* Cluster: [building-space](cluster_7.md)
+* Cluster: [building-space](cluster_7)
 
 
 ## Keywords
 
-[pandemic](keyword_pandemic.md), [resilience](keyword_resilience.md), [build](keyword_build.md), [design](keyword_design.md)
+[pandemic](keyword_pandemic), [resilience](keyword_resilience), [build](keyword_build), [design](keyword_design)
 
 ## Abstract
 

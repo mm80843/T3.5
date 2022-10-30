@@ -1,12 +1,12 @@
 # Article: __An Overview of Ontologies and Tool Support for COVID-19 Analytics__ (ahmad_overview_2021)
 
 * [10.1109/EDOCW52865.2021.00026](https://doi.org/10.1109/EDOCW52865.2021.00026)
-* Cluster: [ontology-datum](cluster_15.md)
+* Cluster: [ontology-datum](cluster_15)
 
 
 ## Keywords
 
-[ontology](keyword_ontology.md), [analytic](keyword_analytic.md), [pandemic](keyword_pandemic.md), [study](keyword_study.md), [telehealth](keyword_telehealth.md)
+[ontology](keyword_ontology), [analytic](keyword_analytic), [pandemic](keyword_pandemic), [study](keyword_study), [telehealth](keyword_telehealth)
 
 ## Abstract
 

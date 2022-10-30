@@ -1,12 +1,12 @@
 # Article: __Upper-room ultraviolet air disinfection might help to reduce COVID-19 transmission in buildings: a feasibility study__ (beggs_upper-room_2020)
 
 * [10.7717/peerj.10196](https://doi.org/10.7717/peerj.10196)
-* Cluster: [air-ventilation](cluster_8.md)
+* Cluster: [air-ventilation](cluster_8)
 
 
 ## Keywords
 
-[coronavirus](keyword_coronavirus.md), [virus](keyword_virus.md), [uv](keyword_uv.md), [air](keyword_air.md)
+[coronavirus](keyword_coronavirus), [virus](keyword_virus), [uv](keyword_uv), [air](keyword_air)
 
 ## Abstract
 
@@ -44,10 +44,10 @@ be particularly applicable to poorly ventilated spaces.
 ### References 
 
 * [How can airborne transmission of COVID-19 indoors be
-minimised?](article_morawska_how_2020-1.md)
+minimised?](article_morawska_how_2020-1)
 
 ### Cited by 
 
 * [The ventilation of buildings and other mitigating measures
-for COVID-19: a focus on wintertime](article_burridge_ventilation_2021.md)* [Designing Post COVID-19 Buildings: Approaches for
-Achieving Healthy Buildings](article_navaratnam_designing_2022.md)
+for COVID-19: a focus on wintertime](article_burridge_ventilation_2021)* [Designing Post COVID-19 Buildings: Approaches for
+Achieving Healthy Buildings](article_navaratnam_designing_2022)

@@ -1,12 +1,12 @@
 # Article: __Methods for air cleaning and protection of building occupants from airborne pathogens__ (bolashikov_methods_2009)
 
 * [10.1016/j.buildenv.2008.09.001](https://doi.org/10.1016/j.buildenv.2008.09.001)
-* Cluster: [air-ventilation](cluster_8.md)
+* Cluster: [air-ventilation](cluster_8)
 
 
 ## Keywords
 
-[ventilation](keyword_ventilation.md), [virus](keyword_virus.md), [infection](keyword_infection.md), [droplet](keyword_droplet.md), [transmission](keyword_transmission.md)
+[ventilation](keyword_ventilation), [virus](keyword_virus), [infection](keyword_infection), [droplet](keyword_droplet), [transmission](keyword_transmission)
 
 ## Abstract
 

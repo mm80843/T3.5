@@ -1,12 +1,12 @@
 # Article: __Retail Signage During the COVID-19 Pandemic__ (mcneish_retail_2020)
 
 * [10.15763/issn.2470-9670.2020.v4.i2.a64](https://doi.org/10.15763/issn.2470-9670.2020.v4.i2.a64)
-* Cluster: [health-city](cluster_0.md)
+* Cluster: [health-city](cluster_0)
 
 
 ## Keywords
 
-[pandemic](keyword_pandemic.md)
+[pandemic](keyword_pandemic)
 
 ## Abstract
 

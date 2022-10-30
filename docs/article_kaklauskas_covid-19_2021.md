@@ -1,12 +1,12 @@
 # Article: __COVID-19 and Green Housing: A Review of Relevant Literature__ (kaklauskas_covid-19_2021)
 
 * [10.3390/en14082072](https://doi.org/10.3390/en14082072)
-* Cluster: [building-space](cluster_7.md)
+* Cluster: [building-space](cluster_7)
 
 
 ## Keywords
 
-[pandemic](keyword_pandemic.md), [construction](keyword_construction.md), [city](keyword_city.md), [health](keyword_health.md), [build](keyword_build.md), [home](keyword_home.md), [country](keyword_country.md)
+[pandemic](keyword_pandemic), [construction](keyword_construction), [city](keyword_city), [health](keyword_health), [build](keyword_build), [home](keyword_home), [country](keyword_country)
 
 ## Abstract
 
@@ -56,21 +56,21 @@ macro-level environments as a singular entity.
 ### References 
 
 * [COVID-19 Could Leverage a Sustainable Built
-Environment](article_pinheiro_covid-19_2020.md)
+Environment](article_pinheiro_covid-19_2020)
 * [Ten questions concerning occupant health in buildings
 during normal operations and extreme events including the
-COVID-19 pandemic](article_awada_ten_2021.md)
+COVID-19 pandemic](article_awada_ten_2021)
 * [Readiness Assessment of Green Building
 Certification Systems for Residential Buildings
-during Pandemics](article_tleuken_readiness_2021.md)
+during Pandemics](article_tleuken_readiness_2021)
 * [The Impact of Pandemic Crisis on the Survival of
-Construction Industry: A Case of COVID-19](article_gamil_impact_2020.md)
+Construction Industry: A Case of COVID-19](article_gamil_impact_2020)
 * [The Effects of Pandemic on Construction Industry
-in the UK](article_shibani_effects_2020.md)
+in the UK](article_shibani_effects_2020)
 
 ### Cited by 
 
 * [A Review on Building Design as a Biomedical
-System for Preventing COVID-19 Pandemic](article_amran_review_2022.md)* [Prophylactic Architecture: Formulating the Concept
-of Pandemic-Resilient Homes](article_elrayies_prophylactic_2022.md)* [Designing Post COVID-19 Buildings: Approaches for
-Achieving Healthy Buildings](article_navaratnam_designing_2022.md)
+System for Preventing COVID-19 Pandemic](article_amran_review_2022)* [Prophylactic Architecture: Formulating the Concept
+of Pandemic-Resilient Homes](article_elrayies_prophylactic_2022)* [Designing Post COVID-19 Buildings: Approaches for
+Achieving Healthy Buildings](article_navaratnam_designing_2022)

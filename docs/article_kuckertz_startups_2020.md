@@ -1,12 +1,12 @@
 # Article: __Startups in times of crisis – A rapid response to the COVID-19 pandemic__ (kuckertz_startups_2020)
 
 * [10.1016/j.jbvi.2020.e00169](https://doi.org/10.1016/j.jbvi.2020.e00169)
-* Cluster: [resilience-infrastructure](cluster_9.md)
+* Cluster: [resilience-infrastructure](cluster_9)
 
 
 ## Keywords
 
-[resilience](keyword_resilience.md), [crisis](keyword_crisis.md)
+[resilience](keyword_resilience), [crisis](keyword_crisis)
 
 
 ## Concepts

@@ -1,12 +1,12 @@
 # Article: __Blockchain technology and its applications to combat COVID-19 pandemic__ (sharma_blockchain_2022)
 
 * [10.1007/s42600-020-00106-3](https://doi.org/10.1007/s42600-020-00106-3)
-* Cluster: [blockchain-technology](cluster_13.md)
+* Cluster: [blockchain-technology](cluster_13)
 
 
 ## Keywords
 
-[blockchain](keyword_blockchain.md), [pandemic](keyword_pandemic.md), [technology](keyword_technology.md), [coronavirus](keyword_coronavirus.md), [healthcare](keyword_healthcare.md), [data](keyword_data.md)
+[blockchain](keyword_blockchain), [pandemic](keyword_pandemic), [technology](keyword_technology), [coronavirus](keyword_coronavirus), [healthcare](keyword_healthcare), [data](keyword_data)
 
 
 ## Concepts
@@ -16,18 +16,18 @@
 ### References 
 
 * [How Can Blockchain Help People in the Event of
-Pandemics Such as the COVID-19?](article_chang_how_2020.md)
+Pandemics Such as the COVID-19?](article_chang_how_2020)
 * [Health Information Exchange with Blockchain amid
-Covid-19-like Pandemics](article_christodoulou_health_2020.md)
+Covid-19-like Pandemics](article_christodoulou_health_2020)
 * [Internet of things (IoT) applications to fight against
-COVID-19 pandemic](article_singh_internet_2020.md)
+COVID-19 pandemic](article_singh_internet_2020)
 * [Significant applications of virtual reality for COVID-19
-pandemic](article_singh_significant_2020.md)
+pandemic](article_singh_significant_2020)
 * [Sustainability of Coronavirus on Different
-Surfaces](article_suman_sustainability_2020.md)
-* [Digital technology and COVID-19](article_ting_digital_2020.md)
+Surfaces](article_suman_sustainability_2020)
+* [Digital technology and COVID-19](article_ting_digital_2020)
 * [Emerging Technologies to Combat the COVID-19
-Pandemic](article_vaishya_emerging_2020.md)
+Pandemic](article_vaishya_emerging_2020)
 
 ### Cited by 
 

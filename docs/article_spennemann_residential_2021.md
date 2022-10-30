@@ -1,12 +1,12 @@
 # Article: __RESIDENTIAL ARCHITECTURE IN A POST-PANDEMIC WORLD: IMPLICATIONS OF COVID-19 FOR NEW CONSTRUCTION AND FOR ADAPTING HERITAGE BUILDINGS__ (spennemann_residential_2021)
 
 * [10.3992/jgb.16.1.199](https://doi.org/10.3992/jgb.16.1.199)
-* Cluster: [building-space](cluster_7.md)
+* Cluster: [building-space](cluster_7)
 
 
 ## Keywords
 
-[coronavirus](keyword_coronavirus.md), [pandemic](keyword_pandemic.md), [aerosol](keyword_aerosol.md), [design](keyword_design.md)
+[coronavirus](keyword_coronavirus), [pandemic](keyword_pandemic), [aerosol](keyword_aerosol), [design](keyword_design)
 
 ## Abstract
 
@@ -39,13 +39,13 @@ developments.
 
 * [2019 Novel Coronavirus (COVID-19) Pandemic:
 Built Environment Considerations To Reduce
-Transmission](article_dietz_2019_2020.md)
+Transmission](article_dietz_2019_2020)
 * [Antivirus-built environment: Lessons learned from
-Covid-19 pandemic](article_megahed_antivirus-built_2020.md)
+Covid-19 pandemic](article_megahed_antivirus-built_2020)
 * [How can airborne transmission of COVID-19 indoors be
-minimised?](article_morawska_how_2020-1.md)
+minimised?](article_morawska_how_2020-1)
 
 ### Cited by 
 
 * [Prophylactic Architecture: Formulating the Concept
-of Pandemic-Resilient Homes](article_elrayies_prophylactic_2022.md)
+of Pandemic-Resilient Homes](article_elrayies_prophylactic_2022)

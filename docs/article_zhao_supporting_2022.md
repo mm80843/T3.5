@@ -1,12 +1,12 @@
 # Article: __Supporting Technologies for COVID-19 Prevention: Systemized Review__ (zhao_supporting_2022)
 
 * [10.2196/30344](https://doi.org/10.2196/30344)
-* Cluster: [health-city](cluster_0.md)
+* Cluster: [health-city](cluster_0)
 
 
 ## Keywords
 
-[pandemic](keyword_pandemic.md), [coronavirus](keyword_coronavirus.md), [test](keyword_test.md), [safety](keyword_safety.md), [patient](keyword_patient.md)
+[pandemic](keyword_pandemic), [coronavirus](keyword_coronavirus), [test](keyword_test), [safety](keyword_safety), [patient](keyword_patient)
 
 ## Abstract
 
@@ -70,7 +70,7 @@ manufacturing.
 ### References 
 
 * [Combating COVID-19—The role of robotics in managing
-public health and infectious diseases](article_yang_combating_2020.md)
+public health and infectious diseases](article_yang_combating_2020)
 
 ### Cited by 
 

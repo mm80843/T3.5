@@ -1,12 +1,12 @@
 # Article: __A Review on Building Design as a Biomedical System for Preventing COVID-19 Pandemic__ (amran_review_2022)
 
 * [10.3390/buildings12050582](https://doi.org/10.3390/buildings12050582)
-* Cluster: [air-ventilation](cluster_8.md)
+* Cluster: [air-ventilation](cluster_8)
 
 
 ## Keywords
 
-[infection](keyword_infection.md), [ventilation](keyword_ventilation.md), [hospital](keyword_hospital.md), [virus](keyword_virus.md), [build](keyword_build.md), [transmission](keyword_transmission.md), [health](keyword_health.md), [aerosol](keyword_aerosol.md)
+[infection](keyword_infection), [ventilation](keyword_ventilation), [hospital](keyword_hospital), [virus](keyword_virus), [build](keyword_build), [transmission](keyword_transmission), [health](keyword_health), [aerosol](keyword_aerosol)
 
 ## Abstract
 
@@ -46,38 +46,38 @@ novel coronavirus or coronavirus variants or delta.
 
 * [Mobility Behaviour in View of the Impact of the
 COVID-19 Pandemic—Public Transport Users in
-Gdansk Case Study](article_przybylowski_mobility_2021.md)
+Gdansk Case Study](article_przybylowski_mobility_2021)
 * [COVID-19 Could Leverage a Sustainable Built
-Environment](article_pinheiro_covid-19_2020.md)
+Environment](article_pinheiro_covid-19_2020)
 * [The COVID-19 pandemic: Impacts on cities and major
-lessons for urban planning, design, and management](article_sharifi_covid-19_2020.md)
+lessons for urban planning, design, and management](article_sharifi_covid-19_2020)
 * [Vancouver Convention Health Centre (COVID-19
 Response): Planning, implementation, and four lessons
-learned](article_d_ross_brown_vancouver_2020.md)
+learned](article_d_ross_brown_vancouver_2020)
 * [Characterization and performance evaluation of a
 full-scale activated carbon-based dynamic botanical air
-filtration system for improving indoor air quality](article_wang_characterization_2011.md)
+filtration system for improving indoor air quality](article_wang_characterization_2011)
 * [Applications of ultraviolet germicidal irradiation
 disinfection in health care facilities: Effective
-adjunct, but not stand-alone technology](article_memarzadeh_applications_2010.md)
+adjunct, but not stand-alone technology](article_memarzadeh_applications_2010)
 * [Methods for air cleaning and protection of building
-occupants from airborne pathogens](article_bolashikov_methods_2009.md)
+occupants from airborne pathogens](article_bolashikov_methods_2009)
 * [Ten questions concerning occupant health in buildings
 during normal operations and extreme events including the
-COVID-19 pandemic](article_awada_ten_2021.md)
+COVID-19 pandemic](article_awada_ten_2021)
 * [Antivirus-built environment: Lessons learned from
-Covid-19 pandemic](article_megahed_antivirus-built_2020.md)
+Covid-19 pandemic](article_megahed_antivirus-built_2020)
 * [Designing Post COVID-19 Buildings: Approaches for
-Achieving Healthy Buildings](article_navaratnam_designing_2022.md)
+Achieving Healthy Buildings](article_navaratnam_designing_2022)
 * [COVID-19 and Green Housing: A Review of
-Relevant Literature](article_kaklauskas_covid-19_2021.md)
+Relevant Literature](article_kaklauskas_covid-19_2021)
 * [Coronavirus questions that will not go away: interrogating
 urban and socio-spatial implications of COVID-19
-measures](article_salama_coronavirus_2020.md)
+measures](article_salama_coronavirus_2020)
 * [Indoor Air Quality: Rethinking rules of building
-design strategies in post-pandemic architecture](article_megahed_indoor_2021.md)
+design strategies in post-pandemic architecture](article_megahed_indoor_2021)
 
 ### Cited by 
 
 * [Prophylactic Architecture: Formulating the Concept
-of Pandemic-Resilient Homes](article_elrayies_prophylactic_2022.md)
+of Pandemic-Resilient Homes](article_elrayies_prophylactic_2022)

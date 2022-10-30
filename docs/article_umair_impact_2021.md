@@ -1,12 +1,12 @@
 # Article: __Impact of COVID-19 on IoT Adoption in Healthcare, Smart Homes, Smart Buildings, Smart Cities, Transportation and Industrial IoT__ (umair_impact_2021)
 
 * [10.3390/s21113838](https://doi.org/10.3390/s21113838)
-* Cluster: [blockchain-technology](cluster_13.md)
+* Cluster: [blockchain-technology](cluster_13)
 
 
 ## Keywords
 
-[iot](keyword_iot.md), [pandemic](keyword_pandemic.md), [healthcare](keyword_healthcare.md), [data](keyword_data.md)
+[iot](keyword_iot), [pandemic](keyword_pandemic), [healthcare](keyword_healthcare), [data](keyword_data)
 
 ## Abstract
 
@@ -36,20 +36,20 @@ facilitate accelerated IoT adoption.
 ### References 
 
 * [Internet of things (IoT) applications to fight against
-COVID-19 pandemic](article_singh_internet_2020.md)
-* [Digital technology and COVID-19](article_ting_digital_2020.md)
+COVID-19 pandemic](article_singh_internet_2020)
+* [Digital technology and COVID-19](article_ting_digital_2020)
 * [A Comprehensive Review of the COVID-19 Pandemic
 and the Role of IoT, Drones, AI, Blockchain, and
-5G in Managing its Impact](article_chamola_comprehensive_2020.md)
+5G in Managing its Impact](article_chamola_comprehensive_2020)
 * [Antivirus-built environment: Lessons learned from
-Covid-19 pandemic](article_megahed_antivirus-built_2020.md)
+Covid-19 pandemic](article_megahed_antivirus-built_2020)
 * [2019 Novel Coronavirus (COVID-19) Pandemic:
 Built Environment Considerations To Reduce
-Transmission](article_dietz_2019_2020.md)
+Transmission](article_dietz_2019_2020)
 * [COVID-19 Could Leverage a Sustainable Built
-Environment](article_pinheiro_covid-19_2020.md)
+Environment](article_pinheiro_covid-19_2020)
 
 ### Cited by 
 
 * [Prophylactic Architecture: Formulating the Concept
-of Pandemic-Resilient Homes](article_elrayies_prophylactic_2022.md)
+of Pandemic-Resilient Homes](article_elrayies_prophylactic_2022)

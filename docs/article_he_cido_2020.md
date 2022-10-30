@@ -1,12 +1,12 @@
 # Article: __CIDO, a community-based ontology for coronavirus disease knowledge and data integration, sharing, and analysis__ (he_cido_2020)
 
 * [10.1038/s41597-020-0523-6](https://doi.org/10.1038/s41597-020-0523-6)
-* Cluster: [ontology-datum](cluster_15.md)
+* Cluster: [ontology-datum](cluster_15)
 
 
 ## Keywords
 
-[ontology](keyword_ontology.md), [drug](keyword_drug.md), [china](keyword_china.md), [coronavirus](keyword_coronavirus.md), [gene](keyword_gene.md), [disease](keyword_disease.md)
+[ontology](keyword_ontology), [drug](keyword_drug), [china](keyword_china), [coronavirus](keyword_coronavirus), [gene](keyword_gene), [disease](keyword_disease)
 
 ## Abstract
 

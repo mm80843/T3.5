@@ -1,7 +1,7 @@
 # Keyword: __market__
 ## Clusters
 
-* Cluster 5: [space-flexible](cluster_5.md)
+* Cluster 5: [space-flexible](cluster_5)
 
 ## Concepts
 
@@ -10,23 +10,23 @@
 
 ## Articles
 * Navigating Climate Change: Rethinking the Role of
-Buildings ([cole_navigating_2020](article_cole_navigating_2020.md))
+Buildings ([cole_navigating_2020](article_cole_navigating_2020))
 * Mechanisms for addressing the impact of COVID-19 on
-infrastructure projects ([king_mechanisms_2021](article_king_mechanisms_2021.md))
+infrastructure projects ([king_mechanisms_2021](article_king_mechanisms_2021))
 * What drives unverified information sharing and
-cyberchondria during the COVID-19 pandemic? ([laato_what_2020](article_laato_what_2020.md))
+cyberchondria during the COVID-19 pandemic? ([laato_what_2020](article_laato_what_2020))
 * Contributions of Smart City Solutions and
 Technologies to Resilience against the COVID-19
-Pandemic: A Literature Review ([sharifi_contributions_2021](article_sharifi_contributions_2021.md))
+Pandemic: A Literature Review ([sharifi_contributions_2021](article_sharifi_contributions_2021))
 * COVID19-Routes: A Safe Pedestrian Navigation
-Service ([cantarero_covid19-routes_2021](article_cantarero_covid19-routes_2021.md))
+Service ([cantarero_covid19-routes_2021](article_cantarero_covid19-routes_2021))
 * Understanding the role of urban design in disease
-spreading ([brizuela_understanding_2019](article_brizuela_understanding_2019.md))
+spreading ([brizuela_understanding_2019](article_brizuela_understanding_2019))
 * COVID-19 Could Leverage a Sustainable Built
-Environment ([pinheiro_covid-19_2020](article_pinheiro_covid-19_2020.md))
-* RUDDS_bioRxiv_update-300 ([RUDDS_bioRxiv_update-300](article_RUDDS_bioRxiv_update-300.md))
+Environment ([pinheiro_covid-19_2020](article_pinheiro_covid-19_2020))
+* RUDDS_bioRxiv_update-300 ([RUDDS_bioRxiv_update-300](article_RUDDS_bioRxiv_update-300))
 * A Comprehensive Review of the COVID-19 Pandemic
 and the Role of IoT, Drones, AI, Blockchain, and
-5G in Managing its Impact ([chamola_comprehensive_2020](article_chamola_comprehensive_2020.md))
+5G in Managing its Impact ([chamola_comprehensive_2020](article_chamola_comprehensive_2020))
 * Effects to Construction Project Management
-Impacted Circular Economic of Covid-19 Pandemic ([paikan_effects_2021](article_paikan_effects_2021.md))
+Impacted Circular Economic of Covid-19 Pandemic ([paikan_effects_2021](article_paikan_effects_2021))

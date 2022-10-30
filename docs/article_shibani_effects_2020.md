@@ -1,12 +1,12 @@
 # Article: __The Effects of Pandemic on Construction Industry in the UK__ (shibani_effects_2020)
 
 * [10.36941/mjss-2020-0063](https://doi.org/10.36941/mjss-2020-0063)
-* Cluster: [construction-project](cluster_3.md)
+* Cluster: [construction-project](cluster_3)
 
 
 ## Keywords
 
-[construction](keyword_construction.md), [pandemic](keyword_pandemic.md), [contractor](keyword_contractor.md), [project](keyword_project.md), [population](keyword_population.md)
+[construction](keyword_construction), [pandemic](keyword_pandemic), [contractor](keyword_contractor), [project](keyword_project), [population](keyword_population)
 
 ## Abstract
 

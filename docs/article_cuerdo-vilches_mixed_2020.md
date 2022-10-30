@@ -1,12 +1,12 @@
 # Article: __A Mixed Approach on Resilience of Spanish Dwellings and Households during COVID-19 Lockdown__ (cuerdo-vilches_mixed_2020)
 
 * [10.3390/su122310198](https://doi.org/10.3390/su122310198)
-* Cluster: [building-space](cluster_7.md)
+* Cluster: [building-space](cluster_7)
 
 
 ## Keywords
 
-[home](keyword_home.md)
+[home](keyword_home)
 
 ## Abstract
 
@@ -41,10 +41,10 @@ contexts similar to the COVID-19 pandemic.
 ### References 
 
 * [Antivirus-built environment: Lessons learned from
-Covid-19 pandemic](article_megahed_antivirus-built_2020.md)
+Covid-19 pandemic](article_megahed_antivirus-built_2020)
 
 ### Cited by 
 
 * [Readiness Assessment of Green Building
 Certification Systems for Residential Buildings
-during Pandemics](article_tleuken_readiness_2021.md)
+during Pandemics](article_tleuken_readiness_2021)

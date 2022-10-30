@@ -1,12 +1,12 @@
 # Article: __Emerging Technologies to Combat the COVID-19 Pandemic__ (vaishya_emerging_2020)
 
 * [10.1016/j.jceh.2020.04.019](https://doi.org/10.1016/j.jceh.2020.04.019)
-* Cluster: [blockchain-technology](cluster_13.md)
+* Cluster: [blockchain-technology](cluster_13)
 
 
 ## Keywords
 
-[pandemic](keyword_pandemic.md), [blockchain](keyword_blockchain.md), [technology](keyword_technology.md)
+[pandemic](keyword_pandemic), [blockchain](keyword_blockchain), [technology](keyword_technology)
 
 
 ## Concepts

@@ -1,12 +1,12 @@
 # Article: __COVID-19 Higher Mortality in Chinese Regions With Chronic Exposure to Lower Air Quality__ (pansini_covid-19_2021)
 
 * [10.3389/fpubh.2020.597753](https://doi.org/10.3389/fpubh.2020.597753)
-* Cluster: [health-city](cluster_0.md)
+* Cluster: [health-city](cluster_0)
 
 
 ## Keywords
 
-[china](keyword_china.md), [pollution](keyword_pollution.md)
+[china](keyword_china), [pollution](keyword_pollution)
 
 ## Abstract
 

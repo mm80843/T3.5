@@ -1,12 +1,12 @@
 # Article: __COVID-19 Prevention and Control Measures in Workplace Settings: A Rapid Review and Meta-Analysis__ (ingram_covid-19_2021)
 
 * [10.3390/ijerph18157847](https://doi.org/10.3390/ijerph18157847)
-* Cluster: [health-city](cluster_0.md)
+* Cluster: [health-city](cluster_0)
 
 
 ## Keywords
 
-[study](keyword_study.md), [surveillance](keyword_surveillance.md)
+[study](keyword_study), [surveillance](keyword_surveillance)
 
 ## Abstract
 

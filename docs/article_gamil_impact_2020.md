@@ -1,12 +1,12 @@
 # Article: __The Impact of Pandemic Crisis on the Survival of Construction Industry: A Case of COVID-19__ (gamil_impact_2020)
 
 * [10.36941/mjss-2020-0047](https://doi.org/10.36941/mjss-2020-0047)
-* Cluster: [construction-project](cluster_3.md)
+* Cluster: [construction-project](cluster_3)
 
 
 ## Keywords
 
-[pandemic](keyword_pandemic.md), [construction](keyword_construction.md), [industry](keyword_industry.md), [coronavirus](keyword_coronavirus.md), [analysis](keyword_analysis.md)
+[pandemic](keyword_pandemic), [construction](keyword_construction), [industry](keyword_industry), [coronavirus](keyword_coronavirus), [analysis](keyword_analysis)
 
 ## Abstract
 

@@ -1,12 +1,12 @@
 # Article: __Contributions of Smart City Solutions and Technologies to Resilience against the COVID-19 Pandemic: A Literature Review__ (sharifi_contributions_2021)
 
 * [10.3390/su13148018](https://doi.org/10.3390/su13148018)
-* Cluster: [blockchain-technology](cluster_13.md)
+* Cluster: [blockchain-technology](cluster_13)
 
 
 ## Keywords
 
-[pandemic](keyword_pandemic.md), [resilience](keyword_resilience.md), [china](keyword_china.md), [technology](keyword_technology.md), [blockchain](keyword_blockchain.md), [city](keyword_city.md)
+[pandemic](keyword_pandemic), [resilience](keyword_resilience), [china](keyword_china), [technology](keyword_technology), [blockchain](keyword_blockchain), [city](keyword_city)
 
 ## Abstract
 
@@ -54,27 +54,27 @@ events.
 
 * [A Comprehensive Review of the COVID-19 Pandemic
 and the Role of IoT, Drones, AI, Blockchain, and
-5G in Managing its Impact](article_chamola_comprehensive_2020.md)
+5G in Managing its Impact](article_chamola_comprehensive_2020)
 * [Exploring the Potential of Artificial Intelligence
 and Machine Learning to Combat COVID-19 and
 Existing Opportunities for LMIC: A Scoping
-Review](article_naseem_exploring_2020.md)
+Review](article_naseem_exploring_2020)
 * [A review of definitions and measures of system
-resilience](article_hosseini_review_2016.md)
-* [The three modes of existence of the pandemic smart city](article_soderstrom_three_2021.md)
+resilience](article_hosseini_review_2016)
+* [The three modes of existence of the pandemic smart city](article_soderstrom_three_2021)
 * [The COVID-19 pandemic: Impacts on cities and major
-lessons for urban planning, design, and management](article_sharifi_covid-19_2020.md)
+lessons for urban planning, design, and management](article_sharifi_covid-19_2020)
 * [The role of 5G for digital healthcare against COVID-19
-pandemic: Opportunities and challenges](article_siriwardhana_role_2021.md)
+pandemic: Opportunities and challenges](article_siriwardhana_role_2021)
 * [Future (post-COVID) digital, smart and sustainable
 cities in the wake of 6G: Digital twins, immersive
-realities and new urban economies](article_allam_future_2021.md)
+realities and new urban economies](article_allam_future_2021)
 * [From Viral City to Smart City: Learning from
-Pandemic Experiences](article_sakellarides_viral_2020.md)
-* [Smart cities and a data-driven response to COVID-19](article_james_smart_2020.md)
+Pandemic Experiences](article_sakellarides_viral_2020)
+* [Smart cities and a data-driven response to COVID-19](article_james_smart_2020)
 * [DeepSOCIAL: Social Distancing Monitoring and
-Infection Risk Assessment in COVID-19 Pandemic](article_rezaei_deepsocial_2020.md)
-* [The Smart City and Covid‐19](article_webb_smart_2020.md)
+Infection Risk Assessment in COVID-19 Pandemic](article_rezaei_deepsocial_2020)
+* [The Smart City and Covid‐19](article_webb_smart_2020)
 
 ### Cited by 
 

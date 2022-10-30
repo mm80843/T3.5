@@ -1,12 +1,12 @@
 # Article: __COVID-19 Could Leverage a Sustainable Built Environment__ (pinheiro_covid-19_2020)
 
 * [10.3390/su12145863](https://doi.org/10.3390/su12145863)
-* Cluster: [building-space](cluster_7.md)
+* Cluster: [building-space](cluster_7)
 
 
 ## Keywords
 
-[pandemic](keyword_pandemic.md), [build](keyword_build.md), [building](keyword_building.md), [virus](keyword_virus.md), [transmission](keyword_transmission.md), [health](keyword_health.md), [resilience](keyword_resilience.md)
+[pandemic](keyword_pandemic), [build](keyword_build), [building](keyword_building), [virus](keyword_virus), [transmission](keyword_transmission), [health](keyword_health), [resilience](keyword_resilience)
 
 ## Abstract
 
@@ -51,22 +51,22 @@ be further researched.
 
 * [2019 Novel Coronavirus (COVID-19) Pandemic:
 Built Environment Considerations To Reduce
-Transmission](article_dietz_2019_2020.md)
+Transmission](article_dietz_2019_2020)
 * [Persistence of coronaviruses on inanimate surfaces and
-their inactivation with biocidal agents](article_kampf_persistence_2020.md)
+their inactivation with biocidal agents](article_kampf_persistence_2020)
 
 ### Cited by 
 
 * [A Review on Building Design as a Biomedical
-System for Preventing COVID-19 Pandemic](article_amran_review_2022.md)* [Prophylactic Architecture: Formulating the Concept
-of Pandemic-Resilient Homes](article_elrayies_prophylactic_2022.md)* [A critical analysis of the impacts of COVID-19 on the
+System for Preventing COVID-19 Pandemic](article_amran_review_2022)* [Prophylactic Architecture: Formulating the Concept
+of Pandemic-Resilient Homes](article_elrayies_prophylactic_2022)* [A critical analysis of the impacts of COVID-19 on the
 global economy and ecosystems and opportunities for
-circular economy strategies](article_ibn-mohammed_critical_2021.md)* [COVID-19 and Green Housing: A Review of
-Relevant Literature](article_kaklauskas_covid-19_2021.md)* [A Global Survey of Infection Control and
+circular economy strategies](article_ibn-mohammed_critical_2021)* [COVID-19 and Green Housing: A Review of
+Relevant Literature](article_kaklauskas_covid-19_2021)* [A Global Survey of Infection Control and
 Mitigation Measures for Combating the Transmission
 of COVID-19 Pandemic in Buildings Under
-Facilities Management Services](article_sarvari_global_2022.md)* [Readiness Assessment of Green Building
+Facilities Management Services](article_sarvari_global_2022)* [Readiness Assessment of Green Building
 Certification Systems for Residential Buildings
-during Pandemics](article_tleuken_readiness_2021.md)* [Impact of COVID-19 on IoT Adoption in Healthcare,
+during Pandemics](article_tleuken_readiness_2021)* [Impact of COVID-19 on IoT Adoption in Healthcare,
 Smart Homes, Smart Buildings, Smart Cities,
-Transportation and Industrial IoT](article_umair_impact_2021.md)
+Transportation and Industrial IoT](article_umair_impact_2021)

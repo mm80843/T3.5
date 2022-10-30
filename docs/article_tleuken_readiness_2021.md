@@ -1,12 +1,12 @@
 # Article: __Readiness Assessment of Green Building Certification Systems for Residential Buildings during Pandemics__ (tleuken_readiness_2021)
 
 * [10.3390/su13020460](https://doi.org/10.3390/su13020460)
-* Cluster: [building-space](cluster_7.md)
+* Cluster: [building-space](cluster_7)
 
 
 ## Keywords
 
-[pandemic](keyword_pandemic.md), [breeam](keyword_breeam.md), [build](keyword_build.md), [construction](keyword_construction.md), [virus](keyword_virus.md), [health](keyword_health.md)
+[pandemic](keyword_pandemic), [breeam](keyword_breeam), [build](keyword_build), [construction](keyword_construction), [virus](keyword_virus), [health](keyword_health)
 
 ## Abstract
 
@@ -54,25 +54,25 @@ post-pandemic requirements.
 ### References 
 
 * [COVID-19 Could Leverage a Sustainable Built
-Environment](article_pinheiro_covid-19_2020.md)
+Environment](article_pinheiro_covid-19_2020)
 * [A Mixed Approach on Resilience of Spanish
-Dwellings and Households during COVID-19 Lockdown](article_cuerdo-vilches_mixed_2020.md)
+Dwellings and Households during COVID-19 Lockdown](article_cuerdo-vilches_mixed_2020)
 * [How loneliness is talked about in social media during
 COVID-19 pandemic: Text mining of 4,492 Twitter
-feeds](article_koh_how_2022.md)
+feeds](article_koh_how_2022)
 * [SARS-CoV-2 in wastewater: potential health risk, but
-also data source](article_lodder_sars-cov-2_2020.md)
+also data source](article_lodder_sars-cov-2_2020)
 * [Antivirus-built environment: Lessons learned from
-Covid-19 pandemic](article_megahed_antivirus-built_2020.md)
+Covid-19 pandemic](article_megahed_antivirus-built_2020)
 * [Effects of temperature and humidity on the spread of
-COVID-19: A systematic review](article_mecenas_effects_2020.md)
+COVID-19: A systematic review](article_mecenas_effects_2020)
 * [First detection of SARS-CoV-2 in untreated wastewaters
-in Italy](article_la_rosa_first_2020.md)
+in Italy](article_la_rosa_first_2020)
 
 ### Cited by 
 
 * [Prophylactic Architecture: Formulating the Concept
-of Pandemic-Resilient Homes](article_elrayies_prophylactic_2022.md)* [COVID-19 and Green Housing: A Review of
-Relevant Literature](article_kaklauskas_covid-19_2021.md)* [Assessment method for new sustainability indicators
-providing pandemic resilience for residential buildings](article_tokazhanov_assessment_2021.md)* [How to Make Green Building Certification \&
-Rating Systems More Pandemic-Sustainable?](article_ujikawa_how_2022.md)
+of Pandemic-Resilient Homes](article_elrayies_prophylactic_2022)* [COVID-19 and Green Housing: A Review of
+Relevant Literature](article_kaklauskas_covid-19_2021)* [Assessment method for new sustainability indicators
+providing pandemic resilience for residential buildings](article_tokazhanov_assessment_2021)* [How to Make Green Building Certification \&
+Rating Systems More Pandemic-Sustainable?](article_ujikawa_how_2022)

@@ -1,12 +1,12 @@
 # Article: __Occupant health in buildings: Impact of the COVID-19 pandemic on the opinions of building professionals and implications on research__ (awada_occupant_2022)
 
 * [10.1016/j.buildenv.2021.108440](https://doi.org/10.1016/j.buildenv.2021.108440)
-* Cluster: [building-space](cluster_7.md)
+* Cluster: [building-space](cluster_7)
 
 
 ## Keywords
 
-[build](keyword_build.md), [mental](keyword_mental.md), [health](keyword_health.md), [construction](keyword_construction.md), [building](keyword_building.md), [design](keyword_design.md)
+[build](keyword_build), [mental](keyword_mental), [health](keyword_health), [construction](keyword_construction), [building](keyword_building), [design](keyword_design)
 
 
 ## Concepts
@@ -17,7 +17,7 @@
 
 * [Ten questions concerning occupant health in buildings
 during normal operations and extreme events including the
-COVID-19 pandemic](article_awada_ten_2021.md)
+COVID-19 pandemic](article_awada_ten_2021)
 
 ### Cited by 
 

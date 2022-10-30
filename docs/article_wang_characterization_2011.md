@@ -1,12 +1,12 @@
 # Article: __Characterization and performance evaluation of a full-scale activated carbon-based dynamic botanical air filtration system for improving indoor air quality__ (wang_characterization_2011)
 
 * [10.1016/j.buildenv.2010.10.008](https://doi.org/10.1016/j.buildenv.2010.10.008)
-* Cluster: [air-formaldehyde](cluster_4.md)
+* Cluster: [air-formaldehyde](cluster_4)
 
 
 ## Keywords
 
-[formaldehyde](keyword_formaldehyde.md), [vocs](keyword_vocs.md), [plant](keyword_plant.md), [ventilation](keyword_ventilation.md), [office](keyword_office.md), [build](keyword_build.md), [environment](keyword_environment.md)
+[formaldehyde](keyword_formaldehyde), [vocs](keyword_vocs), [plant](keyword_plant), [ventilation](keyword_ventilation), [office](keyword_office), [build](keyword_build), [environment](keyword_environment)
 
 ## Abstract
 

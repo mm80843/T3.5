@@ -1,12 +1,12 @@
 # Article: __An Intelligent IEQ Monitoring and Feedback System: Development and Applications__ (geng_intelligent_2021)
 
 * [10.1016/j.eng.2021.09.017](https://doi.org/10.1016/j.eng.2021.09.017)
-* Cluster: [building-space](cluster_7.md)
+* Cluster: [building-space](cluster_7)
 
 
 ## Keywords
 
-[ieq](keyword_ieq.md), [engineering](keyword_engineering.md), [china](keyword_china.md), [build](keyword_build.md), [building](keyword_building.md)
+[ieq](keyword_ieq), [engineering](keyword_engineering), [china](keyword_china), [build](keyword_build), [building](keyword_building)
 
 
 ## Concepts
@@ -16,7 +16,7 @@
 ### References 
 
 * [Continuous IEQ monitoring system: Context and
-development](article_parkinson_continuous_2019.md)
+development](article_parkinson_continuous_2019)
 
 ### Cited by 
 

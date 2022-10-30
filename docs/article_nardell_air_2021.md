@@ -2,12 +2,12 @@
             <sup>†</sup>__ (nardell_air_2021)
 
 * [10.1111/php.13421](https://doi.org/10.1111/php.13421)
-* Cluster: [air-ventilation](cluster_8.md)
+* Cluster: [air-ventilation](cluster_8)
 
 
 ## Keywords
 
-[ventilation](keyword_ventilation.md), [uv](keyword_uv.md), [transmission](keyword_transmission.md), [infectious](keyword_infectious.md), [air](keyword_air.md)
+[ventilation](keyword_ventilation), [uv](keyword_uv), [transmission](keyword_transmission), [infectious](keyword_infectious), [air](keyword_air)
 
 ## Abstract
 

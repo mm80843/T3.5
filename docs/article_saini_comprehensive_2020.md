@@ -1,12 +1,12 @@
 # Article: __A comprehensive review on indoor air quality monitoring systems for enhanced public health__ (saini_comprehensive_2020)
 
 * [10.1186/s42834-020-0047-y](https://doi.org/10.1186/s42834-020-0047-y)
-* Cluster: [building-space](cluster_7.md)
+* Cluster: [building-space](cluster_7)
 
 
 ## Keywords
 
-[vocs](keyword_vocs.md), [iot](keyword_iot.md)
+[vocs](keyword_vocs), [iot](keyword_iot)
 
 ## Abstract
 

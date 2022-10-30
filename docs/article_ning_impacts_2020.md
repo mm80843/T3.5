@@ -1,12 +1,12 @@
 # Article: __The impacts of knowledge, risk perception, emotion and information on citizens’ protective behaviors during the outbreak of COVID-19: a cross-sectional study in China__ (ning_impacts_2020)
 
 * [10.1186/s12889-020-09892-y](https://doi.org/10.1186/s12889-020-09892-y)
-* Cluster: [health-city](cluster_0.md)
+* Cluster: [health-city](cluster_0)
 
 
 ## Keywords
 
-[china](keyword_china.md), [knowledge](keyword_knowledge.md), [risk](keyword_risk.md), [pandemic](keyword_pandemic.md)
+[china](keyword_china), [knowledge](keyword_knowledge), [risk](keyword_risk), [pandemic](keyword_pandemic)
 
 ## Abstract
 

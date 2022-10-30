@@ -1,12 +1,12 @@
 # Article: __A Comprehensive Review of the COVID-19 Pandemic and the Role of IoT, Drones, AI, Blockchain, and 5G in Managing its Impact__ (chamola_comprehensive_2020)
 
 * [10.1109/ACCESS.2020.2992341](https://doi.org/10.1109/ACCESS.2020.2992341)
-* Cluster: [blockchain-technology](cluster_13.md)
+* Cluster: [blockchain-technology](cluster_13)
 
 
 ## Keywords
 
-[online](keyword_online.md), [blockchain](keyword_blockchain.md), [china](keyword_china.md), [coronavirus](keyword_coronavirus.md), [pandemic](keyword_pandemic.md), [virus](keyword_virus.md), [drone](keyword_drone.md)
+[online](keyword_online), [blockchain](keyword_blockchain), [china](keyword_china), [coronavirus](keyword_coronavirus), [pandemic](keyword_pandemic), [virus](keyword_virus), [drone](keyword_drone)
 
 ## Abstract
 
@@ -46,19 +46,19 @@ COVID-19 outbreak.
 ### References 
 
 * [Combating COVID-19—The role of robotics in managing
-public health and infectious diseases](article_yang_combating_2020.md)
-* [Digital technology and COVID-19](article_ting_digital_2020.md)
+public health and infectious diseases](article_yang_combating_2020)
+* [Digital technology and COVID-19](article_ting_digital_2020)
 
 ### Cited by 
 
 * [Future (post-COVID) digital, smart and sustainable
 cities in the wake of 6G: Digital twins, immersive
-realities and new urban economies](article_allam_future_2021.md)* [Leveraging Digital Transformation Technologies to
+realities and new urban economies](article_allam_future_2021)* [Leveraging Digital Transformation Technologies to
 Tackle COVID-19: Proposing a Privacy-First
-Holistic Framework](article_arpaci_leveraging_2021.md)* [How the 5G Enabled the COVID-19 Pandemic
+Holistic Framework](article_arpaci_leveraging_2021)* [How the 5G Enabled the COVID-19 Pandemic
 Prevention and Control: Materiality, Affordance,
-and (De-)Spatialization](article_li_how_2022.md)* [Contributions of Smart City Solutions and
+and (De-)Spatialization](article_li_how_2022)* [Contributions of Smart City Solutions and
 Technologies to Resilience against the COVID-19
-Pandemic: A Literature Review](article_sharifi_contributions_2021.md)* [Impact of COVID-19 on IoT Adoption in Healthcare,
+Pandemic: A Literature Review](article_sharifi_contributions_2021)* [Impact of COVID-19 on IoT Adoption in Healthcare,
 Smart Homes, Smart Buildings, Smart Cities,
-Transportation and Industrial IoT](article_umair_impact_2021.md)
+Transportation and Industrial IoT](article_umair_impact_2021)

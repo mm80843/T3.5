@@ -1,12 +1,12 @@
 # Article: __Analysis of COVID-19 Concerns Raised by the Construction Workforce and Development of Mitigation Practices__ (bou_hatoum_analysis_2021)
 
 * [10.3389/fbuil.2021.688495](https://doi.org/10.3389/fbuil.2021.688495)
-* Cluster: [construction-project](cluster_3.md)
+* Cluster: [construction-project](cluster_3)
 
 
 ## Keywords
 
-[construction](keyword_construction.md), [safety](keyword_safety.md), [employee](keyword_employee.md)
+[construction](keyword_construction), [safety](keyword_safety), [employee](keyword_employee)
 
 ## Abstract
 
@@ -62,13 +62,13 @@ the case of any future pandemic.
 ### References 
 
 * [The Impact of Pandemic Crisis on the Survival of
-Construction Industry: A Case of COVID-19](article_gamil_impact_2020.md)
+Construction Industry: A Case of COVID-19](article_gamil_impact_2020)
 * [Mechanisms for addressing the impact of COVID-19 on
-infrastructure projects](article_king_mechanisms_2021.md)
+infrastructure projects](article_king_mechanisms_2021)
 * [The Effects of Pandemic on Construction Industry
-in the UK](article_shibani_effects_2020.md)
+in the UK](article_shibani_effects_2020)
 
 ### Cited by 
 
 * [Influence between COVID-19 Impacts and Project
-Stakeholders in Chilean Construction Projects](article_araya_influence_2021.md)
+Stakeholders in Chilean Construction Projects](article_araya_influence_2021)

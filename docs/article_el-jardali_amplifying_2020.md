@@ -1,12 +1,12 @@
 # Article: __Amplifying the role of knowledge translation platforms in the COVID-19 pandemic response__ (el-jardali_amplifying_2020)
 
 * [10.1186/s12961-020-00576-y](https://doi.org/10.1186/s12961-020-00576-y)
-* Cluster: [health-city](cluster_0.md)
+* Cluster: [health-city](cluster_0)
 
 
 ## Keywords
 
-[pandemic](keyword_pandemic.md), [policy](keyword_policy.md), [research](keyword_research.md), [crisis](keyword_crisis.md)
+[pandemic](keyword_pandemic), [policy](keyword_policy), [research](keyword_research), [crisis](keyword_crisis)
 
 ## Abstract
 
@@ -42,11 +42,11 @@ policy-making processes.
 ### References 
 
 * [Coronavirus disease 2019: The harms of exaggerated
-information and non‐evidence‐based measures](article_ioannidis_coronavirus_2020.md)
+information and non‐evidence‐based measures](article_ioannidis_coronavirus_2020)
 * [Infodemic and the spread of fake news in the
-COVID-19-era](article_orso_infodemic_2020.md)
+COVID-19-era](article_orso_infodemic_2020)
 
 ### Cited by 
 
 * [The changes in the effects of social media use of
-Cypriots due to COVID-19 pandemic](article_kaya_changes_2020.md)
+Cypriots due to COVID-19 pandemic](article_kaya_changes_2020)

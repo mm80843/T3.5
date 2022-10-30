@@ -1,12 +1,12 @@
 # Article: __Scalable IoT Architecture for Monitoring IEQ Conditions in Public and Private Buildings__ (calvo_scalable_2022)
 
 * [10.3390/en15062270](https://doi.org/10.3390/en15062270)
-* Cluster: [building-space](cluster_7.md)
+* Cluster: [building-space](cluster_7)
 
 
 ## Keywords
 
-[ieq](keyword_ieq.md), [iot](keyword_iot.md)
+[ieq](keyword_ieq), [iot](keyword_iot)
 
 ## Abstract
 
@@ -53,9 +53,9 @@ and VOC.
 ### References 
 
 * [Continuous IEQ monitoring system: Context and
-development](article_parkinson_continuous_2019.md)
+development](article_parkinson_continuous_2019)
 * [The ventilation of buildings and other mitigating measures
-for COVID-19: a focus on wintertime](article_burridge_ventilation_2021.md)
+for COVID-19: a focus on wintertime](article_burridge_ventilation_2021)
 
 ### Cited by 
 

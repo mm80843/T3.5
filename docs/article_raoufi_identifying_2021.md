@@ -1,12 +1,12 @@
 # Article: __Identifying Actions to Control and Mitigate the Effects of the COVID-19 Pandemic on Construction Organizations: Preliminary Findings__ (raoufi_identifying_2021)
 
 * [10.1177/1087724X20969164](https://doi.org/10.1177/1087724X20969164)
-* Cluster: [construction-project](cluster_3.md)
+* Cluster: [construction-project](cluster_3)
 
 
 ## Keywords
 
-[construction](keyword_construction.md), [pandemic](keyword_pandemic.md), [industry](keyword_industry.md), [policy](keyword_policy.md), [research](keyword_research.md), [health](keyword_health.md)
+[construction](keyword_construction), [pandemic](keyword_pandemic), [industry](keyword_industry), [policy](keyword_policy), [research](keyword_research), [health](keyword_health)
 
 ## Abstract
 

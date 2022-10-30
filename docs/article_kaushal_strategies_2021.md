@@ -1,12 +1,12 @@
 # Article: __Strategies to Mitigate COVID-19 Pandemic Impacts on Health and Safety of Workers in Construction Projects__ (kaushal_strategies_2021)
 
 * [10.36937/cebel.2021.002.001](https://doi.org/10.36937/cebel.2021.002.001)
-* Cluster: [construction-project](cluster_3.md)
+* Cluster: [construction-project](cluster_3)
 
 
 ## Keywords
 
-[construction](keyword_construction.md), [pandemic](keyword_pandemic.md), [worker](keyword_worker.md), [coronavirus](keyword_coronavirus.md)
+[construction](keyword_construction), [pandemic](keyword_pandemic), [worker](keyword_worker), [coronavirus](keyword_coronavirus)
 
 ## Abstract
 
@@ -46,7 +46,7 @@ and efficiency in construction projects.
 ### References 
 
 * [Antivirus-built environment: Lessons learned from
-Covid-19 pandemic](article_megahed_antivirus-built_2020.md)
+Covid-19 pandemic](article_megahed_antivirus-built_2020)
 
 ### Cited by 
 
