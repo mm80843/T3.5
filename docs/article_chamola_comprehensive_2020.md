@@ -51,6 +51,7 @@ public health and infectious diseases](article_yang_combating_2020)
 
 ### Cited by 
 
+
 * [Future (post-COVID) digital, smart and sustainable
 cities in the wake of 6G: Digital twins, immersive
 realities and new urban economies](article_allam_future_2021)

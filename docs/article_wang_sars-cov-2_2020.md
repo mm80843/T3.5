@@ -22,6 +22,7 @@ Acute Respiratory Syndrome Coronavirus 2
 
 ### Cited by 
 
+
 * [Readiness Assessment of Green Building
 Certification Systems for Residential Buildings
 during Pandemics](article_tleuken_readiness_2021)

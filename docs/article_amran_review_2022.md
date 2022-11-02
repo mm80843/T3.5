@@ -1,12 +1,12 @@
 # Article: __A Review on Building Design as a Biomedical System for Preventing COVID-19 Pandemic__ (amran_review_2022)
 
 * [10.3390/buildings12050582](https://doi.org/10.3390/buildings12050582)
-* Cluster: [air-ventilation](cluster_8)
+* Cluster: [air-sars](cluster_2)
 
 
 ## Keywords
 
-[infection](keyword_infection), [ventilation](keyword_ventilation), [hospital](keyword_hospital), [virus](keyword_virus), [build](keyword_build), [transmission](keyword_transmission), [health](keyword_health), [aerosol](keyword_aerosol)
+[infection](keyword_infection), [ventilation](keyword_ventilation), [virus](keyword_virus), [build](keyword_build), [transmission](keyword_transmission), [health](keyword_health), [aerosol](keyword_aerosol)
 
 ## Abstract
 
@@ -57,20 +57,29 @@ learned](article_d_ross_brown_vancouver_2020)
 * [Characterization and performance evaluation of a
 full-scale activated carbon-based dynamic botanical air
 filtration system for improving indoor air quality](article_wang_characterization_2011)
+* [Aerosol and Surface Stability of SARS-CoV-2 as
+Compared with SARS-CoV-1](article_van_doremalen_aerosol_2020)
 * [Applications of ultraviolet germicidal irradiation
 disinfection in health care facilities: Effective
 adjunct, but not stand-alone technology](article_memarzadeh_applications_2010)
 * [Methods for air cleaning and protection of building
 occupants from airborne pathogens](article_bolashikov_methods_2009)
+* [Predicted Inactivation of Viruses of Relevance to
+Biodefense by Solar Radiation](article_lytle_predicted_2005)
 * [Ten questions concerning occupant health in buildings
 during normal operations and extreme events including the
 COVID-19 pandemic](article_awada_ten_2021)
+* [How is COVID-19 Experience Transforming
+Sustainability Requirements of Residential
+Buildings? A Review](article_tokazhanov_how_2020)
 * [Antivirus-built environment: Lessons learned from
 Covid-19 pandemic](article_megahed_antivirus-built_2020)
 * [Designing Post COVID-19 Buildings: Approaches for
 Achieving Healthy Buildings](article_navaratnam_designing_2022)
 * [COVID-19 and Green Housing: A Review of
 Relevant Literature](article_kaklauskas_covid-19_2021)
+* [The effect of human mobility and control measures on the
+COVID-19 epidemic in China](article_kraemer_effect_2020)
 * [Coronavirus questions that will not go away: interrogating
 urban and socio-spatial implications of COVID-19
 measures](article_salama_coronavirus_2020)
@@ -78,6 +87,7 @@ measures](article_salama_coronavirus_2020)
 design strategies in post-pandemic architecture](article_megahed_indoor_2021)
 
 ### Cited by 
+
 
 * [Prophylactic Architecture: Formulating the Concept
 of Pandemic-Resilient Homes](article_elrayies_prophylactic_2022)

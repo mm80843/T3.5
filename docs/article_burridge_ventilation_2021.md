@@ -48,5 +48,6 @@ Ionization to Prevent Tuberculosis Transmission](article_escombe_upper-room_2009
 
 ### Cited by 
 
+
 * [Scalable IoT Architecture for Monitoring IEQ
 Conditions in Public and Private Buildings](article_calvo_scalable_2022)

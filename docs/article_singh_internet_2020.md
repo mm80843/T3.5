@@ -21,6 +21,7 @@ Testing](article_wang_response_2020)
 
 ### Cited by 
 
+
 * [COVID19-Routes: A Safe Pedestrian Navigation
 Service](article_cantarero_covid19-routes_2021)
 * [Digital Twin of COVID-19 Mass Vaccination

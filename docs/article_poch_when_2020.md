@@ -37,5 +37,6 @@ Disease 2019 (COVID-19) pandemic in China](article_wang_disinfection_2020)
 
 ### Cited by 
 
+
 * [Prophylactic Architecture: Formulating the Concept
 of Pandemic-Resilient Homes](article_elrayies_prophylactic_2022)

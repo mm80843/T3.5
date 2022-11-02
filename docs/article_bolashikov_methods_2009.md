@@ -49,6 +49,7 @@ systematic review](article_li_role_2007)
 
 ### Cited by 
 
+
 * [A Review on Building Design as a Biomedical
 System for Preventing COVID-19 Pandemic](article_amran_review_2022)
 * [The ventilation of buildings and other mitigating measures

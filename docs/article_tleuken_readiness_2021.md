@@ -87,6 +87,7 @@ in Italy](article_la_rosa_first_2020)
 
 ### Cited by 
 
+
 * [Prophylactic Architecture: Formulating the Concept
 of Pandemic-Resilient Homes](article_elrayies_prophylactic_2022)
 * [COVID-19 and Green Housing: A Review of

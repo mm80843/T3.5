@@ -60,5 +60,6 @@ Mitigation Practices](article_bou_hatoum_analysis_2021)
 
 ### Cited by 
 
+
 * [Perception of COVID-19 impacts on the construction
 industry over time](article_rokooei_perception_2022)

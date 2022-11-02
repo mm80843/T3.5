@@ -35,6 +35,7 @@ environmental strategy of environment in global context](article_paital_nurture_
 
 ### Cited by 
 
+
 * [A Review on Building Design as a Biomedical
 System for Preventing COVID-19 Pandemic](article_amran_review_2022)
 * [Housing Experience in Gated Communities in the

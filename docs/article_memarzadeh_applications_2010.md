@@ -23,6 +23,7 @@ Ionization to Prevent Tuberculosis Transmission](article_escombe_upper-room_2009
 
 ### Cited by 
 
+
 * [A Review on Building Design as a Biomedical
 System for Preventing COVID-19 Pandemic](article_amran_review_2022)
 * [2019 Novel Coronavirus (COVID-19) Pandemic:

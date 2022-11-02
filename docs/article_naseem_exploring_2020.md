@@ -64,6 +64,7 @@ LMIC.
 
 ### Cited by 
 
+
 * [Contributions of Smart City Solutions and
 Technologies to Resilience against the COVID-19
 Pandemic: A Literature Review](article_sharifi_contributions_2021)

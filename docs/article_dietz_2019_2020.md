@@ -84,6 +84,7 @@ Indoor Bacterial Communities](article_kembel_architectural_2014)
 
 ### Cited by 
 
+
 * [Ten questions concerning occupant health in buildings
 during normal operations and extreme events including the
 COVID-19 pandemic](article_awada_ten_2021)

@@ -67,6 +67,7 @@ their inactivation with biocidal agents](article_kampf_persistence_2020)
 
 ### Cited by 
 
+
 * [A Review on Building Design as a Biomedical
 System for Preventing COVID-19 Pandemic](article_amran_review_2022)
 * [Prophylactic Architecture: Formulating the Concept

@@ -20,5 +20,6 @@ Compared with SARS-CoV-1](article_van_doremalen_aerosol_2020)
 
 ### Cited by 
 
+
 * [Blockchain technology and its applications to combat
 COVID-19 pandemic](article_sharma_blockchain_2022)

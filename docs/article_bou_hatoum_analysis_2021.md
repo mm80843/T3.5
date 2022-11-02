@@ -70,5 +70,6 @@ in the UK](article_shibani_effects_2020)
 
 ### Cited by 
 
+
 * [Influence between COVID-19 Impacts and Project
 Stakeholders in Chilean Construction Projects](article_araya_influence_2021)

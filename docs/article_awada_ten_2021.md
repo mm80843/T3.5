@@ -25,6 +25,7 @@ Transmission](article_dietz_2019_2020)
 
 ### Cited by 
 
+
 * [A Review on Building Design as a Biomedical
 System for Preventing COVID-19 Pandemic](article_amran_review_2022)
 * [Occupant health in buildings: Impact of the COVID-19

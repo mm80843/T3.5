@@ -33,5 +33,6 @@ outbreak in a Chinese hospital](article_wang_sars-cov-2_2020)
 
 ### Cited by 
 
+
 * [Prophylactic Architecture: Formulating the Concept
 of Pandemic-Resilient Homes](article_elrayies_prophylactic_2022)

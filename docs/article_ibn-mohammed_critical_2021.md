@@ -22,6 +22,7 @@ Environment](article_pinheiro_covid-19_2020)
 
 ### Cited by 
 
+
 * [Addressing the impact of COVID-19 lockdown on energy use
 in municipal buildings: A case study in Florianópolis,
 Brazil](article_geraldi_addressing_2021)

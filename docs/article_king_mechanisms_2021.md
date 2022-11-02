@@ -44,6 +44,7 @@ Construction Industry: A Case of COVID-19](article_gamil_impact_2020)
 
 ### Cited by 
 
+
 * [Influence between COVID-19 Impacts and Project
 Stakeholders in Chilean Construction Projects](article_araya_influence_2021)
 * [Analysis of COVID-19 Concerns Raised by the

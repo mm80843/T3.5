@@ -1,12 +1,12 @@
 # Article: __Future (post-COVID) digital, smart and sustainable cities in the wake of 6G: Digital twins, immersive realities and new urban economies__ (allam_future_2021)
 
 * [10.1016/j.landusepol.2020.105201](https://doi.org/10.1016/j.landusepol.2020.105201)
-* Cluster: [blockchain-technology](cluster_13)
+* Cluster: [smart-iot](cluster_6)
 
 
 ## Keywords
 
-[technology](keyword_technology), [city](keyword_city), [network](keyword_network), [infrastructure](keyword_infrastructure), [pandemic](keyword_pandemic), [china](keyword_china)
+[technology](keyword_technology), [city](keyword_city), [pandemic](keyword_pandemic), [network](keyword_network), [infrastructure](keyword_infrastructure)
 
 ## Abstract
 
@@ -40,11 +40,15 @@ pertain to Future, Smart, Digital and Sustainable Cities.
 
 ### References 
 
+* [Pandemic stricken cities on lockdown. Where are our
+planning and design professionals [now, then and into the
+future]?](article_allam_pandemic_2020)
 * [A Comprehensive Review of the COVID-19 Pandemic
 and the Role of IoT, Drones, AI, Blockchain, and
 5G in Managing its Impact](article_chamola_comprehensive_2020)
 
 ### Cited by 
+
 
 * [Contributions of Smart City Solutions and
 Technologies to Resilience against the COVID-19

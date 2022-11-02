@@ -48,6 +48,7 @@ Covid-19 pandemic](article_megahed_antivirus-built_2020)
 
 ### Cited by 
 
+
 * [Readiness Assessment of Green Building
 Certification Systems for Residential Buildings
 during Pandemics](article_tleuken_readiness_2021)

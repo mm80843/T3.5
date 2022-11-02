@@ -66,6 +66,7 @@ Compared with SARS-CoV-1](article_van_doremalen_aerosol_2020)
 
 ### Cited by 
 
+
 * [A Review on Building Design as a Biomedical
 System for Preventing COVID-19 Pandemic](article_amran_review_2022)
 * [Towards Resilient Residential Buildings and

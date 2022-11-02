@@ -22,6 +22,7 @@ Acute Respiratory Syndrome Coronavirus 2
 
 ### Cited by 
 
+
 * [Environmental factors involved in SARS-CoV-2
 transmission: effect and role of indoor environmental
 quality in the strategy for COVID-19 infection control](article_azuma_environmental_2020)

@@ -62,5 +62,6 @@ Directions](article_assaad_guidelines_2021)
 
 ### Cited by 
 
+
 * [Management of the COVID-19 pandemic: challenges,
 practices, and organizational support](article_hossny_management_2022)
