@@ -1,8 +1,7 @@
 # Keyword: __population__
 ## Clusters
 
-* Cluster 0: [health-city](cluster_0)
-* Cluster 12: [wastewater-sars](cluster_12)
+* Cluster 3: [health-city](cluster_3)
 
 ## Concepts
 
@@ -22,18 +21,15 @@ university building ([mokhtari_effect_2021](article_mokhtari_effect_2021))
 * Treating two pandemics for the price of one: Chronic and
 infectious disease impacts of the built and natural
 environment ([frank_treating_2021](article_frank_treating_2021))
+* Association of built environment attributes with the
+spread of COVID-19 at its initial stage in China ([li_association_2021](article_li_association_2021))
+* Wastewater surveillance for population-wide Covid-19:
+The present and future ([daughton_wastewater_2020](article_daughton_wastewater_2020))
 * The Effects of Pandemic on Construction Industry
 in the UK ([shibani_effects_2020](article_shibani_effects_2020))
+* COVID-ABS: An agent-based model of COVID-19
+epidemic to simulate health and economic effects of social
+distancing interventions ([silva_covid-abs_2020](article_silva_covid-abs_2020))
 * Mental health economics: A prospective study on
 psychological flourishing and associations with healthcare
 costs and sickness benefit transfers in Denmark ([santini_mental_2021](article_santini_mental_2021))
-* A Global Survey of Infection Control and
-Mitigation Measures for Combating the Transmission
-of COVID-19 Pandemic in Buildings Under
-Facilities Management Services ([sarvari_global_2022](article_sarvari_global_2022))
-* A Global Survey of Infection Control and
-Mitigation Measures for Combating the Transmission
-of COVID-19 Pandemic in Buildings Under
-Facilities Management Services ([sarvari_global_2022](article_sarvari_global_2022))
-* Learning from pandemics: Applying resilience thinking to
-identify priorities for planning urban settlements ([syal_learning_2021](article_syal_learning_2021))

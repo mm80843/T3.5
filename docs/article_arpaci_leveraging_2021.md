@@ -1,7 +1,7 @@
 # Article: __Leveraging Digital Transformation Technologies to Tackle COVID-19: Proposing a Privacy-First Holistic Framework__ (arpaci_leveraging_2021)
 
 * [10.1007/978-3-030-67716-9_10](https://doi.org/10.1007/978-3-030-67716-9_10)
-* Cluster: [blockchain-technology](cluster_13)
+* Cluster: [datum-health](cluster_1)
 
 
 ## Keywords

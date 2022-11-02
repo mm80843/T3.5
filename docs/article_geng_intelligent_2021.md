@@ -1,12 +1,12 @@
 # Article: __An Intelligent IEQ Monitoring and Feedback System: Development and Applications__ (geng_intelligent_2021)
 
 * [10.1016/j.eng.2021.09.017](https://doi.org/10.1016/j.eng.2021.09.017)
-* Cluster: [building-space](cluster_7)
+* Cluster: [ieq-sensor](cluster_5)
 
 
 ## Keywords
 
-[ieq](keyword_ieq), [engineering](keyword_engineering), [china](keyword_china), [build](keyword_build), [building](keyword_building)
+[ieq](keyword_ieq), [sensor](keyword_sensor), [engineering](keyword_engineering), [build](keyword_build), [building](keyword_building), [measurement](keyword_measurement)
 
 
 ## Concepts

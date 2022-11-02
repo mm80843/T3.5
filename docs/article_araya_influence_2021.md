@@ -1,7 +1,7 @@
 # Article: __Influence between COVID-19 Impacts and Project Stakeholders in Chilean Construction Projects__ (araya_influence_2021)
 
 * [10.3390/su131810082](https://doi.org/10.3390/su131810082)
-* Cluster: [construction-project](cluster_3)
+* Cluster: [construction-project](cluster_9)
 
 
 ## Keywords

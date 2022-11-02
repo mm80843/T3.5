@@ -1,12 +1,12 @@
 # Article: __Ventilation use in nonmedical settings during COVID-19: Cleaning protocol, maintenance, and recommendations__ (nembhard_ventilation_2020)
 
 * [10.1177/0748233720967528](https://doi.org/10.1177/0748233720967528)
-* Cluster: [air-ventilation](cluster_8)
+* Cluster: [air-sars](cluster_2)
 
 
 ## Keywords
 
-[ventilation](keyword_ventilation), [filter](keyword_filter), [transmission](keyword_transmission)
+[ventilation](keyword_ventilation), [filter](keyword_filter), [transmission](keyword_transmission), [aerosol](keyword_aerosol)
 
 ## Abstract
 
@@ -44,7 +44,7 @@ systems for businesses, schools, and homes.
 ### References 
 
 * [How can airborne transmission of COVID-19 indoors be
-minimised?](article_morawska_how_2020-1)
+minimised?](article_morawska_how_2020)
 
 ### Cited by 
 

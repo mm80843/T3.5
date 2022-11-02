@@ -1,7 +1,7 @@
-# Cluster: __blockchain-technology__ (cluster13)
+# Cluster: __resilience-sme__ (cluster13)
 ## Keywords
 
-* [blockchain](keyword_blockchain), [technology](keyword_technology), [iot](keyword_iot), [pandemic](keyword_pandemic), [datum](keyword_datum), [patient](keyword_patient), [medical](keyword_medical), [application](keyword_application), [network](keyword_network), [health](keyword_health), [smart](keyword_smart), [healthcare](keyword_healthcare), [device](keyword_device), [base](keyword_base), [remote](keyword_remote), [virtual](keyword_virtual), [digital](keyword_digital), [system](keyword_system), [vr](keyword_vr), [contact](keyword_contact)
+* [resilience](keyword_resilience), [sme](keyword_sme), [business](keyword_business), [surveying](keyword_surveying), [crisis](keyword_crisis), [bank](keyword_bank), [infrastructure](keyword_infrastructure), [oecd](keyword_oecd), [startup](keyword_startup), [shock](keyword_shock), [system](keyword_system), [policy](keyword_policy), [health](keyword_health), [entrepreneurial](keyword_entrepreneurial), [entrepreneur](keyword_entrepreneur), [mapping](keyword_mapping), [debt](keyword_debt), [risk](keyword_risk), [country](keyword_country), [drone](keyword_drone)
 
 ## Concepts
 
@@ -9,45 +9,24 @@
 
 
 ## Articles
-* Blockchain technology and its applications to combat
-COVID-19 pandemic ([sharma_blockchain_2022](article_sharma_blockchain_2022))
-* Significant applications of virtual reality for COVID-19
-pandemic ([singh_significant_2020](article_singh_significant_2020))
-* Contributions of Smart City Solutions and
-Technologies to Resilience against the COVID-19
-Pandemic: A Literature Review ([sharifi_contributions_2021](article_sharifi_contributions_2021))
-* Mobile Technology Solution for COVID-19:
-Surveillance and Prevention ([raza_mobile_2021](article_raza_mobile_2021))
-* Emerging Technologies to Combat the COVID-19
-Pandemic ([vaishya_emerging_2020](article_vaishya_emerging_2020))
-* Internet of things (IoT) applications to fight against
-COVID-19 pandemic ([singh_internet_2020](article_singh_internet_2020))
-* A Comprehensive Review of the COVID-19 Pandemic
-and the Role of IoT, Drones, AI, Blockchain, and
-5G in Managing its Impact ([chamola_comprehensive_2020](article_chamola_comprehensive_2020))
-* Leveraging Digital Transformation Technologies to
-Tackle COVID-19: Proposing a Privacy-First
-Holistic Framework ([arpaci_leveraging_2021](article_arpaci_leveraging_2021))
-* Design COVID-19 Ontology: A Healthcare and
-Safety Perspective ([aloulou_design_2022](article_aloulou_design_2022))
-* Digital Twin of COVID-19 Mass Vaccination
-Centers ([pilati_digital_2021](article_pilati_digital_2021))
-* Health Information Exchange with Blockchain amid
-Covid-19-like Pandemics ([christodoulou_health_2020](article_christodoulou_health_2020))
-* Future (post-COVID) digital, smart and sustainable
-cities in the wake of 6G: Digital twins, immersive
-realities and new urban economies ([allam_future_2021](article_allam_future_2021))
-* How the 5G Enabled the COVID-19 Pandemic
-Prevention and Control: Materiality, Affordance,
-and (De-)Spatialization ([li_how_2022](article_li_how_2022))
-* The role of 5G for digital healthcare against COVID-19
-pandemic: Opportunities and challenges ([siriwardhana_role_2021](article_siriwardhana_role_2021))
-* Digital technology and COVID-19 ([ting_digital_2020](article_ting_digital_2020))
-* Impact of COVID-19 on IoT Adoption in Healthcare,
-Smart Homes, Smart Buildings, Smart Cities,
-Transportation and Industrial IoT ([umair_impact_2021](article_umair_impact_2021))
-* council_of_europe_2020_2020 ([council_of_europe_2020_2020](article_council_of_europe_2020_2020))
-* Using Technology to Maintain the Education of
-Residents During the COVID-19 Pandemic ([chick_using_2020](article_chick_using_2020))
-* How Can Blockchain Help People in the Event of
-Pandemics Such as the COVID-19? ([chang_how_2020](article_chang_how_2020))
+
+* Global value chains: Efficiency and risks in the context
+of COVID-19 ([oecd_global_2021](article_oecd_global_2021))
+* world_bank_world_2022 ([world_bank_world_2022](article_world_bank_world_2022))
+* Startups in times of crisis – A rapid response to the
+COVID-19 pandemic ([kuckertz_startups_2020](article_kuckertz_startups_2020))
+* oecd_covid-19_2021 ([oecd_covid-19_2021](article_oecd_covid-19_2021))
+* oecd_guidelines_2014 ([oecd_guidelines_2014](article_oecd_guidelines_2014))
+* COVID19: Small and medium enterprises challenges and
+responses with creativity, innovation, and
+entrepreneurship ([thukral_covid19_2021](article_thukral_covid19_2021))
+* south_china_morning_post_china_2020 ([south_china_morning_post_china_2020](article_south_china_morning_post_china_2020))
+* liu_china_2020 ([liu_china_2020](article_liu_china_2020))
+* mott_macdonald_dfma_2020 ([mott_macdonald_dfma_2020](article_mott_macdonald_dfma_2020))
+* carvalhaes_covid-19_2020 ([carvalhaes_covid-19_2020](article_carvalhaes_covid-19_2020))
+* who_strengthening_2017 ([who_strengthening_2017](article_who_strengthening_2017))
+* unesco_case_2021 ([unesco_case_2021](article_unesco_case_2021))
+* COVID-19 and regional solutions for mitigating the risk
+of SME finance in selected ASEAN member states ([taghizadeh-hesary_covid-19_2022](article_taghizadeh-hesary_covid-19_2022))
+* A review of definitions and measures of system
+resilience ([hosseini_review_2016](article_hosseini_review_2016))

@@ -1,12 +1,12 @@
 # Article: __The changes in the effects of social media use of Cypriots due to COVID-19 pandemic__ (kaya_changes_2020)
 
 * [10.1016/j.techsoc.2020.101380](https://doi.org/10.1016/j.techsoc.2020.101380)
-* Cluster: [fake-medium](cluster_10)
+* Cluster: [health-city](cluster_3)
 
 
 ## Keywords
 
-[pandemic](keyword_pandemic), [anxiety](keyword_anxiety), [user](keyword_user), [behaviour](keyword_behaviour), [news](keyword_news), [facebook](keyword_facebook)
+[pandemic](keyword_pandemic), [news](keyword_news), [coronavirus](keyword_coronavirus)
 
 
 ## Concepts

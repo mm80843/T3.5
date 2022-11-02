@@ -1,7 +1,7 @@
 # Keyword: __resilience__
 ## Clusters
 
-* Cluster 9: [resilience-infrastructure](cluster_9)
+* Cluster 13: [resilience-sme](cluster_13)
 
 ## Concepts
 
@@ -9,6 +9,8 @@
 
 
 ## Articles
+* A review of definitions and measures of system
+resilience ([hosseini_review_2016](article_hosseini_review_2016))
 * who_strengthening_2017 ([who_strengthening_2017](article_who_strengthening_2017))
 * oecd_guidelines_2014 ([oecd_guidelines_2014](article_oecd_guidelines_2014))
 * Contributions of Smart City Solutions and
@@ -22,6 +24,4 @@ Scenario of Podgorica, Montenegro ([bojovic_towards_2022](article_bojovic_toward
 * carvalhaes_covid-19_2020 ([carvalhaes_covid-19_2020](article_carvalhaes_covid-19_2020))
 * Learning from pandemics: Applying resilience thinking to
 identify priorities for planning urban settlements ([syal_learning_2021](article_syal_learning_2021))
-* A review of definitions and measures of system
-resilience ([hosseini_review_2016](article_hosseini_review_2016))
 * afrin_covid-19_2021 ([afrin_covid-19_2021](article_afrin_covid-19_2021))

@@ -1,12 +1,12 @@
 # Article: __Methods for air cleaning and protection of building occupants from airborne pathogens__ (bolashikov_methods_2009)
 
 * [10.1016/j.buildenv.2008.09.001](https://doi.org/10.1016/j.buildenv.2008.09.001)
-* Cluster: [air-ventilation](cluster_8)
+* Cluster: [air-sars](cluster_2)
 
 
 ## Keywords
 
-[ventilation](keyword_ventilation), [virus](keyword_virus), [infection](keyword_infection), [droplet](keyword_droplet), [transmission](keyword_transmission)
+[ventilation](keyword_ventilation), [virus](keyword_virus), [disinfection](keyword_disinfection), [infection](keyword_infection), [droplet](keyword_droplet), [transmission](keyword_transmission), [temperature](keyword_temperature), [uvgi](keyword_uvgi), [environment](keyword_environment)
 
 ## Abstract
 
@@ -41,3 +41,16 @@ discussed.
 
  ![](imgs/article_bolashikov_methods_2009.jpg)
 
+### References 
+
+* [Role of ventilation in airborne transmission of infectious
+agents in the built environment ? a multidisciplinary
+systematic review](article_li_role_2007)
+
+### Cited by 
+
+* [A Review on Building Design as a Biomedical
+System for Preventing COVID-19 Pandemic](article_amran_review_2022)* [The ventilation of buildings and other mitigating measures
+for COVID-19: a focus on wintertime](article_burridge_ventilation_2021)* [Prophylactic Architecture: Formulating the Concept
+of Pandemic-Resilient Homes](article_elrayies_prophylactic_2022)* [Indoor Air Quality: Rethinking rules of building
+design strategies in post-pandemic architecture](article_megahed_indoor_2021)

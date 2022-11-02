@@ -1,12 +1,12 @@
 # Article: __Assessing the health and hygiene performance of apartment buildings__ (ho_assessing_2004)
 
 * [10.1108/02632770410527789](https://doi.org/10.1108/02632770410527789)
-* Cluster: [health-city](cluster_0)
+* Cluster: [health-city](cluster_3)
 
 
 ## Keywords
 
-[permission](keyword_permission), [reproduction](keyword_reproduction)
+[download](keyword_download)
 
 ## Abstract
 

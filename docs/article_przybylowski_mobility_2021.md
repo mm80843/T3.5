@@ -1,7 +1,7 @@
 # Article: __Mobility Behaviour in View of the Impact of the COVID-19 Pandemic—Public Transport Users in Gdansk Case Study__ (przybylowski_mobility_2021)
 
 * [10.3390/su13010364](https://doi.org/10.3390/su13010364)
-* Cluster: [health-city](cluster_0)
+* Cluster: [health-city](cluster_3)
 
 
 ## Keywords
@@ -52,3 +52,14 @@ future.
 
  ![](imgs/article_przybylowski_mobility_2021.jpg)
 
+### References 
+
+* [The effect of human mobility and control measures on the
+COVID-19 epidemic in China](article_kraemer_effect_2020)
+* [Responsible Transport: A post-COVID agenda for
+transport policy and practice](article_budd_responsible_2020)
+
+### Cited by 
+
+* [A Review on Building Design as a Biomedical
+System for Preventing COVID-19 Pandemic](article_amran_review_2022)

@@ -1,7 +1,7 @@
 # Article: __Overcoming the Impact of COVID-19 Using Integrated Project Delivery Model__ (g_overcoming_2020)
 
 * [10.21203/rs.3.rs-66806/v1](https://doi.org/10.21203/rs.3.rs-66806/v1)
-* Cluster: [construction-project](cluster_3)
+* Cluster: [construction-project](cluster_9)
 
 
 ## Keywords

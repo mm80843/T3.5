@@ -1,12 +1,12 @@
 # Article: __Construction of a Linked Data Set of COVID-19 Knowledge Graphs: Development and Applications__ (wang_construction_2022)
 
 * [10.2196/37215](https://doi.org/10.2196/37215)
-* Cluster: [health-city](cluster_0)
+* Cluster: [health-city](cluster_3)
 
 
 ## Keywords
 
-[kg](keyword_kg), [virus](keyword_virus)
+[virus](keyword_virus)
 
 ## Abstract
 

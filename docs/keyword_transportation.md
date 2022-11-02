@@ -1,7 +1,7 @@
 # Keyword: __transportation__
 ## Clusters
 
-* Cluster 3: [construction-project](cluster_3)
+* Cluster 9: [construction-project](cluster_9)
 
 ## Concepts
 
@@ -9,20 +9,25 @@
 
 
 ## Articles
+* Impact of COVID-19 on IoT Adoption in Healthcare,
+Smart Homes, Smart Buildings, Smart Cities,
+Transportation and Industrial IoT ([umair_impact_2021](article_umair_impact_2021))
 * Impacts of COVID-19 on Health and Safety of
 Workforce in Construction Industry ([pamidimukkala_impacts_2021](article_pamidimukkala_impacts_2021))
-* realdania_refleksioner_2022_EN-1750 ([realdania_refleksioner_2022_EN-1750](article_realdania_refleksioner_2022_EN-1750))
-* afrin_covid-19_2021 ([afrin_covid-19_2021](article_afrin_covid-19_2021))
 * The COVID-19 pandemic: Impacts on cities and major
 lessons for urban planning, design, and management ([sharifi_covid-19_2020](article_sharifi_covid-19_2020))
-* The COVID-19 pandemic: Impacts on cities and major
-lessons for urban planning, design, and management ([sharifi_covid-19_2020](article_sharifi_covid-19_2020))
+* Strategies to Mitigate COVID-19 Pandemic Impacts
+on Health and Safety of Workers in Construction
+Projects ([kaushal_strategies_2021](article_kaushal_strategies_2021))
 * Mapping research in logistics and supply chain management
 during COVID-19 pandemic ([montoya-torres_mapping_2021](article_montoya-torres_mapping_2021))
-* Perception of COVID-19 impacts on the construction
-industry over time ([rokooei_perception_2022](article_rokooei_perception_2022))
-* oecd_covid-19_2021-250 ([oecd_covid-19_2021-250](article_oecd_covid-19_2021-250))
-* Revisiting the built environment: 10 potential development
-changes and paradigm shifts due to COVID-19 ([cheshmehzangi_revisiting_2021](article_cheshmehzangi_revisiting_2021))
-* The Impact of Pandemic Crisis on the Survival of
-Construction Industry: A Case of COVID-19 ([gamil_impact_2020](article_gamil_impact_2020))
+* A critical analysis of the impacts of COVID-19 on the
+global economy and ecosystems and opportunities for
+circular economy strategies ([ibn-mohammed_critical_2021](article_ibn-mohammed_critical_2021))
+* Guidelines for Responding to COVID-19 Pandemic:
+Best Practices, Impacts, and Future Research
+Directions ([assaad_guidelines_2021](article_assaad_guidelines_2021))
+* Attitudes towards outdoor and neighbour noise during the
+COVID-19 lockdown: A case study in London ([lee_attitudes_2021](article_lee_attitudes_2021))
+* realdania_refleksioner_2022_EN ([realdania_refleksioner_2022_EN](article_realdania_refleksioner_2022_EN))
+* afrin_covid-19_2021 ([afrin_covid-19_2021](article_afrin_covid-19_2021))

@@ -1,7 +1,7 @@
 # Keyword: __sample__
 ## Clusters
 
-* Cluster 12: [wastewater-sars](cluster_12)
+* Cluster 4: [wastewater-sars](cluster_4)
 
 ## Concepts
 
@@ -23,13 +23,14 @@ Facilities Management Services ([sarvari_global_2022](article_sarvari_global_202
 than Expected from Clinically Confirmed Cases ([wu_sars-cov-2_2020](article_wu_sars-cov-2_2020))
 * Continuous IEQ monitoring system: Context and
 development ([parkinson_continuous_2019](article_parkinson_continuous_2019))
-* The Effects of Pandemic on Construction Industry
-in the UK ([shibani_effects_2020](article_shibani_effects_2020))
-* The Impact of Pandemic Crisis on the Survival of
-Construction Industry: A Case of COVID-19 ([gamil_impact_2020](article_gamil_impact_2020))
+* Effect of Ultraviolet Germicidal Irradiation on
+Viral Aerosols ([walker_effect_2007](article_walker_effect_2007))
+* Scalable IoT Architecture for Monitoring IEQ
+Conditions in Public and Private Buildings ([calvo_scalable_2022](article_calvo_scalable_2022))
+* Detection of SARS-CoV-2 in raw and treated wastewater
+in Germany – Suitability for COVID-19 surveillance
+and potential transmission risks ([westhaus_detection_2021](article_westhaus_detection_2021))
 * Effects to Construction Project Management
 Impacted Circular Economic of Covid-19 Pandemic ([paikan_effects_2021](article_paikan_effects_2021))
-* The Effect of Opening Windows on Air Change
-Rates in Two Homes ([howard-reed_effect_2002](article_howard-reed_effect_2002))
-* Influence between COVID-19 Impacts and Project
-Stakeholders in Chilean Construction Projects ([araya_influence_2021](article_araya_influence_2021))
+* The Effects of Pandemic on Construction Industry
+in the UK ([shibani_effects_2020](article_shibani_effects_2020))

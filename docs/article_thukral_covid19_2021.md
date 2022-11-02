@@ -2,12 +2,12 @@
             ‐19: Small and medium enterprises challenges and responses with creativity, innovation, and entrepreneurship__ (thukral_covid19_2021)
 
 * [10.1002/jsc.2399](https://doi.org/10.1002/jsc.2399)
-* Cluster: [resilience-infrastructure](cluster_9)
+* Cluster: [resilience-sme](cluster_13)
 
 
 ## Keywords
 
-[business](keyword_business), [pandemic](keyword_pandemic), [resilience](keyword_resilience), [crisis](keyword_crisis), [research](keyword_research), [policy](keyword_policy)
+[business](keyword_business), [entrepreneur](keyword_entrepreneur), [sme](keyword_sme), [pandemic](keyword_pandemic), [resilience](keyword_resilience), [crisis](keyword_crisis), [research](keyword_research), [policy](keyword_policy)
 
 
 ## Concepts

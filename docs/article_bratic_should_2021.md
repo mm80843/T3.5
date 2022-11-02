@@ -1,12 +1,12 @@
 # Article: __Should I Stay or Should I Go? Tourists’ COVID-19 Risk Perception and Vacation Behavior Shift__ (bratic_should_2021)
 
 * [10.3390/su13063573](https://doi.org/10.3390/su13063573)
-* Cluster: [health-city](cluster_0)
+* Cluster: [health-city](cluster_3)
 
 
 ## Keywords
 
-[anxiety](keyword_anxiety), [pandemic](keyword_pandemic)
+
 
 ## Abstract
 
@@ -37,4 +37,12 @@ international leisure travel.
 ## Concepts
 
  ![](imgs/article_bratic_should_2021.jpg)
+
+### References 
+
+* [The socio-economic implications of the coronavirus
+pandemic (COVID-19): A review](article_nicola_socio-economic_2020)
+
+### Cited by 
+
 

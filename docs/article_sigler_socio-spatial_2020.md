@@ -1,12 +1,12 @@
 # Article: __The Socio-Spatial Determinants of COVID-19 Diffusion: The Impact of Globalisation, Settlement Characteristics and Population__ (sigler_socio-spatial_2020)
 
 * [10.21203/rs.3.rs-33615/v1](https://doi.org/10.21203/rs.3.rs-33615/v1)
-* Cluster: [health-city](cluster_0)
+* Cluster: [health-city](cluster_3)
 
 
 ## Keywords
 
-[population](keyword_population), [china](keyword_china)
+[population](keyword_population)
 
 ## Abstract
 

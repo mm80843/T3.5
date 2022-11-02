@@ -1,12 +1,12 @@
 # Article: __Respiratory pandemics, urban planning and design: A multidisciplinary rapid review of the literature__ (harris_respiratory_2022)
 
 * [10.1016/j.cities.2022.103767](https://doi.org/10.1016/j.cities.2022.103767)
-* Cluster: [health-city](cluster_0)
+* Cluster: [health-city](cluster_3)
 
 
 ## Keywords
 
-[pandemic](keyword_pandemic), [city](keyword_city), [design](keyword_design), [china](keyword_china)
+[pandemic](keyword_pandemic), [city](keyword_city), [design](keyword_design)
 
 ## Abstract
 
@@ -44,6 +44,9 @@ cities and respiratory pandemics.
 
 ### References 
 
+* [Pandemic stricken cities on lockdown. Where are our
+planning and design professionals [now, then and into the
+future]?](article_allam_pandemic_2020)
 * [Physical interventions to interrupt or reduce the spread
 of respiratory viruses: systematic review](article_jefferson_physical_2008)
 * [The COVID-19 pandemic: Impacts on cities and major

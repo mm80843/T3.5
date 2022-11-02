@@ -1,7 +1,7 @@
 # Article: __RESIDENTIAL ARCHITECTURE IN A POST-PANDEMIC WORLD: IMPLICATIONS OF COVID-19 FOR NEW CONSTRUCTION AND FOR ADAPTING HERITAGE BUILDINGS__ (spennemann_residential_2021)
 
 * [10.3992/jgb.16.1.199](https://doi.org/10.3992/jgb.16.1.199)
-* Cluster: [building-space](cluster_7)
+* Cluster: [building-space](cluster_8)
 
 
 ## Keywords
@@ -37,13 +37,17 @@ developments.
 
 ### References 
 
+* [Far-UVC light (222 nm) efficiently and safely
+inactivates airborne human coronaviruses](article_buonanno_far-uvc_2020)
 * [2019 Novel Coronavirus (COVID-19) Pandemic:
 Built Environment Considerations To Reduce
 Transmission](article_dietz_2019_2020)
 * [Antivirus-built environment: Lessons learned from
 Covid-19 pandemic](article_megahed_antivirus-built_2020)
 * [How can airborne transmission of COVID-19 indoors be
-minimised?](article_morawska_how_2020-1)
+minimised?](article_morawska_how_2020)
+* [Aerosol and Surface Stability of SARS-CoV-2 as
+Compared with SARS-CoV-1](article_van_doremalen_aerosol_2020)
 
 ### Cited by 
 

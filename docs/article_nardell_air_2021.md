@@ -2,12 +2,12 @@
             <sup>†</sup>__ (nardell_air_2021)
 
 * [10.1111/php.13421](https://doi.org/10.1111/php.13421)
-* Cluster: [air-ventilation](cluster_8)
+* Cluster: [air-sars](cluster_2)
 
 
 ## Keywords
 
-[ventilation](keyword_ventilation), [uv](keyword_uv), [transmission](keyword_transmission), [infectious](keyword_infectious), [air](keyword_air)
+[ventilation](keyword_ventilation), [uv](keyword_uv), [disinfection](keyword_disinfection), [ultraviolet](keyword_ultraviolet), [transmission](keyword_transmission), [infectious](keyword_infectious), [germicidal](keyword_germicidal), [air](keyword_air)
 
 ## Abstract
 
@@ -40,4 +40,14 @@ COVID-19 spread.
 ## Concepts
 
  ![](imgs/article_nardell_air_2021.jpg)
+
+### References 
+
+* [Upper-Room Ultraviolet Light and Negative Air
+Ionization to Prevent Tuberculosis Transmission](article_escombe_upper-room_2009)
+* [Far-UVC light (222 nm) efficiently and safely
+inactivates airborne human coronaviruses](article_buonanno_far-uvc_2020)
+
+### Cited by 
+
 

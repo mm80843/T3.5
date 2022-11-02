@@ -1,7 +1,9 @@
 # Keyword: __model__
 ## Clusters
 
-* Cluster 15: [ontology-datum](cluster_15)
+* Cluster 3: [health-city](cluster_3)
+* Cluster 10: [scenario-agent](cluster_10)
+* Cluster 12: [ontology-datum](cluster_12)
 
 ## Concepts
 
@@ -9,6 +11,17 @@
 
 
 ## Articles
+* EXPOSED: An occupant exposure model for confined
+spaces to retrofit crowd models during a pandemic ([ronchi_exposed_2020](article_ronchi_exposed_2020))
+* A review of definitions and measures of system
+resilience ([hosseini_review_2016](article_hosseini_review_2016))
+* COVID-ABS: An agent-based model of COVID-19
+epidemic to simulate health and economic effects of social
+distancing interventions ([silva_covid-abs_2020](article_silva_covid-abs_2020))
+* COVID-19 and regional solutions for mitigating the risk
+of SME finance in selected ASEAN member states ([taghizadeh-hesary_covid-19_2022](article_taghizadeh-hesary_covid-19_2022))
+* DeepSOCIAL: Social Distancing Monitoring and
+Infection Risk Assessment in COVID-19 Pandemic ([rezaei_deepsocial_2020](article_rezaei_deepsocial_2020))
 * Digital Twin of COVID-19 Mass Vaccination
 Centers ([pilati_digital_2021](article_pilati_digital_2021))
 * Computational analysis of SARS-CoV-2/COVID-19
@@ -20,17 +33,5 @@ and the Role of IoT, Drones, AI, Blockchain, and
 5G in Managing its Impact ([chamola_comprehensive_2020](article_chamola_comprehensive_2020))
 * COVID19-Routes: A Safe Pedestrian Navigation
 Service ([cantarero_covid19-routes_2021](article_cantarero_covid19-routes_2021))
-* Treating two pandemics for the price of one: Chronic and
-infectious disease impacts of the built and natural
-environment ([frank_treating_2021](article_frank_treating_2021))
-* The Socio-Spatial Determinants of COVID-19
-Diffusion: The Impact of Globalisation,
-Settlement Characteristics and Population ([sigler_socio-spatial_2020](article_sigler_socio-spatial_2020))
-* p15-lee-vor ([p15-lee-vor](article_p15-lee-vor))
-* When the fourth water and digital revolution encountered
-COVID-19 ([poch_when_2020](article_poch_when_2020))
-* Revisiting the built environment: 10 potential development
-changes and paradigm shifts due to COVID-19 ([cheshmehzangi_revisiting_2021](article_cheshmehzangi_revisiting_2021))
-* Leveraging Digital Transformation Technologies to
-Tackle COVID-19: Proposing a Privacy-First
-Holistic Framework ([arpaci_leveraging_2021](article_arpaci_leveraging_2021))
+* Association of built environment attributes with the
+spread of COVID-19 at its initial stage in China ([li_association_2021](article_li_association_2021))

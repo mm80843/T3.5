@@ -1,7 +1,7 @@
 # Keyword: __application__
 ## Clusters
 
-* Cluster 13: [blockchain-technology](cluster_13)
+* Cluster 1: [datum-health](cluster_1)
 
 ## Concepts
 
@@ -14,20 +14,21 @@ Surveillance and Prevention ([raza_mobile_2021](article_raza_mobile_2021))
 * A Comprehensive Review of the COVID-19 Pandemic
 and the Role of IoT, Drones, AI, Blockchain, and
 5G in Managing its Impact ([chamola_comprehensive_2020](article_chamola_comprehensive_2020))
+* Scalable IoT Architecture for Monitoring IEQ
+Conditions in Public and Private Buildings ([calvo_scalable_2022](article_calvo_scalable_2022))
 * Digital Twin of COVID-19 Mass Vaccination
 Centers ([pilati_digital_2021](article_pilati_digital_2021))
+* Impact of COVID-19 on IoT Adoption in Healthcare,
+Smart Homes, Smart Buildings, Smart Cities,
+Transportation and Industrial IoT ([umair_impact_2021](article_umair_impact_2021))
+* The role of 5G for digital healthcare against COVID-19
+pandemic: Opportunities and challenges ([siriwardhana_role_2021](article_siriwardhana_role_2021))
 * Leveraging Digital Transformation Technologies to
 Tackle COVID-19: Proposing a Privacy-First
 Holistic Framework ([arpaci_leveraging_2021](article_arpaci_leveraging_2021))
-* The role of 5G for digital healthcare against COVID-19
-pandemic: Opportunities and challenges ([siriwardhana_role_2021](article_siriwardhana_role_2021))
 * An Intelligent IEQ Monitoring and Feedback
 System: Development and Applications ([geng_intelligent_2021](article_geng_intelligent_2021))
 * Learning from pandemics: Applying resilience thinking to
 identify priorities for planning urban settlements ([syal_learning_2021](article_syal_learning_2021))
 * COVID19-Routes: A Safe Pedestrian Navigation
 Service ([cantarero_covid19-routes_2021](article_cantarero_covid19-routes_2021))
-* Internet of things (IoT) applications to fight against
-COVID-19 pandemic ([singh_internet_2020](article_singh_internet_2020))
-* Scalable IoT Architecture for Monitoring IEQ
-Conditions in Public and Private Buildings ([calvo_scalable_2022](article_calvo_scalable_2022))

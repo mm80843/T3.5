@@ -1,12 +1,12 @@
 # Article: __Health, Economic and Social Development Challenges of the COVID-19 Pandemic: Strategies for Multiple and Interconnected Issues__ (panneer_health_2022)
 
 * [10.3390/healthcare10050770](https://doi.org/10.3390/healthcare10050770)
-* Cluster: [health-city](cluster_0)
+* Cluster: [health-city](cluster_3)
 
 
 ## Keywords
 
-[pandemic](keyword_pandemic), [health](keyword_health), [economic](keyword_economic)
+[pandemic](keyword_pandemic), [health](keyword_health)
 
 ## Abstract
 
@@ -54,6 +54,8 @@ control of COVID-19 or similar infections in future.
 
 ### References 
 
+* [The socio-economic implications of the coronavirus
+pandemic (COVID-19): A review](article_nicola_socio-economic_2020)
 * [Guidelines for Responding to COVID-19 Pandemic:
 Best Practices, Impacts, and Future Research
 Directions](article_assaad_guidelines_2021)

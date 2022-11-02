@@ -1,7 +1,7 @@
 # Keyword: __debt__
 ## Clusters
 
-* Cluster 9: [resilience-infrastructure](cluster_9)
+* Cluster 13: [resilience-sme](cluster_13)
 
 ## Concepts
 
@@ -9,15 +9,25 @@
 
 
 ## Articles
-* world_bank_world_2022-50 ([world_bank_world_2022-50](article_world_bank_world_2022-50))
-* rtpi_urban_2021-450 ([rtpi_urban_2021-450](article_rtpi_urban_2021-450))
-* world_bank_world_2022-200 ([world_bank_world_2022-200](article_world_bank_world_2022-200))
-* world_bank_world_2022-350 ([world_bank_world_2022-350](article_world_bank_world_2022-350))
-* world_bank_world_2022-150 ([world_bank_world_2022-150](article_world_bank_world_2022-150))
+* rtpi_urban_2021 ([rtpi_urban_2021](article_rtpi_urban_2021))
 * Mechanisms for addressing the impact of COVID-19 on
 infrastructure projects ([king_mechanisms_2021](article_king_mechanisms_2021))
-* world_bank_world_2022-300 ([world_bank_world_2022-300](article_world_bank_world_2022-300))
+* Guidelines for Responding to COVID-19 Pandemic:
+Best Practices, Impacts, and Future Research
+Directions ([assaad_guidelines_2021](article_assaad_guidelines_2021))
 * Borders and Catastrophe: lessons from COVID-19 for the
 European Green Deal ([klein_borders_2021](article_klein_borders_2021))
-* world_bank_world_2022-250 ([world_bank_world_2022-250](article_world_bank_world_2022-250))
-* realdania_refleksioner_2022_EN-1000 ([realdania_refleksioner_2022_EN-1000](article_realdania_refleksioner_2022_EN-1000))
+* EXPOSED: An occupant exposure model for confined
+spaces to retrofit crowd models during a pandemic ([ronchi_exposed_2020](article_ronchi_exposed_2020))
+* Mobility Behaviour in View of the Impact of the
+COVID-19 Pandemic—Public Transport Users in
+Gdansk Case Study ([przybylowski_mobility_2021](article_przybylowski_mobility_2021))
+* Effects to Construction Project Management
+Impacted Circular Economic of Covid-19 Pandemic ([paikan_effects_2021](article_paikan_effects_2021))
+* Impacts of COVID-19 on Health and Safety of
+Workforce in Construction Industry ([pamidimukkala_impacts_2021](article_pamidimukkala_impacts_2021))
+* Health, Economic and Social Development Challenges
+of the COVID-19 Pandemic: Strategies for Multiple
+and Interconnected Issues ([panneer_health_2022](article_panneer_health_2022))
+* COVID-19 Higher Mortality in Chinese Regions
+With Chronic Exposure to Lower Air Quality ([pansini_covid-19_2021](article_pansini_covid-19_2021))

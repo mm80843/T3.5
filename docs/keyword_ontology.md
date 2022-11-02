@@ -1,7 +1,7 @@
 # Keyword: __ontology__
 ## Clusters
 
-* Cluster 15: [ontology-datum](cluster_15)
+* Cluster 12: [ontology-datum](cluster_12)
 
 ## Concepts
 

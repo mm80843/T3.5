@@ -1,8 +1,7 @@
 # Keyword: __site__
 ## Clusters
 
-* Cluster 3: [construction-project](cluster_3)
-* Cluster 6: [building-guidance](cluster_6)
+* Cluster 9: [construction-project](cluster_9)
 
 ## Concepts
 
@@ -19,13 +18,14 @@ Organizations: Preliminary Findings ([raoufi_identifying_2021](article_raoufi_id
 * Biophilic design in architecture and its contributions to
 health, well-being, and sustainability: A critical
 review ([zhong_biophilic_2022](article_zhong_biophilic_2022))
-* nassereddine_propositions_2021 ([nassereddine_propositions_2021](article_nassereddine_propositions_2021))
 * The Effects of Pandemic on Construction Industry
 in the UK ([shibani_effects_2020](article_shibani_effects_2020))
+* nassereddine_propositions_2021 ([nassereddine_propositions_2021](article_nassereddine_propositions_2021))
 * Impacts of COVID-19 on Health and Safety of
 Workforce in Construction Industry ([pamidimukkala_impacts_2021](article_pamidimukkala_impacts_2021))
 * Guidelines for Responding to COVID-19 Pandemic:
 Best Practices, Impacts, and Future Research
 Directions ([assaad_guidelines_2021](article_assaad_guidelines_2021))
-* Mechanisms for addressing the impact of COVID-19 on
-infrastructure projects ([king_mechanisms_2021](article_king_mechanisms_2021))
+* Response to COVID-19 in Taiwan: Big Data
+Analytics, New Technology, and Proactive
+Testing ([wang_response_2020](article_wang_response_2020))

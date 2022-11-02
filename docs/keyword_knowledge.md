@@ -1,7 +1,7 @@
 # Keyword: __knowledge__
 ## Clusters
 
-* Cluster 15: [ontology-datum](cluster_15)
+* Cluster 12: [ontology-datum](cluster_12)
 
 ## Concepts
 
@@ -23,8 +23,8 @@ Buildings ([cole_navigating_2020](article_cole_navigating_2020))
 and Infectious Diseases Representation ([bayoudhi_overview_2021](article_bayoudhi_overview_2021))
 * Amplifying the role of knowledge translation platforms in
 the COVID-19 pandemic response ([el-jardali_amplifying_2020](article_el-jardali_amplifying_2020))
-* unesco_case_2021 ([unesco_case_2021](article_unesco_case_2021))
+* Wastewater surveillance for population-wide Covid-19:
+The present and future ([daughton_wastewater_2020](article_daughton_wastewater_2020))
 * CIDO, a community-based ontology for coronavirus disease
 knowledge and data integration, sharing, and analysis ([he_cido_2020](article_he_cido_2020))
-* What drives unverified information sharing and
-cyberchondria during the COVID-19 pandemic? ([laato_what_2020](article_laato_what_2020))
+* unesco_case_2021 ([unesco_case_2021](article_unesco_case_2021))

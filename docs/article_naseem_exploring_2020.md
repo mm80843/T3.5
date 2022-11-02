@@ -1,7 +1,7 @@
 # Article: __Exploring the Potential of Artificial Intelligence and Machine Learning to Combat COVID-19 and Existing Opportunities for LMIC: A Scoping Review__ (naseem_exploring_2020)
 
 * [10.1177/2150132720963634](https://doi.org/10.1177/2150132720963634)
-* Cluster: [om-ai](cluster_1)
+* Cluster: [datum-health](cluster_1)
 
 
 ## Keywords

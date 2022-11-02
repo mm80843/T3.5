@@ -1,12 +1,12 @@
 # Article: __Coronavirus questions that will not go away: interrogating urban and socio-spatial implications of COVID-19 measures__ (salama_coronavirus_2020)
 
 * [10.35241/emeraldopenres.13561.1](https://doi.org/10.35241/emeraldopenres.13561.1)
-* Cluster: [health-city](cluster_0)
+* Cluster: [health-city](cluster_3)
 
 
 ## Keywords
 
-[coronavirus](keyword_coronavirus), [city](keyword_city), [pandemic](keyword_pandemic), [disease](keyword_disease)
+[coronavirus](keyword_coronavirus), [architecture](keyword_architecture), [city](keyword_city), [pandemic](keyword_pandemic)
 
 ## Abstract
 

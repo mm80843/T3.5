@@ -1,12 +1,12 @@
 # Article: __Understanding the role of urban design in disease spreading__ (brizuela_understanding_2019)
 
 * [10.1101/766667](https://doi.org/10.1101/766667)
-* Cluster: [health-city](cluster_0)
+* Cluster: [health-city](cluster_3)
 
 
 ## Keywords
 
-[city](keyword_city), [population](keyword_population), [disease](keyword_disease)
+[city](keyword_city), [population](keyword_population), [disease](keyword_disease), [simulation](keyword_simulation)
 
 ## Abstract
 

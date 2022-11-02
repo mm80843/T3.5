@@ -14,10 +14,21 @@
 
 ### References 
 
+* [Review and comparison of HVAC operation guidelines in
+different countries during the COVID-19 pandemic](article_guo_review_2021)
+* [Role of ventilation in airborne transmission of infectious
+agents in the built environment ? a multidisciplinary
+systematic review](article_li_role_2007)
 * [Indoor Air Quality: Rethinking rules of building
 design strategies in post-pandemic architecture](article_megahed_indoor_2021)
 * [Ventilation use in nonmedical settings during COVID-19:
 Cleaning protocol, maintenance, and recommendations](article_nembhard_ventilation_2020)
+* [Air, Surface Environmental, and Personal
+Protective Equipment Contamination by Severe
+Acute Respiratory Syndrome Coronavirus 2
+(SARS-CoV-2) From a Symptomatic Patient](article_ong_air_2020)
+* [Effect of Ultraviolet Germicidal Irradiation on
+Viral Aerosols](article_walker_effect_2007)
 
 ### Cited by 
 

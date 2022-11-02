@@ -1,7 +1,7 @@
 # Article: __Preparing critical infrastructure for the future: Lessons learnt from the Covid-19 pandemic__ (tomalska_preparing_2022)
 
 * [10.35467/sdq/146603](https://doi.org/10.35467/sdq/146603)
-* Cluster: [health-city](cluster_0)
+* Cluster: [health-city](cluster_3)
 
 
 ## Keywords

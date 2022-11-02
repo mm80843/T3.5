@@ -1,12 +1,12 @@
 # Article: __Borders and Catastrophe: lessons from COVID-19 for the European Green Deal__ (klein_borders_2021)
 
 * [10.30722/anzjes.vol12.iss2.15071](https://doi.org/10.30722/anzjes.vol12.iss2.15071)
-* Cluster: [health-city](cluster_0)
+* Cluster: [health-city](cluster_3)
 
 
 ## Keywords
 
-[pandemic](keyword_pandemic)
+[pandemic](keyword_pandemic), [coronavirus](keyword_coronavirus)
 
 ## Abstract
 

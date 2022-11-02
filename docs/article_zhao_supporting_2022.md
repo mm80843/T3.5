@@ -1,12 +1,12 @@
 # Article: __Supporting Technologies for COVID-19 Prevention: Systemized Review__ (zhao_supporting_2022)
 
 * [10.2196/30344](https://doi.org/10.2196/30344)
-* Cluster: [health-city](cluster_0)
+* Cluster: [datum-health](cluster_1)
 
 
 ## Keywords
 
-[pandemic](keyword_pandemic), [coronavirus](keyword_coronavirus), [test](keyword_test), [safety](keyword_safety), [patient](keyword_patient)
+[pandemic](keyword_pandemic), [coronavirus](keyword_coronavirus), [patient](keyword_patient), [safety](keyword_safety)
 
 ## Abstract
 

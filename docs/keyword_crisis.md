@@ -1,7 +1,7 @@
 # Keyword: __crisis__
 ## Clusters
 
-* Cluster 0: [health-city](cluster_0)
+* Cluster 13: [resilience-sme](cluster_13)
 
 ## Concepts
 

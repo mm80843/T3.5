@@ -1,7 +1,7 @@
 # Article: __Amplifying the role of knowledge translation platforms in the COVID-19 pandemic response__ (el-jardali_amplifying_2020)
 
 * [10.1186/s12961-020-00576-y](https://doi.org/10.1186/s12961-020-00576-y)
-* Cluster: [health-city](cluster_0)
+* Cluster: [health-city](cluster_3)
 
 
 ## Keywords

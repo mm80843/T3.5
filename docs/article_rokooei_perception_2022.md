@@ -1,7 +1,7 @@
 # Article: __Perception of COVID-19 impacts on the construction industry over time__ (rokooei_perception_2022)
 
 * [10.1080/23311916.2022.2044575](https://doi.org/10.1080/23311916.2022.2044575)
-* Cluster: [construction-project](cluster_3)
+* Cluster: [construction-project](cluster_9)
 
 
 ## Keywords

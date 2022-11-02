@@ -1,12 +1,12 @@
 # Article: __A Continuously Active Antimicrobial Coating effective against Human Coronavirus 229E__ (ikner_continuously_2020)
 
 * [10.1101/2020.05.10.20097329](https://doi.org/10.1101/2020.05.10.20097329)
-* Cluster: [surface-coating](cluster_11)
+* Cluster: [air-sars](cluster_2)
 
 
 ## Keywords
 
-[virus](keyword_virus), [gerba](keyword_gerba), [infection](keyword_infection), [antimicrobial](keyword_antimicrobial), [titer](keyword_titer)
+[virus](keyword_virus), [infection](keyword_infection), [disinfection](keyword_disinfection)
 
 ## Abstract
 

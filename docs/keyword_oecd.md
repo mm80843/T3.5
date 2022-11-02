@@ -1,7 +1,7 @@
 # Keyword: __oecd__
 ## Clusters
 
-* Cluster 9: [resilience-infrastructure](cluster_9)
+* Cluster 13: [resilience-sme](cluster_13)
 
 ## Concepts
 
@@ -9,6 +9,7 @@
 
 
 ## Articles
+* rtpi_urban_2021 ([rtpi_urban_2021](article_rtpi_urban_2021))
 * What has been the impact of the COVID-19 pandemic on
 immigrants? An update on recent evidence ([oecd_what_2022](article_oecd_what_2022))
 * oecd_guidelines_2014 ([oecd_guidelines_2014](article_oecd_guidelines_2014))
@@ -16,11 +17,12 @@ immigrants? An update on recent evidence ([oecd_what_2022](article_oecd_what_202
 of COVID-19 ([oecd_global_2021](article_oecd_global_2021))
 * oecd_covid-19_2021 ([oecd_covid-19_2021](article_oecd_covid-19_2021))
 * eurofund_sustainable_2016 ([eurofund_sustainable_2016](article_eurofund_sustainable_2016))
-* rtpi_urban_2021-600 ([rtpi_urban_2021-600](article_rtpi_urban_2021-600))
-* rtpi_urban_2021-400 ([rtpi_urban_2021-400](article_rtpi_urban_2021-400))
+* COVID-19 and regional solutions for mitigating the risk
+of SME finance in selected ASEAN member states ([taghizadeh-hesary_covid-19_2022](article_taghizadeh-hesary_covid-19_2022))
 * Learning from the COVID-19 pandemic in governing smart
 cities ([bolivar_learning_2022](article_bolivar_learning_2022))
+* Blockchain technology and its applications to combat
+COVID-19 pandemic ([sharma_blockchain_2022](article_sharma_blockchain_2022))
 * Strategies to Mitigate COVID-19 Pandemic Impacts
 on Health and Safety of Workers in Construction
 Projects ([kaushal_strategies_2021](article_kaushal_strategies_2021))
-* rtpi_urban_2021-850 ([rtpi_urban_2021-850](article_rtpi_urban_2021-850))

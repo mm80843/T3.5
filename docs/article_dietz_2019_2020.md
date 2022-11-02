@@ -1,12 +1,12 @@
 # Article: __2019 Novel Coronavirus (COVID-19) Pandemic: Built Environment Considerations To Reduce Transmission__ (dietz_2019_2020)
 
 * [10.1128/mSystems.00245-20](https://doi.org/10.1128/mSystems.00245-20)
-* Cluster: [air-ventilation](cluster_8)
+* Cluster: [air-sars](cluster_2)
 
 
 ## Keywords
 
-[coronavirus](keyword_coronavirus), [virus](keyword_virus), [china](keyword_china), [transmission](keyword_transmission), [aerosol](keyword_aerosol), [pandemic](keyword_pandemic), [viral](keyword_viral), [ventilation](keyword_ventilation)
+[coronavirus](keyword_coronavirus), [virus](keyword_virus), [transmission](keyword_transmission), [aerosol](keyword_aerosol), [pandemic](keyword_pandemic), [viral](keyword_viral), [ventilation](keyword_ventilation)
 
 ## Abstract
 
@@ -58,13 +58,27 @@ available.
 
 ### References 
 
+* [Air, Surface Environmental, and Personal
+Protective Equipment Contamination by Severe
+Acute Respiratory Syndrome Coronavirus 2
+(SARS-CoV-2) From a Symptomatic Patient](article_ong_air_2020)
 * [Persistence of coronaviruses on inanimate surfaces and
 their inactivation with biocidal agents](article_kampf_persistence_2020)
+* [Aerosol and Surface Stability of SARS-CoV-2 as
+Compared with SARS-CoV-1](article_van_doremalen_aerosol_2020)
+* [Mechanistic insights into the effect of humidity on
+airborne influenza virus survival, transmission and
+incidence](article_marr_mechanistic_2019)
 * [Applications of ultraviolet germicidal irradiation
 disinfection in health care facilities: Effective
 adjunct, but not stand-alone technology](article_memarzadeh_applications_2010)
 * [The Effect of Opening Windows on Air Change
 Rates in Two Homes](article_howard-reed_effect_2002)
+* [Predicted Inactivation of Viruses of Relevance to
+Biodefense by Solar Radiation](article_lytle_predicted_2005)
+* [Efficacy of an Automated Multiple Emitter
+Whole-Room Ultraviolet-C Disinfection System
+Against Coronaviruses MHV and MERS-CoV](article_bedell_efficacy_2016)
 * [Architectural Design Drives the Biogeography of
 Indoor Bacterial Communities](article_kembel_architectural_2014)
 
@@ -72,19 +86,16 @@ Indoor Bacterial Communities](article_kembel_architectural_2014)
 
 * [Ten questions concerning occupant health in buildings
 during normal operations and extreme events including the
-COVID-19 pandemic](article_awada_ten_2021)
-* [The ventilation of buildings and other mitigating measures
-for COVID-19: a focus on wintertime](article_burridge_ventilation_2021)
-* [Antivirus-built environment: Lessons learned from
-Covid-19 pandemic](article_megahed_antivirus-built_2020)
-* [COVID-19 Experience Transforming the Protective
-Environment of Office Buildings and Spaces](article_phapant_covid-19_2021)
-* [COVID-19 Could Leverage a Sustainable Built
-Environment](article_pinheiro_covid-19_2020)
-* [RESIDENTIAL ARCHITECTURE IN A POST-PANDEMIC
+COVID-19 pandemic](article_awada_ten_2021)* [The ventilation of buildings and other mitigating measures
+for COVID-19: a focus on wintertime](article_burridge_ventilation_2021)* [Association of built environment attributes with the
+spread of COVID-19 at its initial stage in China](article_li_association_2021)* [Antivirus-built environment: Lessons learned from
+Covid-19 pandemic](article_megahed_antivirus-built_2020)* [COVID-19 Experience Transforming the Protective
+Environment of Office Buildings and Spaces](article_phapant_covid-19_2021)* [COVID-19 Could Leverage a Sustainable Built
+Environment](article_pinheiro_covid-19_2020)* [RESIDENTIAL ARCHITECTURE IN A POST-PANDEMIC
 WORLD: IMPLICATIONS OF COVID-19 FOR NEW
 CONSTRUCTION AND FOR ADAPTING HERITAGE
-BUILDINGS](article_spennemann_residential_2021)
-* [Impact of COVID-19 on IoT Adoption in Healthcare,
+BUILDINGS](article_spennemann_residential_2021)* [How is COVID-19 Experience Transforming
+Sustainability Requirements of Residential
+Buildings? A Review](article_tokazhanov_how_2020)* [Impact of COVID-19 on IoT Adoption in Healthcare,
 Smart Homes, Smart Buildings, Smart Cities,
 Transportation and Industrial IoT](article_umair_impact_2021)

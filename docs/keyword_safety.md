@@ -1,7 +1,7 @@
 # Keyword: __safety__
 ## Clusters
 
-* Cluster 3: [construction-project](cluster_3)
+* Cluster 9: [construction-project](cluster_9)
 
 ## Concepts
 
@@ -19,15 +19,19 @@ Mitigation Practices ([bou_hatoum_analysis_2021](article_bou_hatoum_analysis_202
 Systemized Review ([zhao_supporting_2022](article_zhao_supporting_2022))
 * Influence between COVID-19 Impacts and Project
 Stakeholders in Chilean Construction Projects ([araya_influence_2021](article_araya_influence_2021))
+* Assessment of COVID-19 precautionary measures in sports
+facilities: A case study on a health club in Saudi
+Arabia ([ibrahim_assessment_2022](article_ibrahim_assessment_2022))
+* Should I Stay or Should I Go? Tourists’
+COVID-19 Risk Perception and Vacation Behavior
+Shift ([bratic_should_2021](article_bratic_should_2021))
+* A study on office workplace modification during the
+COVID-19 pandemic in The Netherlands ([hou_study_2021](article_hou_study_2021))
+* COVID-19 Experience Transforming the Protective
+Environment of Office Buildings and Spaces ([phapant_covid-19_2021](article_phapant_covid-19_2021))
 * Strategies to Mitigate COVID-19 Pandemic Impacts
 on Health and Safety of Workers in Construction
 Projects ([kaushal_strategies_2021](article_kaushal_strategies_2021))
-* eurofund_sustainable_2016 ([eurofund_sustainable_2016](article_eurofund_sustainable_2016))
-* Reframe how to serve your community in the midst of a
-pandemic ([sutton_reframe_2020](article_sutton_reframe_2020))
-* Impacts of COVID-19 on Health and Safety of
-Workforce in Construction Industry ([pamidimukkala_impacts_2021](article_pamidimukkala_impacts_2021))
-* How to Make Green Building Certification \&
-Rating Systems More Pandemic-Sustainable? ([ujikawa_how_2022](article_ujikawa_how_2022))
-* Seeing the invisible hand: Underlying effects of
-COVID-19 on tourists’ behavioral patterns ([li_seeing_2020](article_li_seeing_2020))
+* Housing Experience in Gated Communities in the
+Time of Pandemics: Lessons Learned from
+COVID-19 ([asfour_housing_2022](article_asfour_housing_2022))

@@ -1,12 +1,12 @@
 # Article: __The COVID-19 epidemiology and monitoring ontology__ (queralt-rosinach_covid-19_2021)
 
 * [10.37044/osf.io/n6tcz](https://doi.org/10.37044/osf.io/n6tcz)
-* Cluster: [ontology-datum](cluster_15)
+* Cluster: [ontology-datum](cluster_12)
 
 
 ## Keywords
 
-[ontology](keyword_ontology), [epidemiology](keyword_epidemiology), [epidemiological](keyword_epidemiological)
+[ontology](keyword_ontology), [library](keyword_library)
 
 ## Abstract
 

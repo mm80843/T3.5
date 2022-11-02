@@ -1,12 +1,12 @@
 # Article: __COVID-19 and Green Housing: A Review of Relevant Literature__ (kaklauskas_covid-19_2021)
 
 * [10.3390/en14082072](https://doi.org/10.3390/en14082072)
-* Cluster: [building-space](cluster_7)
+* Cluster: [building-green](cluster_15)
 
 
 ## Keywords
 
-[pandemic](keyword_pandemic), [construction](keyword_construction), [city](keyword_city), [health](keyword_health), [build](keyword_build), [home](keyword_home), [country](keyword_country)
+[pandemic](keyword_pandemic), [housing](keyword_housing), [construction](keyword_construction), [city](keyword_city), [build](keyword_build), [health](keyword_health), [country](keyword_country), [home](keyword_home)
 
 ## Abstract
 
@@ -57,6 +57,12 @@ macro-level environments as a singular entity.
 
 * [COVID-19 Could Leverage a Sustainable Built
 Environment](article_pinheiro_covid-19_2020)
+* [COVID-19 and Living space challenge. Well-being and
+Public Health recommendations for a healthy, safe, and
+sustainable housing.](article_dalessandro_covid-19_2020)
+* [How is COVID-19 Experience Transforming
+Sustainability Requirements of Residential
+Buildings? A Review](article_tokazhanov_how_2020)
 * [Ten questions concerning occupant health in buildings
 during normal operations and extreme events including the
 COVID-19 pandemic](article_awada_ten_2021)
@@ -71,8 +77,6 @@ in the UK](article_shibani_effects_2020)
 ### Cited by 
 
 * [A Review on Building Design as a Biomedical
-System for Preventing COVID-19 Pandemic](article_amran_review_2022)
-* [Prophylactic Architecture: Formulating the Concept
-of Pandemic-Resilient Homes](article_elrayies_prophylactic_2022)
-* [Designing Post COVID-19 Buildings: Approaches for
+System for Preventing COVID-19 Pandemic](article_amran_review_2022)* [Prophylactic Architecture: Formulating the Concept
+of Pandemic-Resilient Homes](article_elrayies_prophylactic_2022)* [Designing Post COVID-19 Buildings: Approaches for
 Achieving Healthy Buildings](article_navaratnam_designing_2022)

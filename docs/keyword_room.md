@@ -1,7 +1,8 @@
 # Keyword: __room__
 ## Clusters
 
-* Cluster 8: [air-ventilation](cluster_8)
+* Cluster 2: [air-sars](cluster_2)
+* Cluster 11: [uvgi-uv](cluster_11)
 
 ## Concepts
 
@@ -13,6 +14,8 @@
 physical spaces in the wake of the COVID-19 pandemic ([ugail_social_2021](article_ugail_social_2021))
 * Methods for air cleaning and protection of building
 occupants from airborne pathogens ([bolashikov_methods_2009](article_bolashikov_methods_2009))
+* Review and comparison of HVAC operation guidelines in
+different countries during the COVID-19 pandemic ([guo_review_2021](article_guo_review_2021))
 * Air Disinfection for Airborne Infection Control
 with a Focus on COVID-19: Why Germicidal UV is
 Essential† ([nardell_air_2021](article_nardell_air_2021))
@@ -24,10 +27,11 @@ the energy consumption in the Kuwaiti residences ([al-mumin_occupants_2003](arti
 * Upper-room ultraviolet air disinfection might help to
 reduce COVID-19 transmission in buildings: a feasibility
 study ([beggs_upper-room_2020](article_beggs_upper-room_2020))
-* dyer_covid-19_2020 ([dyer_covid-19_2020](article_dyer_covid-19_2020))
+* COVID-19 and Green Housing: A Review of
+Relevant Literature ([kaklauskas_covid-19_2021](article_kaklauskas_covid-19_2021))
+* Environmental factors involved in SARS-CoV-2
+transmission: effect and role of indoor environmental
+quality in the strategy for COVID-19 infection control ([azuma_environmental_2020](article_azuma_environmental_2020))
 * Applications of ultraviolet germicidal irradiation
 disinfection in health care facilities: Effective
 adjunct, but not stand-alone technology ([memarzadeh_applications_2010](article_memarzadeh_applications_2010))
-* realdania_refleksioner_2022_EN ([realdania_refleksioner_2022_EN](article_realdania_refleksioner_2022_EN))
-* Building occupancy estimation with people flow modeling in
-AnyLogic ([li_building_2016](article_li_building_2016))

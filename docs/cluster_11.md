@@ -1,7 +1,7 @@
-# Cluster: __surface-coating__ (cluster11)
+# Cluster: __uvgi-uv__ (cluster11)
 ## Keywords
 
-* [coating](keyword_coating), [surface](keyword_surface), [virus](keyword_virus), [lm](keyword_lm), [titer](keyword_titer), [antiviral](keyword_antiviral), [antimicrobial](keyword_antimicrobial), [pu](keyword_pu), [oxide](keyword_oxide), [gerba](keyword_gerba), [ml](keyword_ml), [viral](keyword_viral), [acs](keyword_acs), [cell](keyword_cell), [sars](keyword_sars), [stainless](keyword_stainless), [test](keyword_test), [glass](keyword_glass), [polymer](keyword_polymer), [steel](keyword_steel)
+* [uvgi](keyword_uvgi), [uv](keyword_uv), [air](keyword_air), [room](keyword_room), [airborne](keyword_airborne), [upper](keyword_upper), [droplet](keyword_droplet), [lamp](keyword_lamp), [ach](keyword_ach), [system](keyword_system), [germicidal](keyword_germicidal), [ultraviolet](keyword_ultraviolet), [bacteria](keyword_bacteria), [ventilation](keyword_ventilation), [irradiation](keyword_irradiation), [memarzadeh](keyword_memarzadeh), [control](keyword_control), [microorganism](keyword_microorganism), [infection](keyword_infection), [nucleus](keyword_nucleus)
 
 ## Concepts
 
@@ -9,14 +9,7 @@
 
 
 ## Articles
-* Graphene-based nanomaterials as antimicrobial surface
-coatings: A parallel approach to restrain the expansion
-of COVID-19 ([ayub_graphene-based_2021](article_ayub_graphene-based_2021))
-* Sustainability of Coronavirus on Different
-Surfaces ([suman_sustainability_2020](article_suman_sustainability_2020))
-* A Continuously Active Antimicrobial Coating
-effective against Human Coronavirus 229E ([ikner_continuously_2020](article_ikner_continuously_2020))
-* Persistence of coronaviruses on inanimate surfaces and
-their inactivation with biocidal agents ([kampf_persistence_2020](article_kampf_persistence_2020))
-* A Surface Coating that Rapidly Inactivates
-SARS-CoV-2 ([behzadinasab_surface_2020](article_behzadinasab_surface_2020))
+
+* Applications of ultraviolet germicidal irradiation
+disinfection in health care facilities: Effective
+adjunct, but not stand-alone technology ([memarzadeh_applications_2010](article_memarzadeh_applications_2010))

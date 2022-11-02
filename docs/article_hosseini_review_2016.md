@@ -1,12 +1,12 @@
 # Article: __A review of definitions and measures of system resilience__ (hosseini_review_2016)
 
 * [10.1016/j.ress.2015.08.006](https://doi.org/10.1016/j.ress.2015.08.006)
-* Cluster: [resilience-infrastructure](cluster_9)
+* Cluster: [resilience-sme](cluster_13)
 
 
 ## Keywords
 
-[resilience](keyword_resilience), [infrastructure](keyword_infrastructure), [system](keyword_system), [engineering](keyword_engineering)
+[resilience](keyword_resilience), [system](keyword_system), [infrastructure](keyword_infrastructure), [engineering](keyword_engineering), [network](keyword_network), [model](keyword_model)
 
 ## Abstract
 

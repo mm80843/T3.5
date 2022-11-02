@@ -1,12 +1,12 @@
 # Article: __Impact of COVID-19 on IoT Adoption in Healthcare, Smart Homes, Smart Buildings, Smart Cities, Transportation and Industrial IoT__ (umair_impact_2021)
 
 * [10.3390/s21113838](https://doi.org/10.3390/s21113838)
-* Cluster: [blockchain-technology](cluster_13)
+* Cluster: [smart-iot](cluster_6)
 
 
 ## Keywords
 
-[iot](keyword_iot), [pandemic](keyword_pandemic), [healthcare](keyword_healthcare), [data](keyword_data)
+[iot](keyword_iot), [pandemic](keyword_pandemic), [coronavirus](keyword_coronavirus), [data](keyword_data)
 
 ## Abstract
 
@@ -41,6 +41,9 @@ COVID-19 pandemic](article_singh_internet_2020)
 * [A Comprehensive Review of the COVID-19 Pandemic
 and the Role of IoT, Drones, AI, Blockchain, and
 5G in Managing its Impact](article_chamola_comprehensive_2020)
+* [Response to COVID-19 in Taiwan: Big Data
+Analytics, New Technology, and Proactive
+Testing](article_wang_response_2020)
 * [Antivirus-built environment: Lessons learned from
 Covid-19 pandemic](article_megahed_antivirus-built_2020)
 * [2019 Novel Coronavirus (COVID-19) Pandemic:
@@ -48,6 +51,10 @@ Built Environment Considerations To Reduce
 Transmission](article_dietz_2019_2020)
 * [COVID-19 Could Leverage a Sustainable Built
 Environment](article_pinheiro_covid-19_2020)
+* [Review and comparison of HVAC operation guidelines in
+different countries during the COVID-19 pandemic](article_guo_review_2021)
+* [Far-UVC light (222 nm) efficiently and safely
+inactivates airborne human coronaviruses](article_buonanno_far-uvc_2020)
 
 ### Cited by 
 

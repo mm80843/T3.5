@@ -1,12 +1,12 @@
 # Article: __Readiness Assessment of Green Building Certification Systems for Residential Buildings during Pandemics__ (tleuken_readiness_2021)
 
 * [10.3390/su13020460](https://doi.org/10.3390/su13020460)
-* Cluster: [building-space](cluster_7)
+* Cluster: [building-green](cluster_15)
 
 
 ## Keywords
 
-[pandemic](keyword_pandemic), [breeam](keyword_breeam), [build](keyword_build), [construction](keyword_construction), [virus](keyword_virus), [health](keyword_health)
+[pandemic](keyword_pandemic), [breeam](keyword_breeam), [indicator](keyword_indicator), [sustainability](keyword_sustainability), [comfort](keyword_comfort), [build](keyword_build), [virus](keyword_virus), [health](keyword_health)
 
 ## Abstract
 
@@ -53,17 +53,33 @@ post-pandemic requirements.
 
 ### References 
 
+* [Pandemic stricken cities on lockdown. Where are our
+planning and design professionals [now, then and into the
+future]?](article_allam_pandemic_2020)
 * [COVID-19 Could Leverage a Sustainable Built
 Environment](article_pinheiro_covid-19_2020)
 * [A Mixed Approach on Resilience of Spanish
 Dwellings and Households during COVID-19 Lockdown](article_cuerdo-vilches_mixed_2020)
+* [How is COVID-19 Experience Transforming
+Sustainability Requirements of Residential
+Buildings? A Review](article_tokazhanov_how_2020)
+* [COVID-19 and Living space challenge. Well-being and
+Public Health recommendations for a healthy, safe, and
+sustainable housing.](article_dalessandro_covid-19_2020)
 * [How loneliness is talked about in social media during
 COVID-19 pandemic: Text mining of 4,492 Twitter
 feeds](article_koh_how_2022)
+* [SARS-CoV-2 RNA detection of hospital isolation wards
+hygiene monitoring during the Coronavirus Disease 2019
+outbreak in a Chinese hospital](article_wang_sars-cov-2_2020)
 * [SARS-CoV-2 in wastewater: potential health risk, but
 also data source](article_lodder_sars-cov-2_2020)
 * [Antivirus-built environment: Lessons learned from
 Covid-19 pandemic](article_megahed_antivirus-built_2020)
+* [Aerosol and Surface Stability of SARS-CoV-2 as
+Compared with SARS-CoV-1](article_van_doremalen_aerosol_2020)
+* [Predicted Inactivation of Viruses of Relevance to
+Biodefense by Solar Radiation](article_lytle_predicted_2005)
 * [Effects of temperature and humidity on the spread of
 COVID-19: A systematic review](article_mecenas_effects_2020)
 * [First detection of SARS-CoV-2 in untreated wastewaters
@@ -72,10 +88,7 @@ in Italy](article_la_rosa_first_2020)
 ### Cited by 
 
 * [Prophylactic Architecture: Formulating the Concept
-of Pandemic-Resilient Homes](article_elrayies_prophylactic_2022)
-* [COVID-19 and Green Housing: A Review of
-Relevant Literature](article_kaklauskas_covid-19_2021)
-* [Assessment method for new sustainability indicators
-providing pandemic resilience for residential buildings](article_tokazhanov_assessment_2021)
-* [How to Make Green Building Certification \&
+of Pandemic-Resilient Homes](article_elrayies_prophylactic_2022)* [COVID-19 and Green Housing: A Review of
+Relevant Literature](article_kaklauskas_covid-19_2021)* [Assessment method for new sustainability indicators
+providing pandemic resilience for residential buildings](article_tokazhanov_assessment_2021)* [How to Make Green Building Certification \&
 Rating Systems More Pandemic-Sustainable?](article_ujikawa_how_2022)

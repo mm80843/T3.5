@@ -1,12 +1,12 @@
 # Article: __A Mixed Approach on Resilience of Spanish Dwellings and Households during COVID-19 Lockdown__ (cuerdo-vilches_mixed_2020)
 
 * [10.3390/su122310198](https://doi.org/10.3390/su122310198)
-* Cluster: [building-space](cluster_7)
+* Cluster: [health-city](cluster_3)
 
 
 ## Keywords
 
-[home](keyword_home)
+[home](keyword_home), [housing](keyword_housing)
 
 ## Abstract
 
@@ -40,6 +40,9 @@ contexts similar to the COVID-19 pandemic.
 
 ### References 
 
+* [COVID-19 and Living space challenge. Well-being and
+Public Health recommendations for a healthy, safe, and
+sustainable housing.](article_dalessandro_covid-19_2020)
 * [Antivirus-built environment: Lessons learned from
 Covid-19 pandemic](article_megahed_antivirus-built_2020)
 

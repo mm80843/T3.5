@@ -1,7 +1,7 @@
-# Cluster: __space-flexible__ (cluster5)
+# Cluster: __ieq-sensor__ (cluster5)
 ## Keywords
 
-* [space](keyword_space), [occupant](keyword_occupant), [building](keyword_building), [behaviour](keyword_behaviour), [design](keyword_design), [simulation](keyword_simulation), [human](keyword_human), [virus](keyword_virus), [transmission](keyword_transmission), [occupancy](keyword_occupancy), [environment](keyword_environment), [visualization](keyword_visualization), [guest](keyword_guest), [build](keyword_build), [surface](keyword_surface), [microbiome](keyword_microbiome), [virtual](keyword_virtual), [user](keyword_user), [system](keyword_system), [air](keyword_air)
+* [ieq](keyword_ieq), [sensor](keyword_sensor), [building](keyword_building), [indoor](keyword_indoor), [node](keyword_node), [occupant](keyword_occupant), [monitoring](keyword_monitoring), [air](keyword_air), [measurement](keyword_measurement), [datum](keyword_datum), [system](keyword_system), [device](keyword_device), [uc](keyword_uc), [parameter](keyword_parameter), [thermal](keyword_thermal), [quality](keyword_quality), [performance](keyword_performance), [temperature](keyword_temperature), [energy](keyword_energy), [environment](keyword_environment)
 
 ## Concepts
 
@@ -9,4 +9,10 @@
 
 
 ## Articles
-* clifton_covid-19_2020 ([clifton_covid-19_2020](article_clifton_covid-19_2020))
+
+* An Intelligent IEQ Monitoring and Feedback
+System: Development and Applications ([geng_intelligent_2021](article_geng_intelligent_2021))
+* Continuous IEQ monitoring system: Context and
+development ([parkinson_continuous_2019](article_parkinson_continuous_2019))
+* Scalable IoT Architecture for Monitoring IEQ
+Conditions in Public and Private Buildings ([calvo_scalable_2022](article_calvo_scalable_2022))

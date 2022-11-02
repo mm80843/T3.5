@@ -1,12 +1,12 @@
 # Article: __Climate and the spread of COVID-19__ (chen_climate_2021)
 
 * [10.1038/s41598-021-87692-z](https://doi.org/10.1038/s41598-021-87692-z)
-* Cluster: [health-city](cluster_0)
+* Cluster: [health-city](cluster_3)
 
 
 ## Keywords
 
-[china](keyword_china), [country](keyword_country)
+[temperature](keyword_temperature), [country](keyword_country)
 
 ## Abstract
 
@@ -45,4 +45,15 @@ SARS-CoV-2.
 ## Concepts
 
  ![](imgs/article_chen_climate_2021.jpg)
+
+### References 
+
+* [Far-UVC light (222 nm) efficiently and safely
+inactivates airborne human coronaviruses](article_buonanno_far-uvc_2020)
+* [Response to COVID-19 in Taiwan: Big Data
+Analytics, New Technology, and Proactive
+Testing](article_wang_response_2020)
+
+### Cited by 
+
 

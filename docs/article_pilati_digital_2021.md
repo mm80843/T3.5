@@ -1,12 +1,12 @@
 # Article: __Digital Twin of COVID-19 Mass Vaccination Centers__ (pilati_digital_2021)
 
 * [10.3390/su13137396](https://doi.org/10.3390/su13137396)
-* Cluster: [blockchain-technology](cluster_13)
+* Cluster: [scenario-agent](cluster_10)
 
 
 ## Keywords
 
-[simulation](keyword_simulation), [pandemic](keyword_pandemic), [system](keyword_system)
+[simulation](keyword_simulation), [nurse](keyword_nurse), [queue](keyword_queue), [vaccination](keyword_vaccination), [pandemic](keyword_pandemic)
 
 ## Abstract
 

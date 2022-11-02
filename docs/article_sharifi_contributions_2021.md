@@ -1,12 +1,12 @@
 # Article: __Contributions of Smart City Solutions and Technologies to Resilience against the COVID-19 Pandemic: A Literature Review__ (sharifi_contributions_2021)
 
 * [10.3390/su13148018](https://doi.org/10.3390/su13148018)
-* Cluster: [blockchain-technology](cluster_13)
+* Cluster: [smart-iot](cluster_6)
 
 
 ## Keywords
 
-[pandemic](keyword_pandemic), [resilience](keyword_resilience), [china](keyword_china), [technology](keyword_technology), [blockchain](keyword_blockchain), [city](keyword_city)
+[pandemic](keyword_pandemic), [resilience](keyword_resilience), [technology](keyword_technology), [blockchain](keyword_blockchain), [city](keyword_city)
 
 ## Abstract
 
@@ -74,6 +74,8 @@ Pandemic Experiences](article_sakellarides_viral_2020)
 * [Smart cities and a data-driven response to COVID-19](article_james_smart_2020)
 * [DeepSOCIAL: Social Distancing Monitoring and
 Infection Risk Assessment in COVID-19 Pandemic](article_rezaei_deepsocial_2020)
+* [The effect of human mobility and control measures on the
+COVID-19 epidemic in China](article_kraemer_effect_2020)
 * [The Smart City and Covid‐19](article_webb_smart_2020)
 
 ### Cited by 

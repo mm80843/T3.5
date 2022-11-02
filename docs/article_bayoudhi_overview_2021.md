@@ -1,12 +1,12 @@
 # Article: __An Overview of Biomedical Ontologies for Pandemics and Infectious Diseases Representation__ (bayoudhi_overview_2021)
 
 * [10.1016/j.procs.2021.09.201](https://doi.org/10.1016/j.procs.2021.09.201)
-* Cluster: [ontology-datum](cluster_15)
+* Cluster: [ontology-datum](cluster_12)
 
 
 ## Keywords
 
-[ontology](keyword_ontology), [pandemic](keyword_pandemic), [disease](keyword_disease), [epidemiological](keyword_epidemiological), [data](keyword_data), [epidemiology](keyword_epidemiology), [domain](keyword_domain)
+[ontology](keyword_ontology), [pandemic](keyword_pandemic), [disease](keyword_disease), [data](keyword_data), [domain](keyword_domain)
 
 
 ## Concepts

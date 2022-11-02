@@ -58,7 +58,11 @@ study to assess its impact on IAQ.
 isolation rooms with negative air machines for critical
 COVID-19 patients](article_lee_rapid_2020)
 * [How can airborne transmission of COVID-19 indoors be
-minimised?](article_morawska_how_2020-1)
+minimised?](article_morawska_how_2020)
+* [Air, Surface Environmental, and Personal
+Protective Equipment Contamination by Severe
+Acute Respiratory Syndrome Coronavirus 2
+(SARS-CoV-2) From a Symptomatic Patient](article_ong_air_2020)
 * [Continuous IEQ monitoring system: Context and
 development](article_parkinson_continuous_2019)
 

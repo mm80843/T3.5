@@ -1,12 +1,12 @@
 # Article: __Psychological Effects of Home Confinement and Social Distancing Derived from COVID-19 in the General Population—A Systematic Review__ (rodriguez-fernandez_psychological_2021)
 
 * [10.3390/ijerph18126528](https://doi.org/10.3390/ijerph18126528)
-* Cluster: [health-city](cluster_0)
+* Cluster: [health-city](cluster_3)
 
 
 ## Keywords
 
-[anxiety](keyword_anxiety), [pandemic](keyword_pandemic)
+[pandemic](keyword_pandemic)
 
 ## Abstract
 
@@ -40,4 +40,12 @@ COVID-19.
 ## Concepts
 
  ![](imgs/article_rodriguez-fernandez_psychological_2021.jpg)
+
+### References 
+
+* [The socio-economic implications of the coronavirus
+pandemic (COVID-19): A review](article_nicola_socio-economic_2020)
+
+### Cited by 
+
 

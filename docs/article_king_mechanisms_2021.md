@@ -1,7 +1,7 @@
 # Article: __Mechanisms for addressing the impact of COVID-19 on infrastructure projects__ (king_mechanisms_2021)
 
 * [10.1088/1755-1315/682/1/012047](https://doi.org/10.1088/1755-1315/682/1/012047)
-* Cluster: [construction-project](cluster_3)
+* Cluster: [construction-project](cluster_9)
 
 
 ## Keywords
@@ -45,7 +45,6 @@ Construction Industry: A Case of COVID-19](article_gamil_impact_2020)
 ### Cited by 
 
 * [Influence between COVID-19 Impacts and Project
-Stakeholders in Chilean Construction Projects](article_araya_influence_2021)
-* [Analysis of COVID-19 Concerns Raised by the
+Stakeholders in Chilean Construction Projects](article_araya_influence_2021)* [Analysis of COVID-19 Concerns Raised by the
 Construction Workforce and Development of
 Mitigation Practices](article_bou_hatoum_analysis_2021)

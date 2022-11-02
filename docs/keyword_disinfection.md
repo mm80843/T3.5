@@ -1,9 +1,7 @@
 # Keyword: __disinfection__
 ## Clusters
 
-* Cluster 8: [air-ventilation](cluster_8)
-* Cluster 12: [wastewater-sars](cluster_12)
-* Cluster 14: [surveying-drone](cluster_14)
+* Cluster 4: [wastewater-sars](cluster_4)
 
 ## Concepts
 
@@ -14,26 +12,26 @@
 * Disinfection technology of hospital wastes and wastewater:
 Suggestions for disinfection strategy during coronavirus
 Disease 2019 (COVID-19) pandemic in China ([wang_disinfection_2020](article_wang_disinfection_2020))
-* Persistence of coronaviruses on inanimate surfaces and
-their inactivation with biocidal agents ([kampf_persistence_2020](article_kampf_persistence_2020))
-* Disinfection technology of hospital wastes and wastewater:
-Suggestions for disinfection strategy during coronavirus
-Disease 2019 (COVID-19) pandemic in China ([wang_disinfection_2020](article_wang_disinfection_2020))
-* Disinfection technology of hospital wastes and wastewater:
-Suggestions for disinfection strategy during coronavirus
-Disease 2019 (COVID-19) pandemic in China ([wang_disinfection_2020](article_wang_disinfection_2020))
-* Disinfection technology of hospital wastes and wastewater:
-Suggestions for disinfection strategy during coronavirus
-Disease 2019 (COVID-19) pandemic in China ([wang_disinfection_2020](article_wang_disinfection_2020))
-* ashrae_behind_2020-0 ([ashrae_behind_2020-0](article_ashrae_behind_2020-0))
-* Disinfection technology of hospital wastes and wastewater:
-Suggestions for disinfection strategy during coronavirus
-Disease 2019 (COVID-19) pandemic in China ([wang_disinfection_2020](article_wang_disinfection_2020))
-* A Review on Building Design as a Biomedical
-System for Preventing COVID-19 Pandemic ([amran_review_2022](article_amran_review_2022))
 * Applications of ultraviolet germicidal irradiation
 disinfection in health care facilities: Effective
 adjunct, but not stand-alone technology ([memarzadeh_applications_2010](article_memarzadeh_applications_2010))
-* Disinfection technology of hospital wastes and wastewater:
-Suggestions for disinfection strategy during coronavirus
-Disease 2019 (COVID-19) pandemic in China ([wang_disinfection_2020](article_wang_disinfection_2020))
+* SARS-CoV-2 RNA detection of hospital isolation wards
+hygiene monitoring during the Coronavirus Disease 2019
+outbreak in a Chinese hospital ([wang_sars-cov-2_2020](article_wang_sars-cov-2_2020))
+* Methods for air cleaning and protection of building
+occupants from airborne pathogens ([bolashikov_methods_2009](article_bolashikov_methods_2009))
+* Upper-room ultraviolet air disinfection might help to
+reduce COVID-19 transmission in buildings: a feasibility
+study ([beggs_upper-room_2020](article_beggs_upper-room_2020))
+* Persistence of coronaviruses on inanimate surfaces and
+their inactivation with biocidal agents ([kampf_persistence_2020](article_kampf_persistence_2020))
+* Indoor Air Quality: Rethinking rules of building
+design strategies in post-pandemic architecture ([megahed_indoor_2021](article_megahed_indoor_2021))
+* A review of facilities management interventions to
+mitigate respiratory infections in existing buildings ([zhang_review_2022](article_zhang_review_2022))
+* Air Disinfection for Airborne Infection Control
+with a Focus on COVID-19: Why Germicidal UV is
+Essential† ([nardell_air_2021](article_nardell_air_2021))
+* Graphene-based nanomaterials as antimicrobial surface
+coatings: A parallel approach to restrain the expansion
+of COVID-19 ([ayub_graphene-based_2021](article_ayub_graphene-based_2021))

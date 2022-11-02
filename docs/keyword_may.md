@@ -1,7 +1,8 @@
 # Keyword: __may__
 ## Clusters
 
-* Cluster 6: [building-guidance](cluster_6)
+* Cluster 0: [building-energy](cluster_0)
+* Cluster 14: [onlinelibrary-wiley](cluster_14)
 
 ## Concepts
 
@@ -19,16 +20,18 @@ challenges ([hart_computational_2020](article_hart_computational_2020))
 Conditions in Public and Private Buildings ([calvo_scalable_2022](article_calvo_scalable_2022))
 * The Effects of Pandemic on Construction Industry
 in the UK ([shibani_effects_2020](article_shibani_effects_2020))
-* Mobility Behaviour in View of the Impact of the
-COVID-19 Pandemic—Public Transport Users in
-Gdansk Case Study ([przybylowski_mobility_2021](article_przybylowski_mobility_2021))
 * Characterization and performance evaluation of a
 full-scale activated carbon-based dynamic botanical air
 filtration system for improving indoor air quality ([wang_characterization_2011](article_wang_characterization_2011))
+* Mobility Behaviour in View of the Impact of the
+COVID-19 Pandemic—Public Transport Users in
+Gdansk Case Study ([przybylowski_mobility_2021](article_przybylowski_mobility_2021))
 * Climate and the spread of COVID-19 ([chen_climate_2021](article_chen_climate_2021))
-* DeepSOCIAL: Social Distancing Monitoring and
-Infection Risk Assessment in COVID-19 Pandemic ([rezaei_deepsocial_2020](article_rezaei_deepsocial_2020))
-* DeepSOCIAL: Social Distancing Monitoring and
-Infection Risk Assessment in COVID-19 Pandemic ([rezaei_deepsocial_2020](article_rezaei_deepsocial_2020))
-* DeepSOCIAL: Social Distancing Monitoring and
-Infection Risk Assessment in COVID-19 Pandemic ([rezaei_deepsocial_2020](article_rezaei_deepsocial_2020))
+* An environmental and health perspective for COVID-19
+outbreak: Meteorology and air quality influence, sewage
+epidemiology indicator, hospitals disinfection, drug
+therapies and recommendations ([barcelo_environmental_2020](article_barcelo_environmental_2020))
+* When the fourth water and digital revolution encountered
+COVID-19 ([poch_when_2020](article_poch_when_2020))
+* COVID-19 Could Leverage a Sustainable Built
+Environment ([pinheiro_covid-19_2020](article_pinheiro_covid-19_2020))
