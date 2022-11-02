@@ -64,8 +64,11 @@ COVID-19 epidemic in China](article_kraemer_effect_2020)
 ### Cited by 
 
 * [A Review on Building Design as a Biomedical
-System for Preventing COVID-19 Pandemic](article_amran_review_2022)* [Prophylactic Architecture: Formulating the Concept
-of Pandemic-Resilient Homes](article_elrayies_prophylactic_2022)* [Respiratory pandemics, urban planning and design: A
-multidisciplinary rapid review of the literature](article_harris_respiratory_2022)* [Contributions of Smart City Solutions and
+System for Preventing COVID-19 Pandemic](article_amran_review_2022)
+* [Prophylactic Architecture: Formulating the Concept
+of Pandemic-Resilient Homes](article_elrayies_prophylactic_2022)
+* [Respiratory pandemics, urban planning and design: A
+multidisciplinary rapid review of the literature](article_harris_respiratory_2022)
+* [Contributions of Smart City Solutions and
 Technologies to Resilience against the COVID-19
 Pandemic: A Literature Review](article_sharifi_contributions_2021)

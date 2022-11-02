@@ -42,16 +42,25 @@ Viral Aerosols](article_walker_effect_2007)
 
 * [Environmental factors involved in SARS-CoV-2
 transmission: effect and role of indoor environmental
-quality in the strategy for COVID-19 infection control](article_azuma_environmental_2020)* [Upper-room ultraviolet air disinfection might help to
+quality in the strategy for COVID-19 infection control](article_azuma_environmental_2020)
+* [Upper-room ultraviolet air disinfection might help to
 reduce COVID-19 transmission in buildings: a feasibility
-study](article_beggs_upper-room_2020)* [The ventilation of buildings and other mitigating measures
-for COVID-19: a focus on wintertime](article_burridge_ventilation_2021)* [Prophylactic Architecture: Formulating the Concept
-of Pandemic-Resilient Homes](article_elrayies_prophylactic_2022)* [Review and comparison of HVAC operation guidelines in
-different countries during the COVID-19 pandemic](article_guo_review_2021)* [Indoor Air Quality: Rethinking rules of building
-design strategies in post-pandemic architecture](article_megahed_indoor_2021)* [Ventilation use in nonmedical settings during COVID-19:
-Cleaning protocol, maintenance, and recommendations](article_nembhard_ventilation_2020)* [A systematic review of building systems and technologies
-to mitigate the spread of airborne viruses](article_salman_systematic_2022)* [RESIDENTIAL ARCHITECTURE IN A POST-PANDEMIC
+study](article_beggs_upper-room_2020)
+* [The ventilation of buildings and other mitigating measures
+for COVID-19: a focus on wintertime](article_burridge_ventilation_2021)
+* [Prophylactic Architecture: Formulating the Concept
+of Pandemic-Resilient Homes](article_elrayies_prophylactic_2022)
+* [Review and comparison of HVAC operation guidelines in
+different countries during the COVID-19 pandemic](article_guo_review_2021)
+* [Indoor Air Quality: Rethinking rules of building
+design strategies in post-pandemic architecture](article_megahed_indoor_2021)
+* [Ventilation use in nonmedical settings during COVID-19:
+Cleaning protocol, maintenance, and recommendations](article_nembhard_ventilation_2020)
+* [A systematic review of building systems and technologies
+to mitigate the spread of airborne viruses](article_salman_systematic_2022)
+* [RESIDENTIAL ARCHITECTURE IN A POST-PANDEMIC
 WORLD: IMPLICATIONS OF COVID-19 FOR NEW
 CONSTRUCTION AND FOR ADAPTING HERITAGE
-BUILDINGS](article_spennemann_residential_2021)* [A review of facilities management interventions to
+BUILDINGS](article_spennemann_residential_2021)
+* [A review of facilities management interventions to
 mitigate respiratory infections in existing buildings](article_zhang_review_2022)

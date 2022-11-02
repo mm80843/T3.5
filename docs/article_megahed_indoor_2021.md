@@ -42,7 +42,9 @@ public health and infectious diseases](article_yang_combating_2020)
 ### Cited by 
 
 * [A Review on Building Design as a Biomedical
-System for Preventing COVID-19 Pandemic](article_amran_review_2022)* [A critical review of heating, ventilation, and air
+System for Preventing COVID-19 Pandemic](article_amran_review_2022)
+* [A critical review of heating, ventilation, and air
 conditioning (HVAC) systems within the context of a
-global SARS-CoV-2 epidemic](article_elsaid_critical_2021)* [Designing Post COVID-19 Buildings: Approaches for
+global SARS-CoV-2 epidemic](article_elsaid_critical_2021)
+* [Designing Post COVID-19 Buildings: Approaches for
 Achieving Healthy Buildings](article_navaratnam_designing_2022)

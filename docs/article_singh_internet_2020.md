@@ -22,8 +22,11 @@ Testing](article_wang_response_2020)
 ### Cited by 
 
 * [COVID19-Routes: A Safe Pedestrian Navigation
-Service](article_cantarero_covid19-routes_2021)* [Digital Twin of COVID-19 Mass Vaccination
-Centers](article_pilati_digital_2021)* [Blockchain technology and its applications to combat
-COVID-19 pandemic](article_sharma_blockchain_2022)* [Impact of COVID-19 on IoT Adoption in Healthcare,
+Service](article_cantarero_covid19-routes_2021)
+* [Digital Twin of COVID-19 Mass Vaccination
+Centers](article_pilati_digital_2021)
+* [Blockchain technology and its applications to combat
+COVID-19 pandemic](article_sharma_blockchain_2022)
+* [Impact of COVID-19 on IoT Adoption in Healthcare,
 Smart Homes, Smart Buildings, Smart Cities,
 Transportation and Industrial IoT](article_umair_impact_2021)

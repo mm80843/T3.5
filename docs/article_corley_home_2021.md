@@ -20,6 +20,7 @@
 ### Cited by 
 
 * [Prophylactic Architecture: Formulating the Concept
-of Pandemic-Resilient Homes](article_elrayies_prophylactic_2022)* [Association between indoor-outdoor green features and
+of Pandemic-Resilient Homes](article_elrayies_prophylactic_2022)
+* [Association between indoor-outdoor green features and
 psychological health during the COVID-19 lockdown in
 Italy: A cross-sectional nationwide study](article_spano_association_2021)

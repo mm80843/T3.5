@@ -23,8 +23,10 @@ wastewater surveillance of COVID-19 in the community](article_ahmed_first_2020)
 
 * [Wastewater-Based Epidemiology to monitor COVID-19
 outbreak: Present and future diagnostic methods to be in
-your radar](article_barcelo_wastewater-based_2020)* [Readiness Assessment of Green Building
+your radar](article_barcelo_wastewater-based_2020)
+* [Readiness Assessment of Green Building
 Certification Systems for Residential Buildings
-during Pandemics](article_tleuken_readiness_2021)* [Detection of SARS-CoV-2 in raw and treated wastewater
+during Pandemics](article_tleuken_readiness_2021)
+* [Detection of SARS-CoV-2 in raw and treated wastewater
 in Germany – Suitability for COVID-19 surveillance
 and potential transmission risks](article_westhaus_detection_2021)

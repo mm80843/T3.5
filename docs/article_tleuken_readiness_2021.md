@@ -88,7 +88,10 @@ in Italy](article_la_rosa_first_2020)
 ### Cited by 
 
 * [Prophylactic Architecture: Formulating the Concept
-of Pandemic-Resilient Homes](article_elrayies_prophylactic_2022)* [COVID-19 and Green Housing: A Review of
-Relevant Literature](article_kaklauskas_covid-19_2021)* [Assessment method for new sustainability indicators
-providing pandemic resilience for residential buildings](article_tokazhanov_assessment_2021)* [How to Make Green Building Certification \&
+of Pandemic-Resilient Homes](article_elrayies_prophylactic_2022)
+* [COVID-19 and Green Housing: A Review of
+Relevant Literature](article_kaklauskas_covid-19_2021)
+* [Assessment method for new sustainability indicators
+providing pandemic resilience for residential buildings](article_tokazhanov_assessment_2021)
+* [How to Make Green Building Certification \&
 Rating Systems More Pandemic-Sustainable?](article_ujikawa_how_2022)

@@ -24,8 +24,11 @@ Acute Respiratory Syndrome Coronavirus 2
 
 * [Readiness Assessment of Green Building
 Certification Systems for Residential Buildings
-during Pandemics](article_tleuken_readiness_2021)* [Assessment method for new sustainability indicators
-providing pandemic resilience for residential buildings](article_tokazhanov_assessment_2021)* [How is COVID-19 Experience Transforming
+during Pandemics](article_tleuken_readiness_2021)
+* [Assessment method for new sustainability indicators
+providing pandemic resilience for residential buildings](article_tokazhanov_assessment_2021)
+* [How is COVID-19 Experience Transforming
 Sustainability Requirements of Residential
-Buildings? A Review](article_tokazhanov_how_2020)* [A review of facilities management interventions to
+Buildings? A Review](article_tokazhanov_how_2020)
+* [A review of facilities management interventions to
 mitigate respiratory infections in existing buildings](article_zhang_review_2022)

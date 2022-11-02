@@ -55,11 +55,15 @@ Viral Aerosols](article_walker_effect_2007)
 
 * [Upper-room ultraviolet air disinfection might help to
 reduce COVID-19 transmission in buildings: a feasibility
-study](article_beggs_upper-room_2020)* [Climate and the spread of COVID-19](article_chen_climate_2021)* [Air Disinfection for Airborne Infection Control
+study](article_beggs_upper-room_2020)
+* [Climate and the spread of COVID-19](article_chen_climate_2021)
+* [Air Disinfection for Airborne Infection Control
 with a Focus on COVID-19: Why Germicidal UV is
-Essential†](article_nardell_air_2021)* [RESIDENTIAL ARCHITECTURE IN A POST-PANDEMIC
+Essential†](article_nardell_air_2021)
+* [RESIDENTIAL ARCHITECTURE IN A POST-PANDEMIC
 WORLD: IMPLICATIONS OF COVID-19 FOR NEW
 CONSTRUCTION AND FOR ADAPTING HERITAGE
-BUILDINGS](article_spennemann_residential_2021)* [Impact of COVID-19 on IoT Adoption in Healthcare,
+BUILDINGS](article_spennemann_residential_2021)
+* [Impact of COVID-19 on IoT Adoption in Healthcare,
 Smart Homes, Smart Buildings, Smart Cities,
 Transportation and Industrial IoT](article_umair_impact_2021)

@@ -24,11 +24,15 @@ Acute Respiratory Syndrome Coronavirus 2
 
 * [Environmental factors involved in SARS-CoV-2
 transmission: effect and role of indoor environmental
-quality in the strategy for COVID-19 infection control](article_azuma_environmental_2020)* [Upper-room ultraviolet air disinfection might help to
+quality in the strategy for COVID-19 infection control](article_azuma_environmental_2020)
+* [Upper-room ultraviolet air disinfection might help to
 reduce COVID-19 transmission in buildings: a feasibility
-study](article_beggs_upper-room_2020)* [How can airborne transmission of COVID-19 indoors be
-minimised?](article_morawska_how_2020)* [COVID-19 Experience Transforming the Protective
-Environment of Office Buildings and Spaces](article_phapant_covid-19_2021)* [A Global Survey of Infection Control and
+study](article_beggs_upper-room_2020)
+* [How can airborne transmission of COVID-19 indoors be
+minimised?](article_morawska_how_2020)
+* [COVID-19 Experience Transforming the Protective
+Environment of Office Buildings and Spaces](article_phapant_covid-19_2021)
+* [A Global Survey of Infection Control and
 Mitigation Measures for Combating the Transmission
 of COVID-19 Pandemic in Buildings Under
 Facilities Management Services](article_sarvari_global_2022)

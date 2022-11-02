@@ -86,16 +86,24 @@ Indoor Bacterial Communities](article_kembel_architectural_2014)
 
 * [Ten questions concerning occupant health in buildings
 during normal operations and extreme events including the
-COVID-19 pandemic](article_awada_ten_2021)* [The ventilation of buildings and other mitigating measures
-for COVID-19: a focus on wintertime](article_burridge_ventilation_2021)* [Association of built environment attributes with the
-spread of COVID-19 at its initial stage in China](article_li_association_2021)* [Antivirus-built environment: Lessons learned from
-Covid-19 pandemic](article_megahed_antivirus-built_2020)* [COVID-19 Experience Transforming the Protective
-Environment of Office Buildings and Spaces](article_phapant_covid-19_2021)* [COVID-19 Could Leverage a Sustainable Built
-Environment](article_pinheiro_covid-19_2020)* [RESIDENTIAL ARCHITECTURE IN A POST-PANDEMIC
+COVID-19 pandemic](article_awada_ten_2021)
+* [The ventilation of buildings and other mitigating measures
+for COVID-19: a focus on wintertime](article_burridge_ventilation_2021)
+* [Association of built environment attributes with the
+spread of COVID-19 at its initial stage in China](article_li_association_2021)
+* [Antivirus-built environment: Lessons learned from
+Covid-19 pandemic](article_megahed_antivirus-built_2020)
+* [COVID-19 Experience Transforming the Protective
+Environment of Office Buildings and Spaces](article_phapant_covid-19_2021)
+* [COVID-19 Could Leverage a Sustainable Built
+Environment](article_pinheiro_covid-19_2020)
+* [RESIDENTIAL ARCHITECTURE IN A POST-PANDEMIC
 WORLD: IMPLICATIONS OF COVID-19 FOR NEW
 CONSTRUCTION AND FOR ADAPTING HERITAGE
-BUILDINGS](article_spennemann_residential_2021)* [How is COVID-19 Experience Transforming
+BUILDINGS](article_spennemann_residential_2021)
+* [How is COVID-19 Experience Transforming
 Sustainability Requirements of Residential
-Buildings? A Review](article_tokazhanov_how_2020)* [Impact of COVID-19 on IoT Adoption in Healthcare,
+Buildings? A Review](article_tokazhanov_how_2020)
+* [Impact of COVID-19 on IoT Adoption in Healthcare,
 Smart Homes, Smart Buildings, Smart Cities,
 Transportation and Industrial IoT](article_umair_impact_2021)

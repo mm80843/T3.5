@@ -26,11 +26,17 @@ Transmission](article_dietz_2019_2020)
 ### Cited by 
 
 * [A Review on Building Design as a Biomedical
-System for Preventing COVID-19 Pandemic](article_amran_review_2022)* [Occupant health in buildings: Impact of the COVID-19
+System for Preventing COVID-19 Pandemic](article_amran_review_2022)
+* [Occupant health in buildings: Impact of the COVID-19
 pandemic on the opinions of building professionals and
-implications on research](article_awada_occupant_2022)* [Prophylactic Architecture: Formulating the Concept
-of Pandemic-Resilient Homes](article_elrayies_prophylactic_2022)* [COVID-19 and Green Housing: A Review of
-Relevant Literature](article_kaklauskas_covid-19_2021)* [Designing Post COVID-19 Buildings: Approaches for
-Achieving Healthy Buildings](article_navaratnam_designing_2022)* [COVID-19 Experience Transforming the Protective
-Environment of Office Buildings and Spaces](article_phapant_covid-19_2021)* [A review of facilities management interventions to
+implications on research](article_awada_occupant_2022)
+* [Prophylactic Architecture: Formulating the Concept
+of Pandemic-Resilient Homes](article_elrayies_prophylactic_2022)
+* [COVID-19 and Green Housing: A Review of
+Relevant Literature](article_kaklauskas_covid-19_2021)
+* [Designing Post COVID-19 Buildings: Approaches for
+Achieving Healthy Buildings](article_navaratnam_designing_2022)
+* [COVID-19 Experience Transforming the Protective
+Environment of Office Buildings and Spaces](article_phapant_covid-19_2021)
+* [A review of facilities management interventions to
 mitigate respiratory infections in existing buildings](article_zhang_review_2022)

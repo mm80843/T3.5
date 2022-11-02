@@ -24,9 +24,13 @@ Ionization to Prevent Tuberculosis Transmission](article_escombe_upper-room_2009
 ### Cited by 
 
 * [A Review on Building Design as a Biomedical
-System for Preventing COVID-19 Pandemic](article_amran_review_2022)* [2019 Novel Coronavirus (COVID-19) Pandemic:
+System for Preventing COVID-19 Pandemic](article_amran_review_2022)
+* [2019 Novel Coronavirus (COVID-19) Pandemic:
 Built Environment Considerations To Reduce
-Transmission](article_dietz_2019_2020)* [Prophylactic Architecture: Formulating the Concept
-of Pandemic-Resilient Homes](article_elrayies_prophylactic_2022)* [Indoor Air Quality: Rethinking rules of building
-design strategies in post-pandemic architecture](article_megahed_indoor_2021)* [A review of facilities management interventions to
+Transmission](article_dietz_2019_2020)
+* [Prophylactic Architecture: Formulating the Concept
+of Pandemic-Resilient Homes](article_elrayies_prophylactic_2022)
+* [Indoor Air Quality: Rethinking rules of building
+design strategies in post-pandemic architecture](article_megahed_indoor_2021)
+* [A review of facilities management interventions to
 mitigate respiratory infections in existing buildings](article_zhang_review_2022)

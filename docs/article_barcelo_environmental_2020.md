@@ -27,5 +27,6 @@ challenges](article_hart_computational_2020)
 
 * [Wastewater-Based Epidemiology to monitor COVID-19
 outbreak: Present and future diagnostic methods to be in
-your radar](article_barcelo_wastewater-based_2020)* [Indoor Air Quality: Rethinking rules of building
+your radar](article_barcelo_wastewater-based_2020)
+* [Indoor Air Quality: Rethinking rules of building
 design strategies in post-pandemic architecture](article_megahed_indoor_2021)

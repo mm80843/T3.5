@@ -24,6 +24,7 @@ Environment](article_pinheiro_covid-19_2020)
 ### Cited by 
 
 * [Prophylactic Architecture: Formulating the Concept
-of Pandemic-Resilient Homes](article_elrayies_prophylactic_2022)* [Treating two pandemics for the price of one: Chronic and
+of Pandemic-Resilient Homes](article_elrayies_prophylactic_2022)
+* [Treating two pandemics for the price of one: Chronic and
 infectious disease impacts of the built and natural
 environment](article_frank_treating_2021)

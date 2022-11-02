@@ -23,12 +23,17 @@ minimised?](article_morawska_how_2020)
 ### Cited by 
 
 * [Prophylactic Architecture: Formulating the Concept
-of Pandemic-Resilient Homes](article_elrayies_prophylactic_2022)* [A critical review of heating, ventilation, and air
+of Pandemic-Resilient Homes](article_elrayies_prophylactic_2022)
+* [A critical review of heating, ventilation, and air
 conditioning (HVAC) systems within the context of a
-global SARS-CoV-2 epidemic](article_elsaid_critical_2021)* [Assessment of COVID-19 precautionary measures in sports
+global SARS-CoV-2 epidemic](article_elsaid_critical_2021)
+* [Assessment of COVID-19 precautionary measures in sports
 facilities: A case study on a health club in Saudi
-Arabia](article_ibrahim_assessment_2022)* [Designing Post COVID-19 Buildings: Approaches for
-Achieving Healthy Buildings](article_navaratnam_designing_2022)* [Impact of COVID-19 on IoT Adoption in Healthcare,
+Arabia](article_ibrahim_assessment_2022)
+* [Designing Post COVID-19 Buildings: Approaches for
+Achieving Healthy Buildings](article_navaratnam_designing_2022)
+* [Impact of COVID-19 on IoT Adoption in Healthcare,
 Smart Homes, Smart Buildings, Smart Cities,
-Transportation and Industrial IoT](article_umair_impact_2021)* [A review of facilities management interventions to
+Transportation and Industrial IoT](article_umair_impact_2021)
+* [A review of facilities management interventions to
 mitigate respiratory infections in existing buildings](article_zhang_review_2022)

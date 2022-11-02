@@ -43,5 +43,6 @@ sustainability.
 ### Cited by 
 
 * [Antivirus-built environment: Lessons learned from
-Covid-19 pandemic](article_megahed_antivirus-built_2020)* [Mapping research in logistics and supply chain management
+Covid-19 pandemic](article_megahed_antivirus-built_2020)
+* [Mapping research in logistics and supply chain management
 during COVID-19 pandemic](article_montoya-torres_mapping_2021)

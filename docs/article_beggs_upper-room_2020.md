@@ -61,5 +61,6 @@ Viral Aerosols](article_walker_effect_2007)
 ### Cited by 
 
 * [The ventilation of buildings and other mitigating measures
-for COVID-19: a focus on wintertime](article_burridge_ventilation_2021)* [Designing Post COVID-19 Buildings: Approaches for
+for COVID-19: a focus on wintertime](article_burridge_ventilation_2021)
+* [Designing Post COVID-19 Buildings: Approaches for
 Achieving Healthy Buildings](article_navaratnam_designing_2022)

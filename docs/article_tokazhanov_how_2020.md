@@ -67,13 +67,20 @@ Compared with SARS-CoV-1](article_van_doremalen_aerosol_2020)
 ### Cited by 
 
 * [A Review on Building Design as a Biomedical
-System for Preventing COVID-19 Pandemic](article_amran_review_2022)* [Towards Resilient Residential Buildings and
+System for Preventing COVID-19 Pandemic](article_amran_review_2022)
+* [Towards Resilient Residential Buildings and
 Neighborhoods in Light of COVID-19 Pandemic—The
-Scenario of Podgorica, Montenegro](article_bojovic_towards_2022)* [Prophylactic Architecture: Formulating the Concept
-of Pandemic-Resilient Homes](article_elrayies_prophylactic_2022)* [COVID-19 and Green Housing: A Review of
-Relevant Literature](article_kaklauskas_covid-19_2021)* [Designing Post COVID-19 Buildings: Approaches for
-Achieving Healthy Buildings](article_navaratnam_designing_2022)* [COVID-19 Experience Transforming the Protective
-Environment of Office Buildings and Spaces](article_phapant_covid-19_2021)* [Readiness Assessment of Green Building
+Scenario of Podgorica, Montenegro](article_bojovic_towards_2022)
+* [Prophylactic Architecture: Formulating the Concept
+of Pandemic-Resilient Homes](article_elrayies_prophylactic_2022)
+* [COVID-19 and Green Housing: A Review of
+Relevant Literature](article_kaklauskas_covid-19_2021)
+* [Designing Post COVID-19 Buildings: Approaches for
+Achieving Healthy Buildings](article_navaratnam_designing_2022)
+* [COVID-19 Experience Transforming the Protective
+Environment of Office Buildings and Spaces](article_phapant_covid-19_2021)
+* [Readiness Assessment of Green Building
 Certification Systems for Residential Buildings
-during Pandemics](article_tleuken_readiness_2021)* [Assessment method for new sustainability indicators
+during Pandemics](article_tleuken_readiness_2021)
+* [Assessment method for new sustainability indicators
 providing pandemic resilience for residential buildings](article_tokazhanov_assessment_2021)

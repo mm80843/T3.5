@@ -38,6 +38,7 @@ Pandemics Such as the COVID-19?](article_chang_how_2020)
 
 * [How the 5G Enabled the COVID-19 Pandemic
 Prevention and Control: Materiality, Affordance,
-and (De-)Spatialization](article_li_how_2022)* [Contributions of Smart City Solutions and
+and (De-)Spatialization](article_li_how_2022)
+* [Contributions of Smart City Solutions and
 Technologies to Resilience against the COVID-19
 Pandemic: A Literature Review](article_sharifi_contributions_2021)

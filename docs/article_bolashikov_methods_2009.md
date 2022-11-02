@@ -50,7 +50,10 @@ systematic review](article_li_role_2007)
 ### Cited by 
 
 * [A Review on Building Design as a Biomedical
-System for Preventing COVID-19 Pandemic](article_amran_review_2022)* [The ventilation of buildings and other mitigating measures
-for COVID-19: a focus on wintertime](article_burridge_ventilation_2021)* [Prophylactic Architecture: Formulating the Concept
-of Pandemic-Resilient Homes](article_elrayies_prophylactic_2022)* [Indoor Air Quality: Rethinking rules of building
+System for Preventing COVID-19 Pandemic](article_amran_review_2022)
+* [The ventilation of buildings and other mitigating measures
+for COVID-19: a focus on wintertime](article_burridge_ventilation_2021)
+* [Prophylactic Architecture: Formulating the Concept
+of Pandemic-Resilient Homes](article_elrayies_prophylactic_2022)
+* [Indoor Air Quality: Rethinking rules of building
 design strategies in post-pandemic architecture](article_megahed_indoor_2021)
