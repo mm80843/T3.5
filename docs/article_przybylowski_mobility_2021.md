@@ -1,12 +1,12 @@
 # Article: __Mobility Behaviour in View of the Impact of the COVID-19 Pandemic—Public Transport Users in Gdansk Case Study__ (przybylowski_mobility_2021)
 
 * [10.3390/su13010364](https://doi.org/10.3390/su13010364)
-* Cluster: [health-city](cluster_3)
+* Cluster: [resilience-health](cluster_4)
 
 
 ## Keywords
 
-[pandemic](keyword_pandemic), [safety](keyword_safety)
+[mobility](keyword_mobility), [pandemic](keyword_pandemic), [safety](keyword_safety), [transport](keyword_transport)
 
 ## Abstract
 

@@ -1,14 +1,14 @@
 # Keyword: __resilience__
 ## Clusters
 
-* Cluster 13: [resilience-sme](cluster_13)
+* Cluster 4: [resilience-health](cluster_4)
 
 ## Concepts
 
  ![](imgs/keyword_resilience.jpg)
 
 
-## Articles
+## Top 10 articles for __resilience__
 * A review of definitions and measures of system
 resilience ([hosseini_review_2016](article_hosseini_review_2016))
 * who_strengthening_2017 ([who_strengthening_2017](article_who_strengthening_2017))

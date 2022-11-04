@@ -1,16 +1,15 @@
 # Keyword: __risk__
 ## Clusters
 
-* Cluster 0: [building-energy](cluster_0)
-* Cluster 7: [climate-change](cluster_7)
-* Cluster 13: [resilience-sme](cluster_13)
+* Cluster 4: [resilience-health](cluster_4)
+* Cluster 9: [climate-change](cluster_9)
 
 ## Concepts
 
  ![](imgs/keyword_risk.jpg)
 
 
-## Articles
+## Top 10 articles for __risk__
 * oecd_guidelines_2014 ([oecd_guidelines_2014](article_oecd_guidelines_2014))
 * Seeing the invisible hand: Underlying effects of
 COVID-19 on tourists’ behavioral patterns ([li_seeing_2020](article_li_seeing_2020))

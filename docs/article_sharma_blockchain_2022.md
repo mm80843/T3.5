@@ -1,12 +1,12 @@
 # Article: __Blockchain technology and its applications to combat COVID-19 pandemic__ (sharma_blockchain_2022)
 
 * [10.1007/s42600-020-00106-3](https://doi.org/10.1007/s42600-020-00106-3)
-* Cluster: [datum-health](cluster_1)
+* Cluster: [smart-datum](cluster_8)
 
 
 ## Keywords
 
-[blockchain](keyword_blockchain), [pandemic](keyword_pandemic), [technology](keyword_technology), [coronavirus](keyword_coronavirus), [data](keyword_data)
+[blockchain](keyword_blockchain), [pandemic](keyword_pandemic), [technology](keyword_technology), [privacy](keyword_privacy), [coronavirus](keyword_coronavirus), [healthcare](keyword_healthcare), [data](keyword_data)
 
 
 ## Concepts

@@ -1,15 +1,14 @@
 # Keyword: __base__
 ## Clusters
 
-* Cluster 6: [smart-iot](cluster_6)
-* Cluster 12: [ontology-datum](cluster_12)
+* Cluster 5: [ontology-datum](cluster_5)
 
 ## Concepts
 
  ![](imgs/keyword_base.jpg)
 
 
-## Articles
+## Top 10 articles for __base__
 * Analysis of COVID-19 Concerns Raised by the
 Construction Workforce and Development of
 Mitigation Practices ([bou_hatoum_analysis_2021](article_bou_hatoum_analysis_2021))

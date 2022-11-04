@@ -1,12 +1,12 @@
 # Article: __Respiratory pandemics, urban planning and design: A multidisciplinary rapid review of the literature__ (harris_respiratory_2022)
 
 * [10.1016/j.cities.2022.103767](https://doi.org/10.1016/j.cities.2022.103767)
-* Cluster: [health-city](cluster_3)
+* Cluster: [space-urban](cluster_13)
 
 
 ## Keywords
 
-[pandemic](keyword_pandemic), [city](keyword_city), [design](keyword_design)
+[pandemic](keyword_pandemic), [city](keyword_city), [china](keyword_china), [design](keyword_design), [wuhan](keyword_wuhan), [influenza](keyword_influenza), [mobility](keyword_mobility)
 
 ## Abstract
 

@@ -1,14 +1,14 @@
 # Keyword: __death__
 ## Clusters
 
-* Cluster 7: [climate-change](cluster_7)
+* Cluster 9: [climate-change](cluster_9)
 
 ## Concepts
 
  ![](imgs/keyword_death.jpg)
 
 
-## Articles
+## Top 10 articles for __death__
 * The socio-economic determinants of COVID-19: A spatial
 analysis of German county level data ([ehlert_socio-economic_2021](article_ehlert_socio-economic_2021))
 * COVID-ABS: An agent-based model of COVID-19

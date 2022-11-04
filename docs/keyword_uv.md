@@ -2,14 +2,14 @@
 ## Clusters
 
 * Cluster 2: [air-sars](cluster_2)
-* Cluster 11: [uvgi-uv](cluster_11)
+* Cluster 14: [uvgi-uv](cluster_14)
 
 ## Concepts
 
  ![](imgs/keyword_uv.jpg)
 
 
-## Articles
+## Top 10 articles for __uv__
 * Upper-Room Ultraviolet Light and Negative Air
 Ionization to Prevent Tuberculosis Transmission ([escombe_upper-room_2009](article_escombe_upper-room_2009))
 * Air Disinfection for Airborne Infection Control

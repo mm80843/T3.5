@@ -1,7 +1,7 @@
 # Article: __DeepSOCIAL: Social Distancing Monitoring and Infection Risk Assessment in COVID-19 Pandemic__ (rezaei_deepsocial_2020)
 
 * [10.3390/app10217514](https://doi.org/10.3390/app10217514)
-* Cluster: [health-city](cluster_3)
+* Cluster: [space-urban](cluster_13)
 
 
 ## Keywords

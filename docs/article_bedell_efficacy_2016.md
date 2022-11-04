@@ -6,7 +6,7 @@
 
 ## Keywords
 
-[coronavirus](keyword_coronavirus), [disinfection](keyword_disinfection)
+[coronavirus](keyword_coronavirus), [disinfection](keyword_disinfection), [medium](keyword_medium)
 
 ## Abstract
 

@@ -1,12 +1,12 @@
 # Article: ____ (mehtab_alam_role_2021)
 
 * [10.6084/M9.FIGSHARE.14369627](https://doi.org/10.6084/M9.FIGSHARE.14369627)
-* Cluster: [datum-health](cluster_1)
+* Cluster: [health-ai](cluster_1)
 
 
 ## Keywords
 
-[coronavirus](keyword_coronavirus), [taiwan](keyword_taiwan), [infection](keyword_infection)
+[wuhan](keyword_wuhan), [china](keyword_china), [coronavirus](keyword_coronavirus), [hubei](keyword_hubei), [taiwan](keyword_taiwan), [infection](keyword_infection)
 
 ## Abstract
 

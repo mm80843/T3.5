@@ -9,7 +9,7 @@ seemingly faster than the disease itself.
 
 ## Keywords
 
-[coronavirus](keyword_coronavirus)
+[coronavirus](keyword_coronavirus), [china](keyword_china), [information](keyword_information)
 
 
 ## Concepts

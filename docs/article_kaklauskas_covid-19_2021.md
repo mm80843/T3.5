@@ -1,7 +1,7 @@
 # Article: __COVID-19 and Green Housing: A Review of Relevant Literature__ (kaklauskas_covid-19_2021)
 
 * [10.3390/en14082072](https://doi.org/10.3390/en14082072)
-* Cluster: [building-green](cluster_15)
+* Cluster: [space-urban](cluster_13)
 
 
 ## Keywords

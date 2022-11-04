@@ -1,18 +1,17 @@
 # Keyword: __building__
 ## Clusters
 
-* Cluster 0: [building-energy](cluster_0)
+* Cluster 0: [energy-building](cluster_0)
 * Cluster 2: [air-sars](cluster_2)
-* Cluster 5: [ieq-sensor](cluster_5)
-* Cluster 8: [building-space](cluster_8)
-* Cluster 15: [building-green](cluster_15)
+* Cluster 10: [building-health](cluster_10)
+* Cluster 13: [space-urban](cluster_13)
 
 ## Concepts
 
  ![](imgs/keyword_building.jpg)
 
 
-## Articles
+## Top 10 articles for __building__
 * A Global Survey of Infection Control and
 Mitigation Measures for Combating the Transmission
 of COVID-19 Pandemic in Buildings Under

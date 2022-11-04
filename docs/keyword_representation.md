@@ -1,14 +1,14 @@
 # Keyword: __representation__
 ## Clusters
 
-* Cluster 12: [ontology-datum](cluster_12)
+* Cluster 5: [ontology-datum](cluster_5)
 
 ## Concepts
 
  ![](imgs/keyword_representation.jpg)
 
 
-## Articles
+## Top 10 articles for __representation__
 * Readiness Assessment of Green Building
 Certification Systems for Residential Buildings
 during Pandemics ([tleuken_readiness_2021](article_tleuken_readiness_2021))

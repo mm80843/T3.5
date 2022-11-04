@@ -1,12 +1,12 @@
 # Article: __Applications of ultraviolet germicidal irradiation disinfection in health care facilities: Effective adjunct, but not stand-alone technology__ (memarzadeh_applications_2010)
 
 * [10.1016/j.ajic.2010.04.208](https://doi.org/10.1016/j.ajic.2010.04.208)
-* Cluster: [uvgi-uv](cluster_11)
+* Cluster: [uvgi-uv](cluster_14)
 
 
 ## Keywords
 
-[uvgi](keyword_uvgi), [disinfection](keyword_disinfection), [ventilation](keyword_ventilation), [germicidal](keyword_germicidal), [ultraviolet](keyword_ultraviolet), [bacteria](keyword_bacteria), [microorganism](keyword_microorganism), [virus](keyword_virus), [lamp](keyword_lamp)
+[uvgi](keyword_uvgi), [ventilation](keyword_ventilation), [germicidal](keyword_germicidal), [disinfection](keyword_disinfection), [ultraviolet](keyword_ultraviolet), [bacteria](keyword_bacteria), [microorganism](keyword_microorganism), [virus](keyword_virus), [hospital](keyword_hospital), [influenza](keyword_influenza), [lamp](keyword_lamp)
 
 
 ## Concepts

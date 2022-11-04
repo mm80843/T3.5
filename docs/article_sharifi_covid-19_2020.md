@@ -1,12 +1,12 @@
 # Article: __The COVID-19 pandemic: Impacts on cities and major lessons for urban planning, design, and management__ (sharifi_covid-19_2020)
 
 * [10.1016/j.scitotenv.2020.142391](https://doi.org/10.1016/j.scitotenv.2020.142391)
-* Cluster: [health-city](cluster_3)
+* Cluster: [space-urban](cluster_13)
 
 
 ## Keywords
 
-[pandemic](keyword_pandemic), [city](keyword_city)
+[pandemic](keyword_pandemic), [china](keyword_china), [city](keyword_city), [wuhan](keyword_wuhan)
 
 ## Abstract
 

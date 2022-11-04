@@ -10,7 +10,7 @@ pandemic.
 
 ## Keywords
 
-[drone](keyword_drone), [city](keyword_city)
+[city](keyword_city)
 
 
 ## Concepts

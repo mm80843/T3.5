@@ -1,14 +1,14 @@
 # Keyword: __oecd__
 ## Clusters
 
-* Cluster 13: [resilience-sme](cluster_13)
+* Cluster 4: [resilience-health](cluster_4)
 
 ## Concepts
 
  ![](imgs/keyword_oecd.jpg)
 
 
-## Articles
+## Top 10 articles for __oecd__
 * rtpi_urban_2021 ([rtpi_urban_2021](article_rtpi_urban_2021))
 * What has been the impact of the COVID-19 pandemic on
 immigrants? An update on recent evidence ([oecd_what_2022](article_oecd_what_2022))
@@ -21,8 +21,8 @@ of COVID-19 ([oecd_global_2021](article_oecd_global_2021))
 of SME finance in selected ASEAN member states ([taghizadeh-hesary_covid-19_2022](article_taghizadeh-hesary_covid-19_2022))
 * Learning from the COVID-19 pandemic in governing smart
 cities ([bolivar_learning_2022](article_bolivar_learning_2022))
-* Blockchain technology and its applications to combat
-COVID-19 pandemic ([sharma_blockchain_2022](article_sharma_blockchain_2022))
 * Strategies to Mitigate COVID-19 Pandemic Impacts
 on Health and Safety of Workers in Construction
 Projects ([kaushal_strategies_2021](article_kaushal_strategies_2021))
+* Blockchain technology and its applications to combat
+COVID-19 pandemic ([sharma_blockchain_2022](article_sharma_blockchain_2022))

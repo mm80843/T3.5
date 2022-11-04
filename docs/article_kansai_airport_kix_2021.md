@@ -6,7 +6,7 @@
 
 ## Keywords
 
-[infrastructure](keyword_infrastructure), [country](keyword_country)
+[infrastructure](keyword_infrastructure)
 
 
 ## Concepts

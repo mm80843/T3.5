@@ -6,7 +6,7 @@
 
 ## Keywords
 
-[resilience](keyword_resilience), [risk](keyword_risk), [shock](keyword_shock), [policy](keyword_policy), [oecd](keyword_oecd), [system](keyword_system), [indicator](keyword_indicator)
+[resilience](keyword_resilience), [risk](keyword_risk), [policy](keyword_policy), [oecd](keyword_oecd), [system](keyword_system)
 
 
 ## Concepts

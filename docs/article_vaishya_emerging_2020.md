@@ -1,7 +1,7 @@
 # Article: __Emerging Technologies to Combat the COVID-19 Pandemic__ (vaishya_emerging_2020)
 
 * [10.1016/j.jceh.2020.04.019](https://doi.org/10.1016/j.jceh.2020.04.019)
-* Cluster: [datum-health](cluster_1)
+* Cluster: [health-ai](cluster_1)
 
 
 ## Keywords

@@ -1,12 +1,12 @@
 # Article: __Home garden use during COVID-19: Associations with physical and mental wellbeing in older adults__ (corley_home_2021)
 
 * [10.1016/j.jenvp.2020.101545](https://doi.org/10.1016/j.jenvp.2020.101545)
-* Cluster: [health-city](cluster_3)
+* Cluster: [building-health](cluster_10)
 
 
 ## Keywords
 
-[health](keyword_health)
+[health](keyword_health), [anxiety](keyword_anxiety)
 
 
 ## Concepts

@@ -1,20 +1,22 @@
 # Keyword: __health__
 ## Clusters
 
-* Cluster 1: [datum-health](cluster_1)
-* Cluster 3: [health-city](cluster_3)
-* Cluster 7: [climate-change](cluster_7)
-* Cluster 8: [building-space](cluster_8)
-* Cluster 9: [construction-project](cluster_9)
-* Cluster 13: [resilience-sme](cluster_13)
-* Cluster 15: [building-green](cluster_15)
+* Cluster 1: [health-ai](cluster_1)
+* Cluster 3: [construction-project](cluster_3)
+* Cluster 4: [resilience-health](cluster_4)
+* Cluster 8: [smart-datum](cluster_8)
+* Cluster 9: [climate-change](cluster_9)
+* Cluster 10: [building-health](cluster_10)
+* Cluster 11: [anxiety-social](cluster_11)
+* Cluster 13: [space-urban](cluster_13)
+* Cluster 15: [water-wastewater](cluster_15)
 
 ## Concepts
 
  ![](imgs/keyword_health.jpg)
 
 
-## Articles
+## Top 10 articles for __health__
 * world_green_building_council_health_2014 ([world_green_building_council_health_2014](article_world_green_building_council_health_2014))
 * who_strengthening_2017 ([who_strengthening_2017](article_who_strengthening_2017))
 * realdania_refleksioner_2022_EN ([realdania_refleksioner_2022_EN](article_realdania_refleksioner_2022_EN))

@@ -1,12 +1,12 @@
 # Article: __How the 5G Enabled the COVID-19 Pandemic Prevention and Control: Materiality, Affordance, and (De-)Spatialization__ (li_how_2022)
 
 * [10.3390/ijerph19158965](https://doi.org/10.3390/ijerph19158965)
-* Cluster: [smart-iot](cluster_6)
+* Cluster: [smart-datum](cluster_8)
 
 
 ## Keywords
 
-[pandemic](keyword_pandemic), [control](keyword_control)
+[pandemic](keyword_pandemic), [control](keyword_control), [china](keyword_china), [wuhan](keyword_wuhan)
 
 ## Abstract
 

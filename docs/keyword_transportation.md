@@ -1,14 +1,14 @@
 # Keyword: __transportation__
 ## Clusters
 
-* Cluster 9: [construction-project](cluster_9)
+* Cluster 3: [construction-project](cluster_3)
 
 ## Concepts
 
  ![](imgs/keyword_transportation.jpg)
 
 
-## Articles
+## Top 10 articles for __transportation__
 * Impact of COVID-19 on IoT Adoption in Healthcare,
 Smart Homes, Smart Buildings, Smart Cities,
 Transportation and Industrial IoT ([umair_impact_2021](article_umair_impact_2021))

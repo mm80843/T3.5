@@ -1,19 +1,21 @@
 # Keyword: __pandemic__
 ## Clusters
 
-* Cluster 1: [datum-health](cluster_1)
-* Cluster 3: [health-city](cluster_3)
-* Cluster 6: [smart-iot](cluster_6)
-* Cluster 8: [building-space](cluster_8)
-* Cluster 9: [construction-project](cluster_9)
-* Cluster 15: [building-green](cluster_15)
+* Cluster 1: [health-ai](cluster_1)
+* Cluster 3: [construction-project](cluster_3)
+* Cluster 4: [resilience-health](cluster_4)
+* Cluster 8: [smart-datum](cluster_8)
+* Cluster 9: [climate-change](cluster_9)
+* Cluster 10: [building-health](cluster_10)
+* Cluster 11: [anxiety-social](cluster_11)
+* Cluster 13: [space-urban](cluster_13)
 
 ## Concepts
 
  ![](imgs/keyword_pandemic.jpg)
 
 
-## Articles
+## Top 10 articles for __pandemic__
 * realdania_refleksioner_2022_EN ([realdania_refleksioner_2022_EN](article_realdania_refleksioner_2022_EN))
 * Contributions of Smart City Solutions and
 Technologies to Resilience against the COVID-19

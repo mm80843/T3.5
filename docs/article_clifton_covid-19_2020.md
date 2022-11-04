@@ -10,7 +10,7 @@ coronavirus, flexible workspaces and what to expect.
 
 ## Keywords
 
-[workplace](keyword_workplace), [pandemic](keyword_pandemic)
+[pandemic](keyword_pandemic)
 
 
 ## Concepts

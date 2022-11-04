@@ -6,7 +6,7 @@
 
 ## Keywords
 
-[virus](keyword_virus), [build](keyword_build), [building](keyword_building), [ventilation](keyword_ventilation), [transmission](keyword_transmission)
+[virus](keyword_virus), [build](keyword_build), [building](keyword_building), [ventilation](keyword_ventilation), [transmission](keyword_transmission), [hospital](keyword_hospital)
 
 ## Abstract
 

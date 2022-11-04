@@ -1,7 +1,7 @@
 # Article: __A review of definitions and measures of system resilience__ (hosseini_review_2016)
 
 * [10.1016/j.ress.2015.08.006](https://doi.org/10.1016/j.ress.2015.08.006)
-* Cluster: [resilience-sme](cluster_13)
+* Cluster: [resilience-health](cluster_4)
 
 
 ## Keywords

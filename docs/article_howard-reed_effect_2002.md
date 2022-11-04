@@ -6,7 +6,7 @@
 
 ## Keywords
 
-[temperature](keyword_temperature)
+
 
 
 ## Concepts

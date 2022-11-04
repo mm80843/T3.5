@@ -6,7 +6,7 @@
 
 ## Keywords
 
-[ventilation](keyword_ventilation), [virus](keyword_virus), [disinfection](keyword_disinfection), [infection](keyword_infection), [droplet](keyword_droplet), [transmission](keyword_transmission), [temperature](keyword_temperature), [uvgi](keyword_uvgi), [environment](keyword_environment)
+[ventilation](keyword_ventilation), [virus](keyword_virus), [disinfection](keyword_disinfection), [infection](keyword_infection), [influenza](keyword_influenza), [droplet](keyword_droplet), [uvgi](keyword_uvgi), [transmission](keyword_transmission)
 
 ## Abstract
 

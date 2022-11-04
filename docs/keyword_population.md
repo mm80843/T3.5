@@ -1,14 +1,14 @@
 # Keyword: __population__
 ## Clusters
 
-* Cluster 3: [health-city](cluster_3)
+* Cluster 6: [simulation-model](cluster_6)
 
 ## Concepts
 
  ![](imgs/keyword_population.jpg)
 
 
-## Articles
+## Top 10 articles for __population__
 * The Socio-Spatial Determinants of COVID-19
 Diffusion: The Impact of Globalisation,
 Settlement Characteristics and Population ([sigler_socio-spatial_2020](article_sigler_socio-spatial_2020))

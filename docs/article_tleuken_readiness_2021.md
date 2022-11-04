@@ -1,12 +1,12 @@
 # Article: __Readiness Assessment of Green Building Certification Systems for Residential Buildings during Pandemics__ (tleuken_readiness_2021)
 
 * [10.3390/su13020460](https://doi.org/10.3390/su13020460)
-* Cluster: [building-green](cluster_15)
+* Cluster: [building-health](cluster_10)
 
 
 ## Keywords
 
-[pandemic](keyword_pandemic), [breeam](keyword_breeam), [indicator](keyword_indicator), [sustainability](keyword_sustainability), [comfort](keyword_comfort), [build](keyword_build), [virus](keyword_virus), [health](keyword_health)
+[pandemic](keyword_pandemic), [build](keyword_build), [virus](keyword_virus), [health](keyword_health)
 
 ## Abstract
 

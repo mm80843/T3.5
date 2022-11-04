@@ -6,7 +6,7 @@
 
 ## Keywords
 
-[disease](keyword_disease)
+[epidemic](keyword_epidemic), [disease](keyword_disease)
 
 
 ## Concepts

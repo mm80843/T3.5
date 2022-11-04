@@ -1,14 +1,14 @@
 # Keyword: __biomedical__
 ## Clusters
 
-* Cluster 12: [ontology-datum](cluster_12)
+* Cluster 5: [ontology-datum](cluster_5)
 
 ## Concepts
 
  ![](imgs/keyword_biomedical.jpg)
 
 
-## Articles
+## Top 10 articles for __biomedical__
 * CIDO, a community-based ontology for coronavirus disease
 knowledge and data integration, sharing, and analysis ([he_cido_2020](article_he_cido_2020))
 * An Overview of Biomedical Ontologies for Pandemics

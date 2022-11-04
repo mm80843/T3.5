@@ -1,16 +1,15 @@
 # Keyword: __ventilation__
 ## Clusters
 
-* Cluster 0: [building-energy](cluster_0)
 * Cluster 2: [air-sars](cluster_2)
-* Cluster 11: [uvgi-uv](cluster_11)
+* Cluster 14: [uvgi-uv](cluster_14)
 
 ## Concepts
 
  ![](imgs/keyword_ventilation.jpg)
 
 
-## Articles
+## Top 10 articles for __ventilation__
 * The ventilation of buildings and other mitigating measures
 for COVID-19: a focus on wintertime ([burridge_ventilation_2021](article_burridge_ventilation_2021))
 * Environmental factors involved in SARS-CoV-2

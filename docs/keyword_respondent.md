@@ -1,14 +1,14 @@
 # Keyword: __respondent__
 ## Clusters
 
-* Cluster 9: [construction-project](cluster_9)
+* Cluster 3: [construction-project](cluster_3)
 
 ## Concepts
 
  ![](imgs/keyword_respondent.jpg)
 
 
-## Articles
+## Top 10 articles for __respondent__
 * Effects to Construction Project Management
 Impacted Circular Economic of Covid-19 Pandemic ([paikan_effects_2021](article_paikan_effects_2021))
 * Housing Experience in Gated Communities in the

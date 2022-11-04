@@ -1,14 +1,15 @@
 # Keyword: __sewage__
 ## Clusters
 
-* Cluster 4: [wastewater-sars](cluster_4)
+* Cluster 12: [wastewater-sars](cluster_12)
+* Cluster 15: [water-wastewater](cluster_15)
 
 ## Concepts
 
  ![](imgs/keyword_sewage.jpg)
 
 
-## Articles
+## Top 10 articles for __sewage__
 * SARS-CoV-2 Titers in Wastewater Are Higher
 than Expected from Clinically Confirmed Cases ([wu_sars-cov-2_2020](article_wu_sars-cov-2_2020))
 * SARS-CoV-2 RNA detection of hospital isolation wards
@@ -29,12 +30,13 @@ in Italy ([la_rosa_first_2020](article_la_rosa_first_2020))
 * First confirmed detection of SARS-CoV-2 in untreated
 wastewater in Australia: A proof of concept for the
 wastewater surveillance of COVID-19 in the community ([ahmed_first_2020](article_ahmed_first_2020))
-* Wastewater-Based Epidemiology to monitor COVID-19
-outbreak: Present and future diagnostic methods to be in
-your radar ([barcelo_wastewater-based_2020](article_barcelo_wastewater-based_2020))
 * Future perspectives of wastewater-based epidemiology:
 Monitoring infectious disease spread and resistance to
 the community level ([sims_future_2020](article_sims_future_2020))
 * Detection of SARS-CoV-2 in raw and treated wastewater
 in Germany – Suitability for COVID-19 surveillance
 and potential transmission risks ([westhaus_detection_2021](article_westhaus_detection_2021))
+* Computational analysis of SARS-CoV-2/COVID-19
+surveillance by wastewater-based epidemiology locally and
+globally: Feasibility, economy, opportunities and
+challenges ([hart_computational_2020](article_hart_computational_2020))

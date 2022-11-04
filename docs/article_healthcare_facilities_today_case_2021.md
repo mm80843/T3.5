@@ -6,7 +6,7 @@
 
 ## Keywords
 
-[coronavirus](keyword_coronavirus), [bacteria](keyword_bacteria), [germicidal](keyword_germicidal), [disinfection](keyword_disinfection)
+[hospital](keyword_hospital), [coronavirus](keyword_coronavirus), [bacteria](keyword_bacteria), [disinfection](keyword_disinfection)
 
 
 ## Concepts

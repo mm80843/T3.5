@@ -1,14 +1,14 @@
 # Keyword: __sample__
 ## Clusters
 
-* Cluster 4: [wastewater-sars](cluster_4)
+* Cluster 12: [wastewater-sars](cluster_12)
 
 ## Concepts
 
  ![](imgs/keyword_sample.jpg)
 
 
-## Articles
+## Top 10 articles for __sample__
 * A Global Survey of Infection Control and
 Mitigation Measures for Combating the Transmission
 of COVID-19 Pandemic in Buildings Under

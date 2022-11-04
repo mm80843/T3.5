@@ -6,7 +6,7 @@
 
 ## Keywords
 
-[coronavirus](keyword_coronavirus), [virus](keyword_virus), [transmission](keyword_transmission), [aerosol](keyword_aerosol), [pandemic](keyword_pandemic), [viral](keyword_viral), [ventilation](keyword_ventilation)
+[coronavirus](keyword_coronavirus), [virus](keyword_virus), [china](keyword_china), [wuhan](keyword_wuhan), [transmission](keyword_transmission), [aerosol](keyword_aerosol), [pandemic](keyword_pandemic), [viral](keyword_viral), [ventilation](keyword_ventilation)
 
 ## Abstract
 

@@ -1,14 +1,14 @@
 # Keyword: __construction__
 ## Clusters
 
-* Cluster 9: [construction-project](cluster_9)
+* Cluster 3: [construction-project](cluster_3)
 
 ## Concepts
 
  ![](imgs/keyword_construction.jpg)
 
 
-## Articles
+## Top 10 articles for __construction__
 * Guidelines for Responding to COVID-19 Pandemic:
 Best Practices, Impacts, and Future Research
 Directions ([assaad_guidelines_2021](article_assaad_guidelines_2021))

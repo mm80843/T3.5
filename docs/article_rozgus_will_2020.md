@@ -11,7 +11,7 @@ Consulting - Specifying Engineer
 
 ## Keywords
 
-[pandemic](keyword_pandemic), [build](keyword_build), [engineering](keyword_engineering)
+[pandemic](keyword_pandemic), [build](keyword_build), [hospital](keyword_hospital), [engineering](keyword_engineering)
 
 
 ## Concepts

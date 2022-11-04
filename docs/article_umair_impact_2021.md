@@ -1,12 +1,12 @@
 # Article: __Impact of COVID-19 on IoT Adoption in Healthcare, Smart Homes, Smart Buildings, Smart Cities, Transportation and Industrial IoT__ (umair_impact_2021)
 
 * [10.3390/s21113838](https://doi.org/10.3390/s21113838)
-* Cluster: [smart-iot](cluster_6)
+* Cluster: [smart-datum](cluster_8)
 
 
 ## Keywords
 
-[iot](keyword_iot), [pandemic](keyword_pandemic), [coronavirus](keyword_coronavirus), [data](keyword_data)
+[iot](keyword_iot), [pandemic](keyword_pandemic), [healthcare](keyword_healthcare), [coronavirus](keyword_coronavirus), [data](keyword_data), [sensor](keyword_sensor)
 
 ## Abstract
 

@@ -1,15 +1,14 @@
 # Keyword: __need__
 ## Clusters
 
-* Cluster 0: [building-energy](cluster_0)
-* Cluster 7: [climate-change](cluster_7)
+* Cluster 9: [climate-change](cluster_9)
 
 ## Concepts
 
  ![](imgs/keyword_need.jpg)
 
 
-## Articles
+## Top 10 articles for __need__
 * COVID-19 and Green Housing: A Review of
 Relevant Literature ([kaklauskas_covid-19_2021](article_kaklauskas_covid-19_2021))
 * realdania_refleksioner_2022_EN ([realdania_refleksioner_2022_EN](article_realdania_refleksioner_2022_EN))

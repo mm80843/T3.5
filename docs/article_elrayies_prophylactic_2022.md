@@ -1,12 +1,12 @@
 # Article: __Prophylactic Architecture: Formulating the Concept of Pandemic-Resilient Homes__ (elrayies_prophylactic_2022)
 
 * [10.3390/buildings12070927](https://doi.org/10.3390/buildings12070927)
-* Cluster: [building-green](cluster_15)
+* Cluster: [space-urban](cluster_13)
 
 
 ## Keywords
 
-[pandemic](keyword_pandemic), [home](keyword_home), [ventilation](keyword_ventilation), [housing](keyword_housing), [balcony](keyword_balcony), [infection](keyword_infection)
+[pandemic](keyword_pandemic), [home](keyword_home), [ventilation](keyword_ventilation), [housing](keyword_housing), [epidemic](keyword_epidemic), [infection](keyword_infection)
 
 ## Abstract
 

@@ -1,15 +1,15 @@
 # Keyword: __technology__
 ## Clusters
 
-* Cluster 1: [datum-health](cluster_1)
-* Cluster 6: [smart-iot](cluster_6)
+* Cluster 1: [health-ai](cluster_1)
+* Cluster 8: [smart-datum](cluster_8)
 
 ## Concepts
 
  ![](imgs/keyword_technology.jpg)
 
 
-## Articles
+## Top 10 articles for __technology__
 * Future (post-COVID) digital, smart and sustainable
 cities in the wake of 6G: Digital twins, immersive
 realities and new urban economies ([allam_future_2021](article_allam_future_2021))

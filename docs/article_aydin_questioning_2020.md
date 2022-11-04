@@ -1,12 +1,12 @@
 # Article: __Questioning the use of the balcony in apartments during the COVID-19 pandemic process__ (aydin_questioning_2020)
 
 * [10.1108/ARCH-09-2020-0202](https://doi.org/10.1108/ARCH-09-2020-0202)
-* Cluster: [building-space](cluster_8)
+* Cluster: [space-urban](cluster_13)
 
 
 ## Keywords
 
-[balcony](keyword_balcony), [pandemic](keyword_pandemic), [apartment](keyword_apartment)
+[pandemic](keyword_pandemic), [epidemic](keyword_epidemic), [privacy](keyword_privacy)
 
 ## Abstract
 

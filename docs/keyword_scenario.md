@@ -1,14 +1,14 @@
 # Keyword: __scenario__
 ## Clusters
 
-* Cluster 10: [scenario-agent](cluster_10)
+* Cluster 6: [simulation-model](cluster_6)
 
 ## Concepts
 
  ![](imgs/keyword_scenario.jpg)
 
 
-## Articles
+## Top 10 articles for __scenario__
 * COVID-ABS: An agent-based model of COVID-19
 epidemic to simulate health and economic effects of social
 distancing interventions ([silva_covid-abs_2020](article_silva_covid-abs_2020))

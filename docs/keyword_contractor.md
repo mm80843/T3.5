@@ -1,14 +1,14 @@
 # Keyword: __contractor__
 ## Clusters
 
-* Cluster 9: [construction-project](cluster_9)
+* Cluster 3: [construction-project](cluster_3)
 
 ## Concepts
 
  ![](imgs/keyword_contractor.jpg)
 
 
-## Articles
+## Top 10 articles for __contractor__
 * Mechanisms for addressing the impact of COVID-19 on
 infrastructure projects ([king_mechanisms_2021](article_king_mechanisms_2021))
 * Guidelines for Responding to COVID-19 Pandemic:

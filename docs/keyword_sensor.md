@@ -1,15 +1,14 @@
 # Keyword: __sensor__
 ## Clusters
 
-* Cluster 5: [ieq-sensor](cluster_5)
-* Cluster 6: [smart-iot](cluster_6)
+* Cluster 10: [building-health](cluster_10)
 
 ## Concepts
 
  ![](imgs/keyword_sensor.jpg)
 
 
-## Articles
+## Top 10 articles for __sensor__
 * Scalable IoT Architecture for Monitoring IEQ
 Conditions in Public and Private Buildings ([calvo_scalable_2022](article_calvo_scalable_2022))
 * An Intelligent IEQ Monitoring and Feedback
@@ -27,11 +26,11 @@ COVID-19 pandemic ([awada_ten_2021](article_awada_ten_2021))
 * Assessment of Building Automation and Control
 Systems in Danish Healthcare Facilities in the
 COVID-19 Era ([pedersen_assessment_2022](article_pedersen_assessment_2022))
+* The role of 5G for digital healthcare against COVID-19
+pandemic: Opportunities and challenges ([siriwardhana_role_2021](article_siriwardhana_role_2021))
 * Characterization and performance evaluation of a
 full-scale activated carbon-based dynamic botanical air
 filtration system for improving indoor air quality ([wang_characterization_2011](article_wang_characterization_2011))
-* The role of 5G for digital healthcare against COVID-19
-pandemic: Opportunities and challenges ([siriwardhana_role_2021](article_siriwardhana_role_2021))
 * Contributions of Smart City Solutions and
 Technologies to Resilience against the COVID-19
 Pandemic: A Literature Review ([sharifi_contributions_2021](article_sharifi_contributions_2021))

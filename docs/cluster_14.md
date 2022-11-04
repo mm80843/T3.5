@@ -1,7 +1,7 @@
-# Cluster: __onlinelibrary-wiley__ (cluster14)
+# Cluster: __uvgi-uv__ (cluster14)
 ## Keywords
 
-* [onlinelibrary](keyword_onlinelibrary), [wiley](keyword_wiley), [terms](keyword_terms), [place](keyword_place), [public](keyword_public), [library](keyword_library), [cochrane](keyword_cochrane), [oa](keyword_oa), [measure](keyword_measure), [anthropological](keyword_anthropological), [conditions](keyword_conditions), [exaggerated](keyword_exaggerated), [govern](keyword_govern), [stanford](keyword_stanford), [online](keyword_online), [adaptive](keyword_adaptive), [applicable](keyword_applicable), [download](keyword_download), [node](keyword_node), [may](keyword_may)
+* [uvgi](keyword_uvgi), [uv](keyword_uv), [air](keyword_air), [room](keyword_room), [airborne](keyword_airborne), [upper](keyword_upper), [droplet](keyword_droplet), [lamp](keyword_lamp), [system](keyword_system), [germicidal](keyword_germicidal), [ultraviolet](keyword_ultraviolet), [bacteria](keyword_bacteria), [ventilation](keyword_ventilation), [irradiation](keyword_irradiation), [memarzadeh](keyword_memarzadeh), [control](keyword_control), [microorganism](keyword_microorganism), [infection](keyword_infection), [nucleus](keyword_nucleus), [olmste](keyword_olmste)
 
 ## Concepts
 
@@ -10,7 +10,6 @@
 
 ## Articles
 
-* 10 Adaptive Measures for Public Places to face the
-COVID 19 Pandemic Outbreak ([cheshmehzangi_10_2020](article_cheshmehzangi_10_2020))
-* Coronavirus disease 2019: The harms of exaggerated
-information and non‐evidence‐based measures ([ioannidis_coronavirus_2020](article_ioannidis_coronavirus_2020))
+* Applications of ultraviolet germicidal irradiation
+disinfection in health care facilities: Effective
+adjunct, but not stand-alone technology ([memarzadeh_applications_2010](article_memarzadeh_applications_2010))

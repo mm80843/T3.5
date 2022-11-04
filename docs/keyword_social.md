@@ -1,14 +1,15 @@
 # Keyword: __social__
 ## Clusters
 
-* Cluster 3: [health-city](cluster_3)
+* Cluster 11: [anxiety-social](cluster_11)
+* Cluster 13: [space-urban](cluster_13)
 
 ## Concepts
 
  ![](imgs/keyword_social.jpg)
 
 
-## Articles
+## Top 10 articles for __social__
 * rtpi_urban_2021 ([rtpi_urban_2021](article_rtpi_urban_2021))
 * realdania_refleksioner_2022_EN ([realdania_refleksioner_2022_EN](article_realdania_refleksioner_2022_EN))
 * COVID-ABS: An agent-based model of COVID-19

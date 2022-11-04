@@ -10,7 +10,7 @@ are significant benefits in this model...
 
 ## Keywords
 
-[population](keyword_population), [virus](keyword_virus)
+[population](keyword_population), [virus](keyword_virus), [spread](keyword_spread), [epidemic](keyword_epidemic)
 
 
 ## Concepts

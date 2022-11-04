@@ -1,14 +1,15 @@
 # Keyword: __build__
 ## Clusters
 
-* Cluster 8: [building-space](cluster_8)
+* Cluster 10: [building-health](cluster_10)
+* Cluster 13: [space-urban](cluster_13)
 
 ## Concepts
 
  ![](imgs/keyword_build.jpg)
 
 
-## Articles
+## Top 10 articles for __build__
 * Occupant health in buildings: Impact of the COVID-19
 pandemic on the opinions of building professionals and
 implications on research ([awada_occupant_2022](article_awada_occupant_2022))

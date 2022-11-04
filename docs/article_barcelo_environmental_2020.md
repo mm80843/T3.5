@@ -1,12 +1,12 @@
 # Article: __An environmental and health perspective for COVID-19 outbreak: Meteorology and air quality influence, sewage epidemiology indicator, hospitals disinfection, drug therapies and recommendations__ (barcelo_environmental_2020)
 
 * [10.1016/j.jece.2020.104006](https://doi.org/10.1016/j.jece.2020.104006)
-* Cluster: [wastewater-sars](cluster_4)
+* Cluster: [water-wastewater](cluster_15)
 
 
 ## Keywords
 
-[wastewater](keyword_wastewater), [virus](keyword_virus), [sewage](keyword_sewage), [disinfection](keyword_disinfection), [coronavirus](keyword_coronavirus)
+[wastewater](keyword_wastewater), [china](keyword_china), [virus](keyword_virus), [sewage](keyword_sewage), [disinfection](keyword_disinfection), [hospital](keyword_hospital), [wuhan](keyword_wuhan)
 
 
 ## Concepts

@@ -1,14 +1,14 @@
 # Keyword: __irradiation__
 ## Clusters
 
-* Cluster 11: [uvgi-uv](cluster_11)
+* Cluster 14: [uvgi-uv](cluster_14)
 
 ## Concepts
 
  ![](imgs/keyword_irradiation.jpg)
 
 
-## Articles
+## Top 10 articles for __irradiation__
 * Upper-room ultraviolet air disinfection might help to
 reduce COVID-19 transmission in buildings: a feasibility
 study ([beggs_upper-room_2020](article_beggs_upper-room_2020))

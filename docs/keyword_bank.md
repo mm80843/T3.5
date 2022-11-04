@@ -1,14 +1,14 @@
 # Keyword: __bank__
 ## Clusters
 
-* Cluster 13: [resilience-sme](cluster_13)
+* Cluster 4: [resilience-health](cluster_4)
 
 ## Concepts
 
  ![](imgs/keyword_bank.jpg)
 
 
-## Articles
+## Top 10 articles for __bank__
 * COVID-19 and regional solutions for mitigating the risk
 of SME finance in selected ASEAN member states ([taghizadeh-hesary_covid-19_2022](article_taghizadeh-hesary_covid-19_2022))
 * world_green_building_council_health_2014 ([world_green_building_council_health_2014](article_world_green_building_council_health_2014))

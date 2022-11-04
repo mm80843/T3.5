@@ -1,7 +1,7 @@
 # Article: __Supporting Technologies for COVID-19 Prevention: Systemized Review__ (zhao_supporting_2022)
 
 * [10.2196/30344](https://doi.org/10.2196/30344)
-* Cluster: [datum-health](cluster_1)
+* Cluster: [health-ai](cluster_1)
 
 
 ## Keywords

@@ -6,7 +6,7 @@
 
 ## Keywords
 
-[disinfection](keyword_disinfection), [sewage](keyword_sewage), [coronavirus](keyword_coronavirus), [infection](keyword_infection)
+[china](keyword_china), [disinfection](keyword_disinfection), [sewage](keyword_sewage), [respiratory](keyword_respiratory), [coronavirus](keyword_coronavirus), [hospital](keyword_hospital), [infection](keyword_infection)
 
 
 ## Concepts

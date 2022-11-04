@@ -1,14 +1,14 @@
 # Keyword: __earth__
 ## Clusters
 
-* Cluster 7: [climate-change](cluster_7)
+* Cluster 9: [climate-change](cluster_9)
 
 ## Concepts
 
  ![](imgs/keyword_earth.jpg)
 
 
-## Articles
+## Top 10 articles for __earth__
 * Analysis of COVID-19 Concerns Raised by the
 Construction Workforce and Development of
 Mitigation Practices ([bou_hatoum_analysis_2021](article_bou_hatoum_analysis_2021))

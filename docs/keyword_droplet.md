@@ -1,15 +1,14 @@
 # Keyword: __droplet__
 ## Clusters
 
-* Cluster 2: [air-sars](cluster_2)
-* Cluster 11: [uvgi-uv](cluster_11)
+* Cluster 14: [uvgi-uv](cluster_14)
 
 ## Concepts
 
  ![](imgs/keyword_droplet.jpg)
 
 
-## Articles
+## Top 10 articles for __droplet__
 * The ventilation of buildings and other mitigating measures
 for COVID-19: a focus on wintertime ([burridge_ventilation_2021](article_burridge_ventilation_2021))
 * Mechanistic insights into the effect of humidity on

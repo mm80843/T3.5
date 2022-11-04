@@ -1,7 +1,7 @@
 # Article: __Housing Experience in Gated Communities in the Time of Pandemics: Lessons Learned from COVID-19__ (asfour_housing_2022)
 
 * [10.3390/ijerph19041925](https://doi.org/10.3390/ijerph19041925)
-* Cluster: [health-city](cluster_3)
+* Cluster: [space-urban](cluster_13)
 
 
 ## Keywords

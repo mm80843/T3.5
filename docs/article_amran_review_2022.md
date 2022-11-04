@@ -6,7 +6,7 @@
 
 ## Keywords
 
-[infection](keyword_infection), [ventilation](keyword_ventilation), [virus](keyword_virus), [build](keyword_build), [transmission](keyword_transmission), [health](keyword_health), [aerosol](keyword_aerosol)
+[infection](keyword_infection), [ventilation](keyword_ventilation), [hospital](keyword_hospital), [virus](keyword_virus), [build](keyword_build), [transmission](keyword_transmission), [health](keyword_health), [aerosol](keyword_aerosol)
 
 ## Abstract
 

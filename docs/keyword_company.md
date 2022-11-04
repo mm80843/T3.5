@@ -1,14 +1,14 @@
 # Keyword: __company__
 ## Clusters
 
-* Cluster 9: [construction-project](cluster_9)
+* Cluster 3: [construction-project](cluster_3)
 
 ## Concepts
 
  ![](imgs/keyword_company.jpg)
 
 
-## Articles
+## Top 10 articles for __company__
 * eurofund_sustainable_2016 ([eurofund_sustainable_2016](article_eurofund_sustainable_2016))
 * pricewaterhousecoopers_its_2021 ([pricewaterhousecoopers_its_2021](article_pricewaterhousecoopers_its_2021))
 * Supporting Technologies for COVID-19 Prevention:

@@ -1,12 +1,12 @@
 # Article: __Assessment of Building Automation and Control Systems in Danish Healthcare Facilities in the COVID-19 Era__ (pedersen_assessment_2022)
 
 * [10.3390/app12010427](https://doi.org/10.3390/app12010427)
-* Cluster: [building-energy](cluster_0)
+* Cluster: [building-health](cluster_10)
 
 
 ## Keywords
 
-[domain](keyword_domain), [build](keyword_build), [ventilation](keyword_ventilation), [electricity](keyword_electricity), [control](keyword_control)
+[domain](keyword_domain), [build](keyword_build), [ventilation](keyword_ventilation), [control](keyword_control)
 
 ## Abstract
 

@@ -1,12 +1,12 @@
 # Article: __Revisiting the built environment: 10 potential development changes and paradigm shifts due to COVID-19__ (cheshmehzangi_revisiting_2021)
 
 * [10.1016/j.jum.2021.01.002](https://doi.org/10.1016/j.jum.2021.01.002)
-* Cluster: [health-city](cluster_3)
+* Cluster: [space-urban](cluster_13)
 
 
 ## Keywords
 
-[construction](keyword_construction), [pandemic](keyword_pandemic), [city](keyword_city), [engineering](keyword_engineering), [health](keyword_health), [coronavirus](keyword_coronavirus), [design](keyword_design), [policy](keyword_policy)
+[construction](keyword_construction), [pandemic](keyword_pandemic), [city](keyword_city), [engineering](keyword_engineering), [health](keyword_health), [design](keyword_design), [coronavirus](keyword_coronavirus), [policy](keyword_policy)
 
 
 ## Concepts

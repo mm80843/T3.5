@@ -6,7 +6,7 @@
 
 ## Keywords
 
-[ultraviolet](keyword_ultraviolet), [uv](keyword_uv), [infection](keyword_infection), [germicidal](keyword_germicidal)
+[ultraviolet](keyword_ultraviolet), [uv](keyword_uv), [infection](keyword_infection), [germicidal](keyword_germicidal), [ventilation](keyword_ventilation)
 
 
 ## Concepts

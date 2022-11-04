@@ -1,7 +1,7 @@
 # Article: __A Mixed Approach on Resilience of Spanish Dwellings and Households during COVID-19 Lockdown__ (cuerdo-vilches_mixed_2020)
 
 * [10.3390/su122310198](https://doi.org/10.3390/su122310198)
-* Cluster: [health-city](cluster_3)
+* Cluster: [space-urban](cluster_13)
 
 
 ## Keywords

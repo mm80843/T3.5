@@ -1,7 +1,7 @@
 # Article: __Learning from the COVID-19 pandemic in governing smart cities__ (bolivar_learning_2022)
 
 * [10.3233/SCS-210118](https://doi.org/10.3233/SCS-210118)
-* Cluster: [health-city](cluster_3)
+* Cluster: [smart-datum](cluster_8)
 
 
 ## Keywords

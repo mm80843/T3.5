@@ -1,14 +1,14 @@
 # Keyword: __safety__
 ## Clusters
 
-* Cluster 9: [construction-project](cluster_9)
+* Cluster 3: [construction-project](cluster_3)
 
 ## Concepts
 
  ![](imgs/keyword_safety.jpg)
 
 
-## Articles
+## Top 10 articles for __safety__
 * Mobility Behaviour in View of the Impact of the
 COVID-19 Pandemic—Public Transport Users in
 Gdansk Case Study ([przybylowski_mobility_2021](article_przybylowski_mobility_2021))

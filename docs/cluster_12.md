@@ -1,7 +1,7 @@
-# Cluster: __ontology-datum__ (cluster12)
+# Cluster: __wastewater-sars__ (cluster12)
 ## Keywords
 
-* [ontology](keyword_ontology), [datum](keyword_datum), [disease](keyword_disease), [biomedical](keyword_biomedical), [analytic](keyword_analytic), [drug](keyword_drug), [model](keyword_model), [semantic](keyword_semantic), [knowledge](keyword_knowledge), [domain](keyword_domain), [study](keyword_study), [base](keyword_base), [solution](keyword_solution), [data](keyword_data), [infectious](keyword_infectious), [ontological](keyword_ontological), [interoperability](keyword_interoperability), [representation](keyword_representation), [tool](keyword_tool), [query](keyword_query)
+* [wastewater](keyword_wastewater), [sars](keyword_sars), [sample](keyword_sample), [pcr](keyword_pcr), [sewage](keyword_sewage), [rna](keyword_rna), [wwtp](keyword_wwtp), [gene](keyword_gene), [detection](keyword_detection), [assay](keyword_assay), [primer](keyword_primer), [qpcr](keyword_qpcr), [biomarker](keyword_biomarker), [surveillance](keyword_surveillance), [virus](keyword_virus), [ml](keyword_ml), [viral](keyword_viral), [rt](keyword_rt), [case](keyword_case), [concentration](keyword_concentration)
 
 ## Concepts
 
@@ -10,10 +10,27 @@
 
 ## Articles
 
-* An Overview of Ontologies and Tool Support for
-COVID-19 Analytics ([ahmad_overview_2021](article_ahmad_overview_2021))
-* CIDO, a community-based ontology for coronavirus disease
-knowledge and data integration, sharing, and analysis ([he_cido_2020](article_he_cido_2020))
-* An Overview of Biomedical Ontologies for Pandemics
-and Infectious Diseases Representation ([bayoudhi_overview_2021](article_bayoudhi_overview_2021))
-* The COVID-19 epidemiology and monitoring ontology ([queralt-rosinach_covid-19_2021](article_queralt-rosinach_covid-19_2021))
+* Computational analysis of SARS-CoV-2/COVID-19
+surveillance by wastewater-based epidemiology locally and
+globally: Feasibility, economy, opportunities and
+challenges ([hart_computational_2020](article_hart_computational_2020))
+* Presence of SARS-Coronavirus-2 RNA in Sewage and
+Correlation with Reported COVID-19 Prevalence in
+the Early Stage of the Epidemic in The
+Netherlands ([medema_presence_2020](article_medema_presence_2020))
+* First detection of SARS-CoV-2 in untreated wastewaters
+in Italy ([la_rosa_first_2020](article_la_rosa_first_2020))
+* Future perspectives of wastewater-based epidemiology:
+Monitoring infectious disease spread and resistance to
+the community level ([sims_future_2020](article_sims_future_2020))
+* Wastewater-Based Epidemiology to monitor COVID-19
+outbreak: Present and future diagnostic methods to be in
+your radar ([barcelo_wastewater-based_2020](article_barcelo_wastewater-based_2020))
+* SARS-CoV-2 Titers in Wastewater Are Higher
+than Expected from Clinically Confirmed Cases ([wu_sars-cov-2_2020](article_wu_sars-cov-2_2020))
+* Detection of SARS-CoV-2 in raw and treated wastewater
+in Germany – Suitability for COVID-19 surveillance
+and potential transmission risks ([westhaus_detection_2021](article_westhaus_detection_2021))
+* First confirmed detection of SARS-CoV-2 in untreated
+wastewater in Australia: A proof of concept for the
+wastewater surveillance of COVID-19 in the community ([ahmed_first_2020](article_ahmed_first_2020))

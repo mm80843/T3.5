@@ -1,12 +1,12 @@
 # Article: __Association of built environment attributes with the spread of COVID-19 at its initial stage in China__ (li_association_2021)
 
 * [10.1016/j.scs.2021.102752](https://doi.org/10.1016/j.scs.2021.102752)
-* Cluster: [health-city](cluster_3)
+* Cluster: [space-urban](cluster_13)
 
 
 ## Keywords
 
-[city](keyword_city), [pandemic](keyword_pandemic), [infection](keyword_infection), [population](keyword_population)
+[city](keyword_city), [china](keyword_china), [hubei](keyword_hubei), [pandemic](keyword_pandemic), [infection](keyword_infection), [population](keyword_population), [spread](keyword_spread)
 
 
 ## Concepts

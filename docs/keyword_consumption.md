@@ -1,14 +1,14 @@
 # Keyword: __consumption__
 ## Clusters
 
-* Cluster 0: [building-energy](cluster_0)
+* Cluster 0: [energy-building](cluster_0)
 
 ## Concepts
 
  ![](imgs/keyword_consumption.jpg)
 
 
-## Articles
+## Top 10 articles for __consumption__
 * rtpi_urban_2021 ([rtpi_urban_2021](article_rtpi_urban_2021))
 * realdania_refleksioner_2022_EN ([realdania_refleksioner_2022_EN](article_realdania_refleksioner_2022_EN))
 * A Mixed Approach on Resilience of Spanish

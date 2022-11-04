@@ -9,7 +9,7 @@ now?
 
 ## Keywords
 
-[coronavirus](keyword_coronavirus), [architecture](keyword_architecture), [space](keyword_space), [home](keyword_home)
+[coronavirus](keyword_coronavirus), [space](keyword_space), [home](keyword_home)
 
 
 ## Concepts

@@ -1,12 +1,12 @@
 # Article: __COVID-19 Could Leverage a Sustainable Built Environment__ (pinheiro_covid-19_2020)
 
 * [10.3390/su12145863](https://doi.org/10.3390/su12145863)
-* Cluster: [building-green](cluster_15)
+* Cluster: [space-urban](cluster_13)
 
 
 ## Keywords
 
-[pandemic](keyword_pandemic), [build](keyword_build), [virus](keyword_virus), [sustainability](keyword_sustainability), [building](keyword_building), [transmission](keyword_transmission), [health](keyword_health)
+[pandemic](keyword_pandemic), [build](keyword_build), [virus](keyword_virus), [building](keyword_building), [health](keyword_health), [transmission](keyword_transmission)
 
 ## Abstract
 

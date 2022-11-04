@@ -1,16 +1,15 @@
 # Keyword: __environment__
 ## Clusters
 
-* Cluster 5: [ieq-sensor](cluster_5)
-* Cluster 8: [building-space](cluster_8)
-* Cluster 15: [building-green](cluster_15)
+* Cluster 10: [building-health](cluster_10)
+* Cluster 13: [space-urban](cluster_13)
 
 ## Concepts
 
  ![](imgs/keyword_environment.jpg)
 
 
-## Articles
+## Top 10 articles for __environment__
 * Continuous IEQ monitoring system: Context and
 development ([parkinson_continuous_2019](article_parkinson_continuous_2019))
 * Antivirus-built environment: Lessons learned from

@@ -6,7 +6,7 @@
 
 ## Keywords
 
-[coronavirus](keyword_coronavirus), [virus](keyword_virus), [infection](keyword_infection), [aerosol](keyword_aerosol)
+[coronavirus](keyword_coronavirus), [wuhan](keyword_wuhan), [virus](keyword_virus), [china](keyword_china), [infection](keyword_infection), [infect](keyword_infect), [aerosol](keyword_aerosol)
 
 
 ## Concepts

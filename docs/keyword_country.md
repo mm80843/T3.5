@@ -1,14 +1,14 @@
 # Keyword: __country__
 ## Clusters
 
-* Cluster 13: [resilience-sme](cluster_13)
+* Cluster 4: [resilience-health](cluster_4)
 
 ## Concepts
 
  ![](imgs/keyword_country.jpg)
 
 
-## Articles
+## Top 10 articles for __country__
 * COVID-19 and Green Housing: A Review of
 Relevant Literature ([kaklauskas_covid-19_2021](article_kaklauskas_covid-19_2021))
 * realdania_refleksioner_2022_EN ([realdania_refleksioner_2022_EN](article_realdania_refleksioner_2022_EN))

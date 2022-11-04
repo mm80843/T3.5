@@ -6,7 +6,7 @@
 
 ## Keywords
 
-[ventilation](keyword_ventilation), [engineering](keyword_engineering), [iaq](keyword_iaq), [build](keyword_build), [pandemic](keyword_pandemic), [architecture](keyword_architecture), [health](keyword_health), [disinfection](keyword_disinfection)
+[ventilation](keyword_ventilation), [engineering](keyword_engineering), [build](keyword_build), [pandemic](keyword_pandemic), [health](keyword_health), [disinfection](keyword_disinfection)
 
 
 ## Concepts

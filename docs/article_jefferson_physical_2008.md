@@ -6,7 +6,7 @@
 
 ## Keywords
 
-[study](keyword_study), [infection](keyword_infection)
+[influenza](keyword_influenza), [study](keyword_study), [infection](keyword_infection)
 
 
 ## Concepts

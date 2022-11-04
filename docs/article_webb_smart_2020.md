@@ -1,12 +1,12 @@
 # Article: __The Smart City and Covid‐19__ (webb_smart_2020)
 
 * [10.1049/iet-smc.2020.0024](https://doi.org/10.1049/iet-smc.2020.0024)
-* Cluster: [health-city](cluster_3)
+* Cluster: [smart-datum](cluster_8)
 
 
 ## Keywords
 
-[city](keyword_city), [pandemic](keyword_pandemic), [crisis](keyword_crisis), [technology](keyword_technology), [surveillance](keyword_surveillance)
+[city](keyword_city), [pandemic](keyword_pandemic), [crisis](keyword_crisis), [technology](keyword_technology), [hospital](keyword_hospital), [surveillance](keyword_surveillance)
 
 
 ## Concepts

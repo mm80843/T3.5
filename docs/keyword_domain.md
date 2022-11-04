@@ -1,15 +1,14 @@
 # Keyword: __domain__
 ## Clusters
 
-* Cluster 0: [building-energy](cluster_0)
-* Cluster 12: [ontology-datum](cluster_12)
+* Cluster 5: [ontology-datum](cluster_5)
 
 ## Concepts
 
  ![](imgs/keyword_domain.jpg)
 
 
-## Articles
+## Top 10 articles for __domain__
 * Assessment of Building Automation and Control
 Systems in Danish Healthcare Facilities in the
 COVID-19 Era ([pedersen_assessment_2022](article_pedersen_assessment_2022))

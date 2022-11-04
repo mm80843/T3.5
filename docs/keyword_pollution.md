@@ -1,14 +1,14 @@
 # Keyword: __pollution__
 ## Clusters
 
-* Cluster 7: [climate-change](cluster_7)
+* Cluster 9: [climate-change](cluster_9)
 
 ## Concepts
 
  ![](imgs/keyword_pollution.jpg)
 
 
-## Articles
+## Top 10 articles for __pollution__
 * rtpi_urban_2021 ([rtpi_urban_2021](article_rtpi_urban_2021))
 * The COVID-19 pandemic: Impacts on cities and major
 lessons for urban planning, design, and management ([sharifi_covid-19_2020](article_sharifi_covid-19_2020))

@@ -1,7 +1,7 @@
-# Cluster: __climate-change__ (cluster7)
+# Cluster: __liver-province__ (cluster7)
 ## Keywords
 
-* [climate](keyword_climate), [change](keyword_change), [harvard](keyword_harvard), [pollution](keyword_pollution), [air](keyword_air), [hsph](keyword_hsph), [animal](keyword_animal), [chan](keyword_chan), [health](keyword_health), [coronavirus](keyword_coronavirus), [disease](keyword_disease), [death](keyword_death), [people](keyword_people), [risk](keyword_risk), [earth](keyword_earth), [need](keyword_need), [study](keyword_study), [infectious](keyword_infectious), [action](keyword_action), [public](keyword_public)
+* [liver](keyword_liver), [province](keyword_province), [wuhan](keyword_wuhan), [case](keyword_case), [patient](keyword_patient), [wastewater](keyword_wastewater), [travel](keyword_travel), [mobility](keyword_mobility), [china](keyword_china), [hubei](keyword_hubei), [datum](keyword_datum), [sars](keyword_sars), [report](keyword_report), [admit](keyword_admit), [human](keyword_human), [coronavirus](keyword_coronavirus), [roda](keyword_roda), [husman](keyword_husman), [count](keyword_count), [enteric](keyword_enteric)
 
 ## Concepts
 
@@ -10,8 +10,7 @@
 
 ## Articles
 
-* harvard_th_chan_schoold_of_public_health_air_2020 ([harvard_th_chan_schoold_of_public_health_air_2020](article_harvard_th_chan_schoold_of_public_health_air_2020))
-* harvard_chan_community_coronavirus_2020 ([harvard_chan_community_coronavirus_2020](article_harvard_chan_community_coronavirus_2020))
-* What our response to the COVID-19 pandemic tells us of
-our capacity to respond to climate change ([gemenne_what_2020](article_gemenne_what_2020))
-* harvard_th_chan_schoold_of_public_health_coronavirus_2020 ([harvard_th_chan_schoold_of_public_health_coronavirus_2020](article_harvard_th_chan_schoold_of_public_health_coronavirus_2020))
+* SARS-CoV-2 in wastewater: potential health risk, but
+also data source ([lodder_sars-cov-2_2020](article_lodder_sars-cov-2_2020))
+* The effect of human mobility and control measures on the
+COVID-19 epidemic in China ([kraemer_effect_2020](article_kraemer_effect_2020))

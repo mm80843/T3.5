@@ -1,14 +1,14 @@
 # Keyword: __action__
 ## Clusters
 
-* Cluster 7: [climate-change](cluster_7)
+* Cluster 9: [climate-change](cluster_9)
 
 ## Concepts
 
  ![](imgs/keyword_action.jpg)
 
 
-## Articles
+## Top 10 articles for __action__
 * oecd_guidelines_2014 ([oecd_guidelines_2014](article_oecd_guidelines_2014))
 * who_strengthening_2017 ([who_strengthening_2017](article_who_strengthening_2017))
 * COVID-ABS: An agent-based model of COVID-19

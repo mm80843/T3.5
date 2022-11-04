@@ -1,15 +1,14 @@
 # Keyword: __smart__
 ## Clusters
 
-* Cluster 3: [health-city](cluster_3)
-* Cluster 6: [smart-iot](cluster_6)
+* Cluster 8: [smart-datum](cluster_8)
 
 ## Concepts
 
  ![](imgs/keyword_smart.jpg)
 
 
-## Articles
+## Top 10 articles for __smart__
 * Impact of COVID-19 on IoT Adoption in Healthcare,
 Smart Homes, Smart Buildings, Smart Cities,
 Transportation and Industrial IoT ([umair_impact_2021](article_umair_impact_2021))

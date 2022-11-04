@@ -1,12 +1,12 @@
 # Article: __When the fourth water and digital revolution encountered COVID-19__ (poch_when_2020)
 
 * [10.1016/j.scitotenv.2020.140980](https://doi.org/10.1016/j.scitotenv.2020.140980)
-* Cluster: [health-city](cluster_3)
+* Cluster: [water-wastewater](cluster_15)
 
 
 ## Keywords
 
-[pandemic](keyword_pandemic), [wastewater](keyword_wastewater), [water](keyword_water), [infrastructure](keyword_infrastructure), [management](keyword_management)
+[pandemic](keyword_pandemic), [wastewater](keyword_wastewater), [water](keyword_water), [infrastructure](keyword_infrastructure), [economic](keyword_economic)
 
 
 ## Concepts

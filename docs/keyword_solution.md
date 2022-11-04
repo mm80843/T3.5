@@ -1,14 +1,14 @@
 # Keyword: __solution__
 ## Clusters
 
-* Cluster 12: [ontology-datum](cluster_12)
+* Cluster 5: [ontology-datum](cluster_5)
 
 ## Concepts
 
  ![](imgs/keyword_solution.jpg)
 
 
-## Articles
+## Top 10 articles for __solution__
 * COVID-19 Could Leverage a Sustainable Built
 Environment ([pinheiro_covid-19_2020](article_pinheiro_covid-19_2020))
 * Mechanisms for addressing the impact of COVID-19 on

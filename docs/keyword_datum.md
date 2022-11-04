@@ -1,18 +1,18 @@
 # Keyword: __datum__
 ## Clusters
 
-* Cluster 1: [datum-health](cluster_1)
-* Cluster 3: [health-city](cluster_3)
-* Cluster 5: [ieq-sensor](cluster_5)
-* Cluster 6: [smart-iot](cluster_6)
-* Cluster 12: [ontology-datum](cluster_12)
+* Cluster 1: [health-ai](cluster_1)
+* Cluster 5: [ontology-datum](cluster_5)
+* Cluster 7: [liver-province](cluster_7)
+* Cluster 8: [smart-datum](cluster_8)
+* Cluster 15: [water-wastewater](cluster_15)
 
 ## Concepts
 
  ![](imgs/keyword_datum.jpg)
 
 
-## Articles
+## Top 10 articles for __datum__
 * RUDDS_bioRxiv_update ([RUDDS_bioRxiv_update](article_RUDDS_bioRxiv_update))
 * COVID-19: Lessons for an Urban(izing) World ([acuto_covid-19_2020](article_acuto_covid-19_2020))
 * p15-lee-vor ([p15-lee-vor](article_p15-lee-vor))

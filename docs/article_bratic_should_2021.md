@@ -1,12 +1,12 @@
 # Article: __Should I Stay or Should I Go? Tourists’ COVID-19 Risk Perception and Vacation Behavior Shift__ (bratic_should_2021)
 
 * [10.3390/su13063573](https://doi.org/10.3390/su13063573)
-* Cluster: [health-city](cluster_3)
+* Cluster: [resilience-health](cluster_4)
 
 
 ## Keywords
 
-
+[anxiety](keyword_anxiety), [travel](keyword_travel), [pandemic](keyword_pandemic)
 
 ## Abstract
 

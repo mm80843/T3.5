@@ -1,15 +1,16 @@
 # Keyword: __city__
 ## Clusters
 
-* Cluster 3: [health-city](cluster_3)
-* Cluster 6: [smart-iot](cluster_6)
+* Cluster 6: [simulation-model](cluster_6)
+* Cluster 8: [smart-datum](cluster_8)
+* Cluster 13: [space-urban](cluster_13)
 
 ## Concepts
 
  ![](imgs/keyword_city.jpg)
 
 
-## Articles
+## Top 10 articles for __city__
 * rtpi_urban_2021 ([rtpi_urban_2021](article_rtpi_urban_2021))
 * realdania_refleksioner_2022_EN ([realdania_refleksioner_2022_EN](article_realdania_refleksioner_2022_EN))
 * Association of built environment attributes with the

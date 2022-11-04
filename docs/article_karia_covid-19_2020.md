@@ -6,7 +6,7 @@
 
 ## Keywords
 
-[transmission](keyword_transmission), [virus](keyword_virus), [aerosol](keyword_aerosol)
+[transmission](keyword_transmission), [virus](keyword_virus), [china](keyword_china), [aerosol](keyword_aerosol), [wuhan](keyword_wuhan)
 
 
 ## Concepts

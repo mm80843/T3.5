@@ -1,7 +1,7 @@
-# Cluster: __ieq-sensor__ (cluster5)
+# Cluster: __ontology-datum__ (cluster5)
 ## Keywords
 
-* [ieq](keyword_ieq), [sensor](keyword_sensor), [building](keyword_building), [indoor](keyword_indoor), [node](keyword_node), [occupant](keyword_occupant), [monitoring](keyword_monitoring), [air](keyword_air), [measurement](keyword_measurement), [datum](keyword_datum), [system](keyword_system), [device](keyword_device), [uc](keyword_uc), [parameter](keyword_parameter), [thermal](keyword_thermal), [quality](keyword_quality), [performance](keyword_performance), [temperature](keyword_temperature), [energy](keyword_energy), [environment](keyword_environment)
+* [ontology](keyword_ontology), [datum](keyword_datum), [disease](keyword_disease), [biomedical](keyword_biomedical), [analytic](keyword_analytic), [model](keyword_model), [drug](keyword_drug), [semantic](keyword_semantic), [knowledge](keyword_knowledge), [domain](keyword_domain), [study](keyword_study), [base](keyword_base), [solution](keyword_solution), [data](keyword_data), [ontological](keyword_ontological), [infectious](keyword_infectious), [interoperability](keyword_interoperability), [representation](keyword_representation), [tool](keyword_tool), [support](keyword_support)
 
 ## Concepts
 
@@ -10,9 +10,10 @@
 
 ## Articles
 
-* An Intelligent IEQ Monitoring and Feedback
-System: Development and Applications ([geng_intelligent_2021](article_geng_intelligent_2021))
-* Continuous IEQ monitoring system: Context and
-development ([parkinson_continuous_2019](article_parkinson_continuous_2019))
-* Scalable IoT Architecture for Monitoring IEQ
-Conditions in Public and Private Buildings ([calvo_scalable_2022](article_calvo_scalable_2022))
+* An Overview of Ontologies and Tool Support for
+COVID-19 Analytics ([ahmad_overview_2021](article_ahmad_overview_2021))
+* CIDO, a community-based ontology for coronavirus disease
+knowledge and data integration, sharing, and analysis ([he_cido_2020](article_he_cido_2020))
+* An Overview of Biomedical Ontologies for Pandemics
+and Infectious Diseases Representation ([bayoudhi_overview_2021](article_bayoudhi_overview_2021))
+* The COVID-19 epidemiology and monitoring ontology ([queralt-rosinach_covid-19_2021](article_queralt-rosinach_covid-19_2021))

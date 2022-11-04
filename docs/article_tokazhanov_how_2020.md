@@ -1,12 +1,12 @@
 # Article: __How is COVID-19 Experience Transforming Sustainability Requirements of Residential Buildings? A Review__ (tokazhanov_how_2020)
 
 * [10.3390/su12208732](https://doi.org/10.3390/su12208732)
-* Cluster: [building-green](cluster_15)
+* Cluster: [space-urban](cluster_13)
 
 
 ## Keywords
 
-[pandemic](keyword_pandemic), [coronavirus](keyword_coronavirus), [wastewater](keyword_wastewater), [virus](keyword_virus), [water](keyword_water), [sustainability](keyword_sustainability)
+[pandemic](keyword_pandemic), [coronavirus](keyword_coronavirus), [wastewater](keyword_wastewater), [virus](keyword_virus), [water](keyword_water)
 
 ## Abstract
 

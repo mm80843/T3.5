@@ -1,14 +1,14 @@
 # Keyword: __home__
 ## Clusters
 
-* Cluster 15: [building-green](cluster_15)
+* Cluster 13: [space-urban](cluster_13)
 
 ## Concepts
 
  ![](imgs/keyword_home.jpg)
 
 
-## Articles
+## Top 10 articles for __home__
 * realdania_refleksioner_2022_EN ([realdania_refleksioner_2022_EN](article_realdania_refleksioner_2022_EN))
 * Prophylactic Architecture: Formulating the Concept
 of Pandemic-Resilient Homes ([elrayies_prophylactic_2022](article_elrayies_prophylactic_2022))

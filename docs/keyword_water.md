@@ -1,26 +1,25 @@
 # Keyword: __water__
 ## Clusters
 
-* Cluster 4: [wastewater-sars](cluster_4)
-* Cluster 15: [building-green](cluster_15)
+* Cluster 15: [water-wastewater](cluster_15)
 
 ## Concepts
 
  ![](imgs/keyword_water.jpg)
 
 
-## Articles
+## Top 10 articles for __water__
 * When the fourth water and digital revolution encountered
 COVID-19 ([poch_when_2020](article_poch_when_2020))
 * How is COVID-19 Experience Transforming
 Sustainability Requirements of Residential
 Buildings? A Review ([tokazhanov_how_2020](article_tokazhanov_how_2020))
-* Mechanistic insights into the effect of humidity on
-airborne influenza virus survival, transmission and
-incidence ([marr_mechanistic_2019](article_marr_mechanistic_2019))
 * Disinfection technology of hospital wastes and wastewater:
 Suggestions for disinfection strategy during coronavirus
 Disease 2019 (COVID-19) pandemic in China ([wang_disinfection_2020](article_wang_disinfection_2020))
+* Mechanistic insights into the effect of humidity on
+airborne influenza virus survival, transmission and
+incidence ([marr_mechanistic_2019](article_marr_mechanistic_2019))
 * Characterization and performance evaluation of a
 full-scale activated carbon-based dynamic botanical air
 filtration system for improving indoor air quality ([wang_characterization_2011](article_wang_characterization_2011))

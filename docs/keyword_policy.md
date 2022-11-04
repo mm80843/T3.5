@@ -1,14 +1,14 @@
 # Keyword: __policy__
 ## Clusters
 
-* Cluster 13: [resilience-sme](cluster_13)
+* Cluster 4: [resilience-health](cluster_4)
 
 ## Concepts
 
  ![](imgs/keyword_policy.jpg)
 
 
-## Articles
+## Top 10 articles for __policy__
 * eurofund_sustainable_2016 ([eurofund_sustainable_2016](article_eurofund_sustainable_2016))
 * oecd_guidelines_2014 ([oecd_guidelines_2014](article_oecd_guidelines_2014))
 * rtpi_urban_2021 ([rtpi_urban_2021](article_rtpi_urban_2021))

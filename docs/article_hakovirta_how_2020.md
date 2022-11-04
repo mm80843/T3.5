@@ -1,12 +1,12 @@
 # Article: __How COVID-19 Redefines the Concept of Sustainability__ (hakovirta_how_2020)
 
 * [10.3390/su12093727](https://doi.org/10.3390/su12093727)
-* Cluster: [health-city](cluster_3)
+* Cluster: [resilience-health](cluster_4)
 
 
 ## Keywords
 
-[sustainability](keyword_sustainability), [health](keyword_health)
+[health](keyword_health)
 
 ## Abstract
 

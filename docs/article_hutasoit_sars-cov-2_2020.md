@@ -6,7 +6,7 @@
 
 ## Keywords
 
-[virus](keyword_virus)
+[virus](keyword_virus), [influenza](keyword_influenza)
 
 
 ## Concepts

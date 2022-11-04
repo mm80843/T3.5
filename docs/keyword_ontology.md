@@ -1,14 +1,14 @@
 # Keyword: __ontology__
 ## Clusters
 
-* Cluster 12: [ontology-datum](cluster_12)
+* Cluster 5: [ontology-datum](cluster_5)
 
 ## Concepts
 
  ![](imgs/keyword_ontology.jpg)
 
 
-## Articles
+## Top 10 articles for __ontology__
 * An Overview of Biomedical Ontologies for Pandemics
 and Infectious Diseases Representation ([bayoudhi_overview_2021](article_bayoudhi_overview_2021))
 * An Overview of Ontologies and Tool Support for

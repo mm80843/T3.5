@@ -1,14 +1,14 @@
 # Keyword: __workforce__
 ## Clusters
 
-* Cluster 9: [construction-project](cluster_9)
+* Cluster 3: [construction-project](cluster_3)
 
 ## Concepts
 
  ![](imgs/keyword_workforce.jpg)
 
 
-## Articles
+## Top 10 articles for __workforce__
 * Analysis of COVID-19 Concerns Raised by the
 Construction Workforce and Development of
 Mitigation Practices ([bou_hatoum_analysis_2021](article_bou_hatoum_analysis_2021))

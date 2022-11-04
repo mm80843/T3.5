@@ -1,12 +1,12 @@
 # Article: __The effect of human mobility and control measures on the COVID-19 epidemic in China__ (kraemer_effect_2020)
 
 * [10.1126/science.abb4218](https://doi.org/10.1126/science.abb4218)
-* Cluster: [health-city](cluster_3)
+* Cluster: [liver-province](cluster_7)
 
 
 ## Keywords
 
-
+[wuhan](keyword_wuhan), [china](keyword_china), [province](keyword_province), [hubei](keyword_hubei), [epidemic](keyword_epidemic)
 
 ## Abstract
 

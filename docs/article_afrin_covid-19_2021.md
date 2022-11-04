@@ -55,7 +55,7 @@ design and planning approach in future.
 
 ## Keywords
 
-[pandemic](keyword_pandemic), [design](keyword_design), [city](keyword_city), [resilience](keyword_resilience), [infrastructure](keyword_infrastructure)
+[pandemic](keyword_pandemic), [design](keyword_design), [city](keyword_city), [resilience](keyword_resilience), [china](keyword_china), [epidemic](keyword_epidemic), [infrastructure](keyword_infrastructure)
 
 
 ## Concepts

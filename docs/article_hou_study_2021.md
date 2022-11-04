@@ -1,12 +1,12 @@
 # Article: __A study on office workplace modification during the COVID-19 pandemic in The Netherlands__ (hou_study_2021)
 
 * [10.1108/JCRE-10-2020-0051](https://doi.org/10.1108/JCRE-10-2020-0051)
-* Cluster: [building-space](cluster_8)
+* Cluster: [building-health](cluster_10)
 
 
 ## Keywords
 
-[workplace](keyword_workplace), [office](keyword_office), [management](keyword_management), [pandemic](keyword_pandemic), [business](keyword_business)
+[office](keyword_office), [management](keyword_management), [pandemic](keyword_pandemic), [business](keyword_business)
 
 ## Abstract
 

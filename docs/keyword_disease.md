@@ -1,17 +1,17 @@
 # Keyword: __disease__
 ## Clusters
 
-* Cluster 1: [datum-health](cluster_1)
-* Cluster 3: [health-city](cluster_3)
-* Cluster 7: [climate-change](cluster_7)
-* Cluster 12: [ontology-datum](cluster_12)
+* Cluster 1: [health-ai](cluster_1)
+* Cluster 5: [ontology-datum](cluster_5)
+* Cluster 9: [climate-change](cluster_9)
+* Cluster 13: [space-urban](cluster_13)
 
 ## Concepts
 
  ![](imgs/keyword_disease.jpg)
 
 
-## Articles
+## Top 10 articles for __disease__
 * realdania_refleksioner_2022_EN ([realdania_refleksioner_2022_EN](article_realdania_refleksioner_2022_EN))
 * COVID-19 Could Leverage a Sustainable Built
 Environment ([pinheiro_covid-19_2020](article_pinheiro_covid-19_2020))

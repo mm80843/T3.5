@@ -1,12 +1,12 @@
 # Article: __Urban Green Infrastructure and Green Open Spaces: An Issue of Social Fairness in Times of COVID-19 Crisis__ (reinwald_urban_2021)
 
 * [10.3390/su131910606](https://doi.org/10.3390/su131910606)
-* Cluster: [health-city](cluster_3)
+* Cluster: [space-urban](cluster_13)
 
 
 ## Keywords
 
-[health](keyword_health), [city](keyword_city), [pandemic](keyword_pandemic)
+[health](keyword_health), [city](keyword_city), [pandemic](keyword_pandemic), [urban](keyword_urban)
 
 ## Abstract
 

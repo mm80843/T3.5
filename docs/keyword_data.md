@@ -1,15 +1,15 @@
 # Keyword: __data__
 ## Clusters
 
-* Cluster 1: [datum-health](cluster_1)
-* Cluster 12: [ontology-datum](cluster_12)
+* Cluster 5: [ontology-datum](cluster_5)
+* Cluster 8: [smart-datum](cluster_8)
 
 ## Concepts
 
  ![](imgs/keyword_data.jpg)
 
 
-## Articles
+## Top 10 articles for __data__
 * Impact of COVID-19 on IoT Adoption in Healthcare,
 Smart Homes, Smart Buildings, Smart Cities,
 Transportation and Industrial IoT ([umair_impact_2021](article_umair_impact_2021))

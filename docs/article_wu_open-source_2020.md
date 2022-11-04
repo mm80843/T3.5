@@ -1,12 +1,12 @@
 # Article: __Open-source analytics tools for studying the COVID-19 coronavirus outbreak__ (wu_open-source_2020)
 
 * [10.1101/2020.02.25.20027433](https://doi.org/10.1101/2020.02.25.20027433)
-* Cluster: [health-city](cluster_3)
+* Cluster: [smart-datum](cluster_8)
 
 
 ## Keywords
 
-[city](keyword_city)
+[china](keyword_china), [hubei](keyword_hubei), [city](keyword_city), [province](keyword_province)
 
 ## Abstract
 

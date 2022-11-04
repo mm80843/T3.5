@@ -1,16 +1,17 @@
 # Keyword: __patient__
 ## Clusters
 
-* Cluster 1: [datum-health](cluster_1)
+* Cluster 1: [health-ai](cluster_1)
 * Cluster 2: [air-sars](cluster_2)
-* Cluster 10: [scenario-agent](cluster_10)
+* Cluster 7: [liver-province](cluster_7)
+* Cluster 8: [smart-datum](cluster_8)
 
 ## Concepts
 
  ![](imgs/keyword_patient.jpg)
 
 
-## Articles
+## Top 10 articles for __patient__
 * Supporting Technologies for COVID-19 Prevention:
 Systemized Review ([zhao_supporting_2022](article_zhao_supporting_2022))
 * Digital Twin of COVID-19 Mass Vaccination

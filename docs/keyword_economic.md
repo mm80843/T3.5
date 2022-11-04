@@ -1,27 +1,32 @@
 # Keyword: __economic__
 ## Clusters
 
-* Cluster 0: [health-city](cluster_0)
+* Cluster 4: [resilience-health](cluster_4)
 
 ## Concepts
 
  ![](imgs/keyword_economic.jpg)
 
 
-## Articles
+## Top 10 articles for __economic__
+* A critical analysis of the impacts of COVID-19 on the
+global economy and ecosystems and opportunities for
+circular economy strategies ([ibn-mohammed_critical_2021](article_ibn-mohammed_critical_2021))
 * realdania_refleksioner_2022_EN ([realdania_refleksioner_2022_EN](article_realdania_refleksioner_2022_EN))
+* rtpi_urban_2021 ([rtpi_urban_2021](article_rtpi_urban_2021))
 * Mapping research in logistics and supply chain management
 during COVID-19 pandemic ([montoya-torres_mapping_2021](article_montoya-torres_mapping_2021))
-* Learning from pandemics: Applying resilience thinking to
-identify priorities for planning urban settlements ([syal_learning_2021](article_syal_learning_2021))
+* Assessment of Building Automation and Control
+Systems in Danish Healthcare Facilities in the
+COVID-19 Era ([pedersen_assessment_2022](article_pedersen_assessment_2022))
+* Health, Economic and Social Development Challenges
+of the COVID-19 Pandemic: Strategies for Multiple
+and Interconnected Issues ([panneer_health_2022](article_panneer_health_2022))
 * The socio-economic determinants of COVID-19: A spatial
 analysis of German county level data ([ehlert_socio-economic_2021](article_ehlert_socio-economic_2021))
-* When the fourth water and digital revolution encountered
-COVID-19 ([poch_when_2020](article_poch_when_2020))
+* Learning from pandemics: Applying resilience thinking to
+identify priorities for planning urban settlements ([syal_learning_2021](article_syal_learning_2021))
 * Mechanisms for addressing the impact of COVID-19 on
 infrastructure projects ([king_mechanisms_2021](article_king_mechanisms_2021))
-* who_strengthening_2017 ([who_strengthening_2017](article_who_strengthening_2017))
-* eurofund_sustainable_2016 ([eurofund_sustainable_2016](article_eurofund_sustainable_2016))
-* rtpi_urban_2021-0 ([rtpi_urban_2021-0](article_rtpi_urban_2021-0))
-* Learning from the COVID-19 pandemic in governing smart
-cities ([bolivar_learning_2022](article_bolivar_learning_2022))
+* COVID-19 Could Leverage a Sustainable Built
+Environment ([pinheiro_covid-19_2020](article_pinheiro_covid-19_2020))

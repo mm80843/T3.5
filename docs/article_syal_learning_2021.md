@@ -1,12 +1,12 @@
 # Article: __Learning from pandemics: Applying resilience thinking to identify priorities for planning urban settlements__ (syal_learning_2021)
 
 * [10.1016/j.jum.2021.05.004](https://doi.org/10.1016/j.jum.2021.05.004)
-* Cluster: [health-city](cluster_3)
+* Cluster: [space-urban](cluster_13)
 
 
 ## Keywords
 
-[resilience](keyword_resilience), [pandemic](keyword_pandemic), [shock](keyword_shock)
+[resilience](keyword_resilience), [pandemic](keyword_pandemic), [china](keyword_china)
 
 
 ## Concepts

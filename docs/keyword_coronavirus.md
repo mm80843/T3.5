@@ -1,16 +1,17 @@
 # Keyword: __coronavirus__
 ## Clusters
 
-* Cluster 1: [datum-health](cluster_1)
-* Cluster 3: [health-city](cluster_3)
-* Cluster 7: [climate-change](cluster_7)
+* Cluster 1: [health-ai](cluster_1)
+* Cluster 7: [liver-province](cluster_7)
+* Cluster 9: [climate-change](cluster_9)
+* Cluster 11: [anxiety-social](cluster_11)
 
 ## Concepts
 
  ![](imgs/keyword_coronavirus.jpg)
 
 
-## Articles
+## Top 10 articles for __coronavirus__
 * A Comprehensive Review of the COVID-19 Pandemic
 and the Role of IoT, Drones, AI, Blockchain, and
 5G in Managing its Impact ([chamola_comprehensive_2020](article_chamola_comprehensive_2020))

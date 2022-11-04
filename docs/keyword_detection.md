@@ -1,14 +1,14 @@
 # Keyword: __detection__
 ## Clusters
 
-* Cluster 4: [wastewater-sars](cluster_4)
+* Cluster 12: [wastewater-sars](cluster_12)
 
 ## Concepts
 
  ![](imgs/keyword_detection.jpg)
 
 
-## Articles
+## Top 10 articles for __detection__
 * Wastewater-Based Epidemiology to monitor COVID-19
 outbreak: Present and future diagnostic methods to be in
 your radar ([barcelo_wastewater-based_2020](article_barcelo_wastewater-based_2020))

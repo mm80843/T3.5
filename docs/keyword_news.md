@@ -1,14 +1,14 @@
 # Keyword: __news__
 ## Clusters
 
-* Cluster 1: [datum-health](cluster_1)
+* Cluster 11: [anxiety-social](cluster_11)
 
 ## Concepts
 
  ![](imgs/keyword_news.jpg)
 
 
-## Articles
+## Top 10 articles for __news__
 * Pandemic Analytics: How Countries are Leveraging
 Big Data Analytics and Artificial Intelligence to
 Fight COVID-19? ([mehta_pandemic_2021](article_mehta_pandemic_2021))

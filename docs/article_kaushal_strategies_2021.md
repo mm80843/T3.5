@@ -1,7 +1,7 @@
 # Article: __Strategies to Mitigate COVID-19 Pandemic Impacts on Health and Safety of Workers in Construction Projects__ (kaushal_strategies_2021)
 
 * [10.36937/cebel.2021.002.001](https://doi.org/10.36937/cebel.2021.002.001)
-* Cluster: [construction-project](cluster_9)
+* Cluster: [construction-project](cluster_3)
 
 
 ## Keywords

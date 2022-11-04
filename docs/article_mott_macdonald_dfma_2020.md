@@ -10,7 +10,7 @@ temporary in nature.
 
 ## Keywords
 
-[infrastructure](keyword_infrastructure), [crisis](keyword_crisis)
+[infrastructure](keyword_infrastructure), [crisis](keyword_crisis), [hospital](keyword_hospital), [resilience](keyword_resilience)
 
 
 ## Concepts

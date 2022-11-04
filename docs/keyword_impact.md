@@ -1,15 +1,15 @@
 # Keyword: __impact__
 ## Clusters
 
-* Cluster 3: [health-city](cluster_3)
-* Cluster 9: [construction-project](cluster_9)
+* Cluster 3: [construction-project](cluster_3)
+* Cluster 4: [resilience-health](cluster_4)
 
 ## Concepts
 
  ![](imgs/keyword_impact.jpg)
 
 
-## Articles
+## Top 10 articles for __impact__
 * Influence between COVID-19 Impacts and Project
 Stakeholders in Chilean Construction Projects ([araya_influence_2021](article_araya_influence_2021))
 * Assessment of Building Automation and Control

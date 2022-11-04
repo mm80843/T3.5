@@ -1,14 +1,14 @@
 # Keyword: __housing__
 ## Clusters
 
-* Cluster 15: [building-green](cluster_15)
+* Cluster 13: [space-urban](cluster_13)
 
 ## Concepts
 
  ![](imgs/keyword_housing.jpg)
 
 
-## Articles
+## Top 10 articles for __housing__
 * realdania_refleksioner_2022_EN ([realdania_refleksioner_2022_EN](article_realdania_refleksioner_2022_EN))
 * COVID-19 and Green Housing: A Review of
 Relevant Literature ([kaklauskas_covid-19_2021](article_kaklauskas_covid-19_2021))

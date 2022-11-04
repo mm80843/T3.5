@@ -1,14 +1,15 @@
 # Keyword: __medical__
 ## Clusters
 
-* Cluster 1: [datum-health](cluster_1)
+* Cluster 1: [health-ai](cluster_1)
+* Cluster 8: [smart-datum](cluster_8)
 
 ## Concepts
 
  ![](imgs/keyword_medical.jpg)
 
 
-## Articles
+## Top 10 articles for __medical__
 * Management of the COVID-19 pandemic: challenges,
 practices, and organizational support ([hossny_management_2022](article_hossny_management_2022))
 * world_green_building_council_health_2014 ([world_green_building_council_health_2014](article_world_green_building_council_health_2014))

@@ -1,7 +1,7 @@
 # Article: __An Overview of Ontologies and Tool Support for COVID-19 Analytics__ (ahmad_overview_2021)
 
 * [10.1109/EDOCW52865.2021.00026](https://doi.org/10.1109/EDOCW52865.2021.00026)
-* Cluster: [ontology-datum](cluster_12)
+* Cluster: [ontology-datum](cluster_5)
 
 
 ## Keywords

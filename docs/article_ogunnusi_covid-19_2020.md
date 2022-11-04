@@ -46,7 +46,7 @@ caused by the pandemic.
 
 ## Keywords
 
-[construction](keyword_construction), [pandemic](keyword_pandemic), [engineering](keyword_engineering), [industry](keyword_industry), [risk](keyword_risk), [project](keyword_project), [infrastructure](keyword_infrastructure)
+[construction](keyword_construction), [pandemic](keyword_pandemic), [engineering](keyword_engineering), [industry](keyword_industry), [risk](keyword_risk), [infrastructure](keyword_infrastructure), [project](keyword_project)
 
 
 ## Concepts

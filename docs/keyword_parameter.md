@@ -1,15 +1,14 @@
 # Keyword: __parameter__
 ## Clusters
 
-* Cluster 5: [ieq-sensor](cluster_5)
-* Cluster 10: [scenario-agent](cluster_10)
+* Cluster 6: [simulation-model](cluster_6)
 
 ## Concepts
 
  ![](imgs/keyword_parameter.jpg)
 
 
-## Articles
+## Top 10 articles for __parameter__
 * Digital Twin of COVID-19 Mass Vaccination
 Centers ([pilati_digital_2021](article_pilati_digital_2021))
 * Treating two pandemics for the price of one: Chronic and

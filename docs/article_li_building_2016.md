@@ -1,12 +1,12 @@
 # Article: __Building occupancy estimation with people flow modeling in AnyLogic__ (li_building_2016)
 
 * [10.1109/ICCA.2016.7505355](https://doi.org/10.1109/ICCA.2016.7505355)
-* Cluster: [health-city](cluster_3)
+* Cluster: [building-health](cluster_10)
 
 
 ## Keywords
 
-[simulation](keyword_simulation), [room](keyword_room)
+[simulation](keyword_simulation), [china](keyword_china), [room](keyword_room)
 
 
 ## Concepts

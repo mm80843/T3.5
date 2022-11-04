@@ -1,15 +1,14 @@
 # Keyword: __robot__
 ## Clusters
 
-* Cluster 1: [datum-health](cluster_1)
-* Cluster 6: [smart-iot](cluster_6)
+* Cluster 8: [smart-datum](cluster_8)
 
 ## Concepts
 
  ![](imgs/keyword_robot.jpg)
 
 
-## Articles
+## Top 10 articles for __robot__
 * A Comprehensive Review of the COVID-19 Pandemic
 and the Role of IoT, Drones, AI, Blockchain, and
 5G in Managing its Impact ([chamola_comprehensive_2020](article_chamola_comprehensive_2020))

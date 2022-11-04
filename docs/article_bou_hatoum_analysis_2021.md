@@ -1,12 +1,12 @@
 # Article: __Analysis of COVID-19 Concerns Raised by the Construction Workforce and Development of Mitigation Practices__ (bou_hatoum_analysis_2021)
 
 * [10.3389/fbuil.2021.688495](https://doi.org/10.3389/fbuil.2021.688495)
-* Cluster: [construction-project](cluster_9)
+* Cluster: [construction-project](cluster_3)
 
 
 ## Keywords
 
-[construction](keyword_construction), [workplace](keyword_workplace), [safety](keyword_safety), [employee](keyword_employee)
+[construction](keyword_construction), [employee](keyword_employee), [safety](keyword_safety), [pandemic](keyword_pandemic)
 
 ## Abstract
 

@@ -2,14 +2,14 @@
 ## Clusters
 
 * Cluster 2: [air-sars](cluster_2)
-* Cluster 11: [uvgi-uv](cluster_11)
+* Cluster 14: [uvgi-uv](cluster_14)
 
 ## Concepts
 
  ![](imgs/keyword_room.jpg)
 
 
-## Articles
+## Top 10 articles for __room__
 * Social distancing enhanced automated optimal design of
 physical spaces in the wake of the COVID-19 pandemic ([ugail_social_2021](article_ugail_social_2021))
 * Methods for air cleaning and protection of building

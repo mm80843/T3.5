@@ -1,12 +1,12 @@
 # Article: __Health, Economic and Social Development Challenges of the COVID-19 Pandemic: Strategies for Multiple and Interconnected Issues__ (panneer_health_2022)
 
 * [10.3390/healthcare10050770](https://doi.org/10.3390/healthcare10050770)
-* Cluster: [health-city](cluster_3)
+* Cluster: [health-ai](cluster_1)
 
 
 ## Keywords
 
-[pandemic](keyword_pandemic), [health](keyword_health)
+[pandemic](keyword_pandemic), [health](keyword_health), [economic](keyword_economic)
 
 ## Abstract
 

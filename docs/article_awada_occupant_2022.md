@@ -1,7 +1,7 @@
 # Article: __Occupant health in buildings: Impact of the COVID-19 pandemic on the opinions of building professionals and implications on research__ (awada_occupant_2022)
 
 * [10.1016/j.buildenv.2021.108440](https://doi.org/10.1016/j.buildenv.2021.108440)
-* Cluster: [building-space](cluster_8)
+* Cluster: [building-health](cluster_10)
 
 
 ## Keywords

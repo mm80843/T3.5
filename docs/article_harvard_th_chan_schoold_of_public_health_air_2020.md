@@ -11,7 +11,7 @@ according to a new nationwide st…
 
 ## Keywords
 
-[coronavirus](keyword_coronavirus), [news](keyword_news)
+[coronavirus](keyword_coronavirus)
 
 
 ## Concepts

@@ -1,14 +1,14 @@
 # Keyword: __primer__
 ## Clusters
 
-* Cluster 4: [wastewater-sars](cluster_4)
+* Cluster 12: [wastewater-sars](cluster_12)
 
 ## Concepts
 
  ![](imgs/keyword_primer.jpg)
 
 
-## Articles
+## Top 10 articles for __primer__
 * SARS-CoV-2 Titers in Wastewater Are Higher
 than Expected from Clinically Confirmed Cases ([wu_sars-cov-2_2020](article_wu_sars-cov-2_2020))
 * Detection of SARS-CoV-2 in raw and treated wastewater

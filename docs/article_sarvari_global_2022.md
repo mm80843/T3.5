@@ -1,12 +1,12 @@
 # Article: __A Global Survey of Infection Control and Mitigation Measures for Combating the Transmission of COVID-19 Pandemic in Buildings Under Facilities Management Services__ (sarvari_global_2022)
 
 * [10.3389/fbuil.2021.644104](https://doi.org/10.3389/fbuil.2021.644104)
-* Cluster: [air-sars](cluster_2)
+* Cluster: [building-health](cluster_10)
 
 
 ## Keywords
 
-[construction](keyword_construction), [building](keyword_building), [design](keyword_design), [build](keyword_build), [transmission](keyword_transmission), [coronavirus](keyword_coronavirus)
+[construction](keyword_construction), [building](keyword_building), [design](keyword_design), [build](keyword_build), [transmission](keyword_transmission), [coronavirus](keyword_coronavirus), [china](keyword_china)
 
 ## Abstract
 

@@ -1,14 +1,14 @@
 # Keyword: __simulation__
 ## Clusters
 
-* Cluster 10: [scenario-agent](cluster_10)
+* Cluster 6: [simulation-model](cluster_6)
 
 ## Concepts
 
  ![](imgs/keyword_simulation.jpg)
 
 
-## Articles
+## Top 10 articles for __simulation__
 * Designing a Multi-Agent Occupant Simulation
 System to Support Facility Planning and Analysis
 for COVID-19 ([lee_designing_2021](article_lee_designing_2021))

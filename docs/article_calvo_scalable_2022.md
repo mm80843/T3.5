@@ -1,12 +1,12 @@
 # Article: __Scalable IoT Architecture for Monitoring IEQ Conditions in Public and Private Buildings__ (calvo_scalable_2022)
 
 * [10.3390/en15062270](https://doi.org/10.3390/en15062270)
-* Cluster: [ieq-sensor](cluster_5)
+* Cluster: [building-health](cluster_10)
 
 
 ## Keywords
 
-[sensor](keyword_sensor), [ieq](keyword_ieq), [node](keyword_node), [temperature](keyword_temperature), [iot](keyword_iot)
+[sensor](keyword_sensor), [ieq](keyword_ieq)
 
 ## Abstract
 

@@ -1,7 +1,7 @@
 # Article: __Mechanisms for addressing the impact of COVID-19 on infrastructure projects__ (king_mechanisms_2021)
 
 * [10.1088/1755-1315/682/1/012047](https://doi.org/10.1088/1755-1315/682/1/012047)
-* Cluster: [construction-project](cluster_9)
+* Cluster: [construction-project](cluster_3)
 
 
 ## Keywords

@@ -1,16 +1,14 @@
 # Keyword: __change__
 ## Clusters
 
-* Cluster 3: [health-city](cluster_3)
-* Cluster 7: [climate-change](cluster_7)
-* Cluster 8: [building-space](cluster_8)
+* Cluster 9: [climate-change](cluster_9)
 
 ## Concepts
 
  ![](imgs/keyword_change.jpg)
 
 
-## Articles
+## Top 10 articles for __change__
 * Navigating Climate Change: Rethinking the Role of
 Buildings ([cole_navigating_2020](article_cole_navigating_2020))
 * COVID19: Small and medium enterprises challenges and

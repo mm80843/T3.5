@@ -6,7 +6,7 @@
 
 ## Keywords
 
-[filter](keyword_filter), [viral](keyword_viral), [virus](keyword_virus)
+[filter](keyword_filter), [hospital](keyword_hospital), [viral](keyword_viral), [aerosol](keyword_aerosol)
 
 ## Abstract
 

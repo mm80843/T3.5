@@ -1,12 +1,12 @@
 # Article: __Wastewater surveillance for population-wide Covid-19: The present and future__ (daughton_wastewater_2020)
 
 * [10.1016/j.scitotenv.2020.139631](https://doi.org/10.1016/j.scitotenv.2020.139631)
-* Cluster: [wastewater-sars](cluster_4)
+* Cluster: [water-wastewater](cluster_15)
 
 
 ## Keywords
 
-[infection](keyword_infection), [pandemic](keyword_pandemic), [population](keyword_population), [wbe](keyword_wbe), [sewage](keyword_sewage)
+[infection](keyword_infection), [pandemic](keyword_pandemic), [population](keyword_population), [sewage](keyword_sewage)
 
 
 ## Concepts

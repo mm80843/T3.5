@@ -1,14 +1,14 @@
 # Keyword: __semantic__
 ## Clusters
 
-* Cluster 12: [ontology-datum](cluster_12)
+* Cluster 5: [ontology-datum](cluster_5)
 
 ## Concepts
 
  ![](imgs/keyword_semantic.jpg)
 
 
-## Articles
+## Top 10 articles for __semantic__
 * Construction of a Linked Data Set of COVID-19
 Knowledge Graphs: Development and Applications ([wang_construction_2022](article_wang_construction_2022))
 * An Overview of Biomedical Ontologies for Pandemics

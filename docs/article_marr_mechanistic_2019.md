@@ -6,7 +6,7 @@
 
 ## Keywords
 
-[virus](keyword_virus), [temperature](keyword_temperature), [droplet](keyword_droplet), [aerosol](keyword_aerosol), [infection](keyword_infection), [indoor](keyword_indoor)
+[influenza](keyword_influenza), [virus](keyword_virus), [droplet](keyword_droplet), [aerosol](keyword_aerosol), [infection](keyword_infection), [indoor](keyword_indoor)
 
 ## Abstract
 

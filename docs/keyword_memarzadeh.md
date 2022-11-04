@@ -1,22 +1,19 @@
 # Keyword: __memarzadeh__
 ## Clusters
 
-* Cluster 11: [uvgi-uv](cluster_11)
+* Cluster 14: [uvgi-uv](cluster_14)
 
 ## Concepts
 
  ![](imgs/keyword_memarzadeh.jpg)
 
 
-## Articles
-* Applications of ultraviolet germicidal irradiation
-disinfection in health care facilities: Effective
-adjunct, but not stand-alone technology ([memarzadeh_applications_2010](article_memarzadeh_applications_2010))
-* 2019 Novel Coronavirus (COVID-19) Pandemic:
-Built Environment Considerations To Reduce
-Transmission ([dietz_2019_2020](article_dietz_2019_2020))
-* COVID-19 and social inequalities: a complex and dynamic
-interaction ([quantin_covid-19_2022](article_quantin_covid-19_2022))
+## Top 10 articles for __memarzadeh__
+* RUDDS_bioRxiv_update ([RUDDS_bioRxiv_update](article_RUDDS_bioRxiv_update))
+* COVID-19: Lessons for an Urban(izing) World ([acuto_covid-19_2020](article_acuto_covid-19_2020))
+* p15-lee-vor ([p15-lee-vor](article_p15-lee-vor))
+* Effects to Construction Project Management
+Impacted Circular Economic of Covid-19 Pandemic ([paikan_effects_2021](article_paikan_effects_2021))
 * Impacts of COVID-19 on Health and Safety of
 Workforce in Construction Industry ([pamidimukkala_impacts_2021](article_pamidimukkala_impacts_2021))
 * Health, Economic and Social Development Challenges
@@ -31,4 +28,3 @@ Systems in Danish Healthcare Facilities in the
 COVID-19 Era ([pedersen_assessment_2022](article_pedersen_assessment_2022))
 * How our homes impact our health: using a COVID-19
 informed approach to examine urban apartment housing ([peters_how_2020](article_peters_how_2020))
-* Mental Health and the Covid-19 Pandemic ([pfefferbaum_mental_2020](article_pfefferbaum_mental_2020))

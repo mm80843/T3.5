@@ -1,12 +1,12 @@
 # Article: __Association between indoor-outdoor green features and psychological health during the COVID-19 lockdown in Italy: A cross-sectional nationwide study__ (spano_association_2021)
 
 * [10.1016/j.ufug.2021.127156](https://doi.org/10.1016/j.ufug.2021.127156)
-* Cluster: [health-city](cluster_3)
+* Cluster: [space-urban](cluster_13)
 
 
 ## Keywords
 
-[health](keyword_health)
+[anxiety](keyword_anxiety), [health](keyword_health)
 
 
 ## Concepts

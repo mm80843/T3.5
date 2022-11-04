@@ -1,12 +1,12 @@
 # Article: __Ten questions concerning occupant health in buildings during normal operations and extreme events including the COVID-19 pandemic__ (awada_ten_2021)
 
 * [10.1016/j.buildenv.2020.107480](https://doi.org/10.1016/j.buildenv.2020.107480)
-* Cluster: [building-energy](cluster_0)
+* Cluster: [building-health](cluster_10)
 
 
 ## Keywords
 
-[build](keyword_build), [health](keyword_health), [ventilation](keyword_ventilation), [building](keyword_building), [mental](keyword_mental), [ashrae](keyword_ashrae), [sensor](keyword_sensor), [occupant](keyword_occupant), [virus](keyword_virus)
+[build](keyword_build), [health](keyword_health), [ventilation](keyword_ventilation), [building](keyword_building), [mental](keyword_mental), [ashrae](keyword_ashrae), [occupant](keyword_occupant), [sensor](keyword_sensor), [virus](keyword_virus)
 
 
 ## Concepts

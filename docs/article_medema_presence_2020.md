@@ -1,12 +1,12 @@
 # Article: __Presence of SARS-Coronavirus-2 RNA in Sewage and Correlation with Reported COVID-19 Prevalence in the Early Stage of the Epidemic in The Netherlands__ (medema_presence_2020)
 
 * [10.1021/acs.estlett.0c00357](https://doi.org/10.1021/acs.estlett.0c00357)
-* Cluster: [wastewater-sars](cluster_4)
+* Cluster: [wastewater-sars](cluster_12)
 
 
 ## Keywords
 
-[wwtp](keyword_wwtp), [sewage](keyword_sewage), [gene](keyword_gene), [rna](keyword_rna), [environment](keyword_environment)
+[wwtp](keyword_wwtp), [sewage](keyword_sewage), [gene](keyword_gene), [china](keyword_china), [rna](keyword_rna), [environment](keyword_environment)
 
 
 ## Concepts

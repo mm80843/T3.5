@@ -6,7 +6,7 @@
 
 ## Keywords
 
-[ventilation](keyword_ventilation), [virus](keyword_virus), [infection](keyword_infection), [ultraviolet](keyword_ultraviolet), [aerosol](keyword_aerosol), [build](keyword_build), [germicidal](keyword_germicidal), [coronavirus](keyword_coronavirus)
+[ventilation](keyword_ventilation), [virus](keyword_virus), [infection](keyword_infection), [ultraviolet](keyword_ultraviolet), [hospital](keyword_hospital), [influenza](keyword_influenza), [build](keyword_build), [aerosol](keyword_aerosol), [coronavirus](keyword_coronavirus), [germicidal](keyword_germicidal)
 
 
 ## Concepts

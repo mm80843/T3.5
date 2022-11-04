@@ -6,7 +6,7 @@
 
 ## Keywords
 
-[health](keyword_health), [build](keyword_build), [office](keyword_office), [ventilation](keyword_ventilation), [workplace](keyword_workplace), [design](keyword_design), [research](keyword_research)
+[health](keyword_health), [build](keyword_build), [office](keyword_office), [ventilation](keyword_ventilation), [design](keyword_design), [research](keyword_research)
 
 
 ## Concepts

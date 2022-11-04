@@ -6,7 +6,7 @@
 
 ## Keywords
 
-[infection](keyword_infection), [coronavirus](keyword_coronavirus), [architecture](keyword_architecture), [design](keyword_design)
+[infection](keyword_infection), [coronavirus](keyword_coronavirus), [hospital](keyword_hospital), [healthcare](keyword_healthcare), [design](keyword_design)
 
 
 ## Concepts

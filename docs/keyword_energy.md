@@ -1,16 +1,15 @@
 # Keyword: __energy__
 ## Clusters
 
-* Cluster 0: [building-energy](cluster_0)
-* Cluster 5: [ieq-sensor](cluster_5)
-* Cluster 15: [building-green](cluster_15)
+* Cluster 0: [energy-building](cluster_0)
+* Cluster 10: [building-health](cluster_10)
 
 ## Concepts
 
  ![](imgs/keyword_energy.jpg)
 
 
-## Articles
+## Top 10 articles for __energy__
 * Addressing the impact of COVID-19 lockdown on energy use
 in municipal buildings: A case study in Florianópolis,
 Brazil ([geraldi_addressing_2021](article_geraldi_addressing_2021))

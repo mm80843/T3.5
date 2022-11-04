@@ -1,15 +1,14 @@
 # Keyword: __iot__
 ## Clusters
 
-* Cluster 1: [datum-health](cluster_1)
-* Cluster 6: [smart-iot](cluster_6)
+* Cluster 8: [smart-datum](cluster_8)
 
 ## Concepts
 
  ![](imgs/keyword_iot.jpg)
 
 
-## Articles
+## Top 10 articles for __iot__
 * Impact of COVID-19 on IoT Adoption in Healthcare,
 Smart Homes, Smart Buildings, Smart Cities,
 Transportation and Industrial IoT ([umair_impact_2021](article_umair_impact_2021))
@@ -33,5 +32,5 @@ realities and new urban economies ([allam_future_2021](article_allam_future_2021
 * Contributions of Smart City Solutions and
 Technologies to Resilience against the COVID-19
 Pandemic: A Literature Review ([sharifi_contributions_2021](article_sharifi_contributions_2021))
-* A review of facilities management interventions to
-mitigate respiratory infections in existing buildings ([zhang_review_2022](article_zhang_review_2022))
+* Health Information Exchange with Blockchain amid
+Covid-19-like Pandemics ([christodoulou_health_2020](article_christodoulou_health_2020))

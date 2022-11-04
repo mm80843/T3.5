@@ -6,7 +6,7 @@
 
 ## Keywords
 
-[infection](keyword_infection), [virus](keyword_virus), [study](keyword_study), [workplace](keyword_workplace), [surveillance](keyword_surveillance)
+[infection](keyword_infection), [virus](keyword_virus), [study](keyword_study), [healthcare](keyword_healthcare)
 
 ## Abstract
 

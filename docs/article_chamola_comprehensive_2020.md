@@ -1,12 +1,12 @@
 # Article: __A Comprehensive Review of the COVID-19 Pandemic and the Role of IoT, Drones, AI, Blockchain, and 5G in Managing its Impact__ (chamola_comprehensive_2020)
 
 * [10.1109/ACCESS.2020.2992341](https://doi.org/10.1109/ACCESS.2020.2992341)
-* Cluster: [datum-health](cluster_1)
+* Cluster: [health-ai](cluster_1)
 
 
 ## Keywords
 
-[online](keyword_online), [blockchain](keyword_blockchain), [coronavirus](keyword_coronavirus), [pandemic](keyword_pandemic), [virus](keyword_virus), [drone](keyword_drone)
+[china](keyword_china), [blockchain](keyword_blockchain), [coronavirus](keyword_coronavirus), [pandemic](keyword_pandemic), [virus](keyword_virus)
 
 ## Abstract
 

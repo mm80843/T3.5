@@ -1,12 +1,12 @@
 # Article: __Smart cities and a data-driven response to COVID-19__ (james_smart_2020)
 
 * [10.1177/2043820620934211](https://doi.org/10.1177/2043820620934211)
-* Cluster: [health-city](cluster_3)
+* Cluster: [smart-datum](cluster_8)
 
 
 ## Keywords
 
-[data](keyword_data), [analytic](keyword_analytic), [iot](keyword_iot)
+[data](keyword_data), [analytic](keyword_analytic)
 
 ## Abstract
 

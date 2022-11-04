@@ -1,14 +1,14 @@
 # Keyword: __analytic__
 ## Clusters
 
-* Cluster 12: [ontology-datum](cluster_12)
+* Cluster 5: [ontology-datum](cluster_5)
 
 ## Concepts
 
  ![](imgs/keyword_analytic.jpg)
 
 
-## Articles
+## Top 10 articles for __analytic__
 * Pandemic Analytics: How Countries are Leveraging
 Big Data Analytics and Artificial Intelligence to
 Fight COVID-19? ([mehta_pandemic_2021](article_mehta_pandemic_2021))

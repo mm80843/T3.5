@@ -1,14 +1,14 @@
 # Keyword: __worker__
 ## Clusters
 
-* Cluster 9: [construction-project](cluster_9)
+* Cluster 3: [construction-project](cluster_3)
 
 ## Concepts
 
  ![](imgs/keyword_worker.jpg)
 
 
-## Articles
+## Top 10 articles for __worker__
 * eurofund_sustainable_2016 ([eurofund_sustainable_2016](article_eurofund_sustainable_2016))
 * COVID-19 Experience Transforming the Protective
 Environment of Office Buildings and Spaces ([phapant_covid-19_2021](article_phapant_covid-19_2021))

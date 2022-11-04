@@ -1,15 +1,15 @@
 # Keyword: __infectious__
 ## Clusters
 
-* Cluster 7: [climate-change](cluster_7)
-* Cluster 12: [ontology-datum](cluster_12)
+* Cluster 5: [ontology-datum](cluster_5)
+* Cluster 9: [climate-change](cluster_9)
 
 ## Concepts
 
  ![](imgs/keyword_infectious.jpg)
 
 
-## Articles
+## Top 10 articles for __infectious__
 * ashrae_ashrae_2022 ([ashrae_ashrae_2022](article_ashrae_ashrae_2022))
 * The ventilation of buildings and other mitigating measures
 for COVID-19: a focus on wintertime ([burridge_ventilation_2021](article_burridge_ventilation_2021))

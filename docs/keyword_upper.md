@@ -1,14 +1,14 @@
 # Keyword: __upper__
 ## Clusters
 
-* Cluster 11: [uvgi-uv](cluster_11)
+* Cluster 14: [uvgi-uv](cluster_14)
 
 ## Concepts
 
  ![](imgs/keyword_upper.jpg)
 
 
-## Articles
+## Top 10 articles for __upper__
 * Aerosol and Surface Stability of SARS-CoV-2 as
 Compared with SARS-CoV-1 ([van_doremalen_aerosol_2020](article_van_doremalen_aerosol_2020))
 * The Socio-Spatial Determinants of COVID-19

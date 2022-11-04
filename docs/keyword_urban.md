@@ -1,14 +1,17 @@
 # Keyword: __urban__
 ## Clusters
 
-* Cluster 3: [health-city](cluster_3)
+* Cluster 4: [resilience-health](cluster_4)
+* Cluster 6: [simulation-model](cluster_6)
+* Cluster 8: [smart-datum](cluster_8)
+* Cluster 13: [space-urban](cluster_13)
 
 ## Concepts
 
  ![](imgs/keyword_urban.jpg)
 
 
-## Articles
+## Top 10 articles for __urban__
 * rtpi_urban_2021 ([rtpi_urban_2021](article_rtpi_urban_2021))
 * Biophilic design in architecture and its contributions to
 health, well-being, and sustainability: A critical
@@ -25,11 +28,10 @@ COVID-19 Crisis ([reinwald_urban_2021](article_reinwald_urban_2021))
 * Antivirus-built environment: Lessons learned from
 Covid-19 pandemic ([megahed_antivirus-built_2020](article_megahed_antivirus-built_2020))
 * realdania_refleksioner_2022_EN ([realdania_refleksioner_2022_EN](article_realdania_refleksioner_2022_EN))
+* COVID-19 Could Leverage a Sustainable Built
+Environment ([pinheiro_covid-19_2020](article_pinheiro_covid-19_2020))
 * Coronavirus questions that will not go away: interrogating
 urban and socio-spatial implications of COVID-19
 measures ([salama_coronavirus_2020](article_salama_coronavirus_2020))
 * Respiratory pandemics, urban planning and design: A
 multidisciplinary rapid review of the literature ([harris_respiratory_2022](article_harris_respiratory_2022))
-* Association between indoor-outdoor green features and
-psychological health during the COVID-19 lockdown in
-Italy: A cross-sectional nationwide study ([spano_association_2021](article_spano_association_2021))

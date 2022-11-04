@@ -1,12 +1,12 @@
 # Article: __Detection of SARS-CoV-2 in raw and treated wastewater in Germany – Suitability for COVID-19 surveillance and potential transmission risks__ (westhaus_detection_2021)
 
 * [10.1016/j.scitotenv.2020.141750](https://doi.org/10.1016/j.scitotenv.2020.141750)
-* Cluster: [wastewater-sars](cluster_4)
+* Cluster: [wastewater-sars](cluster_12)
 
 
 ## Keywords
 
-[wastewater](keyword_wastewater), [gene](keyword_gene), [coronavirus](keyword_coronavirus), [virus](keyword_virus), [pcr](keyword_pcr), [rna](keyword_rna), [wwtp](keyword_wwtp)
+[wastewater](keyword_wastewater), [gene](keyword_gene), [coronavirus](keyword_coronavirus), [virus](keyword_virus), [pcr](keyword_pcr), [rna](keyword_rna), [infection](keyword_infection)
 
 
 ## Concepts

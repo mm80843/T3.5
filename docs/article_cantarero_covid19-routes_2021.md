@@ -1,12 +1,12 @@
 # Article: __COVID19-Routes: A Safe Pedestrian Navigation Service__ (cantarero_covid19-routes_2021)
 
 * [10.1109/ACCESS.2021.3092970](https://doi.org/10.1109/ACCESS.2021.3092970)
-* Cluster: [health-city](cluster_3)
+* Cluster: [space-urban](cluster_13)
 
 
 ## Keywords
 
-[online](keyword_online), [pandemic](keyword_pandemic), [city](keyword_city), [node](keyword_node), [knowledge](keyword_knowledge)
+[pandemic](keyword_pandemic), [city](keyword_city), [knowledge](keyword_knowledge)
 
 ## Abstract
 

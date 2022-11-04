@@ -1,14 +1,14 @@
 # Keyword: __tool__
 ## Clusters
 
-* Cluster 12: [ontology-datum](cluster_12)
+* Cluster 5: [ontology-datum](cluster_5)
 
 ## Concepts
 
  ![](imgs/keyword_tool.jpg)
 
 
-## Articles
+## Top 10 articles for __tool__
 * Guidelines for Responding to COVID-19 Pandemic:
 Best Practices, Impacts, and Future Research
 Directions ([assaad_guidelines_2021](article_assaad_guidelines_2021))

@@ -1,14 +1,14 @@
 # Keyword: __business__
 ## Clusters
 
-* Cluster 13: [resilience-sme](cluster_13)
+* Cluster 4: [resilience-health](cluster_4)
 
 ## Concepts
 
  ![](imgs/keyword_business.jpg)
 
 
-## Articles
+## Top 10 articles for __business__
 * world_green_building_council_health_2014 ([world_green_building_council_health_2014](article_world_green_building_council_health_2014))
 * COVID19: Small and medium enterprises challenges and
 responses with creativity, innovation, and

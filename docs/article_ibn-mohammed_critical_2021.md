@@ -1,12 +1,12 @@
 # Article: __A critical analysis of the impacts of COVID-19 on the global economy and ecosystems and opportunities for circular economy strategies__ (ibn-mohammed_critical_2021)
 
 * [10.1016/j.resconrec.2020.105169](https://doi.org/10.1016/j.resconrec.2020.105169)
-* Cluster: [health-city](cluster_3)
+* Cluster: [resilience-health](cluster_4)
 
 
 ## Keywords
 
-[pandemic](keyword_pandemic), [coronavirus](keyword_coronavirus)
+[pandemic](keyword_pandemic), [china](keyword_china), [economic](keyword_economic), [coronavirus](keyword_coronavirus), [waste](keyword_waste)
 
 
 ## Concepts

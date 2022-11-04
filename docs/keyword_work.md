@@ -1,16 +1,15 @@
 # Keyword: __work__
 ## Clusters
 
-* Cluster 0: [building-energy](cluster_0)
-* Cluster 8: [building-space](cluster_8)
-* Cluster 9: [construction-project](cluster_9)
+* Cluster 3: [construction-project](cluster_3)
+* Cluster 10: [building-health](cluster_10)
 
 ## Concepts
 
  ![](imgs/keyword_work.jpg)
 
 
-## Articles
+## Top 10 articles for __work__
 * realdania_refleksioner_2022_EN ([realdania_refleksioner_2022_EN](article_realdania_refleksioner_2022_EN))
 * eurofund_sustainable_2016 ([eurofund_sustainable_2016](article_eurofund_sustainable_2016))
 * world_green_building_council_health_2014 ([world_green_building_council_health_2014](article_world_green_building_council_health_2014))

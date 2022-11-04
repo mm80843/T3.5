@@ -1,14 +1,14 @@
 # Keyword: __project__
 ## Clusters
 
-* Cluster 9: [construction-project](cluster_9)
+* Cluster 3: [construction-project](cluster_3)
 
 ## Concepts
 
  ![](imgs/keyword_project.jpg)
 
 
-## Articles
+## Top 10 articles for __project__
 * Overcoming the Impact of COVID-19 Using Integrated
 Project Delivery Model ([g_overcoming_2020](article_g_overcoming_2020))
 * Influence between COVID-19 Impacts and Project

@@ -11,7 +11,7 @@ lets staff don PPE in a protected environment.
 
 ## Keywords
 
-[pandemic](keyword_pandemic), [room](keyword_room)
+[hospital](keyword_hospital), [pandemic](keyword_pandemic), [room](keyword_room)
 
 
 ## Concepts

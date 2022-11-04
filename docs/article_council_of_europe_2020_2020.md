@@ -6,7 +6,7 @@
 
 ## Keywords
 
-[pandemic](keyword_pandemic)
+[pandemic](keyword_pandemic), [privacy](keyword_privacy)
 
 
 ## Concepts

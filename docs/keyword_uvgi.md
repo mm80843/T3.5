@@ -1,14 +1,14 @@
 # Keyword: __uvgi__
 ## Clusters
 
-* Cluster 11: [uvgi-uv](cluster_11)
+* Cluster 14: [uvgi-uv](cluster_14)
 
 ## Concepts
 
  ![](imgs/keyword_uvgi.jpg)
 
 
-## Articles
+## Top 10 articles for __uvgi__
 * Applications of ultraviolet germicidal irradiation
 disinfection in health care facilities: Effective
 adjunct, but not stand-alone technology ([memarzadeh_applications_2010](article_memarzadeh_applications_2010))

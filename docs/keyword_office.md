@@ -1,14 +1,14 @@
 # Keyword: __office__
 ## Clusters
 
-* Cluster 8: [building-space](cluster_8)
+* Cluster 10: [building-health](cluster_10)
 
 ## Concepts
 
  ![](imgs/keyword_office.jpg)
 
 
-## Articles
+## Top 10 articles for __office__
 * world_green_building_council_health_2014 ([world_green_building_council_health_2014](article_world_green_building_council_health_2014))
 * pricewaterhousecoopers_its_2021 ([pricewaterhousecoopers_its_2021](article_pricewaterhousecoopers_its_2021))
 * COVID-19 Experience Transforming the Protective

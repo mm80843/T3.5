@@ -1,15 +1,15 @@
 # Keyword: __access__
 ## Clusters
 
-* Cluster 1: [datum-health](cluster_1)
-* Cluster 3: [health-city](cluster_3)
+* Cluster 1: [health-ai](cluster_1)
+* Cluster 4: [resilience-health](cluster_4)
 
 ## Concepts
 
  ![](imgs/keyword_access.jpg)
 
 
-## Articles
+## Top 10 articles for __access__
 * Response to COVID-19 in Taiwan: Big Data
 Analytics, New Technology, and Proactive
 Testing ([wang_response_2020](article_wang_response_2020))

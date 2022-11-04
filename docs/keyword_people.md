@@ -1,15 +1,16 @@
 # Keyword: __people__
 ## Clusters
 
-* Cluster 3: [health-city](cluster_3)
-* Cluster 7: [climate-change](cluster_7)
+* Cluster 0: [energy-building](cluster_0)
+* Cluster 9: [climate-change](cluster_9)
+* Cluster 13: [space-urban](cluster_13)
 
 ## Concepts
 
  ![](imgs/keyword_people.jpg)
 
 
-## Articles
+## Top 10 articles for __people__
 * world_green_building_council_health_2014 ([world_green_building_council_health_2014](article_world_green_building_council_health_2014))
 * realdania_refleksioner_2022_EN ([realdania_refleksioner_2022_EN](article_realdania_refleksioner_2022_EN))
 * Navigating Climate Change: Rethinking the Role of

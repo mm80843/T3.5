@@ -1,14 +1,14 @@
 # Keyword: __waste__
 ## Clusters
 
-* Cluster 15: [building-green](cluster_15)
+* Cluster 15: [water-wastewater](cluster_15)
 
 ## Concepts
 
  ![](imgs/keyword_waste.jpg)
 
 
-## Articles
+## Top 10 articles for __waste__
 * A critical analysis of the impacts of COVID-19 on the
 global economy and ecosystems and opportunities for
 circular economy strategies ([ibn-mohammed_critical_2021](article_ibn-mohammed_critical_2021))

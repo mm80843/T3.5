@@ -1,14 +1,14 @@
 # Keyword: __sme__
 ## Clusters
 
-* Cluster 13: [resilience-sme](cluster_13)
+* Cluster 4: [resilience-health](cluster_4)
 
 ## Concepts
 
  ![](imgs/keyword_sme.jpg)
 
 
-## Articles
+## Top 10 articles for __sme__
 * COVID-19 and regional solutions for mitigating the risk
 of SME finance in selected ASEAN member states ([taghizadeh-hesary_covid-19_2022](article_taghizadeh-hesary_covid-19_2022))
 * COVID19: Small and medium enterprises challenges and

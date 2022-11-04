@@ -24,7 +24,7 @@ manifested to support a resilient AEC industry.
 
 ## Keywords
 
-[construction](keyword_construction), [resilience](keyword_resilience), [design](keyword_design), [pandemic](keyword_pandemic), [industry](keyword_industry)
+[construction](keyword_construction), [resilience](keyword_resilience), [design](keyword_design), [pandemic](keyword_pandemic), [industry](keyword_industry), [information](keyword_information), [engineering](keyword_engineering)
 
 
 ## Concepts

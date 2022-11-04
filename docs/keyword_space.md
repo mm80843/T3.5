@@ -1,15 +1,15 @@
 # Keyword: __space__
 ## Clusters
 
-* Cluster 8: [building-space](cluster_8)
-* Cluster 15: [building-green](cluster_15)
+* Cluster 10: [building-health](cluster_10)
+* Cluster 13: [space-urban](cluster_13)
 
 ## Concepts
 
  ![](imgs/keyword_space.jpg)
 
 
-## Articles
+## Top 10 articles for __space__
 * Architectural Design Drives the Biogeography of
 Indoor Bacterial Communities ([kembel_architectural_2014](article_kembel_architectural_2014))
 * p15-lee-vor ([p15-lee-vor](article_p15-lee-vor))

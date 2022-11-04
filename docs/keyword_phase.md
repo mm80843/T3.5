@@ -1,14 +1,14 @@
 # Keyword: __phase__
 ## Clusters
 
-* Cluster 10: [scenario-agent](cluster_10)
+* Cluster 6: [simulation-model](cluster_6)
 
 ## Concepts
 
  ![](imgs/keyword_phase.jpg)
 
 
-## Articles
+## Top 10 articles for __phase__
 * Digital Twin of COVID-19 Mass Vaccination
 Centers ([pilati_digital_2021](article_pilati_digital_2021))
 * The COVID-19 pandemic: Impacts on cities and major

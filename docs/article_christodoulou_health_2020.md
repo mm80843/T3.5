@@ -1,7 +1,7 @@
 # Article: __Health Information Exchange with Blockchain amid Covid-19-like Pandemics__ (christodoulou_health_2020)
 
 * [10.1109/DCOSS49796.2020.00071](https://doi.org/10.1109/DCOSS49796.2020.00071)
-* Cluster: [datum-health](cluster_1)
+* Cluster: [smart-datum](cluster_8)
 
 
 ## Keywords

@@ -1,14 +1,14 @@
 # Keyword: __blockchain__
 ## Clusters
 
-* Cluster 1: [datum-health](cluster_1)
+* Cluster 8: [smart-datum](cluster_8)
 
 ## Concepts
 
  ![](imgs/keyword_blockchain.jpg)
 
 
-## Articles
+## Top 10 articles for __blockchain__
 * Blockchain technology and its applications to combat
 COVID-19 pandemic ([sharma_blockchain_2022](article_sharma_blockchain_2022))
 * A Comprehensive Review of the COVID-19 Pandemic
@@ -29,8 +29,8 @@ Smart Homes, Smart Buildings, Smart Cities,
 Transportation and Industrial IoT ([umair_impact_2021](article_umair_impact_2021))
 * The role of 5G for digital healthcare against COVID-19
 pandemic: Opportunities and challenges ([siriwardhana_role_2021](article_siriwardhana_role_2021))
+* Digital technology and COVID-19 ([ting_digital_2020](article_ting_digital_2020))
 * Exploring the Potential of Artificial Intelligence
 and Machine Learning to Combat COVID-19 and
 Existing Opportunities for LMIC: A Scoping
 Review ([naseem_exploring_2020](article_naseem_exploring_2020))
-* Digital technology and COVID-19 ([ting_digital_2020](article_ting_digital_2020))

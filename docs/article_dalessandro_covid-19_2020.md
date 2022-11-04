@@ -1,12 +1,12 @@
 # Article: ____ (dalessandro_covid-19_2020)
 
 * [10.23750/abm.v91i9-S.10115](https://doi.org/10.23750/abm.v91i9-S.10115)
-* Cluster: [building-green](cluster_15)
+* Cluster: [space-urban](cluster_13)
 
 
 ## Keywords
 
-[health](keyword_health), [environment](keyword_environment)
+[health](keyword_health), [environment](keyword_environment), [housing](keyword_housing)
 
 ## Abstract
 

@@ -6,7 +6,7 @@
 
 ## Keywords
 
-[ashrae](keyword_ashrae), [ventilation](keyword_ventilation), [aerosol](keyword_aerosol), [transmission](keyword_transmission), [droplet](keyword_droplet), [infectious](keyword_infectious), [ultraviolet](keyword_ultraviolet), [build](keyword_build), [disinfection](keyword_disinfection)
+[ashrae](keyword_ashrae), [ventilation](keyword_ventilation), [aerosol](keyword_aerosol), [influenza](keyword_influenza), [transmission](keyword_transmission), [droplet](keyword_droplet), [infectious](keyword_infectious), [build](keyword_build), [ultraviolet](keyword_ultraviolet), [hvac](keyword_hvac), [disinfection](keyword_disinfection)
 
 
 ## Concepts

@@ -1,16 +1,17 @@
 # Keyword: __public__
 ## Clusters
 
-* Cluster 3: [health-city](cluster_3)
-* Cluster 7: [climate-change](cluster_7)
-* Cluster 14: [onlinelibrary-wiley](cluster_14)
+* Cluster 1: [health-ai](cluster_1)
+* Cluster 9: [climate-change](cluster_9)
+* Cluster 11: [anxiety-social](cluster_11)
+* Cluster 13: [space-urban](cluster_13)
 
 ## Concepts
 
  ![](imgs/keyword_public.jpg)
 
 
-## Articles
+## Top 10 articles for __public__
 * rtpi_urban_2021 ([rtpi_urban_2021](article_rtpi_urban_2021))
 * realdania_refleksioner_2022_EN ([realdania_refleksioner_2022_EN](article_realdania_refleksioner_2022_EN))
 * Scalable IoT Architecture for Monitoring IEQ

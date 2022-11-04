@@ -1,14 +1,14 @@
 # Keyword: __viral__
 ## Clusters
 
-* Cluster 4: [wastewater-sars](cluster_4)
+* Cluster 12: [wastewater-sars](cluster_12)
 
 ## Concepts
 
  ![](imgs/keyword_viral.jpg)
 
 
-## Articles
+## Top 10 articles for __viral__
 * Effect of Ultraviolet Germicidal Irradiation on
 Viral Aerosols ([walker_effect_2007](article_walker_effect_2007))
 * SARS-CoV-2 Titers in Wastewater Are Higher

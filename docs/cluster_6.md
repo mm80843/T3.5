@@ -1,7 +1,7 @@
-# Cluster: __smart-iot__ (cluster6)
+# Cluster: __simulation-model__ (cluster6)
 ## Keywords
 
-* [smart](keyword_smart), [iot](keyword_iot), [technology](keyword_technology), [robot](keyword_robot), [network](keyword_network), [system](keyword_system), [pandemic](keyword_pandemic), [base](keyword_base), [city](keyword_city), [remote](keyword_remote), [infector](keyword_infector), [digital](keyword_digital), [datum](keyword_datum), [sensor](keyword_sensor), [enable](keyword_enable), [monitoring](keyword_monitoring), [control](keyword_control), [tele](keyword_tele), [iaq](keyword_iaq), [device](keyword_device)
+* [simulation](keyword_simulation), [model](keyword_model), [agent](keyword_agent), [city](keyword_city), [scenario](keyword_scenario), [mobility](keyword_mobility), [neighborhood](keyword_neighborhood), [urban](keyword_urban), [population](keyword_population), [spatial](keyword_spatial), [number](keyword_number), [epidemic](keyword_epidemic), [trip](keyword_trip), [influenza](keyword_influenza), [time](keyword_time), [phase](keyword_phase), [biorxiv](keyword_biorxiv), [parameter](keyword_parameter), [probability](keyword_probability), [vaccination](keyword_vaccination)
 
 ## Concepts
 
@@ -10,22 +10,11 @@
 
 ## Articles
 
-* A comprehensive review on indoor air quality monitoring
-systems for enhanced public health ([saini_comprehensive_2020](article_saini_comprehensive_2020))
-* The role of 5G for digital healthcare against COVID-19
-pandemic: Opportunities and challenges ([siriwardhana_role_2021](article_siriwardhana_role_2021))
-* ec_views_danish_2020 ([ec_views_danish_2020](article_ec_views_danish_2020))
-* Design COVID-19 Ontology: A Healthcare and
-Safety Perspective ([aloulou_design_2022](article_aloulou_design_2022))
-* Impact of COVID-19 on IoT Adoption in Healthcare,
-Smart Homes, Smart Buildings, Smart Cities,
-Transportation and Industrial IoT ([umair_impact_2021](article_umair_impact_2021))
-* Future (post-COVID) digital, smart and sustainable
-cities in the wake of 6G: Digital twins, immersive
-realities and new urban economies ([allam_future_2021](article_allam_future_2021))
-* How the 5G Enabled the COVID-19 Pandemic
-Prevention and Control: Materiality, Affordance,
-and (De-)Spatialization ([li_how_2022](article_li_how_2022))
-* Contributions of Smart City Solutions and
-Technologies to Resilience against the COVID-19
-Pandemic: A Literature Review ([sharifi_contributions_2021](article_sharifi_contributions_2021))
+* COVID-ABS: An agent-based model of COVID-19
+epidemic to simulate health and economic effects of social
+distancing interventions ([silva_covid-abs_2020](article_silva_covid-abs_2020))
+* Understanding the role of urban design in disease
+spreading ([brizuela_understanding_2019](article_brizuela_understanding_2019))
+* RUDDS_bioRxiv_update ([RUDDS_bioRxiv_update](article_RUDDS_bioRxiv_update))
+* Digital Twin of COVID-19 Mass Vaccination
+Centers ([pilati_digital_2021](article_pilati_digital_2021))

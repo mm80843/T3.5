@@ -1,14 +1,14 @@
 # Keyword: __climate__
 ## Clusters
 
-* Cluster 7: [climate-change](cluster_7)
+* Cluster 9: [climate-change](cluster_9)
 
 ## Concepts
 
  ![](imgs/keyword_climate.jpg)
 
 
-## Articles
+## Top 10 articles for __climate__
 * rtpi_urban_2021 ([rtpi_urban_2021](article_rtpi_urban_2021))
 * Effects of temperature and humidity on the spread of
 COVID-19: A systematic review ([mecenas_effects_2020](article_mecenas_effects_2020))

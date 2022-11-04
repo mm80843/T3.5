@@ -1,7 +1,7 @@
 # Article: __SARS-CoV-2 Titers in Wastewater Are Higher than Expected from Clinically Confirmed Cases__ (wu_sars-cov-2_2020)
 
 * [10.1128/mSystems.00614-20](https://doi.org/10.1128/mSystems.00614-20)
-* Cluster: [wastewater-sars](cluster_4)
+* Cluster: [wastewater-sars](cluster_12)
 
 
 ## Keywords

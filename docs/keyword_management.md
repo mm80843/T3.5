@@ -1,14 +1,14 @@
 # Keyword: __management__
 ## Clusters
 
-* Cluster 9: [construction-project](cluster_9)
+* Cluster 3: [construction-project](cluster_3)
 
 ## Concepts
 
  ![](imgs/keyword_management.jpg)
 
 
-## Articles
+## Top 10 articles for __management__
 * Management of the COVID-19 pandemic: challenges,
 practices, and organizational support ([hossny_management_2022](article_hossny_management_2022))
 * A study on office workplace modification during the

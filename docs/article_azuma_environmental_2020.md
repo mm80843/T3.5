@@ -6,7 +6,7 @@
 
 ## Keywords
 
-[ventilation](keyword_ventilation), [aerosol](keyword_aerosol), [virus](keyword_virus), [infection](keyword_infection), [coronavirus](keyword_coronavirus)
+[ventilation](keyword_ventilation), [aerosol](keyword_aerosol), [virus](keyword_virus), [infection](keyword_infection), [coronavirus](keyword_coronavirus), [china](keyword_china), [droplet](keyword_droplet)
 
 ## Abstract
 

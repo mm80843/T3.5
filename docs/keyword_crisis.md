@@ -1,14 +1,14 @@
 # Keyword: __crisis__
 ## Clusters
 
-* Cluster 13: [resilience-sme](cluster_13)
+* Cluster 4: [resilience-health](cluster_4)
 
 ## Concepts
 
  ![](imgs/keyword_crisis.jpg)
 
 
-## Articles
+## Top 10 articles for __crisis__
 * Startups in times of crisis – A rapid response to the
 COVID-19 pandemic ([kuckertz_startups_2020](article_kuckertz_startups_2020))
 * realdania_refleksioner_2022_EN ([realdania_refleksioner_2022_EN](article_realdania_refleksioner_2022_EN))

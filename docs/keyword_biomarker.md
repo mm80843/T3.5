@@ -1,14 +1,14 @@
 # Keyword: __biomarker__
 ## Clusters
 
-* Cluster 4: [wastewater-sars](cluster_4)
+* Cluster 12: [wastewater-sars](cluster_12)
 
 ## Concepts
 
  ![](imgs/keyword_biomarker.jpg)
 
 
-## Articles
+## Top 10 articles for __biomarker__
 * Future perspectives of wastewater-based epidemiology:
 Monitoring infectious disease spread and resistance to
 the community level ([sims_future_2020](article_sims_future_2020))

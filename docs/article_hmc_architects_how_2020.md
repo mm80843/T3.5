@@ -6,7 +6,7 @@
 
 ## Keywords
 
-[pandemic](keyword_pandemic), [build](keyword_build), [infection](keyword_infection), [design](keyword_design)
+[pandemic](keyword_pandemic), [build](keyword_build), [healthcare](keyword_healthcare), [infection](keyword_infection), [spread](keyword_spread), [design](keyword_design)
 
 
 ## Concepts

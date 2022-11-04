@@ -1,12 +1,12 @@
 # Article: __Internet of things (IoT) applications to fight against COVID-19 pandemic__ (singh_internet_2020)
 
 * [10.1016/j.dsx.2020.04.041](https://doi.org/10.1016/j.dsx.2020.04.041)
-* Cluster: [datum-health](cluster_1)
+* Cluster: [smart-datum](cluster_8)
 
 
 ## Keywords
 
-[iot](keyword_iot), [data](keyword_data), [pandemic](keyword_pandemic), [coronavirus](keyword_coronavirus)
+[iot](keyword_iot), [healthcare](keyword_healthcare), [pandemic](keyword_pandemic), [data](keyword_data), [coronavirus](keyword_coronavirus)
 
 
 ## Concepts

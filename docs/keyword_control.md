@@ -2,15 +2,15 @@
 ## Clusters
 
 * Cluster 2: [air-sars](cluster_2)
-* Cluster 6: [smart-iot](cluster_6)
-* Cluster 11: [uvgi-uv](cluster_11)
+* Cluster 10: [building-health](cluster_10)
+* Cluster 14: [uvgi-uv](cluster_14)
 
 ## Concepts
 
  ![](imgs/keyword_control.jpg)
 
 
-## Articles
+## Top 10 articles for __control__
 * How the 5G Enabled the COVID-19 Pandemic
 Prevention and Control: Materiality, Affordance,
 and (De-)Spatialization ([li_how_2022](article_li_how_2022))

@@ -1,12 +1,12 @@
 # Article: __COVID-19 Experience Transforming the Protective Environment of Office Buildings and Spaces__ (phapant_covid-19_2021)
 
 * [10.3390/su132413636](https://doi.org/10.3390/su132413636)
-* Cluster: [building-space](cluster_8)
+* Cluster: [building-health](cluster_10)
 
 
 ## Keywords
 
-[workplace](keyword_workplace), [pandemic](keyword_pandemic), [virus](keyword_virus), [infection](keyword_infection), [coronavirus](keyword_coronavirus), [worker](keyword_worker), [office](keyword_office)
+[pandemic](keyword_pandemic), [virus](keyword_virus), [infection](keyword_infection), [coronavirus](keyword_coronavirus), [worker](keyword_worker), [office](keyword_office), [china](keyword_china)
 
 ## Abstract
 

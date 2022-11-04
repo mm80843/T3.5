@@ -1,12 +1,12 @@
 # Article: __Assessment of COVID-19 precautionary measures in sports facilities: A case study on a health club in Saudi Arabia__ (ibrahim_assessment_2022)
 
 * [10.1016/j.jobe.2021.103662](https://doi.org/10.1016/j.jobe.2021.103662)
-* Cluster: [building-space](cluster_8)
+* Cluster: [building-health](cluster_10)
 
 
 ## Keywords
 
-[pandemic](keyword_pandemic), [risk](keyword_risk), [ventilation](keyword_ventilation)
+[pandemic](keyword_pandemic), [risk](keyword_risk), [ventilation](keyword_ventilation), [safety](keyword_safety)
 
 
 ## Concepts

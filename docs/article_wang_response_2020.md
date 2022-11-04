@@ -1,12 +1,12 @@
 # Article: __Response to COVID-19 in Taiwan__ (wang_response_2020)
 
 * [10.1001/jama.2020.3151](https://doi.org/10.1001/jama.2020.3151)
-* Cluster: [datum-health](cluster_1)
+* Cluster: [health-ai](cluster_1)
 
 
 ## Keywords
 
-[taiwan](keyword_taiwan), [access](keyword_access)
+[taiwan](keyword_taiwan), [china](keyword_china), [epidemic](keyword_epidemic), [access](keyword_access)
 
 
 ## Concepts

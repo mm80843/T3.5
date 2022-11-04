@@ -1,7 +1,7 @@
 # Article: __RESIDENTIAL ARCHITECTURE IN A POST-PANDEMIC WORLD: IMPLICATIONS OF COVID-19 FOR NEW CONSTRUCTION AND FOR ADAPTING HERITAGE BUILDINGS__ (spennemann_residential_2021)
 
 * [10.3992/jgb.16.1.199](https://doi.org/10.3992/jgb.16.1.199)
-* Cluster: [building-space](cluster_8)
+* Cluster: [space-urban](cluster_13)
 
 
 ## Keywords

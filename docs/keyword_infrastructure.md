@@ -1,14 +1,14 @@
 # Keyword: __infrastructure__
 ## Clusters
 
-* Cluster 13: [resilience-sme](cluster_13)
+* Cluster 4: [resilience-health](cluster_4)
 
 ## Concepts
 
  ![](imgs/keyword_infrastructure.jpg)
 
 
-## Articles
+## Top 10 articles for __infrastructure__
 * oecd_covid-19_2021 ([oecd_covid-19_2021](article_oecd_covid-19_2021))
 * carvalhaes_covid-19_2020 ([carvalhaes_covid-19_2020](article_carvalhaes_covid-19_2020))
 * rtpi_urban_2021 ([rtpi_urban_2021](article_rtpi_urban_2021))

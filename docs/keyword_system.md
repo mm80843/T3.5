@@ -1,21 +1,19 @@
 # Keyword: __system__
 ## Clusters
 
-* Cluster 0: [building-energy](cluster_0)
 * Cluster 2: [air-sars](cluster_2)
-* Cluster 5: [ieq-sensor](cluster_5)
-* Cluster 6: [smart-iot](cluster_6)
-* Cluster 10: [scenario-agent](cluster_10)
-* Cluster 11: [uvgi-uv](cluster_11)
-* Cluster 13: [resilience-sme](cluster_13)
-* Cluster 15: [building-green](cluster_15)
+* Cluster 4: [resilience-health](cluster_4)
+* Cluster 8: [smart-datum](cluster_8)
+* Cluster 10: [building-health](cluster_10)
+* Cluster 13: [space-urban](cluster_13)
+* Cluster 14: [uvgi-uv](cluster_14)
 
 ## Concepts
 
  ![](imgs/keyword_system.jpg)
 
 
-## Articles
+## Top 10 articles for __system__
 * A review of definitions and measures of system
 resilience ([hosseini_review_2016](article_hosseini_review_2016))
 * oecd_guidelines_2014 ([oecd_guidelines_2014](article_oecd_guidelines_2014))

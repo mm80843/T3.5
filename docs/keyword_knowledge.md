@@ -1,14 +1,14 @@
 # Keyword: __knowledge__
 ## Clusters
 
-* Cluster 12: [ontology-datum](cluster_12)
+* Cluster 5: [ontology-datum](cluster_5)
 
 ## Concepts
 
  ![](imgs/keyword_knowledge.jpg)
 
 
-## Articles
+## Top 10 articles for __knowledge__
 * The impacts of knowledge, risk perception, emotion and
 information on citizens’ protective behaviors during the
 outbreak of COVID-19: a cross-sectional study in

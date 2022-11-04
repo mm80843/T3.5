@@ -1,14 +1,14 @@
 # Keyword: __virtual__
 ## Clusters
 
-* Cluster 1: [datum-health](cluster_1)
+* Cluster 1: [health-ai](cluster_1)
 
 ## Concepts
 
  ![](imgs/keyword_virtual.jpg)
 
 
-## Articles
+## Top 10 articles for __virtual__
 * Digital Twin of COVID-19 Mass Vaccination
 Centers ([pilati_digital_2021](article_pilati_digital_2021))
 * Future (post-COVID) digital, smart and sustainable

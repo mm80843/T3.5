@@ -1,14 +1,14 @@
 # Keyword: __site__
 ## Clusters
 
-* Cluster 9: [construction-project](cluster_9)
+* Cluster 3: [construction-project](cluster_3)
 
 ## Concepts
 
  ![](imgs/keyword_site.jpg)
 
 
-## Articles
+## Top 10 articles for __site__
 * yan_10_2020 ([yan_10_2020](article_yan_10_2020))
 * Identifying Actions to Control and Mitigate the
 Effects of the COVID-19 Pandemic on Construction

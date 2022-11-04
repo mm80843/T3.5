@@ -1,7 +1,7 @@
 # Article: __EXPOSED: An occupant exposure model for confined spaces to retrofit crowd models during a pandemic__ (ronchi_exposed_2020)
 
 * [10.1016/j.ssci.2020.104834](https://doi.org/10.1016/j.ssci.2020.104834)
-* Cluster: [building-space](cluster_8)
+* Cluster: [space-urban](cluster_13)
 
 
 ## Keywords

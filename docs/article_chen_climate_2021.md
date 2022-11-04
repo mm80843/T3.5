@@ -1,12 +1,12 @@
 # Article: __Climate and the spread of COVID-19__ (chen_climate_2021)
 
 * [10.1038/s41598-021-87692-z](https://doi.org/10.1038/s41598-021-87692-z)
-* Cluster: [health-city](cluster_3)
+* Cluster: [air-sars](cluster_2)
 
 
 ## Keywords
 
-[temperature](keyword_temperature), [country](keyword_country)
+[china](keyword_china), [country](keyword_country)
 
 ## Abstract
 

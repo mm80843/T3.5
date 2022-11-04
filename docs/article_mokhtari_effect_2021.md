@@ -1,12 +1,12 @@
 # Article: __The effect of occupant distribution on energy consumption and COVID-19 infection in buildings: A case study of university building__ (mokhtari_effect_2021)
 
 * [10.1016/j.buildenv.2020.107561](https://doi.org/10.1016/j.buildenv.2020.107561)
-* Cluster: [building-energy](cluster_0)
+* Cluster: [energy-building](cluster_0)
 
 
 ## Keywords
 
-[virus](keyword_virus), [build](keyword_build), [infection](keyword_infection), [occupant](keyword_occupant), [population](keyword_population)
+[virus](keyword_virus), [build](keyword_build), [infection](keyword_infection), [hvac](keyword_hvac), [occupant](keyword_occupant), [population](keyword_population), [algorithm](keyword_algorithm)
 
 
 ## Concepts

@@ -11,7 +11,7 @@ novel coronavirus.
 
 ## Keywords
 
-[robot](keyword_robot), [drone](keyword_drone), [coronavirus](keyword_coronavirus)
+[china](keyword_china), [robot](keyword_robot), [coronavirus](keyword_coronavirus), [wuhan](keyword_wuhan)
 
 
 ## Concepts

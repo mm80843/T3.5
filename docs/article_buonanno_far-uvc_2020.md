@@ -6,7 +6,7 @@
 
 ## Keywords
 
-[coronavirus](keyword_coronavirus), [virus](keyword_virus), [aerosol](keyword_aerosol), [uv](keyword_uv), [ultraviolet](keyword_ultraviolet)
+[coronavirus](keyword_coronavirus), [virus](keyword_virus), [aerosol](keyword_aerosol), [uv](keyword_uv), [ultraviolet](keyword_ultraviolet), [influenza](keyword_influenza)
 
 ## Abstract
 

@@ -1,7 +1,7 @@
 # Article: __Attitudes towards outdoor and neighbour noise during the COVID-19 lockdown: A case study in London__ (lee_attitudes_2021)
 
 * [10.1016/j.scs.2021.102768](https://doi.org/10.1016/j.scs.2021.102768)
-* Cluster: [health-city](cluster_3)
+* Cluster: [building-health](cluster_10)
 
 
 ## Keywords

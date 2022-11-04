@@ -1,12 +1,12 @@
 # Article: __Pandemic Analytics: How Countries are Leveraging Big Data Analytics and Artificial Intelligence to Fight COVID-19?__ (mehta_pandemic_2021)
 
 * [10.1007/s42979-021-00923-y](https://doi.org/10.1007/s42979-021-00923-y)
-* Cluster: [datum-health](cluster_1)
+* Cluster: [health-ai](cluster_1)
 
 
 ## Keywords
 
-[coronavirus](keyword_coronavirus), [ai](keyword_ai), [analytic](keyword_analytic), [news](keyword_news), [pandemic](keyword_pandemic), [data](keyword_data)
+[coronavirus](keyword_coronavirus), [news](keyword_news), [analytic](keyword_analytic), [pandemic](keyword_pandemic), [china](keyword_china), [data](keyword_data)
 
 ## Abstract
 

@@ -1,12 +1,12 @@
 # Article: __Antivirus-built environment: Lessons learned from Covid-19 pandemic__ (megahed_antivirus-built_2020)
 
 * [10.1016/j.scs.2020.102350](https://doi.org/10.1016/j.scs.2020.102350)
-* Cluster: [building-space](cluster_8)
+* Cluster: [space-urban](cluster_13)
 
 
 ## Keywords
 
-[pandemic](keyword_pandemic), [architecture](keyword_architecture), [design](keyword_design), [city](keyword_city), [infection](keyword_infection), [coronavirus](keyword_coronavirus), [environment](keyword_environment), [build](keyword_build)
+[pandemic](keyword_pandemic), [design](keyword_design), [city](keyword_city), [infection](keyword_infection), [coronavirus](keyword_coronavirus), [environment](keyword_environment), [build](keyword_build)
 
 
 ## Concepts

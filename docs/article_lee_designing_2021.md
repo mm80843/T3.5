@@ -1,7 +1,7 @@
 # Article: __Designing a Multi-Agent Occupant Simulation System to Support Facility Planning and Analysis for COVID-19__ (lee_designing_2021)
 
 * [10.1145/3461778.3462030](https://doi.org/10.1145/3461778.3462030)
-* Cluster: [building-space](cluster_8)
+* Cluster: [space-urban](cluster_13)
 
 
 ## Keywords

@@ -6,7 +6,7 @@
 
 ## Keywords
 
-[virus](keyword_virus), [infection](keyword_infection), [disinfection](keyword_disinfection)
+[virus](keyword_virus), [infection](keyword_infection), [disinfection](keyword_disinfection), [influenza](keyword_influenza)
 
 ## Abstract
 

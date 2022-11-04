@@ -1,12 +1,12 @@
 # Article: __How our homes impact our health: using a COVID-19 informed approach to examine urban apartment housing__ (peters_how_2020)
 
 * [10.1108/ARCH-08-2020-0159](https://doi.org/10.1108/ARCH-08-2020-0159)
-* Cluster: [building-space](cluster_8)
+* Cluster: [space-urban](cluster_13)
 
 
 ## Keywords
 
-[housing](keyword_housing), [balcony](keyword_balcony), [health](keyword_health), [pandemic](keyword_pandemic), [home](keyword_home), [apartment](keyword_apartment)
+[housing](keyword_housing), [health](keyword_health), [pandemic](keyword_pandemic), [home](keyword_home)
 
 ## Abstract
 

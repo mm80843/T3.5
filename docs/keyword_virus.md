@@ -1,16 +1,17 @@
 # Keyword: __virus__
 ## Clusters
 
+* Cluster 0: [energy-building](cluster_0)
 * Cluster 2: [air-sars](cluster_2)
-* Cluster 4: [wastewater-sars](cluster_4)
-* Cluster 8: [building-space](cluster_8)
+* Cluster 12: [wastewater-sars](cluster_12)
+* Cluster 15: [water-wastewater](cluster_15)
 
 ## Concepts
 
  ![](imgs/keyword_virus.jpg)
 
 
-## Articles
+## Top 10 articles for __virus__
 * Mechanistic insights into the effect of humidity on
 airborne influenza virus survival, transmission and
 incidence ([marr_mechanistic_2019](article_marr_mechanistic_2019))

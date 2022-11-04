@@ -1,16 +1,15 @@
 # Keyword: __model__
 ## Clusters
 
-* Cluster 3: [health-city](cluster_3)
-* Cluster 10: [scenario-agent](cluster_10)
-* Cluster 12: [ontology-datum](cluster_12)
+* Cluster 5: [ontology-datum](cluster_5)
+* Cluster 6: [simulation-model](cluster_6)
 
 ## Concepts
 
  ![](imgs/keyword_model.jpg)
 
 
-## Articles
+## Top 10 articles for __model__
 * EXPOSED: An occupant exposure model for confined
 spaces to retrofit crowd models during a pandemic ([ronchi_exposed_2020](article_ronchi_exposed_2020))
 * A review of definitions and measures of system
@@ -28,10 +27,10 @@ Centers ([pilati_digital_2021](article_pilati_digital_2021))
 surveillance by wastewater-based epidemiology locally and
 globally: Feasibility, economy, opportunities and
 challenges ([hart_computational_2020](article_hart_computational_2020))
-* A Comprehensive Review of the COVID-19 Pandemic
-and the Role of IoT, Drones, AI, Blockchain, and
-5G in Managing its Impact ([chamola_comprehensive_2020](article_chamola_comprehensive_2020))
 * COVID19-Routes: A Safe Pedestrian Navigation
 Service ([cantarero_covid19-routes_2021](article_cantarero_covid19-routes_2021))
 * Association of built environment attributes with the
 spread of COVID-19 at its initial stage in China ([li_association_2021](article_li_association_2021))
+* A Comprehensive Review of the COVID-19 Pandemic
+and the Role of IoT, Drones, AI, Blockchain, and
+5G in Managing its Impact ([chamola_comprehensive_2020](article_chamola_comprehensive_2020))

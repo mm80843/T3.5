@@ -1,14 +1,14 @@
 # Keyword: __application__
 ## Clusters
 
-* Cluster 1: [datum-health](cluster_1)
+* Cluster 8: [smart-datum](cluster_8)
 
 ## Concepts
 
  ![](imgs/keyword_application.jpg)
 
 
-## Articles
+## Top 10 articles for __application__
 * Mobile Technology Solution for COVID-19:
 Surveillance and Prevention ([raza_mobile_2021](article_raza_mobile_2021))
 * A Comprehensive Review of the COVID-19 Pandemic

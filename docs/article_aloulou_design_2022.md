@@ -1,12 +1,12 @@
 # Article: __Design COVID-19 Ontology: A Healthcare and Safety Perspective__ (aloulou_design_2022)
 
 * [10.1007/978-3-031-09593-1_11](https://doi.org/10.1007/978-3-031-09593-1_11)
-* Cluster: [smart-iot](cluster_6)
+* Cluster: [smart-datum](cluster_8)
 
 
 ## Keywords
 
-[pandemic](keyword_pandemic), [control](keyword_control)
+[pandemic](keyword_pandemic), [control](keyword_control), [china](keyword_china), [wuhan](keyword_wuhan)
 
 ## Abstract
 

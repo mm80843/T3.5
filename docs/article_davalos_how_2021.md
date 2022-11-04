@@ -10,7 +10,7 @@ that to continue.
 
 ## Keywords
 
-[mental](keyword_mental), [pandemic](keyword_pandemic), [industry](keyword_industry)
+[mental](keyword_mental), [industry](keyword_industry), [pandemic](keyword_pandemic)
 
 
 ## Concepts

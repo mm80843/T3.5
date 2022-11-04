@@ -29,7 +29,7 @@ forward.
 
 ## Keywords
 
-[infrastructure](keyword_infrastructure), [resilience](keyword_resilience), [pandemic](keyword_pandemic), [risk](keyword_risk), [oecd](keyword_oecd), [technology](keyword_technology)
+[infrastructure](keyword_infrastructure), [resilience](keyword_resilience), [pandemic](keyword_pandemic), [risk](keyword_risk), [oecd](keyword_oecd), [service](keyword_service), [technology](keyword_technology), [healthcare](keyword_healthcare)
 
 
 ## Concepts

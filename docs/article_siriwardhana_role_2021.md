@@ -1,12 +1,12 @@
 # Article: __The role of 5G for digital healthcare against COVID-19 pandemic: Opportunities and challenges__ (siriwardhana_role_2021)
 
 * [10.1016/j.icte.2020.10.002](https://doi.org/10.1016/j.icte.2020.10.002)
-* Cluster: [smart-iot](cluster_6)
+* Cluster: [smart-datum](cluster_8)
 
 
 ## Keywords
 
-[network](keyword_network), [pandemic](keyword_pandemic), [blockchain](keyword_blockchain)
+[healthcare](keyword_healthcare), [privacy](keyword_privacy), [network](keyword_network), [pandemic](keyword_pandemic), [blockchain](keyword_blockchain)
 
 ## Abstract
 

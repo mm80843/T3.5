@@ -8,7 +8,7 @@
 
 ## Keywords
 
-[coronavirus](keyword_coronavirus), [health](keyword_health), [harvard](keyword_harvard), [disease](keyword_disease), [pandemic](keyword_pandemic), [animal](keyword_animal), [pollution](keyword_pollution)
+[coronavirus](keyword_coronavirus), [health](keyword_health), [disease](keyword_disease), [pandemic](keyword_pandemic), [animal](keyword_animal), [pollution](keyword_pollution), [infection](keyword_infection)
 
 
 ## Concepts

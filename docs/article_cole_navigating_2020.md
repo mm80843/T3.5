@@ -1,7 +1,7 @@
 # Article: __Navigating Climate Change: Rethinking the Role of Buildings__ (cole_navigating_2020)
 
 * [10.3390/su12229527](https://doi.org/10.3390/su12229527)
-* Cluster: [building-space](cluster_8)
+* Cluster: [building-health](cluster_10)
 
 
 ## Keywords

@@ -1,14 +1,14 @@
 # Keyword: __interoperability__
 ## Clusters
 
-* Cluster 12: [ontology-datum](cluster_12)
+* Cluster 5: [ontology-datum](cluster_5)
 
 ## Concepts
 
  ![](imgs/keyword_interoperability.jpg)
 
 
-## Articles
+## Top 10 articles for __interoperability__
 * Challenges of data sharing in European Covid-19
 projects: A learning opportunity for advancing pandemic
 preparedness and response ([tacconelli_challenges_2022](article_tacconelli_challenges_2022))

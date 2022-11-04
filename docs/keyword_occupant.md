@@ -1,16 +1,16 @@
 # Keyword: __occupant__
 ## Clusters
 
-* Cluster 0: [building-energy](cluster_0)
-* Cluster 5: [ieq-sensor](cluster_5)
-* Cluster 8: [building-space](cluster_8)
+* Cluster 0: [energy-building](cluster_0)
+* Cluster 10: [building-health](cluster_10)
+* Cluster 13: [space-urban](cluster_13)
 
 ## Concepts
 
  ![](imgs/keyword_occupant.jpg)
 
 
-## Articles
+## Top 10 articles for __occupant__
 * The effect of occupant distribution on energy consumption
 and COVID-19 infection in buildings: A case study of
 university building ([mokhtari_effect_2021](article_mokhtari_effect_2021))

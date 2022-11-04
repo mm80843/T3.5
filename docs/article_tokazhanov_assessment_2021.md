@@ -1,12 +1,12 @@
 # Article: __Assessment method for new sustainability indicators providing pandemic resilience for residential buildings__ (tokazhanov_assessment_2021)
 
 * [10.1016/j.mex.2021.101577](https://doi.org/10.1016/j.mex.2021.101577)
-* Cluster: [building-green](cluster_15)
+* Cluster: [building-health](cluster_10)
 
 
 ## Keywords
 
-[indicator](keyword_indicator), [pandemic](keyword_pandemic), [virus](keyword_virus), [temperature](keyword_temperature), [breeam](keyword_breeam), [build](keyword_build), [sustainability](keyword_sustainability)
+[pandemic](keyword_pandemic), [virus](keyword_virus), [build](keyword_build)
 
 
 ## Concepts

@@ -1,14 +1,14 @@
 # Keyword: __animal__
 ## Clusters
 
-* Cluster 7: [climate-change](cluster_7)
+* Cluster 9: [climate-change](cluster_9)
 
 ## Concepts
 
  ![](imgs/keyword_animal.jpg)
 
 
-## Articles
+## Top 10 articles for __animal__
 * Attitudes towards outdoor and neighbour noise during the
 COVID-19 lockdown: A case study in London ([lee_attitudes_2021](article_lee_attitudes_2021))
 * harvard_chan_community_coronavirus_2020 ([harvard_chan_community_coronavirus_2020](article_harvard_chan_community_coronavirus_2020))

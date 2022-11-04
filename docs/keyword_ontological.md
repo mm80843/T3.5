@@ -1,14 +1,14 @@
 # Keyword: __ontological__
 ## Clusters
 
-* Cluster 12: [ontology-datum](cluster_12)
+* Cluster 5: [ontology-datum](cluster_5)
 
 ## Concepts
 
  ![](imgs/keyword_ontological.jpg)
 
 
-## Articles
+## Top 10 articles for __ontological__
 * The three modes of existence of the pandemic smart city ([soderstrom_three_2021](article_soderstrom_three_2021))
 * The COVID-19 epidemiology and monitoring ontology ([queralt-rosinach_covid-19_2021](article_queralt-rosinach_covid-19_2021))
 * RUDDS_bioRxiv_update ([RUDDS_bioRxiv_update](article_RUDDS_bioRxiv_update))
