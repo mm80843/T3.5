@@ -46,7 +46,13 @@ caused by the pandemic.
 
 ## Keywords
 
-[construction](keyword_construction), [pandemic](keyword_pandemic), [engineering](keyword_engineering), [industry](keyword_industry), [risk](keyword_risk), [infrastructure](keyword_infrastructure), [project](keyword_project)
+* [construction](keyword_construction), [covid-19](keyword_covid-19), [construction industry](keyword_construction_industry), [pandemic](keyword_pandemic), [engineering](keyword_engineering), [lockdown](keyword_lockdown), [industry](keyword_industry), [risk](keyword_risk), [infrastructure](keyword_infrastructure), [project](keyword_project), [united kingdom](keyword_united_kingdom), [continent](keyword_continent), [architect](keyword_architect), civil structural engineering, ogunnusi
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 
 ## Concepts

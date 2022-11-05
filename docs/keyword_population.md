@@ -12,11 +12,11 @@
 * The Socio-Spatial Determinants of COVID-19
 Diffusion: The Impact of Globalisation,
 Settlement Characteristics and Population ([sigler_socio-spatial_2020](article_sigler_socio-spatial_2020))
-* Understanding the role of urban design in disease
-spreading ([brizuela_understanding_2019](article_brizuela_understanding_2019))
 * The effect of occupant distribution on energy consumption
 and COVID-19 infection in buildings: A case study of
 university building ([mokhtari_effect_2021](article_mokhtari_effect_2021))
+* Understanding the role of urban design in disease
+spreading ([brizuela_understanding_2019](article_brizuela_understanding_2019))
 * RUDDS_bioRxiv_update ([RUDDS_bioRxiv_update](article_RUDDS_bioRxiv_update))
 * Treating two pandemics for the price of one: Chronic and
 infectious disease impacts of the built and natural

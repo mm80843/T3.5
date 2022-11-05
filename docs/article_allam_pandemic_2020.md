@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[pandemic](keyword_pandemic), [china](keyword_china), [wuhan](keyword_wuhan), [coronavirus](keyword_coronavirus), [city](keyword_city)
+* [pandemic](keyword_pandemic), [australia](keyword_australia), [china](keyword_china), [wuhan](keyword_wuhan), [online](keyword_online), [covid-19](keyword_covid-19), [coronavirus](keyword_coronavirus), [plan](keyword_plan), [melbourne](keyword_melbourne), [urban planning](keyword_urban_planning), [smart city](keyword_smart_city), [public health crisis](keyword_public_health_crisis), [city](keyword_city), victoria, [lockdown](keyword_lockdown)
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 
 ## Concepts

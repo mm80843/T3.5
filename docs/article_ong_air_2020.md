@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[study](keyword_study), [sample](keyword_sample)
+* marimuthu, wong, ong, ng, [singapore](keyword_singapore), [negative](keyword_negative), [national centre for infectious disease](keyword_national_centre_for_infectious_disease), [study](keyword_study), [corridor](keyword_corridor), jama, [jamaica](keyword_jamaica), severe acute respiratory syndrome coronavirus 2, [clean](keyword_clean), [sample](keyword_sample), vent
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 
 ## Concepts

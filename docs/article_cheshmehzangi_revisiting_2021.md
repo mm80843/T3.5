@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[construction](keyword_construction), [pandemic](keyword_pandemic), [city](keyword_city), [engineering](keyword_engineering), [health](keyword_health), [design](keyword_design), [coronavirus](keyword_coronavirus), [policy](keyword_policy)
+* [construction](keyword_construction), [covid-19](keyword_covid-19), [build environment](keyword_build_environment), [pandemic](keyword_pandemic), [city](keyword_city), [engineering](keyword_engineering), [health](keyword_health), [sector](keyword_sector), [covid 19 pandemic](keyword_covid_19_pandemic), [coronavirus](keyword_coronavirus), [design](keyword_design), [policy](keyword_policy), paradigm shift, development, [architecture](keyword_architecture)
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 
 ## Concepts

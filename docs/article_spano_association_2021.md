@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[anxiety](keyword_anxiety), [health](keyword_health)
+* [psychological health](keyword_psychological_health), [psychological](keyword_psychological), [environ](keyword_environ), [encyclopedia](keyword_encyclopedia), [wikipedia](keyword_wikipedia), [wellbeing](keyword_wellbeing), [anxiety](keyword_anxiety), [mental health](keyword_mental_health), [lockdown](keyword_lockdown), [covid-19](keyword_covid-19), [health](keyword_health), moodiness, smart worker, [covid 19 pandemic](keyword_covid_19_pandemic), [front](keyword_front)
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 
 ## Concepts

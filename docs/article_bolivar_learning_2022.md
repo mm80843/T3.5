@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[pandemic](keyword_pandemic)
+* [smart city](keyword_smart_city), [covid 19 pandemic](keyword_covid_19_pandemic), [pandemic](keyword_pandemic), [strategic planning](keyword_strategic_planning), [public administration](keyword_public_administration), [disaster management](keyword_disaster_management), [governance](keyword_governance), [governance model](keyword_governance_model), [covid-19](keyword_covid-19), [new york](keyword_new_york), emerge technology, disaster, [artificial intelligence](keyword_artificial_intelligence), open government, [covid 19 crisis](keyword_covid_19_crisis)
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 ## Abstract
 

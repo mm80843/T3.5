@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[pandemic](keyword_pandemic)
+* [covid-19](keyword_covid-19), [twitter](keyword_twitter), [opinion](keyword_opinion), [medical journal](keyword_medical_journal), [anti inflammatory](keyword_anti_inflammatory), [paracetamol](keyword_paracetamol), [hypertension](keyword_hypertension), [fever](keyword_fever), [fake news](keyword_fake_news), word, [cardiology](keyword_cardiology), [editor](keyword_editor), [china](keyword_china), [physician](keyword_physician), [wuhan](keyword_wuhan)
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 
 ## Concepts

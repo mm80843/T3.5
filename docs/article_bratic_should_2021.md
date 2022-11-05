@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[anxiety](keyword_anxiety), [travel](keyword_travel), [pandemic](keyword_pandemic)
+* [manhattan](keyword_manhattan), [tour](keyword_tour), [new york city](keyword_new_york_city), trenton, [new jersey](keyword_new_jersey), [anxiety](keyword_anxiety), [covid-19](keyword_covid-19), [tourism](keyword_tourism), [salt lake city](keyword_salt_lake_city), [university of utah](keyword_university_of_utah), travel anxiety, [risk perception](keyword_risk_perception), [travel](keyword_travel), [coronavirus](keyword_coronavirus), [covid 19 pandemic](keyword_covid_19_pandemic)
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 ## Abstract
 

@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[ventilation](keyword_ventilation), [aerosol](keyword_aerosol), [virus](keyword_virus), [infection](keyword_infection), [coronavirus](keyword_coronavirus), [china](keyword_china), [droplet](keyword_droplet)
+* [ventilation](keyword_ventilation), [japan](keyword_japan), [sar cov 2](keyword_sar_cov_2), [covid-19](keyword_covid-19), [aerosol](keyword_aerosol), [japanese](keyword_japanese), [mhlw](keyword_mhlw), [virus](keyword_virus), [infection](keyword_infection), [coronavirus](keyword_coronavirus), [air conditioning](keyword_air_conditioning), tokyo, azuma, zuma, [sar cov 1](keyword_sar_cov_1)
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 ## Abstract
 

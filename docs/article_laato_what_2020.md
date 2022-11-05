@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[misinformation](keyword_misinformation), [anxiety](keyword_anxiety), [pandemic](keyword_pandemic), [coronavirus](keyword_coronavirus), [information](keyword_information)
+* [cyberchondria](keyword_cyberchondria), [covid-19](keyword_covid-19), [misinformation](keyword_misinformation), [social medium](keyword_social_medium), [fake news](keyword_fake_news), [information overload](keyword_information_overload), [covid 19 pandemic](keyword_covid_19_pandemic), [anxiety](keyword_anxiety), [unverifie](keyword_unverifie), gender, [coronavirus](keyword_coronavirus), [pandemic](keyword_pandemic), [age](keyword_age), information sharing, [information](keyword_information)
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 
 ## Concepts

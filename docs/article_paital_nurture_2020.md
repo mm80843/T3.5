@@ -6,7 +6,13 @@
 
 ## Keywords
 
+* [covid-19](keyword_covid-19), [lockdown](keyword_lockdown), [india](keyword_india), [china](keyword_china), [italy](keyword_italy), [cov 19](keyword_cov_19), [coronavirus](keyword_coronavirus), [pollution](keyword_pollution), [new delhi](keyword_new_delhi), [wuhan](keyword_wuhan), [nature](keyword_nature), [pandemic](keyword_pandemic), noise pollution, mother nature, [country](keyword_country)
 
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 
 ## Concepts

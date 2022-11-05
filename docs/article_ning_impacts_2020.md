@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[china](keyword_china), [knowledge](keyword_knowledge), [risk](keyword_risk)
+* [risk perception](keyword_risk_perception), [covid-19](keyword_covid-19), [protective behavior](keyword_protective_behavior), [public health](keyword_public_health), [china](keyword_china), [knowledge](keyword_knowledge), [risk](keyword_risk), [behavior](keyword_behavior), [trust](keyword_trust), [high risk area](keyword_high_risk_area), covid 19 outbreak, [hong kong](keyword_hong_kong), environ re, perception, perceive severity
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 ## Abstract
 

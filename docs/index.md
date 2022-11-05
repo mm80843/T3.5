@@ -6,7 +6,7 @@
 
 * We have 215 articles in database.
 * We have 51 other URLs in database.
-* We have identified 290420 relationships between terms.
+* We have identified 338681 relationships between terms.
 * We have identified 16 topics of interest.
 
 # Clusters

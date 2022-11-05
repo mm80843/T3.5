@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[pandemic](keyword_pandemic), [resilience](keyword_resilience), [china](keyword_china), [technology](keyword_technology), [blockchain](keyword_blockchain), [city](keyword_city)
+* [pandemic](keyword_pandemic), [resilience](keyword_resilience), [covid-19](keyword_covid-19), [smart city](keyword_smart_city), [china](keyword_china), [technology](keyword_technology), [telemedicine](keyword_telemedicine), [smart solution](keyword_smart_solution), [blockchain](keyword_blockchain), [plan](keyword_plan), [geogr](keyword_geogr), [machine learning](keyword_machine_learning), health sector, [city](keyword_city), smart technology
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 ## Abstract
 

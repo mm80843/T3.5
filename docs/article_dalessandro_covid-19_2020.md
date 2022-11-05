@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[health](keyword_health), [environment](keyword_environment), [housing](keyword_housing)
+* [italy](keyword_italy), [public health](keyword_public_health), [covid-19](keyword_covid-19), [wellbeing](keyword_wellbeing), [health](keyword_health), [mental health](keyword_mental_health), [capolongo s](keyword_capolongo_s), [covid 19 pandemic](keyword_covid_19_pandemic), [hygiene](keyword_hygiene), [sanitation](keyword_sanitation), [world health organization](keyword_world_health_organization), italian, [who](keyword_who), [environment](keyword_environment), [housing](keyword_housing)
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 ## Abstract
 

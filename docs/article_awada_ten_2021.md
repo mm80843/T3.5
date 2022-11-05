@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[build](keyword_build), [health](keyword_health), [ventilation](keyword_ventilation), [building](keyword_building), [mental](keyword_mental), [ashrae](keyword_ashrae), [occupant](keyword_occupant), [sensor](keyword_sensor), [virus](keyword_virus)
+* [build](keyword_build), [environ](keyword_environ), [health](keyword_health), [ventilation](keyword_ventilation), [building](keyword_building), [occupant health](keyword_occupant_health), [covid 19 pandemic](keyword_covid_19_pandemic), [physical](keyword_physical), [mental](keyword_mental), [ashrae](keyword_ashrae), asthma, indoor air, [sensor](keyword_sensor), [occupant](keyword_occupant), [virus](keyword_virus)
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 
 ## Concepts

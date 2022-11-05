@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[pandemic](keyword_pandemic), [housing](keyword_housing), [construction](keyword_construction), [city](keyword_city), [build](keyword_build), [health](keyword_health), [country](keyword_country), [home](keyword_home)
+* [covid-19](keyword_covid-19), [pandemic](keyword_pandemic), [covid 19 pandemic](keyword_covid_19_pandemic), [green housing](keyword_green_housing), [housing](keyword_housing), [construction](keyword_construction), [city](keyword_city), [green building](keyword_green_building), [environ](keyword_environ), [housing policy](keyword_housing_policy), [build](keyword_build), [health](keyword_health), [country](keyword_country), [home](keyword_home), [wikipedia](keyword_wikipedia)
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 ## Abstract
 

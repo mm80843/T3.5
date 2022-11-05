@@ -20,10 +20,10 @@ during normal operations and extreme events including the
 COVID-19 pandemic ([awada_ten_2021](article_awada_ten_2021))
 * Designing Post COVID-19 Buildings: Approaches for
 Achieving Healthy Buildings ([navaratnam_designing_2022](article_navaratnam_designing_2022))
-* A comprehensive review on indoor air quality monitoring
-systems for enhanced public health ([saini_comprehensive_2020](article_saini_comprehensive_2020))
 * Prophylactic Architecture: Formulating the Concept
 of Pandemic-Resilient Homes ([elrayies_prophylactic_2022](article_elrayies_prophylactic_2022))
+* A comprehensive review on indoor air quality monitoring
+systems for enhanced public health ([saini_comprehensive_2020](article_saini_comprehensive_2020))
 * ashrae_ashrae_2022 ([ashrae_ashrae_2022](article_ashrae_ashrae_2022))
 * world_green_building_council_health_2014 ([world_green_building_council_health_2014](article_world_green_building_council_health_2014))
 * Occupant health in buildings: Impact of the COVID-19

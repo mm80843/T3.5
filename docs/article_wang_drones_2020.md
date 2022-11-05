@@ -11,7 +11,13 @@ novel coronavirus.
 
 ## Keywords
 
-[china](keyword_china), [robot](keyword_robot), [coronavirus](keyword_coronavirus), [wuhan](keyword_wuhan)
+* [china](keyword_china), [delivery](keyword_delivery), [robot](keyword_robot), [beijing](keyword_beijing), [contactless](keyword_contactless), [drone](keyword_drone), [dow jones](keyword_dow_jones), [wuhan](keyword_wuhan), [coronavirus](keyword_coronavirus), [contactless delivery](keyword_contactless_delivery), tencent, cnn, [coronavirus outbreak](keyword_coronavirus_outbreak), [chinese](keyword_chinese), [artificial intelligence](keyword_artificial_intelligence)
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 
 ## Concepts

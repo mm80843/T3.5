@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[construction](keyword_construction), [pandemic](keyword_pandemic), [worker](keyword_worker), [coronavirus](keyword_coronavirus), [transportation](keyword_transportation)
+* [construction](keyword_construction), [covid-19](keyword_covid-19), [construction worker](keyword_construction_worker), [pandemic](keyword_pandemic), [worker](keyword_worker), [construction industry](keyword_construction_industry), [london](keyword_london), [civil engineering](keyword_civil_engineering), [coronavirus](keyword_coronavirus), [covid 19 pandemic](keyword_covid_19_pandemic), hazard zone, najafi, [transportation](keyword_transportation), [social distancing](keyword_social_distancing), public transportation
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 ## Abstract
 

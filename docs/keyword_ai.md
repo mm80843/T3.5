@@ -9,22 +9,31 @@
 
 
 ## Top 10 articles for __ai__
-* RUDDS_bioRxiv_update ([RUDDS_bioRxiv_update](article_RUDDS_bioRxiv_update))
-* COVID-19: Lessons for an Urban(izing) World ([acuto_covid-19_2020](article_acuto_covid-19_2020))
-* p15-lee-vor ([p15-lee-vor](article_p15-lee-vor))
-* Effects to Construction Project Management
-Impacted Circular Economic of Covid-19 Pandemic ([paikan_effects_2021](article_paikan_effects_2021))
-* Impacts of COVID-19 on Health and Safety of
-Workforce in Construction Industry ([pamidimukkala_impacts_2021](article_pamidimukkala_impacts_2021))
-* Health, Economic and Social Development Challenges
-of the COVID-19 Pandemic: Strategies for Multiple
-and Interconnected Issues ([panneer_health_2022](article_panneer_health_2022))
-* COVID-19 Higher Mortality in Chinese Regions
-With Chronic Exposure to Lower Air Quality ([pansini_covid-19_2021](article_pansini_covid-19_2021))
-* Continuous IEQ monitoring system: Context and
-development ([parkinson_continuous_2019](article_parkinson_continuous_2019))
-* Assessment of Building Automation and Control
-Systems in Danish Healthcare Facilities in the
-COVID-19 Era ([pedersen_assessment_2022](article_pedersen_assessment_2022))
-* How our homes impact our health: using a COVID-19
-informed approach to examine urban apartment housing ([peters_how_2020](article_peters_how_2020))
+* Pandemic Analytics: How Countries are Leveraging
+Big Data Analytics and Artificial Intelligence to
+Fight COVID-19? ([mehta_pandemic_2021](article_mehta_pandemic_2021))
+* A Comprehensive Review of the COVID-19 Pandemic
+and the Role of IoT, Drones, AI, Blockchain, and
+5G in Managing its Impact ([chamola_comprehensive_2020](article_chamola_comprehensive_2020))
+* How COVID-19 Could Accelerate the Adoption of
+New Retail Technologies and Enhance the
+(E-)Servicescape ([willems_how_2021](article_willems_how_2021))
+* Impact of COVID-19 on IoT Adoption in Healthcare,
+Smart Homes, Smart Buildings, Smart Cities,
+Transportation and Industrial IoT ([umair_impact_2021](article_umair_impact_2021))
+* Exploring the Potential of Artificial Intelligence
+and Machine Learning to Combat COVID-19 and
+Existing Opportunities for LMIC: A Scoping
+Review ([naseem_exploring_2020](article_naseem_exploring_2020))
+* Future (post-COVID) digital, smart and sustainable
+cities in the wake of 6G: Digital twins, immersive
+realities and new urban economies ([allam_future_2021](article_allam_future_2021))
+* How the 5G Enabled the COVID-19 Pandemic
+Prevention and Control: Materiality, Affordance,
+and (De-)Spatialization ([li_how_2022](article_li_how_2022))
+* Design COVID-19 Ontology: A Healthcare and
+Safety Perspective ([aloulou_design_2022](article_aloulou_design_2022))
+* Contributions of Smart City Solutions and
+Technologies to Resilience against the COVID-19
+Pandemic: A Literature Review ([sharifi_contributions_2021](article_sharifi_contributions_2021))
+* world_bank_world_2022 ([world_bank_world_2022](article_world_bank_world_2022))

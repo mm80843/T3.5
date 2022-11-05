@@ -10,7 +10,13 @@ that to continue.
 
 ## Keywords
 
-[mental](keyword_mental), [industry](keyword_industry), [pandemic](keyword_pandemic)
+* [mental](keyword_mental), [physical health](keyword_physical_health), [pandemic](keyword_pandemic), [industry](keyword_industry), [advertise](keyword_advertise), [covid-19](keyword_covid-19), [trademark](keyword_trademark), [cookie](keyword_cookie), fitness industry, [ad choice](keyword_ad_choice), [fitness](keyword_fitness), advertiser, virtual class, supply chain complication, supply chain decision make complexity
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 
 ## Concepts

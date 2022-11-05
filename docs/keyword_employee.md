@@ -9,6 +9,9 @@
 
 
 ## Top 10 articles for __employee__
+* How COVID-19 Could Accelerate the Adoption of
+New Retail Technologies and Enhance the
+(E-)Servicescape ([willems_how_2021](article_willems_how_2021))
 * eurofund_sustainable_2016 ([eurofund_sustainable_2016](article_eurofund_sustainable_2016))
 * pricewaterhousecoopers_its_2021 ([pricewaterhousecoopers_its_2021](article_pricewaterhousecoopers_its_2021))
 * world_green_building_council_health_2014 ([world_green_building_council_health_2014](article_world_green_building_council_health_2014))
@@ -23,6 +26,3 @@ COVID-19 pandemic in The Netherlands ([hou_study_2021](article_hou_study_2021))
 * Impacts of COVID-19 on Health and Safety of
 Workforce in Construction Industry ([pamidimukkala_impacts_2021](article_pamidimukkala_impacts_2021))
 * council_of_europe_2020_2020 ([council_of_europe_2020_2020](article_council_of_europe_2020_2020))
-* Guidelines for Responding to COVID-19 Pandemic:
-Best Practices, Impacts, and Future Research
-Directions ([assaad_guidelines_2021](article_assaad_guidelines_2021))

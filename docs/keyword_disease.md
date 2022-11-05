@@ -15,10 +15,10 @@
 * realdania_refleksioner_2022_EN ([realdania_refleksioner_2022_EN](article_realdania_refleksioner_2022_EN))
 * COVID-19 Could Leverage a Sustainable Built
 Environment ([pinheiro_covid-19_2020](article_pinheiro_covid-19_2020))
-* martin_impact_2008 ([martin_impact_2008](article_martin_impact_2008))
 * Future perspectives of wastewater-based epidemiology:
 Monitoring infectious disease spread and resistance to
 the community level ([sims_future_2020](article_sims_future_2020))
+* martin_impact_2008 ([martin_impact_2008](article_martin_impact_2008))
 * Epidemics, Planning and the City: A Special
 Issue of Planning Perspectives ([davis_epidemics_2022](article_davis_epidemics_2022))
 * An Overview of Biomedical Ontologies for Pandemics

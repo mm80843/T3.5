@@ -14,12 +14,12 @@
 pandemic on the opinions of building professionals and
 implications on research ([awada_occupant_2022](article_awada_occupant_2022))
 * world_green_building_council_health_2014 ([world_green_building_council_health_2014](article_world_green_building_council_health_2014))
-* Addressing the impact of COVID-19 lockdown on energy use
-in municipal buildings: A case study in Florianópolis,
-Brazil ([geraldi_addressing_2021](article_geraldi_addressing_2021))
 * Ten questions concerning occupant health in buildings
 during normal operations and extreme events including the
 COVID-19 pandemic ([awada_ten_2021](article_awada_ten_2021))
+* Addressing the impact of COVID-19 lockdown on energy use
+in municipal buildings: A case study in Florianópolis,
+Brazil ([geraldi_addressing_2021](article_geraldi_addressing_2021))
 * Assessment of Building Automation and Control
 Systems in Danish Healthcare Facilities in the
 COVID-19 Era ([pedersen_assessment_2022](article_pedersen_assessment_2022))

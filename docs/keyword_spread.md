@@ -18,10 +18,10 @@ spreading ([brizuela_understanding_2019](article_brizuela_understanding_2019))
 * Association of built environment attributes with the
 spread of COVID-19 at its initial stage in China ([li_association_2021](article_li_association_2021))
 * realdania_refleksioner_2022_EN ([realdania_refleksioner_2022_EN](article_realdania_refleksioner_2022_EN))
-* Effects of temperature and humidity on the spread of
-COVID-19: A systematic review ([mecenas_effects_2020](article_mecenas_effects_2020))
 * Mobile Technology Solution for COVID-19:
 Surveillance and Prevention ([raza_mobile_2021](article_raza_mobile_2021))
+* Effects of temperature and humidity on the spread of
+COVID-19: A systematic review ([mecenas_effects_2020](article_mecenas_effects_2020))
 * A Review on Building Design as a Biomedical
 System for Preventing COVID-19 Pandemic ([amran_review_2022](article_amran_review_2022))
 * Coronavirus questions that will not go away: interrogating

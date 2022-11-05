@@ -24,9 +24,9 @@ Built Environment Considerations To Reduce
 Transmission ([dietz_2019_2020](article_dietz_2019_2020))
 * The ventilation of buildings and other mitigating measures
 for COVID-19: a focus on wintertime ([burridge_ventilation_2021](article_burridge_ventilation_2021))
-* Real-world data show that filters clean COVID-causing
-virus from air ([thompson_real-world_2021](article_thompson_real-world_2021))
 * Designing Post COVID-19 Buildings: Approaches for
 Achieving Healthy Buildings ([navaratnam_designing_2022](article_navaratnam_designing_2022))
+* Real-world data show that filters clean COVID-causing
+virus from air ([thompson_real-world_2021](article_thompson_real-world_2021))
 * COVID-19 Could Leverage a Sustainable Built
 Environment ([pinheiro_covid-19_2020](article_pinheiro_covid-19_2020))

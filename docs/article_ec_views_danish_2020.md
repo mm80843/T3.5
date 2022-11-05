@@ -16,7 +16,13 @@ using it to combat the Corona virus.
 
 ## Keywords
 
-[bacteria](keyword_bacteria), [virus](keyword_virus), [robot](keyword_robot), [microorganism](keyword_microorganism)
+* [bacteria](keyword_bacteria), [virus](keyword_virus), [robot](keyword_robot), [microorganism](keyword_microorganism), [infectious disease](keyword_infectious_disease), [blue ocean robotic](keyword_blue_ocean_robotic), [uvd](keyword_uvd), [coronavirus](keyword_coronavirus), [unicorn](keyword_unicorn), [europe](keyword_europe), [united states](keyword_united_states), [chinese](keyword_chinese), [door](keyword_door), disinfection robot, elevator
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 
 ## Concepts

@@ -6,7 +6,13 @@
 
 ## Keywords
 
+* [copyright owner](keyword_copyright_owner), [produce](keyword_produce), [permission](keyword_permission), [reproduction](keyword_reproduction), [university of hong kong](keyword_university_of_hong_kong), [hong kong](keyword_hong_kong), [hong kong thei](keyword_hong_kong_thei), [request enhancement](keyword_request_enhancement), [publication](keyword_publication), [download file](keyword_download_file), publication stat, download, publication statistic, supply chain design, supply chain account
 
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 ## Abstract
 

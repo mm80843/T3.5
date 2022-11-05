@@ -24,9 +24,9 @@ for COVID-19: a focus on wintertime ([burridge_ventilation_2021](article_burridg
 different countries during the COVID-19 pandemic ([guo_review_2021](article_guo_review_2021))
 * COVID-19 Could Leverage a Sustainable Built
 Environment ([pinheiro_covid-19_2020](article_pinheiro_covid-19_2020))
+* p15-lee-vor ([p15-lee-vor](article_p15-lee-vor))
 * Designing a Multi-Agent Occupant Simulation
 System to Support Facility Planning and Analysis
 for COVID-19 ([lee_designing_2021](article_lee_designing_2021))
 * Designing Post COVID-19 Buildings: Approaches for
 Achieving Healthy Buildings ([navaratnam_designing_2022](article_navaratnam_designing_2022))
-* p15-lee-vor ([p15-lee-vor](article_p15-lee-vor))

@@ -6,7 +6,13 @@
 
 ## Keywords
 
+* [lockdown](keyword_lockdown), [noise](keyword_noise), [noise source](keyword_noise_source), [neighbour noise](keyword_neighbour_noise), [annoyance](keyword_annoyance), [noise level](keyword_noise_level), [madrid](keyword_madrid), [home office](keyword_home_office), [flat](keyword_flat), [london](keyword_london), outdoor noise, noise complaint, [house](keyword_house), [covid-19](keyword_covid-19), living room
 
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 
 ## Concepts

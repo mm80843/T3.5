@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[virus](keyword_virus)
+* [covid-19](keyword_covid-19), [e37215](keyword_e37215), [openkg covid19](keyword_openkg_covid19), [kg](keyword_kg), [openkg](keyword_openkg), [jmir](keyword_jmir), [schema](keyword_schema), [knowledge graph](keyword_knowledge_graph), [kgs](keyword_kgs), [virus](keyword_virus), medical informatic, schemata, datum set, entity, match
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 ## Abstract
 

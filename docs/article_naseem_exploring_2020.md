@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[pandemic](keyword_pandemic), [blockchain](keyword_blockchain), [health](keyword_health), [healthcare](keyword_healthcare)
+* [artificial intelligence](keyword_artificial_intelligence), [covid-19](keyword_covid-19), [machine learning](keyword_machine_learning), [deep learning](keyword_deep_learning), [ai](keyword_ai), [covid 19 pandemic](keyword_covid_19_pandemic), [pandemic](keyword_pandemic), [datum mining](keyword_datum_mining), [blockchain](keyword_blockchain), [neural network](keyword_neural_network), ayyoubzadeh sm, low, [health](keyword_health), primary care, [public health](keyword_public_health)
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 ## Abstract
 

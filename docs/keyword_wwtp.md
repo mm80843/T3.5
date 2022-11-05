@@ -24,12 +24,13 @@ in Italy ([la_rosa_first_2020](article_la_rosa_first_2020))
 * Future perspectives of wastewater-based epidemiology:
 Monitoring infectious disease spread and resistance to
 the community level ([sims_future_2020](article_sims_future_2020))
-* pricewaterhousecoopers_its_2021 ([pricewaterhousecoopers_its_2021](article_pricewaterhousecoopers_its_2021))
-* When the fourth water and digital revolution encountered
-COVID-19 ([poch_when_2020](article_poch_when_2020))
-* COVID-19 Could Leverage a Sustainable Built
-Environment ([pinheiro_covid-19_2020](article_pinheiro_covid-19_2020))
-* Digital Twin of COVID-19 Mass Vaccination
-Centers ([pilati_digital_2021](article_pilati_digital_2021))
-* COVID-19 Experience Transforming the Protective
-Environment of Office Buildings and Spaces ([phapant_covid-19_2021](article_phapant_covid-19_2021))
+* COVID-19 Higher Mortality in Chinese Regions
+With Chronic Exposure to Lower Air Quality ([pansini_covid-19_2021](article_pansini_covid-19_2021))
+* Continuous IEQ monitoring system: Context and
+development ([parkinson_continuous_2019](article_parkinson_continuous_2019))
+* Assessment of Building Automation and Control
+Systems in Danish Healthcare Facilities in the
+COVID-19 Era ([pedersen_assessment_2022](article_pedersen_assessment_2022))
+* How our homes impact our health: using a COVID-19
+informed approach to examine urban apartment housing ([peters_how_2020](article_peters_how_2020))
+* The COVID-19 epidemiology and monitoring ontology ([queralt-rosinach_covid-19_2021](article_queralt-rosinach_covid-19_2021))

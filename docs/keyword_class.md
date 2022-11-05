@@ -21,14 +21,13 @@ Systems in Danish Healthcare Facilities in the
 COVID-19 Era ([pedersen_assessment_2022](article_pedersen_assessment_2022))
 * Construction of a Linked Data Set of COVID-19
 Knowledge Graphs: Development and Applications ([wang_construction_2022](article_wang_construction_2022))
-* The City Under COVID‐19: Podcasting As
-Digital Methodology ([rogers_city_2020](article_rogers_city_2020))
 * An Overview of Biomedical Ontologies for Pandemics
 and Infectious Diseases Representation ([bayoudhi_overview_2021](article_bayoudhi_overview_2021))
-* Social distancing enhanced automated optimal design of
-physical spaces in the wake of the COVID-19 pandemic ([ugail_social_2021](article_ugail_social_2021))
+* The City Under COVID‐19: Podcasting As
+Digital Methodology ([rogers_city_2020](article_rogers_city_2020))
 * CIDO, a community-based ontology for coronavirus disease
 knowledge and data integration, sharing, and analysis ([he_cido_2020](article_he_cido_2020))
-* Contributions of Smart City Solutions and
-Technologies to Resilience against the COVID-19
-Pandemic: A Literature Review ([sharifi_contributions_2021](article_sharifi_contributions_2021))
+* Social distancing enhanced automated optimal design of
+physical spaces in the wake of the COVID-19 pandemic ([ugail_social_2021](article_ugail_social_2021))
+* The ventilation of buildings and other mitigating measures
+for COVID-19: a focus on wintertime ([burridge_ventilation_2021](article_burridge_ventilation_2021))

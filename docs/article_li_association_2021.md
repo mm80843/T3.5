@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[city](keyword_city), [china](keyword_china), [hubei](keyword_hubei), [pandemic](keyword_pandemic), [infection](keyword_infection), [population](keyword_population), [spread](keyword_spread)
+* [covid-19](keyword_covid-19), [city](keyword_city), [hubei](keyword_hubei), [china](keyword_china), [railway station](keyword_railway_station), [be attribute](keyword_be_attribute), [pandemic](keyword_pandemic), [population flow](keyword_population_flow), [public transport](keyword_public_transport), [population density](keyword_population_density), [infection](keyword_infection), [build environment](keyword_build_environment), between ness centrality, [population](keyword_population), [spread](keyword_spread)
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 
 ## Concepts

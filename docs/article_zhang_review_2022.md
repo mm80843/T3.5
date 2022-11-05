@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[ventilation](keyword_ventilation), [build](keyword_build), [uvgi](keyword_uvgi), [virus](keyword_virus), [infection](keyword_infection), [hvac](keyword_hvac), [aerosol](keyword_aerosol)
+* [ventilation](keyword_ventilation), [environ](keyword_environ), [build](keyword_build), [australia](keyword_australia), [new south wale](keyword_new_south_wale), [infection control](keyword_infection_control), [covid 19 pandemic](keyword_covid_19_pandemic), [uvgi](keyword_uvgi), [manhattan](keyword_manhattan), [new york city](keyword_new_york_city), [virus](keyword_virus), [infection](keyword_infection), [sar cov 2](keyword_sar_cov_2), [hvac](keyword_hvac), [aerosol](keyword_aerosol)
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 
 ## Concepts

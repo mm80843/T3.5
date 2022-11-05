@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[blockchain](keyword_blockchain), [technology](keyword_technology), [pandemic](keyword_pandemic), [treatment](keyword_treatment), [data](keyword_data)
+* [covid-19](keyword_covid-19), [digital transformation](keyword_digital_transformation), [blockchain](keyword_blockchain), [computer](keyword_computer), [technology](keyword_technology), [healthcare system](keyword_healthcare_system), [protocol](keyword_protocol), [internet of thing](keyword_internet_of_thing), [pandemic](keyword_pandemic), [lockdown](keyword_lockdown), [treatment](keyword_treatment), [data](keyword_data), coepi, [cloud computing](keyword_cloud_computing), [healthcare](keyword_healthcare)
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 
 ## Concepts

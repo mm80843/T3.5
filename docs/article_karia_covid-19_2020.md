@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[transmission](keyword_transmission), [virus](keyword_virus), [china](keyword_china), [aerosol](keyword_aerosol), [wuhan](keyword_wuhan)
+* [transmission](keyword_transmission), [virus](keyword_virus), [covid-19](keyword_covid-19), [sar cov 2](keyword_sar_cov_2), [mode of transmission](keyword_mode_of_transmission), [mode](keyword_mode), [china](keyword_china), [body fluid](keyword_body_fluid), [seman](keyword_seman), [burgos blasco](keyword_burgos_blasco), saliva, neonate, [aerosol](keyword_aerosol), [wuhan](keyword_wuhan), nasopharynx
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 
 ## Concepts

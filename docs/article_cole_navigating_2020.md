@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[design](keyword_design), [build](keyword_build), [pandemic](keyword_pandemic)
+* [climate change](keyword_climate_change), [design](keyword_design), [build](keyword_build), [new york](keyword_new_york), [australia](keyword_australia), [adaptation](keyword_adaptation), [new south wale](keyword_new_south_wale), [top down](keyword_top_down), [architect](keyword_architect), [climate crisis](keyword_climate_crisis), building design, [community](keyword_community), bottom up, [covid 19 pandemic](keyword_covid_19_pandemic), [pandemic](keyword_pandemic)
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 ## Abstract
 

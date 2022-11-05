@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[infection](keyword_infection)
+* [object detection](keyword_object_detection), [dataset](keyword_dataset), [social distancing](keyword_social_distancing), [computer vision](keyword_computer_vision), [korea](keyword_korea), [seoul](keyword_seoul), [infection](keyword_infection), [bound box](keyword_bound_box), [covid-19](keyword_covid-19), [yolo](keyword_yolo), couple, [encyclopedia](keyword_encyclopedia), [united kingdom](keyword_united_kingdom), [wikipedia](keyword_wikipedia), yolov4
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 ## Abstract
 

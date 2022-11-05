@@ -10,7 +10,13 @@ companies that work against their long-term well-being.
 
 ## Keywords
 
-[coronavirus](keyword_coronavirus), [pandemic](keyword_pandemic), [surveillance](keyword_surveillance)
+* [teladoc](keyword_teladoc), [public health](keyword_public_health), [virtual health](keyword_virtual_health), [facebook](keyword_facebook), [health care](keyword_health_care), [coronavirus](keyword_coronavirus), [telemedicine](keyword_telemedicine), [pandemic](keyword_pandemic), [telehealth](keyword_telehealth), [cookie](keyword_cookie), hipaa, [outbreak](keyword_outbreak), [data](keyword_data), [surveillance](keyword_surveillance), [health system](keyword_health_system)
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 
 ## Concepts

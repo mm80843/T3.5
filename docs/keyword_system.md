@@ -23,10 +23,10 @@ Brazil ([geraldi_addressing_2021](article_geraldi_addressing_2021))
 * who_strengthening_2017 ([who_strengthening_2017](article_who_strengthening_2017))
 * Digital Twin of COVID-19 Mass Vaccination
 Centers ([pilati_digital_2021](article_pilati_digital_2021))
-* A comprehensive review on indoor air quality monitoring
-systems for enhanced public health ([saini_comprehensive_2020](article_saini_comprehensive_2020))
 * Learning from pandemics: Applying resilience thinking to
 identify priorities for planning urban settlements ([syal_learning_2021](article_syal_learning_2021))
+* A comprehensive review on indoor air quality monitoring
+systems for enhanced public health ([saini_comprehensive_2020](article_saini_comprehensive_2020))
 * carvalhaes_covid-19_2020 ([carvalhaes_covid-19_2020](article_carvalhaes_covid-19_2020))
 * COVID-19 Could Leverage a Sustainable Built
 Environment ([pinheiro_covid-19_2020](article_pinheiro_covid-19_2020))

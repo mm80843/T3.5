@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[virus](keyword_virus), [build](keyword_build), [building](keyword_building), [ventilation](keyword_ventilation), [transmission](keyword_transmission), [hospital](keyword_hospital)
+* [environ](keyword_environ), [virus](keyword_virus), [build](keyword_build), [covid-19](keyword_covid-19), [building](keyword_building), [covid 19 pandemic](keyword_covid_19_pandemic), [ventilation](keyword_ventilation), [transmission](keyword_transmission), [antimicrobial](keyword_antimicrobial), [hospital](keyword_hospital), air quality, [copper](keyword_copper), [pathogen](keyword_pathogen), 19 of 21, [indoor air quality](keyword_indoor_air_quality)
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 ## Abstract
 

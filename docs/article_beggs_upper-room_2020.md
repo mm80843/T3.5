@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[coronavirus](keyword_coronavirus), [uvgi](keyword_uvgi), [virus](keyword_virus), [ultraviolet](keyword_ultraviolet), [disinfection](keyword_disinfection), [uv](keyword_uv), [air](keyword_air), [germicidal](keyword_germicidal)
+* [sar cov 2](keyword_sar_cov_2), [coronavirus](keyword_coronavirus), [sar cov 1](keyword_sar_cov_1), [mer cov](keyword_mer_cov), [uvgi](keyword_uvgi), [virus](keyword_virus), [ultraviolet](keyword_ultraviolet), [uv-c](keyword_uv-c), [disinfection](keyword_disinfection), [covid-19](keyword_covid-19), [uv](keyword_uv), [germicidal](keyword_germicidal), [air](keyword_air), [microbiology](keyword_microbiology), uv field
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 ## Abstract
 

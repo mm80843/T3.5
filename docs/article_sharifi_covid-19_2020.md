@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[pandemic](keyword_pandemic), [china](keyword_china), [city](keyword_city), [wuhan](keyword_wuhan)
+* [pandemic](keyword_pandemic), [covid-19](keyword_covid-19), [environ](keyword_environ), [china](keyword_china), [city](keyword_city), [total environ](keyword_total_environ), [geogr](keyword_geogr), [wuhan](keyword_wuhan), [plan](keyword_plan), [transp](keyword_transp), dial, [perspective](keyword_perspective), genre, science fiction, soc
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 ## Abstract
 

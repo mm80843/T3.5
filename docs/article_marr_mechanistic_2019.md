@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[influenza](keyword_influenza), [virus](keyword_virus), [droplet](keyword_droplet), [aerosol](keyword_aerosol), [infection](keyword_infection), [indoor](keyword_indoor)
+* [influenza](keyword_influenza), [virus](keyword_virus), [temperature](keyword_temperature), [droplet](keyword_droplet), [influenza virus](keyword_influenza_virus), [rh](keyword_rh), [aerosol](keyword_aerosol), [protein](keyword_protein), [environ](keyword_environ), [chemistry](keyword_chemistry), [infection](keyword_infection), [microbiol](keyword_microbiol), [indoor](keyword_indoor), biometeorol, [humidity](keyword_humidity)
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 ## Abstract
 

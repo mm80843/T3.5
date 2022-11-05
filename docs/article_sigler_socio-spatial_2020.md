@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[population](keyword_population), [china](keyword_china), [spread](keyword_spread)
+* [globalisation](keyword_globalisation), [covid-19](keyword_covid-19), [population](keyword_population), [infectious disease](keyword_infectious_disease), [quantile](keyword_quantile), [china](keyword_china), [jax](keyword_jax), [spread](keyword_spread), [mathjax](keyword_mathjax), [financial globalisation](keyword_financial_globalisation), mathjax jax output commonhtml jax, globalization, interpersonal globalisation, diffusion, quantile regression
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 ## Abstract
 

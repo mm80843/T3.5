@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[pandemic](keyword_pandemic), [health](keyword_health), [economic](keyword_economic)
+* [covid-19](keyword_covid-19), [pandemic](keyword_pandemic), [wikipedia](keyword_wikipedia), [covid 19 pandemic](keyword_covid_19_pandemic), [encyclopedia](keyword_encyclopedia), [public health](keyword_public_health), [united nations](keyword_united_nations), [india](keyword_india), [front](keyword_front), [health](keyword_health), who be, switzerland, [economic](keyword_economic), [new york](keyword_new_york), [lockdown](keyword_lockdown)
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 ## Abstract
 

@@ -20,11 +20,11 @@ occupants from airborne pathogens ([bolashikov_methods_2009](article_bolashikov_
 minimised? ([morawska_how_2020](article_morawska_how_2020))
 * A Review on Building Design as a Biomedical
 System for Preventing COVID-19 Pandemic ([amran_review_2022](article_amran_review_2022))
-* The ventilation of buildings and other mitigating measures
-for COVID-19: a focus on wintertime ([burridge_ventilation_2021](article_burridge_ventilation_2021))
 * Applications of ultraviolet germicidal irradiation
 disinfection in health care facilities: Effective
 adjunct, but not stand-alone technology ([memarzadeh_applications_2010](article_memarzadeh_applications_2010))
+* The ventilation of buildings and other mitigating measures
+for COVID-19: a focus on wintertime ([burridge_ventilation_2021](article_burridge_ventilation_2021))
 * Upper-Room Ultraviolet Light and Negative Air
 Ionization to Prevent Tuberculosis Transmission ([escombe_upper-room_2009](article_escombe_upper-room_2009))
 * Air Disinfection for Airborne Infection Control

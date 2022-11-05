@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[construction](keyword_construction), [building](keyword_building), [design](keyword_design), [build](keyword_build), [transmission](keyword_transmission), [coronavirus](keyword_coronavirus), [china](keyword_china)
+* [construction](keyword_construction), [facility management](keyword_facility_management), [building](keyword_building), [covid-19](keyword_covid-19), [design](keyword_design), [build](keyword_build), [transmission](keyword_transmission), [low risk](keyword_low_risk), [significant](keyword_significant), [coronavirus](keyword_coronavirus), [china](keyword_china), [high](keyword_high), [infectious disease](keyword_infectious_disease), hypothesis, sample size
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 ## Abstract
 

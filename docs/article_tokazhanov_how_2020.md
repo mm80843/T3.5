@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[pandemic](keyword_pandemic), [coronavirus](keyword_coronavirus), [wastewater](keyword_wastewater), [virus](keyword_virus), [water](keyword_water)
+* [covid-19](keyword_covid-19), [pandemic](keyword_pandemic), [kazakhstan](keyword_kazakhstan), [coronavirus](keyword_coronavirus), [wastewater](keyword_wastewater), [covid 19 pandemic](keyword_covid_19_pandemic), [d alessandro](keyword_d_alessandro), [virus](keyword_virus), [lockdown](keyword_lockdown), [quarantine](keyword_quarantine), [wikipedia](keyword_wikipedia), [water](keyword_water), [environ](keyword_environ), [sustainability](keyword_sustainability), [encyclopedia](keyword_encyclopedia)
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 ## Abstract
 

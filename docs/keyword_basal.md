@@ -13,13 +13,7 @@
 in municipal buildings: A case study in Florianópolis,
 Brazil ([geraldi_addressing_2021](article_geraldi_addressing_2021))
 * RUDDS_bioRxiv_update ([RUDDS_bioRxiv_update](article_RUDDS_bioRxiv_update))
-* Mobility Behaviour in View of the Impact of the
-COVID-19 Pandemic—Public Transport Users in
-Gdansk Case Study ([przybylowski_mobility_2021](article_przybylowski_mobility_2021))
-* Effects to Construction Project Management
-Impacted Circular Economic of Covid-19 Pandemic ([paikan_effects_2021](article_paikan_effects_2021))
-* Impacts of COVID-19 on Health and Safety of
-Workforce in Construction Industry ([pamidimukkala_impacts_2021](article_pamidimukkala_impacts_2021))
+* The COVID-19 epidemiology and monitoring ontology ([queralt-rosinach_covid-19_2021](article_queralt-rosinach_covid-19_2021))
 * Health, Economic and Social Development Challenges
 of the COVID-19 Pandemic: Strategies for Multiple
 and Interconnected Issues ([panneer_health_2022](article_panneer_health_2022))
@@ -32,3 +26,6 @@ Systems in Danish Healthcare Facilities in the
 COVID-19 Era ([pedersen_assessment_2022](article_pedersen_assessment_2022))
 * How our homes impact our health: using a COVID-19
 informed approach to examine urban apartment housing ([peters_how_2020](article_peters_how_2020))
+* Mental Health and the Covid-19 Pandemic ([pfefferbaum_mental_2020](article_pfefferbaum_mental_2020))
+* COVID-19 Experience Transforming the Protective
+Environment of Office Buildings and Spaces ([phapant_covid-19_2021](article_phapant_covid-19_2021))

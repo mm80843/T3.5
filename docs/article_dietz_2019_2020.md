@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[coronavirus](keyword_coronavirus), [virus](keyword_virus), [china](keyword_china), [wuhan](keyword_wuhan), [transmission](keyword_transmission), [aerosol](keyword_aerosol), [pandemic](keyword_pandemic), [viral](keyword_viral), [ventilation](keyword_ventilation)
+* [coronavirus](keyword_coronavirus), [sar cov 2](keyword_sar_cov_2), [covid-19](keyword_covid-19), [virus](keyword_virus), [china](keyword_china), [wuhan](keyword_wuhan), [transmission](keyword_transmission), [aerosol](keyword_aerosol), [pathogen](keyword_pathogen), [particle](keyword_particle), [pandemic](keyword_pandemic), covs, [ventilation](keyword_ventilation), [viral](keyword_viral), [infection](keyword_infection)
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 ## Abstract
 

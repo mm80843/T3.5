@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[pandemic](keyword_pandemic), [construction](keyword_construction), [industry](keyword_industry), [coronavirus](keyword_coronavirus)
+* [construction industry](keyword_construction_industry), [pandemic](keyword_pandemic), [construction](keyword_construction), [coronavirus](keyword_coronavirus), [covid-19](keyword_covid-19), [theme](keyword_theme), [industry](keyword_industry), [survey](keyword_survey), [economy](keyword_economy), [analysis](keyword_analysis), I ii, [covid 19 pandemic](keyword_covid_19_pandemic), time overrun, [poland](keyword_poland), [sample](keyword_sample)
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 ## Abstract
 

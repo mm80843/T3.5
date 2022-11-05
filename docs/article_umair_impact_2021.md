@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[iot](keyword_iot), [pandemic](keyword_pandemic), [healthcare](keyword_healthcare), [coronavirus](keyword_coronavirus), [data](keyword_data), [sensor](keyword_sensor)
+* [covid-19](keyword_covid-19), [iot](keyword_iot), [pandemic](keyword_pandemic), [smart city](keyword_smart_city), [smart building](keyword_smart_building), [healthcare](keyword_healthcare), [wearable](keyword_wearable), [australia](keyword_australia), [wikipedia](keyword_wikipedia), [encyclopedia](keyword_encyclopedia), [coronavirus](keyword_coronavirus), [covid 19 pandemic](keyword_covid_19_pandemic), william shakespeare, [china](keyword_china), [data](keyword_data)
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 ## Abstract
 

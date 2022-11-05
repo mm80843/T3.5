@@ -18,9 +18,9 @@ COVID-19 pandemic ([awada_ten_2021](article_awada_ten_2021))
 * Towards Resilient Residential Buildings and
 Neighborhoods in Light of COVID-19 Pandemic—The
 Scenario of Podgorica, Montenegro ([bojovic_towards_2022](article_bojovic_towards_2022))
+* realdania_refleksioner_2022_EN ([realdania_refleksioner_2022_EN](article_realdania_refleksioner_2022_EN))
 * Prophylactic Architecture: Formulating the Concept
 of Pandemic-Resilient Homes ([elrayies_prophylactic_2022](article_elrayies_prophylactic_2022))
-* realdania_refleksioner_2022_EN ([realdania_refleksioner_2022_EN](article_realdania_refleksioner_2022_EN))
 * COVID-19 and Green Housing: A Review of
 Relevant Literature ([kaklauskas_covid-19_2021](article_kaklauskas_covid-19_2021))
 * How our homes impact our health: using a COVID-19

@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[pandemic](keyword_pandemic), [epidemic](keyword_epidemic), [privacy](keyword_privacy)
+* [balcony](keyword_balcony), [cookie](keyword_cookie), [manage cookie](keyword_manage_cookie), [pandemic](keyword_pandemic), [accept](keyword_accept), [house](keyword_house), [setting](keyword_setting), [apartment](keyword_apartment), [epidemic](keyword_epidemic), [konya](keyword_konya), [privacy](keyword_privacy), [methodology](keyword_methodology), [kitchen](keyword_kitchen), [noise](keyword_noise), ljubljana
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 ## Abstract
 

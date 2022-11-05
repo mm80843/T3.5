@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[pandemic](keyword_pandemic), [virus](keyword_virus), [infection](keyword_infection), [coronavirus](keyword_coronavirus), [worker](keyword_worker), [office](keyword_office), [china](keyword_china)
+* [covid-19](keyword_covid-19), [covid 19 pandemic](keyword_covid_19_pandemic), [workplace](keyword_workplace), [pandemic](keyword_pandemic), [virus](keyword_virus), [infection](keyword_infection), [coronavirus](keyword_coronavirus), [environ](keyword_environ), [worker](keyword_worker), [office](keyword_office), [sar cov 2](keyword_sar_cov_2), [china](keyword_china), refrigerate, [air conditioning](keyword_air_conditioning), international
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 ## Abstract
 

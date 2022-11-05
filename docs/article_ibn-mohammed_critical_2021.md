@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[pandemic](keyword_pandemic), [china](keyword_china), [economic](keyword_economic), [coronavirus](keyword_coronavirus), [waste](keyword_waste)
+* [covid-19](keyword_covid-19), [pandemic](keyword_pandemic), [circular economy](keyword_circular_economy), [supply chain](keyword_supply_chain), [covid 19 pandemic](keyword_covid_19_pandemic), [china](keyword_china), [recycle](keyword_recycle), [wikipedia](keyword_wikipedia), [encyclopedia](keyword_encyclopedia), [europe](keyword_europe), [economic](keyword_economic), [coronavirus](keyword_coronavirus), [manufacture](keyword_manufacture), [clean](keyword_clean), [economy](keyword_economy)
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 
 ## Concepts

@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[china](keyword_china), [hubei](keyword_hubei), [city](keyword_city), [province](keyword_province)
+* [china](keyword_china), [chinese](keyword_chinese), [author funder](keyword_author_funder), [copyright holder](keyword_copyright_holder), [hubei](keyword_hubei), [city](keyword_city), [province](keyword_province), [doc](keyword_doc), [forecast](keyword_forecast), [italy](keyword_italy), [south korea](keyword_south_korea), supp, html, plot, death rate
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 ## Abstract
 

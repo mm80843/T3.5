@@ -29,7 +29,13 @@ forward.
 
 ## Keywords
 
-[infrastructure](keyword_infrastructure), [resilience](keyword_resilience), [pandemic](keyword_pandemic), [risk](keyword_risk), [oecd](keyword_oecd), [service](keyword_service), [technology](keyword_technology), [healthcare](keyword_healthcare)
+* [infrastructure](keyword_infrastructure), [resilience](keyword_resilience), [pandemic](keyword_pandemic), [covid-19](keyword_covid-19), [risk](keyword_risk), [united states](keyword_united_states), [service](keyword_service), [infrastructure resilience](keyword_infrastructure_resilience), [technology](keyword_technology), [g20](keyword_g20), confinement, [airport](keyword_airport), [oecd](keyword_oecd), [healthcare](keyword_healthcare), communication infrastructure
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 
 ## Concepts

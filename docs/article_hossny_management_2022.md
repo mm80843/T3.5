@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[hospital](keyword_hospital), [pandemic](keyword_pandemic), [management](keyword_management), [anxiety](keyword_anxiety), [healthcare](keyword_healthcare)
+* [nursing](keyword_nursing), [hospital](keyword_hospital), [nurse](keyword_nurse), [covid 19 pandemic](keyword_covid_19_pandemic), [pandemic](keyword_pandemic), [physician](keyword_physician), [covid-19](keyword_covid-19), [management](keyword_management), hossny, egypt, [anxiety](keyword_anxiety), nursing manager, crisis management, [healthcare](keyword_healthcare), psychological problem
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 ## Abstract
 

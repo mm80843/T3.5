@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[iot](keyword_iot), [healthcare](keyword_healthcare), [pandemic](keyword_pandemic), [data](keyword_data), [coronavirus](keyword_coronavirus)
+* [iot](keyword_iot), [covid 19 pandemic](keyword_covid_19_pandemic), [covid-19](keyword_covid-19), [diabete](keyword_diabete), [metabolic syndrome](keyword_metabolic_syndrome), [healthcare](keyword_healthcare), [in press](keyword_in_press), [press](keyword_press), [pandemic](keyword_pandemic), [data](keyword_data), [internet of thing](keyword_internet_of_thing), [significant](keyword_significant), javaid m, [china](keyword_china), academician
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 
 ## Concepts

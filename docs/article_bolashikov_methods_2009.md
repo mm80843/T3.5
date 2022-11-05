@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[ventilation](keyword_ventilation), [virus](keyword_virus), [disinfection](keyword_disinfection), [infection](keyword_infection), [influenza](keyword_influenza), [droplet](keyword_droplet), [uvgi](keyword_uvgi), [transmission](keyword_transmission)
+* [pathogen](keyword_pathogen), [ventilation](keyword_ventilation), [virus](keyword_virus), [disinfection](keyword_disinfection), [infection](keyword_infection), [influenza](keyword_influenza), [cough](keyword_cough), [relative humidity](keyword_relative_humidity), [droplet](keyword_droplet), [transmission](keyword_transmission), bahnfleth wp, kowalski wj, [temperature](keyword_temperature), [uvgi](keyword_uvgi), respiratory tract
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 ## Abstract
 

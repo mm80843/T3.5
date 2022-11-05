@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[ventilation](keyword_ventilation), [transmission](keyword_transmission), [hvac](keyword_hvac), [china](keyword_china), [aerosol](keyword_aerosol)
+* [ventilation](keyword_ventilation), [transmission](keyword_transmission), [hvac](keyword_hvac), [covid-19](keyword_covid-19), [index case](keyword_index_case), [air conditioning](keyword_air_conditioning), [hamner l](keyword_hamner_l), [china](keyword_china), [ecdc](keyword_ecdc), [guangzhou](keyword_guangzhou), [aerosol](keyword_aerosol), air conditioning unit, indoor space, 9th floor, [droplet](keyword_droplet)
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 
 ## Concepts

@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[health](keyword_health)
+* [sustainability](keyword_sustainability), [sustainable development goal](keyword_sustainable_development_goal), [mental health](keyword_mental_health), [human health](keyword_human_health), [physical](keyword_physical), [society](keyword_society), [supply chain](keyword_supply_chain), [covid-19](keyword_covid-19), [germany](keyword_germany), [health](keyword_health), [economy](keyword_economy), [united nations](keyword_united_nations), npr org, npr, united
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 ## Abstract
 

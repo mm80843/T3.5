@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[china](keyword_china), [wuhan](keyword_wuhan), [aerosol](keyword_aerosol)
+* [china](keyword_china), [sar cov 2](keyword_sar_cov_2), [wuhan](keyword_wuhan), [icu](keyword_icu), [gw](keyword_gw), [beijing](keyword_beijing), [huoshenshan hospital](keyword_huoshenshan_hospital), [high risk area](keyword_high_risk_area), [low risk area](keyword_low_risk_area), shoe, [dressing room](keyword_dressing_room), sol, general ward, [aerosol](keyword_aerosol), [hospital](keyword_hospital)
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 
 ## Concepts

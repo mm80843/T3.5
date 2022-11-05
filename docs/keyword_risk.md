@@ -10,6 +10,7 @@
 
 
 ## Top 10 articles for __risk__
+* world_bank_world_2022 ([world_bank_world_2022](article_world_bank_world_2022))
 * oecd_guidelines_2014 ([oecd_guidelines_2014](article_oecd_guidelines_2014))
 * Seeing the invisible hand: Underlying effects of
 COVID-19 on tourists’ behavioral patterns ([li_seeing_2020](article_li_seeing_2020))
@@ -29,4 +30,3 @@ Shift ([bratic_should_2021](article_bratic_should_2021))
 * who_strengthening_2017 ([who_strengthening_2017](article_who_strengthening_2017))
 * COVID-19 Experience Transforming the Protective
 Environment of Office Buildings and Spaces ([phapant_covid-19_2021](article_phapant_covid-19_2021))
-* ogunnusi_covid-19_2020 ([ogunnusi_covid-19_2020](article_ogunnusi_covid-19_2020))

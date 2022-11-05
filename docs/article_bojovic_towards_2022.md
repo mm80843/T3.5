@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[pandemic](keyword_pandemic), [housing](keyword_housing), [build](keyword_build), [resilience](keyword_resilience), [design](keyword_design)
+* [pandemic](keyword_pandemic), [podgorica](keyword_podgorica), [apartment](keyword_apartment), [covid-19](keyword_covid-19), [housing](keyword_housing), [covid 19 pandemic](keyword_covid_19_pandemic), [montenegro](keyword_montenegro), [house](keyword_house), [build](keyword_build), [resilience](keyword_resilience), [lockdown](keyword_lockdown), [architect](keyword_architect), residential building, blok 5, [design](keyword_design)
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 ## Abstract
 

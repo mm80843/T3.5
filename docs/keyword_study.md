@@ -30,9 +30,10 @@ General Population—A Systematic Review ([rodriguez-fernandez_psychological_202
 of SME finance in selected ASEAN member states ([taghizadeh-hesary_covid-19_2022](article_taghizadeh-hesary_covid-19_2022))
 * Methods for air cleaning and protection of building
 occupants from airborne pathogens ([bolashikov_methods_2009](article_bolashikov_methods_2009))
-* world_green_building_council_health_2014 ([world_green_building_council_health_2014](article_world_green_building_council_health_2014))
 * Occupant health in buildings: Impact of the COVID-19
 pandemic on the opinions of building professionals and
 implications on research ([awada_occupant_2022](article_awada_occupant_2022))
-* Effects of temperature and humidity on the spread of
-COVID-19: A systematic review ([mecenas_effects_2020](article_mecenas_effects_2020))
+* world_green_building_council_health_2014 ([world_green_building_council_health_2014](article_world_green_building_council_health_2014))
+* How COVID-19 Could Accelerate the Adoption of
+New Retail Technologies and Enhance the
+(E-)Servicescape ([willems_how_2021](article_willems_how_2021))

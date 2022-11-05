@@ -8,7 +8,13 @@
 
 ## Keywords
 
-[coronavirus](keyword_coronavirus), [health](keyword_health), [disease](keyword_disease), [pandemic](keyword_pandemic), [animal](keyword_animal), [pollution](keyword_pollution), [infection](keyword_infection)
+* [climate change](keyword_climate_change), [covid-19](keyword_covid-19), [coronavirus](keyword_coronavirus), [health](keyword_health), [air pollution](keyword_air_pollution), [symptom](keyword_symptom), [disease](keyword_disease), [infectious disease](keyword_infectious_disease), [pandemic](keyword_pandemic), [animal](keyword_animal), [pollution](keyword_pollution), kill people now, [pathogen](keyword_pathogen), deforestation, [infection](keyword_infection)
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 
 ## Concepts

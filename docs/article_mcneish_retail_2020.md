@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[pandemic](keyword_pandemic)
+* [sign](keyword_sign), [font](keyword_font), [wayfinde](keyword_wayfinde), [signage](keyword_signage), [toronto](keyword_toronto), [informal sign](keyword_informal_sign), [professional sign](keyword_professional_sign), [covid-19](keyword_covid-19), [canada](keyword_canada), [retailer](keyword_retailer), ontario, [pandemic](keyword_pandemic), [retail](keyword_retail), [social distancing](keyword_social_distancing), canadian
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 ## Abstract
 

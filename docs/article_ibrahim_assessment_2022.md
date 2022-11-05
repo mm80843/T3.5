@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[pandemic](keyword_pandemic), [risk](keyword_risk), [ventilation](keyword_ventilation), [safety](keyword_safety)
+* [health club](keyword_health_club), [saudi arabia](keyword_saudi_arabia), [pandemic](keyword_pandemic), [risk](keyword_risk), [covid-19](keyword_covid-19), [precautionary measure](keyword_precautionary_measure), [facility](keyword_facility), [ventilation](keyword_ventilation), hassanain, [assurance](keyword_assurance), sanitize, facility preparedness, physical interaction, body building exercise, [safety](keyword_safety)
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 
 ## Concepts

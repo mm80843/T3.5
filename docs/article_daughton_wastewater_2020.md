@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[infection](keyword_infection), [pandemic](keyword_pandemic), [population](keyword_population), [sewage](keyword_sewage)
+* [covid-19](keyword_covid-19), [sar cov 2](keyword_sar_cov_2), [infection](keyword_infection), [testing](keyword_testing), [pandemic](keyword_pandemic), [population](keyword_population), [infectious disease](keyword_infectious_disease), [diagnostic testing](keyword_diagnostic_testing), [covid 19 pandemic](keyword_covid_19_pandemic), [sewage](keyword_sewage), lp, [epidemiology](keyword_epidemiology), antigen, fece, nucleic acid
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 
 ## Concepts

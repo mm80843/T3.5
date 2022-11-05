@@ -22,10 +22,10 @@ Smart Homes, Smart Buildings, Smart Cities,
 Transportation and Industrial IoT ([umair_impact_2021](article_umair_impact_2021))
 * Construction of a Linked Data Set of COVID-19
 Knowledge Graphs: Development and Applications ([wang_construction_2022](article_wang_construction_2022))
-* p15-lee-vor ([p15-lee-vor](article_p15-lee-vor))
 * Designing a Multi-Agent Occupant Simulation
 System to Support Facility Planning and Analysis
 for COVID-19 ([lee_designing_2021](article_lee_designing_2021))
+* p15-lee-vor ([p15-lee-vor](article_p15-lee-vor))
 * Challenges of data sharing in European Covid-19
 projects: A learning opportunity for advancing pandemic
 preparedness and response ([tacconelli_challenges_2022](article_tacconelli_challenges_2022))

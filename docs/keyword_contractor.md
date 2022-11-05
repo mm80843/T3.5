@@ -18,16 +18,16 @@ Directions ([assaad_guidelines_2021](article_assaad_guidelines_2021))
 Project Delivery Model ([g_overcoming_2020](article_g_overcoming_2020))
 * The Effects of Pandemic on Construction Industry
 in the UK ([shibani_effects_2020](article_shibani_effects_2020))
-* nassereddine_propositions_2021 ([nassereddine_propositions_2021](article_nassereddine_propositions_2021))
 * realdania_refleksioner_2022_EN ([realdania_refleksioner_2022_EN](article_realdania_refleksioner_2022_EN))
+* nassereddine_propositions_2021 ([nassereddine_propositions_2021](article_nassereddine_propositions_2021))
 * Analysis of COVID-19 Concerns Raised by the
 Construction Workforce and Development of
 Mitigation Practices ([bou_hatoum_analysis_2021](article_bou_hatoum_analysis_2021))
+* Influence between COVID-19 Impacts and Project
+Stakeholders in Chilean Construction Projects ([araya_influence_2021](article_araya_influence_2021))
 * A Global Survey of Infection Control and
 Mitigation Measures for Combating the Transmission
 of COVID-19 Pandemic in Buildings Under
 Facilities Management Services ([sarvari_global_2022](article_sarvari_global_2022))
-* Influence between COVID-19 Impacts and Project
-Stakeholders in Chilean Construction Projects ([araya_influence_2021](article_araya_influence_2021))
 * Effects to Construction Project Management
 Impacted Circular Economic of Covid-19 Pandemic ([paikan_effects_2021](article_paikan_effects_2021))

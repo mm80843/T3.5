@@ -21,14 +21,14 @@ spaces to retrofit crowd models during a pandemic ([ronchi_exposed_2020](article
 * Assessment of Building Automation and Control
 Systems in Danish Healthcare Facilities in the
 COVID-19 Era ([pedersen_assessment_2022](article_pedersen_assessment_2022))
-* Wastewater surveillance for population-wide Covid-19:
-The present and future ([daughton_wastewater_2020](article_daughton_wastewater_2020))
-* A review of definitions and measures of system
-resilience ([hosseini_review_2016](article_hosseini_review_2016))
 * COVID-19 and Green Housing: A Review of
 Relevant Literature ([kaklauskas_covid-19_2021](article_kaklauskas_covid-19_2021))
-* Digital Twin of COVID-19 Mass Vaccination
-Centers ([pilati_digital_2021](article_pilati_digital_2021))
 * A critical analysis of the impacts of COVID-19 on the
 global economy and ecosystems and opportunities for
 circular economy strategies ([ibn-mohammed_critical_2021](article_ibn-mohammed_critical_2021))
+* A review of definitions and measures of system
+resilience ([hosseini_review_2016](article_hosseini_review_2016))
+* Digital Twin of COVID-19 Mass Vaccination
+Centers ([pilati_digital_2021](article_pilati_digital_2021))
+* Wastewater surveillance for population-wide Covid-19:
+The present and future ([daughton_wastewater_2020](article_daughton_wastewater_2020))

@@ -16,6 +16,10 @@
 
 
 ## Top 10 articles for __pandemic__
+* How COVID-19 Could Accelerate the Adoption of
+New Retail Technologies and Enhance the
+(E-)Servicescape ([willems_how_2021](article_willems_how_2021))
+* world_bank_world_2022 ([world_bank_world_2022](article_world_bank_world_2022))
 * realdania_refleksioner_2022_EN ([realdania_refleksioner_2022_EN](article_realdania_refleksioner_2022_EN))
 * Contributions of Smart City Solutions and
 Technologies to Resilience against the COVID-19
@@ -34,8 +38,3 @@ and Interconnected Issues ([panneer_health_2022](article_panneer_health_2022))
 * A critical analysis of the impacts of COVID-19 on the
 global economy and ecosystems and opportunities for
 circular economy strategies ([ibn-mohammed_critical_2021](article_ibn-mohammed_critical_2021))
-* COVID-19 and Green Housing: A Review of
-Relevant Literature ([kaklauskas_covid-19_2021](article_kaklauskas_covid-19_2021))
-* Housing Experience in Gated Communities in the
-Time of Pandemics: Lessons Learned from
-COVID-19 ([asfour_housing_2022](article_asfour_housing_2022))

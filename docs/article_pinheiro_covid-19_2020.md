@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[pandemic](keyword_pandemic), [build](keyword_build), [virus](keyword_virus), [building](keyword_building), [health](keyword_health), [transmission](keyword_transmission)
+* [infectious disease](keyword_infectious_disease), [covid-19](keyword_covid-19), [pandemic](keyword_pandemic), [public health](keyword_public_health), [urban area](keyword_urban_area), [build environment](keyword_build_environment), [build](keyword_build), [virus](keyword_virus), [sustainability](keyword_sustainability), [building](keyword_building), [tuberculosis](keyword_tuberculosis), [vulnerability](keyword_vulnerability), [environ](keyword_environ), [health](keyword_health), [transmission](keyword_transmission)
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 ## Abstract
 

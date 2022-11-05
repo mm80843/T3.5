@@ -9,6 +9,10 @@
 
 
 ## Top 10 articles for __business__
+* How COVID-19 Could Accelerate the Adoption of
+New Retail Technologies and Enhance the
+(E-)Servicescape ([willems_how_2021](article_willems_how_2021))
+* world_bank_world_2022 ([world_bank_world_2022](article_world_bank_world_2022))
 * world_green_building_council_health_2014 ([world_green_building_council_health_2014](article_world_green_building_council_health_2014))
 * COVID19: Small and medium enterprises challenges and
 responses with creativity, innovation, and
@@ -25,6 +29,3 @@ COVID-19 pandemic ([kuckertz_startups_2020](article_kuckertz_startups_2020))
 epidemic to simulate health and economic effects of social
 distancing interventions ([silva_covid-abs_2020](article_silva_covid-abs_2020))
 * Retail Signage During the COVID-19 Pandemic ([mcneish_retail_2020](article_mcneish_retail_2020))
-* rtpi_urban_2021 ([rtpi_urban_2021](article_rtpi_urban_2021))
-* Mapping research in logistics and supply chain management
-during COVID-19 pandemic ([montoya-torres_mapping_2021](article_montoya-torres_mapping_2021))

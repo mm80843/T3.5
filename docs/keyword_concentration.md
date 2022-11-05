@@ -20,16 +20,15 @@ occupants from airborne pathogens ([bolashikov_methods_2009](article_bolashikov_
 * Characterization and performance evaluation of a
 full-scale activated carbon-based dynamic botanical air
 filtration system for improving indoor air quality ([wang_characterization_2011](article_wang_characterization_2011))
+* How our homes impact our health: using a COVID-19
+informed approach to examine urban apartment housing ([peters_how_2020](article_peters_how_2020))
 * Assessment method for new sustainability indicators
 providing pandemic resilience for residential buildings ([tokazhanov_assessment_2021](article_tokazhanov_assessment_2021))
-* Graphene-based nanomaterials as antimicrobial surface
-coatings: A parallel approach to restrain the expansion
-of COVID-19 ([ayub_graphene-based_2021](article_ayub_graphene-based_2021))
-* Ten questions concerning occupant health in buildings
-during normal operations and extreme events including the
-COVID-19 pandemic ([awada_ten_2021](article_awada_ten_2021))
-* Global value chains: Efficiency and risks in the context
-of COVID-19 ([oecd_global_2021](article_oecd_global_2021))
 * First confirmed detection of SARS-CoV-2 in untreated
 wastewater in Australia: A proof of concept for the
 wastewater surveillance of COVID-19 in the community ([ahmed_first_2020](article_ahmed_first_2020))
+* Global value chains: Efficiency and risks in the context
+of COVID-19 ([oecd_global_2021](article_oecd_global_2021))
+* Graphene-based nanomaterials as antimicrobial surface
+coatings: A parallel approach to restrain the expansion
+of COVID-19 ([ayub_graphene-based_2021](article_ayub_graphene-based_2021))

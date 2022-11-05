@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[ontology](keyword_ontology), [analytic](keyword_analytic), [pandemic](keyword_pandemic), [study](keyword_study)
+* [ontology](keyword_ontology), [covid-19](keyword_covid-19), [analytic](keyword_analytic), [pandemic](keyword_pandemic), [knowledge graph](keyword_knowledge_graph), [study](keyword_study), [data analytic](keyword_data_analytic), [telehealth](keyword_telehealth), [public health](keyword_public_health), [intelligent system](keyword_intelligent_system), identify study, [infectious disease](keyword_infectious_disease), [big datum](keyword_big_datum), reference architecture, utc
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 ## Abstract
 

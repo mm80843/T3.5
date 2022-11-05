@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[infection](keyword_infection), [virus](keyword_virus), [study](keyword_study), [healthcare](keyword_healthcare)
+* [covid-19](keyword_covid-19), [meta analysis](keyword_meta_analysis), [sar cov 2](keyword_sar_cov_2), [wikipedia](keyword_wikipedia), [encyclopedia](keyword_encyclopedia), [infection](keyword_infection), [virus](keyword_virus), [contact trace](keyword_contact_trace), [study](keyword_study), [ipc](keyword_ipc), [ppe](keyword_ppe), intervention, [infection control](keyword_infection_control), [workplace](keyword_workplace), [healthcare](keyword_healthcare)
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 ## Abstract
 

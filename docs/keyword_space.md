@@ -12,10 +12,10 @@
 ## Top 10 articles for __space__
 * Architectural Design Drives the Biogeography of
 Indoor Bacterial Communities ([kembel_architectural_2014](article_kembel_architectural_2014))
-* p15-lee-vor ([p15-lee-vor](article_p15-lee-vor))
 * Designing a Multi-Agent Occupant Simulation
 System to Support Facility Planning and Analysis
 for COVID-19 ([lee_designing_2021](article_lee_designing_2021))
+* p15-lee-vor ([p15-lee-vor](article_p15-lee-vor))
 * realdania_refleksioner_2022_EN ([realdania_refleksioner_2022_EN](article_realdania_refleksioner_2022_EN))
 * chayka_how_2020 ([chayka_how_2020](article_chayka_how_2020))
 * Adaptive Design of the Built Environment to

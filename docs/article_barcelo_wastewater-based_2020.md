@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[virus](keyword_virus), [biomarker](keyword_biomarker), [detection](keyword_detection), [pcr](keyword_pcr), [wastewater](keyword_wastewater), [china](keyword_china)
+* [covid-19](keyword_covid-19), [virus](keyword_virus), [sar cov 2](keyword_sar_cov_2), [environ](keyword_environ), [biosensor](keyword_biosensor), [biomarker](keyword_biomarker), [total environ](keyword_total_environ), wang, [pcr](keyword_pcr), [detection](keyword_detection), [wastewater](keyword_wastewater), chemical, [china](keyword_china), environmental engineering, [asymptomatic](keyword_asymptomatic)
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 
 ## Concepts

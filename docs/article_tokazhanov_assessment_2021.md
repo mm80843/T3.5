@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[pandemic](keyword_pandemic), [virus](keyword_virus), [build](keyword_build)
+* [gbcss](keyword_gbcss), [indicator](keyword_indicator), [pandemic](keyword_pandemic), tleuken, [virus](keyword_virus), [temperature](keyword_temperature), [covid-19](keyword_covid-19), [leed](keyword_leed), [methodsx](keyword_methodsx), [breeam](keyword_breeam), guney, [build](keyword_build), gbcs, point, [sustainability](keyword_sustainability)
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 
 ## Concepts

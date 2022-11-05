@@ -10,7 +10,13 @@ coronavirus, flexible workspaces and what to expect.
 
 ## Keywords
 
-[pandemic](keyword_pandemic)
+* [flex space](keyword_flex_space), [covid-19](keyword_covid-19), [desk](keyword_desk), [workplace](keyword_workplace), [spaceiq](keyword_spaceiq), [coworke space](keyword_coworke_space), [pandemic](keyword_pandemic), [coworke](keyword_coworke), [office space](keyword_office_space), [conference room](keyword_conference_room), flexible space, [contact trace](keyword_contact_trace), floor plan, [remote work](keyword_remote_work), flexible office space
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 
 ## Concepts

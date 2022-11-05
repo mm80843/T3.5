@@ -27,9 +27,9 @@ Pandemics Such as the COVID-19? ([chang_how_2020](article_chang_how_2020))
 * Impact of COVID-19 on IoT Adoption in Healthcare,
 Smart Homes, Smart Buildings, Smart Cities,
 Transportation and Industrial IoT ([umair_impact_2021](article_umair_impact_2021))
+* world_bank_world_2022 ([world_bank_world_2022](article_world_bank_world_2022))
 * The role of 5G for digital healthcare against COVID-19
 pandemic: Opportunities and challenges ([siriwardhana_role_2021](article_siriwardhana_role_2021))
-* Digital technology and COVID-19 ([ting_digital_2020](article_ting_digital_2020))
 * Exploring the Potential of Artificial Intelligence
 and Machine Learning to Combat COVID-19 and
 Existing Opportunities for LMIC: A Scoping

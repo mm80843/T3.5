@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[pandemic](keyword_pandemic), [home](keyword_home), [ventilation](keyword_ventilation), [housing](keyword_housing), [epidemic](keyword_epidemic), [infection](keyword_infection)
+* [covid-19](keyword_covid-19), [pandemic](keyword_pandemic), [environ](keyword_environ), [home](keyword_home), [covid 19 pandemic](keyword_covid_19_pandemic), [ventilation](keyword_ventilation), [housing](keyword_housing), [balcony](keyword_balcony), [epidemic](keyword_epidemic), [mental health](keyword_mental_health), [lockdown](keyword_lockdown), [copper](keyword_copper), elevator, [window](keyword_window), [infection](keyword_infection)
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 ## Abstract
 

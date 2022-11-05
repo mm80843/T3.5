@@ -15,6 +15,7 @@ General Population—A Systematic Review ([rodriguez-fernandez_psychological_202
 * Occupant health in buildings: Impact of the COVID-19
 pandemic on the opinions of building professionals and
 implications on research ([awada_occupant_2022](article_awada_occupant_2022))
+* realdania_refleksioner_2022 ([realdania_refleksioner_2022](article_realdania_refleksioner_2022))
 * realdania_refleksioner_2022_EN ([realdania_refleksioner_2022_EN](article_realdania_refleksioner_2022_EN))
 * Learning from pandemics: Applying resilience thinking to
 identify priorities for planning urban settlements ([syal_learning_2021](article_syal_learning_2021))
@@ -31,5 +32,3 @@ review ([zhong_biophilic_2022](article_zhong_biophilic_2022))
 information on citizens’ protective behaviors during the
 outbreak of COVID-19: a cross-sectional study in
 China ([ning_impacts_2020](article_ning_impacts_2020))
-* Home garden use during COVID-19: Associations with
-physical and mental wellbeing in older adults ([corley_home_2021](article_corley_home_2021))

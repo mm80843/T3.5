@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[china](keyword_china), [country](keyword_country)
+* [covid-19](keyword_covid-19), [china](keyword_china), [temperature](keyword_temperature), [beijing](keyword_beijing), [winter](keyword_winter), [summer](keyword_summer), [latitude](keyword_latitude), [environ](keyword_environ), [sar cov 2](keyword_sar_cov_2), [austria](keyword_austria), [country](keyword_country), [total environ](keyword_total_environ), uv radiation, equinox, emi
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 ## Abstract
 

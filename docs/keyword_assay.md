@@ -24,16 +24,16 @@ globally: Feasibility, economy, opportunities and
 challenges ([hart_computational_2020](article_hart_computational_2020))
 * Far-UVC light (222 nm) efficiently and safely
 inactivates airborne human coronaviruses ([buonanno_far-uvc_2020](article_buonanno_far-uvc_2020))
+* Presence of SARS-Coronavirus-2 RNA in Sewage and
+Correlation with Reported COVID-19 Prevalence in
+the Early Stage of the Epidemic in The
+Netherlands ([medema_presence_2020](article_medema_presence_2020))
 * Wastewater-Based Epidemiology to monitor COVID-19
 outbreak: Present and future diagnostic methods to be in
 your radar ([barcelo_wastewater-based_2020](article_barcelo_wastewater-based_2020))
 * Detection of SARS-CoV-2 in raw and treated wastewater
 in Germany – Suitability for COVID-19 surveillance
 and potential transmission risks ([westhaus_detection_2021](article_westhaus_detection_2021))
-* Presence of SARS-Coronavirus-2 RNA in Sewage and
-Correlation with Reported COVID-19 Prevalence in
-the Early Stage of the Epidemic in The
-Netherlands ([medema_presence_2020](article_medema_presence_2020))
-* Future perspectives of wastewater-based epidemiology:
-Monitoring infectious disease spread and resistance to
-the community level ([sims_future_2020](article_sims_future_2020))
+* Sars-CoV-2 (COVID-19) inactivation capability of
+copper-coated touch surface fabricated by cold-spray
+technology ([hutasoit_sars-cov-2_2020](article_hutasoit_sars-cov-2_2020))

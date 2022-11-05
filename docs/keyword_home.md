@@ -24,7 +24,9 @@ Buildings? A Review ([tokazhanov_how_2020](article_tokazhanov_how_2020))
 * chayka_how_2020 ([chayka_how_2020](article_chayka_how_2020))
 * The Effect of Opening Windows on Air Change
 Rates in Two Homes ([howard-reed_effect_2002](article_howard-reed_effect_2002))
+* How COVID-19 Could Accelerate the Adoption of
+New Retail Technologies and Enhance the
+(E-)Servicescape ([willems_how_2021](article_willems_how_2021))
 * Association between indoor-outdoor green features and
 psychological health during the COVID-19 lockdown in
 Italy: A cross-sectional nationwide study ([spano_association_2021](article_spano_association_2021))
-* world_green_building_council_health_2014 ([world_green_building_council_health_2014](article_world_green_building_council_health_2014))

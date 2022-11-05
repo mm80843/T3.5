@@ -28,6 +28,6 @@ Mitigation Strategy ([benfer_eviction_2021](article_benfer_eviction_2021))
 Time of Pandemics: Lessons Learned from
 COVID-19 ([asfour_housing_2022](article_asfour_housing_2022))
 * rtpi_urban_2021 ([rtpi_urban_2021](article_rtpi_urban_2021))
-* How is COVID-19 Experience Transforming
-Sustainability Requirements of Residential
-Buildings? A Review ([tokazhanov_how_2020](article_tokazhanov_how_2020))
+* COVID-19 and Living space challenge. Well-being and
+Public Health recommendations for a healthy, safe, and
+sustainable housing. ([dalessandro_covid-19_2020](article_dalessandro_covid-19_2020))

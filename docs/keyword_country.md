@@ -9,10 +9,13 @@
 
 
 ## Top 10 articles for __country__
+* world_bank_world_2022 ([world_bank_world_2022](article_world_bank_world_2022))
 * COVID-19 and Green Housing: A Review of
 Relevant Literature ([kaklauskas_covid-19_2021](article_kaklauskas_covid-19_2021))
-* realdania_refleksioner_2022_EN ([realdania_refleksioner_2022_EN](article_realdania_refleksioner_2022_EN))
 * eurofund_sustainable_2016 ([eurofund_sustainable_2016](article_eurofund_sustainable_2016))
+* realdania_refleksioner_2022_EN ([realdania_refleksioner_2022_EN](article_realdania_refleksioner_2022_EN))
+* Nurture to nature via COVID-19, a self-regenerating
+environmental strategy of environment in global context ([paital_nurture_2020](article_paital_nurture_2020))
 * rtpi_urban_2021 ([rtpi_urban_2021](article_rtpi_urban_2021))
 * A Comprehensive Review of the COVID-19 Pandemic
 and the Role of IoT, Drones, AI, Blockchain, and
@@ -23,7 +26,3 @@ of SME finance in selected ASEAN member states ([taghizadeh-hesary_covid-19_2022
 of COVID-19 ([oecd_global_2021](article_oecd_global_2021))
 * The changes in the effects of social media use of
 Cypriots due to COVID-19 pandemic ([kaya_changes_2020](article_kaya_changes_2020))
-* Climate and the spread of COVID-19 ([chen_climate_2021](article_chen_climate_2021))
-* COVID-ABS: An agent-based model of COVID-19
-epidemic to simulate health and economic effects of social
-distancing interventions ([silva_covid-abs_2020](article_silva_covid-abs_2020))

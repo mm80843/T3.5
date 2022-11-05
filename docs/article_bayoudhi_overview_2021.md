@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[ontology](keyword_ontology), [pandemic](keyword_pandemic), [disease](keyword_disease), [data](keyword_data), [domain](keyword_domain)
+* [ontology](keyword_ontology), [pandemic](keyword_pandemic), [infectious disease](keyword_infectious_disease), [covid-19](keyword_covid-19), [epidemiological](keyword_epidemiological), [disease](keyword_disease), [protege](keyword_protege), [owl](keyword_owl), [host](keyword_host), [data](keyword_data), [epidemiology](keyword_epidemiology), sparql, [domain](keyword_domain), leila bayoudhi, [lifecycle](keyword_lifecycle)
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 
 ## Concepts

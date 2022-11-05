@@ -26,11 +26,9 @@ COVID-19 pandemic ([awada_ten_2021](article_awada_ten_2021))
 * Assessment of Building Automation and Control
 Systems in Danish Healthcare Facilities in the
 COVID-19 Era ([pedersen_assessment_2022](article_pedersen_assessment_2022))
-* The role of 5G for digital healthcare against COVID-19
-pandemic: Opportunities and challenges ([siriwardhana_role_2021](article_siriwardhana_role_2021))
 * Characterization and performance evaluation of a
 full-scale activated carbon-based dynamic botanical air
 filtration system for improving indoor air quality ([wang_characterization_2011](article_wang_characterization_2011))
-* Contributions of Smart City Solutions and
-Technologies to Resilience against the COVID-19
-Pandemic: A Literature Review ([sharifi_contributions_2021](article_sharifi_contributions_2021))
+* The role of 5G for digital healthcare against COVID-19
+pandemic: Opportunities and challenges ([siriwardhana_role_2021](article_siriwardhana_role_2021))
+* world_green_building_council_health_2014 ([world_green_building_council_health_2014](article_world_green_building_council_health_2014))

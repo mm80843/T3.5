@@ -25,7 +25,7 @@ occupants from airborne pathogens ([bolashikov_methods_2009](article_bolashikov_
 * A Comprehensive Review of the COVID-19 Pandemic
 and the Role of IoT, Drones, AI, Blockchain, and
 5G in Managing its Impact ([chamola_comprehensive_2020](article_chamola_comprehensive_2020))
-* Effects of temperature and humidity on the spread of
-COVID-19: A systematic review ([mecenas_effects_2020](article_mecenas_effects_2020))
 * How can airborne transmission of COVID-19 indoors be
 minimised? ([morawska_how_2020](article_morawska_how_2020))
+* Effects of temperature and humidity on the spread of
+COVID-19: A systematic review ([mecenas_effects_2020](article_mecenas_effects_2020))

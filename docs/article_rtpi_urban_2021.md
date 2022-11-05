@@ -10,7 +10,13 @@ from the current health and economic crisis.
 
 ## Keywords
 
-[city](keyword_city), [pandemic](keyword_pandemic), [oecd](keyword_oecd), [transport](keyword_transport), [infrastructure](keyword_infrastructure)
+* [covid-19](keyword_covid-19), [city](keyword_city), [london](keyword_london), [plan](keyword_plan), [nairobi](keyword_nairobi), [paris](keyword_paris), [pandemic](keyword_pandemic), [united kingdom](keyword_united_kingdom), [washington](keyword_washington), [oecd](keyword_oecd), [world bank](keyword_world_bank), [transport](keyword_transport), geneva, [infrastructure](keyword_infrastructure), [united nations](keyword_united_nations)
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 
 ## Concepts

@@ -18,6 +18,9 @@ during Pandemics ([tleuken_readiness_2021](article_tleuken_readiness_2021))
 * Disinfection technology of hospital wastes and wastewater:
 Suggestions for disinfection strategy during coronavirus
 Disease 2019 (COVID-19) pandemic in China ([wang_disinfection_2020](article_wang_disinfection_2020))
+* How COVID-19 Could Accelerate the Adoption of
+New Retail Technologies and Enhance the
+(E-)Servicescape ([willems_how_2021](article_willems_how_2021))
 * Assessment method for new sustainability indicators
 providing pandemic resilience for residential buildings ([tokazhanov_assessment_2021](article_tokazhanov_assessment_2021))
 * Prophylactic Architecture: Formulating the Concept
@@ -26,8 +29,7 @@ of Pandemic-Resilient Homes ([elrayies_prophylactic_2022](article_elrayies_proph
 Environment ([pinheiro_covid-19_2020](article_pinheiro_covid-19_2020))
 * Overcoming the Impact of COVID-19 Using Integrated
 Project Delivery Model ([g_overcoming_2020](article_g_overcoming_2020))
-* COVID-19 and Green Housing: A Review of
-Relevant Literature ([kaklauskas_covid-19_2021](article_kaklauskas_covid-19_2021))
 * How to Make Green Building Certification \&
 Rating Systems More Pandemic-Sustainable? ([ujikawa_how_2022](article_ujikawa_how_2022))
-* oecd_covid-19_2021 ([oecd_covid-19_2021](article_oecd_covid-19_2021))
+* COVID-19 and Green Housing: A Review of
+Relevant Literature ([kaklauskas_covid-19_2021](article_kaklauskas_covid-19_2021))

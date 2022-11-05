@@ -29,5 +29,5 @@ for COVID-19: a focus on wintertime ([burridge_ventilation_2021](article_burridg
 * Occupant health in buildings: Impact of the COVID-19
 pandemic on the opinions of building professionals and
 implications on research ([awada_occupant_2022](article_awada_occupant_2022))
-* A review of facilities management interventions to
-mitigate respiratory infections in existing buildings ([zhang_review_2022](article_zhang_review_2022))
+* Revisiting the built environment: 10 potential development
+changes and paradigm shifts due to COVID-19 ([cheshmehzangi_revisiting_2021](article_cheshmehzangi_revisiting_2021))

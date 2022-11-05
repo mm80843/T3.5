@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[wuhan](keyword_wuhan), [china](keyword_china), [province](keyword_province), [hubei](keyword_hubei), [epidemic](keyword_epidemic)
+* [wuhan](keyword_wuhan), [china](keyword_china), [province](keyword_province), [hubei](keyword_hubei), [covid-19](keyword_covid-19), [cordon sanitaire](keyword_cordon_sanitaire), [material and method](keyword_material_and_method), [epidemic](keyword_epidemic), [age](keyword_age), [academy](keyword_academy), travel restriction, sex, science, [outbreak](keyword_outbreak), [epidemiological](keyword_epidemiological)
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 ## Abstract
 

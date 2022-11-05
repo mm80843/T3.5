@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[pandemic](keyword_pandemic), [research](keyword_research), [economic](keyword_economic), [china](keyword_china)
+* [supply chain](keyword_supply_chain), [logistic](keyword_logistic), [supply chain management](keyword_supply_chain_management), [covid-19](keyword_covid-19), [sustainability](keyword_sustainability), [disruption](keyword_disruption), [research](keyword_research), [pandemic](keyword_pandemic), [economic](keyword_economic), [organisation](keyword_organisation), [risk management](keyword_risk_management), [covid 19 pandemic](keyword_covid_19_pandemic), [china](keyword_china), logistic management, vosviewer
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 
 ## Concepts

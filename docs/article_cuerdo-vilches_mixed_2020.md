@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[home](keyword_home), [housing](keyword_housing)
+* [lockdown](keyword_lockdown), [qualitative](keyword_qualitative), [home](keyword_home), [spain](keyword_spain), [household](keyword_household), [covid-19](keyword_covid-19), [dwell](keyword_dwell), [housing](keyword_housing), [public health](keyword_public_health), [encyclopedia](keyword_encyclopedia), [wikipedia](keyword_wikipedia), leisure, healing, teleworke, photograph
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 ## Abstract
 

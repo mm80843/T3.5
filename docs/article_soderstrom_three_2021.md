@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[pandemic](keyword_pandemic), [technology](keyword_technology), [data](keyword_data), [ontology](keyword_ontology)
+* [smart city](keyword_smart_city), [pandemic](keyword_pandemic), [india](keyword_india), [mode of existence](keyword_mode_of_existence), [south africa](keyword_south_africa), [technology](keyword_technology), [citizen](keyword_citizen), [civil society](keyword_civil_society), [pandemic smart city](keyword_pandemic_smart_city), [data](keyword_data), global south, global north, [ontology](keyword_ontology), [press](keyword_press), platform urbanism
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 ## Abstract
 

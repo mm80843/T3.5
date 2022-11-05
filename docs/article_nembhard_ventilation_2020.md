@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[hvac](keyword_hvac), [ventilation](keyword_ventilation), [filter](keyword_filter), [transmission](keyword_transmission), [aerosol](keyword_aerosol)
+* [hvac](keyword_hvac), [ventilation](keyword_ventilation), [covid-19](keyword_covid-19), [clean](keyword_clean), [ventilation system](keyword_ventilation_system), [filter](keyword_filter), [fan](keyword_fan), [sar cov 2](keyword_sar_cov_2), [transmission](keyword_transmission), [airborne transmission](keyword_airborne_transmission), [natural ventilation](keyword_natural_ventilation), hvac system, nadca, [aerosol](keyword_aerosol), mechanical ventilation
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 ## Abstract
 

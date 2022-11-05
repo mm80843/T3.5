@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[coronavirus](keyword_coronavirus), [disinfection](keyword_disinfection), [medium](keyword_medium)
+* [surfacide](keyword_surfacide), [mer cov](keyword_mer_cov), [uv-c](keyword_uv-c), [coronavirus](keyword_coronavirus), [disinfection](keyword_disinfection), [triplicate](keyword_triplicate), [medium](keyword_medium), [coverslip](keyword_coverslip), [agarose](keyword_agarose), [iowa](keyword_iowa), mean, mer cov virus, bestebroer tm, van boheemen s, middle east respiratory syndrome coronavirus
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 ## Abstract
 

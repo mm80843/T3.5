@@ -9,6 +9,9 @@
 
 
 ## Top 10 articles for __robot__
+* How COVID-19 Could Accelerate the Adoption of
+New Retail Technologies and Enhance the
+(E-)Servicescape ([willems_how_2021](article_willems_how_2021))
 * A Comprehensive Review of the COVID-19 Pandemic
 and the Role of IoT, Drones, AI, Blockchain, and
 5G in Managing its Impact ([chamola_comprehensive_2020](article_chamola_comprehensive_2020))
@@ -29,4 +32,3 @@ public health and infectious diseases ([yang_combating_2020](article_yang_combat
 * yan_10_2020 ([yan_10_2020](article_yan_10_2020))
 * Supporting Technologies for COVID-19 Prevention:
 Systemized Review ([zhao_supporting_2022](article_zhao_supporting_2022))
-* ec_views_danish_2020 ([ec_views_danish_2020](article_ec_views_danish_2020))

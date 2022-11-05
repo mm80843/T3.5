@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[virus](keyword_virus), [infection](keyword_infection), [disinfection](keyword_disinfection), [influenza](keyword_influenza)
+* [virus](keyword_virus), [author funder](keyword_author_funder), [copyright holder](keyword_copyright_holder), [environ](keyword_environ), [infection](keyword_infection), gerba, [antimicrobial](keyword_antimicrobial), [new york](keyword_new_york), [international license](keyword_international_license), [sifuente](keyword_sifuente), cc by nc nd 4 0, [titer](keyword_titer), coronavirus 229e, [disinfection](keyword_disinfection), [disinfectant](keyword_disinfectant)
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 ## Abstract
 

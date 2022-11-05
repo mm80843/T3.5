@@ -30,7 +30,8 @@ Conditions in Public and Private Buildings ([calvo_scalable_2022](article_calvo_
 * Detection of SARS-CoV-2 in raw and treated wastewater
 in Germany – Suitability for COVID-19 surveillance
 and potential transmission risks ([westhaus_detection_2021](article_westhaus_detection_2021))
+* Aerosol and Surface Distribution of Severe Acute
+Respiratory Syndrome Coronavirus 2 in Hospital
+Wards, Wuhan, China, 2020 ([guo_aerosol_2020](article_guo_aerosol_2020))
 * Effects to Construction Project Management
 Impacted Circular Economic of Covid-19 Pandemic ([paikan_effects_2021](article_paikan_effects_2021))
-* The Effects of Pandemic on Construction Industry
-in the UK ([shibani_effects_2020](article_shibani_effects_2020))

@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[resilience](keyword_resilience), [pandemic](keyword_pandemic), [china](keyword_china)
+* [pathogen](keyword_pathogen), [kerala](keyword_kerala), [sar cov 2](keyword_sar_cov_2), [resilience](keyword_resilience), [covid-19](keyword_covid-19), [covid 19 pandemic](keyword_covid_19_pandemic), [shock](keyword_shock), [pandemic](keyword_pandemic), [host](keyword_host), [india](keyword_india), [vector](keyword_vector), [vulnerability](keyword_vulnerability), [press](keyword_press), [public health](keyword_public_health), [stress](keyword_stress)
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 
 ## Concepts

@@ -16,11 +16,11 @@ COVID-19 on tourists’ behavioral patterns ([li_seeing_2020](article_li_seeing_
 * oecd_guidelines_2014 ([oecd_guidelines_2014](article_oecd_guidelines_2014))
 * A review of definitions and measures of system
 resilience ([hosseini_review_2016](article_hosseini_review_2016))
-* Understanding the role of urban design in disease
-spreading ([brizuela_understanding_2019](article_brizuela_understanding_2019))
+* RUDDS_bioRxiv_update ([RUDDS_bioRxiv_update](article_RUDDS_bioRxiv_update))
 * COVID19-Routes: A Safe Pedestrian Navigation
 Service ([cantarero_covid19-routes_2021](article_cantarero_covid19-routes_2021))
-* RUDDS_bioRxiv_update ([RUDDS_bioRxiv_update](article_RUDDS_bioRxiv_update))
+* Understanding the role of urban design in disease
+spreading ([brizuela_understanding_2019](article_brizuela_understanding_2019))
 * Mental health economics: A prospective study on
 psychological flourishing and associations with healthcare
 costs and sickness benefit transfers in Denmark ([santini_mental_2021](article_santini_mental_2021))

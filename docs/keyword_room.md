@@ -22,11 +22,11 @@ Essential† ([nardell_air_2021](article_nardell_air_2021))
 * Assessment of Building Automation and Control
 Systems in Danish Healthcare Facilities in the
 COVID-19 Era ([pedersen_assessment_2022](article_pedersen_assessment_2022))
-* Occupants’ behavior and activity patterns influencing
-the energy consumption in the Kuwaiti residences ([al-mumin_occupants_2003](article_al-mumin_occupants_2003))
 * Upper-room ultraviolet air disinfection might help to
 reduce COVID-19 transmission in buildings: a feasibility
 study ([beggs_upper-room_2020](article_beggs_upper-room_2020))
+* Occupants’ behavior and activity patterns influencing
+the energy consumption in the Kuwaiti residences ([al-mumin_occupants_2003](article_al-mumin_occupants_2003))
 * COVID-19 and Green Housing: A Review of
 Relevant Literature ([kaklauskas_covid-19_2021](article_kaklauskas_covid-19_2021))
 * Environmental factors involved in SARS-CoV-2

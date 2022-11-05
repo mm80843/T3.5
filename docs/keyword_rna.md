@@ -22,15 +22,15 @@ Netherlands ([medema_presence_2020](article_medema_presence_2020))
 * How can airborne transmission of COVID-19 indoors be
 minimised? ([morawska_how_2020](article_morawska_how_2020))
 * onway-morris_removal_2021 ([onway-morris_removal_2021](article_onway-morris_removal_2021))
+* Wastewater surveillance for population-wide Covid-19:
+The present and future ([daughton_wastewater_2020](article_daughton_wastewater_2020))
 * Graphene-based nanomaterials as antimicrobial surface
 coatings: A parallel approach to restrain the expansion
 of COVID-19 ([ayub_graphene-based_2021](article_ayub_graphene-based_2021))
-* Wastewater surveillance for population-wide Covid-19:
-The present and future ([daughton_wastewater_2020](article_daughton_wastewater_2020))
-* Supporting Technologies for COVID-19 Prevention:
-Systemized Review ([zhao_supporting_2022](article_zhao_supporting_2022))
 * SARS-CoV-2 RNA detection of hospital isolation wards
 hygiene monitoring during the Coronavirus Disease 2019
 outbreak in a Chinese hospital ([wang_sars-cov-2_2020](article_wang_sars-cov-2_2020))
+* Supporting Technologies for COVID-19 Prevention:
+Systemized Review ([zhao_supporting_2022](article_zhao_supporting_2022))
 * First detection of SARS-CoV-2 in untreated wastewaters
 in Italy ([la_rosa_first_2020](article_la_rosa_first_2020))

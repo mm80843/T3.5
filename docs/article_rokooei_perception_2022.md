@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[construction](keyword_construction), [pandemic](keyword_pandemic), [industry](keyword_industry)
+* [construction](keyword_construction), [covid-19](keyword_covid-19), [construction industry](keyword_construction_industry), [construction professional](keyword_construction_professional), [professional](keyword_professional), [pandemic](keyword_pandemic), [group b](keyword_group_b), [u s](keyword_u_s), [software](keyword_software), [hardware](keyword_hardware), round, perception, group a, iran, [industry](keyword_industry)
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 
 ## Concepts

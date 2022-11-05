@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[construction](keyword_construction), [contractor](keyword_contractor), [design](keyword_design), [project](keyword_project), [engineering](keyword_engineering), [technology](keyword_technology)
+* [value engineering](keyword_value_engineering), [construction](keyword_construction), [contractor](keyword_contractor), [project management](keyword_project_management), [design](keyword_design), [india](keyword_india), [lifecycle](keyword_lifecycle), [facility management](keyword_facility_management), [cost](keyword_cost), [project](keyword_project), null hypothesis, [engineering](keyword_engineering), [maintenance](keyword_maintenance), [technology](keyword_technology), client
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 ## Abstract
 

@@ -18,15 +18,16 @@ also data source ([lodder_sars-cov-2_2020](article_lodder_sars-cov-2_2020))
 * Wastewater-Based Epidemiology to monitor COVID-19
 outbreak: Present and future diagnostic methods to be in
 your radar ([barcelo_wastewater-based_2020](article_barcelo_wastewater-based_2020))
+* Effect of Ultraviolet Germicidal Irradiation on
+Viral Aerosols ([walker_effect_2007](article_walker_effect_2007))
 * Disinfection technology of hospital wastes and wastewater:
 Suggestions for disinfection strategy during coronavirus
 Disease 2019 (COVID-19) pandemic in China ([wang_disinfection_2020](article_wang_disinfection_2020))
 * udomiaye_architectural_2020 ([udomiaye_architectural_2020](article_udomiaye_architectural_2020))
-* Effect of Ultraviolet Germicidal Irradiation on
-Viral Aerosols ([walker_effect_2007](article_walker_effect_2007))
-* How our homes impact our health: using a COVID-19
-informed approach to examine urban apartment housing ([peters_how_2020](article_peters_how_2020))
-* Digital Twin of COVID-19 Mass Vaccination
-Centers ([pilati_digital_2021](article_pilati_digital_2021))
-* COVID-19 Experience Transforming the Protective
-Environment of Office Buildings and Spaces ([phapant_covid-19_2021](article_phapant_covid-19_2021))
+* Role of Information Technology in Covid-19
+Prevention ([mehtab_alam_role_2021](article_mehtab_alam_role_2021))
+* Nurture to nature via COVID-19, a self-regenerating
+environmental strategy of environment in global context ([paital_nurture_2020](article_paital_nurture_2020))
+* Health, Economic and Social Development Challenges
+of the COVID-19 Pandemic: Strategies for Multiple
+and Interconnected Issues ([panneer_health_2022](article_panneer_health_2022))

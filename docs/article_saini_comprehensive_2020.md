@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[sensor](keyword_sensor), [iot](keyword_iot)
+* [iaq](keyword_iaq), [sensor](keyword_sensor), [india](keyword_india), [vocs](keyword_vocs), [zigbee](keyword_zigbee), [fuel](keyword_fuel), [iot](keyword_iot), [raspberry pi](keyword_raspberry_pi), [monitor](keyword_monitor), [pollutant](keyword_pollutant), iap, sensor network, co2, wsn, indoor air
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 ## Abstract
 

@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[pandemic](keyword_pandemic), [coronavirus](keyword_coronavirus), [patient](keyword_patient), [safety](keyword_safety)
+* [covid-19](keyword_covid-19), [ventilator](keyword_ventilator), [pandemic](keyword_pandemic), [mask](keyword_mask), [personal protective equipment](keyword_personal_protective_equipment), [health care](keyword_health_care), [free full text](keyword_free_full_text), [3d print](keyword_3d_print), [full text](keyword_full_text), [covid 19 pandemic](keyword_covid_19_pandemic), [coronavirus](keyword_coronavirus), test, [united kingdom](keyword_united_kingdom), [patient](keyword_patient), [safety](keyword_safety)
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 ## Abstract
 

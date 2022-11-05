@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[virus](keyword_virus), [coronavirus](keyword_coronavirus), [sewage](keyword_sewage), [gene](keyword_gene), [wastewater](keyword_wastewater), [surveillance](keyword_surveillance), [infection](keyword_infection), [pcr](keyword_pcr)
+* [italy](keyword_italy), [sar cov 2](keyword_sar_cov_2), [milan](keyword_milan), [rome](keyword_rome), [covid-19](keyword_covid-19), [lombardy](keyword_lombardy), [virus](keyword_virus), [coronavirus](keyword_coronavirus), [genome](keyword_genome), [sewage](keyword_sewage), [gene](keyword_gene), [wastewater](keyword_wastewater), [surveillance](keyword_surveillance), [infection](keyword_infection), [pcr](keyword_pcr)
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 
 ## Concepts

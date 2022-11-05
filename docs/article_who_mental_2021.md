@@ -8,7 +8,13 @@
 
 ## Keywords
 
-[pandemic](keyword_pandemic), [health](keyword_health), [mental](keyword_mental)
+* [mental health](keyword_mental_health), [pandemic](keyword_pandemic), [covid-19](keyword_covid-19), [covid 19 pandemic](keyword_covid_19_pandemic), [health](keyword_health), [who](keyword_who), international federation for red cross and red crescent society, [child](keyword_child), [mental](keyword_mental), [fear](keyword_fear), [covid pandemic](keyword_covid_pandemic), news release, young people, [stress](keyword_stress), [social medium](keyword_social_medium)
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 
 ## Concepts

@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[coronavirus](keyword_coronavirus), [pandemic](keyword_pandemic), [aerosol](keyword_aerosol), [design](keyword_design)
+* [covid-19](keyword_covid-19), [coronavirus](keyword_coronavirus), [australia](keyword_australia), [covid 19 pandemic](keyword_covid_19_pandemic), [pandemic](keyword_pandemic), [aerosol](keyword_aerosol), [social distancing](keyword_social_distancing), [sydney](keyword_sydney), [coronavirus disease](keyword_coronavirus_disease), [design](keyword_design), [containment space](keyword_containment_space), [bedroom](keyword_bedroom), [sar cov 2](keyword_sar_cov_2), residential space, [architectural style](keyword_architectural_style)
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 ## Abstract
 

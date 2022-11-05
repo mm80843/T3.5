@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[blockchain](keyword_blockchain), [patient](keyword_patient), [pandemic](keyword_pandemic)
+* [blockchain](keyword_blockchain), [smart contract](keyword_smart_contract), [public key](keyword_public_key), [medical datum](keyword_medical_datum), [medical record](keyword_medical_record), [metadata](keyword_metadata), [ipf](keyword_ipf), [ethereum](keyword_ethereum), [patient](keyword_patient), [pgp](keyword_pgp), healthcare provider, medical doctor, private key, [pandemic](keyword_pandemic), m edsc
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 
 ## Concepts

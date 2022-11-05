@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[data](keyword_data), [robot](keyword_robot), [share](keyword_share), [privacy](keyword_privacy), [disinfection](keyword_disinfection)
+* [cookie](keyword_cookie), [covid-19](keyword_covid-19), [data](keyword_data), [robot](keyword_robot), [share](keyword_share), [third party](keyword_third_party), [robotic](keyword_robotic), [infectious disease](keyword_infectious_disease), [security](keyword_security), [privacy policy](keyword_privacy_policy), [social interaction](keyword_social_interaction), [privacy](keyword_privacy), eletter, nasopharyngeal, [disinfection](keyword_disinfection)
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 ## Abstract
 

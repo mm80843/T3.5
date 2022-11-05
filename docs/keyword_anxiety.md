@@ -27,9 +27,10 @@ pandemic on the opinions of building professionals and
 implications on research ([awada_occupant_2022](article_awada_occupant_2022))
 * What drives unverified information sharing and
 cyberchondria during the COVID-19 pandemic? ([laato_what_2020](article_laato_what_2020))
+* How COVID-19 Could Accelerate the Adoption of
+New Retail Technologies and Enhance the
+(E-)Servicescape ([willems_how_2021](article_willems_how_2021))
 * Management of the COVID-19 pandemic: challenges,
 practices, and organizational support ([hossny_management_2022](article_hossny_management_2022))
 * Home garden use during COVID-19: Associations with
 physical and mental wellbeing in older adults ([corley_home_2021](article_corley_home_2021))
-* Prophylactic Architecture: Formulating the Concept
-of Pandemic-Resilient Homes ([elrayies_prophylactic_2022](article_elrayies_prophylactic_2022))

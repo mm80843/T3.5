@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[anxiety](keyword_anxiety), [depression](keyword_depression), [stress](keyword_stress), [pandemic](keyword_pandemic), [ptsd](keyword_ptsd)
+* [anxiety](keyword_anxiety), [depression](keyword_depression), [stress](keyword_stress), [wikipedia](keyword_wikipedia), [encyclopedia](keyword_encyclopedia), [covid-19](keyword_covid-19), [mental health](keyword_mental_health), [pandemic](keyword_pandemic), [re psychiatry](keyword_re_psychiatry), [ptsd](keyword_ptsd), [covid 19 pandemic](keyword_covid_19_pandemic), [symptom](keyword_symptom), psychiatry, cross sectional, depressive symptom
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 ## Abstract
 

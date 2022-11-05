@@ -14,6 +14,9 @@ COVID-19 on tourists’ behavioral patterns ([li_seeing_2020](article_li_seeing_
 * Should I Stay or Should I Go? Tourists’
 COVID-19 Risk Perception and Vacation Behavior
 Shift ([bratic_should_2021](article_bratic_should_2021))
+* How COVID-19 Could Accelerate the Adoption of
+New Retail Technologies and Enhance the
+(E-)Servicescape ([willems_how_2021](article_willems_how_2021))
 * realdania_refleksioner_2022_EN ([realdania_refleksioner_2022_EN](article_realdania_refleksioner_2022_EN))
 * rtpi_urban_2021 ([rtpi_urban_2021](article_rtpi_urban_2021))
 * The socio-economic implications of the coronavirus
@@ -27,6 +30,6 @@ measures ([salama_coronavirus_2020](article_salama_coronavirus_2020))
 * Mobility Behaviour in View of the Impact of the
 COVID-19 Pandemic—Public Transport Users in
 Gdansk Case Study ([przybylowski_mobility_2021](article_przybylowski_mobility_2021))
-* The COVID-19 pandemic: Impacts on cities and major
-lessons for urban planning, design, and management ([sharifi_covid-19_2020](article_sharifi_covid-19_2020))
-* council_of_europe_2020_2020 ([council_of_europe_2020_2020](article_council_of_europe_2020_2020))
+* Impact of COVID-19 on IoT Adoption in Healthcare,
+Smart Homes, Smart Buildings, Smart Cities,
+Transportation and Industrial IoT ([umair_impact_2021](article_umair_impact_2021))

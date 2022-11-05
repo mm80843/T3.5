@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[pandemic](keyword_pandemic), [urban](keyword_urban), [housing](keyword_housing)
+* [gate community](keyword_gate_community), [pandemic](keyword_pandemic), [gate](keyword_gate), [non gate community](keyword_non_gate_community), [covid-19](keyword_covid-19), [kfupm](keyword_kfupm), [wikipedia](keyword_wikipedia), [saudi arabia](keyword_saudi_arabia), [urban](keyword_urban), [encyclopedia](keyword_encyclopedia), [urban design](keyword_urban_design), [community](keyword_community), [plan](keyword_plan), [housing](keyword_housing), one sample t test
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 ## Abstract
 

@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[city](keyword_city), [pandemic](keyword_pandemic), [crisis](keyword_crisis), [technology](keyword_technology), [hospital](keyword_hospital), [surveillance](keyword_surveillance)
+* [city](keyword_city), [smart city](keyword_smart_city), [monitor](keyword_monitor), [pandemic](keyword_pandemic), [crisis](keyword_crisis), [hospital](keyword_hospital), [london](keyword_london), [technology](keyword_technology), [supply](keyword_supply), [lockdown](keyword_lockdown), [surveillance](keyword_surveillance), [food](keyword_food), [supply chain](keyword_supply_chain), cctv, I ii
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 
 ## Concepts

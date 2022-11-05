@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[healthcare](keyword_healthcare), [privacy](keyword_privacy), [network](keyword_network), [pandemic](keyword_pandemic), [blockchain](keyword_blockchain)
+* [5g](keyword_5g), [covid-19](keyword_covid-19), [healthcare](keyword_healthcare), [5 g network](keyword_5_g_network), [privacy](keyword_privacy), [contact trace](keyword_contact_trace), [st petersburg](keyword_st_petersburg), [russia](keyword_russia), [network](keyword_network), [pandemic](keyword_pandemic), e health, [supply chain](keyword_supply_chain), [telemedicine](keyword_telemedicine), gur, [blockchain](keyword_blockchain)
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 ## Abstract
 

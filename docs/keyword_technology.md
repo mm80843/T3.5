@@ -10,6 +10,9 @@
 
 
 ## Top 10 articles for __technology__
+* How COVID-19 Could Accelerate the Adoption of
+New Retail Technologies and Enhance the
+(E-)Servicescape ([willems_how_2021](article_willems_how_2021))
 * Future (post-COVID) digital, smart and sustainable
 cities in the wake of 6G: Digital twins, immersive
 realities and new urban economies ([allam_future_2021](article_allam_future_2021))
@@ -28,10 +31,7 @@ and the Role of IoT, Drones, AI, Blockchain, and
 * Impact of COVID-19 on IoT Adoption in Healthcare,
 Smart Homes, Smart Buildings, Smart Cities,
 Transportation and Industrial IoT ([umair_impact_2021](article_umair_impact_2021))
+* world_bank_world_2022 ([world_bank_world_2022](article_world_bank_world_2022))
 * Leveraging Digital Transformation Technologies to
 Tackle COVID-19: Proposing a Privacy-First
 Holistic Framework ([arpaci_leveraging_2021](article_arpaci_leveraging_2021))
-* How the 5G Enabled the COVID-19 Pandemic
-Prevention and Control: Materiality, Affordance,
-and (De-)Spatialization ([li_how_2022](article_li_how_2022))
-* oecd_covid-19_2021 ([oecd_covid-19_2021](article_oecd_covid-19_2021))

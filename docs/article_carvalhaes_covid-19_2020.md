@@ -32,7 +32,13 @@ opportunity for change.
 
 ## Keywords
 
-[pandemic](keyword_pandemic), [infrastructure](keyword_infrastructure), [resilience](keyword_resilience), [system](keyword_system), [coronavirus](keyword_coronavirus)
+* [pandemic](keyword_pandemic), [covid-19](keyword_covid-19), [infrastructure](keyword_infrastructure), [resilience](keyword_resilience), [efficiency](keyword_efficiency), [guardian](keyword_guardian), [infrastructure resilience](keyword_infrastructure_resilience), [vaccine](keyword_vaccine), [wildfire](keyword_wildfire), [environ](keyword_environ), [coronavirus](keyword_coronavirus), leadership, bangladesh, [system](keyword_system), [time](keyword_time)
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 
 ## Concepts

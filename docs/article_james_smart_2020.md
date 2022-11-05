@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[data](keyword_data), [analytic](keyword_analytic)
+* [covid-19](keyword_covid-19), [smart city](keyword_smart_city), [data](keyword_data), [traffic](keyword_traffic), [newcastle](keyword_newcastle), [united kingdom](keyword_united_kingdom), [city council](keyword_city_council), [analytic](keyword_analytic), [lockdown](keyword_lockdown), [dashboard](keyword_dashboard), [urban governance](keyword_urban_governance), [machine learning](keyword_machine_learning), pedestrian, air quality, [iot](keyword_iot)
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 ## Abstract
 

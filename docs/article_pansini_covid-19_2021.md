@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[wuhan](keyword_wuhan), [china](keyword_china), [hubei](keyword_hubei), [province](keyword_province), [pollution](keyword_pollution)
+* [air pollution](keyword_air_pollution), [covid-19](keyword_covid-19), [wuhan](keyword_wuhan), [china](keyword_china), [air pollutant](keyword_air_pollutant), [hubei](keyword_hubei), [mortality](keyword_mortality), [fatality](keyword_fatality), [province](keyword_province), [o3](keyword_o3), [pollutant](keyword_pollutant), [italy](keyword_italy), [pollution](keyword_pollution), [sar cov 2](keyword_sar_cov_2), [environ](keyword_environ)
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 ## Abstract
 

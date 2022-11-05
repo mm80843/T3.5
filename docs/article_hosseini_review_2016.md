@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[resilience](keyword_resilience), [system](keyword_system), [infrastructure](keyword_infrastructure), [engineering](keyword_engineering), [network](keyword_network), [model](keyword_model)
+* [resilience](keyword_resilience), [system](keyword_system), [infrastructure](keyword_infrastructure), [recovery](keyword_recovery), [reliability engineering](keyword_reliability_engineering), [metric](keyword_metric), [system safety](keyword_system_safety), [eq](keyword_eq), [vulnerability](keyword_vulnerability), [resilience engineering](keyword_resilience_engineering), [engineering](keyword_engineering), [preparedness](keyword_preparedness), [disruption](keyword_disruption), [model](keyword_model), [network](keyword_network)
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 ## Abstract
 

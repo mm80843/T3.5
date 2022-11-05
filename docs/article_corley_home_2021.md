@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[health](keyword_health), [anxiety](keyword_anxiety)
+* [physical health](keyword_physical_health), [garden](keyword_garden), [health](keyword_health), [mental health](keyword_mental_health), [wellbeing](keyword_wellbeing), [gardening](keyword_gardening), [lockdown](keyword_lockdown), [covid-19](keyword_covid-19), [covid 19 pandemic](keyword_covid_19_pandemic), [anxiety](keyword_anxiety), sleep quality, [write](keyword_write), scotland, green space, health outcome
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 
 ## Concepts

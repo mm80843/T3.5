@@ -13,7 +13,13 @@ percent.
 
 ## Keywords
 
-[china](keyword_china), [transmission](keyword_transmission), [virus](keyword_virus)
+* [winter](keyword_winter), [covid-19](keyword_covid-19), [sydney](keyword_sydney), [australia](keyword_australia), [exposure](keyword_exposure), [new south wale](keyword_new_south_wale), [summer](keyword_summer), [china](keyword_china), university of sydney, [humidity](keyword_humidity), [seasonal illness](keyword_seasonal_illness), [shanghai](keyword_shanghai), warm temperature, [virus](keyword_virus), [transmission](keyword_transmission)
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 
 ## Concepts

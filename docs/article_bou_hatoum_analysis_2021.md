@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[construction](keyword_construction), [employee](keyword_employee), [safety](keyword_safety), [pandemic](keyword_pandemic)
+* [construction](keyword_construction), [covid-19](keyword_covid-19), [osha](keyword_osha), [construction worker](keyword_construction_worker), [construction industry](keyword_construction_industry), [symptom](keyword_symptom), nassereddine, [employer](keyword_employer), [wikipedia](keyword_wikipedia), [encyclopedia](keyword_encyclopedia), [workplace](keyword_workplace), [safety](keyword_safety), [employee](keyword_employee), [cdc](keyword_cdc), [pandemic](keyword_pandemic)
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 ## Abstract
 

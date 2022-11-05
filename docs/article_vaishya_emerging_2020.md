@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[pandemic](keyword_pandemic), [blockchain](keyword_blockchain), [technology](keyword_technology)
+* [health care](keyword_health_care), [covid 19 pandemic](keyword_covid_19_pandemic), [cloud computing](keyword_cloud_computing), [pandemic](keyword_pandemic), [industry 4 0](keyword_industry_4_0), [blockchain](keyword_blockchain), [hepatology](keyword_hepatology), [in press](keyword_in_press), [hepatol](keyword_hepatol), [lockdown](keyword_lockdown), gastroenterologist, gastrointestinal endoscopist, indraprastha apollo hospital, 4th industrial revolution, develop country
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 
 ## Concepts

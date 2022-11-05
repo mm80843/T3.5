@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[coronavirus](keyword_coronavirus), [virus](keyword_virus), [aerosol](keyword_aerosol), [uv](keyword_uv), [ultraviolet](keyword_ultraviolet), [influenza](keyword_influenza)
+* [coronavirus](keyword_coronavirus), [virus](keyword_virus), [sar cov 2](keyword_sar_cov_2), [aerosol](keyword_aerosol), [biosampler](keyword_biosampler), [photobiol](keyword_photobiol), [uv](keyword_uv), [far uvc light](keyword_far_uvc_light), [alpha hcov 229e](keyword_alpha_hcov_229e), [photochem](keyword_photochem), [ultraviolet](keyword_ultraviolet), aerosol chamber, scientific report, cell, [pathogen](keyword_pathogen)
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 ## Abstract
 

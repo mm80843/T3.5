@@ -25,8 +25,8 @@ Safety Perspective ([aloulou_design_2022](article_aloulou_design_2022))
 * How the 5G Enabled the COVID-19 Pandemic
 Prevention and Control: Materiality, Affordance,
 and (De-)Spatialization ([li_how_2022](article_li_how_2022))
+* Respiratory pandemics, urban planning and design: A
+multidisciplinary rapid review of the literature ([harris_respiratory_2022](article_harris_respiratory_2022))
 * Housing Experience in Gated Communities in the
 Time of Pandemics: Lessons Learned from
 COVID-19 ([asfour_housing_2022](article_asfour_housing_2022))
-* Respiratory pandemics, urban planning and design: A
-multidisciplinary rapid review of the literature ([harris_respiratory_2022](article_harris_respiratory_2022))

@@ -12,7 +12,13 @@ journey.
 
 ## Keywords
 
-[wuhan](keyword_wuhan)
+* [live streaming](keyword_live_streaming), [lockdown](keyword_lockdown), [customer journey](keyword_customer_journey), [online shopping](keyword_online_shopping), [shop](keyword_shop), [wuhan](keyword_wuhan), [retailer](keyword_retailer), [delivery](keyword_delivery), brand, meituan, [stream](keyword_stream), [wechat](keyword_wechat), [logistic](keyword_logistic), automate drop off, [consumer](keyword_consumer)
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 
 ## Concepts

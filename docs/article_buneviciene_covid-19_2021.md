@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[news](keyword_news), [pandemic](keyword_pandemic), [health](keyword_health), [coronavirus](keyword_coronavirus)
+* [internet](keyword_internet), [covid-19](keyword_covid-19), [covid 19 pandemic](keyword_covid_19_pandemic), [post traumatic stress](keyword_post_traumatic_stress), [news](keyword_news), [pandemic](keyword_pandemic), [health](keyword_health), [lithuania](keyword_lithuania), [symptom](keyword_symptom), [kauna](keyword_kauna), fear of covid 19, [coronavirus](keyword_coronavirus), news portal, [public health](keyword_public_health), online survey
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 
 ## Concepts

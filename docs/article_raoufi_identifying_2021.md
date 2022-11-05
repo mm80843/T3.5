@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[construction](keyword_construction), [pandemic](keyword_pandemic), [industry](keyword_industry), [policy](keyword_policy), [research](keyword_research)
+* [construction](keyword_construction), [pandemic](keyword_pandemic), [covid 19 pandemic](keyword_covid_19_pandemic), [industry](keyword_industry), [covid-19](keyword_covid-19), [north america](keyword_north_america), [construction industry](keyword_construction_industry), [university of alberta](keyword_university_of_alberta), [policy](keyword_policy), construction organization, [organization](keyword_organization), recommendation, authorship, [research](keyword_research), [canada](keyword_canada)
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 ## Abstract
 

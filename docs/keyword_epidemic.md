@@ -23,5 +23,6 @@ System for Preventing COVID-19 Pandemic ([amran_review_2022](article_amran_revie
 the COVID-19 pandemic process ([aydin_questioning_2020](article_aydin_questioning_2020))
 * Epidemics, Planning and the City: A Special
 Issue of Planning Perspectives ([davis_epidemics_2022](article_davis_epidemics_2022))
-* Design COVID-19 Ontology: A Healthcare and
-Safety Perspective ([aloulou_design_2022](article_aloulou_design_2022))
+* Mobility Behaviour in View of the Impact of the
+COVID-19 Pandemic—Public Transport Users in
+Gdansk Case Study ([przybylowski_mobility_2021](article_przybylowski_mobility_2021))

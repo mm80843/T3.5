@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[contractor](keyword_contractor), [construction](keyword_construction), [engineering](keyword_engineering), [industry](keyword_industry), [pandemic](keyword_pandemic)
+* [contractor](keyword_contractor), [construction industry](keyword_construction_industry), [construction](keyword_construction), [engineering](keyword_engineering), [economy](keyword_economy), [covid-19](keyword_covid-19), [contract](keyword_contract), [sub theme](keyword_sub_theme), [industry](keyword_industry), [income](keyword_income), [government](keyword_government), [pandemic](keyword_pandemic), earthquake, [supply chain](keyword_supply_chain), [infrastructure](keyword_infrastructure)
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 ## Abstract
 

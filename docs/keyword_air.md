@@ -32,9 +32,7 @@ quality in the strategy for COVID-19 infection control ([azuma_environmental_202
 * Air Disinfection for Airborne Infection Control
 with a Focus on COVID-19: Why Germicidal UV is
 Essential† ([nardell_air_2021](article_nardell_air_2021))
-* Mechanistic insights into the effect of humidity on
-airborne influenza virus survival, transmission and
-incidence ([marr_mechanistic_2019](article_marr_mechanistic_2019))
+* ashrae_ashrae_2022 ([ashrae_ashrae_2022](article_ashrae_ashrae_2022))
 * A Global Survey of Infection Control and
 Mitigation Measures for Combating the Transmission
 of COVID-19 Pandemic in Buildings Under

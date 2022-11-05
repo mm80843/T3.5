@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[health](keyword_health), [city](keyword_city), [pandemic](keyword_pandemic), [urban](keyword_urban)
+* [vienna](keyword_vienna), [austria](keyword_austria), [wikipedia](keyword_wikipedia), [encyclopedia](keyword_encyclopedia), [climate change](keyword_climate_change), [health](keyword_health), [city](keyword_city), [ecosystem](keyword_ecosystem), [wellbeing](keyword_wellbeing), [new york](keyword_new_york), [environ](keyword_environ), [lockdown](keyword_lockdown), city of vienna, heat wave, switzerland
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 ## Abstract
 

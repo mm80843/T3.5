@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[ontology](keyword_ontology)
+* [ontology](keyword_ontology), [covid-19](keyword_covid-19), [epidemiology](keyword_epidemiology), [phenopacket](keyword_phenopacket), [epidemiological](keyword_epidemiological), [infectious disease](keyword_infectious_disease), [owl ontology](keyword_owl_ontology), [kouame](keyword_kouame), [repository](keyword_repository), [obo](keyword_obo), bio ontologie, unknown publisher, nanopublication, library, n d
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 ## Abstract
 

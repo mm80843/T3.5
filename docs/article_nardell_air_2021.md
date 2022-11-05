@@ -7,7 +7,13 @@
 
 ## Keywords
 
-[ventilation](keyword_ventilation), [uv](keyword_uv), [disinfection](keyword_disinfection), [ultraviolet](keyword_ultraviolet), [transmission](keyword_transmission), [infectious](keyword_infectious), [germicidal](keyword_germicidal), [air](keyword_air), [hvac](keyword_hvac)
+* [ventilation](keyword_ventilation), [airborne infection](keyword_airborne_infection), [uv](keyword_uv), [covid-19](keyword_covid-19), [ultraviolet](keyword_ultraviolet), [disinfection](keyword_disinfection), [tuberculosis](keyword_tuberculosis), [transmission](keyword_transmission), [germicidal](keyword_germicidal), [infectious](keyword_infectious), mechanical ventilation, [air](keyword_air), [environ](keyword_environ), [airborne transmission](keyword_airborne_transmission), [tb](keyword_tb)
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 ## Abstract
 

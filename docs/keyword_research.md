@@ -10,6 +10,9 @@
 
 ## Top 10 articles for __research__
 * world_green_building_council_health_2014 ([world_green_building_council_health_2014](article_world_green_building_council_health_2014))
+* How COVID-19 Could Accelerate the Adoption of
+New Retail Technologies and Enhance the
+(E-)Servicescape ([willems_how_2021](article_willems_how_2021))
 * Impact of COVID-19 on IoT Adoption in Healthcare,
 Smart Homes, Smart Buildings, Smart Cities,
 Transportation and Industrial IoT ([umair_impact_2021](article_umair_impact_2021))
@@ -26,7 +29,5 @@ Best Practices, Impacts, and Future Research
 Directions ([assaad_guidelines_2021](article_assaad_guidelines_2021))
 * The City Under COVID‐19: Podcasting As
 Digital Methodology ([rogers_city_2020](article_rogers_city_2020))
-* Seeing the invisible hand: Underlying effects of
-COVID-19 on tourists’ behavioral patterns ([li_seeing_2020](article_li_seeing_2020))
-* COVID-19 and Green Housing: A Review of
-Relevant Literature ([kaklauskas_covid-19_2021](article_kaklauskas_covid-19_2021))
+* Respiratory pandemics, urban planning and design: A
+multidisciplinary rapid review of the literature ([harris_respiratory_2022](article_harris_respiratory_2022))

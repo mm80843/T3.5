@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[virus](keyword_virus)
+* [graphene](keyword_graphene), [virus](keyword_virus), [antimicrobial](keyword_antimicrobial), [antiviral](keyword_antiviral), [mater](keyword_mater), [vaccine](keyword_vaccine), [covid-19](keyword_covid-19), [nanomaterial](keyword_nanomaterial), [antibacterial](keyword_antibacterial), [sar cov 2](keyword_sar_cov_2), interface, graphene oxide, [chem](keyword_chem), [coronavirus](keyword_coronavirus), gbns
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 
 ## Concepts

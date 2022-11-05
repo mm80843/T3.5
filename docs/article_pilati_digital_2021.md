@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[simulation](keyword_simulation), [vaccination](keyword_vaccination), [pandemic](keyword_pandemic)
+* [simulation model](keyword_simulation_model), [simulation](keyword_simulation), [digital twin](keyword_digital_twin), [nurse](keyword_nurse), [vaccine](keyword_vaccine), [npat](keyword_npat), [covid-19](keyword_covid-19), [smartphone](keyword_smartphone), [dashboard](keyword_dashboard), [statistical distribution](keyword_statistical_distribution), queue, inoculation phase, [vaccination](keyword_vaccination), [pandemic](keyword_pandemic), [system](keyword_system)
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 ## Abstract
 

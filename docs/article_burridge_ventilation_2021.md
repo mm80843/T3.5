@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[ventilation](keyword_ventilation), [infection](keyword_infection), [aerosol](keyword_aerosol), [droplet](keyword_droplet), [virus](keyword_virus), [transmission](keyword_transmission), [air](keyword_air)
+* [ventilation](keyword_ventilation), [aerosol](keyword_aerosol), [infection](keyword_infection), [droplet](keyword_droplet), [face mask](keyword_face_mask), [virus](keyword_virus), [environ](keyword_environ), [sar cov 2](keyword_sar_cov_2), [covid-19](keyword_covid-19), [transmission](keyword_transmission), [cough](keyword_cough), [mask](keyword_mask), rspa proc, [air](keyword_air), indoor space
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 ## Abstract
 

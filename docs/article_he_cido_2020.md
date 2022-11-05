@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[ontology](keyword_ontology), [drug](keyword_drug), [china](keyword_china), [coronavirus](keyword_coronavirus), [gene](keyword_gene), [disease](keyword_disease)
+* [ontology](keyword_ontology), [covid-19](keyword_covid-19), [cido](keyword_cido), [guiyang](keyword_guiyang), [vaccine](keyword_vaccine), [guizhou](keyword_guizhou), [drug](keyword_drug), [biome](keyword_biome), [china](keyword_china), [gene](keyword_gene), [coronavirus](keyword_coronavirus), [disease](keyword_disease), [coronavirus disease](keyword_coronavirus_disease), scientific datum, bioinform
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 ## Abstract
 

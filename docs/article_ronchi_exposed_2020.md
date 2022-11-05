@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[pandemic](keyword_pandemic), [model](keyword_model), [agent](keyword_agent), [simulation](keyword_simulation), [build](keyword_build), [disease](keyword_disease)
+* [crowd model](keyword_crowd_model), [pandemic](keyword_pandemic), [occupant exposure](keyword_occupant_exposure), [model](keyword_model), [exposure](keyword_exposure), [risk assessment](keyword_risk_assessment), [expose](keyword_expose), [disease transmission](keyword_disease_transmission), [simulation](keyword_simulation), [agent](keyword_agent), [build](keyword_build), microscopic crowd model, exposure time, [disease](keyword_disease), crowd management
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 
 ## Concepts

@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[infection](keyword_infection), [ventilation](keyword_ventilation), [hospital](keyword_hospital), [virus](keyword_virus), [build](keyword_build), [transmission](keyword_transmission), [health](keyword_health), [aerosol](keyword_aerosol)
+* [infection](keyword_infection), [ventilation](keyword_ventilation), [covid-19](keyword_covid-19), [hospital](keyword_hospital), [virus](keyword_virus), [environ](keyword_environ), [build](keyword_build), [mater](keyword_mater), [architect](keyword_architect), [transmission](keyword_transmission), [sar cov 2](keyword_sar_cov_2), [infectious disease](keyword_infectious_disease), [new south wale](keyword_new_south_wale), [health](keyword_health), [aerosol](keyword_aerosol)
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 ## Abstract
 

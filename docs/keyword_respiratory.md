@@ -30,9 +30,5 @@ Environment of Office Buildings and Spaces ([phapant_covid-19_2021](article_phap
 * Ten questions concerning occupant health in buildings
 during normal operations and extreme events including the
 COVID-19 pandemic ([awada_ten_2021](article_awada_ten_2021))
-* Designing a Multi-Agent Occupant Simulation
-System to Support Facility Planning and Analysis
-for COVID-19 ([lee_designing_2021](article_lee_designing_2021))
-* Mobility Behaviour in View of the Impact of the
-COVID-19 Pandemic—Public Transport Users in
-Gdansk Case Study ([przybylowski_mobility_2021](article_przybylowski_mobility_2021))
+* ashrae_ashrae_2022 ([ashrae_ashrae_2022](article_ashrae_ashrae_2022))
+* p15-lee-vor ([p15-lee-vor](article_p15-lee-vor))

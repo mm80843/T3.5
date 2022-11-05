@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[pandemic](keyword_pandemic), [city](keyword_city), [knowledge](keyword_knowledge)
+* [covid-19](keyword_covid-19), [route](keyword_route), [pandemic](keyword_pandemic), [online](keyword_online), [danger model](keyword_danger_model), [city](keyword_city), [amenity](keyword_amenity), [spain](keyword_spain), [vulnerability](keyword_vulnerability), [scone](keyword_scone), [node](keyword_node), context, [school](keyword_school), [knowledge](keyword_knowledge), [child](keyword_child)
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 ## Abstract
 

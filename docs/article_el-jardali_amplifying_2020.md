@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[pandemic](keyword_pandemic), [policy](keyword_policy), [research](keyword_research), [crisis](keyword_crisis), [misinformation](keyword_misinformation)
+* [pandemic](keyword_pandemic), [policy](keyword_policy), [public health](keyword_public_health), [evidence](keyword_evidence), [covid-19](keyword_covid-19), [covid 19 pandemic](keyword_covid_19_pandemic), [research](keyword_research), [public health crisis](keyword_public_health_crisis), [el jardali](keyword_el_jardali), [fake news](keyword_fake_news), [crisis](keyword_crisis), kt platform, jardali, practice, syst
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 ## Abstract
 

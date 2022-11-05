@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[housing](keyword_housing), [health](keyword_health), [pandemic](keyword_pandemic), [home](keyword_home)
+* [canada](keyword_canada), [covid-19](keyword_covid-19), [sleep](keyword_sleep), [housing](keyword_housing), [balcony](keyword_balcony), [toronto](keyword_toronto), [health](keyword_health), [home](keyword_home), [pandemic](keyword_pandemic), [wellbeing](keyword_wellbeing), [thermal comfort](keyword_thermal_comfort), [kitchen](keyword_kitchen), [apartment](keyword_apartment), apartment housing, [mental health](keyword_mental_health)
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 ## Abstract
 

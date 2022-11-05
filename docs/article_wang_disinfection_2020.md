@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[disinfection](keyword_disinfection), [wastewater](keyword_wastewater), [china](keyword_china), [chlorine](keyword_chlorine), [microorganism](keyword_microorganism)
+* [disinfection](keyword_disinfection), [wastewater](keyword_wastewater), [china](keyword_china), [chlorine](keyword_chlorine), [chlorine dioxide](keyword_chlorine_dioxide), [environ](keyword_environ), [hospital waste](keyword_hospital_waste), [disinfectant](keyword_disinfectant), [sodium hypochlorite](keyword_sodium_hypochlorite), [microorganism](keyword_microorganism), incineration, medical waste, [sar cov 2](keyword_sar_cov_2), wastewater treatment, environmental pollution
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 
 ## Concepts

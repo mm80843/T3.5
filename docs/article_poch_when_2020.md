@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[pandemic](keyword_pandemic), [wastewater](keyword_wastewater), [water](keyword_water), [infrastructure](keyword_infrastructure), [economic](keyword_economic)
+* [environ](keyword_environ), [covid 19 pandemic](keyword_covid_19_pandemic), [pandemic](keyword_pandemic), [wastewater](keyword_wastewater), [covid-19](keyword_covid-19), [write](keyword_write), [water](keyword_water), [digitalisation](keyword_digitalisation), [original draft](keyword_original_draft), [infrastructure](keyword_infrastructure), water system, [economic](keyword_economic), digital revolution, water infrastructure, [total environ](keyword_total_environ)
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 
 ## Concepts

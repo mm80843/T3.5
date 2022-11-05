@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[virus](keyword_virus), [influenza](keyword_influenza)
+* [copper](keyword_copper), [virus](keyword_virus), [stainless steel](keyword_stainless_steel), [covid-19](keyword_covid-19), [cold spray](keyword_cold_spray), [coating](keyword_coating), [viricidal](keyword_viricidal), [push plate](keyword_push_plate), [sar cov 2](keyword_sar_cov_2), [positive infection control](keyword_positive_infection_control), steel, [melbourne](keyword_melbourne), copper alloy, van doremalen, [influenza](keyword_influenza)
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 
 ## Concepts

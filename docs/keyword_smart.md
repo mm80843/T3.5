@@ -24,10 +24,10 @@ of Pandemic-Resilient Homes ([elrayies_prophylactic_2022](article_elrayies_proph
 * Future (post-COVID) digital, smart and sustainable
 cities in the wake of 6G: Digital twins, immersive
 realities and new urban economies ([allam_future_2021](article_allam_future_2021))
+* realdania_refleksioner_2022_EN ([realdania_refleksioner_2022_EN](article_realdania_refleksioner_2022_EN))
 * COVID-ABS: An agent-based model of COVID-19
 epidemic to simulate health and economic effects of social
 distancing interventions ([silva_covid-abs_2020](article_silva_covid-abs_2020))
-* realdania_refleksioner_2022_EN ([realdania_refleksioner_2022_EN](article_realdania_refleksioner_2022_EN))
 * Ten questions concerning occupant health in buildings
 during normal operations and extreme events including the
 COVID-19 pandemic ([awada_ten_2021](article_awada_ten_2021))

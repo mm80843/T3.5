@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[pandemic](keyword_pandemic), [city](keyword_city), [china](keyword_china), [design](keyword_design), [wuhan](keyword_wuhan), [influenza](keyword_influenza), [mobility](keyword_mobility)
+* [pandemic](keyword_pandemic), [city](keyword_city), [urban planning](keyword_urban_planning), [design](keyword_design), [china](keyword_china), [covid-19](keyword_covid-19), [wuhan](keyword_wuhan), [influenza](keyword_influenza), [methodology](keyword_methodology), scitech, [public health](keyword_public_health), scopus, [mobility](keyword_mobility), systematic review, pandemic influenza
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 ## Abstract
 

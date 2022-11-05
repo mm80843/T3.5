@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[pandemic](keyword_pandemic), [build](keyword_build), [virus](keyword_virus), [health](keyword_health)
+* [pandemic](keyword_pandemic), [breeam](keyword_breeam), [indicator](keyword_indicator), [pandemic resilient indicator](keyword_pandemic_resilient_indicator), [covid-19](keyword_covid-19), [leed](keyword_leed), [casbee](keyword_casbee), [sustainability](keyword_sustainability), [comfort](keyword_comfort), [build](keyword_build), [virus](keyword_virus), [health safety](keyword_health_safety), [environ](keyword_environ), air quality, [health](keyword_health)
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 ## Abstract
 

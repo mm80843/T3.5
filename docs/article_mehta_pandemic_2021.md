@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[coronavirus](keyword_coronavirus), [news](keyword_news), [analytic](keyword_analytic), [pandemic](keyword_pandemic), [china](keyword_china), [data](keyword_data)
+* [covid-19](keyword_covid-19), [big datum](keyword_big_datum), [artificial intelligence](keyword_artificial_intelligence), [coronavirus](keyword_coronavirus), [ai](keyword_ai), [analytic](keyword_analytic), [news](keyword_news), [pandemic](keyword_pandemic), [india](keyword_india), [china](keyword_china), [south korea](keyword_south_korea), [data](keyword_data), big datum analytic, computer science, william shakespeare
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 ## Abstract
 

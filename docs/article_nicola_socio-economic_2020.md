@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[coronavirus](keyword_coronavirus), [china](keyword_china), [pandemic](keyword_pandemic), [news](keyword_news)
+* [internet](keyword_internet), [covid-19](keyword_covid-19), [united kingdom](keyword_united_kingdom), [coronavirus](keyword_coronavirus), [china](keyword_china), [europe](keyword_europe), [united states](keyword_united_states), [germany](keyword_germany), [pandemic](keyword_pandemic), [government](keyword_government), asian market, [new york city](keyword_new_york_city), wellcome, recession, [social distancing](keyword_social_distancing)
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 
 ## Concepts

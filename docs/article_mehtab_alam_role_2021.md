@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[wuhan](keyword_wuhan), [china](keyword_china), [coronavirus](keyword_coronavirus), [hubei](keyword_hubei), [taiwan](keyword_taiwan), [infection](keyword_infection)
+* [wuhan](keyword_wuhan), [china](keyword_china), [coronavirus](keyword_coronavirus), [hubei](keyword_hubei), [australia](keyword_australia), [hong kong](keyword_hong_kong), [covid-19](keyword_covid-19), [taiwan](keyword_taiwan), [canada](keyword_canada), [infection](keyword_infection), bahrain, [symptom](keyword_symptom), usa, [technology](keyword_technology), [south korea](keyword_south_korea)
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 ## Abstract
 

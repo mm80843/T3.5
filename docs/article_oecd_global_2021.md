@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[oecd](keyword_oecd), [china](keyword_china), [country](keyword_country)
+* [oecd](keyword_oecd), [supply chain](keyword_supply_chain), [shock](keyword_shock), [gvcs](keyword_gvcs), [united states](keyword_united_states), [demand](keyword_demand), [supply](keyword_supply), [interconnect regime](keyword_interconnect_regime), [china](keyword_china), [export](keyword_export), trade, [country](keyword_country), production, supplier, import
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 
 ## Concepts

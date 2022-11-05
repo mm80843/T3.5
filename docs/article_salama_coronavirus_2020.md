@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[coronavirus](keyword_coronavirus), [city](keyword_city), [pandemic](keyword_pandemic)
+* [coronavirus](keyword_coronavirus), [architecture](keyword_architecture), [city](keyword_city), [united kingdom](keyword_united_kingdom), [urbanism](keyword_urbanism), [social distancing](keyword_social_distancing), [covid-19](keyword_covid-19), [urban design](keyword_urban_design), [new york](keyword_new_york), [pandemic](keyword_pandemic), reference source, [evidence](keyword_evidence), [infectious disease](keyword_infectious_disease), [architect](keyword_architect), [china](keyword_china)
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 ## Abstract
 

@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[mobility](keyword_mobility), [pandemic](keyword_pandemic), [safety](keyword_safety), [transport](keyword_transport)
+* [public transport](keyword_public_transport), [transp](keyword_transp), [mobility](keyword_mobility), [pandemic](keyword_pandemic), [perspective](keyword_perspective), [covid-19](keyword_covid-19), [interdiscip](keyword_interdiscip), [gdansk](keyword_gdansk), [safety](keyword_safety), [united states](keyword_united_states), [covid 19 pandemic](keyword_covid_19_pandemic), passenger, [poland](keyword_poland), interdiscip interdiscip, [transport](keyword_transport)
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 ## Abstract
 

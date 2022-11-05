@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[wastewater](keyword_wastewater), [china](keyword_china), [virus](keyword_virus), [sewage](keyword_sewage), [disinfection](keyword_disinfection), [hospital](keyword_hospital), [wuhan](keyword_wuhan)
+* [covid-19](keyword_covid-19), [environ](keyword_environ), [wastewater](keyword_wastewater), [china](keyword_china), [virus](keyword_virus), [sewage](keyword_sewage), [total environ](keyword_total_environ), [disinfection](keyword_disinfection), [spain](keyword_spain), [hospital](keyword_hospital), [italy](keyword_italy), jakarta, [antibiotic](keyword_antibiotic), [air pollution](keyword_air_pollution), [wuhan](keyword_wuhan)
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 
 ## Concepts

@@ -21,11 +21,13 @@ for COVID-19: a focus on wintertime ([burridge_ventilation_2021](article_burridg
 Ionization to Prevent Tuberculosis Transmission ([escombe_upper-room_2009](article_escombe_upper-room_2009))
 * Digital Twin of COVID-19 Mass Vaccination
 Centers ([pilati_digital_2021](article_pilati_digital_2021))
-* Assessment method for new sustainability indicators
-providing pandemic resilience for residential buildings ([tokazhanov_assessment_2021](article_tokazhanov_assessment_2021))
-* A Review on Building Design as a Biomedical
-System for Preventing COVID-19 Pandemic ([amran_review_2022](article_amran_review_2022))
-* An Intelligent IEQ Monitoring and Feedback
-System: Development and Applications ([geng_intelligent_2021](article_geng_intelligent_2021))
 * Scalable IoT Architecture for Monitoring IEQ
 Conditions in Public and Private Buildings ([calvo_scalable_2022](article_calvo_scalable_2022))
+* A Review on Building Design as a Biomedical
+System for Preventing COVID-19 Pandemic ([amran_review_2022](article_amran_review_2022))
+* The effect of a redesigned floor plan, occupant density
+and the quality of indoor climate on the cost of space,
+productivity and sick leave in an office building–A
+case study ([saari_effect_2006](article_saari_effect_2006))
+* Assessment method for new sustainability indicators
+providing pandemic resilience for residential buildings ([tokazhanov_assessment_2021](article_tokazhanov_assessment_2021))

@@ -12,12 +12,12 @@
 * Disinfection technology of hospital wastes and wastewater:
 Suggestions for disinfection strategy during coronavirus
 Disease 2019 (COVID-19) pandemic in China ([wang_disinfection_2020](article_wang_disinfection_2020))
-* SARS-CoV-2 RNA detection of hospital isolation wards
-hygiene monitoring during the Coronavirus Disease 2019
-outbreak in a Chinese hospital ([wang_sars-cov-2_2020](article_wang_sars-cov-2_2020))
 * Applications of ultraviolet germicidal irradiation
 disinfection in health care facilities: Effective
 adjunct, but not stand-alone technology ([memarzadeh_applications_2010](article_memarzadeh_applications_2010))
+* SARS-CoV-2 RNA detection of hospital isolation wards
+hygiene monitoring during the Coronavirus Disease 2019
+outbreak in a Chinese hospital ([wang_sars-cov-2_2020](article_wang_sars-cov-2_2020))
 * Methods for air cleaning and protection of building
 occupants from airborne pathogens ([bolashikov_methods_2009](article_bolashikov_methods_2009))
 * Upper-room ultraviolet air disinfection might help to

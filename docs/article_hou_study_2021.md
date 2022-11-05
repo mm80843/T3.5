@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[office](keyword_office), [management](keyword_management), [pandemic](keyword_pandemic), [business](keyword_business)
+* [covid 19 pandemic](keyword_covid_19_pandemic), [workplace](keyword_workplace), [organisation](keyword_organisation), [workplace management](keyword_workplace_management), [netherland](keyword_netherland), [business strategy](keyword_business_strategy), [workplace modification](keyword_workplace_modification), [office](keyword_office), [management](keyword_management), [crem](keyword_crem), [pandemic](keyword_pandemic), [social distancing](keyword_social_distancing), interview, [risk management](keyword_risk_management), [business](keyword_business)
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 ## Abstract
 

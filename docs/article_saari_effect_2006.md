@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[ventilation](keyword_ventilation), [build](keyword_build), [office](keyword_office)
+* [ventilation](keyword_ventilation), [build](keyword_build), [case building](keyword_case_building), [workstation](keyword_workstation), [indoor climate](keyword_indoor_climate), [office](keyword_office), saari, [open plan](keyword_open_plan), [ventilation rate](keyword_ventilation_rate), [air conditioning](keyword_air_conditioning), space index, respiratory disease, closed plan, [finnish](keyword_finnish), open plan office
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 
 ## Concepts

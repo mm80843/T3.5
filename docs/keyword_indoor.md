@@ -13,11 +13,11 @@
 * Mechanistic insights into the effect of humidity on
 airborne influenza virus survival, transmission and
 incidence ([marr_mechanistic_2019](article_marr_mechanistic_2019))
+* A Review on Building Design as a Biomedical
+System for Preventing COVID-19 Pandemic ([amran_review_2022](article_amran_review_2022))
 * Characterization and performance evaluation of a
 full-scale activated carbon-based dynamic botanical air
 filtration system for improving indoor air quality ([wang_characterization_2011](article_wang_characterization_2011))
-* A Review on Building Design as a Biomedical
-System for Preventing COVID-19 Pandemic ([amran_review_2022](article_amran_review_2022))
 * A comprehensive review on indoor air quality monitoring
 systems for enhanced public health ([saini_comprehensive_2020](article_saini_comprehensive_2020))
 * Association between indoor-outdoor green features and
@@ -31,5 +31,6 @@ for COVID-19: a focus on wintertime ([burridge_ventilation_2021](article_burridg
 Achieving Healthy Buildings ([navaratnam_designing_2022](article_navaratnam_designing_2022))
 * Prophylactic Architecture: Formulating the Concept
 of Pandemic-Resilient Homes ([elrayies_prophylactic_2022](article_elrayies_prophylactic_2022))
-* Methods for air cleaning and protection of building
-occupants from airborne pathogens ([bolashikov_methods_2009](article_bolashikov_methods_2009))
+* Biophilic design in architecture and its contributions to
+health, well-being, and sustainability: A critical
+review ([zhong_biophilic_2022](article_zhong_biophilic_2022))

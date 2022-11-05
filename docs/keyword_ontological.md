@@ -12,11 +12,6 @@
 * The three modes of existence of the pandemic smart city ([soderstrom_three_2021](article_soderstrom_three_2021))
 * The COVID-19 epidemiology and monitoring ontology ([queralt-rosinach_covid-19_2021](article_queralt-rosinach_covid-19_2021))
 * RUDDS_bioRxiv_update ([RUDDS_bioRxiv_update](article_RUDDS_bioRxiv_update))
-* When the fourth water and digital revolution encountered
-COVID-19 ([poch_when_2020](article_poch_when_2020))
-* p15-lee-vor ([p15-lee-vor](article_p15-lee-vor))
-* Effects to Construction Project Management
-Impacted Circular Economic of Covid-19 Pandemic ([paikan_effects_2021](article_paikan_effects_2021))
 * Impacts of COVID-19 on Health and Safety of
 Workforce in Construction Industry ([pamidimukkala_impacts_2021](article_pamidimukkala_impacts_2021))
 * Health, Economic and Social Development Challenges
@@ -26,3 +21,9 @@ and Interconnected Issues ([panneer_health_2022](article_panneer_health_2022))
 With Chronic Exposure to Lower Air Quality ([pansini_covid-19_2021](article_pansini_covid-19_2021))
 * Continuous IEQ monitoring system: Context and
 development ([parkinson_continuous_2019](article_parkinson_continuous_2019))
+* Assessment of Building Automation and Control
+Systems in Danish Healthcare Facilities in the
+COVID-19 Era ([pedersen_assessment_2022](article_pedersen_assessment_2022))
+* How our homes impact our health: using a COVID-19
+informed approach to examine urban apartment housing ([peters_how_2020](article_peters_how_2020))
+* Mental Health and the Covid-19 Pandemic ([pfefferbaum_mental_2020](article_pfefferbaum_mental_2020))

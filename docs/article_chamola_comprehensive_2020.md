@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[china](keyword_china), [blockchain](keyword_blockchain), [coronavirus](keyword_coronavirus), [pandemic](keyword_pandemic), [virus](keyword_virus)
+* [online](keyword_online), [covid-19](keyword_covid-19), [covid 19 pandemic](keyword_covid_19_pandemic), [china](keyword_china), [blockchain](keyword_blockchain), [vaccine](keyword_vaccine), [coronavirus](keyword_coronavirus), [5g](keyword_5g), [pandemic](keyword_pandemic), [india](keyword_india), [virus](keyword_virus), covid 19 outbreak, [lockdown](keyword_lockdown), [drone](keyword_drone), [world health organization](keyword_world_health_organization)
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 ## Abstract
 

@@ -10,8 +10,6 @@
 
 ## Top 10 articles for __admit__
 * RUDDS_bioRxiv_update ([RUDDS_bioRxiv_update](article_RUDDS_bioRxiv_update))
-* COVID-19: Lessons for an Urban(izing) World ([acuto_covid-19_2020](article_acuto_covid-19_2020))
-* p15-lee-vor ([p15-lee-vor](article_p15-lee-vor))
 * Effects to Construction Project Management
 Impacted Circular Economic of Covid-19 Pandemic ([paikan_effects_2021](article_paikan_effects_2021))
 * Impacts of COVID-19 on Health and Safety of
@@ -28,3 +26,6 @@ Systems in Danish Healthcare Facilities in the
 COVID-19 Era ([pedersen_assessment_2022](article_pedersen_assessment_2022))
 * How our homes impact our health: using a COVID-19
 informed approach to examine urban apartment housing ([peters_how_2020](article_peters_how_2020))
+* Mental Health and the Covid-19 Pandemic ([pfefferbaum_mental_2020](article_pfefferbaum_mental_2020))
+* COVID-19 Experience Transforming the Protective
+Environment of Office Buildings and Spaces ([phapant_covid-19_2021](article_phapant_covid-19_2021))

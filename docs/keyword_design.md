@@ -19,9 +19,9 @@ multidisciplinary rapid review of the literature ([harris_respiratory_2022](arti
 Mitigation Measures for Combating the Transmission
 of COVID-19 Pandemic in Buildings Under
 Facilities Management Services ([sarvari_global_2022](article_sarvari_global_2022))
-* world_green_building_council_health_2014 ([world_green_building_council_health_2014](article_world_green_building_council_health_2014))
 * Navigating Climate Change: Rethinking the Role of
 Buildings ([cole_navigating_2020](article_cole_navigating_2020))
+* world_green_building_council_health_2014 ([world_green_building_council_health_2014](article_world_green_building_council_health_2014))
 * afrin_covid-19_2021 ([afrin_covid-19_2021](article_afrin_covid-19_2021))
 * Antivirus-built environment: Lessons learned from
 Covid-19 pandemic ([megahed_antivirus-built_2020](article_megahed_antivirus-built_2020))

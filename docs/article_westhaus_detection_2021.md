@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[wastewater](keyword_wastewater), [gene](keyword_gene), [coronavirus](keyword_coronavirus), [virus](keyword_virus), [pcr](keyword_pcr), [rna](keyword_rna), [infection](keyword_infection)
+* [sar cov 2](keyword_sar_cov_2), [wastewater](keyword_wastewater), [gene](keyword_gene), [environ](keyword_environ), [coronavirus](keyword_coronavirus), [solid phase](keyword_solid_phase), [virus](keyword_virus), [pcr](keyword_pcr), [m gene](keyword_m_gene), [rna](keyword_rna), aqueous, [rt qpcr](keyword_rt_qpcr), [germany](keyword_germany), [wwtp](keyword_wwtp), [infection](keyword_infection)
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 
 ## Concepts

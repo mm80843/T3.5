@@ -6,7 +6,13 @@
 
 ## Keywords
 
+* [pandemic](keyword_pandemic), [covid-19](keyword_covid-19), [marketing](keyword_marketing), [customer](keyword_customer), [consumer](keyword_consumer), [business](keyword_business), [online](keyword_online), [retail](keyword_retail), [service](keyword_service), [food truck](keyword_food_truck), [retailer](keyword_retailer), brand, [covid 19 pandemic](keyword_covid_19_pandemic), [singapore](keyword_singapore), [employee](keyword_employee)
 
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 ## Abstract
 

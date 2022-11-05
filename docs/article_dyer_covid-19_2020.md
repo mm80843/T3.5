@@ -11,7 +11,13 @@ lets staff don PPE in a protected environment.
 
 ## Keywords
 
-[hospital](keyword_hospital), [pandemic](keyword_pandemic), [room](keyword_room)
+* [hospital](keyword_hospital), [negative pressure room](keyword_negative_pressure_room), [pandemic](keyword_pandemic), [star](keyword_star), [ppe](keyword_ppe), [new york](keyword_new_york), [room](keyword_room), [microbenet](keyword_microbenet), [hospital review](keyword_hospital_review), infection prevention, cleveland clinic, [medical personnel](keyword_medical_personnel), [positively pressure anteroom](keyword_positively_pressure_anteroom), isolation room, retrofitting
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 
 ## Concepts

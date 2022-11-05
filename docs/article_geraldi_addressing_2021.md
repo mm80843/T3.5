@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[build](keyword_build), [energy](keyword_energy), [system](keyword_system), [pandemic](keyword_pandemic)
+* [florianopolis](keyword_florianopolis), [build](keyword_build), [nursery school](keyword_nursery_school), [energy consumption](keyword_energy_consumption), [lockdown](keyword_lockdown), [energy use](keyword_energy_use), [elementary school](keyword_elementary_school), [brazil](keyword_brazil), [eui](keyword_eui), [covid-19](keyword_covid-19), [energy](keyword_energy), [energy efficiency](keyword_energy_efficiency), [system](keyword_system), [pandemic](keyword_pandemic), portuguese
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 
 ## Concepts

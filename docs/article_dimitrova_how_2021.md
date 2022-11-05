@@ -10,7 +10,13 @@ pandemic.
 
 ## Keywords
 
-[city](keyword_city)
+* [drone](keyword_drone), [city](keyword_city), [vilnius](keyword_vilnius), [bulgaria](keyword_bulgaria), [europe](keyword_europe), [germany](keyword_germany), [burgas](keyword_burgas), [berlin](keyword_berlin), [italian capital](keyword_italian_capital), [european commission](keyword_european_commission), [lithuania](keyword_lithuania), [fight against covid 19](keyword_fight_against_covid_19), tcf, [coronavirus pandemic](keyword_coronavirus_pandemic), eleventh president
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 
 ## Concepts

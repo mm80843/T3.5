@@ -7,7 +7,13 @@
 
 ## Keywords
 
-[business](keyword_business), [sme](keyword_sme), [pandemic](keyword_pandemic), [resilience](keyword_resilience), [crisis](keyword_crisis), [research](keyword_research), [policy](keyword_policy)
+* [covid-19](keyword_covid-19), [entrepreneurship](keyword_entrepreneurship), [innovation](keyword_innovation), [business](keyword_business), [sme](keyword_sme), [entrepreneur](keyword_entrepreneur), [creativity](keyword_creativity), [pandemic](keyword_pandemic), [resilience](keyword_resilience), [ecosystem](keyword_ecosystem), [crisis](keyword_crisis), [research](keyword_research), entrepreneurial ecosystem, [tourism](keyword_tourism), [policy](keyword_policy)
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 
 ## Concepts

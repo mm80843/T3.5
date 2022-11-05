@@ -24,7 +24,13 @@ manifested to support a resilient AEC industry.
 
 ## Keywords
 
-[construction](keyword_construction), [resilience](keyword_resilience), [design](keyword_design), [pandemic](keyword_pandemic), [industry](keyword_industry), [information](keyword_information), [engineering](keyword_engineering)
+* [construction](keyword_construction), [covid-19](keyword_covid-19), [resilience](keyword_resilience), [design](keyword_design), [pandemic](keyword_pandemic), [automation](keyword_automation), nassereddine, [aec industry](keyword_aec_industry), [construction industry](keyword_construction_industry), [industry](keyword_industry), [robotic](keyword_robotic), [information](keyword_information), prefabrication, [build environment](keyword_build_environment), bim
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 
 ## Concepts

@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[construction](keyword_construction), [pandemic](keyword_pandemic), [worker](keyword_worker), [effect](keyword_effect)
+* [construction](keyword_construction), [covid-19](keyword_covid-19), [construction worker](keyword_construction_worker), [stakeholder](keyword_stakeholder), [pandemic](keyword_pandemic), [construction sector](keyword_construction_sector), [construction industry](keyword_construction_industry), [subcontractor](keyword_subcontractor), [construction company](keyword_construction_company), [worker](keyword_worker), [cause](keyword_cause), construction project, chile, [effect](keyword_effect), project team
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 ## Abstract
 

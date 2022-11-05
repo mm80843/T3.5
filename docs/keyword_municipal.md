@@ -25,7 +25,9 @@ Brazil ([geraldi_addressing_2021](article_geraldi_addressing_2021))
 * Retail Signage During the COVID-19 Pandemic ([mcneish_retail_2020](article_mcneish_retail_2020))
 * COVID-19 Could Leverage a Sustainable Built
 Environment ([pinheiro_covid-19_2020](article_pinheiro_covid-19_2020))
-* RUDDS_bioRxiv_update ([RUDDS_bioRxiv_update](article_RUDDS_bioRxiv_update))
-* Digital Twin of COVID-19 Mass Vaccination
-Centers ([pilati_digital_2021](article_pilati_digital_2021))
+* Mobility Behaviour in View of the Impact of the
+COVID-19 Pandemic—Public Transport Users in
+Gdansk Case Study ([przybylowski_mobility_2021](article_przybylowski_mobility_2021))
 * pricewaterhousecoopers_its_2021 ([pricewaterhousecoopers_its_2021](article_pricewaterhousecoopers_its_2021))
+* When the fourth water and digital revolution encountered
+COVID-19 ([poch_when_2020](article_poch_when_2020))

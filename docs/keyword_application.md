@@ -30,5 +30,5 @@ Holistic Framework ([arpaci_leveraging_2021](article_arpaci_leveraging_2021))
 System: Development and Applications ([geng_intelligent_2021](article_geng_intelligent_2021))
 * Learning from pandemics: Applying resilience thinking to
 identify priorities for planning urban settlements ([syal_learning_2021](article_syal_learning_2021))
-* COVID19-Routes: A Safe Pedestrian Navigation
-Service ([cantarero_covid19-routes_2021](article_cantarero_covid19-routes_2021))
+* Internet of things (IoT) applications to fight against
+COVID-19 pandemic ([singh_internet_2020](article_singh_internet_2020))

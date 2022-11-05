@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[city](keyword_city), [influenza](keyword_influenza), [epidemic](keyword_epidemic), [population](keyword_population), [neighborhood](keyword_neighborhood), [spread](keyword_spread), [disease](keyword_disease), [simulation](keyword_simulation)
+* [city](keyword_city), [influenza](keyword_influenza), [acc by 4 0](keyword_acc_by_4_0), [epidemic](keyword_epidemic), [international license](keyword_international_license), [population](keyword_population), [neighborhood](keyword_neighborhood), [outbreak](keyword_outbreak), [urban design](keyword_urban_design), [spread](keyword_spread), [disease](keyword_disease), [infectious disease](keyword_infectious_disease), [author funder](keyword_author_funder), [copyright holder](keyword_copyright_holder), [simulation](keyword_simulation)
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 ## Abstract
 

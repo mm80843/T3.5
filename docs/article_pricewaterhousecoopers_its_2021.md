@@ -10,7 +10,13 @@ closer to giving up on the office.
 
 ## Keywords
 
-[office](keyword_office), [employee](keyword_employee), [company](keyword_company)
+* [pwc](keyword_pwc), [office](keyword_office), [remote work](keyword_remote_work), [employee](keyword_employee), [remote work survey](keyword_remote_work_survey), [office space](keyword_office_space), [company](keyword_company), [employer](keyword_employer), [office worker](keyword_office_worker), [culture](keyword_culture), [new york city](keyword_new_york_city), [productivity](keyword_productivity), executive, [manhattan](keyword_manhattan), round
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 
 ## Concepts

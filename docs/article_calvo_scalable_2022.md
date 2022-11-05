@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[sensor](keyword_sensor), [ieq](keyword_ieq)
+* [sensor](keyword_sensor), [ieq](keyword_ieq), [smart ieq](keyword_smart_ieq), [mqtt](keyword_mqtt), [wifi](keyword_wifi), [node](keyword_node), [temperature](keyword_temperature), [sensor nod](keyword_sensor_nod), [cloud](keyword_cloud), monitoring system, [software](keyword_software), arduino, [encyclopedia](keyword_encyclopedia), [iot](keyword_iot), [wikipedia](keyword_wikipedia)
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 ## Abstract
 

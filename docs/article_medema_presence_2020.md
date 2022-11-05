@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[wwtp](keyword_wwtp), [sewage](keyword_sewage), [gene](keyword_gene), [china](keyword_china), [rna](keyword_rna), [environment](keyword_environment)
+* [sar cov 2](keyword_sar_cov_2), [covid-19](keyword_covid-19), [wwtp](keyword_wwtp), [sewage](keyword_sewage), [gene](keyword_gene), [china](keyword_china), [netherland](keyword_netherland), [rna extraction](keyword_rna_extraction), [sar cov 2 rna](keyword_sar_cov_2_rna), [rna](keyword_rna), [environment](keyword_environment), [wuhan](keyword_wuhan), [virus](keyword_virus), [coronavirus](keyword_coronavirus), just accept
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 
 ## Concepts

@@ -9,6 +9,10 @@
 
 
 ## Top 10 articles for __service__
+* How COVID-19 Could Accelerate the Adoption of
+New Retail Technologies and Enhance the
+(E-)Servicescape ([willems_how_2021](article_willems_how_2021))
+* world_bank_world_2022 ([world_bank_world_2022](article_world_bank_world_2022))
 * COVID-19 Could Leverage a Sustainable Built
 Environment ([pinheiro_covid-19_2020](article_pinheiro_covid-19_2020))
 * oecd_covid-19_2021 ([oecd_covid-19_2021](article_oecd_covid-19_2021))
@@ -23,7 +27,3 @@ and Infectious Diseases Representation ([bayoudhi_overview_2021](article_bayoudh
 * Assessment of Building Automation and Control
 Systems in Danish Healthcare Facilities in the
 COVID-19 Era ([pedersen_assessment_2022](article_pedersen_assessment_2022))
-* Mapping research in logistics and supply chain management
-during COVID-19 pandemic ([montoya-torres_mapping_2021](article_montoya-torres_mapping_2021))
-* Seeing the invisible hand: Underlying effects of
-COVID-19 on tourists’ behavioral patterns ([li_seeing_2020](article_li_seeing_2020))

@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[coronavirus](keyword_coronavirus), [pandemic](keyword_pandemic), [share](keyword_share)
+* [social medium](keyword_social_medium), [coronavirus](keyword_coronavirus), [covid-19](keyword_covid-19), [mask](keyword_mask), [cdc](keyword_cdc), [medication](keyword_medication), [pandemic](keyword_pandemic), [handwash](keyword_handwash), [share](keyword_share), [public health](keyword_public_health), m obiala, [prevention](keyword_prevention), [world health organization](keyword_world_health_organization), infodemic, [who](keyword_who)
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 
 ## Concepts

@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[pandemic](keyword_pandemic)
+* [europe](keyword_europe), [covid-19](keyword_covid-19), [egd](keyword_egd), [member state](keyword_member_state), [european union](keyword_european_union), [european](keyword_european), [ec](keyword_ec), [pandemic](keyword_pandemic), [green deal](keyword_green_deal), [european commission](keyword_european_commission), european investment bank, [italy](keyword_italy), ruijter, climate policy, [france](keyword_france)
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 ## Abstract
 

@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[coronavirus](keyword_coronavirus), [robot](keyword_robot), [virus](keyword_virus), [pandemic](keyword_pandemic)
+* [covid-19](keyword_covid-19), [coronavirus](keyword_coronavirus), [face recognition](keyword_face_recognition), [taif university](keyword_taif_university), [thermal imaging](keyword_thermal_imaging), [robot](keyword_robot), [virus](keyword_virus), [online](keyword_online), [infrare](keyword_infrare), [pandemic](keyword_pandemic), [drone](keyword_drone), [sar cov 2](keyword_sar_cov_2), j elec eng, [engineering](keyword_engineering), rehabilitation
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 ## Abstract
 

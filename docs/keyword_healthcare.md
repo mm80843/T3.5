@@ -17,11 +17,11 @@ and the Role of IoT, Drones, AI, Blockchain, and
 5G in Managing its Impact ([chamola_comprehensive_2020](article_chamola_comprehensive_2020))
 * The role of 5G for digital healthcare against COVID-19
 pandemic: Opportunities and challenges ([siriwardhana_role_2021](article_siriwardhana_role_2021))
-* A Review on Building Design as a Biomedical
-System for Preventing COVID-19 Pandemic ([amran_review_2022](article_amran_review_2022))
 * COVID-19 Prevention and Control Measures in
 Workplace Settings: A Rapid Review and
 Meta-Analysis ([ingram_covid-19_2021](article_ingram_covid-19_2021))
+* A Review on Building Design as a Biomedical
+System for Preventing COVID-19 Pandemic ([amran_review_2022](article_amran_review_2022))
 * Management of the COVID-19 pandemic: challenges,
 practices, and organizational support ([hossny_management_2022](article_hossny_management_2022))
 * Mobile Technology Solution for COVID-19:

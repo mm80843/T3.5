@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[china](keyword_china), [disinfection](keyword_disinfection), [sewage](keyword_sewage), [respiratory](keyword_respiratory), [coronavirus](keyword_coronavirus), [hospital](keyword_hospital), [infection](keyword_infection)
+* [sar cov 2](keyword_sar_cov_2), [disinfection](keyword_disinfection), [china](keyword_china), [sewage](keyword_sewage), [hospital](keyword_hospital), [respiratory](keyword_respiratory), [coronavirus](keyword_coronavirus), [isolation ward](keyword_isolation_ward), [covid-19](keyword_covid-19), xu xw, [zhejiang university](keyword_zhejiang_university), [infection](keyword_infection), mer, mechanical ventilation, nightstand
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 
 ## Concepts

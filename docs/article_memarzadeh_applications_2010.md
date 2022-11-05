@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[uvgi](keyword_uvgi), [ventilation](keyword_ventilation), [germicidal](keyword_germicidal), [disinfection](keyword_disinfection), [ultraviolet](keyword_ultraviolet), [bacteria](keyword_bacteria), [microorganism](keyword_microorganism), [virus](keyword_virus), [hospital](keyword_hospital), [influenza](keyword_influenza), [lamp](keyword_lamp)
+* [uvgi](keyword_uvgi), [disinfection](keyword_disinfection), [ventilation](keyword_ventilation), [germicidal](keyword_germicidal), [ultraviolet](keyword_ultraviolet), [bacteria](keyword_bacteria), [microorganism](keyword_microorganism), [tuberculosis](keyword_tuberculosis), [pathogen](keyword_pathogen), [virus](keyword_virus), [hospital](keyword_hospital), uv lamp, [influenza](keyword_influenza), [uv-c](keyword_uv-c), [droplet](keyword_droplet)
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 
 ## Concepts

@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[pandemic](keyword_pandemic)
+* [breeam](keyword_breeam), [pandemic](keyword_pandemic), [gap level](keyword_gap_level), [leed](keyword_leed), [subcategory](keyword_subcategory), [waste management](keyword_waste_management), [gbc rs](keyword_gbc_rs), [casbee](keyword_casbee), [sustainability](keyword_sustainability), [health safety](keyword_health_safety), sustainable, drink water, tap water, pandemic sustainable indicator, wastewater management
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 
 ## Concepts

@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[infection](keyword_infection), [coronavirus](keyword_coronavirus), [hospital](keyword_hospital), [healthcare](keyword_healthcare), [design](keyword_design)
+* [infectious disease](keyword_infectious_disease), [infection](keyword_infection), [hospital](keyword_hospital), [coronavirus](keyword_coronavirus), [infection prevention and control](keyword_infection_prevention_and_control), [architect](keyword_architect), [sunlight](keyword_sunlight), [corridor](keyword_corridor), [covid-19](keyword_covid-19), [natural ventilation](keyword_natural_ventilation), [healthcare](keyword_healthcare), [architectural design](keyword_architectural_design), [architecture](keyword_architecture), [design](keyword_design), [infection control](keyword_infection_control)
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 
 ## Concepts

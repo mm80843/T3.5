@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[pandemic](keyword_pandemic), [control](keyword_control), [china](keyword_china), [wuhan](keyword_wuhan)
+* [5g](keyword_5g), [de spatialization](keyword_de_spatialization), [covid-19](keyword_covid-19), [pandemic prevention and control](keyword_pandemic_prevention_and_control), [5 g network](keyword_5_g_network), [spatialization](keyword_spatialization), [pandemic](keyword_pandemic), [wikipedia](keyword_wikipedia), [encyclopedia](keyword_encyclopedia), [control](keyword_control), pandemic control, [china](keyword_china), [wuhan](keyword_wuhan), [telemedicine](keyword_telemedicine), embb
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 ## Abstract
 

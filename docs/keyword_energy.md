@@ -24,9 +24,9 @@ and COVID-19 infection in buildings: A case study of
 university building ([mokhtari_effect_2021](article_mokhtari_effect_2021))
 * Prophylactic Architecture: Formulating the Concept
 of Pandemic-Resilient Homes ([elrayies_prophylactic_2022](article_elrayies_prophylactic_2022))
+* rtpi_urban_2021 ([rtpi_urban_2021](article_rtpi_urban_2021))
 * Occupants’ behavior and activity patterns influencing
 the energy consumption in the Kuwaiti residences ([al-mumin_occupants_2003](article_al-mumin_occupants_2003))
-* rtpi_urban_2021 ([rtpi_urban_2021](article_rtpi_urban_2021))
 * Scalable IoT Architecture for Monitoring IEQ
 Conditions in Public and Private Buildings ([calvo_scalable_2022](article_calvo_scalable_2022))
 * realdania_refleksioner_2022_EN ([realdania_refleksioner_2022_EN](article_realdania_refleksioner_2022_EN))

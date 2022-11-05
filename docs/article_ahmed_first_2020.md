@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[wastewater](keyword_wastewater), [assay](keyword_assay), [virus](keyword_virus), [rna](keyword_rna)
+* [wastewater](keyword_wastewater), [sar cov 2](keyword_sar_cov_2), [australia](keyword_australia), [environ](keyword_environ), [assay](keyword_assay), [rt qpcr](keyword_rt_qpcr), [write](keyword_write), [virus](keyword_virus), [n_sarbeco](keyword_n_sarbeco), [microbiol](keyword_microbiol), [rna](keyword_rna), resource, usa, [covid-19](keyword_covid-19), [coronavirus](keyword_coronavirus)
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 
 ## Concepts

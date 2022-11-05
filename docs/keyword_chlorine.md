@@ -17,20 +17,20 @@ facilities: A case study on a health club in Saudi
 Arabia ([ibrahim_assessment_2022](article_ibrahim_assessment_2022))
 * Sustainability of Coronavirus on Different
 Surfaces ([suman_sustainability_2020](article_suman_sustainability_2020))
+* SARS-CoV-2 RNA detection of hospital isolation wards
+hygiene monitoring during the Coronavirus Disease 2019
+outbreak in a Chinese hospital ([wang_sars-cov-2_2020](article_wang_sars-cov-2_2020))
 * An environmental and health perspective for COVID-19
 outbreak: Meteorology and air quality influence, sewage
 epidemiology indicator, hospitals disinfection, drug
 therapies and recommendations ([barcelo_environmental_2020](article_barcelo_environmental_2020))
-* SARS-CoV-2 RNA detection of hospital isolation wards
-hygiene monitoring during the Coronavirus Disease 2019
-outbreak in a Chinese hospital ([wang_sars-cov-2_2020](article_wang_sars-cov-2_2020))
 * Prophylactic Architecture: Formulating the Concept
 of Pandemic-Resilient Homes ([elrayies_prophylactic_2022](article_elrayies_prophylactic_2022))
-* COVID-19 Could Leverage a Sustainable Built
-Environment ([pinheiro_covid-19_2020](article_pinheiro_covid-19_2020))
 * Wastewater-Based Epidemiology to monitor COVID-19
 outbreak: Present and future diagnostic methods to be in
 your radar ([barcelo_wastewater-based_2020](article_barcelo_wastewater-based_2020))
+* COVID-19 Could Leverage a Sustainable Built
+Environment ([pinheiro_covid-19_2020](article_pinheiro_covid-19_2020))
 * Assessment method for new sustainability indicators
 providing pandemic resilience for residential buildings ([tokazhanov_assessment_2021](article_tokazhanov_assessment_2021))
 * A review of facilities management interventions to

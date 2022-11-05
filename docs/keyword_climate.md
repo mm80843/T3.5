@@ -19,10 +19,10 @@ productivity and sick leave in an office building–A
 case study ([saari_effect_2006](article_saari_effect_2006))
 * Navigating Climate Change: Rethinking the Role of
 Buildings ([cole_navigating_2020](article_cole_navigating_2020))
-* Climate and the spread of COVID-19 ([chen_climate_2021](article_chen_climate_2021))
 * harvard_th_chan_schoold_of_public_health_coronavirus_2020 ([harvard_th_chan_schoold_of_public_health_coronavirus_2020](article_harvard_th_chan_schoold_of_public_health_coronavirus_2020))
+* Climate and the spread of COVID-19 ([chen_climate_2021](article_chen_climate_2021))
 * harvard_chan_community_coronavirus_2020 ([harvard_chan_community_coronavirus_2020](article_harvard_chan_community_coronavirus_2020))
+* world_green_building_council_health_2014 ([world_green_building_council_health_2014](article_world_green_building_council_health_2014))
 * Characterization and performance evaluation of a
 full-scale activated carbon-based dynamic botanical air
 filtration system for improving indoor air quality ([wang_characterization_2011](article_wang_characterization_2011))
-* world_green_building_council_health_2014 ([world_green_building_council_health_2014](article_world_green_building_council_health_2014))

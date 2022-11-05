@@ -55,7 +55,13 @@ design and planning approach in future.
 
 ## Keywords
 
-[pandemic](keyword_pandemic), [design](keyword_design), [city](keyword_city), [resilience](keyword_resilience), [china](keyword_china), [epidemic](keyword_epidemic), [infrastructure](keyword_infrastructure)
+* [pandemic](keyword_pandemic), [urban planning](keyword_urban_planning), [design](keyword_design), [city](keyword_city), [covid-19](keyword_covid-19), [plan](keyword_plan), [resilience](keyword_resilience), [environ](keyword_environ), [preparedness](keyword_preparedness), [epidemic](keyword_epidemic), [china](keyword_china), [urban design](keyword_urban_design), [public space](keyword_public_space), [infrastructure](keyword_infrastructure), [urban area](keyword_urban_area)
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 
 ## Concepts

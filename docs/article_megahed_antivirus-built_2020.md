@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[pandemic](keyword_pandemic), [design](keyword_design), [city](keyword_city), [infection](keyword_infection), [coronavirus](keyword_coronavirus), [environment](keyword_environment), [build](keyword_build)
+* [pandemic](keyword_pandemic), [covid-19](keyword_covid-19), [architecture](keyword_architecture), [design](keyword_design), [city](keyword_city), [build environment](keyword_build_environment), [antivirus](keyword_antivirus), [covid 19 pandemic](keyword_covid_19_pandemic), [infection](keyword_infection), [urbanism](keyword_urbanism), [coronavirus](keyword_coronavirus), [environment](keyword_environment), [architect](keyword_architect), [build](keyword_build), work from home
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 
 ## Concepts

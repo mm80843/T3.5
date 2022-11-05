@@ -24,12 +24,12 @@ university building ([mokhtari_effect_2021](article_mokhtari_effect_2021))
 * A Comprehensive Review of the COVID-19 Pandemic
 and the Role of IoT, Drones, AI, Blockchain, and
 5G in Managing its Impact ([chamola_comprehensive_2020](article_chamola_comprehensive_2020))
+* p15-lee-vor ([p15-lee-vor](article_p15-lee-vor))
 * Designing a Multi-Agent Occupant Simulation
 System to Support Facility Planning and Analysis
 for COVID-19 ([lee_designing_2021](article_lee_designing_2021))
 * Designing Post COVID-19 Buildings: Approaches for
 Achieving Healthy Buildings ([navaratnam_designing_2022](article_navaratnam_designing_2022))
-* p15-lee-vor ([p15-lee-vor](article_p15-lee-vor))
 * A Review on Building Design as a Biomedical
 System for Preventing COVID-19 Pandemic ([amran_review_2022](article_amran_review_2022))
 * The ventilation of buildings and other mitigating measures

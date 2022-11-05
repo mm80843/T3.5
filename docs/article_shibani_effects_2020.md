@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[construction](keyword_construction), [pandemic](keyword_pandemic), [contractor](keyword_contractor), [project](keyword_project), [population](keyword_population)
+* [construction](keyword_construction), [age group](keyword_age_group), [pandemic](keyword_pandemic), [construction company](keyword_construction_company), [construction industry](keyword_construction_industry), [contractor](keyword_contractor), [united kingdom](keyword_united_kingdom), [project manager](keyword_project_manager), [questionnaire](keyword_questionnaire), [project](keyword_project), [male](keyword_male), [population](keyword_population), [covid 19 pandemic](keyword_covid_19_pandemic), female, qualitative research
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 ## Abstract
 

@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[blockchain](keyword_blockchain), [pandemic](keyword_pandemic), [technology](keyword_technology), [privacy](keyword_privacy), [coronavirus](keyword_coronavirus), [healthcare](keyword_healthcare), [data](keyword_data)
+* [blockchain](keyword_blockchain), [blockchain technology](keyword_blockchain_technology), [covid 19 pandemic](keyword_covid_19_pandemic), [covid-19](keyword_covid-19), [diabete](keyword_diabete), [pandemic](keyword_pandemic), [biome](keyword_biome), [technology](keyword_technology), [privacy](keyword_privacy), [coronavirus](keyword_coronavirus), metab, metab syndr clin re, [healthcare](keyword_healthcare), [data](keyword_data), [supply chain](keyword_supply_chain)
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 
 ## Concepts

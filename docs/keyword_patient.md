@@ -29,11 +29,11 @@ Facilities Management Services ([sarvari_global_2022](article_sarvari_global_202
 * Aerosol and Surface Distribution of Severe Acute
 Respiratory Syndrome Coronavirus 2 in Hospital
 Wards, Wuhan, China, 2020 ([guo_aerosol_2020](article_guo_aerosol_2020))
-* Mobile Technology Solution for COVID-19:
-Surveillance and Prevention ([raza_mobile_2021](article_raza_mobile_2021))
+* An Overview of Biomedical Ontologies for Pandemics
+and Infectious Diseases Representation ([bayoudhi_overview_2021](article_bayoudhi_overview_2021))
 * A Comprehensive Review of the COVID-19 Pandemic
 and the Role of IoT, Drones, AI, Blockchain, and
 5G in Managing its Impact ([chamola_comprehensive_2020](article_chamola_comprehensive_2020))
-* An Overview of Biomedical Ontologies for Pandemics
-and Infectious Diseases Representation ([bayoudhi_overview_2021](article_bayoudhi_overview_2021))
+* Mobile Technology Solution for COVID-19:
+Surveillance and Prevention ([raza_mobile_2021](article_raza_mobile_2021))
 * who_strengthening_2017 ([who_strengthening_2017](article_who_strengthening_2017))

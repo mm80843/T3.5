@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[blockchain](keyword_blockchain), [hospital](keyword_hospital), [pandemic](keyword_pandemic)
+* [blockchain](keyword_blockchain), [clinic](keyword_clinic), [hospital](keyword_hospital), [conflict of interest](keyword_conflict_of_interest), [covid-19](keyword_covid-19), [infectious disease](keyword_infectious_disease), [transparency](keyword_transparency), financial, spread of the infectious disease, [hack attack](keyword_hack_attack), distribute ledger, [korea](keyword_korea), [in kind](keyword_in_kind), [economic difficulty](keyword_economic_difficulty), infectious disease outbreak
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 
 ## Concepts

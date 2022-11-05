@@ -22,11 +22,11 @@ Environment of Office Buildings and Spaces ([phapant_covid-19_2021](article_phap
 Relevant Literature ([kaklauskas_covid-19_2021](article_kaklauskas_covid-19_2021))
 * Prophylactic Architecture: Formulating the Concept
 of Pandemic-Resilient Homes ([elrayies_prophylactic_2022](article_elrayies_prophylactic_2022))
+* How COVID-19 Could Accelerate the Adoption of
+New Retail Technologies and Enhance the
+(E-)Servicescape ([willems_how_2021](article_willems_how_2021))
 * How is COVID-19 Experience Transforming
 Sustainability Requirements of Residential
 Buildings? A Review ([tokazhanov_how_2020](article_tokazhanov_how_2020))
 * Overcoming the Impact of COVID-19 Using Integrated
 Project Delivery Model ([g_overcoming_2020](article_g_overcoming_2020))
-* Towards Resilient Residential Buildings and
-Neighborhoods in Light of COVID-19 Pandemic—The
-Scenario of Podgorica, Montenegro ([bojovic_towards_2022](article_bojovic_towards_2022))

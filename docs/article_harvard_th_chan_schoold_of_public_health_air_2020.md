@@ -11,7 +11,13 @@ according to a new nationwide st…
 
 ## Keywords
 
-[coronavirus](keyword_coronavirus)
+* [biostatistic](keyword_biostatistic), [coronavirus](keyword_coronavirus), [covid-19](keyword_covid-19), linkedin, [president and fellow](keyword_president_and_fellow), [cardiovascular](keyword_cardiovascular), [smoking](keyword_smoking), [danielle braun](keyword_danielle_braun), [harvard college](keyword_harvard_college), [benjamin sabath](keyword_benjamin_sabath), [respiratory ailment](keyword_respiratory_ailment), rachel nethery, [covid 19 crisis](keyword_covid_19_crisis), [facebook](keyword_facebook), harvard chan school
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 
 ## Concepts

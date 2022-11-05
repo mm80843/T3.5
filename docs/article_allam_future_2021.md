@@ -6,7 +6,13 @@
 
 ## Keywords
 
-[technology](keyword_technology), [city](keyword_city), [pandemic](keyword_pandemic), [network](keyword_network), [china](keyword_china), [infrastructure](keyword_infrastructure)
+* [smart city](keyword_smart_city), [6g](keyword_6g), [5g](keyword_5g), [covid-19](keyword_covid-19), [technology](keyword_technology), [city](keyword_city), [pandemic](keyword_pandemic), [network](keyword_network), [infrastructure](keyword_infrastructure), [china](keyword_china), [australia](keyword_australia), 4 g, [covid 19 pandemic](keyword_covid_19_pandemic), wireless, technol
+
+
+
+## Keywords at large
+
+* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
 
 ## Abstract
 
