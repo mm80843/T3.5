@@ -4,10 +4,16 @@
 
 ## Data
 
-* We have 215 articles in database.
-* We have 51 other URLs in database.
-* We have identified 338681 relationships between terms.
-* We have identified 16 topics of interest.
+* Articles:
+  * We have 215 articles in database.
+  * We have 51 other URLs in database.
+  * And 59 other articles yet to possibly   capture.
+* Topics
+  * We have identified 16 topics of interest.
+  * We have identified 338681 relationships between terms.
+* Terms
+  * and 320 main terms from the clusters.
+  * and 1140 other relevant words or expressions.
 
 # Clusters
 
@@ -641,3 +647,65 @@ COVID-19](article_world_green_building_council_contribution_2020) -- ([LINK](htt
 * [10 tech trends getting us through the COVID-19
 pandemic](article_yan_10_2020) -- ([LINK](https://www.weforum.org/agenda/2020/04/10-technology-trends-coronavirus-covid19-pandemic-robotics-telehealth/))
 
+
+# Other articles to explore
+
+* [Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China](https://doi.org/10.1016/S0140-6736(20)30183-5). DOI: 10.1016/S0140-6736(20)30183-5
+* [A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster](https://doi.org/10.1016/S0140-6736(20)30154-9). DOI: 10.1016/S0140-6736(20)30154-9
+* [Virological assessment of hospitalized patients with COVID-2019](https://doi.org/10.1038/s41586-020-2196-x). DOI: 10.1038/s41586-020-2196-x
+* [First Case of 2019 Novel Coronavirus in the United States](https://doi.org/10.1056/NEJMoa2001191). DOI: 10.1056/NEJMoa2001191
+* [A Novel Coronavirus from Patients with Pneumonia in China, 2019](https://doi.org/10.1056/NEJMoa2001017). DOI: 10.1056/NEJMoa2001017
+* [Presumed Asymptomatic Carrier Transmission of COVID-19](https://doi.org/10.1001/jama.2020.2565). DOI: 10.1001/jama.2020.2565
+* [COVID-19 Lockdown: Housing Built Environment’s Effects on Mental Health](https://doi.org/10.3390/ijerph17165973). DOI: 10.3390/ijerph17165973
+* [Nowcasting and forecasting the potential domestic and international spread of the 2019-nCoV outbreak originating in Wuhan, China: a modelling study](https://doi.org/10.1016/S0140-6736(20)30260-9). DOI: 10.1016/S0140-6736(20)30260-9
+* [Effect of ultraviolet germicidal lights installed in office ventilation systems on workers' health and wellbeing: double-blind multiple crossover trial](https://doi.org/10.1016/S0140-6736(03)14897-0). DOI: 10.1016/S0140-6736(03)14897-0
+* [Stability of SARS-CoV-2 in different environmental conditions](https://doi.org/10.1016/S2666-5247(20)30003-3). DOI: 10.1016/S2666-5247(20)30003-3
+* [COVID-19 Outbreak Associated with Air Conditioning in Restaurant, Guangzhou, China, 2020](https://doi.org/10.3201/eid2607.200764). DOI: 10.3201/eid2607.200764
+* [Risk of indoor airborne infection transmission estimated from carbon dioxide concentration](https://doi.org/10.1034/j.1600-0668.2003.00189.x). DOI: 10.1034/j.1600-0668.2003.00189.x
+* [How will country-based mitigation measures influence the course of the COVID-19 epidemic?](https://doi.org/10.1016/S0140-6736(20)30567-5). DOI: 10.1016/S0140-6736(20)30567-5
+* [Does Density Aggravate the COVID-19 Pandemic?](https://doi.org/10.1080/01944363.2020.1777891). DOI: 10.1080/01944363.2020.1777891
+* [Airborne Infection: Theoretical Limits of Protection Achievable by Building Ventilation](https://doi.org/10.1164/ajrccm/144.2.302). DOI: 10.1164/ajrccm/144.2.302
+* [The psychological impact of quarantine and how to reduce it: rapid review of the evidence](https://doi.org/10.1016/S0140-6736(20)30460-8). DOI: 10.1016/S0140-6736(20)30460-8
+* [Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study](https://doi.org/10.1016/S0140-6736(20)30211-7). DOI: 10.1016/S0140-6736(20)30211-7
+* [Critical Supply Shortages — The Need for Ventilators and Personal Protective Equipment during the Covid-19 Pandemic](https://doi.org/10.1056/NEJMp2006141). DOI: 10.1056/NEJMp2006141
+* [Detection of Pathogenic Viruses in Sewage Provided Early Warnings of Hepatitis A Virus and Norovirus Outbreaks](https://doi.org/10.1128/AEM.01981-14). DOI: 10.1128/AEM.01981-14
+* [On the Coronavirus (COVID-19) Outbreak and the Smart City Network: Universal Data Sharing Standards Coupled with Artificial Intelligence (AI) to Benefit Urban Health Monitoring and Management](https://doi.org/10.3390/healthcare8010046). DOI: 10.3390/healthcare8010046
+* [AIRBORNE SPREAD OF MEASLES IN A SUBURBAN ELEMENTARY SCHOOL](https://doi.org/10.1093/oxfordjournals.aje.a112560). DOI: 10.1093/oxfordjournals.aje.a112560
+* [Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus–Infected Pneumonia](https://doi.org/10.1056/NEJMoa2001316). DOI: 10.1056/NEJMoa2001316
+* [Detection of 2019 novel coronavirus (2019-nCoV) by real-time RT-PCR](https://doi.org/10.2807/1560-7917.ES.2020.25.3.2000045). DOI: 10.2807/1560-7917.ES.2020.25.3.2000045
+* [Recognition of aerosol transmission of infectious agents: a commentary](https://doi.org/10.1186/s12879-019-3707-y). DOI: 10.1186/s12879-019-3707-y
+* [Public housing and COVID-19: contestation, challenge and change](https://doi.org/10.1080/19491247.2020.1797991). DOI: 10.1080/19491247.2020.1797991
+* [Can atmospheric pollution be considered a co-factor in extremely high level of SARS-CoV-2 lethality in Northern Italy?](https://doi.org/10.1016/j.envpol.2020.114465). DOI: 10.1016/j.envpol.2020.114465
+* [Stability and inactivation of SARS coronavirus](https://doi.org/10.1007/s00430-004-0219-0). DOI: 10.1007/s00430-004-0219-0
+* [Survivability, Partitioning, and Recovery of Enveloped Viruses in Untreated Municipal Wastewater](https://doi.org/10.1021/acs.est.6b00876). DOI: 10.1021/acs.est.6b00876
+* [Green space as a buffer between stressful life events and health](https://doi.org/10.1016/j.socscimed.2010.01.002). DOI: 10.1016/j.socscimed.2010.01.002
+* [Room ventilation and the risk of airborne infection transmission in 3 health care settings within a large teaching hospital](https://doi.org/10.1016/j.ajic.2011.02.014). DOI: 10.1016/j.ajic.2011.02.014
+* [Prolonged presence of SARS-CoV-2 viral RNA in faecal samples](https://doi.org/10.1016/S2468-1253(20)30083-2). DOI: 10.1016/S2468-1253(20)30083-2
+* [Transmission of SARS and MERS coronaviruses and influenza virus in healthcare settings: the possible role of dry surface contamination](https://doi.org/10.1016/j.jhin.2015.08.027). DOI: 10.1016/j.jhin.2015.08.027
+* [A new coronavirus associated with human respiratory disease in China](https://doi.org/10.1038/s41586-020-2008-3). DOI: 10.1038/s41586-020-2008-3
+* [Evidence of Airborne Transmission of the Severe Acute Respiratory Syndrome Virus](https://doi.org/10.1056/NEJMoa032867). DOI: 10.1056/NEJMoa032867
+* [Survival Characteristics of Airborne Human Coronavirus 229E](https://doi.org/10.1099/0022-1317-66-12-2743). DOI: 10.1099/0022-1317-66-12-2743
+* [A novel coronavirus outbreak of global health concern](https://doi.org/10.1016/S0140-6736(20)30185-9). DOI: 10.1016/S0140-6736(20)30185-9
+* [COVID-19 and the UN Sustainable Development Goals: Threat to Solidarity or an Opportunity?](https://doi.org/10.3390/su12135343). DOI: 10.3390/su12135343
+* [How far droplets can move in indoor environments ? revisiting the Wells evaporation?falling curve](https://doi.org/10.1111/j.1600-0668.2007.00469.x). DOI: 10.1111/j.1600-0668.2007.00469.x
+* [Sustainability and green building rating systems: LEED, BREEAM, GSAS and Estidama critical analysis](https://doi.org/10.1016/j.jobe.2017.03.010). DOI: 10.1016/j.jobe.2017.03.010
+* [A brave new world: Lessons from the COVID-19 pandemic for transitioning to sustainable supply and production](https://doi.org/10.1016/j.resconrec.2020.104894). DOI: 10.1016/j.resconrec.2020.104894
+* [](https://doi.org/10.1038/sj.jea.7500165). DOI: 10.1038/sj.jea.7500165
+* [Aerodynamic analysis of SARS-CoV-2 in two Wuhan hospitals](https://doi.org/10.1038/s41586-020-2271-3). DOI: 10.1038/s41586-020-2271-3
+* [Airborne transmission of SARS-CoV-2: The world should face the reality](https://doi.org/10.1016/j.envint.2020.105730). DOI: 10.1016/j.envint.2020.105730
+* [Review and comparison between the WellsâRiley and dose-response approaches to risk assessment of infectious respiratory diseases](https://doi.org/10.1111/j.1600-0668.2009.00621.x). DOI: 10.1111/j.1600-0668.2009.00621.x
+* [Environmental perspective of COVID-19](https://doi.org/10.1016/j.scitotenv.2020.138870). DOI: 10.1016/j.scitotenv.2020.138870
+* [Indirect effects of COVID-19 on the environment](https://doi.org/10.1016/j.scitotenv.2020.138813). DOI: 10.1016/j.scitotenv.2020.138813
+* [Role of mechanical ventilation in the airborne transmission of infectious agents in buildings](https://doi.org/10.1111/ina.12267). DOI: 10.1111/ina.12267
+* [An investigation of transmission control measures during the first 50 days of the COVID-19 epidemic in China](https://doi.org/10.1126/science.abb6105). DOI: 10.1126/science.abb6105
+* [The effect of travel restrictions on the spread of the 2019 novel coronavirus (COVID-19) outbreak](https://doi.org/10.1126/science.aba9757). DOI: 10.1126/science.aba9757
+* [Extended urbanisation and the spatialities of infectious disease: Demographic change, infrastructure and governance](https://doi.org/10.1177/0042098020910873). DOI: 10.1177/0042098020910873
+* [Covid-19 and the politics of sustainable energy transitions](https://doi.org/10.1016/j.erss.2020.101685). DOI: 10.1016/j.erss.2020.101685
+* [Infectious virus in exhaled breath of symptomatic seasonal influenza cases from a college community](https://doi.org/10.1073/pnas.1716561115). DOI: 10.1073/pnas.1716561115
+* [Monitoring wastewater for assessing community health: Sewage Chemical-Information Mining (SCIM)](https://doi.org/10.1016/j.scitotenv.2017.11.102). DOI: 10.1016/j.scitotenv.2017.11.102
+* [The efficacy of social distance and ventilation effectiveness in preventing COVID-19 transmission](https://doi.org/10.1016/j.scs.2020.102390). DOI: 10.1016/j.scs.2020.102390
+* [Gardening is beneficial for health: A meta-analysis](https://doi.org/10.1016/j.pmedr.2016.11.007). DOI: 10.1016/j.pmedr.2016.11.007
+* [The History of Ultraviolet Germicidal Irradiation for Air Disinfection](https://doi.org/10.1177/003335491012500105). DOI: 10.1177/003335491012500105
+* [COVID-19 Pandemic: Prevention and Protection Measures to Be Adopted at the Workplace](https://doi.org/10.3390/su12093603). DOI: 10.3390/su12093603
+* [Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: a retrospective cohort study](https://doi.org/10.1016/S0140-6736(20)30566-3). DOI: 10.1016/S0140-6736(20)30566-3
+* [SARS-CoV-2 RNA in wastewater anticipated COVID-19 occurrence in a low prevalence area](https://doi.org/10.1016/j.watres.2020.115942). DOI: 10.1016/j.watres.2020.115942
