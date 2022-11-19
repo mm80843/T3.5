@@ -1,18 +1,18 @@
 # Article: __How is COVID-19 Experience Transforming Sustainability Requirements of Residential Buildings? A Review__ (tokazhanov_how_2020)
 
 * [10.3390/su12208732](https://doi.org/10.3390/su12208732)
-* Cluster: [space-urban](cluster_13)
+* Cluster: [health-building](cluster_9)
 
 
 ## Keywords
 
-* [covid-19](keyword_covid-19), [pandemic](keyword_pandemic), [kazakhstan](keyword_kazakhstan), [coronavirus](keyword_coronavirus), [wastewater](keyword_wastewater), [covid 19 pandemic](keyword_covid_19_pandemic), [d alessandro](keyword_d_alessandro), [virus](keyword_virus), [lockdown](keyword_lockdown), [quarantine](keyword_quarantine), [wikipedia](keyword_wikipedia), [water](keyword_water), [environ](keyword_environ), [sustainability](keyword_sustainability), [encyclopedia](keyword_encyclopedia)
+* [covid-19](keyword_covid-19), [pandemic](keyword_pandemic), [kazakhstan](keyword_kazakhstan), [coronavirus](keyword_coronavirus), [covid 19 pandemic](keyword_covid_19_pandemic), [wastewater](keyword_wastewater), [virus](keyword_virus), [lockdown](keyword_lockdown), [water](keyword_water), [d alessandro](keyword_d_alessandro), [sanitation](keyword_sanitation), [architecture](keyword_architecture), [sustainability](keyword_sustainability), [quarantine](keyword_quarantine), [build](keyword_build)
 
 
 
 ## Keywords at large
 
-* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
+* [covid-19](keyword_covid-19), [pandemic](keyword_pandemic), [kazakhstan](keyword_kazakhstan), [coronavirus](keyword_coronavirus), [covid 19 pandemic](keyword_covid_19_pandemic), [wastewater](keyword_wastewater), [d alessandro](keyword_d_alessandro), [virus](keyword_virus), [lockdown](keyword_lockdown), [quarantine](keyword_quarantine)
 
 ## Abstract
 
@@ -45,6 +45,19 @@ the environment.
 
  ![](imgs/article_tokazhanov_how_2020.jpg)
 
+### Closest articles 
+
+* [](article_dalessandro_covid-19_2020)
+* [COVID-19 and Green Housing: A Review of Relevant Literature](article_kaklauskas_covid-19_2021)
+* [Prophylactic Architecture: Formulating the Concept of Pandemic-Resilient Homes](article_elrayies_prophylactic_2022)
+* [Towards Resilient Residential Buildings and Neighborhoods in Light of COVID-19 Pandemic—The Scenario of Podgorica, Montenegro](article_bojovic_towards_2022)
+* [How our homes impact our health: using a COVID-19 informed approach to examine urban apartment housing](article_peters_how_2020)
+* [realdania_refleksioner_2022_EN](article_realdania_refleksioner_2022_EN)
+* [RESIDENTIAL ARCHITECTURE IN A POST-PANDEMIC WORLD: IMPLICATIONS OF COVID-19 FOR NEW CONSTRUCTION AND FOR ADAPTING HERITAGE BUILDINGS](article_spennemann_residential_2021)
+* [How the Coronavirus Will Reshape Architecture](article_chayka_how_2020)
+* [Adaptive Design of the Built Environment to Mitigate the Transmission Risk of COVID-19](article_ara_dilshad_shangi_adaptive_2020)
+* [The COVID-19 Impact on Flexible Office Space](article_clifton_covid-19_2020)
+
 ### References 
 
 * [2019 Novel Coronavirus (COVID-19) Pandemic:
@@ -54,9 +67,12 @@ Transmission](article_dietz_2019_2020)
 Covid-19 pandemic](article_megahed_antivirus-built_2020)
 * [The socio-economic implications of the coronavirus
 pandemic (COVID-19): A review](article_nicola_socio-economic_2020)
+* [COVID-19 and the UN Sustainable Development
+Goals: Threat to Solidarity or an Opportunity?](article_leal_filho_covid-19_2020)
 * [COVID-19 and Living space challenge. Well-being and
 Public Health recommendations for a healthy, safe, and
 sustainable housing.](article_dalessandro_covid-19_2020)
+* [Indirect effects of COVID-19 on the environment](article_zambrano-monserrate_indirect_2020)
 * [COVID-19 Could Leverage a Sustainable Built
 Environment](article_pinheiro_covid-19_2020)
 * [SARS-CoV-2 RNA detection of hospital isolation wards
@@ -69,6 +85,9 @@ planning and design professionals [now, then and into the
 future]?](article_allam_pandemic_2020)
 * [Aerosol and Surface Stability of SARS-CoV-2 as
 Compared with SARS-CoV-1](article_van_doremalen_aerosol_2020)
+* [Gardening is beneficial for health: A meta-analysis](article_soga_gardening_2017)
+* [COVID-19 Lockdown: Housing Built Environment’s
+Effects on Mental Health](article_amerio_covid-19_2020)
 
 ### Cited by 
 

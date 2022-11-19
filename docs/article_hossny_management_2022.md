@@ -1,18 +1,18 @@
 # Article: __Management of the COVID-19 pandemic: challenges, practices, and organizational support__ (hossny_management_2022)
 
 * [10.1186/s12912-022-00972-5](https://doi.org/10.1186/s12912-022-00972-5)
-* Cluster: [building-health](cluster_10)
+* Cluster: [health-building](cluster_9)
 
 
 ## Keywords
 
-* [nursing](keyword_nursing), [hospital](keyword_hospital), [nurse](keyword_nurse), [covid 19 pandemic](keyword_covid_19_pandemic), [pandemic](keyword_pandemic), [physician](keyword_physician), [covid-19](keyword_covid-19), [management](keyword_management), hossny, egypt, [anxiety](keyword_anxiety), nursing manager, crisis management, [healthcare](keyword_healthcare), psychological problem
+* [nursing](keyword_nursing), [nurse](keyword_nurse), [hospital](keyword_hospital), [covid 19 pandemic](keyword_covid_19_pandemic), [physician](keyword_physician), [pandemic](keyword_pandemic), [covid-19](keyword_covid-19), [management](keyword_management), [anxiety](keyword_anxiety), [egypt](keyword_egypt), nursing manager, [healthcare](keyword_healthcare), [crisis management](keyword_crisis_management), psychological problem, [infection control](keyword_infection_control)
 
 
 
 ## Keywords at large
 
-* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
+* [nursing](keyword_nursing), [hospital](keyword_hospital), [nurse](keyword_nurse), [covid 19 pandemic](keyword_covid_19_pandemic), [pandemic](keyword_pandemic), [physician](keyword_physician), [covid-19](keyword_covid-19), [management](keyword_management), [anxiety](keyword_anxiety), [egypt](keyword_egypt)
 
 ## Abstract
 
@@ -57,6 +57,20 @@ to better equip them for the current and future crises.
 ## Concepts
 
  ![](imgs/article_hossny_management_2022.jpg)
+
+### Closest articles 
+
+* [Supporting Technologies for COVID-19 Prevention: Systemized Review](article_zhao_supporting_2022)
+* [DeepSOCIAL: Social Distancing Monitoring and Infection Risk Assessment in COVID-19 Pandemic](article_rezaei_deepsocial_2020)
+* [Using Technology to Maintain the Education of Residents During the COVID-19 Pandemic](article_chick_using_2020)
+* [Case Study on Finnish TVETA Resilient Model of
+Training During COVID-19](article_unesco_case_2021)
+* [Digital Twin of COVID-19 Mass Vaccination Centers](article_pilati_digital_2021)
+* [COVID-19 Prevention and Control Measures in Workplace Settings: A Rapid Review and Meta-Analysis](article_ingram_covid-19_2021)
+* [Physical interventions to interrupt or reduce the spread of respiratory viruses: systematic review](article_jefferson_physical_2008)
+* [COVID-19: A new digital dawn?](article_robbins_covid-19_2020)
+* [Reframe how to serve your community in the midst of a pandemic](article_sutton_reframe_2020)
+* [COVID-ABS: An agent-based model of COVID-19 epidemic to simulate health and economic effects of social distancing interventions](article_silva_covid-abs_2020)
 
 ### References 
 

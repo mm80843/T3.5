@@ -1,7 +1,7 @@
 # Keyword: __pollution__
 ## Clusters
 
-* Cluster 9: [climate-change](cluster_9)
+* Cluster 12: [climate-change](cluster_12)
 
 ## Concepts
 
@@ -20,10 +20,10 @@ circular economy strategies ([ibn-mohammed_critical_2021](article_ibn-mohammed_c
 * realdania_refleksioner_2022_EN ([realdania_refleksioner_2022_EN](article_realdania_refleksioner_2022_EN))
 * COVID-19 Higher Mortality in Chinese Regions
 With Chronic Exposure to Lower Air Quality ([pansini_covid-19_2021](article_pansini_covid-19_2021))
+* A Review on Building Design as a Biomedical
+System for Preventing COVID-19 Pandemic ([amran_review_2022](article_amran_review_2022))
 * Disinfection technology of hospital wastes and wastewater:
 Suggestions for disinfection strategy during coronavirus
 Disease 2019 (COVID-19) pandemic in China ([wang_disinfection_2020](article_wang_disinfection_2020))
-* A Review on Building Design as a Biomedical
-System for Preventing COVID-19 Pandemic ([amran_review_2022](article_amran_review_2022))
 * harvard_th_chan_schoold_of_public_health_coronavirus_2020 ([harvard_th_chan_schoold_of_public_health_coronavirus_2020](article_harvard_th_chan_schoold_of_public_health_coronavirus_2020))
 * harvard_chan_community_coronavirus_2020 ([harvard_chan_community_coronavirus_2020](article_harvard_chan_community_coronavirus_2020))

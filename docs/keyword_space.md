@@ -1,8 +1,9 @@
 # Keyword: __space__
 ## Clusters
 
-* Cluster 10: [building-health](cluster_10)
-* Cluster 13: [space-urban](cluster_13)
+* Cluster 8: [health-housing](cluster_8)
+* Cluster 9: [health-building](cluster_9)
+* Cluster 15: [green-urban](cluster_15)
 
 ## Concepts
 
@@ -21,10 +22,10 @@ for COVID-19 ([lee_designing_2021](article_lee_designing_2021))
 * Adaptive Design of the Built Environment to
 Mitigate the Transmission Risk of COVID-19 ([ara_dilshad_shangi_adaptive_2020](article_ara_dilshad_shangi_adaptive_2020))
 * world_green_building_council_health_2014 ([world_green_building_council_health_2014](article_world_green_building_council_health_2014))
+* The Impact of COVID-19 on Public Space: A
+Review of the Emerging Questions ([honey-roses_impact_2020](article_honey-roses_impact_2020))
 * A Mixed Approach on Resilience of Spanish
 Dwellings and Households during COVID-19 Lockdown ([cuerdo-vilches_mixed_2020](article_cuerdo-vilches_mixed_2020))
 * Towards Resilient Residential Buildings and
 Neighborhoods in Light of COVID-19 Pandemic—The
 Scenario of Podgorica, Montenegro ([bojovic_towards_2022](article_bojovic_towards_2022))
-* Mobile Technology Solution for COVID-19:
-Surveillance and Prevention ([raza_mobile_2021](article_raza_mobile_2021))

@@ -1,7 +1,7 @@
-# Cluster: __wastewater-sars__ (cluster12)
+# Cluster: __climate-change__ (cluster12)
 ## Keywords
 
-* [wastewater](keyword_wastewater), [sars](keyword_sars), [sample](keyword_sample), [pcr](keyword_pcr), [sewage](keyword_sewage), [rna](keyword_rna), [wwtp](keyword_wwtp), [gene](keyword_gene), [detection](keyword_detection), [assay](keyword_assay), [primer](keyword_primer), [qpcr](keyword_qpcr), [biomarker](keyword_biomarker), [surveillance](keyword_surveillance), [virus](keyword_virus), [ml](keyword_ml), [viral](keyword_viral), [rt](keyword_rt), [case](keyword_case), [concentration](keyword_concentration)
+* [climate](keyword_climate), [change](keyword_change), [pollution](keyword_pollution), [health](keyword_health), [animal](keyword_animal), [air](keyword_air), [coronavirus](keyword_coronavirus), [disease](keyword_disease), [pandemic](keyword_pandemic), [public](keyword_public), [need](keyword_need), [people](keyword_people), [earth](keyword_earth), [crisis](keyword_crisis), [action](keyword_action), [infectious](keyword_infectious), [risk](keyword_risk), [spread](keyword_spread), [response](keyword_response), [threat](keyword_threat)
 
 ## Concepts
 
@@ -10,27 +10,7 @@
 
 ## Articles
 
-* Computational analysis of SARS-CoV-2/COVID-19
-surveillance by wastewater-based epidemiology locally and
-globally: Feasibility, economy, opportunities and
-challenges ([hart_computational_2020](article_hart_computational_2020))
-* Presence of SARS-Coronavirus-2 RNA in Sewage and
-Correlation with Reported COVID-19 Prevalence in
-the Early Stage of the Epidemic in The
-Netherlands ([medema_presence_2020](article_medema_presence_2020))
-* First detection of SARS-CoV-2 in untreated wastewaters
-in Italy ([la_rosa_first_2020](article_la_rosa_first_2020))
-* Future perspectives of wastewater-based epidemiology:
-Monitoring infectious disease spread and resistance to
-the community level ([sims_future_2020](article_sims_future_2020))
-* Wastewater-Based Epidemiology to monitor COVID-19
-outbreak: Present and future diagnostic methods to be in
-your radar ([barcelo_wastewater-based_2020](article_barcelo_wastewater-based_2020))
-* SARS-CoV-2 Titers in Wastewater Are Higher
-than Expected from Clinically Confirmed Cases ([wu_sars-cov-2_2020](article_wu_sars-cov-2_2020))
-* Detection of SARS-CoV-2 in raw and treated wastewater
-in Germany – Suitability for COVID-19 surveillance
-and potential transmission risks ([westhaus_detection_2021](article_westhaus_detection_2021))
-* First confirmed detection of SARS-CoV-2 in untreated
-wastewater in Australia: A proof of concept for the
-wastewater surveillance of COVID-19 in the community ([ahmed_first_2020](article_ahmed_first_2020))
+* What our response to the COVID-19 pandemic tells us of
+our capacity to respond to climate change ([gemenne_what_2020](article_gemenne_what_2020))
+* harvard_chan_community_coronavirus_2020 ([harvard_chan_community_coronavirus_2020](article_harvard_chan_community_coronavirus_2020))
+* harvard_th_chan_schoold_of_public_health_coronavirus_2020 ([harvard_th_chan_schoold_of_public_health_coronavirus_2020](article_harvard_th_chan_schoold_of_public_health_coronavirus_2020))

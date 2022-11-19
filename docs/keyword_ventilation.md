@@ -1,8 +1,7 @@
 # Keyword: __ventilation__
 ## Clusters
 
-* Cluster 2: [air-sars](cluster_2)
-* Cluster 14: [uvgi-uv](cluster_14)
+* Cluster 0: [air-sars](cluster_0)
 
 ## Concepts
 

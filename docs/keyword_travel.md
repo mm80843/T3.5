@@ -1,7 +1,7 @@
 # Keyword: __travel__
 ## Clusters
 
-* Cluster 7: [liver-province](cluster_7)
+* Cluster 7: [tourism-tourist](cluster_7)
 
 ## Concepts
 
@@ -27,9 +27,8 @@ Settlement Characteristics and Population ([sigler_socio-spatial_2020](article_s
 * Coronavirus questions that will not go away: interrogating
 urban and socio-spatial implications of COVID-19
 measures ([salama_coronavirus_2020](article_salama_coronavirus_2020))
+* Exploring the Non-Medical impacts of Covid-19 using
+Natural Language Processing ([agade_exploring_2020](article_agade_exploring_2020))
 * Mobility Behaviour in View of the Impact of the
 COVID-19 Pandemic—Public Transport Users in
 Gdansk Case Study ([przybylowski_mobility_2021](article_przybylowski_mobility_2021))
-* Impact of COVID-19 on IoT Adoption in Healthcare,
-Smart Homes, Smart Buildings, Smart Cities,
-Transportation and Industrial IoT ([umair_impact_2021](article_umair_impact_2021))

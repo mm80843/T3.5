@@ -11,16 +11,30 @@ according to a new nationwide st…
 
 ## Keywords
 
-* [biostatistic](keyword_biostatistic), [coronavirus](keyword_coronavirus), [covid-19](keyword_covid-19), linkedin, [president and fellow](keyword_president_and_fellow), [cardiovascular](keyword_cardiovascular), [smoking](keyword_smoking), [danielle braun](keyword_danielle_braun), [harvard college](keyword_harvard_college), [benjamin sabath](keyword_benjamin_sabath), [respiratory ailment](keyword_respiratory_ailment), rachel nethery, [covid 19 crisis](keyword_covid_19_crisis), [facebook](keyword_facebook), harvard chan school
+* [biostatistic](keyword_biostatistic), [coronavirus](keyword_coronavirus), [covid-19](keyword_covid-19), [danielle braun](keyword_danielle_braun), [smoking](keyword_smoking), [respiratory ailment](keyword_respiratory_ailment), [president and fellow](keyword_president_and_fellow), [linkedin](keyword_linkedin), harvard college, [benjamin sabath](keyword_benjamin_sabath), [cardiovascular](keyword_cardiovascular), socioeconomic, rachel nethery, fine particulate air pollution, fine particulate pollution
 
 
 
 ## Keywords at large
 
-* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
+* [biostatistic](keyword_biostatistic), [coronavirus](keyword_coronavirus), [covid-19](keyword_covid-19), [smoking](keyword_smoking), [benjamin sabath](keyword_benjamin_sabath), [cardiovascular](keyword_cardiovascular), [respiratory ailment](keyword_respiratory_ailment), [president and fellow](keyword_president_and_fellow), [danielle braun](keyword_danielle_braun), [linkedin](keyword_linkedin)
 
 
 ## Concepts
 
  ![](imgs/article_harvard_th_chan_schoold_of_public_health_air_2020.jpg)
+
+### Closest articles 
+
+* [COVID-19 Higher Mortality in Chinese Regions With Chronic Exposure to Lower Air Quality](article_pansini_covid-19_2021)
+* [COVID-19 misinformation: Accuracy of articles about coronavirus prevention mostly shared on social media](article_obiala_covid-19_2021)
+* [Coronavirus: Can artificial intelligence be smart enough
+to detect fake news?](article_tong_coronavirus_2020)
+* [Should I Stay or Should I Go? Tourists’ COVID-19 Risk Perception and Vacation Behavior Shift](article_bratic_should_2021)
+* [Seeing the invisible hand: Underlying effects of COVID-19 on tourists’ behavioral patterns](article_li_seeing_2020)
+* [The changes in the effects of social media use of Cypriots due to COVID-19 pandemic](article_kaya_changes_2020)
+* [What drives unverified information sharing and cyberchondria during the COVID-19 pandemic?](article_laato_what_2020)
+* [Exploring the Potential of Artificial Intelligence and Machine Learning to Combat COVID-19 and Existing Opportunities for LMIC: A Scoping Review](article_naseem_exploring_2020)
+* [Pandemic Analytics: How Countries are Leveraging Big Data Analytics and Artificial Intelligence to Fight COVID-19?](article_mehta_pandemic_2021)
+* [Digital technology and COVID-19](article_ting_digital_2020)
 

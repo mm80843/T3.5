@@ -1,7 +1,7 @@
 # Keyword: __epidemic__
 ## Clusters
 
-* Cluster 6: [simulation-model](cluster_6)
+* Cluster 3: [city-spatial](cluster_3)
 
 ## Concepts
 
@@ -21,8 +21,7 @@ System for Preventing COVID-19 Pandemic ([amran_review_2022](article_amran_revie
 * afrin_covid-19_2021 ([afrin_covid-19_2021](article_afrin_covid-19_2021))
 * Questioning the use of the balcony in apartments during
 the COVID-19 pandemic process ([aydin_questioning_2020](article_aydin_questioning_2020))
+* Mitigation strategies and compliance in the COVID-19
+fight; how much compliance is enough? ([mukerjee_mitigation_2021](article_mukerjee_mitigation_2021))
 * Epidemics, Planning and the City: A Special
 Issue of Planning Perspectives ([davis_epidemics_2022](article_davis_epidemics_2022))
-* Mobility Behaviour in View of the Impact of the
-COVID-19 Pandemic—Public Transport Users in
-Gdansk Case Study ([przybylowski_mobility_2021](article_przybylowski_mobility_2021))

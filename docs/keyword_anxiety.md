@@ -1,7 +1,7 @@
 # Keyword: __anxiety__
 ## Clusters
 
-* Cluster 11: [anxiety-social](cluster_11)
+* Cluster 7: [tourism-tourist](cluster_7)
 
 ## Concepts
 
@@ -32,5 +32,6 @@ New Retail Technologies and Enhance the
 (E-)Servicescape ([willems_how_2021](article_willems_how_2021))
 * Management of the COVID-19 pandemic: challenges,
 practices, and organizational support ([hossny_management_2022](article_hossny_management_2022))
-* Home garden use during COVID-19: Associations with
-physical and mental wellbeing in older adults ([corley_home_2021](article_corley_home_2021))
+* Dangerous liaisons? Applying the social harm perspective
+to the social inequality, housing and health trifecta
+during the Covid-19 pandemic ([gurney_dangerous_2021](article_gurney_dangerous_2021))

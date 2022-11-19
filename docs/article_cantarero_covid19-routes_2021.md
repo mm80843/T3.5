@@ -1,18 +1,18 @@
 # Article: __COVID19-Routes: A Safe Pedestrian Navigation Service__ (cantarero_covid19-routes_2021)
 
 * [10.1109/ACCESS.2021.3092970](https://doi.org/10.1109/ACCESS.2021.3092970)
-* Cluster: [space-urban](cluster_13)
+* Cluster: [health-building](cluster_9)
 
 
 ## Keywords
 
-* [covid-19](keyword_covid-19), [route](keyword_route), [pandemic](keyword_pandemic), [online](keyword_online), [danger model](keyword_danger_model), [city](keyword_city), [amenity](keyword_amenity), [spain](keyword_spain), [vulnerability](keyword_vulnerability), [scone](keyword_scone), [node](keyword_node), context, [school](keyword_school), [knowledge](keyword_knowledge), [child](keyword_child)
+* [covid-19](keyword_covid-19), [pandemic](keyword_pandemic), [route](keyword_route), [danger model](keyword_danger_model), [city](keyword_city), [spain](keyword_spain), [scone](keyword_scone), [vulnerability](keyword_vulnerability), [node](keyword_node), [school](keyword_school), [knowledge](keyword_knowledge), [child](keyword_child), [amenity](keyword_amenity), origin, [poland](keyword_poland)
 
 
 
 ## Keywords at large
 
-* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
+* [covid-19](keyword_covid-19), [route](keyword_route), [pandemic](keyword_pandemic), [danger model](keyword_danger_model), [city](keyword_city), [amenity](keyword_amenity), [vulnerability](keyword_vulnerability), [spain](keyword_spain), [scone](keyword_scone), [node](keyword_node)
 
 ## Abstract
 
@@ -46,6 +46,19 @@ with low exposure to COVID-19.
 
  ![](imgs/article_cantarero_covid19-routes_2021.jpg)
 
+### Closest articles 
+
+* [Social distancing enhanced automated optimal design of physical spaces in the wake of the COVID-19 pandemic](article_ugail_social_2021)
+* [Exploring the Non-Medical impacts of Covid-19 using Natural Language Processing](article_agade_exploring_2020)
+* [COVID-ABS: An agent-based model of COVID-19 epidemic to simulate health and economic effects of social distancing interventions](article_silva_covid-abs_2020)
+* [Digital Twin of COVID-19 Mass Vaccination Centers](article_pilati_digital_2021)
+* [Building occupancy estimation with people flow modeling in AnyLogic](article_li_building_2016)
+* [EXPOSED: An occupant exposure model for confined spaces to retrofit crowd models during a pandemic](article_ronchi_exposed_2020)
+* [Assessment of COVID-19 precautionary measures in sports facilities: A case study on a health club in Saudi Arabia](article_ibrahim_assessment_2022)
+* [DeepSOCIAL: Social Distancing Monitoring and Infection Risk Assessment in COVID-19 Pandemic](article_rezaei_deepsocial_2020)
+* [hseie_algorithms_2021](article_hseie_algorithms_2021)
+* [A Platform for Citizen Cooperation during the COVID-19 Pandemic in RN, Brazil](article_de_araujo_platform_2020)
+
 ### References 
 
 * [The Smart City and Covid‐19](article_webb_smart_2020)
@@ -56,6 +69,8 @@ pandemic (COVID-19): A review](article_nicola_socio-economic_2020)
 * [Response to COVID-19 in Taiwan: Big Data
 Analytics, New Technology, and Proactive
 Testing](article_wang_response_2020)
+* [An Automated System to Limit COVID-19 Using
+Facial Mask Detection in Smart City Network](article_rahman_automated_2020)
 
 ### Cited by 
 

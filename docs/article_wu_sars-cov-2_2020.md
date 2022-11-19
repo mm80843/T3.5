@@ -1,18 +1,18 @@
 # Article: __SARS-CoV-2 Titers in Wastewater Are Higher than Expected from Clinically Confirmed Cases__ (wu_sars-cov-2_2020)
 
 * [10.1128/mSystems.00614-20](https://doi.org/10.1128/mSystems.00614-20)
-* Cluster: [wastewater-sars](cluster_12)
+* Cluster: [wastewater-sars](cluster_1)
 
 
 ## Keywords
 
-* [sar cov 2](keyword_sar_cov_2), [wastewater](keyword_wastewater), [sewage](keyword_sewage), [viral](keyword_viral), [pmmov](keyword_pmmov), [viral titer](keyword_viral_titer), [gene](keyword_gene), [titer](keyword_titer), [supplemental material](keyword_supplemental_material), [rt qpcr](keyword_rt_qpcr), [sample](keyword_sample), northern, filtrate, [rna extraction](keyword_rna_extraction), pasteurization
+* [covid-19](keyword_covid-19), [wastewater](keyword_wastewater), [sewage](keyword_sewage), [viral](keyword_viral), [pmmov](keyword_pmmov), [viral titer](keyword_viral_titer), [titer](keyword_titer), [gene](keyword_gene), [sar cov 2](keyword_sar_cov_2), [rt qpcr](keyword_rt_qpcr), northern, [sample](keyword_sample), pasteurize, pasteurization, confirm
 
 
 
 ## Keywords at large
 
-* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
+* [covid-19](keyword_covid-19), [wastewater](keyword_wastewater), [sewage](keyword_sewage), [viral](keyword_viral), [pmmov](keyword_pmmov), [viral titer](keyword_viral_titer), [gene](keyword_gene), [titer](keyword_titer), [sar cov 2](keyword_sar_cov_2), [rt qpcr](keyword_rt_qpcr)
 
 ## Abstract
 
@@ -72,4 +72,17 @@ wastewater catchment-level estimations of prevalence.
 ## Concepts
 
  ![](imgs/article_wu_sars-cov-2_2020.jpg)
+
+### Closest articles 
+
+* [First detection of SARS-CoV-2 in untreated wastewaters in Italy](article_la_rosa_first_2020)
+* [Detection of SARS-CoV-2 in raw and treated wastewater in Germany – Suitability for COVID-19 surveillance and potential transmission risks](article_westhaus_detection_2021)
+* [Presence of SARS-Coronavirus-2 RNA in Sewage and Correlation with Reported COVID-19 Prevalence in the Early Stage of the Epidemic in The Netherlands](article_medema_presence_2020)
+* [First confirmed detection of SARS-CoV-2 in untreated wastewater in Australia: A proof of concept for the wastewater surveillance of COVID-19 in the community](article_ahmed_first_2020)
+* [Wastewater-Based Epidemiology to monitor COVID-19 outbreak: Present and future diagnostic methods to be in your radar](article_barcelo_wastewater-based_2020)
+* [Computational analysis of SARS-CoV-2/COVID-19 surveillance by wastewater-based epidemiology locally and globally: Feasibility, economy, opportunities and challenges](article_hart_computational_2020)
+* [Future perspectives of wastewater-based epidemiology: Monitoring infectious disease spread and resistance to the community level](article_sims_future_2020)
+* [SARS-CoV-2 in wastewater: potential health risk, but also data source](article_lodder_sars-cov-2_2020)
+* [Wastewater surveillance for population-wide Covid-19: The present and future](article_daughton_wastewater_2020)
+* [An environmental and health perspective for COVID-19 outbreak: Meteorology and air quality influence, sewage epidemiology indicator, hospitals disinfection, drug therapies and recommendations](article_barcelo_environmental_2020)
 

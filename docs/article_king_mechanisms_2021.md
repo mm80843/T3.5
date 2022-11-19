@@ -1,18 +1,18 @@
 # Article: __Mechanisms for addressing the impact of COVID-19 on infrastructure projects__ (king_mechanisms_2021)
 
 * [10.1088/1755-1315/682/1/012047](https://doi.org/10.1088/1755-1315/682/1/012047)
-* Cluster: [construction-project](cluster_3)
+* Cluster: [construction-project](cluster_6)
 
 
 ## Keywords
 
-* [contractor](keyword_contractor), [construction industry](keyword_construction_industry), [construction](keyword_construction), [engineering](keyword_engineering), [economy](keyword_economy), [covid-19](keyword_covid-19), [contract](keyword_contract), [sub theme](keyword_sub_theme), [industry](keyword_industry), [income](keyword_income), [government](keyword_government), [pandemic](keyword_pandemic), earthquake, [supply chain](keyword_supply_chain), [infrastructure](keyword_infrastructure)
+* [contractor](keyword_contractor), [construction industry](keyword_construction_industry), [construction](keyword_construction), [engineering](keyword_engineering), [economy](keyword_economy), [covid-19](keyword_covid-19), [government](keyword_government), [income](keyword_income), earthquake, [sub theme](keyword_sub_theme), [contract](keyword_contract), [industry](keyword_industry), [supply chain](keyword_supply_chain), [covid 19 pandemic](keyword_covid_19_pandemic), [pandemic](keyword_pandemic)
 
 
 
 ## Keywords at large
 
-* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
+* [contractor](keyword_contractor), [construction](keyword_construction), [construction industry](keyword_construction_industry), [engineering](keyword_engineering), [economy](keyword_economy), [covid-19](keyword_covid-19), [sub theme](keyword_sub_theme), [contract](keyword_contract), [industry](keyword_industry), [income](keyword_income)
 
 ## Abstract
 
@@ -42,6 +42,21 @@ contractors in this critical period.
 ## Concepts
 
  ![](imgs/article_king_mechanisms_2021.jpg)
+
+### Closest articles 
+
+* [Perception of COVID-19 impacts on the construction industry over time](article_rokooei_perception_2022)
+* [The Effects of Pandemic on Construction Industry in the UK](article_shibani_effects_2020)
+* [The Impact of Pandemic Crisis on the Survival of Construction Industry: A Case of COVID-19](article_gamil_impact_2020)
+* [Effects to Construction Project Management Impacted Circular Economic of Covid-19 Pandemic](article_paikan_effects_2021)
+* [Overcoming the Impact of COVID-19 Using Integrated Project Delivery Model](article_g_overcoming_2020)
+* [COVID-19 pandemic: the effects and prospects in the
+construction industry.](article_ogunnusi_covid-19_2020)
+* [Influence between COVID-19 Impacts and Project Stakeholders in Chilean Construction Projects](article_araya_influence_2021)
+* [Guidelines for Responding to COVID-19 Pandemic: Best Practices, Impacts, and Future Research Directions](article_assaad_guidelines_2021)
+* [Propositions for a Resilient, Post-COVID-19 Future
+for the AEC Industry](article_nassereddine_propositions_2021)
+* [Analysis of COVID-19 Concerns Raised by the Construction Workforce and Development of Mitigation Practices](article_bou_hatoum_analysis_2021)
 
 ### References 
 

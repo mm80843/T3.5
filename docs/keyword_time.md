@@ -1,7 +1,7 @@
 # Keyword: __time__
 ## Clusters
 
-* Cluster 6: [simulation-model](cluster_6)
+* Cluster 9: [health-building](cluster_9)
 
 ## Concepts
 
@@ -22,11 +22,11 @@ university building ([mokhtari_effect_2021](article_mokhtari_effect_2021))
 * Pandemic Analytics: How Countries are Leveraging
 Big Data Analytics and Artificial Intelligence to
 Fight COVID-19? ([mehta_pandemic_2021](article_mehta_pandemic_2021))
-* Supporting Technologies for COVID-19 Prevention:
-Systemized Review ([zhao_supporting_2022](article_zhao_supporting_2022))
-* COVID19-Routes: A Safe Pedestrian Navigation
-Service ([cantarero_covid19-routes_2021](article_cantarero_covid19-routes_2021))
-* Overcoming the Impact of COVID-19 Using Integrated
-Project Delivery Model ([g_overcoming_2020](article_g_overcoming_2020))
-* Respiratory pandemics, urban planning and design: A
-multidisciplinary rapid review of the literature ([harris_respiratory_2022](article_harris_respiratory_2022))
+* Study of COVID-19 pandemic in London (UK) from urban
+context ([ghosh_study_2020](article_ghosh_study_2020))
+* Impacts of COVID-19 on residential building energy use
+and performance ([kawka_impacts_2021](article_kawka_impacts_2021))
+* The Impact of COVID-19 on Public Space: A
+Review of the Emerging Questions ([honey-roses_impact_2020](article_honey-roses_impact_2020))
+* Exploring the Non-Medical impacts of Covid-19 using
+Natural Language Processing ([agade_exploring_2020](article_agade_exploring_2020))

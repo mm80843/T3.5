@@ -1,8 +1,8 @@
 # Keyword: __uv__
 ## Clusters
 
-* Cluster 2: [air-sars](cluster_2)
-* Cluster 14: [uvgi-uv](cluster_14)
+* Cluster 2: [uv-room](cluster_2)
+* Cluster 5: [uvc-hcov](cluster_5)
 
 ## Concepts
 

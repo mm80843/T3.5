@@ -1,7 +1,7 @@
 # Keyword: __engineering__
 ## Clusters
 
-* Cluster 3: [construction-project](cluster_3)
+* Cluster 6: [construction-project](cluster_6)
 
 ## Concepts
 
@@ -23,10 +23,10 @@ resilience ([hosseini_review_2016](article_hosseini_review_2016))
 * Revisiting the built environment: 10 potential development
 changes and paradigm shifts due to COVID-19 ([cheshmehzangi_revisiting_2021](article_cheshmehzangi_revisiting_2021))
 * ogunnusi_covid-19_2020 ([ogunnusi_covid-19_2020](article_ogunnusi_covid-19_2020))
-* Overcoming the Impact of COVID-19 Using Integrated
-Project Delivery Model ([g_overcoming_2020](article_g_overcoming_2020))
+* nassereddine_propositions_2021 ([nassereddine_propositions_2021](article_nassereddine_propositions_2021))
 * A Global Survey of Infection Control and
 Mitigation Measures for Combating the Transmission
 of COVID-19 Pandemic in Buildings Under
 Facilities Management Services ([sarvari_global_2022](article_sarvari_global_2022))
-* nassereddine_propositions_2021 ([nassereddine_propositions_2021](article_nassereddine_propositions_2021))
+* Overcoming the Impact of COVID-19 Using Integrated
+Project Delivery Model ([g_overcoming_2020](article_g_overcoming_2020))

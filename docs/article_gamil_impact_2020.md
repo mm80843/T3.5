@@ -1,18 +1,18 @@
 # Article: __The Impact of Pandemic Crisis on the Survival of Construction Industry: A Case of COVID-19__ (gamil_impact_2020)
 
 * [10.36941/mjss-2020-0047](https://doi.org/10.36941/mjss-2020-0047)
-* Cluster: [construction-project](cluster_3)
+* Cluster: [construction-project](cluster_6)
 
 
 ## Keywords
 
-* [construction industry](keyword_construction_industry), [pandemic](keyword_pandemic), [construction](keyword_construction), [coronavirus](keyword_coronavirus), [covid-19](keyword_covid-19), [theme](keyword_theme), [industry](keyword_industry), [survey](keyword_survey), [economy](keyword_economy), [analysis](keyword_analysis), I ii, [covid 19 pandemic](keyword_covid_19_pandemic), time overrun, [poland](keyword_poland), [sample](keyword_sample)
+* [construction industry](keyword_construction_industry), [pandemic](keyword_pandemic), [construction](keyword_construction), [coronavirus](keyword_coronavirus), [covid-19](keyword_covid-19), [industry](keyword_industry), [economy](keyword_economy), [survey](keyword_survey), [theme](keyword_theme), [analysis](keyword_analysis), [covid 19 pandemic](keyword_covid_19_pandemic), time overrun, [sample](keyword_sample), sample size, krakow
 
 
 
 ## Keywords at large
 
-* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
+* [construction industry](keyword_construction_industry), [construction](keyword_construction), [pandemic](keyword_pandemic), [coronavirus](keyword_coronavirus), [covid-19](keyword_covid-19), [theme](keyword_theme), [industry](keyword_industry), [economy](keyword_economy), [survey](keyword_survey), [analysis](keyword_analysis)
 
 ## Abstract
 
@@ -50,4 +50,18 @@ during the planning stage of the construction projects.
 ## Concepts
 
  ![](imgs/article_gamil_impact_2020.jpg)
+
+### Closest articles 
+
+* [Perception of COVID-19 impacts on the construction industry over time](article_rokooei_perception_2022)
+* [Influence between COVID-19 Impacts and Project Stakeholders in Chilean Construction Projects](article_araya_influence_2021)
+* [The Effects of Pandemic on Construction Industry in the UK](article_shibani_effects_2020)
+* [COVID-19 pandemic: the effects and prospects in the
+construction industry.](article_ogunnusi_covid-19_2020)
+* [Mechanisms for addressing the impact of COVID-19 on infrastructure projects](article_king_mechanisms_2021)
+* [Guidelines for Responding to COVID-19 Pandemic: Best Practices, Impacts, and Future Research Directions](article_assaad_guidelines_2021)
+* [Effects to Construction Project Management Impacted Circular Economic of Covid-19 Pandemic](article_paikan_effects_2021)
+* [Identifying Actions to Control and Mitigate the Effects of the COVID-19 Pandemic on Construction Organizations: Preliminary Findings](article_raoufi_identifying_2021)
+* [Analysis of COVID-19 Concerns Raised by the Construction Workforce and Development of Mitigation Practices](article_bou_hatoum_analysis_2021)
+* [Overcoming the Impact of COVID-19 Using Integrated Project Delivery Model](article_g_overcoming_2020)
 

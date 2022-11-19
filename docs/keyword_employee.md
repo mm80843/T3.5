@@ -1,7 +1,7 @@
 # Keyword: __employee__
 ## Clusters
 
-* Cluster 3: [construction-project](cluster_3)
+* Cluster 6: [construction-project](cluster_6)
 
 ## Concepts
 
@@ -25,4 +25,5 @@ Environment of Office Buildings and Spaces ([phapant_covid-19_2021](article_phap
 COVID-19 pandemic in The Netherlands ([hou_study_2021](article_hou_study_2021))
 * Impacts of COVID-19 on Health and Safety of
 Workforce in Construction Industry ([pamidimukkala_impacts_2021](article_pamidimukkala_impacts_2021))
-* council_of_europe_2020_2020 ([council_of_europe_2020_2020](article_council_of_europe_2020_2020))
+* Green in times of COVID-19: urban green space relevance
+during the COVID-19 pandemic in Buenos Aires City ([marconi_green_2022](article_marconi_green_2022))

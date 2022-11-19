@@ -1,18 +1,18 @@
 # Article: __COVID-19 Could Leverage a Sustainable Built Environment__ (pinheiro_covid-19_2020)
 
 * [10.3390/su12145863](https://doi.org/10.3390/su12145863)
-* Cluster: [space-urban](cluster_13)
+* Cluster: [health-building](cluster_9)
 
 
 ## Keywords
 
-* [infectious disease](keyword_infectious_disease), [covid-19](keyword_covid-19), [pandemic](keyword_pandemic), [public health](keyword_public_health), [urban area](keyword_urban_area), [build environment](keyword_build_environment), [build](keyword_build), [virus](keyword_virus), [sustainability](keyword_sustainability), [building](keyword_building), [tuberculosis](keyword_tuberculosis), [vulnerability](keyword_vulnerability), [environ](keyword_environ), [health](keyword_health), [transmission](keyword_transmission)
+* [covid-19](keyword_covid-19), [infectious disease](keyword_infectious_disease), [build](keyword_build), [pandemic](keyword_pandemic), [public health](keyword_public_health), [urban area](keyword_urban_area), [build environment](keyword_build_environment), [virus](keyword_virus), [sustainability](keyword_sustainability), [tuberculosis](keyword_tuberculosis), [transmission](keyword_transmission), [resilience](keyword_resilience), [disease](keyword_disease), [vulnerability](keyword_vulnerability), [health](keyword_health)
 
 
 
 ## Keywords at large
 
-* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
+* [covid-19](keyword_covid-19), [infectious disease](keyword_infectious_disease), [build](keyword_build), [pandemic](keyword_pandemic), [public health](keyword_public_health), [urban area](keyword_urban_area), [build environment](keyword_build_environment), [virus](keyword_virus), [sustainability](keyword_sustainability), [tuberculosis](keyword_tuberculosis)
 
 ## Abstract
 
@@ -53,6 +53,22 @@ be further researched.
 
  ![](imgs/article_pinheiro_covid-19_2020.jpg)
 
+### Closest articles 
+
+* [Antivirus-built environment: Lessons learned from Covid-19 pandemic](article_megahed_antivirus-built_2020)
+* [Revisiting the built environment: 10 potential development changes and paradigm shifts due to COVID-19](article_cheshmehzangi_revisiting_2021)
+* [Navigating Climate Change: Rethinking the Role of Buildings](article_cole_navigating_2020)
+* [COVID-19 Lessons for a Resilient Built
+Environment: A Roadmap](article_hull_covid-19_2020)
+* [Biophilic design in architecture and its contributions to health, well-being, and sustainability: A critical review](article_zhong_biophilic_2022)
+* [Coronavirus questions that will not go away: interrogating urban and socio-spatial implications of COVID-19 measures](article_salama_coronavirus_2020)
+* [Learning from pandemics: Applying resilience thinking to identify priorities for planning urban settlements](article_syal_learning_2021)
+* [COVID-19 Pandemic: Rethinking Strategies for
+Resilient Urban Design, Perceptions, and
+Planning](article_afrin_covid-19_2021)
+* [Epidemics, Planning and the City: A Special Issue of Planning Perspectives](article_davis_epidemics_2022)
+* [The Impact of COVID-19 on Public Space: A Review of the Emerging Questions](article_honey-roses_impact_2020)
+
 ### References 
 
 * [The socio-economic implications of the coronavirus
@@ -62,6 +78,10 @@ environmental strategy of environment in global context](article_paital_nurture_
 * [2019 Novel Coronavirus (COVID-19) Pandemic:
 Built Environment Considerations To Reduce
 Transmission](article_dietz_2019_2020)
+* [COVID-19 Pandemic: Prevention and Protection
+Measures to Be Adopted at the Workplace](article_cirrincione_covid-19_2020)
+* [COVID-19 and the UN Sustainable Development
+Goals: Threat to Solidarity or an Opportunity?](article_leal_filho_covid-19_2020)
 * [COVID-19: Lessons for an Urban(izing) World](article_acuto_covid-19_2020)
 * [Mechanistic insights into the effect of humidity on
 airborne influenza virus survival, transmission and

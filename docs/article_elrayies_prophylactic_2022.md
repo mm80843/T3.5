@@ -1,18 +1,18 @@
 # Article: __Prophylactic Architecture: Formulating the Concept of Pandemic-Resilient Homes__ (elrayies_prophylactic_2022)
 
 * [10.3390/buildings12070927](https://doi.org/10.3390/buildings12070927)
-* Cluster: [space-urban](cluster_13)
+* Cluster: [health-building](cluster_9)
 
 
 ## Keywords
 
-* [covid-19](keyword_covid-19), [pandemic](keyword_pandemic), [environ](keyword_environ), [home](keyword_home), [covid 19 pandemic](keyword_covid_19_pandemic), [ventilation](keyword_ventilation), [housing](keyword_housing), [balcony](keyword_balcony), [epidemic](keyword_epidemic), [mental health](keyword_mental_health), [lockdown](keyword_lockdown), [copper](keyword_copper), elevator, [window](keyword_window), [infection](keyword_infection)
+* [covid-19](keyword_covid-19), [pandemic](keyword_pandemic), [home](keyword_home), [covid 19 pandemic](keyword_covid_19_pandemic), [housing](keyword_housing), [epidemic](keyword_epidemic), [balcony](keyword_balcony), [mental health](keyword_mental_health), [ventilation](keyword_ventilation), elevator, [infection](keyword_infection), [window](keyword_window), [copper](keyword_copper), [coronavirus](keyword_coronavirus), [kitchen](keyword_kitchen)
 
 
 
 ## Keywords at large
 
-* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
+* [covid-19](keyword_covid-19), [pandemic](keyword_pandemic), [home](keyword_home), [covid 19 pandemic](keyword_covid_19_pandemic), [ventilation](keyword_ventilation), [housing](keyword_housing), [balcony](keyword_balcony), [epidemic](keyword_epidemic), [mental health](keyword_mental_health), [lockdown](keyword_lockdown)
 
 ## Abstract
 
@@ -44,6 +44,19 @@ focusing on the physical and architectural environment.
 
  ![](imgs/article_elrayies_prophylactic_2022.jpg)
 
+### Closest articles 
+
+* [](article_dalessandro_covid-19_2020)
+* [COVID-19 and Green Housing: A Review of Relevant Literature](article_kaklauskas_covid-19_2021)
+* [How is COVID-19 Experience Transforming Sustainability Requirements of Residential Buildings? A Review](article_tokazhanov_how_2020)
+* [Towards Resilient Residential Buildings and Neighborhoods in Light of COVID-19 Pandemic—The Scenario of Podgorica, Montenegro](article_bojovic_towards_2022)
+* [How our homes impact our health: using a COVID-19 informed approach to examine urban apartment housing](article_peters_how_2020)
+* [realdania_refleksioner_2022_EN](article_realdania_refleksioner_2022_EN)
+* [How the Coronavirus Will Reshape Architecture](article_chayka_how_2020)
+* [RESIDENTIAL ARCHITECTURE IN A POST-PANDEMIC WORLD: IMPLICATIONS OF COVID-19 FOR NEW CONSTRUCTION AND FOR ADAPTING HERITAGE BUILDINGS](article_spennemann_residential_2021)
+* [Questioning the use of the balcony in apartments during the COVID-19 pandemic process](article_aydin_questioning_2020)
+* [A Mixed Approach on Resilience of Spanish Dwellings and Households during COVID-19 Lockdown](article_cuerdo-vilches_mixed_2020)
+
 ### References 
 
 * [How can airborne transmission of COVID-19 indoors be
@@ -62,6 +75,8 @@ Buildings? A Review](article_tokazhanov_how_2020)
 * [Pandemic stricken cities on lockdown. Where are our
 planning and design professionals [now, then and into the
 future]?](article_allam_pandemic_2020)
+* [Public housing and COVID-19: contestation, challenge and
+change](article_power_public_2020)
 * [Designing Post COVID-19 Buildings: Approaches for
 Achieving Healthy Buildings](article_navaratnam_designing_2022)
 * [A critical review of heating, ventilation, and air
@@ -111,6 +126,8 @@ Transportation and Industrial IoT](article_umair_impact_2021)
 * [Sars-CoV-2 (COVID-19) inactivation capability of
 copper-coated touch surface fabricated by cold-spray
 technology](article_hutasoit_sars-cov-2_2020)
+* [COVID-19 Pandemic: Prevention and Protection
+Measures to Be Adopted at the Workplace](article_cirrincione_covid-19_2020)
 * [Persistence of coronaviruses on inanimate surfaces and
 their inactivation with biocidal agents](article_kampf_persistence_2020)
 * [A Review on Building Design as a Biomedical

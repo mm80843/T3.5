@@ -1,18 +1,18 @@
 # Article: __Overcoming the Impact of COVID-19 Using Integrated Project Delivery Model__ (g_overcoming_2020)
 
 * [10.21203/rs.3.rs-66806/v1](https://doi.org/10.21203/rs.3.rs-66806/v1)
-* Cluster: [construction-project](cluster_3)
+* Cluster: [construction-project](cluster_6)
 
 
 ## Keywords
 
-* [value engineering](keyword_value_engineering), [construction](keyword_construction), [contractor](keyword_contractor), [project management](keyword_project_management), [design](keyword_design), [india](keyword_india), [lifecycle](keyword_lifecycle), [facility management](keyword_facility_management), [cost](keyword_cost), [project](keyword_project), null hypothesis, [engineering](keyword_engineering), [maintenance](keyword_maintenance), [technology](keyword_technology), client
+* [value engineering](keyword_value_engineering), [construction](keyword_construction), [contractor](keyword_contractor), [project management](keyword_project_management), [design](keyword_design), [lifecycle](keyword_lifecycle), [india](keyword_india), [project](keyword_project), null hypothesis, [facility management](keyword_facility_management), [engineering](keyword_engineering), [cost](keyword_cost), [technology](keyword_technology), [maintenance](keyword_maintenance), client
 
 
 
 ## Keywords at large
 
-* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
+* [value engineering](keyword_value_engineering), [construction](keyword_construction), [contractor](keyword_contractor), [project management](keyword_project_management), [design](keyword_design), [india](keyword_india), [lifecycle](keyword_lifecycle), [cost](keyword_cost), [facility management](keyword_facility_management), [project](keyword_project)
 
 ## Abstract
 
@@ -54,4 +54,19 @@ the research
 ## Concepts
 
  ![](imgs/article_g_overcoming_2020.jpg)
+
+### Closest articles 
+
+* [Effects to Construction Project Management Impacted Circular Economic of Covid-19 Pandemic](article_paikan_effects_2021)
+* [Mechanisms for addressing the impact of COVID-19 on infrastructure projects](article_king_mechanisms_2021)
+* [Perception of COVID-19 impacts on the construction industry over time](article_rokooei_perception_2022)
+* [Propositions for a Resilient, Post-COVID-19 Future
+for the AEC Industry](article_nassereddine_propositions_2021)
+* [COVID-19 pandemic: the effects and prospects in the
+construction industry.](article_ogunnusi_covid-19_2020)
+* [The Impact of Pandemic Crisis on the Survival of Construction Industry: A Case of COVID-19](article_gamil_impact_2020)
+* [The Effects of Pandemic on Construction Industry in the UK](article_shibani_effects_2020)
+* [Guidelines for Responding to COVID-19 Pandemic: Best Practices, Impacts, and Future Research Directions](article_assaad_guidelines_2021)
+* [Covid-19 Associated Risks and Mitigation Strategies relevant for the UK Construction Industry](article_dan-jumbo_covid-19_2021)
+* [Analysis of COVID-19 Concerns Raised by the Construction Workforce and Development of Mitigation Practices](article_bou_hatoum_analysis_2021)
 

@@ -1,18 +1,18 @@
 # Article: __Questioning the use of the balcony in apartments during the COVID-19 pandemic process__ (aydin_questioning_2020)
 
 * [10.1108/ARCH-09-2020-0202](https://doi.org/10.1108/ARCH-09-2020-0202)
-* Cluster: [space-urban](cluster_13)
+* Cluster: [health-building](cluster_9)
 
 
 ## Keywords
 
-* [balcony](keyword_balcony), [cookie](keyword_cookie), [manage cookie](keyword_manage_cookie), [pandemic](keyword_pandemic), [accept](keyword_accept), [house](keyword_house), [setting](keyword_setting), [apartment](keyword_apartment), [epidemic](keyword_epidemic), [konya](keyword_konya), [privacy](keyword_privacy), [methodology](keyword_methodology), [kitchen](keyword_kitchen), [noise](keyword_noise), ljubljana
+* [balcony](keyword_balcony), [pandemic](keyword_pandemic), [house](keyword_house), [apartment](keyword_apartment), [epidemic](keyword_epidemic), [konya](keyword_konya), [privacy](keyword_privacy), [noise](keyword_noise), [ljubljana](keyword_ljubljana), [family](keyword_family), [pandemic process](keyword_pandemic_process), [kitchen](keyword_kitchen), methodology, [architect](keyword_architect), turkey
 
 
 
 ## Keywords at large
 
-* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
+* [balcony](keyword_balcony), [pandemic](keyword_pandemic), [house](keyword_house), [apartment](keyword_apartment), [epidemic](keyword_epidemic), [konya](keyword_konya), [privacy](keyword_privacy), [pandemic process](keyword_pandemic_process), [ljubljana](keyword_ljubljana), [kitchen](keyword_kitchen)
 
 ## Abstract
 
@@ -77,4 +77,17 @@ regarding the location of the balcony in the house.
 ## Concepts
 
  ![](imgs/article_aydin_questioning_2020.jpg)
+
+### Closest articles 
+
+* [Housing Experience in Gated Communities in the Time of Pandemics: Lessons Learned from COVID-19](article_asfour_housing_2022)
+* [How our homes impact our health: using a COVID-19 informed approach to examine urban apartment housing](article_peters_how_2020)
+* [Towards Resilient Residential Buildings and Neighborhoods in Light of COVID-19 Pandemic—The Scenario of Podgorica, Montenegro](article_bojovic_towards_2022)
+* [realdania_refleksioner_2022_EN](article_realdania_refleksioner_2022_EN)
+* [A Mixed Approach on Resilience of Spanish Dwellings and Households during COVID-19 Lockdown](article_cuerdo-vilches_mixed_2020)
+* [Dangerous liaisons? Applying the social harm perspective to the social inequality, housing and health trifecta during the Covid-19 pandemic](article_gurney_dangerous_2021)
+* [Eviction, Health Inequity, and the Spread of COVID-19: Housing Policy as a Primary Pandemic Mitigation Strategy](article_benfer_eviction_2021)
+* [Assessment of COVID-19 precautionary measures in sports facilities: A case study on a health club in Saudi Arabia](article_ibrahim_assessment_2022)
+* [Prophylactic Architecture: Formulating the Concept of Pandemic-Resilient Homes](article_elrayies_prophylactic_2022)
+* [How the Coronavirus Will Reshape Architecture](article_chayka_how_2020)
 

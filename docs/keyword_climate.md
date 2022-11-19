@@ -1,7 +1,7 @@
 # Keyword: __climate__
 ## Clusters
 
-* Cluster 9: [climate-change](cluster_9)
+* Cluster 12: [climate-change](cluster_12)
 
 ## Concepts
 
@@ -17,12 +17,13 @@ COVID-19: A systematic review ([mecenas_effects_2020](article_mecenas_effects_20
 and the quality of indoor climate on the cost of space,
 productivity and sick leave in an office building–A
 case study ([saari_effect_2006](article_saari_effect_2006))
+* Study of COVID-19 pandemic in London (UK) from urban
+context ([ghosh_study_2020](article_ghosh_study_2020))
 * Navigating Climate Change: Rethinking the Role of
 Buildings ([cole_navigating_2020](article_cole_navigating_2020))
-* harvard_th_chan_schoold_of_public_health_coronavirus_2020 ([harvard_th_chan_schoold_of_public_health_coronavirus_2020](article_harvard_th_chan_schoold_of_public_health_coronavirus_2020))
 * Climate and the spread of COVID-19 ([chen_climate_2021](article_chen_climate_2021))
-* harvard_chan_community_coronavirus_2020 ([harvard_chan_community_coronavirus_2020](article_harvard_chan_community_coronavirus_2020))
-* world_green_building_council_health_2014 ([world_green_building_council_health_2014](article_world_green_building_council_health_2014))
+* harvard_th_chan_schoold_of_public_health_coronavirus_2020 ([harvard_th_chan_schoold_of_public_health_coronavirus_2020](article_harvard_th_chan_schoold_of_public_health_coronavirus_2020))
 * Characterization and performance evaluation of a
 full-scale activated carbon-based dynamic botanical air
 filtration system for improving indoor air quality ([wang_characterization_2011](article_wang_characterization_2011))
+* harvard_chan_community_coronavirus_2020 ([harvard_chan_community_coronavirus_2020](article_harvard_chan_community_coronavirus_2020))

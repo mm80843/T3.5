@@ -1,9 +1,7 @@
 # Keyword: __wastewater__
 ## Clusters
 
-* Cluster 7: [liver-province](cluster_7)
-* Cluster 12: [wastewater-sars](cluster_12)
-* Cluster 15: [water-wastewater](cluster_15)
+* Cluster 1: [wastewater-sars](cluster_1)
 
 ## Concepts
 
@@ -32,12 +30,12 @@ than Expected from Clinically Confirmed Cases ([wu_sars-cov-2_2020](article_wu_s
 * How is COVID-19 Experience Transforming
 Sustainability Requirements of Residential
 Buildings? A Review ([tokazhanov_how_2020](article_tokazhanov_how_2020))
+* When the fourth water and digital revolution encountered
+COVID-19 ([poch_when_2020](article_poch_when_2020))
 * An environmental and health perspective for COVID-19
 outbreak: Meteorology and air quality influence, sewage
 epidemiology indicator, hospitals disinfection, drug
 therapies and recommendations ([barcelo_environmental_2020](article_barcelo_environmental_2020))
-* When the fourth water and digital revolution encountered
-COVID-19 ([poch_when_2020](article_poch_when_2020))
 * Readiness Assessment of Green Building
 Certification Systems for Residential Buildings
 during Pandemics ([tleuken_readiness_2021](article_tleuken_readiness_2021))

@@ -2,18 +2,18 @@
             <sup>†</sup>__ (nardell_air_2021)
 
 * [10.1111/php.13421](https://doi.org/10.1111/php.13421)
-* Cluster: [air-sars](cluster_2)
+* Cluster: [uv-room](cluster_2)
 
 
 ## Keywords
 
-* [ventilation](keyword_ventilation), [airborne infection](keyword_airborne_infection), [uv](keyword_uv), [covid-19](keyword_covid-19), [ultraviolet](keyword_ultraviolet), [disinfection](keyword_disinfection), [tuberculosis](keyword_tuberculosis), [transmission](keyword_transmission), [germicidal](keyword_germicidal), [infectious](keyword_infectious), mechanical ventilation, [air](keyword_air), [environ](keyword_environ), [airborne transmission](keyword_airborne_transmission), [tb](keyword_tb)
+* [ventilation](keyword_ventilation), [airborne infection](keyword_airborne_infection), [uv](keyword_uv), [ultraviolet](keyword_ultraviolet), [disinfection](keyword_disinfection), [covid-19](keyword_covid-19), [tuberculosis](keyword_tuberculosis), [transmission](keyword_transmission), [infectious](keyword_infectious), [germicidal](keyword_germicidal), mechanical ventilation, [airborne transmission](keyword_airborne_transmission), [tb](keyword_tb), room air cleaner, eye
 
 
 
 ## Keywords at large
 
-* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
+* [ventilation](keyword_ventilation), [covid-19](keyword_covid-19), [airborne infection](keyword_airborne_infection), [uv](keyword_uv), [ultraviolet](keyword_ultraviolet), [disinfection](keyword_disinfection), [tuberculosis](keyword_tuberculosis), [transmission](keyword_transmission), [infectious](keyword_infectious), [germicidal](keyword_germicidal)
 
 ## Abstract
 
@@ -46,6 +46,23 @@ COVID-19 spread.
 ## Concepts
 
  ![](imgs/article_nardell_air_2021.jpg)
+
+### Closest articles 
+
+* [Applications of ultraviolet germicidal irradiation disinfection in health care facilities: Effective adjunct, but not stand-alone technology](article_memarzadeh_applications_2010)
+* [Upper-Room Ultraviolet Light and Negative Air Ionization to Prevent Tuberculosis Transmission](article_escombe_upper-room_2009)
+* [Methods for air cleaning and protection of building occupants from airborne pathogens](article_bolashikov_methods_2009)
+* [Behind the Update: ASHRAE Handbook Chapters on
+UV-C to Include Updated Best Practices,
+Guidance](article_ashrae_behind_2020)
+* [Upper-room ultraviolet air disinfection might help to reduce COVID-19 transmission in buildings: a feasibility study](article_beggs_upper-room_2020)
+* [morawska_how_2020-1](article_morawska_how_2020-1)
+* [Case Study: Using Germicidal UV-C to Mitigate
+COVID-19 - HVAC](article_healthcare_facilities_today_case_2021)
+* [ASHRAE Position Document on Infectious
+Aerosols](article_ashrae_ashrae_2022)
+* [How can airborne transmission of COVID-19 indoors be minimised?](article_morawska_how_2020)
+* [Effect of Ultraviolet Germicidal Irradiation on Viral Aerosols](article_walker_effect_2007)
 
 ### References 
 

@@ -1,18 +1,18 @@
 # Article: __Amplifying the role of knowledge translation platforms in the COVID-19 pandemic response__ (el-jardali_amplifying_2020)
 
 * [10.1186/s12961-020-00576-y](https://doi.org/10.1186/s12961-020-00576-y)
-* Cluster: [resilience-health](cluster_4)
+* Cluster: [health-building](cluster_9)
 
 
 ## Keywords
 
-* [pandemic](keyword_pandemic), [policy](keyword_policy), [public health](keyword_public_health), [evidence](keyword_evidence), [covid-19](keyword_covid-19), [covid 19 pandemic](keyword_covid_19_pandemic), [research](keyword_research), [public health crisis](keyword_public_health_crisis), [el jardali](keyword_el_jardali), [fake news](keyword_fake_news), [crisis](keyword_crisis), kt platform, jardali, practice, syst
+* [pandemic](keyword_pandemic), [policy](keyword_policy), [public health](keyword_public_health), [evidence](keyword_evidence), [covid 19 pandemic](keyword_covid_19_pandemic), [research](keyword_research), [covid-19](keyword_covid-19), [public health crisis](keyword_public_health_crisis), [el jardali](keyword_el_jardali), [fake news](keyword_fake_news), [crisis](keyword_crisis), kt platform, jardali, syst, practice
 
 
 
 ## Keywords at large
 
-* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
+* [pandemic](keyword_pandemic), [policy](keyword_policy), [public health](keyword_public_health), [evidence](keyword_evidence), [covid-19](keyword_covid-19), [covid 19 pandemic](keyword_covid_19_pandemic), [research](keyword_research), [public health crisis](keyword_public_health_crisis), [el jardali](keyword_el_jardali), [fake news](keyword_fake_news)
 
 ## Abstract
 
@@ -44,6 +44,19 @@ policy-making processes.
 ## Concepts
 
  ![](imgs/article_el-jardali_amplifying_2020.jpg)
+
+### Closest articles 
+
+* [From Viral City to Smart City: Learning from Pandemic Experiences](article_sakellarides_viral_2020)
+* [10 Adaptive Measures for Public Places to face the COVID 19 Pandemic Outbreak](article_cheshmehzangi_10_2020)
+* [WHO-2019-nCoV-Urban_preparedness-2020.1-eng](article_WHO-2019-nCoV-Urban_preparedness-2020.1-eng)
+* [Towards the sustainable development of smart cities through mass video surveillance: A response to the COVID-19 pandemic](article_shorfuzzaman_towards_2021)
+* [Pandemiens arkitektur](article_realdania_pandemiens_2022)
+* [Refleksioner fra en pandemi](article_realdania_refleksioner_2022)
+* [Urban Green Infrastructure and Green Open Spaces: An Issue of Social Fairness in Times of COVID-19 Crisis](article_reinwald_urban_2021)
+* [The Impact of COVID-19 on Public Space: A Review of the Emerging Questions](article_honey-roses_impact_2020)
+* [](article_huy-tran_design_2022)
+* [Smart cities and a data-driven response to COVID-19](article_james_smart_2020)
 
 ### References 
 

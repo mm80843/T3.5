@@ -1,18 +1,18 @@
 # Article: __A Comprehensive Review of the COVID-19 Pandemic and the Role of IoT, Drones, AI, Blockchain, and 5G in Managing its Impact__ (chamola_comprehensive_2020)
 
 * [10.1109/ACCESS.2020.2992341](https://doi.org/10.1109/ACCESS.2020.2992341)
-* Cluster: [health-ai](cluster_1)
+* Cluster: [blockchain-ai](cluster_11)
 
 
 ## Keywords
 
-* [online](keyword_online), [covid-19](keyword_covid-19), [covid 19 pandemic](keyword_covid_19_pandemic), [china](keyword_china), [blockchain](keyword_blockchain), [vaccine](keyword_vaccine), [coronavirus](keyword_coronavirus), [5g](keyword_5g), [pandemic](keyword_pandemic), [india](keyword_india), [virus](keyword_virus), covid 19 outbreak, [lockdown](keyword_lockdown), [drone](keyword_drone), [world health organization](keyword_world_health_organization)
+* [covid-19](keyword_covid-19), [covid 19 pandemic](keyword_covid_19_pandemic), [blockchain](keyword_blockchain), [china](keyword_china), [vaccine](keyword_vaccine), [coronavirus](keyword_coronavirus), [india](keyword_india), [pandemic](keyword_pandemic), [virus](keyword_virus), [covid 19 outbreak](keyword_covid_19_outbreak), [5 g](keyword_5_g), [drone](keyword_drone), [new south wale](keyword_new_south_wale), [lockdown](keyword_lockdown), [artificial intelligence](keyword_artificial_intelligence)
 
 
 
 ## Keywords at large
 
-* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
+* [covid-19](keyword_covid-19), [covid 19 pandemic](keyword_covid_19_pandemic), [china](keyword_china), [blockchain](keyword_blockchain), [vaccine](keyword_vaccine), [pandemic](keyword_pandemic), [coronavirus](keyword_coronavirus), [india](keyword_india), [virus](keyword_virus), [covid 19 outbreak](keyword_covid_19_outbreak)
 
 ## Abstract
 
@@ -48,6 +48,22 @@ COVID-19 outbreak.
 ## Concepts
 
  ![](imgs/article_chamola_comprehensive_2020.jpg)
+
+### Closest articles 
+
+* [Emerging Technologies to Combat the COVID-19 Pandemic](article_vaishya_emerging_2020)
+* [Internet of things (IoT) applications to fight against COVID-19 pandemic](article_singh_internet_2020)
+* [Leveraging Digital Transformation Technologies to Tackle COVID-19: Proposing a Privacy-First Holistic Framework](article_arpaci_leveraging_2021)
+* [The role of 5G for digital healthcare against COVID-19 pandemic: Opportunities and challenges](article_siriwardhana_role_2021)
+* [Significant applications of virtual reality for COVID-19 pandemic](article_singh_significant_2020)
+* [Mobile Technology Solution for COVID-19: Surveillance and Prevention](article_raza_mobile_2021)
+* [10 tech trends getting us through the COVID-19
+pandemic](article_yan_10_2020)
+* [Drones. Disinfecting robots. Supercomputers. The
+coronavirus outbreak is a test for China's tech industry
+\textbar CNN Business](article_wang_drones_2020)
+* [2020 Data Protection Report](article_council_of_europe_2020_2020)
+* [Challenges of data sharing in European Covid-19 projects: A learning opportunity for advancing pandemic preparedness and response](article_tacconelli_challenges_2022)
 
 ### References 
 

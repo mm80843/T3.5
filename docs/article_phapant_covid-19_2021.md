@@ -1,18 +1,18 @@
 # Article: __COVID-19 Experience Transforming the Protective Environment of Office Buildings and Spaces__ (phapant_covid-19_2021)
 
 * [10.3390/su132413636](https://doi.org/10.3390/su132413636)
-* Cluster: [building-health](cluster_10)
+* Cluster: [health-building](cluster_9)
 
 
 ## Keywords
 
-* [covid-19](keyword_covid-19), [covid 19 pandemic](keyword_covid_19_pandemic), [workplace](keyword_workplace), [pandemic](keyword_pandemic), [virus](keyword_virus), [infection](keyword_infection), [coronavirus](keyword_coronavirus), [environ](keyword_environ), [worker](keyword_worker), [office](keyword_office), [sar cov 2](keyword_sar_cov_2), [china](keyword_china), refrigerate, [air conditioning](keyword_air_conditioning), international
+* [covid-19](keyword_covid-19), [covid 19 pandemic](keyword_covid_19_pandemic), [workplace](keyword_workplace), [virus](keyword_virus), [pandemic](keyword_pandemic), [infection](keyword_infection), [coronavirus](keyword_coronavirus), [worker](keyword_worker), [office](keyword_office), [china](keyword_china), [air conditioning](keyword_air_conditioning), refrigerate, international, [health](keyword_health), [heating](keyword_heating)
 
 
 
 ## Keywords at large
 
-* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
+* [covid-19](keyword_covid-19), [covid 19 pandemic](keyword_covid_19_pandemic), [workplace](keyword_workplace), [pandemic](keyword_pandemic), [virus](keyword_virus), [infection](keyword_infection), [coronavirus](keyword_coronavirus), [worker](keyword_worker), [office](keyword_office), [china](keyword_china)
 
 ## Abstract
 
@@ -53,6 +53,21 @@ protect workers from the COVID-19 pandemic.
 
  ![](imgs/article_phapant_covid-19_2021.jpg)
 
+### Closest articles 
+
+* [A study on office workplace modification during the COVID-19 pandemic in The Netherlands](article_hou_study_2021)
+* [It’s time to reimagine where and how work will get done
+(PwC’s US Remote Work Survey)](article_pricewaterhousecoopers_its_2021)
+* [The COVID-19 Impact on Flexible Office Space](article_clifton_covid-19_2020)
+* [Health, Wellbeing \& Productivity in Offices](article_world_green_building_council_health_2014)
+* [Occupant health in buildings: Impact of the COVID-19 pandemic on the opinions of building professionals and implications on research](article_awada_occupant_2022)
+* [Architectural Design Drives the Biogeography of Indoor Bacterial Communities](article_kembel_architectural_2014)
+* [Ten questions concerning occupant health in buildings during normal operations and extreme events including the COVID-19 pandemic](article_awada_ten_2021)
+* [The contribution of green buildings in the fight against
+COVID-19](article_world_green_building_council_contribution_2020)
+* [](article_yakubu_aminu_dodo_green_2020)
+* [Adaptive Design of the Built Environment to Mitigate the Transmission Risk of COVID-19](article_ara_dilshad_shangi_adaptive_2020)
+
 ### References 
 
 * [Antivirus-built environment: Lessons learned from
@@ -71,6 +86,8 @@ Compared with SARS-CoV-1](article_van_doremalen_aerosol_2020)
 * [Aerosol and Surface Distribution of Severe Acute
 Respiratory Syndrome Coronavirus 2 in Hospital
 Wards, Wuhan, China, 2020](article_guo_aerosol_2020)
+* [COVID-19 Pandemic: Prevention and Protection
+Measures to Be Adopted at the Workplace](article_cirrincione_covid-19_2020)
 
 ### Cited by 
 

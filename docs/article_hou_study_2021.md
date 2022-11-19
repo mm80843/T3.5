@@ -1,18 +1,18 @@
 # Article: __A study on office workplace modification during the COVID-19 pandemic in The Netherlands__ (hou_study_2021)
 
 * [10.1108/JCRE-10-2020-0051](https://doi.org/10.1108/JCRE-10-2020-0051)
-* Cluster: [building-health](cluster_10)
+* Cluster: [health-building](cluster_9)
 
 
 ## Keywords
 
-* [covid 19 pandemic](keyword_covid_19_pandemic), [workplace](keyword_workplace), [organisation](keyword_organisation), [workplace management](keyword_workplace_management), [netherland](keyword_netherland), [business strategy](keyword_business_strategy), [workplace modification](keyword_workplace_modification), [office](keyword_office), [management](keyword_management), [crem](keyword_crem), [pandemic](keyword_pandemic), [social distancing](keyword_social_distancing), interview, [risk management](keyword_risk_management), [business](keyword_business)
+* [covid 19 pandemic](keyword_covid_19_pandemic), [workplace](keyword_workplace), [organisation](keyword_organisation), [workplace management](keyword_workplace_management), [netherland](keyword_netherland), [business strategy](keyword_business_strategy), [workplace modification](keyword_workplace_modification), [office](keyword_office), [management](keyword_management), [crem](keyword_crem), [pandemic](keyword_pandemic), [business](keyword_business), [social distancing](keyword_social_distancing), risk management, [covid-19](keyword_covid-19)
 
 
 
 ## Keywords at large
 
-* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
+* [covid 19 pandemic](keyword_covid_19_pandemic), [workplace](keyword_workplace), [organisation](keyword_organisation), [workplace management](keyword_workplace_management), [netherland](keyword_netherland), [business strategy](keyword_business_strategy), [workplace modification](keyword_workplace_modification), [office](keyword_office), [management](keyword_management), [crem](keyword_crem)
 
 ## Abstract
 
@@ -52,4 +52,18 @@ changes of office workplace environment.
 ## Concepts
 
  ![](imgs/article_hou_study_2021.jpg)
+
+### Closest articles 
+
+* [It’s time to reimagine where and how work will get done
+(PwC’s US Remote Work Survey)](article_pricewaterhousecoopers_its_2021)
+* [COVID-19 Experience Transforming the Protective Environment of Office Buildings and Spaces](article_phapant_covid-19_2021)
+* [The COVID-19 Impact on Flexible Office Space](article_clifton_covid-19_2020)
+* [Health, Wellbeing \& Productivity in Offices](article_world_green_building_council_health_2014)
+* [Occupant health in buildings: Impact of the COVID-19 pandemic on the opinions of building professionals and implications on research](article_awada_occupant_2022)
+* [Architectural Design Drives the Biogeography of Indoor Bacterial Communities](article_kembel_architectural_2014)
+* [Impacts of COVID-19 on Health and Safety of Workforce in Construction Industry](article_pamidimukkala_impacts_2021)
+* [Adaptive Design of the Built Environment to Mitigate the Transmission Risk of COVID-19](article_ara_dilshad_shangi_adaptive_2020)
+* [RESIDENTIAL ARCHITECTURE IN A POST-PANDEMIC WORLD: IMPLICATIONS OF COVID-19 FOR NEW CONSTRUCTION AND FOR ADAPTING HERITAGE BUILDINGS](article_spennemann_residential_2021)
+* [Ten questions concerning occupant health in buildings during normal operations and extreme events including the COVID-19 pandemic](article_awada_ten_2021)
 

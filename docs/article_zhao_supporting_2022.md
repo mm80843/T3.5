@@ -1,18 +1,18 @@
 # Article: __Supporting Technologies for COVID-19 Prevention: Systemized Review__ (zhao_supporting_2022)
 
 * [10.2196/30344](https://doi.org/10.2196/30344)
-* Cluster: [health-ai](cluster_1)
+* Cluster: [health-building](cluster_9)
 
 
 ## Keywords
 
-* [covid-19](keyword_covid-19), [ventilator](keyword_ventilator), [pandemic](keyword_pandemic), [mask](keyword_mask), [personal protective equipment](keyword_personal_protective_equipment), [health care](keyword_health_care), [free full text](keyword_free_full_text), [3d print](keyword_3d_print), [full text](keyword_full_text), [covid 19 pandemic](keyword_covid_19_pandemic), [coronavirus](keyword_coronavirus), test, [united kingdom](keyword_united_kingdom), [patient](keyword_patient), [safety](keyword_safety)
+* [covid-19](keyword_covid-19), [ventilator](keyword_ventilator), [mask](keyword_mask), [pandemic](keyword_pandemic), [personal protective equipment](keyword_personal_protective_equipment), [health care](keyword_health_care), [full text](keyword_full_text), [covid 19 pandemic](keyword_covid_19_pandemic), [coronavirus](keyword_coronavirus), test, [united kingdom](keyword_united_kingdom), [patient](keyword_patient), [safety](keyword_safety), antigen test, [3d print](keyword_3d_print)
 
 
 
 ## Keywords at large
 
-* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
+* [covid-19](keyword_covid-19), [ventilator](keyword_ventilator), [pandemic](keyword_pandemic), [mask](keyword_mask), [personal protective equipment](keyword_personal_protective_equipment), [health care](keyword_health_care), [3d print](keyword_3d_print), [full text](keyword_full_text), [covid 19 pandemic](keyword_covid_19_pandemic), [coronavirus](keyword_coronavirus)
 
 ## Abstract
 
@@ -72,6 +72,21 @@ manufacturing.
 ## Concepts
 
  ![](imgs/article_zhao_supporting_2022.jpg)
+
+### Closest articles 
+
+* [Management of the COVID-19 pandemic: challenges, practices, and organizational support](article_hossny_management_2022)
+* [COVID-19 Prevention and Control Measures in Workplace Settings: A Rapid Review and Meta-Analysis](article_ingram_covid-19_2021)
+* [Physical interventions to interrupt or reduce the spread of respiratory viruses: systematic review](article_jefferson_physical_2008)
+* [How Can Blockchain Help People in the Event of Pandemics Such as the COVID-19?](article_chang_how_2020)
+* [Using Technology to Maintain the Education of Residents During the COVID-19 Pandemic](article_chick_using_2020)
+* [COVID-19: A new digital dawn?](article_robbins_covid-19_2020)
+* [Case Study on Finnish TVETA Resilient Model of
+Training During COVID-19](article_unesco_case_2021)
+* [The impact of climate change on the epidemiology and
+control of Rift Valley fever - PubMed](article_martin_impact_2008)
+* [Health Information Exchange with Blockchain amid Covid-19-like Pandemics](article_christodoulou_health_2020)
+* [DeepSOCIAL: Social Distancing Monitoring and Infection Risk Assessment in COVID-19 Pandemic](article_rezaei_deepsocial_2020)
 
 ### References 
 

@@ -1,7 +1,7 @@
 # Keyword: __resilience__
 ## Clusters
 
-* Cluster 4: [resilience-health](cluster_4)
+* Cluster 14: [resilience-system](cluster_14)
 
 ## Concepts
 

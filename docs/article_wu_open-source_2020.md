@@ -1,18 +1,18 @@
 # Article: __Open-source analytics tools for studying the COVID-19 coronavirus outbreak__ (wu_open-source_2020)
 
 * [10.1101/2020.02.25.20027433](https://doi.org/10.1101/2020.02.25.20027433)
-* Cluster: [smart-datum](cluster_8)
+* Cluster: [health-building](cluster_9)
 
 
 ## Keywords
 
-* [china](keyword_china), [chinese](keyword_chinese), [author funder](keyword_author_funder), [copyright holder](keyword_copyright_holder), [hubei](keyword_hubei), [city](keyword_city), [province](keyword_province), [doc](keyword_doc), [forecast](keyword_forecast), [italy](keyword_italy), [south korea](keyword_south_korea), supp, html, plot, death rate
+* [china](keyword_china), [author funder](keyword_author_funder), [copyright holder](keyword_copyright_holder), [chinese](keyword_chinese), [hubei](keyword_hubei), [province](keyword_province), [city](keyword_city), [doc](keyword_doc), [italy](keyword_italy), [south korea](keyword_south_korea), html, plot, death rate, [international license](keyword_international_license), [public health](keyword_public_health)
 
 
 
 ## Keywords at large
 
-* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
+* [china](keyword_china), [chinese](keyword_chinese), [copyright holder](keyword_copyright_holder), [author funder](keyword_author_funder), [hubei](keyword_hubei), [province](keyword_province), [city](keyword_city), [doc](keyword_doc), [italy](keyword_italy), [forecast](keyword_forecast)
 
 ## Abstract
 
@@ -32,4 +32,17 @@ reported in South Korea, Italy, Japan, and Iran.
 ## Concepts
 
  ![](imgs/article_wu_open-source_2020.jpg)
+
+### Closest articles 
+
+* [The effect of human mobility and control measures on the COVID-19 epidemic in China](article_kraemer_effect_2020)
+* [](article_mehtab_alam_role_2021)
+* [Study of COVID-19 pandemic in London (UK) from urban context](article_ghosh_study_2020)
+* [Climate and the spread of COVID-19](article_chen_climate_2021)
+* [Retail Signage During the COVID-19 Pandemic](article_mcneish_retail_2020)
+* [Covid-19 and community mitigation strategies in a pandemic](article_ebrahim_covid-19_2020)
+* [Coronavirus disease 2019: The harms of exaggerated information and non‐evidence‐based measures](article_ioannidis_coronavirus_2020)
+* [Response to COVID-19 in Taiwan](article_wang_response_2020)
+* [The Socio-Spatial Determinants of COVID-19 Diffusion: The Impact of Globalisation, Settlement Characteristics and Population](article_sigler_socio-spatial_2020)
+* [Attitudes towards outdoor and neighbour noise during the COVID-19 lockdown: A case study in London](article_lee_attitudes_2021)
 

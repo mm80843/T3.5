@@ -1,18 +1,18 @@
 # Article: __2019 Novel Coronavirus (COVID-19) Pandemic: Built Environment Considerations To Reduce Transmission__ (dietz_2019_2020)
 
 * [10.1128/mSystems.00245-20](https://doi.org/10.1128/mSystems.00245-20)
-* Cluster: [air-sars](cluster_2)
+* Cluster: [air-sars](cluster_0)
 
 
 ## Keywords
 
-* [coronavirus](keyword_coronavirus), [sar cov 2](keyword_sar_cov_2), [covid-19](keyword_covid-19), [virus](keyword_virus), [china](keyword_china), [wuhan](keyword_wuhan), [transmission](keyword_transmission), [aerosol](keyword_aerosol), [pathogen](keyword_pathogen), [particle](keyword_particle), [pandemic](keyword_pandemic), covs, [ventilation](keyword_ventilation), [viral](keyword_viral), [infection](keyword_infection)
+* [covid-19](keyword_covid-19), [coronavirus](keyword_coronavirus), [virus](keyword_virus), [china](keyword_china), [wuhan](keyword_wuhan), [transmission](keyword_transmission), [aerosol](keyword_aerosol), [sar cov 2](keyword_sar_cov_2), [particle](keyword_particle), [pathogen](keyword_pathogen), [pandemic](keyword_pandemic), covs, [viral](keyword_viral), [ventilation](keyword_ventilation), [disease](keyword_disease)
 
 
 
 ## Keywords at large
 
-* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
+* [covid-19](keyword_covid-19), [coronavirus](keyword_coronavirus), [virus](keyword_virus), [china](keyword_china), [wuhan](keyword_wuhan), [transmission](keyword_transmission), [aerosol](keyword_aerosol), [pathogen](keyword_pathogen), [sar cov 2](keyword_sar_cov_2), [particle](keyword_particle)
 
 ## Abstract
 
@@ -61,6 +61,22 @@ available.
 ## Concepts
 
  ![](imgs/article_dietz_2019_2020.jpg)
+
+### Closest articles 
+
+* [Environmental factors involved in SARS-CoV-2 transmission: effect and role of indoor environmental quality in the strategy for COVID-19 infection control](article_azuma_environmental_2020)
+* [The ventilation of buildings and other mitigating measures for COVID-19: a focus on wintertime](article_burridge_ventilation_2021)
+* [How can airborne transmission of COVID-19 indoors be minimised?](article_morawska_how_2020)
+* [A review of facilities management interventions to mitigate respiratory infections in existing buildings](article_zhang_review_2022)
+* [Heating, ventilation and air-conditioning systems in the
+context of COVID-19](article_ecdc_heating_2020)
+* [morawska_how_2020-1](article_morawska_how_2020-1)
+* [Architectural design strategies for infection prevention
+and control (IPC) in health-care facilities: towards
+curbing the spread of Covid-19 \textbar SpringerLink](article_udomiaye_architectural_2020)
+* [Methods for air cleaning and protection of building occupants from airborne pathogens](article_bolashikov_methods_2009)
+* [A Review on Building Design as a Biomedical System for Preventing COVID-19 Pandemic](article_amran_review_2022)
+* [Ventilation use in nonmedical settings during COVID-19: Cleaning protocol, maintenance, and recommendations](article_nembhard_ventilation_2020)
 
 ### References 
 

@@ -1,18 +1,18 @@
 # Article: __A comprehensive review on indoor air quality monitoring systems for enhanced public health__ (saini_comprehensive_2020)
 
 * [10.1186/s42834-020-0047-y](https://doi.org/10.1186/s42834-020-0047-y)
-* Cluster: [building-health](cluster_10)
+* Cluster: [health-building](cluster_9)
 
 
 ## Keywords
 
-* [iaq](keyword_iaq), [sensor](keyword_sensor), [india](keyword_india), [vocs](keyword_vocs), [zigbee](keyword_zigbee), [fuel](keyword_fuel), [iot](keyword_iot), [raspberry pi](keyword_raspberry_pi), [monitor](keyword_monitor), [pollutant](keyword_pollutant), iap, sensor network, co2, wsn, indoor air
+* [iaq](keyword_iaq), [sensor](keyword_sensor), [india](keyword_india), [vocs](keyword_vocs), [zigbee](keyword_zigbee), [iot](keyword_iot), [fuel](keyword_fuel), [raspberry pi](keyword_raspberry_pi), [pollutant](keyword_pollutant), [iap](keyword_iap), sensor network, [monitor](keyword_monitor), wsn, co2, indoor air
 
 
 
 ## Keywords at large
 
-* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
+* [iaq](keyword_iaq), [sensor](keyword_sensor), [india](keyword_india), [vocs](keyword_vocs), [zigbee](keyword_zigbee), [iot](keyword_iot), [fuel](keyword_fuel), [raspberry pi](keyword_raspberry_pi), [monitor](keyword_monitor), [iap](keyword_iap)
 
 ## Abstract
 
@@ -38,4 +38,18 @@ of IAQ monitoring for the researchers.
 ## Concepts
 
  ![](imgs/article_saini_comprehensive_2020.jpg)
+
+### Closest articles 
+
+* [Characterization and performance evaluation of a full-scale activated carbon-based dynamic botanical air filtration system for improving indoor air quality](article_wang_characterization_2011)
+* [The Effect of Opening Windows on Air Change Rates in Two Homes](article_howard-reed_effect_2002)
+* [Designing Post COVID-19 Buildings: Approaches for Achieving Healthy Buildings](article_navaratnam_designing_2022)
+* [Smart buildings: how a virus might lead to healthier
+buildings - Arup](article_lam_smart_2021)
+* [Indoor Air Quality: Rethinking rules of building design strategies in post-pandemic architecture](article_megahed_indoor_2021)
+* [The effect of a redesigned floor plan, occupant density and the quality of indoor climate on the cost of space, productivity and sick leave in an office building–A case study](article_saari_effect_2006)
+* [Ten questions concerning occupant health in buildings during normal operations and extreme events including the COVID-19 pandemic](article_awada_ten_2021)
+* [Occupant health in buildings: Impact of the COVID-19 pandemic on the opinions of building professionals and implications on research](article_awada_occupant_2022)
+* [Review and comparison of HVAC operation guidelines in different countries during the COVID-19 pandemic](article_guo_review_2021)
+* [A review of facilities management interventions to mitigate respiratory infections in existing buildings](article_zhang_review_2022)
 

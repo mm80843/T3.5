@@ -1,7 +1,7 @@
 # Keyword: __construction__
 ## Clusters
 
-* Cluster 3: [construction-project](cluster_3)
+* Cluster 6: [construction-project](cluster_6)
 
 ## Concepts
 

@@ -1,7 +1,8 @@
 # Keyword: __disinfection__
 ## Clusters
 
-* Cluster 15: [water-wastewater](cluster_15)
+* Cluster 2: [uv-room](cluster_2)
+* Cluster 13: [robot-drone](cluster_13)
 
 ## Concepts
 
@@ -29,9 +30,9 @@ their inactivation with biocidal agents ([kampf_persistence_2020](article_kampf_
 design strategies in post-pandemic architecture ([megahed_indoor_2021](article_megahed_indoor_2021))
 * A review of facilities management interventions to
 mitigate respiratory infections in existing buildings ([zhang_review_2022](article_zhang_review_2022))
-* Graphene-based nanomaterials as antimicrobial surface
-coatings: A parallel approach to restrain the expansion
-of COVID-19 ([ayub_graphene-based_2021](article_ayub_graphene-based_2021))
 * Air Disinfection for Airborne Infection Control
 with a Focus on COVID-19: Why Germicidal UV is
 Essential† ([nardell_air_2021](article_nardell_air_2021))
+* Graphene-based nanomaterials as antimicrobial surface
+coatings: A parallel approach to restrain the expansion
+of COVID-19 ([ayub_graphene-based_2021](article_ayub_graphene-based_2021))

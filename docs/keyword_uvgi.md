@@ -1,7 +1,7 @@
 # Keyword: __uvgi__
 ## Clusters
 
-* Cluster 14: [uvgi-uv](cluster_14)
+* Cluster 2: [uv-room](cluster_2)
 
 ## Concepts
 

@@ -1,8 +1,8 @@
 # Keyword: __technology__
 ## Clusters
 
-* Cluster 1: [health-ai](cluster_1)
-* Cluster 8: [smart-datum](cluster_8)
+* Cluster 10: [city-smart](cluster_10)
+* Cluster 11: [blockchain-ai](cluster_11)
 
 ## Concepts
 
@@ -32,6 +32,5 @@ and the Role of IoT, Drones, AI, Blockchain, and
 Smart Homes, Smart Buildings, Smart Cities,
 Transportation and Industrial IoT ([umair_impact_2021](article_umair_impact_2021))
 * world_bank_world_2022 ([world_bank_world_2022](article_world_bank_world_2022))
-* Leveraging Digital Transformation Technologies to
-Tackle COVID-19: Proposing a Privacy-First
-Holistic Framework ([arpaci_leveraging_2021](article_arpaci_leveraging_2021))
+* Smart cities and the pandemic: digital technologies on the
+urban management of Brazilian cities ([fariniuk_smart_2020](article_fariniuk_smart_2020))

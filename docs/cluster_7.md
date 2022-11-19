@@ -1,7 +1,7 @@
-# Cluster: __liver-province__ (cluster7)
+# Cluster: __tourism-tourist__ (cluster7)
 ## Keywords
 
-* [liver](keyword_liver), [province](keyword_province), [wuhan](keyword_wuhan), [case](keyword_case), [patient](keyword_patient), [wastewater](keyword_wastewater), [travel](keyword_travel), [mobility](keyword_mobility), [china](keyword_china), [hubei](keyword_hubei), [datum](keyword_datum), [sars](keyword_sars), [report](keyword_report), [admit](keyword_admit), [human](keyword_human), [coronavirus](keyword_coronavirus), [roda](keyword_roda), [husman](keyword_husman), [count](keyword_count), [enteric](keyword_enteric)
+* [tourism](keyword_tourism), [tourist](keyword_tourist), [travel](keyword_travel), [risk](keyword_risk), [vacation](keyword_vacation), [destination](keyword_destination), [anxiety](keyword_anxiety), [perception](keyword_perception), [perceive](keyword_perceive), [distance](keyword_distance), [psychological](keyword_psychological), [behavior](keyword_behavior), [tour](keyword_tour), [traveler](keyword_traveler), [marketing](keyword_marketing), [factor](keyword_factor), [social](keyword_social), [pandemic](keyword_pandemic), [plan](keyword_plan), [study](keyword_study)
 
 ## Concepts
 
@@ -10,7 +10,8 @@
 
 ## Articles
 
-* SARS-CoV-2 in wastewater: potential health risk, but
-also data source ([lodder_sars-cov-2_2020](article_lodder_sars-cov-2_2020))
-* The effect of human mobility and control measures on the
-COVID-19 epidemic in China ([kraemer_effect_2020](article_kraemer_effect_2020))
+* Should I Stay or Should I Go? Tourists’
+COVID-19 Risk Perception and Vacation Behavior
+Shift ([bratic_should_2021](article_bratic_should_2021))
+* Seeing the invisible hand: Underlying effects of
+COVID-19 on tourists’ behavioral patterns ([li_seeing_2020](article_li_seeing_2020))

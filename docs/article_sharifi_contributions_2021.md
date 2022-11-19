@@ -1,18 +1,18 @@
 # Article: __Contributions of Smart City Solutions and Technologies to Resilience against the COVID-19 Pandemic: A Literature Review__ (sharifi_contributions_2021)
 
 * [10.3390/su13148018](https://doi.org/10.3390/su13148018)
-* Cluster: [smart-datum](cluster_8)
+* Cluster: [city-smart](cluster_10)
 
 
 ## Keywords
 
-* [pandemic](keyword_pandemic), [resilience](keyword_resilience), [covid-19](keyword_covid-19), [smart city](keyword_smart_city), [china](keyword_china), [technology](keyword_technology), [telemedicine](keyword_telemedicine), [smart solution](keyword_smart_solution), [blockchain](keyword_blockchain), [plan](keyword_plan), [geogr](keyword_geogr), [machine learning](keyword_machine_learning), health sector, [city](keyword_city), smart technology
+* [pandemic](keyword_pandemic), [resilience](keyword_resilience), [covid-19](keyword_covid-19), [smart city](keyword_smart_city), [china](keyword_china), [technology](keyword_technology), [smart solution](keyword_smart_solution), [telemedicine](keyword_telemedicine), [blockchain](keyword_blockchain), [plan](keyword_plan), [machine learning](keyword_machine_learning), [city](keyword_city), preparation, smart technology, [artificial intelligence](keyword_artificial_intelligence)
 
 
 
 ## Keywords at large
 
-* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
+* [pandemic](keyword_pandemic), [resilience](keyword_resilience), [covid-19](keyword_covid-19), [smart city](keyword_smart_city), [china](keyword_china), [technology](keyword_technology), [telemedicine](keyword_telemedicine), [smart solution](keyword_smart_solution), [blockchain](keyword_blockchain), [plan](keyword_plan)
 
 ## Abstract
 
@@ -56,6 +56,19 @@ events.
 
  ![](imgs/article_sharifi_contributions_2021.jpg)
 
+### Closest articles 
+
+* [Future (post-COVID) digital, smart and sustainable cities in the wake of 6G: Digital twins, immersive realities and new urban economies](article_allam_future_2021)
+* [Impact of COVID-19 on IoT Adoption in Healthcare, Smart Homes, Smart Buildings, Smart Cities, Transportation and Industrial IoT](article_umair_impact_2021)
+* [The Emergence of Anti-Privacy and Control at the Nexus between the Concepts of Safe City and Smart City](article_allam_emergence_2019)
+* [Learning from the COVID-19 pandemic in governing smart cities](article_bolivar_learning_2022)
+* [The three modes of existence of the pandemic smart city](article_soderstrom_three_2021)
+* [Smart cities and the pandemic: digital technologies on the urban management of Brazilian cities](article_fariniuk_smart_2020)
+* [The Smart City and Covid‐19](article_webb_smart_2020)
+* [On the Coronavirus (COVID-19) Outbreak and the Smart City Network: Universal Data Sharing Standards Coupled with Artificial Intelligence (AI) to Benefit Urban Health Monitoring and Management](article_allam_coronavirus_2020)
+* [Smart cities and a data-driven response to COVID-19](article_james_smart_2020)
+* [Pandemic stricken cities on lockdown. Where are our planning and design professionals [now, then and into the future]?](article_allam_pandemic_2020)
+
 ### References 
 
 * [A Comprehensive Review of the COVID-19 Pandemic
@@ -82,7 +95,15 @@ Pandemic Experiences](article_sakellarides_viral_2020)
 Infection Risk Assessment in COVID-19 Pandemic](article_rezaei_deepsocial_2020)
 * [The effect of human mobility and control measures on the
 COVID-19 epidemic in China](article_kraemer_effect_2020)
+* [Towards the sustainable development of smart cities
+through mass video surveillance: A response to the
+COVID-19 pandemic](article_shorfuzzaman_towards_2021)
 * [The Smart City and Covid‐19](article_webb_smart_2020)
+* [On the Coronavirus (COVID-19) Outbreak and the
+Smart City Network: Universal Data Sharing
+Standards Coupled with Artificial Intelligence
+(AI) to Benefit Urban Health Monitoring and
+Management](article_allam_coronavirus_2020)
 
 ### Cited by 
 

@@ -1,18 +1,18 @@
 # Article: __The Socio-Spatial Determinants of COVID-19 Diffusion: The Impact of Globalisation, Settlement Characteristics and Population__ (sigler_socio-spatial_2020)
 
 * [10.21203/rs.3.rs-33615/v1](https://doi.org/10.21203/rs.3.rs-33615/v1)
-* Cluster: [resilience-health](cluster_4)
+* Cluster: [city-spatial](cluster_3)
 
 
 ## Keywords
 
-* [globalisation](keyword_globalisation), [covid-19](keyword_covid-19), [population](keyword_population), [infectious disease](keyword_infectious_disease), [quantile](keyword_quantile), [china](keyword_china), [jax](keyword_jax), [spread](keyword_spread), [mathjax](keyword_mathjax), [financial globalisation](keyword_financial_globalisation), mathjax jax output commonhtml jax, globalization, interpersonal globalisation, diffusion, quantile regression
+* [globalisation](keyword_globalisation), [covid-19](keyword_covid-19), [infectious disease](keyword_infectious_disease), [population](keyword_population), [quantile](keyword_quantile), [china](keyword_china), [jax](keyword_jax), [spread](keyword_spread), [mathjax](keyword_mathjax), [financial globalisation](keyword_financial_globalisation), [diffusion](keyword_diffusion), interpersonal globalisation, quantile regression, urbanisation, settlement
 
 
 
 ## Keywords at large
 
-* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
+* [globalisation](keyword_globalisation), [covid-19](keyword_covid-19), [population](keyword_population), [infectious disease](keyword_infectious_disease), [china](keyword_china), [quantile](keyword_quantile), [jax](keyword_jax), [spread](keyword_spread), [mathjax](keyword_mathjax), [financial globalisation](keyword_financial_globalisation)
 
 ## Abstract
 
@@ -53,4 +53,17 @@ population characteristics.
 ## Concepts
 
  ![](imgs/article_sigler_socio-spatial_2020.jpg)
+
+### Closest articles 
+
+* [The socio-economic determinants of COVID-19: A spatial analysis of German county level data](article_ehlert_socio-economic_2021)
+* [Climate and the spread of COVID-19](article_chen_climate_2021)
+* [Association of built environment attributes with the spread of COVID-19 at its initial stage in China](article_li_association_2021)
+* [Treating two pandemics for the price of one: Chronic and infectious disease impacts of the built and natural environment](article_frank_treating_2021)
+* [Study of COVID-19 pandemic in London (UK) from urban context](article_ghosh_study_2020)
+* [Infodemic and the spread of fake news in the COVID-19-era](article_orso_infodemic_2020)
+* [The effect of human mobility and control measures on the COVID-19 epidemic in China](article_kraemer_effect_2020)
+* [Open-source analytics tools for studying the COVID-19 coronavirus outbreak](article_wu_open-source_2020)
+* [](article_mehtab_alam_role_2021)
+* [How loneliness is talked about in social media during COVID-19 pandemic: Text mining of 4,492 Twitter feeds](article_koh_how_2022)
 

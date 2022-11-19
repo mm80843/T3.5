@@ -1,18 +1,18 @@
 # Article: __Characterization and performance evaluation of a full-scale activated carbon-based dynamic botanical air filtration system for improving indoor air quality__ (wang_characterization_2011)
 
 * [10.1016/j.buildenv.2010.10.008](https://doi.org/10.1016/j.buildenv.2010.10.008)
-* Cluster: [air-sars](cluster_2)
+* Cluster: [air-sars](cluster_0)
 
 
 ## Keywords
 
-* [formaldehyde](keyword_formaldehyde), [toluene](keyword_toluene), [dbaf](keyword_dbaf), [vocs](keyword_vocs), [efficiency](keyword_efficiency), [plant](keyword_plant), [ventilation](keyword_ventilation), [pollutant](keyword_pollutant), [indoor air quality](keyword_indoor_air_quality), [office](keyword_office), [build](keyword_build), [hvac](keyword_hvac), [fan](keyword_fan), [environment](keyword_environment), [temperature](keyword_temperature)
+* [formaldehyde](keyword_formaldehyde), [toluene](keyword_toluene), [dbaf](keyword_dbaf), [vocs](keyword_vocs), [efficiency](keyword_efficiency), [plant](keyword_plant), [ventilation](keyword_ventilation), [pollutant](keyword_pollutant), [build](keyword_build), [office](keyword_office), [indoor air quality](keyword_indoor_air_quality), [fan](keyword_fan), [hvac](keyword_hvac), [environment](keyword_environment), [temperature](keyword_temperature)
 
 
 
 ## Keywords at large
 
-* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
+* [formaldehyde](keyword_formaldehyde), [toluene](keyword_toluene), [dbaf](keyword_dbaf), [vocs](keyword_vocs), [efficiency](keyword_efficiency), [plant](keyword_plant), [ventilation](keyword_ventilation), [pollutant](keyword_pollutant), [build](keyword_build), [indoor air quality](keyword_indoor_air_quality)
 
 ## Abstract
 
@@ -50,4 +50,18 @@ air filtration is present.
 ## Concepts
 
  ![](imgs/article_wang_characterization_2011.jpg)
+
+### Closest articles 
+
+* [The Effect of Opening Windows on Air Change Rates in Two Homes](article_howard-reed_effect_2002)
+* [A comprehensive review on indoor air quality monitoring systems for enhanced public health](article_saini_comprehensive_2020)
+* [The effect of a redesigned floor plan, occupant density and the quality of indoor climate on the cost of space, productivity and sick leave in an office building–A case study](article_saari_effect_2006)
+* [The effect of occupant distribution on energy consumption and COVID-19 infection in buildings: A case study of university building](article_mokhtari_effect_2021)
+* [Reflecting on Impacts of COVID19 on Sustainable Buildings and Cities](article_gonzalez_reflecting_2021)
+* [Smart buildings: how a virus might lead to healthier
+buildings - Arup](article_lam_smart_2021)
+* [Designing Post COVID-19 Buildings: Approaches for Achieving Healthy Buildings](article_navaratnam_designing_2022)
+* [Ten questions concerning occupant health in buildings during normal operations and extreme events including the COVID-19 pandemic](article_awada_ten_2021)
+* [Addressing the impact of COVID-19 lockdown on energy use in municipal buildings: A case study in Florianópolis, Brazil](article_geraldi_addressing_2021)
+* [Indoor Air Quality: Rethinking rules of building design strategies in post-pandemic architecture](article_megahed_indoor_2021)
 

@@ -1,23 +1,41 @@
 # Article: __Applications of ultraviolet germicidal irradiation disinfection in health care facilities: Effective adjunct, but not stand-alone technology__ (memarzadeh_applications_2010)
 
 * [10.1016/j.ajic.2010.04.208](https://doi.org/10.1016/j.ajic.2010.04.208)
-* Cluster: [uvgi-uv](cluster_14)
+* Cluster: [uv-room](cluster_2)
 
 
 ## Keywords
 
-* [uvgi](keyword_uvgi), [disinfection](keyword_disinfection), [ventilation](keyword_ventilation), [germicidal](keyword_germicidal), [ultraviolet](keyword_ultraviolet), [bacteria](keyword_bacteria), [microorganism](keyword_microorganism), [tuberculosis](keyword_tuberculosis), [pathogen](keyword_pathogen), [virus](keyword_virus), [hospital](keyword_hospital), uv lamp, [influenza](keyword_influenza), [uv-c](keyword_uv-c), [droplet](keyword_droplet)
+* [uvgi](keyword_uvgi), [disinfection](keyword_disinfection), [ventilation](keyword_ventilation), [germicidal](keyword_germicidal), [ultraviolet](keyword_ultraviolet), [bacteria](keyword_bacteria), [microorganism](keyword_microorganism), [tuberculosis](keyword_tuberculosis), [pathogen](keyword_pathogen), [influenza](keyword_influenza), [hospital](keyword_hospital), [virus](keyword_virus), [lamp](keyword_lamp), memarzadeh, [uv lamp](keyword_uv_lamp)
 
 
 
 ## Keywords at large
 
-* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
+* [uvgi](keyword_uvgi), [disinfection](keyword_disinfection), [ventilation](keyword_ventilation), [germicidal](keyword_germicidal), [ultraviolet](keyword_ultraviolet), [bacteria](keyword_bacteria), [microorganism](keyword_microorganism), [pathogen](keyword_pathogen), [tuberculosis](keyword_tuberculosis), [uv lamp](keyword_uv_lamp)
 
 
 ## Concepts
 
  ![](imgs/article_memarzadeh_applications_2010.jpg)
+
+### Closest articles 
+
+* [Air Disinfection for Airborne Infection Control with a Focus on COVID‐19: Why Germicidal UV is Essential
+            <sup>†</sup>](article_nardell_air_2021)
+* [Upper-Room Ultraviolet Light and Negative Air Ionization to Prevent Tuberculosis Transmission](article_escombe_upper-room_2009)
+* [Behind the Update: ASHRAE Handbook Chapters on
+UV-C to Include Updated Best Practices,
+Guidance](article_ashrae_behind_2020)
+* [Upper-room ultraviolet air disinfection might help to reduce COVID-19 transmission in buildings: a feasibility study](article_beggs_upper-room_2020)
+* [Case Study: Using Germicidal UV-C to Mitigate
+COVID-19 - HVAC](article_healthcare_facilities_today_case_2021)
+* [Methods for air cleaning and protection of building occupants from airborne pathogens](article_bolashikov_methods_2009)
+* [Effect of Ultraviolet Germicidal Irradiation on Viral Aerosols](article_walker_effect_2007)
+* [ASHRAE Position Document on Infectious
+Aerosols](article_ashrae_ashrae_2022)
+* [morawska_how_2020-1](article_morawska_how_2020-1)
+* [How can airborne transmission of COVID-19 indoors be minimised?](article_morawska_how_2020)
 
 ### References 
 

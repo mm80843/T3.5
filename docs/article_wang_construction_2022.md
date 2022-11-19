@@ -1,18 +1,18 @@
 # Article: __Construction of a Linked Data Set of COVID-19 Knowledge Graphs: Development and Applications__ (wang_construction_2022)
 
 * [10.2196/37215](https://doi.org/10.2196/37215)
-* Cluster: [building-health](cluster_10)
+* Cluster: [health-building](cluster_9)
 
 
 ## Keywords
 
-* [covid-19](keyword_covid-19), [e37215](keyword_e37215), [openkg covid19](keyword_openkg_covid19), [kg](keyword_kg), [openkg](keyword_openkg), [jmir](keyword_jmir), [schema](keyword_schema), [knowledge graph](keyword_knowledge_graph), [kgs](keyword_kgs), [virus](keyword_virus), medical informatic, schemata, datum set, entity, match
+* [covid-19](keyword_covid-19), [openkg covid19](keyword_openkg_covid19), [kg](keyword_kg), [openkg](keyword_openkg), [jmir](keyword_jmir), [schema](keyword_schema), [knowledge graph](keyword_knowledge_graph), [kgs](keyword_kgs), [virus](keyword_virus), medical informatic, datum set, entity, xsl, [epidemiology](keyword_epidemiology), schema matching
 
 
 
 ## Keywords at large
 
-* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
+* [covid-19](keyword_covid-19), [e37215](keyword_e37215), [openkg covid19](keyword_openkg_covid19), [kg](keyword_kg), [openkg](keyword_openkg), [jmir](keyword_jmir), [schema](keyword_schema), [knowledge graph](keyword_knowledge_graph), [kgs](keyword_kgs), [virus](keyword_virus)
 
 ## Abstract
 
@@ -66,4 +66,19 @@ up-to-date knowledge.
 ## Concepts
 
  ![](imgs/article_wang_construction_2022.jpg)
+
+### Closest articles 
+
+* [How loneliness is talked about in social media during COVID-19 pandemic: Text mining of 4,492 Twitter feeds](article_koh_how_2022)
+* [Infodemic and the spread of fake news in the COVID-19-era](article_orso_infodemic_2020)
+* [Assessing the health and hygiene performance of apartment buildings](article_ho_assessing_2004)
+* [A Platform for Citizen Cooperation during the COVID-19 Pandemic in RN, Brazil](article_de_araujo_platform_2020)
+* [Multilevel Analysis of Personal, Non-Medical COVID-19-Related Impact Worldwide](article_dye_multilevel_2020)
+* [How Covid-19 Has Permanently Changed the Fitness
+Industry](article_davalos_how_2021)
+* [Rotating groups at work, school best against COVID-19
+spread: Study](article_afp_rotating_2021)
+* [COVID-19 and social inequalities: a complex and dynamic interaction](article_quantin_covid-19_2022)
+* [hseie_algorithms_2021](article_hseie_algorithms_2021)
+* [Response to COVID-19 in Taiwan](article_wang_response_2020)
 

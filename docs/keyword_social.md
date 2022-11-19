@@ -1,8 +1,10 @@
 # Keyword: __social__
 ## Clusters
 
-* Cluster 11: [anxiety-social](cluster_11)
-* Cluster 13: [space-urban](cluster_13)
+* Cluster 7: [tourism-tourist](cluster_7)
+* Cluster 9: [health-building](cluster_9)
+* Cluster 10: [city-smart](cluster_10)
+* Cluster 15: [green-urban](cluster_15)
 
 ## Concepts
 
@@ -15,7 +17,11 @@ New Retail Technologies and Enhance the
 (E-)Servicescape ([willems_how_2021](article_willems_how_2021))
 * world_bank_world_2022 ([world_bank_world_2022](article_world_bank_world_2022))
 * rtpi_urban_2021 ([rtpi_urban_2021](article_rtpi_urban_2021))
+* COVID-19 and the UN Sustainable Development
+Goals: Threat to Solidarity or an Opportunity? ([leal_filho_covid-19_2020](article_leal_filho_covid-19_2020))
 * realdania_refleksioner_2022_EN ([realdania_refleksioner_2022_EN](article_realdania_refleksioner_2022_EN))
+* The Intelligent Lockdown: Compliance with COVID-19
+Mitigation Measures in the Netherlands ([kuiper_intelligent_2020](article_kuiper_intelligent_2020))
 * COVID-ABS: An agent-based model of COVID-19
 epidemic to simulate health and economic effects of social
 distancing interventions ([silva_covid-abs_2020](article_silva_covid-abs_2020))
@@ -27,7 +33,3 @@ and Interconnected Issues ([panneer_health_2022](article_panneer_health_2022))
 * Readiness Assessment of Green Building
 Certification Systems for Residential Buildings
 during Pandemics ([tleuken_readiness_2021](article_tleuken_readiness_2021))
-* A Review on Building Design as a Biomedical
-System for Preventing COVID-19 Pandemic ([amran_review_2022](article_amran_review_2022))
-* Mapping research in logistics and supply chain management
-during COVID-19 pandemic ([montoya-torres_mapping_2021](article_montoya-torres_mapping_2021))

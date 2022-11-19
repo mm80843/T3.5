@@ -1,7 +1,7 @@
 # Keyword: __method__
 ## Clusters
 
-* Cluster 2: [construction-resilience](cluster_2)
+* Cluster 2: [construction-resilience](cluster_2.md)
 
 ## Concepts
 
@@ -12,25 +12,25 @@
 * A Global Survey of Infection Control and
 Mitigation Measures for Combating the Transmission
 of COVID-19 Pandemic in Buildings Under
-Facilities Management Services ([sarvari_global_2022](article_sarvari_global_2022))
+Facilities Management Services ([sarvari_global_2022](article_sarvari_global_2022.md))
 * A Global Survey of Infection Control and
 Mitigation Measures for Combating the Transmission
 of COVID-19 Pandemic in Buildings Under
-Facilities Management Services ([sarvari_global_2022](article_sarvari_global_2022))
+Facilities Management Services ([sarvari_global_2022](article_sarvari_global_2022.md))
 * Influence between COVID-19 Impacts and Project
-Stakeholders in Chilean Construction Projects ([araya_influence_2021](article_araya_influence_2021))
+Stakeholders in Chilean Construction Projects ([araya_influence_2021](article_araya_influence_2021.md))
 * Social distancing enhanced automated optimal design of
-physical spaces in the wake of the COVID-19 pandemic ([ugail_social_2021](article_ugail_social_2021))
+physical spaces in the wake of the COVID-19 pandemic ([ugail_social_2021](article_ugail_social_2021.md))
 * Supporting Technologies for COVID-19 Prevention:
-Systemized Review ([zhao_supporting_2022](article_zhao_supporting_2022))
+Systemized Review ([zhao_supporting_2022](article_zhao_supporting_2022.md))
 * The socio-economic determinants of COVID-19: A spatial
-analysis of German county level data ([ehlert_socio-economic_2021](article_ehlert_socio-economic_2021))
+analysis of German county level data ([ehlert_socio-economic_2021](article_ehlert_socio-economic_2021.md))
 * Assessment method for new sustainability indicators
-providing pandemic resilience for residential buildings ([tokazhanov_assessment_2021](article_tokazhanov_assessment_2021))
+providing pandemic resilience for residential buildings ([tokazhanov_assessment_2021](article_tokazhanov_assessment_2021.md))
 * Respiratory pandemics, urban planning and design: A
-multidisciplinary rapid review of the literature ([harris_respiratory_2022](article_harris_respiratory_2022))
+multidisciplinary rapid review of the literature ([harris_respiratory_2022](article_harris_respiratory_2022.md))
 * Future perspectives of wastewater-based epidemiology:
 Monitoring infectious disease spread and resistance to
-the community level ([sims_future_2020](article_sims_future_2020))
+the community level ([sims_future_2020](article_sims_future_2020.md))
 * The COVID-19 pandemic: Impacts on cities and major
-lessons for urban planning, design, and management ([sharifi_covid-19_2020](article_sharifi_covid-19_2020))
+lessons for urban planning, design, and management ([sharifi_covid-19_2020](article_sharifi_covid-19_2020.md))

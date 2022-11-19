@@ -1,7 +1,7 @@
 # Keyword: __worker__
 ## Clusters
 
-* Cluster 3: [construction-project](cluster_3)
+* Cluster 6: [construction-project](cluster_6)
 
 ## Concepts
 
@@ -25,7 +25,6 @@ Projects ([kaushal_strategies_2021](article_kaushal_strategies_2021))
 in the UK ([shibani_effects_2020](article_shibani_effects_2020))
 * Impacts of COVID-19 on Health and Safety of
 Workforce in Construction Industry ([pamidimukkala_impacts_2021](article_pamidimukkala_impacts_2021))
-* Analysis of COVID-19 Concerns Raised by the
-Construction Workforce and Development of
-Mitigation Practices ([bou_hatoum_analysis_2021](article_bou_hatoum_analysis_2021))
+* The COVID-19 pandemic: Lessons on building more equal
+and sustainable societies ([van_barneveld_covid-19_2020](article_van_barneveld_covid-19_2020))
 * nassereddine_propositions_2021 ([nassereddine_propositions_2021](article_nassereddine_propositions_2021))

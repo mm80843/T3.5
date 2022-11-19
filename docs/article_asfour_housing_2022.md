@@ -1,18 +1,18 @@
 # Article: __Housing Experience in Gated Communities in the Time of Pandemics: Lessons Learned from COVID-19__ (asfour_housing_2022)
 
 * [10.3390/ijerph19041925](https://doi.org/10.3390/ijerph19041925)
-* Cluster: [space-urban](cluster_13)
+* Cluster: [health-building](cluster_9)
 
 
 ## Keywords
 
-* [gate community](keyword_gate_community), [pandemic](keyword_pandemic), [gate](keyword_gate), [non gate community](keyword_non_gate_community), [covid-19](keyword_covid-19), [kfupm](keyword_kfupm), [wikipedia](keyword_wikipedia), [saudi arabia](keyword_saudi_arabia), [urban](keyword_urban), [encyclopedia](keyword_encyclopedia), [urban design](keyword_urban_design), [community](keyword_community), [plan](keyword_plan), [housing](keyword_housing), one sample t test
+* [gate community](keyword_gate_community), [pandemic](keyword_pandemic), [gate](keyword_gate), [non gate community](keyword_non_gate_community), [covid-19](keyword_covid-19), [kfupm](keyword_kfupm), [saudi arabia](keyword_saudi_arabia), [urban](keyword_urban), [urban design](keyword_urban_design), [community](keyword_community), [housing](keyword_housing), non gate, one sample t test, [social distancing](keyword_social_distancing), housing unit
 
 
 
 ## Keywords at large
 
-* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
+* [gate community](keyword_gate_community), [pandemic](keyword_pandemic), [gate](keyword_gate), [non gate community](keyword_non_gate_community), [covid-19](keyword_covid-19), [kfupm](keyword_kfupm), [saudi arabia](keyword_saudi_arabia), [urban](keyword_urban), [urban design](keyword_urban_design), [community](keyword_community)
 
 ## Abstract
 
@@ -44,6 +44,20 @@ may affect the housing market dynamics and strategies.
 
  ![](imgs/article_asfour_housing_2022.jpg)
 
+### Closest articles 
+
+* [Dangerous liaisons? Applying the social harm perspective to the social inequality, housing and health trifecta during the Covid-19 pandemic](article_gurney_dangerous_2021)
+* [Eviction, Health Inequity, and the Spread of COVID-19: Housing Policy as a Primary Pandemic Mitigation Strategy](article_benfer_eviction_2021)
+* [Questioning the use of the balcony in apartments during the COVID-19 pandemic process](article_aydin_questioning_2020)
+* [A Mixed Approach on Resilience of Spanish Dwellings and Households during COVID-19 Lockdown](article_cuerdo-vilches_mixed_2020)
+* [How our homes impact our health: using a COVID-19 informed approach to examine urban apartment housing](article_peters_how_2020)
+* [Towards Resilient Residential Buildings and Neighborhoods in Light of COVID-19 Pandemic—The Scenario of Podgorica, Montenegro](article_bojovic_towards_2022)
+* [How Covid-19 Has Permanently Changed the Fitness
+Industry](article_davalos_how_2021)
+* [Mental health and COVID-19](article_who_mental_2021)
+* [Mental Health and the Covid-19 Pandemic](article_pfefferbaum_mental_2020)
+* [COVID-19 and social inequalities: a complex and dynamic interaction](article_quantin_covid-19_2022)
+
 ### References 
 
 * [Antivirus-built environment: Lessons learned from
@@ -53,6 +67,8 @@ urban and socio-spatial implications of COVID-19
 measures](article_salama_coronavirus_2020)
 * [How our homes impact our health: using a COVID-19
 informed approach to examine urban apartment housing](article_peters_how_2020)
+* [Public housing and COVID-19: contestation, challenge and
+change](article_power_public_2020)
 
 ### Cited by 
 

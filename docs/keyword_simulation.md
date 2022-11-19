@@ -1,7 +1,7 @@
 # Keyword: __simulation__
 ## Clusters
 
-* Cluster 6: [simulation-model](cluster_6)
+* Cluster 3: [city-spatial](cluster_3)
 
 ## Concepts
 
@@ -25,8 +25,8 @@ university building ([mokhtari_effect_2021](article_mokhtari_effect_2021))
 spaces to retrofit crowd models during a pandemic ([ronchi_exposed_2020](article_ronchi_exposed_2020))
 * Building occupancy estimation with people flow modeling in
 AnyLogic ([li_building_2016](article_li_building_2016))
+* RUDDS_bioRxiv_update ([RUDDS_bioRxiv_update](article_RUDDS_bioRxiv_update))
 * Understanding the role of urban design in disease
 spreading ([brizuela_understanding_2019](article_brizuela_understanding_2019))
-* RUDDS_bioRxiv_update ([RUDDS_bioRxiv_update](article_RUDDS_bioRxiv_update))
 * A review of definitions and measures of system
 resilience ([hosseini_review_2016](article_hosseini_review_2016))

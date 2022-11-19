@@ -1,8 +1,8 @@
 # Keyword: __environment__
 ## Clusters
 
-* Cluster 10: [building-health](cluster_10)
-* Cluster 13: [space-urban](cluster_13)
+* Cluster 8: [health-housing](cluster_8)
+* Cluster 9: [health-building](cluster_9)
 
 ## Concepts
 
@@ -26,10 +26,9 @@ full-scale activated carbon-based dynamic botanical air
 filtration system for improving indoor air quality ([wang_characterization_2011](article_wang_characterization_2011))
 * Prophylactic Architecture: Formulating the Concept
 of Pandemic-Resilient Homes ([elrayies_prophylactic_2022](article_elrayies_prophylactic_2022))
+* ashrae_ashrae_2022 ([ashrae_ashrae_2022](article_ashrae_ashrae_2022))
 * Review and comparison of HVAC operation guidelines in
 different countries during the COVID-19 pandemic ([guo_review_2021](article_guo_review_2021))
-* ashrae_ashrae_2022 ([ashrae_ashrae_2022](article_ashrae_ashrae_2022))
-* Presence of SARS-Coronavirus-2 RNA in Sewage and
-Correlation with Reported COVID-19 Prevalence in
-the Early Stage of the Epidemic in The
-Netherlands ([medema_presence_2020](article_medema_presence_2020))
+* Occupant health in buildings: Impact of the COVID-19
+pandemic on the opinions of building professionals and
+implications on research ([awada_occupant_2022](article_awada_occupant_2022))

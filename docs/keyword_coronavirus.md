@@ -1,10 +1,9 @@
 # Keyword: __coronavirus__
 ## Clusters
 
-* Cluster 1: [health-ai](cluster_1)
-* Cluster 7: [liver-province](cluster_7)
-* Cluster 9: [climate-change](cluster_9)
-* Cluster 11: [anxiety-social](cluster_11)
+* Cluster 9: [health-building](cluster_9)
+* Cluster 12: [climate-change](cluster_12)
+* Cluster 13: [robot-drone](cluster_13)
 
 ## Concepts
 
@@ -27,12 +26,12 @@ Big Data Analytics and Artificial Intelligence to
 Fight COVID-19? ([mehta_pandemic_2021](article_mehta_pandemic_2021))
 * Persistence of coronaviruses on inanimate surfaces and
 their inactivation with biocidal agents ([kampf_persistence_2020](article_kampf_persistence_2020))
-* Upper-room ultraviolet air disinfection might help to
-reduce COVID-19 transmission in buildings: a feasibility
-study ([beggs_upper-room_2020](article_beggs_upper-room_2020))
 * Guidelines for Responding to COVID-19 Pandemic:
 Best Practices, Impacts, and Future Research
 Directions ([assaad_guidelines_2021](article_assaad_guidelines_2021))
+* Upper-room ultraviolet air disinfection might help to
+reduce COVID-19 transmission in buildings: a feasibility
+study ([beggs_upper-room_2020](article_beggs_upper-room_2020))
 * 2019 Novel Coronavirus (COVID-19) Pandemic:
 Built Environment Considerations To Reduce
 Transmission ([dietz_2019_2020](article_dietz_2019_2020))

@@ -1,12 +1,11 @@
 # Keyword: __system__
 ## Clusters
 
-* Cluster 2: [air-sars](cluster_2)
-* Cluster 4: [resilience-health](cluster_4)
-* Cluster 8: [smart-datum](cluster_8)
-* Cluster 10: [building-health](cluster_10)
-* Cluster 13: [space-urban](cluster_13)
-* Cluster 14: [uvgi-uv](cluster_14)
+* Cluster 0: [air-sars](cluster_0)
+* Cluster 2: [uv-room](cluster_2)
+* Cluster 9: [health-building](cluster_9)
+* Cluster 11: [blockchain-ai](cluster_11)
+* Cluster 14: [resilience-system](cluster_14)
 
 ## Concepts
 
@@ -27,8 +26,9 @@ Centers ([pilati_digital_2021](article_pilati_digital_2021))
 identify priorities for planning urban settlements ([syal_learning_2021](article_syal_learning_2021))
 * A comprehensive review on indoor air quality monitoring
 systems for enhanced public health ([saini_comprehensive_2020](article_saini_comprehensive_2020))
-* carvalhaes_covid-19_2020 ([carvalhaes_covid-19_2020](article_carvalhaes_covid-19_2020))
 * COVID-19 Could Leverage a Sustainable Built
 Environment ([pinheiro_covid-19_2020](article_pinheiro_covid-19_2020))
-* Navigating Climate Change: Rethinking the Role of
-Buildings ([cole_navigating_2020](article_cole_navigating_2020))
+* Towards the sustainable development of smart cities
+through mass video surveillance: A response to the
+COVID-19 pandemic ([shorfuzzaman_towards_2021](article_shorfuzzaman_towards_2021))
+* carvalhaes_covid-19_2020 ([carvalhaes_covid-19_2020](article_carvalhaes_covid-19_2020))

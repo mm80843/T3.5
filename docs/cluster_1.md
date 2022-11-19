@@ -1,7 +1,7 @@
-# Cluster: __health-ai__ (cluster1)
+# Cluster: __wastewater-sars__ (cluster1)
 ## Keywords
 
-* [health](keyword_health), [ai](keyword_ai), [pandemic](keyword_pandemic), [patient](keyword_patient), [technology](keyword_technology), [taiwan](keyword_taiwan), [care](keyword_care), [coronavirus](keyword_coronavirus), [virtual](keyword_virtual), [intelligence](keyword_intelligence), [access](keyword_access), [medical](keyword_medical), [disease](keyword_disease), [datum](keyword_datum), [artificial](keyword_artificial), [digital](keyword_digital), [public](keyword_public), [case](keyword_case), [china](keyword_china), [healthcare](keyword_healthcare)
+* [wastewater](keyword_wastewater), [sars](keyword_sars), [sample](keyword_sample), [rna](keyword_rna), [pcr](keyword_pcr), [sewage](keyword_sewage), [wwtp](keyword_wwtp), [primer](keyword_primer), [gene](keyword_gene), [assay](keyword_assay), [qpcr](keyword_qpcr), [detection](keyword_detection), [surveillance](keyword_surveillance), [virus](keyword_virus), [rt](keyword_rt), [ml](keyword_ml), [viral](keyword_viral), [concentration](keyword_concentration), [case](keyword_case), [sequence](keyword_sequence)
 
 ## Concepts
 
@@ -10,36 +10,27 @@
 
 ## Articles
 
-* ostherr_telehealth_2020 ([ostherr_telehealth_2020](article_ostherr_telehealth_2020))
-* Supporting Technologies for COVID-19 Prevention:
-Systemized Review ([zhao_supporting_2022](article_zhao_supporting_2022))
-* tong_coronavirus_2020 ([tong_coronavirus_2020](article_tong_coronavirus_2020))
-* A Comprehensive Review of the COVID-19 Pandemic
-and the Role of IoT, Drones, AI, Blockchain, and
-5G in Managing its Impact ([chamola_comprehensive_2020](article_chamola_comprehensive_2020))
-* Role of Information Technology in Covid-19
-Prevention ([mehtab_alam_role_2021](article_mehtab_alam_role_2021))
-* From Viral City to Smart City: Learning from
-Pandemic Experiences ([sakellarides_viral_2020](article_sakellarides_viral_2020))
-* Response to COVID-19 in Taiwan: Big Data
-Analytics, New Technology, and Proactive
-Testing ([wang_response_2020](article_wang_response_2020))
-* Mental Health and the Covid-19 Pandemic ([pfefferbaum_mental_2020](article_pfefferbaum_mental_2020))
-* Emerging Technologies to Combat the COVID-19
-Pandemic ([vaishya_emerging_2020](article_vaishya_emerging_2020))
-* Significant applications of virtual reality for COVID-19
-pandemic ([singh_significant_2020](article_singh_significant_2020))
-* Digital technology and COVID-19 ([ting_digital_2020](article_ting_digital_2020))
-* Health, Economic and Social Development Challenges
-of the COVID-19 Pandemic: Strategies for Multiple
-and Interconnected Issues ([panneer_health_2022](article_panneer_health_2022))
-* Pandemic Analytics: How Countries are Leveraging
-Big Data Analytics and Artificial Intelligence to
-Fight COVID-19? ([mehta_pandemic_2021](article_mehta_pandemic_2021))
-* Coronavirus disease 2019: The harms of exaggerated
-information and non‐evidence‐based measures ([ioannidis_coronavirus_2020](article_ioannidis_coronavirus_2020))
-* Exploring the Potential of Artificial Intelligence
-and Machine Learning to Combat COVID-19 and
-Existing Opportunities for LMIC: A Scoping
-Review ([naseem_exploring_2020](article_naseem_exploring_2020))
-* COVID-19: A new digital dawn? ([robbins_covid-19_2020](article_robbins_covid-19_2020))
+* First confirmed detection of SARS-CoV-2 in untreated
+wastewater in Australia: A proof of concept for the
+wastewater surveillance of COVID-19 in the community ([ahmed_first_2020](article_ahmed_first_2020))
+* Wastewater-Based Epidemiology to monitor COVID-19
+outbreak: Present and future diagnostic methods to be in
+your radar ([barcelo_wastewater-based_2020](article_barcelo_wastewater-based_2020))
+* Computational analysis of SARS-CoV-2/COVID-19
+surveillance by wastewater-based epidemiology locally and
+globally: Feasibility, economy, opportunities and
+challenges ([hart_computational_2020](article_hart_computational_2020))
+* First detection of SARS-CoV-2 in untreated wastewaters
+in Italy ([la_rosa_first_2020](article_la_rosa_first_2020))
+* Presence of SARS-Coronavirus-2 RNA in Sewage and
+Correlation with Reported COVID-19 Prevalence in
+the Early Stage of the Epidemic in The
+Netherlands ([medema_presence_2020](article_medema_presence_2020))
+* Future perspectives of wastewater-based epidemiology:
+Monitoring infectious disease spread and resistance to
+the community level ([sims_future_2020](article_sims_future_2020))
+* Detection of SARS-CoV-2 in raw and treated wastewater
+in Germany – Suitability for COVID-19 surveillance
+and potential transmission risks ([westhaus_detection_2021](article_westhaus_detection_2021))
+* SARS-CoV-2 Titers in Wastewater Are Higher
+than Expected from Clinically Confirmed Cases ([wu_sars-cov-2_2020](article_wu_sars-cov-2_2020))

@@ -1,7 +1,7 @@
 # Keyword: __contractor__
 ## Clusters
 
-* Cluster 3: [construction-project](cluster_3)
+* Cluster 6: [construction-project](cluster_6)
 
 ## Concepts
 
@@ -23,11 +23,12 @@ in the UK ([shibani_effects_2020](article_shibani_effects_2020))
 * Analysis of COVID-19 Concerns Raised by the
 Construction Workforce and Development of
 Mitigation Practices ([bou_hatoum_analysis_2021](article_bou_hatoum_analysis_2021))
-* Influence between COVID-19 Impacts and Project
-Stakeholders in Chilean Construction Projects ([araya_influence_2021](article_araya_influence_2021))
 * A Global Survey of Infection Control and
 Mitigation Measures for Combating the Transmission
 of COVID-19 Pandemic in Buildings Under
 Facilities Management Services ([sarvari_global_2022](article_sarvari_global_2022))
-* Effects to Construction Project Management
-Impacted Circular Economic of Covid-19 Pandemic ([paikan_effects_2021](article_paikan_effects_2021))
+* Influence between COVID-19 Impacts and Project
+Stakeholders in Chilean Construction Projects ([araya_influence_2021](article_araya_influence_2021))
+* Covid-19 Associated Risks and Mitigation
+Strategies relevant for the UK Construction
+Industry ([dan-jumbo_covid-19_2021](article_dan-jumbo_covid-19_2021))

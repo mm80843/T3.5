@@ -1,7 +1,7 @@
 # Keyword: __network__
 ## Clusters
 
-* Cluster 8: [smart-datum](cluster_8)
+* Cluster 11: [blockchain-ai](cluster_11)
 
 ## Concepts
 
@@ -27,6 +27,6 @@ Conditions in Public and Private Buildings ([calvo_scalable_2022](article_calvo_
 development ([parkinson_continuous_2019](article_parkinson_continuous_2019))
 * A comprehensive review on indoor air quality monitoring
 systems for enhanced public health ([saini_comprehensive_2020](article_saini_comprehensive_2020))
-* realdania_refleksioner_2022_EN ([realdania_refleksioner_2022_EN](article_realdania_refleksioner_2022_EN))
 * Learning from the COVID-19 pandemic in governing smart
 cities ([bolivar_learning_2022](article_bolivar_learning_2022))
+* realdania_refleksioner_2022_EN ([realdania_refleksioner_2022_EN](article_realdania_refleksioner_2022_EN))

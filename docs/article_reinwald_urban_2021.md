@@ -1,18 +1,18 @@
 # Article: __Urban Green Infrastructure and Green Open Spaces: An Issue of Social Fairness in Times of COVID-19 Crisis__ (reinwald_urban_2021)
 
 * [10.3390/su131910606](https://doi.org/10.3390/su131910606)
-* Cluster: [space-urban](cluster_13)
+* Cluster: [green-urban](cluster_15)
 
 
 ## Keywords
 
-* [vienna](keyword_vienna), [austria](keyword_austria), [wikipedia](keyword_wikipedia), [encyclopedia](keyword_encyclopedia), [climate change](keyword_climate_change), [health](keyword_health), [city](keyword_city), [ecosystem](keyword_ecosystem), [wellbeing](keyword_wellbeing), [new york](keyword_new_york), [environ](keyword_environ), [lockdown](keyword_lockdown), city of vienna, heat wave, switzerland
+* [vienna](keyword_vienna), [austria](keyword_austria), [climate change](keyword_climate_change), [health](keyword_health), [city](keyword_city), [ecosystem](keyword_ecosystem), [city of vienna](keyword_city_of_vienna), [switzerland](keyword_switzerland), [pandemic](keyword_pandemic), [urban](keyword_urban), [heat wave](keyword_heat_wave), [lockdown](keyword_lockdown), wien, green space, [covid-19](keyword_covid-19)
 
 
 
 ## Keywords at large
 
-* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
+* [vienna](keyword_vienna), [austria](keyword_austria), [climate change](keyword_climate_change), [city](keyword_city), [health](keyword_health), [ecosystem](keyword_ecosystem), [new york](keyword_new_york), [lockdown](keyword_lockdown), [city of vienna](keyword_city_of_vienna), [heat wave](keyword_heat_wave)
 
 ## Abstract
 
@@ -46,4 +46,17 @@ climate change and the challenges posed by COVID-19.
 ## Concepts
 
  ![](imgs/article_reinwald_urban_2021.jpg)
+
+### Closest articles 
+
+* [Effects of the COVID-19 pandemic on the use and perceptions of urban green space: An international exploratory study](article_ugolini_effects_2020)
+* [Green in times of COVID-19: urban green space relevance during the COVID-19 pandemic in Buenos Aires City](article_marconi_green_2022)
+* [Pandemiens arkitektur](article_realdania_pandemiens_2022)
+* [Refleksioner fra en pandemi](article_realdania_refleksioner_2022)
+* [Blockchain technology and its applications to combat COVID-19 pandemic](article_sharma_blockchain_2022)
+* [Towards the sustainable development of smart cities through mass video surveillance: A response to the COVID-19 pandemic](article_shorfuzzaman_towards_2021)
+* [Association between indoor-outdoor green features and psychological health during the COVID-19 lockdown in Italy: A cross-sectional nationwide study](article_spano_association_2021)
+* [Amplifying the role of knowledge translation platforms in the COVID-19 pandemic response](article_el-jardali_amplifying_2020)
+* [](article_huy-tran_design_2022)
+* [From Viral City to Smart City: Learning from Pandemic Experiences](article_sakellarides_viral_2020)
 

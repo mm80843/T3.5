@@ -1,7 +1,7 @@
 # Keyword: __ai__
 ## Clusters
 
-* Cluster 1: [health-ai](cluster_1)
+* Cluster 11: [blockchain-ai](cluster_11)
 
 ## Concepts
 
@@ -18,9 +18,6 @@ and the Role of IoT, Drones, AI, Blockchain, and
 * How COVID-19 Could Accelerate the Adoption of
 New Retail Technologies and Enhance the
 (E-)Servicescape ([willems_how_2021](article_willems_how_2021))
-* Impact of COVID-19 on IoT Adoption in Healthcare,
-Smart Homes, Smart Buildings, Smart Cities,
-Transportation and Industrial IoT ([umair_impact_2021](article_umair_impact_2021))
 * Exploring the Potential of Artificial Intelligence
 and Machine Learning to Combat COVID-19 and
 Existing Opportunities for LMIC: A Scoping
@@ -28,12 +25,15 @@ Review ([naseem_exploring_2020](article_naseem_exploring_2020))
 * Future (post-COVID) digital, smart and sustainable
 cities in the wake of 6G: Digital twins, immersive
 realities and new urban economies ([allam_future_2021](article_allam_future_2021))
+* Design COVID-19 Ontology: A Healthcare and
+Safety Perspective ([aloulou_design_2022](article_aloulou_design_2022))
 * How the 5G Enabled the COVID-19 Pandemic
 Prevention and Control: Materiality, Affordance,
 and (De-)Spatialization ([li_how_2022](article_li_how_2022))
-* Design COVID-19 Ontology: A Healthcare and
-Safety Perspective ([aloulou_design_2022](article_aloulou_design_2022))
-* Contributions of Smart City Solutions and
-Technologies to Resilience against the COVID-19
-Pandemic: A Literature Review ([sharifi_contributions_2021](article_sharifi_contributions_2021))
-* world_bank_world_2022 ([world_bank_world_2022](article_world_bank_world_2022))
+* When the fourth water and digital revolution encountered
+COVID-19 ([poch_when_2020](article_poch_when_2020))
+* Prophylactic Architecture: Formulating the Concept
+of Pandemic-Resilient Homes ([elrayies_prophylactic_2022](article_elrayies_prophylactic_2022))
+* Impact of COVID-19 on IoT Adoption in Healthcare,
+Smart Homes, Smart Buildings, Smart Cities,
+Transportation and Industrial IoT ([umair_impact_2021](article_umair_impact_2021))

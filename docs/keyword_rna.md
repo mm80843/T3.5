@@ -1,7 +1,7 @@
 # Keyword: __rna__
 ## Clusters
 
-* Cluster 12: [wastewater-sars](cluster_12)
+* Cluster 1: [wastewater-sars](cluster_1)
 
 ## Concepts
 

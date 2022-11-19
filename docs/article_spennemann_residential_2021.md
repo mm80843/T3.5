@@ -1,18 +1,18 @@
 # Article: __RESIDENTIAL ARCHITECTURE IN A POST-PANDEMIC WORLD: IMPLICATIONS OF COVID-19 FOR NEW CONSTRUCTION AND FOR ADAPTING HERITAGE BUILDINGS__ (spennemann_residential_2021)
 
 * [10.3992/jgb.16.1.199](https://doi.org/10.3992/jgb.16.1.199)
-* Cluster: [space-urban](cluster_13)
+* Cluster: [health-building](cluster_9)
 
 
 ## Keywords
 
-* [covid-19](keyword_covid-19), [coronavirus](keyword_coronavirus), [australia](keyword_australia), [covid 19 pandemic](keyword_covid_19_pandemic), [pandemic](keyword_pandemic), [aerosol](keyword_aerosol), [social distancing](keyword_social_distancing), [sydney](keyword_sydney), [coronavirus disease](keyword_coronavirus_disease), [design](keyword_design), [containment space](keyword_containment_space), [bedroom](keyword_bedroom), [sar cov 2](keyword_sar_cov_2), residential space, [architectural style](keyword_architectural_style)
+* [covid-19](keyword_covid-19), [coronavirus](keyword_coronavirus), [australia](keyword_australia), [pandemic](keyword_pandemic), [covid 19 pandemic](keyword_covid_19_pandemic), [aerosol](keyword_aerosol), [sydney](keyword_sydney), [social distancing](keyword_social_distancing), [coronavirus disease](keyword_coronavirus_disease), [design](keyword_design), containment space, [bedroom](keyword_bedroom), residential space, bathroom, [symptom](keyword_symptom)
 
 
 
 ## Keywords at large
 
-* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
+* [covid-19](keyword_covid-19), [coronavirus](keyword_coronavirus), [australia](keyword_australia), [pandemic](keyword_pandemic), [covid 19 pandemic](keyword_covid_19_pandemic), [aerosol](keyword_aerosol), [social distancing](keyword_social_distancing), [sydney](keyword_sydney), [coronavirus disease](keyword_coronavirus_disease), [design](keyword_design)
 
 ## Abstract
 
@@ -41,6 +41,19 @@ developments.
 
  ![](imgs/article_spennemann_residential_2021.jpg)
 
+### Closest articles 
+
+* [Adaptive Design of the Built Environment to Mitigate the Transmission Risk of COVID-19](article_ara_dilshad_shangi_adaptive_2020)
+* [How the Coronavirus Will Reshape Architecture](article_chayka_how_2020)
+* [realdania_refleksioner_2022_EN](article_realdania_refleksioner_2022_EN)
+* [Architectural Design Drives the Biogeography of Indoor Bacterial Communities](article_kembel_architectural_2014)
+* [](article_dalessandro_covid-19_2020)
+* [The COVID-19 Impact on Flexible Office Space](article_clifton_covid-19_2020)
+* [Prophylactic Architecture: Formulating the Concept of Pandemic-Resilient Homes](article_elrayies_prophylactic_2022)
+* [How is COVID-19 Experience Transforming Sustainability Requirements of Residential Buildings? A Review](article_tokazhanov_how_2020)
+* [How our homes impact our health: using a COVID-19 informed approach to examine urban apartment housing](article_peters_how_2020)
+* [COVID-19 and Green Housing: A Review of Relevant Literature](article_kaklauskas_covid-19_2021)
+
 ### References 
 
 * [Far-UVC light (222 nm) efficiently and safely
@@ -52,6 +65,8 @@ Transmission](article_dietz_2019_2020)
 Covid-19 pandemic](article_megahed_antivirus-built_2020)
 * [How can airborne transmission of COVID-19 indoors be
 minimised?](article_morawska_how_2020)
+* [Public housing and COVID-19: contestation, challenge and
+change](article_power_public_2020)
 * [Aerosol and Surface Stability of SARS-CoV-2 as
 Compared with SARS-CoV-1](article_van_doremalen_aerosol_2020)
 

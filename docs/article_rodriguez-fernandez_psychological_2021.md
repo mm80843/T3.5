@@ -1,18 +1,18 @@
 # Article: __Psychological Effects of Home Confinement and Social Distancing Derived from COVID-19 in the General Population—A Systematic Review__ (rodriguez-fernandez_psychological_2021)
 
 * [10.3390/ijerph18126528](https://doi.org/10.3390/ijerph18126528)
-* Cluster: [anxiety-social](cluster_11)
+* Cluster: [health-building](cluster_9)
 
 
 ## Keywords
 
-* [anxiety](keyword_anxiety), [depression](keyword_depression), [stress](keyword_stress), [wikipedia](keyword_wikipedia), [encyclopedia](keyword_encyclopedia), [covid-19](keyword_covid-19), [mental health](keyword_mental_health), [pandemic](keyword_pandemic), [re psychiatry](keyword_re_psychiatry), [ptsd](keyword_ptsd), [covid 19 pandemic](keyword_covid_19_pandemic), [symptom](keyword_symptom), psychiatry, cross sectional, depressive symptom
+* [anxiety](keyword_anxiety), [depression](keyword_depression), [stress](keyword_stress), [covid-19](keyword_covid-19), [mental health](keyword_mental_health), [pandemic](keyword_pandemic), [re psychiatry](keyword_re_psychiatry), [ptsd](keyword_ptsd), [covid 19 pandemic](keyword_covid_19_pandemic), [symptom](keyword_symptom), cross sectional, psychiatry, depressive symptom, [psychiatrist](keyword_psychiatrist), mental illness
 
 
 
 ## Keywords at large
 
-* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
+* [anxiety](keyword_anxiety), [depression](keyword_depression), [stress](keyword_stress), [covid-19](keyword_covid-19), [mental health](keyword_mental_health), [pandemic](keyword_pandemic), [re psychiatry](keyword_re_psychiatry), [ptsd](keyword_ptsd), [covid 19 pandemic](keyword_covid_19_pandemic), [symptom](keyword_symptom)
 
 ## Abstract
 
@@ -46,6 +46,19 @@ COVID-19.
 ## Concepts
 
  ![](imgs/article_rodriguez-fernandez_psychological_2021.jpg)
+
+### Closest articles 
+
+* [Home garden use during COVID-19: Associations with physical and mental wellbeing in older adults](article_corley_home_2021)
+* [Mental Health and the Covid-19 Pandemic](article_pfefferbaum_mental_2020)
+* [Mental health and COVID-19](article_who_mental_2021)
+* [The impacts of knowledge, risk perception, emotion and information on citizens’ protective behaviors during the outbreak of COVID-19: a cross-sectional study in China](article_ning_impacts_2020)
+* [Association between indoor-outdoor green features and psychological health during the COVID-19 lockdown in Italy: A cross-sectional nationwide study](article_spano_association_2021)
+* [COVID-19 media fatigue: predictors of decreasing interest and avoidance of COVID-19–related news](article_buneviciene_covid-19_2021)
+* [Mental health economics: A prospective study on psychological flourishing and associations with healthcare costs and sickness benefit transfers in Denmark](article_santini_mental_2021)
+* [Green in times of COVID-19: urban green space relevance during the COVID-19 pandemic in Buenos Aires City](article_marconi_green_2022)
+* [Effects of the COVID-19 pandemic on the use and perceptions of urban green space: An international exploratory study](article_ugolini_effects_2020)
+* [A Mixed Approach on Resilience of Spanish Dwellings and Households during COVID-19 Lockdown](article_cuerdo-vilches_mixed_2020)
 
 ### References 
 

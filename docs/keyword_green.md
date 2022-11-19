@@ -1,8 +1,8 @@
 # Keyword: __green__
 ## Clusters
 
-* Cluster 10: [building-health](cluster_10)
-* Cluster 13: [space-urban](cluster_13)
+* Cluster 8: [health-housing](cluster_8)
+* Cluster 15: [green-urban](cluster_15)
 
 ## Concepts
 
@@ -21,13 +21,13 @@ New Retail Technologies and Enhance the
 * Urban Green Infrastructure and Green Open
 Spaces: An Issue of Social Fairness in Times of
 COVID-19 Crisis ([reinwald_urban_2021](article_reinwald_urban_2021))
-* world_green_building_council_health_2014 ([world_green_building_council_health_2014](article_world_green_building_council_health_2014))
 * Biophilic design in architecture and its contributions to
 health, well-being, and sustainability: A critical
 review ([zhong_biophilic_2022](article_zhong_biophilic_2022))
+* world_green_building_council_health_2014 ([world_green_building_council_health_2014](article_world_green_building_council_health_2014))
 * The effect of human mobility and control measures on the
 COVID-19 epidemic in China ([kraemer_effect_2020](article_kraemer_effect_2020))
-* COVID-19 and Green Housing: A Review of
-Relevant Literature ([kaklauskas_covid-19_2021](article_kaklauskas_covid-19_2021))
+* The Impact of COVID-19 on Public Space: A
+Review of the Emerging Questions ([honey-roses_impact_2020](article_honey-roses_impact_2020))
 * Prophylactic Architecture: Formulating the Concept
 of Pandemic-Resilient Homes ([elrayies_prophylactic_2022](article_elrayies_prophylactic_2022))

@@ -1,18 +1,18 @@
 # Article: __Pandemic Analytics: How Countries are Leveraging Big Data Analytics and Artificial Intelligence to Fight COVID-19?__ (mehta_pandemic_2021)
 
 * [10.1007/s42979-021-00923-y](https://doi.org/10.1007/s42979-021-00923-y)
-* Cluster: [health-ai](cluster_1)
+* Cluster: [blockchain-ai](cluster_11)
 
 
 ## Keywords
 
-* [covid-19](keyword_covid-19), [big datum](keyword_big_datum), [artificial intelligence](keyword_artificial_intelligence), [coronavirus](keyword_coronavirus), [ai](keyword_ai), [analytic](keyword_analytic), [news](keyword_news), [pandemic](keyword_pandemic), [india](keyword_india), [china](keyword_china), [south korea](keyword_south_korea), [data](keyword_data), big datum analytic, computer science, william shakespeare
+* [covid-19](keyword_covid-19), [artificial intelligence](keyword_artificial_intelligence), [big datum](keyword_big_datum), [coronavirus](keyword_coronavirus), [analytic](keyword_analytic), [india](keyword_india), [pandemic](keyword_pandemic), [news](keyword_news), [china](keyword_china), [south korea](keyword_south_korea), big datum analytic, computer science, [australia](keyword_australia), [technology](keyword_technology), microsoft
 
 
 
 ## Keywords at large
 
-* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
+* [covid-19](keyword_covid-19), [artificial intelligence](keyword_artificial_intelligence), [big datum](keyword_big_datum), [coronavirus](keyword_coronavirus), [analytic](keyword_analytic), [pandemic](keyword_pandemic), [news](keyword_news), [india](keyword_india), [china](keyword_china), [south korea](keyword_south_korea)
 
 ## Abstract
 
@@ -49,6 +49,20 @@ scheme to address the pandemic.
 ## Concepts
 
  ![](imgs/article_mehta_pandemic_2021.jpg)
+
+### Closest articles 
+
+* [Exploring the Potential of Artificial Intelligence and Machine Learning to Combat COVID-19 and Existing Opportunities for LMIC: A Scoping Review](article_naseem_exploring_2020)
+* [Digital technology and COVID-19](article_ting_digital_2020)
+* [](article_huy-tran_design_2022)
+* [Towards the sustainable development of smart cities through mass video surveillance: A response to the COVID-19 pandemic](article_shorfuzzaman_towards_2021)
+* [Coronavirus: Can artificial intelligence be smart enough
+to detect fake news?](article_tong_coronavirus_2020)
+* [Blockchain technology and its applications to combat COVID-19 pandemic](article_sharma_blockchain_2022)
+* [The Smart City and Covid‐19](article_webb_smart_2020)
+* [COVID-19 Higher Mortality in Chinese Regions With Chronic Exposure to Lower Air Quality](article_pansini_covid-19_2021)
+* [Air pollution linked with higher COVID-19 death rates](article_harvard_th_chan_schoold_of_public_health_air_2020)
+* [The three modes of existence of the pandemic smart city](article_soderstrom_three_2021)
 
 ### References 
 

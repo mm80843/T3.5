@@ -1,18 +1,18 @@
 # Article: __Methods for air cleaning and protection of building occupants from airborne pathogens__ (bolashikov_methods_2009)
 
 * [10.1016/j.buildenv.2008.09.001](https://doi.org/10.1016/j.buildenv.2008.09.001)
-* Cluster: [air-sars](cluster_2)
+* Cluster: [air-sars](cluster_0)
 
 
 ## Keywords
 
-* [pathogen](keyword_pathogen), [ventilation](keyword_ventilation), [virus](keyword_virus), [disinfection](keyword_disinfection), [infection](keyword_infection), [influenza](keyword_influenza), [cough](keyword_cough), [relative humidity](keyword_relative_humidity), [droplet](keyword_droplet), [transmission](keyword_transmission), bahnfleth wp, kowalski wj, [temperature](keyword_temperature), [uvgi](keyword_uvgi), respiratory tract
+* [pathogen](keyword_pathogen), [ventilation](keyword_ventilation), [virus](keyword_virus), [disinfection](keyword_disinfection), [infection](keyword_infection), [influenza](keyword_influenza), [cough](keyword_cough), [relative humidity](keyword_relative_humidity), [droplet](keyword_droplet), bahnfleth wp, [temperature](keyword_temperature), kowalski wj, [transmission](keyword_transmission), nielsen pv, [environment](keyword_environment)
 
 
 
 ## Keywords at large
 
-* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
+* [pathogen](keyword_pathogen), [ventilation](keyword_ventilation), [virus](keyword_virus), [disinfection](keyword_disinfection), [influenza](keyword_influenza), [infection](keyword_infection), [cough](keyword_cough), [relative humidity](keyword_relative_humidity), [droplet](keyword_droplet), [temperature](keyword_temperature)
 
 ## Abstract
 
@@ -46,6 +46,22 @@ discussed.
 ## Concepts
 
  ![](imgs/article_bolashikov_methods_2009.jpg)
+
+### Closest articles 
+
+* [morawska_how_2020-1](article_morawska_how_2020-1)
+* [How can airborne transmission of COVID-19 indoors be minimised?](article_morawska_how_2020)
+* [The ventilation of buildings and other mitigating measures for COVID-19: a focus on wintertime](article_burridge_ventilation_2021)
+* [Air Disinfection for Airborne Infection Control with a Focus on COVID‐19: Why Germicidal UV is Essential
+            <sup>†</sup>](article_nardell_air_2021)
+* [ASHRAE Position Document on Infectious
+Aerosols](article_ashrae_ashrae_2022)
+* [Environmental factors involved in SARS-CoV-2 transmission: effect and role of indoor environmental quality in the strategy for COVID-19 infection control](article_azuma_environmental_2020)
+* [Heating, ventilation and air-conditioning systems in the
+context of COVID-19](article_ecdc_heating_2020)
+* [Ventilation use in nonmedical settings during COVID-19: Cleaning protocol, maintenance, and recommendations](article_nembhard_ventilation_2020)
+* [2019 Novel Coronavirus (COVID-19) Pandemic: Built Environment Considerations To Reduce Transmission](article_dietz_2019_2020)
+* [Applications of ultraviolet germicidal irradiation disinfection in health care facilities: Effective adjunct, but not stand-alone technology](article_memarzadeh_applications_2010)
 
 ### References 
 

@@ -1,7 +1,8 @@
 # Keyword: __home__
 ## Clusters
 
-* Cluster 13: [space-urban](cluster_13)
+* Cluster 8: [health-housing](cluster_8)
+* Cluster 15: [green-urban](cluster_15)
 
 ## Concepts
 
@@ -14,19 +15,18 @@
 of Pandemic-Resilient Homes ([elrayies_prophylactic_2022](article_elrayies_prophylactic_2022))
 * A Mixed Approach on Resilience of Spanish
 Dwellings and Households during COVID-19 Lockdown ([cuerdo-vilches_mixed_2020](article_cuerdo-vilches_mixed_2020))
+* Dangerous liaisons? Applying the social harm perspective
+to the social inequality, housing and health trifecta
+during the Covid-19 pandemic ([gurney_dangerous_2021](article_gurney_dangerous_2021))
 * COVID-19 and Green Housing: A Review of
 Relevant Literature ([kaklauskas_covid-19_2021](article_kaklauskas_covid-19_2021))
 * How our homes impact our health: using a COVID-19
 informed approach to examine urban apartment housing ([peters_how_2020](article_peters_how_2020))
+* Impacts of COVID-19 on residential building energy use
+and performance ([kawka_impacts_2021](article_kawka_impacts_2021))
 * How is COVID-19 Experience Transforming
 Sustainability Requirements of Residential
 Buildings? A Review ([tokazhanov_how_2020](article_tokazhanov_how_2020))
 * chayka_how_2020 ([chayka_how_2020](article_chayka_how_2020))
 * The Effect of Opening Windows on Air Change
 Rates in Two Homes ([howard-reed_effect_2002](article_howard-reed_effect_2002))
-* How COVID-19 Could Accelerate the Adoption of
-New Retail Technologies and Enhance the
-(E-)Servicescape ([willems_how_2021](article_willems_how_2021))
-* Association between indoor-outdoor green features and
-psychological health during the COVID-19 lockdown in
-Italy: A cross-sectional nationwide study ([spano_association_2021](article_spano_association_2021))

@@ -1,18 +1,18 @@
 # Article: __Designing Post COVID-19 Buildings: Approaches for Achieving Healthy Buildings__ (navaratnam_designing_2022)
 
 * [10.3390/buildings12010074](https://doi.org/10.3390/buildings12010074)
-* Cluster: [air-sars](cluster_2)
+* Cluster: [air-sars](cluster_0)
 
 
 ## Keywords
 
-* [environ](keyword_environ), [virus](keyword_virus), [build](keyword_build), [covid-19](keyword_covid-19), [building](keyword_building), [covid 19 pandemic](keyword_covid_19_pandemic), [ventilation](keyword_ventilation), [transmission](keyword_transmission), [antimicrobial](keyword_antimicrobial), [hospital](keyword_hospital), air quality, [copper](keyword_copper), [pathogen](keyword_pathogen), 19 of 21, [indoor air quality](keyword_indoor_air_quality)
+* [covid-19](keyword_covid-19), [virus](keyword_virus), [build](keyword_build), [covid 19 pandemic](keyword_covid_19_pandemic), [building](keyword_building), [antimicrobial](keyword_antimicrobial), [hospital](keyword_hospital), [transmission](keyword_transmission), [air quality](keyword_air_quality), [pathogen](keyword_pathogen), [copper](keyword_copper), [indoor air quality](keyword_indoor_air_quality), [ventilation](keyword_ventilation), building design, [bacteria](keyword_bacteria)
 
 
 
 ## Keywords at large
 
-* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
+* [covid-19](keyword_covid-19), [build](keyword_build), [virus](keyword_virus), [covid 19 pandemic](keyword_covid_19_pandemic), [ventilation](keyword_ventilation), [building](keyword_building), [antimicrobial](keyword_antimicrobial), [transmission](keyword_transmission), [hospital](keyword_hospital), [air quality](keyword_air_quality)
 
 ## Abstract
 
@@ -43,6 +43,22 @@ diseases.
 ## Concepts
 
  ![](imgs/article_navaratnam_designing_2022.jpg)
+
+### Closest articles 
+
+* [Indoor Air Quality: Rethinking rules of building design strategies in post-pandemic architecture](article_megahed_indoor_2021)
+* [Smart buildings: how a virus might lead to healthier
+buildings - Arup](article_lam_smart_2021)
+* [A comprehensive review on indoor air quality monitoring systems for enhanced public health](article_saini_comprehensive_2020)
+* [A Review on Building Design as a Biomedical System for Preventing COVID-19 Pandemic](article_amran_review_2022)
+* [Architectural design strategies for infection prevention
+and control (IPC) in health-care facilities: towards
+curbing the spread of Covid-19 \textbar SpringerLink](article_udomiaye_architectural_2020)
+* [Ten questions concerning occupant health in buildings during normal operations and extreme events including the COVID-19 pandemic](article_awada_ten_2021)
+* [Characterization and performance evaluation of a full-scale activated carbon-based dynamic botanical air filtration system for improving indoor air quality](article_wang_characterization_2011)
+* [A review of facilities management interventions to mitigate respiratory infections in existing buildings](article_zhang_review_2022)
+* [The Effect of Opening Windows on Air Change Rates in Two Homes](article_howard-reed_effect_2002)
+* [Occupant health in buildings: Impact of the COVID-19 pandemic on the opinions of building professionals and implications on research](article_awada_occupant_2022)
 
 ### References 
 

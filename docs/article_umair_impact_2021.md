@@ -1,18 +1,18 @@
 # Article: __Impact of COVID-19 on IoT Adoption in Healthcare, Smart Homes, Smart Buildings, Smart Cities, Transportation and Industrial IoT__ (umair_impact_2021)
 
 * [10.3390/s21113838](https://doi.org/10.3390/s21113838)
-* Cluster: [smart-datum](cluster_8)
+* Cluster: [city-smart](cluster_10)
 
 
 ## Keywords
 
-* [covid-19](keyword_covid-19), [iot](keyword_iot), [pandemic](keyword_pandemic), [smart city](keyword_smart_city), [smart building](keyword_smart_building), [healthcare](keyword_healthcare), [wearable](keyword_wearable), [australia](keyword_australia), [wikipedia](keyword_wikipedia), [encyclopedia](keyword_encyclopedia), [coronavirus](keyword_coronavirus), [covid 19 pandemic](keyword_covid_19_pandemic), william shakespeare, [china](keyword_china), [data](keyword_data)
+* [covid-19](keyword_covid-19), [iot](keyword_iot), [pandemic](keyword_pandemic), [smart city](keyword_smart_city), [smart building](keyword_smart_building), [healthcare](keyword_healthcare), [artificial intelligence](keyword_artificial_intelligence), [australia](keyword_australia), [wearable](keyword_wearable), [coronavirus](keyword_coronavirus), [covid 19 pandemic](keyword_covid_19_pandemic), [china](keyword_china), [contact trace](keyword_contact_trace), [sensor](keyword_sensor), [transportation](keyword_transportation)
 
 
 
 ## Keywords at large
 
-* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
+* [covid-19](keyword_covid-19), [iot](keyword_iot), [pandemic](keyword_pandemic), [smart city](keyword_smart_city), [smart building](keyword_smart_building), [healthcare](keyword_healthcare), [artificial intelligence](keyword_artificial_intelligence), [wearable](keyword_wearable), [australia](keyword_australia), [coronavirus](keyword_coronavirus)
 
 ## Abstract
 
@@ -39,6 +39,19 @@ facilitate accelerated IoT adoption.
 
  ![](imgs/article_umair_impact_2021.jpg)
 
+### Closest articles 
+
+* [Contributions of Smart City Solutions and Technologies to Resilience against the COVID-19 Pandemic: A Literature Review](article_sharifi_contributions_2021)
+* [Future (post-COVID) digital, smart and sustainable cities in the wake of 6G: Digital twins, immersive realities and new urban economies](article_allam_future_2021)
+* [The Emergence of Anti-Privacy and Control at the Nexus between the Concepts of Safe City and Smart City](article_allam_emergence_2019)
+* [Learning from the COVID-19 pandemic in governing smart cities](article_bolivar_learning_2022)
+* [On the Coronavirus (COVID-19) Outbreak and the Smart City Network: Universal Data Sharing Standards Coupled with Artificial Intelligence (AI) to Benefit Urban Health Monitoring and Management](article_allam_coronavirus_2020)
+* [The three modes of existence of the pandemic smart city](article_soderstrom_three_2021)
+* [Smart cities and the pandemic: digital technologies on the urban management of Brazilian cities](article_fariniuk_smart_2020)
+* [The Smart City and Covid‐19](article_webb_smart_2020)
+* [Pandemic stricken cities on lockdown. Where are our planning and design professionals [now, then and into the future]?](article_allam_pandemic_2020)
+* [Smart cities and a data-driven response to COVID-19](article_james_smart_2020)
+
 ### References 
 
 * [Internet of things (IoT) applications to fight against
@@ -47,6 +60,9 @@ COVID-19 pandemic](article_singh_internet_2020)
 * [A Comprehensive Review of the COVID-19 Pandemic
 and the Role of IoT, Drones, AI, Blockchain, and
 5G in Managing its Impact](article_chamola_comprehensive_2020)
+* [Towards the sustainable development of smart cities
+through mass video surveillance: A response to the
+COVID-19 pandemic](article_shorfuzzaman_towards_2021)
 * [Response to COVID-19 in Taiwan: Big Data
 Analytics, New Technology, and Proactive
 Testing](article_wang_response_2020)

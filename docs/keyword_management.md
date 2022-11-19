@@ -1,7 +1,7 @@
 # Keyword: __management__
 ## Clusters
 
-* Cluster 3: [construction-project](cluster_3)
+* Cluster 6: [construction-project](cluster_6)
 
 ## Concepts
 
@@ -26,8 +26,9 @@ Arabia ([ibrahim_assessment_2022](article_ibrahim_assessment_2022))
 COVID-19 ([poch_when_2020](article_poch_when_2020))
 * Mapping research in logistics and supply chain management
 during COVID-19 pandemic ([montoya-torres_mapping_2021](article_montoya-torres_mapping_2021))
+* Effects of the COVID-19 pandemic on the use and
+perceptions of urban green space: An international
+exploratory study ([ugolini_effects_2020](article_ugolini_effects_2020))
 * Contributions of Smart City Solutions and
 Technologies to Resilience against the COVID-19
 Pandemic: A Literature Review ([sharifi_contributions_2021](article_sharifi_contributions_2021))
-* Impacts of COVID-19 on Health and Safety of
-Workforce in Construction Industry ([pamidimukkala_impacts_2021](article_pamidimukkala_impacts_2021))

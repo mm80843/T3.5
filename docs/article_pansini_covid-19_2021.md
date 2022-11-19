@@ -1,18 +1,18 @@
 # Article: __COVID-19 Higher Mortality in Chinese Regions With Chronic Exposure to Lower Air Quality__ (pansini_covid-19_2021)
 
 * [10.3389/fpubh.2020.597753](https://doi.org/10.3389/fpubh.2020.597753)
-* Cluster: [air-sars](cluster_2)
+* Cluster: [air-sars](cluster_0)
 
 
 ## Keywords
 
-* [air pollution](keyword_air_pollution), [covid-19](keyword_covid-19), [wuhan](keyword_wuhan), [china](keyword_china), [air pollutant](keyword_air_pollutant), [hubei](keyword_hubei), [mortality](keyword_mortality), [fatality](keyword_fatality), [province](keyword_province), [o3](keyword_o3), [pollutant](keyword_pollutant), [italy](keyword_italy), [pollution](keyword_pollution), [sar cov 2](keyword_sar_cov_2), [environ](keyword_environ)
+* [air pollution](keyword_air_pollution), [covid-19](keyword_covid-19), [wuhan](keyword_wuhan), [china](keyword_china), [air pollutant](keyword_air_pollutant), [hubei](keyword_hubei), [mortality](keyword_mortality), [fatality](keyword_fatality), [province](keyword_province), [pollutant](keyword_pollutant), [italy](keyword_italy), [pollution](keyword_pollution), [o3](keyword_o3), [public health](keyword_public_health), [infection](keyword_infection)
 
 
 
 ## Keywords at large
 
-* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
+* [air pollution](keyword_air_pollution), [covid-19](keyword_covid-19), [wuhan](keyword_wuhan), [china](keyword_china), [air pollutant](keyword_air_pollutant), [hubei](keyword_hubei), [mortality](keyword_mortality), [fatality](keyword_fatality), [province](keyword_province), [o3](keyword_o3)
 
 ## Abstract
 
@@ -42,4 +42,18 @@ multi-scale public health issue.
 ## Concepts
 
  ![](imgs/article_pansini_covid-19_2021.jpg)
+
+### Closest articles 
+
+* [Air pollution linked with higher COVID-19 death rates](article_harvard_th_chan_schoold_of_public_health_air_2020)
+* [COVID-19 misinformation: Accuracy of articles about coronavirus prevention mostly shared on social media](article_obiala_covid-19_2021)
+* [Coronavirus: Can artificial intelligence be smart enough
+to detect fake news?](article_tong_coronavirus_2020)
+* [Should I Stay or Should I Go? Tourists’ COVID-19 Risk Perception and Vacation Behavior Shift](article_bratic_should_2021)
+* [Seeing the invisible hand: Underlying effects of COVID-19 on tourists’ behavioral patterns](article_li_seeing_2020)
+* [The changes in the effects of social media use of Cypriots due to COVID-19 pandemic](article_kaya_changes_2020)
+* [What drives unverified information sharing and cyberchondria during the COVID-19 pandemic?](article_laato_what_2020)
+* [Exploring the Potential of Artificial Intelligence and Machine Learning to Combat COVID-19 and Existing Opportunities for LMIC: A Scoping Review](article_naseem_exploring_2020)
+* [Pandemic Analytics: How Countries are Leveraging Big Data Analytics and Artificial Intelligence to Fight COVID-19?](article_mehta_pandemic_2021)
+* [Digital technology and COVID-19](article_ting_digital_2020)
 

@@ -1,7 +1,7 @@
-# Cluster: __uvgi-uv__ (cluster14)
+# Cluster: __resilience-system__ (cluster14)
 ## Keywords
 
-* [uvgi](keyword_uvgi), [uv](keyword_uv), [air](keyword_air), [room](keyword_room), [airborne](keyword_airborne), [upper](keyword_upper), [droplet](keyword_droplet), [lamp](keyword_lamp), [system](keyword_system), [germicidal](keyword_germicidal), [ultraviolet](keyword_ultraviolet), [bacteria](keyword_bacteria), [ventilation](keyword_ventilation), [irradiation](keyword_irradiation), [memarzadeh](keyword_memarzadeh), [control](keyword_control), [microorganism](keyword_microorganism), [infection](keyword_infection), [nucleus](keyword_nucleus), [olmste](keyword_olmste)
+* [resilience](keyword_resilience), [system](keyword_system), [analysis](keyword_analysis), [shock](keyword_shock), [risk](keyword_risk), [health](keyword_health), [oecd](keyword_oecd), [workshop](keyword_workshop), [roadmap](keyword_roadmap), [community](keyword_community), [pack](keyword_pack), [asset](keyword_asset), [indicator](keyword_indicator), [metric](keyword_metric), [programming](keyword_programming), [impact](keyword_impact), [briefing](keyword_briefing), [action](keyword_action), [congo](keyword_congo), [capacity](keyword_capacity)
 
 ## Concepts
 
@@ -10,6 +10,7 @@
 
 ## Articles
 
-* Applications of ultraviolet germicidal irradiation
-disinfection in health care facilities: Effective
-adjunct, but not stand-alone technology ([memarzadeh_applications_2010](article_memarzadeh_applications_2010))
+* A review of definitions and measures of system
+resilience ([hosseini_review_2016](article_hosseini_review_2016))
+* oecd_guidelines_2014 ([oecd_guidelines_2014](article_oecd_guidelines_2014))
+* who_strengthening_2017 ([who_strengthening_2017](article_who_strengthening_2017))

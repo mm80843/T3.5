@@ -1,7 +1,7 @@
 # Keyword: __oecd__
 ## Clusters
 
-* Cluster 4: [resilience-health](cluster_4)
+* Cluster 14: [resilience-system](cluster_14)
 
 ## Concepts
 
@@ -22,6 +22,5 @@ of COVID-19 ([oecd_global_2021](article_oecd_global_2021))
 of SME finance in selected ASEAN member states ([taghizadeh-hesary_covid-19_2022](article_taghizadeh-hesary_covid-19_2022))
 * Learning from the COVID-19 pandemic in governing smart
 cities ([bolivar_learning_2022](article_bolivar_learning_2022))
-* Strategies to Mitigate COVID-19 Pandemic Impacts
-on Health and Safety of Workers in Construction
-Projects ([kaushal_strategies_2021](article_kaushal_strategies_2021))
+* Blockchain technology and its applications to combat
+COVID-19 pandemic ([sharma_blockchain_2022](article_sharma_blockchain_2022))

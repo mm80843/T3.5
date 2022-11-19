@@ -1,25 +1,23 @@
 # Keyword: __eu__
 ## Clusters
 
-* Cluster 1: [om-ai](cluster_1)
+* Cluster 13: [robot-drone](cluster_13)
 
 ## Concepts
 
  ![](imgs/keyword_eu.jpg)
 
 
-## Articles
-* Borders and Catastrophe: lessons from COVID-19 for the
-European Green Deal ([klein_borders_2021](article_klein_borders_2021))
-* council_of_europe_2020_2020-250 ([council_of_europe_2020_2020-250](article_council_of_europe_2020_2020-250))
-* eurofund_sustainable_2016-950 ([eurofund_sustainable_2016-950](article_eurofund_sustainable_2016-950))
-* eurofund_sustainable_2016-200 ([eurofund_sustainable_2016-200](article_eurofund_sustainable_2016-200))
-* eurofund_sustainable_2016-1400 ([eurofund_sustainable_2016-1400](article_eurofund_sustainable_2016-1400))
-* eurofund_sustainable_2016-150 ([eurofund_sustainable_2016-150](article_eurofund_sustainable_2016-150))
-* eurofund_sustainable_2016-1650 ([eurofund_sustainable_2016-1650](article_eurofund_sustainable_2016-1650))
-* What has been the impact of the COVID-19 pandemic on
-immigrants? An update on recent evidence ([oecd_what_2022](article_oecd_what_2022))
-* eurofund_sustainable_2016-350 ([eurofund_sustainable_2016-350](article_eurofund_sustainable_2016-350))
-* Challenges of data sharing in European Covid-19
-projects: A learning opportunity for advancing pandemic
-preparedness and response ([tacconelli_challenges_2022](article_tacconelli_challenges_2022))
+## Top 10 articles for __eu__
+* COVID-19 and the UN Sustainable Development
+Goals: Threat to Solidarity or an Opportunity? ([leal_filho_covid-19_2020](article_leal_filho_covid-19_2020))
+* On the Coronavirus (COVID-19) Outbreak and the
+Smart City Network: Universal Data Sharing
+Standards Coupled with Artificial Intelligence
+(AI) to Benefit Urban Health Monitoring and
+Management ([allam_coronavirus_2020](article_allam_coronavirus_2020))
+* Exploring the Non-Medical impacts of Covid-19 using
+Natural Language Processing ([agade_exploring_2020](article_agade_exploring_2020))
+* Effects of the COVID-19 pandemic on the use and
+perceptions of urban green space: An international
+exploratory study ([ugolini_effects_2020](article_ugolini_effects_2020))

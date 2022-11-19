@@ -1,18 +1,18 @@
 # Article: __Climate and the spread of COVID-19__ (chen_climate_2021)
 
 * [10.1038/s41598-021-87692-z](https://doi.org/10.1038/s41598-021-87692-z)
-* Cluster: [air-sars](cluster_2)
+* Cluster: [health-building](cluster_9)
 
 
 ## Keywords
 
-* [covid-19](keyword_covid-19), [china](keyword_china), [temperature](keyword_temperature), [beijing](keyword_beijing), [winter](keyword_winter), [summer](keyword_summer), [latitude](keyword_latitude), [environ](keyword_environ), [sar cov 2](keyword_sar_cov_2), [austria](keyword_austria), [country](keyword_country), [total environ](keyword_total_environ), uv radiation, equinox, emi
+* [covid-19](keyword_covid-19), [china](keyword_china), [temperature](keyword_temperature), [beijing](keyword_beijing), [winter](keyword_winter), [summer](keyword_summer), [latitude](keyword_latitude), [austria](keyword_austria), emi, [equinox](keyword_equinox), country, [uv radiation](keyword_uv_radiation), equator, degree, regression
 
 
 
 ## Keywords at large
 
-* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
+* [covid-19](keyword_covid-19), [china](keyword_china), [temperature](keyword_temperature), [winter](keyword_winter), [beijing](keyword_beijing), [summer](keyword_summer), [latitude](keyword_latitude), [austria](keyword_austria), [uv radiation](keyword_uv_radiation), [equinox](keyword_equinox)
 
 ## Abstract
 
@@ -51,6 +51,19 @@ SARS-CoV-2.
 ## Concepts
 
  ![](imgs/article_chen_climate_2021.jpg)
+
+### Closest articles 
+
+* [The Socio-Spatial Determinants of COVID-19 Diffusion: The Impact of Globalisation, Settlement Characteristics and Population](article_sigler_socio-spatial_2020)
+* [Study of COVID-19 pandemic in London (UK) from urban context](article_ghosh_study_2020)
+* [The effect of human mobility and control measures on the COVID-19 epidemic in China](article_kraemer_effect_2020)
+* [Association of built environment attributes with the spread of COVID-19 at its initial stage in China](article_li_association_2021)
+* [The socio-economic determinants of COVID-19: A spatial analysis of German county level data](article_ehlert_socio-economic_2021)
+* [Open-source analytics tools for studying the COVID-19 coronavirus outbreak](article_wu_open-source_2020)
+* [](article_mehtab_alam_role_2021)
+* [Treating two pandemics for the price of one: Chronic and infectious disease impacts of the built and natural environment](article_frank_treating_2021)
+* [Infodemic and the spread of fake news in the COVID-19-era](article_orso_infodemic_2020)
+* [Response to COVID-19 in Taiwan](article_wang_response_2020)
 
 ### References 
 

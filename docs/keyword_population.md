@@ -1,7 +1,7 @@
 # Keyword: __population__
 ## Clusters
 
-* Cluster 6: [simulation-model](cluster_6)
+* Cluster 3: [city-spatial](cluster_3)
 
 ## Concepts
 

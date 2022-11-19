@@ -1,23 +1,39 @@
 # Article: __Antivirus-built environment: Lessons learned from Covid-19 pandemic__ (megahed_antivirus-built_2020)
 
 * [10.1016/j.scs.2020.102350](https://doi.org/10.1016/j.scs.2020.102350)
-* Cluster: [space-urban](cluster_13)
+* Cluster: [health-building](cluster_9)
 
 
 ## Keywords
 
-* [pandemic](keyword_pandemic), [covid-19](keyword_covid-19), [architecture](keyword_architecture), [design](keyword_design), [city](keyword_city), [build environment](keyword_build_environment), [antivirus](keyword_antivirus), [covid 19 pandemic](keyword_covid_19_pandemic), [infection](keyword_infection), [urbanism](keyword_urbanism), [coronavirus](keyword_coronavirus), [environment](keyword_environment), [architect](keyword_architect), [build](keyword_build), work from home
+* [pandemic](keyword_pandemic), [covid-19](keyword_covid-19), [architecture](keyword_architecture), [build environment](keyword_build_environment), [city](keyword_city), [design](keyword_design), [antivirus](keyword_antivirus), [covid 19 pandemic](keyword_covid_19_pandemic), [urbanism](keyword_urbanism), [infection](keyword_infection), [coronavirus](keyword_coronavirus), [environment](keyword_environment), [architect](keyword_architect), [build](keyword_build), work from home
 
 
 
 ## Keywords at large
 
-* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
+* [pandemic](keyword_pandemic), [covid-19](keyword_covid-19), [architecture](keyword_architecture), [design](keyword_design), [build environment](keyword_build_environment), [city](keyword_city), [antivirus](keyword_antivirus), [covid 19 pandemic](keyword_covid_19_pandemic), [urbanism](keyword_urbanism), [infection](keyword_infection)
 
 
 ## Concepts
 
  ![](imgs/article_megahed_antivirus-built_2020.jpg)
+
+### Closest articles 
+
+* [COVID-19 Could Leverage a Sustainable Built Environment](article_pinheiro_covid-19_2020)
+* [Coronavirus questions that will not go away: interrogating urban and socio-spatial implications of COVID-19 measures](article_salama_coronavirus_2020)
+* [Epidemics, Planning and the City: A Special Issue of Planning Perspectives](article_davis_epidemics_2022)
+* [COVID-19 Pandemic: Rethinking Strategies for
+Resilient Urban Design, Perceptions, and
+Planning](article_afrin_covid-19_2021)
+* [Learning from pandemics: Applying resilience thinking to identify priorities for planning urban settlements](article_syal_learning_2021)
+* [Respiratory pandemics, urban planning and design: A multidisciplinary rapid review of the literature](article_harris_respiratory_2022)
+* [The Impact of COVID-19 on Public Space: A Review of the Emerging Questions](article_honey-roses_impact_2020)
+* [COVID-19 Lessons for a Resilient Built
+Environment: A Roadmap](article_hull_covid-19_2020)
+* [COVID-19: Lessons for an Urban(izing) World](article_acuto_covid-19_2020)
+* [Biophilic design in architecture and its contributions to health, well-being, and sustainability: A critical review](article_zhong_biophilic_2022)
 
 ### References 
 
@@ -27,6 +43,8 @@ planning and design professionals [now, then and into the
 future]?](article_allam_pandemic_2020)
 * [Using Technology to Maintain the Education of
 Residents During the COVID-19 Pandemic](article_chick_using_2020)
+* [COVID-19 Pandemic: Prevention and Protection
+Measures to Be Adopted at the Workplace](article_cirrincione_covid-19_2020)
 * [2019 Novel Coronavirus (COVID-19) Pandemic:
 Built Environment Considerations To Reduce
 Transmission](article_dietz_2019_2020)

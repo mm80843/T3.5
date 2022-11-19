@@ -1,7 +1,8 @@
 # Keyword: __respondent__
 ## Clusters
 
-* Cluster 3: [construction-project](cluster_3)
+* Cluster 6: [construction-project](cluster_6)
+* Cluster 15: [green-urban](cluster_15)
 
 ## Concepts
 
@@ -9,27 +10,20 @@
 
 
 ## Top 10 articles for __respondent__
-* Effects to Construction Project Management
-Impacted Circular Economic of Covid-19 Pandemic ([paikan_effects_2021](article_paikan_effects_2021))
-* Association between indoor-outdoor green features and
-psychological health during the COVID-19 lockdown in
-Italy: A cross-sectional nationwide study ([spano_association_2021](article_spano_association_2021))
-* The impacts of knowledge, risk perception, emotion and
-information on citizens’ protective behaviors during the
-outbreak of COVID-19: a cross-sectional study in
-China ([ning_impacts_2020](article_ning_impacts_2020))
+* Exploring the Non-Medical impacts of Covid-19 using
+Natural Language Processing ([agade_exploring_2020](article_agade_exploring_2020))
 * Housing Experience in Gated Communities in the
 Time of Pandemics: Lessons Learned from
 COVID-19 ([asfour_housing_2022](article_asfour_housing_2022))
 * Towards Resilient Residential Buildings and
 Neighborhoods in Light of COVID-19 Pandemic—The
 Scenario of Podgorica, Montenegro ([bojovic_towards_2022](article_bojovic_towards_2022))
-* Digital Twin of COVID-19 Mass Vaccination
-Centers ([pilati_digital_2021](article_pilati_digital_2021))
-* pricewaterhousecoopers_its_2021 ([pricewaterhousecoopers_its_2021](article_pricewaterhousecoopers_its_2021))
-* When the fourth water and digital revolution encountered
-COVID-19 ([poch_when_2020](article_poch_when_2020))
-* COVID-19 Could Leverage a Sustainable Built
-Environment ([pinheiro_covid-19_2020](article_pinheiro_covid-19_2020))
-* COVID-19 Experience Transforming the Protective
-Environment of Office Buildings and Spaces ([phapant_covid-19_2021](article_phapant_covid-19_2021))
+* The impacts of knowledge, risk perception, emotion and
+information on citizens’ protective behaviors during the
+outbreak of COVID-19: a cross-sectional study in
+China ([ning_impacts_2020](article_ning_impacts_2020))
+* Effects to Construction Project Management
+Impacted Circular Economic of Covid-19 Pandemic ([paikan_effects_2021](article_paikan_effects_2021))
+* Association between indoor-outdoor green features and
+psychological health during the COVID-19 lockdown in
+Italy: A cross-sectional nationwide study ([spano_association_2021](article_spano_association_2021))

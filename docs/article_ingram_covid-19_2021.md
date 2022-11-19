@@ -1,18 +1,18 @@
 # Article: __COVID-19 Prevention and Control Measures in Workplace Settings: A Rapid Review and Meta-Analysis__ (ingram_covid-19_2021)
 
 * [10.3390/ijerph18157847](https://doi.org/10.3390/ijerph18157847)
-* Cluster: [air-sars](cluster_2)
+* Cluster: [air-sars](cluster_0)
 
 
 ## Keywords
 
-* [covid-19](keyword_covid-19), [meta analysis](keyword_meta_analysis), [sar cov 2](keyword_sar_cov_2), [wikipedia](keyword_wikipedia), [encyclopedia](keyword_encyclopedia), [infection](keyword_infection), [virus](keyword_virus), [contact trace](keyword_contact_trace), [study](keyword_study), [ipc](keyword_ipc), [ppe](keyword_ppe), intervention, [infection control](keyword_infection_control), [workplace](keyword_workplace), [healthcare](keyword_healthcare)
+* [covid-19](keyword_covid-19), [meta analysis](keyword_meta_analysis), [infection](keyword_infection), [virus](keyword_virus), [contact trace](keyword_contact_trace), [study](keyword_study), [ipc](keyword_ipc), [personal protective equipment](keyword_personal_protective_equipment), [infection control](keyword_infection_control), [workplace](keyword_workplace), [healthcare](keyword_healthcare), [sar cov 2](keyword_sar_cov_2), prospective cohort study, [surveillance](keyword_surveillance), [outbreak](keyword_outbreak)
 
 
 
 ## Keywords at large
 
-* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
+* [covid-19](keyword_covid-19), [meta analysis](keyword_meta_analysis), [infection](keyword_infection), [virus](keyword_virus), [contact trace](keyword_contact_trace), [study](keyword_study), [ipc](keyword_ipc), [intervention](keyword_intervention), [personal protective equipment](keyword_personal_protective_equipment), [infection control](keyword_infection_control)
 
 ## Abstract
 
@@ -55,4 +55,18 @@ sufficient protection from SARS-CoV-2 outbreaks in the workplace.
 ## Concepts
 
  ![](imgs/article_ingram_covid-19_2021.jpg)
+
+### Closest articles 
+
+* [Physical interventions to interrupt or reduce the spread of respiratory viruses: systematic review](article_jefferson_physical_2008)
+* [Supporting Technologies for COVID-19 Prevention: Systemized Review](article_zhao_supporting_2022)
+* [Management of the COVID-19 pandemic: challenges, practices, and organizational support](article_hossny_management_2022)
+* [DeepSOCIAL: Social Distancing Monitoring and Infection Risk Assessment in COVID-19 Pandemic](article_rezaei_deepsocial_2020)
+* [The impact of climate change on the epidemiology and
+control of Rift Valley fever - PubMed](article_martin_impact_2008)
+* [What our response to the COVID-19 pandemic tells us of our capacity to respond to climate change](article_gemenne_what_2020)
+* [How Can Blockchain Help People in the Event of Pandemics Such as the COVID-19?](article_chang_how_2020)
+* [Digital Twin of COVID-19 Mass Vaccination Centers](article_pilati_digital_2021)
+* [Designing a Multi-Agent Occupant Simulation System to Support Facility Planning and Analysis for COVID-19](article_lee_designing_2021)
+* [p15-lee-vor](article_p15-lee-vor)
 

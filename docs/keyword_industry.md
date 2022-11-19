@@ -1,7 +1,7 @@
 # Keyword: __industry__
 ## Clusters
 
-* Cluster 3: [construction-project](cluster_3)
+* Cluster 6: [construction-project](cluster_6)
 
 ## Concepts
 
@@ -22,8 +22,8 @@ infrastructure projects ([king_mechanisms_2021](article_king_mechanisms_2021))
 * world_bank_world_2022 ([world_bank_world_2022](article_world_bank_world_2022))
 * world_green_building_council_health_2014 ([world_green_building_council_health_2014](article_world_green_building_council_health_2014))
 * ogunnusi_covid-19_2020 ([ogunnusi_covid-19_2020](article_ogunnusi_covid-19_2020))
+* Perception of COVID-19 impacts on the construction
+industry over time ([rokooei_perception_2022](article_rokooei_perception_2022))
 * A critical analysis of the impacts of COVID-19 on the
 global economy and ecosystems and opportunities for
 circular economy strategies ([ibn-mohammed_critical_2021](article_ibn-mohammed_critical_2021))
-* Perception of COVID-19 impacts on the construction
-industry over time ([rokooei_perception_2022](article_rokooei_perception_2022))

@@ -1,18 +1,18 @@
 # Article: __Environmental factors involved in SARS-CoV-2 transmission: effect and role of indoor environmental quality in the strategy for COVID-19 infection control__ (azuma_environmental_2020)
 
 * [10.1186/s12199-020-00904-2](https://doi.org/10.1186/s12199-020-00904-2)
-* Cluster: [air-sars](cluster_2)
+* Cluster: [air-sars](cluster_0)
 
 
 ## Keywords
 
-* [ventilation](keyword_ventilation), [japan](keyword_japan), [sar cov 2](keyword_sar_cov_2), [covid-19](keyword_covid-19), [aerosol](keyword_aerosol), [japanese](keyword_japanese), [mhlw](keyword_mhlw), [virus](keyword_virus), [infection](keyword_infection), [coronavirus](keyword_coronavirus), [air conditioning](keyword_air_conditioning), tokyo, azuma, zuma, [sar cov 1](keyword_sar_cov_1)
+* [covid-19](keyword_covid-19), [ventilation](keyword_ventilation), [japan](keyword_japan), [aerosol](keyword_aerosol), [japanese](keyword_japanese), [virus](keyword_virus), [infection](keyword_infection), [coronavirus](keyword_coronavirus), [air conditioning](keyword_air_conditioning), [mhlw](keyword_mhlw), azuma, tokyo, zuma, [china](keyword_china), [sar cov 2](keyword_sar_cov_2)
 
 
 
 ## Keywords at large
 
-* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
+* [covid-19](keyword_covid-19), [ventilation](keyword_ventilation), [japan](keyword_japan), [aerosol](keyword_aerosol), [japanese](keyword_japanese), [mhlw](keyword_mhlw), [virus](keyword_virus), [infection](keyword_infection), [coronavirus](keyword_coronavirus), [air conditioning](keyword_air_conditioning)
 
 ## Abstract
 
@@ -62,6 +62,22 @@ ventilation.
 ## Concepts
 
  ![](imgs/article_azuma_environmental_2020.jpg)
+
+### Closest articles 
+
+* [2019 Novel Coronavirus (COVID-19) Pandemic: Built Environment Considerations To Reduce Transmission](article_dietz_2019_2020)
+* [The ventilation of buildings and other mitigating measures for COVID-19: a focus on wintertime](article_burridge_ventilation_2021)
+* [How can airborne transmission of COVID-19 indoors be minimised?](article_morawska_how_2020)
+* [A review of facilities management interventions to mitigate respiratory infections in existing buildings](article_zhang_review_2022)
+* [Heating, ventilation and air-conditioning systems in the
+context of COVID-19](article_ecdc_heating_2020)
+* [morawska_how_2020-1](article_morawska_how_2020-1)
+* [Methods for air cleaning and protection of building occupants from airborne pathogens](article_bolashikov_methods_2009)
+* [Ventilation use in nonmedical settings during COVID-19: Cleaning protocol, maintenance, and recommendations](article_nembhard_ventilation_2020)
+* [A Review on Building Design as a Biomedical System for Preventing COVID-19 Pandemic](article_amran_review_2022)
+* [Architectural design strategies for infection prevention
+and control (IPC) in health-care facilities: towards
+curbing the spread of Covid-19 \textbar SpringerLink](article_udomiaye_architectural_2020)
 
 ### References 
 

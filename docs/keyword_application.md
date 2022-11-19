@@ -1,7 +1,7 @@
 # Keyword: __application__
 ## Clusters
 
-* Cluster 8: [smart-datum](cluster_8)
+* Cluster 11: [blockchain-ai](cluster_11)
 
 ## Concepts
 
@@ -21,14 +21,14 @@ Centers ([pilati_digital_2021](article_pilati_digital_2021))
 * Impact of COVID-19 on IoT Adoption in Healthcare,
 Smart Homes, Smart Buildings, Smart Cities,
 Transportation and Industrial IoT ([umair_impact_2021](article_umair_impact_2021))
-* The role of 5G for digital healthcare against COVID-19
-pandemic: Opportunities and challenges ([siriwardhana_role_2021](article_siriwardhana_role_2021))
 * Leveraging Digital Transformation Technologies to
 Tackle COVID-19: Proposing a Privacy-First
 Holistic Framework ([arpaci_leveraging_2021](article_arpaci_leveraging_2021))
+* The role of 5G for digital healthcare against COVID-19
+pandemic: Opportunities and challenges ([siriwardhana_role_2021](article_siriwardhana_role_2021))
 * An Intelligent IEQ Monitoring and Feedback
 System: Development and Applications ([geng_intelligent_2021](article_geng_intelligent_2021))
 * Learning from pandemics: Applying resilience thinking to
 identify priorities for planning urban settlements ([syal_learning_2021](article_syal_learning_2021))
-* Internet of things (IoT) applications to fight against
-COVID-19 pandemic ([singh_internet_2020](article_singh_internet_2020))
+* Exploring the Non-Medical impacts of Covid-19 using
+Natural Language Processing ([agade_exploring_2020](article_agade_exploring_2020))

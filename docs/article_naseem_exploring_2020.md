@@ -1,18 +1,18 @@
 # Article: __Exploring the Potential of Artificial Intelligence and Machine Learning to Combat COVID-19 and Existing Opportunities for LMIC: A Scoping Review__ (naseem_exploring_2020)
 
 * [10.1177/2150132720963634](https://doi.org/10.1177/2150132720963634)
-* Cluster: [health-ai](cluster_1)
+* Cluster: [blockchain-ai](cluster_11)
 
 
 ## Keywords
 
-* [artificial intelligence](keyword_artificial_intelligence), [covid-19](keyword_covid-19), [machine learning](keyword_machine_learning), [deep learning](keyword_deep_learning), [ai](keyword_ai), [covid 19 pandemic](keyword_covid_19_pandemic), [pandemic](keyword_pandemic), [datum mining](keyword_datum_mining), [blockchain](keyword_blockchain), [neural network](keyword_neural_network), ayyoubzadeh sm, low, [health](keyword_health), primary care, [public health](keyword_public_health)
+* [artificial intelligence](keyword_artificial_intelligence), [covid-19](keyword_covid-19), [machine learning](keyword_machine_learning), [deep learning](keyword_deep_learning), [covid 19 pandemic](keyword_covid_19_pandemic), [pandemic](keyword_pandemic), [datum mining](keyword_datum_mining), [blockchain](keyword_blockchain), [neural network](keyword_neural_network), primary care, [public health](keyword_public_health), [research](keyword_research), scope review, [ai](keyword_ai), [china](keyword_china)
 
 
 
 ## Keywords at large
 
-* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
+* [artificial intelligence](keyword_artificial_intelligence), [covid-19](keyword_covid-19), [machine learning](keyword_machine_learning), [deep learning](keyword_deep_learning), [covid 19 pandemic](keyword_covid_19_pandemic), [pandemic](keyword_pandemic), [datum mining](keyword_datum_mining), [blockchain](keyword_blockchain), [neural network](keyword_neural_network), [ayyoubzadeh sm](keyword_ayyoubzadeh_sm)
 
 ## Abstract
 
@@ -64,9 +64,28 @@ LMIC.
 
  ![](imgs/article_naseem_exploring_2020.jpg)
 
+### Closest articles 
+
+* [Pandemic Analytics: How Countries are Leveraging Big Data Analytics and Artificial Intelligence to Fight COVID-19?](article_mehta_pandemic_2021)
+* [Digital technology and COVID-19](article_ting_digital_2020)
+* [](article_huy-tran_design_2022)
+* [Towards the sustainable development of smart cities through mass video surveillance: A response to the COVID-19 pandemic](article_shorfuzzaman_towards_2021)
+* [Coronavirus: Can artificial intelligence be smart enough
+to detect fake news?](article_tong_coronavirus_2020)
+* [The Smart City and Covid‐19](article_webb_smart_2020)
+* [Blockchain technology and its applications to combat COVID-19 pandemic](article_sharma_blockchain_2022)
+* [COVID-19 Higher Mortality in Chinese Regions With Chronic Exposure to Lower Air Quality](article_pansini_covid-19_2021)
+* [Air pollution linked with higher COVID-19 death rates](article_harvard_th_chan_schoold_of_public_health_air_2020)
+* [The three modes of existence of the pandemic smart city](article_soderstrom_three_2021)
+
 ### References 
 
 * [Digital technology and COVID-19](article_ting_digital_2020)
+* [On the Coronavirus (COVID-19) Outbreak and the
+Smart City Network: Universal Data Sharing
+Standards Coupled with Artificial Intelligence
+(AI) to Benefit Urban Health Monitoring and
+Management](article_allam_coronavirus_2020)
 
 ### Cited by 
 

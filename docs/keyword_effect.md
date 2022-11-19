@@ -1,7 +1,7 @@
 # Keyword: __effect__
 ## Clusters
 
-* Cluster 15: [water-wastewater](cluster_15)
+* Cluster 3: [city-spatial](cluster_3)
 
 ## Concepts
 
@@ -21,17 +21,12 @@ of COVID-19 Pandemic in Buildings Under
 Facilities Management Services ([sarvari_global_2022](article_sarvari_global_2022))
 * Upper-Room Ultraviolet Light and Negative Air
 Ionization to Prevent Tuberculosis Transmission ([escombe_upper-room_2009](article_escombe_upper-room_2009))
-* Occupant health in buildings: Impact of the COVID-19
-pandemic on the opinions of building professionals and
-implications on research ([awada_occupant_2022](article_awada_occupant_2022))
-* Designing Post COVID-19 Buildings: Approaches for
-Achieving Healthy Buildings ([navaratnam_designing_2022](article_navaratnam_designing_2022))
+* The Intelligent Lockdown: Compliance with COVID-19
+Mitigation Measures in the Netherlands ([kuiper_intelligent_2020](article_kuiper_intelligent_2020))
+* Study of COVID-19 pandemic in London (UK) from urban
+context ([ghosh_study_2020](article_ghosh_study_2020))
 * Association of built environment attributes with the
 spread of COVID-19 at its initial stage in China ([li_association_2021](article_li_association_2021))
-* A Global Survey of Infection Control and
-Mitigation Measures for Combating the Transmission
-of COVID-19 Pandemic in Buildings Under
-Facilities Management Services ([sarvari_global_2022](article_sarvari_global_2022))
-* Designing a Multi-Agent Occupant Simulation
-System to Support Facility Planning and Analysis
-for COVID-19 ([lee_designing_2021](article_lee_designing_2021))
+* Designing Post COVID-19 Buildings: Approaches for
+Achieving Healthy Buildings ([navaratnam_designing_2022](article_navaratnam_designing_2022))
+* p15-lee-vor ([p15-lee-vor](article_p15-lee-vor))

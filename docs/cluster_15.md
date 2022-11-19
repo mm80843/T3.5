@@ -1,7 +1,7 @@
-# Cluster: __water-wastewater__ (cluster15)
+# Cluster: __green-urban__ (cluster15)
 ## Keywords
 
-* [water](keyword_water), [wastewater](keyword_wastewater), [sewage](keyword_sewage), [disinfection](keyword_disinfection), [waste](keyword_waste), [hospital](keyword_hospital), [chlorine](keyword_chlorine), [infection](keyword_infection), [drug](keyword_drug), [treatment](keyword_treatment), [could](keyword_could), [anti](keyword_anti), [health](keyword_health), [inflammatory](keyword_inflammatory), [case](keyword_case), [virus](keyword_virus), [sars](keyword_sars), [effect](keyword_effect), [spillover](keyword_spillover), [datum](keyword_datum)
+* [green](keyword_green), [urban](keyword_urban), [district](keyword_district), [confinement](keyword_confinement), [buenos](keyword_buenos), [aires](keyword_aires), [space](keyword_space), [respondent](keyword_respondent), [city](keyword_city), [health](keyword_health), [psychological](keyword_psychological), [vienna](keyword_vienna), [park](keyword_park), [visit](keyword_visit), [perception](keyword_perception), [survey](keyword_survey), [home](keyword_home), [social](keyword_social), [slovenia](keyword_slovenia), [landscape](keyword_landscape)
 
 ## Concepts
 
@@ -10,18 +10,14 @@
 
 ## Articles
 
-* Wastewater surveillance for population-wide Covid-19:
-The present and future ([daughton_wastewater_2020](article_daughton_wastewater_2020))
-* Infodemic and the spread of fake news in the
-COVID-19-era ([orso_infodemic_2020](article_orso_infodemic_2020))
-* The socio-economic determinants of COVID-19: A spatial
-analysis of German county level data ([ehlert_socio-economic_2021](article_ehlert_socio-economic_2021))
-* When the fourth water and digital revolution encountered
-COVID-19 ([poch_when_2020](article_poch_when_2020))
-* An environmental and health perspective for COVID-19
-outbreak: Meteorology and air quality influence, sewage
-epidemiology indicator, hospitals disinfection, drug
-therapies and recommendations ([barcelo_environmental_2020](article_barcelo_environmental_2020))
-* Disinfection technology of hospital wastes and wastewater:
-Suggestions for disinfection strategy during coronavirus
-Disease 2019 (COVID-19) pandemic in China ([wang_disinfection_2020](article_wang_disinfection_2020))
+* Green in times of COVID-19: urban green space relevance
+during the COVID-19 pandemic in Buenos Aires City ([marconi_green_2022](article_marconi_green_2022))
+* Urban Green Infrastructure and Green Open
+Spaces: An Issue of Social Fairness in Times of
+COVID-19 Crisis ([reinwald_urban_2021](article_reinwald_urban_2021))
+* Association between indoor-outdoor green features and
+psychological health during the COVID-19 lockdown in
+Italy: A cross-sectional nationwide study ([spano_association_2021](article_spano_association_2021))
+* Effects of the COVID-19 pandemic on the use and
+perceptions of urban green space: An international
+exploratory study ([ugolini_effects_2020](article_ugolini_effects_2020))

@@ -1,7 +1,7 @@
 # Keyword: __pcr__
 ## Clusters
 
-* Cluster 12: [wastewater-sars](cluster_12)
+* Cluster 1: [wastewater-sars](cluster_1)
 
 ## Concepts
 
@@ -26,14 +26,12 @@ therapies and recommendations ([barcelo_environmental_2020](article_barcelo_envi
 * First confirmed detection of SARS-CoV-2 in untreated
 wastewater in Australia: A proof of concept for the
 wastewater surveillance of COVID-19 in the community ([ahmed_first_2020](article_ahmed_first_2020))
+* hseie_algorithms_2021 ([hseie_algorithms_2021](article_hseie_algorithms_2021))
 * COVID-19 Prevention and Control Measures in
 Workplace Settings: A Rapid Review and
 Meta-Analysis ([ingram_covid-19_2021](article_ingram_covid-19_2021))
-* hseie_algorithms_2021 ([hseie_algorithms_2021](article_hseie_algorithms_2021))
-* SARS-CoV-2 RNA detection of hospital isolation wards
-hygiene monitoring during the Coronavirus Disease 2019
-outbreak in a Chinese hospital ([wang_sars-cov-2_2020](article_wang_sars-cov-2_2020))
-* Computational analysis of SARS-CoV-2/COVID-19
-surveillance by wastewater-based epidemiology locally and
-globally: Feasibility, economy, opportunities and
-challenges ([hart_computational_2020](article_hart_computational_2020))
+* Exploring the Non-Medical impacts of Covid-19 using
+Natural Language Processing ([agade_exploring_2020](article_agade_exploring_2020))
+* 2019 Novel Coronavirus (COVID-19) Pandemic:
+Built Environment Considerations To Reduce
+Transmission ([dietz_2019_2020](article_dietz_2019_2020))

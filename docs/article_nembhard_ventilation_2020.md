@@ -1,18 +1,18 @@
 # Article: __Ventilation use in nonmedical settings during COVID-19: Cleaning protocol, maintenance, and recommendations__ (nembhard_ventilation_2020)
 
 * [10.1177/0748233720967528](https://doi.org/10.1177/0748233720967528)
-* Cluster: [air-sars](cluster_2)
+* Cluster: [air-sars](cluster_0)
 
 
 ## Keywords
 
-* [hvac](keyword_hvac), [ventilation](keyword_ventilation), [covid-19](keyword_covid-19), [clean](keyword_clean), [ventilation system](keyword_ventilation_system), [filter](keyword_filter), [fan](keyword_fan), [sar cov 2](keyword_sar_cov_2), [transmission](keyword_transmission), [airborne transmission](keyword_airborne_transmission), [natural ventilation](keyword_natural_ventilation), hvac system, nadca, [aerosol](keyword_aerosol), mechanical ventilation
+* [hvac](keyword_hvac), [ventilation](keyword_ventilation), [covid-19](keyword_covid-19), [clean](keyword_clean), [ventilation system](keyword_ventilation_system), [filter](keyword_filter), [transmission](keyword_transmission), [fan](keyword_fan), [airborne transmission](keyword_airborne_transmission), [natural ventilation](keyword_natural_ventilation), mechanical ventilation, hvac system, [aerosol](keyword_aerosol), [disinfection](keyword_disinfection), toxicology
 
 
 
 ## Keywords at large
 
-* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
+* [covid-19](keyword_covid-19), [hvac](keyword_hvac), [ventilation](keyword_ventilation), [clean](keyword_clean), [ventilation system](keyword_ventilation_system), [filter](keyword_filter), [fan](keyword_fan), [transmission](keyword_transmission), [airborne transmission](keyword_airborne_transmission), [natural ventilation](keyword_natural_ventilation)
 
 ## Abstract
 
@@ -46,6 +46,21 @@ systems for businesses, schools, and homes.
 ## Concepts
 
  ![](imgs/article_nembhard_ventilation_2020.jpg)
+
+### Closest articles 
+
+* [Review and comparison of HVAC operation guidelines in different countries during the COVID-19 pandemic](article_guo_review_2021)
+* [Heating, ventilation and air-conditioning systems in the
+context of COVID-19](article_ecdc_heating_2020)
+* [ASHRAE Position Document on Infectious
+Aerosols](article_ashrae_ashrae_2022)
+* [morawska_how_2020-1](article_morawska_how_2020-1)
+* [How can airborne transmission of COVID-19 indoors be minimised?](article_morawska_how_2020)
+* [A review of facilities management interventions to mitigate respiratory infections in existing buildings](article_zhang_review_2022)
+* [Environmental factors involved in SARS-CoV-2 transmission: effect and role of indoor environmental quality in the strategy for COVID-19 infection control](article_azuma_environmental_2020)
+* [Methods for air cleaning and protection of building occupants from airborne pathogens](article_bolashikov_methods_2009)
+* [The ventilation of buildings and other mitigating measures for COVID-19: a focus on wintertime](article_burridge_ventilation_2021)
+* [Indoor Air Quality: Rethinking rules of building design strategies in post-pandemic architecture](article_megahed_indoor_2021)
 
 ### References 
 

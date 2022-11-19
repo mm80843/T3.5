@@ -1,15 +1,15 @@
 # Keyword: __health__
 ## Clusters
 
-* Cluster 1: [health-ai](cluster_1)
-* Cluster 3: [construction-project](cluster_3)
-* Cluster 4: [resilience-health](cluster_4)
-* Cluster 8: [smart-datum](cluster_8)
-* Cluster 9: [climate-change](cluster_9)
-* Cluster 10: [building-health](cluster_10)
-* Cluster 11: [anxiety-social](cluster_11)
-* Cluster 13: [space-urban](cluster_13)
-* Cluster 15: [water-wastewater](cluster_15)
+* Cluster 3: [city-spatial](cluster_3)
+* Cluster 6: [construction-project](cluster_6)
+* Cluster 8: [health-housing](cluster_8)
+* Cluster 9: [health-building](cluster_9)
+* Cluster 10: [city-smart](cluster_10)
+* Cluster 11: [blockchain-ai](cluster_11)
+* Cluster 12: [climate-change](cluster_12)
+* Cluster 14: [resilience-system](cluster_14)
+* Cluster 15: [green-urban](cluster_15)
 
 ## Concepts
 

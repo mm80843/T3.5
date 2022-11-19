@@ -1,7 +1,7 @@
 # Keyword: __oxide__
 ## Clusters
 
-* Cluster 11: [surface-coating](cluster_11)
+* Cluster 11: [surface-coating](cluster_11.md)
 
 ## Concepts
 
@@ -11,22 +11,22 @@
 ## Articles
 * Graphene-based nanomaterials as antimicrobial surface
 coatings: A parallel approach to restrain the expansion
-of COVID-19 ([ayub_graphene-based_2021](article_ayub_graphene-based_2021))
+of COVID-19 ([ayub_graphene-based_2021](article_ayub_graphene-based_2021.md))
 * DeepSOCIAL: Social Distancing Monitoring and
-Infection Risk Assessment in COVID-19 Pandemic ([rezaei_deepsocial_2020](article_rezaei_deepsocial_2020))
+Infection Risk Assessment in COVID-19 Pandemic ([rezaei_deepsocial_2020](article_rezaei_deepsocial_2020.md))
 * DeepSOCIAL: Social Distancing Monitoring and
-Infection Risk Assessment in COVID-19 Pandemic ([rezaei_deepsocial_2020](article_rezaei_deepsocial_2020))
+Infection Risk Assessment in COVID-19 Pandemic ([rezaei_deepsocial_2020](article_rezaei_deepsocial_2020.md))
 * DeepSOCIAL: Social Distancing Monitoring and
-Infection Risk Assessment in COVID-19 Pandemic ([rezaei_deepsocial_2020](article_rezaei_deepsocial_2020))
+Infection Risk Assessment in COVID-19 Pandemic ([rezaei_deepsocial_2020](article_rezaei_deepsocial_2020.md))
 * DeepSOCIAL: Social Distancing Monitoring and
-Infection Risk Assessment in COVID-19 Pandemic ([rezaei_deepsocial_2020](article_rezaei_deepsocial_2020))
+Infection Risk Assessment in COVID-19 Pandemic ([rezaei_deepsocial_2020](article_rezaei_deepsocial_2020.md))
 * DeepSOCIAL: Social Distancing Monitoring and
-Infection Risk Assessment in COVID-19 Pandemic ([rezaei_deepsocial_2020](article_rezaei_deepsocial_2020))
+Infection Risk Assessment in COVID-19 Pandemic ([rezaei_deepsocial_2020](article_rezaei_deepsocial_2020.md))
 * DeepSOCIAL: Social Distancing Monitoring and
-Infection Risk Assessment in COVID-19 Pandemic ([rezaei_deepsocial_2020](article_rezaei_deepsocial_2020))
+Infection Risk Assessment in COVID-19 Pandemic ([rezaei_deepsocial_2020](article_rezaei_deepsocial_2020.md))
 * DeepSOCIAL: Social Distancing Monitoring and
-Infection Risk Assessment in COVID-19 Pandemic ([rezaei_deepsocial_2020](article_rezaei_deepsocial_2020))
+Infection Risk Assessment in COVID-19 Pandemic ([rezaei_deepsocial_2020](article_rezaei_deepsocial_2020.md))
 * DeepSOCIAL: Social Distancing Monitoring and
-Infection Risk Assessment in COVID-19 Pandemic ([rezaei_deepsocial_2020](article_rezaei_deepsocial_2020))
+Infection Risk Assessment in COVID-19 Pandemic ([rezaei_deepsocial_2020](article_rezaei_deepsocial_2020.md))
 * DeepSOCIAL: Social Distancing Monitoring and
-Infection Risk Assessment in COVID-19 Pandemic ([rezaei_deepsocial_2020](article_rezaei_deepsocial_2020))
+Infection Risk Assessment in COVID-19 Pandemic ([rezaei_deepsocial_2020](article_rezaei_deepsocial_2020.md))

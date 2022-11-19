@@ -1,14 +1,14 @@
 # Keyword: __participant__
 ## Clusters
 
-* Cluster 9: [construction-project](cluster_9)
+* Cluster 6: [construction-project](cluster_6)
 
 ## Concepts
 
  ![](imgs/keyword_participant.jpg)
 
 
-## Articles
+## Top 10 articles for __participant__
 * Psychological Effects of Home Confinement and
 Social Distancing Derived from COVID-19 in the
 General Population—A Systematic Review ([rodriguez-fernandez_psychological_2021](article_rodriguez-fernandez_psychological_2021))
@@ -21,12 +21,11 @@ in the UK ([shibani_effects_2020](article_shibani_effects_2020))
 * realdania_refleksioner_2022_EN ([realdania_refleksioner_2022_EN](article_realdania_refleksioner_2022_EN))
 * The Impact of Pandemic Crisis on the Survival of
 Construction Industry: A Case of COVID-19 ([gamil_impact_2020](article_gamil_impact_2020))
+* Exploring the Non-Medical impacts of Covid-19 using
+Natural Language Processing ([agade_exploring_2020](article_agade_exploring_2020))
 * ogunnusi_covid-19_2020 ([ogunnusi_covid-19_2020](article_ogunnusi_covid-19_2020))
-* Using Technology to Maintain the Education of
-Residents During the COVID-19 Pandemic ([chick_using_2020](article_chick_using_2020))
+* Compliance with COVID-19 Mitigation Measures in the
+United States ([van_rooij_compliance_2020](article_van_rooij_compliance_2020))
 * Should I Stay or Should I Go? Tourists’
 COVID-19 Risk Perception and Vacation Behavior
 Shift ([bratic_should_2021](article_bratic_should_2021))
-* Mental health economics: A prospective study on
-psychological flourishing and associations with healthcare
-costs and sickness benefit transfers in Denmark ([santini_mental_2021](article_santini_mental_2021))

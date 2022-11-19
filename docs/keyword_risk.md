@@ -1,8 +1,9 @@
 # Keyword: __risk__
 ## Clusters
 
-* Cluster 4: [resilience-health](cluster_4)
-* Cluster 9: [climate-change](cluster_9)
+* Cluster 7: [tourism-tourist](cluster_7)
+* Cluster 12: [climate-change](cluster_12)
+* Cluster 14: [resilience-system](cluster_14)
 
 ## Concepts
 

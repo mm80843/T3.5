@@ -10,16 +10,32 @@ existing tech.
 
 ## Keywords
 
-* [coronavirus outbreak](keyword_coronavirus_outbreak), [coron](keyword_coron), [cookie](keyword_cookie), [privacy](keyword_privacy), [privacy have policy](keyword_privacy_have_policy), 0 0 point, supply and production, supply chain complication, supply chain account, supply chain 4 0, [supply chain](keyword_supply_chain), supply base, supply as much outdoor air as possible, supply and production chain, supply and demand planning
+* [coron](keyword_coron), [coronavirus outbreak](keyword_coronavirus_outbreak)
 
 
 
 ## Keywords at large
 
-* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
+* [coron](keyword_coron), [coronavirus outbreak](keyword_coronavirus_outbreak)
 
 
 ## Concepts
 
  ![](imgs/article_liu_china_2020.jpg)
+
+### Closest articles 
+
+* [south_china_morning_post_china_2020](article_south_china_morning_post_china_2020)
+* [Design COVID-19 Ontology: A Healthcare and Safety Perspective](article_aloulou_design_2022)
+* [How the 5G Enabled the COVID-19 Pandemic Prevention and Control: Materiality, Affordance, and (De-)Spatialization](article_li_how_2022)
+* [Nurture to nature via COVID-19, a self-regenerating environmental strategy of environment in global context](article_paital_nurture_2020)
+* [Indirect effects of COVID-19 on the environment](article_zambrano-monserrate_indirect_2020)
+* [Recently employed engineering techniques to reduce the spread of COVID-19 (corona virus disease 2019): a review study](article_saman_recently_2021)
+* [How drones help cities during the Covid-19 pandemic
+\textbar TheMayor.EU](article_dimitrova_how_2021)
+* [Disinfection technology of hospital wastes and wastewater: Suggestions for disinfection strategy during coronavirus Disease 2019 (COVID-19) pandemic in China](article_wang_disinfection_2020)
+* [Danish disinfection robots save lives in the fight against
+the Corona virus \textbar Shaping Europe’s
+digital future](article_ec_views_danish_2020)
+* [Combating COVID-19—The role of robotics in managing public health and infectious diseases](article_yang_combating_2020)
 

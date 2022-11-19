@@ -1,18 +1,18 @@
 # Article: __Mobility Behaviour in View of the Impact of the COVID-19 Pandemic—Public Transport Users in Gdansk Case Study__ (przybylowski_mobility_2021)
 
 * [10.3390/su13010364](https://doi.org/10.3390/su13010364)
-* Cluster: [resilience-health](cluster_4)
+* Cluster: [health-building](cluster_9)
 
 
 ## Keywords
 
-* [public transport](keyword_public_transport), [transp](keyword_transp), [mobility](keyword_mobility), [pandemic](keyword_pandemic), [perspective](keyword_perspective), [covid-19](keyword_covid-19), [interdiscip](keyword_interdiscip), [gdansk](keyword_gdansk), [safety](keyword_safety), [united states](keyword_united_states), [covid 19 pandemic](keyword_covid_19_pandemic), passenger, [poland](keyword_poland), interdiscip interdiscip, [transport](keyword_transport)
+* [public transport](keyword_public_transport), [mobility](keyword_mobility), [pandemic](keyword_pandemic), [covid-19](keyword_covid-19), [interdiscip](keyword_interdiscip), [safety](keyword_safety), [gdansk](keyword_gdansk), [united states](keyword_united_states), [covid 19 pandemic](keyword_covid_19_pandemic), passenger, interdiscip interdiscip, [poland](keyword_poland), [transport](keyword_transport), [epidemic](keyword_epidemic), abdullah
 
 
 
 ## Keywords at large
 
-* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
+* [public transport](keyword_public_transport), [transp](keyword_transp), [pandemic](keyword_pandemic), [mobility](keyword_mobility), [perspective](keyword_perspective), [covid-19](keyword_covid-19), [gdansk](keyword_gdansk), [interdiscip](keyword_interdiscip), [safety](keyword_safety), [united states](keyword_united_states)
 
 ## Abstract
 
@@ -58,8 +58,26 @@ future.
 
  ![](imgs/article_przybylowski_mobility_2021.jpg)
 
+### Closest articles 
+
+* [Responsible Transport: A post-COVID agenda for transport policy and practice](article_budd_responsible_2020)
+* [Revisiting the built environment: 10 potential development changes and paradigm shifts due to COVID-19](article_cheshmehzangi_revisiting_2021)
+* [Urban planning after COVID-19](article_rtpi_urban_2021)
+* [Startups in times of crisis – A rapid response to the COVID-19 pandemic](article_kuckertz_startups_2020)
+* [<scp>COVID</scp>
+            ‐19: Small and medium enterprises challenges and responses with creativity, innovation, and entrepreneurship](article_thukral_covid19_2021)
+* [DfMA for rapid adaptive resilience and flexible
+infrastructure](article_mott_macdonald_dfma_2020)
+* [COVID-19 as a Harbinger of Transforming
+Infrastructure Resilience](article_carvalhaes_covid-19_2020)
+* [COVID-19 Could Leverage a Sustainable Built Environment](article_pinheiro_covid-19_2020)
+* [Learning from pandemics: Applying resilience thinking to identify priorities for planning urban settlements](article_syal_learning_2021)
+* [Health, Economic and Social Development Challenges of the COVID-19 Pandemic: Strategies for Multiple and Interconnected Issues](article_panneer_health_2022)
+
 ### References 
 
+* [Covid-19 and the politics of sustainable energy
+transitions](article_kuzemko_covid-19_2020)
 * [The effect of human mobility and control measures on the
 COVID-19 epidemic in China](article_kraemer_effect_2020)
 * [Responsible Transport: A post-COVID agenda for

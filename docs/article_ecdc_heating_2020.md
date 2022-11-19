@@ -6,16 +6,30 @@
 
 ## Keywords
 
-* [ventilation](keyword_ventilation), [transmission](keyword_transmission), [hvac](keyword_hvac), [covid-19](keyword_covid-19), [index case](keyword_index_case), [air conditioning](keyword_air_conditioning), [hamner l](keyword_hamner_l), [china](keyword_china), [ecdc](keyword_ecdc), [guangzhou](keyword_guangzhou), [aerosol](keyword_aerosol), air conditioning unit, indoor space, 9th floor, [droplet](keyword_droplet)
+* [ventilation](keyword_ventilation), [covid-19](keyword_covid-19), [transmission](keyword_transmission), [hvac](keyword_hvac), [index case](keyword_index_case), [air conditioning](keyword_air_conditioning), [china](keyword_china), [hamner l](keyword_hamner_l), [ecdc](keyword_ecdc), air conditioning unit, [guangzhou](keyword_guangzhou), indoor space, 9th floor, [aerosol](keyword_aerosol), [droplet](keyword_droplet)
 
 
 
 ## Keywords at large
 
-* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
+* [ventilation](keyword_ventilation), [covid-19](keyword_covid-19), [transmission](keyword_transmission), [hvac](keyword_hvac), [index case](keyword_index_case), [air conditioning](keyword_air_conditioning), [china](keyword_china), [hamner l](keyword_hamner_l), [ecdc](keyword_ecdc), [guangzhou](keyword_guangzhou)
 
 
 ## Concepts
 
  ![](imgs/article_ecdc_heating_2020.jpg)
+
+### Closest articles 
+
+* [Ventilation use in nonmedical settings during COVID-19: Cleaning protocol, maintenance, and recommendations](article_nembhard_ventilation_2020)
+* [Review and comparison of HVAC operation guidelines in different countries during the COVID-19 pandemic](article_guo_review_2021)
+* [How can airborne transmission of COVID-19 indoors be minimised?](article_morawska_how_2020)
+* [A review of facilities management interventions to mitigate respiratory infections in existing buildings](article_zhang_review_2022)
+* [morawska_how_2020-1](article_morawska_how_2020-1)
+* [ASHRAE Position Document on Infectious
+Aerosols](article_ashrae_ashrae_2022)
+* [Environmental factors involved in SARS-CoV-2 transmission: effect and role of indoor environmental quality in the strategy for COVID-19 infection control](article_azuma_environmental_2020)
+* [The ventilation of buildings and other mitigating measures for COVID-19: a focus on wintertime](article_burridge_ventilation_2021)
+* [2019 Novel Coronavirus (COVID-19) Pandemic: Built Environment Considerations To Reduce Transmission](article_dietz_2019_2020)
+* [Methods for air cleaning and protection of building occupants from airborne pathogens](article_bolashikov_methods_2009)
 

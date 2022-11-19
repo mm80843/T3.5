@@ -1,18 +1,18 @@
 # Article: __How COVID-19 Redefines the Concept of Sustainability__ (hakovirta_how_2020)
 
 * [10.3390/su12093727](https://doi.org/10.3390/su12093727)
-* Cluster: [resilience-health](cluster_4)
+* Cluster: [health-building](cluster_9)
 
 
 ## Keywords
 
-* [sustainability](keyword_sustainability), [sustainable development goal](keyword_sustainable_development_goal), [mental health](keyword_mental_health), [human health](keyword_human_health), [physical](keyword_physical), [society](keyword_society), [supply chain](keyword_supply_chain), [covid-19](keyword_covid-19), [germany](keyword_germany), [health](keyword_health), [economy](keyword_economy), [united nations](keyword_united_nations), npr org, npr, united
+* [sustainability](keyword_sustainability), [sustainable development goal](keyword_sustainable_development_goal), [human health](keyword_human_health), [mental health](keyword_mental_health), [society](keyword_society), [physical](keyword_physical), [supply chain](keyword_supply_chain), [germany](keyword_germany), [covid-19](keyword_covid-19), [economy](keyword_economy), [health](keyword_health), [united nations](keyword_united_nations), npr org, npr, survival
 
 
 
 ## Keywords at large
 
-* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
+* [sustainability](keyword_sustainability), [sustainable development goal](keyword_sustainable_development_goal), [human health](keyword_human_health), [mental health](keyword_mental_health), [society](keyword_society), [physical](keyword_physical), [supply chain](keyword_supply_chain), [germany](keyword_germany), [covid-19](keyword_covid-19), [economy](keyword_economy)
 
 ## Abstract
 
@@ -41,6 +41,22 @@ sustainability.
 ## Concepts
 
  ![](imgs/article_hakovirta_how_2020.jpg)
+
+### Closest articles 
+
+* [COVID-19: IMPACT OF THE PANDEMIC ON THE SUSTAINABLE DEVELOPMENT GOALS](article_samout_covid-19_2020)
+* [COVID-19 and the UN Sustainable Development Goals: Threat to Solidarity or an Opportunity?](article_leal_filho_covid-19_2020)
+* [Health, Economic and Social Development Challenges of the COVID-19 Pandemic: Strategies for Multiple and Interconnected Issues](article_panneer_health_2022)
+* [The COVID-19 pandemic: Lessons on building more equal and sustainable societies](article_van_barneveld_covid-19_2020)
+* [Sustainable work throughout the life course: National
+policies and strategies, Publications Office of the
+European Union](article_eurofund_sustainable_2016)
+* [Urban planning after COVID-19](article_rtpi_urban_2021)
+* [A critical analysis of the impacts of COVID-19 on the global economy and ecosystems and opportunities for circular economy strategies](article_ibn-mohammed_critical_2021)
+* [<scp>COVID</scp>
+            ‐19: Small and medium enterprises challenges and responses with creativity, innovation, and entrepreneurship](article_thukral_covid19_2021)
+* [Startups in times of crisis – A rapid response to the COVID-19 pandemic](article_kuckertz_startups_2020)
+* [Mapping research in logistics and supply chain management during COVID-19 pandemic](article_montoya-torres_mapping_2021)
 
 ### References 
 

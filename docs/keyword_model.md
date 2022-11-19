@@ -1,8 +1,7 @@
 # Keyword: __model__
 ## Clusters
 
-* Cluster 5: [ontology-datum](cluster_5)
-* Cluster 6: [simulation-model](cluster_6)
+* Cluster 3: [city-spatial](cluster_3)
 
 ## Concepts
 
@@ -12,6 +11,8 @@
 ## Top 10 articles for __model__
 * EXPOSED: An occupant exposure model for confined
 spaces to retrofit crowd models during a pandemic ([ronchi_exposed_2020](article_ronchi_exposed_2020))
+* Exploring the Non-Medical impacts of Covid-19 using
+Natural Language Processing ([agade_exploring_2020](article_agade_exploring_2020))
 * A review of definitions and measures of system
 resilience ([hosseini_review_2016](article_hosseini_review_2016))
 * COVID-ABS: An agent-based model of COVID-19
@@ -32,5 +33,3 @@ and the Role of IoT, Drones, AI, Blockchain, and
 5G in Managing its Impact ([chamola_comprehensive_2020](article_chamola_comprehensive_2020))
 * Association of built environment attributes with the
 spread of COVID-19 at its initial stage in China ([li_association_2021](article_li_association_2021))
-* COVID19-Routes: A Safe Pedestrian Navigation
-Service ([cantarero_covid19-routes_2021](article_cantarero_covid19-routes_2021))

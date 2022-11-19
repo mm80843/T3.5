@@ -1,7 +1,7 @@
 # Keyword: __ultraviolet__
 ## Clusters
 
-* Cluster 14: [uvgi-uv](cluster_14)
+* Cluster 2: [uv-room](cluster_2)
 
 ## Concepts
 
@@ -19,10 +19,10 @@ adjunct, but not stand-alone technology ([memarzadeh_applications_2010](article_
 * Upper-room ultraviolet air disinfection might help to
 reduce COVID-19 transmission in buildings: a feasibility
 study ([beggs_upper-room_2020](article_beggs_upper-room_2020))
+* ashrae_ashrae_2022 ([ashrae_ashrae_2022](article_ashrae_ashrae_2022))
 * Air Disinfection for Airborne Infection Control
 with a Focus on COVID-19: Why Germicidal UV is
 Essential† ([nardell_air_2021](article_nardell_air_2021))
-* ashrae_ashrae_2022 ([ashrae_ashrae_2022](article_ashrae_ashrae_2022))
 * A review of facilities management interventions to
 mitigate respiratory infections in existing buildings ([zhang_review_2022](article_zhang_review_2022))
 * Methods for air cleaning and protection of building

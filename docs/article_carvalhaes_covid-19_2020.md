@@ -32,16 +32,31 @@ opportunity for change.
 
 ## Keywords
 
-* [pandemic](keyword_pandemic), [covid-19](keyword_covid-19), [infrastructure](keyword_infrastructure), [resilience](keyword_resilience), [efficiency](keyword_efficiency), [guardian](keyword_guardian), [infrastructure resilience](keyword_infrastructure_resilience), [vaccine](keyword_vaccine), [wildfire](keyword_wildfire), [environ](keyword_environ), [coronavirus](keyword_coronavirus), leadership, bangladesh, [system](keyword_system), [time](keyword_time)
+* [pandemic](keyword_pandemic), [covid-19](keyword_covid-19), [infrastructure](keyword_infrastructure), [resilience](keyword_resilience), [efficiency](keyword_efficiency), [guardian](keyword_guardian), [infrastructure resilience](keyword_infrastructure_resilience), [vaccine](keyword_vaccine), [wildfire](keyword_wildfire), [coronavirus](keyword_coronavirus), leadership, bangladesh, [time](keyword_time), administrative leadership, [system](keyword_system)
 
 
 
 ## Keywords at large
 
-* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
+* [pandemic](keyword_pandemic), [covid-19](keyword_covid-19), [infrastructure](keyword_infrastructure), [resilience](keyword_resilience), [efficiency](keyword_efficiency), [guardian](keyword_guardian), [infrastructure resilience](keyword_infrastructure_resilience), [vaccine](keyword_vaccine), [wildfire](keyword_wildfire), [coronavirus](keyword_coronavirus)
 
 
 ## Concepts
 
  ![](imgs/article_carvalhaes_covid-19_2020.jpg)
+
+### Closest articles 
+
+* [Preparing critical infrastructure for the future: Lessons learnt from the Covid-19 pandemic](article_tomalska_preparing_2022)
+* [COVID-19 and a new resilient infrastructure landscape](article_oecd_covid-19_2021)
+* [DfMA for rapid adaptive resilience and flexible
+infrastructure](article_mott_macdonald_dfma_2020)
+* [Guidelines for resilience systems analysis](article_oecd_guidelines_2014)
+* [A review of definitions and measures of system resilience](article_hosseini_review_2016)
+* [Strengthening resilience: a priority shared by Health
+2020 and](article_who_strengthening_2017)
+* [Mobility Behaviour in View of the Impact of the COVID-19 Pandemic—Public Transport Users in Gdansk Case Study](article_przybylowski_mobility_2021)
+* [Responsible Transport: A post-COVID agenda for transport policy and practice](article_budd_responsible_2020)
+* [Learning from pandemics: Applying resilience thinking to identify priorities for planning urban settlements](article_syal_learning_2021)
+* [Understanding the role of urban design in disease spreading](article_brizuela_understanding_2019)
 

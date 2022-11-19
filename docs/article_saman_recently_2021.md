@@ -1,18 +1,18 @@
 # Article: __Recently employed engineering techniques to reduce the spread of COVID-19 (corona virus disease 2019): a review study__ (saman_recently_2021)
 
 * [10.11591/ijeecs.v22.i1.pp277-286](https://doi.org/10.11591/ijeecs.v22.i1.pp277-286)
-* Cluster: [air-sars](cluster_2)
+* Cluster: [uv-room](cluster_2)
 
 
 ## Keywords
 
-* [covid-19](keyword_covid-19), [coronavirus](keyword_coronavirus), [face recognition](keyword_face_recognition), [taif university](keyword_taif_university), [thermal imaging](keyword_thermal_imaging), [robot](keyword_robot), [virus](keyword_virus), [online](keyword_online), [infrare](keyword_infrare), [pandemic](keyword_pandemic), [drone](keyword_drone), [sar cov 2](keyword_sar_cov_2), j elec eng, [engineering](keyword_engineering), rehabilitation
+* [covid-19](keyword_covid-19), [coronavirus](keyword_coronavirus), [face recognition](keyword_face_recognition), [thermal imaging](keyword_thermal_imaging), [virus](keyword_virus), [taif university](keyword_taif_university), [infrare](keyword_infrare), [robot](keyword_robot), [drone](keyword_drone), j elec eng, [pandemic](keyword_pandemic), [engineering](keyword_engineering), bander saman, physical therapy, [infection](keyword_infection)
 
 
 
 ## Keywords at large
 
-* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
+* [covid-19](keyword_covid-19), [coronavirus](keyword_coronavirus), [face recognition](keyword_face_recognition), [taif university](keyword_taif_university), [thermal imaging](keyword_thermal_imaging), [robot](keyword_robot), [virus](keyword_virus), [infrare](keyword_infrare), [pandemic](keyword_pandemic), [drone](keyword_drone)
 
 ## Abstract
 
@@ -48,4 +48,23 @@ outbreak.\textless/span\textgreater
 ## Concepts
 
  ![](imgs/article_saman_recently_2021.jpg)
+
+### Closest articles 
+
+* [Combating COVID-19—The role of robotics in managing public health and infectious diseases](article_yang_combating_2020)
+* [Danish disinfection robots save lives in the fight against
+the Corona virus \textbar Shaping Europe’s
+digital future](article_ec_views_danish_2020)
+* [How drones help cities during the Covid-19 pandemic
+\textbar TheMayor.EU](article_dimitrova_how_2021)
+* [Drones. Disinfecting robots. Supercomputers. The
+coronavirus outbreak is a test for China's tech industry
+\textbar CNN Business](article_wang_drones_2020)
+* [Borders and Catastrophe: lessons from COVID-19 for the European Green Deal](article_klein_borders_2021)
+* [10 tech trends getting us through the COVID-19
+pandemic](article_yan_10_2020)
+* [2020 Data Protection Report](article_council_of_europe_2020_2020)
+* [Design COVID-19 Ontology: A Healthcare and Safety Perspective](article_aloulou_design_2022)
+* [How the 5G Enabled the COVID-19 Pandemic Prevention and Control: Materiality, Affordance, and (De-)Spatialization](article_li_how_2022)
+* [Challenges of data sharing in European Covid-19 projects: A learning opportunity for advancing pandemic preparedness and response](article_tacconelli_challenges_2022)
 

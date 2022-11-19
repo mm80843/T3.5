@@ -1,8 +1,7 @@
 # Keyword: __medical__
 ## Clusters
 
-* Cluster 1: [health-ai](cluster_1)
-* Cluster 8: [smart-datum](cluster_8)
+* Cluster 11: [blockchain-ai](cluster_11)
 
 ## Concepts
 
@@ -29,5 +28,5 @@ COVID-19 pandemic ([awada_ten_2021](article_awada_ten_2021))
 * Biophilic design in architecture and its contributions to
 health, well-being, and sustainability: A critical
 review ([zhong_biophilic_2022](article_zhong_biophilic_2022))
-* Significant applications of virtual reality for COVID-19
-pandemic ([singh_significant_2020](article_singh_significant_2020))
+* DeepSOCIAL: Social Distancing Monitoring and
+Infection Risk Assessment in COVID-19 Pandemic ([rezaei_deepsocial_2020](article_rezaei_deepsocial_2020))

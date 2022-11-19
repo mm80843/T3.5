@@ -1,7 +1,7 @@
 # Keyword: __housing__
 ## Clusters
 
-* Cluster 13: [space-urban](cluster_13)
+* Cluster 8: [health-housing](cluster_8)
 
 ## Concepts
 
@@ -9,6 +9,9 @@
 
 
 ## Top 10 articles for __housing__
+* Dangerous liaisons? Applying the social harm perspective
+to the social inequality, housing and health trifecta
+during the Covid-19 pandemic ([gurney_dangerous_2021](article_gurney_dangerous_2021))
 * realdania_refleksioner_2022_EN ([realdania_refleksioner_2022_EN](article_realdania_refleksioner_2022_EN))
 * COVID-19 and Green Housing: A Review of
 Relevant Literature ([kaklauskas_covid-19_2021](article_kaklauskas_covid-19_2021))
@@ -28,6 +31,3 @@ Mitigation Strategy ([benfer_eviction_2021](article_benfer_eviction_2021))
 Time of Pandemics: Lessons Learned from
 COVID-19 ([asfour_housing_2022](article_asfour_housing_2022))
 * rtpi_urban_2021 ([rtpi_urban_2021](article_rtpi_urban_2021))
-* COVID-19 and Living space challenge. Well-being and
-Public Health recommendations for a healthy, safe, and
-sustainable housing. ([dalessandro_covid-19_2020](article_dalessandro_covid-19_2020))

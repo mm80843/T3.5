@@ -1,18 +1,18 @@
 # Article: __Mechanistic insights into the effect of humidity on airborne influenza virus survival, transmission and incidence__ (marr_mechanistic_2019)
 
 * [10.1098/rsif.2018.0298](https://doi.org/10.1098/rsif.2018.0298)
-* Cluster: [air-sars](cluster_2)
+* Cluster: [air-sars](cluster_0)
 
 
 ## Keywords
 
-* [influenza](keyword_influenza), [virus](keyword_virus), [temperature](keyword_temperature), [droplet](keyword_droplet), [influenza virus](keyword_influenza_virus), [rh](keyword_rh), [aerosol](keyword_aerosol), [protein](keyword_protein), [environ](keyword_environ), [chemistry](keyword_chemistry), [infection](keyword_infection), [microbiol](keyword_microbiol), [indoor](keyword_indoor), biometeorol, [humidity](keyword_humidity)
+* [influenza](keyword_influenza), [virus](keyword_virus), [temperature](keyword_temperature), [droplet](keyword_droplet), [influenza virus](keyword_influenza_virus), [rh](keyword_rh), [aerosol](keyword_aerosol), [protein](keyword_protein), [infection](keyword_infection), [indoor](keyword_indoor), [humidity](keyword_humidity), [transmission](keyword_transmission), [relative humidity](keyword_relative_humidity), physic, chemistry
 
 
 
 ## Keywords at large
 
-* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
+* [influenza](keyword_influenza), [virus](keyword_virus), [temperature](keyword_temperature), [droplet](keyword_droplet), [influenza virus](keyword_influenza_virus), [rh](keyword_rh), [aerosol](keyword_aerosol), [protein](keyword_protein), [infection](keyword_infection), [biometeorol](keyword_biometeorol)
 
 ## Abstract
 
@@ -40,4 +40,19 @@ transmission.
 ## Concepts
 
  ![](imgs/article_marr_mechanistic_2019.jpg)
+
+### Closest articles 
+
+* [Effects of temperature and humidity on the spread of COVID-19: A systematic review](article_mecenas_effects_2020)
+* [COVID-19 could be a seasonal illness with higher risk in
+winter: Reduced humidity linked to increased COVID-19
+risk](article_university_of_sydney_covid-19_2020)
+* [COVID-19 and its Modes of Transmission](article_karia_covid-19_2020)
+* [Current knowledge of COVID-19: Advances, challenges and future perspectives](article_wu_current_2021)
+* [Air, Surface Environmental, and Personal Protective Equipment Contamination by Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) From a Symptomatic Patient](article_ong_air_2020)
+* [Aerosol and Surface Distribution of Severe Acute Respiratory Syndrome Coronavirus 2 in Hospital Wards, Wuhan, China, 2020](article_guo_aerosol_2020)
+* [SARS-CoV-2 RNA detection of hospital isolation wards hygiene monitoring during the Coronavirus Disease 2019 outbreak in a Chinese hospital](article_wang_sars-cov-2_2020)
+* [onway-morris_removal_2021](article_onway-morris_removal_2021)
+* [Graphene-based nanomaterials as antimicrobial surface coatings: A parallel approach to restrain the expansion of COVID-19](article_ayub_graphene-based_2021)
+* [Real-world data show that filters clean COVID-causing virus from air](article_thompson_real-world_2021)
 

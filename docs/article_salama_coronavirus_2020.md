@@ -1,18 +1,18 @@
 # Article: __Coronavirus questions that will not go away: interrogating urban and socio-spatial implications of COVID-19 measures__ (salama_coronavirus_2020)
 
 * [10.35241/emeraldopenres.13561.1](https://doi.org/10.35241/emeraldopenres.13561.1)
-* Cluster: [space-urban](cluster_13)
+* Cluster: [city-smart](cluster_10)
 
 
 ## Keywords
 
-* [coronavirus](keyword_coronavirus), [architecture](keyword_architecture), [city](keyword_city), [united kingdom](keyword_united_kingdom), [urbanism](keyword_urbanism), [social distancing](keyword_social_distancing), [covid-19](keyword_covid-19), [urban design](keyword_urban_design), [new york](keyword_new_york), [pandemic](keyword_pandemic), reference source, [evidence](keyword_evidence), [infectious disease](keyword_infectious_disease), [architect](keyword_architect), [china](keyword_china)
+* [coronavirus](keyword_coronavirus), [architecture](keyword_architecture), [city](keyword_city), [united kingdom](keyword_united_kingdom), [covid-19](keyword_covid-19), [urbanism](keyword_urbanism), [urban design](keyword_urban_design), [pandemic](keyword_pandemic), [social distancing](keyword_social_distancing), reference source, [infectious disease](keyword_infectious_disease), [architect](keyword_architect), [disease](keyword_disease), [china](keyword_china), academic discipline
 
 
 
 ## Keywords at large
 
-* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
+* [coronavirus](keyword_coronavirus), [architecture](keyword_architecture), [city](keyword_city), [united kingdom](keyword_united_kingdom), [urbanism](keyword_urbanism), [covid-19](keyword_covid-19), [social distancing](keyword_social_distancing), [urban design](keyword_urban_design), [pandemic](keyword_pandemic), [new york](keyword_new_york)
 
 ## Abstract
 
@@ -54,4 +54,19 @@ global world.
 ## Concepts
 
  ![](imgs/article_salama_coronavirus_2020.jpg)
+
+### Closest articles 
+
+* [Epidemics, Planning and the City: A Special Issue of Planning Perspectives](article_davis_epidemics_2022)
+* [Respiratory pandemics, urban planning and design: A multidisciplinary rapid review of the literature](article_harris_respiratory_2022)
+* [COVID-19: Lessons for an Urban(izing) World](article_acuto_covid-19_2020)
+* [Antivirus-built environment: Lessons learned from Covid-19 pandemic](article_megahed_antivirus-built_2020)
+* [COVID-19 Pandemic: Rethinking Strategies for
+Resilient Urban Design, Perceptions, and
+Planning](article_afrin_covid-19_2021)
+* [The Impact of COVID-19 on Public Space: A Review of the Emerging Questions](article_honey-roses_impact_2020)
+* [The COVID-19 pandemic: Impacts on cities and major lessons for urban planning, design, and management](article_sharifi_covid-19_2020)
+* [Learning from pandemics: Applying resilience thinking to identify priorities for planning urban settlements](article_syal_learning_2021)
+* [WHO-2019-nCoV-Urban_preparedness-2020.1-eng](article_WHO-2019-nCoV-Urban_preparedness-2020.1-eng)
+* [COVID-19 Could Leverage a Sustainable Built Environment](article_pinheiro_covid-19_2020)
 

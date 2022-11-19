@@ -1,7 +1,7 @@
 # Keyword: __surface__
 ## Clusters
 
-* Cluster 2: [air-sars](cluster_2)
+* Cluster 0: [air-sars](cluster_0)
 
 ## Concepts
 
@@ -20,14 +20,14 @@ Environment ([pinheiro_covid-19_2020](article_pinheiro_covid-19_2020))
 Mitigation Measures for Combating the Transmission
 of COVID-19 Pandemic in Buildings Under
 Facilities Management Services ([sarvari_global_2022](article_sarvari_global_2022))
-* Designing a Multi-Agent Occupant Simulation
-System to Support Facility Planning and Analysis
-for COVID-19 ([lee_designing_2021](article_lee_designing_2021))
 * A Global Survey of Infection Control and
 Mitigation Measures for Combating the Transmission
 of COVID-19 Pandemic in Buildings Under
 Facilities Management Services ([sarvari_global_2022](article_sarvari_global_2022))
 * p15-lee-vor ([p15-lee-vor](article_p15-lee-vor))
+* Designing a Multi-Agent Occupant Simulation
+System to Support Facility Planning and Analysis
+for COVID-19 ([lee_designing_2021](article_lee_designing_2021))
 * A Review on Building Design as a Biomedical
 System for Preventing COVID-19 Pandemic ([amran_review_2022](article_amran_review_2022))
 * COVID-19 Experience Transforming the Protective

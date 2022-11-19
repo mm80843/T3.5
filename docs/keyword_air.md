@@ -1,11 +1,11 @@
 # Keyword: __air__
 ## Clusters
 
-* Cluster 0: [energy-building](cluster_0)
-* Cluster 2: [air-sars](cluster_2)
-* Cluster 9: [climate-change](cluster_9)
-* Cluster 10: [building-health](cluster_10)
-* Cluster 14: [uvgi-uv](cluster_14)
+* Cluster 0: [air-sars](cluster_0)
+* Cluster 2: [uv-room](cluster_2)
+* Cluster 8: [health-housing](cluster_8)
+* Cluster 9: [health-building](cluster_9)
+* Cluster 12: [climate-change](cluster_12)
 
 ## Concepts
 
@@ -32,8 +32,8 @@ quality in the strategy for COVID-19 infection control ([azuma_environmental_202
 * Air Disinfection for Airborne Infection Control
 with a Focus on COVID-19: Why Germicidal UV is
 Essential† ([nardell_air_2021](article_nardell_air_2021))
-* ashrae_ashrae_2022 ([ashrae_ashrae_2022](article_ashrae_ashrae_2022))
-* A Global Survey of Infection Control and
-Mitigation Measures for Combating the Transmission
-of COVID-19 Pandemic in Buildings Under
-Facilities Management Services ([sarvari_global_2022](article_sarvari_global_2022))
+* The Effect of Opening Windows on Air Change
+Rates in Two Homes ([howard-reed_effect_2002](article_howard-reed_effect_2002))
+* Mechanistic insights into the effect of humidity on
+airborne influenza virus survival, transmission and
+incidence ([marr_mechanistic_2019](article_marr_mechanistic_2019))

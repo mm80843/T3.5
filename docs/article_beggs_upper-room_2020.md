@@ -1,18 +1,18 @@
 # Article: __Upper-room ultraviolet air disinfection might help to reduce COVID-19 transmission in buildings: a feasibility study__ (beggs_upper-room_2020)
 
 * [10.7717/peerj.10196](https://doi.org/10.7717/peerj.10196)
-* Cluster: [air-sars](cluster_2)
+* Cluster: [uv-room](cluster_2)
 
 
 ## Keywords
 
-* [sar cov 2](keyword_sar_cov_2), [coronavirus](keyword_coronavirus), [sar cov 1](keyword_sar_cov_1), [mer cov](keyword_mer_cov), [uvgi](keyword_uvgi), [virus](keyword_virus), [ultraviolet](keyword_ultraviolet), [uv-c](keyword_uv-c), [disinfection](keyword_disinfection), [covid-19](keyword_covid-19), [uv](keyword_uv), [germicidal](keyword_germicidal), [air](keyword_air), [microbiology](keyword_microbiology), uv field
+* [covid-19](keyword_covid-19), [coronavirus](keyword_coronavirus), [uvgi](keyword_uvgi), [mer cov](keyword_mer_cov), [virus](keyword_virus), [ultraviolet](keyword_ultraviolet), [disinfection](keyword_disinfection), [sar cov 2](keyword_sar_cov_2), [uv-c](keyword_uv-c), [uv](keyword_uv), [germicidal](keyword_germicidal), [air](keyword_air), [microbiology](keyword_microbiology), uv field, [influenza](keyword_influenza)
 
 
 
 ## Keywords at large
 
-* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
+* [covid-19](keyword_covid-19), [coronavirus](keyword_coronavirus), [mer cov](keyword_mer_cov), [uvgi](keyword_uvgi), [virus](keyword_virus), [ultraviolet](keyword_ultraviolet), [disinfection](keyword_disinfection), [sar cov 2](keyword_sar_cov_2), [uv](keyword_uv), [uv-c](keyword_uv-c)
 
 ## Abstract
 
@@ -46,6 +46,23 @@ be particularly applicable to poorly ventilated spaces.
 ## Concepts
 
  ![](imgs/article_beggs_upper-room_2020.jpg)
+
+### Closest articles 
+
+* [Effect of Ultraviolet Germicidal Irradiation on Viral Aerosols](article_walker_effect_2007)
+* [Behind the Update: ASHRAE Handbook Chapters on
+UV-C to Include Updated Best Practices,
+Guidance](article_ashrae_behind_2020)
+* [Upper-Room Ultraviolet Light and Negative Air Ionization to Prevent Tuberculosis Transmission](article_escombe_upper-room_2009)
+* [Case Study: Using Germicidal UV-C to Mitigate
+COVID-19 - HVAC](article_healthcare_facilities_today_case_2021)
+* [Far-UVC light (222 nm) efficiently and safely inactivates airborne human coronaviruses](article_buonanno_far-uvc_2020)
+* [Applications of ultraviolet germicidal irradiation disinfection in health care facilities: Effective adjunct, but not stand-alone technology](article_memarzadeh_applications_2010)
+* [Efficacy of an Automated Multiple Emitter Whole-Room Ultraviolet-C Disinfection System Against Coronaviruses MHV and MERS-CoV](article_bedell_efficacy_2016)
+* [Air Disinfection for Airborne Infection Control with a Focus on COVID‐19: Why Germicidal UV is Essential
+            <sup>†</sup>](article_nardell_air_2021)
+* [Persistence of coronaviruses on inanimate surfaces and their inactivation with biocidal agents](article_kampf_persistence_2020)
+* [Rapid expansion of temporary, reliable airborne-infection isolation rooms with negative air machines for critical COVID-19 patients](article_lee_rapid_2020)
 
 ### References 
 

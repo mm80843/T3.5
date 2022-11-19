@@ -1,7 +1,7 @@
-# Cluster: __building-health__ (cluster10)
+# Cluster: __city-smart__ (cluster10)
 ## Keywords
 
-* [building](keyword_building), [health](keyword_health), [ieq](keyword_ieq), [air](keyword_air), [office](keyword_office), [indoor](keyword_indoor), [system](keyword_system), [design](keyword_design), [work](keyword_work), [pandemic](keyword_pandemic), [environment](keyword_environment), [green](keyword_green), [occupant](keyword_occupant), [study](keyword_study), [mental](keyword_mental), [sensor](keyword_sensor), [space](keyword_space), [energy](keyword_energy), [build](keyword_build), [control](keyword_control)
+* [city](keyword_city), [smart](keyword_smart), [urban](keyword_urban), [ontology](keyword_ontology), [pandemic](keyword_pandemic), [datum](keyword_datum), [health](keyword_health), [technology](keyword_technology), [public](keyword_public), [governance](keyword_governance), [planning](keyword_planning), [social](keyword_social), [allam](keyword_allam), [iot](keyword_iot), [new](keyword_new), [cities](keyword_cities), [disease](keyword_disease), [access](keyword_access), [impact](keyword_impact), [response](keyword_response)
 
 ## Concepts
 
@@ -10,100 +10,48 @@
 
 ## Articles
 
-* A comprehensive review on indoor air quality monitoring
-systems for enhanced public health ([saini_comprehensive_2020](article_saini_comprehensive_2020))
-* hseie_algorithms_2021 ([hseie_algorithms_2021](article_hseie_algorithms_2021))
-* Construction of a Linked Data Set of COVID-19
-Knowledge Graphs: Development and Applications ([wang_construction_2022](article_wang_construction_2022))
-* Architectural Design Drives the Biogeography of
-Indoor Bacterial Communities ([kembel_architectural_2014](article_kembel_architectural_2014))
-* cibse_emerging_202 ([cibse_emerging_202](article_cibse_emerging_202))
-* Assessment of COVID-19 precautionary measures in sports
-facilities: A case study on a health club in Saudi
-Arabia ([ibrahim_assessment_2022](article_ibrahim_assessment_2022))
-* How to Make Green Building Certification \&
-Rating Systems More Pandemic-Sustainable? ([ujikawa_how_2022](article_ujikawa_how_2022))
-* world_green_building_council_health_2014 ([world_green_building_council_health_2014](article_world_green_building_council_health_2014))
-* harvard_th_chan_schoold_of_public_health_air_2020 ([harvard_th_chan_schoold_of_public_health_air_2020](article_harvard_th_chan_schoold_of_public_health_air_2020))
-* COVID-19 and social inequalities: a complex and dynamic
-interaction ([quantin_covid-19_2022](article_quantin_covid-19_2022))
-* rozgus_will_2020 ([rozgus_will_2020](article_rozgus_will_2020))
-* breeam_covid-19_2020 ([breeam_covid-19_2020](article_breeam_covid-19_2020))
-* Ten questions concerning occupant health in buildings
-during normal operations and extreme events including the
-COVID-19 pandemic ([awada_ten_2021](article_awada_ten_2021))
-* Biophilic design in architecture and its contributions to
-health, well-being, and sustainability: A critical
-review ([zhong_biophilic_2022](article_zhong_biophilic_2022))
-* who_mental_2021 ([who_mental_2021](article_who_mental_2021))
-* Navigating Climate Change: Rethinking the Role of
-Buildings ([cole_navigating_2020](article_cole_navigating_2020))
-* Reframe how to serve your community in the midst of a
-pandemic ([sutton_reframe_2020](article_sutton_reframe_2020))
-* How loneliness is talked about in social media during
-COVID-19 pandemic: Text mining of 4,492 Twitter
-feeds ([koh_how_2022](article_koh_how_2022))
-* Design and Implementation of Entry-level COVID-19
-Digital Signage Player supporting Fever
-Detection, Face Mask Wearing Detection and
-KI-pass QR Code Checking ([huy-tran_design_2022](article_huy-tran_design_2022))
-* afp_rotating_2021 ([afp_rotating_2021](article_afp_rotating_2021))
-* A Global Survey of Infection Control and
-Mitigation Measures for Combating the Transmission
-of COVID-19 Pandemic in Buildings Under
-Facilities Management Services ([sarvari_global_2022](article_sarvari_global_2022))
-* An Intelligent IEQ Monitoring and Feedback
-System: Development and Applications ([geng_intelligent_2021](article_geng_intelligent_2021))
-* Assessment method for new sustainability indicators
-providing pandemic resilience for residential buildings ([tokazhanov_assessment_2021](article_tokazhanov_assessment_2021))
-* COVID-19 Experience Transforming the Protective
-Environment of Office Buildings and Spaces ([phapant_covid-19_2021](article_phapant_covid-19_2021))
-* Assessment of Building Automation and Control
-Systems in Danish Healthcare Facilities in the
-COVID-19 Era ([pedersen_assessment_2022](article_pedersen_assessment_2022))
-* lam_smart_2021 ([lam_smart_2021](article_lam_smart_2021))
-* Continuous IEQ monitoring system: Context and
-development ([parkinson_continuous_2019](article_parkinson_continuous_2019))
-* hmc_architects_how_2020 ([hmc_architects_how_2020](article_hmc_architects_how_2020))
-* Occupant health in buildings: Impact of the COVID-19
-pandemic on the opinions of building professionals and
-implications on research ([awada_occupant_2022](article_awada_occupant_2022))
-* pricewaterhousecoopers_its_2021 ([pricewaterhousecoopers_its_2021](article_pricewaterhousecoopers_its_2021))
-* world_green_building_council_contribution_2020 ([world_green_building_council_contribution_2020](article_world_green_building_council_contribution_2020))
-* Readiness Assessment of Green Building
-Certification Systems for Residential Buildings
-during Pandemics ([tleuken_readiness_2021](article_tleuken_readiness_2021))
-* Home garden use during COVID-19: Associations with
-physical and mental wellbeing in older adults ([corley_home_2021](article_corley_home_2021))
-* Using Technology to Maintain the Education of
-Residents During the COVID-19 Pandemic ([chick_using_2020](article_chick_using_2020))
-* The effect of a redesigned floor plan, occupant density
-and the quality of indoor climate on the cost of space,
-productivity and sick leave in an office building–A
-case study ([saari_effect_2006](article_saari_effect_2006))
-* hull_covid-19_2020 ([hull_covid-19_2020](article_hull_covid-19_2020))
-* sarvari_global_2022-1 ([sarvari_global_2022-1](article_sarvari_global_2022-1))
-* Green Buildings: A Post COVID-19 Analysis of
-Preventive Measures of Spreading the Virus ([yakubu_aminu_dodo_green_2020](article_yakubu_aminu_dodo_green_2020))
-* davalos_how_2021 ([davalos_how_2021](article_davalos_how_2021))
-* Building occupancy estimation with people flow modeling in
-AnyLogic ([li_building_2016](article_li_building_2016))
-* cibse_emerging_2020 ([cibse_emerging_2020](article_cibse_emerging_2020))
-* Scalable IoT Architecture for Monitoring IEQ
-Conditions in Public and Private Buildings ([calvo_scalable_2022](article_calvo_scalable_2022))
-* A study on office workplace modification during the
-COVID-19 pandemic in The Netherlands ([hou_study_2021](article_hou_study_2021))
-* Occupants’ behavior and activity patterns influencing
-the energy consumption in the Kuwaiti residences ([al-mumin_occupants_2003](article_al-mumin_occupants_2003))
-* Management of the COVID-19 pandemic: challenges,
-practices, and organizational support ([hossny_management_2022](article_hossny_management_2022))
-* Attitudes towards outdoor and neighbour noise during the
-COVID-19 lockdown: A case study in London ([lee_attitudes_2021](article_lee_attitudes_2021))
-* Assessing the health and hygiene performance of apartment
-buildings ([ho_assessing_2004](article_ho_assessing_2004))
-* Mental health economics: A prospective study on
-psychological flourishing and associations with healthcare
-costs and sickness benefit transfers in Denmark ([santini_mental_2021](article_santini_mental_2021))
-* Eviction, Health Inequity, and the Spread of
-COVID-19: Housing Policy as a Primary Pandemic
-Mitigation Strategy ([benfer_eviction_2021](article_benfer_eviction_2021))
+* COVID-19: Lessons for an Urban(izing) World ([acuto_covid-19_2020](article_acuto_covid-19_2020))
+* afrin_covid-19_2021 ([afrin_covid-19_2021](article_afrin_covid-19_2021))
+* An Overview of Ontologies and Tool Support for
+COVID-19 Analytics ([ahmad_overview_2021](article_ahmad_overview_2021))
+* On the Coronavirus (COVID-19) Outbreak and the
+Smart City Network: Universal Data Sharing
+Standards Coupled with Artificial Intelligence
+(AI) to Benefit Urban Health Monitoring and
+Management ([allam_coronavirus_2020](article_allam_coronavirus_2020))
+* Future (post-COVID) digital, smart and sustainable
+cities in the wake of 6G: Digital twins, immersive
+realities and new urban economies ([allam_future_2021](article_allam_future_2021))
+* Pandemic stricken cities on lockdown. Where are our
+planning and design professionals [now, then and into the
+future]? ([allam_pandemic_2020](article_allam_pandemic_2020))
+* An Overview of Biomedical Ontologies for Pandemics
+and Infectious Diseases Representation ([bayoudhi_overview_2021](article_bayoudhi_overview_2021))
+* Learning from the COVID-19 pandemic in governing smart
+cities ([bolivar_learning_2022](article_bolivar_learning_2022))
+* Epidemics, Planning and the City: A Special
+Issue of Planning Perspectives ([davis_epidemics_2022](article_davis_epidemics_2022))
+* Smart cities and the pandemic: digital technologies on the
+urban management of Brazilian cities ([fariniuk_smart_2020](article_fariniuk_smart_2020))
+* Respiratory pandemics, urban planning and design: A
+multidisciplinary rapid review of the literature ([harris_respiratory_2022](article_harris_respiratory_2022))
+* CIDO, a community-based ontology for coronavirus disease
+knowledge and data integration, sharing, and analysis ([he_cido_2020](article_he_cido_2020))
+* Smart cities and a data-driven response to COVID-19 ([james_smart_2020](article_james_smart_2020))
+* The COVID-19 epidemiology and monitoring ontology ([queralt-rosinach_covid-19_2021](article_queralt-rosinach_covid-19_2021))
+* From Viral City to Smart City: Learning from
+Pandemic Experiences ([sakellarides_viral_2020](article_sakellarides_viral_2020))
+* Coronavirus questions that will not go away: interrogating
+urban and socio-spatial implications of COVID-19
+measures ([salama_coronavirus_2020](article_salama_coronavirus_2020))
+* Contributions of Smart City Solutions and
+Technologies to Resilience against the COVID-19
+Pandemic: A Literature Review ([sharifi_contributions_2021](article_sharifi_contributions_2021))
+* The COVID-19 pandemic: Impacts on cities and major
+lessons for urban planning, design, and management ([sharifi_covid-19_2020](article_sharifi_covid-19_2020))
+* The three modes of existence of the pandemic smart city ([soderstrom_three_2021](article_soderstrom_three_2021))
+* Impact of COVID-19 on IoT Adoption in Healthcare,
+Smart Homes, Smart Buildings, Smart Cities,
+Transportation and Industrial IoT ([umair_impact_2021](article_umair_impact_2021))
+* The Smart City and Covid‐19 ([webb_smart_2020](article_webb_smart_2020))
+* WHO-2019-nCoV-Urban_preparedness-2020.1-eng ([WHO-2019-nCoV-Urban_preparedness-2020.1-eng](article_WHO-2019-nCoV-Urban_preparedness-2020.1-eng))

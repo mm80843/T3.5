@@ -1,23 +1,39 @@
 # Article: __Indoor Air Quality: Rethinking rules of building design strategies in post-pandemic architecture__ (megahed_indoor_2021)
 
 * [10.1016/j.envres.2020.110471](https://doi.org/10.1016/j.envres.2020.110471)
-* Cluster: [air-sars](cluster_2)
+* Cluster: [air-sars](cluster_0)
 
 
 ## Keywords
 
-* [ventilation](keyword_ventilation), [environ](keyword_environ), [engineering](keyword_engineering), [iaq](keyword_iaq), [covid-19](keyword_covid-19), [build](keyword_build), [pandemic](keyword_pandemic), [architecture](keyword_architecture), [architect](keyword_architect), [sar cov 2](keyword_sar_cov_2), [health](keyword_health), [disinfection](keyword_disinfection), [indoor environment](keyword_indoor_environment), [covid 19 pandemic](keyword_covid_19_pandemic), [pathogen](keyword_pathogen)
+* [ventilation](keyword_ventilation), [covid-19](keyword_covid-19), [engineering](keyword_engineering), [iaq](keyword_iaq), [build](keyword_build), [pandemic](keyword_pandemic), [architecture](keyword_architecture), [health](keyword_health), [architect](keyword_architect), [disinfection](keyword_disinfection), indoor environment, [pathogen](keyword_pathogen), [covid 19 pandemic](keyword_covid_19_pandemic), [build environment](keyword_build_environment), [virus](keyword_virus)
 
 
 
 ## Keywords at large
 
-* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
+* [ventilation](keyword_ventilation), [covid-19](keyword_covid-19), [engineering](keyword_engineering), [iaq](keyword_iaq), [build](keyword_build), [pandemic](keyword_pandemic), [architecture](keyword_architecture), [architect](keyword_architect), [health](keyword_health), [disinfection](keyword_disinfection)
 
 
 ## Concepts
 
  ![](imgs/article_megahed_indoor_2021.jpg)
+
+### Closest articles 
+
+* [A Review on Building Design as a Biomedical System for Preventing COVID-19 Pandemic](article_amran_review_2022)
+* [A review of facilities management interventions to mitigate respiratory infections in existing buildings](article_zhang_review_2022)
+* [Designing Post COVID-19 Buildings: Approaches for Achieving Healthy Buildings](article_navaratnam_designing_2022)
+* [Architectural design strategies for infection prevention
+and control (IPC) in health-care facilities: towards
+curbing the spread of Covid-19 \textbar SpringerLink](article_udomiaye_architectural_2020)
+* [Heating, ventilation and air-conditioning systems in the
+context of COVID-19](article_ecdc_heating_2020)
+* [A comprehensive review on indoor air quality monitoring systems for enhanced public health](article_saini_comprehensive_2020)
+* [Review and comparison of HVAC operation guidelines in different countries during the COVID-19 pandemic](article_guo_review_2021)
+* [Ventilation use in nonmedical settings during COVID-19: Cleaning protocol, maintenance, and recommendations](article_nembhard_ventilation_2020)
+* [Environmental factors involved in SARS-CoV-2 transmission: effect and role of indoor environmental quality in the strategy for COVID-19 infection control](article_azuma_environmental_2020)
+* [2019 Novel Coronavirus (COVID-19) Pandemic: Built Environment Considerations To Reduce Transmission](article_dietz_2019_2020)
 
 ### References 
 

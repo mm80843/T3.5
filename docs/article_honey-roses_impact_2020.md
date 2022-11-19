@@ -1,17 +1,18 @@
 # Article: __The Impact of COVID-19 on Public Space: A Review of the Emerging Questions__ (honey-roses_impact_2020)
 
 * [10.31219/osf.io/rf7xa](https://doi.org/10.31219/osf.io/rf7xa)
+* Cluster: [health-building](cluster_9)
 
 
 ## Keywords
 
-* 0 0 point, supply chain distruption, supply chain design, supply chain decision make complexity, supply chain decision make, supply chain complication, supply chain account, supply chain 4 0, [supply chain](keyword_supply_chain), supply base, supply as much outdoor air as possible, supply and production chain, supply and production, supply and distribution chain, supply and demand planning
+* [public space](keyword_public_space), [city](keyword_city), [covid-19](keyword_covid-19), [barcelona](keyword_barcelona), [pandemic](keyword_pandemic), [urban](keyword_urban), [design](keyword_design), green space, [public](keyword_public), [new york city](keyword_new_york_city), [new york](keyword_new_york), [lockdown](keyword_lockdown), [london](keyword_london), [coronavirus](keyword_coronavirus), vancouver
 
 
 
 ## Keywords at large
 
-* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
+* [public space](keyword_public_space), [city](keyword_city), [covid-19](keyword_covid-19), [pandemic](keyword_pandemic), [barcelona](keyword_barcelona), [public](keyword_public), [urban](keyword_urban), [new york](keyword_new_york), [design](keyword_design), [mexico](keyword_mexico)
 
 ## Abstract
 
@@ -36,4 +37,17 @@ in a post-COVID-19 world.
 ## Concepts
 
  ![](imgs/article_honey-roses_impact_2020.jpg)
+
+### Closest articles 
+
+* [10 Adaptive Measures for Public Places to face the COVID 19 Pandemic Outbreak](article_cheshmehzangi_10_2020)
+* [WHO-2019-nCoV-Urban_preparedness-2020.1-eng](article_WHO-2019-nCoV-Urban_preparedness-2020.1-eng)
+* [Coronavirus questions that will not go away: interrogating urban and socio-spatial implications of COVID-19 measures](article_salama_coronavirus_2020)
+* [COVID-19: Lessons for an Urban(izing) World](article_acuto_covid-19_2020)
+* [Epidemics, Planning and the City: A Special Issue of Planning Perspectives](article_davis_epidemics_2022)
+* [The City Under COVID‐19: Podcasting As Digital Methodology](article_rogers_city_2020)
+* [Antivirus-built environment: Lessons learned from Covid-19 pandemic](article_megahed_antivirus-built_2020)
+* [Respiratory pandemics, urban planning and design: A multidisciplinary rapid review of the literature](article_harris_respiratory_2022)
+* [Biophilic design in architecture and its contributions to health, well-being, and sustainability: A critical review](article_zhong_biophilic_2022)
+* [From Viral City to Smart City: Learning from Pandemic Experiences](article_sakellarides_viral_2020)
 

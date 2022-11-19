@@ -1,18 +1,18 @@
 # Article: __Understanding the role of urban design in disease spreading__ (brizuela_understanding_2019)
 
 * [10.1101/766667](https://doi.org/10.1101/766667)
-* Cluster: [simulation-model](cluster_6)
+* Cluster: [city-spatial](cluster_3)
 
 
 ## Keywords
 
-* [city](keyword_city), [influenza](keyword_influenza), [acc by 4 0](keyword_acc_by_4_0), [epidemic](keyword_epidemic), [international license](keyword_international_license), [population](keyword_population), [neighborhood](keyword_neighborhood), [outbreak](keyword_outbreak), [urban design](keyword_urban_design), [spread](keyword_spread), [disease](keyword_disease), [infectious disease](keyword_infectious_disease), [author funder](keyword_author_funder), [copyright holder](keyword_copyright_holder), [simulation](keyword_simulation)
+* [city](keyword_city), [influenza](keyword_influenza), [international license](keyword_international_license), [epidemic](keyword_epidemic), [acc by 4 0](keyword_acc_by_4_0), [population](keyword_population), [neighborhood](keyword_neighborhood), [outbreak](keyword_outbreak), [urban design](keyword_urban_design), [spread](keyword_spread), [disease](keyword_disease), [infectious disease](keyword_infectious_disease), [author funder](keyword_author_funder), [copyright holder](keyword_copyright_holder), gdl
 
 
 
 ## Keywords at large
 
-* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
+* [city](keyword_city), [influenza](keyword_influenza), [acc by 4 0](keyword_acc_by_4_0), [epidemic](keyword_epidemic), [international license](keyword_international_license), [population](keyword_population), [neighborhood](keyword_neighborhood), [outbreak](keyword_outbreak), [urban design](keyword_urban_design), [spread](keyword_spread)
 
 ## Abstract
 
@@ -75,4 +75,20 @@ experiments in urban health research.
 ## Concepts
 
  ![](imgs/article_brizuela_understanding_2019.jpg)
+
+### Closest articles 
+
+* [RUDDS_bioRxiv_update](article_RUDDS_bioRxiv_update)
+* [Impact of COVID-19 on IoT Adoption in Healthcare, Smart Homes, Smart Buildings, Smart Cities, Transportation and Industrial IoT](article_umair_impact_2021)
+* [On the Coronavirus (COVID-19) Outbreak and the Smart City Network: Universal Data Sharing Standards Coupled with Artificial Intelligence (AI) to Benefit Urban Health Monitoring and Management](article_allam_coronavirus_2020)
+* [Future (post-COVID) digital, smart and sustainable cities in the wake of 6G: Digital twins, immersive realities and new urban economies](article_allam_future_2021)
+* [Contributions of Smart City Solutions and Technologies to Resilience against the COVID-19 Pandemic: A Literature Review](article_sharifi_contributions_2021)
+* [The COVID-19 pandemic: Impacts on cities and major lessons for urban planning, design, and management](article_sharifi_covid-19_2020)
+* [Pandemic stricken cities on lockdown. Where are our planning and design professionals [now, then and into the future]?](article_allam_pandemic_2020)
+* [COVID-19 and a new resilient infrastructure landscape](article_oecd_covid-19_2021)
+* [COVID-19 Pandemic: Rethinking Strategies for
+Resilient Urban Design, Perceptions, and
+Planning](article_afrin_covid-19_2021)
+* [COVID-19 as a Harbinger of Transforming
+Infrastructure Resilience](article_carvalhaes_covid-19_2020)
 

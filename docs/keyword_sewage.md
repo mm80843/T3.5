@@ -1,8 +1,7 @@
 # Keyword: __sewage__
 ## Clusters
 
-* Cluster 12: [wastewater-sars](cluster_12)
-* Cluster 15: [water-wastewater](cluster_15)
+* Cluster 1: [wastewater-sars](cluster_1)
 
 ## Concepts
 
@@ -36,7 +35,6 @@ your radar ([barcelo_wastewater-based_2020](article_barcelo_wastewater-based_202
 * Detection of SARS-CoV-2 in raw and treated wastewater
 in Germany – Suitability for COVID-19 surveillance
 and potential transmission risks ([westhaus_detection_2021](article_westhaus_detection_2021))
-* Computational analysis of SARS-CoV-2/COVID-19
-surveillance by wastewater-based epidemiology locally and
-globally: Feasibility, economy, opportunities and
-challenges ([hart_computational_2020](article_hart_computational_2020))
+* Future perspectives of wastewater-based epidemiology:
+Monitoring infectious disease spread and resistance to
+the community level ([sims_future_2020](article_sims_future_2020))

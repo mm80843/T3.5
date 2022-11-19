@@ -1,9 +1,7 @@
 # Keyword: __infection__
 ## Clusters
 
-* Cluster 2: [air-sars](cluster_2)
-* Cluster 14: [uvgi-uv](cluster_14)
-* Cluster 15: [water-wastewater](cluster_15)
+* Cluster 0: [air-sars](cluster_0)
 
 ## Concepts
 
@@ -15,6 +13,8 @@
 System for Preventing COVID-19 Pandemic ([amran_review_2022](article_amran_review_2022))
 * The ventilation of buildings and other mitigating measures
 for COVID-19: a focus on wintertime ([burridge_ventilation_2021](article_burridge_ventilation_2021))
+* Mitigation strategies and compliance in the COVID-19
+fight; how much compliance is enough? ([mukerjee_mitigation_2021](article_mukerjee_mitigation_2021))
 * The effect of occupant distribution on energy consumption
 and COVID-19 infection in buildings: A case study of
 university building ([mokhtari_effect_2021](article_mokhtari_effect_2021))
@@ -30,5 +30,3 @@ Environment of Office Buildings and Spaces ([phapant_covid-19_2021](article_phap
 transmission: effect and role of indoor environmental
 quality in the strategy for COVID-19 infection control ([azuma_environmental_2020](article_azuma_environmental_2020))
 * udomiaye_architectural_2020 ([udomiaye_architectural_2020](article_udomiaye_architectural_2020))
-* How can airborne transmission of COVID-19 indoors be
-minimised? ([morawska_how_2020](article_morawska_how_2020))

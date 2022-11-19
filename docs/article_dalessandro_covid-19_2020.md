@@ -1,18 +1,18 @@
 # Article: ____ (dalessandro_covid-19_2020)
 
 * [10.23750/abm.v91i9-S.10115](https://doi.org/10.23750/abm.v91i9-S.10115)
-* Cluster: [space-urban](cluster_13)
+* Cluster: [health-housing](cluster_8)
 
 
 ## Keywords
 
-* [italy](keyword_italy), [public health](keyword_public_health), [covid-19](keyword_covid-19), [wellbeing](keyword_wellbeing), [health](keyword_health), [mental health](keyword_mental_health), [capolongo s](keyword_capolongo_s), [covid 19 pandemic](keyword_covid_19_pandemic), [hygiene](keyword_hygiene), [sanitation](keyword_sanitation), [world health organization](keyword_world_health_organization), italian, [who](keyword_who), [environment](keyword_environment), [housing](keyword_housing)
+* [italy](keyword_italy), [public health](keyword_public_health), [covid-19](keyword_covid-19), [health](keyword_health), [mental health](keyword_mental_health), [capolongo s](keyword_capolongo_s), [covid 19 pandemic](keyword_covid_19_pandemic), [world health organization](keyword_world_health_organization), [wellbeing](keyword_wellbeing), [sanitation](keyword_sanitation), [hygiene](keyword_hygiene), [italian](keyword_italian), [who](keyword_who), [environment](keyword_environment), [housing](keyword_housing)
 
 
 
 ## Keywords at large
 
-* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
+* [italy](keyword_italy), [public health](keyword_public_health), [covid-19](keyword_covid-19), [health](keyword_health), [mental health](keyword_mental_health), [capolongo s](keyword_capolongo_s), [covid 19 pandemic](keyword_covid_19_pandemic), [hygiene](keyword_hygiene), [wellbeing](keyword_wellbeing), [italian](keyword_italian)
 
 ## Abstract
 
@@ -52,4 +52,17 @@ healthier and Salutogenic spaces.
 ## Concepts
 
  ![](imgs/article_dalessandro_covid-19_2020.jpg)
+
+### Closest articles 
+
+* [Prophylactic Architecture: Formulating the Concept of Pandemic-Resilient Homes](article_elrayies_prophylactic_2022)
+* [How is COVID-19 Experience Transforming Sustainability Requirements of Residential Buildings? A Review](article_tokazhanov_how_2020)
+* [COVID-19 and Green Housing: A Review of Relevant Literature](article_kaklauskas_covid-19_2021)
+* [Towards Resilient Residential Buildings and Neighborhoods in Light of COVID-19 Pandemic—The Scenario of Podgorica, Montenegro](article_bojovic_towards_2022)
+* [realdania_refleksioner_2022_EN](article_realdania_refleksioner_2022_EN)
+* [How our homes impact our health: using a COVID-19 informed approach to examine urban apartment housing](article_peters_how_2020)
+* [How the Coronavirus Will Reshape Architecture](article_chayka_how_2020)
+* [RESIDENTIAL ARCHITECTURE IN A POST-PANDEMIC WORLD: IMPLICATIONS OF COVID-19 FOR NEW CONSTRUCTION AND FOR ADAPTING HERITAGE BUILDINGS](article_spennemann_residential_2021)
+* [Adaptive Design of the Built Environment to Mitigate the Transmission Risk of COVID-19](article_ara_dilshad_shangi_adaptive_2020)
+* [Questioning the use of the balcony in apartments during the COVID-19 pandemic process](article_aydin_questioning_2020)
 

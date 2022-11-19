@@ -1,7 +1,8 @@
 # Keyword: __action__
 ## Clusters
 
-* Cluster 9: [climate-change](cluster_9)
+* Cluster 12: [climate-change](cluster_12)
+* Cluster 14: [resilience-system](cluster_14)
 
 ## Concepts
 
@@ -22,9 +23,7 @@ distancing interventions ([silva_covid-abs_2020](article_silva_covid-abs_2020))
 * Navigating Climate Change: Rethinking the Role of
 Buildings ([cole_navigating_2020](article_cole_navigating_2020))
 * eurofund_sustainable_2016 ([eurofund_sustainable_2016](article_eurofund_sustainable_2016))
-* How to Make Green Building Certification \&
-Rating Systems More Pandemic-Sustainable? ([ujikawa_how_2022](article_ujikawa_how_2022))
-* Exploring the Potential of Artificial Intelligence
-and Machine Learning to Combat COVID-19 and
-Existing Opportunities for LMIC: A Scoping
-Review ([naseem_exploring_2020](article_naseem_exploring_2020))
+* COVID-19: IMPACT OF THE PANDEMIC ON THE
+SUSTAINABLE DEVELOPMENT GOALS ([samout_covid-19_2020](article_samout_covid-19_2020))
+* Exploring the Non-Medical impacts of Covid-19 using
+Natural Language Processing ([agade_exploring_2020](article_agade_exploring_2020))

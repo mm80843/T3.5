@@ -1,8 +1,7 @@
 # Keyword: __design__
 ## Clusters
 
-* Cluster 10: [building-health](cluster_10)
-* Cluster 13: [space-urban](cluster_13)
+* Cluster 9: [health-building](cluster_9)
 
 ## Concepts
 

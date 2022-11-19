@@ -1,18 +1,18 @@
 # Article: __DeepSOCIAL: Social Distancing Monitoring and Infection Risk Assessment in COVID-19 Pandemic__ (rezaei_deepsocial_2020)
 
 * [10.3390/app10217514](https://doi.org/10.3390/app10217514)
-* Cluster: [space-urban](cluster_13)
+* Cluster: [health-building](cluster_9)
 
 
 ## Keywords
 
-* [object detection](keyword_object_detection), [dataset](keyword_dataset), [social distancing](keyword_social_distancing), [computer vision](keyword_computer_vision), [korea](keyword_korea), [seoul](keyword_seoul), [infection](keyword_infection), [bound box](keyword_bound_box), [covid-19](keyword_covid-19), [yolo](keyword_yolo), couple, [encyclopedia](keyword_encyclopedia), [united kingdom](keyword_united_kingdom), [wikipedia](keyword_wikipedia), yolov4
+* [object detection](keyword_object_detection), [dataset](keyword_dataset), [social distancing](keyword_social_distancing), [computer vision](keyword_computer_vision), [seoul](keyword_seoul), [korea](keyword_korea), [bound box](keyword_bound_box), [infection](keyword_infection), [covid-19](keyword_covid-19), couple, [united kingdom](keyword_united_kingdom), [artificial intelligence](keyword_artificial_intelligence), yolov4, [yolo](keyword_yolo), detector
 
 
 
 ## Keywords at large
 
-* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
+* [object detection](keyword_object_detection), [dataset](keyword_dataset), [social distancing](keyword_social_distancing), [computer vision](keyword_computer_vision), [seoul](keyword_seoul), [korea](keyword_korea), [infection](keyword_infection), [bound box](keyword_bound_box), [covid-19](keyword_covid-19), [yolo](keyword_yolo)
 
 ## Abstract
 
@@ -57,4 +57,17 @@ the centre of attention.
 ## Concepts
 
  ![](imgs/article_rezaei_deepsocial_2020.jpg)
+
+### Closest articles 
+
+* [COVID-ABS: An agent-based model of COVID-19 epidemic to simulate health and economic effects of social distancing interventions](article_silva_covid-abs_2020)
+* [Digital Twin of COVID-19 Mass Vaccination Centers](article_pilati_digital_2021)
+* [Management of the COVID-19 pandemic: challenges, practices, and organizational support](article_hossny_management_2022)
+* [EXPOSED: An occupant exposure model for confined spaces to retrofit crowd models during a pandemic](article_ronchi_exposed_2020)
+* [COVID19-Routes: A Safe Pedestrian Navigation Service](article_cantarero_covid19-routes_2021)
+* [COVID-19 Prevention and Control Measures in Workplace Settings: A Rapid Review and Meta-Analysis](article_ingram_covid-19_2021)
+* [Building occupancy estimation with people flow modeling in AnyLogic](article_li_building_2016)
+* [Physical interventions to interrupt or reduce the spread of respiratory viruses: systematic review](article_jefferson_physical_2008)
+* [Exploring the Non-Medical impacts of Covid-19 using Natural Language Processing](article_agade_exploring_2020)
+* [Supporting Technologies for COVID-19 Prevention: Systemized Review](article_zhao_supporting_2022)
 

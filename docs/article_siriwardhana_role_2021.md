@@ -1,18 +1,18 @@
 # Article: __The role of 5G for digital healthcare against COVID-19 pandemic: Opportunities and challenges__ (siriwardhana_role_2021)
 
 * [10.1016/j.icte.2020.10.002](https://doi.org/10.1016/j.icte.2020.10.002)
-* Cluster: [smart-datum](cluster_8)
+* Cluster: [blockchain-ai](cluster_11)
 
 
 ## Keywords
 
-* [5g](keyword_5g), [covid-19](keyword_covid-19), [healthcare](keyword_healthcare), [5 g network](keyword_5_g_network), [privacy](keyword_privacy), [contact trace](keyword_contact_trace), [st petersburg](keyword_st_petersburg), [russia](keyword_russia), [network](keyword_network), [pandemic](keyword_pandemic), e health, [supply chain](keyword_supply_chain), [telemedicine](keyword_telemedicine), gur, [blockchain](keyword_blockchain)
+* [5 g](keyword_5_g), [5g](keyword_5g), [covid-19](keyword_covid-19), [healthcare](keyword_healthcare), [5 g network](keyword_5_g_network), [privacy](keyword_privacy), [contact trace](keyword_contact_trace), [russia](keyword_russia), [st petersburg](keyword_st_petersburg), [network](keyword_network), e health, [pandemic](keyword_pandemic), [supply chain](keyword_supply_chain), [blockchain](keyword_blockchain), [covid 19 pandemic](keyword_covid_19_pandemic)
 
 
 
 ## Keywords at large
 
-* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
+* [5 g](keyword_5_g), [5g](keyword_5g), [covid-19](keyword_covid-19), [healthcare](keyword_healthcare), [5 g network](keyword_5_g_network), [privacy](keyword_privacy), [contact trace](keyword_contact_trace), [russia](keyword_russia), [st petersburg](keyword_st_petersburg), [network](keyword_network)
 
 ## Abstract
 
@@ -34,6 +34,19 @@ challenges related to COVID-19.
 ## Concepts
 
  ![](imgs/article_siriwardhana_role_2021.jpg)
+
+### Closest articles 
+
+* [Mobile Technology Solution for COVID-19: Surveillance and Prevention](article_raza_mobile_2021)
+* [Leveraging Digital Transformation Technologies to Tackle COVID-19: Proposing a Privacy-First Holistic Framework](article_arpaci_leveraging_2021)
+* [Internet of things (IoT) applications to fight against COVID-19 pandemic](article_singh_internet_2020)
+* [Emerging Technologies to Combat the COVID-19 Pandemic](article_vaishya_emerging_2020)
+* [A Comprehensive Review of the COVID-19 Pandemic and the Role of IoT, Drones, AI, Blockchain, and 5G in Managing its Impact](article_chamola_comprehensive_2020)
+* [Health Information Exchange with Blockchain amid Covid-19-like Pandemics](article_christodoulou_health_2020)
+* [Significant applications of virtual reality for COVID-19 pandemic](article_singh_significant_2020)
+* [Telehealth overpromises during the Covid-19 pandemic](article_ostherr_telehealth_2020)
+* [How Can Blockchain Help People in the Event of Pandemics Such as the COVID-19?](article_chang_how_2020)
+* [COVID-19: A new digital dawn?](article_robbins_covid-19_2020)
 
 ### References 
 

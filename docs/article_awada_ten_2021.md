@@ -1,23 +1,38 @@
 # Article: __Ten questions concerning occupant health in buildings during normal operations and extreme events including the COVID-19 pandemic__ (awada_ten_2021)
 
 * [10.1016/j.buildenv.2020.107480](https://doi.org/10.1016/j.buildenv.2020.107480)
-* Cluster: [building-health](cluster_10)
+* Cluster: [health-building](cluster_9)
 
 
 ## Keywords
 
-* [build](keyword_build), [environ](keyword_environ), [health](keyword_health), [ventilation](keyword_ventilation), [building](keyword_building), [occupant health](keyword_occupant_health), [covid 19 pandemic](keyword_covid_19_pandemic), [physical](keyword_physical), [mental](keyword_mental), [ashrae](keyword_ashrae), asthma, indoor air, [sensor](keyword_sensor), [occupant](keyword_occupant), [virus](keyword_virus)
+* [build](keyword_build), [health](keyword_health), [ventilation](keyword_ventilation), [occupant health](keyword_occupant_health), [covid 19 pandemic](keyword_covid_19_pandemic), [physical](keyword_physical), [mental](keyword_mental), [building](keyword_building), [ashrae](keyword_ashrae), [asthma](keyword_asthma), indoor air, occupant, [sensor](keyword_sensor), [covid-19](keyword_covid-19), mold
 
 
 
 ## Keywords at large
 
-* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
+* [build](keyword_build), [health](keyword_health), [ventilation](keyword_ventilation), [occupant health](keyword_occupant_health), [covid 19 pandemic](keyword_covid_19_pandemic), [physical](keyword_physical), [mental](keyword_mental), [building](keyword_building), [ashrae](keyword_ashrae), [asthma](keyword_asthma)
 
 
 ## Concepts
 
  ![](imgs/article_awada_ten_2021.jpg)
+
+### Closest articles 
+
+* [Occupant health in buildings: Impact of the COVID-19 pandemic on the opinions of building professionals and implications on research](article_awada_occupant_2022)
+* [Smart buildings: how a virus might lead to healthier
+buildings - Arup](article_lam_smart_2021)
+* [Health, Wellbeing \& Productivity in Offices](article_world_green_building_council_health_2014)
+* [The effect of a redesigned floor plan, occupant density and the quality of indoor climate on the cost of space, productivity and sick leave in an office building–A case study](article_saari_effect_2006)
+* [A comprehensive review on indoor air quality monitoring systems for enhanced public health](article_saini_comprehensive_2020)
+* [Designing Post COVID-19 Buildings: Approaches for Achieving Healthy Buildings](article_navaratnam_designing_2022)
+* [](article_yakubu_aminu_dodo_green_2020)
+* [The contribution of green buildings in the fight against
+COVID-19](article_world_green_building_council_contribution_2020)
+* [Characterization and performance evaluation of a full-scale activated carbon-based dynamic botanical air filtration system for improving indoor air quality](article_wang_characterization_2011)
+* [The Effect of Opening Windows on Air Change Rates in Two Homes](article_howard-reed_effect_2002)
 
 ### References 
 

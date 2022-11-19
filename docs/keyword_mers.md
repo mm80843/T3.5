@@ -1,12 +1,9 @@
 # Keyword: __mers__
 ## Clusters
 
-* Cluster 11: [uv-air](cluster_11)
+* Cluster 2: [uv-room](cluster_2)
 
 ## Concepts
 
  ![](imgs/keyword_mers.jpg)
 
-
-## Articles
-*  ([](article_))

@@ -1,18 +1,18 @@
 # Article: __COVID-19 and Green Housing: A Review of Relevant Literature__ (kaklauskas_covid-19_2021)
 
 * [10.3390/en14082072](https://doi.org/10.3390/en14082072)
-* Cluster: [space-urban](cluster_13)
+* Cluster: [health-building](cluster_9)
 
 
 ## Keywords
 
-* [covid-19](keyword_covid-19), [pandemic](keyword_pandemic), [covid 19 pandemic](keyword_covid_19_pandemic), [green housing](keyword_green_housing), [housing](keyword_housing), [construction](keyword_construction), [city](keyword_city), [green building](keyword_green_building), [environ](keyword_environ), [housing policy](keyword_housing_policy), [build](keyword_build), [health](keyword_health), [country](keyword_country), [home](keyword_home), [wikipedia](keyword_wikipedia)
+* [covid-19](keyword_covid-19), [covid 19 pandemic](keyword_covid_19_pandemic), [pandemic](keyword_pandemic), [green housing](keyword_green_housing), [housing](keyword_housing), [construction](keyword_construction), [city](keyword_city), [green building](keyword_green_building), [build](keyword_build), [health](keyword_health), country, [housing policy](keyword_housing_policy), [home](keyword_home), [comfort](keyword_comfort), altmetric
 
 
 
 ## Keywords at large
 
-* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
+* [covid-19](keyword_covid-19), [pandemic](keyword_pandemic), [covid 19 pandemic](keyword_covid_19_pandemic), [green housing](keyword_green_housing), [housing](keyword_housing), [construction](keyword_construction), [city](keyword_city), [green building](keyword_green_building), [housing policy](keyword_housing_policy), [build](keyword_build)
 
 ## Abstract
 
@@ -59,6 +59,20 @@ macro-level environments as a singular entity.
 
  ![](imgs/article_kaklauskas_covid-19_2021.jpg)
 
+### Closest articles 
+
+* [Prophylactic Architecture: Formulating the Concept of Pandemic-Resilient Homes](article_elrayies_prophylactic_2022)
+* [How is COVID-19 Experience Transforming Sustainability Requirements of Residential Buildings? A Review](article_tokazhanov_how_2020)
+* [Towards Resilient Residential Buildings and Neighborhoods in Light of COVID-19 Pandemic—The Scenario of Podgorica, Montenegro](article_bojovic_towards_2022)
+* [](article_dalessandro_covid-19_2020)
+* [How our homes impact our health: using a COVID-19 informed approach to examine urban apartment housing](article_peters_how_2020)
+* [realdania_refleksioner_2022_EN](article_realdania_refleksioner_2022_EN)
+* [A Mixed Approach on Resilience of Spanish Dwellings and Households during COVID-19 Lockdown](article_cuerdo-vilches_mixed_2020)
+* [How the Coronavirus Will Reshape Architecture](article_chayka_how_2020)
+* [Touchless Retail: What the Rest of the World could
+learn from China’s new ways to shop](article_capgemini_touchless_2020)
+* [Questioning the use of the balcony in apartments during the COVID-19 pandemic process](article_aydin_questioning_2020)
+
 ### References 
 
 * [COVID-19 Could Leverage a Sustainable Built
@@ -66,6 +80,8 @@ Environment](article_pinheiro_covid-19_2020)
 * [COVID-19 and Living space challenge. Well-being and
 Public Health recommendations for a healthy, safe, and
 sustainable housing.](article_dalessandro_covid-19_2020)
+* [COVID-19 Lockdown: Housing Built Environment’s
+Effects on Mental Health](article_amerio_covid-19_2020)
 * [How is COVID-19 Experience Transforming
 Sustainability Requirements of Residential
 Buildings? A Review](article_tokazhanov_how_2020)
@@ -75,6 +91,8 @@ COVID-19 pandemic](article_awada_ten_2021)
 * [Readiness Assessment of Green Building
 Certification Systems for Residential Buildings
 during Pandemics](article_tleuken_readiness_2021)
+* [Covid-19 and the politics of sustainable energy
+transitions](article_kuzemko_covid-19_2020)
 * [The Impact of Pandemic Crisis on the Survival of
 Construction Industry: A Case of COVID-19](article_gamil_impact_2020)
 * [The Effects of Pandemic on Construction Industry

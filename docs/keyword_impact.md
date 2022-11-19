@@ -1,8 +1,9 @@
 # Keyword: __impact__
 ## Clusters
 
-* Cluster 3: [construction-project](cluster_3)
-* Cluster 4: [resilience-health](cluster_4)
+* Cluster 6: [construction-project](cluster_6)
+* Cluster 10: [city-smart](cluster_10)
+* Cluster 14: [resilience-system](cluster_14)
 
 ## Concepts
 
@@ -19,14 +20,13 @@ COVID-19 Era ([pedersen_assessment_2022](article_pedersen_assessment_2022))
 * world_green_building_council_health_2014 ([world_green_building_council_health_2014](article_world_green_building_council_health_2014))
 * The COVID-19 pandemic: Impacts on cities and major
 lessons for urban planning, design, and management ([sharifi_covid-19_2020](article_sharifi_covid-19_2020))
-* rtpi_urban_2021 ([rtpi_urban_2021](article_rtpi_urban_2021))
 * How COVID-19 Could Accelerate the Adoption of
 New Retail Technologies and Enhance the
 (E-)Servicescape ([willems_how_2021](article_willems_how_2021))
-* COVID-19 and Green Housing: A Review of
-Relevant Literature ([kaklauskas_covid-19_2021](article_kaklauskas_covid-19_2021))
-* Biophilic design in architecture and its contributions to
-health, well-being, and sustainability: A critical
-review ([zhong_biophilic_2022](article_zhong_biophilic_2022))
-* COVID-19 Could Leverage a Sustainable Built
-Environment ([pinheiro_covid-19_2020](article_pinheiro_covid-19_2020))
+* rtpi_urban_2021 ([rtpi_urban_2021](article_rtpi_urban_2021))
+* COVID-19 and the UN Sustainable Development
+Goals: Threat to Solidarity or an Opportunity? ([leal_filho_covid-19_2020](article_leal_filho_covid-19_2020))
+* Exploring the Non-Medical impacts of Covid-19 using
+Natural Language Processing ([agade_exploring_2020](article_agade_exploring_2020))
+* The Impact of Pandemic Crisis on the Survival of
+Construction Industry: A Case of COVID-19 ([gamil_impact_2020](article_gamil_impact_2020))

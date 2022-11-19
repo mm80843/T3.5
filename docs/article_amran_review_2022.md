@@ -1,18 +1,18 @@
 # Article: __A Review on Building Design as a Biomedical System for Preventing COVID-19 Pandemic__ (amran_review_2022)
 
 * [10.3390/buildings12050582](https://doi.org/10.3390/buildings12050582)
-* Cluster: [air-sars](cluster_2)
+* Cluster: [air-sars](cluster_0)
 
 
 ## Keywords
 
-* [infection](keyword_infection), [ventilation](keyword_ventilation), [covid-19](keyword_covid-19), [hospital](keyword_hospital), [virus](keyword_virus), [environ](keyword_environ), [build](keyword_build), [mater](keyword_mater), [architect](keyword_architect), [transmission](keyword_transmission), [sar cov 2](keyword_sar_cov_2), [infectious disease](keyword_infectious_disease), [new south wale](keyword_new_south_wale), [health](keyword_health), [aerosol](keyword_aerosol)
+* [infection](keyword_infection), [covid-19](keyword_covid-19), [ventilation](keyword_ventilation), [hospital](keyword_hospital), [virus](keyword_virus), [build](keyword_build), [transmission](keyword_transmission), [architect](keyword_architect), [infectious disease](keyword_infectious_disease), [new south wale](keyword_new_south_wale), [health](keyword_health), [aerosol](keyword_aerosol), [new york city](keyword_new_york_city), [manhattan](keyword_manhattan), [epidemic](keyword_epidemic)
 
 
 
 ## Keywords at large
 
-* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
+* [infection](keyword_infection), [covid-19](keyword_covid-19), [ventilation](keyword_ventilation), [hospital](keyword_hospital), [virus](keyword_virus), [build](keyword_build), [mater](keyword_mater), [transmission](keyword_transmission), [architect](keyword_architect), [infectious disease](keyword_infectious_disease)
 
 ## Abstract
 
@@ -47,6 +47,22 @@ novel coronavirus or coronavirus variants or delta.
 ## Concepts
 
  ![](imgs/article_amran_review_2022.jpg)
+
+### Closest articles 
+
+* [Architectural design strategies for infection prevention
+and control (IPC) in health-care facilities: towards
+curbing the spread of Covid-19 \textbar SpringerLink](article_udomiaye_architectural_2020)
+* [Indoor Air Quality: Rethinking rules of building design strategies in post-pandemic architecture](article_megahed_indoor_2021)
+* [A review of facilities management interventions to mitigate respiratory infections in existing buildings](article_zhang_review_2022)
+* [Environmental factors involved in SARS-CoV-2 transmission: effect and role of indoor environmental quality in the strategy for COVID-19 infection control](article_azuma_environmental_2020)
+* [2019 Novel Coronavirus (COVID-19) Pandemic: Built Environment Considerations To Reduce Transmission](article_dietz_2019_2020)
+* [Heating, ventilation and air-conditioning systems in the
+context of COVID-19](article_ecdc_heating_2020)
+* [Designing Post COVID-19 Buildings: Approaches for Achieving Healthy Buildings](article_navaratnam_designing_2022)
+* [Ventilation use in nonmedical settings during COVID-19: Cleaning protocol, maintenance, and recommendations](article_nembhard_ventilation_2020)
+* [How can airborne transmission of COVID-19 indoors be minimised?](article_morawska_how_2020)
+* [Review and comparison of HVAC operation guidelines in different countries during the COVID-19 pandemic](article_guo_review_2021)
 
 ### References 
 
@@ -86,6 +102,8 @@ Achieving Healthy Buildings](article_navaratnam_designing_2022)
 Relevant Literature](article_kaklauskas_covid-19_2021)
 * [The effect of human mobility and control measures on the
 COVID-19 epidemic in China](article_kraemer_effect_2020)
+* [An investigation of transmission control measures during
+the first 50 days of the COVID-19 epidemic in China](article_tian_investigation_2020)
 * [Coronavirus questions that will not go away: interrogating
 urban and socio-spatial implications of COVID-19
 measures](article_salama_coronavirus_2020)

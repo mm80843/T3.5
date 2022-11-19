@@ -1,7 +1,7 @@
 # Keyword: __blockchain__
 ## Clusters
 
-* Cluster 8: [smart-datum](cluster_8)
+* Cluster 11: [blockchain-ai](cluster_11)
 
 ## Concepts
 

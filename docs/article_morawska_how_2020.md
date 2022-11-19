@@ -1,29 +1,46 @@
 # Article: __How can airborne transmission of COVID-19 indoors be minimised?__ (morawska_how_2020)
 
 * [10.1016/j.envint.2020.105832](https://doi.org/10.1016/j.envint.2020.105832)
-* Cluster: [air-sars](cluster_2)
+* Cluster: [air-sars](cluster_0)
 
 
 ## Keywords
 
-* [ventilation](keyword_ventilation), [environ](keyword_environ), [virus](keyword_virus), [sar cov 2](keyword_sar_cov_2), [infection](keyword_infection), [ultraviolet](keyword_ultraviolet), [airborne transmission](keyword_airborne_transmission), [hospital](keyword_hospital), [influenza](keyword_influenza), [build](keyword_build), [infection control](keyword_infection_control), [aerosol](keyword_aerosol), [coronavirus](keyword_coronavirus), [germicidal](keyword_germicidal), [tuberculosis](keyword_tuberculosis)
+* [ventilation](keyword_ventilation), [virus](keyword_virus), [infection](keyword_infection), [airborne transmission](keyword_airborne_transmission), [covid-19](keyword_covid-19), [ultraviolet](keyword_ultraviolet), [hospital](keyword_hospital), [infection control](keyword_infection_control), [influenza](keyword_influenza), [germicidal](keyword_germicidal), [build](keyword_build), [aerosol](keyword_aerosol), [coronavirus](keyword_coronavirus), [sar cov 2](keyword_sar_cov_2), [transmission](keyword_transmission)
 
 
 
 ## Keywords at large
 
-* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
+* [ventilation](keyword_ventilation), [virus](keyword_virus), [covid-19](keyword_covid-19), [infection](keyword_infection), [ultraviolet](keyword_ultraviolet), [airborne transmission](keyword_airborne_transmission), [hospital](keyword_hospital), [influenza](keyword_influenza), [infection control](keyword_infection_control), [coronavirus](keyword_coronavirus)
 
 
 ## Concepts
 
  ![](imgs/article_morawska_how_2020.jpg)
 
+### Closest articles 
+
+* [morawska_how_2020-1](article_morawska_how_2020-1)
+* [The ventilation of buildings and other mitigating measures for COVID-19: a focus on wintertime](article_burridge_ventilation_2021)
+* [Heating, ventilation and air-conditioning systems in the
+context of COVID-19](article_ecdc_heating_2020)
+* [Methods for air cleaning and protection of building occupants from airborne pathogens](article_bolashikov_methods_2009)
+* [Environmental factors involved in SARS-CoV-2 transmission: effect and role of indoor environmental quality in the strategy for COVID-19 infection control](article_azuma_environmental_2020)
+* [Ventilation use in nonmedical settings during COVID-19: Cleaning protocol, maintenance, and recommendations](article_nembhard_ventilation_2020)
+* [ASHRAE Position Document on Infectious
+Aerosols](article_ashrae_ashrae_2022)
+* [2019 Novel Coronavirus (COVID-19) Pandemic: Built Environment Considerations To Reduce Transmission](article_dietz_2019_2020)
+* [Review and comparison of HVAC operation guidelines in different countries during the COVID-19 pandemic](article_guo_review_2021)
+* [A review of facilities management interventions to mitigate respiratory infections in existing buildings](article_zhang_review_2022)
+
 ### References 
 
 * [Efficacy of an Automated Multiple Emitter
 Whole-Room Ultraviolet-C Disinfection System
 Against Coronaviruses MHV and MERS-CoV](article_bedell_efficacy_2016)
+* [Toilets dominate environmental detection of SARS-CoV-2
+virus in a hospital](article_ding_toilets_2020)
 * [Upper-Room Ultraviolet Light and Negative Air
 Ionization to Prevent Tuberculosis Transmission](article_escombe_upper-room_2009)
 * [Aerosol and Surface Distribution of Severe Acute

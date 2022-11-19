@@ -5,38 +5,37 @@
 ## Data
 
 * Articles:
-  * We have 215 articles in database.
+  * We have 264 articles in database.
   * We have 51 other URLs in database.
-  * And 59 other articles yet to possibly   capture.
 * Topics
   * We have identified 16 topics of interest.
-  * We have identified 338681 relationships between terms.
+  * We have identified 499708 relationships between terms.
 * Terms
   * and 320 main terms from the clusters.
-  * and 1140 other relevant words or expressions.
+  * and 1258 other relevant words or expressions.
 
 # Clusters
 
-* [wastewater-sars](cluster_12)
-* [resilience-health](cluster_4)
-* [air-sars](cluster_2)
-* [space-urban](cluster_13)
-* [building-health](cluster_10)
-* [health-ai](cluster_1)
-* [smart-datum](cluster_8)
-* [water-wastewater](cluster_15)
-* [anxiety-social](cluster_11)
-* [simulation-model](cluster_6)
-* [construction-project](cluster_3)
-* [energy-building](cluster_0)
-* [liver-province](cluster_7)
-* [ontology-datum](cluster_5)
-* [climate-change](cluster_9)
-* [uvgi-uv](cluster_14)
+* [city-smart](cluster_10)
+* [health-building](cluster_9)
+* [wastewater-sars](cluster_1)
+* [smart-city](cluster_4)
+* [blockchain-ai](cluster_11)
+* [air-sars](cluster_0)
+* [construction-project](cluster_6)
+* [uv-room](cluster_2)
+* [tourism-tourist](cluster_7)
+* [city-spatial](cluster_3)
+* [uvc-hcov](cluster_5)
+* [health-housing](cluster_8)
+* [robot-drone](cluster_13)
+* [climate-change](cluster_12)
+* [resilience-system](cluster_14)
+* [green-urban](cluster_15)
 
 
 # Terms
-* [access](keyword_access), [action](keyword_action), [admit](keyword_admit), [aerosol](keyword_aerosol), [agent](keyword_agent), [ai](keyword_ai), [air](keyword_air), [airborne](keyword_airborne), [algorithm](keyword_algorithm), [alle](keyword_alle), [analytic](keyword_analytic), [andre](keyword_andre), [animal](keyword_animal), [anti](keyword_anti), [anxiety](keyword_anxiety), [application](keyword_application), [artificial](keyword_artificial), [ashrae](keyword_ashrae), [assay](keyword_assay), [bacteria](keyword_bacteria), [bank](keyword_bank), [basal](keyword_basal), [base](keyword_base), [biomarker](keyword_biomarker), [biomedical](keyword_biomedical), [biorxiv](keyword_biorxiv), [blockchain](keyword_blockchain), [build](keyword_build), [building](keyword_building), [business](keyword_business), [care](keyword_care), [case](keyword_case), [change](keyword_change), [china](keyword_china), [chlorine](keyword_chlorine), [city](keyword_city), [class](keyword_class), [climate](keyword_climate), [company](keyword_company), [concentration](keyword_concentration), [construction](keyword_construction), [consumption](keyword_consumption), [contact](keyword_contact), [contractor](keyword_contractor), [control](keyword_control), [coronavirus](keyword_coronavirus), [could](keyword_could), [count](keyword_count), [country](keyword_country), [crisis](keyword_crisis), [data](keyword_data), [datum](keyword_datum), [death](keyword_death), [depression](keyword_depression), [design](keyword_design), [detection](keyword_detection), [digital](keyword_digital), [disease](keyword_disease), [disinfection](keyword_disinfection), [domain](keyword_domain), [droplet](keyword_droplet), [drug](keyword_drug), [earth](keyword_earth), [economic](keyword_economic), [edu](keyword_edu), [effect](keyword_effect), [employee](keyword_employee), [energy](keyword_energy), [engineering](keyword_engineering), [enteric](keyword_enteric), [environment](keyword_environment), [epidemic](keyword_epidemic), [fake](keyword_fake), [filter](keyword_filter), [gene](keyword_gene), [germicidal](keyword_germicidal), [green](keyword_green), [health](keyword_health), [healthcare](keyword_healthcare), [home](keyword_home), [hospital](keyword_hospital), [hour](keyword_hour), [housing](keyword_housing), [hubei](keyword_hubei), [human](keyword_human), [husman](keyword_husman), [hvac](keyword_hvac), [ieq](keyword_ieq), [impact](keyword_impact), [indoor](keyword_indoor), [industry](keyword_industry), [infect](keyword_infect), [infection](keyword_infection), [infectious](keyword_infectious), [inflammatory](keyword_inflammatory), [influenza](keyword_influenza), [information](keyword_information), [infrastructure](keyword_infrastructure), [intelligence](keyword_intelligence), [interoperability](keyword_interoperability), [iot](keyword_iot), [irradiation](keyword_irradiation), [knowledge](keyword_knowledge), [lamp](keyword_lamp), [liver](keyword_liver), [management](keyword_management), [medical](keyword_medical), [medium](keyword_medium), [memarzadeh](keyword_memarzadeh), [mental](keyword_mental), [microorganism](keyword_microorganism), [misinformation](keyword_misinformation), [ml](keyword_ml), [mobile](keyword_mobile), [mobility](keyword_mobility), [model](keyword_model), [municipal](keyword_municipal), [need](keyword_need), [neighborhood](keyword_neighborhood), [network](keyword_network), [news](keyword_news), [nucleus](keyword_nucleus), [number](keyword_number), [nursery](keyword_nursery), [objective](keyword_objective), [occupant](keyword_occupant), [oecd](keyword_oecd), [office](keyword_office), [olmste](keyword_olmste), [ontological](keyword_ontological), [ontology](keyword_ontology), [optimization](keyword_optimization), [overload](keyword_overload), [pandemic](keyword_pandemic), [parameter](keyword_parameter), [patient](keyword_patient), [pcr](keyword_pcr), [people](keyword_people), [phase](keyword_phase), [planning](keyword_planning), [policy](keyword_policy), [pollution](keyword_pollution), [population](keyword_population), [prevent](keyword_prevent), [primer](keyword_primer), [privacy](keyword_privacy), [probability](keyword_probability), [project](keyword_project), [province](keyword_province), [ptsd](keyword_ptsd), [public](keyword_public), [qpcr](keyword_qpcr), [quanta](keyword_quanta), [rate](keyword_rate), [report](keyword_report), [representation](keyword_representation), [research](keyword_research), [resilience](keyword_resilience), [respiratory](keyword_respiratory), [respondent](keyword_respondent), [risk](keyword_risk), [rna](keyword_rna), [robot](keyword_robot), [roda](keyword_roda), [room](keyword_room), [rt](keyword_rt), [safety](keyword_safety), [sample](keyword_sample), [sars](keyword_sars), [scenario](keyword_scenario), [semantic](keyword_semantic), [sensor](keyword_sensor), [service](keyword_service), [sewage](keyword_sewage), [share](keyword_share), [simulation](keyword_simulation), [site](keyword_site), [smart](keyword_smart), [sme](keyword_sme), [social](keyword_social), [sociale](keyword_sociale), [solution](keyword_solution), [space](keyword_space), [spatial](keyword_spatial), [spillover](keyword_spillover), [spread](keyword_spread), [stress](keyword_stress), [study](keyword_study), [support](keyword_support), [surface](keyword_surface), [surveillance](keyword_surveillance), [system](keyword_system), [taiwan](keyword_taiwan), [technology](keyword_technology), [time](keyword_time), [tool](keyword_tool), [transmission](keyword_transmission), [transport](keyword_transport), [transportation](keyword_transportation), [travel](keyword_travel), [treatment](keyword_treatment), [trip](keyword_trip), [ultraviolet](keyword_ultraviolet), [upper](keyword_upper), [urban](keyword_urban), [uv](keyword_uv), [uvgi](keyword_uvgi), [vaccination](keyword_vaccination), [ventilation](keyword_ventilation), [viral](keyword_viral), [virtual](keyword_virtual), [virus](keyword_virus), [waste](keyword_waste), [wastewater](keyword_wastewater), [water](keyword_water), [work](keyword_work), [worker](keyword_worker), [workforce](keyword_workforce), [world](keyword_world), [wuhan](keyword_wuhan), [wwtp](keyword_wwtp)
+* [access](keyword_access), [action](keyword_action), [aerosol](keyword_aerosol), [age](keyword_age), [ai](keyword_ai), [air](keyword_air), [airborne](keyword_airborne), [aires](keyword_aires), [alessandro](keyword_alessandro), [allam](keyword_allam), [analysis](keyword_analysis), [animal](keyword_animal), [anxiety](keyword_anxiety), [application](keyword_application), [appolloni](keyword_appolloni), [artificial](keyword_artificial), [assay](keyword_assay), [asset](keyword_asset), [base](keyword_base), [behavior](keyword_behavior), [beta](keyword_beta), [big](keyword_big), [blockchain](keyword_blockchain), [briefing](keyword_briefing), [buenos](keyword_buenos), [building](keyword_building), [capacity](keyword_capacity), [capolongo](keyword_capolongo), [case](keyword_case), [cell](keyword_cell), [challenge](keyword_challenge), [chamber](keyword_chamber), [change](keyword_change), [cite](keyword_cite), [cities](keyword_cities), [citizen](keyword_citizen), [city](keyword_city), [climate](keyword_climate), [cm](keyword_cm), [community](keyword_community), [company](keyword_company), [comput](keyword_comput), [concentration](keyword_concentration), [concept](keyword_concept), [concern](keyword_concern), [confinement](keyword_confinement), [congo](keyword_congo), [construction](keyword_construction), [contractor](keyword_contractor), [control](keyword_control), [coronavirus](keyword_coronavirus), [coronaviruse](keyword_coronaviruse), [crisis](keyword_crisis), [danish](keyword_danish), [data](keyword_data), [datum](keyword_datum), [density](keyword_density), [design](keyword_design), [destination](keyword_destination), [detection](keyword_detection), [dettori](keyword_dettori), [device](keyword_device), [diffusion](keyword_diffusion), [digital](keyword_digital), [disease](keyword_disease), [disinfection](keyword_disinfection), [distance](keyword_distance), [district](keyword_district), [dose](keyword_dose), [drone](keyword_drone), [drones](keyword_drones), [droplet](keyword_droplet), [earth](keyword_earth), [effect](keyword_effect), [employee](keyword_employee), [energy](keyword_energy), [engineering](keyword_engineering), [environment](keyword_environment), [epidemic](keyword_epidemic), [eu](keyword_eu), [european](keyword_european), [factor](keyword_factor), [far](keyword_far), [fight](keyword_fight), [filter](keyword_filter), [gene](keyword_gene), [germicidal](keyword_germicidal), [globalisation](keyword_globalisation), [gola](keyword_gola), [governance](keyword_governance), [green](keyword_green), [hcov](keyword_hcov), [health](keyword_health), [healthcare](keyword_healthcare), [help](keyword_help), [home](keyword_home), [hospital](keyword_hospital), [housing](keyword_housing), [human](keyword_human), [ig](keyword_ig), [impact](keyword_impact), [inactivation](keyword_inactivation), [indicator](keyword_indicator), [indoor](keyword_indoor), [industry](keyword_industry), [infection](keyword_infection), [infectious](keyword_infectious), [inflammatory](keyword_inflammatory), [influenza](keyword_influenza), [intelligence](keyword_intelligence), [internet](keyword_internet), [iot](keyword_iot), [irradiation](keyword_irradiation), [lamp](keyword_lamp), [landscape](keyword_landscape), [light](keyword_light), [living](keyword_living), [management](keyword_management), [mar](keyword_mar), [marketing](keyword_marketing), [medical](keyword_medical), [mers](keyword_mers), [metric](keyword_metric), [mhv](keyword_mhv), [mj](keyword_mj), [ml](keyword_ml), [mobility](keyword_mobility), [model](keyword_model), [need](keyword_need), [neighborhood](keyword_neighborhood), [network](keyword_network), [new](keyword_new), [news](keyword_news), [nm](keyword_nm), [number](keyword_number), [oc](keyword_oc), [oecd](keyword_oecd), [ontology](keyword_ontology), [pack](keyword_pack), [pandemic](keyword_pandemic), [park](keyword_park), [participant](keyword_participant), [patient](keyword_patient), [pcr](keyword_pcr), [people](keyword_people), [perceive](keyword_perceive), [perception](keyword_perception), [plan](keyword_plan), [planning](keyword_planning), [pollution](keyword_pollution), [population](keyword_population), [ppp](keyword_ppp), [primer](keyword_primer), [privacy](keyword_privacy), [private](keyword_private), [programming](keyword_programming), [project](keyword_project), [psychological](keyword_psychological), [public](keyword_public), [qpcr](keyword_qpcr), [rebecchi](keyword_rebecchi), [research](keyword_research), [resilience](keyword_resilience), [respiratory](keyword_respiratory), [respondent](keyword_respondent), [response](keyword_response), [risk](keyword_risk), [rna](keyword_rna), [roadmap](keyword_roadmap), [robot](keyword_robot), [robots](keyword_robots), [room](keyword_room), [rt](keyword_rt), [safe](keyword_safe), [safety](keyword_safety), [sample](keyword_sample), [sars](keyword_sars), [sector](keyword_sector), [security](keyword_security), [sequence](keyword_sequence), [sewage](keyword_sewage), [shock](keyword_shock), [simulation](keyword_simulation), [site](keyword_site), [slovenia](keyword_slovenia), [smart](keyword_smart), [social](keyword_social), [space](keyword_space), [spatial](keyword_spatial), [spread](keyword_spread), [study](keyword_study), [surface](keyword_surface), [surveillance](keyword_surveillance), [survey](keyword_survey), [system](keyword_system), [tb](keyword_tb), [tech](keyword_tech), [technology](keyword_technology), [threat](keyword_threat), [time](keyword_time), [tour](keyword_tour), [tourism](keyword_tourism), [tourist](keyword_tourist), [transmission](keyword_transmission), [travel](keyword_travel), [traveler](keyword_traveler), [tuberculosis](keyword_tuberculosis), [ultraviolet](keyword_ultraviolet), [upper](keyword_upper), [urban](keyword_urban), [uv](keyword_uv), [uvc](keyword_uvc), [uvgi](keyword_uvgi), [vacation](keyword_vacation), [variable](keyword_variable), [ventilation](keyword_ventilation), [vienna](keyword_vienna), [viral](keyword_viral), [virus](keyword_virus), [visit](keyword_visit), [waste](keyword_waste), [wastewater](keyword_wastewater), [water](keyword_water), [work](keyword_work), [worker](keyword_worker), [workshop](keyword_workshop), [wwtp](keyword_wwtp)
 
 # Articles
 
@@ -45,13 +44,28 @@
 ## Academic articles
 
 * [COVID-19: Lessons for an Urban(izing) World](article_acuto_covid-19_2020) -- for more see online article ([LINK TO DOI](https://doi.org/10.1016/j.oneear.2020.04.004))
+* [Exploring the Non-Medical impacts of Covid-19 using
+Natural Language Processing](article_agade_exploring_2020) -- for more see online article ([LINK TO DOI](https://doi.org/10.5120/ijca2020920923))
+* [COVID-19 and the rise of intimate partner violence](article_aguero_covid-19_2021) -- for more see online article ([LINK TO DOI](https://doi.org/10.1016/j.worlddev.2020.105217))
 * [An Overview of Ontologies and Tool Support for
 COVID-19 Analytics](article_ahmad_overview_2021) -- for more see online article ([LINK TO DOI](https://doi.org/10.1109/EDOCW52865.2021.00026))
+* [Urban form: Realising the value of green space: a
+planners’ perspective on the COVID-19 pandemic](article_ahmadpoor_urban_2021) -- for more see online article ([LINK TO DOI](https://doi.org/10.3828/tpr.2020.37))
 * [First confirmed detection of SARS-CoV-2 in untreated
 wastewater in Australia: A proof of concept for the
 wastewater surveillance of COVID-19 in the community](article_ahmed_first_2020) -- for more see online article ([LINK TO DOI](https://doi.org/10.1016/j.scitotenv.2020.138764))
 * [Occupants’ behavior and activity patterns influencing
 the energy consumption in the Kuwaiti residences](article_al-mumin_occupants_2003) -- for more see online article ([LINK TO DOI](https://doi.org/10.1016/S0378-7788(02)00167-6))
+* [Combating COVID-19 in Indonesia: Local Government
+Use of Smart City System Support](article_alareeni_combating_2022) -- for more see online article ([LINK TO DOI](https://doi.org/10.1007/978-3-031-08087-6_15))
+* [On the Coronavirus (COVID-19) Outbreak and the
+Smart City Network: Universal Data Sharing
+Standards Coupled with Artificial Intelligence
+(AI) to Benefit Urban Health Monitoring and
+Management](article_allam_coronavirus_2020) -- for more see online article ([LINK TO DOI](https://doi.org/10.3390/healthcare8010046))
+* [The Emergence of Anti-Privacy and Control at the
+Nexus between the Concepts of Safe City and Smart
+City](article_allam_emergence_2019) -- for more see online article ([LINK TO DOI](https://doi.org/10.3390/smartcities2010007))
 * [Future (post-COVID) digital, smart and sustainable
 cities in the wake of 6G: Digital twins, immersive
 realities and new urban economies](article_allam_future_2021) -- for more see online article ([LINK TO DOI](https://doi.org/10.1016/j.landusepol.2020.105201))
@@ -60,6 +74,8 @@ planning and design professionals [now, then and into the
 future]?](article_allam_pandemic_2020) -- for more see online article ([LINK TO DOI](https://doi.org/10.1016/j.landusepol.2020.104805))
 * [Design COVID-19 Ontology: A Healthcare and
 Safety Perspective](article_aloulou_design_2022) -- for more see online article ([LINK TO DOI](https://doi.org/10.1007/978-3-031-09593-1_11))
+* [COVID-19 Lockdown: Housing Built Environment’s
+Effects on Mental Health](article_amerio_covid-19_2020) -- for more see online article ([LINK TO DOI](https://doi.org/10.3390/ijerph17165973))
 * [A Review on Building Design as a Biomedical
 System for Preventing COVID-19 Pandemic](article_amran_review_2022) -- for more see online article ([LINK TO DOI](https://doi.org/10.3390/buildings12050582))
 * [Adaptive Design of the Built Environment to
@@ -132,6 +148,9 @@ interest and avoidance of COVID-19–related news](article_buneviciene_covid-19_
 inactivates airborne human coronaviruses](article_buonanno_far-uvc_2020) -- for more see online article ([LINK TO DOI](https://doi.org/10.1038/s41598-020-67211-2))
 * [The ventilation of buildings and other mitigating measures
 for COVID-19: a focus on wintertime](article_burridge_ventilation_2021) -- for more see online article ([LINK TO DOI](https://doi.org/10.1098/rspa.2020.0855))
+* [Making and unmaking home in the COVID-19 pandemic: a
+qualitative research study of the experience of private
+rental tenants in Ireland](article_byrne_making_2022) -- for more see online article ([LINK TO DOI](https://doi.org/10.1080/19491247.2022.2037176))
 * [Scalable IoT Architecture for Monitoring IEQ
 Conditions in Public and Private Buildings](article_calvo_scalable_2022) -- for more see online article ([LINK TO DOI](https://doi.org/10.3390/en15062270))
 * [COVID19-Routes: A Safe Pedestrian Navigation
@@ -150,6 +169,8 @@ changes and paradigm shifts due to COVID-19](article_cheshmehzangi_revisiting_20
 Residents During the COVID-19 Pandemic](article_chick_using_2020) -- for more see online article ([LINK TO DOI](https://doi.org/10.1016/j.jsurg.2020.03.018))
 * [Health Information Exchange with Blockchain amid
 Covid-19-like Pandemics](article_christodoulou_health_2020) -- for more see online article ([LINK TO DOI](https://doi.org/10.1109/DCOSS49796.2020.00071))
+* [COVID-19 Pandemic: Prevention and Protection
+Measures to Be Adopted at the Workplace](article_cirrincione_covid-19_2020) -- for more see online article ([LINK TO DOI](https://doi.org/10.3390/su12093603))
 * [Navigating Climate Change: Rethinking the Role of
 Buildings](article_cole_navigating_2020) -- for more see online article ([LINK TO DOI](https://doi.org/10.3390/su12229527))
 * [Home garden use during COVID-19: Associations with
@@ -169,9 +190,19 @@ Industry](article_dan-jumbo_covid-19_2021) -- for more see online article ([LINK
 The present and future](article_daughton_wastewater_2020) -- for more see online article ([LINK TO DOI](https://doi.org/10.1016/j.scitotenv.2020.139631))
 * [Epidemics, Planning and the City: A Special
 Issue of Planning Perspectives](article_davis_epidemics_2022) -- for more see online article ([LINK TO DOI](https://doi.org/10.1080/02665433.2022.2019982))
+* [A Platform for Citizen Cooperation during the
+COVID-19 Pandemic in RN, Brazil](article_de_araujo_platform_2020) -- for more see online article ([LINK TO DOI](https://doi.org/10.1109/ISC251055.2020.9239008))
 * [2019 Novel Coronavirus (COVID-19) Pandemic:
 Built Environment Considerations To Reduce
 Transmission](article_dietz_2019_2020) -- for more see online article ([LINK TO DOI](https://doi.org/10.1128/mSystems.00245-20))
+* [Toilets dominate environmental detection of SARS-CoV-2
+virus in a hospital](article_ding_toilets_2020) -- for more see online article ([LINK TO DOI](https://doi.org/10.1101/2020.04.03.20052175))
+* [Building up an ecologically sustainable and socially
+desirable post-COVID-19 future](article_duflot_building_2021) -- for more see online article ([LINK TO DOI](https://doi.org/10.1007/s11625-021-00940-z))
+* [Multilevel Analysis of Personal, Non-Medical
+COVID-19-Related Impact Worldwide](article_dye_multilevel_2020) -- for more see online article ([LINK TO DOI](https://doi.org/10.1016/j.annepidem.2020.08.060))
+* [Covid-19 and community mitigation strategies in a
+pandemic](article_ebrahim_covid-19_2020) -- for more see online article ([LINK TO DOI](https://doi.org/10.1136/bmj.m1066))
 * [The socio-economic determinants of COVID-19: A spatial
 analysis of German county level data](article_ehlert_socio-economic_2021) -- for more see online article ([LINK TO DOI](https://doi.org/10.1016/j.seps.2021.101083))
 * [Amplifying the role of knowledge translation platforms in
@@ -183,6 +214,8 @@ conditioning (HVAC) systems within the context of a
 global SARS-CoV-2 epidemic](article_elsaid_critical_2021) -- for more see online article ([LINK TO DOI](https://doi.org/10.1016/j.psep.2021.09.021))
 * [Upper-Room Ultraviolet Light and Negative Air
 Ionization to Prevent Tuberculosis Transmission](article_escombe_upper-room_2009) -- for more see online article ([LINK TO DOI](https://doi.org/10.1371/journal.pmed.1000043))
+* [Smart cities and the pandemic: digital technologies on the
+urban management of Brazilian cities](article_fariniuk_smart_2020) -- for more see online article ([LINK TO DOI](https://doi.org/10.1590/0034-761220200272x))
 * [Treating two pandemics for the price of one: Chronic and
 infectious disease impacts of the built and natural
 environment](article_frank_treating_2021) -- for more see online article ([LINK TO DOI](https://doi.org/10.1016/j.scs.2021.103089))
@@ -197,11 +230,21 @@ System: Development and Applications](article_geng_intelligent_2021) -- for more
 * [Addressing the impact of COVID-19 lockdown on energy use
 in municipal buildings: A case study in Florianópolis,
 Brazil](article_geraldi_addressing_2021) -- for more see online article ([LINK TO DOI](https://doi.org/10.1016/j.scs.2021.102823))
+* [Study of COVID-19 pandemic in London (UK) from urban
+context](article_ghosh_study_2020) -- for more see online article ([LINK TO DOI](https://doi.org/10.1016/j.cities.2020.102928))
+* [Reflecting on Impacts of COVID19 on Sustainable
+Buildings and Cities](article_gonzalez_reflecting_2021) -- for more see online article ([LINK TO DOI](https://doi.org/10.1115/1.4050374))
+* [Urban green spaces management during the \textlessspan
+style="font-variant:small-caps;"\textgreaterCOVID\textless/span\textgreater
+‐19 pandemic: Experiences from Kraków, Poland](article_gorzelany_urban_2022) -- for more see online article ([LINK TO DOI](https://doi.org/10.1002/ldr.4469))
 * [Aerosol and Surface Distribution of Severe Acute
 Respiratory Syndrome Coronavirus 2 in Hospital
 Wards, Wuhan, China, 2020](article_guo_aerosol_2020) -- for more see online article ([LINK TO DOI](https://doi.org/10.3201/eid2607.200885))
 * [Review and comparison of HVAC operation guidelines in
 different countries during the COVID-19 pandemic](article_guo_review_2021) -- for more see online article ([LINK TO DOI](https://doi.org/10.1016/j.buildenv.2020.107368))
+* [Dangerous liaisons? Applying the social harm perspective
+to the social inequality, housing and health trifecta
+during the Covid-19 pandemic](article_gurney_dangerous_2021) -- for more see online article ([LINK TO DOI](https://doi.org/10.1080/19491247.2021.1971033))
 * [How COVID-19 Redefines the Concept of
 Sustainability](article_hakovirta_how_2020) -- for more see online article ([LINK TO DOI](https://doi.org/10.3390/su12093727))
 * [Respiratory pandemics, urban planning and design: A
@@ -212,6 +255,8 @@ globally: Feasibility, economy, opportunities and
 challenges](article_hart_computational_2020) -- for more see online article ([LINK TO DOI](https://doi.org/10.1016/j.scitotenv.2020.138875))
 * [CIDO, a community-based ontology for coronavirus disease
 knowledge and data integration, sharing, and analysis](article_he_cido_2020) -- for more see online article ([LINK TO DOI](https://doi.org/10.1038/s41597-020-0523-6))
+* [Houses amid COVID-19: Environmental challenges and
+design adaptation](article_hizra_houses_2021) -- for more see online article ([LINK TO DOI](https://doi.org/10.1088/1755-1315/881/1/012033))
 * [Assessing the health and hygiene performance of apartment
 buildings](article_ho_assessing_2004) -- for more see online article ([LINK TO DOI](https://doi.org/10.1108/02632770410527789))
 * [The Impact of COVID-19 on Public Space: A
@@ -247,6 +292,9 @@ information and non‐evidence‐based measures](article_ioannidis_coronavirus_2
 * [Smart cities and a data-driven response to COVID-19](article_james_smart_2020) -- for more see online article ([LINK TO DOI](https://doi.org/10.1177/2043820620934211))
 * [Physical interventions to interrupt or reduce the spread
 of respiratory viruses: systematic review](article_jefferson_physical_2008) -- for more see online article ([LINK TO DOI](https://doi.org/10.1136/bmj.39393.510347.BE))
+* [Green spaces, especially forest, linked to lower
+SARS-CoV-2 infection rates: A one-year nationwide
+study](article_jiang_green_2021) -- for more see online article ([LINK TO DOI](https://doi.org/10.1101/2021.08.04.21261420))
 * [COVID-19 and Green Housing: A Review of
 Relevant Literature](article_kaklauskas_covid-19_2021) -- for more see online article ([LINK TO DOI](https://doi.org/10.3390/en14082072))
 * [Persistence of coronaviruses on inanimate surfaces and
@@ -255,6 +303,8 @@ their inactivation with biocidal agents](article_kampf_persistence_2020) -- for 
 * [Strategies to Mitigate COVID-19 Pandemic Impacts
 on Health and Safety of Workers in Construction
 Projects](article_kaushal_strategies_2021) -- for more see online article ([LINK TO DOI](https://doi.org/10.36937/cebel.2021.002.001))
+* [Impacts of COVID-19 on residential building energy use
+and performance](article_kawka_impacts_2021) -- for more see online article ([LINK TO DOI](https://doi.org/10.1016/j.buildenv.2021.108200))
 * [The changes in the effects of social media use of
 Cypriots due to COVID-19 pandemic](article_kaya_changes_2020) -- for more see online article ([LINK TO DOI](https://doi.org/10.1016/j.techsoc.2020.101380))
 * [Architectural Design Drives the Biogeography of
@@ -270,10 +320,16 @@ feeds](article_koh_how_2022) -- for more see online article ([LINK TO DOI](https
 COVID-19 epidemic in China](article_kraemer_effect_2020) -- for more see online article ([LINK TO DOI](https://doi.org/10.1126/science.abb4218))
 * [Startups in times of crisis – A rapid response to the
 COVID-19 pandemic](article_kuckertz_startups_2020) -- for more see online article ([LINK TO DOI](https://doi.org/10.1016/j.jbvi.2020.e00169))
+* [The Intelligent Lockdown: Compliance with COVID-19
+Mitigation Measures in the Netherlands](article_kuiper_intelligent_2020) -- for more see online article ([LINK TO DOI](https://doi.org/10.2139/ssrn.3598215))
+* [Covid-19 and the politics of sustainable energy
+transitions](article_kuzemko_covid-19_2020) -- for more see online article ([LINK TO DOI](https://doi.org/10.1016/j.erss.2020.101685))
 * [First detection of SARS-CoV-2 in untreated wastewaters
 in Italy](article_la_rosa_first_2020) -- for more see online article ([LINK TO DOI](https://doi.org/10.1016/j.scitotenv.2020.139652))
 * [What drives unverified information sharing and
 cyberchondria during the COVID-19 pandemic?](article_laato_what_2020) -- for more see online article ([LINK TO DOI](https://doi.org/10.1080/0960085X.2020.1770632))
+* [COVID-19 and the UN Sustainable Development
+Goals: Threat to Solidarity or an Opportunity?](article_leal_filho_covid-19_2020) -- for more see online article ([LINK TO DOI](https://doi.org/10.3390/su12135343))
 * [Attitudes towards outdoor and neighbour noise during the
 COVID-19 lockdown: A case study in London](article_lee_attitudes_2021) -- for more see online article ([LINK TO DOI](https://doi.org/10.1016/j.scs.2021.102768))
 * [Designing a Multi-Agent Occupant Simulation
@@ -294,10 +350,16 @@ agents in the built environment ? a multidisciplinary
 systematic review](article_li_role_2007) -- for more see online article ([LINK TO DOI](https://doi.org/10.1111/j.1600-0668.2006.00445.x))
 * [Seeing the invisible hand: Underlying effects of
 COVID-19 on tourists’ behavioral patterns](article_li_seeing_2020) -- for more see online article ([LINK TO DOI](https://doi.org/10.1016/j.jdmm.2020.100502))
+* [Automated infrastructure: COVID-19 and the shifting
+geographies of supply chain capitalism](article_lin_automated_2022) -- for more see online article ([LINK TO DOI](https://doi.org/10.1177/03091325211038718))
 * [SARS-CoV-2 in wastewater: potential health risk, but
 also data source](article_lodder_sars-cov-2_2020) -- for more see online article ([LINK TO DOI](https://doi.org/10.1016/S2468-1253(20)30087-X))
 * [Predicted Inactivation of Viruses of Relevance to
 Biodefense by Solar Radiation](article_lytle_predicted_2005) -- for more see online article ([LINK TO DOI](https://doi.org/10.1128/JVI.79.22.14244-14252.2005))
+* [The role of green roofs in post COVID-19 confinement:
+An analysis of willingness to pay](article_manso_role_2021) -- for more see online article ([LINK TO DOI](https://doi.org/10.1016/j.jobe.2021.103388))
+* [Green in times of COVID-19: urban green space relevance
+during the COVID-19 pandemic in Buenos Aires City](article_marconi_green_2022) -- for more see online article ([LINK TO DOI](https://doi.org/10.1007/s11252-022-01204-z))
 * [Mechanistic insights into the effect of humidity on
 airborne influenza virus survival, transmission and
 incidence](article_marr_mechanistic_2019) -- for more see online article ([LINK TO DOI](https://doi.org/10.1098/rsif.2018.0298))
@@ -328,6 +390,11 @@ university building](article_mokhtari_effect_2021) -- for more see online articl
 during COVID-19 pandemic](article_montoya-torres_mapping_2021) -- for more see online article ([LINK TO DOI](https://doi.org/10.1080/13675567.2021.1958768))
 * [How can airborne transmission of COVID-19 indoors be
 minimised?](article_morawska_how_2020) -- for more see online article ([LINK TO DOI](https://doi.org/10.1016/j.envint.2020.105832))
+* [Mitigation strategies and compliance in the COVID-19
+fight; how much compliance is enough?](article_mukerjee_mitigation_2021) -- for more see online article ([LINK TO DOI](https://doi.org/10.1371/journal.pone.0239352))
+* [Healthy Sustainable Cities and the COVID-19
+Pandemic: A Sustainable Development Goals
+Perspective](article_muthu_healthy_2021) -- for more see online article ([LINK TO DOI](https://doi.org/10.1007/978-981-16-3860-2_6))
 * [The impact of COVID-19 on office space utilization and
 real-estate: a case study about teleworking in Israel as
 new normal](article_naor_impact_2022) -- for more see online article ([LINK TO DOI](https://doi.org/10.1108/JFM-12-2020-0096))
@@ -348,12 +415,17 @@ pandemic (COVID-19): A review](article_nicola_socio-economic_2020) -- for more s
 information on citizens’ protective behaviors during the
 outbreak of COVID-19: a cross-sectional study in
 China](article_ning_impacts_2020) -- for more see online article ([LINK TO DOI](https://doi.org/10.1186/s12889-020-09892-y))
+* [The impact of the COVID-19 pandemic on the importance of
+urban green spaces to the public](article_noszczyk_impact_2022) -- for more see online article ([LINK TO DOI](https://doi.org/10.1016/j.landusepol.2021.105925))
 * [COVID-19 misinformation: Accuracy of articles about
 coronavirus prevention mostly shared on social media](article_obiala_covid-19_2021) -- for more see online article ([LINK TO DOI](https://doi.org/10.1016/j.hlpt.2020.10.007))
 * [Global value chains: Efficiency and risks in the context
 of COVID-19](article_oecd_global_2021) -- for more see online article ([LINK TO DOI](https://doi.org/10.1787/67c75fdc-en))
 * [What has been the impact of the COVID-19 pandemic on
 immigrants? An update on recent evidence](article_oecd_what_2022) -- for more see online article ([LINK TO DOI](https://doi.org/10.1787/65cfc31c-en))
+* [Infrastructures of Care for Public Housing
+Residents During COVID-19 Detention: Failures,
+Glitches and Possibilities to Care With](article_olivier_infrastructures_2022) -- for more see online article ([LINK TO DOI](https://doi.org/10.1080/08111146.2022.2123317))
 * [Air, Surface Environmental, and Personal
 Protective Equipment Contamination by Severe
 Acute Respiratory Syndrome Coronavirus 2
@@ -389,12 +461,21 @@ Centers](article_pilati_digital_2021) -- for more see online article ([LINK TO D
 Environment](article_pinheiro_covid-19_2020) -- for more see online article ([LINK TO DOI](https://doi.org/10.3390/su12145863))
 * [When the fourth water and digital revolution encountered
 COVID-19](article_poch_when_2020) -- for more see online article ([LINK TO DOI](https://doi.org/10.1016/j.scitotenv.2020.140980))
+* [The role of perceived public and private green space in
+subjective health and wellbeing during and after the first
+peak of the COVID-19 outbreak](article_poortinga_role_2021) -- for more see online article ([LINK TO DOI](https://doi.org/10.1016/j.landurbplan.2021.104092))
+* [Public housing and COVID-19: contestation, challenge and
+change](article_power_public_2020) -- for more see online article ([LINK TO DOI](https://doi.org/10.1080/19491247.2020.1797991))
 * [Mobility Behaviour in View of the Impact of the
 COVID-19 Pandemic—Public Transport Users in
 Gdansk Case Study](article_przybylowski_mobility_2021) -- for more see online article ([LINK TO DOI](https://doi.org/10.3390/su13010364))
 * [COVID-19 and social inequalities: a complex and dynamic
 interaction](article_quantin_covid-19_2022) -- for more see online article ([LINK TO DOI](https://doi.org/10.1016/S2468-2667(22)00033-0))
 * [The COVID-19 epidemiology and monitoring ontology](article_queralt-rosinach_covid-19_2021) -- for more see online article ([LINK TO DOI](https://doi.org/10.37044/osf.io/n6tcz))
+* [An Automated System to Limit COVID-19 Using
+Facial Mask Detection in Smart City Network](article_rahman_automated_2020) -- for more see online article ([LINK TO DOI](https://doi.org/10.1109/IEMTRONICS51293.2020.9216386))
+* [SARS-CoV-2 RNA in wastewater anticipated COVID-19
+occurrence in a low prevalence area](article_randazzo_sars-cov-2_2020) -- for more see online article ([LINK TO DOI](https://doi.org/10.1016/j.watres.2020.115942))
 * [Identifying Actions to Control and Mitigate the
 Effects of the COVID-19 Pandemic on Construction
 Organizations: Preliminary Findings](article_raoufi_identifying_2021) -- for more see online article ([LINK TO DOI](https://doi.org/10.1177/1087724X20969164))
@@ -431,6 +512,8 @@ to mitigate the spread of airborne viruses](article_salman_systematic_2022) -- f
 * [Recently employed engineering techniques to reduce the
 spread of COVID-19 (corona virus disease 2019): a review
 study](article_saman_recently_2021) -- for more see online article ([LINK TO DOI](https://doi.org/10.11591/ijeecs.v22.i1.pp277-286))
+* [COVID-19: IMPACT OF THE PANDEMIC ON THE
+SUSTAINABLE DEVELOPMENT GOALS](article_samout_covid-19_2020) -- for more see online article ([LINK TO DOI](https://doi.org/10.29121/ijoest.v4.i5.2020.117))
 * [Mental health economics: A prospective study on
 psychological flourishing and associations with healthcare
 costs and sickness benefit transfers in Denmark](article_santini_mental_2021) -- for more see online article ([LINK TO DOI](https://doi.org/10.1016/j.mhp.2021.200222))
@@ -440,6 +523,8 @@ response in facilities management in 2020](article_sarvari_dataset_2020) -- for 
 Mitigation Measures for Combating the Transmission
 of COVID-19 Pandemic in Buildings Under
 Facilities Management Services](article_sarvari_global_2022) -- for more see online article ([LINK TO DOI](https://doi.org/10.3389/fbuil.2021.644104))
+* [The psychological impact of COVID-19 on the mental
+health in the general population](article_serafini_psychological_2020) -- for more see online article ([LINK TO DOI](https://doi.org/10.1093/qjmed/hcaa201))
 * [Contributions of Smart City Solutions and
 Technologies to Resilience against the COVID-19
 Pandemic: A Literature Review](article_sharifi_contributions_2021) -- for more see online article ([LINK TO DOI](https://doi.org/10.3390/su13148018))
@@ -449,6 +534,9 @@ lessons for urban planning, design, and management](article_sharifi_covid-19_202
 COVID-19 pandemic](article_sharma_blockchain_2022) -- for more see online article ([LINK TO DOI](https://doi.org/10.1007/s42600-020-00106-3))
 * [The Effects of Pandemic on Construction Industry
 in the UK](article_shibani_effects_2020) -- for more see online article ([LINK TO DOI](https://doi.org/10.36941/mjss-2020-0063))
+* [Towards the sustainable development of smart cities
+through mass video surveillance: A response to the
+COVID-19 pandemic](article_shorfuzzaman_towards_2021) -- for more see online article ([LINK TO DOI](https://doi.org/10.1016/j.scs.2020.102582))
 * [The Socio-Spatial Determinants of COVID-19
 Diffusion: The Impact of Globalisation,
 Settlement Characteristics and Population](article_sigler_socio-spatial_2020) -- for more see online article ([LINK TO DOI](https://doi.org/10.21203/rs.3.rs-33615/v1))
@@ -465,6 +553,10 @@ pandemic](article_singh_significant_2020) -- for more see online article ([LINK 
 * [The role of 5G for digital healthcare against COVID-19
 pandemic: Opportunities and challenges](article_siriwardhana_role_2021) -- for more see online article ([LINK TO DOI](https://doi.org/10.1016/j.icte.2020.10.002))
 * [The three modes of existence of the pandemic smart city](article_soderstrom_three_2021) -- for more see online article ([LINK TO DOI](https://doi.org/10.1080/02723638.2020.1807167))
+* [Gardening is beneficial for health: A meta-analysis](article_soga_gardening_2017) -- for more see online article ([LINK TO DOI](https://doi.org/10.1016/j.pmedr.2016.11.007))
+* [Contextualizing the Covid-19 pandemic for a
+carbon-constrained world: Insights for sustainability
+transitions, energy justice, and research methodology](article_sovacool_contextualizing_2020) -- for more see online article ([LINK TO DOI](https://doi.org/10.1016/j.erss.2020.101701))
 * [Association between indoor-outdoor green features and
 psychological health during the COVID-19 lockdown in
 Italy: A cross-sectional nationwide study](article_spano_association_2021) -- for more see online article ([LINK TO DOI](https://doi.org/10.1016/j.ufug.2021.127156))
@@ -474,6 +566,8 @@ CONSTRUCTION AND FOR ADAPTING HERITAGE
 BUILDINGS](article_spennemann_residential_2021) -- for more see online article ([LINK TO DOI](https://doi.org/10.3992/jgb.16.1.199))
 * [Sustainability of Coronavirus on Different
 Surfaces](article_suman_sustainability_2020) -- for more see online article ([LINK TO DOI](https://doi.org/10.1016/j.jceh.2020.04.020))
+* [The efficacy of social distance and ventilation
+effectiveness in preventing COVID-19 transmission](article_sun_efficacy_2020) -- for more see online article ([LINK TO DOI](https://doi.org/10.1016/j.scs.2020.102390))
 * [Reframe how to serve your community in the midst of a
 pandemic](article_sutton_reframe_2020) -- for more see online article ([LINK TO DOI](https://doi.org/10.1002/casr.30670))
 * [Learning from pandemics: Applying resilience thinking to
@@ -488,6 +582,8 @@ virus from air](article_thompson_real-world_2021) -- for more see online article
 * [COVID19: Small and medium enterprises challenges and
 responses with creativity, innovation, and
 entrepreneurship](article_thukral_covid19_2021) -- for more see online article ([LINK TO DOI](https://doi.org/10.1002/jsc.2399))
+* [An investigation of transmission control measures during
+the first 50 days of the COVID-19 epidemic in China](article_tian_investigation_2020) -- for more see online article ([LINK TO DOI](https://doi.org/10.1126/science.abb6105))
 * [Digital technology and COVID-19](article_ting_digital_2020) -- for more see online article ([LINK TO DOI](https://doi.org/10.1038/s41591-020-0824-5))
 * [Readiness Assessment of Green Building
 Certification Systems for Residential Buildings
@@ -501,6 +597,9 @@ Buildings? A Review](article_tokazhanov_how_2020) -- for more see online article
 Lessons learnt from the Covid-19 pandemic](article_tomalska_preparing_2022) -- for more see online article ([LINK TO DOI](https://doi.org/10.35467/sdq/146603))
 * [Social distancing enhanced automated optimal design of
 physical spaces in the wake of the COVID-19 pandemic](article_ugail_social_2021) -- for more see online article ([LINK TO DOI](https://doi.org/10.1016/j.scs.2021.102791))
+* [Effects of the COVID-19 pandemic on the use and
+perceptions of urban green space: An international
+exploratory study](article_ugolini_effects_2020) -- for more see online article ([LINK TO DOI](https://doi.org/10.1016/j.ufug.2020.126888))
 * [How to Make Green Building Certification \&
 Rating Systems More Pandemic-Sustainable?](article_ujikawa_how_2022) -- for more see online article ([LINK TO DOI](https://doi.org/10.1007/978-981-19-1704-2_23))
 * [Impact of COVID-19 on IoT Adoption in Healthcare,
@@ -508,10 +607,16 @@ Smart Homes, Smart Buildings, Smart Cities,
 Transportation and Industrial IoT](article_umair_impact_2021) -- for more see online article ([LINK TO DOI](https://doi.org/10.3390/s21113838))
 * [Emerging Technologies to Combat the COVID-19
 Pandemic](article_vaishya_emerging_2020) -- for more see online article ([LINK TO DOI](https://doi.org/10.1016/j.jceh.2020.04.019))
+* [The COVID-19 pandemic: Lessons on building more equal
+and sustainable societies](article_van_barneveld_covid-19_2020) -- for more see online article ([LINK TO DOI](https://doi.org/10.1177/1035304620927107))
 * [Aerosol and Surface Stability of SARS-CoV-2 as
 Compared with SARS-CoV-1](article_van_doremalen_aerosol_2020) -- for more see online article ([LINK TO DOI](https://doi.org/10.1056/NEJMc2004973))
+* [Compliance with COVID-19 Mitigation Measures in the
+United States](article_van_rooij_compliance_2020) -- for more see online article ([LINK TO DOI](https://doi.org/10.31234/osf.io/qymu3))
 * [Effect of Ultraviolet Germicidal Irradiation on
 Viral Aerosols](article_walker_effect_2007) -- for more see online article ([LINK TO DOI](https://doi.org/10.1021/es070056u))
+* [The impact of COVID-19 and strategies for mitigation and
+suppression in low- and middle-income countries](article_walker_impact_2020) -- for more see online article ([LINK TO DOI](https://doi.org/10.1126/science.abc0035))
 * [Characterization and performance evaluation of a
 full-scale activated carbon-based dynamic botanical air
 filtration system for improving indoor air quality](article_wang_characterization_2011) -- for more see online article ([LINK TO DOI](https://doi.org/10.1016/j.buildenv.2010.10.008))
@@ -526,6 +631,10 @@ Testing](article_wang_response_2020) -- for more see online article ([LINK TO DO
 * [SARS-CoV-2 RNA detection of hospital isolation wards
 hygiene monitoring during the Coronavirus Disease 2019
 outbreak in a Chinese hospital](article_wang_sars-cov-2_2020) -- for more see online article ([LINK TO DOI](https://doi.org/10.1016/j.ijid.2020.04.024))
+* [Urban Community Sustainable Development Patterns
+under the Influence of COVID-19: A Case Study
+Based on the Non-Contact Interaction Perspective
+of Hangzhou City](article_wang_urban_2021) -- for more see online article ([LINK TO DOI](https://doi.org/10.3390/su13063575))
 * [The Smart City and Covid‐19](article_webb_smart_2020) -- for more see online article ([LINK TO DOI](https://doi.org/10.1049/iet-smc.2020.0024))
 * [Detection of SARS-CoV-2 in raw and treated wastewater
 in Germany – Suitability for COVID-19 surveillance
@@ -543,6 +652,7 @@ than Expected from Clinically Confirmed Cases](article_wu_sars-cov-2_2020) -- fo
 Preventive Measures of Spreading the Virus](article_yakubu_aminu_dodo_green_2020) -- for more see online article ([LINK TO DOI](https://doi.org/10.13140/RG.2.2.36479.43686))
 * [Combating COVID-19—The role of robotics in managing
 public health and infectious diseases](article_yang_combating_2020) -- for more see online article ([LINK TO DOI](https://doi.org/10.1126/scirobotics.abb5589))
+* [Indirect effects of COVID-19 on the environment](article_zambrano-monserrate_indirect_2020) -- for more see online article ([LINK TO DOI](https://doi.org/10.1016/j.scitotenv.2020.138813))
 * [A review of facilities management interventions to
 mitigate respiratory infections in existing buildings](article_zhang_review_2022) -- for more see online article ([LINK TO DOI](https://doi.org/10.1016/j.buildenv.2022.109347))
 * [Supporting Technologies for COVID-19 Prevention:
@@ -647,65 +757,3 @@ COVID-19](article_world_green_building_council_contribution_2020) -- ([LINK](htt
 * [10 tech trends getting us through the COVID-19
 pandemic](article_yan_10_2020) -- ([LINK](https://www.weforum.org/agenda/2020/04/10-technology-trends-coronavirus-covid19-pandemic-robotics-telehealth/))
 
-
-# Other articles to explore
-
-* [Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China](https://doi.org/10.1016/S0140-6736(20)30183-5). DOI: 10.1016/S0140-6736(20)30183-5
-* [A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster](https://doi.org/10.1016/S0140-6736(20)30154-9). DOI: 10.1016/S0140-6736(20)30154-9
-* [Virological assessment of hospitalized patients with COVID-2019](https://doi.org/10.1038/s41586-020-2196-x). DOI: 10.1038/s41586-020-2196-x
-* [First Case of 2019 Novel Coronavirus in the United States](https://doi.org/10.1056/NEJMoa2001191). DOI: 10.1056/NEJMoa2001191
-* [A Novel Coronavirus from Patients with Pneumonia in China, 2019](https://doi.org/10.1056/NEJMoa2001017). DOI: 10.1056/NEJMoa2001017
-* [Presumed Asymptomatic Carrier Transmission of COVID-19](https://doi.org/10.1001/jama.2020.2565). DOI: 10.1001/jama.2020.2565
-* [COVID-19 Lockdown: Housing Built Environment’s Effects on Mental Health](https://doi.org/10.3390/ijerph17165973). DOI: 10.3390/ijerph17165973
-* [Nowcasting and forecasting the potential domestic and international spread of the 2019-nCoV outbreak originating in Wuhan, China: a modelling study](https://doi.org/10.1016/S0140-6736(20)30260-9). DOI: 10.1016/S0140-6736(20)30260-9
-* [Effect of ultraviolet germicidal lights installed in office ventilation systems on workers' health and wellbeing: double-blind multiple crossover trial](https://doi.org/10.1016/S0140-6736(03)14897-0). DOI: 10.1016/S0140-6736(03)14897-0
-* [Stability of SARS-CoV-2 in different environmental conditions](https://doi.org/10.1016/S2666-5247(20)30003-3). DOI: 10.1016/S2666-5247(20)30003-3
-* [COVID-19 Outbreak Associated with Air Conditioning in Restaurant, Guangzhou, China, 2020](https://doi.org/10.3201/eid2607.200764). DOI: 10.3201/eid2607.200764
-* [Risk of indoor airborne infection transmission estimated from carbon dioxide concentration](https://doi.org/10.1034/j.1600-0668.2003.00189.x). DOI: 10.1034/j.1600-0668.2003.00189.x
-* [How will country-based mitigation measures influence the course of the COVID-19 epidemic?](https://doi.org/10.1016/S0140-6736(20)30567-5). DOI: 10.1016/S0140-6736(20)30567-5
-* [Does Density Aggravate the COVID-19 Pandemic?](https://doi.org/10.1080/01944363.2020.1777891). DOI: 10.1080/01944363.2020.1777891
-* [Airborne Infection: Theoretical Limits of Protection Achievable by Building Ventilation](https://doi.org/10.1164/ajrccm/144.2.302). DOI: 10.1164/ajrccm/144.2.302
-* [The psychological impact of quarantine and how to reduce it: rapid review of the evidence](https://doi.org/10.1016/S0140-6736(20)30460-8). DOI: 10.1016/S0140-6736(20)30460-8
-* [Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study](https://doi.org/10.1016/S0140-6736(20)30211-7). DOI: 10.1016/S0140-6736(20)30211-7
-* [Critical Supply Shortages — The Need for Ventilators and Personal Protective Equipment during the Covid-19 Pandemic](https://doi.org/10.1056/NEJMp2006141). DOI: 10.1056/NEJMp2006141
-* [Detection of Pathogenic Viruses in Sewage Provided Early Warnings of Hepatitis A Virus and Norovirus Outbreaks](https://doi.org/10.1128/AEM.01981-14). DOI: 10.1128/AEM.01981-14
-* [On the Coronavirus (COVID-19) Outbreak and the Smart City Network: Universal Data Sharing Standards Coupled with Artificial Intelligence (AI) to Benefit Urban Health Monitoring and Management](https://doi.org/10.3390/healthcare8010046). DOI: 10.3390/healthcare8010046
-* [AIRBORNE SPREAD OF MEASLES IN A SUBURBAN ELEMENTARY SCHOOL](https://doi.org/10.1093/oxfordjournals.aje.a112560). DOI: 10.1093/oxfordjournals.aje.a112560
-* [Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus–Infected Pneumonia](https://doi.org/10.1056/NEJMoa2001316). DOI: 10.1056/NEJMoa2001316
-* [Detection of 2019 novel coronavirus (2019-nCoV) by real-time RT-PCR](https://doi.org/10.2807/1560-7917.ES.2020.25.3.2000045). DOI: 10.2807/1560-7917.ES.2020.25.3.2000045
-* [Recognition of aerosol transmission of infectious agents: a commentary](https://doi.org/10.1186/s12879-019-3707-y). DOI: 10.1186/s12879-019-3707-y
-* [Public housing and COVID-19: contestation, challenge and change](https://doi.org/10.1080/19491247.2020.1797991). DOI: 10.1080/19491247.2020.1797991
-* [Can atmospheric pollution be considered a co-factor in extremely high level of SARS-CoV-2 lethality in Northern Italy?](https://doi.org/10.1016/j.envpol.2020.114465). DOI: 10.1016/j.envpol.2020.114465
-* [Stability and inactivation of SARS coronavirus](https://doi.org/10.1007/s00430-004-0219-0). DOI: 10.1007/s00430-004-0219-0
-* [Survivability, Partitioning, and Recovery of Enveloped Viruses in Untreated Municipal Wastewater](https://doi.org/10.1021/acs.est.6b00876). DOI: 10.1021/acs.est.6b00876
-* [Green space as a buffer between stressful life events and health](https://doi.org/10.1016/j.socscimed.2010.01.002). DOI: 10.1016/j.socscimed.2010.01.002
-* [Room ventilation and the risk of airborne infection transmission in 3 health care settings within a large teaching hospital](https://doi.org/10.1016/j.ajic.2011.02.014). DOI: 10.1016/j.ajic.2011.02.014
-* [Prolonged presence of SARS-CoV-2 viral RNA in faecal samples](https://doi.org/10.1016/S2468-1253(20)30083-2). DOI: 10.1016/S2468-1253(20)30083-2
-* [Transmission of SARS and MERS coronaviruses and influenza virus in healthcare settings: the possible role of dry surface contamination](https://doi.org/10.1016/j.jhin.2015.08.027). DOI: 10.1016/j.jhin.2015.08.027
-* [A new coronavirus associated with human respiratory disease in China](https://doi.org/10.1038/s41586-020-2008-3). DOI: 10.1038/s41586-020-2008-3
-* [Evidence of Airborne Transmission of the Severe Acute Respiratory Syndrome Virus](https://doi.org/10.1056/NEJMoa032867). DOI: 10.1056/NEJMoa032867
-* [Survival Characteristics of Airborne Human Coronavirus 229E](https://doi.org/10.1099/0022-1317-66-12-2743). DOI: 10.1099/0022-1317-66-12-2743
-* [A novel coronavirus outbreak of global health concern](https://doi.org/10.1016/S0140-6736(20)30185-9). DOI: 10.1016/S0140-6736(20)30185-9
-* [COVID-19 and the UN Sustainable Development Goals: Threat to Solidarity or an Opportunity?](https://doi.org/10.3390/su12135343). DOI: 10.3390/su12135343
-* [How far droplets can move in indoor environments ? revisiting the Wells evaporation?falling curve](https://doi.org/10.1111/j.1600-0668.2007.00469.x). DOI: 10.1111/j.1600-0668.2007.00469.x
-* [Sustainability and green building rating systems: LEED, BREEAM, GSAS and Estidama critical analysis](https://doi.org/10.1016/j.jobe.2017.03.010). DOI: 10.1016/j.jobe.2017.03.010
-* [A brave new world: Lessons from the COVID-19 pandemic for transitioning to sustainable supply and production](https://doi.org/10.1016/j.resconrec.2020.104894). DOI: 10.1016/j.resconrec.2020.104894
-* [](https://doi.org/10.1038/sj.jea.7500165). DOI: 10.1038/sj.jea.7500165
-* [Aerodynamic analysis of SARS-CoV-2 in two Wuhan hospitals](https://doi.org/10.1038/s41586-020-2271-3). DOI: 10.1038/s41586-020-2271-3
-* [Airborne transmission of SARS-CoV-2: The world should face the reality](https://doi.org/10.1016/j.envint.2020.105730). DOI: 10.1016/j.envint.2020.105730
-* [Review and comparison between the WellsâRiley and dose-response approaches to risk assessment of infectious respiratory diseases](https://doi.org/10.1111/j.1600-0668.2009.00621.x). DOI: 10.1111/j.1600-0668.2009.00621.x
-* [Environmental perspective of COVID-19](https://doi.org/10.1016/j.scitotenv.2020.138870). DOI: 10.1016/j.scitotenv.2020.138870
-* [Indirect effects of COVID-19 on the environment](https://doi.org/10.1016/j.scitotenv.2020.138813). DOI: 10.1016/j.scitotenv.2020.138813
-* [Role of mechanical ventilation in the airborne transmission of infectious agents in buildings](https://doi.org/10.1111/ina.12267). DOI: 10.1111/ina.12267
-* [An investigation of transmission control measures during the first 50 days of the COVID-19 epidemic in China](https://doi.org/10.1126/science.abb6105). DOI: 10.1126/science.abb6105
-* [The effect of travel restrictions on the spread of the 2019 novel coronavirus (COVID-19) outbreak](https://doi.org/10.1126/science.aba9757). DOI: 10.1126/science.aba9757
-* [Extended urbanisation and the spatialities of infectious disease: Demographic change, infrastructure and governance](https://doi.org/10.1177/0042098020910873). DOI: 10.1177/0042098020910873
-* [Covid-19 and the politics of sustainable energy transitions](https://doi.org/10.1016/j.erss.2020.101685). DOI: 10.1016/j.erss.2020.101685
-* [Infectious virus in exhaled breath of symptomatic seasonal influenza cases from a college community](https://doi.org/10.1073/pnas.1716561115). DOI: 10.1073/pnas.1716561115
-* [Monitoring wastewater for assessing community health: Sewage Chemical-Information Mining (SCIM)](https://doi.org/10.1016/j.scitotenv.2017.11.102). DOI: 10.1016/j.scitotenv.2017.11.102
-* [The efficacy of social distance and ventilation effectiveness in preventing COVID-19 transmission](https://doi.org/10.1016/j.scs.2020.102390). DOI: 10.1016/j.scs.2020.102390
-* [Gardening is beneficial for health: A meta-analysis](https://doi.org/10.1016/j.pmedr.2016.11.007). DOI: 10.1016/j.pmedr.2016.11.007
-* [The History of Ultraviolet Germicidal Irradiation for Air Disinfection](https://doi.org/10.1177/003335491012500105). DOI: 10.1177/003335491012500105
-* [COVID-19 Pandemic: Prevention and Protection Measures to Be Adopted at the Workplace](https://doi.org/10.3390/su12093603). DOI: 10.3390/su12093603
-* [Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: a retrospective cohort study](https://doi.org/10.1016/S0140-6736(20)30566-3). DOI: 10.1016/S0140-6736(20)30566-3
-* [SARS-CoV-2 RNA in wastewater anticipated COVID-19 occurrence in a low prevalence area](https://doi.org/10.1016/j.watres.2020.115942). DOI: 10.1016/j.watres.2020.115942

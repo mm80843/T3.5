@@ -1,18 +1,18 @@
 # Article: __Readiness Assessment of Green Building Certification Systems for Residential Buildings during Pandemics__ (tleuken_readiness_2021)
 
 * [10.3390/su13020460](https://doi.org/10.3390/su13020460)
-* Cluster: [building-health](cluster_10)
+* Cluster: [health-building](cluster_9)
 
 
 ## Keywords
 
-* [pandemic](keyword_pandemic), [breeam](keyword_breeam), [indicator](keyword_indicator), [pandemic resilient indicator](keyword_pandemic_resilient_indicator), [covid-19](keyword_covid-19), [leed](keyword_leed), [casbee](keyword_casbee), [sustainability](keyword_sustainability), [comfort](keyword_comfort), [build](keyword_build), [virus](keyword_virus), [health safety](keyword_health_safety), [environ](keyword_environ), air quality, [health](keyword_health)
+* [pandemic](keyword_pandemic), [breeam](keyword_breeam), [indicator](keyword_indicator), [covid-19](keyword_covid-19), [pandemic resilient indicator](keyword_pandemic_resilient_indicator), [leed](keyword_leed), [sustainability](keyword_sustainability), [casbee](keyword_casbee), [comfort](keyword_comfort), [build](keyword_build), [health safety](keyword_health_safety), [virus](keyword_virus), [air quality](keyword_air_quality), [health](keyword_health), [construction](keyword_construction)
 
 
 
 ## Keywords at large
 
-* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
+* [pandemic](keyword_pandemic), [breeam](keyword_breeam), [pandemic resilient indicator](keyword_pandemic_resilient_indicator), [indicator](keyword_indicator), [covid-19](keyword_covid-19), [leed](keyword_leed), [casbee](keyword_casbee), [sustainability](keyword_sustainability), [comfort](keyword_comfort), [build](keyword_build)
 
 ## Abstract
 
@@ -57,11 +57,36 @@ post-pandemic requirements.
 
  ![](imgs/article_tleuken_readiness_2021.jpg)
 
+### Closest articles 
+
+* [Assessment method for new sustainability indicators providing pandemic resilience for residential buildings](article_tokazhanov_assessment_2021)
+* [How to Make Green Building Certification &amp; Rating Systems More Pandemic-Sustainable?](article_ujikawa_how_2022)
+* [COVID-19 Bulletin 1: Alterations to BREEAM
+assessment requirements as a result of the Coronavirus
+pandemic – Knowledge Base](article_breeam_covid-19_2020)
+* [Strengthening resilience: a priority shared by Health
+2020 and](article_who_strengthening_2017)
+* [Startups in times of crisis – A rapid response to the COVID-19 pandemic](article_kuckertz_startups_2020)
+* [<scp>COVID</scp>
+            ‐19: Small and medium enterprises challenges and responses with creativity, innovation, and entrepreneurship](article_thukral_covid19_2021)
+* [Guidelines for resilience systems analysis](article_oecd_guidelines_2014)
+* [A review of definitions and measures of system resilience](article_hosseini_review_2016)
+* [DfMA for rapid adaptive resilience and flexible
+infrastructure](article_mott_macdonald_dfma_2020)
+* [Mechanisms for addressing the impact of COVID-19 on infrastructure projects](article_king_mechanisms_2021)
+
 ### References 
 
 * [Pandemic stricken cities on lockdown. Where are our
 planning and design professionals [now, then and into the
 future]?](article_allam_pandemic_2020)
+* [Contextualizing the Covid-19 pandemic for a
+carbon-constrained world: Insights for sustainability
+transitions, energy justice, and research methodology](article_sovacool_contextualizing_2020)
+* [COVID-19 and the UN Sustainable Development
+Goals: Threat to Solidarity or an Opportunity?](article_leal_filho_covid-19_2020)
+* [Covid-19 and the politics of sustainable energy
+transitions](article_kuzemko_covid-19_2020)
 * [COVID-19 Could Leverage a Sustainable Built
 Environment](article_pinheiro_covid-19_2020)
 * [A Mixed Approach on Resilience of Spanish
@@ -80,6 +105,9 @@ hygiene monitoring during the Coronavirus Disease 2019
 outbreak in a Chinese hospital](article_wang_sars-cov-2_2020)
 * [SARS-CoV-2 in wastewater: potential health risk, but
 also data source](article_lodder_sars-cov-2_2020)
+* [Indirect effects of COVID-19 on the environment](article_zambrano-monserrate_indirect_2020)
+* [COVID-19 Lockdown: Housing Built Environment’s
+Effects on Mental Health](article_amerio_covid-19_2020)
 * [Antivirus-built environment: Lessons learned from
 Covid-19 pandemic](article_megahed_antivirus-built_2020)
 * [Aerosol and Surface Stability of SARS-CoV-2 as
@@ -90,6 +118,7 @@ Biodefense by Solar Radiation](article_lytle_predicted_2005)
 COVID-19: A systematic review](article_mecenas_effects_2020)
 * [First detection of SARS-CoV-2 in untreated wastewaters
 in Italy](article_la_rosa_first_2020)
+* [Gardening is beneficial for health: A meta-analysis](article_soga_gardening_2017)
 
 ### Cited by 
 

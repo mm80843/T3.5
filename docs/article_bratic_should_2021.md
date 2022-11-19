@@ -1,18 +1,18 @@
 # Article: __Should I Stay or Should I Go? Tourists’ COVID-19 Risk Perception and Vacation Behavior Shift__ (bratic_should_2021)
 
 * [10.3390/su13063573](https://doi.org/10.3390/su13063573)
-* Cluster: [resilience-health](cluster_4)
+* Cluster: [tourism-tourist](cluster_7)
 
 
 ## Keywords
 
-* [manhattan](keyword_manhattan), [tour](keyword_tour), [new york city](keyword_new_york_city), trenton, [new jersey](keyword_new_jersey), [anxiety](keyword_anxiety), [covid-19](keyword_covid-19), [tourism](keyword_tourism), [salt lake city](keyword_salt_lake_city), [university of utah](keyword_university_of_utah), travel anxiety, [risk perception](keyword_risk_perception), [travel](keyword_travel), [coronavirus](keyword_coronavirus), [covid 19 pandemic](keyword_covid_19_pandemic)
+* [manhattan](keyword_manhattan), [new york city](keyword_new_york_city), trenton, [new jersey](keyword_new_jersey), [anxiety](keyword_anxiety), [covid-19](keyword_covid-19), [tourism](keyword_tourism), [salt lake city](keyword_salt_lake_city), [university of utah](keyword_university_of_utah), travel anxiety, [risk perception](keyword_risk_perception), [travel](keyword_travel), [coronavirus](keyword_coronavirus), [covid 19 pandemic](keyword_covid_19_pandemic), [vacation](keyword_vacation)
 
 
 
 ## Keywords at large
 
-* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
+* [manhattan](keyword_manhattan), [new york city](keyword_new_york_city), [tour](keyword_tour), [new jersey](keyword_new_jersey), [anxiety](keyword_anxiety), [covid-19](keyword_covid-19), [tourism](keyword_tourism), [university of utah](keyword_university_of_utah), [salt lake city](keyword_salt_lake_city)
 
 ## Abstract
 
@@ -43,6 +43,19 @@ international leisure travel.
 ## Concepts
 
  ![](imgs/article_bratic_should_2021.jpg)
+
+### Closest articles 
+
+* [Seeing the invisible hand: Underlying effects of COVID-19 on tourists’ behavioral patterns](article_li_seeing_2020)
+* [Air pollution linked with higher COVID-19 death rates](article_harvard_th_chan_schoold_of_public_health_air_2020)
+* [COVID-19 Higher Mortality in Chinese Regions With Chronic Exposure to Lower Air Quality](article_pansini_covid-19_2021)
+* [Compliance with COVID-19 Mitigation Measures in the United States](article_van_rooij_compliance_2020)
+* [The Intelligent Lockdown: Compliance with COVID-19 Mitigation Measures in the Netherlands](article_kuiper_intelligent_2020)
+* [Mitigation strategies and compliance in the COVID-19 fight; how much compliance is enough?](article_mukerjee_mitigation_2021)
+* [The changes in the effects of social media use of Cypriots due to COVID-19 pandemic](article_kaya_changes_2020)
+* [COVID-19 misinformation: Accuracy of articles about coronavirus prevention mostly shared on social media](article_obiala_covid-19_2021)
+* [What drives unverified information sharing and cyberchondria during the COVID-19 pandemic?](article_laato_what_2020)
+* [How COVID-19 Could Accelerate the Adoption of New Retail Technologies and Enhance the (E-)Servicescape](article_willems_how_2021)
 
 ### References 
 

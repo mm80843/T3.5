@@ -1,7 +1,7 @@
 # Keyword: __robot__
 ## Clusters
 
-* Cluster 8: [smart-datum](cluster_8)
+* Cluster 13: [robot-drone](cluster_13)
 
 ## Concepts
 

@@ -1,18 +1,18 @@
 # Article: __The COVID-19 pandemic: Impacts on cities and major lessons for urban planning, design, and management__ (sharifi_covid-19_2020)
 
 * [10.1016/j.scitotenv.2020.142391](https://doi.org/10.1016/j.scitotenv.2020.142391)
-* Cluster: [space-urban](cluster_13)
+* Cluster: [city-smart](cluster_10)
 
 
 ## Keywords
 
-* [pandemic](keyword_pandemic), [covid-19](keyword_covid-19), [environ](keyword_environ), [china](keyword_china), [city](keyword_city), [total environ](keyword_total_environ), [geogr](keyword_geogr), [wuhan](keyword_wuhan), [plan](keyword_plan), [transp](keyword_transp), dial, [perspective](keyword_perspective), genre, science fiction, soc
+* [pandemic](keyword_pandemic), [covid-19](keyword_covid-19), [china](keyword_china), [city](keyword_city), [wuhan](keyword_wuhan), [genre](keyword_genre), science fiction, [urban design](keyword_urban_design), [air quality](keyword_air_quality), [india](keyword_india), [covid 19 pandemic](keyword_covid_19_pandemic), [italy](keyword_italy), [lockdown](keyword_lockdown), [virus](keyword_virus), [water quality](keyword_water_quality)
 
 
 
 ## Keywords at large
 
-* [biophilic design](keyword_biophilic_design), [architecture](keyword_architecture), [sustainable architecture](keyword_sustainable_architecture), [nature](keyword_nature), [design](keyword_design), [biophilic](keyword_biophilic), [environ](keyword_environ), [biophilia](keyword_biophilia), [wellbeing](keyword_wellbeing), [health](keyword_health)
+* [pandemic](keyword_pandemic), [covid-19](keyword_covid-19), [china](keyword_china), [city](keyword_city), [wuhan](keyword_wuhan), [plan](keyword_plan), [transp](keyword_transp), [perspective](keyword_perspective), [dial](keyword_dial), [genre](keyword_genre)
 
 ## Abstract
 
@@ -61,11 +61,28 @@ Unlabelled Image
 
  ![](imgs/article_sharifi_covid-19_2020.jpg)
 
+### Closest articles 
+
+* [Respiratory pandemics, urban planning and design: A multidisciplinary rapid review of the literature](article_harris_respiratory_2022)
+* [COVID-19 Pandemic: Rethinking Strategies for
+Resilient Urban Design, Perceptions, and
+Planning](article_afrin_covid-19_2021)
+* [Pandemic stricken cities on lockdown. Where are our planning and design professionals [now, then and into the future]?](article_allam_pandemic_2020)
+* [Epidemics, Planning and the City: A Special Issue of Planning Perspectives](article_davis_epidemics_2022)
+* [COVID-19: Lessons for an Urban(izing) World](article_acuto_covid-19_2020)
+* [Coronavirus questions that will not go away: interrogating urban and socio-spatial implications of COVID-19 measures](article_salama_coronavirus_2020)
+* [Learning from pandemics: Applying resilience thinking to identify priorities for planning urban settlements](article_syal_learning_2021)
+* [On the Coronavirus (COVID-19) Outbreak and the Smart City Network: Universal Data Sharing Standards Coupled with Artificial Intelligence (AI) to Benefit Urban Health Monitoring and Management](article_allam_coronavirus_2020)
+* [Antivirus-built environment: Lessons learned from Covid-19 pandemic](article_megahed_antivirus-built_2020)
+* [WHO-2019-nCoV-Urban_preparedness-2020.1-eng](article_WHO-2019-nCoV-Urban_preparedness-2020.1-eng)
+
 ### References 
 
 * [Smart cities and a data-driven response to COVID-19](article_james_smart_2020)
 * [The effect of human mobility and control measures on the
 COVID-19 epidemic in China](article_kraemer_effect_2020)
+* [An investigation of transmission control measures during
+the first 50 days of the COVID-19 epidemic in China](article_tian_investigation_2020)
 
 ### Cited by 
 
@@ -76,6 +93,11 @@ System for Preventing COVID-19 Pandemic](article_amran_review_2022)
 of Pandemic-Resilient Homes](article_elrayies_prophylactic_2022)
 * [Respiratory pandemics, urban planning and design: A
 multidisciplinary rapid review of the literature](article_harris_respiratory_2022)
+* [Healthy Sustainable Cities and the COVID-19
+Pandemic: A Sustainable Development Goals
+Perspective](article_muthu_healthy_2021)
+* [The impact of the COVID-19 pandemic on the importance of
+urban green spaces to the public](article_noszczyk_impact_2022)
 * [Contributions of Smart City Solutions and
 Technologies to Resilience against the COVID-19
 Pandemic: A Literature Review](article_sharifi_contributions_2021)
