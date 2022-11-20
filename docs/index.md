@@ -9,33 +9,56 @@
   * We have 51 other URLs in database.
 * Topics
   * We have identified 16 topics of interest.
-  * We have identified 499708 relationships between terms.
+  * We have identified 354826 relationships between terms.
 * Terms
   * and 320 main terms from the clusters.
-  * and 1258 other relevant words or expressions.
+  * and 1246 other relevant words or expressions.
+* Blueprints
+  * We are trying 18 blueprints.
+
+# Blueprints
+
+0. [Rotational Shift System](bp0)
+1. [Smart Locker System](bp1)
+2. [Architecture design](bp2)
+3. [Indoor Environmental Quality (IEQ) monitoring system](bp3)
+4. [One-way mobility circulation](bp4)
+5. [Antimicrobial Surfaces](bp5)
+6. [Checkpoint allocation for access limitation](bp6)
+7. [Access limitation](bp7)
+8. [Public places as information points](bp8)
+9. [Tender support at building stage](bp9)
+10. [Installing UV in ductwork](bp10)
+11. [Installing high-efficiency air filters](bp11)
+12. [Resilience in staffing and skills training](bp12)
+13. [Negative pressure rooms](bp13)
+14. [Reversible Building Design](bp14)
+15. [Air Cleaning Plants](bp15)
+16. [Good hand hygiene practice](bp16)
+17. [Reducing contact points](bp17)
 
 # Clusters
 
-* [city-smart](cluster_10)
-* [health-building](cluster_9)
-* [wastewater-sars](cluster_1)
-* [smart-city](cluster_4)
-* [blockchain-ai](cluster_11)
-* [air-sars](cluster_0)
-* [construction-project](cluster_6)
-* [uv-room](cluster_2)
-* [tourism-tourist](cluster_7)
-* [city-spatial](cluster_3)
-* [uvc-hcov](cluster_5)
-* [health-housing](cluster_8)
-* [robot-drone](cluster_13)
+* [city-urban](cluster_15)
+* [datum-technology](cluster_8)
+* [ontology-datum](cluster_13)
+* [wastewater-sars](cluster_10)
+* [building-air](cluster_3)
+* [construction-industry](cluster_2)
+* [space-housing](cluster_1)
+* [sars-virus](cluster_7)
+* [ontology-disease](cluster_14)
+* [design-architecture](cluster_5)
+* [health-mental](cluster_6)
+* [latitude-country](cluster_0)
+* [surveying-drone](cluster_9)
 * [climate-change](cluster_12)
-* [resilience-system](cluster_14)
-* [green-urban](cluster_15)
+* [microbiome-space](cluster_4)
+* [people-model](cluster_11)
 
 
 # Terms
-* [access](keyword_access), [action](keyword_action), [aerosol](keyword_aerosol), [age](keyword_age), [ai](keyword_ai), [air](keyword_air), [airborne](keyword_airborne), [aires](keyword_aires), [alessandro](keyword_alessandro), [allam](keyword_allam), [analysis](keyword_analysis), [animal](keyword_animal), [anxiety](keyword_anxiety), [application](keyword_application), [appolloni](keyword_appolloni), [artificial](keyword_artificial), [assay](keyword_assay), [asset](keyword_asset), [base](keyword_base), [behavior](keyword_behavior), [beta](keyword_beta), [big](keyword_big), [blockchain](keyword_blockchain), [briefing](keyword_briefing), [buenos](keyword_buenos), [building](keyword_building), [capacity](keyword_capacity), [capolongo](keyword_capolongo), [case](keyword_case), [cell](keyword_cell), [challenge](keyword_challenge), [chamber](keyword_chamber), [change](keyword_change), [cite](keyword_cite), [cities](keyword_cities), [citizen](keyword_citizen), [city](keyword_city), [climate](keyword_climate), [cm](keyword_cm), [community](keyword_community), [company](keyword_company), [comput](keyword_comput), [concentration](keyword_concentration), [concept](keyword_concept), [concern](keyword_concern), [confinement](keyword_confinement), [congo](keyword_congo), [construction](keyword_construction), [contractor](keyword_contractor), [control](keyword_control), [coronavirus](keyword_coronavirus), [coronaviruse](keyword_coronaviruse), [crisis](keyword_crisis), [danish](keyword_danish), [data](keyword_data), [datum](keyword_datum), [density](keyword_density), [design](keyword_design), [destination](keyword_destination), [detection](keyword_detection), [dettori](keyword_dettori), [device](keyword_device), [diffusion](keyword_diffusion), [digital](keyword_digital), [disease](keyword_disease), [disinfection](keyword_disinfection), [distance](keyword_distance), [district](keyword_district), [dose](keyword_dose), [drone](keyword_drone), [drones](keyword_drones), [droplet](keyword_droplet), [earth](keyword_earth), [effect](keyword_effect), [employee](keyword_employee), [energy](keyword_energy), [engineering](keyword_engineering), [environment](keyword_environment), [epidemic](keyword_epidemic), [eu](keyword_eu), [european](keyword_european), [factor](keyword_factor), [far](keyword_far), [fight](keyword_fight), [filter](keyword_filter), [gene](keyword_gene), [germicidal](keyword_germicidal), [globalisation](keyword_globalisation), [gola](keyword_gola), [governance](keyword_governance), [green](keyword_green), [hcov](keyword_hcov), [health](keyword_health), [healthcare](keyword_healthcare), [help](keyword_help), [home](keyword_home), [hospital](keyword_hospital), [housing](keyword_housing), [human](keyword_human), [ig](keyword_ig), [impact](keyword_impact), [inactivation](keyword_inactivation), [indicator](keyword_indicator), [indoor](keyword_indoor), [industry](keyword_industry), [infection](keyword_infection), [infectious](keyword_infectious), [inflammatory](keyword_inflammatory), [influenza](keyword_influenza), [intelligence](keyword_intelligence), [internet](keyword_internet), [iot](keyword_iot), [irradiation](keyword_irradiation), [lamp](keyword_lamp), [landscape](keyword_landscape), [light](keyword_light), [living](keyword_living), [management](keyword_management), [mar](keyword_mar), [marketing](keyword_marketing), [medical](keyword_medical), [mers](keyword_mers), [metric](keyword_metric), [mhv](keyword_mhv), [mj](keyword_mj), [ml](keyword_ml), [mobility](keyword_mobility), [model](keyword_model), [need](keyword_need), [neighborhood](keyword_neighborhood), [network](keyword_network), [new](keyword_new), [news](keyword_news), [nm](keyword_nm), [number](keyword_number), [oc](keyword_oc), [oecd](keyword_oecd), [ontology](keyword_ontology), [pack](keyword_pack), [pandemic](keyword_pandemic), [park](keyword_park), [participant](keyword_participant), [patient](keyword_patient), [pcr](keyword_pcr), [people](keyword_people), [perceive](keyword_perceive), [perception](keyword_perception), [plan](keyword_plan), [planning](keyword_planning), [pollution](keyword_pollution), [population](keyword_population), [ppp](keyword_ppp), [primer](keyword_primer), [privacy](keyword_privacy), [private](keyword_private), [programming](keyword_programming), [project](keyword_project), [psychological](keyword_psychological), [public](keyword_public), [qpcr](keyword_qpcr), [rebecchi](keyword_rebecchi), [research](keyword_research), [resilience](keyword_resilience), [respiratory](keyword_respiratory), [respondent](keyword_respondent), [response](keyword_response), [risk](keyword_risk), [rna](keyword_rna), [roadmap](keyword_roadmap), [robot](keyword_robot), [robots](keyword_robots), [room](keyword_room), [rt](keyword_rt), [safe](keyword_safe), [safety](keyword_safety), [sample](keyword_sample), [sars](keyword_sars), [sector](keyword_sector), [security](keyword_security), [sequence](keyword_sequence), [sewage](keyword_sewage), [shock](keyword_shock), [simulation](keyword_simulation), [site](keyword_site), [slovenia](keyword_slovenia), [smart](keyword_smart), [social](keyword_social), [space](keyword_space), [spatial](keyword_spatial), [spread](keyword_spread), [study](keyword_study), [surface](keyword_surface), [surveillance](keyword_surveillance), [survey](keyword_survey), [system](keyword_system), [tb](keyword_tb), [tech](keyword_tech), [technology](keyword_technology), [threat](keyword_threat), [time](keyword_time), [tour](keyword_tour), [tourism](keyword_tourism), [tourist](keyword_tourist), [transmission](keyword_transmission), [travel](keyword_travel), [traveler](keyword_traveler), [tuberculosis](keyword_tuberculosis), [ultraviolet](keyword_ultraviolet), [upper](keyword_upper), [urban](keyword_urban), [uv](keyword_uv), [uvc](keyword_uvc), [uvgi](keyword_uvgi), [vacation](keyword_vacation), [variable](keyword_variable), [ventilation](keyword_ventilation), [vienna](keyword_vienna), [viral](keyword_viral), [virus](keyword_virus), [visit](keyword_visit), [waste](keyword_waste), [wastewater](keyword_wastewater), [water](keyword_water), [work](keyword_work), [worker](keyword_worker), [workshop](keyword_workshop), [wwtp](keyword_wwtp)
+* [access](keyword_access), [action](keyword_action), [aerosol](keyword_aerosol), [agent](keyword_agent), [ai](keyword_ai), [air](keyword_air), [airborne](keyword_airborne), [analytic](keyword_analytic), [animal](keyword_animal), [anxiety](keyword_anxiety), [apartment](keyword_apartment), [application](keyword_application), [architectural](keyword_architectural), [architecture](keyword_architecture), [assay](keyword_assay), [bacterial](keyword_bacterial), [balcony](keyword_balcony), [base](keyword_base), [beginning](keyword_beginning), [behavioural](keyword_behavioural), [biomarker](keyword_biomarker), [biomedical](keyword_biomedical), [blockchain](keyword_blockchain), [border](keyword_border), [box](keyword_box), [bt](keyword_bt), [build](keyword_build), [building](keyword_building), [business](keyword_business), [camera](keyword_camera), [capita](keyword_capita), [case](keyword_case), [cb](keyword_cb), [cell](keyword_cell), [centrality](keyword_centrality), [challenge](keyword_challenge), [change](keyword_change), [china](keyword_china), [city](keyword_city), [climate](keyword_climate), [clinical](keyword_clinical), [community](keyword_community), [company](keyword_company), [construction](keyword_construction), [contamination](keyword_contamination), [contractor](keyword_contractor), [control](keyword_control), [copper](keyword_copper), [coron](keyword_coron), [coronavirus](keyword_coronavirus), [corridor](keyword_corridor), [country](keyword_country), [crisis](keyword_crisis), [data](keyword_data), [datum](keyword_datum), [death](keyword_death), [delivery](keyword_delivery), [dependency](keyword_dependency), [design](keyword_design), [detection](keyword_detection), [development](keyword_development), [digital](keyword_digital), [disease](keyword_disease), [disinfection](keyword_disinfection), [distancing](keyword_distancing), [diversity](keyword_diversity), [domain](keyword_domain), [drone](keyword_drone), [drones](keyword_drones), [drug](keyword_drug), [dust](keyword_dust), [economic](keyword_economic), [egress](keyword_egress), [embed](keyword_embed), [employee](keyword_employee), [energy](keyword_energy), [enforce](keyword_enforce), [engineering](keyword_engineering), [environment](keyword_environment), [epidemiological](keyword_epidemiological), [epidemiology](keyword_epidemiology), [estimate](keyword_estimate), [estimation](keyword_estimation), [eu](keyword_eu), [europe](keyword_europe), [european](keyword_european), [evidence](keyword_evidence), [execution](keyword_execution), [exhaustive](keyword_exhaustive), [expenditure](keyword_expenditure), [fake](keyword_fake), [filter](keyword_filter), [ft](keyword_ft), [gene](keyword_gene), [green](keyword_green), [halden](keyword_halden), [hall](keyword_hall), [health](keyword_health), [healthcare](keyword_healthcare), [home](keyword_home), [hospital](keyword_hospital), [housing](keyword_housing), [human](keyword_human), [humidity](keyword_humidity), [identied](keyword_identied), [impact](keyword_impact), [indoor](keyword_indoor), [industry](keyword_industry), [infection](keyword_infection), [infectious](keyword_infectious), [information](keyword_information), [inhabitant](keyword_inhabitant), [intensity](keyword_intensity), [interoperability](keyword_interoperability), [interoperable](keyword_interoperable), [interrelation](keyword_interrelation), [iot](keyword_iot), [kf](keyword_kf), [knowledge](keyword_knowledge), [latitude](keyword_latitude), [layer](keyword_layer), [logarithm](keyword_logarithm), [lter](keyword_lter), [management](keyword_management), [mapping](keyword_mapping), [measure](keyword_measure), [medical](keyword_medical), [medium](keyword_medium), [mental](keyword_mental), [microbial](keyword_microbial), [microbiome](keyword_microbiome), [million](keyword_million), [misinformation](keyword_misinformation), [model](keyword_model), [modernist](keyword_modernist), [network](keyword_network), [new](keyword_new), [news](keyword_news), [number](keyword_number), [object](keyword_object), [occupancy](keyword_occupancy), [occupant](keyword_occupant), [office](keyword_office), [ontological](keyword_ontological), [ontology](keyword_ontology), [pac](keyword_pac), [pandemic](keyword_pandemic), [parameter](keyword_parameter), [patient](keyword_patient), [pb](keyword_pb), [pcr](keyword_pcr), [people](keyword_people), [per](keyword_per), [permanent](keyword_permanent), [policy](keyword_policy), [pollution](keyword_pollution), [pp](keyword_pp), [primer](keyword_primer), [project](keyword_project), [propose](keyword_propose), [public](keyword_public), [qpcr](keyword_qpcr), [ratio](keyword_ratio), [real](keyword_real), [reconsideration](keyword_reconsideration), [recur](keyword_recur), [representation](keyword_representation), [research](keyword_research), [resilience](keyword_resilience), [resilient](keyword_resilient), [respiratory](keyword_respiratory), [respondent](keyword_respondent), [response](keyword_response), [restroom](keyword_restroom), [right](keyword_right), [rna](keyword_rna), [robot](keyword_robot), [room](keyword_room), [rp](keyword_rp), [rq](keyword_rq), [rt](keyword_rt), [safety](keyword_safety), [sample](keyword_sample), [sars](keyword_sars), [scmp](keyword_scmp), [semantic](keyword_semantic), [sensor](keyword_sensor), [sequence](keyword_sequence), [sewage](keyword_sewage), [simulation](keyword_simulation), [site](keyword_site), [smart](keyword_smart), [social](keyword_social), [solution](keyword_solution), [solve](keyword_solve), [space](keyword_space), [st](keyword_st), [states](keyword_states), [study](keyword_study), [summer](keyword_summer), [support](keyword_support), [surely](keyword_surely), [surface](keyword_surface), [surveillance](keyword_surveillance), [surveying](keyword_surveying), [sustainability](keyword_sustainability), [sustainable](keyword_sustainable), [system](keyword_system), [tcid](keyword_tcid), [tech](keyword_tech), [technology](keyword_technology), [telehealth](keyword_telehealth), [temperature](keyword_temperature), [testing](keyword_testing), [thinking](keyword_thinking), [tool](keyword_tool), [transmission](keyword_transmission), [ts](keyword_ts), [uc](keyword_uc), [urban](keyword_urban), [uv](keyword_uv), [ventilation](keyword_ventilation), [viral](keyword_viral), [virus](keyword_virus), [ward](keyword_ward), [wastewater](keyword_wastewater), [water](keyword_water), [work](keyword_work), [worker](keyword_worker), [workplace](keyword_workplace), [wwtp](keyword_wwtp)
 
 # Articles
 
