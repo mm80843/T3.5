@@ -1,100 +1,39 @@
-# Article: __Environmental factors involved in SARS-CoV-2 transmission: effect and role of indoor environmental quality in the strategy for COVID-19 infection control__ (azuma_environmental_2020)
+# Article: Environmental factors involved in SARS-CoV-2 transmission: effect and role of indoor environmental quality in the strategy for COVID-19 infection control (azuma_environmental_2020)
 
-* [10.1186/s12199-020-00904-2](https://doi.org/10.1186/s12199-020-00904-2)
-* Cluster: [air-sars](cluster_0)
+* Source: [10.1186/s12199-020-00904-2](https://doi.org/10.1186/s12199-020-00904-2)
+* Year: 2020
+* Cluster: [air-uv](cluster_2)
+
 
 
 ## Keywords
 
-* [covid-19](keyword_covid-19), [ventilation](keyword_ventilation), [japan](keyword_japan), [aerosol](keyword_aerosol), [japanese](keyword_japanese), [virus](keyword_virus), [infection](keyword_infection), [coronavirus](keyword_coronavirus), [air conditioning](keyword_air_conditioning), [mhlw](keyword_mhlw), azuma, tokyo, zuma, [china](keyword_china), [sar cov 2](keyword_sar_cov_2)
-
-
-
-## Keywords at large
-
-* [covid-19](keyword_covid-19), [ventilation](keyword_ventilation), [japan](keyword_japan), [aerosol](keyword_aerosol), [japanese](keyword_japanese), [mhlw](keyword_mhlw), [virus](keyword_virus), [infection](keyword_infection), [coronavirus](keyword_coronavirus), [air conditioning](keyword_air_conditioning)
-
-## Abstract
-
-Abstract The severe acute respiratory syndrome coronavirus
-2 (SARS-CoV-2), a new zoonotic agent that emerged in
-December 2019, causes coronavirus disease 2019 (COVID-19).
-This infection can be spread by asymptomatic,
-presymptomatic, and symptomatic carriers. SARS-CoV-2
-spreads primarily via respiratory droplets during close
-person-to-person contact in a closed space, especially a
-building. This article summarizes the environmental factors
-involved in SARS-CoV-2 transmission, including a strategy
-to prevent SARS-CoV-2 transmission in a building
-environment. SARS-CoV-2 can persist on surfaces of fomites
-for at least 3 days depending on the conditions. If
-SARS-CoV-2 is aerosolized intentionally, it is stable for
-at least several hours. SARS-CoV-2 is inactivated rapidly
-on surfaces with sunlight. Close-contact aerosol
-transmission through smaller aerosolized particles is
-likely to be combined with respiratory droplets and contact
-transmission in a confined, crowded, and poorly ventilated
-indoor environment, as suggested by some cluster cases.
-Although evidence of the effect of aerosol transmission is
-limited and uncertainty remains, adequate preventive
-measures to control indoor environmental quality are
-required, based on a precautionary approach, because
-COVID-19 has caused serious global damages to public
-health, community, and the social economy. The expert panel
-for COVID-19 in Japan has focused on the “3 Cs,”
-namely, “closed spaces with poor ventilation,”
-“crowded spaces with many people,” and “close
-contact.” In addition, the Ministry of Health, Labour and
-Welfare of Japan has been recommending adequate ventilation
-in all closed spaces in accordance with the existing
-standards of the Law for Maintenance of Sanitation in
-Buildings as one of the initial political actions to
-prevent the spread of COVID-19. However, specific standards
-for indoor environmental quality control have not been
-recommended and many scientific uncertainties remain
-regarding the infection dynamics and mode of SARS-CoV-2
-transmission in closed indoor spaces. Further research and
-evaluation are required regarding the effect and role of
-indoor environmental quality control, especially
-ventilation.
+ * [aerosol](keyword_aerosol), aerosol size distribution, aerosol transmission, [air](keyword_air), [air conditioning](keyword_air_conditioning), [airborne](keyword_airborne), airborne transmission, airflow, asymptomatic, [australia](keyword_australia), azuma, biryukov j, breathing, [build](keyword_build), cabinet secretariat, carpet, [china](keyword_china), clean air, contact transmission, [copper](keyword_copper), copper sar cov 1 nr nr 8h 1 day 1 5 van doremalen et, copper sar cov 2 nr nr 4h 8h 0 8 van doremalen et, corona virus, [coronavirus](keyword_coronavirus), cough, [covid-19](keyword_covid-19), [disinfection](keyword_disinfection), [droplet](keyword_droplet), environmental health, environmental health and preventive medicine, epidemiol, escombe, filtration, gilman rh, guangzhou, [health](keyword_health), heating, heatstroke, [hospital](keyword_hospital), houston, [hubei](keyword_hubei), [indoor](keyword_indoor), indoor air, [indoor environment](keyword_indoor_environment), indoor environmental quality control, [infect](keyword_infect), [infection](keyword_infection), infectious, [influenza](keyword_influenza), [influenza virus](keyword_influenza_virus), [japan](keyword_japan), japanese, li y, [manhattan](keyword_manhattan), menzie d, mhlw, mhlw mhlw, ministry of health labour and welfare, montero da, [nature](keyword_nature), [new south wale](keyword_new_south_wale), [new york city](keyword_new_york_city), nuclei, paper, [particle](keyword_particle), pastorino b, precautionary principle, preventive medicine, prime minister of japan, probability of infection, [public health](keyword_public_health), qian, relative humidity, respiratory droplet, saliva, sar cov, [sar cov 1](keyword_sar_cov_1), [sar cov 2](keyword_sar_cov_2), sarscov 2, severe acute respiratory syndrome coronavirus 2, sneeze, speech, [spread](keyword_spread), [stainless steel](keyword_stainless_steel), summer, sunlight, surgical mask, [temperature](keyword_temperature), tissue paper, tokyo, [transmission](keyword_transmission), [tuberculosis](keyword_tuberculosis), [uvgi](keyword_uvgi), [ventilation](keyword_ventilation), ventilation rate, [ventilation system](keyword_ventilation_system), [virus](keyword_virus), [window](keyword_window), [wuhan](keyword_wuhan), zuma
 
 
 ## Concepts
 
  ![](imgs/article_azuma_environmental_2020.jpg)
 
-### Closest articles 
-
-* [2019 Novel Coronavirus (COVID-19) Pandemic: Built Environment Considerations To Reduce Transmission](article_dietz_2019_2020)
-* [The ventilation of buildings and other mitigating measures for COVID-19: a focus on wintertime](article_burridge_ventilation_2021)
-* [How can airborne transmission of COVID-19 indoors be minimised?](article_morawska_how_2020)
-* [A review of facilities management interventions to mitigate respiratory infections in existing buildings](article_zhang_review_2022)
-* [Heating, ventilation and air-conditioning systems in the
-context of COVID-19](article_ecdc_heating_2020)
-* [morawska_how_2020-1](article_morawska_how_2020-1)
-* [Methods for air cleaning and protection of building occupants from airborne pathogens](article_bolashikov_methods_2009)
-* [Ventilation use in nonmedical settings during COVID-19: Cleaning protocol, maintenance, and recommendations](article_nembhard_ventilation_2020)
-* [A Review on Building Design as a Biomedical System for Preventing COVID-19 Pandemic](article_amran_review_2022)
-* [Architectural design strategies for infection prevention
-and control (IPC) in health-care facilities: towards
-curbing the spread of Covid-19 \textbar SpringerLink](article_udomiaye_architectural_2020)
-
-### References 
-
-* [Aerosol and Surface Distribution of Severe Acute
-Respiratory Syndrome Coronavirus 2 in Hospital
-Wards, Wuhan, China, 2020](article_guo_aerosol_2020)
-* [Air, Surface Environmental, and Personal
-Protective Equipment Contamination by Severe
-Acute Respiratory Syndrome Coronavirus 2
-(SARS-CoV-2) From a Symptomatic Patient](article_ong_air_2020)
-* [Aerosol and Surface Stability of SARS-CoV-2 as
-Compared with SARS-CoV-1](article_van_doremalen_aerosol_2020)
-* [How can airborne transmission of COVID-19 indoors be
-minimised?](article_morawska_how_2020)
-
-### Cited by 
 
 
-* [Prophylactic Architecture: Formulating the Concept
-of Pandemic-Resilient Homes](article_elrayies_prophylactic_2022)
+## Neighbours
+
+### Closest articles
+
+* The ventilation of buildings and other mitigating measures for COVID-19: a focus on wintertime - [LINK](article_burridge_ventilation_2021)
+* 2019 Novel Coronavirus (COVID-19) Pandemic: Built Environment Considerations To Reduce Transmission - [LINK](article_dietz_2019_2020)
+* The efficacy of social distance and ventilation effectiveness in preventing COVID-19 transmission - [LINK](article_sun_efficacy_2020)
+* Methods for air cleaning and protection of building occupants from airborne pathogens - [LINK](article_bolashikov_methods_2009)
+* How can airborne transmission of COVID-19 indoors be minimised? - [LINK](article_morawska_how_2020)
+* A review of facilities management interventions to mitigate respiratory infections in existing buildings - [LINK](article_zhang_review_2022)
+* Heating, ventilation and air-conditioning systems in the context of COVID-19 - [LINK](article_ecdc_heating_2020)
+* A Review on Building Design as a Biomedical System for Preventing COVID-19 Pandemic - [LINK](article_amran_review_2022)
+* Architectural design strategies for infection prevention and control (IPC) in health-care facilities: towards curbing the spread of Covid-19 \textbar SpringerLink - [LINK](article_udomiaye_architectural_2020)
+
+
+### Closest BPs
+
+* Installing UV in ductwork - [LINK](bp_10)
+* Indoor Environmental Quality (IEQ) monitoring system - [LINK](bp_3)
+* Installing high-efficiency air filters - [LINK](bp_11)

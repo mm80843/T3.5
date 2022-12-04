@@ -1,76 +1,39 @@
-# Article: __Air Disinfection for Airborne Infection Control with a Focus on COVID‐19: Why Germicidal UV is Essential
-            <sup>†</sup>__ (nardell_air_2021)
+# Article: Air Disinfection for Airborne Infection Control with a Focus on COVID‐19: Why Germicidal UV is Essential            <sup>†</sup> (nardell_air_2021)
 
-* [10.1111/php.13421](https://doi.org/10.1111/php.13421)
-* Cluster: [uv-room](cluster_2)
+* Source: [10.1111/php.13421](https://doi.org/10.1111/php.13421)
+* Year: 2021
+* Cluster: [air-uv](cluster_2)
+
 
 
 ## Keywords
 
-* [ventilation](keyword_ventilation), [airborne infection](keyword_airborne_infection), [uv](keyword_uv), [ultraviolet](keyword_ultraviolet), [disinfection](keyword_disinfection), [covid-19](keyword_covid-19), [tuberculosis](keyword_tuberculosis), [transmission](keyword_transmission), [infectious](keyword_infectious), [germicidal](keyword_germicidal), mechanical ventilation, [airborne transmission](keyword_airborne_transmission), [tb](keyword_tb), room air cleaner, eye
-
-
-
-## Keywords at large
-
-* [ventilation](keyword_ventilation), [covid-19](keyword_covid-19), [airborne infection](keyword_airborne_infection), [uv](keyword_uv), [ultraviolet](keyword_ultraviolet), [disinfection](keyword_disinfection), [tuberculosis](keyword_tuberculosis), [transmission](keyword_transmission), [infectious](keyword_infectious), [germicidal](keyword_germicidal)
-
-## Abstract
-
-Aerosol transmission is now widely accepted as the
-principal way that COVID-19 is spread, as has the
-importance of ventilation-natural and mechanical. But in
-other than healthcare facilities, mechanical ventilation is
-designed for comfort, not airborne infection control, and
-cannot achieve the 6 to 12 room air changes per hour
-recommended for airborne infection control. More efficient
-air filters have been recommended in ventilation ducts
-despite a lack of convincing evidence that SARS-CoV-2 virus
-spreads through ventilation systems. Most transmission
-appears to occur in rooms where both an infectious source
-COVID-19 case and other susceptible occupants share the
-same air. Only two established room-based technologies are
-available to supplement mechanical ventilation: portable
-room air cleaners and upper room germicidal UV air
-disinfection. Portable room air cleaners can be effective,
-but performance is limited by their clean air delivery rate
-relative to room volume. SARS-CoV-2 is highly susceptible
-to GUV, an 80-year-old technology that has been shown to
-safely, quietly, effectively and economically produce the
-equivalent of 10 to 20 or more air changes per hour under
-real life conditions. For these reasons, upper room GUV is
-the essential engineering intervention for reducing
-COVID-19 spread.
+ * [air](keyword_air), air change, [air conditioning](keyword_air_conditioning), air disinfection, [airborne](keyword_airborne), airborne contaminant, [airborne infection](keyword_airborne_infection), airborne pathogen, airborne route, airborne transmission, [australia](keyword_australia), [build](keyword_build), [cochrane france](keyword_cochrane_france), communicable infection, [covid 19 pandemic](keyword_covid_19_pandemic), [covid-19](keyword_covid-19), decontaminate, [disinfection](keyword_disinfection), duct, ductless, e2011834, e43, e68, efﬁcacy, efﬁciency, efﬁcient ﬁlter, environmental control, epa, eqach, equivalent ach, [exposure](keyword_exposure), eye, [germicidal](keyword_germicidal), germicidal uv, gonioradiometry, [healthcare](keyword_healthcare), [hvac](keyword_hvac), hvac system, [infection](keyword_infection), infectious, infectious source, intervention, jail, jamaica, m verdeș, mechanical ventilation, mercury, mmwr, mold, morb, mortal, mycobacterium tuberculosis, natural ventilation, neglect, [new south wale](keyword_new_south_wale), [noise](keyword_noise), nucleic acid, odor, [online library](keyword_online_library), onlinelibrary wiley, pandemic covid 19, pandemic inﬂuenza, [pathogen](keyword_pathogen), patient care, [peru](keyword_peru), photobiology, photochem, photochemistry, photoreactivation, plos medicine, pollen, rapid review, respiratory infection, romania, [room](keyword_room), room air, room air cleaner, room volume, [russia](keyword_russia), [safety](keyword_safety), [sar cov 2](keyword_sar_cov_2), sar cov 2 virus, skin, [south africa](keyword_south_africa), surface decontaminant, surface disinfection, [tb](keyword_tb), [transmission](keyword_transmission), [tuberculosis](keyword_tuberculosis), [ultraviolet](keyword_ultraviolet), upper room guv, upper room uv, [uv](keyword_uv), uv ﬂuency, [ventilation](keyword_ventilation), ventilation duct, [ventilation system](keyword_ventilation_system), [virus](keyword_virus), vladimir, ﬁlter
 
 
 ## Concepts
 
  ![](imgs/article_nardell_air_2021.jpg)
 
-### Closest articles 
-
-* [Applications of ultraviolet germicidal irradiation disinfection in health care facilities: Effective adjunct, but not stand-alone technology](article_memarzadeh_applications_2010)
-* [Upper-Room Ultraviolet Light and Negative Air Ionization to Prevent Tuberculosis Transmission](article_escombe_upper-room_2009)
-* [Methods for air cleaning and protection of building occupants from airborne pathogens](article_bolashikov_methods_2009)
-* [Behind the Update: ASHRAE Handbook Chapters on
-UV-C to Include Updated Best Practices,
-Guidance](article_ashrae_behind_2020)
-* [Upper-room ultraviolet air disinfection might help to reduce COVID-19 transmission in buildings: a feasibility study](article_beggs_upper-room_2020)
-* [morawska_how_2020-1](article_morawska_how_2020-1)
-* [Case Study: Using Germicidal UV-C to Mitigate
-COVID-19 - HVAC](article_healthcare_facilities_today_case_2021)
-* [ASHRAE Position Document on Infectious
-Aerosols](article_ashrae_ashrae_2022)
-* [How can airborne transmission of COVID-19 indoors be minimised?](article_morawska_how_2020)
-* [Effect of Ultraviolet Germicidal Irradiation on Viral Aerosols](article_walker_effect_2007)
-
-### References 
-
-* [Upper-Room Ultraviolet Light and Negative Air
-Ionization to Prevent Tuberculosis Transmission](article_escombe_upper-room_2009)
-* [Far-UVC light (222 nm) efficiently and safely
-inactivates airborne human coronaviruses](article_buonanno_far-uvc_2020)
-
-### Cited by 
 
 
+## Neighbours
+
+### Closest articles
+
+* Applications of ultraviolet germicidal irradiation disinfection in health care facilities: Effective adjunct, but not stand-alone technology - [LINK](article_memarzadeh_applications_2010)
+* Upper-Room Ultraviolet Light and Negative Air Ionization to Prevent Tuberculosis Transmission - [LINK](article_escombe_upper-room_2009)
+* Behind the Update: ASHRAE Handbook Chapters on UV-C to Include Updated Best Practices, Guidance - [LINK](article_ashrae_behind_2020)
+* Methods for air cleaning and protection of building occupants from airborne pathogens - [LINK](article_bolashikov_methods_2009)
+* Upper-room ultraviolet air disinfection might help to reduce COVID-19 transmission in buildings: a feasibility study - [LINK](article_beggs_upper-room_2020)
+* Case Study: Using Germicidal UV-C to Mitigate COVID-19 - HVAC - [LINK](article_healthcare_facilities_today_case_2021)
+* Effect of Ultraviolet Germicidal Irradiation on Viral Aerosols - [LINK](article_walker_effect_2007)
+* How can airborne transmission of COVID-19 indoors be minimised? - [LINK](article_morawska_how_2020)
+* Environmental factors involved in SARS-CoV-2 transmission: effect and role of indoor environmental quality in the strategy for COVID-19 infection control - [LINK](article_azuma_environmental_2020)
+
+
+### Closest BPs
+
+* Blueprint: Installing UV in ductwork - [LINK](bp_10)
+* Blueprint: Installing high-efficiency air filters - [LINK](bp_11)
+* Blueprint: Indoor Environmental Quality (IEQ) monitoring system - [LINK](bp_3)

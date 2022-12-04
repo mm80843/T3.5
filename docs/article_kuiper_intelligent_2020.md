@@ -1,35 +1,39 @@
-# Article: __The Intelligent Lockdown: Compliance with COVID-19 Mitigation Measures in the Netherlands__ (kuiper_intelligent_2020)
+# Article: The Intelligent Lockdown: Compliance with COVID-19 Mitigation Measures in the Netherlands (kuiper_intelligent_2020)
 
-* [10.2139/ssrn.3598215](https://doi.org/10.2139/ssrn.3598215)
-* Cluster: [health-building](cluster_9)
+* Source: [10.2139/ssrn.3598215](https://doi.org/10.2139/ssrn.3598215)
+* Year: 2020
+* Cluster: [building-space](cluster_9)
+
 
 
 ## Keywords
 
-* [covid-19](keyword_covid-19), [compliance](keyword_compliance), [law](keyword_law), [social norm](keyword_social_norm), [netherland](keyword_netherland), [criminology](keyword_criminology), [deterrence](keyword_deterrence), [political orientation](keyword_political_orientation), [social distancing](keyword_social_distancing), [measure](keyword_measure), [electronic copy](keyword_electronic_copy), punishment, self - discipline, impulsivity, [procedural justice](keyword_procedural_justice)
-
-
-
-## Keywords at large
-
-* [covid-19](keyword_covid-19), [compliance](keyword_compliance), [law](keyword_law), [social norm](keyword_social_norm), [deterrence](keyword_deterrence), [netherland](keyword_netherland), [criminology](keyword_criminology), [political orientation](keyword_political_orientation), [measure](keyword_measure), [electronic copy](keyword_electronic_copy)
+ * I o research, amsterdam, beach, behavioral science, behaviour, benjamin, benjamin van rooij, cambridge, cambridge university press, [compliance](keyword_compliance), compliant behavior, comply, conservative, control variable, correlation, cost of compliance, covid 19 measure, covid 19 mitigation measure, [covid 19 pandemic](keyword_covid_19_pandemic), [covid-19](keyword_covid-19), criminology, daniel d sokol, daniel s, descriptive, descriptive statistic, [deterrence](keyword_deterrence), dutch, dutch prime minister, electronic, electronic copy, emotion, ethnic minority, [europe](keyword_europe), factor, francis t cullen, gender, impulsivity, independent variable, ingo, intelligent lockdown, intrinsic motivation, [isolation](keyword_isolation), [italy](keyword_italy), [knowledge](keyword_knowledge), laila nockur, [law](keyword_law), liberal, likert scale, [lockdown](keyword_lockdown), [manipur](keyword_manipur), [measure](keyword_measure), michael bang petersen, mitigation, mitigation measure, [model](keyword_model), model 2, moral, moral alignment, moral support, negative emotion, [netherland](keyword_netherland), neuropeptopreviously, non normative ool, normative, normative ool, ool, osf, park, [pep](keyword_pep), police, [policy](keyword_policy), political orientation, present study, prime minister, procedural justice, [public health](keyword_public_health), punishment, reverse score, robert böhm, rutte, réquisite, self control, self discipline, significant, [social](keyword_social), [social distancing](keyword_social_distancing), [social norm](keyword_social_norm), stay at home, stefan, strain, strain theory, subscale, [survey](keyword_survey), travis c, trust in science, [united kingdom](keyword_united_kingdom), universiteit twente, vulnerably, xxvi 证, xxx
 
 
 ## Concepts
 
  ![](imgs/article_kuiper_intelligent_2020.jpg)
 
-### Closest articles 
 
-* [Compliance with COVID-19 Mitigation Measures in the United States](article_van_rooij_compliance_2020)
-* [Mitigation strategies and compliance in the COVID-19 fight; how much compliance is enough?](article_mukerjee_mitigation_2021)
-* [Impacts of COVID-19 on Health and Safety of Workforce in Construction Industry](article_pamidimukkala_impacts_2021)
-* [Should I Stay or Should I Go? Tourists’ COVID-19 Risk Perception and Vacation Behavior Shift](article_bratic_should_2021)
-* [Seeing the invisible hand: Underlying effects of COVID-19 on tourists’ behavioral patterns](article_li_seeing_2020)
-* [How COVID-19 Could Accelerate the Adoption of New Retail Technologies and Enhance the (E-)Servicescape](article_willems_how_2021)
-* [Touchless Retail: What the Rest of the World could
-learn from China’s new ways to shop](article_capgemini_touchless_2020)
-* [How is COVID-19 Experience Transforming Sustainability Requirements of Residential Buildings? A Review](article_tokazhanov_how_2020)
-* [The changes in the effects of social media use of Cypriots due to COVID-19 pandemic](article_kaya_changes_2020)
-* [COVID-19 and Green Housing: A Review of Relevant Literature](article_kaklauskas_covid-19_2021)
 
+## Neighbours
+
+### Closest articles
+
+* Compliance with COVID-19 Mitigation Measures in the United States - [LINK](article_van_rooij_compliance_2020)
+* Mitigation strategies and compliance in the COVID-19 fight; how much compliance is enough? - [LINK](article_mukerjee_mitigation_2021)
+* 2020 Data Protection Report - [LINK](article_council_of_europe_2020_2020)
+* Challenges of data sharing in European Covid-19 projects: A learning opportunity for advancing pandemic preparedness and response - [LINK](article_tacconelli_challenges_2022)
+* Borders and Catastrophe: lessons from COVID-19 for the European Green Deal - [LINK](article_klein_borders_2021)
+* How drones help cities during the Covid-19 pandemic \textbar TheMayor.EU - [LINK](article_dimitrova_how_2021)
+* China adapts survey drones to enforce world’s largest quarantine - [LINK](article_liu_china_2020)
+* Touchless Retail: What the Rest of the World could learn from China’s new ways to shop - [LINK](article_capgemini_touchless_2020)
+* Retail Signage During the COVID-19 Pandemic - [LINK](article_mcneish_retail_2020)
+
+
+### Closest BPs
+
+* Blueprint: Reducing contact points - [LINK](bp_17)
+* Blueprint: Smart Locker System - [LINK](bp_1)
+* Blueprint: Access limitation - [LINK](bp_7)

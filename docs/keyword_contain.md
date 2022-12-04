@@ -1,29 +1,26 @@
-# Keyword: __contain__
-## Clusters
+# Keyword: contain
 
-* Cluster 14: [surveying-drone](cluster_14.md)
+* [surveying-mapping](cluster_Cluster_10)
+
+
+## Keywords
+
+ * Cluster_10, [contain](keyword_contain), contain a, containing, [pandemic](keyword_pandemic)
+
 
 ## Concepts
 
  ![](imgs/keyword_contain.jpg)
 
 
-## Articles
-* RUDDS_bioRxiv_update ([RUDDS_bioRxiv_update](article_RUDDS_bioRxiv_update.md))
-* rtpi_urban_2021-100 ([rtpi_urban_2021-100](article_rtpi_urban_2021-100.md))
-* DeepSOCIAL: Social Distancing Monitoring and
-Infection Risk Assessment in COVID-19 Pandemic ([rezaei_deepsocial_2020](article_rezaei_deepsocial_2020.md))
-* DeepSOCIAL: Social Distancing Monitoring and
-Infection Risk Assessment in COVID-19 Pandemic ([rezaei_deepsocial_2020](article_rezaei_deepsocial_2020.md))
-* DeepSOCIAL: Social Distancing Monitoring and
-Infection Risk Assessment in COVID-19 Pandemic ([rezaei_deepsocial_2020](article_rezaei_deepsocial_2020.md))
-* DeepSOCIAL: Social Distancing Monitoring and
-Infection Risk Assessment in COVID-19 Pandemic ([rezaei_deepsocial_2020](article_rezaei_deepsocial_2020.md))
-* DeepSOCIAL: Social Distancing Monitoring and
-Infection Risk Assessment in COVID-19 Pandemic ([rezaei_deepsocial_2020](article_rezaei_deepsocial_2020.md))
-* DeepSOCIAL: Social Distancing Monitoring and
-Infection Risk Assessment in COVID-19 Pandemic ([rezaei_deepsocial_2020](article_rezaei_deepsocial_2020.md))
-* DeepSOCIAL: Social Distancing Monitoring and
-Infection Risk Assessment in COVID-19 Pandemic ([rezaei_deepsocial_2020](article_rezaei_deepsocial_2020.md))
-* DeepSOCIAL: Social Distancing Monitoring and
-Infection Risk Assessment in COVID-19 Pandemic ([rezaei_deepsocial_2020](article_rezaei_deepsocial_2020.md))
+
+## Neighbours
+
+### Closest articles
+
+* EXPOSED: An occupant exposure model for confined spaces to retrofit crowd models during a pandemic - [LINK](article_ronchi_exposed_2020)
+* Mitigation strategies and compliance in the COVID-19 fight; how much compliance is enough? - [LINK](article_mukerjee_mitigation_2021)
+
+
+### Closest BPs
+

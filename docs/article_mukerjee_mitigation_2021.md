@@ -1,66 +1,39 @@
-# Article: __Mitigation strategies and compliance in the COVID-19 fight; how much compliance is enough?__ (mukerjee_mitigation_2021)
+# Article: Mitigation strategies and compliance in the COVID-19 fight; how much compliance is enough? (mukerjee_mitigation_2021)
 
-* [10.1371/journal.pone.0239352](https://doi.org/10.1371/journal.pone.0239352)
-* Cluster: [health-building](cluster_9)
+* Source: [10.1371/journal.pone.0239352](https://doi.org/10.1371/journal.pone.0239352)
+* Year: 2021
+* Cluster: [building-space](cluster_9)
+
 
 
 ## Keywords
 
-* [new york](keyword_new_york), [texas](keyword_texas), [bsi](keyword_bsi), [covid-19](keyword_covid-19), [infection](keyword_infection), [compliance indicator](keyword_compliance_indicator), [state](keyword_state), [arizona](keyword_arizona), [stringency index](keyword_stringency_index), [u.s .](keyword_u.s_.), mitigation function, new mexico, mitigation, [pandemic](keyword_pandemic), swati mukerjee
-
-
-
-## Keywords at large
-
-* [new york](keyword_new_york), [infection](keyword_infection), [texas](keyword_texas), [bsi](keyword_bsi), [state](keyword_state), [covid-19](keyword_covid-19), [compliance indicator](keyword_compliance_indicator), [arizona](keyword_arizona), [stringency index](keyword_stringency_index), [u.s .](keyword_u.s_.)
-
-## Abstract
-
-The U.S. with only 4\% of the world’s population, bears
-a disproportionate share of infections in the COVID-19
-pandemic. To understand this puzzle, we investigate how
-mitigation strategies and compliance can work together (or
-in opposition) to reduce (or increase) the spread of
-COVID-19 infection. Building on the Oxford index, we create
-state-specific stringency indices tailored to U.S.
-conditions, to measure the degree of strictness of public
-mitigation measures. A modified time-varying SEIRD model,
-incorporating this Stringency Index as well as a Compliance
-Indicator is then estimated with daily data for a sample of
-6 U.S. states: New York, New Hampshire, New Mexico,
-Colorado, Texas, and Arizona. We provide a simple visual
-policy tool to evaluate the various combinations of
-mitigation policies and compliance that can reduce the
-basic reproduction number to less than one, the
-acknowledged threshold in the epidemiological literature to
-control the pandemic. Understanding of this relationship by
-both the public and policy makers is key to controlling the
-pandemic. This tool has the potential to be used in a
-real-time, dynamic fashion for flexible policy options. Our
-methodology can be applied to other countries and has the
-potential to be extended to other epidemiological models as
-well. With this first step in attempting to quantify the
-factors that go into the “black box” of the
-transmission factor β , we hope that our work will
-stimulate further research in the dual role of mitigation
-policies and compliance.
+ * [algorithm](keyword_algorithm), api, arizona, atlanta, average, az, bentley stringency index, bentley university, [bsi](keyword_bsi), bsi number, [california](keyword_california), [cdc](keyword_cdc), center for disease control and prevention, [china](keyword_china), colorado, [compliance](keyword_compliance), compliance index, [compliance indicator](keyword_compliance_indicator), compliance rate, [control](keyword_control), [coronavirus](keyword_coronavirus), covid 19 epidemic, covid 19 fight, [covid 19 pandemic](keyword_covid_19_pandemic), [covid-19](keyword_covid-19), [datum](keyword_datum), day 180, death, desirable, [disease](keyword_disease), [epidemic](keyword_epidemic), [epidemiological](keyword_epidemiological), [epidemiology](keyword_epidemiology), executive order, [face mask](keyword_face_mask), gao, github, google scholar, governor, [infection](keyword_infection), johns hopkins university, legend, [lockdown](keyword_lockdown), mingfei li, mitigation, mitigation function, mitigation measure, mitigation policy, mitigation strategy, [model](keyword_model), model estimation, national academy of sciences, new hampshire, new mexico, [new york](keyword_new_york), [new york city](keyword_new_york_city), new york times repository, nm, ortiz ospina e, oxford index, [pandemic](keyword_pandemic), peke university, physical distancing, pmid, [policy](keyword_policy), policy maker, [population](keyword_population), prevention, [public](keyword_public), [public health](keyword_public_health), r0, [recovery](keyword_recovery), reproduction number, s t, [sar cov 2](keyword_sar_cov_2), seird, sensitivity analysis, si t, [simulation](keyword_simulation), [social distancing](keyword_social_distancing), sri lanka, [state](keyword_state), stringency, stringency index, swati mukerjee, [texas](keyword_texas), tif, [transmission](keyword_transmission), u s, u s state, undesirable, [united nations](keyword_united_nations), [united states](keyword_united_states), united states of america, view article, who, [wuhan](keyword_wuhan), zama, ðt þ, αππλos
 
 
 ## Concepts
 
  ![](imgs/article_mukerjee_mitigation_2021.jpg)
 
-### Closest articles 
 
-* [The Intelligent Lockdown: Compliance with COVID-19 Mitigation Measures in the Netherlands](article_kuiper_intelligent_2020)
-* [Compliance with COVID-19 Mitigation Measures in the United States](article_van_rooij_compliance_2020)
-* [How COVID-19 Could Accelerate the Adoption of New Retail Technologies and Enhance the (E-)Servicescape](article_willems_how_2021)
-* [Impacts of COVID-19 on Health and Safety of Workforce in Construction Industry](article_pamidimukkala_impacts_2021)
-* [Touchless Retail: What the Rest of the World could
-learn from China’s new ways to shop](article_capgemini_touchless_2020)
-* [Should I Stay or Should I Go? Tourists’ COVID-19 Risk Perception and Vacation Behavior Shift](article_bratic_should_2021)
-* [Seeing the invisible hand: Underlying effects of COVID-19 on tourists’ behavioral patterns](article_li_seeing_2020)
-* [How is COVID-19 Experience Transforming Sustainability Requirements of Residential Buildings? A Review](article_tokazhanov_how_2020)
-* [COVID-19 and Green Housing: A Review of Relevant Literature](article_kaklauskas_covid-19_2021)
-* [The changes in the effects of social media use of Cypriots due to COVID-19 pandemic](article_kaya_changes_2020)
 
+## Neighbours
+
+### Closest articles
+
+* The Intelligent Lockdown: Compliance with COVID-19 Mitigation Measures in the Netherlands - [LINK](article_kuiper_intelligent_2020)
+* Compliance with COVID-19 Mitigation Measures in the United States - [LINK](article_van_rooij_compliance_2020)
+* 2020 Data Protection Report - [LINK](article_council_of_europe_2020_2020)
+* Challenges of data sharing in European Covid-19 projects: A learning opportunity for advancing pandemic preparedness and response - [LINK](article_tacconelli_challenges_2022)
+* Borders and Catastrophe: lessons from COVID-19 for the European Green Deal - [LINK](article_klein_borders_2021)
+* How drones help cities during the Covid-19 pandemic \textbar TheMayor.EU - [LINK](article_dimitrova_how_2021)
+* China adapts survey drones to enforce world’s largest quarantine - [LINK](article_liu_china_2020)
+* Touchless Retail: What the Rest of the World could learn from China’s new ways to shop - [LINK](article_capgemini_touchless_2020)
+* Retail Signage During the COVID-19 Pandemic - [LINK](article_mcneish_retail_2020)
+
+
+### Closest BPs
+
+* Blueprint: Reducing contact points - [LINK](bp_17)
+* Blueprint: Access limitation - [LINK](bp_7)
+* Blueprint: Smart Locker System - [LINK](bp_1)

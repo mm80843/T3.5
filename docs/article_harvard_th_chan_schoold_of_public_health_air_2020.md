@@ -1,40 +1,40 @@
-# Article: __Air pollution linked with higher COVID-19 death rates__ (harvard_th_chan_schoold_of_public_health_air_2020)
+# Article: Air pollution linked with higher COVID-19 death rates (harvard_th_chan_schoold_of_public_health_air_2020)
 
-* URL: [https://www.hsph.harvard.edu/news/hsph-in-the-news/air-pollution-linked-with-higher-covid-19-death-rates/](https://www.hsph.harvard.edu/news/hsph-in-the-news/air-pollution-linked-with-higher-covid-19-death-rates/)
+* [https://www.hsph.harvard.edu/news/hsph-in-the-news/air-pollution-linked-with-higher-covid-19-death-rates/](https://www.hsph.harvard.edu/news/hsph-in-the-news/air-pollution-linked-with-higher-covid-19-death-rates/)
 * Year: 2020
-* Abstract: People with COVID-19 who live in U.S. regions with high
-levels of air pollution are more likely to die from the
-disease than people who live in less polluted areas,
-according to a new nationwide st…
+* Cluster: [building-space](cluster_9)
 
 
 
 ## Keywords
 
-* [biostatistic](keyword_biostatistic), [coronavirus](keyword_coronavirus), [covid-19](keyword_covid-19), [danielle braun](keyword_danielle_braun), [smoking](keyword_smoking), [respiratory ailment](keyword_respiratory_ailment), [president and fellow](keyword_president_and_fellow), [linkedin](keyword_linkedin), harvard college, [benjamin sabath](keyword_benjamin_sabath), [cardiovascular](keyword_cardiovascular), socioeconomic, rachel nethery, fine particulate air pollution, fine particulate pollution
-
-
-
-## Keywords at large
-
-* [biostatistic](keyword_biostatistic), [coronavirus](keyword_coronavirus), [covid-19](keyword_covid-19), [smoking](keyword_smoking), [benjamin sabath](keyword_benjamin_sabath), [cardiovascular](keyword_cardiovascular), [respiratory ailment](keyword_respiratory_ailment), [president and fellow](keyword_president_and_fellow), [danielle braun](keyword_danielle_braun), [linkedin](keyword_linkedin)
+ * [air pollution](keyword_air_pollution), air pollution regulation, [benjamin sabath](keyword_benjamin_sabath), [biostatistic](keyword_biostatistic), cardiovascular, clarence james gamble, [coronavirus](keyword_coronavirus), [covid 19 crisis](keyword_covid_19_crisis), [covid-19](keyword_covid-19), cubic meter, danielle braun, datum science, [epidemic](keyword_epidemic), [facebook](keyword_facebook), fine particulate air pollution, fine particulate pollution, harvard chan school, [harvard college](keyword_harvard_college), harvard t h, [human health](keyword_human_health), linkedin, microgram, [news](keyword_news), [obesity](keyword_obesity), [outbreak](keyword_outbreak), outbreak begin, pollution, president and fellow, rachel nethery, reddit, research scientist, respiratory ailment, smoking, socioeconomic, xiao wu
 
 
 ## Concepts
 
  ![](imgs/article_harvard_th_chan_schoold_of_public_health_air_2020.jpg)
 
-### Closest articles 
 
-* [COVID-19 Higher Mortality in Chinese Regions With Chronic Exposure to Lower Air Quality](article_pansini_covid-19_2021)
-* [COVID-19 misinformation: Accuracy of articles about coronavirus prevention mostly shared on social media](article_obiala_covid-19_2021)
-* [Coronavirus: Can artificial intelligence be smart enough
-to detect fake news?](article_tong_coronavirus_2020)
-* [Should I Stay or Should I Go? Tourists’ COVID-19 Risk Perception and Vacation Behavior Shift](article_bratic_should_2021)
-* [Seeing the invisible hand: Underlying effects of COVID-19 on tourists’ behavioral patterns](article_li_seeing_2020)
-* [The changes in the effects of social media use of Cypriots due to COVID-19 pandemic](article_kaya_changes_2020)
-* [What drives unverified information sharing and cyberchondria during the COVID-19 pandemic?](article_laato_what_2020)
-* [Exploring the Potential of Artificial Intelligence and Machine Learning to Combat COVID-19 and Existing Opportunities for LMIC: A Scoping Review](article_naseem_exploring_2020)
-* [Pandemic Analytics: How Countries are Leveraging Big Data Analytics and Artificial Intelligence to Fight COVID-19?](article_mehta_pandemic_2021)
-* [Digital technology and COVID-19](article_ting_digital_2020)
 
+## Neighbours
+
+### Closest articles
+
+* COVID-19 Higher Mortality in Chinese Regions With Chronic Exposure to Lower Air Quality - [LINK](article_pansini_covid-19_2021)
+* Nurture to nature via COVID-19, a self-regenerating environmental strategy of environment in global context - [LINK](article_paital_nurture_2020)
+* Indirect effects of COVID-19 on the environment - [LINK](article_zambrano-monserrate_indirect_2020)
+* Mechanistic insights into the effect of humidity on airborne influenza virus survival, transmission and incidence - [LINK](article_marr_mechanistic_2019)
+* How to Make Green Building Certification &amp; Rating Systems More Pandemic-Sustainable? - [LINK](article_ujikawa_how_2022)
+* KIX to apply antimicrobial coating in its fight against COVID-19 - [LINK](article_kansai_airport_kix_2021)
+* Assessment method for new sustainability indicators providing pandemic resilience for residential buildings - [LINK](article_tokazhanov_assessment_2021)
+* Readiness Assessment of Green Building Certification Systems for Residential Buildings during Pandemics - [LINK](article_tleuken_readiness_2021)
+* A critical analysis of the impacts of COVID-19 on the global economy and ecosystems and opportunities for circular economy strategies - [LINK](article_ibn-mohammed_critical_2021)
+* Effects of temperature and humidity on the spread of COVID-19: A systematic review - [LINK](article_mecenas_effects_2020)
+
+
+### Closest BPs
+
+* Blueprint: Installing UV in ductwork - [LINK](bp_10)
+* Blueprint: Installing high-efficiency air filters - [LINK](bp_11)
+* Blueprint: Indoor Environmental Quality (IEQ) monitoring system - [LINK](bp_3)

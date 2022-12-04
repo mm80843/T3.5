@@ -1,54 +1,40 @@
-# Article: __Borders and Catastrophe: lessons from COVID-19 for the European Green Deal__ (klein_borders_2021)
+# Article: Borders and Catastrophe: lessons from COVID-19 for the European Green Deal (klein_borders_2021)
 
-* [10.30722/anzjes.vol12.iss2.15071](https://doi.org/10.30722/anzjes.vol12.iss2.15071)
-* Cluster: [health-building](cluster_9)
+* Source: [10.30722/anzjes.vol12.iss2.15071](https://doi.org/10.30722/anzjes.vol12.iss2.15071)
+* Year: 2021
+* Cluster: [health-pandemic](cluster_4)
+
 
 
 ## Keywords
 
-* [europe](keyword_europe), [covid-19](keyword_covid-19), [egd](keyword_egd), [member state](keyword_member_state), [european union](keyword_european_union), [european](keyword_european), [ec](keyword_ec), [pandemic](keyword_pandemic), [green deal](keyword_green_deal), [european commission](keyword_european_commission), european investment bank, [italy](keyword_italy), climate action, france, climate policy
-
-
-
-## Keywords at large
-
-* [europe](keyword_europe), [covid-19](keyword_covid-19), [egd](keyword_egd), [member state](keyword_member_state), [european union](keyword_european_union), [european](keyword_european), [ec](keyword_ec), [pandemic](keyword_pandemic), [green deal](keyword_green_deal), [european commission](keyword_european_commission)
-
-## Abstract
-
-This article considers how the European Union and Member
-States’ responses to the COVID-19 crisis in the first
-half of 2020 could inform climate action in Europe, and
-particularly the resumption of actions on the EGD. It first
-outlines the EU’s public health and economic responses to
-COVID-19 and Europe’s role in the global response to the
-pandemic. We find that, based on the challenges and
-successes of all these responses, a strong argument can be
-made for ‘more Europe’ – greater integration, and
-stronger EU-level institutions – to lead and govern the
-COVID-19 response. This has direct lessons for the
-governance and scope of future climate action.
+ * 15 klein, 36 billion, [austria](keyword_austria), biodiversity, bismarck, border tax, burgoon, bénassy quéré, carbon border tax, [china](keyword_china), climate action, [climate change](keyword_climate_change), climate crisis, climate policy, climate science, corona bond, [coronavirus](keyword_coronavirus), council, [covid 19 crisis](keyword_covid_19_crisis), covid 19 outbreak, [covid 19 pandemic](keyword_covid_19_pandemic), [covid-19](keyword_covid-19), [crisis](keyword_crisis), czech, democracy, [denmark](keyword_denmark), ec, ec s, ecb, [egd](keyword_egd), [entrepreneur](keyword_entrepreneur), eu internal market law, eu level institution, eu recovery fund, [europe](keyword_europe), europe in the time of covid 19, european, european commission, european council, european emission trading system, european green deal, european investment bank, european solidarity, [european union](keyword_european_union), eurozone crisis, fidesz, fran timmerman, [france](keyword_france), g7, german, [germany](keyword_germany), [governance](keyword_governance), [government](keyword_government), green deal, green growth, health law, human right, hungarian civil liberty union, hungarian parliament, hungary, [infection](keyword_infection), institute, interim measure, iran, [italy](keyword_italy), just transition, khorram manesh, leave no one behind, [mask](keyword_mask), medical equipment, [member state](keyword_member_state), [netherland](keyword_netherland), [news](keyword_news), [pandemic](keyword_pandemic), [poland](keyword_poland), [policy](keyword_policy), policy frame, politic, politico eu, press, procurement, [public health](keyword_public_health), public health authority, ruijter, sector, [service](keyword_service), solidarity, [spain](keyword_spain), state aid, [supply chain management](keyword_supply_chain_management), [sustainable development goal](keyword_sustainable_development_goal), sweden, team europe, thunberg, [united nations](keyword_united_nations), vandenbroucke, [ventilator](keyword_ventilator), viktor orbán, [ward](keyword_ward), work paper
 
 
 ## Concepts
 
  ![](imgs/article_klein_borders_2021.jpg)
 
-### Closest articles 
 
-* [How drones help cities during the Covid-19 pandemic
-\textbar TheMayor.EU](article_dimitrova_how_2021)
-* [2020 Data Protection Report](article_council_of_europe_2020_2020)
-* [Challenges of data sharing in European Covid-19 projects: A learning opportunity for advancing pandemic preparedness and response](article_tacconelli_challenges_2022)
-* [Recently employed engineering techniques to reduce the spread of COVID-19 (corona virus disease 2019): a review study](article_saman_recently_2021)
-* [World Bank Development Report](article_world_bank_world_2022)
-* [COVID-19 and regional solutions for mitigating the risk of SME finance in selected ASEAN member states](article_taghizadeh-hesary_covid-19_2022)
-* [Combating COVID-19—The role of robotics in managing public health and infectious diseases](article_yang_combating_2020)
-* [Danish disinfection robots save lives in the fight against
-the Corona virus \textbar Shaping Europe’s
-digital future](article_ec_views_danish_2020)
-* [A Comprehensive Review of the COVID-19 Pandemic and the Role of IoT, Drones, AI, Blockchain, and 5G in Managing its Impact](article_chamola_comprehensive_2020)
-* [Drones. Disinfecting robots. Supercomputers. The
-coronavirus outbreak is a test for China's tech industry
-\textbar CNN Business](article_wang_drones_2020)
 
+## Neighbours
+
+### Closest articles
+
+* How drones help cities during the Covid-19 pandemic \textbar TheMayor.EU - [LINK](article_dimitrova_how_2021)
+* 2020 Data Protection Report - [LINK](article_council_of_europe_2020_2020)
+* Challenges of data sharing in European Covid-19 projects: A learning opportunity for advancing pandemic preparedness and response - [LINK](article_tacconelli_challenges_2022)
+* It’s time to reimagine where and how work will get done (PwC’s US Remote Work Survey) - [LINK](article_pricewaterhousecoopers_its_2021)
+* A study on office workplace modification during the COVID-19 pandemic in The Netherlands - [LINK](article_hou_study_2021)
+* Mitigation strategies and compliance in the COVID-19 fight; how much compliance is enough? - [LINK](article_mukerjee_mitigation_2021)
+* Contributions of Smart City Solutions and Technologies to Resilience against the COVID-19 Pandemic: A Literature Review - [LINK](article_sharifi_contributions_2021)
+* The Intelligent Lockdown: Compliance with COVID-19 Mitigation Measures in the Netherlands - [LINK](article_kuiper_intelligent_2020)
+* Compliance with COVID-19 Mitigation Measures in the United States - [LINK](article_van_rooij_compliance_2020)
+* How COVID-19 Could Accelerate the Adoption of New Retail Technologies and Enhance the (E-)Servicescape - [LINK](article_willems_how_2021)
+
+
+### Closest BPs
+
+* Blueprint: Smart Locker System - [LINK](bp_1)
+* Blueprint: Access limitation - [LINK](bp_7)
+* Blueprint: One-way mobility circulation - [LINK](bp_4)

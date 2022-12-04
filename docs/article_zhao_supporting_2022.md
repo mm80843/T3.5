@@ -1,98 +1,40 @@
-# Article: __Supporting Technologies for COVID-19 Prevention: Systemized Review__ (zhao_supporting_2022)
+# Article: Supporting Technologies for COVID-19 Prevention: Systemized Review (zhao_supporting_2022)
 
-* [10.2196/30344](https://doi.org/10.2196/30344)
-* Cluster: [health-building](cluster_9)
+* Source: [10.2196/30344](https://doi.org/10.2196/30344)
+* Year: 2022
+* Cluster: [sars-virus](cluster_12)
+
 
 
 ## Keywords
 
-* [covid-19](keyword_covid-19), [ventilator](keyword_ventilator), [mask](keyword_mask), [pandemic](keyword_pandemic), [personal protective equipment](keyword_personal_protective_equipment), [health care](keyword_health_care), [full text](keyword_full_text), [covid 19 pandemic](keyword_covid_19_pandemic), [coronavirus](keyword_coronavirus), test, [united kingdom](keyword_united_kingdom), [patient](keyword_patient), [safety](keyword_safety), antigen test, [3d print](keyword_3d_print)
-
-
-
-## Keywords at large
-
-* [covid-19](keyword_covid-19), [ventilator](keyword_ventilator), [pandemic](keyword_pandemic), [mask](keyword_mask), [personal protective equipment](keyword_personal_protective_equipment), [health care](keyword_health_care), [3d print](keyword_3d_print), [full text](keyword_full_text), [covid 19 pandemic](keyword_covid_19_pandemic), [coronavirus](keyword_coronavirus)
-
-## Abstract
-
-Background During COVID-19, clinical and health care
-demands have been on the rapid rise. Major challenges that
-have arisen during the pandemic have included a lack of
-testing kits, shortages of ventilators to treat severe
-cases of COVID-19, and insufficient accessibility to
-personal protective equipment for both hospitals and the
-public. New technologies have been developed by scientists,
-researchers, and companies in response to these demands.
-
-Objective The primary objective of this review is to
-compare different supporting technologies in the
-subjugation of the COVID-19 spread.
-
-Methods In this paper, 150 news articles and scientific
-reports on COVID-19–related innovations during 2020-2021
-were checked, screened, and shortlisted to yield a total of
-23 articles for review. The keywords “COVID-19
-technology,” “COVID-19 invention,” and “COVID-19
-equipment” were used in a Google search to generate
-related news articles and scientific reports. The search
-was performed on February 1, 2021. These were then
-categorized into three sections, which are personal
-protective equipment (PPE), testing methods, and medical
-treatments. Each study was analyzed for its engineering
-characteristics and potential social impact on the COVID-19
-pandemic.
-
-Results A total of 9 articles were selected for review
-concerning PPE. In general, the design and fabrication of
-PPE were moving toward the direction of additive
-manufacturing and intelligent information feedback while
-being eco-friendly. Moreover, 8 articles were selected for
-reviewing testing methods within the two main categories of
-molecular and antigen tests. All the inventions endeavored
-to increase sensitivity while reducing the turnaround time.
-However, the inventions reported in this review paper were
-not sufficiently tested for their safety and efficiency.
-Most of the inventions are temporary solutions intended to
-be used only during shortages of medical resources.
-Finally, 6 articles were selected for the review of
-COVID-19 medical treatment. The major challenge identified
-was the uncertainty in applying novel ideas to speed up the
-production of ventilators.
-
-Conclusions The technologies developed during the COVID-19
-pandemic were considered for review. In order to better
-respond to future pandemics, national reserves of critical
-medical supplies should be increased to improve
-preparation. This pandemic has also highlighted the need
-for the automation and optimization of medical
-manufacturing.
+ * 3d print, additive manufacturing, adly as, airpop, antigen, antigen test, [assay](keyword_assay), automation, bd veritor, [big datum](keyword_big_datum), cepheid, cepid, communication, [company](keyword_company), corman vm, [coronavirus](keyword_coronavirus), [covid 19 pandemic](keyword_covid_19_pandemic), [covid-19](keyword_covid-19), delaware, diagnostic test, [disease](keyword_disease), doctor, e smart ppe 2, [epidemiological](keyword_epidemiological), ethic approval, f smart ppe 3, [face mask](keyword_face_mask), face shield, false negative, [filter](keyword_filter), free, free full text, full text, future, glangwili hospital, haage vc, half mask, [health care](keyword_health_care), [health care provider](keyword_health_care_provider), health care worker, immunoassay, [infection](keyword_infection), invention, jmirx, labcorp, major contribution, mamas ma, [manufacture](keyword_manufacture), maryland, [mask](keyword_mask), maskfone, medical equipment, medical robotic, medical treatment, medicine, medline, [meta analysis](keyword_meta_analysis), method, middle income country, [new york](keyword_new_york), news article, newspaper, nucleic acid, [outbreak](keyword_outbreak), palliative care, [pandemic](keyword_pandemic), paper, [patient](keyword_patient), personal protection equipment, [personal protective equipment](keyword_personal_protective_equipment), protection, [public health](keyword_public_health), radbruch, renderx, [research](keyword_research), [researcher](keyword_researcher), [rna](keyword_rna), [robot](keyword_robot), rt pcr, [safety](keyword_safety), [sar cov 2](keyword_sar_cov_2), scientific report, shield, swennen, [symptom](keyword_symptom), systematic review, [technology](keyword_technology), test, [testing](keyword_testing), testing method, [transmission](keyword_transmission), treatment, [united kingdom](keyword_united_kingdom), [united states](keyword_united_states), university of oxford, [ventilation](keyword_ventilation), [ventilator](keyword_ventilator), [virus](keyword_virus), xsl, zhao
 
 
 ## Concepts
 
  ![](imgs/article_zhao_supporting_2022.jpg)
 
-### Closest articles 
-
-* [Management of the COVID-19 pandemic: challenges, practices, and organizational support](article_hossny_management_2022)
-* [COVID-19 Prevention and Control Measures in Workplace Settings: A Rapid Review and Meta-Analysis](article_ingram_covid-19_2021)
-* [Physical interventions to interrupt or reduce the spread of respiratory viruses: systematic review](article_jefferson_physical_2008)
-* [How Can Blockchain Help People in the Event of Pandemics Such as the COVID-19?](article_chang_how_2020)
-* [Using Technology to Maintain the Education of Residents During the COVID-19 Pandemic](article_chick_using_2020)
-* [COVID-19: A new digital dawn?](article_robbins_covid-19_2020)
-* [Case Study on Finnish TVETA Resilient Model of
-Training During COVID-19](article_unesco_case_2021)
-* [The impact of climate change on the epidemiology and
-control of Rift Valley fever - PubMed](article_martin_impact_2008)
-* [Health Information Exchange with Blockchain amid Covid-19-like Pandemics](article_christodoulou_health_2020)
-* [DeepSOCIAL: Social Distancing Monitoring and Infection Risk Assessment in COVID-19 Pandemic](article_rezaei_deepsocial_2020)
-
-### References 
-
-* [Combating COVID-19—The role of robotics in managing
-public health and infectious diseases](article_yang_combating_2020)
-
-### Cited by 
 
 
+## Neighbours
+
+### Closest articles
+
+* Emergency Healthcare Facilities: Managing Design in a Post Covid-19 World - [LINK](article_marinelli_emergency_2020)
+* Open-source analytics tools for studying the COVID-19 coronavirus outbreak - [LINK](article_wu_open-source_2020)
+*  - [LINK](article_mehtab_alam_role_2021)
+* Management of the COVID-19 pandemic: challenges, practices, and organizational support - [LINK](article_hossny_management_2022)
+* The effect of human mobility and control measures on the COVID-19 epidemic in China - [LINK](article_kraemer_effect_2020)
+* COVID-19 Prevention and Control Measures in Workplace Settings: A Rapid Review and Meta-Analysis - [LINK](article_ingram_covid-19_2021)
+* Contributions to the mitigation of the COVID-19 pandemic - [LINK](article_pilz_contributions_2022)
+* Physical interventions to interrupt or reduce the spread of respiratory viruses: systematic review - [LINK](article_jefferson_physical_2008)
+* Response to COVID-19 in Taiwan - [LINK](article_wang_response_2020)
+* Exploring the Potential of Artificial Intelligence and Machine Learning to Combat COVID-19 and Existing Opportunities for LMIC: A Scoping Review - [LINK](article_naseem_exploring_2020)
+
+
+### Closest BPs
+
+* Blueprint: Resilience in staffing and skills training - [LINK](bp_12)
+* Blueprint: Monitoring of wastewater [CID] - [LINK](bp_21)
+* Blueprint: Installing high-efficiency air filters - [LINK](bp_11)

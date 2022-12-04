@@ -1,94 +1,39 @@
-# Article: __COVID-19 Experience Transforming the Protective Environment of Office Buildings and Spaces__ (phapant_covid-19_2021)
+# Article: COVID-19 Experience Transforming the Protective Environment of Office Buildings and Spaces (phapant_covid-19_2021)
 
-* [10.3390/su132413636](https://doi.org/10.3390/su132413636)
-* Cluster: [health-building](cluster_9)
+* Source: [10.3390/su132413636](https://doi.org/10.3390/su132413636)
+* Year: 2021
+* Cluster: [building-space](cluster_9)
+
 
 
 ## Keywords
 
-* [covid-19](keyword_covid-19), [covid 19 pandemic](keyword_covid_19_pandemic), [workplace](keyword_workplace), [virus](keyword_virus), [pandemic](keyword_pandemic), [infection](keyword_infection), [coronavirus](keyword_coronavirus), [worker](keyword_worker), [office](keyword_office), [china](keyword_china), [air conditioning](keyword_air_conditioning), refrigerate, international, [health](keyword_health), [heating](keyword_heating)
-
-
-
-## Keywords at large
-
-* [covid-19](keyword_covid-19), [covid 19 pandemic](keyword_covid_19_pandemic), [workplace](keyword_workplace), [pandemic](keyword_pandemic), [virus](keyword_virus), [infection](keyword_infection), [coronavirus](keyword_coronavirus), [worker](keyword_worker), [office](keyword_office), [china](keyword_china)
-
-## Abstract
-
-The COVID-19 pandemic has affected human life in every
-possible way and, alongside this, the need has been felt
-that office buildings and workplaces must have protective
-and preventive layers against COVID-19 transmission so that
-a smooth transition from ‘work from home’ to ‘work
-from office’ is possible. However, a comprehensive
-understanding of how the protective environment can be
-built around office buildings and workspaces, based on the
-year-long experience of living with COVID-19, is largely
-absent. The present study reviews international agency
-regulation, country regulation, updated journal articles,
-etc., to critically understand lessons learned from the
-COVID-19 pandemic and evaluate the expected changes in
-sustainability requirements of office buildings and
-workplaces. The built environment, control environment, and
-regulatory environment around office buildings and
-workplaces have been put under test on safety grounds
-during the pandemic. Workers switched over to safely work
-from home. Our findings bring out the changes required to
-be affected in the three broad environmental dimensions to
-limit their vulnerability status experienced during the
-pandemic. Office building designs should be fundamentally
-oriented to provide certain safety protective measures to
-the workers, such as touch-free technologies, open working
-layouts, and workplace flexibilities to diminish the
-probability of getting infected. Engineering and
-administrative control mechanisms should work in a
-complementary way to eliminate the risk of disease spread.
-Country regulation, agency regulations, and operational
-guidelines need to bring behavioral changes required to
-protect workers from the COVID-19 pandemic.
+ * [aerosol](keyword_aerosol), agency regulation, [air](keyword_air), [air conditioning](keyword_air_conditioning), airborne transmission, american, antivirus, [architecture](keyword_architecture), [ashrae](keyword_ashrae), [australia](keyword_australia), [beijing](keyword_beijing), [build](keyword_build), [build environment](keyword_build_environment), centre for disease prevention and control, [china](keyword_china), chulalongkorn university, cid, [control](keyword_control), [coronavirus](keyword_coronavirus), coronavirus disease, [country](keyword_country), country regulation, [covid 19 pandemic](keyword_covid_19_pandemic), [covid-19](keyword_covid-19), [denmark](keyword_denmark), [design](keyword_design), [disease](keyword_disease), disease control, elevator, [employee](keyword_employee), [employer](keyword_employer), [engineering](keyword_engineering), engineering control, equipment, [europe](keyword_europe), expo, [factory](keyword_factory), [gerba](keyword_gerba), [global](keyword_global), guideline, [health](keyword_health), health organization, heating, houston, hygiene, [india](keyword_india), [infection](keyword_infection), [infection control](keyword_infection_control), infectious, [infectious disease](keyword_infectious_disease), international, international organization for migration, labour organization, legionella, [lockdown](keyword_lockdown), management, [manager](keyword_manager), [manhattan](keyword_manhattan), national, nebraska, [new south wale](keyword_new_south_wale), [new york city](keyword_new_york_city), nordic country, occupational safety and health administration, [office](keyword_office), office building, [pandemic](keyword_pandemic), prevention, [protocol](keyword_protocol), [public health](keyword_public_health), [public space](keyword_public_space), refrigerate, regulation, [risk](keyword_risk), [russia](keyword_russia), [safety](keyword_safety), [sar cov 2](keyword_sar_cov_2), shahzad, [singapore](keyword_singapore), source control, [spread](keyword_spread), st petersburg, staircase, [surface](keyword_surface), [sustainability](keyword_sustainability), [symptom](keyword_symptom), [temperature](keyword_temperature), [transmission](keyword_transmission), [united nations](keyword_united_nations), usa, [ventilation](keyword_ventilation), [virus](keyword_virus), [work](keyword_work), work from home, [worker](keyword_worker), [workplace](keyword_workplace), [world](keyword_world), world health organization, [world heritage site](keyword_world_heritage_site), yifang
 
 
 ## Concepts
 
  ![](imgs/article_phapant_covid-19_2021.jpg)
 
-### Closest articles 
-
-* [A study on office workplace modification during the COVID-19 pandemic in The Netherlands](article_hou_study_2021)
-* [It’s time to reimagine where and how work will get done
-(PwC’s US Remote Work Survey)](article_pricewaterhousecoopers_its_2021)
-* [The COVID-19 Impact on Flexible Office Space](article_clifton_covid-19_2020)
-* [Health, Wellbeing \& Productivity in Offices](article_world_green_building_council_health_2014)
-* [Occupant health in buildings: Impact of the COVID-19 pandemic on the opinions of building professionals and implications on research](article_awada_occupant_2022)
-* [Architectural Design Drives the Biogeography of Indoor Bacterial Communities](article_kembel_architectural_2014)
-* [Ten questions concerning occupant health in buildings during normal operations and extreme events including the COVID-19 pandemic](article_awada_ten_2021)
-* [The contribution of green buildings in the fight against
-COVID-19](article_world_green_building_council_contribution_2020)
-* [](article_yakubu_aminu_dodo_green_2020)
-* [Adaptive Design of the Built Environment to Mitigate the Transmission Risk of COVID-19](article_ara_dilshad_shangi_adaptive_2020)
-
-### References 
-
-* [Antivirus-built environment: Lessons learned from
-Covid-19 pandemic](article_megahed_antivirus-built_2020)
-* [2019 Novel Coronavirus (COVID-19) Pandemic:
-Built Environment Considerations To Reduce
-Transmission](article_dietz_2019_2020)
-* [How is COVID-19 Experience Transforming
-Sustainability Requirements of Residential
-Buildings? A Review](article_tokazhanov_how_2020)
-* [Ten questions concerning occupant health in buildings
-during normal operations and extreme events including the
-COVID-19 pandemic](article_awada_ten_2021)
-* [Aerosol and Surface Stability of SARS-CoV-2 as
-Compared with SARS-CoV-1](article_van_doremalen_aerosol_2020)
-* [Aerosol and Surface Distribution of Severe Acute
-Respiratory Syndrome Coronavirus 2 in Hospital
-Wards, Wuhan, China, 2020](article_guo_aerosol_2020)
-* [COVID-19 Pandemic: Prevention and Protection
-Measures to Be Adopted at the Workplace](article_cirrincione_covid-19_2020)
-
-### Cited by 
 
 
+## Neighbours
+
+### Closest articles
+
+* How will COVID-19 change future building regulations? - [LINK](article_hmc_architects_how_2020)
+* A Global Survey of Infection Control and Mitigation Measures for Combating the Transmission of COVID-19 Pandemic in Buildings Under Facilities Management Services - [LINK](article_sarvari_global_2022)
+* Health, Wellbeing \& Productivity in Offices - [LINK](article_world_green_building_council_health_2014)
+* Will a pandemic change building codes? - [LINK](article_rozgus_will_2020)
+* Occupant health in buildings: Impact of the COVID-19 pandemic on the opinions of building professionals and implications on research - [LINK](article_awada_occupant_2022)
+* The effect of occupant distribution on energy consumption and COVID-19 infection in buildings: A case study of university building - [LINK](article_mokhtari_effect_2021)
+* Assessment of Building Automation and Control Systems in Danish Healthcare Facilities in the COVID-19 Era - [LINK](article_pedersen_assessment_2022)
+* Architectural Design Drives the Biogeography of Indoor Bacterial Communities - [LINK](article_kembel_architectural_2014)
+* Ten questions concerning occupant health in buildings during normal operations and extreme events including the COVID-19 pandemic - [LINK](article_awada_ten_2021)
+
+
+### Closest BPs
+
+* Blueprint: Indoor Environmental Quality (IEQ) monitoring system - [LINK](bp_3)
+* Blueprint: Architecture design - [LINK](bp_2)
+* Blueprint: Air Cleaning Plants - [LINK](bp_15)

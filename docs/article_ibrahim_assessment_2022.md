@@ -1,43 +1,40 @@
-# Article: __Assessment of COVID-19 precautionary measures in sports facilities: A case study on a health club in Saudi Arabia__ (ibrahim_assessment_2022)
+# Article: Assessment of COVID-19 precautionary measures in sports facilities: A case study on a health club in Saudi Arabia (ibrahim_assessment_2022)
 
-* [10.1016/j.jobe.2021.103662](https://doi.org/10.1016/j.jobe.2021.103662)
-* Cluster: [health-building](cluster_9)
+* Source: [10.1016/j.jobe.2021.103662](https://doi.org/10.1016/j.jobe.2021.103662)
+* Year: 2022
+* Cluster: [building-space](cluster_9)
+
 
 
 ## Keywords
 
-* [health club](keyword_health_club), [saudi arabia](keyword_saudi_arabia), [risk](keyword_risk), [pandemic](keyword_pandemic), [covid-19](keyword_covid-19), [precautionary measure](keyword_precautionary_measure), [facility](keyword_facility), hassanain, [assurance](keyword_assurance), [ventilation](keyword_ventilation), sanitize, facility preparedness, physical interaction, [safety](keyword_safety), body building exercise
-
-
-
-## Keywords at large
-
-* [health club](keyword_health_club), [saudi arabia](keyword_saudi_arabia), [risk](keyword_risk), [pandemic](keyword_pandemic), [covid-19](keyword_covid-19), [precautionary measure](keyword_precautionary_measure), [facility](keyword_facility), [ventilation](keyword_ventilation), [assurance](keyword_assurance)
+ * administrative staff, age, [air](keyword_air), air duct, air supply, arabia, asian country, assurance, athlete, bike, body building exercise, case study, change booth, checklist, [china](keyword_china), [chlorine](keyword_chlorine), circulation, [clean](keyword_clean), close, competition, [control](keyword_control), [covid-19](keyword_covid-19), diffuser, [disinfection](keyword_disinfection), equipment, facility, [facility management](keyword_facility_management), facility preparedness, first floor, [fitness](keyword_fitness), fitness club, gender, [government](keyword_government), ground, [gym](keyword_gym), hand sanitizer, hassanain, [health club](keyword_health_club), high risk, [hong kong](keyword_hong_kong), [hvac](keyword_hvac), hygiene, infrare, inj, injury, interaction, janitor, jeddah, literature review, ljubljana, locker, madrid, management, member, [monitor](keyword_monitor), mullen, norway, operation, [pandemic](keyword_pandemic), pandemic propagation, [physical](keyword_physical), physical interaction, poe, pool, post occupancy evaluation, post-pandemic, precautionary measure, preiser, preparedness, prevention, propagation, protective equipment, [research](keyword_research), residual, [risk](keyword_risk), [safety](keyword_safety), sanitization, sanitize, sanitizer, saudi, [saudi arabia](keyword_saudi_arabia), sauna, [security](keyword_security), [slovenia](keyword_slovenia), [social interaction](keyword_social_interaction), [spain](keyword_spain), sport, sport club, sport facility, stair, steam bath, sterilization, sterilize, transmissibility, treadmill, tv, university of pennsylvania, usa, [ventilation](keyword_ventilation), whaley
 
 
 ## Concepts
 
  ![](imgs/article_ibrahim_assessment_2022.jpg)
 
-### Closest articles 
-
-* [Social distancing enhanced automated optimal design of physical spaces in the wake of the COVID-19 pandemic](article_ugail_social_2021)
-* [Exploring the Non-Medical impacts of Covid-19 using Natural Language Processing](article_agade_exploring_2020)
-* [COVID19-Routes: A Safe Pedestrian Navigation Service](article_cantarero_covid19-routes_2021)
-* [How Covid-19 Has Permanently Changed the Fitness
-Industry](article_davalos_how_2021)
-* [How will COVID-19 change future building regulations?](article_hmc_architects_how_2020)
-* [Building occupancy estimation with people flow modeling in AnyLogic](article_li_building_2016)
-* [A Platform for Citizen Cooperation during the COVID-19 Pandemic in RN, Brazil](article_de_araujo_platform_2020)
-* [Questioning the use of the balcony in apartments during the COVID-19 pandemic process](article_aydin_questioning_2020)
-* [COVID-ABS: An agent-based model of COVID-19 epidemic to simulate health and economic effects of social distancing interventions](article_silva_covid-abs_2020)
-* [Assessing the health and hygiene performance of apartment buildings](article_ho_assessing_2004)
-
-### References 
-
-* [Review and comparison of HVAC operation guidelines in
-different countries during the COVID-19 pandemic](article_guo_review_2021)
-
-### Cited by 
 
 
+## Neighbours
+
+### Closest articles
+
+* How loneliness is talked about in social media during COVID-19 pandemic: Text mining of 4,492 Twitter feeds - [LINK](article_koh_how_2022)
+* Multilevel Analysis of Personal, Non-Medical COVID-19-Related Impact Worldwide - [LINK](article_dye_multilevel_2020)
+* Assessing the health and hygiene performance of apartment buildings - [LINK](article_ho_assessing_2004)
+* A Platform for Citizen Cooperation during the COVID-19 Pandemic in RN, Brazil - [LINK](article_de_araujo_platform_2020)
+* How Covid-19 Has Permanently Changed the Fitness Industry - [LINK](article_davalos_how_2021)
+* Mental health economics: A prospective study on psychological flourishing and associations with healthcare costs and sickness benefit transfers in Denmark - [LINK](article_santini_mental_2021)
+* Rotating groups at work, school best against COVID-19 spread: Study - [LINK](article_afp_rotating_2021)
+* COVID-19 and social inequalities: a complex and dynamic interaction - [LINK](article_quantin_covid-19_2022)
+* COVID-19 and the rise of intimate partner violence - [LINK](article_aguero_covid-19_2021)
+* Mental health and COVID-19 - [LINK](article_who_mental_2021)
+
+
+### Closest BPs
+
+* Blueprint: Resilience in staffing and skills training - [LINK](bp_12)
+* Blueprint: Air Cleaning Plants - [LINK](bp_15)
+* Blueprint: Tender support at building stage - [LINK](bp_9)

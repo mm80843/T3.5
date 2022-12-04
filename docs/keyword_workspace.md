@@ -1,25 +1,33 @@
-# Keyword: __workspace__
-## Clusters
+# Keyword: workspace
 
-* Cluster 5: [space-flexible](cluster_5.md)
+* [space-flexible](cluster_Cluster_14)
+
+
+## Keywords
+
+ * Cluster_14, activity base, [design](keyword_design), [employee](keyword_employee), [home](keyword_home), home office, [house](keyword_house), [household](keyword_household), [housing](keyword_housing), [indoor](keyword_indoor), interaction, internet access, light, motivate to work, office building, office space, physical household area, [sustainable architecture](keyword_sustainable_architecture), work location, [workspace](keyword_workspace), workspaces
+
 
 ## Concepts
 
  ![](imgs/keyword_workspace.jpg)
 
 
-## Articles
-* Antivirus-built environment: Lessons learned from
-Covid-19 pandemic ([megahed_antivirus-built_2020](article_megahed_antivirus-built_2020.md))
-* Prophylactic Architecture: Formulating the Concept
-of Pandemic-Resilient Homes ([elrayies_prophylactic_2022](article_elrayies_prophylactic_2022.md))
-* Adaptive Design of the Built Environment to
-Mitigate the Transmission Risk of COVID-19 ([ara_dilshad_shangi_adaptive_2020](article_ara_dilshad_shangi_adaptive_2020.md))
-* COVID-19 Experience Transforming the Protective
-Environment of Office Buildings and Spaces ([phapant_covid-19_2021](article_phapant_covid-19_2021.md))
-* world_green_building_council_health_2014-150 ([world_green_building_council_health_2014-150](article_world_green_building_council_health_2014-150.md))
-* p15-lee-vor-400 ([p15-lee-vor-400](article_p15-lee-vor-400.md))
-* cibse_emerging_202 ([cibse_emerging_202](article_cibse_emerging_202.md))
-* realdania_refleksioner_2022_EN-900 ([realdania_refleksioner_2022_EN-900](article_realdania_refleksioner_2022_EN-900.md))
-* realdania_refleksioner_2022_EN-100 ([realdania_refleksioner_2022_EN-100](article_realdania_refleksioner_2022_EN-100.md))
-* realdania_refleksioner_2022_EN-150 ([realdania_refleksioner_2022_EN-150](article_realdania_refleksioner_2022_EN-150.md))
+
+## Neighbours
+
+### Closest articles
+
+* Prophylactic Architecture: Formulating the Concept of Pandemic-Resilient Homes - [LINK](article_elrayies_prophylactic_2022)
+* Adaptive Design of the Built Environment to Mitigate the Transmission Risk of COVID-19 - [LINK](article_ara_dilshad_shangi_adaptive_2020)
+* Antivirus-built environment: Lessons learned from Covid-19 pandemic - [LINK](article_megahed_antivirus-built_2020)
+* Health, Wellbeing \& Productivity in Offices - [LINK](article_world_green_building_council_health_2014)
+* Building up an ecologically sustainable and socially desirable post-COVID-19 future - [LINK](article_duflot_building_2021)
+* COVID-19 Experience Transforming the Protective Environment of Office Buildings and Spaces - [LINK](article_phapant_covid-19_2021)
+* How is COVID-19 Experience Transforming Sustainability Requirements of Residential Buildings? A Review - [LINK](article_tokazhanov_how_2020)
+* Houses amid COVID-19: Environmental challenges and design adaptation - [LINK](article_hizra_houses_2021)
+* Occupant health in buildings: Impact of the COVID-19 pandemic on the opinions of building professionals and implications on research - [LINK](article_awada_occupant_2022)
+
+
+### Closest BPs
+

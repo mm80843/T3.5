@@ -1,53 +1,40 @@
-# Article: __Propositions for a Resilient, Post-COVID-19 Future for the AEC Industry__ (nassereddine_propositions_2021)
+# Article: Propositions for a Resilient, Post-COVID-19 Futurefor the AEC Industry (nassereddine_propositions_2021)
 
-* URL: [https://www.frontiersin.org/articles/10.3389/fbuil.2021.687021](https://www.frontiersin.org/articles/10.3389/fbuil.2021.687021)
+* [https://www.frontiersin.org/articles/10.3389/fbuil.2021.687021](https://www.frontiersin.org/articles/10.3389/fbuil.2021.687021)
 * Year: 2021
-* Abstract: The coronavirus outbreak has challenged and continues to
-challenge every aspect of the supply chain within the AEC
-industry, forcing stakeholders to cope with increasing
-uncertainties and continuous change. The notion of
-resilience is especially salient now. While the need for
-the AEC industry to focus on resilience has been
-highlighted in recent articles, there is a need for a
-comprehensive discussion on what resilience means for the
-AEC industry and how companies can create built-in
-resilience. This paper takes the form of a high-level
-overview of where the industry is headed and aims to
-establish eleven propositions for a resilient,
-post-COVID-19 future, for practitioners working in the
-design and construction industry. Moreover, this paper
-proposes a ‘decentralization of workforce and integration
-of data’ model in which the established propositions are
-manifested to support a resilient AEC industry.
+* Cluster: [construction-industry](cluster_3)
 
 
 
 ## Keywords
 
-* [construction](keyword_construction), [covid-19](keyword_covid-19), [resilience](keyword_resilience), [design](keyword_design), [pandemic](keyword_pandemic), [automation](keyword_automation), nassereddine, [aec industry](keyword_aec_industry), [construction industry](keyword_construction_industry), [industry](keyword_industry), [robotic](keyword_robotic), [information](keyword_information), prefabrication, [build environment](keyword_build_environment), [engineering](keyword_engineering)
-
-
-
-## Keywords at large
-
-* [construction](keyword_construction), [covid-19](keyword_covid-19), [resilience](keyword_resilience), [design](keyword_design), [pandemic](keyword_pandemic), [automation](keyword_automation), [aec industry](keyword_aec_industry), [construction industry](keyword_construction_industry), [industry](keyword_industry)
+ * 3d model, 3d print, aec, aec industry, american institute of architect, [architect](keyword_architect), [architecture](keyword_architecture), augmented reality, automation, automation in construction, [beijing](keyword_beijing), [bim](keyword_bim), [build](keyword_build), [build environment](keyword_build_environment), building design, business continuity, business disruption, business model, cern, cheshmehzangi, [china](keyword_china), [circular economy](keyword_circular_economy), [climate change](keyword_climate_change), code of practice, computer, [construction](keyword_construction), construction 4 0, [construction company](keyword_construction_company), [construction industry](keyword_construction_industry), construction management, construction site, [contractor](keyword_contractor), [coronavirus outbreak](keyword_coronavirus_outbreak), [covid 19 pandemic](keyword_covid_19_pandemic), [covid-19](keyword_covid-19), [crisis](keyword_crisis), decision make, [design](keyword_design), ecosystem, [engineering](keyword_engineering), front, frontier in build environment, gunalan, head mount display, [industry](keyword_industry), information, integrate design management, integrate project delivery, [japan](keyword_japan), kitakyushu, [knowledge](keyword_knowledge), knowledge and resource, [london](keyword_london), lotfallah, main menu, [manhattan](keyword_manhattan), [manufacture](keyword_manufacture), mitigate, modular construction, modularization, nassereddine, [new york city](keyword_new_york_city), ofﬁce, organism, [organization](keyword_organization), [pandemic](keyword_pandemic), piskernik, [plan](keyword_plan), poologanathan, post covid 19, pot, practice, prefabrication, production strategy, psp, recession, [recycle](keyword_recycle), remote expert, remote working, [resilience](keyword_resilience), resilient organization, reversible building design, riba, [robotic](keyword_robotic), silos, software, st petersburg, [stakeholder](keyword_stakeholder), [supply chain](keyword_supply_chain), [switzerland](keyword_switzerland), [system](keyword_system), [technology](keyword_technology), thesis, turk, [united kingdom](keyword_united_kingdom), [united states](keyword_united_states), veeramani, we re do it already, [worker](keyword_worker), [workforce](keyword_workforce)
 
 
 ## Concepts
 
  ![](imgs/article_nassereddine_propositions_2021.jpg)
 
-### Closest articles 
 
-* [Effects to Construction Project Management Impacted Circular Economic of Covid-19 Pandemic](article_paikan_effects_2021)
-* [Covid-19 Associated Risks and Mitigation Strategies relevant for the UK Construction Industry](article_dan-jumbo_covid-19_2021)
-* [COVID-19 pandemic: the effects and prospects in the
-construction industry.](article_ogunnusi_covid-19_2020)
-* [Overcoming the Impact of COVID-19 Using Integrated Project Delivery Model](article_g_overcoming_2020)
-* [Perception of COVID-19 impacts on the construction industry over time](article_rokooei_perception_2022)
-* [Analysis of COVID-19 Concerns Raised by the Construction Workforce and Development of Mitigation Practices](article_bou_hatoum_analysis_2021)
-* [Guidelines for Responding to COVID-19 Pandemic: Best Practices, Impacts, and Future Research Directions](article_assaad_guidelines_2021)
-* [The Impact of Pandemic Crisis on the Survival of Construction Industry: A Case of COVID-19](article_gamil_impact_2020)
-* [Mechanisms for addressing the impact of COVID-19 on infrastructure projects](article_king_mechanisms_2021)
-* [Strategies to Mitigate COVID-19 Pandemic Impacts on Health and Safety of Workers in Construction Projects](article_kaushal_strategies_2021)
 
+## Neighbours
+
+### Closest articles
+
+* COVID-19 pandemic: the effects and prospects in the construction industry. - [LINK](article_ogunnusi_covid-19_2020)
+* Effects to Construction Project Management Impacted Circular Economic of Covid-19 Pandemic - [LINK](article_paikan_effects_2021)
+* Guidelines for Responding to COVID-19 Pandemic: Best Practices, Impacts, and Future Research Directions - [LINK](article_assaad_guidelines_2021)
+* Revisiting the built environment: 10 potential development changes and paradigm shifts due to COVID-19 - [LINK](article_cheshmehzangi_revisiting_2021)
+* Overcoming the Impact of COVID-19 Using Integrated Project Delivery Model - [LINK](article_g_overcoming_2020)
+* Perception of COVID-19 impacts on the construction industry over time - [LINK](article_rokooei_perception_2022)
+* Identifying Actions to Control and Mitigate the Effects of the COVID-19 Pandemic on Construction Organizations: Preliminary Findings - [LINK](article_raoufi_identifying_2021)
+* Influence between COVID-19 Impacts and Project Stakeholders in Chilean Construction Projects - [LINK](article_araya_influence_2021)
+* Mechanisms for addressing the impact of COVID-19 on infrastructure projects - [LINK](article_king_mechanisms_2021)
+* Analysis of COVID-19 Concerns Raised by the Construction Workforce and Development of Mitigation Practices - [LINK](article_bou_hatoum_analysis_2021)
+
+
+### Closest BPs
+
+* Blueprint: Architecture design - [LINK](bp_2)
+* Blueprint: Building Adaptation during a pandemic - [LINK](bp_14)
+* Blueprint: Tender support at building stage - [LINK](bp_9)

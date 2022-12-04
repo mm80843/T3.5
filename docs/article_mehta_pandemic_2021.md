@@ -1,75 +1,40 @@
-# Article: __Pandemic Analytics: How Countries are Leveraging Big Data Analytics and Artificial Intelligence to Fight COVID-19?__ (mehta_pandemic_2021)
+# Article: Pandemic Analytics: How Countries are Leveraging Big Data Analytics and Artificial Intelligence to Fight COVID-19? (mehta_pandemic_2021)
 
-* [10.1007/s42979-021-00923-y](https://doi.org/10.1007/s42979-021-00923-y)
-* Cluster: [blockchain-ai](cluster_11)
+* Source: [10.1007/s42979-021-00923-y](https://doi.org/10.1007/s42979-021-00923-y)
+* Year: 2021
+* Cluster: [datum-ai](cluster_1)
+
 
 
 ## Keywords
 
-* [covid-19](keyword_covid-19), [artificial intelligence](keyword_artificial_intelligence), [big datum](keyword_big_datum), [coronavirus](keyword_coronavirus), [analytic](keyword_analytic), [india](keyword_india), [pandemic](keyword_pandemic), [news](keyword_news), [china](keyword_china), [south korea](keyword_south_korea), big datum analytic, computer science, [australia](keyword_australia), [technology](keyword_technology), microsoft
-
-
-
-## Keywords at large
-
-* [covid-19](keyword_covid-19), [artificial intelligence](keyword_artificial_intelligence), [big datum](keyword_big_datum), [coronavirus](keyword_coronavirus), [analytic](keyword_analytic), [pandemic](keyword_pandemic), [news](keyword_news), [india](keyword_india), [china](keyword_china), [south korea](keyword_south_korea)
-
-## Abstract
-
-Emergence of coronavirus in December 2019 and its spread
-across the world in the following months has made it a
-global health concern. The uncertainty about its evolution,
-transmission and effect of SARS-CoV-2, has left the
-countries and their governments in a worrisome state.
-Ambiguity about the strategies that would work towards
-mitigating the impact of virus has prompted them to use
-data-driven methods. Several countries started applying big
-data and advanced analytics technology for management of
-the crisis. This study aims to understand how different
-nations have employed analytics to deal with COVID-19. This
-paper reviews various strategies employed by different
-governments and organizations across nations that use
-advanced analytics to tackle pandemic. In the current
-emergency of corona virus, there have been several measures
-that organizations have taken to mitigate its impact,
-thanks to the evolution of computing technology. Big data
-and analytical tools provide various solutions like
-detection of existing COVID-19 cases, prediction of future
-outbreak, anticipation of potential preventive and
-therapeutic agents, and assistance in informed
-decision-making. This review discusses the big data
-analytics and artificial intelligence approaches that
-policy makers, researchers, epidemiologists and private
-organizations have adopted. By examining the different ways
-and areas where data analytics has been utilized, this
-study provides the other nations with the progressive
-scheme to address the pandemic.
+ * abu dhabi, adaptive biotechnology, advanced analytic, [algorithm](keyword_algorithm), [analytic](keyword_analytic), [artificial intelligence](keyword_artificial_intelligence), [australia](keyword_australia), baidu, belkhelladi a, benevolent, [big datum](keyword_big_datum), big datum analytic, biotechnology, center for disease control and prevention, chest x ray, [china](keyword_china), clinical trial, cloud, [company](keyword_company), computer science, contact trace, contact trace app, [coronavirus](keyword_coronavirus), coronavirus pandemic, [covid-19](keyword_covid-19), database, [dataset](keyword_dataset), [datum](keyword_datum), datum analytic, [datum sharing](keyword_datum_sharing), dexamethasone, diagnosis, drug discovery, dzd, [epidemic](keyword_epidemic), expert, first, [government](keyword_government), graph database, guardian, [health](keyword_health), [healthcare](keyword_healthcare), healthcare data, hosp, [hospital](keyword_hospital), houston, [india](keyword_india), information, insight, [internet](keyword_internet), interoperability, israel, [italy](keyword_italy), larsen, light source, lunit, [machine learning](keyword_machine_learning), magazine, maharashtra, [manhattan](keyword_manhattan), microsoft, mumbai, [new south wale](keyword_new_south_wale), [new york](keyword_new_york), [news](keyword_news), newswire, north korea, ology, [organization](keyword_organization), ovid, [pandemic](keyword_pandemic), pandemic analytic, predictive analytic, [privacy](keyword_privacy), [public health](keyword_public_health), pune, [quarantine](keyword_quarantine), [research](keyword_research), rimidi, [sar cov 2](keyword_sar_cov_2), scripp research, seegene, [singapore](keyword_singapore), [south korea](keyword_south_korea), [state](keyword_state), [surveillance](keyword_surveillance), [taiwan](keyword_taiwan), [technology](keyword_technology), tellic, toubro, [transmission](keyword_transmission), unit, [united kingdom](keyword_united_kingdom), university of washington, verge, [virus](keyword_virus), vodafone, week, [window](keyword_window), [wuhan](keyword_wuhan)
 
 
 ## Concepts
 
  ![](imgs/article_mehta_pandemic_2021.jpg)
 
-### Closest articles 
-
-* [Exploring the Potential of Artificial Intelligence and Machine Learning to Combat COVID-19 and Existing Opportunities for LMIC: A Scoping Review](article_naseem_exploring_2020)
-* [Digital technology and COVID-19](article_ting_digital_2020)
-* [](article_huy-tran_design_2022)
-* [Towards the sustainable development of smart cities through mass video surveillance: A response to the COVID-19 pandemic](article_shorfuzzaman_towards_2021)
-* [Coronavirus: Can artificial intelligence be smart enough
-to detect fake news?](article_tong_coronavirus_2020)
-* [Blockchain technology and its applications to combat COVID-19 pandemic](article_sharma_blockchain_2022)
-* [The Smart City and Covid‐19](article_webb_smart_2020)
-* [COVID-19 Higher Mortality in Chinese Regions With Chronic Exposure to Lower Air Quality](article_pansini_covid-19_2021)
-* [Air pollution linked with higher COVID-19 death rates](article_harvard_th_chan_schoold_of_public_health_air_2020)
-* [The three modes of existence of the pandemic smart city](article_soderstrom_three_2021)
-
-### References 
-
-* [Response to COVID-19 in Taiwan: Big Data
-Analytics, New Technology, and Proactive
-Testing](article_wang_response_2020)
-
-### Cited by 
 
 
+## Neighbours
+
+### Closest articles
+
+* Exploring the Potential of Artificial Intelligence and Machine Learning to Combat COVID-19 and Existing Opportunities for LMIC: A Scoping Review - [LINK](article_naseem_exploring_2020)
+* Digital technology and COVID-19 - [LINK](article_ting_digital_2020)
+* A Comprehensive Review of the COVID-19 Pandemic and the Role of IoT, Drones, AI, Blockchain, and 5G in Managing its Impact - [LINK](article_chamola_comprehensive_2020)
+* Emerging Technologies to Combat the COVID-19 Pandemic - [LINK](article_vaishya_emerging_2020)
+* Leveraging Digital Transformation Technologies to Tackle COVID-19: Proposing a Privacy-First Holistic Framework - [LINK](article_arpaci_leveraging_2021)
+* Internet of things (IoT) applications to fight against COVID-19 pandemic - [LINK](article_singh_internet_2020)
+* Emergency Healthcare Facilities: Managing Design in a Post Covid-19 World - [LINK](article_marinelli_emergency_2020)
+* Health Information Exchange with Blockchain amid Covid-19-like Pandemics - [LINK](article_christodoulou_health_2020)
+* Blockchain technology and its applications to combat COVID-19 pandemic - [LINK](article_sharma_blockchain_2022)
+* Supporting Technologies for COVID-19 Prevention: Systemized Review - [LINK](article_zhao_supporting_2022)
+
+
+### Closest BPs
+
+* Blueprint: Monitoring of wastewater [CID] - [LINK](bp_21)
+* Blueprint: Resilience in staffing and skills training - [LINK](bp_12)
+* Blueprint: Public places as information points - [LINK](bp_8)

@@ -1,39 +1,39 @@
-# Article: __COVID-19 Forced Hospitals to Build Negative Pressure Rooms Fast__ (dyer_covid-19_2020)
+# Article: COVID-19 Forced Hospitals to Build NegativePressure Rooms Fast (dyer_covid-19_2020)
 
-* URL: [https://www.infectioncontroltoday.com/view/covid-19-forced-hospitals-build-negative-pressure-rooms-fast](https://www.infectioncontroltoday.com/view/covid-19-forced-hospitals-build-negative-pressure-rooms-fast)
+* [https://www.infectioncontroltoday.com/view/covid-19-forced-hospitals-build-negative-pressure-rooms-fast](https://www.infectioncontroltoday.com/view/covid-19-forced-hospitals-build-negative-pressure-rooms-fast)
 * Year: 2020
-* Abstract: A portable anteroom can be used as an extra layer of
-protection between the isolation space and the rest of the
-hospital. A positively pressured anteroom, for instance,
-lets staff don PPE in a protected environment.
+* Cluster: [ward-patient](cluster_15)
 
 
 
 ## Keywords
 
-* [hospital](keyword_hospital), [negative pressure room](keyword_negative_pressure_room), [pandemic](keyword_pandemic), [star](keyword_star), [ppe](keyword_ppe), [new york](keyword_new_york), [room](keyword_room), hepa filter, infection prevention, [positively pressure anteroom](keyword_positively_pressure_anteroom), [cleveland clinic](keyword_cleveland_clinic), [medical personnel](keyword_medical_personnel), microbenet, hospital review, zipper
-
-
-
-## Keywords at large
-
-* [hospital](keyword_hospital), [negative pressure room](keyword_negative_pressure_room), [pandemic](keyword_pandemic), [star](keyword_star), [ppe](keyword_ppe), [new york](keyword_new_york), [room](keyword_room), [medical personnel](keyword_medical_personnel), [positively pressure anteroom](keyword_positively_pressure_anteroom), [cleveland clinic](keyword_cleveland_clinic)
+ * air handling unit, air pressure, alexandria, [anteroom](keyword_anteroom), bay area temporary ward, becker s, brigham woman s, brigham women s faulkner hospital, budget, [camera](keyword_camera), chen x, [china](keyword_china), class ii, cleveland, cleveland clinic, clinical topic, clinician, columbus, component, [covid-19](keyword_covid-19), disaster response, duct tape, echo press, fan belt, fitzemeyer, fitzemeyer tocci, force out, health facility management, [health system](keyword_health_system), [healthcare](keyword_healthcare), healthcare provider, hepa filter, [hospital](keyword_hospital), hospital review, hospital surge capacity plan, [infection control](keyword_infection_control), infection prevention, infection preventionist, [infectious disease](keyword_infectious_disease), installation, [isolation](keyword_isolation), isolation area, isolation room, isolation ward, layout, leningrad, lifesave, massive number, [medical](keyword_medical), medical personnel, microbenet, minnesota, minnesota health system releasessurge plan, mystery virus, nasa, [negative air machine](keyword_negative_air_machine), negative isolation, negative pressure isolation, [negative pressure room](keyword_negative_pressure_room), [new york](keyword_new_york), [new york city](keyword_new_york_city), nurse s glove, nursing home, observe system, outside air, [pandemic](keyword_pandemic), pandemic preparedness, [personal protective equipment](keyword_personal_protective_equipment), pii, plague, plastic, plastic sheeting, positive pressure room, positively pressure anteroom, [pressure](keyword_pressure), pressure room, protection, pump, recirculate, recirculate air, recirculate room air, retrofitting, [room](keyword_room), [russia](keyword_russia), [staff](keyword_staff), [star](keyword_star), subhash ss, suffern, time crunch, tocci, [toronto](keyword_toronto), toronto s, treat patient, troubleshooting, unit, [ventilation](keyword_ventilation), wcmh, weapon, woman s faulkner hospital, zipper
 
 
 ## Concepts
 
  ![](imgs/article_dyer_covid-19_2020.jpg)
 
-### Closest articles 
 
-* [Rapid expansion of temporary, reliable airborne-infection isolation rooms with negative air machines for critical COVID-19 patients](article_lee_rapid_2020)
-* [Real-world data show that filters clean COVID-causing virus from air](article_thompson_real-world_2021)
-* [SARS-CoV-2 RNA detection of hospital isolation wards hygiene monitoring during the Coronavirus Disease 2019 outbreak in a Chinese hospital](article_wang_sars-cov-2_2020)
-* [onway-morris_removal_2021](article_onway-morris_removal_2021)
-* [Aerosol and Surface Distribution of Severe Acute Respiratory Syndrome Coronavirus 2 in Hospital Wards, Wuhan, China, 2020](article_guo_aerosol_2020)
-* [Air, Surface Environmental, and Personal Protective Equipment Contamination by Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) From a Symptomatic Patient](article_ong_air_2020)
-* [Upper-room ultraviolet air disinfection might help to reduce COVID-19 transmission in buildings: a feasibility study](article_beggs_upper-room_2020)
-* [Effect of Ultraviolet Germicidal Irradiation on Viral Aerosols](article_walker_effect_2007)
-* [Upper-Room Ultraviolet Light and Negative Air Ionization to Prevent Tuberculosis Transmission](article_escombe_upper-room_2009)
-* [Far-UVC light (222 nm) efficiently and safely inactivates airborne human coronaviruses](article_buonanno_far-uvc_2020)
 
+## Neighbours
+
+### Closest articles
+
+* Rapid expansion of temporary, reliable airborne-infection isolation rooms with negative air machines for critical COVID-19 patients - [LINK](article_lee_rapid_2020)
+* Toilets dominate environmental detection of SARS-CoV-2 virus in a hospital - [LINK](article_ding_toilets_2020)
+* Aerosol and Surface Distribution of Severe Acute Respiratory Syndrome Coronavirus 2 in Hospital Wards, Wuhan, China, 2020 - [LINK](article_guo_aerosol_2020)
+* SARS-CoV-2 RNA detection of hospital isolation wards hygiene monitoring during the Coronavirus Disease 2019 outbreak in a Chinese hospital - [LINK](article_wang_sars-cov-2_2020)
+* Air, Surface Environmental, and Personal Protective Equipment Contamination by Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) From a Symptomatic Patient - [LINK](article_ong_air_2020)
+* Real-world data show that filters clean COVID-causing virus from air - [LINK](article_thompson_real-world_2021)
+* First confirmed detection of SARS-CoV-2 in untreated wastewater in Australia: A proof of concept for the wastewater surveillance of COVID-19 in the community - [LINK](article_ahmed_first_2020)
+* Presence of SARS-Coronavirus-2 RNA in Sewage and Correlation with Reported COVID-19 Prevalence in the Early Stage of the Epidemic in The Netherlands - [LINK](article_medema_presence_2020)
+* Persistence of coronaviruses on inanimate surfaces and their inactivation with biocidal agents - [LINK](article_kampf_persistence_2020)
+
+
+### Closest BPs
+
+* Negative pressure rooms - [LINK](bp_13)
+* Installing high-efficiency air filters - [LINK](bp_11)
+* Monitoring of wastewater [CID] - [LINK](bp_21)

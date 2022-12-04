@@ -1,62 +1,40 @@
-# Article: __COVID-19 as a Harbinger of Transforming Infrastructure Resilience__ (carvalhaes_covid-19_2020)
+# Article: COVID-19 as a Harbinger of TransformingInfrastructure Resilience (carvalhaes_covid-19_2020)
 
-* URL: [https://www.frontiersin.org/articles/10.3389/fbuil.2020.00148](https://www.frontiersin.org/articles/10.3389/fbuil.2020.00148)
+* [https://www.frontiersin.org/articles/10.3389/fbuil.2020.00148](https://www.frontiersin.org/articles/10.3389/fbuil.2020.00148)
 * Year: 2020
-* Abstract: The COVID-19 pandemic has shocked infrastructure systems
-in unanticipated ways. Seemingly in the course of weeks,
-our demands for many basic and critical services have
-radically shifted. With expected long-term effects (i.e.,
-years), COVID-19 is going to have profound impacts on every
-facet of infrastructure systems, and will shock these
-systems very differently than the hazards that we often
-focus on, such as extreme events, disrepair, and terrorist
-attacks. At the beginning of this pandemic, infrastructure
-managers are scrambling to respond to changes in demand,
-and to understand what the long-term effects are for how
-they operate and maintain their systems. We contend that
-COVID-19 is revealing several important limitations to how
-we approach and manage our infrastructure, that must be
-acknowledged and addressed as the pandemic persists, and in
-a future increasingly characterized by accelerating and
-increasingly uncertain conditions. These limitations are
-how (i) we prepare for concurrent hazards, (ii) frame
-criticality based on traditional infrastructure sectors and
-not human capabilities, (iii) we emphasize efficiency at a
-cost to resilience, and (iv) leadership is largely focused
-on stable conditions. Each of these challenges represents a
-call for major rethinking for how we approach
-infrastructure, and COVID-19 presents a window of
-opportunity for change.
+* Cluster: [health-pandemic](cluster_4)
 
 
 
 ## Keywords
 
-* [pandemic](keyword_pandemic), [covid-19](keyword_covid-19), [infrastructure](keyword_infrastructure), [resilience](keyword_resilience), [efficiency](keyword_efficiency), [guardian](keyword_guardian), [infrastructure resilience](keyword_infrastructure_resilience), [vaccine](keyword_vaccine), [wildfire](keyword_wildfire), [coronavirus](keyword_coronavirus), leadership, bangladesh, [time](keyword_time), administrative leadership, [system](keyword_system)
-
-
-
-## Keywords at large
-
-* [pandemic](keyword_pandemic), [covid-19](keyword_covid-19), [infrastructure](keyword_infrastructure), [resilience](keyword_resilience), [efficiency](keyword_efficiency), [guardian](keyword_guardian), [infrastructure resilience](keyword_infrastructure_resilience), [vaccine](keyword_vaccine), [wildfire](keyword_wildfire), [coronavirus](keyword_coronavirus)
+ * 360 chester, adaptation, administrative leadership, [agility](keyword_agility), anthropocene, aust, aust j, bangladesh, bigg, black, carvalhae, [cdc](keyword_cdc), chester, chicago, [china](keyword_china), [city](keyword_city), [climate change](keyword_climate_change), cool center, [coronavirus](keyword_coronavirus), [covid-19](keyword_covid-19), [critical infrastructure](keyword_critical_infrastructure), critical service, critical system, criticality, cyber physical system, cybersecurity, dakos, decis, dietz, digital divide, [disease](keyword_disease), distribution, [efficiency](keyword_efficiency), elem, enable leadership, engineer, [engineering](keyword_engineering), essential product, externality, flexibility, function, future, guardian, hazard, [hong kong](keyword_hong_kong), hurricane maria, [india](keyword_india), [industry](keyword_industry), [influenza](keyword_influenza), infrastruct, [infrastructure](keyword_infrastructure), infrastructure manager, infrastructure resilience, institution, jones, kelley, knowledge system, kotzanikolaou, leadership, management, markolf, [month](keyword_month), n y, [new york](keyword_new_york), [news](keyword_news), non essential, npr, npr org, [organization](keyword_organization), other respir, [pandemic](keyword_pandemic), park, physical system, process, puerto rico, radiation oncology, redundancy, reshape city street, [resilience](keyword_resilience), roble, rosa, [russia](keyword_russia), science, [service](keyword_service), smithsonian, software, st petersburg, [supply chain](keyword_supply_chain), [system](keyword_system), [technology](keyword_technology), time, uncertainty, [united states](keyword_united_states), [vaccine](keyword_vaccine), verge, [washington dc](keyword_washington_dc), washington post, wildfire, wire, [year](keyword_year)
 
 
 ## Concepts
 
  ![](imgs/article_carvalhaes_covid-19_2020.jpg)
 
-### Closest articles 
 
-* [Preparing critical infrastructure for the future: Lessons learnt from the Covid-19 pandemic](article_tomalska_preparing_2022)
-* [COVID-19 and a new resilient infrastructure landscape](article_oecd_covid-19_2021)
-* [DfMA for rapid adaptive resilience and flexible
-infrastructure](article_mott_macdonald_dfma_2020)
-* [Guidelines for resilience systems analysis](article_oecd_guidelines_2014)
-* [A review of definitions and measures of system resilience](article_hosseini_review_2016)
-* [Strengthening resilience: a priority shared by Health
-2020 and](article_who_strengthening_2017)
-* [Mobility Behaviour in View of the Impact of the COVID-19 Pandemic—Public Transport Users in Gdansk Case Study](article_przybylowski_mobility_2021)
-* [Responsible Transport: A post-COVID agenda for transport policy and practice](article_budd_responsible_2020)
-* [Learning from pandemics: Applying resilience thinking to identify priorities for planning urban settlements](article_syal_learning_2021)
-* [Understanding the role of urban design in disease spreading](article_brizuela_understanding_2019)
 
+## Neighbours
+
+### Closest articles
+
+* Preparing critical infrastructure for the future: Lessons learnt from the Covid-19 pandemic - [LINK](article_tomalska_preparing_2022)
+* DfMA for rapid adaptive resilience and flexible infrastructure - [LINK](article_mott_macdonald_dfma_2020)
+* COVID-19 and a new resilient infrastructure landscape - [LINK](article_oecd_covid-19_2021)
+* Guidelines for resilience systems analysis - [LINK](article_oecd_guidelines_2014)
+* A review of definitions and measures of system resilience - [LINK](article_hosseini_review_2016)
+* Strengthening resilience: a priority shared by Health 2020 and - [LINK](article_who_strengthening_2017)
+* The contribution of green buildings in the fight against COVID-19 - [LINK](article_world_green_building_council_contribution_2020)
+*  - [LINK](article_yakubu_aminu_dodo_green_2020)
+* Validity of energy social research during and after COVID-19: challenges, considerations, and responses - [LINK](article_fell_validity_2020)
+* Overcoming the Impact of COVID-19 Using Integrated Project Delivery Model - [LINK](article_g_overcoming_2020)
+
+
+### Closest BPs
+
+* Architecture design - [LINK](bp_2)
+* Building Adaptation during a pandemic - [LINK](bp_14)
+* Indoor Environmental Quality (IEQ) monitoring system - [LINK](bp_3)

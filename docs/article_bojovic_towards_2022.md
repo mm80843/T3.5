@@ -1,82 +1,40 @@
-# Article: __Towards Resilient Residential Buildings and Neighborhoods in Light of COVID-19 Pandemic—The Scenario of Podgorica, Montenegro__ (bojovic_towards_2022)
+# Article: Towards Resilient Residential Buildings and Neighborhoods in Light of COVID-19 Pandemic—The Scenario of Podgorica, Montenegro (bojovic_towards_2022)
 
-* [10.3390/su14031302](https://doi.org/10.3390/su14031302)
-* Cluster: [health-building](cluster_9)
+* Source: [10.3390/su14031302](https://doi.org/10.3390/su14031302)
+* Year: 2022
+* Cluster: [building-space](cluster_9)
+
 
 
 ## Keywords
 
-* [pandemic](keyword_pandemic), [podgorica](keyword_podgorica), [apartment](keyword_apartment), [housing](keyword_housing), [montenegro](keyword_montenegro), [covid 19 pandemic](keyword_covid_19_pandemic), [covid-19](keyword_covid-19), [house](keyword_house), [build](keyword_build), [resilience](keyword_resilience), blok 5, residential building, [architect](keyword_architect), [lockdown](keyword_lockdown), [garden](keyword_garden)
-
-
-
-## Keywords at large
-
-* [pandemic](keyword_pandemic), [podgorica](keyword_podgorica), [apartment](keyword_apartment), [housing](keyword_housing), [covid-19](keyword_covid-19), [covid 19 pandemic](keyword_covid_19_pandemic), [montenegro](keyword_montenegro), [house](keyword_house), [build](keyword_build), [resilience](keyword_resilience)
-
-## Abstract
-
-The COVID-19 crisis and new pandemic-oriented everyday
-life have emphasized the urge to reorganize the way we live
-and reside, additionally highlighting the already existing
-socio-spatial problematic that Montenegrin society has been
-experiencing for thirty years. Since residential space is
-considered to be vital for physical, mental and social
-wellbeing, this sudden and global paradigm shift presents
-an opportunity to redefine the current housing concepts
-towards greater long-term resilience in the context of
-present, pandemic and future challenges. The results of the
-survey of housing users in Podgorica confirmed the need to
-address this issue. The article discusses a possible model
-of resilient adaptation of residential buildings and
-neighborhoods in Podgorica, Montenegro. The model addresses
-the flexibility of the apartment units, existence of indoor
-and outdoor common areas for social activities within the
-building and immediate contact with nature, and it is
-applicable in the wider territorial context as well.
-Formulated with the aim of long-term improvement of the
-concept of housing, the model presents a significant
-framework for the planning and design of future buildings.
-The resilient residential model is tested by its
-application to specific buildings of residential area Blok
-5 in Podgorica. This leads to the conclusion that the
-earlier concepts of housing present in theory and practice
-in the second half of the twentieth century in Montenegro
-and the region were more adequate in the context of
-resilience. As we believe that such improved resilient
-housing would consequently increase the resilience of the
-community regarding the challenges it faces currently due
-to COVID-19, we consider this a long-term contribution of
-this research.
+ * adaptability, age, agriculture, [apartment](keyword_apartment), apartment unit, [architect](keyword_architect), [architecture](keyword_architecture), belgrade, blok 5, [build](keyword_build), [building](keyword_building), c1, c2, chi square test, [city](keyword_city), [community](keyword_community), [construction](keyword_construction), consumer society, courtyard, [covid 19 pandemic](keyword_covid_19_pandemic), [covid-19](keyword_covid-19), [croatia](keyword_croatia), current pandemic, [design](keyword_design), elevator, flat roof, former yugoslavia, functional, future challenge, [garden](keyword_garden), [green roof](keyword_green_roof), green roof garden, high rise, [house](keyword_house), [housing](keyword_housing), j c, jardinière, live space, living room, ljubljana, [lockdown](keyword_lockdown), loggia, [london](keyword_london), market value, meerow, [mental](keyword_mental), methodology, montenegrin society, montenegro, multi family, neoliberal capitalism, ongoing pandemic, [pandemic](keyword_pandemic), partition, period of transition, [physical](keyword_physical), [physical health](keyword_physical_health), [plan](keyword_plan), [podgorica](keyword_podgorica), post pandemic period, post-pandemic, [research](keyword_research), residential, residential block, residential building, residential resilience, residential space, [resilience](keyword_resilience), resilience in architecture, roof, s m, self manage socialism, serbia, [slovenia](keyword_slovenia), [social](keyword_social), [society](keyword_society), [south africa](keyword_south_africa), [space](keyword_space), [spain](keyword_spain), studio, suburb, [sustainability](keyword_sustainability), [sustainable development goal](keyword_sustainable_development_goal), [switzerland](keyword_switzerland), terrace, typical housing block in podgorica, unemployed, [united kingdom](keyword_united_kingdom), [united nations](keyword_united_nations), [urban](keyword_urban), urban agriculture, [urban area](keyword_urban_area), urban block, urban garden, urban resilience, [ventilation](keyword_ventilation), [wellbee](keyword_wellbee), [work](keyword_work), yard, zagreb
 
 
 ## Concepts
 
  ![](imgs/article_bojovic_towards_2022.jpg)
 
-### Closest articles 
-
-* [How our homes impact our health: using a COVID-19 informed approach to examine urban apartment housing](article_peters_how_2020)
-* [Prophylactic Architecture: Formulating the Concept of Pandemic-Resilient Homes](article_elrayies_prophylactic_2022)
-* [COVID-19 and Green Housing: A Review of Relevant Literature](article_kaklauskas_covid-19_2021)
-* [](article_dalessandro_covid-19_2020)
-* [How is COVID-19 Experience Transforming Sustainability Requirements of Residential Buildings? A Review](article_tokazhanov_how_2020)
-* [A Mixed Approach on Resilience of Spanish Dwellings and Households during COVID-19 Lockdown](article_cuerdo-vilches_mixed_2020)
-* [Questioning the use of the balcony in apartments during the COVID-19 pandemic process](article_aydin_questioning_2020)
-* [realdania_refleksioner_2022_EN](article_realdania_refleksioner_2022_EN)
-* [Housing Experience in Gated Communities in the Time of Pandemics: Lessons Learned from COVID-19](article_asfour_housing_2022)
-* [How the Coronavirus Will Reshape Architecture](article_chayka_how_2020)
-
-### References 
-
-* [How is COVID-19 Experience Transforming
-Sustainability Requirements of Residential
-Buildings? A Review](article_tokazhanov_how_2020)
-* [Public housing and COVID-19: contestation, challenge and
-change](article_power_public_2020)
-
-### Cited by 
 
 
-* [Prophylactic Architecture: Formulating the Concept
-of Pandemic-Resilient Homes](article_elrayies_prophylactic_2022)
+## Neighbours
+
+### Closest articles
+
+* How our homes impact our health: using a COVID-19 informed approach to examine urban apartment housing - [LINK](article_peters_how_2020)
+* Prophylactic Architecture: Formulating the Concept of Pandemic-Resilient Homes - [LINK](article_elrayies_prophylactic_2022)
+* COVID-19 and Green Housing: A Review of Relevant Literature - [LINK](article_kaklauskas_covid-19_2021)
+*  - [LINK](article_dalessandro_covid-19_2020)
+* How is COVID-19 Experience Transforming Sustainability Requirements of Residential Buildings? A Review - [LINK](article_tokazhanov_how_2020)
+* Public housing and COVID-19: contestation, challenge and change - [LINK](article_power_public_2020)
+* Dangerous liaisons? Applying the social harm perspective to the social inequality, housing and health trifecta during the Covid-19 pandemic - [LINK](article_gurney_dangerous_2021)
+* How Architecture Fails in Conditions of Crisis: a Discussion on the Value of Interior Design over the COVID-19 Outbreak - [LINK](article_rassia_how_2020)
+* Biophilic design in architecture and its contributions to health, well-being, and sustainability: A critical review - [LINK](article_zhong_biophilic_2022)
+* Housing Experience in Gated Communities in the Time of Pandemics: Lessons Learned from COVID-19 - [LINK](article_asfour_housing_2022)
+
+
+### Closest BPs
+
+* Architecture design - [LINK](bp_2)
+* Air Cleaning Plants - [LINK](bp_15)
+* Tender support at building stage - [LINK](bp_9)

@@ -1,50 +1,39 @@
-# Article: __COVID-19: IMPACT OF THE PANDEMIC ON THE SUSTAINABLE DEVELOPMENT GOALS__ (samout_covid-19_2020)
+# Article: COVID-19: IMPACT OF THE PANDEMIC ON THE SUSTAINABLE DEVELOPMENT GOALS (samout_covid-19_2020)
 
-* [10.29121/ijoest.v4.i5.2020.117](https://doi.org/10.29121/ijoest.v4.i5.2020.117)
-* Cluster: [health-building](cluster_9)
+* Source: [10.29121/ijoest.v4.i5.2020.117](https://doi.org/10.29121/ijoest.v4.i5.2020.117)
+* Year: 2020
+* Cluster: [health-pandemic](cluster_4)
+
 
 
 ## Keywords
 
-* [sustainable development](keyword_sustainable_development), [sustainable development goal](keyword_sustainable_development_goal), [pandemic](keyword_pandemic), [development](keyword_development), [economy](keyword_economy), [economic crisis](keyword_economic_crisis), [health](keyword_health), [poverty](keyword_poverty), [society](keyword_society), [economic](keyword_economic), [technology](keyword_technology), country, region, [innovation](keyword_innovation), [social](keyword_social)
-
-
-
-## Keywords at large
-
-* [sustainable development](keyword_sustainable_development), [sustainable development goal](keyword_sustainable_development_goal), [pandemic](keyword_pandemic), [development](keyword_development), [economy](keyword_economy), [economic crisis](keyword_economic_crisis), [health](keyword_health), [poverty](keyword_poverty), [economic](keyword_economic), [society](keyword_society)
-
-## Abstract
-
-In this article, we are interested in what extent and how
-the COVID-19 health crisis affects the goal of sustainable
-development. So, after defining the concept of sustainable
-development and its pillars, this article recommends
-evaluating the impact of the health crisis on the
-sustainability of development. And to answer this question,
-we chose a method that involves first reviewing the
-theoretical literature on the subject and then continuing
-to study the impact of COVID-19 on many sustainable
-development goals.
+ * 3 4 trillion, aacknowledgment, [africa](keyword_africa), ammar samout, antonio guterre, border, child, [china](keyword_china), [climate change](keyword_climate_change), [country](keyword_country), [covid 19 pandemic](keyword_covid_19_pandemic), [covid-19](keyword_covid-19), [crisis](keyword_crisis), degradation of the biosphere, [development](keyword_development), [disease](keyword_disease), [economic](keyword_economic), economic crisis, economic operator, [economy](keyword_economy), [education](keyword_education), effort to fight poverty, electricity, electricity bill, [environment](keyword_environment), environmental, [epidemic](keyword_epidemic), [europe](keyword_europe), [food](keyword_food), food insecurity, food system, future generation, gender equality, [global](keyword_global), global economic and social crisis, global health system, global warming, goal 4, [health](keyword_health), [health care](keyword_health_care), health crisis, health risk behavior, [health system](keyword_health_system), health system collapse, [hospital](keyword_hospital), iace, inclusive, [innovation](keyword_innovation), institute pasteur of tunis, international food policy research institute, international journal of engineering science technology, international monetary fund, introduction, [knowledge](keyword_knowledge), kraków, long term, medical student, most vulnerable, nation, natural resource, need, no poverty, none, [pandemic](keyword_pandemic), paris climate agreement, [plan](keyword_plan), planning mechanism, [poland](keyword_poland), poor, [population](keyword_population), poverty, [public health](keyword_public_health), quality, region, sanitation, [sdg](keyword_sdg), [sdgs](keyword_sdgs), [social](keyword_social), [society](keyword_society), solidarity, [sustainable](keyword_sustainable), [sustainable development](keyword_sustainable_development), [sustainable development goal](keyword_sustainable_development_goal), sustainable development goal 5, sustainabledevelopment, [technology](keyword_technology), the pandemic, tunisia, un secretary general, unemployment, [united nations](keyword_united_nations), [washington dc](keyword_washington_dc), water mechanism, woman, [work](keyword_work), [world bank](keyword_world_bank), world commission on environment and development, world health organization, worsen, young people
 
 
 ## Concepts
 
  ![](imgs/article_samout_covid-19_2020.jpg)
 
-### Closest articles 
 
-* [How COVID-19 Redefines the Concept of Sustainability](article_hakovirta_how_2020)
-* [COVID-19 and the UN Sustainable Development Goals: Threat to Solidarity or an Opportunity?](article_leal_filho_covid-19_2020)
-* [The COVID-19 pandemic: Lessons on building more equal and sustainable societies](article_van_barneveld_covid-19_2020)
-* [Health, Economic and Social Development Challenges of the COVID-19 Pandemic: Strategies for Multiple and Interconnected Issues](article_panneer_health_2022)
-* [Sustainable work throughout the life course: National
-policies and strategies, Publications Office of the
-European Union](article_eurofund_sustainable_2016)
-* [Urban planning after COVID-19](article_rtpi_urban_2021)
-* [A critical analysis of the impacts of COVID-19 on the global economy and ecosystems and opportunities for circular economy strategies](article_ibn-mohammed_critical_2021)
-* [Mapping research in logistics and supply chain management during COVID-19 pandemic](article_montoya-torres_mapping_2021)
-* [Global value chains: Efficiency and risks in the context of COVID-19](article_oecd_global_2021)
-* [<scp>COVID</scp>
-            ‐19: Small and medium enterprises challenges and responses with creativity, innovation, and entrepreneurship](article_thukral_covid19_2021)
 
+## Neighbours
+
+### Closest articles
+
+* How COVID-19 Redefines the Concept of Sustainability - [LINK](article_hakovirta_how_2020)
+* Building up an ecologically sustainable and socially desirable post-COVID-19 future - [LINK](article_duflot_building_2021)
+* COVID-19 and the UN Sustainable Development Goals: Threat to Solidarity or an Opportunity? - [LINK](article_leal_filho_covid-19_2020)
+* The COVID-19 pandemic: Lessons on building more equal and sustainable societies - [LINK](article_van_barneveld_covid-19_2020)
+* Health, Economic and Social Development Challenges of the COVID-19 Pandemic: Strategies for Multiple and Interconnected Issues - [LINK](article_panneer_health_2022)
+* Urban planning after COVID-19 - [LINK](article_rtpi_urban_2021)
+* A critical analysis of the impacts of COVID-19 on the global economy and ecosystems and opportunities for circular economy strategies - [LINK](article_ibn-mohammed_critical_2021)
+* The socio-economic implications of the coronavirus pandemic (COVID-19): A review - [LINK](article_nicola_socio-economic_2020)
+* A Global Survey of Infection Control and Mitigation Measures for Combating the Transmission of COVID-19 Pandemic in Buildings Under Facilities Management Services - [LINK](article_sarvari_global_2022)
+
+
+### Closest BPs
+
+* Blueprint: Air Cleaning Plants - [LINK](bp_15)
+* Blueprint: Architecture design - [LINK](bp_2)
+* Blueprint: Tender support at building stage - [LINK](bp_9)

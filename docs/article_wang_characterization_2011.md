@@ -1,67 +1,40 @@
-# Article: __Characterization and performance evaluation of a full-scale activated carbon-based dynamic botanical air filtration system for improving indoor air quality__ (wang_characterization_2011)
+# Article: Characterization and performance evaluation of a full-scale activated carbon-based dynamic botanical air filtration system for improving indoor air quality (wang_characterization_2011)
 
-* [10.1016/j.buildenv.2010.10.008](https://doi.org/10.1016/j.buildenv.2010.10.008)
-* Cluster: [air-sars](cluster_0)
+* Source: [10.1016/j.buildenv.2010.10.008](https://doi.org/10.1016/j.buildenv.2010.10.008)
+* Year: 2011
+* Cluster: [air-uv](cluster_2)
+
 
 
 ## Keywords
 
-* [formaldehyde](keyword_formaldehyde), [toluene](keyword_toluene), [dbaf](keyword_dbaf), [vocs](keyword_vocs), [efficiency](keyword_efficiency), [plant](keyword_plant), [ventilation](keyword_ventilation), [pollutant](keyword_pollutant), [build](keyword_build), [office](keyword_office), [indoor air quality](keyword_indoor_air_quality), [fan](keyword_fan), [hvac](keyword_hvac), [environment](keyword_environment), [temperature](keyword_temperature)
-
-
-
-## Keywords at large
-
-* [formaldehyde](keyword_formaldehyde), [toluene](keyword_toluene), [dbaf](keyword_dbaf), [vocs](keyword_vocs), [efficiency](keyword_efficiency), [plant](keyword_plant), [ventilation](keyword_ventilation), [pollutant](keyword_pollutant), [build](keyword_build), [indoor air quality](keyword_indoor_air_quality)
-
-## Abstract
-
-A dynamic botanical air filtration system (DBAF) was
-developed for evaluating the short and long-term
-performance of botanical air cleaning technology under
-realistic indoor conditions. It was a fan-assisted with
-controlled airflow, activated-carbon/hydroculture based
-potted plant unit. The DBAF was first tested using a
-full-scale stainless chamber to evaluate its short-term
-performance. It was then integrated in the HVAC system of a
-new office space (96.8 m2) to study the effects of
-moisture content in the root bed on the removal efficiency,
-and the long-term performance. The results indicated that
-5\% outdoor air plus botanical filtration lead to the
-similar indoor formaldehyde/toluene concentration level as
-25\% outdoor air without filtration, which means that the
-filtration system was equivalent to 20\% outdoor air
-(476 m3/h). The DBAF was effective for removing both
-formaldehyde and toluene under 5–32\% volumetric water
-content of the root bed. It also performed consistently
-well over the relatively long testing period of 300 days
-while running continuously. The reduction in outdoor
-ventilation rate while using the botanical filtration
-system to maintain acceptable air quality would lead to
-10–15\% energy saving for the cold climate (Syracuse,
-NY), based on simulation analysis using EnergyPlus. For
-winter condition, the filter was also found to increase the
-supply air RH by 20\%, which would decrease the dryness of
-air. For summer condition, the increase of RH in summer
-would be within 15\% of the RH condition when no botanical
-air filtration is present.
+ * 12th hour, 24 h, 2nd, 3rd 4th, 4th, activate carbon, adsorb, [air](keyword_air), air clean, air quality, air temperature, airﬂow, airﬂow rate, [bed](keyword_bed), botanical air ﬁltration system, botanical ﬁlter, [build](keyword_build), campbell, chamber test, clean air, [climate](keyword_climate), climate zone, commercial building, compound, cool, [dbaf](keyword_dbaf), decay rate, degradation, designbuilder, efﬁciencie, efﬁciency, eia, emission factor, [energy consumption](keyword_energy_consumption), energy efﬁcient, energyplus, [environment](keyword_environment), epa, fan, [formaldehyde](keyword_formaldehyde), heating, [hvac](keyword_hvac), hvac system, [indoor](keyword_indoor), [indoor air quality](keyword_indoor_air_quality), inlet, insoluble, irrigation, irrigation system, mass spectrometer, [microorganism](keyword_microorganism), [new york](keyword_new_york), normalize, normalize formaldehyde concentration, normalize toluene concentration, ofﬁce, operation mode, outdoor air, outlet, particleboard, pilger c, [plant](keyword_plant), [pollutant](keyword_pollutant), pollution, pothos, proton transfer reaction, pull down test procedure, relative humidity, residential building, rh, rhizosphere, root system, [sensor](keyword_sensor), sep, sf6, side view, [simulation](keyword_simulation), summer, syracuse, [temperature](keyword_temperature), test chamber, [toluene](keyword_toluene), top view, [ventilation](keyword_ventilation), voc, voc removal, [vocs](keyword_vocs), volatile organic compound, vwc, [water](keyword_water), water content, water soluble, [winter](keyword_winter), wood ra, work cubicle, xylene, zhang j, ﬁlter, ﬁlter bed, ﬁltration
 
 
 ## Concepts
 
  ![](imgs/article_wang_characterization_2011.jpg)
 
-### Closest articles 
 
-* [The Effect of Opening Windows on Air Change Rates in Two Homes](article_howard-reed_effect_2002)
-* [A comprehensive review on indoor air quality monitoring systems for enhanced public health](article_saini_comprehensive_2020)
-* [The effect of a redesigned floor plan, occupant density and the quality of indoor climate on the cost of space, productivity and sick leave in an office building–A case study](article_saari_effect_2006)
-* [The effect of occupant distribution on energy consumption and COVID-19 infection in buildings: A case study of university building](article_mokhtari_effect_2021)
-* [Reflecting on Impacts of COVID19 on Sustainable Buildings and Cities](article_gonzalez_reflecting_2021)
-* [Smart buildings: how a virus might lead to healthier
-buildings - Arup](article_lam_smart_2021)
-* [Designing Post COVID-19 Buildings: Approaches for Achieving Healthy Buildings](article_navaratnam_designing_2022)
-* [Ten questions concerning occupant health in buildings during normal operations and extreme events including the COVID-19 pandemic](article_awada_ten_2021)
-* [Addressing the impact of COVID-19 lockdown on energy use in municipal buildings: A case study in Florianópolis, Brazil](article_geraldi_addressing_2021)
-* [Indoor Air Quality: Rethinking rules of building design strategies in post-pandemic architecture](article_megahed_indoor_2021)
 
+## Neighbours
+
+### Closest articles
+
+* The Effect of Opening Windows on Air Change Rates in Two Homes - [LINK](article_howard-reed_effect_2002)
+* The effect of a redesigned floor plan, occupant density and the quality of indoor climate on the cost of space, productivity and sick leave in an office building–A case study - [LINK](article_saari_effect_2006)
+* Architectural Design Drives the Biogeography of Indoor Bacterial Communities - [LINK](article_kembel_architectural_2014)
+* Readiness Assessment of Green Building Certification Systems for Residential Buildings during Pandemics - [LINK](article_tleuken_readiness_2021)
+* Assessment method for new sustainability indicators providing pandemic resilience for residential buildings - [LINK](article_tokazhanov_assessment_2021)
+* Designing Post COVID-19 Buildings: Approaches for Achieving Healthy Buildings - [LINK](article_navaratnam_designing_2022)
+* Smart buildings: how a virus might lead to healthier buildings - Arup - [LINK](article_lam_smart_2021)
+* Architectural design strategies for infection prevention and control (IPC) in health-care facilities: towards curbing the spread of Covid-19 \textbar SpringerLink - [LINK](article_udomiaye_architectural_2020)
+* How to Make Green Building Certification &amp; Rating Systems More Pandemic-Sustainable? - [LINK](article_ujikawa_how_2022)
+* Occupant health in buildings: Impact of the COVID-19 pandemic on the opinions of building professionals and implications on research - [LINK](article_awada_occupant_2022)
+
+
+### Closest BPs
+
+* Blueprint: Indoor Environmental Quality (IEQ) monitoring system - [LINK](bp_3)
+* Blueprint: Installing UV in ductwork - [LINK](bp_10)
+* Blueprint: Air Cleaning Plants - [LINK](bp_15)

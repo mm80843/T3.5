@@ -1,35 +1,40 @@
-# Article: __The Effect of Opening Windows on Air Change Rates in Two Homes__ (howard-reed_effect_2002)
+# Article: The Effect of Opening Windows on Air Change Rates in Two Homes (howard-reed_effect_2002)
 
-* [10.1080/10473289.2002.10470775](https://doi.org/10.1080/10473289.2002.10470775)
-* Cluster: [air-sars](cluster_0)
+* Source: [10.1080/10473289.2002.10470775](https://doi.org/10.1080/10473289.2002.10470775)
+* Year: 2002
+* Cluster: [air-uv](cluster_2)
+
 
 
 ## Keywords
 
-* [window](keyword_window), [california](keyword_california), [air change rate](keyword_air_change_rate), [virginia](keyword_virginia), [house](keyword_house), [door](keyword_door), [virginia house](keyword_virginia_house), [summer](keyword_summer), [california house](keyword_california_house), [meteorological](keyword_meteorological), [winter](keyword_winter), [temperature](keyword_temperature), state 0, air change, tracer gas
-
-
-
-## Keywords at large
-
-* [window](keyword_window), [california](keyword_california), [air change rate](keyword_air_change_rate), [virginia](keyword_virginia), [house](keyword_house), [door](keyword_door), [virginia house](keyword_virginia_house), [summer](keyword_summer), [california house](keyword_california_house), [meteorological](keyword_meteorological)
+ * [air](keyword_air), air change, [air change rate](keyword_air_change_rate), air waste management association, american society for testing and material, anemometer, assoc, b k, [bedroom](keyword_bedroom), [california](keyword_california), california house, compartment, [concentration](keyword_concentration), day, decay rate, depressurize, dining room, door, dulle, east, eigenvalue, equilibrium, etheridge, experiment, experimental house, floor plan, [home](keyword_home), [house](keyword_house), howard reed, human exposure, [hvac](keyword_hvac), [indoor](keyword_indoor), indoor air, [japan](keyword_japan), kitchen, kvisgaard, level 2 level 1, level 3, level 3 level 1, living room, maryland, master bedroom, may 1995, meteorological, meteorological condition, [monitor](keyword_monitor), national institute of standard and technology, [new york](keyword_new_york), nonwindy, [occupant](keyword_occupant), open, open window, ott, outdoor air, outdoor temperature, pa, philadelphia pa, pressurize, redwood city, reston, reverse stack effect, roulet, [sample](keyword_sample), san jose, san reston, scartezzini, season, second floor, sf6, slope, spring, st petersburg, stack effect, standard error, stanford university, [state](keyword_state), state 0, summer, sustain air change, [temperature](keyword_temperature), temperature difference, tracer, tracer gas, va, [ventilation](keyword_ventilation), [virginia](keyword_virginia), virginia house, volume, wallace, weather, weather condition, whoosh, wind, wind speed, [window](keyword_window), window opening, window opening behavior, windy, [winter](keyword_winter), zone
 
 
 ## Concepts
 
  ![](imgs/article_howard-reed_effect_2002.jpg)
 
-### Closest articles 
 
-* [Characterization and performance evaluation of a full-scale activated carbon-based dynamic botanical air filtration system for improving indoor air quality](article_wang_characterization_2011)
-* [A comprehensive review on indoor air quality monitoring systems for enhanced public health](article_saini_comprehensive_2020)
-* [The effect of a redesigned floor plan, occupant density and the quality of indoor climate on the cost of space, productivity and sick leave in an office building–A case study](article_saari_effect_2006)
-* [The effect of occupant distribution on energy consumption and COVID-19 infection in buildings: A case study of university building](article_mokhtari_effect_2021)
-* [Reflecting on Impacts of COVID19 on Sustainable Buildings and Cities](article_gonzalez_reflecting_2021)
-* [Addressing the impact of COVID-19 lockdown on energy use in municipal buildings: A case study in Florianópolis, Brazil](article_geraldi_addressing_2021)
-* [Smart buildings: how a virus might lead to healthier
-buildings - Arup](article_lam_smart_2021)
-* [Designing Post COVID-19 Buildings: Approaches for Achieving Healthy Buildings](article_navaratnam_designing_2022)
-* [Assessment of Building Automation and Control Systems in Danish Healthcare Facilities in the COVID-19 Era](article_pedersen_assessment_2022)
-* [Ten questions concerning occupant health in buildings during normal operations and extreme events including the COVID-19 pandemic](article_awada_ten_2021)
 
+## Neighbours
+
+### Closest articles
+
+* Characterization and performance evaluation of a full-scale activated carbon-based dynamic botanical air filtration system for improving indoor air quality - [LINK](article_wang_characterization_2011)
+* The effect of a redesigned floor plan, occupant density and the quality of indoor climate on the cost of space, productivity and sick leave in an office building–A case study - [LINK](article_saari_effect_2006)
+* Architectural Design Drives the Biogeography of Indoor Bacterial Communities - [LINK](article_kembel_architectural_2014)
+* Readiness Assessment of Green Building Certification Systems for Residential Buildings during Pandemics - [LINK](article_tleuken_readiness_2021)
+* Assessment method for new sustainability indicators providing pandemic resilience for residential buildings - [LINK](article_tokazhanov_assessment_2021)
+* How to Make Green Building Certification &amp; Rating Systems More Pandemic-Sustainable? - [LINK](article_ujikawa_how_2022)
+* Designing Post COVID-19 Buildings: Approaches for Achieving Healthy Buildings - [LINK](article_navaratnam_designing_2022)
+* Architectural design strategies for infection prevention and control (IPC) in health-care facilities: towards curbing the spread of Covid-19 \textbar SpringerLink - [LINK](article_udomiaye_architectural_2020)
+* Smart buildings: how a virus might lead to healthier buildings - Arup - [LINK](article_lam_smart_2021)
+* A Review on Building Design as a Biomedical System for Preventing COVID-19 Pandemic - [LINK](article_amran_review_2022)
+
+
+### Closest BPs
+
+* Blueprint: Indoor Environmental Quality (IEQ) monitoring system - [LINK](bp_3)
+* Blueprint: Installing UV in ductwork - [LINK](bp_10)
+* Blueprint: Air Cleaning Plants - [LINK](bp_15)

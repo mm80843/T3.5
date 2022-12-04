@@ -1,45 +1,40 @@
-# Article: __Green in times of COVID-19: urban green space relevance during the COVID-19 pandemic in Buenos Aires City__ (marconi_green_2022)
+# Article: Green in times of COVID-19: urban green space relevance during the COVID-19 pandemic in Buenos Aires City (marconi_green_2022)
 
-* [10.1007/s11252-022-01204-z](https://doi.org/10.1007/s11252-022-01204-z)
-* Cluster: [green-urban](cluster_15)
+* Source: [10.1007/s11252-022-01204-z](https://doi.org/10.1007/s11252-022-01204-z)
+* Year: 2022
+* Cluster: [building-space](cluster_9)
+
 
 
 ## Keywords
 
-* [ug](keyword_ug), [caba](keyword_caba), [confinement](keyword_confinement), [covid-19](keyword_covid-19), [argentina](keyword_argentina), [urban ecosystem](keyword_urban_ecosystem), [urban green space](keyword_urban_green_space), [brooks sk](keyword_brooks_sk), [webster rk](keyword_webster_rk), bueno air, district 1, [pandemic](keyword_pandemic), green space, mdp, [park](keyword_park)
-
-
-
-## Keywords at large
-
-* [ug](keyword_ug), [confinement](keyword_confinement), [caba](keyword_caba), [covid-19](keyword_covid-19), [argentina](keyword_argentina), [urban green space](keyword_urban_green_space), [urban ecosystem](keyword_urban_ecosystem), [brooks sk](keyword_brooks_sk), [webster rk](keyword_webster_rk), [perception](keyword_perception)
+ * alomo m, apathetic, [argentina](keyword_argentina), avellaneda, biophilic city, brooks sk, [bueno air](keyword_bueno_air), bueno air autonomous city, bueno air city, [building](keyword_building), caba, [cdc](keyword_cdc), chain d, [city](keyword_city), compete interest, [confinement](keyword_confinement), [consent](keyword_consent), correspondence analysis, covid 19 confinement, [covid 19 pandemic](keyword_covid_19_pandemic), [covid-19](keyword_covid-19), day, demographic, demographic status, dirksen j, district, district 1, district 12, district 6, district 7, domon g, dáil éireann, ecosystem, ecosystemic service, education level, [employee](keyword_employee), environmental perception among resident of a polluted watershed in bueno aire, estadísticasギba, experience, experiential, experiential attribute, faggi a, family, [food](keyword_food), forest service, friend, gagliardi g, gcba, gender, giusti m, grassi b, [green](keyword_green), [health](keyword_health), hogare, [house](keyword_house), interact, landscape, lustig, mdp, ministerio de desarrollo urbano, [pandemic](keyword_pandemic), perception, physical activity, [population](keyword_population), poverty, principal component analysis, [psychological](keyword_psychological), [quarantine](keyword_quarantine), quarantine and isolation, recreation, retiree, revista de la cepal, ruiz j, [social](keyword_social), [social distancing](keyword_social_distancing), social gathering, [social interaction](keyword_social_interaction), socio economic, southeastern, statistical analysis, subsecretaría deplaneamiento, [survey](keyword_survey), sweden, [technology](keyword_technology), tommasi, [ug](keyword_ug), ugs, uppsala university, [urban green space](keyword_urban_green_space), vouligny é, vulnerably, [water](keyword_water), webster rk, weekday, weekend, who, with family, with friend, world health organization, éireann
 
 
 ## Concepts
 
  ![](imgs/article_marconi_green_2022.jpg)
 
-### Closest articles 
-
-* [Effects of the COVID-19 pandemic on the use and perceptions of urban green space: An international exploratory study](article_ugolini_effects_2020)
-* [Urban Green Infrastructure and Green Open Spaces: An Issue of Social Fairness in Times of COVID-19 Crisis](article_reinwald_urban_2021)
-* [Association between indoor-outdoor green features and psychological health during the COVID-19 lockdown in Italy: A cross-sectional nationwide study](article_spano_association_2021)
-* [Home garden use during COVID-19: Associations with physical and mental wellbeing in older adults](article_corley_home_2021)
-* [Blockchain technology and its applications to combat COVID-19 pandemic](article_sharma_blockchain_2022)
-* [Refleksioner fra en pandemi](article_realdania_refleksioner_2022)
-* [Pandemiens arkitektur](article_realdania_pandemiens_2022)
-* [Mental health economics: A prospective study on psychological flourishing and associations with healthcare costs and sickness benefit transfers in Denmark](article_santini_mental_2021)
-* [Psychological Effects of Home Confinement and Social Distancing Derived from COVID-19 in the General Population—A Systematic Review](article_rodriguez-fernandez_psychological_2021)
-* [Treating two pandemics for the price of one: Chronic and infectious disease impacts of the built and natural environment](article_frank_treating_2021)
-
-### References 
-
-* [The psychological impact of COVID-19 on the mental
-health in the general population](article_serafini_psychological_2020)
-* [Effects of the COVID-19 pandemic on the use and
-perceptions of urban green space: An international
-exploratory study](article_ugolini_effects_2020)
-
-### Cited by 
 
 
+## Neighbours
+
+### Closest articles
+
+* Effects of the COVID-19 pandemic on the use and perceptions of urban green space: An international exploratory study - [LINK](article_ugolini_effects_2020)
+* The role of green roofs in post COVID-19 confinement: An analysis of willingness to pay - [LINK](article_manso_role_2021)
+* Association between indoor-outdoor green features and psychological health during the COVID-19 lockdown in Italy: A cross-sectional nationwide study - [LINK](article_spano_association_2021)
+* The impact of the COVID-19 pandemic on the importance of urban green spaces to the public - [LINK](article_noszczyk_impact_2022)
+* Urban Green Infrastructure and Green Open Spaces: An Issue of Social Fairness in Times of COVID-19 Crisis - [LINK](article_reinwald_urban_2021)
+* Green spaces, especially forest, linked to lower SARS-CoV-2 infection rates: A one-year nationwide study - [LINK](article_jiang_green_2021)
+* Learning from pandemics: Applying resilience thinking to identify priorities for planning urban settlements - [LINK](article_syal_learning_2021)
+* The Impact of COVID-19 on Public Space: A Review of the Emerging Questions - [LINK](article_honey-roses_impact_2020)
+* COVID-19 Pandemic: Rethinking Strategies for Resilient Urban Design, Perceptions, and Planning - [LINK](article_afrin_covid-19_2021)
+* Impact of Covid-19 on the built environment - [LINK](article_mahima_impact_2022)
+
+
+### Closest BPs
+
+* Blueprint: Building Adaptation during a pandemic - [LINK](bp_14)
+* Blueprint: Architecture design - [LINK](bp_2)
+* Blueprint: Tender support at building stage - [LINK](bp_9)

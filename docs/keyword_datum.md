@@ -1,33 +1,38 @@
-# Keyword: __datum__
-## Clusters
+# Keyword: datum
 
-* Cluster 4: [smart-city](cluster_4)
-* Cluster 9: [health-building](cluster_9)
-* Cluster 10: [city-smart](cluster_10)
-* Cluster 11: [blockchain-ai](cluster_11)
+* [city-urban](cluster_Cluster_1)
+
+* [datum-ai](cluster_Cluster_6)
+
+* [perpetuity-forest](cluster_Cluster_7)
+
+
+## Keywords
+
+ * analyse, analysis, [analytic](keyword_analytic), analyze, api, [artificial intelligence](keyword_artificial_intelligence), authoritative information, [big datum](keyword_big_datum), big datum analytic, [blockchain](keyword_blockchain), causality analysis, chart the datum, cloud, cloud platform, computer science, computer scientist, confidential, data availability statement, [datum](keyword_datum), datum acquisition, datum analysis, datum availability, datum scientist, datum structure, digital transaction, document, empirical, [epidemiological](keyword_epidemiological), [evidence](keyword_evidence), excel sheet, formidle analyser, github, graphically, health condition, health datum, heuristic, hypothesis, information, insight, integrate, integration, internet of thing, interpolate, interview, [knowledge](keyword_knowledge), life science, [machine learning](keyword_machine_learning), manage, material, memory, mendeley, method, mobile phone, [model](keyword_model), modeller, nchs, [ontology](keyword_ontology), open datum, operator, [organization](keyword_organization), our world in datum, outcome metric, [pandemic](keyword_pandemic), [pandemien](keyword_pandemien), perception, predict, [privacy](keyword_privacy), privacy concern, real time datum, report, [research](keyword_research), [researcher](keyword_researcher), [sample](keyword_sample), schema, science, scientist, [sense](keyword_sense), sensitive, [sensor](keyword_sensor), [service](keyword_service), [smart building](keyword_smart_building), smartphone, [social medium](keyword_social_medium), [society](keyword_society), software, software application, solution, [statistic](keyword_statistic), statistical, statistical analysis, storage, strength, subjective judgment, [survey](keyword_survey), [technology](keyword_technology), test, third party, unstructured datum, urban informatic, world in datum
+
 
 ## Concepts
 
  ![](imgs/keyword_datum.jpg)
 
 
-## Top 10 articles for __datum__
-* The Emergence of Anti-Privacy and Control at the
-Nexus between the Concepts of Safe City and Smart
-City ([allam_emergence_2019](article_allam_emergence_2019))
-* world_bank_world_2022 ([world_bank_world_2022](article_world_bank_world_2022))
-* oecd_guidelines_2014 ([oecd_guidelines_2014](article_oecd_guidelines_2014))
-* realdania_refleksioner_2022_EN ([realdania_refleksioner_2022_EN](article_realdania_refleksioner_2022_EN))
-* Pandemic Analytics: How Countries are Leveraging
-Big Data Analytics and Artificial Intelligence to
-Fight COVID-19? ([mehta_pandemic_2021](article_mehta_pandemic_2021))
-* council_of_europe_2020_2020 ([council_of_europe_2020_2020](article_council_of_europe_2020_2020))
-* world_green_building_council_health_2014 ([world_green_building_council_health_2014](article_world_green_building_council_health_2014))
-* On the Coronavirus (COVID-19) Outbreak and the
-Smart City Network: Universal Data Sharing
-Standards Coupled with Artificial Intelligence
-(AI) to Benefit Urban Health Monitoring and
-Management ([allam_coronavirus_2020](article_allam_coronavirus_2020))
-* The three modes of existence of the pandemic smart city ([soderstrom_three_2021](article_soderstrom_three_2021))
-* An Overview of Biomedical Ontologies for Pandemics
-and Infectious Diseases Representation ([bayoudhi_overview_2021](article_bayoudhi_overview_2021))
+
+## Neighbours
+
+### Closest articles
+
+* World Bank Development Report - [LINK](article_world_bank_world_2022)
+* Impact of COVID-19 on IoT Adoption in Healthcare, Smart Homes, Smart Buildings, Smart Cities, Transportation and Industrial IoT - [LINK](article_umair_impact_2021)
+* Pandemic Analytics: How Countries are Leveraging Big Data Analytics and Artificial Intelligence to Fight COVID-19? - [LINK](article_mehta_pandemic_2021)
+* Continuous IEQ monitoring system: Context and development - [LINK](article_parkinson_continuous_2019)
+* Guidelines for resilience systems analysis - [LINK](article_oecd_guidelines_2014)
+* 2020 Data Protection Report - [LINK](article_council_of_europe_2020_2020)
+* Refleksioner fra en pandemi - [LINK](article_realdania_refleksioner_2022)
+* The Emergence of Anti-Privacy and Control at the Nexus between the Concepts of Safe City and Smart City - [LINK](article_allam_emergence_2019)
+* Scalable IoT Architecture for Monitoring IEQ Conditions in Public and Private Buildings - [LINK](article_calvo_scalable_2022)
+* Digital Twin of COVID-19 Mass Vaccination Centers - [LINK](article_pilati_digital_2021)
+
+
+### Closest BPs
+

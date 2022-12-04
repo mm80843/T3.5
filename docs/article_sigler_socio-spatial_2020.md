@@ -1,69 +1,40 @@
-# Article: __The Socio-Spatial Determinants of COVID-19 Diffusion: The Impact of Globalisation, Settlement Characteristics and Population__ (sigler_socio-spatial_2020)
+# Article: The Socio-Spatial Determinants of COVID-19 Diffusion: The Impact of Globalisation, Settlement Characteristics and Population (sigler_socio-spatial_2020)
 
-* [10.21203/rs.3.rs-33615/v1](https://doi.org/10.21203/rs.3.rs-33615/v1)
-* Cluster: [city-spatial](cluster_3)
+* Source: [10.21203/rs.3.rs-33615/v1](https://doi.org/10.21203/rs.3.rs-33615/v1)
+* Year: 2020
+* Cluster: [health-pandemic](cluster_4)
+
 
 
 ## Keywords
 
-* [globalisation](keyword_globalisation), [covid-19](keyword_covid-19), [infectious disease](keyword_infectious_disease), [population](keyword_population), [quantile](keyword_quantile), [china](keyword_china), [jax](keyword_jax), [spread](keyword_spread), [mathjax](keyword_mathjax), [financial globalisation](keyword_financial_globalisation), [diffusion](keyword_diffusion), interpersonal globalisation, quantile regression, urbanisation, settlement
-
-
-
-## Keywords at large
-
-* [globalisation](keyword_globalisation), [covid-19](keyword_covid-19), [population](keyword_population), [infectious disease](keyword_infectious_disease), [china](keyword_china), [quantile](keyword_quantile), [jax](keyword_jax), [spread](keyword_spread), [mathjax](keyword_mathjax), [financial globalisation](keyword_financial_globalisation)
-
-## Abstract
-
-Abstract
-
-Background: COVID-19 is an emergent infectious disease that
-has spread geographically to become a global pandemic.
-While much research focuses on the epidemiological and
-virological aspects of the COVID-19 transmission, there
-remains a gap in knowledge regarding the drivers of
-geographical diffusion between places. Here, we use
-quantile regression to model the roles of globalisation,
-human settlement and population characteristics as
-socio-spatial determinants of COVID-19 diffusion over a
-six-week period in March and April 2020. Results: The
-quantile regression model suggest that globalisation and
-settlement population characteristics related to high human
-mobility predict disease diffusion. Human development level
-(HDI) and total population predict COVID-19 diffusion in
-countries with a high number of total confirmed cases per
-million whereas larger household size, older populations,
-and globalisation tied to human interaction predict
-COVID-19 diffusion in countries with a low number of total
-confirmed cases per million. Conclusions: The analysis
-confirms that globalisation, settlement and population
-characteristics lead to greater disease diffusion, and
-primarily variables tied to high human mobility. These
-outcomes serve to inform policies around ‘flattening the
-curve’, particularly as they related to anticipated
-relocation diffusion from more- to less-developed countries
-and regions, and hierarchical diffusion from countries with
-higher population and density. Epidemiological strategies
-must be tailored to suit the range of human mobility
-patterns, as well as the variety of settlement and
-population characteristics.
+ * 25th, 50th, affluent, areal accessibility, berman m, border, [canada](keyword_canada), [china](keyword_china), [city](keyword_city), complexity, connolly c, [coronavirus](keyword_coronavirus), country with low level of development and migration, covid 19 diffusion, [covid-19](keyword_covid-19), demographic science, [density](keyword_density), diffuse, diffusion, dis lancet, disease diffusion, distribution, download, [economic](keyword_economic), emerg technol, eocene, [epidemic](keyword_epidemic), [epidemiological](keyword_epidemiological), [epidemiology](keyword_epidemiology), financial globalisation, geographical, global pandemic, [globalisation](keyword_globalisation), globalization, guardian, hdi, hierarchical diffusion, [household](keyword_household), household size, human interaction, human mobility, human settlement, [infectious disease](keyword_infectious_disease), international travel, interpersonal globalisation, iran, [italy](keyword_italy), jax, johns hopkins university, keil r, koenker r, mathjax, mathjax jax output commonhtml jax, mean, [mobility](keyword_mobility), [model](keyword_model), more develop country, [nature](keyword_nature), [new york](keyword_new_york), new zealand, north be, [outbreak](keyword_outbreak), pan a, [pandemic](keyword_pandemic), [population](keyword_population), population characteristic, population density, population size, population variable, quantile, quantile regression, relocation diffusion, [research](keyword_research), sah p, science, settlement, settlement characteristic, social globalisation, socio spatial determinant, [spain](keyword_spain), spatial diffusion, [spread](keyword_spread), [statistic](keyword_statistic), stratton cw, temporal spread, territory, [toronto](keyword_toronto), [tourism](keyword_tourism), trade globalisation, [transmission](keyword_transmission), [travel](keyword_travel), [united kingdom](keyword_united_kingdom), [united states](keyword_united_states), [urban](keyword_urban), urbanisation, wu f, [wuhan](keyword_wuhan), zhao s, β0 τ, β1 τ x1
 
 
 ## Concepts
 
  ![](imgs/article_sigler_socio-spatial_2020.jpg)
 
-### Closest articles 
 
-* [The socio-economic determinants of COVID-19: A spatial analysis of German county level data](article_ehlert_socio-economic_2021)
-* [Climate and the spread of COVID-19](article_chen_climate_2021)
-* [Association of built environment attributes with the spread of COVID-19 at its initial stage in China](article_li_association_2021)
-* [Treating two pandemics for the price of one: Chronic and infectious disease impacts of the built and natural environment](article_frank_treating_2021)
-* [Study of COVID-19 pandemic in London (UK) from urban context](article_ghosh_study_2020)
-* [Infodemic and the spread of fake news in the COVID-19-era](article_orso_infodemic_2020)
-* [The effect of human mobility and control measures on the COVID-19 epidemic in China](article_kraemer_effect_2020)
-* [Open-source analytics tools for studying the COVID-19 coronavirus outbreak](article_wu_open-source_2020)
-* [](article_mehtab_alam_role_2021)
-* [How loneliness is talked about in social media during COVID-19 pandemic: Text mining of 4,492 Twitter feeds](article_koh_how_2022)
 
+## Neighbours
+
+### Closest articles
+
+* The socio-economic determinants of COVID-19: A spatial analysis of German county level data - [LINK](article_ehlert_socio-economic_2021)
+* The impact of COVID-19 and strategies for mitigation and suppression in low- and middle-income countries - [LINK](article_walker_impact_2020)
+* Association of built environment attributes with the spread of COVID-19 at its initial stage in China - [LINK](article_li_association_2021)
+* Treating two pandemics for the price of one: Chronic and infectious disease impacts of the built and natural environment - [LINK](article_frank_treating_2021)
+* Covid-19 and community mitigation strategies in a pandemic - [LINK](article_ebrahim_covid-19_2020)
+* Coronavirus disease 2019: The harms of exaggerated information and non‐evidence‐based measures - [LINK](article_ioannidis_coronavirus_2020)
+* COVID-19 and social inequalities: a complex and dynamic interaction - [LINK](article_quantin_covid-19_2022)
+* COVID-19 and the rise of intimate partner violence - [LINK](article_aguero_covid-19_2021)
+* Study of COVID-19 pandemic in London (UK) from urban context - [LINK](article_ghosh_study_2020)
+* Multilevel Analysis of Personal, Non-Medical COVID-19-Related Impact Worldwide - [LINK](article_dye_multilevel_2020)
+
+
+### Closest BPs
+
+* Blueprint: Resilience in staffing and skills training - [LINK](bp_12)
+* Blueprint: Air Cleaning Plants - [LINK](bp_15)
+* Blueprint: Tender support at building stage - [LINK](bp_9)

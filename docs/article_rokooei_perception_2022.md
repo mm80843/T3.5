@@ -1,49 +1,40 @@
-# Article: __Perception of COVID-19 impacts on the construction industry over time__ (rokooei_perception_2022)
+# Article: Perception of COVID-19 impacts on the construction industry over time (rokooei_perception_2022)
 
-* [10.1080/23311916.2022.2044575](https://doi.org/10.1080/23311916.2022.2044575)
-* Cluster: [construction-project](cluster_6)
+* Source: [10.1080/23311916.2022.2044575](https://doi.org/10.1080/23311916.2022.2044575)
+* Year: 2022
+* Cluster: [construction-industry](cluster_3)
+
 
 
 ## Keywords
 
-* [construction](keyword_construction), [covid-19](keyword_covid-19), [construction industry](keyword_construction_industry), [construction professional](keyword_construction_professional), [professional](keyword_professional), [pandemic](keyword_pandemic), [u s](keyword_u_s), [software](keyword_software), [round](keyword_round), [group b](keyword_group_b), hardware, iran, [perception](keyword_perception), group a, [industry](keyword_industry)
-
-
-
-## Keywords at large
-
-* [construction](keyword_construction), [covid-19](keyword_covid-19), [construction industry](keyword_construction_industry), [construction professional](keyword_construction_professional), [professional](keyword_professional), [pandemic](keyword_pandemic), [group b](keyword_group_b), [u s](keyword_u_s), [software](keyword_software), [round](keyword_round)
+ * 5 level likert scale, 5 sirþ1 i¼1 nrþ1 ð r¼1, a1, [africa](keyword_africa), america, ascend trend, [australia](keyword_australia), c1, c3, c6, [china](keyword_china), cogent oa, construc tion, [construction](keyword_construction), [construction company](keyword_construction_company), construction economic, [construction industry](keyword_construction_industry), construction management, construction manager, [construction professional](keyword_construction_professional), [coronavirus](keyword_coronavirus), cost, [covid 19 pandemic](keyword_covid_19_pandemic), [covid-19](keyword_covid-19), cross sectional, [datum](keyword_datum), descend trend, [design](keyword_design), develop, develop country, dif ference, difference, [disease](keyword_disease), divergence, dunn bonferroni post hoc method, [economic](keyword_economic), economic status, [economy](keyword_economy), el adaway, [engineering](keyword_engineering), [epidemic](keyword_epidemic), equation 1, ghana, group a, group b, guardian, hardware, imf, impact score, independent variable, [industry](keyword_industry), international monetary fund, iran, [italy](keyword_italy), jallow, [license](keyword_license), licensor, likert scale, limitation, [lockdown](keyword_lockdown), [logistic](keyword_logistic), management, maximum, minimum, [pandemic](keyword_pandemic), per ception, perception, [personal protective equipment](keyword_personal_protective_equipment), post hoc test, preparedness, [professional](keyword_professional), [project](keyword_project), quantitative datum, [rate](keyword_rate), round, significantly different from r2 and r3, similarity, simpeh, [social](keyword_social), [society](keyword_society), software, south, [south africa](keyword_south_africa), statistical test, [supply chain](keyword_supply_chain), supply shock, [survey](keyword_survey), [switzerland](keyword_switzerland), [system](keyword_system), taylor francis, test, transportation, [u k](keyword_u_k), u s, [united kingdom](keyword_united_kingdom), [ventilator](keyword_ventilator), virus pandemic, weight average, weight average score, work time
 
 
 ## Concepts
 
  ![](imgs/article_rokooei_perception_2022.jpg)
 
-### Closest articles 
-
-* [The Impact of Pandemic Crisis on the Survival of Construction Industry: A Case of COVID-19](article_gamil_impact_2020)
-* [Effects to Construction Project Management Impacted Circular Economic of Covid-19 Pandemic](article_paikan_effects_2021)
-* [COVID-19 pandemic: the effects and prospects in the
-construction industry.](article_ogunnusi_covid-19_2020)
-* [Mechanisms for addressing the impact of COVID-19 on infrastructure projects](article_king_mechanisms_2021)
-* [The Effects of Pandemic on Construction Industry in the UK](article_shibani_effects_2020)
-* [Overcoming the Impact of COVID-19 Using Integrated Project Delivery Model](article_g_overcoming_2020)
-* [Guidelines for Responding to COVID-19 Pandemic: Best Practices, Impacts, and Future Research Directions](article_assaad_guidelines_2021)
-* [Influence between COVID-19 Impacts and Project Stakeholders in Chilean Construction Projects](article_araya_influence_2021)
-* [Propositions for a Resilient, Post-COVID-19 Future
-for the AEC Industry](article_nassereddine_propositions_2021)
-* [Analysis of COVID-19 Concerns Raised by the Construction Workforce and Development of Mitigation Practices](article_bou_hatoum_analysis_2021)
-
-### References 
-
-* [Influence between COVID-19 Impacts and Project
-Stakeholders in Chilean Construction Projects](article_araya_influence_2021)
-* [Guidelines for Responding to COVID-19 Pandemic:
-Best Practices, Impacts, and Future Research
-Directions](article_assaad_guidelines_2021)
-* [The Impact of Pandemic Crisis on the Survival of
-Construction Industry: A Case of COVID-19](article_gamil_impact_2020)
-
-### Cited by 
 
 
+## Neighbours
+
+### Closest articles
+
+* The Impact of Pandemic Crisis on the Survival of Construction Industry: A Case of COVID-19 - [LINK](article_gamil_impact_2020)
+* Mechanisms for addressing the impact of COVID-19 on infrastructure projects - [LINK](article_king_mechanisms_2021)
+* COVID-19 pandemic: the effects and prospects in the construction industry. - [LINK](article_ogunnusi_covid-19_2020)
+* Effects to Construction Project Management Impacted Circular Economic of Covid-19 Pandemic - [LINK](article_paikan_effects_2021)
+* Influence between COVID-19 Impacts and Project Stakeholders in Chilean Construction Projects - [LINK](article_araya_influence_2021)
+* The Effects of Pandemic on Construction Industry in the UK - [LINK](article_shibani_effects_2020)
+* Overcoming the Impact of COVID-19 Using Integrated Project Delivery Model - [LINK](article_g_overcoming_2020)
+* Identifying Actions to Control and Mitigate the Effects of the COVID-19 Pandemic on Construction Organizations: Preliminary Findings - [LINK](article_raoufi_identifying_2021)
+* Covid-19 Associated Risks and Mitigation Strategies relevant for the UK Construction Industry - [LINK](article_dan-jumbo_covid-19_2021)
+* Guidelines for Responding to COVID-19 Pandemic: Best Practices, Impacts, and Future Research Directions - [LINK](article_assaad_guidelines_2021)
+
+
+### Closest BPs
+
+* Blueprint: Architecture design - [LINK](bp_2)
+* Blueprint: Building Adaptation during a pandemic - [LINK](bp_14)
+* Blueprint: Tender support at building stage - [LINK](bp_9)

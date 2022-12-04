@@ -1,59 +1,40 @@
-# Article: __COVID-19 Higher Mortality in Chinese Regions With Chronic Exposure to Lower Air Quality__ (pansini_covid-19_2021)
+# Article: COVID-19 Higher Mortality in Chinese Regions With Chronic Exposure to Lower Air Quality (pansini_covid-19_2021)
 
-* [10.3389/fpubh.2020.597753](https://doi.org/10.3389/fpubh.2020.597753)
-* Cluster: [air-sars](cluster_0)
+* Source: [10.3389/fpubh.2020.597753](https://doi.org/10.3389/fpubh.2020.597753)
+* Year: 2021
+* Cluster: [air-uv](cluster_2)
+
 
 
 ## Keywords
 
-* [air pollution](keyword_air_pollution), [covid-19](keyword_covid-19), [wuhan](keyword_wuhan), [china](keyword_china), [air pollutant](keyword_air_pollutant), [hubei](keyword_hubei), [mortality](keyword_mortality), [fatality](keyword_fatality), [province](keyword_province), [pollutant](keyword_pollutant), [italy](keyword_italy), [pollution](keyword_pollution), [o3](keyword_o3), [public health](keyword_public_health), [infection](keyword_infection)
-
-
-
-## Keywords at large
-
-* [air pollution](keyword_air_pollution), [covid-19](keyword_covid-19), [wuhan](keyword_wuhan), [china](keyword_china), [air pollutant](keyword_air_pollutant), [hubei](keyword_hubei), [mortality](keyword_mortality), [fatality](keyword_fatality), [province](keyword_province), [o3](keyword_o3)
-
-## Abstract
-
-We investigated the geographical character of the COVID-19
-infection in China and correlated it with satellite- and
-ground-based measurements of air quality. Controlling for
-population density, we found more viral infections in those
-prefectures (U.S. county equivalent) afflicted by high
-Carbon Monoxide, Formaldehyde, PM 2.5, and Nitrogen Dioxide
-values. Higher mortality was also correlated with
-relatively poor air quality. When summarizing the results
-at a greater administrative level, we found that the 10
-provinces (U.S. state equivalent) with the highest rate of
-mortality by COVID-19, were often the most polluted but not
-the most densely populated. Air pollution appears to be a
-risk factor for the incidence of this disease, despite the
-conventionally apprehended influence of human mobility on
-disease dynamics from the site of first appearance, Wuhan.
-The raw correlations reported here should be interpreted in
-a broader context, accounting for the growing evidence
-reported by several other studies. These findings warn
-communities and policymakers on the implications of
-long-term air pollution exposure as an ecological,
-multi-scale public health issue.
+ * 114732 pluchino a, [aerosol](keyword_aerosol), [air pollutant](keyword_air_pollutant), [air pollution](keyword_air_pollution), air quality, air quality index, android, asthmatic, atmos, avian influenza, [beijing](keyword_beijing), bergamo, between country, carbon monoxide, [china](keyword_china), [chinese](keyword_chinese), chronic exposure, chua rl, [city](keyword_city), [coronavirus](keyword_coronavirus), covid 19 outbreak, [covid-19](keyword_covid-19), [dataset](keyword_dataset), distribution, dust, ecology, [epidemic](keyword_epidemic), european, european space agency, expansion, fang j, fatality, financial relationship, [formaldehyde](keyword_formaldehyde), fornacca, foster wm, front, frontier in public health, frontiersin org, gao gf, gr aqi, ground station, hayden fg, haze, [health](keyword_health), henan, [hubei](keyword_hubei), hubei province, [infection](keyword_infection), [influenza](keyword_influenza), inturri g, iran, italian, [italy](keyword_italy), kendall rank correlation coefficient, lanzhou, [lockdown](keyword_lockdown), low air quality, lukassen s, manuscript, morbidity, [mortality](keyword_mortality), [nature](keyword_nature), nitrogen dioxide, o3, ozone, [pandemic](keyword_pandemic), pansini, particulate, particulate matter, passarini f, [pathogen](keyword_pathogen), pneumonia, policymaker, [pollutant](keyword_pollutant), pollution, [population](keyword_population), population density, prefecture, [province](keyword_province), [public health](keyword_public_health), [reproduction](keyword_reproduction), risk factor, rτ, [sar cov 2](keyword_sar_cov_2), sentinel 5, [shanghai](keyword_shanghai), smoking, state equivalent, sulfur dioxide, supplementary material, [taiwan](keyword_taiwan), [united states](keyword_united_states), viral respiratory infection, wang b, wei k, [wuhan](keyword_wuhan), xi an, zhao j, zou z
 
 
 ## Concepts
 
  ![](imgs/article_pansini_covid-19_2021.jpg)
 
-### Closest articles 
 
-* [Air pollution linked with higher COVID-19 death rates](article_harvard_th_chan_schoold_of_public_health_air_2020)
-* [COVID-19 misinformation: Accuracy of articles about coronavirus prevention mostly shared on social media](article_obiala_covid-19_2021)
-* [Coronavirus: Can artificial intelligence be smart enough
-to detect fake news?](article_tong_coronavirus_2020)
-* [Should I Stay or Should I Go? Tourists’ COVID-19 Risk Perception and Vacation Behavior Shift](article_bratic_should_2021)
-* [Seeing the invisible hand: Underlying effects of COVID-19 on tourists’ behavioral patterns](article_li_seeing_2020)
-* [The changes in the effects of social media use of Cypriots due to COVID-19 pandemic](article_kaya_changes_2020)
-* [What drives unverified information sharing and cyberchondria during the COVID-19 pandemic?](article_laato_what_2020)
-* [Exploring the Potential of Artificial Intelligence and Machine Learning to Combat COVID-19 and Existing Opportunities for LMIC: A Scoping Review](article_naseem_exploring_2020)
-* [Pandemic Analytics: How Countries are Leveraging Big Data Analytics and Artificial Intelligence to Fight COVID-19?](article_mehta_pandemic_2021)
-* [Digital technology and COVID-19](article_ting_digital_2020)
 
+## Neighbours
+
+### Closest articles
+
+* Air pollution linked with higher COVID-19 death rates - [LINK](article_harvard_th_chan_schoold_of_public_health_air_2020)
+* Nurture to nature via COVID-19, a self-regenerating environmental strategy of environment in global context - [LINK](article_paital_nurture_2020)
+* Indirect effects of COVID-19 on the environment - [LINK](article_zambrano-monserrate_indirect_2020)
+* Mechanistic insights into the effect of humidity on airborne influenza virus survival, transmission and incidence - [LINK](article_marr_mechanistic_2019)
+* How to Make Green Building Certification &amp; Rating Systems More Pandemic-Sustainable? - [LINK](article_ujikawa_how_2022)
+* KIX to apply antimicrobial coating in its fight against COVID-19 - [LINK](article_kansai_airport_kix_2021)
+* Assessment method for new sustainability indicators providing pandemic resilience for residential buildings - [LINK](article_tokazhanov_assessment_2021)
+* Readiness Assessment of Green Building Certification Systems for Residential Buildings during Pandemics - [LINK](article_tleuken_readiness_2021)
+* A critical analysis of the impacts of COVID-19 on the global economy and ecosystems and opportunities for circular economy strategies - [LINK](article_ibn-mohammed_critical_2021)
+* Effects of temperature and humidity on the spread of COVID-19: A systematic review - [LINK](article_mecenas_effects_2020)
+
+
+### Closest BPs
+
+* Blueprint: Installing UV in ductwork - [LINK](bp_10)
+* Blueprint: Installing high-efficiency air filters - [LINK](bp_11)
+* Blueprint: Indoor Environmental Quality (IEQ) monitoring system - [LINK](bp_3)

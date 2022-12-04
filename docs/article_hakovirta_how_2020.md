@@ -1,71 +1,39 @@
-# Article: __How COVID-19 Redefines the Concept of Sustainability__ (hakovirta_how_2020)
+# Article: How COVID-19 Redefines the Concept of Sustainability (hakovirta_how_2020)
 
-* [10.3390/su12093727](https://doi.org/10.3390/su12093727)
-* Cluster: [health-building](cluster_9)
+* Source: [10.3390/su12093727](https://doi.org/10.3390/su12093727)
+* Year: 2020
+* Cluster: [health-pandemic](cluster_4)
+
 
 
 ## Keywords
 
-* [sustainability](keyword_sustainability), [sustainable development goal](keyword_sustainable_development_goal), [human health](keyword_human_health), [mental health](keyword_mental_health), [society](keyword_society), [physical](keyword_physical), [supply chain](keyword_supply_chain), [germany](keyword_germany), [covid-19](keyword_covid-19), [economy](keyword_economy), [health](keyword_health), [united nations](keyword_united_nations), npr org, npr, survival
-
-
-
-## Keywords at large
-
-* [sustainability](keyword_sustainability), [sustainable development goal](keyword_sustainable_development_goal), [human health](keyword_human_health), [mental health](keyword_mental_health), [society](keyword_society), [physical](keyword_physical), [supply chain](keyword_supply_chain), [germany](keyword_germany), [covid-19](keyword_covid-19), [economy](keyword_economy)
-
-## Abstract
-
-In January 2020, the World Health Organization (WHO)
-declared the outbreak of a new coronavirus disease,
-COVID-19, to be a public health emergency of international
-concern. Currently, in several countries globally, this
-pandemic continues to enforce the temporary closure of all
-nonessential shops and services aside from supermarkets and
-pharmacies. Workers in countries that are at a high risk of
-infection have been asked to work from home, as cities have
-been placed under lockdown. Even curfews to combat the
-spread of the virus have been imposed in several countries,
-with all this signaling an unprecedented disruption of
-commerce. Companies are facing various challenges regarding
-health and safety, supply chain, labor force, cash flow,
-consumer demand and marketing. People in the thousands are
-dying every day from the virus’s symptoms, while a public
-health issue has forced the world to come to a halt and
-rethink what a sustainable future for our planet and
-existence is. These drastic recent events have raised the
-deliberation by the authors to redefine the concept of
-sustainability.
+ * [africa](keyword_africa), american airlines, americans, basel, [berlin](keyword_berlin), [business](keyword_business), change the world permanently, clean water, conde nast, conservation effort, conservationist, [consumer](keyword_consumer), [coronavirus](keyword_coronavirus), coronavirus disease, [covid-19](keyword_covid-19), curado, curfew, delta, [development](keyword_development), domestic violence, dow, [economic](keyword_economic), economic activity, economic inequality, [economy](keyword_economy), fallacy, [food](keyword_food), fourth pillar, funding, future generation, galende, [germany](keyword_germany), global lockdown, good health, [health](keyword_health), [health care](keyword_health_care), health care worker, healthcare worker, heidelberg, how, [human health](keyword_human_health), income gap, income hierarchy, inequality, inequality gap, [infect](keyword_infect), insider, ioannou, [lockdown](keyword_lockdown), [marketing](keyword_marketing), [mental health](keyword_mental_health), mental wellbeing, methodology, mount kilimanjaro, nbcnews com, news group, no hunger, north carolina, npr, npr org, [pandemic](keyword_pandemic), [physical](keyword_physical), [physical health](keyword_physical_health), picture, pillar, place under lockdown, politico, present, private, psychiatry, [public health](keyword_public_health), public health issue, re psychiatry, report, rich, sanitation, serafeim, [service](keyword_service), [social](keyword_social), social disconnect, [social medium](keyword_social_medium), [society](keyword_society), [supply chain](keyword_supply_chain), supply system, survival, [sustainability](keyword_sustainability), [sustainable development](keyword_sustainable_development), [sustainable development goal](keyword_sustainable_development_goal), [switzerland](keyword_switzerland), three pillar, [unesco](keyword_unesco), unga, united, [united nations](keyword_united_nations), volatile month, [water](keyword_water), wealth, wealthy fifth of americans, wire, [world heritage site](keyword_world_heritage_site)
 
 
 ## Concepts
 
  ![](imgs/article_hakovirta_how_2020.jpg)
 
-### Closest articles 
-
-* [COVID-19: IMPACT OF THE PANDEMIC ON THE SUSTAINABLE DEVELOPMENT GOALS](article_samout_covid-19_2020)
-* [COVID-19 and the UN Sustainable Development Goals: Threat to Solidarity or an Opportunity?](article_leal_filho_covid-19_2020)
-* [Health, Economic and Social Development Challenges of the COVID-19 Pandemic: Strategies for Multiple and Interconnected Issues](article_panneer_health_2022)
-* [The COVID-19 pandemic: Lessons on building more equal and sustainable societies](article_van_barneveld_covid-19_2020)
-* [Sustainable work throughout the life course: National
-policies and strategies, Publications Office of the
-European Union](article_eurofund_sustainable_2016)
-* [Urban planning after COVID-19](article_rtpi_urban_2021)
-* [A critical analysis of the impacts of COVID-19 on the global economy and ecosystems and opportunities for circular economy strategies](article_ibn-mohammed_critical_2021)
-* [<scp>COVID</scp>
-            ‐19: Small and medium enterprises challenges and responses with creativity, innovation, and entrepreneurship](article_thukral_covid19_2021)
-* [Startups in times of crisis – A rapid response to the COVID-19 pandemic](article_kuckertz_startups_2020)
-* [Mapping research in logistics and supply chain management during COVID-19 pandemic](article_montoya-torres_mapping_2021)
-
-### References 
-
-* [Mental Health and the Covid-19 Pandemic](article_pfefferbaum_mental_2020)
-
-### Cited by 
 
 
-* [Antivirus-built environment: Lessons learned from
-Covid-19 pandemic](article_megahed_antivirus-built_2020)
-* [Mapping research in logistics and supply chain management
-during COVID-19 pandemic](article_montoya-torres_mapping_2021)
+## Neighbours
+
+### Closest articles
+
+* COVID-19: IMPACT OF THE PANDEMIC ON THE SUSTAINABLE DEVELOPMENT GOALS - [LINK](article_samout_covid-19_2020)
+* COVID-19 and the UN Sustainable Development Goals: Threat to Solidarity or an Opportunity? - [LINK](article_leal_filho_covid-19_2020)
+* Building up an ecologically sustainable and socially desirable post-COVID-19 future - [LINK](article_duflot_building_2021)
+* Health, Economic and Social Development Challenges of the COVID-19 Pandemic: Strategies for Multiple and Interconnected Issues - [LINK](article_panneer_health_2022)
+* The COVID-19 pandemic: Lessons on building more equal and sustainable societies - [LINK](article_van_barneveld_covid-19_2020)
+* Urban planning after COVID-19 - [LINK](article_rtpi_urban_2021)
+* A critical analysis of the impacts of COVID-19 on the global economy and ecosystems and opportunities for circular economy strategies - [LINK](article_ibn-mohammed_critical_2021)
+* A Global Survey of Infection Control and Mitigation Measures for Combating the Transmission of COVID-19 Pandemic in Buildings Under Facilities Management Services - [LINK](article_sarvari_global_2022)
+* The socio-economic implications of the coronavirus pandemic (COVID-19): A review - [LINK](article_nicola_socio-economic_2020)
+
+
+### Closest BPs
+
+* Blueprint: Air Cleaning Plants - [LINK](bp_15)
+* Blueprint: Architecture design - [LINK](bp_2)
+* Blueprint: Tender support at building stage - [LINK](bp_9)

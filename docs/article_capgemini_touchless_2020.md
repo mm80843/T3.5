@@ -1,40 +1,40 @@
-# Article: __Touchless Retail: What the Rest of the World could learn from China’s new ways to shop__ (capgemini_touchless_2020)
+# Article: Touchless Retail: What the Rest of the World couldlearn from China’s new ways to shop (capgemini_touchless_2020)
 
-* URL: [https://www.capgemini.com/se-en/2020/04/touchless-retail-what-the-rest-of-the-world-could-learn-from-chinas-new-ways-to-shop/](https://www.capgemini.com/se-en/2020/04/touchless-retail-what-the-rest-of-the-world-could-learn-from-chinas-new-ways-to-shop/)
+* [https://www.capgemini.com/se-en/2020/04/touchless-retail-what-the-rest-of-the-world-could-learn-from-chinas-new-ways-to-shop/](https://www.capgemini.com/se-en/2020/04/touchless-retail-what-the-rest-of-the-world-could-learn-from-chinas-new-ways-to-shop/)
 * Year: 2020
-* Abstract: This blog discusses how Chinese retailers and brands
-brought to life a new way of shopping- that can be thought
-of as Touchless Retail. This means eliminating or making
-virtual all possible human touchpoints across the customer
-journey.
+* Cluster: [building-space](cluster_9)
 
 
 
 ## Keywords
 
-* [live streaming](keyword_live_streaming), [lockdown](keyword_lockdown), [customer journey](keyword_customer_journey), [wuhan](keyword_wuhan), [shop](keyword_shop), [online shopping](keyword_online_shopping), [retailer](keyword_retailer), [delivery](keyword_delivery), wechat, [stream](keyword_stream), brand, [meituan](keyword_meituan), automate drop off, [smartphone](keyword_smartphone), [consumer](keyword_consumer)
-
-
-
-## Keywords at large
-
-* [live streaming](keyword_live_streaming), [lockdown](keyword_lockdown), [customer journey](keyword_customer_journey), [wuhan](keyword_wuhan), [shop](keyword_shop), [online shopping](keyword_online_shopping), [delivery](keyword_delivery), [retailer](keyword_retailer), [stream](keyword_stream), [meituan](keyword_meituan)
+ * adoption, amazon, amazon web service, apple, automate drop off, automate vehicle, automation, banknote, [brand](keyword_brand), broadcast, [building](keyword_building), [business](keyword_business), business model, buy decision, buying habit, cabinet, carrefour, cashless payment, celebrity, [china](keyword_china), cloud provider, community base wechat, compound, [consumer](keyword_consumer), conversion, [customer](keyword_customer), customer engagement, [customer journey](keyword_customer_journey), customer service, deliveroo, [delivery](keyword_delivery), delivery agent, [digital technology](keyword_digital_technology), driver, driverless car, driverless delivery, driverless robotic, facebook messenger, flash deal, gamification, group, group buying, haidilao, handover, [hospital](keyword_hospital), hotpot, human interaction, [infection](keyword_infection), ipad, jd, [live streaming](keyword_live_streaming), live video, [lockdown](keyword_lockdown), [logistic](keyword_logistic), loyalty, luxury, meituan, meituan contactless service, mobile app, [neighborhood](keyword_neighborhood), online ordering, [online shopping](keyword_online_shopping), opinion leader, order, payment, payment cycle, pick up, pick up station, picking system, product search, product search and evaluation, product selection, refrigerate, [retail](keyword_retail), [retailer](keyword_retailer), [robotic](keyword_robotic), [russia](keyword_russia), segment, self service collection cabinet, selfservice station, serve their customer, shan liu, shop, shop in china, smart cabinet, smart pick up, smart pick up cabinet, smartphone, st petersburg, stream, sun, taobao, uber, uberpay, warehouse automation, wechat, wechat group, [wuhan](keyword_wuhan), yinman, yongliang yang
 
 
 ## Concepts
 
  ![](imgs/article_capgemini_touchless_2020.jpg)
 
-### Closest articles 
 
-* [How COVID-19 Could Accelerate the Adoption of New Retail Technologies and Enhance the (E-)Servicescape](article_willems_how_2021)
-* [The impacts of knowledge, risk perception, emotion and information on citizens’ protective behaviors during the outbreak of COVID-19: a cross-sectional study in China](article_ning_impacts_2020)
-* [COVID-19 and Green Housing: A Review of Relevant Literature](article_kaklauskas_covid-19_2021)
-* [COVID-19 media fatigue: predictors of decreasing interest and avoidance of COVID-19–related news](article_buneviciene_covid-19_2021)
-* [A Mixed Approach on Resilience of Spanish Dwellings and Households during COVID-19 Lockdown](article_cuerdo-vilches_mixed_2020)
-* [Mental health and COVID-19](article_who_mental_2021)
-* [Mental Health and the Covid-19 Pandemic](article_pfefferbaum_mental_2020)
-* [Psychological Effects of Home Confinement and Social Distancing Derived from COVID-19 in the General Population—A Systematic Review](article_rodriguez-fernandez_psychological_2021)
-* [Towards Resilient Residential Buildings and Neighborhoods in Light of COVID-19 Pandemic—The Scenario of Podgorica, Montenegro](article_bojovic_towards_2022)
-* [How is COVID-19 Experience Transforming Sustainability Requirements of Residential Buildings? A Review](article_tokazhanov_how_2020)
 
+## Neighbours
+
+### Closest articles
+
+* Retail Signage During the COVID-19 Pandemic - [LINK](article_mcneish_retail_2020)
+* How COVID-19 Could Accelerate the Adoption of New Retail Technologies and Enhance the (E-)Servicescape - [LINK](article_willems_how_2021)
+* <scp>COVID</scp>             ‐19: Small and medium enterprises challenges and responses with creativity, innovation, and entrepreneurship - [LINK](article_thukral_covid19_2021)
+* Startups in times of crisis – A rapid response to the COVID-19 pandemic - [LINK](article_kuckertz_startups_2020)
+* Organizations’ Management of the COVID-19 Pandemic: A Scoping Review of Business Articles - [LINK](article_boiral_organizations_2021)
+* Challenges of data sharing in European Covid-19 projects: A learning opportunity for advancing pandemic preparedness and response - [LINK](article_tacconelli_challenges_2022)
+* 2020 Data Protection Report - [LINK](article_council_of_europe_2020_2020)
+* A study on office workplace modification during the COVID-19 pandemic in The Netherlands - [LINK](article_hou_study_2021)
+* It’s time to reimagine where and how work will get done (PwC’s US Remote Work Survey) - [LINK](article_pricewaterhousecoopers_its_2021)
+* Building occupancy estimation with people flow modeling in AnyLogic - [LINK](article_li_building_2016)
+
+
+### Closest BPs
+
+* Smart Locker System - [LINK](bp_1)
+* One-way mobility circulation - [LINK](bp_4)
+* Access limitation - [LINK](bp_7)

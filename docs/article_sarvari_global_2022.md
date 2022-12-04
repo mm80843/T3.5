@@ -1,90 +1,39 @@
-# Article: __A Global Survey of Infection Control and Mitigation Measures for Combating the Transmission of COVID-19 Pandemic in Buildings Under Facilities Management Services__ (sarvari_global_2022)
+# Article: A Global Survey of Infection Control and Mitigation Measures for Combating the Transmission of COVID-19 Pandemic in Buildings Under Facilities Management Services (sarvari_global_2022)
 
-* [10.3389/fbuil.2021.644104](https://doi.org/10.3389/fbuil.2021.644104)
-* Cluster: [health-building](cluster_9)
+* Source: [10.3389/fbuil.2021.644104](https://doi.org/10.3389/fbuil.2021.644104)
+* Year: 2022
+* Cluster: [building-space](cluster_9)
+
 
 
 ## Keywords
 
-* [construction](keyword_construction), [facility management](keyword_facility_management), [covid-19](keyword_covid-19), [build](keyword_build), [design](keyword_design), [transmission](keyword_transmission), [low risk](keyword_low_risk), [building](keyword_building), [coronavirus](keyword_coronavirus), [china](keyword_china), [high](keyword_high), [significant](keyword_significant), [infectious disease](keyword_infectious_disease), hypothesis, sample size
-
-
-
-## Keywords at large
-
-* [construction](keyword_construction), [covid-19](keyword_covid-19), [build](keyword_build), [facility management](keyword_facility_management), [design](keyword_design), [transmission](keyword_transmission), [significant](keyword_significant), [china](keyword_china), [building](keyword_building), [coronavirus](keyword_coronavirus)
-
-## Abstract
-
-Facilities management along with health care are two
-important aspects in controlling the spread of infectious
-diseases with regard to controlling the outbreak of global
-COVID-19 pandemic. Hence, with the increasing outbreak of
-COVID-19 pandemic, the importance of examining the
-relationship between the built environment and the outbreak
-of infectious diseases has become more significant. The aim
-of the research described in this article is to develop
-effective infection control and mitigation measures to
-prevent the transmission of COVID-19 pandemic in the built
-environment. This study seeks to answer the question of how
-the facilities management industry can help reduce the
-transmission of coronavirus. For this purpose, an online
-survey questionnaire was distributed internationally from 8
-April to 25 July, 2020 to collect data from various key
-stakeholders. The collected data were analyzed by SPSS
-software. Various methods for the prevention and control of
-infectious diseases transmission are evaluated through this
-questionnaire-based survey with regard to their
-effectiveness for the healthy and safe built environment.
-These methods were categorized into three groups, including
-training protocols, operation and maintenance, and design
-and construction. The results show that all suggested
-methods have a positive effect on all types of buildings.
-These methods have an equal effect on low-risk buildings,
-while for high and very high-risk buildings, training
-protocols and design and construction measures have the
-greatest impact. In addition, training protocols and the
-measures in operation and maintenance will have the
-greatest effect on medium-risk buildings. The results can
-help in more rational decision making in relation to
-controlling the outbreak of COVID-19 pandemic in all types
-of buildings.
+ * [aerosol](keyword_aerosol), [air](keyword_air), air sample, altamimi, analysis, [bed](keyword_bed), [build](keyword_build), [build environment](keyword_build_environment), [building](keyword_building), [china](keyword_china), [clean](keyword_clean), [construction](keyword_construction), content validity, continent, [control](keyword_control), cope method, [coronavirus](keyword_coronavirus), covariance matrix, [covid 19 pandemic](keyword_covid_19_pandemic), [covid-19](keyword_covid-19), datum collection, dependent variable, descriptive analysis, [design](keyword_design), doctor, engineer, [engineering](keyword_engineering), error, [europe](keyword_europe), [facility management](keyword_facility_management), frontier in build environment, future generation, hazard, [high](keyword_high), high and very high risk, high risk building, hygiene, hypothesis, [infection](keyword_infection), [infection control](keyword_infection_control), [infectious disease](keyword_infectious_disease), inter subject factor, intra subject factor, kraków, lange salvia, [london](keyword_london), low risk, low risk building, luongo, luís, maintenance, management, medium risk, mediumrisk building, method, mitigation, nbu, null hypothesis, operation, [outbreak](keyword_outbreak), [patient](keyword_patient), pinheiro, pirouz, [poland](keyword_poland), [population](keyword_population), population size, prevention, project manager, quadratic, [quarantine](keyword_quarantine), rahdari, reject, reliability, [research](keyword_research), [sample](keyword_sample), sample size, santarpia, [sar cov 2](keyword_sar_cov_2), shafﬁee haghshenas, signiﬁcant, software, speciﬁc, sphericity, [spread](keyword_spread), spss, spss software, [surface](keyword_surface), [survey](keyword_survey), [sustainable development](keyword_sustainable_development), [temperature](keyword_temperature), test positive, [transmission](keyword_transmission), type of building, [united kingdom](keyword_united_kingdom), [united states](keyword_united_states), validity, very high risk building, [viral](keyword_viral), [virus](keyword_virus), [wuhan](keyword_wuhan)
 
 
 ## Concepts
 
  ![](imgs/article_sarvari_global_2022.jpg)
 
-### Closest articles 
-
-* [sarvari_global_2022-1](article_sarvari_global_2022-1)
-* [Retail Signage During the COVID-19 Pandemic](article_mcneish_retail_2020)
-* [Biophilic design in architecture and its contributions to health, well-being, and sustainability: A critical review](article_zhong_biophilic_2022)
-* [COVID-19 Lessons for a Resilient Built
-Environment: A Roadmap](article_hull_covid-19_2020)
-* [What has been the impact of the COVID-19 pandemic on immigrants? An update on recent evidence](article_oecd_what_2022)
-* [Navigating Climate Change: Rethinking the Role of Buildings](article_cole_navigating_2020)
-* [Global value chains: Efficiency and risks in the context of COVID-19](article_oecd_global_2021)
-* [Open-source analytics tools for studying the COVID-19 coronavirus outbreak](article_wu_open-source_2020)
-* [Attitudes towards outdoor and neighbour noise during the COVID-19 lockdown: A case study in London](article_lee_attitudes_2021)
-* [Mapping research in logistics and supply chain management during COVID-19 pandemic](article_montoya-torres_mapping_2021)
-
-### References 
-
-* [COVID-19 and the UN Sustainable Development
-Goals: Threat to Solidarity or an Opportunity?](article_leal_filho_covid-19_2020)
-* [Aerosol and Surface Distribution of Severe Acute
-Respiratory Syndrome Coronavirus 2 in Hospital
-Wards, Wuhan, China, 2020](article_guo_aerosol_2020)
-* [Effects of temperature and humidity on the spread of
-COVID-19: A systematic review](article_mecenas_effects_2020)
-* [Air, Surface Environmental, and Personal
-Protective Equipment Contamination by Severe
-Acute Respiratory Syndrome Coronavirus 2
-(SARS-CoV-2) From a Symptomatic Patient](article_ong_air_2020)
-* [COVID-19 Could Leverage a Sustainable Built
-Environment](article_pinheiro_covid-19_2020)
-
-### Cited by 
 
 
+## Neighbours
+
+### Closest articles
+
+* COVID-19 Experience Transforming the Protective Environment of Office Buildings and Spaces - [LINK](article_phapant_covid-19_2021)
+* Architectural Design Drives the Biogeography of Indoor Bacterial Communities - [LINK](article_kembel_architectural_2014)
+* How COVID-19 Redefines the Concept of Sustainability - [LINK](article_hakovirta_how_2020)
+* How will COVID-19 change future building regulations? - [LINK](article_hmc_architects_how_2020)
+* Health, Wellbeing \& Productivity in Offices - [LINK](article_world_green_building_council_health_2014)
+* COVID-19: IMPACT OF THE PANDEMIC ON THE SUSTAINABLE DEVELOPMENT GOALS - [LINK](article_samout_covid-19_2020)
+* Health, Economic and Social Development Challenges of the COVID-19 Pandemic: Strategies for Multiple and Interconnected Issues - [LINK](article_panneer_health_2022)
+* Will a pandemic change building codes? - [LINK](article_rozgus_will_2020)
+* The effect of a redesigned floor plan, occupant density and the quality of indoor climate on the cost of space, productivity and sick leave in an office building–A case study - [LINK](article_saari_effect_2006)
+
+
+### Closest BPs
+
+* Blueprint: Indoor Environmental Quality (IEQ) monitoring system - [LINK](bp_3)
+* Blueprint: Architecture design - [LINK](bp_2)
+* Blueprint: Air Cleaning Plants - [LINK](bp_15)

@@ -1,94 +1,39 @@
-# Article: __Understanding the role of urban design in disease spreading__ (brizuela_understanding_2019)
+# Article: Understanding the role of urban design in disease spreading (brizuela_understanding_2019)
 
-* [10.1101/766667](https://doi.org/10.1101/766667)
-* Cluster: [city-spatial](cluster_3)
+* Source: [10.1101/766667](https://doi.org/10.1101/766667)
+* Year: 2019
+* Cluster: [city-urban](cluster_7)
+
 
 
 ## Keywords
 
-* [city](keyword_city), [influenza](keyword_influenza), [international license](keyword_international_license), [epidemic](keyword_epidemic), [acc by 4 0](keyword_acc_by_4_0), [population](keyword_population), [neighborhood](keyword_neighborhood), [outbreak](keyword_outbreak), [urban design](keyword_urban_design), [spread](keyword_spread), [disease](keyword_disease), [infectious disease](keyword_infectious_disease), [author funder](keyword_author_funder), [copyright holder](keyword_copyright_holder), gdl
-
-
-
-## Keywords at large
-
-* [city](keyword_city), [influenza](keyword_influenza), [acc by 4 0](keyword_acc_by_4_0), [epidemic](keyword_epidemic), [international license](keyword_international_license), [population](keyword_population), [neighborhood](keyword_neighborhood), [outbreak](keyword_outbreak), [urban design](keyword_urban_design), [spread](keyword_spread)
-
-## Abstract
-
-Cities are complex systems whose characteristics impact
-the health of people who live in them. Nonetheless, urban
-determinants of health often vary within spatial scales
-smaller than the resolution of epidemiological datasets.
-Thus, as cities expand and their inequalities grow, the
-development of theoretical frameworks that explain health
-at the neighborhood level is becoming increasingly
-critical. To this end, we developed a methodology that uses
-census data to introduce urban geography as a leading-order
-predictor in the spread of influenza-like pathogens. Here,
-we demonstrate our framework using neighborhood-level
-census data for Guadalajara (GDL, Western Mexico). Our
-simulations were calibrated using weekly hospitalization
-data from the 2009 A/H1N1 influenza pandemic and show that
-daily mobility patterns drive neighborhood-level variations
-in the basic reproduction number R 0 , which in turn give
-rise to robust spatiotemporal patterns in the spread of
-disease. To generalize our results, we ran simulations in
-hypothetical cities with the same population, area, schools
-and businesses as GDL but different land use zoning. Our
-results demonstrate that the agglomeration of daily
-activities can largely influence the growth rate, size and
-timing of urban epidemics. Overall, these findings support
-the view that cities can be redesigned to limit the
-geographic scope of influenza-like outbreaks and provide a
-general mathematical framework to study the mechanisms by
-which local and remote health consequences result from
-characteristics of the physical environment.
-
-Author summary Environmental, social and economic factors
-give rise to health inequalities among the inhabitants of a
-city, prompting researchers to propose ’smart’ urban
-planning as a tool for public health. Here, we present a
-mathematical framework that relates the spatial
-distributions of schools and economic activities to the
-spatiotemporal spread of influenza-like outbreaks. First,
-we calibrated our model using city-wide data for
-Guadalajara (GDL, Western Mexico) and found that a
-person’s place of residence can largely influence their
-role and vulnerability during an epidemic. In particular,
-the higher contact rates of people living near major
-activity hubs can give rise to predictable patterns in the
-spread of disease. To test the universality of our
-findings, we ’redesigned’ GDL by redistributing houses,
-schools and businesses across the city and ran simulations
-in the resulting geographies. Our results suggest that,
-through its impact on the agglomeration of economic
-activities, urban planning may be optimized to inhibit
-epidemic growth. By predicting health inequalities at the
-neighborhood-level, our methodology may help design public
-health strategies that optimize resources and target those
-who are most vulnerable. Moreover, it provides a
-mathematical framework for the design and analysis of
-experiments in urban health research.
+ * [acc by 4 0](keyword_acc_by_4_0), activity hub, adult, agent base model, agglomeration, attack rate, [author funder](keyword_author_funder), barrat a, bedford vl, biological science, biology, census, child, [city](keyword_city), city center, contagion, [copyright holder](keyword_copyright_holder), [density](keyword_density), [disease](keyword_disease), disease spread, dω, dω0, ecology, [economic](keyword_economic), economic activity, economic datum, [education](keyword_education), ellner sp, [environment](keyword_environment), [epidemic](keyword_epidemic), epidemic growth, [epidemiological](keyword_epidemiological), [epidemiology](keyword_epidemiology), equation 3, estadı stica, eubank s, flu, gdestination, gdl, geografı a, gini coefficient, gorigin, gravity model, guadalajara, [health](keyword_health), health inequality, homogeneous mix condition, [housing](keyword_housing), hub, human mobility, [infectious disease](keyword_infectious_disease), infectious outbreak, infective, [influenza](keyword_influenza), interaction kernel, [international license](keyword_international_license), land use, material and method, medicine, metapopulation, metropolitan area, mexico, [mobility](keyword_mobility), national academy of sciences, [nature](keyword_nature), [neighborhood](keyword_neighborhood), numerical grid, [outbreak](keyword_outbreak), [pandemic](keyword_pandemic), [pathogen](keyword_pathogen), place of residence, [population](keyword_population), population average, population density, population size, pourbohloul b, press, probability, probability density function, ps, [public health](keyword_public_health), r0, reproduction number, [research](keyword_research), science, [simulation](keyword_simulation), [social](keyword_social), [social science](keyword_social_science), [spread](keyword_spread), spread of disease, stehle, suburb, susceptible, tas, timestep, treatment, urban design, urban geography, urbanization, ω0
 
 
 ## Concepts
 
  ![](imgs/article_brizuela_understanding_2019.jpg)
 
-### Closest articles 
 
-* [RUDDS_bioRxiv_update](article_RUDDS_bioRxiv_update)
-* [Impact of COVID-19 on IoT Adoption in Healthcare, Smart Homes, Smart Buildings, Smart Cities, Transportation and Industrial IoT](article_umair_impact_2021)
-* [On the Coronavirus (COVID-19) Outbreak and the Smart City Network: Universal Data Sharing Standards Coupled with Artificial Intelligence (AI) to Benefit Urban Health Monitoring and Management](article_allam_coronavirus_2020)
-* [Future (post-COVID) digital, smart and sustainable cities in the wake of 6G: Digital twins, immersive realities and new urban economies](article_allam_future_2021)
-* [Contributions of Smart City Solutions and Technologies to Resilience against the COVID-19 Pandemic: A Literature Review](article_sharifi_contributions_2021)
-* [The COVID-19 pandemic: Impacts on cities and major lessons for urban planning, design, and management](article_sharifi_covid-19_2020)
-* [Pandemic stricken cities on lockdown. Where are our planning and design professionals [now, then and into the future]?](article_allam_pandemic_2020)
-* [COVID-19 and a new resilient infrastructure landscape](article_oecd_covid-19_2021)
-* [COVID-19 Pandemic: Rethinking Strategies for
-Resilient Urban Design, Perceptions, and
-Planning](article_afrin_covid-19_2021)
-* [COVID-19 as a Harbinger of Transforming
-Infrastructure Resilience](article_carvalhaes_covid-19_2020)
 
+## Neighbours
+
+### Closest articles
+
+* Towards the sustainable development of smart cities through mass video surveillance: A response to the COVID-19 pandemic - [LINK](article_shorfuzzaman_towards_2021)
+*  - [LINK](article_huy-tran_design_2022)
+* Drones. Disinfecting robots. Supercomputers. The coronavirus outbreak is a test for China's tech industry \textbar CNN Business - [LINK](article_wang_drones_2020)
+* DeepSOCIAL: Social Distancing Monitoring and Infection Risk Assessment in COVID-19 Pandemic - [LINK](article_rezaei_deepsocial_2020)
+* Danish disinfection robots save lives in the fight against the Corona virus \textbar Shaping Europe’s digital future - [LINK](article_ec_views_danish_2020)
+* Combating COVID-19—The role of robotics in managing public health and infectious diseases - [LINK](article_yang_combating_2020)
+* Recently employed engineering techniques to reduce the spread of COVID-19 (corona virus disease 2019): a review study - [LINK](article_saman_recently_2021)
+* 10 tech trends getting us through the COVID-19 pandemic - [LINK](article_yan_10_2020)
+* An Overview of Ontologies and Tool Support for COVID-19 Analytics - [LINK](article_ahmad_overview_2021)
+
+
+### Closest BPs
+
+* Mental health – Act: Do something - [LINK](bp_18)
+* Good hand hygiene practice - [LINK](bp_16)
+* Antimicrobial Surfaces - [LINK](bp_5)

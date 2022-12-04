@@ -1,75 +1,39 @@
-# Article: __Ventilation use in nonmedical settings during COVID-19: Cleaning protocol, maintenance, and recommendations__ (nembhard_ventilation_2020)
+# Article: Ventilation use in nonmedical settings during COVID-19: Cleaning protocol, maintenance, and recommendations (nembhard_ventilation_2020)
 
-* [10.1177/0748233720967528](https://doi.org/10.1177/0748233720967528)
-* Cluster: [air-sars](cluster_0)
+* Source: [10.1177/0748233720967528](https://doi.org/10.1177/0748233720967528)
+* Year: 2020
+* Cluster: [air-uv](cluster_2)
+
 
 
 ## Keywords
 
-* [hvac](keyword_hvac), [ventilation](keyword_ventilation), [covid-19](keyword_covid-19), [clean](keyword_clean), [ventilation system](keyword_ventilation_system), [filter](keyword_filter), [transmission](keyword_transmission), [fan](keyword_fan), [airborne transmission](keyword_airborne_transmission), [natural ventilation](keyword_natural_ventilation), mechanical ventilation, hvac system, [aerosol](keyword_aerosol), [disinfection](keyword_disinfection), toxicology
-
-
-
-## Keywords at large
-
-* [covid-19](keyword_covid-19), [hvac](keyword_hvac), [ventilation](keyword_ventilation), [clean](keyword_clean), [ventilation system](keyword_ventilation_system), [filter](keyword_filter), [fan](keyword_fan), [transmission](keyword_transmission), [airborne transmission](keyword_airborne_transmission), [natural ventilation](keyword_natural_ventilation)
-
-## Abstract
-
-Coronavirus disease 2019, otherwise referred to as
-COVID-19, started in China and quickly became a worldwide
-pandemic. Beginning in March 2020, nonessential businesses
-in the United States were closed, and many communities were
-under shelter-in-place orders. As of May 2020, some
-business sectors started reopening, even amidst concerns of
-worker health as the pandemic continued. In addition to
-physical distancing, cleaning and disinfection routines,
-and using face coverings, building ventilation can also be
-an important risk mitigation measure for controlling
-exposure to SARS-CoV-2 indoors. A number of studies to
-date, however, have focused on ventilation in medical
-facilities (e.g. hospitals) as the risk of transmission of
-SARS-CoV-2 is higher there (because of the close proximity
-of workers to patients who have the disease and their
-treatment procedures). Few studies have focused on
-ventilation use in nonmedical settings (e.g. office
-buildings and school classrooms), despite the large
-population of workers and community members in these
-facilities. In this article, we review the role that
-building ventilation can play in minimizing the risk of
-SARS-CoV-2 transmission in nonmedical environments and some
-recommended protocols to follow for its proper use,
-including cleaning and maintaining mechanical ventilation
-systems for businesses, schools, and homes.
+ * [aerosol](keyword_aerosol), [air](keyword_air), air contaminant, air duct, [air filter](keyword_air_filter), air intake, airborne transmission, [ashrae](keyword_ashrae), authorship, bahnfleth w, [build](keyword_build), build ventilation, cardno chemrisk, chartier y, [china](keyword_china), [clean](keyword_clean), clinical infectious disease 6, code, contagion, contaminant, [control](keyword_control), cool, [coronavirus](keyword_coronavirus), cough, [covid 19 pandemic](keyword_covid_19_pandemic), [covid-19](keyword_covid-19), diamond princess cruise ship, dilution, [disinfection](keyword_disinfection), [droplet](keyword_droplet), ductwork, [efficiency](keyword_efficiency), engineering control, epa, exhaust only, fan, [filter](keyword_filter), filtration, flamholz a, free standing fan, frequently ask question, furnace, general ward, growth, gu j, guangzhou, heating, [humidity](keyword_humidity), [hvac](keyword_hvac), hvac system, indoor air, [indoor air quality](keyword_indoor_air_quality), industrial health, infectious, insulation, li k, louver, lung, [mask](keyword_mask), mechanical ventilation, medical facility, microbiological, nadca, nadca laurel, natural ventilation, nembhard, odor, outpatient department, [pandemic](keyword_pandemic), [personal protective equipment](keyword_personal_protective_equipment), pessoa silva c, product, [protocol](keyword_protocol), psa, pulmonary system, qian h, rating, register, [research](keyword_research), respiratory virus, [russia](keyword_russia), [sar cov 2](keyword_sar_cov_2), [service](keyword_service), [simulation](keyword_simulation), sneeze, st petersburg, [system](keyword_system), tang jw, taylor engineering, [temperature](keyword_temperature), toxicology, [transmission](keyword_transmission), united states environmental protection agency, usepa, [ventilation](keyword_ventilation), [ventilation system](keyword_ventilation_system), [virus](keyword_virus), world health organization, xu, xu et
 
 
 ## Concepts
 
  ![](imgs/article_nembhard_ventilation_2020.jpg)
 
-### Closest articles 
-
-* [Review and comparison of HVAC operation guidelines in different countries during the COVID-19 pandemic](article_guo_review_2021)
-* [Heating, ventilation and air-conditioning systems in the
-context of COVID-19](article_ecdc_heating_2020)
-* [ASHRAE Position Document on Infectious
-Aerosols](article_ashrae_ashrae_2022)
-* [morawska_how_2020-1](article_morawska_how_2020-1)
-* [How can airborne transmission of COVID-19 indoors be minimised?](article_morawska_how_2020)
-* [A review of facilities management interventions to mitigate respiratory infections in existing buildings](article_zhang_review_2022)
-* [Environmental factors involved in SARS-CoV-2 transmission: effect and role of indoor environmental quality in the strategy for COVID-19 infection control](article_azuma_environmental_2020)
-* [Methods for air cleaning and protection of building occupants from airborne pathogens](article_bolashikov_methods_2009)
-* [The ventilation of buildings and other mitigating measures for COVID-19: a focus on wintertime](article_burridge_ventilation_2021)
-* [Indoor Air Quality: Rethinking rules of building design strategies in post-pandemic architecture](article_megahed_indoor_2021)
-
-### References 
-
-* [How can airborne transmission of COVID-19 indoors be
-minimised?](article_morawska_how_2020)
-
-### Cited by 
 
 
-* [A critical review of heating, ventilation, and air
-conditioning (HVAC) systems within the context of a
-global SARS-CoV-2 epidemic](article_elsaid_critical_2021)
+## Neighbours
+
+### Closest articles
+
+* Review and comparison of HVAC operation guidelines in different countries during the COVID-19 pandemic - [LINK](article_guo_review_2021)
+* Heating, ventilation and air-conditioning systems in the context of COVID-19 - [LINK](article_ecdc_heating_2020)
+* ASHRAE Position Document on Infectious Aerosols - [LINK](article_ashrae_ashrae_2022)
+* A critical review of heating, ventilation, and air conditioning (HVAC) systems within the context of a global SARS-CoV-2 epidemic - [LINK](article_elsaid_critical_2021)
+* How can airborne transmission of COVID-19 indoors be minimised? - [LINK](article_morawska_how_2020)
+* The ventilation of buildings and other mitigating measures for COVID-19: a focus on wintertime - [LINK](article_burridge_ventilation_2021)
+* The efficacy of social distance and ventilation effectiveness in preventing COVID-19 transmission - [LINK](article_sun_efficacy_2020)
+* Methods for air cleaning and protection of building occupants from airborne pathogens - [LINK](article_bolashikov_methods_2009)
+* A review of facilities management interventions to mitigate respiratory infections in existing buildings - [LINK](article_zhang_review_2022)
+
+
+### Closest BPs
+
+* Blueprint: Installing UV in ductwork - [LINK](bp_10)
+* Blueprint: Indoor Environmental Quality (IEQ) monitoring system - [LINK](bp_3)
+* Blueprint: Installing high-efficiency air filters - [LINK](bp_11)

@@ -1,96 +1,40 @@
-# Article: __Analysis of COVID-19 Concerns Raised by the Construction Workforce and Development of Mitigation Practices__ (bou_hatoum_analysis_2021)
+# Article: Analysis of COVID-19 Concerns Raised by the Construction Workforce and Development of Mitigation Practices (bou_hatoum_analysis_2021)
 
-* [10.3389/fbuil.2021.688495](https://doi.org/10.3389/fbuil.2021.688495)
-* Cluster: [construction-project](cluster_6)
+* Source: [10.3389/fbuil.2021.688495](https://doi.org/10.3389/fbuil.2021.688495)
+* Year: 2021
+* Cluster: [construction-industry](cluster_3)
+
 
 
 ## Keywords
 
-* [construction](keyword_construction), [covid-19](keyword_covid-19), [osha](keyword_osha), [construction worker](keyword_construction_worker), [construction industry](keyword_construction_industry), [symptom](keyword_symptom), nassereddine, [employer](keyword_employer), [workplace](keyword_workplace), [employee](keyword_employee), [safety](keyword_safety), [pandemic](keyword_pandemic), [cdc](keyword_cdc), action verb, [covid 19 pandemic](keyword_covid_19_pandemic)
-
-
-
-## Keywords at large
-
-* [construction](keyword_construction), [covid-19](keyword_covid-19), [osha](keyword_osha), [construction worker](keyword_construction_worker), [construction industry](keyword_construction_industry), [symptom](keyword_symptom), [employer](keyword_employer), [workplace](keyword_workplace), [employee](keyword_employee)
-
-## Abstract
-
-The coronavirus outbreak has created a global health
-crisis that has disrupted all industries, including the
-construction industry. Following the onset of the pandemic,
-construction workers faced and continue to face
-unprecedented safety and health challenges. Therefore,
-construction employers established new safety precautions
-to protect the health and safety of the workforce and
-minimize the spread of the virus. The new precautions
-followed the advice and guidelines offered by different
-health and safety agencies like the Occupational Safety and
-Health Administration (OSHA), Centers of Disease Control
-and Prevention (CDC), and the Associated General
-Contractors of America (AGC). With construction projects
-resuming operations, it becomes important to analyze the
-coronavirus-related health and safety concerns of
-construction workforce and understand how the new safety
-procedures can assist on jobsites. Existing studies mostly
-focused on interviews and surveys with construction
-companies to understand the impact on project performance
-and supply chains. However, no study has yet to analyze the
-United States construction workforce. This paper fills the
-gap by providing a qualitative descriptive analysis of the
-COVID-19 complaints data gathered by OSHA from construction
-jobsites. Information gathered by OSHA includes the jobsite
-location, the North American Industry Classification System
-(NAICS) of the construction company, the type of the
-complaint (i.e., formal or non-formal), and a thorough
-description of the complaint. N-grams were employed to
-analyze the complaints, detect trends, and compile a list
-of the most frequent concerns reported by the workforce.
-The analysis of the complaints data identifies safety
-practices that were most violated, highlights major safety
-and health concerns for construction workers, and pinpoints
-geographical areas that have seen a surge in complaints.
-The study also synthesized the existing research corpus and
-compiled a list of 100 best practices that construction
-employers can adopt to mitigate the concerns of the
-workforce. The findings of this study provide insights into
-the safety and health trends on construction sites, lay the
-foundation for future work of academicians and
-practitioners to address the concerns faced by construction
-workers, and serve as lessons learned for the industry in
-the case of any future pandemic.
+ * action verb, agc, alhagar, alsharef, amoah, asia, banerjee, [berlin](keyword_berlin), bigram, bou hatoum, [build](keyword_build), [cdc](keyword_cdc), [china](keyword_china), civil engineering, classiﬁcation system, communication, [construction](keyword_construction), [construction company](keyword_construction_company), [construction industry](keyword_construction_industry), construction project, construction relate complaint, [construction worker](keyword_construction_worker), construction workforce, [contractor](keyword_contractor), [coronavirus](keyword_coronavirus), cost overrun, cough, [covid 19 pandemic](keyword_covid_19_pandemic), [covid-19](keyword_covid-19), denny smith, department of labor, distribution, [employee](keyword_employee), [employer](keyword_employer), [engineering](keyword_engineering), engineering control, [europe](keyword_europe), excel, [exposure](keyword_exposure), formal, gamil, [germany](keyword_germany), good practice, hassan, hatoum, hazard, [health](keyword_health), [health and safety](keyword_health_and_safety), health and safety agency, health and safety concern, hygiene, [industry](keyword_industry), jobsite, jones, [malaysia](keyword_malaysia), manage, [mask](keyword_mask), mediterr, [mental health](keyword_mental_health), microsoft, n gram, naeic, nassereddine, natural language processing, nigeria, non formal, occupational safety and health administration, ogunnusi, [osha](keyword_osha), palumbo, [pandemic](keyword_pandemic), [personal protective equipment](keyword_personal_protective_equipment), [physical](keyword_physical), piskernik, practice, [reproduction](keyword_reproduction), rstudio, [safety](keyword_safety), safety and health agency, sanitization, sanitize, sanitizer, sarvari, schranz, screen, sector, simpeh, [state](keyword_state), [statistic](keyword_statistic), [symptom](keyword_symptom), [toilet](keyword_toilet), trade contractor, [united states](keyword_united_states), usa, [vaccine](keyword_vaccine), [virus](keyword_virus), [worker](keyword_worker), [workforce](keyword_workforce), [workplace](keyword_workplace), [wuhan](keyword_wuhan)
 
 
 ## Concepts
 
  ![](imgs/article_bou_hatoum_analysis_2021.jpg)
 
-### Closest articles 
-
-* [Guidelines for Responding to COVID-19 Pandemic: Best Practices, Impacts, and Future Research Directions](article_assaad_guidelines_2021)
-* [Strategies to Mitigate COVID-19 Pandemic Impacts on Health and Safety of Workers in Construction Projects](article_kaushal_strategies_2021)
-* [Covid-19 Associated Risks and Mitigation Strategies relevant for the UK Construction Industry](article_dan-jumbo_covid-19_2021)
-* [COVID-19 pandemic: the effects and prospects in the
-construction industry.](article_ogunnusi_covid-19_2020)
-* [Identifying Actions to Control and Mitigate the Effects of the COVID-19 Pandemic on Construction Organizations: Preliminary Findings](article_raoufi_identifying_2021)
-* [Influence between COVID-19 Impacts and Project Stakeholders in Chilean Construction Projects](article_araya_influence_2021)
-* [Propositions for a Resilient, Post-COVID-19 Future
-for the AEC Industry](article_nassereddine_propositions_2021)
-* [Perception of COVID-19 impacts on the construction industry over time](article_rokooei_perception_2022)
-* [The Impact of Pandemic Crisis on the Survival of Construction Industry: A Case of COVID-19](article_gamil_impact_2020)
-* [Effects to Construction Project Management Impacted Circular Economic of Covid-19 Pandemic](article_paikan_effects_2021)
-
-### References 
-
-* [The Impact of Pandemic Crisis on the Survival of
-Construction Industry: A Case of COVID-19](article_gamil_impact_2020)
-* [Mechanisms for addressing the impact of COVID-19 on
-infrastructure projects](article_king_mechanisms_2021)
-* [The Effects of Pandemic on Construction Industry
-in the UK](article_shibani_effects_2020)
-
-### Cited by 
 
 
-* [Influence between COVID-19 Impacts and Project
-Stakeholders in Chilean Construction Projects](article_araya_influence_2021)
+## Neighbours
+
+### Closest articles
+
+* Identifying Actions to Control and Mitigate the Effects of the COVID-19 Pandemic on Construction Organizations: Preliminary Findings - [LINK](article_raoufi_identifying_2021)
+* Impacts of COVID-19 on Health and Safety of Workforce in Construction Industry - [LINK](article_pamidimukkala_impacts_2021)
+* Strategies to Mitigate COVID-19 Pandemic Impacts on Health and Safety of Workers in Construction Projects - [LINK](article_kaushal_strategies_2021)
+* Guidelines for Responding to COVID-19 Pandemic: Best Practices, Impacts, and Future Research Directions - [LINK](article_assaad_guidelines_2021)
+* Influence between COVID-19 Impacts and Project Stakeholders in Chilean Construction Projects - [LINK](article_araya_influence_2021)
+* COVID-19 pandemic: the effects and prospects in the construction industry. - [LINK](article_ogunnusi_covid-19_2020)
+* Covid-19 Associated Risks and Mitigation Strategies relevant for the UK Construction Industry - [LINK](article_dan-jumbo_covid-19_2021)
+* Perception of COVID-19 impacts on the construction industry over time - [LINK](article_rokooei_perception_2022)
+* The Impact of Pandemic Crisis on the Survival of Construction Industry: A Case of COVID-19 - [LINK](article_gamil_impact_2020)
+* Propositions for a Resilient, Post-COVID-19 Future for the AEC Industry - [LINK](article_nassereddine_propositions_2021)
+
+
+### Closest BPs
+
+* Architecture design - [LINK](bp_2)
+* Building Adaptation during a pandemic - [LINK](bp_14)
+* Tender support at building stage - [LINK](bp_9)

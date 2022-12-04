@@ -1,28 +1,33 @@
-# Keyword: __country__
-## Clusters
+# Keyword: country
 
-* Cluster 4: [resilience-health](cluster_4)
+* [health-pandemic](cluster_Cluster_4)
+
+
+## Keywords
+
+ * [asean](keyword_asean), between country, [brazil](keyword_brazil), [bueno air](keyword_bueno_air), [china](keyword_china), [city](keyword_city), [community](keyword_community), continent, [country](keyword_country), [croatia](keyword_croatia), death, [denmark](keyword_denmark), early retirement scheme, [economy](keyword_economy), equator, [europe](keyword_europe), european, [european union](keyword_european_union), [finland](keyword_finland), [germany](keyword_germany), [government](keyword_government), gross domestic product, healthcare sector, highly vulnerable population, housing improvement, housing stock, income, income group, income level, [india](keyword_india), [indonesia](keyword_indonesia), [industry](keyword_industry), inequality, international, international organization, [internet](keyword_internet), intervention, israel, [italy](keyword_italy), [japan](keyword_japan), judicial system, jurisdiction, language, [lockdown](keyword_lockdown), low income, low income country, macroeconomic climate, macroeconomic variable, mandatory practice, measurement type, mexico, middle income, middle income country, minimum standard, ministry for health, municipality, [netherland](keyword_netherland), norway, [oecd](keyword_oecd), pa, [pandemic](keyword_pandemic), [peru](keyword_peru), [policy](keyword_policy), policymaker, [population](keyword_population), [portugal](keyword_portugal), protective measure, public authority, region, region of the world, regulator, restriction and limitation, scandinavia, sector, significant variation, [singapore](keyword_singapore), [slovenia](keyword_slovenia), [society](keyword_society), [south korea](keyword_south_korea), [spain](keyword_spain), [state](keyword_state), sub saharan, subnational government, sustainable work policy, sweden, territory, thailand, the uk, [tourism](keyword_tourism), trade, transition, turkey, [united kingdom](keyword_united_kingdom), [united nations](keyword_united_nations), [united states](keyword_united_states), usa, vietnam, vulnerable population, wage war, welfare state
+
 
 ## Concepts
 
  ![](imgs/keyword_country.jpg)
 
 
-## Top 10 articles for __country__
-* world_bank_world_2022 ([world_bank_world_2022](article_world_bank_world_2022))
-* COVID-19 and Green Housing: A Review of
-Relevant Literature ([kaklauskas_covid-19_2021](article_kaklauskas_covid-19_2021))
-* eurofund_sustainable_2016 ([eurofund_sustainable_2016](article_eurofund_sustainable_2016))
-* realdania_refleksioner_2022_EN ([realdania_refleksioner_2022_EN](article_realdania_refleksioner_2022_EN))
-* Nurture to nature via COVID-19, a self-regenerating
-environmental strategy of environment in global context ([paital_nurture_2020](article_paital_nurture_2020))
-* rtpi_urban_2021 ([rtpi_urban_2021](article_rtpi_urban_2021))
-* A Comprehensive Review of the COVID-19 Pandemic
-and the Role of IoT, Drones, AI, Blockchain, and
-5G in Managing its Impact ([chamola_comprehensive_2020](article_chamola_comprehensive_2020))
-* COVID-19 and regional solutions for mitigating the risk
-of SME finance in selected ASEAN member states ([taghizadeh-hesary_covid-19_2022](article_taghizadeh-hesary_covid-19_2022))
-* Global value chains: Efficiency and risks in the context
-of COVID-19 ([oecd_global_2021](article_oecd_global_2021))
-* The changes in the effects of social media use of
-Cypriots due to COVID-19 pandemic ([kaya_changes_2020](article_kaya_changes_2020))
+
+## Neighbours
+
+### Closest articles
+
+* World Bank Development Report - [LINK](article_world_bank_world_2022)
+* COVID-19 and Green Housing: A Review of Relevant Literature - [LINK](article_kaklauskas_covid-19_2021)
+* Sustainable work throughout the life course: National policies and strategies, Publications Office of the European Union - [LINK](article_eurofund_sustainable_2016)
+* Effects of the COVID-19 pandemic on the use and perceptions of urban green space: An international exploratory study - [LINK](article_ugolini_effects_2020)
+* Nurture to nature via COVID-19, a self-regenerating environmental strategy of environment in global context - [LINK](article_paital_nurture_2020)
+* The impact of COVID-19 and strategies for mitigation and suppression in low- and middle-income countries - [LINK](article_walker_impact_2020)
+* Urban planning after COVID-19 - [LINK](article_rtpi_urban_2021)
+* A Comprehensive Review of the COVID-19 Pandemic and the Role of IoT, Drones, AI, Blockchain, and 5G in Managing its Impact - [LINK](article_chamola_comprehensive_2020)
+* Global value chains: Efficiency and risks in the context of COVID-19 - [LINK](article_oecd_global_2021)
+
+
+### Closest BPs
+

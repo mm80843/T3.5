@@ -1,41 +1,40 @@
-# Article: __The socio-economic implications of the coronavirus pandemic (COVID-19): A review__ (nicola_socio-economic_2020)
+# Article: The socio-economic implications of the coronavirus pandemic (COVID-19): A review (nicola_socio-economic_2020)
 
-* [10.1016/j.ijsu.2020.04.018](https://doi.org/10.1016/j.ijsu.2020.04.018)
-* Cluster: [robot-drone](cluster_13)
+* Source: [10.1016/j.ijsu.2020.04.018](https://doi.org/10.1016/j.ijsu.2020.04.018)
+* Year: 2020
+* Cluster: [health-pandemic](cluster_4)
+
 
 
 ## Keywords
 
-* [covid-19](keyword_covid-19), [united kingdom](keyword_united_kingdom), [internet](keyword_internet), [coronavirus](keyword_coronavirus), [china](keyword_china), [europe](keyword_europe), [united states](keyword_united_states), [pandemic](keyword_pandemic), [new york city](keyword_new_york_city), [government](keyword_government), asian market, [news](keyword_news), [saudi arabia](keyword_saudi_arabia), [social distancing](keyword_social_distancing), recession
-
-
-
-## Keywords at large
-
-* [internet](keyword_internet), [covid-19](keyword_covid-19), [united kingdom](keyword_united_kingdom), [coronavirus](keyword_coronavirus), [china](keyword_china), [united states](keyword_united_states), [europe](keyword_europe), [germany](keyword_germany), [pandemic](keyword_pandemic), [government](keyword_government)
+ * asian market, [australia](keyword_australia), bank of america, bank of england, banking, bbc, buyer, central bank, chancellor, [china](keyword_china), [conflict of interest](keyword_conflict_of_interest), [coronavirus](keyword_coronavirus), [coronavirus outbreak](keyword_coronavirus_outbreak), correspond government, covid 19 outbreak, [covid 19 pandemic](keyword_covid_19_pandemic), [covid-19](keyword_covid-19), deloitte, demand, dollar, domestic abuse, domestic violence, [economic](keyword_economic), economic crisis, england, [euro](keyword_euro), [europe](keyword_europe), european commission, eurozone, fast food, feed, food parcel, food product, gates foundation, george orwell, german, [germany](keyword_germany), global economy, gold, [government](keyword_government), guardian, [healthcare](keyword_healthcare), healthcare worker, hospitality, imperial college, index, [internet](keyword_internet), iran, iraq, [italy](keyword_italy), [japan](keyword_japan), kurzarbeitergeld, las vegas, loan, [london](keyword_london), [manhattan](keyword_manhattan), marketwatch, mastercard, merrill lynch, mexico, [new south wale](keyword_new_south_wale), [new york city](keyword_new_york_city), [news](keyword_news), nicola, [nih](keyword_nih), nineteen eighty four, npr, npr org, opec, [pandemic](keyword_pandemic), panic buying, panicbuye, pharmaceutical industry, recession, [russia](keyword_russia), [saudi arabia](keyword_saudi_arabia), [school](keyword_school), school closure, scientific research, seller, selling process, [social distancing](keyword_social_distancing), stock market, [supply chain](keyword_supply_chain), syria, tertiary sector, [tourism](keyword_tourism), tourism sector, [travel](keyword_travel), ukraine, [unesco](keyword_unesco), [united kingdom](keyword_united_kingdom), [united states](keyword_united_states), usa, [vaccine](keyword_vaccine), [ventilator](keyword_ventilator), vietnam, wellcome, [world heritage site](keyword_world_heritage_site), world news
 
 
 ## Concepts
 
  ![](imgs/article_nicola_socio-economic_2020.jpg)
 
-### Closest articles 
 
-* [10 tech trends getting us through the COVID-19
-pandemic](article_yan_10_2020)
-* [Drones. Disinfecting robots. Supercomputers. The
-coronavirus outbreak is a test for China's tech industry
-\textbar CNN Business](article_wang_drones_2020)
-* [What has been the impact of the COVID-19 pandemic on immigrants? An update on recent evidence](article_oecd_what_2022)
-* [Global value chains: Efficiency and risks in the context of COVID-19](article_oecd_global_2021)
-* [Sustainable work throughout the life course: National
-policies and strategies, Publications Office of the
-European Union](article_eurofund_sustainable_2016)
-* [Mapping research in logistics and supply chain management during COVID-19 pandemic](article_montoya-torres_mapping_2021)
-* [Emerging Technologies to Combat the COVID-19 Pandemic](article_vaishya_emerging_2020)
-* [Combating COVID-19—The role of robotics in managing public health and infectious diseases](article_yang_combating_2020)
-* [Danish disinfection robots save lives in the fight against
-the Corona virus \textbar Shaping Europe’s
-digital future](article_ec_views_danish_2020)
-* [A Comprehensive Review of the COVID-19 Pandemic and the Role of IoT, Drones, AI, Blockchain, and 5G in Managing its Impact](article_chamola_comprehensive_2020)
 
+## Neighbours
+
+### Closest articles
+
+* The COVID-19 pandemic: Lessons on building more equal and sustainable societies - [LINK](article_van_barneveld_covid-19_2020)
+* World Bank Development Report - [LINK](article_world_bank_world_2022)
+* Urban planning after COVID-19 - [LINK](article_rtpi_urban_2021)
+* Global value chains: Efficiency and risks in the context of COVID-19 - [LINK](article_oecd_global_2021)
+* COVID-19 and regional solutions for mitigating the risk of SME finance in selected ASEAN member states - [LINK](article_taghizadeh-hesary_covid-19_2022)
+* Covid-19 and asset management in EU: a preliminary assessment of performance and investment styles - [LINK](article_rizvi_covid-19_2020)
+* Mapping research in logistics and supply chain management during COVID-19 pandemic - [LINK](article_montoya-torres_mapping_2021)
+* COVID-19 and the UN Sustainable Development Goals: Threat to Solidarity or an Opportunity? - [LINK](article_leal_filho_covid-19_2020)
+* A critical analysis of the impacts of COVID-19 on the global economy and ecosystems and opportunities for circular economy strategies - [LINK](article_ibn-mohammed_critical_2021)
+* Health, Economic and Social Development Challenges of the COVID-19 Pandemic: Strategies for Multiple and Interconnected Issues - [LINK](article_panneer_health_2022)
+
+
+### Closest BPs
+
+* Blueprint: Air Cleaning Plants - [LINK](bp_15)
+* Blueprint: Architecture design - [LINK](bp_2)
+* Blueprint: Tender support at building stage - [LINK](bp_9)

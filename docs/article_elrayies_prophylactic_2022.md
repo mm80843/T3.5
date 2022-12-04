@@ -1,157 +1,40 @@
-# Article: __Prophylactic Architecture: Formulating the Concept of Pandemic-Resilient Homes__ (elrayies_prophylactic_2022)
+# Article: Prophylactic Architecture: Formulating the Concept of Pandemic-Resilient Homes (elrayies_prophylactic_2022)
 
-* [10.3390/buildings12070927](https://doi.org/10.3390/buildings12070927)
-* Cluster: [health-building](cluster_9)
+* Source: [10.3390/buildings12070927](https://doi.org/10.3390/buildings12070927)
+* Year: 2022
+* Cluster: [building-space](cluster_9)
+
 
 
 ## Keywords
 
-* [covid-19](keyword_covid-19), [pandemic](keyword_pandemic), [home](keyword_home), [covid 19 pandemic](keyword_covid_19_pandemic), [housing](keyword_housing), [epidemic](keyword_epidemic), [balcony](keyword_balcony), [mental health](keyword_mental_health), [ventilation](keyword_ventilation), elevator, [infection](keyword_infection), [window](keyword_window), [copper](keyword_copper), [coronavirus](keyword_coronavirus), [kitchen](keyword_kitchen)
-
-
-
-## Keywords at large
-
-* [covid-19](keyword_covid-19), [pandemic](keyword_pandemic), [home](keyword_home), [covid 19 pandemic](keyword_covid_19_pandemic), [ventilation](keyword_ventilation), [housing](keyword_housing), [balcony](keyword_balcony), [epidemic](keyword_epidemic), [mental health](keyword_mental_health), [lockdown](keyword_lockdown)
-
-## Abstract
-
-The lockdown instituted during the COVID-19 pandemic has
-drawn the world’s attention to the importance of homes as
-integrated structures for practicing all aspects of life.
-The home has been transformed from a mere place to live
-into a complete piece of infrastructure accommodating all
-activities of life, including study, work, shopping,
-exercise, entertainment, and even telehealth. Although
-quarantines were necessary to protect against viral
-infection, we have faced social and psychological
-challenges due to the failure of the current home design to
-accommodate the new lockdown lifestyle during the pandemic.
-Thus, this study aims to set a foundation for the
-development and design of resilient homes in a
-post-quarantine world by establishing a comprehensive
-framework for quarantine-resilient homes. The framework was
-established on the basis of the relevant literature and
-proposals from architects and experts. It brings a
-perspective to the future requirements of homes so as to
-provide architects, stakeholders, and policymakers with the
-appropriate knowledge to mitigate the impact of lockdowns
-on mental health and well-being in residential buildings by
-focusing on the physical and architectural environment.
+ * [antimicrobial](keyword_antimicrobial), [anxiety](keyword_anxiety), [apartment](keyword_apartment), arboretum, [architect](keyword_architect), architectural, [architectural design](keyword_architectural_design), [architecture](keyword_architecture), [australia](keyword_australia), [balcony](keyword_balcony), bathroom, [bedroom](keyword_bedroom), [brazil](keyword_brazil), [build](keyword_build), [building](keyword_building), carpet, comfort, conegliano, contactless technology, [copper](keyword_copper), [coronavirus](keyword_coronavirus), [corridor](keyword_corridor), [covid 19 pandemic](keyword_covid_19_pandemic), [covid-19](keyword_covid-19), curtain, [design](keyword_design), [disease](keyword_disease), [disinfection](keyword_disinfection), door, drink water, elevator, [energy](keyword_energy), entertainment, [environment](keyword_environment), [epidemic](keyword_epidemic), exposure to sunlight, family, fan, faucet, filtration, floor plan, florianópolis, [food](keyword_food), furniture, [health](keyword_health), [home](keyword_home), home design, [house](keyword_house), [housing](keyword_housing), housing sector, houston, [hvac](keyword_hvac), [indoor](keyword_indoor), [infection](keyword_infection), [infectious disease](keyword_infectious_disease), [italy](keyword_italy), java, kitchen, lifestyle, living room, lobby, [lockdown](keyword_lockdown), low, [manhattan](keyword_manhattan), marco, mechanical ventilation, [mental](keyword_mental), [mental health](keyword_mental_health), mental illness, modular system, natural ventilation, [new south wale](keyword_new_south_wale), [new york city](keyword_new_york_city), [pandemic](keyword_pandemic), pandemic resilient home, [physical](keyword_physical), post-pandemic, [privacy](keyword_privacy), psychol, [psychological](keyword_psychological), psychology, [quarantine](keyword_quarantine), quarantine room, rawtani, relative humidity, [risk](keyword_risk), stair, sunlight, [sustainability](keyword_sustainability), [sustainable architecture](keyword_sustainable_architecture), [sustainable development goal](keyword_sustainable_development_goal), [temperature](keyword_temperature), [toilet](keyword_toilet), [transmission](keyword_transmission), urban design, [ventilation](keyword_ventilation), [virus](keyword_virus), [window](keyword_window), [work](keyword_work), zhang
 
 
 ## Concepts
 
  ![](imgs/article_elrayies_prophylactic_2022.jpg)
 
-### Closest articles 
-
-* [](article_dalessandro_covid-19_2020)
-* [COVID-19 and Green Housing: A Review of Relevant Literature](article_kaklauskas_covid-19_2021)
-* [How is COVID-19 Experience Transforming Sustainability Requirements of Residential Buildings? A Review](article_tokazhanov_how_2020)
-* [Towards Resilient Residential Buildings and Neighborhoods in Light of COVID-19 Pandemic—The Scenario of Podgorica, Montenegro](article_bojovic_towards_2022)
-* [How our homes impact our health: using a COVID-19 informed approach to examine urban apartment housing](article_peters_how_2020)
-* [realdania_refleksioner_2022_EN](article_realdania_refleksioner_2022_EN)
-* [How the Coronavirus Will Reshape Architecture](article_chayka_how_2020)
-* [RESIDENTIAL ARCHITECTURE IN A POST-PANDEMIC WORLD: IMPLICATIONS OF COVID-19 FOR NEW CONSTRUCTION AND FOR ADAPTING HERITAGE BUILDINGS](article_spennemann_residential_2021)
-* [Questioning the use of the balcony in apartments during the COVID-19 pandemic process](article_aydin_questioning_2020)
-* [A Mixed Approach on Resilience of Spanish Dwellings and Households during COVID-19 Lockdown](article_cuerdo-vilches_mixed_2020)
-
-### References 
-
-* [How can airborne transmission of COVID-19 indoors be
-minimised?](article_morawska_how_2020)
-* [Addressing the impact of COVID-19 lockdown on energy use
-in municipal buildings: A case study in Florianópolis,
-Brazil](article_geraldi_addressing_2021)
-* [Environmental factors involved in SARS-CoV-2
-transmission: effect and role of indoor environmental
-quality in the strategy for COVID-19 infection control](article_azuma_environmental_2020)
-* [How our homes impact our health: using a COVID-19
-informed approach to examine urban apartment housing](article_peters_how_2020)
-* [How is COVID-19 Experience Transforming
-Sustainability Requirements of Residential
-Buildings? A Review](article_tokazhanov_how_2020)
-* [Pandemic stricken cities on lockdown. Where are our
-planning and design professionals [now, then and into the
-future]?](article_allam_pandemic_2020)
-* [Public housing and COVID-19: contestation, challenge and
-change](article_power_public_2020)
-* [Designing Post COVID-19 Buildings: Approaches for
-Achieving Healthy Buildings](article_navaratnam_designing_2022)
-* [A critical review of heating, ventilation, and air
-conditioning (HVAC) systems within the context of a
-global SARS-CoV-2 epidemic](article_elsaid_critical_2021)
-* [The effect of occupant distribution on energy consumption
-and COVID-19 infection in buildings: A case study of
-university building](article_mokhtari_effect_2021)
-* [Review and comparison of HVAC operation guidelines in
-different countries during the COVID-19 pandemic](article_guo_review_2021)
-* [Applications of ultraviolet germicidal irradiation
-disinfection in health care facilities: Effective
-adjunct, but not stand-alone technology](article_memarzadeh_applications_2010)
-* [Methods for air cleaning and protection of building
-occupants from airborne pathogens](article_bolashikov_methods_2009)
-* [COVID-19 and Living space challenge. Well-being and
-Public Health recommendations for a healthy, safe, and
-sustainable housing.](article_dalessandro_covid-19_2020)
-* [COVID-19 Could Leverage a Sustainable Built
-Environment](article_pinheiro_covid-19_2020)
-* [Home garden use during COVID-19: Associations with
-physical and mental wellbeing in older adults](article_corley_home_2021)
-* [Association between indoor-outdoor green features and
-psychological health during the COVID-19 lockdown in
-Italy: A cross-sectional nationwide study](article_spano_association_2021)
-* [The COVID-19 pandemic: Impacts on cities and major
-lessons for urban planning, design, and management](article_sharifi_covid-19_2020)
-* [Towards Resilient Residential Buildings and
-Neighborhoods in Light of COVID-19 Pandemic—The
-Scenario of Podgorica, Montenegro](article_bojovic_towards_2022)
-* [Questioning the use of the balcony in apartments during
-the COVID-19 pandemic process](article_aydin_questioning_2020)
-* [Biophilic design in architecture and its contributions to
-health, well-being, and sustainability: A critical
-review](article_zhong_biophilic_2022)
-* [Housing Experience in Gated Communities in the
-Time of Pandemics: Lessons Learned from
-COVID-19](article_asfour_housing_2022)
-* [Eviction, Health Inequity, and the Spread of
-COVID-19: Housing Policy as a Primary Pandemic
-Mitigation Strategy](article_benfer_eviction_2021)
-* [Association of built environment attributes with the
-spread of COVID-19 at its initial stage in China](article_li_association_2021)
-* [Impact of COVID-19 on IoT Adoption in Healthcare,
-Smart Homes, Smart Buildings, Smart Cities,
-Transportation and Industrial IoT](article_umair_impact_2021)
-* [Sars-CoV-2 (COVID-19) inactivation capability of
-copper-coated touch surface fabricated by cold-spray
-technology](article_hutasoit_sars-cov-2_2020)
-* [COVID-19 Pandemic: Prevention and Protection
-Measures to Be Adopted at the Workplace](article_cirrincione_covid-19_2020)
-* [Persistence of coronaviruses on inanimate surfaces and
-their inactivation with biocidal agents](article_kampf_persistence_2020)
-* [A Review on Building Design as a Biomedical
-System for Preventing COVID-19 Pandemic](article_amran_review_2022)
-* [Ten questions concerning occupant health in buildings
-during normal operations and extreme events including the
-COVID-19 pandemic](article_awada_ten_2021)
-* [When the fourth water and digital revolution encountered
-COVID-19](article_poch_when_2020)
-* [First confirmed detection of SARS-CoV-2 in untreated
-wastewater in Australia: A proof of concept for the
-wastewater surveillance of COVID-19 in the community](article_ahmed_first_2020)
-* [RESIDENTIAL ARCHITECTURE IN A POST-PANDEMIC
-WORLD: IMPLICATIONS OF COVID-19 FOR NEW
-CONSTRUCTION AND FOR ADAPTING HERITAGE
-BUILDINGS](article_spennemann_residential_2021)
-* [COVID-19 and Green Housing: A Review of
-Relevant Literature](article_kaklauskas_covid-19_2021)
-* [Readiness Assessment of Green Building
-Certification Systems for Residential Buildings
-during Pandemics](article_tleuken_readiness_2021)
-* [Assessment method for new sustainability indicators
-providing pandemic resilience for residential buildings](article_tokazhanov_assessment_2021)
-
-### Cited by 
 
 
+## Neighbours
+
+### Closest articles
+
+*  - [LINK](article_dalessandro_covid-19_2020)
+* COVID-19 and Green Housing: A Review of Relevant Literature - [LINK](article_kaklauskas_covid-19_2021)
+* How is COVID-19 Experience Transforming Sustainability Requirements of Residential Buildings? A Review - [LINK](article_tokazhanov_how_2020)
+* Towards Resilient Residential Buildings and Neighborhoods in Light of COVID-19 Pandemic—The Scenario of Podgorica, Montenegro - [LINK](article_bojovic_towards_2022)
+* How our homes impact our health: using a COVID-19 informed approach to examine urban apartment housing - [LINK](article_peters_how_2020)
+* COVID-19 Could Leverage a Sustainable Built Environment - [LINK](article_pinheiro_covid-19_2020)
+* Adaptive Design of the Built Environment to Mitigate the Transmission Risk of COVID-19 - [LINK](article_ara_dilshad_shangi_adaptive_2020)
+* RESIDENTIAL ARCHITECTURE IN A POST-PANDEMIC WORLD: IMPLICATIONS OF COVID-19 FOR NEW CONSTRUCTION AND FOR ADAPTING HERITAGE BUILDINGS - [LINK](article_spennemann_residential_2021)
+* Designing for COVID-2x: Reflecting on Future-Proofing Human Habitation for the Inevitable Next Pandemic - [LINK](article_spennemann_designing_2022)
+* How Architecture Fails in Conditions of Crisis: a Discussion on the Value of Interior Design over the COVID-19 Outbreak - [LINK](article_rassia_how_2020)
+
+
+### Closest BPs
+
+* Architecture design - [LINK](bp_2)
+* Tender support at building stage - [LINK](bp_9)
+* Building Adaptation during a pandemic - [LINK](bp_14)

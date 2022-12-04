@@ -1,56 +1,40 @@
-# Article: __A review of definitions and measures of system resilience__ (hosseini_review_2016)
+# Article: A review of definitions and measures of system resilience (hosseini_review_2016)
 
-* [10.1016/j.ress.2015.08.006](https://doi.org/10.1016/j.ress.2015.08.006)
-* Cluster: [resilience-system](cluster_14)
+* Source: [10.1016/j.ress.2015.08.006](https://doi.org/10.1016/j.ress.2015.08.006)
+* Year: 2016
+* Cluster: [resilience-health](cluster_13)
+
 
 
 ## Keywords
 
-* [resilience](keyword_resilience), [system](keyword_system), [infrastructure](keyword_infrastructure), [recovery](keyword_recovery), [reliability engineering](keyword_reliability_engineering), [metric](keyword_metric), [system safety](keyword_system_safety), [eq](keyword_eq), [vulnerability](keyword_vulnerability), [resilience engineering](keyword_resilience_engineering), [engineering](keyword_engineering), [preparedness](keyword_preparedness), [disruption](keyword_disruption), [network](keyword_network), [model](keyword_model)
-
-
-
-## Keywords at large
-
-* [resilience](keyword_resilience), [system](keyword_system), [infrastructure](keyword_infrastructure), [recovery](keyword_recovery), [reliability engineering](keyword_reliability_engineering), [metric](keyword_metric), [eq](keyword_eq), [system safety](keyword_system_safety), [vulnerability](keyword_vulnerability), [resilience engineering](keyword_resilience_engineering)
-
-## Abstract
-
-Modeling and evaluating the resilience of systems,
-potentially complex and large-scale in nature, has recently
-raised significant interest among both practitioners and
-researchers. This recent interest has resulted in several
-definitions of the concept of resilience and several
-approaches to measuring this concept, across several
-application domains. As such, this paper presents a review
-of recent research articles related to defining and
-quantifying resilience in various disciplines, with a focus
-on engineering systems. We provide a classification scheme
-to the approaches in the literature, focusing on
-qualitative and quantitative approaches and their
-subcategories. Addressed in this review are: an extensive
-coverage of the literature, an exploration of current gaps
-and challenges, and several directions for future
-research.
+ * absorptive capacity, adaptive capacity, asme, azadeh a, barker k, baroud h, bhamra, bruneau, bruyelle, bruyelle et, cardoso, cascade failure, citespace, [community](keyword_community), conceptual framework, [critical infrastructure](keyword_critical_infrastructure), cross checking, department of homeland security, detect, deterministic, deﬁnition, disruption, disruptive event, [domain](keyword_domain), dynamic resilience, earthquake, ecology, [economic](keyword_economic), economic resilience, efﬁciency, ej, [engineering](keyword_engineering), faturechi, global resilience, henry, hollnagel, hollnagel e, [infrastructure](keyword_infrastructure), infrastructure network, khale, khansa, literature review, [measure](keyword_measure), metric, miller hook, [model](keyword_model), [network](keyword_network), network resilience, node, operation, ouedraogo, ouyang m, philadelphia, [plan](keyword_plan), preparedness, probability, [qualitative](keyword_qualitative), quantitative, ramirez marquez, ramirez marquez je, recession, [recovery](keyword_recovery), recovery time, redundancy, reliability, [reliability engineering](keyword_reliability_engineering), [resilience](keyword_resilience), resilience assessment, resilience deﬁnition, resilience engineering, resilience triangle, restoration, review of resilience deﬁnition, rise, [risk](keyword_risk), risk management, robustness, salehi v, shinozuka, [simulation](keyword_simulation), [simulation model](keyword_simulation_model), [social](keyword_social), social domain, sohr, speranza, stochastic, stochastic resilience, structure, [supply chain](keyword_supply_chain), supply chain resilience, [system](keyword_system), system safety, tadic, university of pennsylvania, vugrin ed, [vulnerability](keyword_vulnerability), vulnerability reduction, zhejiang, zobel, ﬂexibility
 
 
 ## Concepts
 
  ![](imgs/article_hosseini_review_2016.jpg)
 
-### Closest articles 
 
-* [Guidelines for resilience systems analysis](article_oecd_guidelines_2014)
-* [Strengthening resilience: a priority shared by Health
-2020 and](article_who_strengthening_2017)
-* [COVID-19 and a new resilient infrastructure landscape](article_oecd_covid-19_2021)
-* [Preparing critical infrastructure for the future: Lessons learnt from the Covid-19 pandemic](article_tomalska_preparing_2022)
-* [DfMA for rapid adaptive resilience and flexible
-infrastructure](article_mott_macdonald_dfma_2020)
-* [COVID-19 as a Harbinger of Transforming
-Infrastructure Resilience](article_carvalhaes_covid-19_2020)
-* [Mobility Behaviour in View of the Impact of the COVID-19 Pandemic—Public Transport Users in Gdansk Case Study](article_przybylowski_mobility_2021)
-* [Responsible Transport: A post-COVID agenda for transport policy and practice](article_budd_responsible_2020)
-* [Understanding the role of urban design in disease spreading](article_brizuela_understanding_2019)
-* [RUDDS_bioRxiv_update](article_RUDDS_bioRxiv_update)
 
+## Neighbours
+
+### Closest articles
+
+* Guidelines for resilience systems analysis - [LINK](article_oecd_guidelines_2014)
+* Strengthening resilience: a priority shared by Health 2020 and - [LINK](article_who_strengthening_2017)
+* COVID-19 and a new resilient infrastructure landscape - [LINK](article_oecd_covid-19_2021)
+* Preparing critical infrastructure for the future: Lessons learnt from the Covid-19 pandemic - [LINK](article_tomalska_preparing_2022)
+* COVID-19 as a Harbinger of Transforming Infrastructure Resilience - [LINK](article_carvalhaes_covid-19_2020)
+* DfMA for rapid adaptive resilience and flexible infrastructure - [LINK](article_mott_macdonald_dfma_2020)
+* The contribution of green buildings in the fight against COVID-19 - [LINK](article_world_green_building_council_contribution_2020)
+*  - [LINK](article_yakubu_aminu_dodo_green_2020)
+* Validity of energy social research during and after COVID-19: challenges, considerations, and responses - [LINK](article_fell_validity_2020)
+* Overcoming the Impact of COVID-19 Using Integrated Project Delivery Model - [LINK](article_g_overcoming_2020)
+
+
+### Closest BPs
+
+* Blueprint: Indoor Environmental Quality (IEQ) monitoring system - [LINK](bp_3)
+* Blueprint: Architecture design - [LINK](bp_2)
+* Blueprint: Building Adaptation during a pandemic - [LINK](bp_14)

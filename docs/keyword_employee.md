@@ -1,29 +1,36 @@
-# Keyword: __employee__
-## Clusters
+# Keyword: employee
 
-* Cluster 6: [construction-project](cluster_6)
+* [construction-industry](cluster_Cluster_3)
+
+* [space-flexible](cluster_Cluster_8)
+
+* [customer-brand](cluster_Cluster_14)
+
+
+## Keywords
+
+ * Cluster_14, Cluster_8, agile work, amazon, automatik, behaviour, benefit, bonus, [business](keyword_business), care for the elderly, [company](keyword_company), company culture, [construction industry](keyword_construction_industry), contingency plan, [control](keyword_control), [culture](keyword_culture), [customer](keyword_customer), discussion from home, disengage, [employee](keyword_employee), employee need, employees, [employer](keyword_employer), employment, executive, face to face interaction, [facebook](keyword_facebook), fitness tracker, flexibility, frontline service, full time, gigworker, group, [health and safety](keyword_health_and_safety), health and safety measure, health and wellbeing, health check, heartist, highly qualified, homework, housemate, hr, hr department, human resource, interaction, labor, layoff, low wage, management, [manager](keyword_manager), marriott international, morale, motivation, [office](keyword_office), office administrator, part time, personality, [productivity](keyword_productivity), [remote work](keyword_remote_work), remote worker, [retail](keyword_retail), [retailer](keyword_retailer), retention, retiree, retrain, return to work, [safety](keyword_safety), schedule, self employ, senior leadership, sentiment, sentiment datum, [service](keyword_service), severance pay, shopper, silo, silos, staff turnover, [stakeholder](keyword_stakeholder), [student](keyword_student), supervisor, [survey](keyword_survey), talent, top management, trade union, training, [twitter](keyword_twitter), voluntary, wage, [well be](keyword_well_be), white collar, [work](keyword_work), work environment, work from home, work remotely, [worker](keyword_worker), [workplace](keyword_workplace), workplace safety, [workspace](keyword_workspace), young
+
 
 ## Concepts
 
  ![](imgs/keyword_employee.jpg)
 
 
-## Top 10 articles for __employee__
-* How COVID-19 Could Accelerate the Adoption of
-New Retail Technologies and Enhance the
-(E-)Servicescape ([willems_how_2021](article_willems_how_2021))
-* eurofund_sustainable_2016 ([eurofund_sustainable_2016](article_eurofund_sustainable_2016))
-* pricewaterhousecoopers_its_2021 ([pricewaterhousecoopers_its_2021](article_pricewaterhousecoopers_its_2021))
-* world_green_building_council_health_2014 ([world_green_building_council_health_2014](article_world_green_building_council_health_2014))
-* Analysis of COVID-19 Concerns Raised by the
-Construction Workforce and Development of
-Mitigation Practices ([bou_hatoum_analysis_2021](article_bou_hatoum_analysis_2021))
-* realdania_refleksioner_2022_EN ([realdania_refleksioner_2022_EN](article_realdania_refleksioner_2022_EN))
-* COVID-19 Experience Transforming the Protective
-Environment of Office Buildings and Spaces ([phapant_covid-19_2021](article_phapant_covid-19_2021))
-* A study on office workplace modification during the
-COVID-19 pandemic in The Netherlands ([hou_study_2021](article_hou_study_2021))
-* Impacts of COVID-19 on Health and Safety of
-Workforce in Construction Industry ([pamidimukkala_impacts_2021](article_pamidimukkala_impacts_2021))
-* Green in times of COVID-19: urban green space relevance
-during the COVID-19 pandemic in Buenos Aires City ([marconi_green_2022](article_marconi_green_2022))
+
+## Neighbours
+
+### Closest articles
+
+* How COVID-19 Could Accelerate the Adoption of New Retail Technologies and Enhance the (E-)Servicescape - [LINK](article_willems_how_2021)
+* Sustainable work throughout the life course: National policies and strategies, Publications Office of the European Union - [LINK](article_eurofund_sustainable_2016)
+* It’s time to reimagine where and how work will get done (PwC’s US Remote Work Survey) - [LINK](article_pricewaterhousecoopers_its_2021)
+* Health, Wellbeing \& Productivity in Offices - [LINK](article_world_green_building_council_health_2014)
+* Analysis of COVID-19 Concerns Raised by the Construction Workforce and Development of Mitigation Practices - [LINK](article_bou_hatoum_analysis_2021)
+* Organizations’ Management of the COVID-19 Pandemic: A Scoping Review of Business Articles - [LINK](article_boiral_organizations_2021)
+* COVID-19 Experience Transforming the Protective Environment of Office Buildings and Spaces - [LINK](article_phapant_covid-19_2021)
+* A study on office workplace modification during the COVID-19 pandemic in The Netherlands - [LINK](article_hou_study_2021)
+
+
+### Closest BPs
+

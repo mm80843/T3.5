@@ -1,57 +1,40 @@
-# Article: __The Effects of Pandemic on Construction Industry in the UK__ (shibani_effects_2020)
+# Article: The Effects of Pandemic on Construction Industry in the UK (shibani_effects_2020)
 
-* [10.36941/mjss-2020-0063](https://doi.org/10.36941/mjss-2020-0063)
-* Cluster: [construction-project](cluster_6)
+* Source: [10.36941/mjss-2020-0063](https://doi.org/10.36941/mjss-2020-0063)
+* Year: 2020
+* Cluster: [construction-industry](cluster_3)
+
 
 
 ## Keywords
 
-* [construction](keyword_construction), [age group](keyword_age_group), [construction industry](keyword_construction_industry), [construction company](keyword_construction_company), [contractor](keyword_contractor), [united kingdom](keyword_united_kingdom), [pandemic](keyword_pandemic), [project manager](keyword_project_manager), [questionnaire](keyword_questionnaire), [male](keyword_male), [project](keyword_project), [covid 19 pandemic](keyword_covid_19_pandemic), [population](keyword_population), female, [covid-19](keyword_covid-19)
-
-
-
-## Keywords at large
-
-* [construction](keyword_construction), [age group](keyword_age_group), [construction industry](keyword_construction_industry), [construction company](keyword_construction_company), [pandemic](keyword_pandemic), [contractor](keyword_contractor), [project manager](keyword_project_manager), [united kingdom](keyword_united_kingdom), [questionnaire](keyword_questionnaire), [male](keyword_male)
-
-## Abstract
-
-Pandemics such as: Covid-19 virus have a major impact on
-the economy of the world and the construction industry has
-not been exempted. This research investigates the effects
-of pandemic on construction industry in the UK, and
-particularly, ways in which the UK construction industry
-stakeholders such as project managers, contractors,
-engineers and subcontractors have responded to these
-pandemics. The research involved a 30 study participants
-who comprised site engineers, project managers,
-construction teams, subcontractors and contractors. The
-findings reported construction companies both dealing with
-residential and commercial development were major affected
-by Covid-19 pandemic due to lockdown and social distancing
-in construction sites. The strategy that was applied by
-construction companies was maintaining a good relationship
-with their suppliers and the safety of construction teams.
-The findings of the research will offer construction
-companies in the UK insights on how to deal with such
-pandemics in future to become more resilient.
+ * age distribution, [age group](keyword_age_group), agree, agree strongly agree, [business](keyword_business), [clean](keyword_clean), [construction](keyword_construction), [construction company](keyword_construction_company), [construction industry](keyword_construction_industry), construction labour force, construction manager, construction site, construction team, contract, [contractor](keyword_contractor), [control](keyword_control), convenience sampling, [covid 19 pandemic](keyword_covid_19_pandemic), [covid-19](keyword_covid-19), [crisis](keyword_crisis), crisis management, [datum](keyword_datum), datum analysis, diploma, disinfect, [economic](keyword_economic), edmund, [education](keyword_education), elevator, facility, female, financial crisis, global financial crisis, gupta, głodziński, human capital, impact of global financial crisis on construction industry, [industry](keyword_industry), international journal, interview, interview question, keogh brown, konnur, lack of access to money, likert scale, [lockdown](keyword_lockdown), male, management science, marciniak, mean, mediterranean journal, mediterranean journal of social sciences, mhetre, neutral, office productivity, overhead cost, [pandemic](keyword_pandemic), [participant](keyword_participant), person, pheng, philadelphia, [population](keyword_population), population and sample technique, production planning, [project](keyword_project), project manager, protective equipment, purposive sample, [qualitative](keyword_qualitative), qualitative research, quantitative, quantitative research, questionnaire, [research](keyword_research), research design, research method, research question, [researcher](keyword_researcher), [sample](keyword_sample), sample size, sample technique, service agreement, site engineer, social paradigms, social sciences, socioeconomic, standard deviation, sub group, subcontractor, supriadi, [survey](keyword_survey), [united kingdom](keyword_united_kingdom), university of oxford, university of pennsylvania, valid, valid disagree, work experience, [worker](keyword_worker), worksite, yang
 
 
 ## Concepts
 
  ![](imgs/article_shibani_effects_2020.jpg)
 
-### Closest articles 
 
-* [Mechanisms for addressing the impact of COVID-19 on infrastructure projects](article_king_mechanisms_2021)
-* [The Impact of Pandemic Crisis on the Survival of Construction Industry: A Case of COVID-19](article_gamil_impact_2020)
-* [Perception of COVID-19 impacts on the construction industry over time](article_rokooei_perception_2022)
-* [Influence between COVID-19 Impacts and Project Stakeholders in Chilean Construction Projects](article_araya_influence_2021)
-* [Effects to Construction Project Management Impacted Circular Economic of Covid-19 Pandemic](article_paikan_effects_2021)
-* [COVID-19 pandemic: the effects and prospects in the
-construction industry.](article_ogunnusi_covid-19_2020)
-* [Overcoming the Impact of COVID-19 Using Integrated Project Delivery Model](article_g_overcoming_2020)
-* [Guidelines for Responding to COVID-19 Pandemic: Best Practices, Impacts, and Future Research Directions](article_assaad_guidelines_2021)
-* [Identifying Actions to Control and Mitigate the Effects of the COVID-19 Pandemic on Construction Organizations: Preliminary Findings](article_raoufi_identifying_2021)
-* [Analysis of COVID-19 Concerns Raised by the Construction Workforce and Development of Mitigation Practices](article_bou_hatoum_analysis_2021)
 
+## Neighbours
+
+### Closest articles
+
+* Mechanisms for addressing the impact of COVID-19 on infrastructure projects - [LINK](article_king_mechanisms_2021)
+* The Impact of Pandemic Crisis on the Survival of Construction Industry: A Case of COVID-19 - [LINK](article_gamil_impact_2020)
+* Perception of COVID-19 impacts on the construction industry over time - [LINK](article_rokooei_perception_2022)
+* Effects to Construction Project Management Impacted Circular Economic of Covid-19 Pandemic - [LINK](article_paikan_effects_2021)
+* Overcoming the Impact of COVID-19 Using Integrated Project Delivery Model - [LINK](article_g_overcoming_2020)
+* Covid-19 Associated Risks and Mitigation Strategies relevant for the UK Construction Industry - [LINK](article_dan-jumbo_covid-19_2021)
+* Influence between COVID-19 Impacts and Project Stakeholders in Chilean Construction Projects - [LINK](article_araya_influence_2021)
+* COVID-19 pandemic: the effects and prospects in the construction industry. - [LINK](article_ogunnusi_covid-19_2020)
+* Identifying Actions to Control and Mitigate the Effects of the COVID-19 Pandemic on Construction Organizations: Preliminary Findings - [LINK](article_raoufi_identifying_2021)
+* Strategies to Mitigate COVID-19 Pandemic Impacts on Health and Safety of Workers in Construction Projects - [LINK](article_kaushal_strategies_2021)
+
+
+### Closest BPs
+
+* Blueprint: Architecture design - [LINK](bp_2)
+* Blueprint: Building Adaptation during a pandemic - [LINK](bp_14)
+* Blueprint: Tender support at building stage - [LINK](bp_9)

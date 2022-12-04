@@ -1,133 +1,40 @@
-# Article: __Readiness Assessment of Green Building Certification Systems for Residential Buildings during Pandemics__ (tleuken_readiness_2021)
+# Article: Readiness Assessment of Green Building Certification Systems for Residential Buildings during Pandemics (tleuken_readiness_2021)
 
-* [10.3390/su13020460](https://doi.org/10.3390/su13020460)
-* Cluster: [health-building](cluster_9)
+* Source: [10.3390/su13020460](https://doi.org/10.3390/su13020460)
+* Year: 2021
+* Cluster: [building-space](cluster_9)
+
 
 
 ## Keywords
 
-* [pandemic](keyword_pandemic), [breeam](keyword_breeam), [indicator](keyword_indicator), [covid-19](keyword_covid-19), [pandemic resilient indicator](keyword_pandemic_resilient_indicator), [leed](keyword_leed), [sustainability](keyword_sustainability), [casbee](keyword_casbee), [comfort](keyword_comfort), [build](keyword_build), [health safety](keyword_health_safety), [virus](keyword_virus), [air quality](keyword_air_quality), [health](keyword_health), [construction](keyword_construction)
-
-
-
-## Keywords at large
-
-* [pandemic](keyword_pandemic), [breeam](keyword_breeam), [pandemic resilient indicator](keyword_pandemic_resilient_indicator), [indicator](keyword_indicator), [covid-19](keyword_covid-19), [leed](keyword_leed), [casbee](keyword_casbee), [sustainability](keyword_sustainability), [comfort](keyword_comfort), [build](keyword_build)
-
-## Abstract
-
-One of the consequences of COVID-19 pandemic is the
-momentum it has created for global changes affecting
-various aspects of daily lives. Among these, green building
-certification systems (GBCSs) should not be left behind as
-significant potential modifications may be required to
-ensure their versatility for residential buildings due to
-the new pandemic reality. The present study aims to
-evaluate the readiness of chosen GBCSs for a proper
-assessment of existing residential housing sustainability
-in a post-pandemic world. Based on a literature review of
-the state-of-the-art data sources and round table
-discussions, the present study proposes a particular set of
-sustainability indicators covering special sustainability
-requirements under pandemic conditions. Then, those
-indicators are used to evaluate the readiness of selected
-GBCSs (BREEAM, LEED, WELL, CASBEE) to meet new
-pandemic-resilient requirements based on their responses to
-the indicators. The assessment shows that none of the
-reviewed GBCSs are fully ready to cover all the proposed
-indicators. GBCSs have differing focuses on particular
-sustainability pillars, which also affected their responses
-to pandemic-resilient categories. For instance, WELL rating
-system successfully responded to the health and safety
-category, whereas LEED showed better preparedness in terms
-of environmental efficiency. BREEAM and CASBEE systems have
-a more evenly distributed attention to all three
-pandemic-resilient categories (Health \& Safety,
-Environmental Resources Consumption, and Comfort) with an
-accent on the Comfort category. On a specific note, all
-GBCSs are insufficiently prepared for waste and wastewater
-management. In the future, GBCSs should be modified to
-better adapt to pandemic conditions, for which the current
-work may provide a basis. As an alternative, brand new
-standards can be created to face newly arising and evolving
-post-pandemic requirements.
+ * acoustic, [air](keyword_air), [air conditioning](keyword_air_conditioning), air quality, appliance, aq3, aq4, [breeam](keyword_breeam), [build](keyword_build), [building](keyword_building), carey, casbee, [clean](keyword_clean), comfort, [construction](keyword_construction), [coronavirus](keyword_coronavirus), [covid 19 pandemic](keyword_covid_19_pandemic), [covid-19](keyword_covid-19), credit, criterion, d alessandro, [design](keyword_design), disinfect, [disinfection](keyword_disinfection), drink water, [energy use](keyword_energy_use), environmental resource, eu1, [food](keyword_food), gbcs, [gbcss](keyword_gbcss), [green building](keyword_green_building), guney, healing, [health](keyword_health), [health and safety](keyword_health_and_safety), health safety, household waste, [indicator](keyword_indicator), [indoor air quality](keyword_indoor_air_quality), [infection](keyword_infection), [italy](keyword_italy), [kazakhstan](keyword_kazakhstan), [leed](keyword_leed), liu, [mental health](keyword_mental_health), mh1, mh3, mh4, n a, natural ventilation, nazarbayev university, [new york](keyword_new_york), [noise](keyword_noise), [occupant](keyword_occupant), [pandemic](keyword_pandemic), pandemic resilience, pandemic resilient, [pandemic resilient indicator](keyword_pandemic_resilient_indicator), [pathogen](keyword_pathogen), pc1, pc2, personal comfort, pvp1, pvp2, pvp4, pvp5, [quarantine](keyword_quarantine), [recycle](keyword_recycle), renewable energy, residential, residential building, [russia](keyword_russia), sanitation, [sar cov 2](keyword_sar_cov_2), [social](keyword_social), sub criterion, [sustainability](keyword_sustainability), [temperature](keyword_temperature), toxic compound, [united nations](keyword_united_nations), urban farming, [ventilation](keyword_ventilation), [virus](keyword_virus), virus propagation, [waste](keyword_waste), waste management, [wastewater](keyword_wastewater), wastewater management, water quality and availability, wc, wc1, wc2, [well](keyword_well), [well be](keyword_well_be), [window](keyword_window), wq1, wq2, wwm2, zhou
 
 
 ## Concepts
 
  ![](imgs/article_tleuken_readiness_2021.jpg)
 
-### Closest articles 
-
-* [Assessment method for new sustainability indicators providing pandemic resilience for residential buildings](article_tokazhanov_assessment_2021)
-* [How to Make Green Building Certification &amp; Rating Systems More Pandemic-Sustainable?](article_ujikawa_how_2022)
-* [COVID-19 Bulletin 1: Alterations to BREEAM
-assessment requirements as a result of the Coronavirus
-pandemic – Knowledge Base](article_breeam_covid-19_2020)
-* [Strengthening resilience: a priority shared by Health
-2020 and](article_who_strengthening_2017)
-* [Startups in times of crisis – A rapid response to the COVID-19 pandemic](article_kuckertz_startups_2020)
-* [<scp>COVID</scp>
-            ‐19: Small and medium enterprises challenges and responses with creativity, innovation, and entrepreneurship](article_thukral_covid19_2021)
-* [Guidelines for resilience systems analysis](article_oecd_guidelines_2014)
-* [A review of definitions and measures of system resilience](article_hosseini_review_2016)
-* [DfMA for rapid adaptive resilience and flexible
-infrastructure](article_mott_macdonald_dfma_2020)
-* [Mechanisms for addressing the impact of COVID-19 on infrastructure projects](article_king_mechanisms_2021)
-
-### References 
-
-* [Pandemic stricken cities on lockdown. Where are our
-planning and design professionals [now, then and into the
-future]?](article_allam_pandemic_2020)
-* [Contextualizing the Covid-19 pandemic for a
-carbon-constrained world: Insights for sustainability
-transitions, energy justice, and research methodology](article_sovacool_contextualizing_2020)
-* [COVID-19 and the UN Sustainable Development
-Goals: Threat to Solidarity or an Opportunity?](article_leal_filho_covid-19_2020)
-* [Covid-19 and the politics of sustainable energy
-transitions](article_kuzemko_covid-19_2020)
-* [COVID-19 Could Leverage a Sustainable Built
-Environment](article_pinheiro_covid-19_2020)
-* [A Mixed Approach on Resilience of Spanish
-Dwellings and Households during COVID-19 Lockdown](article_cuerdo-vilches_mixed_2020)
-* [How is COVID-19 Experience Transforming
-Sustainability Requirements of Residential
-Buildings? A Review](article_tokazhanov_how_2020)
-* [COVID-19 and Living space challenge. Well-being and
-Public Health recommendations for a healthy, safe, and
-sustainable housing.](article_dalessandro_covid-19_2020)
-* [How loneliness is talked about in social media during
-COVID-19 pandemic: Text mining of 4,492 Twitter
-feeds](article_koh_how_2022)
-* [SARS-CoV-2 RNA detection of hospital isolation wards
-hygiene monitoring during the Coronavirus Disease 2019
-outbreak in a Chinese hospital](article_wang_sars-cov-2_2020)
-* [SARS-CoV-2 in wastewater: potential health risk, but
-also data source](article_lodder_sars-cov-2_2020)
-* [Indirect effects of COVID-19 on the environment](article_zambrano-monserrate_indirect_2020)
-* [COVID-19 Lockdown: Housing Built Environment’s
-Effects on Mental Health](article_amerio_covid-19_2020)
-* [Antivirus-built environment: Lessons learned from
-Covid-19 pandemic](article_megahed_antivirus-built_2020)
-* [Aerosol and Surface Stability of SARS-CoV-2 as
-Compared with SARS-CoV-1](article_van_doremalen_aerosol_2020)
-* [Predicted Inactivation of Viruses of Relevance to
-Biodefense by Solar Radiation](article_lytle_predicted_2005)
-* [Effects of temperature and humidity on the spread of
-COVID-19: A systematic review](article_mecenas_effects_2020)
-* [First detection of SARS-CoV-2 in untreated wastewaters
-in Italy](article_la_rosa_first_2020)
-* [Gardening is beneficial for health: A meta-analysis](article_soga_gardening_2017)
-
-### Cited by 
 
 
-* [Prophylactic Architecture: Formulating the Concept
-of Pandemic-Resilient Homes](article_elrayies_prophylactic_2022)
-* [COVID-19 and Green Housing: A Review of
-Relevant Literature](article_kaklauskas_covid-19_2021)
-* [Assessment method for new sustainability indicators
-providing pandemic resilience for residential buildings](article_tokazhanov_assessment_2021)
-* [How to Make Green Building Certification \&
-Rating Systems More Pandemic-Sustainable?](article_ujikawa_how_2022)
+## Neighbours
+
+### Closest articles
+
+* How to Make Green Building Certification &amp; Rating Systems More Pandemic-Sustainable? - [LINK](article_ujikawa_how_2022)
+* Assessment method for new sustainability indicators providing pandemic resilience for residential buildings - [LINK](article_tokazhanov_assessment_2021)
+* The Effect of Opening Windows on Air Change Rates in Two Homes - [LINK](article_howard-reed_effect_2002)
+* Characterization and performance evaluation of a full-scale activated carbon-based dynamic botanical air filtration system for improving indoor air quality - [LINK](article_wang_characterization_2011)
+* COVID-19 Higher Mortality in Chinese Regions With Chronic Exposure to Lower Air Quality - [LINK](article_pansini_covid-19_2021)
+* Air pollution linked with higher COVID-19 death rates - [LINK](article_harvard_th_chan_schoold_of_public_health_air_2020)
+* The effect of a redesigned floor plan, occupant density and the quality of indoor climate on the cost of space, productivity and sick leave in an office building–A case study - [LINK](article_saari_effect_2006)
+* Architectural Design Drives the Biogeography of Indoor Bacterial Communities - [LINK](article_kembel_architectural_2014)
+* Building up an ecologically sustainable and socially desirable post-COVID-19 future - [LINK](article_duflot_building_2021)
+* COVID-19: IMPACT OF THE PANDEMIC ON THE SUSTAINABLE DEVELOPMENT GOALS - [LINK](article_samout_covid-19_2020)
+
+
+### Closest BPs
+
+* Blueprint: Indoor Environmental Quality (IEQ) monitoring system - [LINK](bp_3)
+* Blueprint: Installing UV in ductwork - [LINK](bp_10)
+* Blueprint: Air Cleaning Plants - [LINK](bp_15)

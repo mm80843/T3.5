@@ -1,73 +1,39 @@
-# Article: __DeepSOCIAL: Social Distancing Monitoring and Infection Risk Assessment in COVID-19 Pandemic__ (rezaei_deepsocial_2020)
+# Article: DeepSOCIAL: Social Distancing Monitoring and Infection Risk Assessment in COVID-19 Pandemic (rezaei_deepsocial_2020)
 
-* [10.3390/app10217514](https://doi.org/10.3390/app10217514)
-* Cluster: [health-building](cluster_9)
+* Source: [10.3390/app10217514](https://doi.org/10.3390/app10217514)
+* Year: 2020
+* Cluster: [building-space](cluster_9)
+
 
 
 ## Keywords
 
-* [object detection](keyword_object_detection), [dataset](keyword_dataset), [social distancing](keyword_social_distancing), [computer vision](keyword_computer_vision), [seoul](keyword_seoul), [korea](keyword_korea), [bound box](keyword_bound_box), [infection](keyword_infection), [covid-19](keyword_covid-19), couple, [united kingdom](keyword_united_kingdom), [artificial intelligence](keyword_artificial_intelligence), yolov4, [yolo](keyword_yolo), detector
-
-
-
-## Keywords at large
-
-* [object detection](keyword_object_detection), [dataset](keyword_dataset), [social distancing](keyword_social_distancing), [computer vision](keyword_computer_vision), [seoul](keyword_seoul), [korea](keyword_korea), [infection](keyword_infection), [bound box](keyword_bound_box), [covid-19](keyword_covid-19), [yolo](keyword_yolo)
-
-## Abstract
-
-Social distancing is a recommended solution by the World
-Health Organisation (WHO) to minimise the spread of
-COVID-19 in public places. The majority of governments and
-national health authorities have set the 2-m physical
-distancing as a mandatory safety measure in shopping
-centres, schools and other covered areas. In this research,
-we develop a hybrid Computer Vision and YOLOv4-based Deep
-Neural Network (DNN) model for automated people detection
-in the crowd in indoor and outdoor environments using
-common CCTV security cameras. The proposed DNN model in
-combination with an adapted inverse perspective mapping
-(IPM) technique and SORT tracking algorithm leads to a
-robust people detection and social distancing monitoring.
-The model has been trained against two most comprehensive
-datasets by the time of the research—the Microsoft Common
-Objects in Context (MS COCO) and Google Open Image
-datasets. The system has been evaluated against the Oxford
-Town Centre dataset (including 150,000 instances of people
-detection) with superior performance compared to three
-state-of-the-art methods. The evaluation has been conducted
-in challenging conditions, including occlusion, partial
-visibility, and under lighting variations with the mean
-average precision of 99.8\% and the real-time speed of 24.1
-fps. We also provide an online infection risk assessment
-scheme by statistical analysis of the spatio-temporal data
-from people’s moving trajectories and the rate of social
-distancing violations. We identify high-risk zones with the
-highest possibility of virus spread and infection. This may
-help authorities to redesign the layout of a public place
-or to take precaution actions to mitigate high-risk zones.
-The developed model is a generic and accurate people
-detection and tracking solution that can be applied in many
-other fields such as autonomous vehicles, human action
-recognition, anomaly detection, sports, crowd analysis, or
-any other research areas where the human detection is in
-the centre of attention.
+ * anchor box, [artificial intelligence](keyword_artificial_intelligence), backbone, backbone architecture, behaviour, bifpn, biol, [bound box](keyword_bound_box), cctv, [china](keyword_china), [class](keyword_class), coco, computer, [computer vision](keyword_computer_vision), convolutional network, convolutional neural network, couple, [covid 19 pandemic](keyword_covid_19_pandemic), [covid-19](keyword_covid-19), cspdarknet53, [dataset](keyword_dataset), [datum](keyword_datum), [deep learning](keyword_deep_learning), deep neural network, deepsocial, [detection](keyword_detection), detector, distance, distance estimation, distance measurement, dnn, dropblock, farhadi, fcos, fpn, frame, [germany](keyword_germany), girshick, gpu, grid cell, ground truth bounding box, head, heat map, heatmap, hi, honolulu, houston, [human](keyword_human), human detection, image, [infection](keyword_infection), [korea](keyword_korea), las vegas, learn, learning rate, [london](keyword_london), loss function, mach, machine, [machine learning](keyword_machine_learning), microsoft, mish, [model](keyword_model), mosaic, munich, neural network, nguyen, nv, [object detection](keyword_object_detection), occlusion, open image, pattern recognit, pattern recognition, people detection, r cnn, redmon, [research](keyword_research), [russia](keyword_russia), [seoul](keyword_seoul), sfam, [slovenia](keyword_slovenia), [social distancing](keyword_social_distancing), social distancing violation, [spread](keyword_spread), ssd, st petersburg, statistical analysis, surveillance camera, swish, [switzerland](keyword_switzerland), track, training, [united kingdom](keyword_united_kingdom), van huynh, [virus](keyword_virus), voc12, world coordinate, yao, [yolo](keyword_yolo), yolov4
 
 
 ## Concepts
 
  ![](imgs/article_rezaei_deepsocial_2020.jpg)
 
-### Closest articles 
 
-* [COVID-ABS: An agent-based model of COVID-19 epidemic to simulate health and economic effects of social distancing interventions](article_silva_covid-abs_2020)
-* [Digital Twin of COVID-19 Mass Vaccination Centers](article_pilati_digital_2021)
-* [Management of the COVID-19 pandemic: challenges, practices, and organizational support](article_hossny_management_2022)
-* [EXPOSED: An occupant exposure model for confined spaces to retrofit crowd models during a pandemic](article_ronchi_exposed_2020)
-* [COVID19-Routes: A Safe Pedestrian Navigation Service](article_cantarero_covid19-routes_2021)
-* [COVID-19 Prevention and Control Measures in Workplace Settings: A Rapid Review and Meta-Analysis](article_ingram_covid-19_2021)
-* [Building occupancy estimation with people flow modeling in AnyLogic](article_li_building_2016)
-* [Physical interventions to interrupt or reduce the spread of respiratory viruses: systematic review](article_jefferson_physical_2008)
-* [Exploring the Non-Medical impacts of Covid-19 using Natural Language Processing](article_agade_exploring_2020)
-* [Supporting Technologies for COVID-19 Prevention: Systemized Review](article_zhao_supporting_2022)
 
+## Neighbours
+
+### Closest articles
+
+* Towards the sustainable development of smart cities through mass video surveillance: A response to the COVID-19 pandemic - [LINK](article_shorfuzzaman_towards_2021)
+*  - [LINK](article_huy-tran_design_2022)
+* COVID-ABS: An agent-based model of COVID-19 epidemic to simulate health and economic effects of social distancing interventions - [LINK](article_silva_covid-abs_2020)
+* EXPOSED: An occupant exposure model for confined spaces to retrofit crowd models during a pandemic - [LINK](article_ronchi_exposed_2020)
+* Building occupancy estimation with people flow modeling in AnyLogic - [LINK](article_li_building_2016)
+* Digital Twin of COVID-19 Mass Vaccination Centers - [LINK](article_pilati_digital_2021)
+* Drones. Disinfecting robots. Supercomputers. The coronavirus outbreak is a test for China's tech industry \textbar CNN Business - [LINK](article_wang_drones_2020)
+* COVID19-Routes: A Safe Pedestrian Navigation Service - [LINK](article_cantarero_covid19-routes_2021)
+* 10 tech trends getting us through the COVID-19 pandemic - [LINK](article_yan_10_2020)
+
+
+### Closest BPs
+
+* Blueprint: Public places as information points - [LINK](bp_8)
+* Blueprint: Rotational Shift System - [LINK](bp_0)
+* Blueprint: One-way mobility circulation - [LINK](bp_4)

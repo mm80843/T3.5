@@ -1,48 +1,40 @@
-# Article: __Open-source analytics tools for studying the COVID-19 coronavirus outbreak__ (wu_open-source_2020)
+# Article: Open-source analytics tools for studying the COVID-19 coronavirus outbreak (wu_open-source_2020)
 
-* [10.1101/2020.02.25.20027433](https://doi.org/10.1101/2020.02.25.20027433)
-* Cluster: [health-building](cluster_9)
+* Source: [10.1101/2020.02.25.20027433](https://doi.org/10.1101/2020.02.25.20027433)
+* Year: 2020
+* Cluster: [perpetuity-forest](cluster_6)
+
 
 
 ## Keywords
 
-* [china](keyword_china), [author funder](keyword_author_funder), [copyright holder](keyword_copyright_holder), [chinese](keyword_chinese), [hubei](keyword_hubei), [province](keyword_province), [city](keyword_city), [doc](keyword_doc), [italy](keyword_italy), [south korea](keyword_south_korea), html, plot, death rate, [international license](keyword_international_license), [public health](keyword_public_health)
-
-
-
-## Keywords at large
-
-* [china](keyword_china), [chinese](keyword_chinese), [copyright holder](keyword_copyright_holder), [author funder](keyword_author_funder), [hubei](keyword_hubei), [province](keyword_province), [city](keyword_city), [doc](keyword_doc), [italy](keyword_italy), [forecast](keyword_forecast)
-
-## Abstract
-
-The COVID-19 outbreak originated at the end of 2019 from
-Wuhan [1, 2], a city in Hubei province in central China.
-According to the World Health Organization (WHO), there
-were 88,948 confirmed cases and 3,043 deaths from 65
-countries as of March 2, 2020. In China, the outbreak has
-effectively confined over 1 billion people to their
-apartments and homes since the end of January 2020 and
-continues to disrupt healthcare, wellbeing, and the
-economy. As the situation in China appears to be
-stabilizing, sharp increases in confirmed cases are being
-reported in South Korea, Italy, Japan, and Iran.
+ * aggregate datum, api, application programming interface, [author funder](keyword_author_funder), bcloud, cc by nc nd 4 0, cent tencent com, change data format, [china](keyword_china), china national health commission, [chinese](keyword_chinese), chinese province, chinese province and special district, [city](keyword_city), city in hubei, city in other region, cnhc, code, confirm case, [conflict of interest](keyword_conflict_of_interest), consistent, [copyright holder](keyword_copyright_holder), [coronavirus](keyword_coronavirus), coronavirus covid 19 outbreak statistic and forecast, coronavirus infection, [coronavirus outbreak](keyword_coronavirus_outbreak), dashboard, [dataset](keyword_dataset), [datum](keyword_datum), datum source, datum visualization, death, death rate, disease transmission, [doc](keyword_doc), epidemiologist, [europe](keyword_europe), exponential smoothing, extreme measure, file, [forecast](keyword_forecast), forecasting, [france](keyword_france), functionality, general assembly, github, github repository, global health concern, guangzhou, historical datum, html, [hubei](keyword_hubei), interactive app, interactive web app, [international license](keyword_international_license), iran, [italy](keyword_italy), kraków, locally, manage, mexico, monitor the datum source, news aggregator, none, nongovernmental organization, nongovernmental organization dingxiangyuan, novel coronavirus, official, overwhelmed healthcare system, plot, [poland](keyword_poland), [province](keyword_province), [public](keyword_public), [public health](keyword_public_health), r package, real time datum, repository, [research](keyword_research), [researcher](keyword_researcher), rstudio, scientist, shiny framework, software, [south korea](keyword_south_korea), [spain](keyword_spain), special district, [spread](keyword_spread), [statistic](keyword_statistic), [study](keyword_study), supp, suppl, tencent, toutiao api, [united nations](keyword_united_nations), [united states](keyword_united_states), web app, web base, world health organization, [wuhan](keyword_wuhan), zhejiang
 
 
 ## Concepts
 
  ![](imgs/article_wu_open-source_2020.jpg)
 
-### Closest articles 
 
-* [The effect of human mobility and control measures on the COVID-19 epidemic in China](article_kraemer_effect_2020)
-* [](article_mehtab_alam_role_2021)
-* [Study of COVID-19 pandemic in London (UK) from urban context](article_ghosh_study_2020)
-* [Climate and the spread of COVID-19](article_chen_climate_2021)
-* [Retail Signage During the COVID-19 Pandemic](article_mcneish_retail_2020)
-* [Covid-19 and community mitigation strategies in a pandemic](article_ebrahim_covid-19_2020)
-* [Coronavirus disease 2019: The harms of exaggerated information and non‐evidence‐based measures](article_ioannidis_coronavirus_2020)
-* [Response to COVID-19 in Taiwan](article_wang_response_2020)
-* [The Socio-Spatial Determinants of COVID-19 Diffusion: The Impact of Globalisation, Settlement Characteristics and Population](article_sigler_socio-spatial_2020)
-* [Attitudes towards outdoor and neighbour noise during the COVID-19 lockdown: A case study in London](article_lee_attitudes_2021)
 
+## Neighbours
+
+### Closest articles
+
+* The effect of human mobility and control measures on the COVID-19 epidemic in China - [LINK](article_kraemer_effect_2020)
+*  - [LINK](article_mehtab_alam_role_2021)
+* Contributions to the mitigation of the COVID-19 pandemic - [LINK](article_pilz_contributions_2022)
+* Coronavirus disease 2019: The harms of exaggerated information and non‐evidence‐based measures - [LINK](article_ioannidis_coronavirus_2020)
+* Study of COVID-19 pandemic in London (UK) from urban context - [LINK](article_ghosh_study_2020)
+* Supporting Technologies for COVID-19 Prevention: Systemized Review - [LINK](article_zhao_supporting_2022)
+* Covid-19 and community mitigation strategies in a pandemic - [LINK](article_ebrahim_covid-19_2020)
+* Response to COVID-19 in Taiwan - [LINK](article_wang_response_2020)
+* Emergency Healthcare Facilities: Managing Design in a Post Covid-19 World - [LINK](article_marinelli_emergency_2020)
+* COVID-19 Prevention and Control Measures in Workplace Settings: A Rapid Review and Meta-Analysis - [LINK](article_ingram_covid-19_2021)
+
+
+### Closest BPs
+
+* Blueprint: Resilience in staffing and skills training - [LINK](bp_12)
+* Blueprint: Monitoring of wastewater [CID] - [LINK](bp_21)
+* Blueprint: Installing high-efficiency air filters - [LINK](bp_11)

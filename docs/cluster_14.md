@@ -1,16 +1,17 @@
-# Cluster: __resilience-system__ (cluster14)
+# Cluster: __space-flexible__ (Cluster_14)
+
 ## Keywords
 
-* [resilience](keyword_resilience), [system](keyword_system), [analysis](keyword_analysis), [shock](keyword_shock), [risk](keyword_risk), [health](keyword_health), [oecd](keyword_oecd), [workshop](keyword_workshop), [roadmap](keyword_roadmap), [community](keyword_community), [pack](keyword_pack), [asset](keyword_asset), [indicator](keyword_indicator), [metric](keyword_metric), [programming](keyword_programming), [impact](keyword_impact), [briefing](keyword_briefing), [action](keyword_action), [congo](keyword_congo), [capacity](keyword_capacity)
+ * [blog](keyword_blog), [breakout](keyword_breakout), [clifton](keyword_clifton), [company](keyword_company), [customer](keyword_customer), [demo](keyword_demo), [desk](keyword_desk), [employee](keyword_employee), [flexible](keyword_flexible), [impact](keyword_impact), [login](keyword_login), [office](keyword_office), [pivot](keyword_pivot), [request](keyword_request), [resource](keyword_resource), [sale](keyword_sale), [space](keyword_space), [type](keyword_type), [workplace](keyword_workplace), [workspace](keyword_workspace)
+
+
 
 ## Concepts
 
  ![](imgs/cluster_14.jpg)
 
 
-## Articles
 
-* A review of definitions and measures of system
-resilience ([hosseini_review_2016](article_hosseini_review_2016))
-* oecd_guidelines_2014 ([oecd_guidelines_2014](article_oecd_guidelines_2014))
-* who_strengthening_2017 ([who_strengthening_2017](article_who_strengthening_2017))
+# Linked articles
+
+* The COVID-19 Impact on Flexible Office Space - [LINK](article_clifton_covid-19_2020)

@@ -1,77 +1,39 @@
-# Article: __RESIDENTIAL ARCHITECTURE IN A POST-PANDEMIC WORLD: IMPLICATIONS OF COVID-19 FOR NEW CONSTRUCTION AND FOR ADAPTING HERITAGE BUILDINGS__ (spennemann_residential_2021)
+# Article: RESIDENTIAL ARCHITECTURE IN A POST-PANDEMIC WORLD: IMPLICATIONS OF COVID-19 FOR NEW CONSTRUCTION AND FOR ADAPTING HERITAGE BUILDINGS (spennemann_residential_2021)
 
-* [10.3992/jgb.16.1.199](https://doi.org/10.3992/jgb.16.1.199)
-* Cluster: [health-building](cluster_9)
+* Source: [10.3992/jgb.16.1.199](https://doi.org/10.3992/jgb.16.1.199)
+* Year: 2021
+* Cluster: [building-space](cluster_9)
+
 
 
 ## Keywords
 
-* [covid-19](keyword_covid-19), [coronavirus](keyword_coronavirus), [australia](keyword_australia), [pandemic](keyword_pandemic), [covid 19 pandemic](keyword_covid_19_pandemic), [aerosol](keyword_aerosol), [sydney](keyword_sydney), [social distancing](keyword_social_distancing), [coronavirus disease](keyword_coronavirus_disease), [design](keyword_design), containment space, [bedroom](keyword_bedroom), residential space, bathroom, [symptom](keyword_symptom)
-
-
-
-## Keywords at large
-
-* [covid-19](keyword_covid-19), [coronavirus](keyword_coronavirus), [australia](keyword_australia), [pandemic](keyword_pandemic), [covid 19 pandemic](keyword_covid_19_pandemic), [aerosol](keyword_aerosol), [social distancing](keyword_social_distancing), [sydney](keyword_sydney), [coronavirus disease](keyword_coronavirus_disease), [design](keyword_design)
-
-## Abstract
-
-ABSTRACT COVID-19 has highlighted the disruptive,
-cross-sectorial effects a sudden-onset pandemic has on a
-globally interconnected world. A particularly insidious
-component is the high percentage of asymptomatic cases
-allowing the virus to seed undetected. The design of
-residential architecture will need to adapt to the new
-reality that COVID-19 will not be the last coronavirus
-epidemic. This paper discusses the implications of COVID-19
-for new residential construction. It argues for a
-containment space, separating the largely uncontrollable
-external environment from the internal threat-reduced
-residential space, for a separation of visitor
-entertainment areas and private sleeping areas, as well as
-the design of a spatially separated master bedroom that can
-double as a self-isolation space if the need arises. The
-implications of this new design on existing housing stock
-are also discussed. The advocated concepts are novel and
-advance the design considerations for future residential
-developments.
+ * 1890s, 1940, 1950, abdelmaksoud, adaptive reuse, [aerosol](keyword_aerosol), [air conditioning](keyword_air_conditioning), airborne transmission, airflow, allergy, apartment building, [architectural style](keyword_architectural_style), asymptomatic, [australia](keyword_australia), ba, bastianini, bathroom, [bedroom](keyword_bedroom), bierwirth, [brazil](keyword_brazil), build stock, [canada](keyword_canada), clothing, containment space, [coronavirus](keyword_coronavirus), coronavirus disease, [covid 19 pandemic](keyword_covid_19_pandemic), [covid-19](keyword_covid-19), [design](keyword_design), [disinfection](keyword_disinfection), door, drawing room, ducte, early twentieth century, elevator, en suite, evolution, fishery, food supply chain, francis, front room, garage, geneva, geography, hand hygiene, [health](keyword_health), [humidity](keyword_humidity), immunology, [infection](keyword_infection), [influenza](keyword_influenza), kirschstein, kitchen, kraków, la la, late nineteenth, living room, [lockdown](keyword_lockdown), [logistic](keyword_logistic), master bedroom, [mer cov](keyword_mer_cov), migrant worker, mouth, navarini, [new south wale](keyword_new_south_wale), nose, panama, [pandemic](keyword_pandemic), [poland](keyword_poland), [public health](keyword_public_health), relative humidity, residential space, sar cov, [sar cov 2](keyword_sar_cov_2), self isolation, self isolation space, severe acute respiratory syndrome coronavirus 2, [social distancing](keyword_social_distancing), spennemann, ssrn, ssrn 3593098, stability, [sydney](keyword_sydney), [symptom](keyword_symptom), taylor francis, [technology](keyword_technology), [temperature](keyword_temperature), textile science, [toilet](keyword_toilet), [toronto](keyword_toronto), [tourism](keyword_tourism), [transmission](keyword_transmission), [transport](keyword_transport), [united kingdom](keyword_united_kingdom), universal design, utopia, [vaccine](keyword_vaccine), [ventilation](keyword_ventilation), [virus](keyword_virus), world health organisation, zoonotic
 
 
 ## Concepts
 
  ![](imgs/article_spennemann_residential_2021.jpg)
 
-### Closest articles 
-
-* [Adaptive Design of the Built Environment to Mitigate the Transmission Risk of COVID-19](article_ara_dilshad_shangi_adaptive_2020)
-* [How the Coronavirus Will Reshape Architecture](article_chayka_how_2020)
-* [realdania_refleksioner_2022_EN](article_realdania_refleksioner_2022_EN)
-* [Architectural Design Drives the Biogeography of Indoor Bacterial Communities](article_kembel_architectural_2014)
-* [](article_dalessandro_covid-19_2020)
-* [The COVID-19 Impact on Flexible Office Space](article_clifton_covid-19_2020)
-* [Prophylactic Architecture: Formulating the Concept of Pandemic-Resilient Homes](article_elrayies_prophylactic_2022)
-* [How is COVID-19 Experience Transforming Sustainability Requirements of Residential Buildings? A Review](article_tokazhanov_how_2020)
-* [How our homes impact our health: using a COVID-19 informed approach to examine urban apartment housing](article_peters_how_2020)
-* [COVID-19 and Green Housing: A Review of Relevant Literature](article_kaklauskas_covid-19_2021)
-
-### References 
-
-* [Far-UVC light (222 nm) efficiently and safely
-inactivates airborne human coronaviruses](article_buonanno_far-uvc_2020)
-* [2019 Novel Coronavirus (COVID-19) Pandemic:
-Built Environment Considerations To Reduce
-Transmission](article_dietz_2019_2020)
-* [Antivirus-built environment: Lessons learned from
-Covid-19 pandemic](article_megahed_antivirus-built_2020)
-* [How can airborne transmission of COVID-19 indoors be
-minimised?](article_morawska_how_2020)
-* [Public housing and COVID-19: contestation, challenge and
-change](article_power_public_2020)
-* [Aerosol and Surface Stability of SARS-CoV-2 as
-Compared with SARS-CoV-1](article_van_doremalen_aerosol_2020)
-
-### Cited by 
 
 
-* [Prophylactic Architecture: Formulating the Concept
-of Pandemic-Resilient Homes](article_elrayies_prophylactic_2022)
+## Neighbours
+
+### Closest articles
+
+* Designing for COVID-2x: Reflecting on Future-Proofing Human Habitation for the Inevitable Next Pandemic - [LINK](article_spennemann_designing_2022)
+* Adaptive Design of the Built Environment to Mitigate the Transmission Risk of COVID-19 - [LINK](article_ara_dilshad_shangi_adaptive_2020)
+* Houses amid COVID-19: Environmental challenges and design adaptation - [LINK](article_hizra_houses_2021)
+* How the Coronavirus Will Reshape Architecture - [LINK](article_chayka_how_2020)
+* Antivirus-built environment: Lessons learned from Covid-19 pandemic - [LINK](article_megahed_antivirus-built_2020)
+*  - [LINK](article_dalessandro_covid-19_2020)
+* How Architecture Fails in Conditions of Crisis: a Discussion on the Value of Interior Design over the COVID-19 Outbreak - [LINK](article_rassia_how_2020)
+* COVID-19 Could Leverage a Sustainable Built Environment - [LINK](article_pinheiro_covid-19_2020)
+* COVID-19 Lessons for a Resilient Built Environment: A Roadmap - [LINK](article_hull_covid-19_2020)
+
+
+### Closest BPs
+
+* Blueprint: Architecture design - [LINK](bp_2)
+* Blueprint: Building Adaptation during a pandemic - [LINK](bp_14)
+* Blueprint: Tender support at building stage - [LINK](bp_9)

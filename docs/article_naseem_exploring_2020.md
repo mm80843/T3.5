@@ -1,95 +1,40 @@
-# Article: __Exploring the Potential of Artificial Intelligence and Machine Learning to Combat COVID-19 and Existing Opportunities for LMIC: A Scoping Review__ (naseem_exploring_2020)
+# Article: Exploring the Potential of Artificial Intelligence and Machine Learning to Combat COVID-19 and Existing Opportunities for LMIC: A Scoping Review (naseem_exploring_2020)
 
-* [10.1177/2150132720963634](https://doi.org/10.1177/2150132720963634)
-* Cluster: [blockchain-ai](cluster_11)
+* Source: [10.1177/2150132720963634](https://doi.org/10.1177/2150132720963634)
+* Year: 2020
+* Cluster: [datum-ai](cluster_1)
+
 
 
 ## Keywords
 
-* [artificial intelligence](keyword_artificial_intelligence), [covid-19](keyword_covid-19), [machine learning](keyword_machine_learning), [deep learning](keyword_deep_learning), [covid 19 pandemic](keyword_covid_19_pandemic), [pandemic](keyword_pandemic), [datum mining](keyword_datum_mining), [blockchain](keyword_blockchain), [neural network](keyword_neural_network), primary care, [public health](keyword_public_health), [research](keyword_research), scope review, [ai](keyword_ai), [china](keyword_china)
-
-
-
-## Keywords at large
-
-* [artificial intelligence](keyword_artificial_intelligence), [covid-19](keyword_covid-19), [machine learning](keyword_machine_learning), [deep learning](keyword_deep_learning), [covid 19 pandemic](keyword_covid_19_pandemic), [pandemic](keyword_pandemic), [datum mining](keyword_datum_mining), [blockchain](keyword_blockchain), [neural network](keyword_neural_network), [ayyoubzadeh sm](keyword_ayyoubzadeh_sm)
-
-## Abstract
-
-Background: In the face of the current time-sensitive
-COVID-19 pandemic, the limited capacity of healthcare
-systems resulted in an emerging need to develop newer
-methods to control the spread of the pandemic. Artificial
-Intelligence (AI), and Machine Learning (ML) have a vast
-potential to exponentially optimize health care research.
-The use of AI-driven tools in LMIC can help in eradicating
-health inequalities and decrease the burden on health
-systems.
-
-Methods: The literature search for this Scoping review was
-conducted through the PubMed database using keywords:
-COVID-19, Artificial Intelligence (AI), Machine Learning
-(ML), and Low Middle-Income Countries (LMIC). Forty-three
-articles were identified and screened for eligibility and
-13 were included in the final review. All the items of this
-Scoping review are reported using guidelines for PRISMA
-extension for scoping reviews (PRISMA-ScR).
-
-Results: Results were synthesized and reported under 4
-themes. (a) The need of AI during this pandemic: AI can
-assist to increase the speed and accuracy of identification
-of cases and through data mining to deal with the health
-crisis efficiently, (b) Utility of AI in COVID-19
-screening, contact tracing, and diagnosis: Efficacy for
-virus detection can a be increased by deploying the smart
-city data network using terminal tracking system along-with
-prediction of future outbreaks, (c) Use of AI in COVID-19
-patient monitoring and drug development: A Deep learning
-system provides valuable information regarding protein
-structures associated with COVID-19 which could be utilized
-for vaccine formulation, and (d) AI beyond COVID-19 and
-opportunities for Low-Middle Income Countries (LMIC): There
-is a lack of financial, material, and human resources in
-LMIC, AI can minimize the workload on human labor and help
-in analyzing vast medical data, potentiating predictive and
-preventive healthcare.
-
-Conclusion: AI-based tools can be a game-changer for
-diagnosis, treatment, and management of COVID-19 patients
-with the potential to reshape the future of healthcare in
-LMIC.
+ * [action](keyword_action), active learning, aga khan university, aim, al23 husnayain, aladinskiy v, [algorithm](keyword_algorithm), allam z, [application](keyword_application), arthroplasty, [artificial intelligence](keyword_artificial_intelligence), authorship, ayyoubzadeh sm, baricitinib, basic science, [big datum](keyword_big_datum), [blockchain](keyword_blockchain), carin l, checklist, chemrxiv, [china](keyword_china), communication, community health, [coronavirus](keyword_coronavirus), [covid 19 pandemic](keyword_covid_19_pandemic), [covid-19](keyword_covid-19), database search, datum mining, [deep learning](keyword_deep_learning), deep neural network, [diabete](keyword_diabete), diagnosis, [digital technology](keyword_digital_technology), dzau v, [epidemic](keyword_epidemic), epidemiol, ge p, goal, goebel, hajra arshad, [health](keyword_health), [health care](keyword_health_care), health care manager, health care system, health inequality, [health system](keyword_health_system), [healthcare](keyword_healthcare), huang s, infect control, [infectious disease](keyword_infectious_disease), interpretation error, jiang c, jones ds, karachi, key word, lehoux p, lillie e, literature review, literature search, low, lung infection, [machine learning](keyword_machine_learning), mackworth, manuscript, methodology, middle income country, neural network, [pandemic](keyword_pandemic), phylogenetic, pneumonia, primary care, prisma scr, [protocol](keyword_protocol), [public health](keyword_public_health), qin, radiological imaging, radiologist, radiology, rao ass, [research](keyword_research), respiratory infection, rheumatoid arthritis, sar epidemic, scope review, shinde t, sokolovskaya e, srinivasa rao asr, synthesis, synthesize, systematic review, [theme](keyword_theme), thorac, thorac dis, tian t, train test model, treatment, [united kingdom](keyword_united_kingdom), university of oxford, vazquez ja, who timeline
 
 
 ## Concepts
 
  ![](imgs/article_naseem_exploring_2020.jpg)
 
-### Closest articles 
-
-* [Pandemic Analytics: How Countries are Leveraging Big Data Analytics and Artificial Intelligence to Fight COVID-19?](article_mehta_pandemic_2021)
-* [Digital technology and COVID-19](article_ting_digital_2020)
-* [](article_huy-tran_design_2022)
-* [Towards the sustainable development of smart cities through mass video surveillance: A response to the COVID-19 pandemic](article_shorfuzzaman_towards_2021)
-* [Coronavirus: Can artificial intelligence be smart enough
-to detect fake news?](article_tong_coronavirus_2020)
-* [The Smart City and Covid‐19](article_webb_smart_2020)
-* [Blockchain technology and its applications to combat COVID-19 pandemic](article_sharma_blockchain_2022)
-* [COVID-19 Higher Mortality in Chinese Regions With Chronic Exposure to Lower Air Quality](article_pansini_covid-19_2021)
-* [Air pollution linked with higher COVID-19 death rates](article_harvard_th_chan_schoold_of_public_health_air_2020)
-* [The three modes of existence of the pandemic smart city](article_soderstrom_three_2021)
-
-### References 
-
-* [Digital technology and COVID-19](article_ting_digital_2020)
-* [On the Coronavirus (COVID-19) Outbreak and the
-Smart City Network: Universal Data Sharing
-Standards Coupled with Artificial Intelligence
-(AI) to Benefit Urban Health Monitoring and
-Management](article_allam_coronavirus_2020)
-
-### Cited by 
 
 
-* [Contributions of Smart City Solutions and
-Technologies to Resilience against the COVID-19
-Pandemic: A Literature Review](article_sharifi_contributions_2021)
+## Neighbours
+
+### Closest articles
+
+* Pandemic Analytics: How Countries are Leveraging Big Data Analytics and Artificial Intelligence to Fight COVID-19? - [LINK](article_mehta_pandemic_2021)
+* Digital technology and COVID-19 - [LINK](article_ting_digital_2020)
+* A Comprehensive Review of the COVID-19 Pandemic and the Role of IoT, Drones, AI, Blockchain, and 5G in Managing its Impact - [LINK](article_chamola_comprehensive_2020)
+* Emerging Technologies to Combat the COVID-19 Pandemic - [LINK](article_vaishya_emerging_2020)
+* Leveraging Digital Transformation Technologies to Tackle COVID-19: Proposing a Privacy-First Holistic Framework - [LINK](article_arpaci_leveraging_2021)
+* Internet of things (IoT) applications to fight against COVID-19 pandemic - [LINK](article_singh_internet_2020)
+* Emergency Healthcare Facilities: Managing Design in a Post Covid-19 World - [LINK](article_marinelli_emergency_2020)
+* Health Information Exchange with Blockchain amid Covid-19-like Pandemics - [LINK](article_christodoulou_health_2020)
+* Blockchain technology and its applications to combat COVID-19 pandemic - [LINK](article_sharma_blockchain_2022)
+* Supporting Technologies for COVID-19 Prevention: Systemized Review - [LINK](article_zhao_supporting_2022)
+
+
+### Closest BPs
+
+* Blueprint: Monitoring of wastewater [CID] - [LINK](bp_21)
+* Blueprint: Resilience in staffing and skills training - [LINK](bp_12)
+* Blueprint: Public places as information points - [LINK](bp_8)

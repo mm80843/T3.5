@@ -1,99 +1,39 @@
-# Article: __Antivirus-built environment: Lessons learned from Covid-19 pandemic__ (megahed_antivirus-built_2020)
+# Article: Antivirus-built environment: Lessons learned from Covid-19 pandemic (megahed_antivirus-built_2020)
 
-* [10.1016/j.scs.2020.102350](https://doi.org/10.1016/j.scs.2020.102350)
-* Cluster: [health-building](cluster_9)
+* Source: [10.1016/j.scs.2020.102350](https://doi.org/10.1016/j.scs.2020.102350)
+* Year: 2020
+* Cluster: [city-urban](cluster_7)
+
 
 
 ## Keywords
 
-* [pandemic](keyword_pandemic), [covid-19](keyword_covid-19), [architecture](keyword_architecture), [build environment](keyword_build_environment), [city](keyword_city), [design](keyword_design), [antivirus](keyword_antivirus), [covid 19 pandemic](keyword_covid_19_pandemic), [urbanism](keyword_urbanism), [infection](keyword_infection), [coronavirus](keyword_coronavirus), [environment](keyword_environment), [architect](keyword_architect), [build](keyword_build), work from home
-
-
-
-## Keywords at large
-
-* [pandemic](keyword_pandemic), [covid-19](keyword_covid-19), [architecture](keyword_architecture), [design](keyword_design), [build environment](keyword_build_environment), [city](keyword_city), [antivirus](keyword_antivirus), [covid 19 pandemic](keyword_covid_19_pandemic), [urbanism](keyword_urbanism), [infection](keyword_infection)
+ * abd elhafeez, advanced technology, alsafi, antivirus, [architect](keyword_architect), [architecture](keyword_architecture), [artificial intelligence](keyword_artificial_intelligence), [build](keyword_build), [build environment](keyword_build_environment), [building](keyword_building), [city](keyword_city), city planning, [clifton](keyword_clifton), competition, [construction](keyword_construction), construction strategy, [coronavirus](keyword_coronavirus), covid 19 outbreak, [covid 19 pandemic](keyword_covid_19_pandemic), [covid-19](keyword_covid-19), [crisis](keyword_crisis), cybersecurity, cycling, decentralization, [design](keyword_design), [digital transformation](keyword_digital_transformation), [disease](keyword_disease), elevator, elmokadem, [environment](keyword_environment), [epidemic](keyword_epidemic), ermacora, [europe](keyword_europe), [european union](keyword_european_union), farm, fear of infection, food production, future, global pandemic, [health](keyword_health), [hospital](keyword_hospital), [housing](keyword_housing), hygiene, [infection](keyword_infection), [infectious disease](keyword_infectious_disease), kashdan, kerwan, [lockdown](keyword_lockdown), [london](keyword_london), madani, megahe, [microorganism](keyword_microorganism), modular, muggah, [nature](keyword_nature), [new york](keyword_new_york), [office](keyword_office), [pandemic](keyword_pandemic), [plan](keyword_plan), planner, planning theory, post-pandemic, pourdeihimi, prefabricate, prevention, [professional](keyword_professional), [public health](keyword_public_health), [public space](keyword_public_space), [quarantine](keyword_quarantine), ranson, related question, [research](keyword_research), routledge, saadat, science, self sufficient, skyscraper, [social distancing](keyword_social_distancing), [society](keyword_society), [spread](keyword_spread), [sustainability](keyword_sustainability), [sustainable](keyword_sustainable), [sustainable architecture](keyword_sustainable_architecture), sustainable city, [sustainable development](keyword_sustainable_development), [technology](keyword_technology), term, terrace, [transmission](keyword_transmission), transmit, [urban](keyword_urban), urban farming, [urban planning](keyword_urban_planning), urban story, [urbanism](keyword_urbanism), vaishya, [virus](keyword_virus), walk, work from home, [workspace](keyword_workspace)
 
 
 ## Concepts
 
  ![](imgs/article_megahed_antivirus-built_2020.jpg)
 
-### Closest articles 
-
-* [COVID-19 Could Leverage a Sustainable Built Environment](article_pinheiro_covid-19_2020)
-* [Coronavirus questions that will not go away: interrogating urban and socio-spatial implications of COVID-19 measures](article_salama_coronavirus_2020)
-* [Epidemics, Planning and the City: A Special Issue of Planning Perspectives](article_davis_epidemics_2022)
-* [COVID-19 Pandemic: Rethinking Strategies for
-Resilient Urban Design, Perceptions, and
-Planning](article_afrin_covid-19_2021)
-* [Learning from pandemics: Applying resilience thinking to identify priorities for planning urban settlements](article_syal_learning_2021)
-* [Respiratory pandemics, urban planning and design: A multidisciplinary rapid review of the literature](article_harris_respiratory_2022)
-* [The Impact of COVID-19 on Public Space: A Review of the Emerging Questions](article_honey-roses_impact_2020)
-* [COVID-19 Lessons for a Resilient Built
-Environment: A Roadmap](article_hull_covid-19_2020)
-* [COVID-19: Lessons for an Urban(izing) World](article_acuto_covid-19_2020)
-* [Biophilic design in architecture and its contributions to health, well-being, and sustainability: A critical review](article_zhong_biophilic_2022)
-
-### References 
-
-* [COVID-19: Lessons for an Urban(izing) World](article_acuto_covid-19_2020)
-* [Pandemic stricken cities on lockdown. Where are our
-planning and design professionals [now, then and into the
-future]?](article_allam_pandemic_2020)
-* [Using Technology to Maintain the Education of
-Residents During the COVID-19 Pandemic](article_chick_using_2020)
-* [COVID-19 Pandemic: Prevention and Protection
-Measures to Be Adopted at the Workplace](article_cirrincione_covid-19_2020)
-* [2019 Novel Coronavirus (COVID-19) Pandemic:
-Built Environment Considerations To Reduce
-Transmission](article_dietz_2019_2020)
-* [How COVID-19 Redefines the Concept of
-Sustainability](article_hakovirta_how_2020)
-* [The socio-economic implications of the coronavirus
-pandemic (COVID-19): A review](article_nicola_socio-economic_2020)
-* [Nurture to nature via COVID-19, a self-regenerating
-environmental strategy of environment in global context](article_paital_nurture_2020)
-* [Mental Health and the Covid-19 Pandemic](article_pfefferbaum_mental_2020)
-* [COVID-19: A new digital dawn?](article_robbins_covid-19_2020)
-
-### Cited by 
 
 
-* [A Review on Building Design as a Biomedical
-System for Preventing COVID-19 Pandemic](article_amran_review_2022)
-* [Housing Experience in Gated Communities in the
-Time of Pandemics: Lessons Learned from
-COVID-19](article_asfour_housing_2022)
-* [A Mixed Approach on Resilience of Spanish
-Dwellings and Households during COVID-19 Lockdown](article_cuerdo-vilches_mixed_2020)
-* [Treating two pandemics for the price of one: Chronic and
-infectious disease impacts of the built and natural
-environment](article_frank_treating_2021)
-* [Addressing the impact of COVID-19 lockdown on energy use
-in municipal buildings: A case study in Florianópolis,
-Brazil](article_geraldi_addressing_2021)
-* [Strategies to Mitigate COVID-19 Pandemic Impacts
-on Health and Safety of Workers in Construction
-Projects](article_kaushal_strategies_2021)
-* [Indoor Air Quality: Rethinking rules of building
-design strategies in post-pandemic architecture](article_megahed_indoor_2021)
-* [Designing Post COVID-19 Buildings: Approaches for
-Achieving Healthy Buildings](article_navaratnam_designing_2022)
-* [COVID-19 Experience Transforming the Protective
-Environment of Office Buildings and Spaces](article_phapant_covid-19_2021)
-* [RESIDENTIAL ARCHITECTURE IN A POST-PANDEMIC
-WORLD: IMPLICATIONS OF COVID-19 FOR NEW
-CONSTRUCTION AND FOR ADAPTING HERITAGE
-BUILDINGS](article_spennemann_residential_2021)
-* [Readiness Assessment of Green Building
-Certification Systems for Residential Buildings
-during Pandemics](article_tleuken_readiness_2021)
-* [Assessment method for new sustainability indicators
-providing pandemic resilience for residential buildings](article_tokazhanov_assessment_2021)
-* [How is COVID-19 Experience Transforming
-Sustainability Requirements of Residential
-Buildings? A Review](article_tokazhanov_how_2020)
-* [Impact of COVID-19 on IoT Adoption in Healthcare,
-Smart Homes, Smart Buildings, Smart Cities,
-Transportation and Industrial IoT](article_umair_impact_2021)
+## Neighbours
+
+### Closest articles
+
+* Houses amid COVID-19: Environmental challenges and design adaptation - [LINK](article_hizra_houses_2021)
+* Impact of Covid-19 on the built environment - [LINK](article_mahima_impact_2022)
+* Designing for COVID-2x: Reflecting on Future-Proofing Human Habitation for the Inevitable Next Pandemic - [LINK](article_spennemann_designing_2022)
+* RESIDENTIAL ARCHITECTURE IN A POST-PANDEMIC WORLD: IMPLICATIONS OF COVID-19 FOR NEW CONSTRUCTION AND FOR ADAPTING HERITAGE BUILDINGS - [LINK](article_spennemann_residential_2021)
+* The Impact of COVID-19 on Public Space: A Review of the Emerging Questions - [LINK](article_honey-roses_impact_2020)
+* Adaptive Design of the Built Environment to Mitigate the Transmission Risk of COVID-19 - [LINK](article_ara_dilshad_shangi_adaptive_2020)
+* The COVID-19 Impact on Flexible Office Space - [LINK](article_clifton_covid-19_2020)
+* How the Coronavirus Will Reshape Architecture - [LINK](article_chayka_how_2020)
+* COVID-19 Lessons for a Resilient Built Environment: A Roadmap - [LINK](article_hull_covid-19_2020)
+
+
+### Closest BPs
+
+* Blueprint: Architecture design - [LINK](bp_2)
+* Blueprint: Building Adaptation during a pandemic - [LINK](bp_14)
+* Blueprint: Tender support at building stage - [LINK](bp_9)

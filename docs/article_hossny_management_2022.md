@@ -1,83 +1,39 @@
-# Article: __Management of the COVID-19 pandemic: challenges, practices, and organizational support__ (hossny_management_2022)
+# Article: Management of the COVID-19 pandemic: challenges, practices, and organizational support (hossny_management_2022)
 
-* [10.1186/s12912-022-00972-5](https://doi.org/10.1186/s12912-022-00972-5)
-* Cluster: [health-building](cluster_9)
+* Source: [10.1186/s12912-022-00972-5](https://doi.org/10.1186/s12912-022-00972-5)
+* Year: 2022
+* Cluster: [building-space](cluster_9)
+
 
 
 ## Keywords
 
-* [nursing](keyword_nursing), [nurse](keyword_nurse), [hospital](keyword_hospital), [covid 19 pandemic](keyword_covid_19_pandemic), [physician](keyword_physician), [pandemic](keyword_pandemic), [covid-19](keyword_covid-19), [management](keyword_management), [anxiety](keyword_anxiety), [egypt](keyword_egypt), nursing manager, [healthcare](keyword_healthcare), [crisis management](keyword_crisis_management), psychological problem, [infection control](keyword_infection_control)
-
-
-
-## Keywords at large
-
-* [nursing](keyword_nursing), [hospital](keyword_hospital), [nurse](keyword_nurse), [covid 19 pandemic](keyword_covid_19_pandemic), [pandemic](keyword_pandemic), [physician](keyword_physician), [covid-19](keyword_covid-19), [management](keyword_management), [anxiety](keyword_anxiety), [egypt](keyword_egypt)
-
-## Abstract
-
-Abstract
-
-Background Health organizations currently face tremendous
-challenges in the management of the COVID-19 pandemic. To
-do this, successful and proven scientific practices and
-support are needed.
-
-Aim This study aimed to explore the challenges, practices,
-and organizational support dealt with by nursing managers
-in the management of the COVID-19 pandemic.
-
-Method A qualitative content analysis study evaluated 35
-nursing managers in five university hospitals through a
-semi-structured interview. The Consolidated Criteria for
-Reporting Qualitative Research were used for this
-qualitative study.
-
-Results Three main themes emerged: Challenges include the
-development of a COVID-19 crisis management plan, a
-shortage in nursing staff, and psychological problems.
-Practices include; changes in work schedules for nursing
-staff, the exchange process, hospital preparation, and
-training and education. And organizational support includes
-both support at an organizational level and support at an
-individual level.
-
-Conclusion This study revealed that nursing managers are
-faced with many challenges in the management of COVID-19,
-requiring good practices and organizational support. This
-study offers evidence for nursing managers to expect
-problems that may arise during the pandemic.
-
-Recommendations The COVID-19 pandemic requires the
-development of an integrated plan, and this plan must be
-disseminated to the hospital’s nursing and medical teams
-to better equip them for the current and future crises.
+ * aboteage hospital, absenteeism, age, analysis, antiseptic, [anxiety](keyword_anxiety), bmc, child, [china](keyword_china), clean area, communication, contaminate area, coreq, [coronavirus](keyword_coronavirus), [covid 19 pandemic](keyword_covid_19_pandemic), [covid-19](keyword_covid-19), [crisis](keyword_crisis), crisis management, crisis management plan, [datum](keyword_datum), day, death, [depression](keyword_depression), [education](keyword_education), egypt, egyptian, elevator, emotion, esna hospital, [fear](keyword_fear), general hospital, green zone, guba, head nurse, [health](keyword_health), [health care](keyword_health_care), [healthcare](keyword_healthcare), healthcare personnel, healthcare professional, healthcare system, healthcare worker, [hospital](keyword_hospital), hospital manager, hospital preparation, hossny, individual level, [infection](keyword_infection), [infection control](keyword_infection_control), interview, [isolation](keyword_isolation), isolation hospital, isolation room, j infect control, j nurs manag, jafar, jama, [knowledge](keyword_knowledge), management, [manager](keyword_manager), [medical](keyword_medical), medical staff, medical team, ministry of health, night, nurs, [nurse](keyword_nurse), [nursing](keyword_nursing), nursing director, nursing manager, nursing staff, open, organizational level, organizational support, [pandemic](keyword_pandemic), [patient](keyword_patient), [personal protective equipment](keyword_personal_protective_equipment), physician, [psychological](keyword_psychological), psychological problem, [public health](keyword_public_health), [qualitative](keyword_qualitative), qualitative research, rapid response team, [research](keyword_research), rural area, scientific practice, shift, shortage of nursing staff, [staff](keyword_staff), staircase, [statistic](keyword_statistic), subtheme, [symptom](keyword_symptom), training, triage, university hospital, work hour, world health organization, [wuhan](keyword_wuhan), zone
 
 
 ## Concepts
 
  ![](imgs/article_hossny_management_2022.jpg)
 
-### Closest articles 
-
-* [Supporting Technologies for COVID-19 Prevention: Systemized Review](article_zhao_supporting_2022)
-* [DeepSOCIAL: Social Distancing Monitoring and Infection Risk Assessment in COVID-19 Pandemic](article_rezaei_deepsocial_2020)
-* [Using Technology to Maintain the Education of Residents During the COVID-19 Pandemic](article_chick_using_2020)
-* [Case Study on Finnish TVETA Resilient Model of
-Training During COVID-19](article_unesco_case_2021)
-* [Digital Twin of COVID-19 Mass Vaccination Centers](article_pilati_digital_2021)
-* [COVID-19 Prevention and Control Measures in Workplace Settings: A Rapid Review and Meta-Analysis](article_ingram_covid-19_2021)
-* [Physical interventions to interrupt or reduce the spread of respiratory viruses: systematic review](article_jefferson_physical_2008)
-* [COVID-19: A new digital dawn?](article_robbins_covid-19_2020)
-* [Reframe how to serve your community in the midst of a pandemic](article_sutton_reframe_2020)
-* [COVID-ABS: An agent-based model of COVID-19 epidemic to simulate health and economic effects of social distancing interventions](article_silva_covid-abs_2020)
-
-### References 
-
-* [Health, Economic and Social Development Challenges
-of the COVID-19 Pandemic: Strategies for Multiple
-and Interconnected Issues](article_panneer_health_2022)
-
-### Cited by 
 
 
+## Neighbours
+
+### Closest articles
+
+* Emergency Healthcare Facilities: Managing Design in a Post Covid-19 World - [LINK](article_marinelli_emergency_2020)
+* COVID-19: A new digital dawn? - [LINK](article_robbins_covid-19_2020)
+* Sustainable work throughout the life course: National policies and strategies, Publications Office of the European Union - [LINK](article_eurofund_sustainable_2016)
+* Response to COVID-19 in Taiwan - [LINK](article_wang_response_2020)
+* Using Technology to Maintain the Education of Residents During the COVID-19 Pandemic - [LINK](article_chick_using_2020)
+* Case Study on Finnish TVETA Resilient Model of Training During COVID-19 - [LINK](article_unesco_case_2021)
+*  - [LINK](article_mehtab_alam_role_2021)
+* Supporting Technologies for COVID-19 Prevention: Systemized Review - [LINK](article_zhao_supporting_2022)
+* Significant applications of virtual reality for COVID-19 pandemic - [LINK](article_singh_significant_2020)
+
+
+### Closest BPs
+
+* Blueprint: Resilience in staffing and skills training - [LINK](bp_12)
+* Blueprint: Monitoring of wastewater [CID] - [LINK](bp_21)
+* Blueprint: Public places as information points - [LINK](bp_8)

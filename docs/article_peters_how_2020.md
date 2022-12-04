@@ -1,69 +1,40 @@
-# Article: __How our homes impact our health: using a COVID-19 informed approach to examine urban apartment housing__ (peters_how_2020)
+# Article: How our homes impact our health: using a COVID-19 informed approach to examine urban apartment housing (peters_how_2020)
 
-* [10.1108/ARCH-08-2020-0159](https://doi.org/10.1108/ARCH-08-2020-0159)
-* Cluster: [health-building](cluster_9)
+* Source: [10.1108/ARCH-08-2020-0159](https://doi.org/10.1108/ARCH-08-2020-0159)
+* Year: 2020
+* Cluster: [building-space](cluster_9)
+
 
 
 ## Keywords
 
-* [covid-19](keyword_covid-19), [housing](keyword_housing), [canada](keyword_canada), [sleep](keyword_sleep), [balcony](keyword_balcony), [toronto](keyword_toronto), [health](keyword_health), [home](keyword_home), [thermal comfort](keyword_thermal_comfort), [pandemic](keyword_pandemic), [kitchen](keyword_kitchen), apartment housing, [apartment](keyword_apartment), [mental health](keyword_mental_health), [window](keyword_window)
-
-
-
-## Keywords at large
-
-* [canada](keyword_canada), [housing](keyword_housing), [covid-19](keyword_covid-19), [sleep](keyword_sleep), [balcony](keyword_balcony), [toronto](keyword_toronto), [health](keyword_health), [pandemic](keyword_pandemic), [home](keyword_home), [thermal comfort](keyword_thermal_comfort)
-
-## Abstract
-
-Purpose The COVID-19 global health crisis is undeniably a
-global housing crisis. Our study focuses on quality of life
-in urban mid- and high-rise apartment housing, the fastest
-growing housing types in many cities around the world. This
-housing typology presents unique challenges relating to
-connection to nature, daylight and fresh air.
-
-Design/methodology/approach This multi-disciplinary
-literature review analyzes more than 100 published papers
-from peer-reviewed sources from environmental psychology,
-building science and architecture relevant to quality of
-life in high-rise housing, as well as more than 40 recent
-newspaper and magazine articles about the possible impacts
-of COVID-19 on housing. We identify synergies between
-passive design strategies and health-promoting architecture
-or “restorative environmental design” principles.
-
-Findings Post-pandemic, health-promoting apartment housing
-design must prioritize (1) window placement and views that
-support stress recovery and restoration; (2) lighting
-levels based on spaces that can satisfy multiple uses and
-users; (3) bedrooms designed for restful sleep that
-contribute to circadian regulation; (4) living rooms with
-better indoor air quality, with a focus on natural
-ventilation; (5) access to nature, through the purposeful
-design of balconies and (6) unit sizes and layouts that
-enable physical distancing and prevent crowding.
-
-Originality/value We identify new social and environmental
-design priorities in the form of evidence-based design
-principles to inform and promote healthy and restorative
-living environments for residents in apartment housing.
+ * active building system, active heating and cool system, [anxiety](keyword_anxiety), [apartment](keyword_apartment), apartment building, apartment housing, apartment unit, [architecture](keyword_architecture), architizer, [australia](keyword_australia), [balcony](keyword_balcony), [bedroom](keyword_bedroom), [build](keyword_build), build science, [canada](keyword_canada), cbc, circadian clock, circadian regulation, circadian rhythm, [climate](keyword_climate), comfort, [country](keyword_country), [covid 19 crisis](keyword_covid_19_crisis), [covid-19](keyword_covid-19), [culture](keyword_culture), daylight, daylighte, [design](keyword_design), [disease](keyword_disease), door handle, dwell, elevator, elevator button, [engineering](keyword_engineering), [environment](keyword_environment), floor plan, [health](keyword_health), high rise, [home](keyword_home), [hong kong](keyword_hong_kong), [housing](keyword_housing), housing typology, hwang j, [iaq](keyword_iaq), [indoor air quality](keyword_indoor_air_quality), kesik, kitchen, living room, [lockdown](keyword_lockdown), [london](keyword_london), [loneliness](keyword_loneliness), melatonin, [mental](keyword_mental), [mental health](keyword_mental_health), mood, natural ventilation, naturalness, [nature](keyword_nature), [new south wale](keyword_new_south_wale), o brien, occupant comfort, operable window, ottawa, paimio sanatorium, [pandemic](keyword_pandemic), partner, passive design, passive survivability, physical activity, physical distancing, [physical health](keyword_physical_health), postcovid 19, precovid 19, quality of life, refuge, restful sleep, restorative, roommate, ryerson university, shade, share apartment, share apartment housing, share unit, single family home, [sleep](keyword_sleep), [social housing](keyword_social_housing), [social interaction](keyword_social_interaction), summer, [thermal comfort](keyword_thermal_comfort), [toronto](keyword_toronto), two bedroom, unit, [urban](keyword_urban), urban densification, [ventilation](keyword_ventilation), view, [well be](keyword_well_be), wellness, [window](keyword_window), xue
 
 
 ## Concepts
 
  ![](imgs/article_peters_how_2020.jpg)
 
-### Closest articles 
 
-* [Towards Resilient Residential Buildings and Neighborhoods in Light of COVID-19 Pandemic—The Scenario of Podgorica, Montenegro](article_bojovic_towards_2022)
-* [Questioning the use of the balcony in apartments during the COVID-19 pandemic process](article_aydin_questioning_2020)
-* [Prophylactic Architecture: Formulating the Concept of Pandemic-Resilient Homes](article_elrayies_prophylactic_2022)
-* [realdania_refleksioner_2022_EN](article_realdania_refleksioner_2022_EN)
-* [](article_dalessandro_covid-19_2020)
-* [COVID-19 and Green Housing: A Review of Relevant Literature](article_kaklauskas_covid-19_2021)
-* [A Mixed Approach on Resilience of Spanish Dwellings and Households during COVID-19 Lockdown](article_cuerdo-vilches_mixed_2020)
-* [Housing Experience in Gated Communities in the Time of Pandemics: Lessons Learned from COVID-19](article_asfour_housing_2022)
-* [How the Coronavirus Will Reshape Architecture](article_chayka_how_2020)
-* [How is COVID-19 Experience Transforming Sustainability Requirements of Residential Buildings? A Review](article_tokazhanov_how_2020)
 
+## Neighbours
+
+### Closest articles
+
+* Towards Resilient Residential Buildings and Neighborhoods in Light of COVID-19 Pandemic—The Scenario of Podgorica, Montenegro - [LINK](article_bojovic_towards_2022)
+* Prophylactic Architecture: Formulating the Concept of Pandemic-Resilient Homes - [LINK](article_elrayies_prophylactic_2022)
+*  - [LINK](article_dalessandro_covid-19_2020)
+* COVID-19 and Green Housing: A Review of Relevant Literature - [LINK](article_kaklauskas_covid-19_2021)
+* Public housing and COVID-19: contestation, challenge and change - [LINK](article_power_public_2020)
+* Biophilic design in architecture and its contributions to health, well-being, and sustainability: A critical review - [LINK](article_zhong_biophilic_2022)
+* How Architecture Fails in Conditions of Crisis: a Discussion on the Value of Interior Design over the COVID-19 Outbreak - [LINK](article_rassia_how_2020)
+* How is COVID-19 Experience Transforming Sustainability Requirements of Residential Buildings? A Review - [LINK](article_tokazhanov_how_2020)
+* Dangerous liaisons? Applying the social harm perspective to the social inequality, housing and health trifecta during the Covid-19 pandemic - [LINK](article_gurney_dangerous_2021)
+* Housing Experience in Gated Communities in the Time of Pandemics: Lessons Learned from COVID-19 - [LINK](article_asfour_housing_2022)
+
+
+### Closest BPs
+
+* Blueprint: Architecture design - [LINK](bp_2)
+* Blueprint: Air Cleaning Plants - [LINK](bp_15)
+* Blueprint: Tender support at building stage - [LINK](bp_9)

@@ -1,34 +1,35 @@
-# Keyword: __room__
-## Clusters
+# Keyword: room
 
-* Cluster 0: [air-sars](cluster_0)
-* Cluster 2: [uv-room](cluster_2)
+* [air-uv](cluster_Cluster_2)
+
+* [ward-patient](cluster_Cluster_15)
+
+
+## Keywords
+
+ * Cluster_15, Cluster_2, [air](keyword_air), [air filter](keyword_air_filter), air handling, air sample, air temperature, [anteroom](keyword_anteroom), [apartment](keyword_apartment), banquet, bathroom, [bed](keyword_bed), [bedroom](keyword_bedroom), breathing zone, [build](keyword_build), carpet, ceiling, ceiling fan, [chair](keyword_chair), [class](keyword_class), common area, compartment, confine space, [corridor](keyword_corridor), corridor space, displacement ventilation, [domain](keyword_domain), door, dwell, enclosure, floor, furniture, gapthe, [garden](keyword_garden), heat source, [home](keyword_home), home office, home office space, [hospital](keyword_hospital), hotel, [house](keyword_house), independent isolation room, [indoor](keyword_indoor), indoor location, isolated isolation room, isolation room, live, microbe, mix, mix air distribution, movement, movement of people, negative isolation, no heat source, [occupant](keyword_occupant), open closing window, open window, operating room, optimal arrangement, [patient](keyword_patient), private bathroom, protective environment, rectangular, relative humidity, retrofitting, [room](keyword_room), room air, room air cleaner, room occupancy, rooms, [school](keyword_school), secondary air circulation, secondary air circulation system, [space](keyword_space), space apart, supply air, [toilet](keyword_toilet), underﬂoor ventilation, unit, ventilate, ventilate building, [ventilation](keyword_ventilation), ventilation flow, ventilation rate, ventilation strategy, [ventilation system](keyword_ventilation_system), washroom, well ventilate, [window](keyword_window)
+
 
 ## Concepts
 
  ![](imgs/keyword_room.jpg)
 
 
-## Top 10 articles for __room__
-* Social distancing enhanced automated optimal design of
-physical spaces in the wake of the COVID-19 pandemic ([ugail_social_2021](article_ugail_social_2021))
-* Methods for air cleaning and protection of building
-occupants from airborne pathogens ([bolashikov_methods_2009](article_bolashikov_methods_2009))
-* Review and comparison of HVAC operation guidelines in
-different countries during the COVID-19 pandemic ([guo_review_2021](article_guo_review_2021))
-* Air Disinfection for Airborne Infection Control
-with a Focus on COVID-19: Why Germicidal UV is
-Essential† ([nardell_air_2021](article_nardell_air_2021))
-* Assessment of Building Automation and Control
-Systems in Danish Healthcare Facilities in the
-COVID-19 Era ([pedersen_assessment_2022](article_pedersen_assessment_2022))
-* Occupants’ behavior and activity patterns influencing
-the energy consumption in the Kuwaiti residences ([al-mumin_occupants_2003](article_al-mumin_occupants_2003))
-* Upper-room ultraviolet air disinfection might help to
-reduce COVID-19 transmission in buildings: a feasibility
-study ([beggs_upper-room_2020](article_beggs_upper-room_2020))
-* COVID-19 and Green Housing: A Review of
-Relevant Literature ([kaklauskas_covid-19_2021](article_kaklauskas_covid-19_2021))
-* dyer_covid-19_2020 ([dyer_covid-19_2020](article_dyer_covid-19_2020))
-* Building occupancy estimation with people flow modeling in
-AnyLogic ([li_building_2016](article_li_building_2016))
+
+## Neighbours
+
+### Closest articles
+
+* Social distancing enhanced automated optimal design of physical spaces in the wake of the COVID-19 pandemic - [LINK](article_ugail_social_2021)
+* Methods for air cleaning and protection of building occupants from airborne pathogens - [LINK](article_bolashikov_methods_2009)
+* Review and comparison of HVAC operation guidelines in different countries during the COVID-19 pandemic - [LINK](article_guo_review_2021)
+* Air Disinfection for Airborne Infection Control with a Focus on COVID‐19: Why Germicidal UV is Essential             <sup>†</sup> - [LINK](article_nardell_air_2021)
+* Occupants’ behavior and activity patterns influencing the energy consumption in the Kuwaiti residences - [LINK](article_al-mumin_occupants_2003)
+* Upper-room ultraviolet air disinfection might help to reduce COVID-19 transmission in buildings: a feasibility study - [LINK](article_beggs_upper-room_2020)
+* COVID-19 and Green Housing: A Review of Relevant Literature - [LINK](article_kaklauskas_covid-19_2021)
+* COVID-19 Forced Hospitals to Build Negative Pressure Rooms Fast - [LINK](article_dyer_covid-19_2020)
+* Environmental factors involved in SARS-CoV-2 transmission: effect and role of indoor environmental quality in the strategy for COVID-19 infection control - [LINK](article_azuma_environmental_2020)
+
+
+### Closest BPs
+

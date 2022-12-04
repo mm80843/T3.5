@@ -1,91 +1,40 @@
-# Article: __A Comprehensive Review of the COVID-19 Pandemic and the Role of IoT, Drones, AI, Blockchain, and 5G in Managing its Impact__ (chamola_comprehensive_2020)
+# Article: A Comprehensive Review of the COVID-19 Pandemic and the Role of IoT, Drones, AI, Blockchain, and 5G in Managing its Impact (chamola_comprehensive_2020)
 
-* [10.1109/ACCESS.2020.2992341](https://doi.org/10.1109/ACCESS.2020.2992341)
-* Cluster: [blockchain-ai](cluster_11)
+* Source: [10.1109/ACCESS.2020.2992341](https://doi.org/10.1109/ACCESS.2020.2992341)
+* Year: 2020
+* Cluster: [datum-ai](cluster_1)
+
 
 
 ## Keywords
 
-* [covid-19](keyword_covid-19), [covid 19 pandemic](keyword_covid_19_pandemic), [blockchain](keyword_blockchain), [china](keyword_china), [vaccine](keyword_vaccine), [coronavirus](keyword_coronavirus), [india](keyword_india), [pandemic](keyword_pandemic), [virus](keyword_virus), [covid 19 outbreak](keyword_covid_19_outbreak), [5 g](keyword_5_g), [drone](keyword_drone), [new south wale](keyword_new_south_wale), [lockdown](keyword_lockdown), [artificial intelligence](keyword_artificial_intelligence)
-
-
-
-## Keywords at large
-
-* [covid-19](keyword_covid-19), [covid 19 pandemic](keyword_covid_19_pandemic), [china](keyword_china), [blockchain](keyword_blockchain), [vaccine](keyword_vaccine), [pandemic](keyword_pandemic), [coronavirus](keyword_coronavirus), [india](keyword_india), [virus](keyword_virus), [covid 19 outbreak](keyword_covid_19_outbreak)
-
-## Abstract
-
-The unprecedented outbreak of the 2019 novel coronavirus,
-termed as COVID-19 by the World Health Organization (WHO),
-has placed numerous governments around the world in a
-precarious position. The impact of the COVID-19 outbreak,
-earlier witnessed by the citizens of China alone, has now
-become a matter of grave concern for virtually every
-country in the world. The scarcity of resources to endure
-the COVID-19 outbreak combined with the fear of
-overburdened healthcare systems has forced a majority of
-these countries into a state of partial or complete
-lockdown. The number of laboratory-confirmed coronavirus
-cases has been increasing at an alarming rate throughout
-the world, with reportedly more than 3 million confirmed
-cases as of 30 April 2020. Adding to these woes, numerous
-false reports, misinformation, and unsolicited fears in
-regards to coronavirus, are being circulated regularly
-since the outbreak of the COVID-19. In response to such
-acts, we draw on various reliable sources to present a
-detailed review of all the major aspects associated with
-the COVID-19 pandemic. In addition to the direct health
-implications associated with the outbreak of COVID-19, this
-study highlights its impact on the global economy. In
-drawing things to a close, we explore the use of
-technologies such as the Internet of Things (IoT), Unmanned
-Aerial Vehicles (UAVs), blockchain, Artificial Intelligence
-(AI), and 5G, among others, to help mitigate the impact of
-COVID-19 outbreak.
+ * 2008 summer olympic, [5 g](keyword_5_g), [5 g network](keyword_5_g_network), [algorithm](keyword_algorithm), antibodie, antigen, apple, [application](keyword_application), [artificial intelligence](keyword_artificial_intelligence), [australia](keyword_australia), [beijing](keyword_beijing), [blockchain](keyword_blockchain), [blockchain technology](keyword_blockchain_technology), [bluetooth](keyword_bluetooth), [canada](keyword_canada), [cdc](keyword_cdc), cepi, cern, chamola, [china](keyword_china), clinical trial, comprehensive review, comprehensive review of the covid 19 pandemic, contact trace, contact trace app, [coronavirus](keyword_coronavirus), coronavirus lockdown, cough, [country](keyword_country), covid 19 outbreak, [covid 19 pandemic](keyword_covid_19_pandemic), [covid-19](keyword_covid-19), current health crisis, [deep learning](keyword_deep_learning), delhi, device, diagnosis, [disease](keyword_disease), [drone](keyword_drone), drug, emerge technology, [food](keyword_food), [genome](keyword_genome), [government](keyword_government), [gps](keyword_gps), guangzhou, [health](keyword_health), [healthcare](keyword_healthcare), healthcare worker, [hospital](keyword_hospital), [hubei](keyword_hubei), iata, impact management, [india](keyword_india), [infect](keyword_infect), [infection](keyword_infection), [influenza](keyword_influenza), iomt, [iot](keyword_iot), israel, [lockdown](keyword_lockdown), [machine learning](keyword_machine_learning), [manhattan](keyword_manhattan), medical imaging, [model](keyword_model), [new south wale](keyword_new_south_wale), [new york city](keyword_new_york_city), [news](keyword_news), [organization](keyword_organization), [outbreak](keyword_outbreak), [pandemic](keyword_pandemic), [privacy](keyword_privacy), republic of korea, risk prediction, [robot](keyword_robot), [sar cov 2](keyword_sar_cov_2), [south korea](keyword_south_korea), [spread](keyword_spread), [supply chain](keyword_supply_chain), [switzerland](keyword_switzerland), [symptom](keyword_symptom), [technology](keyword_technology), telemedicine, test, [tourism](keyword_tourism), treatment, [united kingdom](keyword_united_kingdom), [united nations](keyword_united_nations), [united states](keyword_united_states), usa, v v, [vaccine](keyword_vaccine), victoria, [virus](keyword_virus), wearable, wearable device, who, world health organization, [wuhan](keyword_wuhan), xenex
 
 
 ## Concepts
 
  ![](imgs/article_chamola_comprehensive_2020.jpg)
 
-### Closest articles 
-
-* [Emerging Technologies to Combat the COVID-19 Pandemic](article_vaishya_emerging_2020)
-* [Internet of things (IoT) applications to fight against COVID-19 pandemic](article_singh_internet_2020)
-* [Leveraging Digital Transformation Technologies to Tackle COVID-19: Proposing a Privacy-First Holistic Framework](article_arpaci_leveraging_2021)
-* [The role of 5G for digital healthcare against COVID-19 pandemic: Opportunities and challenges](article_siriwardhana_role_2021)
-* [Significant applications of virtual reality for COVID-19 pandemic](article_singh_significant_2020)
-* [Mobile Technology Solution for COVID-19: Surveillance and Prevention](article_raza_mobile_2021)
-* [10 tech trends getting us through the COVID-19
-pandemic](article_yan_10_2020)
-* [Drones. Disinfecting robots. Supercomputers. The
-coronavirus outbreak is a test for China's tech industry
-\textbar CNN Business](article_wang_drones_2020)
-* [2020 Data Protection Report](article_council_of_europe_2020_2020)
-* [Challenges of data sharing in European Covid-19 projects: A learning opportunity for advancing pandemic preparedness and response](article_tacconelli_challenges_2022)
-
-### References 
-
-* [Combating COVID-19—The role of robotics in managing
-public health and infectious diseases](article_yang_combating_2020)
-* [Digital technology and COVID-19](article_ting_digital_2020)
-
-### Cited by 
 
 
-* [Future (post-COVID) digital, smart and sustainable
-cities in the wake of 6G: Digital twins, immersive
-realities and new urban economies](article_allam_future_2021)
-* [Leveraging Digital Transformation Technologies to
-Tackle COVID-19: Proposing a Privacy-First
-Holistic Framework](article_arpaci_leveraging_2021)
-* [How the 5G Enabled the COVID-19 Pandemic
-Prevention and Control: Materiality, Affordance,
-and (De-)Spatialization](article_li_how_2022)
-* [Contributions of Smart City Solutions and
-Technologies to Resilience against the COVID-19
-Pandemic: A Literature Review](article_sharifi_contributions_2021)
-* [Impact of COVID-19 on IoT Adoption in Healthcare,
-Smart Homes, Smart Buildings, Smart Cities,
-Transportation and Industrial IoT](article_umair_impact_2021)
+## Neighbours
+
+### Closest articles
+
+* Emerging Technologies to Combat the COVID-19 Pandemic - [LINK](article_vaishya_emerging_2020)
+* Leveraging Digital Transformation Technologies to Tackle COVID-19: Proposing a Privacy-First Holistic Framework - [LINK](article_arpaci_leveraging_2021)
+* Digital technology and COVID-19 - [LINK](article_ting_digital_2020)
+* Internet of things (IoT) applications to fight against COVID-19 pandemic - [LINK](article_singh_internet_2020)
+* Health Information Exchange with Blockchain amid Covid-19-like Pandemics - [LINK](article_christodoulou_health_2020)
+* Pandemic Analytics: How Countries are Leveraging Big Data Analytics and Artificial Intelligence to Fight COVID-19? - [LINK](article_mehta_pandemic_2021)
+* Exploring the Potential of Artificial Intelligence and Machine Learning to Combat COVID-19 and Existing Opportunities for LMIC: A Scoping Review - [LINK](article_naseem_exploring_2020)
+* The role of 5G for digital healthcare against COVID-19 pandemic: Opportunities and challenges - [LINK](article_siriwardhana_role_2021)
+* Blockchain technology and its applications to combat COVID-19 pandemic - [LINK](article_sharma_blockchain_2022)
+* Impact of COVID-19 on IoT Adoption in Healthcare, Smart Homes, Smart Buildings, Smart Cities, Transportation and Industrial IoT - [LINK](article_umair_impact_2021)
+
+
+### Closest BPs
+
+* Resilience in staffing and skills training - [LINK](bp_12)
+* Monitoring of wastewater [CID] - [LINK](bp_21)
+* Public places as information points - [LINK](bp_8)

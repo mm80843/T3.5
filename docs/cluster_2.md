@@ -1,33 +1,48 @@
-# Cluster: __uv-room__ (cluster2)
+# Cluster: __air-uv__ (Cluster_2)
+
 ## Keywords
 
-* [uv](keyword_uv), [room](keyword_room), [air](keyword_air), [germicidal](keyword_germicidal), [disinfection](keyword_disinfection), [ultraviolet](keyword_ultraviolet), [upper](keyword_upper), [uvgi](keyword_uvgi), [tb](keyword_tb), [virus](keyword_virus), [mhv](keyword_mhv), [light](keyword_light), [airborne](keyword_airborne), [mers](keyword_mers), [system](keyword_system), [irradiation](keyword_irradiation), [dose](keyword_dose), [tuberculosis](keyword_tuberculosis), [inactivation](keyword_inactivation), [uvc](keyword_uvc)
+ * [aerosol](keyword_aerosol), [air](keyword_air), [airborne](keyword_airborne), [ashrae](keyword_ashrae), [build](keyword_build), [control](keyword_control), [droplet](keyword_droplet), [filter](keyword_filter), [germicidal](keyword_germicidal), [hvac](keyword_hvac), [indoor](keyword_indoor), [infection](keyword_infection), [particle](keyword_particle), [room](keyword_room), [system](keyword_system), [transmission](keyword_transmission), [uv](keyword_uv), [ventilation](keyword_ventilation), [virus](keyword_virus)
+
+
 
 ## Concepts
 
  ![](imgs/cluster_2.jpg)
 
 
-## Articles
 
-* ashrae_behind_2020 ([ashrae_behind_2020](article_ashrae_behind_2020))
-* Efficacy of an Automated Multiple Emitter
-Whole-Room Ultraviolet-C Disinfection System
-Against Coronaviruses MHV and MERS-CoV ([bedell_efficacy_2016](article_bedell_efficacy_2016))
-* Upper-room ultraviolet air disinfection might help to
-reduce COVID-19 transmission in buildings: a feasibility
-study ([beggs_upper-room_2020](article_beggs_upper-room_2020))
-* Upper-Room Ultraviolet Light and Negative Air
-Ionization to Prevent Tuberculosis Transmission ([escombe_upper-room_2009](article_escombe_upper-room_2009))
-* healthcare_facilities_today_case_2021 ([healthcare_facilities_today_case_2021](article_healthcare_facilities_today_case_2021))
-* Applications of ultraviolet germicidal irradiation
-disinfection in health care facilities: Effective
-adjunct, but not stand-alone technology ([memarzadeh_applications_2010](article_memarzadeh_applications_2010))
-* Air Disinfection for Airborne Infection Control
-with a Focus on COVID-19: Why Germicidal UV is
-Essential† ([nardell_air_2021](article_nardell_air_2021))
-* Recently employed engineering techniques to reduce the
-spread of COVID-19 (corona virus disease 2019): a review
-study ([saman_recently_2021](article_saman_recently_2021))
-* Effect of Ultraviolet Germicidal Irradiation on
-Viral Aerosols ([walker_effect_2007](article_walker_effect_2007))
+# Linked articles
+
+* A Review on Building Design as a Biomedical System for Preventing COVID-19 Pandemic - [LINK](article_amran_review_2022)
+* ASHRAE Position Document on Infectious Aerosols - [LINK](article_ashrae_ashrae_2022)
+* Behind the Update: ASHRAE Handbook Chapters on UV-C to Include Updated Best Practices, Guidance - [LINK](article_ashrae_behind_2020)
+* Environmental factors involved in SARS-CoV-2 transmission: effect and role of indoor environmental quality in the strategy for COVID-19 infection control - [LINK](article_azuma_environmental_2020)
+* Upper-room ultraviolet air disinfection might help to reduce COVID-19 transmission in buildings: a feasibility study - [LINK](article_beggs_upper-room_2020)
+* Methods for air cleaning and protection of building occupants from airborne pathogens - [LINK](article_bolashikov_methods_2009)
+* Installing UV in ductwork - [LINK](bp_10)
+* Installing high-efficiency air filters - [LINK](bp_11)
+* Negative pressure rooms - [LINK](bp_13)
+* Air Cleaning Plants - [LINK](bp_15)
+* The ventilation of buildings and other mitigating measures for COVID-19: a focus on wintertime - [LINK](article_burridge_ventilation_2021)
+* 2019 Novel Coronavirus (COVID-19) Pandemic: Built Environment Considerations To Reduce Transmission - [LINK](article_dietz_2019_2020)
+* Heating, ventilation and air-conditioning systems in the context of COVID-19 - [LINK](article_ecdc_heating_2020)
+* A critical review of heating, ventilation, and air conditioning (HVAC) systems within the context of a global SARS-CoV-2 epidemic - [LINK](article_elsaid_critical_2021)
+* Upper-Room Ultraviolet Light and Negative Air Ionization to Prevent Tuberculosis Transmission - [LINK](article_escombe_upper-room_2009)
+* Review and comparison of HVAC operation guidelines in different countries during the COVID-19 pandemic - [LINK](article_guo_review_2021)
+* Case Study: Using Germicidal UV-C to Mitigate COVID-19 - HVAC - [LINK](article_healthcare_facilities_today_case_2021)
+* The Effect of Opening Windows on Air Change Rates in Two Homes - [LINK](article_howard-reed_effect_2002)
+* Mechanistic insights into the effect of humidity on airborne influenza virus survival, transmission and incidence - [LINK](article_marr_mechanistic_2019)
+* Indoor Air Quality: Rethinking rules of building design strategies in post-pandemic architecture - [LINK](article_megahed_indoor_2021)
+* Applications of ultraviolet germicidal irradiation disinfection in health care facilities: Effective adjunct, but not stand-alone technology - [LINK](article_memarzadeh_applications_2010)
+* How can airborne transmission of COVID-19 indoors be minimised? - [LINK](article_morawska_how_2020)
+* Air Disinfection for Airborne Infection Control with a Focus on COVID‐19: Why Germicidal UV is Essential             <sup>†</sup> - [LINK](article_nardell_air_2021)
+* Designing Post COVID-19 Buildings: Approaches for Achieving Healthy Buildings - [LINK](article_navaratnam_designing_2022)
+* Ventilation use in nonmedical settings during COVID-19: Cleaning protocol, maintenance, and recommendations - [LINK](article_nembhard_ventilation_2020)
+* COVID-19 Higher Mortality in Chinese Regions With Chronic Exposure to Lower Air Quality - [LINK](article_pansini_covid-19_2021)
+* The efficacy of social distance and ventilation effectiveness in preventing COVID-19 transmission - [LINK](article_sun_efficacy_2020)
+* Real-world data show that filters clean COVID-causing virus from air - [LINK](article_thompson_real-world_2021)
+* Architectural design strategies for infection prevention and control (IPC) in health-care facilities: towards curbing the spread of Covid-19 \textbar SpringerLink - [LINK](article_udomiaye_architectural_2020)
+* Effect of Ultraviolet Germicidal Irradiation on Viral Aerosols - [LINK](article_walker_effect_2007)
+* Characterization and performance evaluation of a full-scale activated carbon-based dynamic botanical air filtration system for improving indoor air quality - [LINK](article_wang_characterization_2011)
+* A review of facilities management interventions to mitigate respiratory infections in existing buildings - [LINK](article_zhang_review_2022)

@@ -1,57 +1,39 @@
-# Article: __SARS-CoV-2 RNA detection of hospital isolation wards hygiene monitoring during the Coronavirus Disease 2019 outbreak in a Chinese hospital__ (wang_sars-cov-2_2020)
+# Article: SARS-CoV-2 RNA detection of hospital isolation wards hygiene monitoring during the Coronavirus Disease 2019 outbreak in a Chinese hospital (wang_sars-cov-2_2020)
 
-* [10.1016/j.ijid.2020.04.024](https://doi.org/10.1016/j.ijid.2020.04.024)
-* Cluster: [air-sars](cluster_0)
+* Source: [10.1016/j.ijid.2020.04.024](https://doi.org/10.1016/j.ijid.2020.04.024)
+* Year: 2020
+* Cluster: [ward-patient](cluster_15)
+
 
 
 ## Keywords
 
-* [covid-19](keyword_covid-19), [china](keyword_china), [disinfection](keyword_disinfection), [sewage](keyword_sewage), [hospital](keyword_hospital), [respiratory](keyword_respiratory), [isolation ward](keyword_isolation_ward), [coronavirus](keyword_coronavirus), [xu xw](keyword_xu_xw), [zhejiang university](keyword_zhejiang_university), [infection](keyword_infection), mechanical ventilation, inlet, hand hygiene, bed rail
-
-
-
-## Keywords at large
-
-* [covid-19](keyword_covid-19), [disinfection](keyword_disinfection), [china](keyword_china), [sewage](keyword_sewage), [respiratory](keyword_respiratory), [hospital](keyword_hospital), [isolation ward](keyword_isolation_ward), [coronavirus](keyword_coronavirus), [xu xw](keyword_xu_xw), [zhejiang university](keyword_zhejiang_university)
+ * 309th hospital, [bed](keyword_bed), bed rail, chan kh, chen k, [china](keyword_china), [chlorine](keyword_chlorine), chlorine contain disinfectant, [clean](keyword_clean), clean area, college of medicine, contaminate, contaminate area, contaminate zone, conﬂict of interest, conﬂict of interest to declare, [coronavirus](keyword_coronavirus), [covid-19](keyword_covid-19), ct, [disinfectant](keyword_disinfectant), [disinfection](keyword_disinfection), disinfection pool, doctor, duan l, first afﬁliate hospital, general isolation ward, glove, guangzhou, hand hygiene, hepatol, [hospital](keyword_hospital), hospital environmental hygiene, hospital infection control, [icu](keyword_icu), icu ward, [infection](keyword_infection), [infection control](keyword_infection_control), [infectious disease](keyword_infectious_disease), inlet, international journal of infectious disease, international society, [isolation](keyword_isolation), isolation ward, limitation, [mask](keyword_mask), mechanical ventilation, [medical](keyword_medical), medical staff, medical ventilator, n95 mask, [negative](keyword_negative), nightstand, ofﬁce, operational limitation, [outbreak](keyword_outbreak), outlet, pathogen contamination, [patient](keyword_patient), peiris j, peke, [personal protective equipment](keyword_personal_protective_equipment), polymerase chain reaction, potentially pollute, preliminary result, qrt, [respiratory](keyword_respiratory), respiratory specimen, reverse transcription, [rna](keyword_rna), [sar cov 2](keyword_sar_cov_2), sar cov 2 rna, [sar cov2](keyword_sar_cov2), sciencedirect, semi contaminate zone, severe acute respiratory syndrome, severe acute respiratory syndrome coronavirus 2, [sewage](keyword_sewage), sewage disinfection pool, siegel, siegel et siegel, [singapore](keyword_singapore), sodium hypochlorite, speciﬁcally designate area, [study](keyword_study), [temperature](keyword_temperature), temporary infectious disease ward, [ventilation](keyword_ventilation), [viral](keyword_viral), viral culture, virus culture, [ward](keyword_ward), wu xx, [wuhan](keyword_wuhan), xiang z, xiao tang shan hospital, xu xw, zhejiang, zhejiang province, zhejiang university, zhonghua liu xing bing xue
 
 
 ## Concepts
 
  ![](imgs/article_wang_sars-cov-2_2020.jpg)
 
-### Closest articles 
-
-* [Aerosol and Surface Distribution of Severe Acute Respiratory Syndrome Coronavirus 2 in Hospital Wards, Wuhan, China, 2020](article_guo_aerosol_2020)
-* [Air, Surface Environmental, and Personal Protective Equipment Contamination by Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) From a Symptomatic Patient](article_ong_air_2020)
-* [onway-morris_removal_2021](article_onway-morris_removal_2021)
-* [Real-world data show that filters clean COVID-causing virus from air](article_thompson_real-world_2021)
-* [COVID-19 Forced Hospitals to Build Negative
-Pressure Rooms Fast](article_dyer_covid-19_2020)
-* [Rapid expansion of temporary, reliable airborne-infection isolation rooms with negative air machines for critical COVID-19 patients](article_lee_rapid_2020)
-* [COVID-19 and its Modes of Transmission](article_karia_covid-19_2020)
-* [Current knowledge of COVID-19: Advances, challenges and future perspectives](article_wu_current_2021)
-* [Sustainability of Coronavirus on Different Surfaces](article_suman_sustainability_2020)
-* [Persistence of coronaviruses on inanimate surfaces and their inactivation with biocidal agents](article_kampf_persistence_2020)
-
-### References 
-
-* [Air, Surface Environmental, and Personal
-Protective Equipment Contamination by Severe
-Acute Respiratory Syndrome Coronavirus 2
-(SARS-CoV-2) From a Symptomatic Patient](article_ong_air_2020)
-
-### Cited by 
 
 
-* [SARS-CoV-2 RNA in wastewater anticipated COVID-19
-occurrence in a low prevalence area](article_randazzo_sars-cov-2_2020)
-* [Readiness Assessment of Green Building
-Certification Systems for Residential Buildings
-during Pandemics](article_tleuken_readiness_2021)
-* [Assessment method for new sustainability indicators
-providing pandemic resilience for residential buildings](article_tokazhanov_assessment_2021)
-* [How is COVID-19 Experience Transforming
-Sustainability Requirements of Residential
-Buildings? A Review](article_tokazhanov_how_2020)
-* [A review of facilities management interventions to
-mitigate respiratory infections in existing buildings](article_zhang_review_2022)
+## Neighbours
+
+### Closest articles
+
+* Air, Surface Environmental, and Personal Protective Equipment Contamination by Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) From a Symptomatic Patient - [LINK](article_ong_air_2020)
+* Aerosol and Surface Distribution of Severe Acute Respiratory Syndrome Coronavirus 2 in Hospital Wards, Wuhan, China, 2020 - [LINK](article_guo_aerosol_2020)
+* Toilets dominate environmental detection of SARS-CoV-2 virus in a hospital - [LINK](article_ding_toilets_2020)
+* Rapid expansion of temporary, reliable airborne-infection isolation rooms with negative air machines for critical COVID-19 patients - [LINK](article_lee_rapid_2020)
+* COVID-19 Forced Hospitals to Build Negative Pressure Rooms Fast - [LINK](article_dyer_covid-19_2020)
+* Real-world data show that filters clean COVID-causing virus from air - [LINK](article_thompson_real-world_2021)
+* Persistence of coronaviruses on inanimate surfaces and their inactivation with biocidal agents - [LINK](article_kampf_persistence_2020)
+* Disinfection technology of hospital wastes and wastewater: Suggestions for disinfection strategy during coronavirus Disease 2019 (COVID-19) pandemic in China - [LINK](article_wang_disinfection_2020)
+* Current knowledge of COVID-19: Advances, challenges and future perspectives - [LINK](article_wu_current_2021)
+
+
+### Closest BPs
+
+* Blueprint: Negative pressure rooms - [LINK](bp_13)
+* Blueprint: Installing high-efficiency air filters - [LINK](bp_11)
+* Blueprint: Monitoring of wastewater [CID] - [LINK](bp_21)

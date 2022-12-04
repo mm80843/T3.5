@@ -1,35 +1,39 @@
-# Keyword: __case__
-## Clusters
+# Keyword: case
 
-* Cluster 1: [wastewater-sars](cluster_1)
-* Cluster 9: [health-building](cluster_9)
+* [city-urban](cluster_Cluster_5)
+
+* [wastewater-sars](cluster_Cluster_6)
+
+* [sars-virus](cluster_Cluster_7)
+
+* [perpetuity-forest](cluster_Cluster_12)
+
+
+## Keywords
+
+ * 146 ö, Cluster_12, Cluster_5, Cluster_6, Cluster_7, ap news, asthma, asymptomatic, budapest, [build](keyword_build), [case](keyword_case), case 06, [case building](keyword_case_building), case for space, case for the disease, case report, case study, case with the highest infected people, case with the low energy con sumption, case with the low energy consumption, cases, [china](keyword_china), china 45, confirm infection, contact, [coronavirus](keyword_coronavirus), covid 19 virus, [covid-19](keyword_covid-19), death, diagnostic test, [disease](keyword_disease), domestic violence, energy con sumption, [energy consumption](keyword_energy_consumption), eple, fat supply chain, fatality, fn, fps, globe, greece, high energy consumption, highest infected people, hospitalisation, [icu](keyword_icu), [india](keyword_india), [infection](keyword_infection), infectious, [infectious disease](keyword_infectious_disease), infectious period, italian, low energy consumption, mediation, medical supply, natural disaster, number need to treat, outdoor transmission, p valuea, [patient](keyword_patient), plemente, [population](keyword_population), positive, presentation of case, probability, [quarantine](keyword_quarantine), [recovery](keyword_recovery), scenario, sick building syndrome, significant, [simulation](keyword_simulation), [space](keyword_space), [spain](keyword_spain), strategy, [supply chain](keyword_supply_chain), surgeon, test, [virus](keyword_virus), white
+
 
 ## Concepts
 
  ![](imgs/keyword_case.jpg)
 
 
-## Top 10 articles for __case__
-* The effect of occupant distribution on energy consumption
-and COVID-19 infection in buildings: A case study of
-university building ([mokhtari_effect_2021](article_mokhtari_effect_2021))
-* Role of Information Technology in Covid-19
-Prevention ([mehtab_alam_role_2021](article_mehtab_alam_role_2021))
-* The effect of a redesigned floor plan, occupant density
-and the quality of indoor climate on the cost of space,
-productivity and sick leave in an office building–A
-case study ([saari_effect_2006](article_saari_effect_2006))
-* Mitigation strategies and compliance in the COVID-19
-fight; how much compliance is enough? ([mukerjee_mitigation_2021](article_mukerjee_mitigation_2021))
-* Learning from pandemics: Applying resilience thinking to
-identify priorities for planning urban settlements ([syal_learning_2021](article_syal_learning_2021))
-* Management of the COVID-19 pandemic: challenges,
-practices, and organizational support ([hossny_management_2022](article_hossny_management_2022))
-* How COVID-19 Could Accelerate the Adoption of
-New Retail Technologies and Enhance the
-(E-)Servicescape ([willems_how_2021](article_willems_how_2021))
-* rtpi_urban_2021 ([rtpi_urban_2021](article_rtpi_urban_2021))
-* When the fourth water and digital revolution encountered
-COVID-19 ([poch_when_2020](article_poch_when_2020))
-* What has been the impact of the COVID-19 pandemic on
-immigrants? An update on recent evidence ([oecd_what_2022](article_oecd_what_2022))
+
+## Neighbours
+
+### Closest articles
+
+* The effect of occupant distribution on energy consumption and COVID-19 infection in buildings: A case study of university building - [LINK](article_mokhtari_effect_2021)
+*  - [LINK](article_mehtab_alam_role_2021)
+* The effect of a redesigned floor plan, occupant density and the quality of indoor climate on the cost of space, productivity and sick leave in an office building–A case study - [LINK](article_saari_effect_2006)
+* Learning from pandemics: Applying resilience thinking to identify priorities for planning urban settlements - [LINK](article_syal_learning_2021)
+* Study of COVID-19 pandemic in London (UK) from urban context - [LINK](article_ghosh_study_2020)
+* How COVID-19 Could Accelerate the Adoption of New Retail Technologies and Enhance the (E-)Servicescape - [LINK](article_willems_how_2021)
+* The impact of COVID-19 and strategies for mitigation and suppression in low- and middle-income countries - [LINK](article_walker_impact_2020)
+* Urban planning after COVID-19 - [LINK](article_rtpi_urban_2021)
+* What has been the impact of the COVID-19 pandemic on immigrants? An update on recent evidence - [LINK](article_oecd_what_2022)
+
+
+### Closest BPs
+

@@ -1,42 +1,40 @@
-# Article: __COVID-ABS: An agent-based model of COVID-19 epidemic to simulate health and economic effects of social distancing interventions__ (silva_covid-abs_2020)
+# Article: COVID-ABS: An agent-based model of COVID-19 epidemic to simulate health and economic effects of social distancing interventions (silva_covid-abs_2020)
 
-* [10.1016/j.chaos.2020.110088](https://doi.org/10.1016/j.chaos.2020.110088)
-* Cluster: [health-building](cluster_9)
+* Source: [10.1016/j.chaos.2020.110088](https://doi.org/10.1016/j.chaos.2020.110088)
+* Year: 2020
+* Cluster: [building-space](cluster_9)
+
 
 
 ## Keywords
 
-* [p v](keyword_p_v), [agent](keyword_agent), [covid-19](keyword_covid-19), [lockdown](keyword_lockdown), [h s](keyword_h_s), [china](keyword_china), [brazil](keyword_brazil), [simulation](keyword_simulation), [fractal](keyword_fractal), [epidemiological](keyword_epidemiological), [wuhan](keyword_wuhan), soliton, [social isolation](keyword_social_isolation), [coronavirus](keyword_coronavirus), imai n
-
-
-
-## Keywords at large
-
-* [simulation](keyword_simulation), [p v](keyword_p_v), [lockdown](keyword_lockdown), [agent](keyword_agent), [covid-19](keyword_covid-19), [brazil](keyword_brazil), [h s](keyword_h_s), [china](keyword_china), [fractal](keyword_fractal), [epidemiological](keyword_epidemiological)
+ * a1, a1 agent, a2, a3, a4, accounting, [action](keyword_action), [agent](keyword_agent), agent base model, agent base simulation, [australia](keyword_australia), average, baseline, batista, [brazil](keyword_brazil), [business](keyword_business), chaos, [china](keyword_china), conceptualization, contact, contagion, [coronavirus](keyword_coronavirus), [country](keyword_country), covid 19 disease, covid 19 epidemic, [covid 19 pandemic](keyword_covid_19_pandemic), covid ab, [covid-19](keyword_covid-19), death, deﬁne, [disease](keyword_disease), do nothing, dynamic, [economic](keyword_economic), economic relationship, economical, [economy](keyword_economy), empirically, [epidemic](keyword_epidemic), [epidemiological](keyword_epidemiological), ferguson n, fractal, gdp, [government](keyword_government), grantz kh, h s, healthcare system, homeless, hospitalization, [house](keyword_house), ibge, imai n, income, income distribution, [infection](keyword_infection), infection curve, inform, intervention, [isolation](keyword_isolation), [italy](keyword_italy), iteration, kai, [lockdown](keyword_lockdown), [london](keyword_london), [manhattan](keyword_manhattan), methodology, [model](keyword_model), must not, ndairou f, nedjati gilani g, [new south wale](keyword_new_south_wale), [new york city](keyword_new_york_city), p c, [p v](keyword_p_v), [pandemic](keyword_pandemic), partial isolation, partial isolation level, physical distancing, [population](keyword_population), population size, recession, response variable, [sar cov 2](keyword_sar_cov_2), scenario, scenario 2, seir model, simulate, [simulation](keyword_simulation), [social](keyword_social), social intervention, social isolation, social stratum, soliton, soliton and fractal, unemployed, walk freely, wealth, [work](keyword_work), [wuhan](keyword_wuhan), you have
 
 
 ## Concepts
 
  ![](imgs/article_silva_covid-abs_2020.jpg)
 
-### Closest articles 
-
-* [EXPOSED: An occupant exposure model for confined spaces to retrofit crowd models during a pandemic](article_ronchi_exposed_2020)
-* [Building occupancy estimation with people flow modeling in AnyLogic](article_li_building_2016)
-* [COVID19-Routes: A Safe Pedestrian Navigation Service](article_cantarero_covid19-routes_2021)
-* [Digital Twin of COVID-19 Mass Vaccination Centers](article_pilati_digital_2021)
-* [DeepSOCIAL: Social Distancing Monitoring and Infection Risk Assessment in COVID-19 Pandemic](article_rezaei_deepsocial_2020)
-* [Social distancing enhanced automated optimal design of physical spaces in the wake of the COVID-19 pandemic](article_ugail_social_2021)
-* [Exploring the Non-Medical impacts of Covid-19 using Natural Language Processing](article_agade_exploring_2020)
-* [Assessment of COVID-19 precautionary measures in sports facilities: A case study on a health club in Saudi Arabia](article_ibrahim_assessment_2022)
-* [p15-lee-vor](article_p15-lee-vor)
-* [Designing a Multi-Agent Occupant Simulation System to Support Facility Planning and Analysis for COVID-19](article_lee_designing_2021)
-
-### References 
-
-* [Physical interventions to interrupt or reduce the spread
-of respiratory viruses: systematic review](article_jefferson_physical_2008)
-
-### Cited by 
 
 
+## Neighbours
+
+### Closest articles
+
+* EXPOSED: An occupant exposure model for confined spaces to retrofit crowd models during a pandemic - [LINK](article_ronchi_exposed_2020)
+* Building occupancy estimation with people flow modeling in AnyLogic - [LINK](article_li_building_2016)
+* COVID19-Routes: A Safe Pedestrian Navigation Service - [LINK](article_cantarero_covid19-routes_2021)
+* Digital Twin of COVID-19 Mass Vaccination Centers - [LINK](article_pilati_digital_2021)
+* Social distancing enhanced automated optimal design of physical spaces in the wake of the COVID-19 pandemic - [LINK](article_ugail_social_2021)
+* Exploring the Non-Medical impacts of Covid-19 using Natural Language Processing - [LINK](article_agade_exploring_2020)
+* DeepSOCIAL: Social Distancing Monitoring and Infection Risk Assessment in COVID-19 Pandemic - [LINK](article_rezaei_deepsocial_2020)
+* Towards the sustainable development of smart cities through mass video surveillance: A response to the COVID-19 pandemic - [LINK](article_shorfuzzaman_towards_2021)
+* Risk Diagnosis and Mitigation System of COVID-19 Using Expert System and Web Scraping - [LINK](article_mufid_risk_2020)
+*  - [LINK](article_huy-tran_design_2022)
+
+
+### Closest BPs
+
+* Blueprint: Resilience in staffing and skills training - [LINK](bp_12)
+* Blueprint: Public places as information points - [LINK](bp_8)
+* Blueprint: One-way mobility circulation - [LINK](bp_4)

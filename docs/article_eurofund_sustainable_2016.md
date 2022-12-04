@@ -1,34 +1,39 @@
-# Article: __Sustainable work throughout the life course: National policies and strategies, Publications Office of the European Union__ (eurofund_sustainable_2016)
+# Article: Sustainable work throughout the life course: Nationalpolicies and strategies, Publications Office of theEuropean Union (eurofund_sustainable_2016)
 
-* URL: [https://www.eurofound.europa.eu/sites/default/files/ef_publication/field_ef_document/ef1610en_4.pdf](https://www.eurofound.europa.eu/sites/default/files/ef_publication/field_ef_document/ef1610en_4.pdf)
+* [https://www.eurofound.europa.eu/sites/default/files/ef_publication/field_ef_document/ef1610en_4.pdf](https://www.eurofound.europa.eu/sites/default/files/ef_publication/field_ef_document/ef1610en_4.pdf)
 * Year: 2016
+* Cluster: [health-pandemic](cluster_4)
+
 
 
 ## Keywords
 
-* [sustainable work](keyword_sustainable_work), [europe](keyword_europe), [labour market](keyword_labour_market), [eurofound](keyword_eurofound), [germany](keyword_germany), [united kingdom](keyword_united_kingdom), [policy](keyword_policy), [european union](keyword_european_union), [finland](keyword_finland), [employer](keyword_employer), [lithuania](keyword_lithuania), [poland](keyword_poland), [netherland](keyword_netherland), sweden, [spain](keyword_spain)
-
-
-
-## Keywords at large
-
-* [sustainable work](keyword_sustainable_work), [europe](keyword_europe), [labour market](keyword_labour_market), [eurofound](keyword_eurofound), [germany](keyword_germany), [united kingdom](keyword_united_kingdom), [policy](keyword_policy), [european union](keyword_european_union), [finland](keyword_finland), [employer](keyword_employer)
+ * apprenticeship, belgium, brussels, care leave, care responsibility, childcare, collective agreement, collective bargaining, [company](keyword_company), competence, [country](keyword_country), disability, dublin, [education](keyword_education), employability, [employee](keyword_employee), [employer](keyword_employer), employment, employment protection, [eurofound](keyword_eurofound), [europe](keyword_europe), european, european commission, european country, [european union](keyword_european_union), eurostat, family, father, [finland](keyword_finland), german, german government, [germany](keyword_germany), [government](keyword_government), greece, [health](keyword_health), [health and safety](keyword_health_and_safety), income support, [industry](keyword_industry), job, job quality, [labour market](keyword_labour_market), learn, legislation, life course, life course transition, life stage, lifelong learning, lithuania, luxembourg, [member state](keyword_member_state), minimum wage, [netherland](keyword_netherland), [oecd](keyword_oecd), parental leave, part time, part time work, [poland](keyword_poland), [policy](keyword_policy), policy framework, policymaker, public employment service, public policy, quality of work, regulation, retirement, self employ, skill, skill development, social partner, social protection, [spain](keyword_spain), subsidy, [sustainability](keyword_sustainability), sustainability of work, [sustainable](keyword_sustainable), [sustainable work](keyword_sustainable_work), sustainable work policy, sustainable work throughout the life course, sweden, the uk, trade union, training, transition, unemployed, unemployment, unemployment benefit, [united kingdom](keyword_united_kingdom), [united nations](keyword_united_nations), welfare state, [well be](keyword_well_be), woman, [work](keyword_work), work condition, work environment, work life, work life balance, work time, [worker](keyword_worker), [workplace](keyword_workplace), young people
 
 
 ## Concepts
 
  ![](imgs/article_eurofund_sustainable_2016.jpg)
 
-### Closest articles 
 
-* [The COVID-19 pandemic: Lessons on building more equal and sustainable societies](article_van_barneveld_covid-19_2020)
-* [COVID-19: IMPACT OF THE PANDEMIC ON THE SUSTAINABLE DEVELOPMENT GOALS](article_samout_covid-19_2020)
-* [COVID-19 and the UN Sustainable Development Goals: Threat to Solidarity or an Opportunity?](article_leal_filho_covid-19_2020)
-* [The socio-economic implications of the coronavirus pandemic (COVID-19): A review](article_nicola_socio-economic_2020)
-* [How COVID-19 Redefines the Concept of Sustainability](article_hakovirta_how_2020)
-* [Mapping research in logistics and supply chain management during COVID-19 pandemic](article_montoya-torres_mapping_2021)
-* [A critical analysis of the impacts of COVID-19 on the global economy and ecosystems and opportunities for circular economy strategies](article_ibn-mohammed_critical_2021)
-* [Health, Economic and Social Development Challenges of the COVID-19 Pandemic: Strategies for Multiple and Interconnected Issues](article_panneer_health_2022)
-* [Global value chains: Efficiency and risks in the context of COVID-19](article_oecd_global_2021)
-* [Urban planning after COVID-19](article_rtpi_urban_2021)
 
+## Neighbours
+
+### Closest articles
+
+* Case Study on Finnish TVETA Resilient Model of Training During COVID-19 - [LINK](article_unesco_case_2021)
+* Reframe how to serve your community in the midst of a pandemic - [LINK](article_sutton_reframe_2020)
+* Using Technology to Maintain the Education of Residents During the COVID-19 Pandemic - [LINK](article_chick_using_2020)
+* Response to COVID-19 in Taiwan - [LINK](article_wang_response_2020)
+* Management of the COVID-19 pandemic: challenges, practices, and organizational support - [LINK](article_hossny_management_2022)
+* COVID-19: A new digital dawn? - [LINK](article_robbins_covid-19_2020)
+* How Covid-19 Has Permanently Changed the Fitness Industry - [LINK](article_davalos_how_2021)
+* Rotating groups at work, school best against COVID-19 spread: Study - [LINK](article_afp_rotating_2021)
+* Assessing the health and hygiene performance of apartment buildings - [LINK](article_ho_assessing_2004)
+
+
+### Closest BPs
+
+* Resilience in staffing and skills training - [LINK](bp_12)
+* Public places as information points - [LINK](bp_8)
+* Monitoring of wastewater [CID] - [LINK](bp_21)

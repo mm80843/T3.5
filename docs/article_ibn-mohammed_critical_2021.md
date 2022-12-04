@@ -1,53 +1,40 @@
-# Article: __A critical analysis of the impacts of COVID-19 on the global economy and ecosystems and opportunities for circular economy strategies__ (ibn-mohammed_critical_2021)
+# Article: A critical analysis of the impacts of COVID-19 on the global economy and ecosystems and opportunities for circular economy strategies (ibn-mohammed_critical_2021)
 
-* [10.1016/j.resconrec.2020.105169](https://doi.org/10.1016/j.resconrec.2020.105169)
-* Cluster: [health-building](cluster_9)
+* Source: [10.1016/j.resconrec.2020.105169](https://doi.org/10.1016/j.resconrec.2020.105169)
+* Year: 2021
+* Cluster: [health-pandemic](cluster_4)
+
 
 
 ## Keywords
 
-* [covid-19](keyword_covid-19), [pandemic](keyword_pandemic), [circular economy](keyword_circular_economy), [supply chain](keyword_supply_chain), [covid 19 pandemic](keyword_covid_19_pandemic), [china](keyword_china), [recycle](keyword_recycle), [coronavirus](keyword_coronavirus), [europe](keyword_europe), [economic](keyword_economic), [manufacture](keyword_manufacture), [waste](keyword_waste), agriculture, [economy](keyword_economy), reuse
-
-
-
-## Keywords at large
-
-* [covid-19](keyword_covid-19), [pandemic](keyword_pandemic), [circular economy](keyword_circular_economy), [supply chain](keyword_supply_chain), [covid 19 pandemic](keyword_covid_19_pandemic), [china](keyword_china), [recycle](keyword_recycle), [europe](keyword_europe), [economic](keyword_economic), [coronavirus](keyword_coronavirus)
+ * agriculture, [air pollution](keyword_air_pollution), automation, aviation, aviation industry, az, battery, behaviour, [build environment](keyword_build_environment), [business](keyword_business), business model, [canada](keyword_canada), cern, [china](keyword_china), [circular economy](keyword_circular_economy), [clean](keyword_clean), [climate change](keyword_climate_change), conservation, [construction](keyword_construction), [coronavirus](keyword_coronavirus), [covid 19 pandemic](keyword_covid_19_pandemic), [covid-19](keyword_covid-19), critical literature review, develop country, disassembly, [disease](keyword_disease), [economic](keyword_economic), economic activity, economic growth, economic research, [economy](keyword_economy), ecosystem, ellen macarthur, [energy](keyword_energy), [engineering](keyword_engineering), eocene, [epidemic](keyword_epidemic), [europe](keyword_europe), european, european commission, [european union](keyword_european_union), global economy, global pandemic, [health](keyword_health), [health care](keyword_health_care), [healthcare](keyword_healthcare), healthcare waste, [india](keyword_india), indust, [industry](keyword_industry), [infrastructure](keyword_infrastructure), linear economy, [lockdown](keyword_lockdown), [logistic](keyword_logistic), [london](keyword_london), macharis, [manufacture](keyword_manufacture), mkb, [outbreak](keyword_outbreak), [pandemic](keyword_pandemic), panic buying, passenger, peri urban agriculture, [personal protective equipment](keyword_personal_protective_equipment), plastic, [policy](keyword_policy), [pollutant](keyword_pollutant), pollution, [public health](keyword_public_health), re psychiatry, [recycle](keyword_recycle), refurbishment, renovation, reuse, san francisco, sanitation, share economy, [social distancing](keyword_social_distancing), ssrn, supply, [supply chain](keyword_supply_chain), [sustainability](keyword_sustainability), [switzerland](keyword_switzerland), [technology](keyword_technology), telemedicine, [tourism](keyword_tourism), trade policy, [transport](keyword_transport), transportation, [united kingdom](keyword_united_kingdom), university of pennsylvania, [urban](keyword_urban), value chain, [ventilator](keyword_ventilator), [virus](keyword_virus), [waste](keyword_waste), waste manag, waste management, [world](keyword_world), [wuhan](keyword_wuhan)
 
 
 ## Concepts
 
  ![](imgs/article_ibn-mohammed_critical_2021.jpg)
 
-### Closest articles 
-
-* [Mapping research in logistics and supply chain management during COVID-19 pandemic](article_montoya-torres_mapping_2021)
-* [Urban planning after COVID-19](article_rtpi_urban_2021)
-* [Global value chains: Efficiency and risks in the context of COVID-19](article_oecd_global_2021)
-* [The COVID-19 pandemic: Lessons on building more equal and sustainable societies](article_van_barneveld_covid-19_2020)
-* [Health, Economic and Social Development Challenges of the COVID-19 Pandemic: Strategies for Multiple and Interconnected Issues](article_panneer_health_2022)
-* [COVID-19 and the UN Sustainable Development Goals: Threat to Solidarity or an Opportunity?](article_leal_filho_covid-19_2020)
-* [What has been the impact of the COVID-19 pandemic on immigrants? An update on recent evidence](article_oecd_what_2022)
-* [Sustainable work throughout the life course: National
-policies and strategies, Publications Office of the
-European Union](article_eurofund_sustainable_2016)
-* [COVID-19: IMPACT OF THE PANDEMIC ON THE SUSTAINABLE DEVELOPMENT GOALS](article_samout_covid-19_2020)
-* [How COVID-19 Redefines the Concept of Sustainability](article_hakovirta_how_2020)
-
-### References 
-
-* [The effect of human mobility and control measures on the
-COVID-19 epidemic in China](article_kraemer_effect_2020)
-* [COVID-19 Could Leverage a Sustainable Built
-Environment](article_pinheiro_covid-19_2020)
-* [Indirect effects of COVID-19 on the environment](article_zambrano-monserrate_indirect_2020)
-
-### Cited by 
 
 
-* [Addressing the impact of COVID-19 lockdown on energy use
-in municipal buildings: A case study in Florianópolis,
-Brazil](article_geraldi_addressing_2021)
-* [Assessment of Building Automation and Control
-Systems in Danish Healthcare Facilities in the
-COVID-19 Era](article_pedersen_assessment_2022)
+## Neighbours
+
+### Closest articles
+
+* Urban planning after COVID-19 - [LINK](article_rtpi_urban_2021)
+* Mapping research in logistics and supply chain management during COVID-19 pandemic - [LINK](article_montoya-torres_mapping_2021)
+* Building up an ecologically sustainable and socially desirable post-COVID-19 future - [LINK](article_duflot_building_2021)
+* The COVID-19 pandemic: Lessons on building more equal and sustainable societies - [LINK](article_van_barneveld_covid-19_2020)
+* COVID-19 and the UN Sustainable Development Goals: Threat to Solidarity or an Opportunity? - [LINK](article_leal_filho_covid-19_2020)
+* Global value chains: Efficiency and risks in the context of COVID-19 - [LINK](article_oecd_global_2021)
+* The socio-economic implications of the coronavirus pandemic (COVID-19): A review - [LINK](article_nicola_socio-economic_2020)
+* Indirect effects of COVID-19 on the environment - [LINK](article_zambrano-monserrate_indirect_2020)
+* COVID-19: IMPACT OF THE PANDEMIC ON THE SUSTAINABLE DEVELOPMENT GOALS - [LINK](article_samout_covid-19_2020)
+* Nurture to nature via COVID-19, a self-regenerating environmental strategy of environment in global context - [LINK](article_paital_nurture_2020)
+
+
+### Closest BPs
+
+* Blueprint: Air Cleaning Plants - [LINK](bp_15)
+* Blueprint: Architecture design - [LINK](bp_2)
+* Blueprint: Tender support at building stage - [LINK](bp_9)

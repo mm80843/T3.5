@@ -1,79 +1,40 @@
-# Article: __How the 5G Enabled the COVID-19 Pandemic Prevention and Control: Materiality, Affordance, and (De-)Spatialization__ (li_how_2022)
+# Article: How the 5G Enabled the COVID-19 Pandemic Prevention and Control: Materiality, Affordance, and (De-)Spatialization (li_how_2022)
 
-* [10.3390/ijerph19158965](https://doi.org/10.3390/ijerph19158965)
-* Cluster: [blockchain-ai](cluster_11)
+* Source: [10.3390/ijerph19158965](https://doi.org/10.3390/ijerph19158965)
+* Year: 2022
+* Cluster: [datum-ai](cluster_1)
+
 
 
 ## Keywords
 
-* [5 g](keyword_5_g), [5g](keyword_5g), [de spatialization](keyword_de_spatialization), [covid-19](keyword_covid-19), [pandemic prevention and control](keyword_pandemic_prevention_and_control), [pandemic](keyword_pandemic), [5 g network](keyword_5_g_network), [spatialization](keyword_spatialization), [control](keyword_control), [pandemic control](keyword_pandemic_control), [china](keyword_china), [wuhan](keyword_wuhan), embb, [telemedicine](keyword_telemedicine), [lockdown](keyword_lockdown)
-
-
-
-## Keywords at large
-
-* [5 g](keyword_5_g), [5g](keyword_5g), [de spatialization](keyword_de_spatialization), [covid-19](keyword_covid-19), [pandemic prevention and control](keyword_pandemic_prevention_and_control), [5 g network](keyword_5_g_network), [spatialization](keyword_spatialization), [pandemic](keyword_pandemic), [control](keyword_control), [pandemic control](keyword_pandemic_control)
-
-## Abstract
-
-5G, the most disruptive innovation, had played a
-significant role in the COVID-19 pandemic prevention and
-control. However, as a novel technology and context, we
-have little knowledge about how 5G enabled pandemic
-prevention and control. This study collected 212 cases and
-conducted qualitative research to explore how the 5G worked
-in prevention and control. Based on the concepts of
-materiality and affordance, we grounded two affordances of
-spatialization and de-spatialization from the data.
-Spatialization provides non-contact ways to complete the
-tasks which are supposed to be completed in contact, and
-de-spatialization provides remote operations to complete
-the tasks which are supposed to be completed on-site.
-Spatialization and de-spatialization enabled the diagnosis
-and treatment of the infectors to relieve the unbalance of
-medical staff, cutting the infectious route to contain the
-viral spread, and logistic supply to support the prevention
-and control. Our study offers theoretical contributions to
-digital pandemic prevention and control, and the literature
-on 5G also offers practical implications.
+ * 4 g, [5 g](keyword_5_g), 5 g base, [5 g network](keyword_5_g_network), 5 g technology, [academy](keyword_academy), affordance, alarm, [artificial intelligence](keyword_artificial_intelligence), bda, behaviour, [big datum](keyword_big_datum), cairncross, [canada](keyword_canada), [china](keyword_china), close contact, cloud, [cloud computing](keyword_cloud_computing), commune, communication, [control](keyword_control), [covid 19 pandemic](keyword_covid_19_pandemic), [covid-19](keyword_covid-19), ct, [datum](keyword_datum), datum analysis, [de spatialization](keyword_de_spatialization), diagnosis, different, [digital technology](keyword_digital_technology), [disease](keyword_disease), disruptive innovation, distance, embb, end of geography, [epidemic](keyword_epidemic), gupta, hangzhou, hd, [hospital](keyword_hospital), [hubei](keyword_hubei), [infection](keyword_infection), [infectious disease](keyword_infectious_disease), information loss, information system, [internet](keyword_internet), [iot](keyword_iot), latency, lin, [lockdown](keyword_lockdown), lockdown policy, management, microsyst, mmtc, [network](keyword_network), new generation communication technology, [new york](keyword_new_york), non contact, organ, [outbreak](keyword_outbreak), [pandemic](keyword_pandemic), pandemic control, pandemic control and prevention, pandemic prevention, [pandemic prevention and control](keyword_pandemic_prevention_and_control), person to person contact, [province](keyword_province), psychology, [public health](keyword_public_health), qc, [quarantine](keyword_quarantine), [research](keyword_research), [robot](keyword_robot), [russia](keyword_russia), [shanghai](keyword_shanghai), source, spatialization, st petersburg, [switzerland](keyword_switzerland), synchronous communication, tanwar, [technology](keyword_technology), tele diagnosis, tele treatment, telecommute, telemedicine, telesurgery, [temperature](keyword_temperature), terminal, treatment, tyagi, [uav](keyword_uav), ultra reliability, urllc, [vaccine](keyword_vaccine), video, [virus](keyword_virus), [wifi](keyword_wifi), [wuhan](keyword_wuhan), zhejiang
 
 
 ## Concepts
 
  ![](imgs/article_li_how_2022.jpg)
 
-### Closest articles 
-
-* [Design COVID-19 Ontology: A Healthcare and Safety Perspective](article_aloulou_design_2022)
-* [Recently employed engineering techniques to reduce the spread of COVID-19 (corona virus disease 2019): a review study](article_saman_recently_2021)
-* [Danish disinfection robots save lives in the fight against
-the Corona virus \textbar Shaping Europe’s
-digital future](article_ec_views_danish_2020)
-* [Combating COVID-19—The role of robotics in managing public health and infectious diseases](article_yang_combating_2020)
-* [China adapts survey drones to enforce world’s largest
-quarantine](article_liu_china_2020)
-* [south_china_morning_post_china_2020](article_south_china_morning_post_china_2020)
-* [Drones. Disinfecting robots. Supercomputers. The
-coronavirus outbreak is a test for China's tech industry
-\textbar CNN Business](article_wang_drones_2020)
-* [How drones help cities during the Covid-19 pandemic
-\textbar TheMayor.EU](article_dimitrova_how_2021)
-* [Sustainable work throughout the life course: National
-policies and strategies, Publications Office of the
-European Union](article_eurofund_sustainable_2016)
-* [10 tech trends getting us through the COVID-19
-pandemic](article_yan_10_2020)
-
-### References 
-
-* [The efficacy of social distance and ventilation
-effectiveness in preventing COVID-19 transmission](article_sun_efficacy_2020)
-* [A Comprehensive Review of the COVID-19 Pandemic
-and the Role of IoT, Drones, AI, Blockchain, and
-5G in Managing its Impact](article_chamola_comprehensive_2020)
-* [The role of 5G for digital healthcare against COVID-19
-pandemic: Opportunities and challenges](article_siriwardhana_role_2021)
-
-### Cited by 
 
 
+## Neighbours
+
+### Closest articles
+
+* Design COVID-19 Ontology: A Healthcare and Safety Perspective - [LINK](article_aloulou_design_2022)
+* Recently employed engineering techniques to reduce the spread of COVID-19 (corona virus disease 2019): a review study - [LINK](article_saman_recently_2021)
+* Impact of COVID-19 on IoT Adoption in Healthcare, Smart Homes, Smart Buildings, Smart Cities, Transportation and Industrial IoT - [LINK](article_umair_impact_2021)
+* Health Information Exchange with Blockchain amid Covid-19-like Pandemics - [LINK](article_christodoulou_health_2020)
+* Danish disinfection robots save lives in the fight against the Corona virus \textbar Shaping Europe’s digital future - [LINK](article_ec_views_danish_2020)
+* Combating COVID-19—The role of robotics in managing public health and infectious diseases - [LINK](article_yang_combating_2020)
+* How Can Blockchain Help People in the Event of Pandemics Such as the COVID-19? - [LINK](article_chang_how_2020)
+* Blockchain technology and its applications to combat COVID-19 pandemic - [LINK](article_sharma_blockchain_2022)
+* Leveraging Digital Transformation Technologies to Tackle COVID-19: Proposing a Privacy-First Holistic Framework - [LINK](article_arpaci_leveraging_2021)
+* The role of 5G for digital healthcare against COVID-19 pandemic: Opportunities and challenges - [LINK](article_siriwardhana_role_2021)
+
+
+### Closest BPs
+
+* Blueprint: Resilience in staffing and skills training - [LINK](bp_12)
+* Blueprint: Monitoring of wastewater [CID] - [LINK](bp_21)
+* Blueprint: Mental health – Act: Do something - [LINK](bp_18)

@@ -1,35 +1,40 @@
-# Article: __COVID-19: A new digital dawn?__ (robbins_covid-19_2020)
+# Article: COVID-19: A new digital dawn? (robbins_covid-19_2020)
 
-* [10.1177/2055207620920083](https://doi.org/10.1177/2055207620920083)
-* Cluster: [health-building](cluster_9)
+* Source: [10.1177/2055207620920083](https://doi.org/10.1177/2055207620920083)
+* Year: 2020
+* Cluster: [datum-ai](cluster_1)
+
 
 
 ## Keywords
 
-* [digital health](keyword_digital_health), [covid-19](keyword_covid-19), [united kingdom](keyword_united_kingdom), [china](keyword_china), [telemedicine](keyword_telemedicine), [world health organization](keyword_world_health_organization), [coronavirus pandemic](keyword_coronavirus_pandemic), [wuhan](keyword_wuhan), [pandemic](keyword_pandemic), [healthcare](keyword_healthcare), [hospital](keyword_hospital), digital communication, [information](keyword_information), iraq, [italy](keyword_italy)
-
-
-
-## Keywords at large
-
-* [united kingdom](keyword_united_kingdom), [digital health](keyword_digital_health), [covid-19](keyword_covid-19), [china](keyword_china), [goodwin](keyword_goodwin), [telemedicine](keyword_telemedicine), [world health organization](keyword_world_health_organization), [pandemic](keyword_pandemic), [wuhan](keyword_wuhan), [coronavirus pandemic](keyword_coronavirus_pandemic)
+ * afghanistan, asymptomatic infection, attribute, cardiology, casualty clearing station, centralised support, [china](keyword_china), communication, conference, coronavirus disease, coronavirus disease covid 19 pandemic, coronavirus infection, coronavirus pandemic, coventry, coventry warwickshire nhs trust, covid 19 coronavirus outbreak, covid 19 outbreak, covid 19 perspective, [covid-19](keyword_covid-19), dauk, develop organically, digital communication, digital educational initiative, [digital health](keyword_digital_health), digital health editorial, digital health network, digital health transformation, digital health volume 6, digitalhealth org, discourse, discourse digital health network, [disease](keyword_disease), doctor association, doctor s association uk, doctors association uk, [economy](keyword_economy), educational content, electronic health record, emerge infectious disease outbreak, emergent, emis, [facebook](keyword_facebook), [goodwin](keyword_goodwin), [healthcare](keyword_healthcare), healthcare system, [hospital](keyword_hospital), implementation, [infect](keyword_infect), information, iraq, [italy](keyword_italy), massachusetts meeting, message, model of care, [network](keyword_network), novelty of the virus, [pandemic](keyword_pandemic), pandemic management, patient management, primary, protect we, rapidity, rapidity with which covid 19 have spread globally, remote, remote consultation, respiratory failure, sarah hudson, secondary, secondary care, slack, [social medium](keyword_social_medium), [society](keyword_society), society as a whole, [spread](keyword_spread), [staff](keyword_staff), station, subclinical, [switzerland](keyword_switzerland), [symptom](keyword_symptom), taiwan s sar response, telemedicine, the human cost of the disease, the pandemic, tim robbin, trainee, training course, [twitter](keyword_twitter), [united kingdom](keyword_united_kingdom), united kingdom uk, [united nations](keyword_united_nations), vid 19, video conference, virtual education, warfare, warwickshire uhcw nhs trust, west midland, west midland region, who, world health organization, [wuhan](keyword_wuhan)
 
 
 ## Concepts
 
  ![](imgs/article_robbins_covid-19_2020.jpg)
 
-### Closest articles 
 
-* [Using Technology to Maintain the Education of Residents During the COVID-19 Pandemic](article_chick_using_2020)
-* [Telehealth overpromises during the Covid-19 pandemic](article_ostherr_telehealth_2020)
-* [Case Study on Finnish TVETA Resilient Model of
-Training During COVID-19](article_unesco_case_2021)
-* [Reframe how to serve your community in the midst of a pandemic](article_sutton_reframe_2020)
-* [Mobile Technology Solution for COVID-19: Surveillance and Prevention](article_raza_mobile_2021)
-* [The role of 5G for digital healthcare against COVID-19 pandemic: Opportunities and challenges](article_siriwardhana_role_2021)
-* [How Can Blockchain Help People in the Event of Pandemics Such as the COVID-19?](article_chang_how_2020)
-* [Management of the COVID-19 pandemic: challenges, practices, and organizational support](article_hossny_management_2022)
-* [Supporting Technologies for COVID-19 Prevention: Systemized Review](article_zhao_supporting_2022)
-* [Health Information Exchange with Blockchain amid Covid-19-like Pandemics](article_christodoulou_health_2020)
 
+## Neighbours
+
+### Closest articles
+
+* Using Technology to Maintain the Education of Residents During the COVID-19 Pandemic - [LINK](article_chick_using_2020)
+* Significant applications of virtual reality for COVID-19 pandemic - [LINK](article_singh_significant_2020)
+* Management of the COVID-19 pandemic: challenges, practices, and organizational support - [LINK](article_hossny_management_2022)
+* Case Study on Finnish TVETA Resilient Model of Training During COVID-19 - [LINK](article_unesco_case_2021)
+* Sustainable work throughout the life course: National policies and strategies, Publications Office of the European Union - [LINK](article_eurofund_sustainable_2016)
+* Emergency Healthcare Facilities: Managing Design in a Post Covid-19 World - [LINK](article_marinelli_emergency_2020)
+* Telehealth overpromises during the Covid-19 pandemic - [LINK](article_ostherr_telehealth_2020)
+* COVID-19 Bulletin 1: Alterations to BREEAM assessment requirements as a result of the Coronavirus pandemic – Knowledge Base - [LINK](article_breeam_covid-19_2020)
+* Internet of things (IoT) applications to fight against COVID-19 pandemic - [LINK](article_singh_internet_2020)
+* Mobile Technology Solution for COVID-19: Surveillance and Prevention - [LINK](article_raza_mobile_2021)
+
+
+### Closest BPs
+
+* Blueprint: Resilience in staffing and skills training - [LINK](bp_12)
+* Blueprint: Monitoring of wastewater [CID] - [LINK](bp_21)
+* Blueprint: Public places as information points - [LINK](bp_8)
