@@ -2,7 +2,7 @@
 
 * [https://millerhull.com/2020/covid-19-lessons-for-a-resilient-built-environment-a-roadmap/](https://millerhull.com/2020/covid-19-lessons-for-a-resilient-built-environment-a-roadmap/)
 * Year: 2020
-* Cluster: [building-space](cluster_9)
+* Cluster: [building-space](cluster_1)
 
 
 
@@ -21,16 +21,16 @@
 
 ### Closest articles
 
-* Houses amid COVID-19: Environmental challenges and design adaptation - [LINK](article_hizra_houses_2021)
 * Adaptive Design of the Built Environment to Mitigate the Transmission Risk of COVID-19 - [LINK](article_ara_dilshad_shangi_adaptive_2020)
-* COVID-19 Could Leverage a Sustainable Built Environment - [LINK](article_pinheiro_covid-19_2020)
+* Houses amid COVID-19: Environmental challenges and design adaptation - [LINK](article_hizra_houses_2021)
 * Navigating Climate Change: Rethinking the Role of Buildings - [LINK](article_cole_navigating_2020)
 * RESIDENTIAL ARCHITECTURE IN A POST-PANDEMIC WORLD: IMPLICATIONS OF COVID-19 FOR NEW CONSTRUCTION AND FOR ADAPTING HERITAGE BUILDINGS - [LINK](article_spennemann_residential_2021)
-* Antivirus-built environment: Lessons learned from Covid-19 pandemic - [LINK](article_megahed_antivirus-built_2020)
-* How is COVID-19 Experience Transforming Sustainability Requirements of Residential Buildings? A Review - [LINK](article_tokazhanov_how_2020)
+* How the Coronavirus Will Reshape Architecture - [LINK](article_chayka_how_2020)
 * Designing for COVID-2x: Reflecting on Future-Proofing Human Habitation for the Inevitable Next Pandemic - [LINK](article_spennemann_designing_2022)
-* The COVID-19 Impact on Flexible Office Space - [LINK](article_clifton_covid-19_2020)
-*  - [LINK](article_dalessandro_covid-19_2020)
+* How Architecture Fails in Conditions of Crisis: a Discussion on the Value of Interior Design over the COVID-19 Outbreak - [LINK](article_rassia_how_2020)
+* Will a pandemic change building codes? - [LINK](article_rozgus_will_2020)
+* How will COVID-19 change future building regulations? - [LINK](article_hmc_architects_how_2020)
+* COVID-19 Could Leverage a Sustainable Built Environment - [LINK](article_pinheiro_covid-19_2020)
 
 
 ### Closest BPs

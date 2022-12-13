@@ -1,11 +1,11 @@
 # Keyword: blueprint
 
-* [gbn-mental](cluster_Cluster_0)
+* [gbn-measure](cluster_Cluster_10)
 
 
 ## Keywords
 
- * Cluster_0, [blueprint](keyword_blueprint), blueprints, production planning
+ * Cluster_10, [blueprint](keyword_blueprint), blueprints, production planning
 
 
 ## Concepts

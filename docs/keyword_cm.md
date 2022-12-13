@@ -1,16 +1,26 @@
-# Keyword: __cm__
-## Clusters
+# Keyword: cm
 
-* Cluster 5: [uvc-hcov](cluster_5)
+* [uvc-hcov](cluster_Cluster_7)
+
+
+## Keywords
+
+ * Cluster_7, barbu, [cm](keyword_cm), imbahale s, johnson lussenburg, mbogo, mbogo c, mutero
+
 
 ## Concepts
 
  ![](imgs/keyword_cm.jpg)
 
 
-## Top 10 articles for __cm__
-* Exploring the Non-Medical impacts of Covid-19 using
-Natural Language Processing ([agade_exploring_2020](article_agade_exploring_2020))
-* Applications of ultraviolet germicidal irradiation
-disinfection in health care facilities: Effective
-adjunct, but not stand-alone technology ([memarzadeh_applications_2010](article_memarzadeh_applications_2010))
+
+## Neighbours
+
+### Closest articles
+
+* Addressing vulnerability, building resilience: community-based adaptation to vector-borne diseases in the context of global change - [LINK](article_bardosh_addressing_2017)
+* Applications of ultraviolet germicidal irradiation disinfection in health care facilities: Effective adjunct, but not stand-alone technology - [LINK](article_memarzadeh_applications_2010)
+
+
+### Closest BPs
+

@@ -1,8 +1,8 @@
-# Cluster: __surveying-mapping__ (Cluster_10)
+# Cluster: __gbn-measure__ (Cluster_10)
 
 ## Keywords
 
- * [adapt](keyword_adapt), [big](keyword_big), [business](keyword_business), [china](keyword_china), [click](keyword_click), [contain](keyword_contain), [coron](keyword_coron), [delivery](keyword_delivery), [drone](keyword_drone), [drone](keyword_drone), [enforce](keyword_enforce), [kg](keyword_kg), [mapping](keyword_mapping), [quarantine](keyword_quarantine), [scmp](keyword_scmp), [shenzhen](keyword_shenzhen), [survey](keyword_survey), [task](keyword_task), [uav](keyword_uav), [world](keyword_world)
+ * [behavioural](keyword_behavioural), [blueprint](keyword_blueprint), [build](keyword_build), [dt](keyword_dt), [gbn](keyword_gbn), [information](keyword_information), [limitation](keyword_limitation), [measure](keyword_measure), [mental](keyword_mental), [occupancy](keyword_occupancy), [people](keyword_people), [permanent](keyword_permanent), [phase](keyword_phase), [proposition](keyword_proposition), [restriction](keyword_restriction), [transmission](keyword_transmission), [twin](keyword_twin), [user](keyword_user), [well](keyword_well)
 
 
 
@@ -14,4 +14,17 @@
 
 # Linked articles
 
-* China adapts survey drones to enforce world’s largest quarantine - [LINK](article_liu_china_2020)
+* Blueprint: Rotational Shift System - [LINK](bp_0)
+* Blueprint: Smart Locker System - [LINK](bp_1)
+* Blueprint: Resilience in staffing and skills training - [LINK](bp_12)
+* Blueprint: Good hand hygiene practice - [LINK](bp_16)
+* Blueprint: Reducing contact points - [LINK](bp_17)
+* Blueprint: Mental health – Act: Do something - [LINK](bp_18)
+* Blueprint: Mental health – Belong: Do something with someone - [LINK](bp_19)
+* Blueprint: Architecture design - [LINK](bp_2)
+* Blueprint: Mental health – Commit: Do something meaningfull - [LINK](bp_20)
+* Blueprint: One-way mobility circulation - [LINK](bp_4)
+* Blueprint: Checkpoint allocation for access limitation - [LINK](bp_6)
+* Blueprint: Access limitation - [LINK](bp_7)
+* Blueprint: Public places as information points - [LINK](bp_8)
+* Blueprint: Tender support at building stage - [LINK](bp_9)

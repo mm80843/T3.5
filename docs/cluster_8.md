@@ -1,8 +1,8 @@
-# Cluster: __customer-brand__ (Cluster_8)
+# Cluster: __memish-saudi__ (Cluster_8)
 
 ## Keywords
 
- * [agility](keyword_agility), [brand](keyword_brand), [business](keyword_business), [capability](keyword_capability), [consumer](keyword_consumer), [customer](keyword_customer), [employee](keyword_employee), [firm](keyword_firm), [food](keyword_food), [marketing](keyword_marketing), [new](keyword_new), [pandemic](keyword_pandemic), [retail](keyword_retail), [retailer](keyword_retailer), [retailing](keyword_retailing), [service](keyword_service), [sme](keyword_sme), [social](keyword_social), [store](keyword_store), [truck](keyword_truck)
+ * [arabia](keyword_arabia), [community](keyword_community), [coronavirus](keyword_coronavirus), [country](keyword_country), [crowd](keyword_crowd), [export](keyword_export), [gather](keyword_gather), [http](keyword_http), [influenza](keyword_influenza), [mass](keyword_mass), [memish](keyword_memish), [mitigation](keyword_mitigation), [permission](keyword_permission), [professor](keyword_professor), [religious](keyword_religious), [saudi](keyword_saudi), [school](keyword_school), [subscribe](keyword_subscribe), [transmission](keyword_transmission), [travel](keyword_travel)
 
 
 
@@ -14,4 +14,4 @@
 
 # Linked articles
 
-* How COVID-19 Could Accelerate the Adoption of New Retail Technologies and Enhance the (E-)Servicescape - [LINK](article_willems_how_2021)
+* Covid-19 and community mitigation strategies in a pandemic - [LINK](article_ebrahim_covid-19_2020)

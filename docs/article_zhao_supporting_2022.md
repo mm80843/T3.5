@@ -2,7 +2,7 @@
 
 * Source: [10.2196/30344](https://doi.org/10.2196/30344)
 * Year: 2022
-* Cluster: [sars-virus](cluster_12)
+* Cluster: [city-health](cluster_14)
 
 
 
@@ -21,20 +21,19 @@
 
 ### Closest articles
 
-* Emergency Healthcare Facilities: Managing Design in a Post Covid-19 World - [LINK](article_marinelli_emergency_2020)
-* Open-source analytics tools for studying the COVID-19 coronavirus outbreak - [LINK](article_wu_open-source_2020)
-*  - [LINK](article_mehtab_alam_role_2021)
 * Management of the COVID-19 pandemic: challenges, practices, and organizational support - [LINK](article_hossny_management_2022)
-* The effect of human mobility and control measures on the COVID-19 epidemic in China - [LINK](article_kraemer_effect_2020)
+* Telehealth overpromises during the Covid-19 pandemic - [LINK](article_ostherr_telehealth_2020)
 * COVID-19 Prevention and Control Measures in Workplace Settings: A Rapid Review and Meta-Analysis - [LINK](article_ingram_covid-19_2021)
-* Contributions to the mitigation of the COVID-19 pandemic - [LINK](article_pilz_contributions_2022)
+* Covid-19 and community mitigation strategies in a pandemic - [LINK](article_ebrahim_covid-19_2020)
+* Coronavirus disease 2019: The harms of exaggerated information and non‐evidence‐based measures - [LINK](article_ioannidis_coronavirus_2020)
 * Physical interventions to interrupt or reduce the spread of respiratory viruses: systematic review - [LINK](article_jefferson_physical_2008)
+* Emergency Healthcare Facilities: Managing Design in a Post Covid-19 World - [LINK](article_marinelli_emergency_2020)
+* COVID-19: A new digital dawn? - [LINK](article_robbins_covid-19_2020)
 * Response to COVID-19 in Taiwan - [LINK](article_wang_response_2020)
-* Exploring the Potential of Artificial Intelligence and Machine Learning to Combat COVID-19 and Existing Opportunities for LMIC: A Scoping Review - [LINK](article_naseem_exploring_2020)
 
 
 ### Closest BPs
 
 * Blueprint: Resilience in staffing and skills training - [LINK](bp_12)
-* Blueprint: Monitoring of wastewater [CID] - [LINK](bp_21)
 * Blueprint: Installing high-efficiency air filters - [LINK](bp_11)
+* Blueprint: Smart Locker System - [LINK](bp_1)

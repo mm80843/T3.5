@@ -3,7 +3,7 @@
 
 ## Details
 
-* Cluster: __Cluster_9__ (Cluster_9)
+* Cluster: __Cluster_10__ (Cluster_10)
 
 
 
@@ -83,13 +83,14 @@ Building of disease spread-prone buildings can be financially more exhaustive.
 
 * Biophilic design in architecture and its contributions to health, well-being, and sustainability: A critical review - [LINK](article_zhong_biophilic_2022)
 * How Architecture Fails in Conditions of Crisis: a Discussion on the Value of Interior Design over the COVID-19 Outbreak - [LINK](article_rassia_how_2020)
-* Questioning the use of the balcony in apartments during the COVID-19 pandemic process - [LINK](article_aydin_questioning_2020)
+*  - [LINK](article_dalessandro_covid-19_2020)
+* The COVID-19 Impact on Flexible Office Space - [LINK](article_clifton_covid-19_2020)
+* Architectural Design Drives the Biogeography of Indoor Bacterial Communities - [LINK](article_kembel_architectural_2014)
+* How is COVID-19 Experience Transforming Sustainability Requirements of Residential Buildings? A Review - [LINK](article_tokazhanov_how_2020)
+* Prophylactic Architecture: Formulating the Concept of Pandemic-Resilient Homes - [LINK](article_elrayies_prophylactic_2022)
+* How our homes impact our health: using a COVID-19 informed approach to examine urban apartment housing - [LINK](article_peters_how_2020)
+* It’s time to reimagine where and how work will get done (PwC’s US Remote Work Survey) - [LINK](article_pricewaterhousecoopers_its_2021)
 * How the Coronavirus Will Reshape Architecture - [LINK](article_chayka_how_2020)
-* Urban design attributes and resilience: COVID-19 evidence from New York City - [LINK](article_yang_urban_2021)
-* A Mixed Approach on Resilience of Spanish Dwellings and Households during COVID-19 Lockdown - [LINK](article_cuerdo-vilches_mixed_2020)
-* The City Under COVID‐19: Podcasting As Digital Methodology - [LINK](article_rogers_city_2020)
-* Housing Experience in Gated Communities in the Time of Pandemics: Lessons Learned from COVID-19 - [LINK](article_asfour_housing_2022)
-* Should I Stay or Should I Go? Tourists’ COVID-19 Risk Perception and Vacation Behavior Shift - [LINK](article_bratic_should_2021)
 
 
 ### Closest BPs

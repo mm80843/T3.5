@@ -1,11 +1,13 @@
 # Keyword: user
 
-* [gbn-mental](cluster_Cluster_0)
+* [gbn-measure](cluster_Cluster_6)
+
+* [airport-coating](cluster_Cluster_10)
 
 
 ## Keywords
 
- * Cluster_0, android, [application](keyword_application), [build](keyword_build), communication, computer security, device, [facebook](keyword_facebook), [fake news](keyword_fake_news), guide, information technology, interaction, interface, [internet](keyword_internet), landscape design, location datum, location trail, market research, [model](keyword_model), product, self checkout counter, smartphone, [social medium](keyword_social_medium), social medium use, technical literacy, test, [twitter](keyword_twitter), type of user, usage, [user](keyword_user), users
+ * Cluster_10, Cluster_6, android, [application](keyword_application), [build](keyword_build), communication, computer security, device, [facebook](keyword_facebook), [fake news](keyword_fake_news), guide, information technology, [interaction](keyword_interaction), interface, [internet](keyword_internet), landscape design, location datum, location trail, market research, [model](keyword_model), [product](keyword_product), self checkout counter, [social medium](keyword_social_medium), social medium use, technical literacy, test, [twitter](keyword_twitter), type of user, usage, [user](keyword_user), users
 
 
 ## Concepts
@@ -27,6 +29,7 @@
 * Ten questions concerning occupant health in buildings during normal operations and extreme events including the COVID-19 pandemic - [LINK](article_awada_ten_2021)
 * COVID-19 Could Leverage a Sustainable Built Environment - [LINK](article_pinheiro_covid-19_2020)
 * A Mixed Approach on Resilience of Spanish Dwellings and Households during COVID-19 Lockdown - [LINK](article_cuerdo-vilches_mixed_2020)
+* Infodemic and the spread of fake news in the COVID-19-era - [LINK](article_orso_infodemic_2020)
 
 
 ### Closest BPs

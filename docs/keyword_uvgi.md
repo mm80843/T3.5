@@ -1,33 +1,34 @@
-# Keyword: __uvgi__
-## Clusters
+# Keyword: uvgi
 
-* Cluster 2: [uv-room](cluster_2)
+* [uv-air](cluster_Cluster_4)
+
+
+## Keywords
+
+ * ac h, [aerosol](keyword_aerosol), ahu, air irradiation, airborne disease, airborne transmission, avital, bipolar ionization system, ceil ing, ceiling mount fan, center for diseasecontrol and prevention, cfd, cfd simulation, [covid-19](keyword_covid-19), dilution, disinfect, [disinfectant](keyword_disinfectant), [disinfection](keyword_disinfection), disinfection of air, distribution, effective measure against microbe, engineering control, environmental surface, fan, [filter](keyword_filter), [filtration](keyword_filtration), [germicidal](keyword_germicidal), germicidal irradiation, germicidal ultraviolet, germicidalirradiation, gingemicidal, guideline, health care facility, hepa, hepa filter, hepa ﬁlter, humidity control, [hvac](keyword_hvac), iaq control, in duct, in duct installation, in duct irradiation, [inactivate](keyword_inactivate), inactivate microbe, [infection control](keyword_infection_control), infection prevention, infection prevention method, instal, installation, [ionizer](keyword_ionizer), [irradiation](keyword_irradiation), jicjournal, [lamp](keyword_lamp), levetin, louver, manufacturer, [microorganism](keyword_microorganism), moisture control, nuclei, retrofitting, rh, safe uvgi, safety issue, sing, [surface](keyword_surface), [tuberculosis](keyword_tuberculosis), [ultraviolet](keyword_ultraviolet), ultraviolet germicidal, ultraviolet germicidal irradiation, ultraviolet germicidal lamp, upper room, upper room system, upper room uvgi, upperroom uvgi, [uv](keyword_uv), uv air disinfection, uv efﬂuence, uv field, uv fixture, uv germicidal irradiation, uv irradiation, uv ray, uv ﬁeld, uv ﬂux, [uv-c](keyword_uv-c), [uvgi](keyword_uvgi), uvgi air disinfection, uvgi distribution, uvgi drug, uvgi fixture, uvgi system, uvgi technology, uvgi uvgi, [ventilation](keyword_ventilation), ventilation efficiency, [ventilation system](keyword_ventilation_system), walker, walker ko, [well](keyword_well), ﬂuid dynamic
+
 
 ## Concepts
 
  ![](imgs/keyword_uvgi.jpg)
 
 
-## Top 10 articles for __uvgi__
-* Applications of ultraviolet germicidal irradiation
-disinfection in health care facilities: Effective
-adjunct, but not stand-alone technology ([memarzadeh_applications_2010](article_memarzadeh_applications_2010))
-* A review of facilities management interventions to
-mitigate respiratory infections in existing buildings ([zhang_review_2022](article_zhang_review_2022))
-* Upper-room ultraviolet air disinfection might help to
-reduce COVID-19 transmission in buildings: a feasibility
-study ([beggs_upper-room_2020](article_beggs_upper-room_2020))
-* Methods for air cleaning and protection of building
-occupants from airborne pathogens ([bolashikov_methods_2009](article_bolashikov_methods_2009))
-* Designing Post COVID-19 Buildings: Approaches for
-Achieving Healthy Buildings ([navaratnam_designing_2022](article_navaratnam_designing_2022))
-* Indoor Air Quality: Rethinking rules of building
-design strategies in post-pandemic architecture ([megahed_indoor_2021](article_megahed_indoor_2021))
-* Environmental factors involved in SARS-CoV-2
-transmission: effect and role of indoor environmental
-quality in the strategy for COVID-19 infection control ([azuma_environmental_2020](article_azuma_environmental_2020))
-* Review and comparison of HVAC operation guidelines in
-different countries during the COVID-19 pandemic ([guo_review_2021](article_guo_review_2021))
-* ashrae_ashrae_2022 ([ashrae_ashrae_2022](article_ashrae_ashrae_2022))
-* Effect of Ultraviolet Germicidal Irradiation on
-Viral Aerosols ([walker_effect_2007](article_walker_effect_2007))
+
+## Neighbours
+
+### Closest articles
+
+* Applications of ultraviolet germicidal irradiation disinfection in health care facilities: Effective adjunct, but not stand-alone technology - [LINK](article_memarzadeh_applications_2010)
+* A review of facilities management interventions to mitigate respiratory infections in existing buildings - [LINK](article_zhang_review_2022)
+* Upper-room ultraviolet air disinfection might help to reduce COVID-19 transmission in buildings: a feasibility study - [LINK](article_beggs_upper-room_2020)
+* Methods for air cleaning and protection of building occupants from airborne pathogens - [LINK](article_bolashikov_methods_2009)
+* Designing Post COVID-19 Buildings: Approaches for Achieving Healthy Buildings - [LINK](article_navaratnam_designing_2022)
+* Indoor Air Quality: Rethinking rules of building design strategies in post-pandemic architecture - [LINK](article_megahed_indoor_2021)
+* Environmental factors involved in SARS-CoV-2 transmission: effect and role of indoor environmental quality in the strategy for COVID-19 infection control - [LINK](article_azuma_environmental_2020)
+* A critical review of heating, ventilation, and air conditioning (HVAC) systems within the context of a global SARS-CoV-2 epidemic - [LINK](article_elsaid_critical_2021)
+* Review and comparison of HVAC operation guidelines in different countries during the COVID-19 pandemic - [LINK](article_guo_review_2021)
+* Effect of Ultraviolet Germicidal Irradiation on Viral Aerosols - [LINK](article_walker_effect_2007)
+
+
+### Closest BPs
+

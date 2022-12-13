@@ -1,7 +1,7 @@
 # Article: Refleksioner fra en pandemi (realdania_refleksioner_2022)
 
 * Year: 2022
-* Cluster: [building-space](cluster_9)
+* Cluster: [city-health](cluster_14)
 
 
 
@@ -21,18 +21,19 @@
 ### Closest articles
 
 * Pandemiens arkitektur - [LINK](article_realdania_pandemiens_2022)
-* How Can Blockchain Help People in the Event of Pandemics Such as the COVID-19? - [LINK](article_chang_how_2020)
-* Blockchain technology and its applications to combat COVID-19 pandemic - [LINK](article_sharma_blockchain_2022)
-* Emerging from Lockdown: CIBSE COVID-19 Guidance - [LINK](article_cibse_emerging_2020)
-* Health Information Exchange with Blockchain amid Covid-19-like Pandemics - [LINK](article_christodoulou_health_2020)
-* Future perspectives of wastewater-based epidemiology: Monitoring infectious disease spread and resistance to the community level - [LINK](article_sims_future_2020)
-* When the fourth water and digital revolution encountered COVID-19 - [LINK](article_poch_when_2020)
-* First detection of SARS-CoV-2 in untreated wastewaters in Italy - [LINK](article_la_rosa_first_2020)
-* Exploring the Potential of Artificial Intelligence and Machine Learning to Combat COVID-19 and Existing Opportunities for LMIC: A Scoping Review - [LINK](article_naseem_exploring_2020)
+* COVID-19 Bulletin 1: Alterations to BREEAM assessment requirements as a result of the Coronavirus pandemic – Knowledge Base - [LINK](article_breeam_covid-19_2020)
+* Impact of COVID-19 on IoT Adoption in Healthcare, Smart Homes, Smart Buildings, Smart Cities, Transportation and Industrial IoT - [LINK](article_umair_impact_2021)
+* Assessment method for new sustainability indicators providing pandemic resilience for residential buildings - [LINK](article_tokazhanov_assessment_2021)
+* How to Make Green Building Certification &amp; Rating Systems More Pandemic-Sustainable? - [LINK](article_ujikawa_how_2022)
+* Readiness Assessment of Green Building Certification Systems for Residential Buildings during Pandemics - [LINK](article_tleuken_readiness_2021)
+* Contributions of Smart City Solutions and Technologies to Resilience against the COVID-19 Pandemic: A Literature Review - [LINK](article_sharifi_contributions_2021)
+* The Emergence of Anti-Privacy and Control at the Nexus between the Concepts of Safe City and Smart City - [LINK](article_allam_emergence_2019)
+* Mitigation strategies and compliance in the COVID-19 fight; how much compliance is enough? - [LINK](article_mukerjee_mitigation_2021)
+* How COVID-19 Redefines the Concept of Sustainability - [LINK](article_hakovirta_how_2020)
 
 
 ### Closest BPs
 
-* Blueprint: Monitoring of wastewater [CID] - [LINK](bp_21)
-* Blueprint: Resilience in staffing and skills training - [LINK](bp_12)
-* Blueprint: Negative pressure rooms - [LINK](bp_13)
+* Blueprint: Smart Locker System - [LINK](bp_1)
+* Blueprint: One-way mobility circulation - [LINK](bp_4)
+* Blueprint: Rotational Shift System - [LINK](bp_0)

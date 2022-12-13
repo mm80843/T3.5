@@ -2,7 +2,7 @@
 
 * Source: [10.1007/s43069-020-0014-9](https://doi.org/10.1007/s43069-020-0014-9)
 * Year: 2020
-* Cluster: [building-space](cluster_9)
+* Cluster: [building-space](cluster_1)
 
 
 
@@ -23,13 +23,14 @@
 
 * Biophilic design in architecture and its contributions to health, well-being, and sustainability: A critical review - [LINK](article_zhong_biophilic_2022)
 * How the Coronavirus Will Reshape Architecture - [LINK](article_chayka_how_2020)
+* Adaptive Design of the Built Environment to Mitigate the Transmission Risk of COVID-19 - [LINK](article_ara_dilshad_shangi_adaptive_2020)
+* How is COVID-19 Experience Transforming Sustainability Requirements of Residential Buildings? A Review - [LINK](article_tokazhanov_how_2020)
 * RESIDENTIAL ARCHITECTURE IN A POST-PANDEMIC WORLD: IMPLICATIONS OF COVID-19 FOR NEW CONSTRUCTION AND FOR ADAPTING HERITAGE BUILDINGS - [LINK](article_spennemann_residential_2021)
+* COVID-19 Lessons for a Resilient Built Environment: A Roadmap - [LINK](article_hull_covid-19_2020)
 * Designing for COVID-2x: Reflecting on Future-Proofing Human Habitation for the Inevitable Next Pandemic - [LINK](article_spennemann_designing_2022)
-* How our homes impact our health: using a COVID-19 informed approach to examine urban apartment housing - [LINK](article_peters_how_2020)
-* Towards Resilient Residential Buildings and Neighborhoods in Light of COVID-19 Pandemic—The Scenario of Podgorica, Montenegro - [LINK](article_bojovic_towards_2022)
+* The COVID-19 Impact on Flexible Office Space - [LINK](article_clifton_covid-19_2020)
+* Houses amid COVID-19: Environmental challenges and design adaptation - [LINK](article_hizra_houses_2021)
 *  - [LINK](article_dalessandro_covid-19_2020)
-* Questioning the use of the balcony in apartments during the COVID-19 pandemic process - [LINK](article_aydin_questioning_2020)
-* Prophylactic Architecture: Formulating the Concept of Pandemic-Resilient Homes - [LINK](article_elrayies_prophylactic_2022)
 
 
 ### Closest BPs

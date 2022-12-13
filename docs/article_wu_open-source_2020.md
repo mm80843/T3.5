@@ -2,13 +2,13 @@
 
 * Source: [10.1101/2020.02.25.20027433](https://doi.org/10.1101/2020.02.25.20027433)
 * Year: 2020
-* Cluster: [perpetuity-forest](cluster_6)
+* Cluster: [city-health](cluster_14)
 
 
 
 ## Keywords
 
- * aggregate datum, api, application programming interface, [author funder](keyword_author_funder), bcloud, cc by nc nd 4 0, cent tencent com, change data format, [china](keyword_china), china national health commission, [chinese](keyword_chinese), chinese province, chinese province and special district, [city](keyword_city), city in hubei, city in other region, cnhc, code, confirm case, [conflict of interest](keyword_conflict_of_interest), consistent, [copyright holder](keyword_copyright_holder), [coronavirus](keyword_coronavirus), coronavirus covid 19 outbreak statistic and forecast, coronavirus infection, [coronavirus outbreak](keyword_coronavirus_outbreak), dashboard, [dataset](keyword_dataset), [datum](keyword_datum), datum source, datum visualization, death, death rate, disease transmission, [doc](keyword_doc), epidemiologist, [europe](keyword_europe), exponential smoothing, extreme measure, file, [forecast](keyword_forecast), forecasting, [france](keyword_france), functionality, general assembly, github, github repository, global health concern, guangzhou, historical datum, html, [hubei](keyword_hubei), interactive app, interactive web app, [international license](keyword_international_license), iran, [italy](keyword_italy), kraków, locally, manage, mexico, monitor the datum source, news aggregator, none, nongovernmental organization, nongovernmental organization dingxiangyuan, novel coronavirus, official, overwhelmed healthcare system, plot, [poland](keyword_poland), [province](keyword_province), [public](keyword_public), [public health](keyword_public_health), r package, real time datum, repository, [research](keyword_research), [researcher](keyword_researcher), rstudio, scientist, shiny framework, software, [south korea](keyword_south_korea), [spain](keyword_spain), special district, [spread](keyword_spread), [statistic](keyword_statistic), [study](keyword_study), supp, suppl, tencent, toutiao api, [united nations](keyword_united_nations), [united states](keyword_united_states), web app, web base, world health organization, [wuhan](keyword_wuhan), zhejiang
+ * aggregate datum, api, application programming interface, [author funder](keyword_author_funder), bcloud, cc by nc nd 4 0, cent tencent com, change data format, [china](keyword_china), china national health commission, [chinese](keyword_chinese), chinese province, chinese province and special district, [city](keyword_city), city in hubei, city in other region, cnhc, code, confirm case, [conflict of interest](keyword_conflict_of_interest), consistent, [copyright holder](keyword_copyright_holder), [coronavirus](keyword_coronavirus), coronavirus covid 19 outbreak statistic and forecast, coronavirus infection, [coronavirus outbreak](keyword_coronavirus_outbreak), dashboard, [dataset](keyword_dataset), [datum](keyword_datum), datum source, datum visualization, death, death rate, disease transmission, doc, epidemiologist, [europe](keyword_europe), exponential smoothing, extreme measure, file, forecast, forecasting, [france](keyword_france), functionality, general assembly, github, github repository, global health concern, guangzhou, historical datum, html, [hubei](keyword_hubei), interactive app, interactive web app, [international license](keyword_international_license), iran, [italy](keyword_italy), kraków, locally, manage, mexico, monitor the datum source, news aggregator, none, nongovernmental organization, nongovernmental organization dingxiangyuan, novel coronavirus, official, overwhelmed healthcare system, plot, [poland](keyword_poland), [province](keyword_province), [public](keyword_public), [public health](keyword_public_health), r package, real time datum, repository, [research](keyword_research), [researcher](keyword_researcher), rstudio, scientist, shiny framework, software, [south korea](keyword_south_korea), [spain](keyword_spain), special district, [spread](keyword_spread), statistic, [study](keyword_study), supp, suppl, tencent, toutiao api, [united nations](keyword_united_nations), [united states](keyword_united_states), web app, web base, [world health organization](keyword_world_health_organization), [wuhan](keyword_wuhan), zhejiang
 
 
 ## Concepts
@@ -22,19 +22,18 @@
 ### Closest articles
 
 * The effect of human mobility and control measures on the COVID-19 epidemic in China - [LINK](article_kraemer_effect_2020)
-*  - [LINK](article_mehtab_alam_role_2021)
-* Contributions to the mitigation of the COVID-19 pandemic - [LINK](article_pilz_contributions_2022)
-* Coronavirus disease 2019: The harms of exaggerated information and non‐evidence‐based measures - [LINK](article_ioannidis_coronavirus_2020)
-* Study of COVID-19 pandemic in London (UK) from urban context - [LINK](article_ghosh_study_2020)
-* Supporting Technologies for COVID-19 Prevention: Systemized Review - [LINK](article_zhao_supporting_2022)
-* Covid-19 and community mitigation strategies in a pandemic - [LINK](article_ebrahim_covid-19_2020)
-* Response to COVID-19 in Taiwan - [LINK](article_wang_response_2020)
-* Emergency Healthcare Facilities: Managing Design in a Post Covid-19 World - [LINK](article_marinelli_emergency_2020)
-* COVID-19 Prevention and Control Measures in Workplace Settings: A Rapid Review and Meta-Analysis - [LINK](article_ingram_covid-19_2021)
+* An investigation of transmission control measures during the first 50 days of the COVID-19 epidemic in China - [LINK](article_tian_investigation_2020)
+* Touchless Retail: What the Rest of the World could learn from China’s new ways to shop - [LINK](article_capgemini_touchless_2020)
+* How COVID-19 Could Accelerate the Adoption of New Retail Technologies and Enhance the (E-)Servicescape - [LINK](article_willems_how_2021)
+* Health, Economic and Social Development Challenges of the COVID-19 Pandemic: Strategies for Multiple and Interconnected Issues - [LINK](article_panneer_health_2022)
+* Retail Signage During the COVID-19 Pandemic - [LINK](article_mcneish_retail_2020)
+* How COVID-19 Redefines the Concept of Sustainability - [LINK](article_hakovirta_how_2020)
+* COVID-19 and the UN Sustainable Development Goals: Threat to Solidarity or an Opportunity? - [LINK](article_leal_filho_covid-19_2020)
+* The COVID-19 pandemic: Lessons on building more equal and sustainable societies - [LINK](article_van_barneveld_covid-19_2020)
 
 
 ### Closest BPs
 
-* Blueprint: Resilience in staffing and skills training - [LINK](bp_12)
-* Blueprint: Monitoring of wastewater [CID] - [LINK](bp_21)
-* Blueprint: Installing high-efficiency air filters - [LINK](bp_11)
+* Blueprint: One-way mobility circulation - [LINK](bp_4)
+* Blueprint: Smart Locker System - [LINK](bp_1)
+* Blueprint: Rotational Shift System - [LINK](bp_0)

@@ -1,22 +1,28 @@
-# Keyword: __occupy__
-## Clusters
+# Keyword: occupy
 
-* Cluster 6: [building-guidance](cluster_6.md)
+* [building-guidance](cluster_Cluster_15)
+
+
+## Keywords
+
+ * Cluster_15, experimental house, [exposure](keyword_exposure), movement, occupation, occupied, [occupy](keyword_occupy), occupying, specie
+
 
 ## Concepts
 
  ![](imgs/keyword_occupy.jpg)
 
 
-## Articles
-* The Effect of Opening Windows on Air Change
-Rates in Two Homes ([howard-reed_effect_2002](article_howard-reed_effect_2002.md))
-* RUDDS_bioRxiv_update-0 ([RUDDS_bioRxiv_update-0](article_RUDDS_bioRxiv_update-0.md))
-* realdania_refleksioner_2022-150 ([realdania_refleksioner_2022-150](article_realdania_refleksioner_2022-150.md))
-* realdania_refleksioner_2022_EN-1450 ([realdania_refleksioner_2022_EN-1450](article_realdania_refleksioner_2022_EN-1450.md))
-* realdania_refleksioner_2022_EN-1400 ([realdania_refleksioner_2022_EN-1400](article_realdania_refleksioner_2022_EN-1400.md))
-* realdania_refleksioner_2022_EN-1350 ([realdania_refleksioner_2022_EN-1350](article_realdania_refleksioner_2022_EN-1350.md))
-* realdania_refleksioner_2022_EN-1300 ([realdania_refleksioner_2022_EN-1300](article_realdania_refleksioner_2022_EN-1300.md))
-* realdania_refleksioner_2022_EN-1250 ([realdania_refleksioner_2022_EN-1250](article_realdania_refleksioner_2022_EN-1250.md))
-* realdania_refleksioner_2022_EN-1200 ([realdania_refleksioner_2022_EN-1200](article_realdania_refleksioner_2022_EN-1200.md))
-* realdania_refleksioner_2022_EN-1150 ([realdania_refleksioner_2022_EN-1150](article_realdania_refleksioner_2022_EN-1150.md))
+
+## Neighbours
+
+### Closest articles
+
+* The efficacy of social distance and ventilation effectiveness in preventing COVID-19 transmission - [LINK](article_sun_efficacy_2020)
+* The Impact of COVID-19 on Public Space: A Review of the Emerging Questions - [LINK](article_honey-roses_impact_2020)
+* Nurture to nature via COVID-19, a self-regenerating environmental strategy of environment in global context - [LINK](article_paital_nurture_2020)
+* The Effect of Opening Windows on Air Change Rates in Two Homes - [LINK](article_howard-reed_effect_2002)
+
+
+### Closest BPs
+

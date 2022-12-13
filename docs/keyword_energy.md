@@ -1,11 +1,13 @@
 # Keyword: energy
 
-* [building-space](cluster_Cluster_9)
+* [building-space](cluster_Cluster_1)
+
+* [construction-resilience](cluster_Cluster_5)
 
 
 ## Keywords
 
- * air conditioner, attention, bill, bioclimatic, [build](keyword_build), [building](keyword_building), business case, carbon saving, case study, [clean](keyword_clean), clean product, [climate](keyword_climate), climate policy, con sumption, consumption, consumption of energy, [covid-19](keyword_covid-19), demand, [economic](keyword_economic), economic growth, edf, eere, [efficiency](keyword_efficiency), electricity, energ, [energy](keyword_energy), [energy consumption](keyword_energy_consumption), energy demand, [energy efficiency](keyword_energy_efficiency), energy infrastructure, energy research, energy study, energy supply chain, environmental, environmental impact, [food](keyword_food), [fossil fuel](keyword_fossil_fuel), fuel, geoscience, ghana, [green building](keyword_green_building), [health](keyword_health), heat, [hvac](keyword_hvac), [iea](keyword_iea), incident light, [industry](keyword_industry), [infrastructure](keyword_infrastructure), inversion, kinetic energy, low carbon, machinesmachine, method, natural resource, nuclear power, off grid, office space, oil, oil and gas, optimal model, outcome, [pandemic](keyword_pandemic), performance level, power, renewable, renewable energy, [research](keyword_research), [resilience](keyword_resilience), [resource](keyword_resource), resource consumption, resource efficiency, resource use, resourceefficiency, retrofit, rev 23 2013, [service](keyword_service), shale gas, smart home, social research, [social science](keyword_social_science), socialscience, solar panel, space heating, storage, [supply chain](keyword_supply_chain), sustainable transport, [thermal comfort](keyword_thermal_comfort), total energy consumption, transportation, [travel](keyword_travel), usage, [ventilation](keyword_ventilation), ventilation rate, [vulnerability](keyword_vulnerability), [waste](keyword_waste), [water](keyword_water), water consumption, water efficient, wh, wh m2
+ * air conditioner, attention, bill, bioclimatic, [build](keyword_build), [building](keyword_building), business case, carbon saving, case study, [clean](keyword_clean), clean product, climate policy, con sumption, consumption, consumption of energy, [covid-19](keyword_covid-19), demand, [economic](keyword_economic), economic growth, edf, eere, [efficiency](keyword_efficiency), electricity, energ, [energy](keyword_energy), [energy consumption](keyword_energy_consumption), energy demand, [energy efficiency](keyword_energy_efficiency), energy infrastructure, energy research, energy study, energy supply chain, environmental, environmental impact, food, [fossil fuel](keyword_fossil_fuel), fuel, geoscience, ghana, [green building](keyword_green_building), [health](keyword_health), heat, [hvac](keyword_hvac), [iea](keyword_iea), incident light, [industry](keyword_industry), [infrastructure](keyword_infrastructure), inversion, kinetic energy, low carbon, machinesmachine, meter, method, natural resource, nuclear power, off grid, office space, oil, oil and gas, optimal model, performance level, power, public s health, renewable, renewable energy, renewable energy supply, renewable source, [research](keyword_research), [resilience](keyword_resilience), resource, resource efficiency, resource use, resourceefficiency, retrofit, rev 23 2013, service, shale gas, smart home, social research, [social science](keyword_social_science), socialscience, solar panel, space heating, storage, [supply chain](keyword_supply_chain), sustainable transport, [thermal comfort](keyword_thermal_comfort), total energy consumption, transportation, [travel](keyword_travel), usage, [ventilation](keyword_ventilation), ventilation rate, [vulnerability](keyword_vulnerability), waste, [water](keyword_water), water consumption, water efficient, wh, wh m2
 
 
 ## Concepts
@@ -26,8 +28,8 @@
 * The effect of occupant distribution on energy consumption and COVID-19 infection in buildings: A case study of university building - [LINK](article_mokhtari_effect_2021)
 * Contextualizing the Covid-19 pandemic for a carbon-constrained world: Insights for sustainability transitions, energy justice, and research methodology - [LINK](article_sovacool_contextualizing_2020)
 * Prophylactic Architecture: Formulating the Concept of Pandemic-Resilient Homes - [LINK](article_elrayies_prophylactic_2022)
-* Urban planning after COVID-19 - [LINK](article_rtpi_urban_2021)
 * Occupants’ behavior and activity patterns influencing the energy consumption in the Kuwaiti residences - [LINK](article_al-mumin_occupants_2003)
+* Urban planning after COVID-19 - [LINK](article_rtpi_urban_2021)
 
 
 ### Closest BPs

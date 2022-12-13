@@ -2,13 +2,13 @@
 
 * [https://www.themayor.eu/en/a/view/how-drones-help-cities-during-the-coronavirus-pandemic-4631](https://www.themayor.eu/en/a/view/how-drones-help-cities-during-the-coronavirus-pandemic-4631)
 * Year: 2021
-* Cluster: [building-space](cluster_9)
+* Cluster: [city-health](cluster_14)
 
 
 
 ## Keywords
 
- * azenta, bbc, [berlin](keyword_berlin), [bulgaria](keyword_bulgaria), burgas, canne, [city](keyword_city), city area, contact, contamination, continent, [coronavirus](keyword_coronavirus), coronavirus pandemic, [covid 19 pandemic](keyword_covid_19_pandemic), [drone](keyword_drone), drone can replace human, eleventh, eleventh congress, eleventh president, [energy efficiency](keyword_energy_efficiency), energy production, [europe](keyword_europe), european, european bauhaus, european commission, european committee of the region, fight against covid 19, french, french riviera, [germany](keyword_germany), global pandemic, [human](keyword_human), iab, interview, italian capital, [italy](keyword_italy), laboursave, lithuania, lithuanian, madrid, matosinhos, new european bauhaus prize, nice, [pandemic](keyword_pandemic), police, police officer, policeman, riviera, roma, [rome](keyword_rome), same approach, sanitary condition be low, [slovenia](keyword_slovenia), solar farm, spanish, spanish police, synthetic gene, [task](keyword_task), tcf, [technology](keyword_technology), the same approach, time, tzvetozar, tzvetozar vincent iolov, tzvetozar vincent iolov en slovenia, unmanned aerial vehicle, [vilnius](keyword_vilnius), [virus](keyword_virus)
+ * azenta, bbc, [berlin](keyword_berlin), [bulgaria](keyword_bulgaria), burgas, canne, [city](keyword_city), city area, [contact](keyword_contact), contamination, continent, [coronavirus](keyword_coronavirus), coronavirus pandemic, [covid 19 pandemic](keyword_covid_19_pandemic), [drone](keyword_drone), drone can replace human, eleventh, eleventh congress, eleventh president, [energy efficiency](keyword_energy_efficiency), energy production, [europe](keyword_europe), european, european bauhaus, european commission, european committee of the region, fight against covid 19, french, french riviera, [germany](keyword_germany), global pandemic, [human](keyword_human), iab, interview, italian capital, [italy](keyword_italy), laboursave, lithuania, lithuanian, madrid, matosinhos, new european bauhaus prize, nice, [pandemic](keyword_pandemic), police, police officer, policeman, riviera, roma, [rome](keyword_rome), same approach, sanitary condition be low, [slovenia](keyword_slovenia), solar farm, spanish, spanish police, synthetic gene, task, tcf, [technology](keyword_technology), the same approach, [time](keyword_time), tzvetozar, tzvetozar vincent iolov, tzvetozar vincent iolov en slovenia, unmanned aerial vehicle, [vilnius](keyword_vilnius), [virus](keyword_virus)
 
 
 ## Concepts
@@ -24,17 +24,16 @@
 * Borders and Catastrophe: lessons from COVID-19 for the European Green Deal - [LINK](article_klein_borders_2021)
 * 2020 Data Protection Report - [LINK](article_council_of_europe_2020_2020)
 * Challenges of data sharing in European Covid-19 projects: A learning opportunity for advancing pandemic preparedness and response - [LINK](article_tacconelli_challenges_2022)
-* It’s time to reimagine where and how work will get done (PwC’s US Remote Work Survey) - [LINK](article_pricewaterhousecoopers_its_2021)
-* Contributions of Smart City Solutions and Technologies to Resilience against the COVID-19 Pandemic: A Literature Review - [LINK](article_sharifi_contributions_2021)
-* A study on office workplace modification during the COVID-19 pandemic in The Netherlands - [LINK](article_hou_study_2021)
-* Mitigation strategies and compliance in the COVID-19 fight; how much compliance is enough? - [LINK](article_mukerjee_mitigation_2021)
-* Future (post-COVID) digital, smart and sustainable cities in the wake of 6G: Digital twins, immersive realities and new urban economies - [LINK](article_allam_future_2021)
-* The Intelligent Lockdown: Compliance with COVID-19 Mitigation Measures in the Netherlands - [LINK](article_kuiper_intelligent_2020)
-* Compliance with COVID-19 Mitigation Measures in the United States - [LINK](article_van_rooij_compliance_2020)
+* Drones. Disinfecting robots. Supercomputers. The coronavirus outbreak is a test for China's tech industry \textbar CNN Business - [LINK](article_wang_drones_2020)
+* Combating COVID-19—The role of robotics in managing public health and infectious diseases - [LINK](article_yang_combating_2020)
+* China adapts survey drones to enforce world’s largest quarantine - [LINK](article_liu_china_2020)
+* Danish disinfection robots save lives in the fight against the Corona virus \textbar Shaping Europe’s digital future - [LINK](article_ec_views_danish_2020)
+* Mobile Technology Solution for COVID-19: Surveillance and Prevention - [LINK](article_raza_mobile_2021)
+* SARS-CoV-2 in wastewater: potential health risk, but also data source - [LINK](article_lodder_sars-cov-2_2020)
 
 
 ### Closest BPs
 
-* Smart Locker System - [LINK](bp_1)
-* Access limitation - [LINK](bp_7)
-* One-way mobility circulation - [LINK](bp_4)
+* Blueprint: Resilience in staffing and skills training - [LINK](bp_12)
+* Blueprint: Monitoring of wastewater [CID] - [LINK](bp_21)
+* Blueprint: Negative pressure rooms - [LINK](bp_13)

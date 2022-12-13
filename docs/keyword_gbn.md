@@ -1,11 +1,11 @@
 # Keyword: gbn
 
-* [gbn-mental](cluster_Cluster_0)
+* [gbn-measure](cluster_Cluster_10)
 
 
 ## Keywords
 
- * Cluster_0, [gbn](keyword_gbn)
+ * Cluster_10, [gbn](keyword_gbn)
 
 
 ## Concepts

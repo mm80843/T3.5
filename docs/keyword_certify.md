@@ -1,11 +1,11 @@
 # Keyword: certify
 
-* [perpetuity-forest](cluster_Cluster_6)
+* [perpetuity-bioaerosol](cluster_Cluster_3)
 
 
 ## Keywords
 
- * Cluster_6, certified, [certify](keyword_certify), platinum, product, supplier, sustainable company
+ * Cluster_3, certified, [certify](keyword_certify), platinum
 
 
 ## Concepts

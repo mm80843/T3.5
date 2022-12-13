@@ -2,7 +2,7 @@
 
 * Source: [10.1093/cid/ciac033](https://doi.org/10.1093/cid/ciac033)
 * Year: 2022
-* Cluster: [sars-virus](cluster_12)
+* Cluster: [city-health](cluster_14)
 
 
 
@@ -21,20 +21,19 @@
 
 ### Closest articles
 
-* Physical interventions to interrupt or reduce the spread of respiratory viruses: systematic review - [LINK](article_jefferson_physical_2008)
-* COVID-19 Prevention and Control Measures in Workplace Settings: A Rapid Review and Meta-Analysis - [LINK](article_ingram_covid-19_2021)
-* Open-source analytics tools for studying the COVID-19 coronavirus outbreak - [LINK](article_wu_open-source_2020)
-* COVID-19: Risk assessment and mitigation measures in healthcare and non-healthcare workplaces - [LINK](article_fawzy_covid-19_2021)
-* The effect of human mobility and control measures on the COVID-19 epidemic in China - [LINK](article_kraemer_effect_2020)
-* COVID-19 could be a seasonal illness with higher risk in winter: Reduced humidity linked to increased COVID-19 risk - [LINK](article_university_of_sydney_covid-19_2020)
-* Study of COVID-19 pandemic in London (UK) from urban context - [LINK](article_ghosh_study_2020)
-* Effects of temperature and humidity on the spread of COVID-19: A systematic review - [LINK](article_mecenas_effects_2020)
-* Climate and the spread of COVID-19 - [LINK](article_chen_climate_2021)
-*  - [LINK](article_mehtab_alam_role_2021)
+* COVID-19 and social inequalities: a complex and dynamic interaction - [LINK](article_quantin_covid-19_2022)
+* What has been the impact of the COVID-19 pandemic on immigrants? An update on recent evidence - [LINK](article_oecd_what_2022)
+* The impact of COVID-19 and strategies for mitigation and suppression in low- and middle-income countries - [LINK](article_walker_impact_2020)
+* How Covid-19 Has Permanently Changed the Fitness Industry - [LINK](article_davalos_how_2021)
+* Multilevel Analysis of Personal, Non-Medical COVID-19-Related Impact Worldwide - [LINK](article_dye_multilevel_2020)
+* Response to COVID-19 in Taiwan - [LINK](article_wang_response_2020)
+* Covid-19 and community mitigation strategies in a pandemic - [LINK](article_ebrahim_covid-19_2020)
+* Amplifying the role of knowledge translation platforms in the COVID-19 pandemic response - [LINK](article_el-jardali_amplifying_2020)
+* Assessing the health and hygiene performance of apartment buildings - [LINK](article_ho_assessing_2004)
 
 
 ### Closest BPs
 
 * Blueprint: Resilience in staffing and skills training - [LINK](bp_12)
-* Blueprint: Monitoring of wastewater [CID] - [LINK](bp_21)
-* Blueprint: Installing high-efficiency air filters - [LINK](bp_11)
+* Blueprint: Smart Locker System - [LINK](bp_1)
+* Blueprint: Public places as information points - [LINK](bp_8)

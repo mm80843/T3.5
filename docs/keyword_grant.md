@@ -1,11 +1,11 @@
 # Keyword: grant
 
-* [perpetuity-forest](cluster_Cluster_6)
+* [perpetuity-bioaerosol](cluster_Cluster_3)
 
 
 ## Keywords
 
- * Cluster_6, aid, consejo superior de investigacione científicas, cornell atkinson center, foundation of china, funding, [grant](keyword_grant), grant information, granted, grants, loan, m j, m j booth, metabiota inc, national institute of general medical sciences, national natural science foundation of china, national science foundation, natural science foundation of china, parliament, parliament grant, patent, personal fee, [poland](keyword_poland), research council of lithuania, research grant, revenue, rmit university, science foundation ireland, science foundation ireland grant, sloan foundation, subsidy, swiss national science foundation, the activity the grant be give to, voucher
+ * Cluster_3, aid, consejo superior de investigacione científicas, cornell atkinson center, foundation of china, funding, [grant](keyword_grant), grant information, granted, grants, loan, m j, m j booth, metabiota inc, national institute of general medical sciences, national natural science foundation of china, national science foundation, natural science foundation of china, [nih](keyword_nih), patent, personal fee, [poland](keyword_poland), research council of lithuania, research grant, revenue, rmit university, science foundation ireland, science foundation ireland grant, sloan foundation, subsidy, support information, swiss national science foundation, voucher
 
 
 ## Concepts
@@ -26,6 +26,7 @@
 * World Bank Development Report - [LINK](article_world_bank_world_2022)
 * Study of COVID-19 pandemic in London (UK) from urban context - [LINK](article_ghosh_study_2020)
 * COVID-19 Prevention and Control Measures in Workplace Settings: A Rapid Review and Meta-Analysis - [LINK](article_ingram_covid-19_2021)
+* SARS-CoV-2 RNA in wastewater anticipated COVID-19 occurrence in a low prevalence area - [LINK](article_randazzo_sars-cov-2_2020)
 * Health, Economic and Social Development Challenges of the COVID-19 Pandemic: Strategies for Multiple and Interconnected Issues - [LINK](article_panneer_health_2022)
 
 

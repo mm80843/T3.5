@@ -1,11 +1,11 @@
 # Keyword: assay
 
-* [wastewater-sars](cluster_Cluster_5)
+* [wastewater-sars](cluster_Cluster_2)
 
 
 ## Keywords
 
- * 2 h, Cluster_5, [assay](keyword_assay), assayed, assays, cell culture, clinical speciman testing, cross validate, cross validation, diagnostic test, enzyme link immunosorbent, [gene](keyword_gene), high throughput qpcr, immunochromatographic, immunochromatographic membrane, isothermal nucleic acid amplification, lod, medium, molecular, n_sarbeco, no template control, nucleic acid amplification, [pcr](keyword_pcr), qrt pcr, rdrp, reagent, rt pcr qpcr, rt qpcr, sequence, serially dilute, sewage sample, single agar overlay method, test kit, viral integration assay, virus infectivity, virus infectivity assay, who referral, who referral laboratory
+ * 2 h, Cluster_2, [assay](keyword_assay), assayed, assays, cell culture, clinical speciman testing, cross validate, cross validation, diagnostic test, enzyme link immunosorbent, [gene](keyword_gene), immunochromatographic, immunochromatographic membrane, isothermal nucleic acid amplification, lod, medium, molecular, n_sarbeco, no template control, nucleic acid amplification, [pcr](keyword_pcr), qrt pcr, rdrp, reagent, rt pcr qpcr, rt qpcr, sequence, serially dilute, sewage sample, single agar overlay method, test kit, viral integration assay, virus infectivity, virus infectivity assay, who referral, who referral laboratory
 
 
 ## Concepts

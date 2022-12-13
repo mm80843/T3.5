@@ -1,8 +1,8 @@
-# Cluster: __gbn-mental__ (Cluster_0)
+# Cluster: __sustainability-pillar__ (Cluster_0)
 
 ## Keywords
 
- * [activity](keyword_activity), [behavioural](keyword_behavioural), [belong](keyword_belong), [blueprint](keyword_blueprint), [colleague](keyword_colleague), [commit](keyword_commit), [etc](keyword_etc), [fear](keyword_fear), [gbn](keyword_gbn), [health](keyword_health), [measure](keyword_measure), [mental](keyword_mental), [pandemic](keyword_pandemic), [permanent](keyword_permanent), [prohibition](keyword_prohibition), [sense](keyword_sense), [social](keyword_social), [something](keyword_something), [user](keyword_user)
+ * [access](keyword_access), [april](keyword_april), [bailout](keyword_bailout), [conservation](keyword_conservation), [definition](keyword_definition), [development](keyword_development), [domestic](keyword_domestic), [dow](keyword_dow), [economic](keyword_economic), [goal](keyword_goal), [health](keyword_health), [human](keyword_human), [hunger](keyword_hunger), [inequality](keyword_inequality), [mental](keyword_mental), [npr](keyword_npr), [pillar](keyword_pillar), [society](keyword_society), [sustainability](keyword_sustainability), [sustainable](keyword_sustainable)
 
 
 
@@ -14,6 +14,4 @@
 
 # Linked articles
 
-* Mental health – Act: Do something - [LINK](bp_18)
-* Mental health – Belong: Do something with someone - [LINK](bp_19)
-* Mental health – Commit: Do something meaningfull - [LINK](bp_20)
+* How COVID-19 Redefines the Concept of Sustainability - [LINK](article_hakovirta_how_2020)

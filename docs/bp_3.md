@@ -3,7 +3,7 @@
 
 ## Details
 
-* Cluster: __Cluster_9__ (Cluster_9)
+* Cluster: __Cluster_13__ (Cluster_13)
 
 
 
@@ -83,19 +83,17 @@ High equipment cost
 ### Closest articles
 
 * A comprehensive review on indoor air quality monitoring systems for enhanced public health - [LINK](article_saini_comprehensive_2020)
-* Continuous IEQ monitoring system: Context and development - [LINK](article_parkinson_continuous_2019)
 * Scalable IoT Architecture for Monitoring IEQ Conditions in Public and Private Buildings - [LINK](article_calvo_scalable_2022)
+* Continuous IEQ monitoring system: Context and development - [LINK](article_parkinson_continuous_2019)
 * An Intelligent IEQ Monitoring and Feedback System: Development and Applications - [LINK](article_geng_intelligent_2021)
-* Smart buildings: how a virus might lead to healthier buildings - Arup - [LINK](article_lam_smart_2021)
-* Designing Post COVID-19 Buildings: Approaches for Achieving Healthy Buildings - [LINK](article_navaratnam_designing_2022)
-* Ten questions concerning occupant health in buildings during normal operations and extreme events including the COVID-19 pandemic - [LINK](article_awada_ten_2021)
-* Indoor Air Quality: Rethinking rules of building design strategies in post-pandemic architecture - [LINK](article_megahed_indoor_2021)
-* Characterization and performance evaluation of a full-scale activated carbon-based dynamic botanical air filtration system for improving indoor air quality - [LINK](article_wang_characterization_2011)
-* Occupant health in buildings: Impact of the COVID-19 pandemic on the opinions of building professionals and implications on research - [LINK](article_awada_occupant_2022)
+* The contribution of green buildings in the fight against COVID-19 - [LINK](article_world_green_building_council_contribution_2020)
+*  - [LINK](article_yakubu_aminu_dodo_green_2020)
+* Designing a Multi-Agent Occupant Simulation System to Support Facility Planning and Analysis for COVID-19 - [LINK](article_lee_designing_2021)
+* Emerging from Lockdown: CIBSE COVID-19 Guidance - [LINK](article_cibse_emerging_2020)
 
 
 ### Closest BPs
 
-* Blueprint: Installing UV in ductwork - [LINK](bp_10)
+* Blueprint: Building Adaptation during a pandemic - [LINK](bp_14)
 * Blueprint: Architecture design - [LINK](bp_2)
-* Blueprint: Installing high-efficiency air filters - [LINK](bp_11)
+* Blueprint: Tender support at building stage - [LINK](bp_9)

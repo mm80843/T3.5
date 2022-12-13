@@ -1,11 +1,11 @@
 # Keyword: pcr
 
-* [wastewater-sars](cluster_Cluster_5)
+* [wastewater-sars](cluster_Cluster_2)
 
 
 ## Keywords
 
- * 440 ar gouilh, Cluster_5, ampliﬁe, analytical, antibody, ar gouilh, [assay](keyword_assay), cell culture, chain reaction, contaminant, [coronavirus](keyword_coronavirus), covid 19 detection, covid 19 outbreak, [covid-19](keyword_covid-19), ct, ct value, detect specific genetic material, detection method, diagnosis, diagnostic, diagnostic detection, [digital](keyword_digital), digital pcr, environmental contaminant, gel electrophoresis, [gene](keyword_gene), m gene, mean, measurement, nest, nest pcr, pandemic wave interval, [pcr](keyword_pcr), pcr product, product, promoter, proteomic, qrt, rdrp, real time pcr, reverse transcription, [rna](keyword_rna), rt qpcr, [sar cov 2](keyword_sar_cov_2), sar cov 2 rdrp, [sar cov2](keyword_sar_cov2), sd, [sewage](keyword_sewage), signal, speciﬁc, speciﬁcity, target, tendency, viral rna, [wastewater](keyword_wastewater), wastewater matrix, ﬁrst pcr
+ * 440 ar gouilh, Cluster_2, ampliﬁe, analytical, antibody, ar gouilh, [assay](keyword_assay), cell culture, chain reaction, contaminant, [coronavirus](keyword_coronavirus), covid 19 detection, covid 19 outbreak, [covid-19](keyword_covid-19), cyclonic aerosol sampler, detect specific genetic material, detection method, diagnosis, diagnostic, diagnostic detection, [digital](keyword_digital), digital pcr, environmental contaminant, gel electrophoresis, [gene](keyword_gene), m gene, mean, measurement, nest, nest pcr, pandemic wave interval, [pcr](keyword_pcr), pcr product, pcr unit, [product](keyword_product), promoter, proteomic, qrt, rdrp, real time pcr, reverse transcription, [rna](keyword_rna), rt qpcr, [sar cov 2](keyword_sar_cov_2), sar cov 2 rdrp, [sar cov2](keyword_sar_cov2), sd, [sewage](keyword_sewage), signal, speciﬁc, speciﬁcity, target, tendency, viral rna, [wastewater](keyword_wastewater), wastewater matrix, ﬁrst pcr
 
 
 ## Concepts
@@ -27,6 +27,7 @@
 * COVID-19 Pandemic: Prevention and Protection Measures to Be Adopted at the Workplace - [LINK](article_cirrincione_covid-19_2020)
 * COVID-19: Risk assessment and mitigation measures in healthcare and non-healthcare workplaces - [LINK](article_fawzy_covid-19_2021)
 * COVID-19 Prevention and Control Measures in Workplace Settings: A Rapid Review and Meta-Analysis - [LINK](article_ingram_covid-19_2021)
+* Computational analysis of SARS-CoV-2/COVID-19 surveillance by wastewater-based epidemiology locally and globally: Feasibility, economy, opportunities and challenges - [LINK](article_hart_computational_2020)
 
 
 ### Closest BPs

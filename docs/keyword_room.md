@@ -1,13 +1,13 @@
 # Keyword: room
 
-* [air-uv](cluster_Cluster_2)
+* [air-ventilation](cluster_Cluster_4)
 
-* [ward-patient](cluster_Cluster_15)
+* [uv-air](cluster_Cluster_13)
 
 
 ## Keywords
 
- * Cluster_15, Cluster_2, [air](keyword_air), [air filter](keyword_air_filter), air handling, air sample, air temperature, [anteroom](keyword_anteroom), [apartment](keyword_apartment), banquet, bathroom, [bed](keyword_bed), [bedroom](keyword_bedroom), breathing zone, [build](keyword_build), carpet, ceiling, ceiling fan, [chair](keyword_chair), [class](keyword_class), common area, compartment, confine space, [corridor](keyword_corridor), corridor space, displacement ventilation, [domain](keyword_domain), door, dwell, enclosure, floor, furniture, gapthe, [garden](keyword_garden), heat source, [home](keyword_home), home office, home office space, [hospital](keyword_hospital), hotel, [house](keyword_house), independent isolation room, [indoor](keyword_indoor), indoor location, isolated isolation room, isolation room, live, microbe, mix, mix air distribution, movement, movement of people, negative isolation, no heat source, [occupant](keyword_occupant), open closing window, open window, operating room, optimal arrangement, [patient](keyword_patient), private bathroom, protective environment, rectangular, relative humidity, retrofitting, [room](keyword_room), room air, room air cleaner, room occupancy, rooms, [school](keyword_school), secondary air circulation, secondary air circulation system, [space](keyword_space), space apart, supply air, [toilet](keyword_toilet), underﬂoor ventilation, unit, ventilate, ventilate building, [ventilation](keyword_ventilation), ventilation flow, ventilation rate, ventilation strategy, [ventilation system](keyword_ventilation_system), washroom, well ventilate, [window](keyword_window)
+ * Cluster_13, Cluster_4, [air](keyword_air), [air filter](keyword_air_filter), air handling, air sample, air temperature, [anteroom](keyword_anteroom), [apartment](keyword_apartment), banquet, bathroom, [bedroom](keyword_bedroom), breathing zone, [build](keyword_build), carpet, ceiling, ceiling fan, [chair](keyword_chair), class, common area, compartment, confine space, [corridor](keyword_corridor), corridor space, displacement ventilation, [domain](keyword_domain), door, dwell, enclosure, floor, furniture, gapthe, [garden](keyword_garden), heat source, [home](keyword_home), home office, home office space, [hospital](keyword_hospital), hotel, [house](keyword_house), independent isolation room, [indoor](keyword_indoor), indoor location, isolated isolation room, isolation room, live, microbe, mix, mix air distribution, movement, movement of people, negative isolation, no heat source, [occupant](keyword_occupant), open closing window, open window, operating room, optimal arrangement, [patient](keyword_patient), private bathroom, protective environment, rectangular, relative humidity, retrofitting, [room](keyword_room), room air, room air cleaner, room occupancy, rooms, [school](keyword_school), secondary air circulation, secondary air circulation system, [space](keyword_space), space apart, supply air, [toilet](keyword_toilet), underﬂoor ventilation, unit, ventilate, ventilate building, [ventilation](keyword_ventilation), ventilation flow, ventilation rate, ventilation strategy, [ventilation system](keyword_ventilation_system), washroom, well ventilate, [window](keyword_window)
 
 
 ## Concepts
@@ -28,7 +28,8 @@
 * Upper-room ultraviolet air disinfection might help to reduce COVID-19 transmission in buildings: a feasibility study - [LINK](article_beggs_upper-room_2020)
 * COVID-19 and Green Housing: A Review of Relevant Literature - [LINK](article_kaklauskas_covid-19_2021)
 * COVID-19 Forced Hospitals to Build Negative Pressure Rooms Fast - [LINK](article_dyer_covid-19_2020)
-* Environmental factors involved in SARS-CoV-2 transmission: effect and role of indoor environmental quality in the strategy for COVID-19 infection control - [LINK](article_azuma_environmental_2020)
+* Building occupancy estimation with people flow modeling in AnyLogic - [LINK](article_li_building_2016)
+* Applications of ultraviolet germicidal irradiation disinfection in health care facilities: Effective adjunct, but not stand-alone technology - [LINK](article_memarzadeh_applications_2010)
 
 
 ### Closest BPs

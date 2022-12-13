@@ -1,11 +1,11 @@
 # Keyword: permanent
 
-* [gbn-mental](cluster_Cluster_0)
+* [gbn-measure](cluster_Cluster_10)
 
 
 ## Keywords
 
- * Cluster_0, contract, [covid-19](keyword_covid-19), full time contract, [permanent](keyword_permanent), shelter, temporary, the future, threat
+ * Cluster_10, contract, full time contract, [permanent](keyword_permanent), shelter, temporary, the future, threat
 
 
 ## Concepts

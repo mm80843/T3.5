@@ -1,8 +1,8 @@
-# Cluster: __perpetuity-forest__ (Cluster_6)
+# Cluster: __airport-coating__ (Cluster_6)
 
 ## Keywords
 
- * [case](keyword_case), [certify](keyword_certify), [chinese](keyword_chinese), [datum](keyword_datum), [display](keyword_display), [doc](keyword_doc), [forecast](keyword_forecast), [forest](keyword_forest), [funder](keyword_funder), [grant](keyword_grant), [green](keyword_green), [holder](keyword_holder), [infection](keyword_infection), [license](keyword_license), [perpetuity](keyword_perpetuity), [province](keyword_province), [rate](keyword_rate), [space](keyword_space), [statistic](keyword_statistic), [version](keyword_version)
+ * [airport](keyword_airport), [allergic](keyword_allergic), [amongst](keyword_amongst), [antimicrobial](keyword_antimicrobial), [apply](keyword_apply), [bank](keyword_bank), [ceo](keyword_ceo), [co](keyword_co), [coating](keyword_coating), [contact](keyword_contact), [corporation](keyword_corporation), [lead](keyword_lead), [measure](keyword_measure), [operation](keyword_operation), [pathogen](keyword_pathogen), [point](keyword_point), [product](keyword_product), [surface](keyword_surface), [transmission](keyword_transmission), [user](keyword_user)
 
 
 
@@ -14,5 +14,5 @@
 
 # Linked articles
 
-* Green spaces, especially forest, linked to lower SARS-CoV-2 infection rates: A one-year nationwide study - [LINK](article_jiang_green_2021)
-* Open-source analytics tools for studying the COVID-19 coronavirus outbreak - [LINK](article_wu_open-source_2020)
+* Blueprint: Antimicrobial Surfaces - [LINK](bp_5)
+* KIX to apply antimicrobial coating in its fight against COVID-19 - [LINK](article_kansai_airport_kix_2021)

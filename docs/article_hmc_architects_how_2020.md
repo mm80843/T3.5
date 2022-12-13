@@ -2,7 +2,7 @@
 
 * [https://61ccv1s4h9i2otvw249pcyxh-wpengine.netdna-ssl.com/wp-content/uploads/COVID19_CIVIC_Regulatory_Aug2020.pdf](https://61ccv1s4h9i2otvw249pcyxh-wpengine.netdna-ssl.com/wp-content/uploads/COVID19_CIVIC_Regulatory_Aug2020.pdf)
 * Year: 2020
-* Cluster: [building-space](cluster_9)
+* Cluster: [building-space](cluster_1)
 
 
 
@@ -22,18 +22,19 @@
 ### Closest articles
 
 * Will a pandemic change building codes? - [LINK](article_rozgus_will_2020)
+* A study on office workplace modification during the COVID-19 pandemic in The Netherlands - [LINK](article_hou_study_2021)
 * COVID-19 Experience Transforming the Protective Environment of Office Buildings and Spaces - [LINK](article_phapant_covid-19_2021)
+* The COVID-19 Impact on Flexible Office Space - [LINK](article_clifton_covid-19_2020)
+* It’s time to reimagine where and how work will get done (PwC’s US Remote Work Survey) - [LINK](article_pricewaterhousecoopers_its_2021)
+* COVID-19 Lessons for a Resilient Built Environment: A Roadmap - [LINK](article_hull_covid-19_2020)
+* Biophilic design in architecture and its contributions to health, well-being, and sustainability: A critical review - [LINK](article_zhong_biophilic_2022)
+* How Architecture Fails in Conditions of Crisis: a Discussion on the Value of Interior Design over the COVID-19 Outbreak - [LINK](article_rassia_how_2020)
 * Navigating Climate Change: Rethinking the Role of Buildings - [LINK](article_cole_navigating_2020)
-* A Global Survey of Infection Control and Mitigation Measures for Combating the Transmission of COVID-19 Pandemic in Buildings Under Facilities Management Services - [LINK](article_sarvari_global_2022)
-* How is COVID-19 Experience Transforming Sustainability Requirements of Residential Buildings? A Review - [LINK](article_tokazhanov_how_2020)
-* COVID-19 Could Leverage a Sustainable Built Environment - [LINK](article_pinheiro_covid-19_2020)
-* COVID-19 and Green Housing: A Review of Relevant Literature - [LINK](article_kaklauskas_covid-19_2021)
-* Occupants’ behavior and activity patterns influencing the energy consumption in the Kuwaiti residences - [LINK](article_al-mumin_occupants_2003)
-* The effect of occupant distribution on energy consumption and COVID-19 infection in buildings: A case study of university building - [LINK](article_mokhtari_effect_2021)
+* Adaptive Design of the Built Environment to Mitigate the Transmission Risk of COVID-19 - [LINK](article_ara_dilshad_shangi_adaptive_2020)
 
 
 ### Closest BPs
 
 * Blueprint: Architecture design - [LINK](bp_2)
-* Blueprint: Indoor Environmental Quality (IEQ) monitoring system - [LINK](bp_3)
+* Blueprint: Building Adaptation during a pandemic - [LINK](bp_14)
 * Blueprint: Tender support at building stage - [LINK](bp_9)

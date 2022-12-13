@@ -2,7 +2,7 @@
 
 * [https://www.scmp.com/business/china-business/article/3064986/china-adapts-surveying-mapping-delivery-drones-task](https://www.scmp.com/business/china-business/article/3064986/china-adapts-surveying-mapping-delivery-drones-task)
 * Year: 2020
-* Cluster: [surveying-mapping](cluster_10)
+* Cluster: [city-health](cluster_14)
 
 
 
@@ -21,18 +21,19 @@
 
 ### Closest articles
 
-* Mitigation strategies and compliance in the COVID-19 fight; how much compliance is enough? - [LINK](article_mukerjee_mitigation_2021)
-* The Intelligent Lockdown: Compliance with COVID-19 Mitigation Measures in the Netherlands - [LINK](article_kuiper_intelligent_2020)
-* Compliance with COVID-19 Mitigation Measures in the United States - [LINK](article_van_rooij_compliance_2020)
-* Challenges of data sharing in European Covid-19 projects: A learning opportunity for advancing pandemic preparedness and response - [LINK](article_tacconelli_challenges_2022)
-* 2020 Data Protection Report - [LINK](article_council_of_europe_2020_2020)
-* Touchless Retail: What the Rest of the World could learn from China’s new ways to shop - [LINK](article_capgemini_touchless_2020)
-* Understanding the role of urban design in disease spreading - [LINK](article_brizuela_understanding_2019)
-* Borders and Catastrophe: lessons from COVID-19 for the European Green Deal - [LINK](article_klein_borders_2021)
+* Drones. Disinfecting robots. Supercomputers. The coronavirus outbreak is a test for China's tech industry \textbar CNN Business - [LINK](article_wang_drones_2020)
+* How drones help cities during the Covid-19 pandemic \textbar TheMayor.EU - [LINK](article_dimitrova_how_2021)
+* Combating COVID-19—The role of robotics in managing public health and infectious diseases - [LINK](article_yang_combating_2020)
+* Indirect effects of COVID-19 on the environment - [LINK](article_zambrano-monserrate_indirect_2020)
+* Danish disinfection robots save lives in the fight against the Corona virus \textbar Shaping Europe’s digital future - [LINK](article_ec_views_danish_2020)
+* Nurture to nature via COVID-19, a self-regenerating environmental strategy of environment in global context - [LINK](article_paital_nurture_2020)
+* Building occupancy estimation with people flow modeling in AnyLogic - [LINK](article_li_building_2016)
+* Air pollution linked with higher COVID-19 death rates - [LINK](article_harvard_th_chan_schoold_of_public_health_air_2020)
+* COVID-19 Higher Mortality in Chinese Regions With Chronic Exposure to Lower Air Quality - [LINK](article_pansini_covid-19_2021)
 
 
 ### Closest BPs
 
-* Blueprint: Antimicrobial Surfaces - [LINK](bp_5)
-* Blueprint: Reducing contact points - [LINK](bp_17)
-* Blueprint: Good hand hygiene practice - [LINK](bp_16)
+* Blueprint: Resilience in staffing and skills training - [LINK](bp_12)
+* Blueprint: Negative pressure rooms - [LINK](bp_13)
+* Blueprint: Monitoring of wastewater [CID] - [LINK](bp_21)

@@ -2,7 +2,7 @@
 
 * Source: [10.3992/jgb.16.1.199](https://doi.org/10.3992/jgb.16.1.199)
 * Year: 2021
-* Cluster: [building-space](cluster_9)
+* Cluster: [building-space](cluster_1)
 
 
 
@@ -22,14 +22,14 @@
 ### Closest articles
 
 * Designing for COVID-2x: Reflecting on Future-Proofing Human Habitation for the Inevitable Next Pandemic - [LINK](article_spennemann_designing_2022)
-* Adaptive Design of the Built Environment to Mitigate the Transmission Risk of COVID-19 - [LINK](article_ara_dilshad_shangi_adaptive_2020)
-* Houses amid COVID-19: Environmental challenges and design adaptation - [LINK](article_hizra_houses_2021)
 * How the Coronavirus Will Reshape Architecture - [LINK](article_chayka_how_2020)
+* Houses amid COVID-19: Environmental challenges and design adaptation - [LINK](article_hizra_houses_2021)
+* Adaptive Design of the Built Environment to Mitigate the Transmission Risk of COVID-19 - [LINK](article_ara_dilshad_shangi_adaptive_2020)
 * Antivirus-built environment: Lessons learned from Covid-19 pandemic - [LINK](article_megahed_antivirus-built_2020)
-*  - [LINK](article_dalessandro_covid-19_2020)
-* How Architecture Fails in Conditions of Crisis: a Discussion on the Value of Interior Design over the COVID-19 Outbreak - [LINK](article_rassia_how_2020)
-* COVID-19 Could Leverage a Sustainable Built Environment - [LINK](article_pinheiro_covid-19_2020)
+* How is COVID-19 Experience Transforming Sustainability Requirements of Residential Buildings? A Review - [LINK](article_tokazhanov_how_2020)
+* Impact of Covid-19 on the built environment - [LINK](article_mahima_impact_2022)
 * COVID-19 Lessons for a Resilient Built Environment: A Roadmap - [LINK](article_hull_covid-19_2020)
+* How Architecture Fails in Conditions of Crisis: a Discussion on the Value of Interior Design over the COVID-19 Outbreak - [LINK](article_rassia_how_2020)
 
 
 ### Closest BPs

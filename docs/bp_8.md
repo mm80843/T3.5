@@ -3,7 +3,7 @@
 
 ## Details
 
-* Cluster: __Cluster_9__ (Cluster_9)
+* Cluster: __Cluster_10__ (Cluster_10)
 
 
 
@@ -103,19 +103,20 @@ A digital twin of the neighbourhood could be interesting to visualise where to i
 
 ### Closest articles
 
-* Touchless Retail: What the Rest of the World could learn from China’s new ways to shop - [LINK](article_capgemini_touchless_2020)
-* Retail Signage During the COVID-19 Pandemic - [LINK](article_mcneish_retail_2020)
-* Towards the sustainable development of smart cities through mass video surveillance: A response to the COVID-19 pandemic - [LINK](article_shorfuzzaman_towards_2021)
-* DeepSOCIAL: Social Distancing Monitoring and Infection Risk Assessment in COVID-19 Pandemic - [LINK](article_rezaei_deepsocial_2020)
-* How COVID-19 Could Accelerate the Adoption of New Retail Technologies and Enhance the (E-)Servicescape - [LINK](article_willems_how_2021)
-* Building occupancy estimation with people flow modeling in AnyLogic - [LINK](article_li_building_2016)
-* EXPOSED: An occupant exposure model for confined spaces to retrofit crowd models during a pandemic - [LINK](article_ronchi_exposed_2020)
-* COVID-ABS: An agent-based model of COVID-19 epidemic to simulate health and economic effects of social distancing interventions - [LINK](article_silva_covid-abs_2020)
-*  - [LINK](article_huy-tran_design_2022)
+* Study of COVID-19 pandemic in London (UK) from urban context - [LINK](article_ghosh_study_2020)
+* Effects of temperature and humidity on the spread of COVID-19: A systematic review - [LINK](article_mecenas_effects_2020)
+* Mechanistic insights into the effect of humidity on airborne influenza virus survival, transmission and incidence - [LINK](article_marr_mechanistic_2019)
+* Climate and the spread of COVID-19 - [LINK](article_chen_climate_2021)
+* How our homes impact our health: using a COVID-19 informed approach to examine urban apartment housing - [LINK](article_peters_how_2020)
+* COVID-19 could be a seasonal illness with higher risk in winter: Reduced humidity linked to increased COVID-19 risk - [LINK](article_university_of_sydney_covid-19_2020)
+*  - [LINK](article_dalessandro_covid-19_2020)
+* A Mixed Approach on Resilience of Spanish Dwellings and Households during COVID-19 Lockdown - [LINK](article_cuerdo-vilches_mixed_2020)
+* Questioning the use of the balcony in apartments during the COVID-19 pandemic process - [LINK](article_aydin_questioning_2020)
+* Prophylactic Architecture: Formulating the Concept of Pandemic-Resilient Homes - [LINK](article_elrayies_prophylactic_2022)
 
 
 ### Closest BPs
 
-* Blueprint: One-way mobility circulation - [LINK](bp_4)
-* Blueprint: Rotational Shift System - [LINK](bp_0)
-* Blueprint: Access limitation - [LINK](bp_7)
+* Blueprint: Air Cleaning Plants - [LINK](bp_15)
+* Blueprint: Tender support at building stage - [LINK](bp_9)
+* Blueprint: Building Adaptation during a pandemic - [LINK](bp_14)

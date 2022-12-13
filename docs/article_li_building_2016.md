@@ -2,7 +2,7 @@
 
 * Source: [10.1109/ICCA.2016.7505355](https://doi.org/10.1109/ICCA.2016.7505355)
 * Year: 2016
-* Cluster: [building-space](cluster_9)
+* Cluster: [city-health](cluster_14)
 
 
 
@@ -24,17 +24,17 @@
 * EXPOSED: An occupant exposure model for confined spaces to retrofit crowd models during a pandemic - [LINK](article_ronchi_exposed_2020)
 * COVID-ABS: An agent-based model of COVID-19 epidemic to simulate health and economic effects of social distancing interventions - [LINK](article_silva_covid-abs_2020)
 * COVID19-Routes: A Safe Pedestrian Navigation Service - [LINK](article_cantarero_covid19-routes_2021)
-* Social distancing enhanced automated optimal design of physical spaces in the wake of the COVID-19 pandemic - [LINK](article_ugail_social_2021)
 * Digital Twin of COVID-19 Mass Vaccination Centers - [LINK](article_pilati_digital_2021)
-* Exploring the Non-Medical impacts of Covid-19 using Natural Language Processing - [LINK](article_agade_exploring_2020)
-* DeepSOCIAL: Social Distancing Monitoring and Infection Risk Assessment in COVID-19 Pandemic - [LINK](article_rezaei_deepsocial_2020)
-* Towards the sustainable development of smart cities through mass video surveillance: A response to the COVID-19 pandemic - [LINK](article_shorfuzzaman_towards_2021)
+* Infodemic and the spread of fake news in the COVID-19-era - [LINK](article_orso_infodemic_2020)
 * Coronavirus: Can artificial intelligence be smart enough to detect fake news? - [LINK](article_tong_coronavirus_2020)
+* Danish disinfection robots save lives in the fight against the Corona virus \textbar Shaping Europe’s digital future - [LINK](article_ec_views_danish_2020)
+* Combating COVID-19—The role of robotics in managing public health and infectious diseases - [LINK](article_yang_combating_2020)
+* Drones. Disinfecting robots. Supercomputers. The coronavirus outbreak is a test for China's tech industry \textbar CNN Business - [LINK](article_wang_drones_2020)
 * Risk Diagnosis and Mitigation System of COVID-19 Using Expert System and Web Scraping - [LINK](article_mufid_risk_2020)
 
 
 ### Closest BPs
 
-* Blueprint: Public places as information points - [LINK](bp_8)
-* Blueprint: One-way mobility circulation - [LINK](bp_4)
-* Blueprint: Smart Locker System - [LINK](bp_1)
+* Blueprint: Resilience in staffing and skills training - [LINK](bp_12)
+* Blueprint: Negative pressure rooms - [LINK](bp_13)
+* Blueprint: Monitoring of wastewater [CID] - [LINK](bp_21)

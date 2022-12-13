@@ -1,11 +1,11 @@
 # Keyword: intelligence
 
-* [datum-ai](cluster_Cluster_1)
+* [blockchain-ontology](cluster_Cluster_11)
 
 
 ## Keywords
 
- * Cluster_1, [analytic](keyword_analytic), [artificial intelligence](keyword_artificial_intelligence), [big datum](keyword_big_datum), [cloud computing](keyword_cloud_computing), collaborative intelligence, community health intelligence, computation, context awareness, datum drive, decision make, information and communication technology, [intelligence](keyword_intelligence), mordor, [ontology](keyword_ontology), radio network, social medium analytic, superintelligence
+ * Cluster_11, [analytic](keyword_analytic), [artificial intelligence](keyword_artificial_intelligence), [big datum](keyword_big_datum), [cloud computing](keyword_cloud_computing), collaborative intelligence, community health intelligence, computation, context awareness, datum drive, decision make, information and communication technology, [intelligence](keyword_intelligence), mordor, [ontology](keyword_ontology), radio network, social medium analytic, superintelligence
 
 
 ## Concepts

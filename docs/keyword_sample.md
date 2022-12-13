@@ -1,13 +1,11 @@
 # Keyword: sample
 
-* [wastewater-sars](cluster_Cluster_5)
-
-* [ward-patient](cluster_Cluster_15)
+* [wastewater-sars](cluster_Cluster_2)
 
 
 ## Keywords
 
- * Cluster_15, abundance, aerosolization, [age group](keyword_age_group), [air filter](keyword_air_filter), air sample, analysis, annotator, average, b xu, bcomparison, [build](keyword_build), communication window, condition, coronavirus aerosol, criterion for inclusion, cross sectional, [dataset](keyword_dataset), [datum](keyword_datum), datum processing, [detection](keyword_detection), dilution, dilution with distance, distinctive sampling design, easy random sampling, equipment, evaluation, flow dependent, harmonisation, [house](keyword_house), image, impinger, inactive air filter, interval, ketron, key property, labeling process, medical equipment, [monitor](keyword_monitor), no mask, parameter evolve, patient survey, peactual, pellet, [population](keyword_population), population and sample technique, pro and con, ptr ms, quality, quantitative research, [quarantine](keyword_quarantine), random, random coefficient, random sampling, randomness, reagent, record, red tick, representative, representative sample, research sample, reuse, [rna](keyword_rna), rna extraction, rt qpcr assay, [sample](keyword_sample), sample condition, sample location, sample stability, sample stability over time, sample technique, sample time, sampled, samples, sampling, saturation point, size, snowball sampling, statistical, statistical community, statistical research, statistical significance, storage, surface sample, [survey](keyword_survey), swab, swab sample, [system](keyword_system), t test, test, time integrate, time of delivery, triplicate, uniform distribution, vacuum filter, variable sampling time, voice detection, voluntary response bias, [wastewater](keyword_wastewater), yago
+ * 04samples, abundance, aerosolization, [age group](keyword_age_group), [air filter](keyword_air_filter), air sample, analysis, annotator, average, b xu, bcomparison, [build](keyword_build), communication window, condition, coronavirus aerosol, criterion for inclusion, cross sectional, [dataset](keyword_dataset), [datum](keyword_datum), datum collection, datum processing, [detection](keyword_detection), dilution, distinctive sampling design, easy random sampling, equipment, evaluation, flow dependent, harmonisation, [house](keyword_house), image, impinger, inactive air filter, ketron, labeling process, medical equipment, [monitor](keyword_monitor), no mask, parameter evolve, patient survey, peactual, pellet, [population](keyword_population), population and sample technique, pro and con, ptr ms, quality, quality of datum, quantitative research, quarantine, random, random coefficient, random sampling, randomness, reagent, record, red tick, representative, representative sample, research sample, reuse, [rna](keyword_rna), rna extraction, rt qpcr assay, [sample](keyword_sample), sample condition, sample location, sample stability, sample stability over time, sample technique, sample time, sampled, samples, samplesize, sampling, saturation point, size, snowball sampling, statistical, statistical community, statistical research, statistical significance, storage, surface sample, survey, swab, swab sample, [system](keyword_system), t test, test, time integrate, time of delivery, triplicate, uniform distribution, vacuum filter, variable sampling time, voice detection, voluntary response bias, [wastewater](keyword_wastewater), yago
 
 
 ## Concepts
@@ -27,8 +25,9 @@
 * Continuous IEQ monitoring system: Context and development - [LINK](article_parkinson_continuous_2019)
 * Scalable IoT Architecture for Monitoring IEQ Conditions in Public and Private Buildings - [LINK](article_calvo_scalable_2022)
 * Detection of SARS-CoV-2 in raw and treated wastewater in Germany – Suitability for COVID-19 surveillance and potential transmission risks - [LINK](article_westhaus_detection_2021)
-* The Effects of Pandemic on Construction Industry in the UK - [LINK](article_shibani_effects_2020)
+* Effects to Construction Project Management Impacted Circular Economic of Covid-19 Pandemic - [LINK](article_paikan_effects_2021)
 * Aerosol and Surface Distribution of Severe Acute Respiratory Syndrome Coronavirus 2 in Hospital Wards, Wuhan, China, 2020 - [LINK](article_guo_aerosol_2020)
+* The Impact of Pandemic Crisis on the Survival of Construction Industry: A Case of COVID-19 - [LINK](article_gamil_impact_2020)
 
 
 ### Closest BPs

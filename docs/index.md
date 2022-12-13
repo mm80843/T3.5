@@ -5,14 +5,14 @@
 ## Data
 
 * Articles:
-  * We have 282 articles in database.
-  * We have 57 other URLs in database.
+  * We have 302 articles in database.
+  * We have 48 other URLs in database.
 * Topics
   * We have identified 16 topics of interest.
-  * We have identified 378362 relationships between terms.
+  * We have identified 381333 relationships between terms.
 * Terms
-  * and 236 main terms from the clusters.
-  * and 57 other relevant words or expressions.
+  * and 230 main terms from the clusters.
+  * and 56 other relevant words or expressions.
 * Blueprints
   * We are trying 22 blueprints.
 
@@ -43,27 +43,27 @@
 
 # Clusters
 
-* [city-urban](cluster_0)
-* [building-space](cluster_1)
-* [health-pandemic](cluster_2)
-* [datum-ai](cluster_3)
+* [city-health](cluster_0)
+* [health-pca](cluster_1)
+* [building-space](cluster_2)
+* [blockchain-ontology](cluster_3)
 * [wastewater-sars](cluster_4)
-* [air-uv](cluster_5)
-* [construction-industry](cluster_6)
-* [sars-virus](cluster_7)
-* [gbn-mental](cluster_8)
-* [space-flexible](cluster_9)
-* [mental-health](cluster_10)
-* [ward-patient](cluster_11)
-* [resilience-health](cluster_12)
-* [perpetuity-forest](cluster_13)
-* [surveying-mapping](cluster_14)
-* [customer-brand](cluster_15)
+* [air-ventilation](cluster_5)
+* [construction-resilience](cluster_6)
+* [uv-air](cluster_7)
+* [malaria-vector](cluster_8)
+* [gbn-measure](cluster_9)
+* [airport-coating](cluster_10)
+* [uvc-hcov](cluster_11)
+* [building-guidance](cluster_12)
+* [perpetuity-bioaerosol](cluster_13)
+* [memish-saudi](cluster_14)
+* [sustainability-pillar](cluster_15)
 
 
 # Terms
 
-[5 g](keyword_5_g), [access](keyword_access), [action](keyword_action), [activity](keyword_activity), [adapt](keyword_adapt), [aerosol](keyword_aerosol), [agility](keyword_agility), [aiir](keyword_aiir), [air](keyword_air), [airborne](keyword_airborne), [allam](keyword_allam), [anteroom](keyword_anteroom), [anxiety](keyword_anxiety), [application](keyword_application), [architect](keyword_architect), [architecture](keyword_architecture), [artificial intelligence](keyword_artificial_intelligence), [ashrae](keyword_ashrae), [assay](keyword_assay), [asset](keyword_asset), [australia](keyword_australia), [bank](keyword_bank), [base](keyword_base), [bed](keyword_bed), [behavioural](keyword_behavioural), [beijing](keyword_beijing), [belong](keyword_belong), [big](keyword_big), [blockchain](keyword_blockchain), [blog](keyword_blog), [blueprint](keyword_blueprint), [brand](keyword_brand), [breakout](keyword_breakout), [build](keyword_build), [build environment](keyword_build_environment), [building](keyword_building), [business](keyword_business), [capability](keyword_capability), [capacity](keyword_capacity), [case](keyword_case), [certify](keyword_certify), [change](keyword_change), [china](keyword_china), [chinese](keyword_chinese), [city](keyword_city), [class](keyword_class), [click](keyword_click), [clifton](keyword_clifton), [climate](keyword_climate), [climate change](keyword_climate_change), [colleague](keyword_colleague), [commit](keyword_commit), [community](keyword_community), [company](keyword_company), [complaint](keyword_complaint), [concentration](keyword_concentration), [construction](keyword_construction), [consumer](keyword_consumer), [contain](keyword_contain), [contractor](keyword_contractor), [control](keyword_control), [copenhagen](keyword_copenhagen), [copper](keyword_copper), [coron](keyword_coron), [coronavirus](keyword_coronavirus), [country](keyword_country), [covid 19 pandemic](keyword_covid_19_pandemic), [covid-19](keyword_covid-19), [crisis](keyword_crisis), [customer](keyword_customer), [datum](keyword_datum), [delivery](keyword_delivery), [demo](keyword_demo), [density](keyword_density), [depression](keyword_depression), [design](keyword_design), [desk](keyword_desk), [detection](keyword_detection), [development](keyword_development), [digital](keyword_digital), [disease](keyword_disease), [disinfection](keyword_disinfection), [display](keyword_display), [doc](keyword_doc), [drone](keyword_drone), [droplet](keyword_droplet), [economic](keyword_economic), [economy](keyword_economy), [emotional](keyword_emotional), [employee](keyword_employee), [energy](keyword_energy), [enforce](keyword_enforce), [engineering](keyword_engineering), [environment](keyword_environment), [epidemic](keyword_epidemic), [etc](keyword_etc), [euro](keyword_euro), [europe](keyword_europe), [fear](keyword_fear), [filter](keyword_filter), [firm](keyword_firm), [fitness](keyword_fitness), [flexible](keyword_flexible), [food](keyword_food), [forecast](keyword_forecast), [forest](keyword_forest), [funder](keyword_funder), [garden](keyword_garden), [gbn](keyword_gbn), [gene](keyword_gene), [germany](keyword_germany), [germicidal](keyword_germicidal), [global](keyword_global), [governance](keyword_governance), [government](keyword_government), [grant](keyword_grant), [green](keyword_green), [gym](keyword_gym), [health](keyword_health), [healthcare](keyword_healthcare), [high](keyword_high), [holder](keyword_holder), [home](keyword_home), [hospital](keyword_hospital), [housing](keyword_housing), [http](keyword_http), [humidity](keyword_humidity), [hvac](keyword_hvac), [icu](keyword_icu), [impact](keyword_impact), [india](keyword_india), [indoor](keyword_indoor), [industry](keyword_industry), [infect](keyword_infect), [infection](keyword_infection), [infectious disease](keyword_infectious_disease), [influenza](keyword_influenza), [infrastructure](keyword_infrastructure), [intelligence](keyword_intelligence), [iot](keyword_iot), [isolation](keyword_isolation), [italy](keyword_italy), [kg](keyword_kg), [license](keyword_license), [lockdown](keyword_lockdown), [login](keyword_login), [london](keyword_london), [machine learning](keyword_machine_learning), [makeshift](keyword_makeshift), [manhattan](keyword_manhattan), [mapping](keyword_mapping), [marketing](keyword_marketing), [measure](keyword_measure), [medical](keyword_medical), [mental](keyword_mental), [mental health](keyword_mental_health), [model](keyword_model), [negative](keyword_negative), [network](keyword_network), [new](keyword_new), [new york](keyword_new_york), [new york city](keyword_new_york_city), [occupant](keyword_occupant), [office](keyword_office), [ontology](keyword_ontology), [outbreak](keyword_outbreak), [pandemic](keyword_pandemic), [participant](keyword_participant), [particle](keyword_particle), [pathogen](keyword_pathogen), [patient](keyword_patient), [pcr](keyword_pcr), [people](keyword_people), [permanent](keyword_permanent), [perpetuity](keyword_perpetuity), [physical](keyword_physical), [pivot](keyword_pivot), [plan](keyword_plan), [poland](keyword_poland), [policy](keyword_policy), [population](keyword_population), [pressure](keyword_pressure), [primer](keyword_primer), [prohibition](keyword_prohibition), [project](keyword_project), [province](keyword_province), [psychological](keyword_psychological), [psychosocial](keyword_psychosocial), [ptsd](keyword_ptsd), [public](keyword_public), [public health](keyword_public_health), [qpcr](keyword_qpcr), [quarantine](keyword_quarantine), [rate](keyword_rate), [regional](keyword_regional), [request](keyword_request), [research](keyword_research), [resilience](keyword_resilience), [resource](keyword_resource), [respiratory](keyword_respiratory), [respondent](keyword_respondent), [retail](keyword_retail), [retailer](keyword_retailer), [retailing](keyword_retailing), [risk](keyword_risk), [rna](keyword_rna), [room](keyword_room), [russia](keyword_russia), [safety](keyword_safety), [sale](keyword_sale), [sample](keyword_sample), [sar cov 2](keyword_sar_cov_2), [scmp](keyword_scmp), [sdg](keyword_sdg), [sense](keyword_sense), [sensor](keyword_sensor), [service](keyword_service), [sewage](keyword_sewage), [shenzhen](keyword_shenzhen), [shock](keyword_shock), [simulation](keyword_simulation), [site](keyword_site), [sleep](keyword_sleep), [smart](keyword_smart), [smart city](keyword_smart_city), [sme](keyword_sme), [social](keyword_social), [social distancing](keyword_social_distancing), [social medium](keyword_social_medium), [society](keyword_society), [something](keyword_something), [space](keyword_space), [spain](keyword_spain), [spread](keyword_spread), [staff](keyword_staff), [statistic](keyword_statistic), [store](keyword_store), [strengthen](keyword_strengthen), [stress](keyword_stress), [study](keyword_study), [substance](keyword_substance), [supply chain](keyword_supply_chain), [supportive](keyword_supportive), [surface](keyword_surface), [surveillance](keyword_surveillance), [survey](keyword_survey), [sustainability](keyword_sustainability), [sustainable](keyword_sustainable), [switzerland](keyword_switzerland), [sydney](keyword_sydney), [symptom](keyword_symptom), [system](keyword_system), [task](keyword_task), [tcid](keyword_tcid), [team](keyword_team), [technology](keyword_technology), [temperature](keyword_temperature), [testing](keyword_testing), [tourism](keyword_tourism), [transmission](keyword_transmission), [truck](keyword_truck), [type](keyword_type), [uav](keyword_uav), [unesco](keyword_unesco), [united kingdom](keyword_united_kingdom), [united nations](keyword_united_nations), [united states](keyword_united_states), [urban](keyword_urban), [user](keyword_user), [uv](keyword_uv), [vaccine](keyword_vaccine), [ventilation](keyword_ventilation), [version](keyword_version), [virus](keyword_virus), [ward](keyword_ward), [washington dc](keyword_washington_dc), [waste](keyword_waste), [wastewater](keyword_wastewater), [water](keyword_water), [well](keyword_well), [well be](keyword_well_be), [winter](keyword_winter), [work](keyword_work), [worker](keyword_worker), [workforce](keyword_workforce), [workplace](keyword_workplace), [workspace](keyword_workspace), [world](keyword_world), [world bank](keyword_world_bank), [world heritage site](keyword_world_heritage_site), [wuhan](keyword_wuhan), [wwtp](keyword_wwtp), [year](keyword_year)
+[5 g](keyword_5_g), [access](keyword_access), [advice](keyword_advice), [aerosol](keyword_aerosol), [air](keyword_air), [airborne](keyword_airborne), [airport](keyword_airport), [allergic](keyword_allergic), [amongst](keyword_amongst), [antimicrobial](keyword_antimicrobial), [anxiety](keyword_anxiety), [application](keyword_application), [apply](keyword_apply), [april](keyword_april), [arabia](keyword_arabia), [architect](keyword_architect), [architecture](keyword_architecture), [area](keyword_area), [artificial intelligence](keyword_artificial_intelligence), [ashrae](keyword_ashrae), [assay](keyword_assay), [australia](keyword_australia), [bailout](keyword_bailout), [bank](keyword_bank), [base](keyword_base), [behavioural](keyword_behavioural), [beijing](keyword_beijing), [beta](keyword_beta), [bioaerosol](keyword_bioaerosol), [biomarker](keyword_biomarker), [blockchain](keyword_blockchain), [blueprint](keyword_blueprint), [build](keyword_build), [build environment](keyword_build_environment), [building](keyword_building), [business](keyword_business), [cambridge](keyword_cambridge), [case](keyword_case), [cc](keyword_cc), [cell](keyword_cell), [ceo](keyword_ceo), [certify](keyword_certify), [chamber](keyword_chamber), [change](keyword_change), [charter](keyword_charter), [china](keyword_china), [cibse](keyword_cibse), [city](keyword_city), [climate](keyword_climate), [climate change](keyword_climate_change), [cm](keyword_cm), [co](keyword_co), [coating](keyword_coating), [community](keyword_community), [conservation](keyword_conservation), [consider](keyword_consider), [construction](keyword_construction), [contact](keyword_contact), [control](keyword_control), [coronavirus](keyword_coronavirus), [coronaviruse](keyword_coronaviruse), [corporation](keyword_corporation), [country](keyword_country), [covid 19 pandemic](keyword_covid_19_pandemic), [covid-19](keyword_covid-19), [crisis](keyword_crisis), [crowd](keyword_crowd), [data](keyword_data), [datum](keyword_datum), [definition](keyword_definition), [dengue](keyword_dengue), [design](keyword_design), [detection](keyword_detection), [development](keyword_development), [digital](keyword_digital), [disease](keyword_disease), [disinfection](keyword_disinfection), [display](keyword_display), [domestic](keyword_domestic), [dose](keyword_dose), [dow](keyword_dow), [droplet](keyword_droplet), [dt](keyword_dt), [economic](keyword_economic), [economy](keyword_economy), [electrical](keyword_electrical), [elimination](keyword_elimination), [energy](keyword_energy), [engineering](keyword_engineering), [environment](keyword_environment), [epidemic](keyword_epidemic), [europe](keyword_europe), [export](keyword_export), [far](keyword_far), [filter](keyword_filter), [filtration](keyword_filtration), [funder](keyword_funder), [gather](keyword_gather), [gbn](keyword_gbn), [gene](keyword_gene), [germany](keyword_germany), [germicidal](keyword_germicidal), [global](keyword_global), [goal](keyword_goal), [government](keyword_government), [grant](keyword_grant), [green](keyword_green), [guidance](keyword_guidance), [hcov](keyword_hcov), [health](keyword_health), [healthcare](keyword_healthcare), [high](keyword_high), [holder](keyword_holder), [home](keyword_home), [hospital](keyword_hospital), [housing](keyword_housing), [http](keyword_http), [human](keyword_human), [hunger](keyword_hunger), [hvac](keyword_hvac), [icu](keyword_icu), [impact](keyword_impact), [inactivate](keyword_inactivate), [inactivation](keyword_inactivation), [india](keyword_india), [indoor](keyword_indoor), [industry](keyword_industry), [inequality](keyword_inequality), [infection](keyword_infection), [infectious disease](keyword_infectious_disease), [influenza](keyword_influenza), [information](keyword_information), [infrastructure](keyword_infrastructure), [intelligence](keyword_intelligence), [iot](keyword_iot), [irradiation](keyword_irradiation), [italy](keyword_italy), [labour](keyword_labour), [lamp](keyword_lamp), [lead](keyword_lead), [legionella](keyword_legionella), [license](keyword_license), [light](keyword_light), [lighting](keyword_lighting), [limitation](keyword_limitation), [lockdown](keyword_lockdown), [london](keyword_london), [machine learning](keyword_machine_learning), [maintenance](keyword_maintenance), [malar](keyword_malar), [malaria](keyword_malaria), [manhattan](keyword_manhattan), [mass](keyword_mass), [may](keyword_may), [measure](keyword_measure), [medical](keyword_medical), [memish](keyword_memish), [mental](keyword_mental), [mental health](keyword_mental_health), [mhv](keyword_mhv), [microorganism](keyword_microorganism), [mitigation](keyword_mitigation), [mj](keyword_mj), [model](keyword_model), [mosquito](keyword_mosquito), [need](keyword_need), [network](keyword_network), [new york](keyword_new_york), [new york city](keyword_new_york_city), [nile](keyword_nile), [nm](keyword_nm), [npr](keyword_npr), [oc](keyword_oc), [occupancy](keyword_occupancy), [occupant](keyword_occupant), [occupi](keyword_occupi), [occupy](keyword_occupy), [office](keyword_office), [ontology](keyword_ontology), [operation](keyword_operation), [outbreak](keyword_outbreak), [pandemic](keyword_pandemic), [particle](keyword_particle), [pathogen](keyword_pathogen), [patient](keyword_patient), [pca](keyword_pca), [pcr](keyword_pcr), [people](keyword_people), [permanent](keyword_permanent), [permission](keyword_permission), [perpetuity](keyword_perpetuity), [phase](keyword_phase), [pillar](keyword_pillar), [plan](keyword_plan), [point](keyword_point), [poland](keyword_poland), [policy](keyword_policy), [population](keyword_population), [primer](keyword_primer), [product](keyword_product), [professor](keyword_professor), [project](keyword_project), [proposition](keyword_proposition), [public](keyword_public), [public health](keyword_public_health), [qpcr](keyword_qpcr), [religious](keyword_religious), [research](keyword_research), [residential](keyword_residential), [resilience](keyword_resilience), [restriction](keyword_restriction), [risk](keyword_risk), [rna](keyword_rna), [robot](keyword_robot), [room](keyword_room), [rt](keyword_rt), [safely](keyword_safely), [sample](keyword_sample), [sampler](keyword_sampler), [sar cov 2](keyword_sar_cov_2), [saudi](keyword_saudi), [school](keyword_school), [sdg](keyword_sdg), [sector](keyword_sector), [sensor](keyword_sensor), [sewage](keyword_sewage), [smart](keyword_smart), [smart city](keyword_smart_city), [social](keyword_social), [social distancing](keyword_social_distancing), [social medium](keyword_social_medium), [society](keyword_society), [space](keyword_space), [spain](keyword_spain), [spread](keyword_spread), [study](keyword_study), [subscribe](keyword_subscribe), [supply chain](keyword_supply_chain), [surface](keyword_surface), [surveillance](keyword_surveillance), [sustainability](keyword_sustainability), [sustainable](keyword_sustainable), [switzerland](keyword_switzerland), [symptom](keyword_symptom), [system](keyword_system), [tatem](keyword_tatem), [tb](keyword_tb), [technology](keyword_technology), [temperature](keyword_temperature), [time](keyword_time), [transmission](keyword_transmission), [travel](keyword_travel), [tuberculosis](keyword_tuberculosis), [twin](keyword_twin), [ultraviolet](keyword_ultraviolet), [unesco](keyword_unesco), [united kingdom](keyword_united_kingdom), [united nations](keyword_united_nations), [united states](keyword_united_states), [upper](keyword_upper), [urban](keyword_urban), [usa](keyword_usa), [user](keyword_user), [uv](keyword_uv), [uv-c](keyword_uv-c), [uvgi](keyword_uvgi), [vaccine](keyword_vaccine), [vbd](keyword_vbd), [vector](keyword_vector), [ventilation](keyword_ventilation), [violence](keyword_violence), [virus](keyword_virus), [ward](keyword_ward), [washington dc](keyword_washington_dc), [wastewater](keyword_wastewater), [water](keyword_water), [week](keyword_week), [well](keyword_well), [well be](keyword_well_be), [woman](keyword_woman), [work](keyword_work), [world bank](keyword_world_bank), [world health organization](keyword_world_health_organization), [world heritage site](keyword_world_heritage_site), [wuhan](keyword_wuhan), [wwtp](keyword_wwtp)
 
 # Articles
 
@@ -84,6 +84,7 @@
 * Urban form: Realising the value of green space: a planners’ perspective on the COVID-19 pandemic - [LINK](article_ahmadpoor_urban_2021)
 * First confirmed detection of SARS-CoV-2 in untreated wastewater in Australia: A proof of concept for the wastewater surveillance of COVID-19 in the community - [LINK](article_ahmed_first_2020)
 * Occupants’ behavior and activity patterns influencing the energy consumption in the Kuwaiti residences - [LINK](article_al-mumin_occupants_2003)
+* Global policy challenges for urban vector-borne disease risks - [LINK](article_alabaster_global_2016)
 * Combating COVID-19 in Indonesia: Local Government Use of Smart City System Support - [LINK](article_alareeni_combating_2022)
 * On the Coronavirus (COVID-19) Outbreak and the Smart City Network: Universal Data Sharing Standards Coupled with Artificial Intelligence (AI) to Benefit Urban Health Monitoring and Management - [LINK](article_allam_coronavirus_2020)
 * The Emergence of Anti-Privacy and Control at the Nexus between the Concepts of Safe City and Smart City - [LINK](article_allam_emergence_2019)
@@ -105,15 +106,16 @@
 * Environmental factors involved in SARS-CoV-2 transmission: effect and role of indoor environmental quality in the strategy for COVID-19 infection control - [LINK](article_azuma_environmental_2020)
 * An environmental and health perspective for COVID-19 outbreak: Meteorology and air quality influence, sewage epidemiology indicator, hospitals disinfection, drug therapies and recommendations - [LINK](article_barcelo_environmental_2020)
 * Wastewater-Based Epidemiology to monitor COVID-19 outbreak: Present and future diagnostic methods to be in your radar - [LINK](article_barcelo_wastewater-based_2020)
+* Addressing vulnerability, building resilience: community-based adaptation to vector-borne diseases in the context of global change - [LINK](article_bardosh_addressing_2017)
 * An Overview of Biomedical Ontologies for Pandemics and Infectious Diseases Representation - [LINK](article_bayoudhi_overview_2021)
 * Efficacy of an Automated Multiple Emitter Whole-Room Ultraviolet-C Disinfection System Against Coronaviruses MHV and MERS-CoV - [LINK](article_bedell_efficacy_2016)
 * Upper-room ultraviolet air disinfection might help to reduce COVID-19 transmission in buildings: a feasibility study - [LINK](article_beggs_upper-room_2020)
 * A Surface Coating that Rapidly Inactivates SARS-CoV-2 - [LINK](article_behzadinasab_surface_2020)
 * Eviction, Health Inequity, and the Spread of COVID-19: Housing Policy as a Primary Pandemic Mitigation Strategy - [LINK](article_benfer_eviction_2021)
-* Organizations’ Management of the COVID-19 Pandemic: A Scoping Review of Business Articles - [LINK](article_boiral_organizations_2021)
 * Towards Resilient Residential Buildings and Neighborhoods in Light of COVID-19 Pandemic—The Scenario of Podgorica, Montenegro - [LINK](article_bojovic_towards_2022)
 * Methods for air cleaning and protection of building occupants from airborne pathogens - [LINK](article_bolashikov_methods_2009)
 * Learning from the COVID-19 pandemic in governing smart cities - [LINK](article_bolivar_learning_2022)
+* “Saving Lives, Protecting Livelihoods, and Safeguarding Nature”: Risk-Based Wildlife Trade Policy for Sustainable Development Outcomes Post-COVID-19 - [LINK](article_booth_saving_2021)
 * Analysis of COVID-19 Concerns Raised by the Construction Workforce and Development of Mitigation Practices - [LINK](article_bou_hatoum_analysis_2021)
 * Should I Stay or Should I Go? Tourists’ COVID-19 Risk Perception and Vacation Behavior Shift - [LINK](article_bratic_should_2021)
 * Understanding the role of urban design in disease spreading - [LINK](article_brizuela_understanding_2019)
@@ -127,14 +129,19 @@
 * A Comprehensive Review of the COVID-19 Pandemic and the Role of IoT, Drones, AI, Blockchain, and 5G in Managing its Impact - [LINK](article_chamola_comprehensive_2020)
 * How Can Blockchain Help People in the Event of Pandemics Such as the COVID-19? - [LINK](article_chang_how_2020)
 * Climate and the spread of COVID-19 - [LINK](article_chen_climate_2021)
+* Conservation Amid COVID-19 Pandemic: Ecotourism Collapse Threatens Communities and Wildlife in Morocco - [LINK](article_cherkaoui_conservation_2020)
 * 10 Adaptive Measures for Public Places to face the COVID 19 Pandemic Outbreak - [LINK](article_cheshmehzangi_10_2020)
 * Revisiting the built environment: 10 potential development changes and paradigm shifts due to COVID-19 - [LINK](article_cheshmehzangi_revisiting_2021)
+* Observed and Potential Impacts of the COVID-19 Pandemic on the Environment - [LINK](article_cheval_observed_2020)
 * Using Technology to Maintain the Education of Residents During the COVID-19 Pandemic - [LINK](article_chick_using_2020)
 * Health Information Exchange with Blockchain amid Covid-19-like Pandemics - [LINK](article_christodoulou_health_2020)
 * COVID-19 Pandemic: Prevention and Protection Measures to Be Adopted at the Workplace - [LINK](article_cirrincione_covid-19_2020)
 * Navigating Climate Change: Rethinking the Role of Buildings - [LINK](article_cole_navigating_2020)
+* The removal of airborne SARS-CoV-2 and other microbial bioaerosols by air filtration on COVID-19 surge units - [LINK](article_conway-morris_removal_2021)
+* Impacts of the coronavirus pandemic on biodiversity conservation - [LINK](article_corlett_impacts_2020)
 * Home garden use during COVID-19: Associations with physical and mental wellbeing in older adults - [LINK](article_corley_home_2021)
 * A Mixed Approach on Resilience of Spanish Dwellings and Households during COVID-19 Lockdown - [LINK](article_cuerdo-vilches_mixed_2020)
+* Building sustainable finance for resilient protected and conserved areas: lessons from COVID-19 - [LINK](article_cumming_building_2021)
 * Potted plants do not improve indoor air quality: a review and analysis of reported VOC removal efficiencies - [LINK](article_cummings_potted_2020)
 * Vancouver Convention Health Centre (COVID-19 Response): Planning, implementation, and four lessons learned - [LINK](article_d_ross_brown_vancouver_2020)
 *  - [LINK](article_dalessandro_covid-19_2020)
@@ -154,6 +161,7 @@
 * Upper-Room Ultraviolet Light and Negative Air Ionization to Prevent Tuberculosis Transmission - [LINK](article_escombe_upper-room_2009)
 * Smart cities and the pandemic: digital technologies on the urban management of Brazilian cities - [LINK](article_fariniuk_smart_2020)
 * COVID-19: Risk assessment and mitigation measures in healthcare and non-healthcare workplaces - [LINK](article_fawzy_covid-19_2021)
+* Green infrastructure through the lens of “One Health”: A systematic review and integrative framework uncovering synergies and trade-offs between mental health and wildlife support in cities - [LINK](article_felappi_green_2020)
 * Validity of energy social research during and after COVID-19: challenges, considerations, and responses - [LINK](article_fell_validity_2020)
 * Treating two pandemics for the price of one: Chronic and infectious disease impacts of the built and natural environment - [LINK](article_frank_treating_2021)
 * Overcoming the Impact of COVID-19 Using Integrated Project Delivery Model - [LINK](article_g_overcoming_2020)
@@ -187,6 +195,7 @@
 * COVID-19 Prevention and Control Measures in Workplace Settings: A Rapid Review and Meta-Analysis - [LINK](article_ingram_covid-19_2021)
 * Coronavirus disease 2019: The harms of exaggerated information and non‐evidence‐based measures - [LINK](article_ioannidis_coronavirus_2020)
 * Smart cities and a data-driven response to COVID-19 - [LINK](article_james_smart_2020)
+* Disease Control Priorities, Third Edition (Volume 9): Improving Health and Reducing Poverty - [LINK](article_jamison_disease_2017)
 * Physical interventions to interrupt or reduce the spread of respiratory viruses: systematic review - [LINK](article_jefferson_physical_2008)
 * Green spaces, especially forest, linked to lower SARS-CoV-2 infection rates: A one-year nationwide study - [LINK](article_jiang_green_2021)
 * COVID-19 and Green Housing: A Review of Relevant Literature - [LINK](article_kaklauskas_covid-19_2021)
@@ -206,6 +215,7 @@
 * Covid-19 and the politics of sustainable energy transitions - [LINK](article_kuzemko_covid-19_2020)
 * First detection of SARS-CoV-2 in untreated wastewaters in Italy - [LINK](article_la_rosa_first_2020)
 * What drives unverified information sharing and cyberchondria during the COVID-19 pandemic? - [LINK](article_laato_what_2020)
+* COVID-19 risks and systemic gaps in Nigeria: resilience building lessons for pandemic and climate change management - [LINK](article_lawal_covid-19_2022)
 * COVID-19 and the UN Sustainable Development Goals: Threat to Solidarity or an Opportunity? - [LINK](article_leal_filho_covid-19_2020)
 * Attitudes towards outdoor and neighbour noise during the COVID-19 lockdown: A case study in London - [LINK](article_lee_attitudes_2021)
 * Designing a Multi-Agent Occupant Simulation System to Support Facility Planning and Analysis for COVID-19 - [LINK](article_lee_designing_2021)
@@ -216,8 +226,11 @@
 * How the 5G Enabled the COVID-19 Pandemic Prevention and Control: Materiality, Affordance, and (De-)Spatialization - [LINK](article_li_how_2022)
 * Role of ventilation in airborne transmission of infectious agents in the built environment ? a multidisciplinary systematic review - [LINK](article_li_role_2007)
 * Seeing the invisible hand: Underlying effects of COVID-19 on tourists’ behavioral patterns - [LINK](article_li_seeing_2020)
+* Challenges to Mitigating the Urban Health Burden of Mosquito-Borne Diseases in the Face of Climate Change - [LINK](article_ligsay_challenges_2021)
 * Automated infrastructure: COVID-19 and the shifting geographies of supply chain capitalism - [LINK](article_lin_automated_2022)
 * SARS-CoV-2 in wastewater: potential health risk, but also data source - [LINK](article_lodder_sars-cov-2_2020)
+* Making green infrastructure healthier infrastructure - [LINK](article_lohmus_making_2015)
+* Emerging challenges of vector-borne diseases for Canadian cities - [LINK](article_luka_emerging_2016)
 * Predicted Inactivation of Viruses of Relevance to Biodefense by Solar Radiation - [LINK](article_lytle_predicted_2005)
 * Impact of Covid-19 on the built environment - [LINK](article_mahima_impact_2022)
 * The role of green roofs in post COVID-19 confinement: An analysis of willingness to pay - [LINK](article_manso_role_2021)
@@ -248,8 +261,10 @@
 * The impacts of knowledge, risk perception, emotion and information on citizens’ protective behaviors during the outbreak of COVID-19: a cross-sectional study in China - [LINK](article_ning_impacts_2020)
 * The impact of the COVID-19 pandemic on the importance of urban green spaces to the public - [LINK](article_noszczyk_impact_2022)
 * COVID-19 misinformation: Accuracy of articles about coronavirus prevention mostly shared on social media - [LINK](article_obiala_covid-19_2021)
+* Decision Making within the Built Environment as a Strategy for Mitigating the Risk of Malaria and Other Vector-Borne Diseases - [LINK](article_obonyo_decision_2018)
 * Global value chains: Efficiency and risks in the context of COVID-19 - [LINK](article_oecd_global_2021)
 * What has been the impact of the COVID-19 pandemic on immigrants? An update on recent evidence - [LINK](article_oecd_what_2022)
+* Vector-borne disease, climate change and urban design - [LINK](article_ogden_vector-borne_2016)
 * Infrastructures of Care for Public Housing Residents During COVID-19 Detention: Failures, Glitches and Possibilities to Care With - [LINK](article_olivier_infrastructures_2022)
 * Air, Surface Environmental, and Personal Protective Equipment Contamination by Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) From a Symptomatic Patient - [LINK](article_ong_air_2020)
 * Infodemic and the spread of fake news in the COVID-19-era - [LINK](article_orso_infodemic_2020)
@@ -286,6 +301,7 @@
 * The City Under COVID‐19: Podcasting As Digital Methodology - [LINK](article_rogers_city_2020)
 * Perception of COVID-19 impacts on the construction industry over time - [LINK](article_rokooei_perception_2022)
 * EXPOSED: An occupant exposure model for confined spaces to retrofit crowd models during a pandemic - [LINK](article_ronchi_exposed_2020)
+* A general modeling framework for exploring the impact of individual concern and personal protection on vector-borne disease dynamics - [LINK](article_roosa_general_2022)
 * The effect of a redesigned floor plan, occupant density and the quality of indoor climate on the cost of space, productivity and sick leave in an office building–A case study - [LINK](article_saari_effect_2006)
 * A comprehensive review on indoor air quality monitoring systems for enhanced public health - [LINK](article_saini_comprehensive_2020)
 * From Viral City to Smart City: Learning from Pandemic Experiences - [LINK](article_sakellarides_viral_2020)
@@ -296,6 +312,7 @@
 * Mental health economics: A prospective study on psychological flourishing and associations with healthcare costs and sickness benefit transfers in Denmark - [LINK](article_santini_mental_2021)
 *  - [LINK](article_sarvari_dataset_2020)
 * A Global Survey of Infection Control and Mitigation Measures for Combating the Transmission of COVID-19 Pandemic in Buildings Under Facilities Management Services - [LINK](article_sarvari_global_2022)
+* Prototype Early Warning Systems for Vector-Borne Diseases in Europe - [LINK](article_semenza_prototype_2015)
 * The psychological impact of COVID-19 on the mental health in the general population - [LINK](article_serafini_psychological_2020)
 * Contributions of Smart City Solutions and Technologies to Resilience against the COVID-19 Pandemic: A Literature Review - [LINK](article_sharifi_contributions_2021)
 * The COVID-19 pandemic: Impacts on cities and major lessons for urban planning, design, and management - [LINK](article_sharifi_covid-19_2020)
@@ -320,14 +337,17 @@
 * Learning from pandemics: Applying resilience thinking to identify priorities for planning urban settlements - [LINK](article_syal_learning_2021)
 * Challenges of data sharing in European Covid-19 projects: A learning opportunity for advancing pandemic preparedness and response - [LINK](article_tacconelli_challenges_2022)
 * COVID-19 and regional solutions for mitigating the risk of SME finance in selected ASEAN member states - [LINK](article_taghizadeh-hesary_covid-19_2022)
+* Integrating rapid risk mapping and mobile phone call record data for strategic malaria elimination planning - [LINK](article_tatem_integrating_2014)
 * Real-world data show that filters clean COVID-causing virus from air - [LINK](article_thompson_real-world_2021)
 * <scp>COVID</scp>             ‐19: Small and medium enterprises challenges and responses with creativity, innovation, and entrepreneurship - [LINK](article_thukral_covid19_2021)
+* Envisioning a resilient future for biodiversity conservation in the wake of the COVID‐19 pandemic - [LINK](article_thurstan_envisioning_2021)
 * An investigation of transmission control measures during the first 50 days of the COVID-19 epidemic in China - [LINK](article_tian_investigation_2020)
 * Digital technology and COVID-19 - [LINK](article_ting_digital_2020)
 * Readiness Assessment of Green Building Certification Systems for Residential Buildings during Pandemics - [LINK](article_tleuken_readiness_2021)
 * Assessment method for new sustainability indicators providing pandemic resilience for residential buildings - [LINK](article_tokazhanov_assessment_2021)
 * How is COVID-19 Experience Transforming Sustainability Requirements of Residential Buildings? A Review - [LINK](article_tokazhanov_how_2020)
 * Preparing critical infrastructure for the future: Lessons learnt from the Covid-19 pandemic - [LINK](article_tomalska_preparing_2022)
+* Proximity and post-COVID-19 urban development: Reflections from Milan, Italy - [LINK](article_tricarico_proximity_2021)
 * Social distancing enhanced automated optimal design of physical spaces in the wake of the COVID-19 pandemic - [LINK](article_ugail_social_2021)
 * Effects of the COVID-19 pandemic on the use and perceptions of urban green space: An international exploratory study - [LINK](article_ugolini_effects_2020)
 * How to Make Green Building Certification &amp; Rating Systems More Pandemic-Sustainable? - [LINK](article_ujikawa_how_2022)

@@ -1,15 +1,17 @@
 # Keyword: air
 
-* [building-space](cluster_Cluster_2)
+* [building-space](cluster_Cluster_1)
 
-* [air-uv](cluster_Cluster_9)
+* [air-ventilation](cluster_Cluster_3)
 
-* [ward-patient](cluster_Cluster_15)
+* [uv-air](cluster_Cluster_4)
+
+* [perpetuity-bioaerosol](cluster_Cluster_13)
 
 
 ## Keywords
 
- * [aerosol](keyword_aerosol), [air](keyword_air), air clean, [air filter](keyword_air_filter), air handling unit, air leakage, air outlet, air qual aerosol air qual, air quality, airflow, ambient, ase100, auxiliary ventilation system, [bioaerosol](keyword_bioaerosol), biophysical, breath, breathe, breathing zone, [build](keyword_build), [building](keyword_building), carbon dioxide, circu lation, circulation, cloud, co2, convection, [disinfection](keyword_disinfection), [droplet](keyword_droplet), ductwork, exhaust outlet, extract, fan, [filter](keyword_filter), filtration, fresh air, gas, ground level, heat transfer medium, humidifier, [hvac](keyword_hvac), [iaq](keyword_iaq), [icu](keyword_icu), indoor air, [indoor air quality](keyword_indoor_air_quality), microbiology, mixed, natural ventilation, [nature](keyword_nature), [noise](keyword_noise), noise pollution, outdoor, outdoor air, outlet, outlet sample, oxygen, [particle](keyword_particle), particulate matter, [pathogen](keyword_pathogen), [pollutant](keyword_pollutant), pollution, pressurize, radiation, recirculate, respir, [respiratory](keyword_respiratory), respiratory system, rh, [room](keyword_room), sanitation, [sar cov 2](keyword_sar_cov_2), separation, [sewage](keyword_sewage), signiﬁcant, solid, solution, stagnant air, sunlight, [surface](keyword_surface), surface pollution, surface sample, [temperature](keyword_temperature), thermal plume, tracer concentration, transmit, transportation, [travel](keyword_travel), ventilate, [ventilation](keyword_ventilation), [ventilation system](keyword_ventilation_system), visual, waste management, [water](keyword_water), water pollution, water quality, water vapour, well mixed air, [window](keyword_window), [winter](keyword_winter), ﬁlter, ﬁltration
+ * [aerosol](keyword_aerosol), [air](keyword_air), [air filter](keyword_air_filter), air handling unit, air leakage, air outlet, air qual aerosol air qual, air sample, airflow, ambient, ase100, auxiliary ventilation system, [bioaerosol](keyword_bioaerosol), biophysical, breath, breathing zone, [build](keyword_build), carbon dioxide, circulation, co2, convection, diffuser, [disinfection](keyword_disinfection), [droplet](keyword_droplet), ductwork, exhaust outlet, fan, [filter](keyword_filter), [filtration](keyword_filtration), fresh air, gas, ground level, heat transfer medium, humid, humidifier, [hvac](keyword_hvac), [iaq](keyword_iaq), indoor air, jet, light pollution, microbiology, microbiology of air, mixed, natural ventilation, [nature](keyword_nature), [noise](keyword_noise), noise pollution, outdoor, outdoor air, outlet, outlet sample, oxygen, [particle](keyword_particle), particulate matter, [pathogen](keyword_pathogen), [pollutant](keyword_pollutant), pollution, pressurize, radiation, recirculate, respir, respiratory, respiratory system, rh, [room](keyword_room), room air treatment, [sar cov 2](keyword_sar_cov_2), separation, [sewage](keyword_sewage), signiﬁcant, solid, solution, stagnant air, sunlight, [surface](keyword_surface), surface pollution, surface sample, [temperature](keyword_temperature), thermal plume, thermally, tracer concentration, transmit, transmit by air, [transport](keyword_transport), transportation, [travel](keyword_travel), ventilate, [ventilation](keyword_ventilation), [ventilation system](keyword_ventilation_system), visual, waste management, [water](keyword_water), water pollution, water quality, water vapour, well mixed air, [window](keyword_window), [winter](keyword_winter), ﬁlter, ﬁltration
 
 
 ## Concepts
@@ -30,7 +32,8 @@
 * Upper-room ultraviolet air disinfection might help to reduce COVID-19 transmission in buildings: a feasibility study - [LINK](article_beggs_upper-room_2020)
 * Characterization and performance evaluation of a full-scale activated carbon-based dynamic botanical air filtration system for improving indoor air quality - [LINK](article_wang_characterization_2011)
 * Environmental factors involved in SARS-CoV-2 transmission: effect and role of indoor environmental quality in the strategy for COVID-19 infection control - [LINK](article_azuma_environmental_2020)
-* Readiness Assessment of Green Building Certification Systems for Residential Buildings during Pandemics - [LINK](article_tleuken_readiness_2021)
+* A Global Survey of Infection Control and Mitigation Measures for Combating the Transmission of COVID-19 Pandemic in Buildings Under Facilities Management Services - [LINK](article_sarvari_global_2022)
+* The Effect of Opening Windows on Air Change Rates in Two Homes - [LINK](article_howard-reed_effect_2002)
 
 
 ### Closest BPs

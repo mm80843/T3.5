@@ -2,7 +2,7 @@
 
 * Source: [10.1007/s11524-020-00502-1](https://doi.org/10.1007/s11524-020-00502-1)
 * Year: 2021
-* Cluster: [building-space](cluster_9)
+* Cluster: [city-health](cluster_14)
 
 
 
@@ -22,19 +22,19 @@
 ### Closest articles
 
 * Dangerous liaisons? Applying the social harm perspective to the social inequality, housing and health trifecta during the Covid-19 pandemic - [LINK](article_gurney_dangerous_2021)
-* Housing Experience in Gated Communities in the Time of Pandemics: Lessons Learned from COVID-19 - [LINK](article_asfour_housing_2022)
 * Public housing and COVID-19: contestation, challenge and change - [LINK](article_power_public_2020)
-* A Mixed Approach on Resilience of Spanish Dwellings and Households during COVID-19 Lockdown - [LINK](article_cuerdo-vilches_mixed_2020)
-* Questioning the use of the balcony in apartments during the COVID-19 pandemic process - [LINK](article_aydin_questioning_2020)
 * Attitudes towards outdoor and neighbour noise during the COVID-19 lockdown: A case study in London - [LINK](article_lee_attitudes_2021)
-* World Bank Development Report - [LINK](article_world_bank_world_2022)
-* COVID-19 and regional solutions for mitigating the risk of SME finance in selected ASEAN member states - [LINK](article_taghizadeh-hesary_covid-19_2022)
-* The socio-economic implications of the coronavirus pandemic (COVID-19): A review - [LINK](article_nicola_socio-economic_2020)
-* How our homes impact our health: using a COVID-19 informed approach to examine urban apartment housing - [LINK](article_peters_how_2020)
+* COVID-19 and the rise of intimate partner violence - [LINK](article_aguero_covid-19_2021)
+* The Socio-Spatial Determinants of COVID-19 Diffusion: The Impact of Globalisation, Settlement Characteristics and Population - [LINK](article_sigler_socio-spatial_2020)
+* The socio-economic determinants of COVID-19: A spatial analysis of German county level data - [LINK](article_ehlert_socio-economic_2021)
+* Treating two pandemics for the price of one: Chronic and infectious disease impacts of the built and natural environment - [LINK](article_frank_treating_2021)
+* Assessment of COVID-19 precautionary measures in sports facilities: A case study on a health club in Saudi Arabia - [LINK](article_ibrahim_assessment_2022)
+* How loneliness is talked about in social media during COVID-19 pandemic: Text mining of 4,492 Twitter feeds - [LINK](article_koh_how_2022)
+* Multilevel Analysis of Personal, Non-Medical COVID-19-Related Impact Worldwide - [LINK](article_dye_multilevel_2020)
 
 
 ### Closest BPs
 
-* Air Cleaning Plants - [LINK](bp_15)
-* Architecture design - [LINK](bp_2)
-* Tender support at building stage - [LINK](bp_9)
+* Blueprint: Public places as information points - [LINK](bp_8)
+* Blueprint: Resilience in staffing and skills training - [LINK](bp_12)
+* Blueprint: Tender support at building stage - [LINK](bp_9)
