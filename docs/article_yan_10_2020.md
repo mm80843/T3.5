@@ -2,13 +2,13 @@
 
 * [https://www.weforum.org/agenda/2020/04/10-technology-trends-coronavirus-covid19-pandemic-robotics-telehealth/](https://www.weforum.org/agenda/2020/04/10-technology-trends-coronavirus-covid19-pandemic-robotics-telehealth/)
 * Year: 2020
-* Cluster: [blockchain-ontology](cluster_11)
+* Cluster: [economic-health](cluster_9)
 
 
 
 ## Keywords
 
- * 3d print, [5 g](keyword_5_g), [5 g network](keyword_5_g_network), accept cookie, [ad](keyword_ad), [artificial intelligence](keyword_artificial_intelligence), [beijing](keyword_beijing), [business](keyword_business), [china](keyword_china), class, college educate, contactless digital payment, [coronavirus](keyword_coronavirus), [covid 19 pandemic](keyword_covid_19_pandemic), [covid-19](keyword_covid-19), datum flow, deliver item, [delivery](keyword_delivery), diagnosis, digital payment, digital readiness, digital service, digitalize format, distance, [drone](keyword_drone), economic forum, [education](keyword_education), educational institution, [employee](keyword_employee), [employer](keyword_employer), [europe](keyword_europe), ewallet, flu, food, fourth industrial revolution, have you read, high school diploma, in person interaction, [industry](keyword_industry), international heritage site, [internet](keyword_internet), internet connection, lack of work life balance, [logistic](keyword_logistic), [loneliness](keyword_loneliness), [manufacture](keyword_manufacture), [mask](keyword_mask), medical care, medical service, museum, online entertainment, online gaming, [online shopping](keyword_online_shopping), [outbreak](keyword_outbreak), [pandemic](keyword_pandemic), parent, patent, payment, [personal protective equipment](keyword_personal_protective_equipment), personalise content, place of origin, [privacy](keyword_privacy), [privacy policy](keyword_privacy_policy), production, psychological study, quarantine, read, regulation, reject cookie, [remote work](keyword_remote_work), remote work accept cookie, [robot](keyword_robot), [robotic](keyword_robotic), safe work environment, social welfare, [society](keyword_society), [south korea](keyword_south_korea), stay home, [supply chain](keyword_supply_chain), surgical mask, [symptom](keyword_symptom), tech literacy, [technology](keyword_technology), technology trend, [telehealth](keyword_telehealth), th ti h th t h l g, the spread, threat, trade, [training](keyword_training), utility payment, virtual private network, [virtual reality](keyword_virtual_reality), virus proof, vital sign, voice over internet protocol, [work](keyword_work), work from home, workforce, world economic forum
+ * 3d, [3d print](keyword_3d_print), 3d print product, 3dto print, [5 g](keyword_5_g), [5 g network](keyword_5_g_network), accept cookie, [ad](keyword_ad), [beijing](keyword_beijing), [business](keyword_business), [child](keyword_child), [china](keyword_china), class, cloud rave, college, college educate, [coronavirus](keyword_coronavirus), cost of compatible device, [covid 19 pandemic](keyword_covid_19_pandemic), covid 19 variant, [covid-19](keyword_covid-19), covid19 pandemic, deliver item, [delivery](keyword_delivery), delivery company, diagnosis, digitize world, disparity, [distance](keyword_distance), [drone](keyword_drone), e commerce, economic forum, [employee](keyword_employee), [employer](keyword_employer), english, español, [europe](keyword_europe), film, film production company, flu, have you read, high school, high school diploma, [home](keyword_home), in person interaction, inclusive access, income tax issue, [industry](keyword_industry), [internet](keyword_internet), internet connection, [italy](keyword_italy), labour law, labour law issue, lack of work life balance, lo scalzo, [lockdown](keyword_lockdown), [logistic](keyword_logistic), [loneliness](keyword_loneliness), [manufacture](keyword_manufacture), online entertainment, online gaming, online shopping, [outbreak](keyword_outbreak), [pandemic](keyword_pandemic), parent, personalise content, place of origin, [privacy](keyword_privacy), [privacy policy](keyword_privacy_policy), production, quarantine, read, regulation, [remote work](keyword_remote_work), remote work accept cookie, [robot](keyword_robot), robot delivery, [robotic](keyword_robotic), safe work environment, [society](keyword_society), [south korea](keyword_south_korea), stay home, [supply chain](keyword_supply_chain), supply chain 4 0, supply chain system, [symptom](keyword_symptom), tech literacy, [technology](keyword_technology), technology trend, [telehealth](keyword_telehealth), th ti h th t h l g, the spread, threat, trade, virus proof, vulnerable, [work](keyword_work), work from home, workforce, world economic forum
 
 
 ## Concepts
@@ -21,19 +21,20 @@
 
 ### Closest articles
 
-* Rotating groups at work, school best against COVID-19 spread: Study - [LINK](article_afp_rotating_2021)
 * Telehealth overpromises during the Covid-19 pandemic - [LINK](article_ostherr_telehealth_2020)
-* Reframe how to serve your community in the midst of a pandemic - [LINK](article_sutton_reframe_2020)
-* Using Technology to Maintain the Education of Residents During the COVID-19 Pandemic - [LINK](article_chick_using_2020)
-* Case Study on Finnish TVETA Resilient Model of Training During COVID-19 - [LINK](article_unesco_case_2021)
-* How Covid-19 Has Permanently Changed the Fitness Industry - [LINK](article_davalos_how_2021)
+* Combating COVID-19—The role of robotics in managing public health and infectious diseases - [LINK](article_yang_combating_2020)
+* Danish disinfection robots save lives in the fight against the Corona virus \textbar Shaping Europe’s digital future - [LINK](article_ec_views_danish_2020)
+* Drones. Disinfecting robots. Supercomputers. The coronavirus outbreak is a test for China's tech industry \textbar CNN Business - [LINK](article_wang_drones_2020)
 * COVID-19: A new digital dawn? - [LINK](article_robbins_covid-19_2020)
-* Assessing the health and hygiene performance of apartment buildings - [LINK](article_ho_assessing_2004)
-* Construction of a Linked Data Set of COVID-19 Knowledge Graphs: Development and Applications - [LINK](article_wang_construction_2022)
+* Amplifying the role of knowledge translation platforms in the COVID-19 pandemic response - [LINK](article_el-jardali_amplifying_2020)
+* From Viral City to Smart City: Learning from Pandemic Experiences - [LINK](article_sakellarides_viral_2020)
+* Response to COVID-19 in Taiwan - [LINK](article_wang_response_2020)
+* Mobile Technology Solution for COVID-19: Surveillance and Prevention - [LINK](article_raza_mobile_2021)
+*  - [LINK](article_mehtab_alam_role_2021)
 
 
 ### Closest BPs
 
 * Blueprint: Resilience in staffing and skills training - [LINK](bp_12)
-* Blueprint: Negative pressure rooms - [LINK](bp_13)
-* Blueprint: Installing high-efficiency air filters - [LINK](bp_11)
+* Blueprint: Smart Locker System - [LINK](bp_1)
+* Blueprint: One-way mobility circulation - [LINK](bp_4)

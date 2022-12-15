@@ -5,7 +5,7 @@
 
 ## Keywords
 
- * Cluster_2, ampliﬁe, bind site, [cdc](keyword_cdc), concentration method, encyclopaedia, forward, matrix, mengo 110fw, mengo 209 rev, methodology, n3, nc_045512, [primer](keyword_primer), primers, probe, probe set, [protocol](keyword_protocol), reaction, reverse, reverse primer, reverse transcription, rt qpcr, [sar cov 2](keyword_sar_cov_2), serial dilution, wuhancov spk1 f, wuhancov spk2 r
+ * Cluster_2, ampliﬁe, bind site, [cdc](keyword_cdc), concentration method, encyclopaedia, forward, matrix, mengo 110fw, mengo 209 rev, methodology, n3, nc_045512, [primer](keyword_primer), primers, probe, probe set, [protocol](keyword_protocol), reaction, reverse, reverse primer, reverse transcription, rt qpcr, [sar cov 2](keyword_sar_cov_2), wuhancov spk1 f, wuhancov spk2 r
 
 
 ## Concepts

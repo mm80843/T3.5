@@ -28,14 +28,14 @@ We can have a safe and comfortable occupancy level
 
 ### Contextual situations
 
-The context of application of the access restrictions are the following:
--	Peak hour : How to manage the danger at this moment? 
--	Opening hour : How to reduce the opening hour ? 
--	Customer selection ?
+The context of the application of access restrictions is the following:
+-	Rush hour : How can the danger be managed at this time? 
+-	Opening hours : How can the opening time be reduced ? 
+-	Choice of customers ?
 -	More personalised service ? 
-This context problematics has to be applied to all people who enter in the building. 
-An particular attention has to be made at access nodes of public buildings. 
-The design phase has to integrate also the risk in their study.
+This contextual problem must be applied to all people entering the building 
+Special attention must be paid to the access nodes of public buildings 
+In the design phase, risk must also be included in the study.
 
 ### Problems to solve
 
@@ -53,21 +53,21 @@ Different solution can be created to limit access :
 
 ### Capabilities
 
-Thanks to the technology and the Digital twin, the capabilities of controlling the access and the flow of people can improve a lot. Different solution can be imagined : 
+Thanks to technology and the digital twin, the possibilities for controlling access and the flow of people can be greatly improved. Various solutions are conceivable 
 -	Sensors to monitor occupancy
 -	Telephone service
--	Remote assistance as alternative
--	Appointment booking system
--	Smart people counter
--	Contactless login / access (badges)
+-	Remote service as an alternative
+-	Appointment scheduling system
+-	Intelligent people counter
+-	Contactless registration / access (badges)
 
 ### Restrictions and limitations
 
-Limiting access is above all a deprivation of movement, of freedom for the inhabitants. The acceptance of the inhabitants is the first obstacle.
-As well as some logistical issues that can be difficult to implement, such as changing the opening hours or the barriers to accessing services. 
-Moreover there may be circumstances where we can not limit access nodes. 
-Emergencies can be complicated to manage : unforeseen situations which require immediate attention
-Finally , the last point is downtime if the customer does not appear.
+Restricting access is above all depriving residents of freedom of movement. The acceptance of the residents is the first obstacle.
+In addition, there are some logistical issues that may be difficult to implement, such as changing opening hours or barriers to accessing services 
+In addition, there may be circumstances where we cannot limit access nodes 
+Emergencies can be complicated to manage: unforeseen situations that require immediate attention
+The last point is the downtime when the client does not show up.
 
 ### Transmission
 
@@ -101,6 +101,29 @@ A digital twin could be used to visualise how to optimise the access limitation 
 
 Potentially high costs related to operating the checkpoint. Increased surveillance could lead to social consequences.
 
+### Associated interventions
+
+Main:  HJ2 - Occupancy control (eg separating at/risk contaminated population)
+Other: 
+> HJ1 - Optimize users flows to prevent contamination
+>HU1 - Social distancing
+
+### Technological enablers
+
+Main: Automation
+Other: 
+> Data Analytics
+> 5G
+> Smartphones
+> IoT
+> AI/ML
+> Robots, Drones & Automated Vehicules
+> Teleworking
+
+### PartnerInCharge
+
+RES
+
 
 
 
@@ -110,18 +133,18 @@ Potentially high costs related to operating the checkpoint. Increased surveillan
 ### Closest articles
 
 * Touchless Retail: What the Rest of the World could learn from China’s new ways to shop - [LINK](article_capgemini_touchless_2020)
+* Designing a Multi-Agent Occupant Simulation System to Support Facility Planning and Analysis for COVID-19 - [LINK](article_lee_designing_2021)
 * Retail Signage During the COVID-19 Pandemic - [LINK](article_mcneish_retail_2020)
+* Building occupancy estimation with people flow modeling in AnyLogic - [LINK](article_li_building_2016)
 * How COVID-19 Could Accelerate the Adoption of New Retail Technologies and Enhance the (E-)Servicescape - [LINK](article_willems_how_2021)
-* Open-source analytics tools for studying the COVID-19 coronavirus outbreak - [LINK](article_wu_open-source_2020)
+* EXPOSED: An occupant exposure model for confined spaces to retrofit crowd models during a pandemic - [LINK](article_ronchi_exposed_2020)
 * KIX to apply antimicrobial coating in its fight against COVID-19 - [LINK](article_kansai_airport_kix_2021)
-* The effect of human mobility and control measures on the COVID-19 epidemic in China - [LINK](article_kraemer_effect_2020)
-* An investigation of transmission control measures during the first 50 days of the COVID-19 epidemic in China - [LINK](article_tian_investigation_2020)
-* <scp>COVID</scp>             ‐19: Small and medium enterprises challenges and responses with creativity, innovation, and entrepreneurship - [LINK](article_thukral_covid19_2021)
-* Startups in times of crisis – A rapid response to the COVID-19 pandemic - [LINK](article_kuckertz_startups_2020)
+* A comprehensive review on indoor air quality monitoring systems for enhanced public health - [LINK](article_saini_comprehensive_2020)
+* An Intelligent IEQ Monitoring and Feedback System: Development and Applications - [LINK](article_geng_intelligent_2021)
 
 
 ### Closest BPs
 
-* Blueprint: Checkpoint allocation for access limitation - [LINK](bp_6)
 * Blueprint: One-way mobility circulation - [LINK](bp_4)
+* Blueprint: Checkpoint allocation for access limitation - [LINK](bp_6)
 * Blueprint: Rotational Shift System - [LINK](bp_0)

@@ -2,13 +2,13 @@
 
 * Source: [10.1080/10473289.2002.10470775](https://doi.org/10.1080/10473289.2002.10470775)
 * Year: 2002
-* Cluster: [air-ventilation](cluster_13)
+* Cluster: [air-ventilation](cluster_4)
 
 
 
 ## Keywords
 
- * [air](keyword_air), air change, [air change rate](keyword_air_change_rate), air waste management association, american society for testing and material, anemometer, assoc, b k, [bedroom](keyword_bedroom), [california](keyword_california), california house, compartment, concentration, day, decay rate, depressurize, dining room, door, dulle, east, eigenvalue, equilibrium, etheridge, experiment, experimental house, floor plan, [home](keyword_home), [house](keyword_house), howard reed, human exposure, [hvac](keyword_hvac), [indoor](keyword_indoor), indoor air, [japan](keyword_japan), kitchen, kvisgaard, level 2 level 1, level 3, level 3 level 1, living room, maryland, master bedroom, may 1995, meteorological, meteorological condition, [monitor](keyword_monitor), national institute of standard and technology, [new york](keyword_new_york), nonwindy, [occupant](keyword_occupant), open, open window, ott, outdoor air, outdoor temperature, pa, philadelphia pa, pressurize, redwood city, reston, reverse stack effect, roulet, [sample](keyword_sample), san jose, san reston, scartezzini, season, second floor, sf6, slope, spring, st petersburg, stack effect, standard error, stanford university, [state](keyword_state), state 0, summer, sustain air change, [temperature](keyword_temperature), temperature difference, tracer, tracer gas, va, [ventilation](keyword_ventilation), [virginia](keyword_virginia), virginia house, volume, wallace, weather, weather condition, whoosh, wind, wind speed, [window](keyword_window), window opening, window opening behavior, windy, [winter](keyword_winter), zone
+ * [air](keyword_air), air change, [air change rate](keyword_air_change_rate), air waste management association, american society for testing and material, anemometer, assoc, b k, [bedroom](keyword_bedroom), [california](keyword_california), california house, compartment, concentration, day, decay rate, depressurize, dining room, door, east, eigenvalue, eigenvector, electron capture detector, endorsement, epidemiologist, epidemiologist subj idemiol, equilibrium, etheridge, experiment, floor plan, gas, gas chromatograph, [home](keyword_home), [house](keyword_house), [hvac](keyword_hvac), [indoor](keyword_indoor), indoor air, [japan](keyword_japan), kitchen, kvisgaard, level 2 level 1, level 3, level 3 level 1, living room, maryland, master bedroom, may 1995, meteorological, [monitor](keyword_monitor), [new york](keyword_new_york), nonwindy, [occupant](keyword_occupant), open, open window, ott, outdoor air, outdoor temperature, pa, philadelphia pa, pressurize, redwood city, reston, reverse stack effect, roulet, [sample](keyword_sample), san jose, san reston, scartezzini, season, second floor, sf6, slope, spring, st petersburg, standard error, stanford university, [state](keyword_state), state 0, summer, [temperature](keyword_temperature), temperature difference, tracer, tracer gas, turbulence, [united kingdom](keyword_united_kingdom), va, [ventilation](keyword_ventilation), [virginia](keyword_virginia), virginia house, volume, wallace, weather condition, whoosh, wind, wind speed, [window](keyword_window), window opening, window opening behavior, windy, [winter](keyword_winter), zone
 
 
 ## Concepts
@@ -22,19 +22,19 @@
 ### Closest articles
 
 * Characterization and performance evaluation of a full-scale activated carbon-based dynamic botanical air filtration system for improving indoor air quality - [LINK](article_wang_characterization_2011)
-* The effect of a redesigned floor plan, occupant density and the quality of indoor climate on the cost of space, productivity and sick leave in an office building–A case study - [LINK](article_saari_effect_2006)
-* Architectural Design Drives the Biogeography of Indoor Bacterial Communities - [LINK](article_kembel_architectural_2014)
+* A comprehensive review on indoor air quality monitoring systems for enhanced public health - [LINK](article_saini_comprehensive_2020)
+* Continuous IEQ monitoring system: Context and development - [LINK](article_parkinson_continuous_2019)
+* An Intelligent IEQ Monitoring and Feedback System: Development and Applications - [LINK](article_geng_intelligent_2021)
+* Toilets dominate environmental detection of SARS-CoV-2 virus in a hospital - [LINK](article_ding_toilets_2020)
+* Air, Surface Environmental, and Personal Protective Equipment Contamination by Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) From a Symptomatic Patient - [LINK](article_ong_air_2020)
+* Aerosol and Surface Distribution of Severe Acute Respiratory Syndrome Coronavirus 2 in Hospital Wards, Wuhan, China, 2020 - [LINK](article_guo_aerosol_2020)
+* SARS-CoV-2 RNA detection of hospital isolation wards hygiene monitoring during the Coronavirus Disease 2019 outbreak in a Chinese hospital - [LINK](article_wang_sars-cov-2_2020)
+* Real-world data show that filters clean COVID-causing virus from air - [LINK](article_thompson_real-world_2021)
 * The effect of occupant distribution on energy consumption and COVID-19 infection in buildings: A case study of university building - [LINK](article_mokhtari_effect_2021)
-* Assessment of Building Automation and Control Systems in Danish Healthcare Facilities in the COVID-19 Era - [LINK](article_pedersen_assessment_2022)
-* Occupants’ behavior and activity patterns influencing the energy consumption in the Kuwaiti residences - [LINK](article_al-mumin_occupants_2003)
-* Reflecting on Impacts of COVID19 on Sustainable Buildings and Cities - [LINK](article_gonzalez_reflecting_2021)
-* Addressing the impact of COVID-19 lockdown on energy use in municipal buildings: A case study in Florianópolis, Brazil - [LINK](article_geraldi_addressing_2021)
-* Occupant health in buildings: Impact of the COVID-19 pandemic on the opinions of building professionals and implications on research - [LINK](article_awada_occupant_2022)
-* Impacts of COVID-19 on residential building energy use and performance - [LINK](article_kawka_impacts_2021)
 
 
 ### Closest BPs
 
+* Blueprint: Indoor Environmental Quality (IEQ) monitoring system - [LINK](bp_3)
 * Blueprint: Air Cleaning Plants - [LINK](bp_15)
-* Blueprint: Building Adaptation during a pandemic - [LINK](bp_14)
-* Blueprint: Tender support at building stage - [LINK](bp_9)
+* Blueprint: Installing high-efficiency air filters - [LINK](bp_11)

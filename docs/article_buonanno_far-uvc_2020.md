@@ -2,13 +2,13 @@
 
 * Source: [10.1038/s41598-020-67211-2](https://doi.org/10.1038/s41598-020-67211-2)
 * Year: 2020
-* Cluster: [uvc-hcov](cluster_7)
+* Cluster: [health-patient](cluster_14)
 
 
 
 ## Keywords
 
- * 222 nm, 254 nm, [aerosol](keyword_aerosol), aerosol chamber, [airborne](keyword_airborne), alexa fluor 488, alpha hcov 229e, anti microbial, antigen, [assay](keyword_assay), [bacteria](keyword_bacteria), beta hcov oc43, biol, [biosampler](keyword_biosampler), [cell](keyword_cell), chemical substance, chemistry, chromosome, cm2, columbia university, [coronavirus](keyword_coronavirus), cough, [covid-19](keyword_covid-19), cytoplasm, d 90, dapi, [datum](keyword_datum), dependent variable, [disinfection](keyword_disinfection), [domain](keyword_domain), dosimetry, epidermal, excimer lamp, exposure window, far uvc, far uvc light, fibroblast, first order kinetic, [genome](keyword_genome), genomic, [germicidal](keyword_germicidal), h1n1, hbss, hcov oc43, host cell, human lung cell, immunofluorescence, in vitro, in vivo, [inactivation](keyword_inactivation), incubate, independent variable, infection medium, [influenza](keyword_influenza), influenza a, influenza v irus23, irradiation chamber, [light](keyword_light), linear regression, madu, mem, method, [mj](keyword_mj), mol, mouth breathing, mrc 5, objective, [pathogen](keyword_pathogen), photochem, photodetector, plaque form unit, poisson distribution, principle, protein, radiat, radiation, robust linear regression, [sar cov 2](keyword_sar_cov_2), scientific report, secondary antibody, skin, statistic, statistical analysis, stratum corneum, [study](keyword_study), susceptibility factor, t esting23, tissue, [ultraviolet](keyword_ultraviolet), ultraviolet radiation, ushio inc, [uv](keyword_uv), uv inactivation rate constant, [uv light](keyword_uv_light), va, [viral](keyword_viral), viral spike glycoprotein, virology, [virus](keyword_virus), [window](keyword_window)
+ * 222 nm, 254 nm, acquire, [aerosol](keyword_aerosol), aerosol chamber, [airborne](keyword_airborne), alan w bigelow, alexa fluor 488, [algorithm](keyword_algorithm), alpha hcov 229e, antigen, [bacteria](keyword_bacteria), beta hcov oc43, biol, [biosampler](keyword_biosampler), breathing, cell, cell monolayer, chemistry, [chromosome](keyword_chromosome), columbia university, [coronavirus](keyword_coronavirus), cough, [covid-19](keyword_covid-19), cytoplasm, d 90, dapi, [datum](keyword_datum), dependent variable, [disinfection](keyword_disinfection), [domain](keyword_domain), dosimetry, epidermal, excimer lamp, exposure window, far uvc, far uvc light, fibroblast, first order kinetic, [genome](keyword_genome), genomic, [germicidal](keyword_germicidal), h1n1, hbss, hcov oc43, host cell, human lung cell, immunofluorescence, in vivo, incubate, independent variable, infection medium, [influenza](keyword_influenza), influenza a, influenza v irus23, irradiation chamber, light, linear regression, madu, mem, methicillin, method, mol, mrc 5, muench, [new york](keyword_new_york), objective, p c, [pathogen](keyword_pathogen), photochem, plaque form unit, poisson distribution, principle, protein, r b setlow, radiat, radiation, robust linear regression, [sar cov 2](keyword_sar_cov_2), scientific report, secondary antibody, skin, statistic, stratum corneum, [study](keyword_study), susceptibility factor, t esting23, tissue, [ultraviolet](keyword_ultraviolet), ultraviolet radiation, ushio inc, [uv](keyword_uv), [uv light](keyword_uv_light), va, [viral](keyword_viral), virology, [virus](keyword_virus), virus infectivity assay, [well](keyword_well), [window](keyword_window)
 
 
 ## Concepts
@@ -30,11 +30,11 @@
 * Upper-Room Ultraviolet Light and Negative Air Ionization to Prevent Tuberculosis Transmission - [LINK](article_escombe_upper-room_2009)
 * Applications of ultraviolet germicidal irradiation disinfection in health care facilities: Effective adjunct, but not stand-alone technology - [LINK](article_memarzadeh_applications_2010)
 * Air Disinfection for Airborne Infection Control with a Focus on COVID‐19: Why Germicidal UV is Essential             <sup>†</sup> - [LINK](article_nardell_air_2021)
-* Methods for air cleaning and protection of building occupants from airborne pathogens - [LINK](article_bolashikov_methods_2009)
+* The efficacy of social distance and ventilation effectiveness in preventing COVID-19 transmission - [LINK](article_sun_efficacy_2020)
 
 
 ### Closest BPs
 
 * Blueprint: Installing UV in ductwork - [LINK](bp_10)
-* Blueprint: Negative pressure rooms - [LINK](bp_13)
-* Blueprint: Air Cleaning Plants - [LINK](bp_15)
+* Blueprint: Monitoring of wastewater - [LINK](bp_21)
+* Blueprint: Resilience in staffing and skills training - [LINK](bp_12)

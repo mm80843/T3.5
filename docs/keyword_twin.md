@@ -5,7 +5,7 @@
 
 ## Keywords
 
- * Cluster_10, perinatal death, [twin](keyword_twin)
+ * Cluster_10, [twin](keyword_twin)
 
 
 ## Concepts
@@ -18,7 +18,6 @@
 
 ### Closest articles
 
-* Construction of a Linked Data Set of COVID-19 Knowledge Graphs: Development and Applications - [LINK](article_wang_construction_2022)
 
 
 ### Closest BPs

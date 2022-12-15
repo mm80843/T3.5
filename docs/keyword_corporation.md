@@ -5,7 +5,7 @@
 
 ## Keywords
 
- * Cluster_6, [business](keyword_business), citizen, consumer, [corporation](keyword_corporation), corporations, [covid 19 pandemic](keyword_covid_19_pandemic), debt, [employer](keyword_employer), geography, ict, [industry](keyword_industry), microsoft, ngo, ontario, [organisation](keyword_organisation), profit generation, public asset management company, sovereign debt, statutory body, supportive housing, territory, too big to fail, top management, [workplace management](keyword_workplace_management)
+ * Cluster_6, [business](keyword_business), citizen, [consumer](keyword_consumer), [corporation](keyword_corporation), corporations, [covid 19 pandemic](keyword_covid_19_pandemic), debt, [employer](keyword_employer), geography, ict, [industry](keyword_industry), microsoft, ngo, [ontario](keyword_ontario), [organisation](keyword_organisation), profit generation, public asset management company, sovereign debt, statutory body, supportive housing, territory, too big to fail, top management, [workplace management](keyword_workplace_management)
 
 
 ## Concepts

@@ -1,11 +1,13 @@
 # Keyword: icu
 
-* [perpetuity-bioaerosol](cluster_Cluster_3)
+* [perpetuity-bioaerosol](cluster_Cluster_0)
+
+* [nd-icu](cluster_Cluster_3)
 
 
 ## Keywords
 
- * Cluster_3, [air](keyword_air), air outlet, bay, bed, [case](keyword_case), case per day, covid 19 ward, [covid-19](keyword_covid-19), general ward, [gw](keyword_gw), heart disease, [hic](keyword_hic), hic worldwide, [hospital](keyword_hospital), hospital bed, [icu](keyword_icu), [infection](keyword_infection), intensive care, intensive care unit, intensive careunit, isolation, isolation ward, [lockdown](keyword_lockdown), mechanical ventilation, rad box, [sar cov 2](keyword_sar_cov_2), sixth occupied bed, surge, thrombotic complication, [united kingdom](keyword_united_kingdom), [ward](keyword_ward), wards21
+ * Cluster_0, Cluster_3, [air](keyword_air), air outlet, bay, bed, [case](keyword_case), case per day, covid 19 ward, [covid-19](keyword_covid-19), [gw](keyword_gw), heart disease, [hic](keyword_hic), hic worldwide, [hospital](keyword_hospital), [icu](keyword_icu), [infection](keyword_infection), intensive care, intensive care unit, intensive careunit, isolation, isolation ward, [lockdown](keyword_lockdown), rad box, [sar cov 2](keyword_sar_cov_2), sixth occupied bed, surge, thrombotic complication, [united kingdom](keyword_united_kingdom), [ward](keyword_ward), wards21
 
 
 ## Concepts
@@ -22,7 +24,6 @@
 * The removal of airborne SARS-CoV-2 and other microbial bioaerosols by air filtration on COVID-19 surge units - [LINK](article_conway-morris_removal_2021)
 * The impact of COVID-19 and strategies for mitigation and suppression in low- and middle-income countries - [LINK](article_walker_impact_2020)
 * A Comprehensive Review of the COVID-19 Pandemic and the Role of IoT, Drones, AI, Blockchain, and 5G in Managing its Impact - [LINK](article_chamola_comprehensive_2020)
-* A Global Survey of Infection Control and Mitigation Measures for Combating the Transmission of COVID-19 Pandemic in Buildings Under Facilities Management Services - [LINK](article_sarvari_global_2022)
 * SARS-CoV-2 RNA detection of hospital isolation wards hygiene monitoring during the Coronavirus Disease 2019 outbreak in a Chinese hospital - [LINK](article_wang_sars-cov-2_2020)
 * Real-world data show that filters clean COVID-causing virus from air - [LINK](article_thompson_real-world_2021)
 * COVID-19: Risk assessment and mitigation measures in healthcare and non-healthcare workplaces - [LINK](article_fawzy_covid-19_2021)

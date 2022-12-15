@@ -1,17 +1,13 @@
 # Keyword: risk
 
-* [city-health](cluster_Cluster_5)
-
-* [construction-resilience](cluster_Cluster_12)
+* [health-patient](cluster_Cluster_12)
 
 * [malaria-vector](cluster_Cluster_14)
-
-* [building-guidance](cluster_Cluster_15)
 
 
 ## Keywords
 
- * adventure, analysis, [anxiety](keyword_anxiety), asymmetric information, avoid they, benefit, bias, consequence, [construction](keyword_construction), contingent liability, [covid-19](keyword_covid-19), credit, credit risk, cross infection, debt, decision make, develop country, disaster risk reduct, [economic](keyword_economic), [economy](keyword_economy), estimate, ethic, etiology, exinfection, [exposure](keyword_exposure), exposure risk, factor, financial economic, financial instability, financial institution, financial risk, financial stability, [health](keyword_health), [health and safety](keyword_health_and_safety), [high](keyword_high), idiosyncratic risk, infect, [infection](keyword_infection), [infectious disease](keyword_infectious_disease), insolvency, insurance, interconnect, know they avoid they, [knowledge](keyword_knowledge), layer of risk, loan default, low risk, manage, manage risk, manage these risk, management, mitigate, [mitigation](keyword_mitigation), mitigation strategy, moral hazard, opportunity, [pandemic](keyword_pandemic), [perceive risk](keyword_perceive_risk), perception, physical interaction, probability, probability of occurrence, protective factor, prudent, [resilience](keyword_resilience), respiratory disease, response, reward, [risk](keyword_risk), risk assess, risk assessment, risk base, risk description, risk evaluation, risk event, risk identification, risk landscape, risk management, risk of infection, [risk perception](keyword_risk_perception), risk prediction, risk profile, risk society theory, [safety](keyword_safety), secondary source, [shock](keyword_shock), [social distancing](keyword_social_distancing), sovereign debt, [stakeholder](keyword_stakeholder), [stress](keyword_stress), [supply chain management](keyword_supply_chain_management), [system](keyword_system), systemic gap, terrorism, threat, [transmission](keyword_transmission), uncertainty, uninformed practice, [urban governance](keyword_urban_governance), [vulnerability](keyword_vulnerability)
+ * adventure, analysis, [anxiety](keyword_anxiety), asymmetric information, avoid they, benefit, bias, consequence, [construction](keyword_construction), [construction industry](keyword_construction_industry), contingent liability, [control](keyword_control), controllable, [covid-19](keyword_covid-19), credit, credit risk, credit underwriting, cross infection, debt, decision make, develop country, disaster risk reduct, [economic](keyword_economic), [economic crisis](keyword_economic_crisis), economic risk, [economy](keyword_economy), estimate, ethic, etiology, exinfection, [exposure](keyword_exposure), exposure risk, factor, [health](keyword_health), [health and safety](keyword_health_and_safety), high, idiosyncratic risk, infect, [infection](keyword_infection), [infectious disease](keyword_infectious_disease), insolvency, insurance, interconnect, know they avoid they, [knowledge](keyword_knowledge), layer of risk, loan default, manage, manage risk, manage these risk, management, mitigate, [mitigation](keyword_mitigation), mitigation strategy, opportunity, [pandemic](keyword_pandemic), [perceive risk](keyword_perceive_risk), perception, probability, probability of occurrence, protective factor, prudent, [resilience](keyword_resilience), respiratory disease, response, reward, [risk](keyword_risk), risk assess, risk assessment, risk base, risk description, risk evaluation, risk event, risk identification, risk landscape, risk management, risk of infection, [risk perception](keyword_risk_perception), risk prediction, risk profile, risk society theory, [safety](keyword_safety), secondary source, [shock](keyword_shock), sovereign debt, [stakeholder](keyword_stakeholder), [stress](keyword_stress), [supply chain management](keyword_supply_chain_management), [system](keyword_system), systemic gap, terrorism, threat, trade off, [transmission](keyword_transmission), uncertainty, uninformed, uninformed practice, [urban governance](keyword_urban_governance), [vulnerability](keyword_vulnerability), weakness
 
 
 ## Concepts
@@ -24,8 +20,8 @@
 
 ### Closest articles
 
-* World Bank Development Report - [LINK](article_world_bank_world_2022)
 * Guidelines for resilience systems analysis - [LINK](article_oecd_guidelines_2014)
+* World Bank Development Report - [LINK](article_world_bank_world_2022)
 * Seeing the invisible hand: Underlying effects of COVID-19 on tourists’ behavioral patterns - [LINK](article_li_seeing_2020)
 * Assessment of COVID-19 precautionary measures in sports facilities: A case study on a health club in Saudi Arabia - [LINK](article_ibrahim_assessment_2022)
 * COVID-19 and a new resilient infrastructure landscape - [LINK](article_oecd_covid-19_2021)

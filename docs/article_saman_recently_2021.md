@@ -2,13 +2,13 @@
 
 * Source: [10.11591/ijeecs.v22.i1.pp277-286](https://doi.org/10.11591/ijeecs.v22.i1.pp277-286)
 * Year: 2021
-* Cluster: [blockchain-ontology](cluster_11)
+* Cluster: [health-patient](cluster_14)
 
 
 
 ## Keywords
 
- * airplane, ass, automobile, band, bander saman, bbc, body temperature, [china](keyword_china), cialis, clinical parameter, comp sci, [control](keyword_control), coronaviridae, [coronavirus](keyword_coronavirus), [coronaviruse](keyword_coronaviruse), covid 19 coronavirus, [covid-19](keyword_covid-19), [decontamination](keyword_decontamination), [disease](keyword_disease), disinfect, [disinfection](keyword_disinfection), dna, doctor, [drone](keyword_drone), eastern mediterranean africa, egypt, electromagnetic spectrum, [engineering](keyword_engineering), face, face detection, [face mask](keyword_face_mask), [face recognition](keyword_face_recognition), facial recognition, fever, [genome](keyword_genome), global positioning system, human body, human element, indonesian, [infection](keyword_infection), infrare, infrared radiation, [iot](keyword_iot), j elec eng, k raymond, [light](keyword_light), light emit device, m hassaballah, m murison, medical field, medical science, [microorganism](keyword_microorganism), mil, [monitor](keyword_monitor), mouth, nucleic acid, optical access communication, optical amplifier, ozone layer, p d, [pandemic](keyword_pandemic), physical therapy, public transportation, radiation, rehabilitation, [robot](keyword_robot), [robotic](keyword_robotic), s aly, s t, [sar cov 2](keyword_sar_cov_2), science, science journal, [sensor](keyword_sensor), severe acute respiratory syndrome coronavirus 2, skin cancer, [spread](keyword_spread), sunburn, surgical technique, [symptom](keyword_symptom), [taif university](keyword_taif_university), taif university ksa, technical, [temperature](keyword_temperature), [thermal imaging](keyword_thermal_imaging), thermal scanning, thermography, thermometer, [ultraviolet](keyword_ultraviolet), ultraviolet radiation, [unesco](keyword_unesco), [uv light](keyword_uv_light), uv radiation, uv ray, [uv-c](keyword_uv-c), uva, uvb, [virus](keyword_virus), vitamin d, [world health organization](keyword_world_health_organization), [world heritage site](keyword_world_heritage_site)
+ * airplane, ass, automobile, band, bander saman, bbc, block diagram, body temperature, cabin, [china](keyword_china), cialis, [control](keyword_control), coronaviridae, [coronavirus](keyword_coronavirus), coronaviruse, covid 19 coronavirus, [covid-19](keyword_covid-19), dark, [decontamination](keyword_decontamination), [disease](keyword_disease), disinfect, [disinfection](keyword_disinfection), dna, [drone](keyword_drone), eastern mediterranean africa, egypt, electromagnetic spectrum, [engineering](keyword_engineering), face, face detection, face mask, [face recognition](keyword_face_recognition), [fever](keyword_fever), [genome](keyword_genome), health care system, [healthcare](keyword_healthcare), hosp, human element, identification, increase their number, [infection](keyword_infection), infrare, [iot](keyword_iot), k raymond, light, light emit device, m hassaballah, m murison, [machine learning](keyword_machine_learning), machine recognition, [microorganism](keyword_microorganism), mil, [monitor](keyword_monitor), mouth, nucleic acid, ozone layer, p d, [pandemic](keyword_pandemic), public transportation, radiation, rehabilitation, [robot](keyword_robot), [robotic](keyword_robotic), s aly, s t, [sar cov 2](keyword_sar_cov_2), science, science journal, [sensor](keyword_sensor), severe acute respiratory syndrome coronavirus 2, skin cancer, [spread](keyword_spread), sunburn, [symptom](keyword_symptom), [taif university](keyword_taif_university), taif university ksa, technical, [temperature](keyword_temperature), thermography, thermometer, [ultraviolet](keyword_ultraviolet), ultravoilet, [unesco](keyword_unesco), [united kingdom](keyword_united_kingdom), university of connecticut, [uv](keyword_uv), [uv light](keyword_uv_light), uv radiation, uv ray, [uv-c](keyword_uv-c), uva, uvb, [virus](keyword_virus), visible light, vitamin d, vol 46 no 7, vol sci, werobotic, [world health organization](keyword_world_health_organization), [world heritage site](keyword_world_heritage_site)
 
 
 ## Concepts
@@ -29,12 +29,11 @@
 * Behind the Update: ASHRAE Handbook Chapters on UV-C to Include Updated Best Practices, Guidance - [LINK](article_ashrae_behind_2020)
 * Upper-Room Ultraviolet Light and Negative Air Ionization to Prevent Tuberculosis Transmission - [LINK](article_escombe_upper-room_2009)
 * Applications of ultraviolet germicidal irradiation disinfection in health care facilities: Effective adjunct, but not stand-alone technology - [LINK](article_memarzadeh_applications_2010)
-* Air Disinfection for Airborne Infection Control with a Focus on COVID‐19: Why Germicidal UV is Essential             <sup>†</sup> - [LINK](article_nardell_air_2021)
-* Covid-19 and the politics of sustainable energy transitions - [LINK](article_kuzemko_covid-19_2020)
+* Coronavirus and Climate Change - [LINK](article_harvard_th_chan_schoold_of_public_health_coronavirus_2020)
 
 
 ### Closest BPs
 
 * Blueprint: Installing UV in ductwork - [LINK](bp_10)
-* Blueprint: Negative pressure rooms - [LINK](bp_13)
-* Blueprint: Air Cleaning Plants - [LINK](bp_15)
+* Blueprint: Monitoring of wastewater - [LINK](bp_21)
+* Blueprint: Resilience in staffing and skills training - [LINK](bp_12)

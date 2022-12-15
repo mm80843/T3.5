@@ -1,15 +1,21 @@
 # Keyword: social
 
-* [city-health](cluster_Cluster_5)
+* [urban-city](cluster_Cluster_5)
 
-* [health-pca](cluster_Cluster_9)
+* [health-patient](cluster_Cluster_8)
+
+* [economic-health](cluster_Cluster_9)
+
+* [health-mental](cluster_Cluster_13)
 
 * [construction-resilience](cluster_Cluster_14)
+
+* [sign-retailer](cluster_Cluster_15)
 
 
 ## Keywords
 
- * ambient, behavioral science, behaviour, [behavioural](keyword_behavioural), behavioural science, biological, bond, capital, class, [community](keyword_community), [covid 19 crisis](keyword_covid_19_crisis), cultural, demographic status, development science, distance, ecological, ecological system, [economic](keyword_economic), economic aspect, economic benefit, economic cost, economic development, economic disruption, economic factor, economic force, economic integrity, economic issue, economical, emotional, [entrepreneurship](keyword_entrepreneurship), environmental, environmental factor, [epidemiological](keyword_epidemiological), [europe](keyword_europe), fysisk, gender, [health](keyword_health), [healthcare](keyword_healthcare), hente, [human](keyword_human), [inequality](keyword_inequality), intangible benefit, integration, [interaction](keyword_interaction), interconnect world, legitimacy, [lockdown](keyword_lockdown), normative, [pandemic](keyword_pandemic), pharmacy, [physical](keyword_physical), physical activity, physical interaction, planetary boundary, [policy](keyword_policy), political, political asset, political convergence, political process, poverty, [psychological](keyword_psychological), [public](keyword_public), [public health](keyword_public_health), [public housing](keyword_public_housing), [public space](keyword_public_space), recreational, [research](keyword_research), resiliece, retail servicescape, sanitary, sensory, [social](keyword_social), social aspect, social cost, [social distancing](keyword_social_distancing), social justice, social sciences, social scientist, social subj distancing, [society](keyword_society), sovereign bond, spatial, spatial distribution, spatial justice, stay at home, sundhe, [sustainability](keyword_sustainability), sustainability pillar, sustainable bond, technical aspect, technological innovation, territorial, [urban](keyword_urban), urban society, value, virtual world, wealth, web site, [well be](keyword_well_be), [wellbee](keyword_wellbee)
+ * [5 g](keyword_5_g), adaptive, administrative pharmacy, adventure, ambient, behaviour, [behavioural](keyword_behavioural), biological, bond, building scientist, capital, class, [community](keyword_community), consumerist, [covid 19 crisis](keyword_covid_19_crisis), cross regional, cultural, demographic status, deprive, development science, [disease](keyword_disease), [distance](keyword_distance), [domain](keyword_domain), domain of resilience, e servicescape, ecological, [economic](keyword_economic), economic aspect, economic benefit, economic condition, economic cost, economic development, economic disruption, economic factor, economic force, economic function, economic impact, economic integrity, economic issue, economic life, economic well be, economical, [economy](keyword_economy), [ecosystem](keyword_ecosystem), emotional, employment policy, energy injustice, [entrepreneurship](keyword_entrepreneurship), [environmental](keyword_environmental), [epidemiological](keyword_epidemiological), [epidemiology](keyword_epidemiology), [europe](keyword_europe), face mask, fysisk, gender, [health](keyword_health), [healthcare](keyword_healthcare), hente, [human](keyword_human), inequality, intangible benefit, integration, [interaction](keyword_interaction), interconnect world, legitimacy, [lockdown](keyword_lockdown), normative, [pandemic](keyword_pandemic), pharmacy, [physical](keyword_physical), planetary boundary, [policy](keyword_policy), political, poverty, [psychological](keyword_psychological), [public](keyword_public), [public health](keyword_public_health), [public housing](keyword_public_housing), [public space](keyword_public_space), recreational, [research](keyword_research), resiliece, retail servicescape, sanitary, sensory, [social](keyword_social), [society](keyword_society), sovereign bond, spatial, stay at home, sundhe, [sustainability](keyword_sustainability), sustainability pillar, sustainable bond, [urban](keyword_urban), urban society, value, wealth, web site, [well be](keyword_well_be)
 
 
 ## Concepts
@@ -27,11 +33,11 @@
 * Urban planning after COVID-19 - [LINK](article_rtpi_urban_2021)
 * COVID-19 and the UN Sustainable Development Goals: Threat to Solidarity or an Opportunity? - [LINK](article_leal_filho_covid-19_2020)
 * COVID-ABS: An agent-based model of COVID-19 epidemic to simulate health and economic effects of social distancing interventions - [LINK](article_silva_covid-abs_2020)
-* Health, Economic and Social Development Challenges of the COVID-19 Pandemic: Strategies for Multiple and Interconnected Issues - [LINK](article_panneer_health_2022)
-* Navigating Climate Change: Rethinking the Role of Buildings - [LINK](article_cole_navigating_2020)
-* Readiness Assessment of Green Building Certification Systems for Residential Buildings during Pandemics - [LINK](article_tleuken_readiness_2021)
-* The Intelligent Lockdown: Compliance with COVID-19 Mitigation Measures in the Netherlands - [LINK](article_kuiper_intelligent_2020)
 * Addressing vulnerability, building resilience: community-based adaptation to vector-borne diseases in the context of global change - [LINK](article_bardosh_addressing_2017)
+* The role of green roofs in post COVID-19 confinement: An analysis of willingness to pay - [LINK](article_manso_role_2021)
+* Ten questions concerning occupant health in buildings during normal operations and extreme events including the COVID-19 pandemic - [LINK](article_awada_ten_2021)
+* Navigating Climate Change: Rethinking the Role of Buildings - [LINK](article_cole_navigating_2020)
+* Proximity and post-COVID-19 urban development: Reflections from Milan, Italy - [LINK](article_tricarico_proximity_2021)
 
 
 ### Closest BPs

@@ -2,7 +2,7 @@
 
 ## Keywords
 
- * [business](keyword_business), [change](keyword_change), [construction](keyword_construction), [crisis](keyword_crisis), [economic](keyword_economic), [economy](keyword_economy), [energy](keyword_energy), [health](keyword_health), [impact](keyword_impact), [industry](keyword_industry), [infrastructure](keyword_infrastructure), [pandemic](keyword_pandemic), [project](keyword_project), [research](keyword_research), [resilience](keyword_resilience), [risk](keyword_risk), [sector](keyword_sector), [social](keyword_social), [system](keyword_system), [work](keyword_work)
+ * [bank](keyword_bank), [business](keyword_business), [change](keyword_change), [construction](keyword_construction), [crisis](keyword_crisis), [economic](keyword_economic), [energy](keyword_energy), [health](keyword_health), [impact](keyword_impact), [industry](keyword_industry), [infrastructure](keyword_infrastructure), [pandemic](keyword_pandemic), [policy](keyword_policy), [project](keyword_project), [research](keyword_research), [resilience](keyword_resilience), [sector](keyword_sector), [social](keyword_social), [system](keyword_system), [work](keyword_work)
 
 
 
@@ -20,6 +20,7 @@
 * COVID-19 as a Harbinger of Transforming Infrastructure Resilience - [LINK](article_carvalhaes_covid-19_2020)
 * Revisiting the built environment: 10 potential development changes and paradigm shifts due to COVID-19 - [LINK](article_cheshmehzangi_revisiting_2021)
 * Covid-19 Associated Risks and Mitigation Strategies relevant for the UK Construction Industry - [LINK](article_dan-jumbo_covid-19_2021)
+* Sustainable work throughout the life course: National policies and strategies, Publications Office of the European Union - [LINK](article_eurofund_sustainable_2016)
 * Validity of energy social research during and after COVID-19: challenges, considerations, and responses - [LINK](article_fell_validity_2020)
 * The Impact of Pandemic Crisis on the Survival of Construction Industry: A Case of COVID-19 - [LINK](article_gamil_impact_2020)
 * Overcoming the Impact of COVID-19 Using Integrated Project Delivery Model - [LINK](article_g_overcoming_2020)

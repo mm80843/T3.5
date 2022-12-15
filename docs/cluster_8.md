@@ -1,8 +1,8 @@
-# Cluster: __memish-saudi__ (Cluster_8)
+# Cluster: __sign-retailer__ (Cluster_8)
 
 ## Keywords
 
- * [arabia](keyword_arabia), [community](keyword_community), [coronavirus](keyword_coronavirus), [country](keyword_country), [crowd](keyword_crowd), [export](keyword_export), [gather](keyword_gather), [http](keyword_http), [influenza](keyword_influenza), [mass](keyword_mass), [memish](keyword_memish), [mitigation](keyword_mitigation), [permission](keyword_permission), [professor](keyword_professor), [religious](keyword_religious), [saudi](keyword_saudi), [school](keyword_school), [subscribe](keyword_subscribe), [transmission](keyword_transmission), [travel](keyword_travel)
+ * [business](keyword_business), [customer](keyword_customer), [distance](keyword_distance), [font](keyword_font), [grocery](keyword_grocery), [informal](keyword_informal), [information](keyword_information), [interdisciplinary](keyword_interdisciplinary), [location](keyword_location), [ontario](keyword_ontario), [paper](keyword_paper), [photograph](keyword_photograph), [printer](keyword_printer), [retail](keyword_retail), [retailer](keyword_retailer), [sign](keyword_sign), [signage](keyword_signage), [social](keyword_social), [store](keyword_store), [tape](keyword_tape)
 
 
 
@@ -14,4 +14,4 @@
 
 # Linked articles
 
-* Covid-19 and community mitigation strategies in a pandemic - [LINK](article_ebrahim_covid-19_2020)
+* Retail Signage During the COVID-19 Pandemic - [LINK](article_mcneish_retail_2020)

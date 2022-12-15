@@ -2,13 +2,13 @@
 
 * Source: [10.3390/app10217514](https://doi.org/10.3390/app10217514)
 * Year: 2020
-* Cluster: [city-health](cluster_14)
+* Cluster: [health-patient](cluster_14)
 
 
 
 ## Keywords
 
- * anchor box, [artificial intelligence](keyword_artificial_intelligence), backbone, backbone architecture, behaviour, bifpn, biol, [bound box](keyword_bound_box), cctv, [china](keyword_china), class, coco, computer, [computer vision](keyword_computer_vision), convolutional network, convolutional neural network, couple, [covid 19 pandemic](keyword_covid_19_pandemic), [covid-19](keyword_covid-19), cspdarknet53, [dataset](keyword_dataset), [datum](keyword_datum), [deep learning](keyword_deep_learning), deep neural network, deepsocial, [detection](keyword_detection), detector, distance, distance estimation, distance measurement, dnn, dropblock, farhadi, fcos, fpn, frame, [germany](keyword_germany), girshick, gpu, grid cell, ground truth bounding box, head, heat map, heatmap, hi, honolulu, houston, [human](keyword_human), human detection, image, [infection](keyword_infection), [korea](keyword_korea), las vegas, learn, learning rate, [london](keyword_london), loss function, mach, machine, [machine learning](keyword_machine_learning), microsoft, mish, [model](keyword_model), mosaic, munich, neural network, nguyen, nv, [object detection](keyword_object_detection), occlusion, open image, pattern recognit, pattern recognition, people detection, r cnn, redmon, [research](keyword_research), russia, [seoul](keyword_seoul), sfam, [slovenia](keyword_slovenia), [social distancing](keyword_social_distancing), social distancing violation, [spread](keyword_spread), ssd, st petersburg, statistical analysis, surveillance camera, swish, [switzerland](keyword_switzerland), track, [training](keyword_training), [united kingdom](keyword_united_kingdom), van huynh, [virus](keyword_virus), voc12, world coordinate, yao, [yolo](keyword_yolo), yolov4
+ * anchor box, backbone, backbone architecture, behaviour, bifpn, biol, bottom layer, [bound box](keyword_bound_box), cctv, [china](keyword_china), class, classify, coco, computer, [computer vision](keyword_computer_vision), couple, [covid 19 pandemic](keyword_covid_19_pandemic), [covid-19](keyword_covid-19), cspdarknet53, [dataset](keyword_dataset), [deep learning](keyword_deep_learning), deepsocial, [detection](keyword_detection), detector, [distance](keyword_distance), distance estimation, dnn, dropblock, duan, family, farhadi, fcos, fpn, frame, [germany](keyword_germany), girshick, gpu, grid cell, ground truth bounding box, head, heat map, heatmap, hi, honolulu, houston, [human](keyword_human), human detection, i d assignment, image, [infection](keyword_infection), keypoint triplet, [korea](keyword_korea), las vegas, learn, learning rate, ljubljana, [london](keyword_london), loss function, mach, machine, [machine learning](keyword_machine_learning), microsoft, mish, [model](keyword_model), mosaic, munich, nguyen, nv, [object detection](keyword_object_detection), occlusion, open image, oxford town centre, pattern recognit, pattern recognition, people detection, r cnn, redmon, [research](keyword_research), [russia](keyword_russia), [seoul](keyword_seoul), sfam, [slovenia](keyword_slovenia), [spread](keyword_spread), ssd, st petersburg, surveillance camera, swish, [switzerland](keyword_switzerland), three dimensional, top layer, track, [training](keyword_training), [united kingdom](keyword_united_kingdom), van huynh, [virus](keyword_virus), voc12, world coordinate, yao, [yolo](keyword_yolo), yolov4
 
 
 ## Concepts
@@ -24,17 +24,17 @@
 * Towards the sustainable development of smart cities through mass video surveillance: A response to the COVID-19 pandemic - [LINK](article_shorfuzzaman_towards_2021)
 * An Automated System to Limit COVID-19 Using Facial Mask Detection in Smart City Network - [LINK](article_rahman_automated_2020)
 *  - [LINK](article_huy-tran_design_2022)
-* COVID-19 Higher Mortality in Chinese Regions With Chronic Exposure to Lower Air Quality - [LINK](article_pansini_covid-19_2021)
-* Air pollution linked with higher COVID-19 death rates - [LINK](article_harvard_th_chan_schoold_of_public_health_air_2020)
-* Nurture to nature via COVID-19, a self-regenerating environmental strategy of environment in global context - [LINK](article_paital_nurture_2020)
-* COVID-19 Forced Hospitals to Build Negative Pressure Rooms Fast - [LINK](article_dyer_covid-19_2020)
-* Indirect effects of COVID-19 on the environment - [LINK](article_zambrano-monserrate_indirect_2020)
-* Covid-19 and the politics of sustainable energy transitions - [LINK](article_kuzemko_covid-19_2020)
-* Contextualizing the Covid-19 pandemic for a carbon-constrained world: Insights for sustainability transitions, energy justice, and research methodology - [LINK](article_sovacool_contextualizing_2020)
+* How the 5G Enabled the COVID-19 Pandemic Prevention and Control: Materiality, Affordance, and (De-)Spatialization - [LINK](article_li_how_2022)
+* Design COVID-19 Ontology: A Healthcare and Safety Perspective - [LINK](article_aloulou_design_2022)
+* Mitigation strategies and compliance in the COVID-19 fight; how much compliance is enough? - [LINK](article_mukerjee_mitigation_2021)
+* How COVID-19 Redefines the Concept of Sustainability - [LINK](article_hakovirta_how_2020)
+* The Intelligent Lockdown: Compliance with COVID-19 Mitigation Measures in the Netherlands - [LINK](article_kuiper_intelligent_2020)
+* Compliance with COVID-19 Mitigation Measures in the United States - [LINK](article_van_rooij_compliance_2020)
+* COVID-19: IMPACT OF THE PANDEMIC ON THE SUSTAINABLE DEVELOPMENT GOALS - [LINK](article_samout_covid-19_2020)
 
 
 ### Closest BPs
 
-* Blueprint: Negative pressure rooms - [LINK](bp_13)
-* Blueprint: Monitoring of wastewater [CID] - [LINK](bp_21)
-* Blueprint: Installing UV in ductwork - [LINK](bp_10)
+* Blueprint: Resilience in staffing and skills training - [LINK](bp_12)
+* Blueprint: Smart Locker System - [LINK](bp_1)
+* Blueprint: Rotational Shift System - [LINK](bp_0)

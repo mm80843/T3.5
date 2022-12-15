@@ -2,13 +2,13 @@
 
 * Source: [10.1016/j.trip.2020.100151](https://doi.org/10.1016/j.trip.2020.100151)
 * Year: 2020
-* Cluster: [city-health](cluster_14)
+* Cluster: [urban-city](cluster_13)
 
 
 
 ## Keywords
 
- * I c l e, active travel, air france, airline, asda, avoid use, behaviour, bicycle, bird, birdsong, [climate change](keyword_climate_change), climate emergency, collective, [community](keyword_community), cooperation, coordination, [coronavirus](keyword_coronavirus), [covid 19 pandemic](keyword_covid_19_pandemic), covid pandemic, [covid-19](keyword_covid-19), cycling, cyclist, daily routine, debate, decision maker, digital transport, disc, door, drive search, e scooter, eco anxiety, ethnic group, ethnic minority, [europe](keyword_europe), externality, french government, futur, gender equality, global health, global pandemic, global public health crisis, green recovery, greenhouse gas emission, guardian, hand sanitizer, [health](keyword_health), horticulture, individual, individual choice, [infrastructure](keyword_infrastructure), institutional, isolate and shield themselves and their family from other, ison, [lockdown](keyword_lockdown), lucy budd, [mobility](keyword_mobility), mode of transport, motortrader, observer, [online shopping](keyword_online_shopping), onus, [pandemic](keyword_pandemic), panic buying, [perspective](keyword_perspective), [plant](keyword_plant), [policy](keyword_policy), policy making, policy press, pollution, positive change, post covid world, pract, psychol, [public](keyword_public), public acceptance, [public health](keyword_public_health), public mode of transport, [public transport](keyword_public_transport), rapid long distance international mobility, response to covid 19, [responsible transport](keyword_responsible_transport), [rio de janeiro](keyword_rio_de_janeiro), [risk](keyword_risk), [social distancing](keyword_social_distancing), status quo, stephen ison, think piece, [transport](keyword_transport), transport for london, transport mode, [transport policy](keyword_transport_policy), [travel](keyword_travel), travel medicine, traveller, [united kingdom](keyword_united_kingdom), unprecedented global shutdown, use car, walk, [wellbee](keyword_wellbee), ﬂight shame
+ * I c l e, active travel, airline, asda, asymmetric information, autonomous actor, behaviour, bicycle, bird, birdsong, [brazil](keyword_brazil), bristol, [bus](keyword_bus), business as usual, [china](keyword_china), [climate change](keyword_climate_change), collective, [community](keyword_community), consumer safety, cooperation, coordination, [coronavirus](keyword_coronavirus), [covid 19 pandemic](keyword_covid_19_pandemic), covid pandemic, [covid-19](keyword_covid-19), [cycling](keyword_cycling), cyclist, daily routine, debate, decision maker, disc, door, drive search, e scooter, eco anxiety, ethnic group, ethnic minority, [europe](keyword_europe), externality, french government, futur, gender equality, green recovery, greenhouse gas emission, guardian, hand sanitizer, [health](keyword_health), horticulture, incubation period, individual, [infrastructure](keyword_infrastructure), interdisc, isolate and shield themselves and their family from other, ison, leg, leisure centre, [lockdown](keyword_lockdown), [london](keyword_london), lucy budd, [mobility](keyword_mobility), mode of transport, motortrader, movement of good, observer, online shopping, onus, [pandemic](keyword_pandemic), panic buying, [perspective](keyword_perspective), [plant](keyword_plant), [policy](keyword_policy), policy press, pollution, positive change, post covid world, pract, [public](keyword_public), public acceptance, [public health](keyword_public_health), public mode of transport, [public transport](keyword_public_transport), response to covid 19, [responsible transport](keyword_responsible_transport), rio de janeiro, status quo, stephen ison, think piece, [transport](keyword_transport), transport debate, transport focus, transport for london, transport mode, [transport policy](keyword_transport_policy), traveller, [united kingdom](keyword_united_kingdom), [virus](keyword_virus), visor, walk, [wellbee](keyword_wellbee), ﬂight shame
 
 
 ## Concepts
@@ -22,18 +22,19 @@
 ### Closest articles
 
 * Mobility Behaviour in View of the Impact of the COVID-19 Pandemic—Public Transport Users in Gdansk Case Study - [LINK](article_przybylowski_mobility_2021)
-* Urban planning after COVID-19 - [LINK](article_rtpi_urban_2021)
-* Proximity and post-COVID-19 urban development: Reflections from Milan, Italy - [LINK](article_tricarico_proximity_2021)
-* The Smart City and Covid‐19 - [LINK](article_webb_smart_2020)
-* The three modes of existence of the pandemic smart city - [LINK](article_soderstrom_three_2021)
-* Global policy challenges for urban vector-borne disease risks - [LINK](article_alabaster_global_2016)
-* The Emergence of Anti-Privacy and Control at the Nexus between the Concepts of Safe City and Smart City - [LINK](article_allam_emergence_2019)
-* On the Coronavirus (COVID-19) Outbreak and the Smart City Network: Universal Data Sharing Standards Coupled with Artificial Intelligence (AI) to Benefit Urban Health Monitoring and Management - [LINK](article_allam_coronavirus_2020)
-* Smart cities and the pandemic: digital technologies on the urban management of Brazilian cities - [LINK](article_fariniuk_smart_2020)
+* The contribution of green buildings in the fight against COVID-19 - [LINK](article_world_green_building_council_contribution_2020)
+* The changes in the effects of social media use of Cypriots due to COVID-19 pandemic - [LINK](article_kaya_changes_2020)
+* What our response to the COVID-19 pandemic tells us of our capacity to respond to climate change - [LINK](article_gemenne_what_2020)
+* COVID-19 Higher Mortality in Chinese Regions With Chronic Exposure to Lower Air Quality - [LINK](article_pansini_covid-19_2021)
+* What drives unverified information sharing and cyberchondria during the COVID-19 pandemic? - [LINK](article_laato_what_2020)
+* Air pollution linked with higher COVID-19 death rates - [LINK](article_harvard_th_chan_schoold_of_public_health_air_2020)
+* COVID-19 misinformation: Accuracy of articles about coronavirus prevention mostly shared on social media - [LINK](article_obiala_covid-19_2021)
+* Coronavirus and Climate Change - [LINK](article_harvard_th_chan_schoold_of_public_health_coronavirus_2020)
+* The COVID-19 Impact on Flexible Office Space - [LINK](article_clifton_covid-19_2020)
 
 
 ### Closest BPs
 
-* Blueprint: Architecture design - [LINK](bp_2)
-* Blueprint: Building Adaptation during a pandemic - [LINK](bp_14)
-* Blueprint: Tender support at building stage - [LINK](bp_9)
+* Blueprint: Installing UV in ductwork - [LINK](bp_10)
+* Blueprint: Monitoring of wastewater - [LINK](bp_21)
+* Blueprint: Resilience in staffing and skills training - [LINK](bp_12)

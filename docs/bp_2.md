@@ -3,7 +3,7 @@
 
 ## Details
 
-* Cluster: __Cluster_10__ (Cluster_10)
+* Cluster: __Cluster_1__ (Cluster_1)
 
 
 
@@ -15,19 +15,19 @@ Architecture design
 
 ### Idea description
 
-COVID-19 has shown that there is an imminent need for reconsideration of the architectural design streams resulting in the selection of the right designs that will be able to reduce contamination risks between the users of the space to a minimum. A switch from open-space concepts in confined areas is already manifested by numerous short-term solutions of space re-designing to comply with the diminution of epidemiological risks.
+COVID -19 has shown that there is an urgent need to rethink architectural design flows and choose the right designs that can minimise the risk of contamination between users of the space. The move away from open-space concepts in enclosed spaces is already evident in many short-term solutions for redesigning spaces to take into account the reduction of epidemiological risks.
 
 ### Why?
 
-More and more architects are tasked with embedding mitigation measures from the onset of the project so that the users of the physical space can adhere to these measures effectively, especially in terms of social distancing. Moreover, avoidance of ad-hoc additional measures would be much more plausible in cases where the architecture design is done the right way and the measures become an integral part of the building from the beginning
+More and more architects are tasked with incorporating mitigation measures from the very beginning of the project so that the users of the physical space can actually comply with these measures, especially in terms of social distancing. Moreover, avoiding additional ad hoc measures would be much more plausible if the architectural design is done right and the measures become an integral part of the building from the beginning
 
 ### Contextual situations
 
-This measure is most relevant at the complete beginning of the design-stage of new or upgraded buildings and spaces. There is a consensus that there will a drive for more spacious and less dense spaces with smaller capacities.
+This measure is especially important at the beginning of the planning phase of new or modernised buildings and spaces. There is a consensus that there will be a drive towards more spacious and less dense spaces with smaller capacities.
 
 ### Problems to solve
 
-The main issue that will be solved by this measure is the fact that previous architecture designs did not provision for contamination minimization, especially in terms of social distancing, hygienic properties or promotion of natural sunlight.
+The main problem solved by this measure is the fact that previous architectural designs have not taken precautions to minimise contamination, especially with regard to social distancing, hygienic properties or the promotion of natural sunlight.
 
 ### Value proposition
 
@@ -35,7 +35,7 @@ Embedding resilient thinking into the architectural design will result in the mi
 
 ### Capabilities
 
-To implement this measure most effectively a good understanding of the right way of architecture design and related Systems thinking interrelations is crucial. Lessons learned from previous pandemics have been before translated into a number of aspects in the Modernist approach to architecture. Many of these ideas can be revisited in the current times too.
+In order to implement this measure most effectively, a good understanding of the right way to design architecture and the related context of systems thinking is crucial. Lessons learned from previous pandemics have already been incorporated into the modernist approach to architecture in a number of ways. Many of these ideas can also be revisited in the present day.
 
 ### Restrictions and limitations
 
@@ -73,6 +73,28 @@ Yes
 
 Building of disease spread-prone buildings can be financially more exhaustive.
 
+### Associated interventions
+
+Main: HS1 - Introduce "multi-use" / modular designs
+Other: 
+> PS4 - Selection of materials
+> HM1 - Greenery
+> HM2 - Outdoor spaces
+
+### Technological enablers
+
+Main: Design & Construction software (BIM)
+Other: 
+> SmartPhones
+> Automation
+> 5G
+> IoT
+> Blockchain
+
+### PartnerInCharge
+
+MM
+
 
 
 
@@ -81,20 +103,19 @@ Building of disease spread-prone buildings can be financially more exhaustive.
 
 ### Closest articles
 
-* Biophilic design in architecture and its contributions to health, well-being, and sustainability: A critical review - [LINK](article_zhong_biophilic_2022)
-* How Architecture Fails in Conditions of Crisis: a Discussion on the Value of Interior Design over the COVID-19 Outbreak - [LINK](article_rassia_how_2020)
-*  - [LINK](article_dalessandro_covid-19_2020)
-* The COVID-19 Impact on Flexible Office Space - [LINK](article_clifton_covid-19_2020)
-* Architectural Design Drives the Biogeography of Indoor Bacterial Communities - [LINK](article_kembel_architectural_2014)
-* How is COVID-19 Experience Transforming Sustainability Requirements of Residential Buildings? A Review - [LINK](article_tokazhanov_how_2020)
-* Prophylactic Architecture: Formulating the Concept of Pandemic-Resilient Homes - [LINK](article_elrayies_prophylactic_2022)
-* How our homes impact our health: using a COVID-19 informed approach to examine urban apartment housing - [LINK](article_peters_how_2020)
-* It’s time to reimagine where and how work will get done (PwC’s US Remote Work Survey) - [LINK](article_pricewaterhousecoopers_its_2021)
-* How the Coronavirus Will Reshape Architecture - [LINK](article_chayka_how_2020)
+* Designing a Multi-Agent Occupant Simulation System to Support Facility Planning and Analysis for COVID-19 - [LINK](article_lee_designing_2021)
+* Will a pandemic change building codes? - [LINK](article_rozgus_will_2020)
+* How will COVID-19 change future building regulations? - [LINK](article_hmc_architects_how_2020)
+* An Intelligent IEQ Monitoring and Feedback System: Development and Applications - [LINK](article_geng_intelligent_2021)
+* Continuous IEQ monitoring system: Context and development - [LINK](article_parkinson_continuous_2019)
+* A comprehensive review on indoor air quality monitoring systems for enhanced public health - [LINK](article_saini_comprehensive_2020)
+* EXPOSED: An occupant exposure model for confined spaces to retrofit crowd models during a pandemic - [LINK](article_ronchi_exposed_2020)
+* Mental health and COVID-19 - [LINK](article_who_mental_2021)
+* Building occupancy estimation with people flow modeling in AnyLogic - [LINK](article_li_building_2016)
 
 
 ### Closest BPs
 
 * Blueprint: Building Adaptation during a pandemic - [LINK](bp_14)
 * Blueprint: Tender support at building stage - [LINK](bp_9)
-* Blueprint: Air Cleaning Plants - [LINK](bp_15)
+* Blueprint: Public places as information points - [LINK](bp_8)

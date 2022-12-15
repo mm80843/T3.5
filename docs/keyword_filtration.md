@@ -5,7 +5,7 @@
 
 ## Keywords
 
- * Cluster_3, activate carbon ﬁlter, aerosol concentration, aerosol dynamic, [air](keyword_air), air cleaning, ceiling mount, chlorination, [clean](keyword_clean), [control](keyword_control), control the pathogen level, covid 19 transmission, [covid-19](keyword_covid-19), dilution, [disinfection](keyword_disinfection), electrostatic air filter, fabric mask, [filtration](keyword_filtration), filtration disinfection, [green](keyword_green), hepa, hepa filter, high efficiency air filter, high efficiency particulate air, [hvac](keyword_hvac), infec tion control, mechanical ventilation, moreover, plasma catalytic hybrid, plasma catalytic hybrid system, pollution, purification, recirculate, recirculating the air, sanitation, ugvi, [uvgi](keyword_uvgi), [ventilation](keyword_ventilation), water treatment, ﬁltration, ﬁltration of air
+ * Cluster_3, activate carbon ﬁlter, aerosol concentration, aerosol dynamic, [air](keyword_air), air cleaning, ceiling mount, chlorination, [clean](keyword_clean), [control](keyword_control), control the pathogen level, covid 19 transmission, [covid-19](keyword_covid-19), dilution, [disinfection](keyword_disinfection), electrostatic air filter, fabric mask, [filtration](keyword_filtration), filtration disinfection, [green](keyword_green), hepa, hepa filter, high efficiency air filter, high efficiency particulate air, [hvac](keyword_hvac), infec tion control, moreover, plasma catalytic hybrid, plasma catalytic hybrid system, pollution, purification, recirculate, recirculating the air, [sanitation](keyword_sanitation), ugvi, [uvgi](keyword_uvgi), [ventilation](keyword_ventilation), water treatment, ﬁltration, ﬁltration of air
 
 
 ## Concepts
@@ -26,8 +26,8 @@
 * Ventilation use in nonmedical settings during COVID-19: Cleaning protocol, maintenance, and recommendations - [LINK](article_nembhard_ventilation_2020)
 * Applications of ultraviolet germicidal irradiation disinfection in health care facilities: Effective adjunct, but not stand-alone technology - [LINK](article_memarzadeh_applications_2010)
 * Methods for air cleaning and protection of building occupants from airborne pathogens - [LINK](article_bolashikov_methods_2009)
-* A critical review of heating, ventilation, and air conditioning (HVAC) systems within the context of a global SARS-CoV-2 epidemic - [LINK](article_elsaid_critical_2021)
 * The Role of Architecture and Urbanism in Preventing Pandemics - [LINK](article_kumar_role_2021)
+* Behind the Update: ASHRAE Handbook Chapters on UV-C to Include Updated Best Practices, Guidance - [LINK](article_ashrae_behind_2020)
 
 
 ### Closest BPs

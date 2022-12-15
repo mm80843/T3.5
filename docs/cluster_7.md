@@ -1,8 +1,8 @@
-# Cluster: __uvc-hcov__ (Cluster_7)
+# Cluster: __podcast-audio__ (Cluster_7)
 
 ## Keywords
 
- * [aerosol](keyword_aerosol), [beta](keyword_beta), [cell](keyword_cell), [chamber](keyword_chamber), [cm](keyword_cm), [coronaviruse](keyword_coronaviruse), [dose](keyword_dose), [far](keyword_far), [germicidal](keyword_germicidal), [hcov](keyword_hcov), [human](keyword_human), [inactivation](keyword_inactivation), [lamp](keyword_lamp), [light](keyword_light), [mj](keyword_mj), [nm](keyword_nm), [oc](keyword_oc), [uv](keyword_uv), [uv-c](keyword_uv-c), [virus](keyword_virus)
+ * [academic](keyword_academic), [audio](keyword_audio), [australia](keyword_australia), [city](keyword_city), [dallas](keyword_dallas), [dutch](keyword_dutch), [email](keyword_email), [eugene](keyword_eugene), [hear](keyword_hear), [listen](keyword_listen), [mic](keyword_mic), [mile](keyword_mile), [pande](keyword_pande), [podcast](keyword_podcast), [project](keyword_project), [road](keyword_road), [roger](keyword_roger), [sound](keyword_sound), [soundscape](keyword_soundscape), [sydney](keyword_sydney)
 
 
 
@@ -14,4 +14,4 @@
 
 # Linked articles
 
-* Far-UVC light (222 nm) efficiently and safely inactivates airborne human coronaviruses - [LINK](article_buonanno_far-uvc_2020)
+* The City Under COVID‐19: Podcasting As Digital Methodology - [LINK](article_rogers_city_2020)

@@ -1,12 +1,24 @@
-# Keyword: __director__
-## Clusters
+# Keyword: director
 
-* Cluster 5: [airport-corporation](cluster_5)
+* [airport-coating](cluster_Cluster_6)
+
+
+## Keywords
+
+ * Cluster_6, [director](keyword_director)
+
 
 ## Concepts
 
  ![](imgs/keyword_director.jpg)
 
 
-## Articles
-*  ([](article_))
+
+## Neighbours
+
+### Closest articles
+
+
+
+### Closest BPs
+

@@ -2,13 +2,13 @@
 
 * [https://kb.breeam.com/knowledgebase/covid-19-bulletin-1-alterations-to-breeam-assessment-requirements-as-a-result-of-the-coronavirus-pandemic/](https://kb.breeam.com/knowledgebase/covid-19-bulletin-1-alterations-to-breeam-assessment-requirements-as-a-result-of-the-coronavirus-pandemic/)
 * Year: 2020
-* Cluster: [city-health](cluster_14)
+* Cluster: [health-patient](cluster_14)
 
 
 
 ## Keywords
 
- * [advice](keyword_advice), air quality consultant, [architectural style](keyword_architectural_style), [assessor](keyword_assessor), asset manager, audit, biu re certification, [breeam](keyword_breeam), breeam criterion, breeam in use re certification, breeam performance target, certificate, certification, completion, [compliance](keyword_compliance), confirmation, [construction](keyword_construction), [contractor](keyword_contractor), coronavirus pande, coronavirus pandemic, [covid 19 pandemic](keyword_covid_19_pandemic), [covid-19](keyword_covid-19), desktop survey, [development](keyword_development), development and improvement, evidence requirement, final, final certificate, global crisis, google street view, [guidance](keyword_guidance), [health and safety](keyword_health_and_safety), heritage designation, image, [indoor air quality](keyword_indoor_air_quality), [indoor air quality testing](keyword_indoor_air_quality_testing), interim, international atomic energy agency, international woman s day, kofi annan, linear, local government guidance, national historic landmark, new construction, new construction and refurbishment, post construction pre occupancy testing, president of ireland, president of the united states, professional body, query, relevant authority, remediation, response, response to the covid 19 pandemic, rfo, riba, [safety](keyword_safety), [site assessment](keyword_site_assessment), site inspection, site report, [social distancing](keyword_social_distancing), social distancing rule relate to the covid 19 pandemic, specific, [testing](keyword_testing), the response, [unesco](keyword_unesco), [united nations](keyword_united_nations), united nations secretary general, [vienna](keyword_vienna), webform, [world heritage site](keyword_world_heritage_site)
+ * advice, air quality consultant, [assessor](keyword_assessor), asset manager, audit, biu re certification, [breeam](keyword_breeam), breeam criterion, breeam in use re certification, breeam performance target, certificate, certification, completion, [compliance](keyword_compliance), confirmation, [construction](keyword_construction), [contractor](keyword_contractor), [coronavirus pande](keyword_coronavirus_pande), coronavirus pandemic, [covid 19 pandemic](keyword_covid_19_pandemic), [covid-19](keyword_covid-19), desktop survey, [development](keyword_development), development and improvement, evidence requirement, final, google street view, guidance, [health and safety](keyword_health_and_safety), image, [indoor air quality](keyword_indoor_air_quality), [indoor air quality testing](keyword_indoor_air_quality_testing), interim, kofi annan, linear, new construction, new construction and refurbishment, post construction pre occupancy testing, president of ireland, president of the united states, query, relevant authority, remediation, response, response to the covid 19 pandemic, rfo, riba, [safety](keyword_safety), [site assessment](keyword_site_assessment), site inspection, site report, specific, testing, the response, [unesco](keyword_unesco), united nations secretary general, webform, [world heritage site](keyword_world_heritage_site)
 
 
 ## Concepts
@@ -21,20 +21,20 @@
 
 ### Closest articles
 
-* How to Make Green Building Certification &amp; Rating Systems More Pandemic-Sustainable? - [LINK](article_ujikawa_how_2022)
-* Assessment method for new sustainability indicators providing pandemic resilience for residential buildings - [LINK](article_tokazhanov_assessment_2021)
-* Readiness Assessment of Green Building Certification Systems for Residential Buildings during Pandemics - [LINK](article_tleuken_readiness_2021)
-* Refleksioner fra en pandemi - [LINK](article_realdania_refleksioner_2022)
-* Pandemiens arkitektur - [LINK](article_realdania_pandemiens_2022)
-* An investigation of transmission control measures during the first 50 days of the COVID-19 epidemic in China - [LINK](article_tian_investigation_2020)
-* The effect of human mobility and control measures on the COVID-19 epidemic in China - [LINK](article_kraemer_effect_2020)
-* Open-source analytics tools for studying the COVID-19 coronavirus outbreak - [LINK](article_wu_open-source_2020)
-* How COVID-19 Redefines the Concept of Sustainability - [LINK](article_hakovirta_how_2020)
-* COVID-19: IMPACT OF THE PANDEMIC ON THE SUSTAINABLE DEVELOPMENT GOALS - [LINK](article_samout_covid-19_2020)
+* Assessing the health and hygiene performance of apartment buildings - [LINK](article_ho_assessing_2004)
+* A Platform for Citizen Cooperation during the COVID-19 Pandemic in RN, Brazil - [LINK](article_de_araujo_platform_2020)
+* Reframe how to serve your community in the midst of a pandemic - [LINK](article_sutton_reframe_2020)
+* Attitudes towards outdoor and neighbour noise during the COVID-19 lockdown: A case study in London - [LINK](article_lee_attitudes_2021)
+* Construction of a Linked Data Set of COVID-19 Knowledge Graphs: Development and Applications - [LINK](article_wang_construction_2022)
+* Risk Diagnosis and Mitigation System of COVID-19 Using Expert System and Web Scraping - [LINK](article_mufid_risk_2020)
+* COVID19-Routes: A Safe Pedestrian Navigation Service - [LINK](article_cantarero_covid19-routes_2021)
+* Digital Twin of COVID-19 Mass Vaccination Centers - [LINK](article_pilati_digital_2021)
+* How Covid-19 Has Permanently Changed the Fitness Industry - [LINK](article_davalos_how_2021)
+* The City Under COVID‐19: Podcasting As Digital Methodology - [LINK](article_rogers_city_2020)
 
 
 ### Closest BPs
 
-* Blueprint: One-way mobility circulation - [LINK](bp_4)
+* Blueprint: Resilience in staffing and skills training - [LINK](bp_12)
+* Blueprint: Architecture design - [LINK](bp_2)
 * Blueprint: Smart Locker System - [LINK](bp_1)
-* Blueprint: Access limitation - [LINK](bp_7)

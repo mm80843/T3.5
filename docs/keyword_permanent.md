@@ -5,7 +5,7 @@
 
 ## Keywords
 
- * Cluster_10, contract, full time contract, [permanent](keyword_permanent), shelter, temporary, the future, threat
+ * Cluster_10, [contract](keyword_contract), full time contract, [permanent](keyword_permanent), shelter, temporary, the future, threat
 
 
 ## Concepts

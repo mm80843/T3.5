@@ -2,13 +2,13 @@
 
 * [https://www.bloomberg.com/news/articles/2021-01-19/fitness-industry-may-never-return-to-its-old-ways-after-covid-19](https://www.bloomberg.com/news/articles/2021-01-19/fitness-industry-may-never-return-to-its-old-ways-after-covid-19)
 * Year: 2021
-* Cluster: [city-health](cluster_14)
+* Cluster: [health-patient](cluster_14)
 
 
 
 ## Keywords
 
- * ad choice, [advertise](keyword_advertise), advertiser, [covid-19](keyword_covid-19), fitness, fitness industry, [industry](keyword_industry), [mental](keyword_mental), [pandemic](keyword_pandemic), [physical health](keyword_physical_health), virtual class
+ * [ad choice](keyword_ad_choice), [advertise](keyword_advertise), advertiser, [covid-19](keyword_covid-19), fitness, fitness industry, [industry](keyword_industry), [pandemic](keyword_pandemic)
 
 
 ## Concepts
@@ -21,19 +21,19 @@
 
 ### Closest articles
 
-* Reframe how to serve your community in the midst of a pandemic - [LINK](article_sutton_reframe_2020)
 * Rotating groups at work, school best against COVID-19 spread: Study - [LINK](article_afp_rotating_2021)
+* Reframe how to serve your community in the midst of a pandemic - [LINK](article_sutton_reframe_2020)
 * Assessing the health and hygiene performance of apartment buildings - [LINK](article_ho_assessing_2004)
 * A Platform for Citizen Cooperation during the COVID-19 Pandemic in RN, Brazil - [LINK](article_de_araujo_platform_2020)
-* 10 tech trends getting us through the COVID-19 pandemic - [LINK](article_yan_10_2020)
-* Contributions to the mitigation of the COVID-19 pandemic - [LINK](article_pilz_contributions_2022)
-* Construction of a Linked Data Set of COVID-19 Knowledge Graphs: Development and Applications - [LINK](article_wang_construction_2022)
 * What has been the impact of the COVID-19 pandemic on immigrants? An update on recent evidence - [LINK](article_oecd_what_2022)
-* Multilevel Analysis of Personal, Non-Medical COVID-19-Related Impact Worldwide - [LINK](article_dye_multilevel_2020)
+* The City Under COVID‐19: Podcasting As Digital Methodology - [LINK](article_rogers_city_2020)
+* How loneliness is talked about in social media during COVID-19 pandemic: Text mining of 4,492 Twitter feeds - [LINK](article_koh_how_2022)
+* Construction of a Linked Data Set of COVID-19 Knowledge Graphs: Development and Applications - [LINK](article_wang_construction_2022)
+* COVID-19 Bulletin 1: Alterations to BREEAM assessment requirements as a result of the Coronavirus pandemic – Knowledge Base - [LINK](article_breeam_covid-19_2020)
 
 
 ### Closest BPs
 
 * Blueprint: Resilience in staffing and skills training - [LINK](bp_12)
-* Blueprint: Public places as information points - [LINK](bp_8)
-* Blueprint: Negative pressure rooms - [LINK](bp_13)
+* Blueprint: Architecture design - [LINK](bp_2)
+* Blueprint: Smart Locker System - [LINK](bp_1)

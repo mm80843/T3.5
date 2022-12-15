@@ -5,7 +5,7 @@
 
 ## Keywords
 
- * Cluster_3, day, day of the week, friday, low quantile, quantile, the week, [week](keyword_week), week in, weeks
+ * Cluster_3, day, day of the week, friday, low quantile, [quantile](keyword_quantile), the week, [week](keyword_week), week in, weeks
 
 
 ## Concepts

@@ -1,11 +1,11 @@
 # Keyword: global
 
-* [health-pca](cluster_Cluster_9)
+* [economic-health](cluster_Cluster_9)
 
 
 ## Keywords
 
- * Cluster_9, affluent country, analytical lens, aviation industry, bevægelse, [china](keyword_china), city and region, [construction industry](keyword_construction_industry), contact trace, contexts speciﬁc, continental, coronavirus epidemic, [country](keyword_country), [covid 19 crisis](keyword_covid_19_crisis), covid 19 epidemic, covid 19 lockdown, [covid 19 pandemic](keyword_covid_19_pandemic), [covid-19](keyword_covid-19), crash in demand, crash in demand from hotel and restaurant, [datum](keyword_datum), death toll, deloitte, [domestic](keyword_domestic), [economic](keyword_economic), economic activity, economic challenge, economic prospect, [economy](keyword_economy), emerge economy, energy demand, environmentalchange, [epidemic](keyword_epidemic), eradication, extreme poverty, fdi, financial and economic crisis, financial crisis, financial market, financial stability report, gdp, geographical context, [global](keyword_global), global city, global interconnection, global pandemic, global south, globalization, globe, governance, green new deal, [health](keyword_health), health science, iigi, [india](keyword_india), indian, indian policy, [inequality](keyword_inequality), interconnect world, interconnection, inﬂuenza pandemic, leprosy programme, local, [malaria](keyword_malaria), ofﬁce, oil demand, [pandemic](keyword_pandemic), planetary boundary, polio eradication, poverty, preparedness, [public health](keyword_public_health), public health system, rapid urbanisation, real estate market, regional, russian economic, s p, s p global, [sector](keyword_sector), sectoral, [shock](keyword_shock), [social](keyword_social), social world, south, spatially homogeneous, study domain, [supply chain](keyword_supply_chain), [sustainable development goal](keyword_sustainable_development_goal), tourism economy, trade, trend, [urban governance](keyword_urban_governance), urbanisation, [urbanism](keyword_urbanism), value chain, [vbd](keyword_vbd), virome
+ * Cluster_9, affluent country, aviation industry, bevægelse, [china](keyword_china), city and region, [construction industry](keyword_construction_industry), contact trace, contexts speciﬁc, continental, coronavirus epidemic, [country](keyword_country), [covid 19 crisis](keyword_covid_19_crisis), covid 19 epidemic, covid 19 lockdown, [covid 19 pandemic](keyword_covid_19_pandemic), [covid-19](keyword_covid-19), crash in demand, crash in demand from hotel and restaurant, [datum](keyword_datum), death toll, deloitte, domestic, [economic](keyword_economic), economic activity, economic challenge, economic prospect, [economy](keyword_economy), emerge economy, energy demand, environmentalchange, [epidemic](keyword_epidemic), eradication, extreme poverty, fdi, gdp, [global](keyword_global), globalization, globe, governance, green new deal, [health](keyword_health), health science, iigi, [india](keyword_india), indian, indian policy, inequality, interconnect world, interconnection, inﬂuenza pandemic, leprosy programme, local, [malaria](keyword_malaria), ofﬁce, oil demand, [pandemic](keyword_pandemic), planetary boundary, polio eradication, poverty, preparedness, [public health](keyword_public_health), public health system, rapid urbanisation, regional, russian economic, s p, s p global, [sector](keyword_sector), sectoral, [shock](keyword_shock), [social](keyword_social), south, spatially homogeneous, study domain, [supply chain](keyword_supply_chain), [sustainable development goal](keyword_sustainable_development_goal), tourism economy, trade, trend, [urban governance](keyword_urban_governance), urbanisation, [urbanism](keyword_urbanism), value chain, [vbd](keyword_vbd), virome
 
 
 ## Concepts
@@ -27,7 +27,7 @@
 * Building sustainable finance for resilient protected and conserved areas: lessons from COVID-19 - [LINK](article_cumming_building_2021)
 * Mobility Behaviour in View of the Impact of the COVID-19 Pandemic—Public Transport Users in Gdansk Case Study - [LINK](article_przybylowski_mobility_2021)
 * Designing for COVID-2x: Reflecting on Future-Proofing Human Habitation for the Inevitable Next Pandemic - [LINK](article_spennemann_designing_2022)
-* The Impact of COVID-19 on Public Space: A Review of the Emerging Questions - [LINK](article_honey-roses_impact_2020)
+* COVID-19: IMPACT OF THE PANDEMIC ON THE SUSTAINABLE DEVELOPMENT GOALS - [LINK](article_samout_covid-19_2020)
 
 
 ### Closest BPs

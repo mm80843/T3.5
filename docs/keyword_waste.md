@@ -1,11 +1,11 @@
 # Keyword: waste
 
-* [wastewater-sars](cluster_Cluster_5)
+* [ieq-building](cluster_Cluster_11)
 
 
 ## Keywords
 
- * Cluster_5, aesthetic, avoid, beat covid, biomass, [circular economy](keyword_circular_economy), coffee ground, commodity, consumption, cost, ecological toilet, [efficiency](keyword_efficiency), efficiency loss, electricity, embody impact, [energy](keyword_energy), [energy consumption](keyword_energy_consumption), [energy use](keyword_energy_use), energy water consumption, environmental, fly ash, fraud, go to waste, green energy, hazardous material, hazardous medical waste, [health care](keyword_health_care), health waste, hospital wastewater, household waste, incineration, infectious, [infrastructure](keyword_infrastructure), inorganic, management, material, material flow, medical waste, non organic waste, organic, organic good, organic waste, overhead, packaging, paper consumption, piping, plasma, plastic, process, process mapping, product, [recycle](keyword_recycle), resource management, sewer, single use packaging, solid waste, solid waste management, [supply chain management](keyword_supply_chain_management), transfer energy, type of waste, [vector](keyword_vector), [waste](keyword_waste), waste disposal system, waste maker, waste manag, waste manage, waste management, waste management campaign, waste of electricity, waste product, wasted, wastes, [wastewater](keyword_wastewater), wastewater manage, wastewater manageand urban farming, wastewater management, [water](keyword_water)
+ * Cluster_11, avoid, beat covid, biomass, [circular economy](keyword_circular_economy), circularity, coffee ground, consumption, cost, demolition, drink water treatment plant, drinking water treatment plants, [efficiency](keyword_efficiency), efficiency loss, electricity, embody impact, [energy](keyword_energy), [energy consumption](keyword_energy_consumption), energy use, energy water consumption, [environmental](keyword_environmental), fly ash, fraud, go to waste, green energy, hazardous material, [health care](keyword_health_care), health waste, household waste, incineration, infectious, [infrastructure](keyword_infrastructure), inorganic, management, material, material flow, non organic waste, organic, organic good, organic waste, overhead, packaging, paper consumption, piping, plasma, plastic, process, process mapping, [product](keyword_product), [recycle](keyword_recycle), resource management, single use packaging, solid waste, solid waste management, [supply chain management](keyword_supply_chain_management), transfer energy, type of waste, [vector](keyword_vector), [waste](keyword_waste), waste maker, waste manag, waste manage, waste management, waste management campaign, waste of electricity, waste product, wasted, wastes, [wastewater](keyword_wastewater), wastewater manage, wastewater manageand urban farming, wastewater management, [water](keyword_water)
 
 
 ## Concepts
@@ -27,7 +27,7 @@
 * COVID-19 Could Leverage a Sustainable Built Environment - [LINK](article_pinheiro_covid-19_2020)
 * Prophylactic Architecture: Formulating the Concept of Pandemic-Resilient Homes - [LINK](article_elrayies_prophylactic_2022)
 * Overcoming the Impact of COVID-19 Using Integrated Project Delivery Model - [LINK](article_g_overcoming_2020)
-* How to Make Green Building Certification &amp; Rating Systems More Pandemic-Sustainable? - [LINK](article_ujikawa_how_2022)
+* COVID-19 and Green Housing: A Review of Relevant Literature - [LINK](article_kaklauskas_covid-19_2021)
 
 
 ### Closest BPs

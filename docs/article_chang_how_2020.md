@@ -2,13 +2,13 @@
 
 * Source: [10.1007/s10916-020-01577-8](https://doi.org/10.1007/s10916-020-01577-8)
 * Year: 2020
-* Cluster: [blockchain-ontology](cluster_11)
+* Cluster: [health-patient](cluster_14)
 
 
 
 ## Keywords
 
- * alter datum, alter datum after hack, [anxiety](keyword_anxiety), assoc, [blockchain](keyword_blockchain), [blockchain technology](keyword_blockchain_technology), [china](keyword_china), [clinic](keyword_clinic), clinical presentation, compliance with ethical standard, [conflict of interest](keyword_conflict_of_interest), conflict of interest declaration, conflict of interest donghwi park, corruption, corruption regard donation, [covid 19 pandemic](keyword_covid_19_pandemic), [covid-19](keyword_covid-19), current system, daegu, daegu republic of korea, [datum](keyword_datum), datum store, diagnostic information, distribute ledger, distribute ledger technology, distribution, donate money, donation, dong gu, economic difficulty, ethical standard, expense, false information, false information regard infectious disease, fatality rate, final authority, financial, hack, hack attack, have cause many death worldwide, highly infectious, [hospital](keyword_hospital), identity, identity of the subscriber, in kind, in kind good, infect, [infectious disease](keyword_infectious_disease), infectious disease outbreak, infectious disease report system, inform, inform inform, insurance, [korea](keyword_korea), korean government, kucharski aj, [logistic](keyword_logistic), manipulation, mathematical, mathematical modelling, medical information, melanet, [model](keyword_model), model study, monetary donation, money, national research foundation, national research foundation of korea, [network](keyword_network), no conflict of interest, novel infectious disease, omission, omission of report, open, pain management, [pandemic](keyword_pandemic), passive reporting, peer to peer, [psychological](keyword_psychological), psychological anxiety, reliability, severe acute respiratory syndrome, spread of the infectious disease, store datum, [study](keyword_study), study with human participant, temporal expense, traceable, track, transparency, transparent, ulsan, warehousing, [wuhan](keyword_wuhan), yeungnam university
+ * alter datum, alter datum after hack, [anxiety](keyword_anxiety), assoc, [blockchain](keyword_blockchain), [blockchain technology](keyword_blockchain_technology), [china](keyword_china), [clinic](keyword_clinic), [conflict of interest](keyword_conflict_of_interest), conflict of interest declaration, conflict of interest donghwi park, corruption, corruption regard donation, [covid 19 pandemic](keyword_covid_19_pandemic), [covid-19](keyword_covid-19), current system, daegu, daegu republic of korea, [datum](keyword_datum), datum store, distribute ledger, distribute ledger technology, distribution, donate money, donation, dong gu, economic difficulty, expense, false information, false information regard infectious disease, fatality rate, financial, hack, hack attack, have cause many death worldwide, highly infectious, [hospital](keyword_hospital), identity, identity of the subscriber, in kind, in kind good, infect, [infectious disease](keyword_infectious_disease), infectious disease outbreak, infectious disease report system, inform, inform inform, insurance, [korea](keyword_korea), korean government, [logistic](keyword_logistic), manipulation, mathematical, melanet, [model](keyword_model), model study, monetary donation, money, network, no conflict of interest, novel infectious disease, omission, omission of report, open, pain management, [pandemic](keyword_pandemic), passive reporting, peer to peer, [psychological](keyword_psychological), reliability, severe acute respiratory syndrome, spread of the infectious disease, store datum, traceable, track, transparency, transparent, ulsan, warehousing, [wuhan](keyword_wuhan), yeungnam university
 
 
 ## Concepts
@@ -23,18 +23,18 @@
 
 * Blockchain technology and its applications to combat COVID-19 pandemic - [LINK](article_sharma_blockchain_2022)
 * Health Information Exchange with Blockchain amid Covid-19-like Pandemics - [LINK](article_christodoulou_health_2020)
-* Leveraging Digital Transformation Technologies to Tackle COVID-19: Proposing a Privacy-First Holistic Framework - [LINK](article_arpaci_leveraging_2021)
-* A Comprehensive Review of the COVID-19 Pandemic and the Role of IoT, Drones, AI, Blockchain, and 5G in Managing its Impact - [LINK](article_chamola_comprehensive_2020)
-* Challenges of data sharing in European Covid-19 projects: A learning opportunity for advancing pandemic preparedness and response - [LINK](article_tacconelli_challenges_2022)
-* 2020 Data Protection Report - [LINK](article_council_of_europe_2020_2020)
-* Digital technology and COVID-19 - [LINK](article_ting_digital_2020)
-* Design COVID-19 Ontology: A Healthcare and Safety Perspective - [LINK](article_aloulou_design_2022)
-* How the 5G Enabled the COVID-19 Pandemic Prevention and Control: Materiality, Affordance, and (De-)Spatialization - [LINK](article_li_how_2022)
-* The role of 5G for digital healthcare against COVID-19 pandemic: Opportunities and challenges - [LINK](article_siriwardhana_role_2021)
+* Refleksioner fra en pandemi - [LINK](article_realdania_refleksioner_2022)
+* Pandemiens arkitektur - [LINK](article_realdania_pandemiens_2022)
+* Seeing the invisible hand: Underlying effects of COVID-19 on tourists’ behavioral patterns - [LINK](article_li_seeing_2020)
+* Should I Stay or Should I Go? Tourists’ COVID-19 Risk Perception and Vacation Behavior Shift - [LINK](article_bratic_should_2021)
+* Presence of SARS-Coronavirus-2 RNA in Sewage and Correlation with Reported COVID-19 Prevalence in the Early Stage of the Epidemic in The Netherlands - [LINK](article_medema_presence_2020)
+* Future perspectives of wastewater-based epidemiology: Monitoring infectious disease spread and resistance to the community level - [LINK](article_sims_future_2020)
+* Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1 - [LINK](article_van_doremalen_aerosol_2020)
+* SARS-CoV-2 in wastewater: potential health risk, but also data source - [LINK](article_lodder_sars-cov-2_2020)
 
 
 ### Closest BPs
 
+* Blueprint: Monitoring of wastewater - [LINK](bp_21)
+* Blueprint: Installing UV in ductwork - [LINK](bp_10)
 * Blueprint: Resilience in staffing and skills training - [LINK](bp_12)
-* Blueprint: Installing high-efficiency air filters - [LINK](bp_11)
-* Blueprint: Monitoring of wastewater [CID] - [LINK](bp_21)

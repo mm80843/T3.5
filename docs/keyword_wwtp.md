@@ -5,7 +5,7 @@
 
 ## Keywords
 
- * Cluster_2, aachen soer, activate sludge, amersfoort, apeldoorn, catchment, [city](keyword_city), city boundary, clariﬁcation, [covid-19](keyword_covid-19), [germany](keyword_germany), inlet, inﬂow, [inﬂuent](keyword_inﬂuent), klem, membrane base, moers gerdt, [netherland](keyword_netherland), phns, primary health network, ps, pumping station, [rome](keyword_rome), [sar cov 2](keyword_sar_cov_2), sar cov 2 rna, sarscov 2, service area, [sewage](keyword_sewage), symbol, tilburg, upstream catchment, [wastewater](keyword_wastewater), wastewater stream, [wwtp](keyword_wwtp), wwtp 146 apeldoorn
+ * Cluster_2, SARS-CoV-2, aachen soer, activate sludge, amersfoort, apeldoorn, catchment, [city](keyword_city), city boundary, clariﬁcation, [covid-19](keyword_covid-19), [germany](keyword_germany), inlet, inﬂow, [inﬂuent](keyword_inﬂuent), klem, membrane base, moers gerdt, [netherland](keyword_netherland), phns, primary health network, ps, pumping station, [rome](keyword_rome), [sar cov 2](keyword_sar_cov_2), sar cov 2 rna, service area, [sewage](keyword_sewage), symbol, tilburg, upstream catchment, [wastewater](keyword_wastewater), wastewater stream, [wwtp](keyword_wwtp), wwtp 146 apeldoorn
 
 
 ## Concepts

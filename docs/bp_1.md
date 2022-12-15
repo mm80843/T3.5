@@ -15,19 +15,19 @@ Smart Locker System
 
 ### Idea description
 
-With the outbreak of COVID-19 many e-commerce companies have invested heavily into the development of touch-free package delivery networks, in particular the smart locker technologies which are eliminating any person-to-person contact while picking up the order with a specific password or a QR-code in a dedicated space which can be enhanced with further anti-transmission measures. This could be scaled up to any GBN, in particular for local delivery of goods.
+With the outbreak of COVID -19 , many e-commerce companies have invested heavily in the development of touch-free package delivery networks, particularly smart locker technologies that eliminate any person-to-person contact when picking up the order through a special password or QR code in a dedicated room that can be enhanced with other measures to protect against transmissions. This could be extended to any GBN, especially for local delivery of goods.
 
 ### Why?
 
-Smart lockers allow their users a far much safer pick-up of their goods in terms of epidemiological risks as contactless delivery promotes for better social distancing. Moreover, the experience becomes much more convenient as the consumer can choose from a great number of pick-up points as well as periods for pick-up. From the point of view of the businesses, smart lockers allow for more cost-effective and flexible delivery of goods due to the simpler nature of the system in comparison to the traditional modes. Moreover, a more secure transfer of goods is provided as these are tracked every step of the way through automated logs.
+Smart lockers allow their users to collect their goods much more safely in terms of epidemiological risks, as contactless delivery promotes better social distancing. It also makes collection much more convenient, as consumers can choose from a wide range of pick-up locations and times. From a business perspective, smart lockers allow for more cost-efficient and flexible delivery of goods as the system is simpler compared to traditional methods. In addition, the transport of goods is safer as every single step can be tracked through automated protocols.
 
 ### Contextual situations
 
-Due to its convenient nature, smart lockers are open 24/7 and therefore leave it to the customer when accessed if within a specific time period which depends on the traffic but is no less than 24 hours in almost all cases. As some of the other sectors understood, this solution can be also replicated to their needs. The restauration industry as well as numerous large companies and universities are adopting this measure to promote contact-free delivery of food, documents, books, etc. in areas with a rather higher occupancy level. As mentioned above, there is a need for a physical space to locate the lockers as well as continuity of activity even if the end user is not present
+Due to their practical nature, smart lockers are open 24/7, leaving it up to the customer whether to access them within a certain period of time, which depends on traffic, but in almost all cases is no less than 24 hours. As some other industries have realised, this solution can be applied to their needs as well. The hospitality industry, as well as many large companies and universities, are using this measure to promote contactless delivery of food, documents, books, etc. in areas with somewhat higher occupancy levels. As mentioned earlier, there is a need for a physical location where the lockers can be placed and for continuity of activity even when the end user is not present.
 
 ### Problems to solve
 
-This solution provides for a completely contact-free delivery of goods and therefore completely minimizes the transmission of disease due to the delivery of the goods from business to customer. Further, this measure avoids overcrowding as bottlenecks from a number of people waiting in line for pick-ups are prevented. Lastly, this measure prevents the goods to be lost, stolen or to be broken.
+This solution ensures a completely contact-free delivery of goods and thus completely minimises the transmission of diseases through the delivery of goods from the shop to the customer. In addition, this measure avoids overcrowding, as bottlenecks caused by a line of people waiting in line for collection are avoided. Finally, this measure prevents goods from being lost, stolen or broken.
 
 ### Value proposition
 
@@ -35,7 +35,7 @@ Smart Locker System is generally seen as a new way to attract new customers and/
 
 ### Capabilities
 
-To implement this measure a number of preconditions come to the fore such as the smart lockers themselves, the placement of these lockers, a mobile app helping both the businesses and their customer to track and manage the delivery of goods as well as a robust logistic plan in order to make the delivery not only cost-effective but also flexible.
+A number of prerequisites are needed to implement this measure. These include the smart lockers themselves, the placement of these lockers, a mobile app to help both businesses and their customers track and manage the delivery of goods, and a robust logistics plan to make delivery not only cost-effective but also flexible.
 
 ### Restrictions and limitations
 
@@ -79,6 +79,28 @@ Yes
 
 Partial job destruction
 
+### Associated interventions
+
+Main: MC1 - Minimize supply chain disruptions
+Other: 
+> PS2 - Touchless technologies
+> MC3 - Absorb resource shortages
+> MC4 - Absorb surge in service demande
+
+### Technological enablers
+
+Main: New delivery systems
+Other: 
+> SmartPhones
+> Automation
+> 5G
+> IoT
+> Blockchain
+
+### PartnerInCharge
+
+MM
+
 
 
 
@@ -90,16 +112,16 @@ Partial job destruction
 * Touchless Retail: What the Rest of the World could learn from China’s new ways to shop - [LINK](article_capgemini_touchless_2020)
 * Retail Signage During the COVID-19 Pandemic - [LINK](article_mcneish_retail_2020)
 * How COVID-19 Could Accelerate the Adoption of New Retail Technologies and Enhance the (E-)Servicescape - [LINK](article_willems_how_2021)
-* <scp>COVID</scp>             ‐19: Small and medium enterprises challenges and responses with creativity, innovation, and entrepreneurship - [LINK](article_thukral_covid19_2021)
-* Startups in times of crisis – A rapid response to the COVID-19 pandemic - [LINK](article_kuckertz_startups_2020)
-* Open-source analytics tools for studying the COVID-19 coronavirus outbreak - [LINK](article_wu_open-source_2020)
-* Seeing the invisible hand: Underlying effects of COVID-19 on tourists’ behavioral patterns - [LINK](article_li_seeing_2020)
-* Should I Stay or Should I Go? Tourists’ COVID-19 Risk Perception and Vacation Behavior Shift - [LINK](article_bratic_should_2021)
 * KIX to apply antimicrobial coating in its fight against COVID-19 - [LINK](article_kansai_airport_kix_2021)
+* Building occupancy estimation with people flow modeling in AnyLogic - [LINK](article_li_building_2016)
+* Designing a Multi-Agent Occupant Simulation System to Support Facility Planning and Analysis for COVID-19 - [LINK](article_lee_designing_2021)
+* Graphene-based nanomaterials as antimicrobial surface coatings: A parallel approach to restrain the expansion of COVID-19 - [LINK](article_ayub_graphene-based_2021)
+* EXPOSED: An occupant exposure model for confined spaces to retrofit crowd models during a pandemic - [LINK](article_ronchi_exposed_2020)
+* <scp>COVID</scp>             ‐19: Small and medium enterprises challenges and responses with creativity, innovation, and entrepreneurship - [LINK](article_thukral_covid19_2021)
 
 
 ### Closest BPs
 
 * Blueprint: Rotational Shift System - [LINK](bp_0)
 * Blueprint: One-way mobility circulation - [LINK](bp_4)
-* Blueprint: Checkpoint allocation for access limitation - [LINK](bp_6)
+* Blueprint: Access limitation - [LINK](bp_7)

@@ -2,7 +2,7 @@
 
 * [https://www.scmp.com/business/china-business/article/3064986/china-adapts-surveying-mapping-delivery-drones-task](https://www.scmp.com/business/china-business/article/3064986/china-adapts-surveying-mapping-delivery-drones-task)
 * Year: 2020
-* Cluster: [city-health](cluster_14)
+* Cluster: [health-patient](cluster_14)
 
 
 
@@ -21,19 +21,18 @@
 
 ### Closest articles
 
-* Drones. Disinfecting robots. Supercomputers. The coronavirus outbreak is a test for China's tech industry \textbar CNN Business - [LINK](article_wang_drones_2020)
-* How drones help cities during the Covid-19 pandemic \textbar TheMayor.EU - [LINK](article_dimitrova_how_2021)
-* Combating COVID-19—The role of robotics in managing public health and infectious diseases - [LINK](article_yang_combating_2020)
-* Indirect effects of COVID-19 on the environment - [LINK](article_zambrano-monserrate_indirect_2020)
-* Danish disinfection robots save lives in the fight against the Corona virus \textbar Shaping Europe’s digital future - [LINK](article_ec_views_danish_2020)
-* Nurture to nature via COVID-19, a self-regenerating environmental strategy of environment in global context - [LINK](article_paital_nurture_2020)
-* Building occupancy estimation with people flow modeling in AnyLogic - [LINK](article_li_building_2016)
-* Air pollution linked with higher COVID-19 death rates - [LINK](article_harvard_th_chan_schoold_of_public_health_air_2020)
-* COVID-19 Higher Mortality in Chinese Regions With Chronic Exposure to Lower Air Quality - [LINK](article_pansini_covid-19_2021)
+* KIX to apply antimicrobial coating in its fight against COVID-19 - [LINK](article_kansai_airport_kix_2021)
+* A Continuously Active Antimicrobial Coating effective against Human Coronavirus 229E - [LINK](article_ikner_continuously_2020)
+* Startups in times of crisis – A rapid response to the COVID-19 pandemic - [LINK](article_kuckertz_startups_2020)
+* DfMA for rapid adaptive resilience and flexible infrastructure - [LINK](article_mott_macdonald_dfma_2020)
+* <scp>COVID</scp>             ‐19: Small and medium enterprises challenges and responses with creativity, innovation, and entrepreneurship - [LINK](article_thukral_covid19_2021)
+* How COVID-19 Could Accelerate the Adoption of New Retail Technologies and Enhance the (E-)Servicescape - [LINK](article_willems_how_2021)
+* A critical analysis of the impacts of COVID-19 on the global economy and ecosystems and opportunities for circular economy strategies - [LINK](article_ibn-mohammed_critical_2021)
+* Mapping research in logistics and supply chain management during COVID-19 pandemic - [LINK](article_montoya-torres_mapping_2021)
 
 
 ### Closest BPs
 
-* Blueprint: Resilience in staffing and skills training - [LINK](bp_12)
-* Blueprint: Negative pressure rooms - [LINK](bp_13)
-* Blueprint: Monitoring of wastewater [CID] - [LINK](bp_21)
+* Blueprint: Smart Locker System - [LINK](bp_1)
+* Blueprint: Rotational Shift System - [LINK](bp_0)
+* Blueprint: Antimicrobial Surfaces - [LINK](bp_5)

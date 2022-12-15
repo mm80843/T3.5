@@ -5,7 +5,7 @@
 
 ## Keywords
 
- * Cluster_3, activity base regulation, app store, attribution, cc by 4 0 international, cc0, credit bureau, emerald publishing limit, [license](keyword_license), licensed, licenses, licensing, licensor, [open access](keyword_open_access), registration
+ * Cluster_3, activity base regulation, app store, attribution, cc by 4 0 international, cc0, credit bureau, emerald publishing limit, [license](keyword_license), licensed, licenses, licensing, licensor, open access, registration
 
 
 ## Concepts

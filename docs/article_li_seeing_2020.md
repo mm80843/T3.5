@@ -2,13 +2,13 @@
 
 * Source: [10.1016/j.jdmm.2020.100502](https://doi.org/10.1016/j.jdmm.2020.100502)
 * Year: 2020
-* Cluster: [city-health](cluster_14)
+* Cluster: [health-patient](cluster_14)
 
 
 
 ## Keywords
 
- * abstract construal, adventure, affect, american, [anxiety](keyword_anxiety), backpacker, [beijing](keyword_beijing), [china](keyword_china), [chinese](keyword_chinese), conservative, construal, construal level theory, [coronavirus](keyword_coronavirus), country image, covid 19 outbreak, [covid-19](keyword_covid-19), [crisis](keyword_crisis), culture, de bruin, destination, destination choice, destination image, disaster, disaster management, [disease](keyword_disease), disease outbreak, distance, [epidemic](keyword_epidemic), food tourism, fuch, general, geng, health risk, [hong kong](keyword_hong_kong), hospitality, hotel, illness, international journal, international tourism, journal of destination marketing management, judgment, [law](keyword_law), liberman, low level construal, management, [marketing](keyword_marketing), medicine, medium, miyazaki, [news](keyword_news), optimistic bias, pacific asia, [pandemic](keyword_pandemic), [perceive risk](keyword_perceive_risk), perception, personality, probability, proximate, [psychological](keyword_psychological), [psychological distance](keyword_psychological_distance), psychological risk, psychology, recreation, [research](keyword_research), [risk](keyword_risk), [risk perception](keyword_risk_perception), ritchie, [safety](keyword_safety), sage, service, sharifpour, sichuan, so nmez, [social](keyword_social), [social distance](keyword_social_distance), social psychology, social risk, [social science](keyword_social_science), [spain](keyword_spain), spatial, spatial distance, stamolampro, state council, sun, temporal, temporal distance, terrorism, [tourism](keyword_tourism), tourism management, tourism marketing, tourism research, tourist, tourist behavior, [travel](keyword_travel), trope, trust, uncertainty, uncertainty avoidance, [wuhan](keyword_wuhan), zhou
+ * abstract construal, adventure, affect, american, [anxiety](keyword_anxiety), backpacker, [beijing](keyword_beijing), [china](keyword_china), [chinese](keyword_chinese), conservative, [coronavirus](keyword_coronavirus), [country](keyword_country), country image, covid 19 outbreak, [covid-19](keyword_covid-19), [crisis](keyword_crisis), crott, culture, de bruin, defranco, destination, destination image, disaster, disaster management, [disease](keyword_disease), disease outbreak, [distance](keyword_distance), [epidemic](keyword_epidemic), fuch, general, geng, health risk, health risk perception, [hong kong](keyword_hong_kong), hospitality, hotel, hui, illness, image, [industry](keyword_industry), israel, judgment, [law](keyword_law), liberman, liu, low level construal, management, [marketing](keyword_marketing), miyazaki, [news](keyword_news), oxford learner s dictionary, pacific asia, [pandemic](keyword_pandemic), past, [perceive risk](keyword_perceive_risk), perception, policymaker, probability, [psychological](keyword_psychological), psychology, recreation, [research](keyword_research), [risk](keyword_risk), [risk perception](keyword_risk_perception), risk reduction, ritchie, routledge, [safety](keyword_safety), sage, sagristano, science, self drive, service, sharifpour, sichuan, so nmez, [social](keyword_social), spatial, stamolampro, state council, sun, temporal, terrorism, [tourism](keyword_tourism), tourism management, tourism marketing, tourism research, tourist, tourist behavior, [travel](keyword_travel), travel restriction, trope, trust, uncertainty, under my backyard, [united kingdom](keyword_united_kingdom), uriely, vacation, [wuhan](keyword_wuhan), zhou
 
 
 ## Concepts
@@ -22,19 +22,19 @@
 ### Closest articles
 
 * Should I Stay or Should I Go? Tourists’ COVID-19 Risk Perception and Vacation Behavior Shift - [LINK](article_bratic_should_2021)
-* COVID-19 and regional solutions for mitigating the risk of SME finance in selected ASEAN member states - [LINK](article_taghizadeh-hesary_covid-19_2022)
-*  - [LINK](article_mehtab_alam_role_2021)
-* World Bank Development Report - [LINK](article_world_bank_world_2022)
-* <scp>COVID</scp>             ‐19: Small and medium enterprises challenges and responses with creativity, innovation, and entrepreneurship - [LINK](article_thukral_covid19_2021)
-* Startups in times of crisis – A rapid response to the COVID-19 pandemic - [LINK](article_kuckertz_startups_2020)
-* Physical interventions to interrupt or reduce the spread of respiratory viruses: systematic review - [LINK](article_jefferson_physical_2008)
-* Covid-19 and asset management in EU: a preliminary assessment of performance and investment styles - [LINK](article_rizvi_covid-19_2020)
-* COVID-19 Prevention and Control Measures in Workplace Settings: A Rapid Review and Meta-Analysis - [LINK](article_ingram_covid-19_2021)
-* KIX to apply antimicrobial coating in its fight against COVID-19 - [LINK](article_kansai_airport_kix_2021)
+* Pandemiens arkitektur - [LINK](article_realdania_pandemiens_2022)
+* Refleksioner fra en pandemi - [LINK](article_realdania_refleksioner_2022)
+* How Can Blockchain Help People in the Event of Pandemics Such as the COVID-19? - [LINK](article_chang_how_2020)
+* Blockchain technology and its applications to combat COVID-19 pandemic - [LINK](article_sharma_blockchain_2022)
+* Health Information Exchange with Blockchain amid Covid-19-like Pandemics - [LINK](article_christodoulou_health_2020)
+* Pandemic stricken cities on lockdown. Where are our planning and design professionals [now, then and into the future]? - [LINK](article_allam_pandemic_2020)
+* Validity of energy social research during and after COVID-19: challenges, considerations, and responses - [LINK](article_fell_validity_2020)
+* Contextualizing the Covid-19 pandemic for a carbon-constrained world: Insights for sustainability transitions, energy justice, and research methodology - [LINK](article_sovacool_contextualizing_2020)
+* Covid-19 and the politics of sustainable energy transitions - [LINK](article_kuzemko_covid-19_2020)
 
 
 ### Closest BPs
 
-* Blueprint: Smart Locker System - [LINK](bp_1)
-* Blueprint: Antimicrobial Surfaces - [LINK](bp_5)
-* Blueprint: Good hand hygiene practice - [LINK](bp_16)
+* Blueprint: Monitoring of wastewater - [LINK](bp_21)
+* Blueprint: Mental health – Act: Do something - [LINK](bp_18)
+* Blueprint: Mental health – Belong: Do something with someone - [LINK](bp_19)

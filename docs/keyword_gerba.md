@@ -1,33 +1,33 @@
-# Keyword: __gerba__
-## Clusters
+# Keyword: gerba
 
-* Cluster 11: [surface-coating](cluster_11.md)
+* [perpetuity-bioaerosol](cluster_Cluster_3)
+
+
+## Keywords
+
+ * Cluster_3, carducci, carducci a, caslino, cp, e k, [gerba](keyword_gerba), koenig, kurgat, lesile, p m, pepper, pogreba brown, sifuente, sinclair, walter q lett charle
+
 
 ## Concepts
 
  ![](imgs/keyword_gerba.jpg)
 
 
-## Articles
-* A Continuously Active Antimicrobial Coating
-effective against Human Coronavirus 229E ([ikner_continuously_2020](article_ikner_continuously_2020.md))
-* COVID-19 Experience Transforming the Protective
-Environment of Office Buildings and Spaces ([phapant_covid-19_2021](article_phapant_covid-19_2021.md))
-* COVID-19 Experience Transforming the Protective
-Environment of Office Buildings and Spaces ([phapant_covid-19_2021](article_phapant_covid-19_2021.md))
-* First detection of SARS-CoV-2 in untreated wastewaters
-in Italy ([la_rosa_first_2020](article_la_rosa_first_2020.md))
-* Computational analysis of SARS-CoV-2/COVID-19
-surveillance by wastewater-based epidemiology locally and
-globally: Feasibility, economy, opportunities and
-challenges ([hart_computational_2020](article_hart_computational_2020.md))
-* The COVID-19 pandemic: Impacts on cities and major
-lessons for urban planning, design, and management ([sharifi_covid-19_2020](article_sharifi_covid-19_2020.md))
-* DeepSOCIAL: Social Distancing Monitoring and
-Infection Risk Assessment in COVID-19 Pandemic ([rezaei_deepsocial_2020](article_rezaei_deepsocial_2020.md))
-* DeepSOCIAL: Social Distancing Monitoring and
-Infection Risk Assessment in COVID-19 Pandemic ([rezaei_deepsocial_2020](article_rezaei_deepsocial_2020.md))
-* DeepSOCIAL: Social Distancing Monitoring and
-Infection Risk Assessment in COVID-19 Pandemic ([rezaei_deepsocial_2020](article_rezaei_deepsocial_2020.md))
-* DeepSOCIAL: Social Distancing Monitoring and
-Infection Risk Assessment in COVID-19 Pandemic ([rezaei_deepsocial_2020](article_rezaei_deepsocial_2020.md))
+
+## Neighbours
+
+### Closest articles
+
+* A Continuously Active Antimicrobial Coating effective against Human Coronavirus 229E - [LINK](article_ikner_continuously_2020)
+* COVID-19 Experience Transforming the Protective Environment of Office Buildings and Spaces - [LINK](article_phapant_covid-19_2021)
+* Detection of SARS-CoV-2 in raw and treated wastewater in Germany – Suitability for COVID-19 surveillance and potential transmission risks - [LINK](article_westhaus_detection_2021)
+* First confirmed detection of SARS-CoV-2 in untreated wastewater in Australia: A proof of concept for the wastewater surveillance of COVID-19 in the community - [LINK](article_ahmed_first_2020)
+* An environmental and health perspective for COVID-19 outbreak: Meteorology and air quality influence, sewage epidemiology indicator, hospitals disinfection, drug therapies and recommendations - [LINK](article_barcelo_environmental_2020)
+* Wastewater surveillance for population-wide Covid-19: The present and future - [LINK](article_daughton_wastewater_2020)
+* Computational analysis of SARS-CoV-2/COVID-19 surveillance by wastewater-based epidemiology locally and globally: Feasibility, economy, opportunities and challenges - [LINK](article_hart_computational_2020)
+* First detection of SARS-CoV-2 in untreated wastewaters in Italy - [LINK](article_la_rosa_first_2020)
+* SARS-CoV-2 RNA in wastewater anticipated COVID-19 occurrence in a low prevalence area - [LINK](article_randazzo_sars-cov-2_2020)
+
+
+### Closest BPs
+

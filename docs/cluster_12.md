@@ -2,7 +2,7 @@
 
 ## Keywords
 
- * [area](keyword_area), [case](keyword_case), [change](keyword_change), [climate](keyword_climate), [community](keyword_community), [dengue](keyword_dengue), [disease](keyword_disease), [elimination](keyword_elimination), [health](keyword_health), [malar](keyword_malar), [malaria](keyword_malaria), [mosquito](keyword_mosquito), [nile](keyword_nile), [population](keyword_population), [public](keyword_public), [risk](keyword_risk), [tatem](keyword_tatem), [transmission](keyword_transmission), [vbd](keyword_vbd), [vector](keyword_vector)
+ * [area](keyword_area), [case](keyword_case), [change](keyword_change), [climate](keyword_climate), [community](keyword_community), [control](keyword_control), [dengue](keyword_dengue), [disease](keyword_disease), [elimination](keyword_elimination), [health](keyword_health), [malar](keyword_malar), [malaria](keyword_malaria), [mosquito](keyword_mosquito), [nile](keyword_nile), [population](keyword_population), [public](keyword_public), [risk](keyword_risk), [transmission](keyword_transmission), [vbd](keyword_vbd), [vector](keyword_vector)
 
 
 

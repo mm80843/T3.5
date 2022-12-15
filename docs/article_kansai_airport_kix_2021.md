@@ -8,7 +8,7 @@
 
 ## Keywords
 
- * [airport](keyword_airport), airport worker, [antimicrobial](keyword_antimicrobial), asia, automobile, [bacteria](keyword_bacteria), [build](keyword_build), [coating](keyword_coating), [coronavirus](keyword_coronavirus), corporate citizenship, [country](keyword_country), [covid-19](keyword_covid-19), [development](keyword_development), dirt repellent, envelop virus, environmental, environmental strategy, [europe](keyword_europe), financial service, [inactivate](keyword_inactivate), [inactivation](keyword_inactivation), [industry](keyword_industry), [infrastructure](keyword_infrastructure), investment, [japan](keyword_japan), [kansai airport](keyword_kansai_airport), kansai airport group, kansai airport kobe, kansai electric power company, [kansai international airport](keyword_kansai_international_airport), kintetsu, kintetsu group, kix, kobe, [kobe airport](keyword_kobe_airport), net zero emission, new kansai international airport company, non envelop virus, orix, orix corporation, [osaka international airport](keyword_osaka_international_airport), private equity, region, [safety](keyword_safety), [security](keyword_security), [sustainability](keyword_sustainability), trial, trial test, vinci airports, [virus](keyword_virus)
+ * [airport](keyword_airport), airport worker, [antimicrobial](keyword_antimicrobial), asia, automobile, [bacteria](keyword_bacteria), [build](keyword_build), [coating](keyword_coating), [coronavirus](keyword_coronavirus), corporate citizenship, [country](keyword_country), [covid-19](keyword_covid-19), [development](keyword_development), dirt repellent, envelop virus, [environmental](keyword_environmental), [europe](keyword_europe), inactivate, inactivation, [industry](keyword_industry), [infrastructure](keyword_infrastructure), [japan](keyword_japan), [kansai airport](keyword_kansai_airport), kansai airport group, kansai airport kobe, kansai electric power company, kintetsu, kintetsu group, kobe airport, net zero emission, non envelop virus, orix, orix corporation, region, [safety](keyword_safety), [security](keyword_security), [sustainability](keyword_sustainability), trial, [vinci airports](keyword_vinci_airports), [virus](keyword_virus)
 
 
 ## Concepts
@@ -22,19 +22,17 @@
 ### Closest articles
 
 * Graphene-based nanomaterials as antimicrobial surface coatings: A parallel approach to restrain the expansion of COVID-19 - [LINK](article_ayub_graphene-based_2021)
+* A Continuously Active Antimicrobial Coating effective against Human Coronavirus 229E - [LINK](article_ikner_continuously_2020)
 * Sars-CoV-2 (COVID-19) inactivation capability of copper-coated touch surface fabricated by cold-spray technology - [LINK](article_hutasoit_sars-cov-2_2020)
 * A Surface Coating that Rapidly Inactivates SARS-CoV-2 - [LINK](article_behzadinasab_surface_2020)
-* A Continuously Active Antimicrobial Coating effective against Human Coronavirus 229E - [LINK](article_ikner_continuously_2020)
-* Persistence of coronaviruses on inanimate surfaces and their inactivation with biocidal agents - [LINK](article_kampf_persistence_2020)
-* Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1 - [LINK](article_van_doremalen_aerosol_2020)
-* Sustainability of Coronavirus on Different Surfaces - [LINK](article_suman_sustainability_2020)
-* Should I Stay or Should I Go? Tourists’ COVID-19 Risk Perception and Vacation Behavior Shift - [LINK](article_bratic_should_2021)
-* Seeing the invisible hand: Underlying effects of COVID-19 on tourists’ behavioral patterns - [LINK](article_li_seeing_2020)
-* Current knowledge of COVID-19: Advances, challenges and future perspectives - [LINK](article_wu_current_2021)
+* Touchless Retail: What the Rest of the World could learn from China’s new ways to shop - [LINK](article_capgemini_touchless_2020)
+* Retail Signage During the COVID-19 Pandemic - [LINK](article_mcneish_retail_2020)
+* How COVID-19 Could Accelerate the Adoption of New Retail Technologies and Enhance the (E-)Servicescape - [LINK](article_willems_how_2021)
+* China adapts survey drones to enforce world’s largest quarantine - [LINK](article_liu_china_2020)
 
 
 ### Closest BPs
 
+* Blueprint: Smart Locker System - [LINK](bp_1)
 * Blueprint: Antimicrobial Surfaces - [LINK](bp_5)
 * Blueprint: Good hand hygiene practice - [LINK](bp_16)
-* Blueprint: Reducing contact points - [LINK](bp_17)

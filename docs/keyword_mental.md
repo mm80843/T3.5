@@ -1,13 +1,13 @@
 # Keyword: mental
 
-* [gbn-measure](cluster_Cluster_0)
+* [health-mental](cluster_Cluster_10)
 
-* [sustainability-pillar](cluster_Cluster_10)
+* [gbn-measure](cluster_Cluster_15)
 
 
 ## Keywords
 
- * Cluster_0, Cluster_10, behavioral health, concentration, contact with nature, depression depression, [health](keyword_health), health outcome, health relate quality of life, [mental](keyword_mental), mental attention, mental stress, mental well be, mood, phy ical, [physical](keyword_physical), physical activity, physical concentration, [physical health](keyword_physical_health), physical health problem, physical mental, physical mental stress, physical physical, physical well be, physical wellbeing, psychiatric, [psychological](keyword_psychological), [psychological health](keyword_psychological_health), psychological treatment, psychological well be, restoration, self harm, [social](keyword_social), social factor, social well be, [stress](keyword_stress), [urban area](keyword_urban_area), [well be](keyword_well_be), [wellbee](keyword_wellbee)
+ * Cluster_10, Cluster_15, concentration, contact with nature, depression depression, [health](keyword_health), health outcome, health relate quality of life, [mental](keyword_mental), mood, phy ical, [physical](keyword_physical), psychiatric, [psychological](keyword_psychological), restoration, self harm, [social](keyword_social), [stress](keyword_stress), urban area, [well be](keyword_well_be), [wellbee](keyword_wellbee)
 
 
 ## Concepts
@@ -22,14 +22,14 @@
 
 * Occupant health in buildings: Impact of the COVID-19 pandemic on the opinions of building professionals and implications on research - [LINK](article_awada_occupant_2022)
 * Ten questions concerning occupant health in buildings during normal operations and extreme events including the COVID-19 pandemic - [LINK](article_awada_ten_2021)
-* The impact of the COVID-19 pandemic on the importance of urban green spaces to the public - [LINK](article_noszczyk_impact_2022)
 * Towards Resilient Residential Buildings and Neighborhoods in Light of COVID-19 Pandemic—The Scenario of Podgorica, Montenegro - [LINK](article_bojovic_towards_2022)
 * Prophylactic Architecture: Formulating the Concept of Pandemic-Resilient Homes - [LINK](article_elrayies_prophylactic_2022)
-* Green spaces, especially forest, linked to lower SARS-CoV-2 infection rates: A one-year nationwide study - [LINK](article_jiang_green_2021)
-* How our homes impact our health: using a COVID-19 informed approach to examine urban apartment housing - [LINK](article_peters_how_2020)
-* COVID-19 and Green Housing: A Review of Relevant Literature - [LINK](article_kaklauskas_covid-19_2021)
-* Home garden use during COVID-19: Associations with physical and mental wellbeing in older adults - [LINK](article_corley_home_2021)
+* The impact of the COVID-19 pandemic on the importance of urban green spaces to the public - [LINK](article_noszczyk_impact_2022)
 * Designing Post COVID-19 Buildings: Approaches for Achieving Healthy Buildings - [LINK](article_navaratnam_designing_2022)
+* COVID-19 Lockdown: Housing Built Environment’s Effects on Mental Health - [LINK](article_amerio_covid-19_2020)
+* Green spaces, especially forest, linked to lower SARS-CoV-2 infection rates: A one-year nationwide study - [LINK](article_jiang_green_2021)
+* Mental health and COVID-19 - [LINK](article_who_mental_2021)
+* A Mixed Approach on Resilience of Spanish Dwellings and Households during COVID-19 Lockdown - [LINK](article_cuerdo-vilches_mixed_2020)
 
 
 ### Closest BPs

@@ -2,13 +2,13 @@
 
 * Source: [10.1126/science.abb4218](https://doi.org/10.1126/science.abb4218)
 * Year: 2020
-* Cluster: [city-health](cluster_14)
+* Cluster: [health-patient](cluster_14)
 
 
 
 ## Keywords
 
- * 3b, [academy](keyword_academy), age, autochthonous transmission, behavioral, [beijing](keyword_beijing), blue, cauchemez, [china](keyword_china), clinical, control measure, cordon sanitaire, coronavirus pneumonia, [coronaviruse](keyword_coronaviruse), covid 19 epidemic in china, covid 19 outbreak, [covid-19](keyword_covid-19), [datum](keyword_datum), du et, ecology, [economy](keyword_economy), ecuador, email, emerg, english, [epidemic](keyword_epidemic), epidemic in china, [epidemiological](keyword_epidemiological), [epidemiology](keyword_epidemiology), euro, evolution of metapopulation, [exposure](keyword_exposure), fellowship, [france](keyword_france), generalize linear model, [grant](keyword_grant), [green](keyword_green), growth rate, guangdong, guangzhou, [hubei](keyword_hubei), hubei province, human mobility, hygiene, [infection](keyword_infection), intern, internet service, interquartile interval, [italy](keyword_italy), j lessler, jama, kraemer et m, kraków, line list, log linear regression, [london](keyword_london), m p u s, material and method, median age, method, [mobility](keyword_mobility), molecular, national institute of general medical sciences, [outbreak](keyword_outbreak), paris, personal fee, [poland](keyword_poland), [population](keyword_population), positive growth rate, positive test date, [province](keyword_province), quito, r e s e a r c h a r t I c l e 24, r e s e a r c h a r t I c l e fig re earch, report case, royal veterinary college, s v, [sar cov 2](keyword_sar_cov_2), science, sex, sex distribution, southampton, statistical model, surveill, [symptom](keyword_symptom), [transmission](keyword_transmission), travel history, travel restriction, turin, u g u g, [united kingdom](keyword_united_kingdom), university of southampton, [virus](keyword_virus), [wuhan](keyword_wuhan), wuhan province, xu, z z du et, zhao, zhejiang, zhu
+ * 2a, 3b, 50 interquartile interval, aaas, [academy](keyword_academy), age, alternative hypothesis, autochthonous transmission, b k, baidu, behavioral, [beijing](keyword_beijing), blue, cauchemez, [china](keyword_china), clinical, control measure, cordon sanitaire, coronavirus pneumonia, coronaviruse, covid 19 outbreak, [covid-19](keyword_covid-19), [datum](keyword_datum), du et, ecology, [economy](keyword_economy), ecuador, [email](keyword_email), emerg, english, [epidemic](keyword_epidemic), epidemic in china, [epidemiological](keyword_epidemiological), [epidemiology](keyword_epidemiology), euro, evolution of metapopulation, [exposure](keyword_exposure), fellowship, [france](keyword_france), [green](keyword_green), growth rate, guangdong, guangzhou, [hubei](keyword_hubei), hubei province, human mobility, [infection](keyword_infection), intern, internet service, interquartile interval, [italy](keyword_italy), jama, kraemer et m, kraków, line list, log linear regression, m p u s, material and method, median age, method, [mobility](keyword_mobility), molecular, [outbreak](keyword_outbreak), paris, [poland](keyword_poland), [population](keyword_population), positive growth rate, positive test date, [province](keyword_province), quito, r e s e a r c h a r t I c l e 24, r e s e a r c h a r t I c l e fig re earch, report case, s v, [sar cov 2](keyword_sar_cov_2), science, sex, sex distribution, sociol, source, southampton, surveill, [symptom](keyword_symptom), time series analysis, title science, [transmission](keyword_transmission), travel history, travel restriction, turin, u g u g, [united kingdom](keyword_united_kingdom), university of southampton, [virus](keyword_virus), wu, [wuhan](keyword_wuhan), wuhan province, z z du et, zhao, zhejiang, zhu
 
 
 ## Concepts
@@ -23,18 +23,18 @@
 
 * An investigation of transmission control measures during the first 50 days of the COVID-19 epidemic in China - [LINK](article_tian_investigation_2020)
 * Open-source analytics tools for studying the COVID-19 coronavirus outbreak - [LINK](article_wu_open-source_2020)
-* Health, Economic and Social Development Challenges of the COVID-19 Pandemic: Strategies for Multiple and Interconnected Issues - [LINK](article_panneer_health_2022)
-* How COVID-19 Redefines the Concept of Sustainability - [LINK](article_hakovirta_how_2020)
-* COVID-19 and the UN Sustainable Development Goals: Threat to Solidarity or an Opportunity? - [LINK](article_leal_filho_covid-19_2020)
-* COVID-19 Bulletin 1: Alterations to BREEAM assessment requirements as a result of the Coronavirus pandemic – Knowledge Base - [LINK](article_breeam_covid-19_2020)
-* COVID-19: IMPACT OF THE PANDEMIC ON THE SUSTAINABLE DEVELOPMENT GOALS - [LINK](article_samout_covid-19_2020)
-* The COVID-19 pandemic: Lessons on building more equal and sustainable societies - [LINK](article_van_barneveld_covid-19_2020)
-* How COVID-19 Could Accelerate the Adoption of New Retail Technologies and Enhance the (E-)Servicescape - [LINK](article_willems_how_2021)
-* Touchless Retail: What the Rest of the World could learn from China’s new ways to shop - [LINK](article_capgemini_touchless_2020)
+*  - [LINK](article_mehtab_alam_role_2021)
+* Infodemic and the spread of fake news in the COVID-19-era - [LINK](article_orso_infodemic_2020)
+* Response to COVID-19 in Taiwan - [LINK](article_wang_response_2020)
+* COVID-19 media fatigue: predictors of decreasing interest and avoidance of COVID-19–related news - [LINK](article_buneviciene_covid-19_2021)
+* The impacts of knowledge, risk perception, emotion and information on citizens’ protective behaviors during the outbreak of COVID-19: a cross-sectional study in China - [LINK](article_ning_impacts_2020)
+* Knowledge, attitudes, and practices of Indonesian residents regarding COVID-19: A national cross-sectional survey - [LINK](article_yodang_knowledge_2021)
+* Covid-19 and community mitigation strategies in a pandemic - [LINK](article_ebrahim_covid-19_2020)
+* Drones. Disinfecting robots. Supercomputers. The coronavirus outbreak is a test for China's tech industry \textbar CNN Business - [LINK](article_wang_drones_2020)
 
 
 ### Closest BPs
 
+* Blueprint: Resilience in staffing and skills training - [LINK](bp_12)
+* Blueprint: Monitoring of wastewater - [LINK](bp_21)
 * Blueprint: Smart Locker System - [LINK](bp_1)
-* Blueprint: One-way mobility circulation - [LINK](bp_4)
-* Blueprint: Rotational Shift System - [LINK](bp_0)

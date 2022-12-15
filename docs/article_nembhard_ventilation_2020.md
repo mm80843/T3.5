@@ -2,13 +2,13 @@
 
 * Source: [10.1177/0748233720967528](https://doi.org/10.1177/0748233720967528)
 * Year: 2020
-* Cluster: [air-ventilation](cluster_13)
+* Cluster: [air-ventilation](cluster_4)
 
 
 
 ## Keywords
 
- * [aerosol](keyword_aerosol), [air](keyword_air), air contaminant, air duct, [air filter](keyword_air_filter), air intake, airborne transmission, [ashrae](keyword_ashrae), authorship, bahnfleth w, [build](keyword_build), build ventilation, cardno chemrisk, chartier y, [china](keyword_china), [clean](keyword_clean), clinical infectious disease 6, code, contagion, contaminant, [control](keyword_control), cool, [coronavirus](keyword_coronavirus), cough, [covid 19 pandemic](keyword_covid_19_pandemic), [covid-19](keyword_covid-19), diamond princess cruise ship, dilution, [disinfection](keyword_disinfection), [droplet](keyword_droplet), ductwork, [efficiency](keyword_efficiency), engineering control, epa, exhaust only, fan, [filter](keyword_filter), [filtration](keyword_filtration), flamholz a, free standing fan, frequently ask question, furnace, general ward, growth, gu j, guangzhou, heating, [humidity](keyword_humidity), [hvac](keyword_hvac), hvac system, indoor air, [indoor air quality](keyword_indoor_air_quality), industrial health, infectious, insulation, li k, louver, lung, [mask](keyword_mask), mechanical ventilation, medical facility, microbiological, nadca, nadca laurel, natural ventilation, nembhard, odor, outpatient department, [pandemic](keyword_pandemic), [personal protective equipment](keyword_personal_protective_equipment), pessoa silva c, [product](keyword_product), [protocol](keyword_protocol), psa, pulmonary system, qian h, rating, register, [research](keyword_research), respiratory virus, russia, [sar cov 2](keyword_sar_cov_2), service, [simulation](keyword_simulation), sneeze, st petersburg, [system](keyword_system), tang jw, taylor engineering, [temperature](keyword_temperature), toxicology, [transmission](keyword_transmission), united states environmental protection agency, usepa, [ventilation](keyword_ventilation), [ventilation system](keyword_ventilation_system), [virus](keyword_virus), [world health organization](keyword_world_health_organization), xu, xu et
+ * [aerosol](keyword_aerosol), [air](keyword_air), air contaminant, air duct, [air filter](keyword_air_filter), air intake, airborne transmission, [ashrae](keyword_ashrae), authorship, bahnfleth w, [build](keyword_build), cardno chemrisk, chartier y, [china](keyword_china), [clean](keyword_clean), close contact, code, contagion, contaminant, [control](keyword_control), cool, [coronavirus](keyword_coronavirus), cough, [covid 19 pandemic](keyword_covid_19_pandemic), [covid-19](keyword_covid-19), diamond princess cruise ship, dilution, [disinfection](keyword_disinfection), [droplet](keyword_droplet), ductwork, [efficiency](keyword_efficiency), engineering control, epa, exhaust fan, exhaust only, [facility management](keyword_facility_management), fan, [filter](keyword_filter), [filtration](keyword_filtration), flamholz a, frequently ask question, furnace, garbage, growth, gu j, guangzhou, heating, [humidity](keyword_humidity), [hvac](keyword_hvac), [hvac system](keyword_hvac_system), [iaq](keyword_iaq), in room, indoor air, [indoor air quality](keyword_indoor_air_quality), infectious, infectious disease outbreak, insulation, john milton, li k, louver, lung, [mask](keyword_mask), microbiological, nadca, nadca laurel, nembhard, odor, [pandemic](keyword_pandemic), paradise lose, perera h, pessoa silva c, [product](keyword_product), [protocol](keyword_protocol), psa, pulmonary system, qian h, rating, register, [research](keyword_research), respiratory virus, [russia](keyword_russia), [sar cov 2](keyword_sar_cov_2), service, [simulation](keyword_simulation), sneeze, [space](keyword_space), st petersburg, [system](keyword_system), tang jw, taylor engineering, [temperature](keyword_temperature), [transmission](keyword_transmission), [united states](keyword_united_states), usepa, [ventilation](keyword_ventilation), ventilation system, [virus](keyword_virus), [world health organization](keyword_world_health_organization), worldwide pandemic, [wuhan](keyword_wuhan)
 
 
 ## Concepts
@@ -26,14 +26,14 @@
 * ASHRAE Position Document on Infectious Aerosols - [LINK](article_ashrae_ashrae_2022)
 * A critical review of heating, ventilation, and air conditioning (HVAC) systems within the context of a global SARS-CoV-2 epidemic - [LINK](article_elsaid_critical_2021)
 * How can airborne transmission of COVID-19 indoors be minimised? - [LINK](article_morawska_how_2020)
-* Environmental factors involved in SARS-CoV-2 transmission: effect and role of indoor environmental quality in the strategy for COVID-19 infection control - [LINK](article_azuma_environmental_2020)
-* The ventilation of buildings and other mitigating measures for COVID-19: a focus on wintertime - [LINK](article_burridge_ventilation_2021)
 * Methods for air cleaning and protection of building occupants from airborne pathogens - [LINK](article_bolashikov_methods_2009)
-* 2019 Novel Coronavirus (COVID-19) Pandemic: Built Environment Considerations To Reduce Transmission - [LINK](article_dietz_2019_2020)
+* A review of facilities management interventions to mitigate respiratory infections in existing buildings - [LINK](article_zhang_review_2022)
+* The ventilation of buildings and other mitigating measures for COVID-19: a focus on wintertime - [LINK](article_burridge_ventilation_2021)
+* Indoor Air Quality: Rethinking rules of building design strategies in post-pandemic architecture - [LINK](article_megahed_indoor_2021)
 
 
 ### Closest BPs
 
 * Blueprint: Installing UV in ductwork - [LINK](bp_10)
-* Blueprint: Indoor Environmental Quality (IEQ) monitoring system - [LINK](bp_3)
-* Blueprint: Air Cleaning Plants - [LINK](bp_15)
+* Blueprint: Monitoring of wastewater - [LINK](bp_21)
+* Blueprint: Resilience in staffing and skills training - [LINK](bp_12)

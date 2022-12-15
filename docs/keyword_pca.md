@@ -1,11 +1,11 @@
 # Keyword: pca
 
-* [health-pca](cluster_Cluster_9)
+* [economic-health](cluster_Cluster_9)
 
 
 ## Keywords
 
- * Cluster_9, cluster analysis, component, contexts, [covid-19](keyword_covid-19), current crisis, economic crisis, finance flows, m1, [malaysia](keyword_malaysia), [manager](keyword_manager), narrowfinancing base, [pca](keyword_pca), philippine, preliminary test, resilience engineering, result, trust fund, variable
+ * Cluster_9, cluster analysis, component, contexts, [covid-19](keyword_covid-19), current crisis, [economic crisis](keyword_economic_crisis), finance flows, m1, [malaysia](keyword_malaysia), [manager](keyword_manager), narrowfinancing base, [pca](keyword_pca), philippine, preliminary test, resilience engineering, result, trust fund, variable
 
 
 ## Concepts

@@ -3,7 +3,7 @@
 
 ## Details
 
-* Cluster: __Cluster_13__ (Cluster_13)
+* Cluster: __Cluster_11__ (Cluster_11)
 
 
 
@@ -15,11 +15,11 @@ Indoor Environmental Quality (IEQ) monitoring system
 
 ### Idea description
 
-The year 2020 will remain in the memory of all mankind as the year of the COVID-19. The pandemic has changed the world economy, the way people work and the design of buildings. As a consequence, indoor environmental quality monitoring systems have become important for several reasons: (1) to ensure that temperature and humidity conditions are adequate (in order to guarantee the comfort and productivity of the occupants); (2) to introduce actions to reduce energy consumption; and (3) to guarantee the quality of the air. In this scenario, the application of Internet of Things (IoT) in this type of systems makes it possible to collect data and control IEQ remotely. With this approach, this blueprint proposes an IoT architecture aimed at monitoring indoor environmental quality inside high occupancy buildings, with the focus on preventing the spread of the virus.
+The year 2020 will be remembered by all humanity as the year of COVID -19. The pandemic has changed the global economy, the way people work and the design of buildings. As a result, indoor environmental quality monitoring systems have become important for several reasons: (1) to ensure that temperature and humidity conditions are appropriate (to ensure occupant comfort and productivity), (2) to initiate measures to reduce energy consumption, and (3) to ensure air quality. In this scenario, the application of the Internet of Things (IoT) in this type of system enables the collection of data and the control of air quality remotely. With this approach, this design proposes an IoT architecture that aims to monitor indoor air quality in buildings with high occupancy to prevent the spread of the virus.
 
 ### Why?
 
-According to several researches, there is a significant relationship between air quality and spread of COVID-19 in closes areas. That is why CO2 and occupancy measurements are so important.  To monitor these measurements would help to decide where and when to take actions in an intelligence and efficient manner, for example, by means of automatic ventilation systems. In addition, thermal comfort, visual comfort and acoustic comfort would be always maintained.
+According to several studies, there is a significant correlation between air quality and the spread of COVID -19 indoors. This is why CO2 and occupancy measurements are so important. Monitoring these measurements would help decide where and when to take action in an intelligent and efficient way, for example through automatic ventilation systems. In addition, thermal, visual and acoustic comfort would always be maintained.
 
 ### Contextual situations
 
@@ -35,7 +35,7 @@ The proposed IEQ monitoring system allows us to detect uncomfortable situations 
 
 ### Capabilities
 
-The proposed architecture is based on several low-cost sensors to acquire data and a single board computer as coordinator, and various communication technologies. The measured magnitudes allow detecting uncomfortable and potential risk situations and implementing corrective actions. In addition, the system can use historical data to decide when take certain actions.
+The proposed architecture is based on several low-cost sensors for data acquisition and a single-board computer as coordinator, as well as on various communication technologies. The measured variables make it possible to identify unpleasant and potential risk situations and to take corrective measures. In addition, the system can use historical data to decide when to take certain actions.
 
 ### Restrictions and limitations
 
@@ -74,6 +74,28 @@ nan
 
 High equipment cost
 
+### Associated interventions
+
+Main: PA2 - Environmental parameters control
+Other: 
+> PA1 - Use of smart/innovative air quality controls technology
+> PA4 - Monitor and control indoor air quality
+> HM2 - Outdoor spaces
+
+### Technological enablers
+
+Main: Air sensors
+Other: 
+> Data Analytics
+> Air sensors 
+> 5G
+> IoT
+> Automation
+
+### PartnerInCharge
+
+CID
+
 
 
 
@@ -83,17 +105,19 @@ High equipment cost
 ### Closest articles
 
 * A comprehensive review on indoor air quality monitoring systems for enhanced public health - [LINK](article_saini_comprehensive_2020)
-* Scalable IoT Architecture for Monitoring IEQ Conditions in Public and Private Buildings - [LINK](article_calvo_scalable_2022)
-* Continuous IEQ monitoring system: Context and development - [LINK](article_parkinson_continuous_2019)
 * An Intelligent IEQ Monitoring and Feedback System: Development and Applications - [LINK](article_geng_intelligent_2021)
-* The contribution of green buildings in the fight against COVID-19 - [LINK](article_world_green_building_council_contribution_2020)
-*  - [LINK](article_yakubu_aminu_dodo_green_2020)
-* Designing a Multi-Agent Occupant Simulation System to Support Facility Planning and Analysis for COVID-19 - [LINK](article_lee_designing_2021)
-* Emerging from Lockdown: CIBSE COVID-19 Guidance - [LINK](article_cibse_emerging_2020)
+* Continuous IEQ monitoring system: Context and development - [LINK](article_parkinson_continuous_2019)
+* Characterization and performance evaluation of a full-scale activated carbon-based dynamic botanical air filtration system for improving indoor air quality - [LINK](article_wang_characterization_2011)
+* The Effect of Opening Windows on Air Change Rates in Two Homes - [LINK](article_howard-reed_effect_2002)
+* Designing Post COVID-19 Buildings: Approaches for Achieving Healthy Buildings - [LINK](article_navaratnam_designing_2022)
+* Smart buildings: how a virus might lead to healthier buildings - Arup - [LINK](article_lam_smart_2021)
+* Will a pandemic change building codes? - [LINK](article_rozgus_will_2020)
+* Assessment of Building Automation and Control Systems in Danish Healthcare Facilities in the COVID-19 Era - [LINK](article_pedersen_assessment_2022)
+* The effect of occupant distribution on energy consumption and COVID-19 infection in buildings: A case study of university building - [LINK](article_mokhtari_effect_2021)
 
 
 ### Closest BPs
 
+* Blueprint: Air Cleaning Plants - [LINK](bp_15)
 * Blueprint: Building Adaptation during a pandemic - [LINK](bp_14)
-* Blueprint: Architecture design - [LINK](bp_2)
 * Blueprint: Tender support at building stage - [LINK](bp_9)

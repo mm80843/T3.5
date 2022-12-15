@@ -15,15 +15,15 @@ Rotational Shift System
 
 ### Idea description
 
-During the outbreak of COVID-19 large organizations as well as numerous educational institutions have explored the potential of lowering disease transmission by dividing their personnel (and pupils) into smaller groups, taking turns in using and operating the physical space in confined and high-occupancy areas. The main idea is to establish a rotational shift schedule in areas where there is high occupancy with the main focus on managing the staff presence through shifts rather than the potential users of the services provided.
+During the COVID -19 outbreak, large organisations, as well as many educational institutions, explored the potential to reduce disease transmission by dividing their staff (and students) into smaller groups that take turns using and servicing physical space in enclosed and high-traffic areas. The main idea is to introduce a rotating shift schedule in high occupancy areas, focusing on managing staff presence through shifts rather than the potential users of the services provided.
 
 ### Why?
 
-Limitation of the occupancy of confined areas allows for better social distancing and control over indoor parameters (such as the concentration of CO2 in the air). Moreover, rotation of the workforce prevents transmission of the disease between the majority of the employees and therefore the preservation of the final quality of the service and brings greater flexibility to the customers.
+Limiting the occupancy of enclosed spaces allows for better social distancing and control over indoor parameters (such as CO2 concentration in the air). In addition, rotating the workforce prevents the transmission of diseases between the majority of staff, thus maintaining the final quality of service and bringing more flexibility to clients.
 
 ### Contextual situations
 
-This measure is to be applied in confined and high occupancy areas such as offices (during working hours) or large retail businesses during morning and evening peak hours and weekends. To be functional, this measure envisages greater flexibility of the main stakeholders – workers, who should be willing to accept the limitation of their access.
+This measure should be used in enclosed and busy areas such as offices (during working hours) or large retail outlets during morning and evening rush hours and at weekends. For this measure to work, greater flexibility is envisaged on the part of the main actors - the workers - who should be willing to accept the restriction of their access.
 
 ### Problems to solve
 
@@ -31,7 +31,7 @@ Smaller possibility of disease transmission due to the less over-crowded areas a
 
 ### Value proposition
 
-Implementing this measure will make the control over occupancy and critical indoor parameters possible while maintaining the quality of services and productivity at usual levels as well as providing flexibility to the end users of those services.
+The implementation of this measure will allow control over occupancy and critical parameters in the indoor spaces, while maintaining the quality of services and productivity at the usual level and providing flexibility to the end users of these services.
 
 ### Capabilities
 
@@ -80,6 +80,28 @@ Yes
 
 nan
 
+### Associated interventions
+
+Main: HJ3 - Shift controls (occupancy control of total users)
+Other: 
+> HJ2 - Occupancy control (eg separating at/risk contaminated population)
+> MC3 - Absorb resource shortages
+> MP3 - Early detection
+
+### Technological enablers
+
+Main: Teleworking
+Other: 
+> Data Analytics
+> Automation
+> Smartphones
+> IoT
+> Blockchain
+
+### PartnerInCharge
+
+MM
+
 
 
 
@@ -91,16 +113,16 @@ nan
 * Touchless Retail: What the Rest of the World could learn from China’s new ways to shop - [LINK](article_capgemini_touchless_2020)
 * Retail Signage During the COVID-19 Pandemic - [LINK](article_mcneish_retail_2020)
 * How COVID-19 Could Accelerate the Adoption of New Retail Technologies and Enhance the (E-)Servicescape - [LINK](article_willems_how_2021)
-* Open-source analytics tools for studying the COVID-19 coronavirus outbreak - [LINK](article_wu_open-source_2020)
 * KIX to apply antimicrobial coating in its fight against COVID-19 - [LINK](article_kansai_airport_kix_2021)
-* <scp>COVID</scp>             ‐19: Small and medium enterprises challenges and responses with creativity, innovation, and entrepreneurship - [LINK](article_thukral_covid19_2021)
-* Startups in times of crisis – A rapid response to the COVID-19 pandemic - [LINK](article_kuckertz_startups_2020)
-* The effect of human mobility and control measures on the COVID-19 epidemic in China - [LINK](article_kraemer_effect_2020)
-* An investigation of transmission control measures during the first 50 days of the COVID-19 epidemic in China - [LINK](article_tian_investigation_2020)
+* Designing a Multi-Agent Occupant Simulation System to Support Facility Planning and Analysis for COVID-19 - [LINK](article_lee_designing_2021)
+* Building occupancy estimation with people flow modeling in AnyLogic - [LINK](article_li_building_2016)
+* Graphene-based nanomaterials as antimicrobial surface coatings: A parallel approach to restrain the expansion of COVID-19 - [LINK](article_ayub_graphene-based_2021)
+* EXPOSED: An occupant exposure model for confined spaces to retrofit crowd models during a pandemic - [LINK](article_ronchi_exposed_2020)
+* Sars-CoV-2 (COVID-19) inactivation capability of copper-coated touch surface fabricated by cold-spray technology - [LINK](article_hutasoit_sars-cov-2_2020)
 
 
 ### Closest BPs
 
-* Blueprint: Checkpoint allocation for access limitation - [LINK](bp_6)
 * Blueprint: Access limitation - [LINK](bp_7)
+* Blueprint: Checkpoint allocation for access limitation - [LINK](bp_6)
 * Blueprint: One-way mobility circulation - [LINK](bp_4)

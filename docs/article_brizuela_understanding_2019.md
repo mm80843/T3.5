@@ -2,13 +2,13 @@
 
 * Source: [10.1101/766667](https://doi.org/10.1101/766667)
 * Year: 2019
-* Cluster: [city-health](cluster_14)
+* Cluster: [urban-city](cluster_13)
 
 
 
 ## Keywords
 
- * [acc by 4 0](keyword_acc_by_4_0), activity hub, adult, agent base model, agglomeration, attack rate, [author funder](keyword_author_funder), barrat a, bedford vl, biological science, biology, census, child, [city](keyword_city), city center, contagion, [copyright holder](keyword_copyright_holder), density, [disease](keyword_disease), disease spread, dω, dω0, ecology, [economic](keyword_economic), economic activity, economic datum, [education](keyword_education), ellner sp, [environment](keyword_environment), [epidemic](keyword_epidemic), epidemic growth, [epidemiological](keyword_epidemiological), epidemiologist, [epidemiology](keyword_epidemiology), equation 3, estadı stica, eubank s, gdestination, gdl, geografı a, gini coefficient, gorigin, gravity model, guadalajara, [health](keyword_health), health inequality, [housing](keyword_housing), hub, human mobility, [infectious disease](keyword_infectious_disease), infectious outbreak, infective, [influenza](keyword_influenza), interaction kernel, [international license](keyword_international_license), land use, material and method, mathematical, medicine, metapopulation, metropolitan area, mexico, [mobility](keyword_mobility), national academy of sciences, [nature](keyword_nature), [neighborhood](keyword_neighborhood), numerical grid, [outbreak](keyword_outbreak), [pandemic](keyword_pandemic), [pathogen](keyword_pathogen), place of residence, [population](keyword_population), population average, population density, pourbohloul b, press, probability, probability density function, ps, [public health](keyword_public_health), r0, reproduction number, [research](keyword_research), roberts ms, science, [simulation](keyword_simulation), [social](keyword_social), [social science](keyword_social_science), [spread](keyword_spread), spread of disease, stehle, suburb, susceptible, tas, timestep, treatment, urban design, urban geography, urbanization, ω0
+ * activity hub, adult, age, agent base model, agglomeration, [author funder](keyword_author_funder), barrat a, bedford vl, census, [child](keyword_child), [city](keyword_city), city center, colizza v, contagion, [copyright holder](keyword_copyright_holder), [density](keyword_density), diagnosis, diehl j, [disease](keyword_disease), disease spread, dω, dω0, ecology, [economic](keyword_economic), economic activity, economic datum, [education](keyword_education), ellner sp, [environment](keyword_environment), [epidemic](keyword_epidemic), epidemic growth, [epidemiological](keyword_epidemiological), epidemiologist, [epidemiology](keyword_epidemiology), equation 3, estadı stica, eubank s, flu, gdestination, gdl, geografı a, gorigin, gravity model, guadalajara, [health](keyword_health), health inequality, heterogeneity, [housing](keyword_housing), hub, human mobility, infect, [infectious disease](keyword_infectious_disease), infectious outbreak, infective, [influenza](keyword_influenza), interaction kernel, land use, material and method, mathematical, metapopulation, metropolitan area, mexico, [mobility](keyword_mobility), [nature](keyword_nature), [neighborhood](keyword_neighborhood), origin destination density function, [outbreak](keyword_outbreak), [pandemic](keyword_pandemic), [pathogen](keyword_pathogen), place of residence, [population](keyword_population), population average, population density, population size, pourbohloul b, press, probability, probability density function, ps, [public health](keyword_public_health), r0, reproduction number, [research](keyword_research), roberts ms, science, [simulation](keyword_simulation), [social](keyword_social), [spread](keyword_spread), spread of disease, stehle, suburb, susceptible, tas, theoretical, timestep, treatment, urban design, urban geography, urbanization, ω0
 
 
 ## Concepts
@@ -21,18 +21,18 @@
 
 ### Closest articles
 
-* The removal of airborne SARS-CoV-2 and other microbial bioaerosols by air filtration on COVID-19 surge units - [LINK](article_conway-morris_removal_2021)
-* Real-world data show that filters clean COVID-causing virus from air - [LINK](article_thompson_real-world_2021)
-* Strengthening resilience: a priority shared by Health 2020 and - [LINK](article_who_strengthening_2017)
-* Challenges to Mitigating the Urban Health Burden of Mosquito-Borne Diseases in the Face of Climate Change - [LINK](article_ligsay_challenges_2021)
-* COVID-19 as a Harbinger of Transforming Infrastructure Resilience - [LINK](article_carvalhaes_covid-19_2020)
-* Vector-borne disease, climate change and urban design - [LINK](article_ogden_vector-borne_2016)
-* DfMA for rapid adaptive resilience and flexible infrastructure - [LINK](article_mott_macdonald_dfma_2020)
-* Guidelines for resilience systems analysis - [LINK](article_oecd_guidelines_2014)
+* Urban design attributes and resilience: COVID-19 evidence from New York City - [LINK](article_yang_urban_2021)
+* Association of built environment attributes with the spread of COVID-19 at its initial stage in China - [LINK](article_li_association_2021)
+* Urban planning after COVID-19 - [LINK](article_rtpi_urban_2021)
+* COVID-19 could be a seasonal illness with higher risk in winter: Reduced humidity linked to increased COVID-19 risk - [LINK](article_university_of_sydney_covid-19_2020)
+* Study of COVID-19 pandemic in London (UK) from urban context - [LINK](article_ghosh_study_2020)
+* Proximity and post-COVID-19 urban development: Reflections from Milan, Italy - [LINK](article_tricarico_proximity_2021)
+* Effects of temperature and humidity on the spread of COVID-19: A systematic review - [LINK](article_mecenas_effects_2020)
+* Mechanistic insights into the effect of humidity on airborne influenza virus survival, transmission and incidence - [LINK](article_marr_mechanistic_2019)
 
 
 ### Closest BPs
 
-* Blueprint: Installing high-efficiency air filters - [LINK](bp_11)
-* Blueprint: Mental health – Commit: Do something meaningfull - [LINK](bp_20)
-* Blueprint: Mental health – Belong: Do something with someone - [LINK](bp_19)
+* Blueprint: Monitoring of wastewater - [LINK](bp_21)
+* Blueprint: Resilience in staffing and skills training - [LINK](bp_12)
+* Blueprint: Architecture design - [LINK](bp_2)

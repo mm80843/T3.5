@@ -5,7 +5,7 @@
 
 ## Keywords
 
- * Cluster_6, andrew le, [ceo](keyword_ceo), clean staff, executive, executive director, general manager, [manager](keyword_manager), sébastien bazin, [teladoc](keyword_teladoc), [worker](keyword_worker)
+ * Cluster_6, andrew le, [ceo](keyword_ceo), clean staff, executive, executive director, [manager](keyword_manager), sébastien bazin, [teladoc](keyword_teladoc), [worker](keyword_worker)
 
 
 ## Concepts

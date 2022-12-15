@@ -24,11 +24,11 @@ A lack of knowledge can lead to forgetting or exclusion of important elements in
 
 ### Contextual situations
 
-Developers will be subject to upcoming regulations and norms related to health in assets, and before, to be able to demonstrate a best in class approach to the epidemiology risks.
-This can be included in the early phases of the project when submitting procurement documentations.
-Norms can be created about the information’s diffusion insight the building, and with the DT.
-Air circulation specification can be created and building will have to adapt themselves to it. 
-The entry and the commun party can be readapted in their functionality and in their dimension.
+Developers will be subject to forthcoming regulations and standards relating to health in facilities and must be able to demonstrate a world-class approach to epidemiological risk.
+This can be considered in the early stages of the project when submitting procurement documents.
+Standards for the dissemination of information about the building and DT can be produced.
+Specifications can be drawn up for air circulation, to which buildings must conform 
+The entrance and common spaces can be adapted in their functionality and size.
 
 ### Problems to solve
 
@@ -38,10 +38,10 @@ Tightly packed buildings, too much interaction in common areas, insufficient ven
 
 ### Value proposition
 
-The Blueprint VP is to provide basic elements that procurement teams can include in their procurement process.
-These would contain for example prescriptive information for suppliers and subcontractors.
-The risks of virus diffusion must be explained so that each actor understands the stakes of their integration.
-Examples of improvement solutions must be proposed afterwards
+The value proposition of the Blueprint is to provide basic elements that procurement teams can build into their procurement process.
+This includes, for example, binding information for suppliers and subcontractors.
+The risks of virus proliferation need to be explained so that everyone involved understands what is at stake in their integration.
+Examples of improvement solutions must then be proposed
 
 ### Capabilities
 
@@ -85,6 +85,18 @@ nan
 
 nan
 
+### Associated interventions
+
+???
+
+### Technological enablers
+
+nan
+
+### PartnerInCharge
+
+COWI
+
 
 
 
@@ -93,20 +105,19 @@ nan
 
 ### Closest articles
 
-* Architectural Design Drives the Biogeography of Indoor Bacterial Communities - [LINK](article_kembel_architectural_2014)
-*  - [LINK](article_dalessandro_covid-19_2020)
-* Biophilic design in architecture and its contributions to health, well-being, and sustainability: A critical review - [LINK](article_zhong_biophilic_2022)
-* Prophylactic Architecture: Formulating the Concept of Pandemic-Resilient Homes - [LINK](article_elrayies_prophylactic_2022)
-* How our homes impact our health: using a COVID-19 informed approach to examine urban apartment housing - [LINK](article_peters_how_2020)
-* The COVID-19 Impact on Flexible Office Space - [LINK](article_clifton_covid-19_2020)
-* How is COVID-19 Experience Transforming Sustainability Requirements of Residential Buildings? A Review - [LINK](article_tokazhanov_how_2020)
-* The Effect of Opening Windows on Air Change Rates in Two Homes - [LINK](article_howard-reed_effect_2002)
-* How Architecture Fails in Conditions of Crisis: a Discussion on the Value of Interior Design over the COVID-19 Outbreak - [LINK](article_rassia_how_2020)
-* Characterization and performance evaluation of a full-scale activated carbon-based dynamic botanical air filtration system for improving indoor air quality - [LINK](article_wang_characterization_2011)
+* Designing a Multi-Agent Occupant Simulation System to Support Facility Planning and Analysis for COVID-19 - [LINK](article_lee_designing_2021)
+* A comprehensive review on indoor air quality monitoring systems for enhanced public health - [LINK](article_saini_comprehensive_2020)
+* An Intelligent IEQ Monitoring and Feedback System: Development and Applications - [LINK](article_geng_intelligent_2021)
+* Continuous IEQ monitoring system: Context and development - [LINK](article_parkinson_continuous_2019)
+* Will a pandemic change building codes? - [LINK](article_rozgus_will_2020)
+* How will COVID-19 change future building regulations? - [LINK](article_hmc_architects_how_2020)
+* EXPOSED: An occupant exposure model for confined spaces to retrofit crowd models during a pandemic - [LINK](article_ronchi_exposed_2020)
+* Building occupancy estimation with people flow modeling in AnyLogic - [LINK](article_li_building_2016)
+* Designing Post COVID-19 Buildings: Approaches for Achieving Healthy Buildings - [LINK](article_navaratnam_designing_2022)
 
 
 ### Closest BPs
 
-* Blueprint: Building Adaptation during a pandemic - [LINK](bp_14)
-* Blueprint: Air Cleaning Plants - [LINK](bp_15)
 * Blueprint: Architecture design - [LINK](bp_2)
+* Blueprint: Building Adaptation during a pandemic - [LINK](bp_14)
+* Blueprint: Public places as information points - [LINK](bp_8)
