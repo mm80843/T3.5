@@ -3,7 +3,7 @@
 
 ## Details
 
-* Cluster: __Cluster_10__ (Cluster_10)
+* Cluster: __Cluster_9__ (Cluster_9)
 
 
 
@@ -15,12 +15,12 @@ Tender support at building stage
 
 ### Idea description
 
-With the COVID-19 a new agenda in the built environment has been introduced: Epidemic adaptation and mitigation. This leads to a new approach to building design and operation, where the current maturity level is low and relatively unexplored. The idea is to establish a template of tender elements in relation to epidemic adaptation and mitigation that building- or area owners can use in the procurement process to ensure a higher level of inclusion of epidemic adaptation and mitigation measures.
+The COVID -19 introduced a new agenda for the built environment: epidemic adaptation and mitigation. This leads to a new approach to building design and operation, the maturity of which is currently low and relatively unexplored. The idea is to create a template with RFP elements related to epidemic adaptation and mitigation that building or space owners can use in the procurement process to ensure a higher level of incorporation of epidemic adaptation and mitigation measures.
 
 ### Why?
 
-Tender documentation is needed by the project owner to express their needs and requirements to their supply chain. 
-A lack of knowledge can lead to forgetting or exclusion of important elements in the design stage and thereby focus or due to the lack of insight into proper measures.
+Tender documents are needed by the project owner to formulate its needs and requirements for its supply chain 
+Lack of knowledge can lead to important elements being forgotten or omitted at the design stage, resulting in a lack of focus or insight into appropriate actions.
 
 ### Contextual situations
 
@@ -32,9 +32,9 @@ The entrance and common spaces can be adapted in their functionality and size.
 
 ### Problems to solve
 
-A lack of knowledge can lead to forgetting or exclusion of important elements in the design stage . 
+Lack of knowledge can lead to forgetting or excluding important elements in the design phase 
 
-Tightly packed buildings, too much interaction in common areas, insufficient ventilation during epidemics… This kind of probleme have to be integrated even before the start of the project.
+Densely packed buildings, too much interaction in common areas, inadequate ventilation during epidemics... These types of problems must be considered before the project begins.
 
 ### Value proposition
 
@@ -45,13 +45,13 @@ Examples of improvement solutions must then be proposed
 
 ### Capabilities
 
-This builds on the regulation and procurement capabilities of the developers / purchaser of services.
+This is based on the regulatory and procurement capabilities of developers/buyers of services.
 
 ### Restrictions and limitations
 
-This basic procurement packs do not exist yet.
-This could be a further development for Probono.
-Budgetary issues are the main obstacle. The cheapest solution can take advantage of the safest one in terms of epidemiology in the absence of a binding standard
+These basic procurement packages do not yet exist.
+This could be another development for Probono.
+Budgetary issues are the main obstacle. In the absence of a mandatory standard, the cheapest solution may be the safest in terms of epidemiology
 
 ### Transmission
 
@@ -86,16 +86,22 @@ nan
 nan
 
 ### Associated interventions
-
+```
 ???
-
+```
 ### Technological enablers
-
+```
 nan
-
+```
 ### PartnerInCharge
 
 COWI
+
+
+### Interventions
+
+
+### Technologies
 
 
 
@@ -105,19 +111,19 @@ COWI
 
 ### Closest articles
 
-* Designing a Multi-Agent Occupant Simulation System to Support Facility Planning and Analysis for COVID-19 - [LINK](article_lee_designing_2021)
+* Characterization and performance evaluation of a full-scale activated carbon-based dynamic botanical air filtration system for improving indoor air quality - [LINK](article_wang_characterization_2011)
+* COVID-19 Higher Mortality in Chinese Regions With Chronic Exposure to Lower Air Quality - [LINK](article_pansini_covid-19_2021)
+* The Effect of Opening Windows on Air Change Rates in Two Homes - [LINK](article_howard-reed_effect_2002)
+* Air pollution linked with higher COVID-19 death rates - [LINK](article_harvard_th_chan_schoold_of_public_health_air_2020)
 * A comprehensive review on indoor air quality monitoring systems for enhanced public health - [LINK](article_saini_comprehensive_2020)
-* An Intelligent IEQ Monitoring and Feedback System: Development and Applications - [LINK](article_geng_intelligent_2021)
-* Continuous IEQ monitoring system: Context and development - [LINK](article_parkinson_continuous_2019)
-* Will a pandemic change building codes? - [LINK](article_rozgus_will_2020)
-* How will COVID-19 change future building regulations? - [LINK](article_hmc_architects_how_2020)
-* EXPOSED: An occupant exposure model for confined spaces to retrofit crowd models during a pandemic - [LINK](article_ronchi_exposed_2020)
-* Building occupancy estimation with people flow modeling in AnyLogic - [LINK](article_li_building_2016)
-* Designing Post COVID-19 Buildings: Approaches for Achieving Healthy Buildings - [LINK](article_navaratnam_designing_2022)
+* Designing a Multi-Agent Occupant Simulation System to Support Facility Planning and Analysis for COVID-19 - [LINK](article_lee_designing_2021)
+* Nurture to nature via COVID-19, a self-regenerating environmental strategy of environment in global context - [LINK](article_paital_nurture_2020)
+* Indirect effects of COVID-19 on the environment - [LINK](article_zambrano-monserrate_indirect_2020)
+* Scalable IoT Architecture for Monitoring IEQ Conditions in Public and Private Buildings - [LINK](article_calvo_scalable_2022)
 
 
 ### Closest BPs
 
-* Blueprint: Architecture design - [LINK](bp_2)
+* Blueprint: nan - [LINK](bp_34)
 * Blueprint: Building Adaptation during a pandemic - [LINK](bp_14)
-* Blueprint: Public places as information points - [LINK](bp_8)
+* Blueprint: Air Cleaning Plants - [LINK](bp_15)

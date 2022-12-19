@@ -3,7 +3,7 @@
 
 ## Details
 
-* Cluster: __Cluster_6__ (Cluster_6)
+* Cluster: __Cluster_9__ (Cluster_9)
 
 
 
@@ -29,7 +29,7 @@ The measure does not affect the original functionality or design of the product,
 
 ### Problems to solve
 
-Keeping contact points with a high rate of use clean of pathogen to reduce the transmission of virus.
+Keep contact points that are frequently used free of pathogens to reduce viral transmission.
 
 ### Value proposition
 
@@ -39,9 +39,9 @@ This could lead to an increase in user confidence as it reduces some of the imba
 
 ### Capabilities
 
-To implement this measure most cost-effective it would be crucial to analyse and find the key contact points for applying the measure. 
+In order to implement this measure in the most cost-effective way, it would be crucial to analyse and find the most important touch points for the application of the measure 
  
-The development stage of the measure would have to be determined and specified, which impacts capabilities.
+The level of development of the measure would need to be determined and established, which would impact capabilities.
 
 ### Restrictions and limitations
 
@@ -87,22 +87,32 @@ Possible allergic reactions
 Coating can peel off during use, potentially harming the environment
 
 ### Associated interventions
-
+```
 Main: PS5 - Selection of materials
 Other: 
 > PS3 - Wall and floors treatment
-
+```
 ### Technological enablers
-
+```
 Main: Antimicrobial coating
 Other: 
 > Data Analytics
 > BigData
-
+```
 ### PartnerInCharge
 
 CID
 
+
+### Interventions
+
+* Animal vectors control (PS5)
+* Wall and floors treatment (PS3)
+
+### Technologies
+
+* UV/UVGI/Irradation
+* Robots, Drones & Automated Vehicules
 
 
 
@@ -111,16 +121,15 @@ CID
 
 ### Closest articles
 
-* KIX to apply antimicrobial coating in its fight against COVID-19 - [LINK](article_kansai_airport_kix_2021)
-* Graphene-based nanomaterials as antimicrobial surface coatings: A parallel approach to restrain the expansion of COVID-19 - [LINK](article_ayub_graphene-based_2021)
-* Sars-CoV-2 (COVID-19) inactivation capability of copper-coated touch surface fabricated by cold-spray technology - [LINK](article_hutasoit_sars-cov-2_2020)
-* A Surface Coating that Rapidly Inactivates SARS-CoV-2 - [LINK](article_behzadinasab_surface_2020)
+* Emerging from Lockdown: CIBSE COVID-19 Guidance - [LINK](article_cibse_emerging_2020)
 * Touchless Retail: What the Rest of the World could learn from China’s new ways to shop - [LINK](article_capgemini_touchless_2020)
-* Real-world data show that filters clean COVID-causing virus from air - [LINK](article_thompson_real-world_2021)
-* A Continuously Active Antimicrobial Coating effective against Human Coronavirus 229E - [LINK](article_ikner_continuously_2020)
 * Retail Signage During the COVID-19 Pandemic - [LINK](article_mcneish_retail_2020)
-* How COVID-19 Could Accelerate the Adoption of New Retail Technologies and Enhance the (E-)Servicescape - [LINK](article_willems_how_2021)
 * A comprehensive review on indoor air quality monitoring systems for enhanced public health - [LINK](article_saini_comprehensive_2020)
+* Scalable IoT Architecture for Monitoring IEQ Conditions in Public and Private Buildings - [LINK](article_calvo_scalable_2022)
+* How COVID-19 Could Accelerate the Adoption of New Retail Technologies and Enhance the (E-)Servicescape - [LINK](article_willems_how_2021)
+* An Intelligent IEQ Monitoring and Feedback System: Development and Applications - [LINK](article_geng_intelligent_2021)
+* Continuous IEQ monitoring system: Context and development - [LINK](article_parkinson_continuous_2019)
+* Characterization and performance evaluation of a full-scale activated carbon-based dynamic botanical air filtration system for improving indoor air quality - [LINK](article_wang_characterization_2011)
 
 
 ### Closest BPs

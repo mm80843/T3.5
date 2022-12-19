@@ -3,7 +3,7 @@
 
 ## Details
 
-* Cluster: __Cluster_10__ (Cluster_10)
+* Cluster: __Cluster_9__ (Cluster_9)
 
 
 
@@ -15,16 +15,16 @@ Access limitation
 
 ### Idea description
 
-For this, the respect of certain rules of social distancing is essential to avoid any contamination while allowing the inhabitants to go out. Some solutions can be already thought as :
--	Limit the time spent in the area .. well implemented in the past
--	Control the number of people entering a certain area at a given time.
+Therefore, the observance of certain rules of social distancing is essential to avoid any contamination and allow residents to go out. Some solutions are already conceivable such as:
+-Limiting the duration of stay in the area ... well implemented in the past
+-Controlling the number of people entering a given area at a given time.
 
 ### Why?
 
-Controlling access is one of the key points to limit the spread of a virus. in particular because : 
--	By limiting access nodes/points we have a better overview of human circulation
--	We can better monitor the ins and outs
-We can have a safe and comfortable occupancy level
+Controlling access is one of the most important points in limiting the spread of a virus. especially because 
+-	By limiting access nodes/points, we have a better overview of human circulation
+-	We can better monitor entry and exit points
+We can achieve a safe and comfortable occupancy level
 
 ### Contextual situations
 
@@ -40,15 +40,15 @@ In the design phase, risk must also be included in the study.
 ### Problems to solve
 
 The measure avoids overcrowding
-It allows people who are in the building to maintain a distance which is totally immune to person-to-person transmissions
+It allows people staying in the building to maintain a distance that completely eliminates person-to-person transmission
 
 ### Value proposition
 
-Different solution can be created to limit access : 
--	Control over occupancy level
--	Control over critic parameters
--	Greater quality service
--	Greater planning
+To limit access, several solutions can be created 
+-	Control over the occupancy level
+-	Control over critical parameters
+-	Higher quality of service
+-	Better planning
 -	Diversification of customer service channels
 
 ### Capabilities
@@ -102,14 +102,14 @@ A digital twin could be used to visualise how to optimise the access limitation 
 Potentially high costs related to operating the checkpoint. Increased surveillance could lead to social consequences.
 
 ### Associated interventions
-
+```
 Main:  HJ2 - Occupancy control (eg separating at/risk contaminated population)
 Other: 
 > HJ1 - Optimize users flows to prevent contamination
 >HU1 - Social distancing
-
+```
 ### Technological enablers
-
+```
 Main: Automation
 Other: 
 > Data Analytics
@@ -119,11 +119,23 @@ Other:
 > AI/ML
 > Robots, Drones & Automated Vehicules
 > Teleworking
-
+```
 ### PartnerInCharge
 
 RES
 
+
+### Interventions
+
+* Occupancy control (eg separating at/risk contaminated population) (HJ2)
+* Optimize users flows to prevent contamination (HJ1)
+* Social distancing (HU1)
+
+### Technologies
+
+* Visualization
+* 5G
+* Data Analytics
 
 
 
@@ -133,18 +145,18 @@ RES
 ### Closest articles
 
 * Touchless Retail: What the Rest of the World could learn from China’s new ways to shop - [LINK](article_capgemini_touchless_2020)
-* Designing a Multi-Agent Occupant Simulation System to Support Facility Planning and Analysis for COVID-19 - [LINK](article_lee_designing_2021)
 * Retail Signage During the COVID-19 Pandemic - [LINK](article_mcneish_retail_2020)
-* Building occupancy estimation with people flow modeling in AnyLogic - [LINK](article_li_building_2016)
 * How COVID-19 Could Accelerate the Adoption of New Retail Technologies and Enhance the (E-)Servicescape - [LINK](article_willems_how_2021)
-* EXPOSED: An occupant exposure model for confined spaces to retrofit crowd models during a pandemic - [LINK](article_ronchi_exposed_2020)
-* KIX to apply antimicrobial coating in its fight against COVID-19 - [LINK](article_kansai_airport_kix_2021)
+* Designing a Multi-Agent Occupant Simulation System to Support Facility Planning and Analysis for COVID-19 - [LINK](article_lee_designing_2021)
+* COVID-19 Higher Mortality in Chinese Regions With Chronic Exposure to Lower Air Quality - [LINK](article_pansini_covid-19_2021)
+* Air pollution linked with higher COVID-19 death rates - [LINK](article_harvard_th_chan_schoold_of_public_health_air_2020)
 * A comprehensive review on indoor air quality monitoring systems for enhanced public health - [LINK](article_saini_comprehensive_2020)
-* An Intelligent IEQ Monitoring and Feedback System: Development and Applications - [LINK](article_geng_intelligent_2021)
+* Characterization and performance evaluation of a full-scale activated carbon-based dynamic botanical air filtration system for improving indoor air quality - [LINK](article_wang_characterization_2011)
+* The Effect of Opening Windows on Air Change Rates in Two Homes - [LINK](article_howard-reed_effect_2002)
 
 
 ### Closest BPs
 
-* Blueprint: One-way mobility circulation - [LINK](bp_4)
 * Blueprint: Checkpoint allocation for access limitation - [LINK](bp_6)
+* Blueprint: One-way mobility circulation - [LINK](bp_4)
 * Blueprint: Rotational Shift System - [LINK](bp_0)

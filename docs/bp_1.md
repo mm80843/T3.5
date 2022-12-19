@@ -3,7 +3,7 @@
 
 ## Details
 
-* Cluster: __Cluster_10__ (Cluster_10)
+* Cluster: __Cluster_9__ (Cluster_9)
 
 
 
@@ -31,7 +31,7 @@ This solution ensures a completely contact-free delivery of goods and thus compl
 
 ### Value proposition
 
-Smart Locker System is generally seen as a new way to attract new customers and/or visitors providing them with greater flexibility (in time and choice of delivery place) and more optimized delivery of their goods.
+The Smart Locker system is widely seen as a new way to attract new customers and/or visitors by offering them more flexibility (in terms of time and choice of delivery location) and streamlined delivery of their goods.
 
 ### Capabilities
 
@@ -39,13 +39,14 @@ A number of prerequisites are needed to implement this measure. These include th
 
 ### Restrictions and limitations
 
-A number of restrictions and limitations were identified for this specific measure: - Older adults’ perception of the technology as well as barriers to interaction.
-- Users' non-acceptance
+A number of limitations and constraints were identified for this specific measure:
+- Older adults' perceptions of technology and barriers to interaction.
+- Non-acceptance by users
 - Vandalism
 - System crash
-- Power cuts
-- Need for strong hygiene measures in the area where the lockers are located
-- Limited capacity if the user does not pick up the good quickly
+- Power outages
+- Need for strict sanitation measures in the area where the lockers are located
+- Limited capacity if the user does not pick up the goods quickly
 
 ### Transmission
 
@@ -80,15 +81,15 @@ Yes
 Partial job destruction
 
 ### Associated interventions
-
+```
 Main: MC1 - Minimize supply chain disruptions
 Other: 
 > PS2 - Touchless technologies
 > MC3 - Absorb resource shortages
 > MC4 - Absorb surge in service demande
-
+```
 ### Technological enablers
-
+```
 Main: New delivery systems
 Other: 
 > SmartPhones
@@ -96,11 +97,24 @@ Other:
 > 5G
 > IoT
 > Blockchain
-
+```
 ### PartnerInCharge
 
 MM
 
+
+### Interventions
+
+* Minimize supply chain disruptions (MC1)
+* Absorb resource shortages (MC3)
+* Absorb surge in service demande (MC4)
+* Touchless technologies (PS2)
+
+### Technologies
+
+* BigData
+* 5G
+* Robots, Drones & Automated Vehicules
 
 
 
@@ -112,16 +126,16 @@ MM
 * Touchless Retail: What the Rest of the World could learn from China’s new ways to shop - [LINK](article_capgemini_touchless_2020)
 * Retail Signage During the COVID-19 Pandemic - [LINK](article_mcneish_retail_2020)
 * How COVID-19 Could Accelerate the Adoption of New Retail Technologies and Enhance the (E-)Servicescape - [LINK](article_willems_how_2021)
-* KIX to apply antimicrobial coating in its fight against COVID-19 - [LINK](article_kansai_airport_kix_2021)
-* Building occupancy estimation with people flow modeling in AnyLogic - [LINK](article_li_building_2016)
 * Designing a Multi-Agent Occupant Simulation System to Support Facility Planning and Analysis for COVID-19 - [LINK](article_lee_designing_2021)
-* Graphene-based nanomaterials as antimicrobial surface coatings: A parallel approach to restrain the expansion of COVID-19 - [LINK](article_ayub_graphene-based_2021)
+*  - [LINK](article_huy-tran_design_2022)
+* DeepSOCIAL: Social Distancing Monitoring and Infection Risk Assessment in COVID-19 Pandemic - [LINK](article_rezaei_deepsocial_2020)
+* Towards the sustainable development of smart cities through mass video surveillance: A response to the COVID-19 pandemic - [LINK](article_shorfuzzaman_towards_2021)
 * EXPOSED: An occupant exposure model for confined spaces to retrofit crowd models during a pandemic - [LINK](article_ronchi_exposed_2020)
-* <scp>COVID</scp>             ‐19: Small and medium enterprises challenges and responses with creativity, innovation, and entrepreneurship - [LINK](article_thukral_covid19_2021)
+* An Automated System to Limit COVID-19 Using Facial Mask Detection in Smart City Network - [LINK](article_rahman_automated_2020)
 
 
 ### Closest BPs
 
 * Blueprint: Rotational Shift System - [LINK](bp_0)
-* Blueprint: One-way mobility circulation - [LINK](bp_4)
 * Blueprint: Access limitation - [LINK](bp_7)
+* Blueprint: Public places as information points - [LINK](bp_8)

@@ -3,7 +3,7 @@
 
 ## Details
 
-* Cluster: __Cluster_10__ (Cluster_10)
+* Cluster: __Cluster_9__ (Cluster_9)
 
 
 
@@ -27,7 +27,7 @@ This measure should be used in enclosed and busy areas such as offices (during w
 
 ### Problems to solve
 
-Smaller possibility of disease transmission due to the less over-crowded areas and interruptions of services due to an unavailable workforce.
+Reduced possibility of disease transmission due to less crowded areas and disruption of services due to unavailable labour.
 
 ### Value proposition
 
@@ -35,17 +35,17 @@ The implementation of this measure will allow control over occupancy and critica
 
 ### Capabilities
 
-Well-functioning of the Rotational Shift System lays on three main pillars – 1) a shift booking system for division of workforce into specific groups depending on the situation 2) enlightenment of the users through information campaigns about the logic behind this measure 3) a robust testing plan for a quick reaction time in case of infection in one of the groups
+The good functioning of the rotational shift system is based on three main pillars - 1) a shift booking system that assigns workers to specific groups depending on the situation 2) education of users through information campaigns about the logic of this measure 3) a robust testing plan for a quick response time in case of infection in one of the groups
 
 ### Restrictions and limitations
 
-A number of restrictions and limitations were identified for this specific measure:
-- Users  (staff mostly)' non-acceptance
-- Behavioural change
-- Risk of having to duplicate resources: business inefficiency might entail higher costs to final users to mitigate financial impact.
-- Need for greater planning including testing of users
+A number of limitations and constraints were identified for this specific measure:
+- Non-acceptance by users (mainly staff)
+- Change of behavioural patterns
+- Risk of duplication of resources: Inefficiencies in the organisation could result in higher costs to end users to mitigate financial impact.
+- Better planning needed, including testing for users
 - Misinformation
-- Slow reaction time
+- Slow response time
 - Number of users
 
 ### Transmission
@@ -81,15 +81,15 @@ Yes
 nan
 
 ### Associated interventions
-
+```
 Main: HJ3 - Shift controls (occupancy control of total users)
 Other: 
 > HJ2 - Occupancy control (eg separating at/risk contaminated population)
 > MC3 - Absorb resource shortages
 > MP3 - Early detection
-
+```
 ### Technological enablers
-
+```
 Main: Teleworking
 Other: 
 > Data Analytics
@@ -97,11 +97,25 @@ Other:
 > Smartphones
 > IoT
 > Blockchain
-
+```
 ### PartnerInCharge
 
 MM
 
+
+### Interventions
+
+* Occupancy control (eg separating at/risk contaminated population) (HJ2)
+* Shift controls (occupancy control of total users) (HJ3)
+* Early detection (MP3)
+* Absorb resource shortages (MC3)
+
+### Technologies
+
+* BigData
+* IoT
+* 5G
+* Data Analytics
 
 
 
@@ -113,16 +127,16 @@ MM
 * Touchless Retail: What the Rest of the World could learn from China’s new ways to shop - [LINK](article_capgemini_touchless_2020)
 * Retail Signage During the COVID-19 Pandemic - [LINK](article_mcneish_retail_2020)
 * How COVID-19 Could Accelerate the Adoption of New Retail Technologies and Enhance the (E-)Servicescape - [LINK](article_willems_how_2021)
-* KIX to apply antimicrobial coating in its fight against COVID-19 - [LINK](article_kansai_airport_kix_2021)
 * Designing a Multi-Agent Occupant Simulation System to Support Facility Planning and Analysis for COVID-19 - [LINK](article_lee_designing_2021)
-* Building occupancy estimation with people flow modeling in AnyLogic - [LINK](article_li_building_2016)
-* Graphene-based nanomaterials as antimicrobial surface coatings: A parallel approach to restrain the expansion of COVID-19 - [LINK](article_ayub_graphene-based_2021)
+* COVID-19 Higher Mortality in Chinese Regions With Chronic Exposure to Lower Air Quality - [LINK](article_pansini_covid-19_2021)
+* Air pollution linked with higher COVID-19 death rates - [LINK](article_harvard_th_chan_schoold_of_public_health_air_2020)
+* Nurture to nature via COVID-19, a self-regenerating environmental strategy of environment in global context - [LINK](article_paital_nurture_2020)
 * EXPOSED: An occupant exposure model for confined spaces to retrofit crowd models during a pandemic - [LINK](article_ronchi_exposed_2020)
-* Sars-CoV-2 (COVID-19) inactivation capability of copper-coated touch surface fabricated by cold-spray technology - [LINK](article_hutasoit_sars-cov-2_2020)
+* Indirect effects of COVID-19 on the environment - [LINK](article_zambrano-monserrate_indirect_2020)
 
 
 ### Closest BPs
 
 * Blueprint: Access limitation - [LINK](bp_7)
+* Blueprint: Public places as information points - [LINK](bp_8)
 * Blueprint: Checkpoint allocation for access limitation - [LINK](bp_6)
-* Blueprint: One-way mobility circulation - [LINK](bp_4)

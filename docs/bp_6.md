@@ -3,7 +3,7 @@
 
 ## Details
 
-* Cluster: __Cluster_10__ (Cluster_10)
+* Cluster: __Cluster_9__ (Cluster_9)
 
 
 
@@ -27,7 +27,7 @@ This measure could be integrated into the early design phase of a new building, 
 
 ### Problems to solve
 
-People who are in the building are healthy and comply with health safety measures adopted. Indoor air quality is always adequate to prevent virus transmission. Occupancy levels can be limited at a satisfying level when necessary to allow for social distances and lowering transmission risk.
+The people who are in the building are healthy and comply with the health protection measures taken. Indoor air quality is always adequate to prevent the transmission of viruses. Occupancy can be limited to satisfactory levels, if necessary, to allow social distances and reduce the risk of transmission.
 
 ### Value proposition
 
@@ -43,10 +43,10 @@ It would be important to analyse and identify the main points of interest for th
 
 ### Restrictions and limitations
 
-Implementation and operation of one or several checkpoints would be expensive. 
-Controls related to the users (such as body temperature, registration etc.) could be time-consuming and potentially create bottlenecks. This could further lead to reduced amount of user- or customer as well as decreased user satisfaction.  
+Implementing and operating one or more control points would be expensive 
+User-related checks (such as body temperature, registration, etc.) could be time-consuming and potentially cause bottlenecks. This could also lead to fewer users or customers, as well as reduced user satisfaction 
 False positives 
-Users non-acceptance of increased personal monitoring
+Non-acceptance of increased personal monitoring by the user
 
 ### Transmission
 
@@ -82,14 +82,14 @@ In operation of the checkpoints a DT could manage the occupancy levels, user inf
 -
 
 ### Associated interventions
-
+```
 Main: HJ1 - Optimize users flows to prevent contamination
 Other: 
 > HJ2 - Occupancy control (eg separating at/risk contaminated population)
 >HU1 - Social distancing
-
+```
 ### Technological enablers
-
+```
 Main: Automation
 Other: 
 > Data Analytics
@@ -97,11 +97,23 @@ Other:
 > Smartphones
 > IoT
 > AI/ML
-
+```
 ### PartnerInCharge
 
 RES
 
+
+### Interventions
+
+* Occupancy control (eg separating at/risk contaminated population) (HJ2)
+* Optimize users flows to prevent contamination (HJ1)
+* Social distancing (HU1)
+
+### Technologies
+
+* Visualization
+* 5G
+* Data Analytics
 
 
 
@@ -111,18 +123,18 @@ RES
 ### Closest articles
 
 * Touchless Retail: What the Rest of the World could learn from China’s new ways to shop - [LINK](article_capgemini_touchless_2020)
-* Designing a Multi-Agent Occupant Simulation System to Support Facility Planning and Analysis for COVID-19 - [LINK](article_lee_designing_2021)
 * Retail Signage During the COVID-19 Pandemic - [LINK](article_mcneish_retail_2020)
-* A comprehensive review on indoor air quality monitoring systems for enhanced public health - [LINK](article_saini_comprehensive_2020)
-* KIX to apply antimicrobial coating in its fight against COVID-19 - [LINK](article_kansai_airport_kix_2021)
 * How COVID-19 Could Accelerate the Adoption of New Retail Technologies and Enhance the (E-)Servicescape - [LINK](article_willems_how_2021)
-* Building occupancy estimation with people flow modeling in AnyLogic - [LINK](article_li_building_2016)
-* An Intelligent IEQ Monitoring and Feedback System: Development and Applications - [LINK](article_geng_intelligent_2021)
-* Graphene-based nanomaterials as antimicrobial surface coatings: A parallel approach to restrain the expansion of COVID-19 - [LINK](article_ayub_graphene-based_2021)
+* Designing a Multi-Agent Occupant Simulation System to Support Facility Planning and Analysis for COVID-19 - [LINK](article_lee_designing_2021)
+* COVID-19 Higher Mortality in Chinese Regions With Chronic Exposure to Lower Air Quality - [LINK](article_pansini_covid-19_2021)
+* Air pollution linked with higher COVID-19 death rates - [LINK](article_harvard_th_chan_schoold_of_public_health_air_2020)
+* A comprehensive review on indoor air quality monitoring systems for enhanced public health - [LINK](article_saini_comprehensive_2020)
+* Characterization and performance evaluation of a full-scale activated carbon-based dynamic botanical air filtration system for improving indoor air quality - [LINK](article_wang_characterization_2011)
+* The Effect of Opening Windows on Air Change Rates in Two Homes - [LINK](article_howard-reed_effect_2002)
 
 
 ### Closest BPs
 
 * Blueprint: Access limitation - [LINK](bp_7)
 * Blueprint: Public places as information points - [LINK](bp_8)
-* Blueprint: Rotational Shift System - [LINK](bp_0)
+* Blueprint: Good hand hygiene practice - [LINK](bp_16)

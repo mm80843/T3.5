@@ -3,7 +3,7 @@
 
 ## Details
 
-* Cluster: __Cluster_1__ (Cluster_1)
+* Cluster: __Cluster_9__ (Cluster_9)
 
 
 
@@ -31,7 +31,7 @@ The main problem solved by this measure is the fact that previous architectural 
 
 ### Value proposition
 
-Embedding resilient thinking into the architectural design will result in the mitigation of extra costs that might be endured during a pandemic crisis. Further, as there is a push toward more resilient infrastructure, incorporating this measure at the start of the project will most surely mean compliance with future norms that are on the horizon.
+Embedding a resilient concept into architectural design will have the effect of reducing the additional costs that could be incurred during a pandemic crisis. And as the trend is toward more resilient infrastructure, incorporating this measure at the beginning of the project will certainly result in meeting future standards on the horizon.
 
 ### Capabilities
 
@@ -39,7 +39,7 @@ In order to implement this measure most effectively, a good understanding of the
 
 ### Restrictions and limitations
 
-The main obstacle is that it is very difficult to apply these features to the existing designs and/or buildings. Another limitation might be the current state of technology such as ventilation systems, automatic doors and other contact-free features that came under deeper investigation only in recent years.
+The main obstacle is that it is very difficult to apply these features to existing designs and/or buildings. Another limitation could be the current state of the art, such as ventilation systems, automatic doors, and other non-contact features that have only been studied in more detail in recent years.
 
 ### Transmission
 
@@ -74,15 +74,15 @@ Yes
 Building of disease spread-prone buildings can be financially more exhaustive.
 
 ### Associated interventions
-
+```
 Main: HS1 - Introduce "multi-use" / modular designs
 Other: 
 > PS4 - Selection of materials
 > HM1 - Greenery
 > HM2 - Outdoor spaces
-
+```
 ### Technological enablers
-
+```
 Main: Design & Construction software (BIM)
 Other: 
 > SmartPhones
@@ -90,11 +90,24 @@ Other:
 > 5G
 > IoT
 > Blockchain
-
+```
 ### PartnerInCharge
 
 MM
 
+
+### Interventions
+
+* Introduce "multi-use" / modular designs (HS1)
+* Selection of materials (PS4)
+* Greenery (HM1)
+* Outdoor spaces (HM2)
+
+### Technologies
+
+* BigData
+* Visualization
+* Biophilic desing
 
 
 
@@ -103,19 +116,19 @@ MM
 
 ### Closest articles
 
-* Designing a Multi-Agent Occupant Simulation System to Support Facility Planning and Analysis for COVID-19 - [LINK](article_lee_designing_2021)
-* Will a pandemic change building codes? - [LINK](article_rozgus_will_2020)
-* How will COVID-19 change future building regulations? - [LINK](article_hmc_architects_how_2020)
+* A comprehensive review on indoor air quality monitoring systems for enhanced public health - [LINK](article_saini_comprehensive_2020)
+* Scalable IoT Architecture for Monitoring IEQ Conditions in Public and Private Buildings - [LINK](article_calvo_scalable_2022)
 * An Intelligent IEQ Monitoring and Feedback System: Development and Applications - [LINK](article_geng_intelligent_2021)
 * Continuous IEQ monitoring system: Context and development - [LINK](article_parkinson_continuous_2019)
-* A comprehensive review on indoor air quality monitoring systems for enhanced public health - [LINK](article_saini_comprehensive_2020)
-* EXPOSED: An occupant exposure model for confined spaces to retrofit crowd models during a pandemic - [LINK](article_ronchi_exposed_2020)
-* Mental health and COVID-19 - [LINK](article_who_mental_2021)
-* Building occupancy estimation with people flow modeling in AnyLogic - [LINK](article_li_building_2016)
+* Characterization and performance evaluation of a full-scale activated carbon-based dynamic botanical air filtration system for improving indoor air quality - [LINK](article_wang_characterization_2011)
+* The Effect of Opening Windows on Air Change Rates in Two Homes - [LINK](article_howard-reed_effect_2002)
+* Emerging from Lockdown: CIBSE COVID-19 Guidance - [LINK](article_cibse_emerging_2020)
+* COVID-19 Higher Mortality in Chinese Regions With Chronic Exposure to Lower Air Quality - [LINK](article_pansini_covid-19_2021)
+* Air pollution linked with higher COVID-19 death rates - [LINK](article_harvard_th_chan_schoold_of_public_health_air_2020)
 
 
 ### Closest BPs
 
 * Blueprint: Building Adaptation during a pandemic - [LINK](bp_14)
 * Blueprint: Tender support at building stage - [LINK](bp_9)
-* Blueprint: Public places as information points - [LINK](bp_8)
+* Blueprint: Reducing contact points - [LINK](bp_17)

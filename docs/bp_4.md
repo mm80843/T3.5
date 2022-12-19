@@ -3,7 +3,7 @@
 
 ## Details
 
-* Cluster: __Cluster_10__ (Cluster_10)
+* Cluster: __Cluster_9__ (Cluster_9)
 
 
 
@@ -41,11 +41,11 @@ OPERATION PHASE: Information on one-way paths implemented (large informative scr
 
 ### Restrictions and limitations
 
-A number of restrictions and limitations were identified for this blueprint:  A number of restrictions and limitations were identified for this blueprint: 
-It may be difficult to implement in small areas
-Users' non-acceptance 
-Problematic in forced eviction situations, for instance in case of a fire or a power cut
-Customers forced to lose time due to non-optimal paths.
+A number of limitations and constraints were identified for this specific measure:
+-It might be difficult to implement in small areas
+-Non-acceptance by users 
+-Problematic during forced evacuations, e.g., in the event of a fire or power outage
+-Customers lose time due to non-optimal routes.
 
 ### Transmission
 
@@ -82,14 +82,14 @@ Generates confusion among users
 Increases difficulty in evacuating the building in an emergency situation
 
 ### Associated interventions
-
+```
 Main: HJ1 - Optimize users flows to prevent contamination
 Other: 
 > HJ2 - Occupancy control (eg separating at/risk contaminated population)
 >HU1 - Social distancing
-
+```
 ### Technological enablers
-
+```
 Main: Automation
 Other: 
 > Data Analytics
@@ -97,11 +97,23 @@ Other:
 > Smartphones
 > IoT
 > AI/ML
-
+```
 ### PartnerInCharge
 
 CID
 
+
+### Interventions
+
+* Occupancy control (eg separating at/risk contaminated population) (HJ2)
+* Optimize users flows to prevent contamination (HJ1)
+* Social distancing (HU1)
+
+### Technologies
+
+* Visualization
+* 5G
+* Data Analytics
 
 
 
@@ -110,19 +122,18 @@ CID
 
 ### Closest articles
 
-* Designing a Multi-Agent Occupant Simulation System to Support Facility Planning and Analysis for COVID-19 - [LINK](article_lee_designing_2021)
 * Touchless Retail: What the Rest of the World could learn from China’s new ways to shop - [LINK](article_capgemini_touchless_2020)
 * Retail Signage During the COVID-19 Pandemic - [LINK](article_mcneish_retail_2020)
-* Building occupancy estimation with people flow modeling in AnyLogic - [LINK](article_li_building_2016)
-* EXPOSED: An occupant exposure model for confined spaces to retrofit crowd models during a pandemic - [LINK](article_ronchi_exposed_2020)
 * How COVID-19 Could Accelerate the Adoption of New Retail Technologies and Enhance the (E-)Servicescape - [LINK](article_willems_how_2021)
-* KIX to apply antimicrobial coating in its fight against COVID-19 - [LINK](article_kansai_airport_kix_2021)
-* COVID-ABS: An agent-based model of COVID-19 epidemic to simulate health and economic effects of social distancing interventions - [LINK](article_silva_covid-abs_2020)
+* Designing a Multi-Agent Occupant Simulation System to Support Facility Planning and Analysis for COVID-19 - [LINK](article_lee_designing_2021)
+* COVID-19 Higher Mortality in Chinese Regions With Chronic Exposure to Lower Air Quality - [LINK](article_pansini_covid-19_2021)
+* Air pollution linked with higher COVID-19 death rates - [LINK](article_harvard_th_chan_schoold_of_public_health_air_2020)
+* Emerging from Lockdown: CIBSE COVID-19 Guidance - [LINK](article_cibse_emerging_2020)
 * A comprehensive review on indoor air quality monitoring systems for enhanced public health - [LINK](article_saini_comprehensive_2020)
 
 
 ### Closest BPs
 
 * Blueprint: Access limitation - [LINK](bp_7)
-* Blueprint: Rotational Shift System - [LINK](bp_0)
 * Blueprint: Checkpoint allocation for access limitation - [LINK](bp_6)
+* Blueprint: Rotational Shift System - [LINK](bp_0)

@@ -3,7 +3,7 @@
 
 ## Details
 
-* Cluster: __Cluster_11__ (Cluster_11)
+* Cluster: __Cluster_2__ (Cluster_2)
 
 
 
@@ -23,15 +23,15 @@ According to several studies, there is a significant correlation between air qua
 
 ### Contextual situations
 
-This measure would be applied in confined and high occupancy areas such as offices (during working hours) or certain public buildings. The relative infection risk would be given by CO2 level.
+This measure would be used in enclosed, high-traffic areas such as offices (during working hours) or certain public buildings. The relative risk of infection would be due to CO2 levels.
 
 ### Problems to solve
 
-The continuous monitoring of parameters such as temperature, relative humidity, CO2… allows to guarantee the quality of the air while maintaining the environmental quality within an acceptable range. This eliminates the problem of energy waste due to overconsumption, which is typical in offices and public buildings.
+Continuous monitoring of parameters such as temperature, relative humidity, CO2... makes it possible to ensure the quality of the air and keep the environmental quality within an acceptable range. This eliminates the problem of energy waste due to excessive consumption, typical in offices and public buildings.
 
 ### Value proposition
 
-The proposed IEQ monitoring system allows us to detect uncomfortable situations and prevent the spread of the SARS-CoV-2 virus by means of different environmental magnitudes monitoring. Moreover, it leads the way for implementing smart control actions such as purifying the air when necessary.
+The proposed IEQ monitoring system enables us to detect unpleasant situations and prevent the spread of SARS-CoV-2 virus by monitoring various environmental variables. It also paves the way for the implementation of smart control measures such as air purification when necessary.
 
 ### Capabilities
 
@@ -39,7 +39,7 @@ The proposed architecture is based on several low-cost sensors for data acquisit
 
 ### Restrictions and limitations
 
-One possible limitation of the system may be the limitations of the HVAC system itself. As a consequence, indoor air quality may not be adequate despite the actions of the system.
+A potential limitation of the system may be the limitations of the HVAC system itself. As a result, indoor air quality may not be adequate despite the system's measures.
 
 ### Transmission
 
@@ -75,15 +75,15 @@ nan
 High equipment cost
 
 ### Associated interventions
-
+```
 Main: PA2 - Environmental parameters control
 Other: 
 > PA1 - Use of smart/innovative air quality controls technology
 > PA4 - Monitor and control indoor air quality
 > HM2 - Outdoor spaces
-
+```
 ### Technological enablers
-
+```
 Main: Air sensors
 Other: 
 > Data Analytics
@@ -91,11 +91,24 @@ Other:
 > 5G
 > IoT
 > Automation
-
+```
 ### PartnerInCharge
 
 CID
 
+
+### Interventions
+
+* Use of smart/innovative air quality controls technology (PA1)
+* Monitor and control indoor air quality (PA4)
+* Environmental parameters control (PA2)
+* Outdoor spaces (HM2)
+
+### Technologies
+
+* IoT
+* Biophilic desing
+* Data Analytics
 
 
 
@@ -105,19 +118,19 @@ CID
 ### Closest articles
 
 * A comprehensive review on indoor air quality monitoring systems for enhanced public health - [LINK](article_saini_comprehensive_2020)
-* An Intelligent IEQ Monitoring and Feedback System: Development and Applications - [LINK](article_geng_intelligent_2021)
 * Continuous IEQ monitoring system: Context and development - [LINK](article_parkinson_continuous_2019)
+* An Intelligent IEQ Monitoring and Feedback System: Development and Applications - [LINK](article_geng_intelligent_2021)
+* Scalable IoT Architecture for Monitoring IEQ Conditions in Public and Private Buildings - [LINK](article_calvo_scalable_2022)
 * Characterization and performance evaluation of a full-scale activated carbon-based dynamic botanical air filtration system for improving indoor air quality - [LINK](article_wang_characterization_2011)
-* The Effect of Opening Windows on Air Change Rates in Two Homes - [LINK](article_howard-reed_effect_2002)
-* Designing Post COVID-19 Buildings: Approaches for Achieving Healthy Buildings - [LINK](article_navaratnam_designing_2022)
 * Smart buildings: how a virus might lead to healthier buildings - Arup - [LINK](article_lam_smart_2021)
-* Will a pandemic change building codes? - [LINK](article_rozgus_will_2020)
-* Assessment of Building Automation and Control Systems in Danish Healthcare Facilities in the COVID-19 Era - [LINK](article_pedersen_assessment_2022)
-* The effect of occupant distribution on energy consumption and COVID-19 infection in buildings: A case study of university building - [LINK](article_mokhtari_effect_2021)
+* The Effect of Opening Windows on Air Change Rates in Two Homes - [LINK](article_howard-reed_effect_2002)
+* The effect of a redesigned floor plan, occupant density and the quality of indoor climate on the cost of space, productivity and sick leave in an office building–A case study - [LINK](article_saari_effect_2006)
+* Ten questions concerning occupant health in buildings during normal operations and extreme events including the COVID-19 pandemic - [LINK](article_awada_ten_2021)
+* Occupant health in buildings: Impact of the COVID-19 pandemic on the opinions of building professionals and implications on research - [LINK](article_awada_occupant_2022)
 
 
 ### Closest BPs
 
-* Blueprint: Air Cleaning Plants - [LINK](bp_15)
 * Blueprint: Building Adaptation during a pandemic - [LINK](bp_14)
+* Blueprint: Architecture design - [LINK](bp_2)
 * Blueprint: Tender support at building stage - [LINK](bp_9)

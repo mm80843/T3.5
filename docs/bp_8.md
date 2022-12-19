@@ -3,7 +3,7 @@
 
 ## Details
 
-* Cluster: __Cluster_10__ (Cluster_10)
+* Cluster: __Cluster_9__ (Cluster_9)
 
 
 
@@ -38,10 +38,10 @@ Communication between neighbors
 
 ### Problems to solve
 
-Find a way to make the information accessible for everyone.
+Find a way to make the information accessible to all.
 Misinformation
-Lack of confidence / trust
-Increase the communication and therefore contact between neighbors
+Lack of self-confidence/trust
+Improve communication and thus contact between neighbors
 
 ### Value proposition
 
@@ -51,17 +51,17 @@ Information via different channels.
 
 ### Capabilities
 
-Large screens and other augmented methods
-A kind of “Whatsapp” groups when the number of habitants of one building is not so important. 
-Mobile app. with alert and notifications with access to the DT to check information about air quality, and key informations.
+Large screens and other advanced methods
+Some kind of "Whatsapp" groups when the number of occupants in a building is not so important 
+Mobile app with alerts and notifications with access to the DT, to check information about air quality and important information.
 
 ### Restrictions and limitations
 
-People can ignore the messages. The message has to be clear about is importance. A specific graphic charter has to be created to report the information in the message
+People can ignore the news. The meaning of the message must be clear. A special graphic charter must be created to reflect the information in the message
 Repetitive messages
-Messages not adapted to all audiences
-Out of date information
-Educate residents on the use of the DT to limit the good conditions for the spread of the virus
+Messages that are not suitable for all audiences
+Outdated information
+Educate residents on the use of DT to limit good conditions for the spread of the virus
 
 ### Transmission
 
@@ -96,24 +96,35 @@ A digital twin of the neighbourhood could be interesting to visualise where to i
 -
 
 ### Associated interventions
-
+```
 Main:  MI3 - Raising awareness
 Other: 
 > MI1 - Prevent fake news
 >MI2 - Facilitate transparent communication
 >MI4 - Promote verified information
-
+```
 ### Technological enablers
-
+```
 Main: Digital signage 
 Other: 
 > 5G
 > Smartphones
-
+```
 ### PartnerInCharge
 
 RES
 
+
+### Interventions
+
+* Prevent fake news (MI1)
+* Facilitate transparent communication (MI2)
+* Raising awareness (MI3)
+* Promote verified information (MI4)
+
+### Technologies
+
+* 5G
 
 
 
@@ -122,19 +133,19 @@ RES
 
 ### Closest articles
 
-* Designing a Multi-Agent Occupant Simulation System to Support Facility Planning and Analysis for COVID-19 - [LINK](article_lee_designing_2021)
-* A comprehensive review on indoor air quality monitoring systems for enhanced public health - [LINK](article_saini_comprehensive_2020)
-* An Intelligent IEQ Monitoring and Feedback System: Development and Applications - [LINK](article_geng_intelligent_2021)
 * Touchless Retail: What the Rest of the World could learn from China’s new ways to shop - [LINK](article_capgemini_touchless_2020)
-* Continuous IEQ monitoring system: Context and development - [LINK](article_parkinson_continuous_2019)
 * Retail Signage During the COVID-19 Pandemic - [LINK](article_mcneish_retail_2020)
-* Building occupancy estimation with people flow modeling in AnyLogic - [LINK](article_li_building_2016)
-* Will a pandemic change building codes? - [LINK](article_rozgus_will_2020)
-* EXPOSED: An occupant exposure model for confined spaces to retrofit crowd models during a pandemic - [LINK](article_ronchi_exposed_2020)
+* How COVID-19 Could Accelerate the Adoption of New Retail Technologies and Enhance the (E-)Servicescape - [LINK](article_willems_how_2021)
+* Designing a Multi-Agent Occupant Simulation System to Support Facility Planning and Analysis for COVID-19 - [LINK](article_lee_designing_2021)
+* COVID-19 Higher Mortality in Chinese Regions With Chronic Exposure to Lower Air Quality - [LINK](article_pansini_covid-19_2021)
+* Air pollution linked with higher COVID-19 death rates - [LINK](article_harvard_th_chan_schoold_of_public_health_air_2020)
+* Characterization and performance evaluation of a full-scale activated carbon-based dynamic botanical air filtration system for improving indoor air quality - [LINK](article_wang_characterization_2011)
+* The Effect of Opening Windows on Air Change Rates in Two Homes - [LINK](article_howard-reed_effect_2002)
+* Nurture to nature via COVID-19, a self-regenerating environmental strategy of environment in global context - [LINK](article_paital_nurture_2020)
 
 
 ### Closest BPs
 
 * Blueprint: Checkpoint allocation for access limitation - [LINK](bp_6)
-* Blueprint: Access limitation - [LINK](bp_7)
 * Blueprint: Air Cleaning Plants - [LINK](bp_15)
+* Blueprint: Rotational Shift System - [LINK](bp_0)
