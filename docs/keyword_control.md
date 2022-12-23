@@ -1,17 +1,19 @@
 # Keyword: control
 
-* [malaria-vector](cluster_Cluster_12)
+* [air-sars](cluster_2)
+
+* [building-energy](cluster_9)
 
 
 ## Keywords
 
- * 5 g afford pandemic, adjunctive, air intake, air quality, alert, analysis, assay medium, automation, building automation, confounder, consumer choice, contagious disease, containment, [control](keyword_control), control automation, [coronavirus](keyword_coronavirus), costly, [covid 19 pandemic](keyword_covid_19_pandemic), [covid-19](keyword_covid-19), datum set, [de spatialization](keyword_de_spatialization), demand, [disease](keyword_disease), early containment, ebola outbreak, effect, effective, [employer](keyword_employer), [engineering](keyword_engineering), [epidemic](keyword_epidemic), epidemic growth, epidemic prevention, epidemic prevention and control, european centre for disease prevention and control, expert meeting, false positive, hazard, health management, hierarchy, hierarchy of control, hierarchy of hazard control, independent variable, [infection](keyword_infection), [infection control](keyword_infection_control), infection prevention, [infection prevention and control](keyword_infection_prevention_and_control), infectious, lab, [malaria](keyword_malaria), manage, management, [measure](keyword_measure), mem, [mitigation](keyword_mitigation), [monitor](keyword_monitor), monitoring and control, [mosquito](keyword_mosquito), negative control, no symptom, [pandemic](keyword_pandemic), pandemic control, pandemic prevention, [pandemic prevention and control](keyword_pandemic_prevention_and_control), physic, positive, predictive model, prevent, prevention, private datum, production planning, propaganda, [public health](keyword_public_health), public management, reliability, [risk](keyword_risk), risk management, robotic avatar, saf, sequence, smart device, [spread](keyword_spread), stability, [state](keyword_state), state fix effect, state specific trend, [surveillance](keyword_surveillance), system cleaner, [temperature](keyword_temperature), temperature feedback, test condition, the spread of the virus, [transmission](keyword_transmission), [ultraviolet](keyword_ultraviolet), under control laboratory condition, variable, [ventilation](keyword_ventilation), ventilation rate, vention, voice, vol 46 no 7
+ * 5 g afford pandemic, Cluster_9, [agent](keyword_agent), air intake, air quality, alert, [analysis](keyword_analysis), assay medium, automation, building automation, confounder, consumer choice, contagious disease, containment, [control](keyword_control), control automation, [coronavirus](keyword_coronavirus), costly, [covid 19 pandemic](keyword_covid_19_pandemic), [covid-19](keyword_covid-19), datum set, [de spatialization](keyword_de_spatialization), demand, [disease](keyword_disease), early containment, ebola outbreak, effect, effective, [employer](keyword_employer), [engineering](keyword_engineering), [epidemic](keyword_epidemic), epidemic growth, epidemic prevention, epidemic prevention and control, european centre for disease prevention and control, expert meeting, false positive, hazard, health management, hierarchy, hierarchy of control, hierarchy of hazard control, independent variable, [infection](keyword_infection), [infection control](keyword_infection_control), infection prevention, [infection prevention and control](keyword_infection_prevention_and_control), infectious, lab, [malaria](keyword_malaria), manage, [management](keyword_management), [measure](keyword_measure), mem, [mitigation](keyword_mitigation), [monitor](keyword_monitor), monitoring and control, [mosquito](keyword_mosquito), negative control, no symptom, [pandemic](keyword_pandemic), pandemic control, pandemic prevention, [pandemic prevention and control](keyword_pandemic_prevention_and_control), physic, positive, predictive model, prevent, [prevention](keyword_prevention), private datum, production planning, propaganda, public management, reliability, [risk](keyword_risk), risk management, robotic avatar, saf, sequence, smart device, [spread](keyword_spread), stability, [state](keyword_state), state fix effect, state specific trend, [surveillance](keyword_surveillance), system cleaner, [temperature](keyword_temperature), temperature feedback, test condition, the spread of the virus, [transmission](keyword_transmission), [ultraviolet](keyword_ultraviolet), under control laboratory condition, variable, [ventilation](keyword_ventilation), ventilation rate, vention, voice, vol 46 no 7
 
 
-## Concepts
 
- ![](imgs/keyword_control.jpg)
+## Mapping
 
+<img src="plotly/keyword_control.svg">
 
 
 ## Neighbours

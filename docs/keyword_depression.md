@@ -1,17 +1,17 @@
 # Keyword: depression
 
-* [health-mental](cluster_Cluster_15)
+* [health-mental](cluster_10)
 
 
 ## Keywords
 
- * Cluster_15, angst, [anxiety](keyword_anxiety), anxiety symp tom, before and during the covid 19 pandemic, ces d, concentration, concentration depression, covid 19 outbreak, [covid 19 pandemic](keyword_covid_19_pandemic), depress, [depression](keyword_depression), depressions, depressive symptom and associated factor, early wave of globalisation, [economic crisis](keyword_economic_crisis), emotion, emotional, feeling of loneliness, generalize anxiety disorder, greenness, live alone, [loneliness](keyword_loneliness), mood, negative mood, outcome, phq 8, problematikker, psychiatric illness, psychiatric symptom, ptsd, risk factor, severe acute respiratory syndrome, severe acute respiratory syndrome epidemic, [sign](keyword_sign), sign of depression, [stress](keyword_stress), stress relate disease, suicidal, suicide, [symptom](keyword_symptom), unemployed, vitamin d, work from home, workingperformance, workingperformance from home
+ * Cluster_10, angst, [anxiety](keyword_anxiety), anxiety symp tom, before and during the covid 19 pandemic, ces d, concentration, concentration depression, covid 19 outbreak, [covid 19 pandemic](keyword_covid_19_pandemic), depress, [depression](keyword_depression), depressions, depressive symptom and associated factor, early wave of globalisation, [economic crisis](keyword_economic_crisis), emotion, emotional, feeling of loneliness, generalize anxiety disorder, greenness, live alone, [loneliness](keyword_loneliness), mood, negative mood, outcome, phq 8, problematikker, psychiatric illness, psychiatric symptom, ptsd, risk factor, severe acute respiratory syndrome, severe acute respiratory syndrome epidemic, [sign](keyword_sign), sign of depression, [stress](keyword_stress), stress relate disease, suicidal, suicide, [symptom](keyword_symptom), unemployed, vitamin d, work from home, workingperformance, workingperformance from home
 
 
-## Concepts
 
- ![](imgs/keyword_depression.jpg)
+## Mapping
 
+<img src="plotly/keyword_depression.svg">
 
 
 ## Neighbours

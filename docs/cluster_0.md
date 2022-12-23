@@ -1,8 +1,8 @@
-# Cluster: __nd-icu__ (Cluster_0)
+# Cluster: __filter-air__ (Cluster_0)
 
 ## Keywords
 
- * [aerosol](keyword_aerosol), [air](keyword_air), [area](keyword_area), [doorknob](keyword_doorknob), [eid](keyword_eid), [floor](keyword_floor), [gw](keyword_gw), [huoshenshan](keyword_huoshenshan), [icu](keyword_icu), [indoor](keyword_indoor), [nd](keyword_nd), [outlet](keyword_outlet), [patient](keyword_patient), [positivity](keyword_positivity), [room](keyword_room), [sample](keyword_sample), [site](keyword_site), [staff](keyword_staff), [ward](keyword_ward)
+ * [air](keyword_air), [airborne](keyword_airborne), [blueprint](keyword_blueprint), [catch](keyword_catch), [cause](keyword_cause), [efficiency](keyword_efficiency), [enclose](keyword_enclose), [filter](keyword_filter), [high](keyword_high), [hospital](keyword_hospital), [maintenance](keyword_maintenance), [particle](keyword_particle), [pathogen](keyword_pathogen), [permanent](keyword_permanent), [regular](keyword_regular), [remove](keyword_remove), [risk](keyword_risk), [virus](keyword_virus), [ward](keyword_ward)
 
 
 
@@ -14,4 +14,5 @@
 
 # Linked articles
 
-* Aerosol and Surface Distribution of Severe Acute Respiratory Syndrome Coronavirus 2 in Hospital Wards, Wuhan, China, 2020 - [LINK](article_guo_aerosol_2020)
+* Blueprint: Installing high-efficiency air filters - [LINK](bp_11)
+* Real-world data show that filters clean COVID-causing virus from air - [LINK](article_thompson_real-world_2021)

@@ -1,6 +1,6 @@
 # Keyword: country
 
-* [economic-health](cluster_Cluster_9)
+* [construction-pandemic](cluster_1)
 
 
 ## Keywords
@@ -8,10 +8,10 @@
  * [asean](keyword_asean), between country, [brazil](keyword_brazil), [bueno air](keyword_bueno_air), [china](keyword_china), [city](keyword_city), [community](keyword_community), continent, [country](keyword_country), [croatia](keyword_croatia), death, debt distress, debt relief, default, demography, [denmark](keyword_denmark), dependent, early retirement scheme, [economy](keyword_economy), equator, [europe](keyword_europe), european, [european union](keyword_european_union), [finland](keyword_finland), [germany](keyword_germany), [government](keyword_government), gross domestic product, healthcare sector, highly vulnerable population, history, housing improvement, housing stock, income, income group, income level, [india](keyword_india), [indonesia](keyword_indonesia), [industry](keyword_industry), inequality, [internet](keyword_internet), intervention, israel, [italy](keyword_italy), [japan](keyword_japan), jurisdiction, language, latitude, legislation, [lockdown](keyword_lockdown), low income, low income country, macroeconomic climate, macroeconomic variable, mandatory practice, measurement type, mediterranean, mexico, middle income, middle income country, minimum standard, ministry for health, municipality, [netherland](keyword_netherland), norway, [oecd](keyword_oecd), pa, [pandemic](keyword_pandemic), [peru](keyword_peru), philippine, [policy](keyword_policy), policymaker, [population](keyword_population), [portugal](keyword_portugal), protective measure, public authority, region, region of the world, regulator, restriction and limitation, scandinavia, [sector](keyword_sector), significant variation, singapore, [slovenia](keyword_slovenia), [society](keyword_society), [spain](keyword_spain), [state](keyword_state), [sweden](keyword_sweden), territory, thailand, the uk, [tourism](keyword_tourism), transition, turkey, [united kingdom](keyword_united_kingdom), [united nations](keyword_united_nations), [united states](keyword_united_states), [usa](keyword_usa), welfare state, zambia
 
 
-## Concepts
 
- ![](imgs/keyword_country.jpg)
+## Mapping
 
+<img src="plotly/keyword_country.svg">
 
 
 ## Neighbours

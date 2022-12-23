@@ -1,6 +1,6 @@
 # Keyword: distance
 
-* [sign-retailer](cluster_Cluster_8)
+* [detection-object](cluster_8)
 
 
 ## Keywords
@@ -8,10 +8,10 @@
  * Cluster_8, affect, average profile, betweenness, [bound box](keyword_bound_box), chi square distance, [city](keyword_city), contact transmission, contagion, couple, couple member, [covid-19](keyword_covid-19), dangerous, diameter, direction, disease transmission, [distance](keyword_distance), distance from the origin of the graphic, distances, distancing, euclidean, far, friction, friction of distance, [horizon](keyword_horizon), inter pedestrian distance calculation, inter personal, [internet](keyword_internet), kilometer, manufactory, measure of betweenness, measurement, meter, metric, midpoint, minimize contact, online learning, [people](keyword_people), person, perspective effect, probability density, probability of contagion, protective, proximate, proximity, [psychological](keyword_psychological), quarantine, quarantine order, r2, remote learning, respiratory droplet, [route](keyword_route), [safety](keyword_safety), separation, [social](keyword_social), temporal, threshold, time gap, topic_term distance, [transmission](keyword_transmission), transmission distance
 
 
-## Concepts
 
- ![](imgs/keyword_distance.jpg)
+## Mapping
 
+<img src="plotly/keyword_distance.svg">
 
 
 ## Neighbours

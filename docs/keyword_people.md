@@ -1,19 +1,21 @@
 # Keyword: people
 
-* [urban-city](cluster_Cluster_10)
+* [urban-city](cluster_6)
 
-* [gbn-measure](cluster_Cluster_13)
+* [housing-space](cluster_8)
+
+* [detection-object](cluster_14)
 
 
 ## Keywords
 
- * Cluster_10, Cluster_13, activity, animal, behaviour, [build](keyword_build), [build environment](keyword_build_environment), car, care, [city](keyword_city), [community](keyword_community), competition, concrete, [country](keyword_country), couple, [distance](keyword_distance), [economy](keyword_economy), [ecosystem](keyword_ecosystem), expense, firm, first nation, good, [government](keyword_government), group, [health](keyword_health), [home](keyword_home), institution, [interaction](keyword_interaction), internalise, lifestyle, livelihood, low income job, [nature](keyword_nature), [neighborhood](keyword_neighborhood), nursing home, [office](keyword_office), [organisation](keyword_organisation), [pandemic](keyword_pandemic), pandemic process, [people](keyword_people), peoples, [physical](keyword_physical), place, plague, plague and people, posture, prime minister, [public place](keyword_public_place), quarantine, resource, safe place, socio cultural, tall building, [transport](keyword_transport), transportation, trust, urbanization, vehicle, [world](keyword_world)
+ * Cluster_14, Cluster_6, Cluster_8, activity, animal, behaviour, [build](keyword_build), [build environment](keyword_build_environment), car, care, [city](keyword_city), [community](keyword_community), competition, concrete, [country](keyword_country), couple, [distance](keyword_distance), [economy](keyword_economy), [ecosystem](keyword_ecosystem), expense, firm, first nation, good, [government](keyword_government), group, [health](keyword_health), [home](keyword_home), institution, [interaction](keyword_interaction), internalise, lifestyle, livelihood, low income job, [nature](keyword_nature), [neighborhood](keyword_neighborhood), nursing home, [office](keyword_office), [organisation](keyword_organisation), [pandemic](keyword_pandemic), pandemic process, [people](keyword_people), peoples, [physical](keyword_physical), [place](keyword_place), plague, plague and people, posture, prime minister, [public place](keyword_public_place), quarantine, resource, safe place, socio cultural, tall building, [transport](keyword_transport), transportation, trust, urbanization, vehicle, world
 
 
-## Concepts
 
- ![](imgs/keyword_people.jpg)
+## Mapping
 
+<img src="plotly/keyword_people.svg">
 
 
 ## Neighbours

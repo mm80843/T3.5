@@ -1,6 +1,6 @@
 # Keyword: gbn
 
-* [gbn-measure](cluster_Cluster_10)
+* [health-mental](cluster_10)
 
 
 ## Keywords
@@ -8,10 +8,10 @@
  * Cluster_10, [gbn](keyword_gbn)
 
 
-## Concepts
 
- ![](imgs/keyword_gbn.jpg)
+## Mapping
 
+<img src="plotly/keyword_gbn.svg">
 
 
 ## Neighbours

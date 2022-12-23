@@ -1,21 +1,17 @@
 # Keyword: business
 
-* [construction-resilience](cluster_Cluster_5)
-
-* [airport-coating](cluster_Cluster_6)
-
-* [sign-retailer](cluster_Cluster_8)
+* [construction-pandemic](cluster_1)
 
 
 ## Keywords
 
- * adaptation strategy, angel building, at t, [bank](keyword_bank), banking, [business](keyword_business), business community, business model, business owner, business strategy, [company](keyword_company), competitor, [construction](keyword_construction), consulting service, [consumer](keyword_consumer), consumer behavior, consumer segment, [contract](keyword_contract), coronavirus lockdown in australia, culture, [customer](keyword_customer), datum collection, [economic](keyword_economic), economic activity, [employer](keyword_employer), enterprise, [entrepreneur](keyword_entrepreneur), ethic, [europe](keyword_europe), family, finance, financial, food truck, founder, [government](keyword_government), grocery store, guest experience, hair salon, health and safety risk, [hospital](keyword_hospital), hospitality, [household](keyword_household), individual, [indoor air quality](keyword_indoor_air_quality), [industry](keyword_industry), information management, [infrastructure](keyword_infrastructure), [innovation](keyword_innovation), insider, interest, investment, live space, livelihood, loan, manage project, management, [manager](keyword_manager), [manufacture](keyword_manufacture), market, medium, message, online retailer, [organisation](keyword_organisation), organization, people intensive service, personal, [perspective](keyword_perspective), persuasive communication, [policy](keyword_policy), [population](keyword_population), process, [productivity](keyword_productivity), [project](keyword_project), public sector, rapport, reputation, [research](keyword_research), [resilience](keyword_resilience), restaurant, restaurant association, restaurateur, [retail](keyword_retail), retail store, revenue, [school](keyword_school), service industry, servicescape, [sign](keyword_sign), small business, [sme](keyword_sme), [society](keyword_society), start up, [startup](keyword_startup), strategy, [supply chain](keyword_supply_chain), [technology](keyword_technology), woman lead business, woman own business, [workplace](keyword_workplace), world economy
+ * at t, [bank](keyword_bank), banking, bbc, [business](keyword_business), business community, business contact, business model, business owner, business strategy, citizen, [company](keyword_company), competitor, [construction](keyword_construction), consulting service, [consumer](keyword_consumer), consumer behavior, consumer segment, [contract](keyword_contract), culture, [customer](keyword_customer), datum collection, [economic](keyword_economic), economic activity, [employer](keyword_employer), enterprise, [entrepreneur](keyword_entrepreneur), ethic, [europe](keyword_europe), family, finance, financial, food truck, founder, [government](keyword_government), grocery store, guest experience, hair salon, health and safety risk, [hospital](keyword_hospital), hospitality, [household](keyword_household), individual, [indoor air quality](keyword_indoor_air_quality), [industry](keyword_industry), information management, [infrastructure](keyword_infrastructure), [innovation](keyword_innovation), insider, interest, investment, live space, livelihood, loan, manage project, [management](keyword_management), [manager](keyword_manager), [manufacture](keyword_manufacture), market, [medium](keyword_medium), message, online retailer, [organisation](keyword_organisation), organization, output, personal, [perspective](keyword_perspective), persuasive communication, [policy](keyword_policy), [population](keyword_population), [process](keyword_process), [productivity](keyword_productivity), [project](keyword_project), public sector, rapport, reputation, [research](keyword_research), [resilience](keyword_resilience), restaurant, restaurant association, restaurateur, retail, retail store, revenue, [risk](keyword_risk), [school](keyword_school), service industry, servicescape, [sign](keyword_sign), small business, [sme](keyword_sme), [society](keyword_society), [startup](keyword_startup), strategy, [supply chain](keyword_supply_chain), sustainable business, [technology](keyword_technology), woman own business, [workplace](keyword_workplace), world economy
 
 
-## Concepts
 
- ![](imgs/keyword_business.jpg)
+## Mapping
 
+<img src="plotly/keyword_business.svg">
 
 
 ## Neighbours
@@ -31,7 +27,7 @@
 * Startups in times of crisis – A rapid response to the COVID-19 pandemic - [LINK](article_kuckertz_startups_2020)
 * COVID-ABS: An agent-based model of COVID-19 epidemic to simulate health and economic effects of social distancing interventions - [LINK](article_silva_covid-abs_2020)
 * Retail Signage During the COVID-19 Pandemic - [LINK](article_mcneish_retail_2020)
-* Urban planning after COVID-19 - [LINK](article_rtpi_urban_2021)
+* Mechanisms for addressing the impact of COVID-19 on infrastructure projects - [LINK](article_king_mechanisms_2021)
 
 
 ### Closest BPs

@@ -1,8 +1,8 @@
-# Cluster: __sign-retailer__ (Cluster_8)
+# Cluster: __detection-object__ (Cluster_8)
 
 ## Keywords
 
- * [business](keyword_business), [customer](keyword_customer), [distance](keyword_distance), [font](keyword_font), [grocery](keyword_grocery), [informal](keyword_informal), [information](keyword_information), [interdisciplinary](keyword_interdisciplinary), [location](keyword_location), [ontario](keyword_ontario), [paper](keyword_paper), [photograph](keyword_photograph), [printer](keyword_printer), [retail](keyword_retail), [retailer](keyword_retailer), [sign](keyword_sign), [signage](keyword_signage), [social](keyword_social), [store](keyword_store), [tape](keyword_tape)
+ * [box](keyword_box), [camera](keyword_camera), [computer](keyword_computer), [dataset](keyword_dataset), [deep](keyword_deep), [detection](keyword_detection), [detector](keyword_detector), [distance](keyword_distance), [distance](keyword_distance), [image](keyword_image), [model](keyword_model), [object](keyword_object), [pedestrian](keyword_pedestrian), [people](keyword_people), [precision](keyword_precision), [proceeding](keyword_proceeding), [social](keyword_social), [video](keyword_video), [violation](keyword_violation), [vision](keyword_vision)
 
 
 
@@ -14,4 +14,5 @@
 
 # Linked articles
 
-* Retail Signage During the COVID-19 Pandemic - [LINK](article_mcneish_retail_2020)
+* DeepSOCIAL: Social Distancing Monitoring and Infection Risk Assessment in COVID-19 Pandemic - [LINK](article_rezaei_deepsocial_2020)
+* Towards the sustainable development of smart cities through mass video surveillance: A response to the COVID-19 pandemic - [LINK](article_shorfuzzaman_towards_2021)

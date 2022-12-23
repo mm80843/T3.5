@@ -1,21 +1,21 @@
 # Keyword: case
 
-* [health-patient](cluster_Cluster_2)
+* [malaria-vector](cluster_3)
 
-* [wastewater-sars](cluster_Cluster_12)
+* [china-case](cluster_5)
 
-* [malaria-vector](cluster_Cluster_14)
+* [respiratory-infection](cluster_13)
 
 
 ## Keywords
 
- * 146 ö, Cluster_12, Cluster_14, Cluster_2, ap news, asthma, asymptomatic, budapest, [build](keyword_build), [case](keyword_case), case 06, [case building](keyword_case_building), case for space, case for the disease, case report, case study, case with the highest infected people, case with the low energy con sumption, case with the low energy consumption, cases, [china](keyword_china), china 45, confirm infection, contact, [coronavirus](keyword_coronavirus), covid 19 virus, [covid-19](keyword_covid-19), death, diagnostic test, [disease](keyword_disease), domestic violence, drop, dropped locations, dropping locations, energy con sumption, [energy consumption](keyword_energy_consumption), eple, fat supply chain, fatality, fn, fps, globe, greece, high energy consumption, highest infected people, hospitalisation, [icu](keyword_icu), [india](keyword_india), [infection](keyword_infection), infectious, [infectious disease](keyword_infectious_disease), infectious period, italian, low energy consumption, mediation, new variants, number need to treat, outdoor transmission, p valuea, [patient](keyword_patient), plemente, [population](keyword_population), positive, presentation of case, probability, quarantine, [recovery](keyword_recovery), scenario, sick building syndrome, significant, [simulation](keyword_simulation), [space](keyword_space), [spain](keyword_spain), strategy, [supply chain](keyword_supply_chain), surgeon, test, [virus](keyword_virus), white
+ * 146 ö, Cluster_13, Cluster_3, Cluster_5, ap news, asthma, asymptomatic, budapest, [build](keyword_build), [case](keyword_case), case 06, [case building](keyword_case_building), case for space, case for the disease, case report, case study, case with the highest infected people, case with the low energy con sumption, case with the low energy consumption, cases, [china](keyword_china), china 45, confirm infection, contact, [coronavirus](keyword_coronavirus), covid 19 virus, [covid-19](keyword_covid-19), death, diagnostic test, [disease](keyword_disease), domestic violence, drop, dropped locations, dropping locations, energy con sumption, [energy consumption](keyword_energy_consumption), eple, fat supply chain, fatality, fn, fps, globe, [greece](keyword_greece), high energy consumption, highest infected people, hospitalisation, [icu](keyword_icu), [india](keyword_india), [infection](keyword_infection), infectious, [infectious disease](keyword_infectious_disease), infectious period, italian, low energy consumption, mediation, new variants, number need to treat, outdoor transmission, p valuea, [patient](keyword_patient), plemente, [population](keyword_population), positive, presentation of case, probability, quarantine, [recovery](keyword_recovery), scenario, sick building syndrome, significant, [simulation](keyword_simulation), [space](keyword_space), [spain](keyword_spain), strategy, [supply chain](keyword_supply_chain), surgeon, test, [virus](keyword_virus), white
 
 
-## Concepts
 
- ![](imgs/keyword_case.jpg)
+## Mapping
 
+<img src="plotly/keyword_case.svg">
 
 
 ## Neighbours

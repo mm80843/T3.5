@@ -1,19 +1,19 @@
 # Keyword: crisis
 
-* [economic-health](cluster_Cluster_5)
+* [construction-pandemic](cluster_1)
 
-* [construction-resilience](cluster_Cluster_9)
+* [resilience-infrastructure](cluster_11)
 
 
 ## Keywords
 
- * adaptive strategy, [bank](keyword_bank), bricolage, business as usual, business process, calm, cascade, cascade one, cash transfer, cashflow, cgap, clean energy, [climate change](keyword_climate_change), climate policy, climate policy after the crisis, communication, [construction industry](keyword_construction_industry), construction technology, [coronavirus](keyword_coronavirus), corporate, [covid 19 crisis](keyword_covid_19_crisis), [covid 19 pandemic](keyword_covid_19_pandemic), covid 19 recession, [covid-19](keyword_covid-19), [crisis](keyword_crisis), crisis management, crisis response, current, dirt on our hand, disaster, disruption, [economic crisis](keyword_economic_crisis), economic growth, economic risk, economic stability, [economy](keyword_economy), emergency, [entrepreneurship](keyword_entrepreneurship), firm credit in the euro area, frontline worker, future one, good way out, government lending, greece, greek, [green space](keyword_green_space), ground theory, health emergency, health issue, [healthcare system](keyword_healthcare_system), high unemployment, humanitarian crisis, [impact](keyword_impact), isolation impose, long run, [malaysia](keyword_malaysia), medium, mitigate effect, morph, [need](keyword_need), nonperforme loan, normality, opportunity, [outbreak](keyword_outbreak), output growth, pakistani mfis and regulator, [pandemic](keyword_pandemic), pandemic crisis, pandemic in india, pandemic situation, period of crisis, [plan](keyword_plan), policy response, post covid 19, post covid world, post crisis scenario, pre crisis, pre preparation, [public health](keyword_public_health), public health crisis, public response, rapid response, recession, [resilience](keyword_resilience), response to the covid 19 crisis, [risk perception](keyword_risk_perception), run away from crisis, scarcity of resource, scientific advice, [shock](keyword_shock), short term, solidarity, strategic response, structuralchange, the crisis, the pandemic, uncertainty, [urban governance](keyword_urban_governance), well prepare for crisis, what crisis
+ * adaptive strategy, [bank](keyword_bank), bricolage, business as usual, business process, calm, cascade, cascade one, cash transfer, cashflow, cgap, clean energy, [climate change](keyword_climate_change), climate policy, climate policy after the crisis, communication, [construction industry](keyword_construction_industry), construction technology, [coronavirus](keyword_coronavirus), corporate, [covid 19 crisis](keyword_covid_19_crisis), [covid 19 pandemic](keyword_covid_19_pandemic), covid 19 recession, [covid-19](keyword_covid-19), [crisis](keyword_crisis), crisis management, crisis response, current, dirt on our hand, disaster, disruption, [economic crisis](keyword_economic_crisis), economic growth, economic risk, economic stability, [economy](keyword_economy), emergency, [entrepreneurship](keyword_entrepreneurship), firm credit in the euro area, frontline worker, future one, good way out, government lending, [greece](keyword_greece), greek, [green space](keyword_green_space), ground theory, health emergency, health issue, [healthcare system](keyword_healthcare_system), high unemployment, humanitarian crisis, [impact](keyword_impact), isolation impose, long run, [malaysia](keyword_malaysia), [medium](keyword_medium), mitigate effect, morph, [need](keyword_need), nonperforme loan, normality, opportunity, [outbreak](keyword_outbreak), output growth, pakistani mfis and regulator, [pandemic](keyword_pandemic), pandemic crisis, pandemic in india, pandemic situation, period of crisis, [plan](keyword_plan), policy response, post covid 19, post covid world, post crisis scenario, pre crisis, pre preparation, [public health](keyword_public_health), public health crisis, public response, rapid response, recession, [resilience](keyword_resilience), response to the covid 19 crisis, [risk perception](keyword_risk_perception), run away from crisis, scarcity of resource, scientific advice, [shock](keyword_shock), short term, solidarity, strategic response, structuralchange, the crisis, the pandemic, uncertainty, [urban governance](keyword_urban_governance), well prepare for crisis, what crisis
 
 
-## Concepts
 
- ![](imgs/keyword_crisis.jpg)
+## Mapping
 
+<img src="plotly/keyword_crisis.svg">
 
 
 ## Neighbours

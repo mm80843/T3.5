@@ -2,7 +2,7 @@
 
 * Source: [10.1080/10473289.2002.10470775](https://doi.org/10.1080/10473289.2002.10470775)
 * Year: 2002
-* Cluster: [air-ventilation](cluster_4)
+* Cluster: [air-sars](cluster_9)
 
 
 
@@ -13,7 +13,7 @@
 
 ## Concepts
 
- ![](imgs/article_howard-reed_effect_2002.jpg)
+ ![](plotly/article_howard-reed_effect_2002.svg)
 
 
 
@@ -22,19 +22,19 @@
 ### Closest articles
 
 * Characterization and performance evaluation of a full-scale activated carbon-based dynamic botanical air filtration system for improving indoor air quality - [LINK](article_wang_characterization_2011)
-* A comprehensive review on indoor air quality monitoring systems for enhanced public health - [LINK](article_saini_comprehensive_2020)
-* Continuous IEQ monitoring system: Context and development - [LINK](article_parkinson_continuous_2019)
-* An Intelligent IEQ Monitoring and Feedback System: Development and Applications - [LINK](article_geng_intelligent_2021)
-* Toilets dominate environmental detection of SARS-CoV-2 virus in a hospital - [LINK](article_ding_toilets_2020)
-* Air, Surface Environmental, and Personal Protective Equipment Contamination by Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) From a Symptomatic Patient - [LINK](article_ong_air_2020)
-* Aerosol and Surface Distribution of Severe Acute Respiratory Syndrome Coronavirus 2 in Hospital Wards, Wuhan, China, 2020 - [LINK](article_guo_aerosol_2020)
-* SARS-CoV-2 RNA detection of hospital isolation wards hygiene monitoring during the Coronavirus Disease 2019 outbreak in a Chinese hospital - [LINK](article_wang_sars-cov-2_2020)
-* Real-world data show that filters clean COVID-causing virus from air - [LINK](article_thompson_real-world_2021)
-* The effect of occupant distribution on energy consumption and COVID-19 infection in buildings: A case study of university building - [LINK](article_mokhtari_effect_2021)
+* The effect of a redesigned floor plan, occupant density and the quality of indoor climate on the cost of space, productivity and sick leave in an office building–A case study - [LINK](article_saari_effect_2006)
+* COVID-19 Higher Mortality in Chinese Regions With Chronic Exposure to Lower Air Quality - [LINK](article_pansini_covid-19_2021)
+* Air pollution linked with higher COVID-19 death rates - [LINK](article_harvard_th_chan_schoold_of_public_health_air_2020)
+* Current knowledge of COVID-19: Advances, challenges and future perspectives - [LINK](article_wu_current_2021)
+* Physical interventions to interrupt or reduce the spread of respiratory viruses: systematic review - [LINK](article_jefferson_physical_2008)
+* KIX to apply antimicrobial coating in its fight against COVID-19 - [LINK](article_kansai_airport_kix_2021)
+* Contributions to the mitigation of the COVID-19 pandemic - [LINK](article_pilz_contributions_2022)
+* Nurture to nature via COVID-19, a self-regenerating environmental strategy of environment in global context - [LINK](article_paital_nurture_2020)
+* COVID-19: Risk assessment and mitigation measures in healthcare and non-healthcare workplaces - [LINK](article_fawzy_covid-19_2021)
 
 
 ### Closest BPs
 
-* Blueprint: Indoor Environmental Quality (IEQ) monitoring system - [LINK](bp_3)
-* Blueprint: Air Cleaning Plants - [LINK](bp_15)
-* Blueprint: Installing high-efficiency air filters - [LINK](bp_11)
+* Blueprint: Monitoring of wastewater - [LINK](bp_21)
+* Blueprint: Negative pressure rooms - [LINK](bp_13)
+* Blueprint: Installing UV in ductwork - [LINK](bp_10)

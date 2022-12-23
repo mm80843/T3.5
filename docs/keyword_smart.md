@@ -1,17 +1,19 @@
 # Keyword: smart
 
-* [urban-city](cluster_Cluster_13)
+* [urban-city](cluster_4)
+
+* [datum-iot](cluster_6)
 
 
 ## Keywords
 
- * Cluster_13, I nsmart, automation, automation of urban dimension, [city](keyword_city), [covid-19](keyword_covid-19), datum drive, emerge technology, emergency plan, eﬃciently prevent virus propagation, fleet management, grid connected building, iec, [ieq](keyword_ieq), industrialise prefabrication, innovative, innovative technology, inventory management system, iot device, knowledge base, lifestyle, [lockdown](keyword_lockdown), nanotech, quarantine, [safe city](keyword_safe_city), safe tech, [sensor](keyword_sensor), sensor nod, [smart](keyword_smart), smart application, [smart city](keyword_smart_city), smart technology, smarter, solution, [sustainable](keyword_sustainable), sustainable mobility, [technology](keyword_technology), [thermostat](keyword_thermostat), [urban governance](keyword_urban_governance), vertinsky, wearable
+ * Cluster_4, Cluster_6, I nsmart, automation, automation of urban dimension, [city](keyword_city), [covid-19](keyword_covid-19), datum drive, emerge technology, emergency plan, eﬃciently prevent virus propagation, fleet management, grid connected building, iec, [ieq](keyword_ieq), industrialise prefabrication, innovative, innovative technology, inventory management system, iot device, knowledge base, lifestyle, [lockdown](keyword_lockdown), nanotech, quarantine, [safe city](keyword_safe_city), safe tech, [sensor](keyword_sensor), sensor nod, [smart](keyword_smart), smart application, [smart city](keyword_smart_city), smart technology, smarter, [solution](keyword_solution), sustainable, sustainable mobility, [technology](keyword_technology), [thermostat](keyword_thermostat), [urban governance](keyword_urban_governance), vertinsky, wearable
 
 
-## Concepts
 
- ![](imgs/keyword_smart.jpg)
+## Mapping
 
+<img src="plotly/keyword_smart.svg">
 
 
 ## Neighbours

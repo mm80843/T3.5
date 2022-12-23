@@ -2,7 +2,7 @@
 
 * Source: [10.30722/anzjes.vol12.iss2.15071](https://doi.org/10.30722/anzjes.vol12.iss2.15071)
 * Year: 2021
-* Cluster: [construction-resilience](cluster_5)
+* Cluster: [construction-pandemic](cluster_1)
 
 
 
@@ -13,7 +13,7 @@
 
 ## Concepts
 
- ![](imgs/article_klein_borders_2021.jpg)
+ ![](plotly/article_klein_borders_2021.svg)
 
 
 
@@ -24,17 +24,16 @@
 * How drones help cities during the Covid-19 pandemic \textbar TheMayor.EU - [LINK](article_dimitrova_how_2021)
 * 2020 Data Protection Report - [LINK](article_council_of_europe_2020_2020)
 * Challenges of data sharing in European Covid-19 projects: A learning opportunity for advancing pandemic preparedness and response - [LINK](article_tacconelli_challenges_2022)
-* Scalable IoT Architecture for Monitoring IEQ Conditions in Public and Private Buildings - [LINK](article_calvo_scalable_2022)
-* The contribution of green buildings in the fight against COVID-19 - [LINK](article_world_green_building_council_contribution_2020)
-* Mobile Technology Solution for COVID-19: Surveillance and Prevention - [LINK](article_raza_mobile_2021)
-* The role of 5G for digital healthcare against COVID-19 pandemic: Opportunities and challenges - [LINK](article_siriwardhana_role_2021)
-* Coronavirus: Can artificial intelligence be smart enough to detect fake news? - [LINK](article_tong_coronavirus_2020)
-* Danish disinfection robots save lives in the fight against the Corona virus \textbar Shaping Europe’s digital future - [LINK](article_ec_views_danish_2020)
-* Combating COVID-19—The role of robotics in managing public health and infectious diseases - [LINK](article_yang_combating_2020)
+* Understanding the role of urban design in disease spreading - [LINK](article_brizuela_understanding_2019)
+* <scp>COVID</scp>             ‐19: Small and medium enterprises challenges and responses with creativity, innovation, and entrepreneurship - [LINK](article_thukral_covid19_2021)
+* Startups in times of crisis – A rapid response to the COVID-19 pandemic - [LINK](article_kuckertz_startups_2020)
+* COVID-19 and regional solutions for mitigating the risk of SME finance in selected ASEAN member states - [LINK](article_taghizadeh-hesary_covid-19_2022)
+* Drones. Disinfecting robots. Supercomputers. The coronavirus outbreak is a test for China's tech industry \textbar CNN Business - [LINK](article_wang_drones_2020)
+* Strengthening resilience: a priority shared by Health 2020 and - [LINK](article_who_strengthening_2017)
 
 
 ### Closest BPs
 
-* Blueprint: Resilience in staffing and skills training - [LINK](bp_12)
-* Blueprint: Installing UV in ductwork - [LINK](bp_10)
+* Blueprint: Smart Locker System - [LINK](bp_1)
 * Blueprint: Monitoring of wastewater - [LINK](bp_21)
+* Blueprint: Resilience in staffing and skills training - [LINK](bp_12)

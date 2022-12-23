@@ -1,17 +1,19 @@
 # Keyword: vector
 
-* [malaria-vector](cluster_Cluster_12)
+* [malaria-vector](cluster_5)
+
+* [china-case](cluster_13)
 
 
 ## Keywords
 
- * Cluster_12, adenovirus type 5, aede, aegypti, [air](keyword_air), airborne transmission, anophele, arthropod, contagion, container bred, culex, [disease](keyword_disease), disease agent, disease agents, dominant, dynamic, ectoparasitic, [epidemic](keyword_epidemic), filarias, flea, free, host, human host, [infection](keyword_infection), [infectious disease](keyword_infectious_disease), insect, integrate vector management, invasive, lagrange multipli vector, legionnaire disease, [malaria](keyword_malaria), [mosquito](keyword_mosquito), nematode, nematodes, noncompetent vector, organism, parasit, parasite, particulate matter, [pathogen](keyword_pathogen), pattern, pest, [population](keyword_population), probability distribution, rift valley fever virus, [sar cov 2](keyword_sar_cov_2), specie, [surveillance](keyword_surveillance), tick, [transmission](keyword_transmission), transmit, transmitters, tsetse flies, [vector](keyword_vector), [vector borne disease](keyword_vector_borne_disease), vectors, [virus](keyword_virus), [waste](keyword_waste), west nile virus
+ * Cluster_13, Cluster_5, adenovirus type 5, aede, aegypti, [air](keyword_air), airborne transmission, anophele, arthropod, contagion, container bred, culex, [disease](keyword_disease), disease agent, disease agents, dominant, dynamic, ectoparasitic, [epidemic](keyword_epidemic), filarias, flea, free, host, human host, [infection](keyword_infection), [infectious disease](keyword_infectious_disease), insect, integrate vector management, invasive, lagrange multipli vector, legionnaire disease, [malaria](keyword_malaria), [mosquito](keyword_mosquito), nematode, nematodes, noncompetent vector, organism, parasit, parasite, particulate matter, [pathogen](keyword_pathogen), pattern, pest, [population](keyword_population), probability distribution, rift valley fever virus, [sar cov 2](keyword_sar_cov_2), specie, [surveillance](keyword_surveillance), tick, [transmission](keyword_transmission), transmit, transmitters, tsetse flies, [vector](keyword_vector), [vector borne disease](keyword_vector_borne_disease), vectors, [virus](keyword_virus), waste, west nile virus
 
 
-## Concepts
 
- ![](imgs/keyword_vector.jpg)
+## Mapping
 
+<img src="plotly/keyword_vector.svg">
 
 
 ## Neighbours

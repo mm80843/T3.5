@@ -2,18 +2,18 @@
 
 * Source: [10.1016/j.ajic.2010.04.208](https://doi.org/10.1016/j.ajic.2010.04.208)
 * Year: 2010
-* Cluster: [air-ventilation](cluster_4)
+* Cluster: [uv-air](cluster_15)
 
 
 
 ## Keywords
 
- * [aerosol](keyword_aerosol), ahu, [aiir](keyword_aiir), [air](keyword_air), [airborne](keyword_airborne), airborne transmission, airflow, [bacteria](keyword_bacteria), [bioaerosol](keyword_bioaerosol), bulb, burge ha, cb, cincinnati, [clean](keyword_clean), [clinic](keyword_clinic), communicable infection, cough, cross infection, [design](keyword_design), dilution, disease control, disinfect, [disinfectant](keyword_disinfectant), [disinfection](keyword_disinfection), [droplet](keyword_droplet), editor, evaporate, eye, [filtration](keyword_filtration), first mw, fixture, flow rate, fluoroquinolone, fungal, [germicidal](keyword_germicidal), [health care](keyword_health_care), health care facility, health care provider, heating, hepa filtration, hernandez m, hierarchy of control, [hospital](keyword_hospital), host, [humidity](keyword_humidity), [hvac](keyword_hvac), inactivate, inactivation, [infection](keyword_infection), [infection control](keyword_infection_control), infectious, infectious agent, [influenza](keyword_influenza), kerr kg, laminar airflow, lamp, memarzadeh, menzie d, microbe, [microorganism](keyword_microorganism), negative pressure, noake cj, nuclei, nucleic acid, olberde em, olmste, operate room, operating room, orthopedic, [pathogen](keyword_pathogen), popa j, prevention, respiratory droplet, [room](keyword_room), settle, sneeze, spore, sputum, stand, tb, [temperature](keyword_temperature), testing, tissue, [transmission](keyword_transmission), [tuberculosis](keyword_tuberculosis), tw, [ultraviolet](keyword_ultraviolet), ultraviolet radiation, [uv](keyword_uv), uv c lamp, uv fixture, uv lamp, uv radiation, [uv-c](keyword_uv-c), [uvgi](keyword_uvgi), uvgi lamp, uvgi system, uvgi zone, [ventilation](keyword_ventilation), [virus](keyword_virus)
+ * [aerosol](keyword_aerosol), ahu, [aiir](keyword_aiir), [air](keyword_air), [airborne](keyword_airborne), airborne transmission, airflow, [bacteria](keyword_bacteria), [bioaerosol](keyword_bioaerosol), bulb, burge ha, cb, cincinnati, [clean](keyword_clean), [clinic](keyword_clinic), communicable infection, cough, cross infection, [design](keyword_design), dilution, disease control, disinfect, [disinfectant](keyword_disinfectant), [disinfection](keyword_disinfection), [droplet](keyword_droplet), editor, evaporate, eye, filtration, first mw, fixture, flow rate, fluoroquinolone, fungal, [germicidal](keyword_germicidal), [health care](keyword_health_care), health care facility, health care provider, heating, hepa filtration, hernandez m, hierarchy of control, [hospital](keyword_hospital), host, [humidity](keyword_humidity), [hvac](keyword_hvac), [inactivate](keyword_inactivate), [inactivation](keyword_inactivation), [infection](keyword_infection), [infection control](keyword_infection_control), infectious, infectious agent, [influenza](keyword_influenza), kerr kg, laminar airflow, lamp, memarzadeh, menzie d, microbe, [microorganism](keyword_microorganism), negative pressure, noake cj, nuclei, nucleic acid, olberde em, olmste, operate room, operating room, orthopedic, [pathogen](keyword_pathogen), popa j, [prevention](keyword_prevention), respiratory droplet, [room](keyword_room), settle, sneeze, spore, sputum, stand, [tb](keyword_tb), [temperature](keyword_temperature), testing, tissue, [transmission](keyword_transmission), [tuberculosis](keyword_tuberculosis), tw, [ultraviolet](keyword_ultraviolet), ultraviolet radiation, [uv](keyword_uv), uv c lamp, uv fixture, uv lamp, uv radiation, [uv-c](keyword_uv-c), [uvgi](keyword_uvgi), uvgi lamp, uvgi system, uvgi zone, [ventilation](keyword_ventilation), [virus](keyword_virus)
 
 
 ## Concepts
 
- ![](imgs/article_memarzadeh_applications_2010.jpg)
+ ![](plotly/article_memarzadeh_applications_2010.svg)
 
 
 
@@ -36,5 +36,5 @@
 ### Closest BPs
 
 * Blueprint: Installing UV in ductwork - [LINK](bp_10)
-* Blueprint: Monitoring of wastewater - [LINK](bp_21)
-* Blueprint: Resilience in staffing and skills training - [LINK](bp_12)
+* Blueprint: Installing high-efficiency air filters - [LINK](bp_11)
+* Blueprint: Negative pressure rooms - [LINK](bp_13)

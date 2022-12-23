@@ -1,17 +1,17 @@
 # Keyword: new
 
-* [building-space](cluster_Cluster_1)
+* [urban-city](cluster_6)
 
 
 ## Keywords
 
- * Cluster_1, construct, coronavirus infection, exist one, [home](keyword_home), home exist, interreg central, [knowledge](keyword_knowledge), [new](keyword_new), new challengenge, new knowledge, newchallenge, [office](keyword_office), old
+ * Cluster_6, construct, coronavirus infection, exist one, [home](keyword_home), home exist, interreg central, [knowledge](keyword_knowledge), [new](keyword_new), new challengenge, new knowledge, newchallenge, [office](keyword_office), old
 
 
-## Concepts
 
- ![](imgs/keyword_new.jpg)
+## Mapping
 
+<img src="plotly/keyword_new.svg">
 
 
 ## Neighbours

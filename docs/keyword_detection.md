@@ -1,17 +1,19 @@
 # Keyword: detection
 
-* [wastewater-sars](cluster_Cluster_2)
+* [datum-iot](cluster_4)
+
+* [detection-object](cluster_8)
 
 
 ## Keywords
 
- * Cluster_2, SARS-CoV-2, air sampler, airborne rhinovirus, alert, ampliﬁe, antibodie, antibody, application, assay kit, bd veritor, [bioaerosol](keyword_bioaerosol), bioaerosol sampling, biosense, [biosensor](keyword_biosensor), boundingbox, chemical, concentration, [control](keyword_control), couple, crispr diagnostic, datum capture, [deep learning](keyword_deep_learning), deepsocial, [detection](keyword_detection), detection and spread of this epidemic, detection kit, detection speed, detections, diagnosis, diagnostic, [disease](keyword_disease), distance estimation, early detection, [expert system](keyword_expert_system), false incorrect prediction, false negative, false positive, fever detection, genetic detection, genomic equivalent, high risk zone, i d assignment, identification, in vitro, [infection](keyword_infection), [iot](keyword_iot), [iou](keyword_iou), low resolution image, mass surveillance, mimicry, [model](keyword_model), nucleic acid base polymerase chain reaction, object, [outbreak](keyword_outbreak), overlap boundingboxe, [pathogen](keyword_pathogen), pattern, phylogenetic, population testing, preventative, preventative measure, prevention, primary care, probe, prognosis, pyramid technique, [qpcr](keyword_qpcr), recognition, risk assessment, rna extraction, rt qpcr, safe, [sample](keyword_sample), [sar cov 2](keyword_sar_cov_2), scenario test, sensitivity, smartwatch, [sound](keyword_sound), speciﬁc recognition, stacked bar chart, supervise learning, [surveillance](keyword_surveillance), surveillance method, swab testing, [technology](keyword_technology), trace, [training](keyword_training), urine, [virus](keyword_virus), virus concentration method, virus detection, ﬂow
+ * Cluster_4, Cluster_8, SARS-CoV-2, air sampler, airborne rhinovirus, alert, ampliﬁe, antibodie, antibody, [application](keyword_application), assay kit, bd veritor, [bioaerosol](keyword_bioaerosol), bioaerosol sampling, biosense, [biosensor](keyword_biosensor), boundingbox, chemical, concentration, [control](keyword_control), couple, crispr diagnostic, datum capture, [deep learning](keyword_deep_learning), deepsocial, [detection](keyword_detection), detection and spread of this epidemic, detection kit, detection speed, detections, diagnosis, diagnostic, [disease](keyword_disease), distance estimation, early detection, [expert system](keyword_expert_system), false incorrect prediction, false negative, false positive, fever detection, genetic detection, genomic equivalent, high risk zone, i d assignment, identification, in vitro, [infection](keyword_infection), [iot](keyword_iot), [iou](keyword_iou), low resolution image, mass surveillance, mimicry, [model](keyword_model), nucleic acid base polymerase chain reaction, [object](keyword_object), [outbreak](keyword_outbreak), overlap boundingboxe, [pathogen](keyword_pathogen), pattern, phylogenetic, population testing, preventative, preventative measure, [prevention](keyword_prevention), primary care, probe, prognosis, pyramid technique, qpcr, recognition, risk assessment, rna extraction, rt qpcr, safe, [sample](keyword_sample), [sar cov 2](keyword_sar_cov_2), scenario test, sensitivity, smartwatch, [sound](keyword_sound), speciﬁc recognition, stacked bar chart, supervise learning, [surveillance](keyword_surveillance), surveillance method, swab testing, [technology](keyword_technology), trace, [training](keyword_training), urine, [virus](keyword_virus), virus concentration method, virus detection, ﬂow
 
 
-## Concepts
 
- ![](imgs/keyword_detection.jpg)
+## Mapping
 
+<img src="plotly/keyword_detection.svg">
 
 
 ## Neighbours

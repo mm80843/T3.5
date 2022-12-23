@@ -1,17 +1,17 @@
 # Keyword: fear
 
-* [health-mental](cluster_Cluster_15)
+* [health-mental](cluster_10)
 
 
 ## Keywords
 
- * Cluster_15, afraid, alertness, anticipatory anxiety, [anxiety](keyword_anxiety), authority, cfqcmc, communal, [coronavirus](keyword_coronavirus), coronavirus pandemic, [covid 19 pandemic](keyword_covid_19_pandemic), covid 19 virus, danger, defensive motivation, emotion, existential, [fear](keyword_fear), fear infecting family members, fear of becoming infect, fear of insufficient disinfection, feared, fears, fears about their health, h1n1 flu, housing insecurity, hygienic regime, [infection](keyword_infection), information security, invert ushaped drive function, [knowledge](keyword_knowledge), medium report, moderate, negative effect, negative feeling, obey, obey authority, obey authority out of fear, obligation, [ok](keyword_ok), [pandemic](keyword_pandemic), [panic](keyword_panic), panic buy behavior, panic buying, perceive efficacy, perceive health threat, perceive health threat of the coronavirus, [perceive risk](keyword_perceive_risk), perceive threat, perception, phobia, [psychological](keyword_psychological), public health concern, public transportation, side effect, [surveillance](keyword_surveillance), uncertainty, worried, worry
+ * Cluster_10, afraid, alertness, anticipatory anxiety, [anxiety](keyword_anxiety), authority, cfqcmc, communal, [coronavirus](keyword_coronavirus), coronavirus pandemic, [covid 19 pandemic](keyword_covid_19_pandemic), covid 19 virus, danger, defensive motivation, emotion, existential, [fear](keyword_fear), fear infecting family members, fear of becoming infect, fear of insufficient disinfection, feared, fears, fears about their health, h1n1 flu, housing insecurity, hygienic regime, [infection](keyword_infection), information security, invert ushaped drive function, [knowledge](keyword_knowledge), medium report, moderate, negative effect, negative feeling, obey, obey authority, obey authority out of fear, obligation, [ok](keyword_ok), [pandemic](keyword_pandemic), [panic](keyword_panic), panic buy behavior, panic buying, perceive efficacy, perceive health threat, perceive health threat of the coronavirus, [perceive risk](keyword_perceive_risk), perceive threat, perception, phobia, [psychological](keyword_psychological), public health concern, public transportation, side effect, [surveillance](keyword_surveillance), uncertainty, worried, worry
 
 
-## Concepts
 
- ![](imgs/keyword_fear.jpg)
+## Mapping
 
+<img src="plotly/keyword_fear.svg">
 
 
 ## Neighbours

@@ -1,21 +1,21 @@
 # Keyword: green
 
-* [urban-city](cluster_Cluster_1)
+* [urban-city](cluster_2)
 
-* [building-space](cluster_Cluster_13)
+* [housing-space](cluster_6)
 
-* [health-mental](cluster_Cluster_15)
+* [building-energy](cluster_14)
 
 
 ## Keywords
 
- * Cluster_1, Cluster_13, Cluster_15, accreditation, alternative energy source, attribute, blue, blue infrastructure, blue space, bluespace, brand equity, brown, [build](keyword_build), building council, building rating system, building standard, [chair](keyword_chair), climate action, color, color control, colour, cordon sanitaire, [covid 19 pandemic](keyword_covid_19_pandemic), [covid-19](keyword_covid-19), earth colour, eco friendly, ecologically sustainable, [energy](keyword_energy), energy saving, energy source, [environmental](keyword_environmental), fifty shades of green, [filtration](keyword_filtration), go greener feel better, govt, [green](keyword_green), green bond, green brand equity, [green building](keyword_green_building), green image, green new world, green view, greener, greenery, greening, greens, [health](keyword_health), healthy, [indoor](keyword_indoor), [indoor environment](keyword_indoor_environment), indoor feature, [infrastructure](keyword_infrastructure), issue, manage cookie, manuf, [marketing](keyword_marketing), mh1, more sustainable, [nature](keyword_nature), open space, pedestrian, preservation, productive, [public space](keyword_public_space), [recovery](keyword_recovery), red, regenerative design, restorative, sovereign bond, [sustainable](keyword_sustainable), [sustainable development](keyword_sustainable_development), sustainable instrument, sustainable project, the greener the well, transparency, university building, [urban](keyword_urban), urban forestry, urban green, [urban green space](keyword_urban_green_space), view, [vulnerability](keyword_vulnerability), watson, wolfram, zero carbon, zero carbon structure
+ * Cluster_14, Cluster_2, Cluster_6, accreditation, alternative energy source, attribute, blue, blue infrastructure, blue space, bluespace, brand equity, brown, [build](keyword_build), building council, building rating system, building standard, [chair](keyword_chair), climate action, color, color control, colour, cordon sanitaire, [covid 19 pandemic](keyword_covid_19_pandemic), [covid-19](keyword_covid-19), earth colour, eco friendly, ecologically sustainable, [energy](keyword_energy), energy saving, energy source, environmental, fifty shades of green, filtration, go greener feel better, govt, [green](keyword_green), green bond, green brand equity, [green building](keyword_green_building), green image, green new world, green view, greener, greenery, greening, greens, [health](keyword_health), healthy, [indoor](keyword_indoor), [indoor environment](keyword_indoor_environment), indoor feature, [infrastructure](keyword_infrastructure), issue, manage cookie, manuf, [marketing](keyword_marketing), mh1, more sustainable, [nature](keyword_nature), open space, [pedestrian](keyword_pedestrian), preservation, productive, [public space](keyword_public_space), [recovery](keyword_recovery), red, regenerative design, restorative, sovereign bond, sustainable, [sustainable development](keyword_sustainable_development), sustainable instrument, sustainable project, the greener the well, transparency, university building, [urban](keyword_urban), urban forestry, urban green, [urban green space](keyword_urban_green_space), view, [vulnerability](keyword_vulnerability), watson, wolfram, zero carbon, zero carbon structure
 
 
-## Concepts
 
- ![](imgs/keyword_green.jpg)
+## Mapping
 
+<img src="plotly/keyword_green.svg">
 
 
 ## Neighbours

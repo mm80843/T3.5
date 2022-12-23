@@ -1,8 +1,8 @@
-# Article: 10 tech trends getting us through the COVID-19pandemic (yan_10_2020)
+# Article: 10 tech trends getting us through the COVID-19 pandemic (yan_10_2020)
 
 * [https://www.weforum.org/agenda/2020/04/10-technology-trends-coronavirus-covid19-pandemic-robotics-telehealth/](https://www.weforum.org/agenda/2020/04/10-technology-trends-coronavirus-covid19-pandemic-robotics-telehealth/)
 * Year: 2020
-* Cluster: [economic-health](cluster_9)
+* Cluster: [construction-pandemic](cluster_1)
 
 
 
@@ -13,7 +13,7 @@
 
 ## Concepts
 
- ![](imgs/article_yan_10_2020.jpg)
+ ![](plotly/article_yan_10_2020.svg)
 
 
 
@@ -21,20 +21,20 @@
 
 ### Closest articles
 
-* Telehealth overpromises during the Covid-19 pandemic - [LINK](article_ostherr_telehealth_2020)
-* Combating COVID-19—The role of robotics in managing public health and infectious diseases - [LINK](article_yang_combating_2020)
-* Danish disinfection robots save lives in the fight against the Corona virus \textbar Shaping Europe’s digital future - [LINK](article_ec_views_danish_2020)
-* Drones. Disinfecting robots. Supercomputers. The coronavirus outbreak is a test for China's tech industry \textbar CNN Business - [LINK](article_wang_drones_2020)
-* COVID-19: A new digital dawn? - [LINK](article_robbins_covid-19_2020)
-* Amplifying the role of knowledge translation platforms in the COVID-19 pandemic response - [LINK](article_el-jardali_amplifying_2020)
-* From Viral City to Smart City: Learning from Pandemic Experiences - [LINK](article_sakellarides_viral_2020)
-* Response to COVID-19 in Taiwan - [LINK](article_wang_response_2020)
-* Mobile Technology Solution for COVID-19: Surveillance and Prevention - [LINK](article_raza_mobile_2021)
-*  - [LINK](article_mehtab_alam_role_2021)
+* Rotating groups at work, school best against COVID-19 spread: Study - [LINK](article_afp_rotating_2021)
+* Reframe how to serve your community in the midst of a pandemic - [LINK](article_sutton_reframe_2020)
+* What has been the impact of the COVID-19 pandemic on immigrants? An update on recent evidence - [LINK](article_oecd_what_2022)
+* Mapping research in logistics and supply chain management during COVID-19 pandemic - [LINK](article_montoya-torres_mapping_2021)
+* Global value chains: Efficiency and risks in the context of COVID-19 - [LINK](article_oecd_global_2021)
+* The City Under COVID‐19: Podcasting As Digital Methodology - [LINK](article_rogers_city_2020)
+* COVID-19 and the rise of intimate partner violence - [LINK](article_aguero_covid-19_2021)
+* Multilevel Analysis of Personal, Non-Medical COVID-19-Related Impact Worldwide - [LINK](article_dye_multilevel_2020)
+* Sustainable work throughout the life course: National policies and strategies, Publications Office of the European Union - [LINK](article_eurofund_sustainable_2016)
+* How Covid-19 Has Permanently Changed the Fitness Industry - [LINK](article_davalos_how_2021)
 
 
 ### Closest BPs
 
-* Blueprint: Resilience in staffing and skills training - [LINK](bp_12)
 * Blueprint: Smart Locker System - [LINK](bp_1)
-* Blueprint: One-way mobility circulation - [LINK](bp_4)
+* Blueprint: Resilience in staffing and skills training - [LINK](bp_12)
+* Blueprint: Tracking and enforcing use of Personal Protective Equipment - [LINK](bp_23)

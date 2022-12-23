@@ -1,27 +1,31 @@
 # Keyword: pandemic
 
-* [urban-city](cluster_Cluster_1)
+* [urban-city](cluster_1)
 
-* [health-patient](cluster_Cluster_5)
+* [construction-pandemic](cluster_2)
 
-* [economic-health](cluster_Cluster_9)
+* [housing-space](cluster_4)
 
-* [building-space](cluster_Cluster_13)
+* [datum-iot](cluster_6)
 
-* [health-mental](cluster_Cluster_14)
+* [health-mental](cluster_7)
 
-* [construction-resilience](cluster_Cluster_15)
+* [building-energy](cluster_10)
+
+* [resilience-infrastructure](cluster_11)
+
+* [water-wastewater](cluster_14)
 
 
 ## Keywords
 
- * aftermath, [build environment](keyword_build_environment), [china](keyword_china), [city](keyword_city), [climate change](keyword_climate_change), climate crisis, [control](keyword_control), [coronavirus](keyword_coronavirus), coronavirus disease, coronavirus disease covid 19, [coronavirus outbreak](keyword_coronavirus_outbreak), coronavirus pandemic, [country](keyword_country), [covid 19 crisis](keyword_covid_19_crisis), covid 19 disease, covid 19 outbreak, [covid 19 pandemic](keyword_covid_19_pandemic), [covid-19](keyword_covid-19), [crisis](keyword_crisis), crisis management, current, current pandemic, disaster, [disease](keyword_disease), disease outbreak, disease transmission, [economic crisis](keyword_economic_crisis), economic recession, effect, emerge economy, emergency, emergency measure, [epidemic](keyword_epidemic), [europe](keyword_europe), fear of infection, first wave, flu, future, [global](keyword_global), [health](keyword_health), [health and safety](keyword_health_and_safety), health inequity, health risk, [healthcare](keyword_healthcare), [iaq](keyword_iaq), [immigrant](keyword_immigrant), [impact](keyword_impact), [india](keyword_india), infect, [infection](keyword_infection), infectious, [infectious disease](keyword_infectious_disease), [influenza](keyword_influenza), [infrastructure](keyword_infrastructure), inﬂuenza, [krako w](keyword_krako_w), [lockdown](keyword_lockdown), [mitigation](keyword_mitigation), new normal, [new york](keyword_new_york), next pandemic, [outbreak](keyword_outbreak), [pandemic](keyword_pandemic), pandemic control, [pandemic resilient indicator](keyword_pandemic_resilient_indicator), [pandemien](keyword_pandemien), pandemy, past pandemic, post pandemic era, post pandemic period, post-pandemic, preparedness, [public health](keyword_public_health), quarantine, recent, [recovery](keyword_recovery), [resilience](keyword_resilience), resilient, response, [risk](keyword_risk), [sar cov 2](keyword_sar_cov_2), second, singapore, [smart city](keyword_smart_city), [sme](keyword_sme), [south korea](keyword_south_korea), spanish flu, [spread](keyword_spread), [sustainability](keyword_sustainability), the pandemic, this, [transmission](keyword_transmission), turkey, [united kingdom](keyword_united_kingdom), unprecedented nature, [virus](keyword_virus), [vulnerability](keyword_vulnerability), [will a pandemic change building code](keyword_will_a_pandemic_change_building_code), worldwide, [wuhan](keyword_wuhan)
+ * [build environment](keyword_build_environment), [china](keyword_china), [city](keyword_city), [climate change](keyword_climate_change), climate crisis, [control](keyword_control), [coronavirus](keyword_coronavirus), coronavirus disease, coronavirus disease covid 19, [coronavirus outbreak](keyword_coronavirus_outbreak), coronavirus pandemic, [country](keyword_country), [covid 19 crisis](keyword_covid_19_crisis), covid 19 disease, covid 19 outbreak, [covid 19 pandemic](keyword_covid_19_pandemic), [covid-19](keyword_covid-19), [crisis](keyword_crisis), crisis management, current, current pandemic, disaster, [disease](keyword_disease), disease outbreak, disease transmission, [economic crisis](keyword_economic_crisis), economic recession, effect, emerge economy, emergency, emergency measure, [epidemic](keyword_epidemic), [epidemiological](keyword_epidemiological), [europe](keyword_europe), fear of infection, first wave, flu, future, global, [health](keyword_health), [health and safety](keyword_health_and_safety), health inequity, health risk, [healthcare](keyword_healthcare), [iaq](keyword_iaq), [immigrant](keyword_immigrant), [impact](keyword_impact), [india](keyword_india), infect, [infection](keyword_infection), infectious, [infectious disease](keyword_infectious_disease), [influenza](keyword_influenza), inﬂuenza, [krako w](keyword_krako_w), [lockdown](keyword_lockdown), [mitigation](keyword_mitigation), new normal, [new york](keyword_new_york), next pandemic, [outbreak](keyword_outbreak), [pandemic](keyword_pandemic), pandemic control, [pandemic resilient indicator](keyword_pandemic_resilient_indicator), [pandemien](keyword_pandemien), pandemy, past pandemic, post pandemic era, post pandemic period, post-pandemic, preparedness, [public health](keyword_public_health), quarantine, recent, [recovery](keyword_recovery), [resilience](keyword_resilience), [resilient](keyword_resilient), response, [risk](keyword_risk), [sar cov 2](keyword_sar_cov_2), second, service sme, singapore, [smart city](keyword_smart_city), [sme](keyword_sme), [south korea](keyword_south_korea), spanish flu, [spread](keyword_spread), [sustainability](keyword_sustainability), the pandemic, this, [transmission](keyword_transmission), turkey, [united kingdom](keyword_united_kingdom), unprecedented nature, [virus](keyword_virus), [vulnerability](keyword_vulnerability), [will a pandemic change building code](keyword_will_a_pandemic_change_building_code), worldwide, [wuhan](keyword_wuhan)
 
 
-## Concepts
 
- ![](imgs/keyword_pandemic.jpg)
+## Mapping
 
+<img src="plotly/keyword_pandemic.svg">
 
 
 ## Neighbours

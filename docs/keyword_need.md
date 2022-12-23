@@ -1,17 +1,17 @@
 # Keyword: need
 
-* [building-space](cluster_Cluster_1)
+* [resilience-infrastructure](cluster_11)
 
 
 ## Keywords
 
- * Cluster_1, consumption, consumption habit, [crisis](keyword_crisis), [customer](keyword_customer), demand, esteem, food, future generation, [health](keyword_health), [housing](keyword_housing), hygienic, in service, [information](keyword_information), legisin, lifestyle, manage sovereign debt, medicine, [need](keyword_need), need they, needs, organization, [pandemic](keyword_pandemic), preference, resource, service, situation, surplus, technological, theoretical, weredifferent
+ * Cluster_11, consumption, consumption habit, [crisis](keyword_crisis), [customer](keyword_customer), demand, esteem, food, future generation, [health](keyword_health), [housing](keyword_housing), hygienic, in service, [information](keyword_information), legisin, lifestyle, manage sovereign debt, medicine, [need](keyword_need), need they, needs, organization, [pandemic](keyword_pandemic), preference, resource, [service](keyword_service), situation, surplus, technological, theoretical, weredifferent
 
 
-## Concepts
 
- ![](imgs/keyword_need.jpg)
+## Mapping
 
+<img src="plotly/keyword_need.svg">
 
 
 ## Neighbours

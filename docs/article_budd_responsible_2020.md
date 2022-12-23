@@ -2,7 +2,7 @@
 
 * Source: [10.1016/j.trip.2020.100151](https://doi.org/10.1016/j.trip.2020.100151)
 * Year: 2020
-* Cluster: [urban-city](cluster_13)
+* Cluster: [urban-city](cluster_6)
 
 
 
@@ -13,7 +13,7 @@
 
 ## Concepts
 
- ![](imgs/article_budd_responsible_2020.jpg)
+ ![](plotly/article_budd_responsible_2020.svg)
 
 
 
@@ -22,19 +22,18 @@
 ### Closest articles
 
 * Mobility Behaviour in View of the Impact of the COVID-19 Pandemic—Public Transport Users in Gdansk Case Study - [LINK](article_przybylowski_mobility_2021)
-* The contribution of green buildings in the fight against COVID-19 - [LINK](article_world_green_building_council_contribution_2020)
-* The changes in the effects of social media use of Cypriots due to COVID-19 pandemic - [LINK](article_kaya_changes_2020)
+* Should I Stay or Should I Go? Tourists’ COVID-19 Risk Perception and Vacation Behavior Shift - [LINK](article_bratic_should_2021)
+* Seeing the invisible hand: Underlying effects of COVID-19 on tourists’ behavioral patterns - [LINK](article_li_seeing_2020)
+* Touchless Retail: What the Rest of the World could learn from China’s new ways to shop - [LINK](article_capgemini_touchless_2020)
 * What our response to the COVID-19 pandemic tells us of our capacity to respond to climate change - [LINK](article_gemenne_what_2020)
-* COVID-19 Higher Mortality in Chinese Regions With Chronic Exposure to Lower Air Quality - [LINK](article_pansini_covid-19_2021)
-* What drives unverified information sharing and cyberchondria during the COVID-19 pandemic? - [LINK](article_laato_what_2020)
-* Air pollution linked with higher COVID-19 death rates - [LINK](article_harvard_th_chan_schoold_of_public_health_air_2020)
-* COVID-19 misinformation: Accuracy of articles about coronavirus prevention mostly shared on social media - [LINK](article_obiala_covid-19_2021)
 * Coronavirus and Climate Change - [LINK](article_harvard_th_chan_schoold_of_public_health_coronavirus_2020)
-* The COVID-19 Impact on Flexible Office Space - [LINK](article_clifton_covid-19_2020)
+* COVID-19 risks and systemic gaps in Nigeria: resilience building lessons for pandemic and climate change management - [LINK](article_lawal_covid-19_2022)
+* Retail Signage During the COVID-19 Pandemic - [LINK](article_mcneish_retail_2020)
+*  - [LINK](article_yakubu_aminu_dodo_green_2020)
 
 
 ### Closest BPs
 
-* Blueprint: Installing UV in ductwork - [LINK](bp_10)
-* Blueprint: Monitoring of wastewater - [LINK](bp_21)
-* Blueprint: Resilience in staffing and skills training - [LINK](bp_12)
+* Blueprint: Smart Locker System - [LINK](bp_1)
+* Blueprint: Mental health – Belong: Do something with someone - [LINK](bp_19)
+* Blueprint: Mental health – Act: Do something - [LINK](bp_18)

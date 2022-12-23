@@ -1,17 +1,17 @@
 # Keyword: industry
 
-* [construction-resilience](cluster_Cluster_5)
+* [construction-pandemic](cluster_1)
 
 
 ## Keywords
 
- * academic research, actor, aec, agricultural, agriculture, airline, asset class, automation, automobile, aviation, banking, benefit, [build](keyword_build), build industry, [business](keyword_business), business development, business type, carbon intensive, carbon intensive fuel, casino, commerce, [company](keyword_company), computer, [construction](keyword_construction), [construction industry](keyword_construction_industry), construction technology, [contractor](keyword_contractor), cope strategy, [corporation](keyword_corporation), [country](keyword_country), [covid-19](keyword_covid-19), deposit bank, deposit banking, disrupt industry, [domain](keyword_domain), [energy](keyword_energy), enterprise, entertainment, [entrepreneurship](keyword_entrepreneurship), essential, [facility management](keyword_facility_management), fitness, food service, geography, good practice, [health care](keyword_health_care), [healthcare](keyword_healthcare), hospitality, [household](keyword_household), [industry](keyword_industry), industry overall, industry sector, [infrastructure](keyword_infrastructure), [innovation](keyword_innovation), [iot](keyword_iot), knowledge economy, labour market participation, labourer, major and minor development change, [manufacture](keyword_manufacture), market, market force, [marketing](keyword_marketing), mechanical, mobile app, [model](keyword_model), next challenge, notfor profit organization, [nursing](keyword_nursing), occupation, oil company, [policy](keyword_policy), post covid 19, practitioner, production, pulp and paper, region, region of interest, [research](keyword_research), [retail](keyword_retail), retail industry, revenue, scholarly research, [sector](keyword_sector), service, service industry, service provider, servicescape, small business, software, sport industry, [supply chain](keyword_supply_chain), [technology](keyword_technology), [tourism](keyword_tourism), tourism industry, tourist, trade union, transaction, work routine, workforce
+ * academic research, actor, aec, agricultural, agriculture, airline, asset class, automation, automobile, aviation, banking, benefit, [build](keyword_build), build industry, [business](keyword_business), business development, business type, carbon intensive, carbon intensive fuel, casino, commerce, [company](keyword_company), [computer](keyword_computer), [construction](keyword_construction), [construction industry](keyword_construction_industry), construction technology, [contractor](keyword_contractor), cope strategy, corporation, [country](keyword_country), [covid-19](keyword_covid-19), deposit bank, deposit banking, disrupt industry, [domain](keyword_domain), [energy](keyword_energy), enterprise, entertainment, [entrepreneurship](keyword_entrepreneurship), essential, [facility management](keyword_facility_management), fitness, food service, geography, good practice, [health care](keyword_health_care), [healthcare](keyword_healthcare), hospitality, [household](keyword_household), [industry](keyword_industry), industry overall, industry sector, [infrastructure](keyword_infrastructure), [innovation](keyword_innovation), [iot](keyword_iot), knowledge economy, labour market participation, labourer, major and minor development change, [manufacture](keyword_manufacture), market, market force, [marketing](keyword_marketing), mechanical, mobile app, [model](keyword_model), next challenge, notfor profit organization, [nursing](keyword_nursing), occupation, oil company, [policy](keyword_policy), post covid 19, practitioner, production, pulp and paper, region, region of interest, [research](keyword_research), retail, retail industry, revenue, scholarly research, [sector](keyword_sector), [service](keyword_service), service industry, service provider, servicescape, small business, software, sport industry, [supply chain](keyword_supply_chain), [technology](keyword_technology), [tourism](keyword_tourism), tourism industry, [tourist](keyword_tourist), trade union, transaction, work routine, workforce
 
 
-## Concepts
 
- ![](imgs/keyword_industry.jpg)
+## Mapping
 
+<img src="plotly/keyword_industry.svg">
 
 
 ## Neighbours

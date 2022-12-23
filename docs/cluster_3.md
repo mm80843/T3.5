@@ -1,8 +1,8 @@
-# Cluster: __perpetuity-bioaerosol__ (Cluster_3)
+# Cluster: __respiratory-infection__ (Cluster_3)
 
 ## Keywords
 
- * [air](keyword_air), [bioaerosol](keyword_bioaerosol), [cambridge](keyword_cambridge), [certify](keyword_certify), [coating](keyword_coating), [display](keyword_display), [filter](keyword_filter), [filtration](keyword_filtration), [funder](keyword_funder), [gerba](keyword_gerba), [grant](keyword_grant), [holder](keyword_holder), [icu](keyword_icu), [license](keyword_license), [perpetuity](keyword_perpetuity), [qpcr](keyword_qpcr), [sampler](keyword_sampler), [ward](keyword_ward), [week](keyword_week)
+ * [algorithm](keyword_algorithm), [attitude](keyword_attitude), [case](keyword_case), [cid](keyword_cid), [coronavirus](keyword_coronavirus), [download](keyword_download), [guest](keyword_guest), [health](keyword_health), [infection](keyword_infection), [influenza](keyword_influenza), [mask](keyword_mask), [medium](keyword_medium), [novelcoronavirus](keyword_novelcoronavirus), [participant](keyword_participant), [prevention](keyword_prevention), [respiratory](keyword_respiratory), [study](keyword_study), [virus](keyword_virus), [wear](keyword_wear)
 
 
 
@@ -14,5 +14,8 @@
 
 # Linked articles
 
-* The removal of airborne SARS-CoV-2 and other microbial bioaerosols by air filtration on COVID-19 surge units - [LINK](article_conway-morris_removal_2021)
-* A Continuously Active Antimicrobial Coating effective against Human Coronavirus 229E - [LINK](article_ikner_continuously_2020)
+* Coronavirus disease 2019: The harms of exaggerated information and non‐evidence‐based measures - [LINK](article_ioannidis_coronavirus_2020)
+* Physical interventions to interrupt or reduce the spread of respiratory viruses: systematic review - [LINK](article_jefferson_physical_2008)
+* COVID-19 misinformation: Accuracy of articles about coronavirus prevention mostly shared on social media - [LINK](article_obiala_covid-19_2021)
+* Contributions to the mitigation of the COVID-19 pandemic - [LINK](article_pilz_contributions_2022)
+* Knowledge, attitudes, and practices of Indonesian residents regarding COVID-19: A national cross-sectional survey - [LINK](article_yodang_knowledge_2021)

@@ -1,19 +1,21 @@
 # Keyword: space
 
-* [urban-city](cluster_Cluster_1)
+* [urban-city](cluster_6)
 
-* [building-space](cluster_Cluster_13)
+* [air-sars](cluster_9)
+
+* [housing-space](cluster_14)
 
 
 ## Keywords
 
- * 3d representation, Cluster_1, Cluster_13, accessible surface, [architecture](keyword_architecture), architecture design, attention, [balcony](keyword_balcony), [bedroom](keyword_bedroom), behaviour, [build](keyword_build), [building](keyword_building), building parameter, [case](keyword_case), case for space, changeable space, citizen, [city](keyword_city), city area, communication, [community](keyword_community), community space, community space development, concept, [constraint](keyword_constraint), context, [de spatialization](keyword_de_spatialization), dennistoun, door, [economy](keyword_economy), efﬁciency, environment and plan a, existence maximum, floor texture, freedom, function, furniture, gathering, [home](keyword_home), home entry, home entry area, [house](keyword_house), [human](keyword_human), [ieq](keyword_ieq), ieq condition, [indoor](keyword_indoor), [indoor environment](keyword_indoor_environment), interact with occupant, intermediate, isolate, isolation, isolation context, isolation space, kitchen, la poétique de l espace, light, [mobility](keyword_mobility), new home, [occupancy](keyword_occupancy), occupancy management, [occupant](keyword_occupant), [office](keyword_office), person, [physical](keyword_physical), place, placemake, proportion, public building, [public space](keyword_public_space), public space network, restroom, rooftop, [room](keyword_room), segment, sense, sense of place, [society](keyword_society), [space](keyword_space), space can do so, space index, space type, spaces, spacetime, spacing, spatial, spatialization, [supply](keyword_supply), syntax, terrace, think, think about, [time](keyword_time), transportation, uarantine, [urban](keyword_urban), vegetation, [ventilation](keyword_ventilation), welcome the light, [workplace](keyword_workplace), ﬂoor
+ * 3d model, 3d representation, Cluster_14, Cluster_6, Cluster_9, accessible surface, [architecture](keyword_architecture), architecture design, attention, [balcony](keyword_balcony), [bedroom](keyword_bedroom), behaviour, [build](keyword_build), [building](keyword_building), building parameter, [case](keyword_case), case for space, changeable space, citizen, [city](keyword_city), city area, communication, [community](keyword_community), community space, community space development, concept, [constraint](keyword_constraint), context, [de spatialization](keyword_de_spatialization), dennistoun, door, earth, [economy](keyword_economy), efﬁciency, emergency, energy cost, environment and plan a, existence maximum, existence minimum, [flex space](keyword_flex_space), floor, floor texture, function, [home](keyword_home), [house](keyword_house), ieq condition, [indoor](keyword_indoor), isolation, isolation space, kitchen, new home, [object](keyword_object), occupancy, occupancy management, [occupant](keyword_occupant), [office](keyword_office), open air, [organisation](keyword_organisation), outlet, person, [physical](keyword_physical), [place](keyword_place), placemake, poe scope, poe scope of work, [privacy](keyword_privacy), proportion, public building, [public space](keyword_public_space), public space network, restroom, rooftop, [room](keyword_room), segment, sense, sense of place, [society](keyword_society), [space](keyword_space), space can do so, space index, space type, spaces, spacetime, spacing, spatial, spatialization, [supply](keyword_supply), syntax, terrace, think, think about, time, transportation, uarantine, [urban](keyword_urban), vegetation, [ventilation](keyword_ventilation), welcome the light, [workplace](keyword_workplace), ﬂoor
 
 
-## Concepts
 
- ![](imgs/keyword_space.jpg)
+## Mapping
 
+<img src="plotly/keyword_space.svg">
 
 
 ## Neighbours

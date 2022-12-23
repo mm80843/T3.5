@@ -1,17 +1,17 @@
 # Keyword: news
 
-* [health-mental](cluster_Cluster_15)
+* [health-mental](cluster_10)
 
 
 ## Keywords
 
- * 181 un news, I o nnew, aggregation, audience, avoid news, bbc, bbc news, [beijing](keyword_beijing), beijing news, blog post, bloomberg news, [business](keyword_business), cbc, censor, cnn news, communication, comprehension, computer weekly, computerworld, content, contentitem, coronavirus minister urge food shopper to be considerate, coronavirus news, [covid 19 pandemic](keyword_covid_19_pandemic), [covid-19](keyword_covid-19), credible news source, current affair, displaynew, drill, engineering news record, [fake news](keyword_fake_news), government news, health care it news, healthcare it news, iitu, [india](keyword_india), [information](keyword_information), [infrastructure](keyword_infrastructure), [internet](keyword_internet), internet news portal, ireland, magazine, medium, mobile health news, nature news, nbc, nbc news, [news](keyword_news), news agency, news ap, news arab, news article, news at a glance, news audience, news bbc, news berkley, news bloomberg, news cbc, news com, news date, news eng, news euronew com, news explainer, news government, news headline, news it, news itu, news medium, news nature, news nbc, news r, news sky, news source, news staff, news u, news wise, news19_e, newsbeat, newsone, newspaper, newswire, newswise, [opinion](keyword_opinion), [plan](keyword_plan), planning news, sky news, source, sputniknew, sputniknew uz, [staff](keyword_staff), statistic, tuoi tre news, u s, un news, unit, usa today, vox, which country be on coronavir we lockdown spain italy, wire, wire in
+ * 181 un news, I o nnew, aggregation, audience, avoid news, bbc, bbc news, [beijing](keyword_beijing), beijing news, blog post, bloomberg news, [business](keyword_business), cbc, censor, cnn news, communication, comprehension, computer weekly, computerworld, content, contentitem, coronavirus minister urge food shopper to be considerate, coronavirus news, [covid 19 pandemic](keyword_covid_19_pandemic), [covid-19](keyword_covid-19), credible news source, current affair, displaynew, drill, engineering news record, [fake news](keyword_fake_news), government news, health care it news, healthcare it news, iitu, [india](keyword_india), [information](keyword_information), [infrastructure](keyword_infrastructure), [internet](keyword_internet), internet news portal, ireland, magazine, [medium](keyword_medium), mobile health news, nature news, nbc, nbc news, [news](keyword_news), news agency, news ap, news arab, news article, news at a glance, news audience, news bbc, news berkley, news bloomberg, news cbc, news com, news date, news eng, news euronew com, news explainer, news government, news headline, news it, news itu, news medium, news nature, news nbc, news r, news sky, news source, news staff, news u, news wise, news19_e, newsbeat, newsone, newspaper, newswire, newswise, [opinion](keyword_opinion), [plan](keyword_plan), planning news, sky news, source, sputniknew, sputniknew uz, staff, statistic, tuoi tre news, u s, un news, unit, usa today, vox, which country be on coronavir we lockdown spain italy, wire, wire in
 
 
-## Concepts
 
- ![](imgs/keyword_news.jpg)
+## Mapping
 
+<img src="plotly/keyword_news.svg">
 
 
 ## Neighbours

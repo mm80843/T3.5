@@ -1,17 +1,17 @@
 # Keyword: disinfection
 
-* [ieq-building](cluster_Cluster_11)
+* [uv-air](cluster_15)
 
 
 ## Keywords
 
- * adverse health effect, [air](keyword_air), airborne virus, airstream, alcohol, alternative approach to disinfection, antibacterial, [antimicrobial](keyword_antimicrobial), autonomous disinfection robot, carrier test, chemical, chlorination, [chlorine](keyword_chlorine), [chlorine dioxide](keyword_chlorine_dioxide), classiﬁcation, [clean](keyword_clean), combat, covid 19 pandemic in china, [covid-19](keyword_covid-19), [decontamination](keyword_decontamination), direct incineration, [disinfectant](keyword_disinfectant), [disinfection](keyword_disinfection), disinfection robot, disposal, drink water, efﬁcient, fil tration, [filtration](keyword_filtration), [germicidal](keyword_germicidal), hand hygiene, hand sanitizer, hand washing, handrail, hazardous, hepa filter, high temperature incineration, high temperature steam disinfection, [hospital](keyword_hospital), household waste, hydrogen peroxide, hygiene, hypochlorite, in duct air disinfection system, inactivation, incineration, indoor surface, [infection](keyword_infection), [infection control](keyword_infection_control), kill mechanism, memarzadeh, microwave disinfection, ozone disinfection, ozonization, photocatalytic, polimeni, ppe protocol, [product](keyword_product), protective material, pulse xenon, purification, purify process, quarantine, residual, respirator, [robot](keyword_robot), [safety](keyword_safety), [sanitation](keyword_sanitation), sanitization, sanitize, self hygiene, self reactivation, [sewage](keyword_sewage), soap, sodium hypochlorite, spray, sterilisation, sterilization, [surfacide](keyword_surfacide), suspension test, [toilet](keyword_toilet), toilet flush, treatment technology, ugi, ugi design basic, [ultraviolet](keyword_ultraviolet), ultraviolet c, ultraviolet germicidal, ultraviolet shelter, [uv](keyword_uv), uv irradiation, uv lamp, uv radiation, [uv-c](keyword_uv-c), [uvgi](keyword_uvgi), virus propagation, waste separation, [wastewater](keyword_wastewater), water disinfection, ﬁltration
+ * adverse health effect, [air](keyword_air), airborne virus, airstream, alcohol, alternative approach to disinfection, antibacterial, [antimicrobial](keyword_antimicrobial), autonomous disinfection robot, carrier test, chemical, chlorination, [chlorine](keyword_chlorine), [chlorine dioxide](keyword_chlorine_dioxide), classiﬁcation, [clean](keyword_clean), combat, covid 19 pandemic in china, [covid-19](keyword_covid-19), [decontamination](keyword_decontamination), direct incineration, [disinfectant](keyword_disinfectant), [disinfection](keyword_disinfection), disinfection robot, disposal, drink water, efﬁcient, fil tration, filtration, [germicidal](keyword_germicidal), hand hygiene, hand sanitizer, hand washing, handrail, hazardous, hepa filter, high temperature incineration, high temperature steam disinfection, [hospital](keyword_hospital), household waste, hydrogen peroxide, hygiene, hypochlorite, in duct air disinfection system, [inactivation](keyword_inactivation), incineration, indoor surface, [infection](keyword_infection), [infection control](keyword_infection_control), kill mechanism, memarzadeh, microwave disinfection, ozone disinfection, ozonization, photocatalytic, polimeni, ppe protocol, product, protective material, pulse xenon, purification, purify process, quarantine, residual, respirator, [robot](keyword_robot), [safety](keyword_safety), [sanitation](keyword_sanitation), sanitization, sanitize, self hygiene, self reactivation, [sewage](keyword_sewage), soap, sodium hypochlorite, spray, sterilisation, sterilization, [surfacide](keyword_surfacide), suspension test, [toilet](keyword_toilet), toilet flush, treatment technology, ugi, ugi design basic, [ultraviolet](keyword_ultraviolet), ultraviolet c, ultraviolet germicidal, ultraviolet shelter, [uv](keyword_uv), uv irradiation, uv lamp, uv radiation, [uv-c](keyword_uv-c), [uvgi](keyword_uvgi), virus propagation, waste separation, [wastewater](keyword_wastewater), water disinfection, ﬁltration
 
 
-## Concepts
 
- ![](imgs/keyword_disinfection.jpg)
+## Mapping
 
+<img src="plotly/keyword_disinfection.svg">
 
 
 ## Neighbours

@@ -2,7 +2,7 @@
 
 * Source: [10.1128/mSystems.00245-20](https://doi.org/10.1128/mSystems.00245-20)
 * Year: 2020
-* Cluster: [air-ventilation](cluster_4)
+* Cluster: [air-sars](cluster_9)
 
 
 
@@ -13,7 +13,7 @@
 
 ## Concepts
 
- ![](imgs/article_dietz_2019_2020.jpg)
+ ![](plotly/article_dietz_2019_2020.svg)
 
 
 
@@ -26,14 +26,14 @@
 * The efficacy of social distance and ventilation effectiveness in preventing COVID-19 transmission - [LINK](article_sun_efficacy_2020)
 * A review of facilities management interventions to mitigate respiratory infections in existing buildings - [LINK](article_zhang_review_2022)
 * A Review on Building Design as a Biomedical System for Preventing COVID-19 Pandemic - [LINK](article_amran_review_2022)
-* How can airborne transmission of COVID-19 indoors be minimised? - [LINK](article_morawska_how_2020)
 * Architectural design strategies for infection prevention and control (IPC) in health-care facilities: towards curbing the spread of Covid-19 \textbar SpringerLink - [LINK](article_udomiaye_architectural_2020)
+* How can airborne transmission of COVID-19 indoors be minimised? - [LINK](article_morawska_how_2020)
 * Indoor Air Quality: Rethinking rules of building design strategies in post-pandemic architecture - [LINK](article_megahed_indoor_2021)
 * Methods for air cleaning and protection of building occupants from airborne pathogens - [LINK](article_bolashikov_methods_2009)
 
 
 ### Closest BPs
 
+* Blueprint: Installing high-efficiency air filters - [LINK](bp_11)
+* Blueprint: Negative pressure rooms - [LINK](bp_13)
 * Blueprint: Installing UV in ductwork - [LINK](bp_10)
-* Blueprint: Monitoring of wastewater - [LINK](bp_21)
-* Blueprint: Resilience in staffing and skills training - [LINK](bp_12)

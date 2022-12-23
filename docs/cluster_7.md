@@ -1,8 +1,8 @@
-# Cluster: __podcast-audio__ (Cluster_7)
+# Cluster: __water-wastewater__ (Cluster_7)
 
 ## Keywords
 
- * [academic](keyword_academic), [audio](keyword_audio), [australia](keyword_australia), [city](keyword_city), [dallas](keyword_dallas), [dutch](keyword_dutch), [email](keyword_email), [eugene](keyword_eugene), [hear](keyword_hear), [listen](keyword_listen), [mic](keyword_mic), [mile](keyword_mile), [pande](keyword_pande), [podcast](keyword_podcast), [project](keyword_project), [road](keyword_road), [roger](keyword_roger), [sound](keyword_sound), [soundscape](keyword_soundscape), [sydney](keyword_sydney)
+ * [change](keyword_change), [datum](keyword_datum), [digital](keyword_digital), [digitalisation](keyword_digitalisation), [garrido](keyword_garrido), [impact](keyword_impact), [infrastructure](keyword_infrastructure), [management](keyword_management), [pandemic](keyword_pandemic), [process](keyword_process), [public](keyword_public), [sector](keyword_sector), [sewage](keyword_sewage), [sewer](keyword_sewer), [system](keyword_system), [treatment](keyword_treatment), [utility](keyword_utility), [wastewater](keyword_wastewater), [water](keyword_water)
 
 
 
@@ -14,4 +14,4 @@
 
 # Linked articles
 
-* The City Under COVID‐19: Podcasting As Digital Methodology - [LINK](article_rogers_city_2020)
+* When the fourth water and digital revolution encountered COVID-19 - [LINK](article_poch_when_2020)

@@ -1,19 +1,17 @@
 # Keyword: work
 
-* [building-space](cluster_Cluster_1)
-
-* [construction-resilience](cluster_Cluster_5)
+* [construction-pandemic](cluster_1)
 
 
 ## Keywords
 
- * Cluster_1, [china](keyword_china), coffee break, commute, [construction worker](keyword_construction_worker), [covid-19](keyword_covid-19), cubicle, department, [desk](keyword_desk), educ j, [education](keyword_education), [employee](keyword_employee), [employer](keyword_employer), employment policy, employment status, empty word, [environment](keyword_environment), ergonomic, exercise, exhaust, experiment, expo, family, family life, free time, future work, harm of work, [health](keyword_health), [home](keyword_home), home life, job, jobsite, learn, leisure, leisure time, life mode, live, mean of production, mobilization, non work responsibility, not work, [office](keyword_office), part time, part time work, place, private life, production, [productivity](keyword_productivity), [public transport](keyword_public_transport), remotely, [resilience](keyword_resilience), [retail](keyword_retail), retirement, role, safety and health at work, [school](keyword_school), smart mobility, [social](keyword_social), [stress](keyword_stress), stress level, [student](keyword_student), [study](keyword_study), study from home, [sustainability](keyword_sustainability), [sustainable](keyword_sustainable), [sustainable work](keyword_sustainable_work), take care of their child, take time off, teleworke, tenure, [theme](keyword_theme), [time](keyword_time), train station, unemployed, unpaid care, unpaid work, urbanization, volunteer, welfare, word, [work](keyword_work), work condition, work deprive of hinder the daily advancement of the job, work environment, work from home, work from home work, work history, work hour, work in the future of work, work initiative, work life balance, work out, work practice, work process, work style, work time, work week, worked, working, [workplace](keyword_workplace)
+ * Cluster_1, [china](keyword_china), coffee break, commute, [construction worker](keyword_construction_worker), [covid-19](keyword_covid-19), cubicle, department, [desk](keyword_desk), educ j, [education](keyword_education), [employee](keyword_employee), [employer](keyword_employer), employment policy, employment status, empty word, [environment](keyword_environment), ergonomic, exercise, exhaust, experiment, expo, family, family life, free time, future work, harm of work, [health](keyword_health), heat loss, [home](keyword_home), home life, job, jobsite, learn, leisure, leisure time, life mode, [live](keyword_live), mean of production, mobilization, non work responsibility, not work, [office](keyword_office), part time, parttime work, [place](keyword_place), private life, production, [productivity](keyword_productivity), [public transport](keyword_public_transport), remotely, retail, retirement, role, safety and health at work, [school](keyword_school), smart mobility, [social](keyword_social), [stress](keyword_stress), stress level, [student](keyword_student), [study](keyword_study), study from home, [sustainability](keyword_sustainability), sustainable, [sustainable work](keyword_sustainable_work), take care of their child, take time off, teleworke, tenure, [theme](keyword_theme), time, train station, unemployed, unpaid care, unpaid work, urbanization, volunteer, welfare, word, [work](keyword_work), work condition, work deprive of hinder the daily advancement of the job, work environment, work from home, work from home work, work history, work hour, work in the future of work, work initiative, work life balance, work out, work practice, work process, work style, work time, work week, worked, working, [workplace](keyword_workplace)
 
 
-## Concepts
 
- ![](imgs/keyword_work.jpg)
+## Mapping
 
+<img src="plotly/keyword_work.svg">
 
 
 ## Neighbours

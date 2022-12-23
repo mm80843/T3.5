@@ -1,17 +1,17 @@
 # Keyword: policy
 
-* [construction-resilience](cluster_Cluster_5)
+* [construction-pandemic](cluster_1)
 
 
 ## Keywords
 
- * action, ad hoc, adaptation, approach, aspect of policy, behavior, brief, [circular economy](keyword_circular_economy), citizen engagement, coherent framework, competition policy, conservation, coordination, cost of compliance, [country](keyword_country), country study, debt moratoria, design decision, dynamic, economic analysis, family policy, governance, [government](keyword_government), [health](keyword_health), health equity, health policy, health policy plan, housing and domestic abuse, housing policy, [impact](keyword_impact), implementation, incentivize, inequality, intervention, intervention design, [labour market](keyword_labour_market), land use policy, [law](keyword_law), legal, legislation, limit immigration, long term, management, marketing policy, [measure](keyword_measure), medicaid, [mitigation](keyword_mitigation), [organisation](keyword_organisation), [perspective](keyword_perspective), [plan](keyword_plan), [policy](keyword_policy), policy analysis, policy choice, policy implication, policy level, policy maker, policy making, policy measure, policy press, policy recommendation, policy tool, policymaker, politic, pract, practice, [privacy](keyword_privacy), [privacy policy](keyword_privacy_policy), procedure, programme, programming, protectionism, [protocol](keyword_protocol), [public](keyword_public), [public health](keyword_public_health), public health crisis, public health research, public intervention, public policy, public work management, recommendation, regulation, regulatory, regulatory fixmeframework, [research](keyword_research), [school](keyword_school), science, [sector](keyword_sector), sectoral, service, [social](keyword_social), sovereign debt, strategy, [sustainable](keyword_sustainable), [sustainable development](keyword_sustainable_development), [sustainable work](keyword_sustainable_work), transition, [transport](keyword_transport), [transport policy](keyword_transport_policy), [urban planning](keyword_urban_planning), urban policy
+ * action, ad hoc, adaptation, approach, aspect of policy, behavior, brief, [circular economy](keyword_circular_economy), citizen engagement, coherent framework, competition policy, conservation, coordination, cost of compliance, [country](keyword_country), country study, debt moratoria, design decision, dynamic, economic analysis, family policy, governance, [government](keyword_government), [health](keyword_health), health equity, health policy, health policy plan, housing and domestic abuse, housing policy, [impact](keyword_impact), implementation, incentivize, inequality, intervention, intervention design, [labour market](keyword_labour_market), land use policy, [law](keyword_law), legal, legislation, limit immigration, long term, [management](keyword_management), marketing policy, [measure](keyword_measure), medicaid, [mitigation](keyword_mitigation), [organisation](keyword_organisation), [perspective](keyword_perspective), [plan](keyword_plan), [policy](keyword_policy), policy analysis, policy choice, policy implication, policy level, policy maker, policy making, policy measure, policy press, policy recommendation, policy tool, policymaker, politic, pract, practice, [privacy](keyword_privacy), [privacy policy](keyword_privacy_policy), procedure, programme, programming, protectionism, [protocol](keyword_protocol), [public](keyword_public), [public health](keyword_public_health), public health crisis, public health research, public intervention, public policy, public work management, recommendation, regulation, regulatory, regulatory fixmeframework, [research](keyword_research), [school](keyword_school), science, [sector](keyword_sector), sectoral, [service](keyword_service), [social](keyword_social), sovereign debt, strategy, sustainable, [sustainable development](keyword_sustainable_development), [sustainable work](keyword_sustainable_work), transition, [transport](keyword_transport), [transport policy](keyword_transport_policy), [urban planning](keyword_urban_planning), urban policy
 
 
-## Concepts
 
- ![](imgs/keyword_policy.jpg)
+## Mapping
 
+<img src="plotly/keyword_policy.svg">
 
 
 ## Neighbours

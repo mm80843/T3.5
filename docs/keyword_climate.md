@@ -1,19 +1,19 @@
 # Keyword: climate
 
-* [urban-city](cluster_Cluster_12)
+* [resilience-infrastructure](cluster_5)
 
-* [malaria-vector](cluster_Cluster_13)
+* [china-case](cluster_11)
 
 
 ## Keywords
 
- * Cluster_12, Cluster_13, a tale of two crisis, adaptation, [africa](keyword_africa), air flow, air quality, [architecture](keyword_architecture), [biodiversity](keyword_biodiversity), biodiversity crisis, bond, [build environment](keyword_build_environment), [building](keyword_building), [change](keyword_change), [city](keyword_city), [climate](keyword_climate), climate building, [climate change](keyword_climate_change), climate resilience, climate zone, climates, climatic, continuous change, covid 19 mitigation strategy, [covid 19 pandemic](keyword_covid_19_pandemic), [covid-19](keyword_covid-19), culture, difference in, difference in climate, dry winter, earth, ecology, [energy](keyword_energy), energy use, [environment](keyword_environment), [environmental](keyword_environmental), finnish, functionality, future energy, ghosh, [health](keyword_health), health effect of climate change, [humidity](keyword_humidity), [hvac](keyword_hvac), impact of climate change, impact of climate change on public health, [indoor](keyword_indoor), [indoor air quality](keyword_indoor_air_quality), [indoor climate](keyword_indoor_climate), indoor climates, indoor space, [infrastructure](keyword_infrastructure), just transition, land use, latitude, life on earth, low humidity, macroclimate, not we, planet, post covidworld, precipitation, [productivity](keyword_productivity), productivity in office, rainfall, recent covid 19 pandemic, relative humidity, research institute, [resilience](keyword_resilience), riddle, season, semi arid, [shock](keyword_shock), [society](keyword_society), socio economic change, spread of the disease, subtropical, [system](keyword_system), [temperature](keyword_temperature), the epidemic, [tourism](keyword_tourism), trade, tropical, valley ecosystems, warm, weather, west nile virus, why have not we, [winter](keyword_winter)
+ * Cluster_11, Cluster_5, a tale of two crisis, adaptation, [africa](keyword_africa), air flow, air quality, [architecture](keyword_architecture), [biodiversity](keyword_biodiversity), biodiversity crisis, bond, [build environment](keyword_build_environment), [building](keyword_building), [change](keyword_change), [city](keyword_city), [climate](keyword_climate), climate building, [climate change](keyword_climate_change), climate resilience, climate zone, climates, climatic, continuous change, covid 19 mitigation strategy, [covid 19 pandemic](keyword_covid_19_pandemic), [covid-19](keyword_covid-19), culture, difference in, difference in climate, dry winter, earth, ecology, [energy](keyword_energy), energy use, [environment](keyword_environment), environmental, finnish, functionality, future energy, ghosh, [health](keyword_health), health effect of climate change, [humidity](keyword_humidity), [hvac](keyword_hvac), impact of climate change, impact of climate change on public health, [indoor](keyword_indoor), [indoor air quality](keyword_indoor_air_quality), [indoor climate](keyword_indoor_climate), indoor climates, indoor space, [infrastructure](keyword_infrastructure), just transition, land use, latitude, life on earth, low humidity, macroclimate, not we, planet, post covidworld, precipitation, [productivity](keyword_productivity), productivity in office, rainfall, recent covid 19 pandemic, relative humidity, research institute, [resilience](keyword_resilience), riddle, season, semi arid, [shock](keyword_shock), [society](keyword_society), socio economic change, spread of the disease, subtropical, [system](keyword_system), [temperature](keyword_temperature), the epidemic, [tourism](keyword_tourism), trade, tropical, valley ecosystems, warm, weather, west nile virus, why have not we, [winter](keyword_winter)
 
 
-## Concepts
 
- ![](imgs/keyword_climate.jpg)
+## Mapping
 
+<img src="plotly/keyword_climate.svg">
 
 
 ## Neighbours

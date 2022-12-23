@@ -1,19 +1,19 @@
 # Keyword: wastewater
 
-* [wastewater-sars](cluster_Cluster_2)
+* [air-sars](cluster_7)
 
-* [ieq-building](cluster_Cluster_11)
+* [water-wastewater](cluster_9)
 
 
 ## Keywords
 
- * args, [australia](keyword_australia), b2, bioindicator, brie, bsl 3, catchment, catchment area, catchment population, centrifugation, composition, conﬁrmation, ct, ct 38, ct38, datum source, discharge, [disinfection](keyword_disinfection), drink water, drinkable water, dutch city, effluent, efﬂuent, efﬂuent water, electropositive membrane, [environment](keyword_environment), [epidemiology](keyword_epidemiology), esri arcgis, excreta, fece, health risk, human waste, insewer, [italy](keyword_italy), management, matrix, monitoring of illicit drug consumption, outfall, [pcr](keyword_pcr), pcr inhibitor, phns, plumbing, potato chip, [product](keyword_product), [qpcr](keyword_qpcr), reclaimed water reuse, river, river water, [rna](keyword_rna), rt qpcr, [sample](keyword_sample), [sanitation](keyword_sanitation), [sar cov 2](keyword_sar_cov_2), sediment, [sewage](keyword_sewage), sewage pipe, sewage system, sewage treatment plant, sewer, sludge, soil, solid waste, stormﬂow, supernatant, surface water, [surveillance](keyword_surveillance), [temperature](keyword_temperature), testing, titer, [transmission](keyword_transmission), treat, treat sewage, treatment, treatment catchment basin, treatment facility, treatment plant, untreated, [urban](keyword_urban), urine, [waste](keyword_waste), waste collection, [wastewater](keyword_wastewater), wastewater day, wastewater drainage, wastewater in australia, wastewater management, wastewater matrix, wastewater pollution, wastewater pump, wastewater surveillance, wastewater treatment, wastewater treatment plant, wastewater treatment system, wastewaterreatment, [water](keyword_water), water fingerprinting, water quality, water source, [wwtp](keyword_wwtp), ﬂow
+ * args, [australia](keyword_australia), b2, bioindicator, brie, bsl 3, catchment, catchment area, catchment population, centrifugation, composition, conﬁrmation, ct, ct 38, ct38, datum source, discharge, [disinfection](keyword_disinfection), drink water, drinkable water, dutch city, effluent, efﬂuent, efﬂuent water, electropositive membrane, [environment](keyword_environment), [epidemiology](keyword_epidemiology), esri arcgis, excreta, fece, health risk, human waste, insewer, [italy](keyword_italy), [management](keyword_management), matrix, monitoring of illicit drug consumption, outfall, pcr, pcr inhibitor, phns, plumbing, potato chip, product, qpcr, reclaimed water reuse, river, river water, rna, rt qpcr, [sample](keyword_sample), [sanitation](keyword_sanitation), [sar cov 2](keyword_sar_cov_2), sediment, [sewage](keyword_sewage), sewage pipe, sewage system, sewage treatment plant, [sewer](keyword_sewer), sludge, soil, solid waste, stormﬂow, supernatant, surface water, [surveillance](keyword_surveillance), [temperature](keyword_temperature), testing, titer, [transmission](keyword_transmission), treat, treat sewage, [treatment](keyword_treatment), treatment catchment basin, treatment facility, treatment plant, untreated, [urban](keyword_urban), urine, waste, waste collection, [wastewater](keyword_wastewater), wastewater day, wastewater drainage, wastewater in australia, wastewater management, wastewater matrix, wastewater pollution, wastewater pump, wastewater surveillance, wastewater treatment, wastewater treatment plant, wastewater treatment system, wastewaterreatment, [water](keyword_water), water fingerprinting, water quality, water source, [wwtp](keyword_wwtp), ﬂow
 
 
-## Concepts
 
- ![](imgs/keyword_wastewater.jpg)
+## Mapping
 
+<img src="plotly/keyword_wastewater.svg">
 
 
 ## Neighbours

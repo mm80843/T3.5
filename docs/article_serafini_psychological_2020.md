@@ -2,7 +2,7 @@
 
 * Source: [10.1093/qjmed/hcaa201](https://doi.org/10.1093/qjmed/hcaa201)
 * Year: 2020
-* Cluster: [health-mental](cluster_15)
+* Cluster: [health-mental](cluster_10)
 
 
 
@@ -13,7 +13,7 @@
 
 ## Concepts
 
- ![](imgs/article_serafini_psychological_2020.jpg)
+ ![](plotly/article_serafini_psychological_2020.svg)
 
 
 
@@ -26,15 +26,15 @@
 * Mental health and COVID-19 - [LINK](article_who_mental_2021)
 * Home garden use during COVID-19: Associations with physical and mental wellbeing in older adults - [LINK](article_corley_home_2021)
 * COVID-19 Lockdown: Housing Built Environment’s Effects on Mental Health - [LINK](article_amerio_covid-19_2020)
-* A Mixed Approach on Resilience of Spanish Dwellings and Households during COVID-19 Lockdown - [LINK](article_cuerdo-vilches_mixed_2020)
-* Navigating Climate Change: Rethinking the Role of Buildings - [LINK](article_cole_navigating_2020)
-* How will COVID-19 change future building regulations? - [LINK](article_hmc_architects_how_2020)
-* COVID-19 Lessons for a Resilient Built Environment: A Roadmap - [LINK](article_hull_covid-19_2020)
-* Will a pandemic change building codes? - [LINK](article_rozgus_will_2020)
+* Association between indoor-outdoor green features and psychological health during the COVID-19 lockdown in Italy: A cross-sectional nationwide study - [LINK](article_spano_association_2021)
+* Green spaces, especially forest, linked to lower SARS-CoV-2 infection rates: A one-year nationwide study - [LINK](article_jiang_green_2021)
+* Urban form: Realising the value of green space: a planners’ perspective on the COVID-19 pandemic - [LINK](article_ahmadpoor_urban_2021)
+* The role of green roofs in post COVID-19 confinement: An analysis of willingness to pay - [LINK](article_manso_role_2021)
+* The impact of the COVID-19 pandemic on the importance of urban green spaces to the public - [LINK](article_noszczyk_impact_2022)
 
 
 ### Closest BPs
 
-* Blueprint: Architecture design - [LINK](bp_2)
 * Blueprint: Building Adaptation during a pandemic - [LINK](bp_14)
-* Blueprint: Tender support at building stage - [LINK](bp_9)
+* Blueprint: Architecture design - [LINK](bp_2)
+* Blueprint: Tracking and enforcing use of Personal Protective Equipment - [LINK](bp_23)

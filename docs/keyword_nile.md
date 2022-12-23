@@ -1,17 +1,17 @@
 # Keyword: nile
 
-* [malaria-vector](cluster_Cluster_12)
+* [malaria-vector](cluster_13)
 
 
 ## Keywords
 
- * Cluster_12, delta, [nile](keyword_nile)
+ * Cluster_13, delta, [nile](keyword_nile)
 
 
-## Concepts
 
- ![](imgs/keyword_nile.jpg)
+## Mapping
 
+<img src="plotly/keyword_nile.svg">
 
 
 ## Neighbours

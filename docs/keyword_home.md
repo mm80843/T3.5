@@ -1,17 +1,17 @@
 # Keyword: home
 
-* [building-space](cluster_Cluster_1)
+* [housing-space](cluster_14)
 
 
 ## Keywords
 
- * accessible green roof, [apartment](keyword_apartment), [architect](keyword_architect), [area](keyword_area), bathroom, behind close door, [build](keyword_build), [build environment](keyword_build_environment), [building](keyword_building), [community](keyword_community), daylighte in the home, [design](keyword_design), domestic space, economic analysis, entry, [environment](keyword_environment), exist home, extra bedroom, family, family zone, fixture and fitting, floor plan, floor plan draw, gar den, geography of harm, haven, health and wellness, [home](keyword_home), home office, home space, homebuyer, [homelessness](keyword_homelessness), [house](keyword_house), [housing](keyword_housing), housing research, [hvac](keyword_hvac), [indoor](keyword_indoor), [infrastructure](keyword_infrastructure), job, kitchen, live environment, live space, living place, living quarter, living room, [lockdown](keyword_lockdown), meeting place, naturally ventilate, neighbourhood, [office](keyword_office), other place, outdoor space, [pandemic](keyword_pandemic), pandemic resilient, pandemic resilient home, [patient](keyword_patient), [people](keyword_people), pet, place, [plant](keyword_plant), plant at home, playground, poor ieq, privacy within the home, private zone, [public space](keyword_public_space), quarantine, quarantine residence, ready, remote working, resale value, residence, [room](keyword_room), safe place, single family, smart home, solar generation, [space](keyword_space), space in which we live, stay home, study show that people spend more time, [sustainable architecture](keyword_sustainable_architecture), the home, the meaning of home in the decade of owner occupation, the the home, the the home and and, [theme](keyword_theme), ventilate, wall, wall and dark corner, [window](keyword_window), window opening, [work](keyword_work), work from home, work place, work study, work study from home, [workplace](keyword_workplace), workspace, yard
+ * accessible green roof, [apartment](keyword_apartment), [architect](keyword_architect), [area](keyword_area), bathroom, behind close door, [build](keyword_build), [build environment](keyword_build_environment), [building](keyword_building), [community](keyword_community), daylighte in the home, [design](keyword_design), domestic space, economic analysis, entry, [environment](keyword_environment), exist home, extra bedroom, family, family zone, fixture and fitting, floor plan, floor plan draw, gar den, geography of harm, haven, health and wellness, [home](keyword_home), home office, home space, homebuyer, [homelessness](keyword_homelessness), [house](keyword_house), [housing](keyword_housing), housing research, [hvac](keyword_hvac), [indoor](keyword_indoor), [infrastructure](keyword_infrastructure), job, kitchen, live environment, live space, living place, living quarter, living room, [lockdown](keyword_lockdown), meeting place, naturally ventilate, neighbourhood, [office](keyword_office), other place, outdoor space, [pandemic](keyword_pandemic), pandemic resilient, pandemic resilient home, [patient](keyword_patient), [people](keyword_people), pet, [place](keyword_place), [plant](keyword_plant), plant at home, playground, poor ieq, privacy within the home, private zone, [public space](keyword_public_space), quarantine, quarantine residence, ready, remote working, resale value, residence, [room](keyword_room), safe place, single family, smart home, solar generation, [space](keyword_space), space in which we live, stay home, study show that people spend more time, [sustainable architecture](keyword_sustainable_architecture), the home, the meaning of home in the decade of owner occupation, the the home, the the home and and, [theme](keyword_theme), ventilate, wall, wall and dark corner, [window](keyword_window), window opening, [work](keyword_work), work from home, work place, work study, work study from home, [workplace](keyword_workplace), workspace, yard
 
 
-## Concepts
 
- ![](imgs/keyword_home.jpg)
+## Mapping
 
+<img src="plotly/keyword_home.svg">
 
 
 ## Neighbours

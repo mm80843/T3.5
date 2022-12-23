@@ -2,7 +2,7 @@
 
 * Source: [10.14745/ccdr.v42i10a05](https://doi.org/10.14745/ccdr.v42i10a05)
 * Year: 2016
-* Cluster: [urban-city](cluster_13)
+* Cluster: [urban-city](cluster_6)
 
 
 
@@ -13,7 +13,7 @@
 
 ## Concepts
 
- ![](imgs/article_alabaster_global_2016.jpg)
+ ![](plotly/article_alabaster_global_2016.svg)
 
 
 
@@ -29,12 +29,12 @@
 * Addressing vulnerability, building resilience: community-based adaptation to vector-borne diseases in the context of global change - [LINK](article_bardosh_addressing_2017)
 * Decision Making within the Built Environment as a Strategy for Mitigating the Risk of Malaria and Other Vector-Borne Diseases - [LINK](article_obonyo_decision_2018)
 * Integrating rapid risk mapping and mobile phone call record data for strategic malaria elimination planning - [LINK](article_tatem_integrating_2014)
-* CIDO, a community-based ontology for coronavirus disease knowledge and data integration, sharing, and analysis - [LINK](article_he_cido_2020)
-* A Continuously Active Antimicrobial Coating effective against Human Coronavirus 229E - [LINK](article_ikner_continuously_2020)
+* Green infrastructure through the lens of “One Health”: A systematic review and integrative framework uncovering synergies and trade-offs between mental health and wildlife support in cities - [LINK](article_felappi_green_2020)
+* Urban Green Infrastructure and Green Open Spaces: An Issue of Social Fairness in Times of COVID-19 Crisis - [LINK](article_reinwald_urban_2021)
 
 
 ### Closest BPs
 
-* Blueprint: Antimicrobial Surfaces - [LINK](bp_5)
-* Blueprint: Smart Locker System - [LINK](bp_1)
-* Blueprint: Good hand hygiene practice - [LINK](bp_16)
+* Blueprint: Mental health – Act: Do something - [LINK](bp_18)
+* Blueprint: Mental health – Belong: Do something with someone - [LINK](bp_19)
+* Blueprint: Mental health – Commit: Do something meaningfull - [LINK](bp_20)

@@ -2,7 +2,7 @@
 
 * Source: [10.3389/fpubh.2020.597753](https://doi.org/10.3389/fpubh.2020.597753)
 * Year: 2021
-* Cluster: [health-patient](cluster_14)
+* Cluster: [air-sars](cluster_9)
 
 
 
@@ -13,7 +13,7 @@
 
 ## Concepts
 
- ![](imgs/article_pansini_covid-19_2021.jpg)
+ ![](plotly/article_pansini_covid-19_2021.svg)
 
 
 
@@ -24,16 +24,17 @@
 * Air pollution linked with higher COVID-19 death rates - [LINK](article_harvard_th_chan_schoold_of_public_health_air_2020)
 * Nurture to nature via COVID-19, a self-regenerating environmental strategy of environment in global context - [LINK](article_paital_nurture_2020)
 * Indirect effects of COVID-19 on the environment - [LINK](article_zambrano-monserrate_indirect_2020)
-* The COVID-19 Impact on Flexible Office Space - [LINK](article_clifton_covid-19_2020)
-* What our response to the COVID-19 pandemic tells us of our capacity to respond to climate change - [LINK](article_gemenne_what_2020)
-* Coronavirus and Climate Change - [LINK](article_harvard_th_chan_schoold_of_public_health_coronavirus_2020)
-* COVID-19 and its Modes of Transmission - [LINK](article_karia_covid-19_2020)
-* Responsible Transport: A post-COVID agenda for transport policy and practice - [LINK](article_budd_responsible_2020)
-* Mobility Behaviour in View of the Impact of the COVID-19 Pandemic—Public Transport Users in Gdansk Case Study - [LINK](article_przybylowski_mobility_2021)
+* The Effect of Opening Windows on Air Change Rates in Two Homes - [LINK](article_howard-reed_effect_2002)
+* Characterization and performance evaluation of a full-scale activated carbon-based dynamic botanical air filtration system for improving indoor air quality - [LINK](article_wang_characterization_2011)
+* The effect of a redesigned floor plan, occupant density and the quality of indoor climate on the cost of space, productivity and sick leave in an office building–A case study - [LINK](article_saari_effect_2006)
+* Mechanistic insights into the effect of humidity on airborne influenza virus survival, transmission and incidence - [LINK](article_marr_mechanistic_2019)
+* Effects of temperature and humidity on the spread of COVID-19: A systematic review - [LINK](article_mecenas_effects_2020)
+* COVID-19 could be a seasonal illness with higher risk in winter: Reduced humidity linked to increased COVID-19 risk - [LINK](article_university_of_sydney_covid-19_2020)
+* The effect of human mobility and control measures on the COVID-19 epidemic in China - [LINK](article_kraemer_effect_2020)
 
 
 ### Closest BPs
 
 * Blueprint: Monitoring of wastewater - [LINK](bp_21)
+* Blueprint: Negative pressure rooms - [LINK](bp_13)
 * Blueprint: Installing UV in ductwork - [LINK](bp_10)
-* Blueprint: Resilience in staffing and skills training - [LINK](bp_12)

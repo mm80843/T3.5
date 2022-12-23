@@ -1,19 +1,17 @@
 # Keyword: aerosol
 
-* [air-ventilation](cluster_Cluster_0)
-
-* [nd-icu](cluster_Cluster_4)
+* [uv-air](cluster_15)
 
 
 ## Keywords
 
- * SARS-CoV-2, [aerosol](keyword_aerosol), aerosol sci, aerosolization, [air](keyword_air), air qual, air quality, [airborne](keyword_airborne), airborne particle, airborne pathogen, airborne transmission, aqueous, artiﬁcial, atmosphere, [bacteria](keyword_bacteria), bacterial, bio aerosol, [bioaerosol](keyword_bioaerosol), [biosampler](keyword_biosampler), breath plume, clothing, cloud, cone, contrate, [covid-19](keyword_covid-19), diameter, dispersal, [droplet](keyword_droplet), droplet nuclei, droplet phase, exhale breath condensate, exposure risk, face mask, faecal, far uvc light, generate, hcov 19, indoor airmanagement, [infection](keyword_infection), infectious, infective, [influenza](keyword_influenza), [influenza virus](keyword_influenza_virus), inhalation, inﬂuenza virus, leakage, manifold, med j, medium of transmission, ms2, nebulization, oxygen, [pandemic](keyword_pandemic), [particle](keyword_particle), particle size, particle size distribution, particulate, particulate removal, [pathogen](keyword_pathogen), phase separation, plastic, pm 10, pm 2, protective equipment, [respiratory](keyword_respiratory), [rna](keyword_rna), saliva, samplingon, [sar cov 1](keyword_sar_cov_1), [sar cov 2](keyword_sar_cov_2), sars coronavirus, sci aerosolsci, singe, small, smallparticle aerosol, smog, spray, [spread](keyword_spread), submicrometer, submicrometer virus, [surface](keyword_surface), tissue culture medium, trans mitter, [transmission](keyword_transmission), transmission distance, transmit, transmit infection, ultrafine particle, [uv](keyword_uv), [uvgi](keyword_uvgi), vapor, [ventilation](keyword_ventilation), [viral](keyword_viral), [virus](keyword_virus), virus irradiation chamber, wan mp, wastewater treatment, water droplet, water vapor, wc
+ * SARS-CoV-2, [aerosol](keyword_aerosol), aerosol sci, aerosolization, [air](keyword_air), air qual, air quality, [airborne](keyword_airborne), airborne particle, airborne pathogen, airborne transmission, aqueous, artiﬁcial, atmosphere, [bacteria](keyword_bacteria), bacterial, bio aerosol, [bioaerosol](keyword_bioaerosol), [biosampler](keyword_biosampler), breath plume, clothing, cloud, cone, contrate, [covid-19](keyword_covid-19), diameter, dispersal, [droplet](keyword_droplet), droplet nuclei, droplet phase, exhale breath condensate, exposure risk, face mask, faecal, far uvc light, generate, hcov 19, indoor airmanagement, [infection](keyword_infection), infectious, infective, [influenza](keyword_influenza), [influenza virus](keyword_influenza_virus), inhalation, inﬂuenza virus, leakage, manifold, med j, medium of transmission, ms2, nebulization, oxygen, [pandemic](keyword_pandemic), [particle](keyword_particle), particle size, particle size distribution, particulate, particulate removal, [pathogen](keyword_pathogen), phase separation, plastic, pm 10, pm 2, pm 2 5, [pollutant](keyword_pollutant), pollute, protective equipment, [respiratory](keyword_respiratory), rna, saliva, samplingon, [sar cov 1](keyword_sar_cov_1), [sar cov 2](keyword_sar_cov_2), sars coronavirus, sci aerosolsci, singe, small, smallparticle aerosol, smog, spray, [spread](keyword_spread), [surface](keyword_surface), tissue culture medium, [transmission](keyword_transmission), transmission distance, transmit, transmit infection, ultrafine particle, [uv](keyword_uv), [uvgi](keyword_uvgi), vapor, [ventilation](keyword_ventilation), [viral](keyword_viral), [virus](keyword_virus), virus irradiation chamber, wastewater treatment, water droplet, water vapor, wc, weather
 
 
-## Concepts
 
- ![](imgs/keyword_aerosol.jpg)
+## Mapping
 
+<img src="plotly/keyword_aerosol.svg">
 
 
 ## Neighbours

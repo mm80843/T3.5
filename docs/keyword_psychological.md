@@ -1,17 +1,17 @@
 # Keyword: psychological
 
-* [health-mental](cluster_Cluster_15)
+* [health-mental](cluster_10)
 
 
 ## Keywords
 
- * Cluster_15, acoustic, action, aesthetic, affective, affective temperament, [anxiety](keyword_anxiety), aversion, aversion to big crowd, behavioral, behaviour, [behavioural](keyword_behavioural), benefit, benefit of nearby nature, [biodiversity](keyword_biodiversity), burnout, clinical, cognitive, cognitive affective, cognitive state, conceptualization, [coronavirus](keyword_coronavirus), covid 19 outbreak in china, [covid-19](keyword_covid-19), criminological, cross sectional, [depressive symptom](keyword_depressive_symptom), di tance, difﬁcultie, [distance](keyword_distance), distance dimension, dysfunctional, emotional, [exposure](keyword_exposure), exposure to the outside, [fear](keyword_fear), [flourish](keyword_flourish), gender, green feature, happiness, [health](keyword_health), health and wellbeing, health outcome, health risk perception, home confinement, life satisfaction, [loneliness](keyword_loneliness), medicine, [mental](keyword_mental), mentalhealth, mere exposure, moodi ness, moodiness, moral, panic buying, perceive control, [perceive risk](keyword_perceive_risk), perception, [perspective](keyword_perspective), [physical](keyword_physical), physically ill, physiological, place attachment, positive perception, [protective behavior](keyword_protective_behavior), [psychological](keyword_psychological), [psychosocial](keyword_psychosocial), [qualitative](keyword_qualitative), quarantine, reinforcement behaviour, reservation, [resilience](keyword_resilience), restoration, [risk](keyword_risk), [risk perception](keyword_risk_perception), science, [social](keyword_social), sociological, [state](keyword_state), stigma, [stress](keyword_stress), stress alleviation, stress recovery theory, t bringslimark, the experience of nature, therapy, treatment, uncertainty, uncertainty of the future, view biophilia, [well be](keyword_well_be), [wellbee](keyword_wellbee), zhu g
+ * Cluster_10, acoustic, action, aesthetic, affective, affective temperament, [anxiety](keyword_anxiety), aversion, aversion to big crowd, behavioral, behaviour, behavioural, benefit, benefit of nearby nature, [biodiversity](keyword_biodiversity), burnout, clinical, cognitive, cognitive affective, cognitive state, conceptualization, [coronavirus](keyword_coronavirus), covid 19 outbreak in china, [covid-19](keyword_covid-19), criminological, cross sectional, [depressive symptom](keyword_depressive_symptom), di tance, difﬁcultie, [distance](keyword_distance), distance dimension, dysfunctional, emotional, [exposure](keyword_exposure), exposure to the outside, [fear](keyword_fear), [flourish](keyword_flourish), gender, green feature, happiness, [health](keyword_health), health and wellbeing, health outcome, health risk perception, home confinement, life satisfaction, [loneliness](keyword_loneliness), medicine, [mental](keyword_mental), mentalhealth, mere exposure, moodi ness, moodiness, moral, panic buying, perceive control, [perceive risk](keyword_perceive_risk), perception, [perspective](keyword_perspective), [physical](keyword_physical), physically ill, physiological, place attachment, positive perception, [protective behavior](keyword_protective_behavior), [psychological](keyword_psychological), [psychosocial](keyword_psychosocial), [qualitative](keyword_qualitative), quarantine, reinforcement behaviour, reservation, [resilience](keyword_resilience), restoration, [risk](keyword_risk), [risk perception](keyword_risk_perception), science, [social](keyword_social), sociological, [state](keyword_state), stigma, [stress](keyword_stress), stress alleviation, stress recovery theory, t bringslimark, the experience of nature, therapy, [treatment](keyword_treatment), uncertainty, uncertainty of the future, view biophilia, [well be](keyword_well_be), [wellbee](keyword_wellbee), zhu g
 
 
-## Concepts
 
- ![](imgs/keyword_psychological.jpg)
+## Mapping
 
+<img src="plotly/keyword_psychological.svg">
 
 
 ## Neighbours

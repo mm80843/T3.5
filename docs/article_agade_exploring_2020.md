@@ -2,7 +2,7 @@
 
 * Source: [10.5120/ijca2020920923](https://doi.org/10.5120/ijca2020920923)
 * Year: 2020
-* Cluster: [health-patient](cluster_14)
+* Cluster: [construction-pandemic](cluster_1)
 
 
 
@@ -13,7 +13,7 @@
 
 ## Concepts
 
- ![](imgs/article_agade_exploring_2020.jpg)
+ ![](plotly/article_agade_exploring_2020.svg)
 
 
 
@@ -21,20 +21,20 @@
 
 ### Closest articles
 
-* Social distancing enhanced automated optimal design of physical spaces in the wake of the COVID-19 pandemic - [LINK](article_ugail_social_2021)
 * COVID19-Routes: A Safe Pedestrian Navigation Service - [LINK](article_cantarero_covid19-routes_2021)
+* Social distancing enhanced automated optimal design of physical spaces in the wake of the COVID-19 pandemic - [LINK](article_ugail_social_2021)
+* COVID-ABS: An agent-based model of COVID-19 epidemic to simulate health and economic effects of social distancing interventions - [LINK](article_silva_covid-abs_2020)
 * Risk Diagnosis and Mitigation System of COVID-19 Using Expert System and Web Scraping - [LINK](article_mufid_risk_2020)
 * Digital Twin of COVID-19 Mass Vaccination Centers - [LINK](article_pilati_digital_2021)
 * COVID-19 Bulletin 1: Alterations to BREEAM assessment requirements as a result of the Coronavirus pandemic – Knowledge Base - [LINK](article_breeam_covid-19_2020)
-* COVID-ABS: An agent-based model of COVID-19 epidemic to simulate health and economic effects of social distancing interventions - [LINK](article_silva_covid-abs_2020)
-* Building occupancy estimation with people flow modeling in AnyLogic - [LINK](article_li_building_2016)
-* Construction of a Linked Data Set of COVID-19 Knowledge Graphs: Development and Applications - [LINK](article_wang_construction_2022)
 * EXPOSED: An occupant exposure model for confined spaces to retrofit crowd models during a pandemic - [LINK](article_ronchi_exposed_2020)
+* Construction of a Linked Data Set of COVID-19 Knowledge Graphs: Development and Applications - [LINK](article_wang_construction_2022)
+* Building occupancy estimation with people flow modeling in AnyLogic - [LINK](article_li_building_2016)
 * A Platform for Citizen Cooperation during the COVID-19 Pandemic in RN, Brazil - [LINK](article_de_araujo_platform_2020)
 
 
 ### Closest BPs
 
 * Blueprint: Resilience in staffing and skills training - [LINK](bp_12)
-* Blueprint: Smart Locker System - [LINK](bp_1)
-* Blueprint: One-way mobility circulation - [LINK](bp_4)
+* Blueprint: Tracking and enforcing use of Personal Protective Equipment - [LINK](bp_23)
+* Blueprint: Public places as information points - [LINK](bp_8)

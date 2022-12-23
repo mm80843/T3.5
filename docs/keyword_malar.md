@@ -1,17 +1,17 @@
 # Keyword: malar
 
-* [malaria-vector](cluster_Cluster_12)
+* [malaria-vector](cluster_13)
 
 
 ## Keywords
 
- * Cluster_12, e l korenromp, l e korenromp, [malar](keyword_malar), mali, serbia
+ * Cluster_13, e l korenromp, l e korenromp, [malar](keyword_malar), mali, serbia
 
 
-## Concepts
 
- ![](imgs/keyword_malar.jpg)
+## Mapping
 
+<img src="plotly/keyword_malar.svg">
 
 
 ## Neighbours

@@ -1,17 +1,17 @@
 # Keyword: depressive
 
-* [health-mental](cluster_Cluster_15)
+* [health-mental](cluster_10)
 
 
 ## Keywords
 
- * Cluster_15, [anxiety](keyword_anxiety), anxiety disorder, [depressive](keyword_depressive), [lockdown](keyword_lockdown), moderate severe, mood, [psychopathology](keyword_psychopathology), [symptom](keyword_symptom)
+ * Cluster_10, [anxiety](keyword_anxiety), anxiety disorder, [depressive](keyword_depressive), [lockdown](keyword_lockdown), moderate severe, mood, [psychopathology](keyword_psychopathology), [symptom](keyword_symptom)
 
 
-## Concepts
 
- ![](imgs/keyword_depressive.jpg)
+## Mapping
 
+<img src="plotly/keyword_depressive.svg">
 
 
 ## Neighbours

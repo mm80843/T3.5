@@ -2,7 +2,7 @@
 
 * Source: [10.1016/j.mhp.2021.200222](https://doi.org/10.1016/j.mhp.2021.200222)
 * Year: 2021
-* Cluster: [health-patient](cluster_14)
+* Cluster: [construction-pandemic](cluster_1)
 
 
 
@@ -13,7 +13,7 @@
 
 ## Concepts
 
- ![](imgs/article_santini_mental_2021.jpg)
+ ![](plotly/article_santini_mental_2021.svg)
 
 
 
@@ -22,19 +22,18 @@
 ### Closest articles
 
 * Multilevel Analysis of Personal, Non-Medical COVID-19-Related Impact Worldwide - [LINK](article_dye_multilevel_2020)
-* COVID-19 and the rise of intimate partner violence - [LINK](article_aguero_covid-19_2021)
-* What has been the impact of the COVID-19 pandemic on immigrants? An update on recent evidence - [LINK](article_oecd_what_2022)
-* 10 Adaptive Measures for Public Places to face the COVID 19 Pandemic Outbreak - [LINK](article_cheshmehzangi_10_2020)
 * COVID-19 and social inequalities: a complex and dynamic interaction - [LINK](article_quantin_covid-19_2022)
-* The City Under COVID‐19: Podcasting As Digital Methodology - [LINK](article_rogers_city_2020)
-* How loneliness is talked about in social media during COVID-19 pandemic: Text mining of 4,492 Twitter feeds - [LINK](article_koh_how_2022)
-* The Socio-Spatial Determinants of COVID-19 Diffusion: The Impact of Globalisation, Settlement Characteristics and Population - [LINK](article_sigler_socio-spatial_2020)
+* What has been the impact of the COVID-19 pandemic on immigrants? An update on recent evidence - [LINK](article_oecd_what_2022)
+* COVID-19 and the rise of intimate partner violence - [LINK](article_aguero_covid-19_2021)
 * The impact of COVID-19 and strategies for mitigation and suppression in low- and middle-income countries - [LINK](article_walker_impact_2020)
-* Reframe how to serve your community in the midst of a pandemic - [LINK](article_sutton_reframe_2020)
+* Rotating groups at work, school best against COVID-19 spread: Study - [LINK](article_afp_rotating_2021)
+* The Socio-Spatial Determinants of COVID-19 Diffusion: The Impact of Globalisation, Settlement Characteristics and Population - [LINK](article_sigler_socio-spatial_2020)
+* How loneliness is talked about in social media during COVID-19 pandemic: Text mining of 4,492 Twitter feeds - [LINK](article_koh_how_2022)
+* The socio-economic determinants of COVID-19: A spatial analysis of German county level data - [LINK](article_ehlert_socio-economic_2021)
 
 
 ### Closest BPs
 
 * Blueprint: Resilience in staffing and skills training - [LINK](bp_12)
-* Blueprint: Architecture design - [LINK](bp_2)
-* Blueprint: Building Adaptation during a pandemic - [LINK](bp_14)
+* Blueprint: Tracking and enforcing use of Personal Protective Equipment - [LINK](bp_23)
+* Blueprint: Smart Locker System - [LINK](bp_1)

@@ -1,17 +1,17 @@
 # Keyword: surface
 
-* [airport-coating](cluster_Cluster_6)
+* [air-sars](cluster_9)
 
 
 ## Keywords
 
- * Cluster_6, [aerosol](keyword_aerosol), [air](keyword_air), [antimicrobial](keyword_antimicrobial), [architect](keyword_architect), atmospheric climate change, [build](keyword_build), [build environment](keyword_build_environment), cardboard, contact, contamination, counter top, [desk](keyword_desk), disinfect, [disinfection](keyword_disinfection), door handle, [doorknob](keyword_doorknob), [droplet](keyword_droplet), [elevator](keyword_elevator), facade, faecal, frequency of touch, gravity, hand, heat island, human excreta, [infrastructure](keyword_infrastructure), interface, item, keyboard, material, medium, [microorganism](keyword_microorganism), mode of transmission, moiety, nanosheet, nanosystem, non porous surface, nuclei, object, office desk, paint, [personal protective equipment](keyword_personal_protective_equipment), [physical](keyword_physical), plastic, polymeric, public restroom, reduce, reduce reduce surface, reflectivity, self clean space, self cleaning, spherical, [surface](keyword_surface), surface material, surface subj earth, surfaces, tip, [toilet](keyword_toilet), transmissibility, transmission mode, type, type of surface, [urban green space](keyword_urban_green_space), [uvgi](keyword_uvgi), [virus](keyword_virus), washbasin, washbasin surface
+ * Cluster_9, [aerosol](keyword_aerosol), [air](keyword_air), [antimicrobial](keyword_antimicrobial), [architect](keyword_architect), atmospheric climate change, [build](keyword_build), [build environment](keyword_build_environment), cardboard, contact, contamination, counter top, [desk](keyword_desk), disinfect, [disinfection](keyword_disinfection), door handle, doorknob, [droplet](keyword_droplet), elevator, facade, faecal, frequency of touch, gravity, hand, heat island, human excreta, [infrastructure](keyword_infrastructure), interface, item, keyboard, material, [medium](keyword_medium), [microorganism](keyword_microorganism), mode of transmission, moiety, nanosheet, nanosystem, non porous surface, nuclei, [object](keyword_object), office desk, paint, [personal protective equipment](keyword_personal_protective_equipment), [physical](keyword_physical), plastic, polymeric, public restroom, reduce, reduce reduce surface, reflectivity, self clean space, self cleaning, spherical, [surface](keyword_surface), surface material, surface subj earth, surfaces, tip, [toilet](keyword_toilet), transmissibility, transmission mode, type, type of surface, [urban green space](keyword_urban_green_space), [uvgi](keyword_uvgi), [virus](keyword_virus), washbasin, washbasin surface
 
 
-## Concepts
 
- ![](imgs/keyword_surface.jpg)
+## Mapping
 
+<img src="plotly/keyword_surface.svg">
 
 
 ## Neighbours

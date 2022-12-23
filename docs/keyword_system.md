@@ -1,23 +1,27 @@
 # Keyword: system
 
-* [building-space](cluster_Cluster_1)
+* [air-sars](cluster_2)
 
-* [air-ventilation](cluster_Cluster_4)
+* [datum-iot](cluster_4)
 
-* [construction-resilience](cluster_Cluster_5)
+* [uv-air](cluster_7)
 
-* [ieq-building](cluster_Cluster_11)
+* [building-energy](cluster_9)
+
+* [resilience-infrastructure](cluster_11)
+
+* [water-wastewater](cluster_15)
 
 
 ## Keywords
 
- * [air conditioning](keyword_air_conditioning), air recirculation, [algorithm](keyword_algorithm), antivirus, appliance, assembly system, asset, automate checkout, backup capability, biofiltration, block diagram, borehole, [build](keyword_build), [building](keyword_building), challenge, [community](keyword_community), complexity, component, control system, [dataset](keyword_dataset), decision, decision and control, decision make, device, diagnostic test, difference equation system, [drone](keyword_drone), dry air purification, earthquake, [ecosystem](keyword_ecosystem), element, elemental, energy system, entity, equipment, event, functionality, [gap level](keyword_gap_level), governance, [gps](keyword_gps), [health](keyword_health), [health care](keyword_health_care), [health system](keyword_health_system), [healthcare](keyword_healthcare), heat exchanger, [human](keyword_human), [hvac](keyword_hvac), [infrastructure](keyword_infrastructure), infrastructure manager, infrastructure network, inoculation, insolvency, insolvency system, integrate, [interdependency](keyword_interdependency), [iot](keyword_iot), iot system, it hardware, livelihood, market, method, [monitor](keyword_monitor), network, [object detection](keyword_object_detection), performance, pharmacovigilance, piping, [plan](keyword_plan), power consumption, primary healthcare, process, public transportation, question, relationship, [resilience](keyword_resilience), resilient, resource, ride sharing, [risk](keyword_risk), rule base system, sense, [sensor](keyword_sensor), service, service provision, [sewage](keyword_sewage), [shock](keyword_shock), [society](keyword_society), software, structure, [supply chain](keyword_supply_chain), sustainable system, [system](keyword_system), [system analysis](keyword_system_analysis), system science, system theoretic, [technology](keyword_technology), transformative, turn on, use period, [ventilation](keyword_ventilation)
+ * absenteeism, [air conditioning](keyword_air_conditioning), air recirculation, [algorithm](keyword_algorithm), antivirus, appliance, assembly system, [asset](keyword_asset), automate checkout, backup capability, biofiltration, block diagram, borehole, [build](keyword_build), [building](keyword_building), challenge, [community](keyword_community), complexity, component, control system, [dataset](keyword_dataset), decision and control, decision make, [device](keyword_device), [drone](keyword_drone), dry air purification, earthquake, [ecosystem](keyword_ecosystem), element, elemental, [engineering](keyword_engineering), entity, equipment, event, functionality, [gap level](keyword_gap_level), governance, [gps](keyword_gps), [health](keyword_health), [health care](keyword_health_care), [health system](keyword_health_system), [healthcare](keyword_healthcare), heat exchanger, [human](keyword_human), [hvac](keyword_hvac), [infrastructure](keyword_infrastructure), infrastructure manager, infrastructure network, inoculation, insolvency, insolvency system, integrate, [interdependency](keyword_interdependency), [iot](keyword_iot), iot system, it hardware, livelihood, market, method, [monitor](keyword_monitor), [network](keyword_network), [object detection](keyword_object_detection), performance, pharmacovigilance, piping, [plan](keyword_plan), power consumption, primary healthcare, [process](keyword_process), public transportation, question, relationship, [resilience](keyword_resilience), [resilient](keyword_resilient), resource, ride sharing, [risk](keyword_risk), rule base system, sense, [sensor](keyword_sensor), [service](keyword_service), service provision, [sewage](keyword_sewage), [shock](keyword_shock), [society](keyword_society), software, structure, [supply chain](keyword_supply_chain), sustainable system, [system](keyword_system), [system analysis](keyword_system_analysis), system science, system theoretic, [technology](keyword_technology), transformative, turn on, use period, [ventilation](keyword_ventilation), wastewater treatment, water system
 
 
-## Concepts
 
- ![](imgs/keyword_system.jpg)
+## Mapping
 
+<img src="plotly/keyword_system.svg">
 
 
 ## Neighbours
@@ -32,8 +36,8 @@
 * Preparing critical infrastructure for the future: Lessons learnt from the Covid-19 pandemic - [LINK](article_tomalska_preparing_2022)
 * A comprehensive review on indoor air quality monitoring systems for enhanced public health - [LINK](article_saini_comprehensive_2020)
 * Learning from pandemics: Applying resilience thinking to identify priorities for planning urban settlements - [LINK](article_syal_learning_2021)
-* A critical review of heating, ventilation, and air conditioning (HVAC) systems within the context of a global SARS-CoV-2 epidemic - [LINK](article_elsaid_critical_2021)
 * Addressing vulnerability, building resilience: community-based adaptation to vector-borne diseases in the context of global change - [LINK](article_bardosh_addressing_2017)
+* A critical review of heating, ventilation, and air conditioning (HVAC) systems within the context of a global SARS-CoV-2 epidemic - [LINK](article_elsaid_critical_2021)
 
 
 ### Closest BPs

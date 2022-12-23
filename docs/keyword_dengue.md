@@ -1,17 +1,17 @@
 # Keyword: dengue
 
-* [malaria-vector](cluster_Cluster_12)
+* [malaria-vector](cluster_13)
 
 
 ## Keywords
 
- * Cluster_12, ae, aede mosquitoe, aedes vectors, [dengue](keyword_dengue), dengue and severe dengue, dengue hemorrhagic fever, dengue importation, disease pandemic, distribution and burden, distribution and burden of dengue, emerging flaviviruses, entomology, epidemiology of dengue, haemorrhagic fever, import case, imported dengue, imported dengue cases, in 2care, [infectious disease](keyword_infectious_disease), madeira, [malaria](keyword_malaria), [mosquito](keyword_mosquito), mosquito borne disease, mosquito vector, re emergence, re emergence of dengue in china, risk factor, rodó x, santiago de cuba, severe dengue, são paulo urban heat islands, tropical, tropicalッド, uhis, urban heat islands, urban malaria, [vector borne disease](keyword_vector_borne_disease), vector control, vector illness, vector illnesses, vectorborne diseases, vectore
+ * Cluster_13, ae, aede mosquitoe, aedes vectors, [dengue](keyword_dengue), dengue and severe dengue, dengue hemorrhagic fever, dengue importation, disease pandemic, distribution and burden, distribution and burden of dengue, emerging flaviviruses, entomology, epidemiology of dengue, haemorrhagic fever, import case, imported dengue, imported dengue cases, in 2care, [infectious disease](keyword_infectious_disease), madeira, [malaria](keyword_malaria), [mosquito](keyword_mosquito), mosquito borne disease, mosquito vector, re emergence, re emergence of dengue in china, risk factor, rodó x, santiago de cuba, severe dengue, são paulo urban heat islands, tropical, tropicalッド, uhis, urban heat islands, urban malaria, [vector borne disease](keyword_vector_borne_disease), vector control, vector illness, vector illnesses, vectorborne diseases, vectore
 
 
-## Concepts
 
- ![](imgs/keyword_dengue.jpg)
+## Mapping
 
+<img src="plotly/keyword_dengue.svg">
 
 
 ## Neighbours

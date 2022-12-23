@@ -1,17 +1,17 @@
 # Keyword: density
 
-* [urban-city](cluster_Cluster_13)
+* [urban-city](cluster_6)
 
 
 ## Keywords
 
- * 3ds, Cluster_13, anatomy of density, build density, [build environment](keyword_build_environment), [city](keyword_city), [comfort](keyword_comfort), comfort condition, confine, connectivity, cost saving, [covid 19 pandemic](keyword_covid_19_pandemic), [covid-19](keyword_covid-19), crowd, define density, densely populate, densely populate settlement, densities, [density](keyword_density), [design](keyword_design), [disease](keyword_disease), fatality rate, future of city, horizontally, incidence rate, many way to measure density, mass, [measure](keyword_measure), [mortality](keyword_mortality), mortality rate, over all densification, parcellation, parcellation of land, [population](keyword_population), population density, population size, post pandemic city, residential, signiﬁcant, socio demographic factor, [spread](keyword_spread), sustainable city and society, [transmission](keyword_transmission), [ug](keyword_ug), [urban](keyword_urban), [urban center](keyword_urban_center), urban design, urban planner, urbanisation
+ * 3ds, Cluster_6, anatomy of density, build density, [build environment](keyword_build_environment), [city](keyword_city), [comfort](keyword_comfort), comfort condition, confine, connectivity, cost saving, [covid 19 pandemic](keyword_covid_19_pandemic), [covid-19](keyword_covid-19), crowd, define density, densely populate, densely populate settlement, densities, [density](keyword_density), [design](keyword_design), [disease](keyword_disease), fatality rate, future of city, horizontally, incidence rate, many way to measure density, mass, [measure](keyword_measure), [mortality](keyword_mortality), mortality rate, over all densification, parcellation, parcellation of land, [population](keyword_population), population density, population size, post pandemic city, [residential](keyword_residential), signiﬁcant, socio demographic factor, [spread](keyword_spread), sustainable city and society, [transmission](keyword_transmission), [ug](keyword_ug), [urban](keyword_urban), [urban center](keyword_urban_center), urban design, urban planner, urbanisation
 
 
-## Concepts
 
- ![](imgs/keyword_density.jpg)
+## Mapping
 
+<img src="plotly/keyword_density.svg">
 
 
 ## Neighbours

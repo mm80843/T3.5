@@ -1,17 +1,17 @@
 # Keyword: community
 
-* [malaria-vector](cluster_Cluster_12)
+* [urban-city](cluster_6)
 
 
 ## Keywords
 
- * actor, adapt to climate change, administrative office facilities, [biogeography](keyword_biogeography), [breeam](keyword_breeam), [build](keyword_build), [build environment](keyword_build_environment), business owner, [city](keyword_city), [climate change](keyword_climate_change), commune, [community](keyword_community), community grow, connection, contexts, cote, [country](keyword_country), culture, [customer](keyword_customer), densely populate, densification, ecological, ecology, [economy](keyword_economy), [ecosystem](keyword_ecosystem), elderly, [environment](keyword_environment), ethnic group, european, exchange, facility, family, [gate](keyword_gate), [gate community](keyword_gate_community), glob, group, healing, [health](keyword_health), health district, [home](keyword_home), [household](keyword_household), identity, indigenous, individual, [infrastructure](keyword_infrastructure), institution, intervention, life circle, lifestyle, living circle, local, low income, measure can also be take to prevent far spread, [microbial](keyword_microbial), municipal, municipality, neighbor, [neighborhood](keyword_neighborhood), neighbourhood, neighbourhood area, nomad lodge, [office](keyword_office), online presence, organization, pediatric, [people](keyword_people), [plan](keyword_plan), planning profession, [public health](keyword_public_health), region, residential, [resilience](keyword_resilience), resiliency, [school](keyword_school), separate communities, service facilities, share culture, [site](keyword_site), [social](keyword_social), [society](keyword_society), socio economic status, [stakeholder](keyword_stakeholder), sustainable city, [system](keyword_system), system level, [taxa](keyword_taxa), taxonomic, the pandemic, unbecoming community, [united nations](keyword_united_nations), [urban](keyword_urban), urban community, urban composite communities, urban district, urban fabric, urban planner, [urban planning](keyword_urban_planning), user engagement, wastewater treatment plant, [workplace](keyword_workplace)
+ * actor, adapt to climate change, administrative office facilities, [biogeography](keyword_biogeography), [breeam](keyword_breeam), [build](keyword_build), [build environment](keyword_build_environment), business owner, [city](keyword_city), [climate change](keyword_climate_change), commune, [community](keyword_community), community grow, connection, contexts, cote, [country](keyword_country), culture, [customer](keyword_customer), densely populate, densification, ecological, ecology, [economy](keyword_economy), [ecosystem](keyword_ecosystem), elderly, [environment](keyword_environment), ethnic group, european, exchange, facility, family, [gate](keyword_gate), [gate community](keyword_gate_community), glob, group, healing, [health](keyword_health), health district, [home](keyword_home), [household](keyword_household), identity, indigenous, individual, [infrastructure](keyword_infrastructure), institution, intervention, life circle, lifestyle, living circle, local, low income, measure can also be take to prevent far spread, [microbial](keyword_microbial), municipal, municipality, neighbor, [neighborhood](keyword_neighborhood), neighbourhood, neighbourhood area, nomad lodge, [office](keyword_office), online presence, organization, pediatric, [people](keyword_people), [plan](keyword_plan), planning profession, [public health](keyword_public_health), region, [residential](keyword_residential), [resilience](keyword_resilience), resiliency, [school](keyword_school), separate communities, service facilities, share culture, site, [social](keyword_social), [society](keyword_society), socio economic status, [stakeholder](keyword_stakeholder), sustainable city, [system](keyword_system), system level, [taxa](keyword_taxa), taxonomic, the pandemic, unbecoming community, [united nations](keyword_united_nations), [urban](keyword_urban), urban community, urban composite communities, urban district, urban fabric, urban planner, [urban planning](keyword_urban_planning), user engagement, wastewater treatment plant, [workplace](keyword_workplace)
 
 
-## Concepts
 
- ![](imgs/keyword_community.jpg)
+## Mapping
 
+<img src="plotly/keyword_community.svg">
 
 
 ## Neighbours

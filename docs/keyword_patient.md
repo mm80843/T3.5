@@ -1,19 +1,19 @@
 # Keyword: patient
 
-* [health-patient](cluster_Cluster_0)
+* [air-sars](cluster_4)
 
-* [nd-icu](cluster_Cluster_14)
+* [datum-iot](cluster_9)
 
 
 ## Keywords
 
- * Cluster_0, Cluster_14, activation, anamnesis, anonymous, arrival, bed, care, care team, caregiver, [case](keyword_case), civilian, [cohort](keyword_cohort), [coronavirus](keyword_coronavirus), [corridor](keyword_corridor), [covid-19](keyword_covid-19), datum collection, datum point, day care, deceased person, [disease](keyword_disease), doctor, [domain](keyword_domain), entity, gp, head, health and welfare professional, [health care](keyword_health_care), health care provider, health care worker, health expert, health personnel, health provider, [health system](keyword_health_system), [healthcare](keyword_healthcare), healthcare personal, healthcare personnel, healthcare professional, healthcare provider, healthcare sector, healthcare worker, [home](keyword_home), [hospital](keyword_hospital), [information](keyword_information), insurance coverage, medic, [medical](keyword_medical), medicalcondition, [nurse](keyword_nurse), outcome, palliative care unit, parative infectiousness, [patient](keyword_patient), patient test result, patients, physician, pressure room, queue, relationship, [research](keyword_research), respiratory disease, respiratory tract, [room](keyword_room), saf, saf j infect, [safety](keyword_safety), spatial, spatialpatient, [study](keyword_study), tele surgery, track, track every movement, travel history, trust, ventilatory assistance, visitor, [ward](keyword_ward), [wellbee](keyword_wellbee), [worker](keyword_worker)
+ * Cluster_4, Cluster_9, activation, anamnesis, anonymous, arrival, bed, care, care team, caregiver, [case](keyword_case), civilian, [cohort](keyword_cohort), [coronavirus](keyword_coronavirus), [corridor](keyword_corridor), [covid-19](keyword_covid-19), datum collection, datum point, day care, deceased person, [disease](keyword_disease), doctor, [domain](keyword_domain), entity, gp, head, health and welfare professional, [health care](keyword_health_care), health care provider, health care worker, health expert, health personnel, health provider, [health system](keyword_health_system), [healthcare](keyword_healthcare), healthcare personal, healthcare personnel, healthcare professional, healthcare provider, healthcare sector, healthcare worker, [home](keyword_home), [hospital](keyword_hospital), [information](keyword_information), insurance coverage, medic, [medical](keyword_medical), medicalcondition, [nurse](keyword_nurse), outcome, palliative care unit, parative infectiousness, [patient](keyword_patient), patient test result, patients, physician, pressure room, queue, relationship, [research](keyword_research), respiratory disease, respiratory tract, [room](keyword_room), saf, saf j infect, [safety](keyword_safety), spatial, spatialpatient, [study](keyword_study), tele surgery, track, track every movement, travel history, trust, ventilatory assistance, visitor, [ward](keyword_ward), [wellbee](keyword_wellbee), [worker](keyword_worker)
 
 
-## Concepts
 
- ![](imgs/keyword_patient.jpg)
+## Mapping
 
+<img src="plotly/keyword_patient.svg">
 
 
 ## Neighbours

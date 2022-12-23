@@ -1,17 +1,17 @@
 # Keyword: elimination
 
-* [malaria-vector](cluster_Cluster_12)
+* [malaria-vector](cluster_13)
 
 
 ## Keywords
 
- * Cluster_12, case based malaria map, case based malaria maps, disease control, [elimination](keyword_elimination), eradication, hazard, [malaria](keyword_malaria), malaria control, malaria control programmes, [risk](keyword_risk)
+ * Cluster_13, case based malaria map, case based malaria maps, disease control, [elimination](keyword_elimination), eradication, hazard, [malaria](keyword_malaria), malaria control, malaria control programmes, [risk](keyword_risk)
 
 
-## Concepts
 
- ![](imgs/keyword_elimination.jpg)
+## Mapping
 
+<img src="plotly/keyword_elimination.svg">
 
 
 ## Neighbours

@@ -2,7 +2,7 @@
 
 * Source: [10.1016/j.jenvp.2020.101545](https://doi.org/10.1016/j.jenvp.2020.101545)
 * Year: 2021
-* Cluster: [health-mental](cluster_15)
+* Cluster: [health-mental](cluster_10)
 
 
 
@@ -13,7 +13,7 @@
 
 ## Concepts
 
- ![](imgs/article_corley_home_2021.jpg)
+ ![](plotly/article_corley_home_2021.svg)
 
 
 
@@ -24,17 +24,17 @@
 * COVID-19 Lockdown: Housing Built Environment’s Effects on Mental Health - [LINK](article_amerio_covid-19_2020)
 * Psychological Effects of Home Confinement and Social Distancing Derived from COVID-19 in the General Population—A Systematic Review - [LINK](article_rodriguez-fernandez_psychological_2021)
 * The psychological impact of COVID-19 on the mental health in the general population - [LINK](article_serafini_psychological_2020)
-* A Mixed Approach on Resilience of Spanish Dwellings and Households during COVID-19 Lockdown - [LINK](article_cuerdo-vilches_mixed_2020)
 * Mental Health and the Covid-19 Pandemic - [LINK](article_pfefferbaum_mental_2020)
-* Housing Experience in Gated Communities in the Time of Pandemics: Lessons Learned from COVID-19 - [LINK](article_asfour_housing_2022)
+* Association between indoor-outdoor green features and psychological health during the COVID-19 lockdown in Italy: A cross-sectional nationwide study - [LINK](article_spano_association_2021)
 * Mental health and COVID-19 - [LINK](article_who_mental_2021)
-* Urban Community Sustainable Development Patterns under the Influence of COVID-19: A Case Study Based on the Non-Contact Interaction Perspective of Hangzhou City - [LINK](article_wang_urban_2021)
-* How our homes impact our health: using a COVID-19 informed approach to examine urban apartment housing - [LINK](article_peters_how_2020)
-* Questioning the use of the balcony in apartments during the COVID-19 pandemic process - [LINK](article_aydin_questioning_2020)
+* Green spaces, especially forest, linked to lower SARS-CoV-2 infection rates: A one-year nationwide study - [LINK](article_jiang_green_2021)
+* The role of green roofs in post COVID-19 confinement: An analysis of willingness to pay - [LINK](article_manso_role_2021)
+* Urban form: Realising the value of green space: a planners’ perspective on the COVID-19 pandemic - [LINK](article_ahmadpoor_urban_2021)
+* The impact of the COVID-19 pandemic on the importance of urban green spaces to the public - [LINK](article_noszczyk_impact_2022)
 
 
 ### Closest BPs
 
-* Blueprint: Architecture design - [LINK](bp_2)
 * Blueprint: Building Adaptation during a pandemic - [LINK](bp_14)
-* Blueprint: Tender support at building stage - [LINK](bp_9)
+* Blueprint: Architecture design - [LINK](bp_2)
+* Blueprint: Tracking and enforcing use of Personal Protective Equipment - [LINK](bp_23)

@@ -1,17 +1,17 @@
 # Keyword: ontology
 
-* [health-patient](cluster_Cluster_14)
+* [ontology-datum](cluster_12)
 
 
 ## Keywords
 
- * [analytic](keyword_analytic), apollo structure vocabulary, application ontology, axiom, bfo, bio ontologie, bioinformatician, biomedical, [build](keyword_build), capture, cardiovascular disease, cartesian subject object binary, [cido](keyword_cido), class, classification, codo, codo ontology, communication, complexity, computer science, conceptualization, coronavirus infectious disease ontology, [covid-19](keyword_covid-19), [datum](keyword_datum), datum lake, deployment, discourse, disease ontology, dl, [domain](keyword_domain), domain expert, domain knowledge, domain model, drug, [epidemiology](keyword_epidemiology), epidemiology ontology, epo, evaluation, evaluation process, evolution, formalism, framework, [gene](keyword_gene), gfo, human phenotype ontology, identiﬁe study, ido, idobru, idoden, infectious disease ontology, infer knowledge, information modelling, information system, information theoretic, intelligence, intelligent system, interoperability, interoperable, [knowledge](keyword_knowledge), knowledge base, knowledge engineering, knowledge management, knowledge representation, language, lifecycle, literature, [machine learning](keyword_machine_learning), maintain, meta ontology, [ontology](keyword_ontology), ontology class, ontology community, ontology lifecycle, ontology owl ontology, open datum, owl, owl 2, owl 2 dl, owl ontology, [pandemic](keyword_pandemic), phenotype, phenotype ontology, philosophical, placeholder, rdf, sabio, schema, semantic, silos, software, software application, software system, [spread](keyword_spread), st, [supply chain](keyword_supply_chain), taxonomy, [telehealth](keyword_telehealth), tool s they use, vaccine ontology, vocabulary
+ * [analytic](keyword_analytic), apollo structure vocabulary, application ontology, axiom, bfo, bio ontologie, bioinformatician, [biomedical](keyword_biomedical), [build](keyword_build), capture, cardiovascular disease, cartesian subject object binary, [cido](keyword_cido), class, classification, codo, codo ontology, communication, complexity, computer science, conceptualization, coronavirus infectious disease ontology, [covid-19](keyword_covid-19), [datum](keyword_datum), datum lake, deployment, discourse, disease ontology, dl, [domain](keyword_domain), domain expert, domain knowledge, domain model, [drug](keyword_drug), [epidemiology](keyword_epidemiology), epidemiology ontology, epo, evaluation, evaluation process, evolution, formalism, framework, [gene](keyword_gene), gfo, human phenotype ontology, identiﬁe study, ido, idobru, idoden, infectious disease ontology, infer knowledge, information modelling, information system, information theoretic, intelligence, intelligent system, [interoperability](keyword_interoperability), interoperable, [knowledge](keyword_knowledge), knowledge base, knowledge engineering, knowledge management, knowledge representation, language, lifecycle, literature, machine learning, maintain, meta ontology, [ontology](keyword_ontology), ontology class, ontology community, ontology lifecycle, ontology owl ontology, open datum, owl, owl 2, owl 2 dl, owl ontology, [pandemic](keyword_pandemic), phenotype, phenotype ontology, philosophical, placeholder, rdf, sabio, schema, [semantic](keyword_semantic), silos, software, software application, software system, [spread](keyword_spread), st, [supply chain](keyword_supply_chain), taxonomy, [telehealth](keyword_telehealth), tool s they use, vaccine ontology, vocabulary
 
 
-## Concepts
 
- ![](imgs/keyword_ontology.jpg)
+## Mapping
 
+<img src="plotly/keyword_ontology.svg">
 
 
 ## Neighbours

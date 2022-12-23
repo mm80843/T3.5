@@ -1,8 +1,8 @@
-# Article: COVID-19 could be a seasonal illness with higher risk inwinter: Reduced humidity linked to increased COVID-19risk (university_of_sydney_covid-19_2020)
+# Article: COVID-19 could be a seasonal illness with higher risk in winter: Reduced humidity linked to increased COVID-19 risk (university_of_sydney_covid-19_2020)
 
 * [https://www.sciencedaily.com/releases/2020/06/200601134608.htm](https://www.sciencedaily.com/releases/2020/06/200601134608.htm)
 * Year: 2020
-* Cluster: [health-patient](cluster_14)
+* Cluster: [china-case](cluster_5)
 
 
 
@@ -13,7 +13,7 @@
 
 ## Concepts
 
- ![](imgs/article_university_of_sydney_covid-19_2020.jpg)
+ ![](plotly/article_university_of_sydney_covid-19_2020.svg)
 
 
 
@@ -25,15 +25,15 @@
 * Mechanistic insights into the effect of humidity on airborne influenza virus survival, transmission and incidence - [LINK](article_marr_mechanistic_2019)
 * Climate and the spread of COVID-19 - [LINK](article_chen_climate_2021)
 * Study of COVID-19 pandemic in London (UK) from urban context - [LINK](article_ghosh_study_2020)
-* Understanding the role of urban design in disease spreading - [LINK](article_brizuela_understanding_2019)
-* Physical interventions to interrupt or reduce the spread of respiratory viruses: systematic review - [LINK](article_jefferson_physical_2008)
+* Combating COVID-19—The role of robotics in managing public health and infectious diseases - [LINK](article_yang_combating_2020)
+* Danish disinfection robots save lives in the fight against the Corona virus \textbar Shaping Europe’s digital future - [LINK](article_ec_views_danish_2020)
 * Association of built environment attributes with the spread of COVID-19 at its initial stage in China - [LINK](article_li_association_2021)
-* COVID-19 Prevention and Control Measures in Workplace Settings: A Rapid Review and Meta-Analysis - [LINK](article_ingram_covid-19_2021)
-* Contributions to the mitigation of the COVID-19 pandemic - [LINK](article_pilz_contributions_2022)
+* The effect of human mobility and control measures on the COVID-19 epidemic in China - [LINK](article_kraemer_effect_2020)
+* An investigation of transmission control measures during the first 50 days of the COVID-19 epidemic in China - [LINK](article_tian_investigation_2020)
 
 
 ### Closest BPs
 
 * Blueprint: Monitoring of wastewater - [LINK](bp_21)
+* Blueprint: Smart Locker System - [LINK](bp_1)
 * Blueprint: Resilience in staffing and skills training - [LINK](bp_12)
-* Blueprint: Architecture design - [LINK](bp_2)

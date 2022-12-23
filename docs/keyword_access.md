@@ -1,17 +1,17 @@
 # Keyword: access
 
-* [economic-health](cluster_Cluster_9)
+* [resilience-infrastructure](cluster_11)
 
 
 ## Keywords
 
- * Cluster_9, [access](keyword_access), accessibility, affordable, [africa](keyword_africa), air space, distance learning, finance, free, [health care](keyword_health_care), health care coverage, [healthcare](keyword_healthcare), healthcare access, healthcare service, [malaria](keyword_malaria), open air space, [privacy](keyword_privacy), public transport infrastructure, reliable access to service, roof, service
+ * Cluster_11, [access](keyword_access), accessibility, affordable, [africa](keyword_africa), air space, distance learning, finance, free, [health care](keyword_health_care), health care coverage, [healthcare](keyword_healthcare), healthcare access, healthcare service, [malaria](keyword_malaria), open air space, [privacy](keyword_privacy), public transport infrastructure, reliable access to service, roof, [service](keyword_service)
 
 
-## Concepts
 
- ![](imgs/keyword_access.jpg)
+## Mapping
 
+<img src="plotly/keyword_access.svg">
 
 
 ## Neighbours

@@ -1,19 +1,17 @@
 # Keyword: economic
 
-* [economic-health](cluster_Cluster_5)
-
-* [construction-resilience](cluster_Cluster_9)
+* [construction-pandemic](cluster_1)
 
 
 ## Keywords
 
- * accounting, administrative sciences, bell journal, biology, [business](keyword_business), challenge, construction management, consumption, [covid 19 crisis](keyword_covid_19_crisis), covid economic, [covid-19](keyword_covid-19), [datum](keyword_datum), decision science, demand, ecological, econometric, [economic](keyword_economic), economic activity, economic and labour relation review, economic development, economic planning, economic time, efﬁciency, employment issue, [energy](keyword_energy), [epidemiological](keyword_epidemiological), evolutionary economic, finance, financial, [global](keyword_global), [globalisation](keyword_globalisation), [health](keyword_health), health econ, [healthcare](keyword_healthcare), [human](keyword_human), human resource, imposi late, income, [infectious disease](keyword_infectious_disease), [infrastructure](keyword_infrastructure), integrat, job destruction, joint discussion paper, labour relation, legal, leisure, london school of economic, macroeconomic, main problem, management, management science, market, mutuality, [pandemic](keyword_pandemic), paradigm, planning science, point of view, [policy](keyword_policy), policymaker, politic, political, price, production economic, [productivity](keyword_productivity), [public health](keyword_public_health), public service, [research](keyword_research), research service, [resilience](keyword_resilience), resource, resource economic, [risk](keyword_risk), sanitary, science, [sector](keyword_sector), [shock](keyword_shock), [social](keyword_social), societal, socioeconomic, sociological, statistic, [sustainability](keyword_sustainability), sustainability pillar, [sustainable](keyword_sustainable), [sustainable development](keyword_sustainable_development), technical, techno economic, technological, tijdschrift voor economische en sociale geografie, [time](keyword_time), [tourism](keyword_tourism), trade, uncertainty, urban economic, urban economy, [urban planning](keyword_urban_planning), vari ous, vivid economics, [wellbee](keyword_wellbee), ﬁnancial
+ * accounting, administrative sciences, bell journal, biology, [business](keyword_business), challenge, construction management, consumption, [covid 19 crisis](keyword_covid_19_crisis), covid economic, [covid-19](keyword_covid-19), [datum](keyword_datum), decision science, demand, ecological, econometric, [economic](keyword_economic), economic activity, economic and labour relation review, economic development, economic planning, economic time, [efficiency](keyword_efficiency), efﬁciency, employment issue, [energy](keyword_energy), [engineering](keyword_engineering), [epidemiological](keyword_epidemiological), evolutionary economic, finance, financial, food production, global, [globalisation](keyword_globalisation), [health](keyword_health), health econ, [healthcare](keyword_healthcare), [human](keyword_human), human resource, imposi late, income, [infectious disease](keyword_infectious_disease), [infrastructure](keyword_infrastructure), integrat, job destruction, joint discussion paper, labour relation, legal, leisure, london school of economic, macroeconomic, main problem, [management](keyword_management), management science, market, mutuality, [pandemic](keyword_pandemic), paradigm, planning science, point of view, [policy](keyword_policy), policymaker, politic, political, price, production economic, [productivity](keyword_productivity), public service, [research](keyword_research), research service, [resilience](keyword_resilience), resource, resource economic, [risk](keyword_risk), sanitary, science, [sector](keyword_sector), [shock](keyword_shock), [social](keyword_social), societal, statistic, [sustainability](keyword_sustainability), sustainability pillar, sustainable, [sustainable development](keyword_sustainable_development), technical, techno economic, technological, tijdschrift voor economische en sociale geografie, time, [tourism](keyword_tourism), trade, uncertainty, urban economic, urban economy, [urban planning](keyword_urban_planning), vari ous, vivid economics, [wellbee](keyword_wellbee), ﬁnancial
 
 
-## Concepts
 
- ![](imgs/keyword_economic.jpg)
+## Mapping
 
+<img src="plotly/keyword_economic.svg">
 
 
 ## Neighbours

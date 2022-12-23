@@ -1,17 +1,17 @@
 # Keyword: uvgi
 
-* [air-ventilation](cluster_Cluster_4)
+* [uv-air](cluster_15)
 
 
 ## Keywords
 
- * ac h, [aerosol](keyword_aerosol), ahu, air irradiation, airborne disease, airborne transmission, avital, bipolar ionization system, ceil ing, ceiling mount fan, center for diseasecontrol and prevention, cfd, cfd simulation, [covid-19](keyword_covid-19), dilution, disinfect, [disinfectant](keyword_disinfectant), [disinfection](keyword_disinfection), disinfection of air, displacement ventilation system, distribution, droplet nuclei, duct uvgi, effective measure, effective measure against microbe, engineering control, fan, [filter](keyword_filter), [filtration](keyword_filtration), [germicidal](keyword_germicidal), gingemicidal, guideline, health care facility, hepa, hepa filter, hepa ﬁlter, humidity control, [hvac](keyword_hvac), iaq control, in duct, in duct installation, in duct irradiation, inactivate, inactivate microbe, [infection control](keyword_infection_control), infection prevention, infection prevention method, instal, installation, ionization, [ionizer](keyword_ionizer), irradiance, irradiation, jicjournal, lamp, levetin, louver, louver enclosure, manufacturer, [microorganism](keyword_microorganism), moisture control, nuclei, retrofitting, rh, safe uvgi, safety issue, sing, [surface](keyword_surface), [tuberculosis](keyword_tuberculosis), [ultraviolet](keyword_ultraviolet), ultraviolet germicidal, upper room, upper room system, upper room uvgi, upperroom uvgi, [uv](keyword_uv), uv air disinfection, uv efﬂuence, uv field, uv fixture, uv irradiation, uv ray, uv ﬁeld, uv ﬂux, [uv-c](keyword_uv-c), [uvgi](keyword_uvgi), uvgi air disinfection, uvgi distribution, uvgi drug, uvgi fixture, uvgi system, uvgi technology, uvgi uvgi, [ventilation](keyword_ventilation), ventilation efficiency, ventilation system, walker, walker ko, [well](keyword_well), ﬂuid dynamic
+ * ac h, [aerosol](keyword_aerosol), ahu, air irradiation, airborne disease, airborne transmission, avital, bipolar ionization system, ceil ing, ceiling mount fan, center for diseasecontrol and prevention, cfd, cfd simulation, [covid-19](keyword_covid-19), dilution, disinfect, [disinfectant](keyword_disinfectant), [disinfection](keyword_disinfection), disinfection of air, displacement ventilation system, distribution, droplet nuclei, duct uvgi, effective measure, effective measure against microbe, engineering control, fan, [filter](keyword_filter), filtration, [germicidal](keyword_germicidal), gingemicidal, guideline, health care facility, hepa, hepa filter, hepa ﬁlter, humidity control, [hvac](keyword_hvac), iaq control, in duct, in duct installation, in duct irradiation, [inactivate](keyword_inactivate), inactivate microbe, [infection control](keyword_infection_control), infection prevention, infection prevention method, instal, installation, ionization, [ionizer](keyword_ionizer), irradiance, [irradiation](keyword_irradiation), jicjournal, lamp, levetin, louver, louver enclosure, manufacturer, [microorganism](keyword_microorganism), moisture control, nuclei, retrofitting, rh, safe uvgi, safety issue, sing, [surface](keyword_surface), [tuberculosis](keyword_tuberculosis), [ultraviolet](keyword_ultraviolet), ultraviolet germicidal, upper room, upper room system, upper room uvgi, upperroom uvgi, [uv](keyword_uv), uv air disinfection, uv efﬂuence, uv field, uv fixture, uv irradiation, uv ray, uv ﬁeld, uv ﬂux, [uv-c](keyword_uv-c), [uvgi](keyword_uvgi), uvgi air disinfection, uvgi distribution, uvgi drug, uvgi fixture, uvgi system, uvgi technology, uvgi uvgi, [ventilation](keyword_ventilation), ventilation efficiency, ventilation system, walker, walker ko, well, ﬂuid dynamic
 
 
-## Concepts
 
- ![](imgs/keyword_uvgi.jpg)
+## Mapping
 
+<img src="plotly/keyword_uvgi.svg">
 
 
 ## Neighbours

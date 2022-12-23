@@ -2,7 +2,7 @@
 
 * Source: [10.1016/S2468-2667(22)00033-0](https://doi.org/10.1016/S2468-2667(22)00033-0)
 * Year: 2022
-* Cluster: [health-patient](cluster_14)
+* Cluster: [air-sars](cluster_9)
 
 
 
@@ -13,7 +13,7 @@
 
 ## Concepts
 
- ![](imgs/article_quantin_covid-19_2022.jpg)
+ ![](plotly/article_quantin_covid-19_2022.svg)
 
 
 
@@ -21,20 +21,19 @@
 
 ### Closest articles
 
-* The impact of COVID-19 and strategies for mitigation and suppression in low- and middle-income countries - [LINK](article_walker_impact_2020)
-* COVID-19 and the rise of intimate partner violence - [LINK](article_aguero_covid-19_2021)
-* Multilevel Analysis of Personal, Non-Medical COVID-19-Related Impact Worldwide - [LINK](article_dye_multilevel_2020)
-* How loneliness is talked about in social media during COVID-19 pandemic: Text mining of 4,492 Twitter feeds - [LINK](article_koh_how_2022)
-* What has been the impact of the COVID-19 pandemic on immigrants? An update on recent evidence - [LINK](article_oecd_what_2022)
-* The Socio-Spatial Determinants of COVID-19 Diffusion: The Impact of Globalisation, Settlement Characteristics and Population - [LINK](article_sigler_socio-spatial_2020)
 * Mental health economics: A prospective study on psychological flourishing and associations with healthcare costs and sickness benefit transfers in Denmark - [LINK](article_santini_mental_2021)
-* Coronavirus disease 2019: The harms of exaggerated information and non‐evidence‐based measures - [LINK](article_ioannidis_coronavirus_2020)
+* The impact of COVID-19 and strategies for mitigation and suppression in low- and middle-income countries - [LINK](article_walker_impact_2020)
+* Multilevel Analysis of Personal, Non-Medical COVID-19-Related Impact Worldwide - [LINK](article_dye_multilevel_2020)
+* Response to COVID-19 in Taiwan - [LINK](article_wang_response_2020)
+* COVID-19 and the rise of intimate partner violence - [LINK](article_aguero_covid-19_2021)
+* The Socio-Spatial Determinants of COVID-19 Diffusion: The Impact of Globalisation, Settlement Characteristics and Population - [LINK](article_sigler_socio-spatial_2020)
+* What has been the impact of the COVID-19 pandemic on immigrants? An update on recent evidence - [LINK](article_oecd_what_2022)
 * Covid-19 and community mitigation strategies in a pandemic - [LINK](article_ebrahim_covid-19_2020)
-* Contributions to the mitigation of the COVID-19 pandemic - [LINK](article_pilz_contributions_2022)
+* Coronavirus disease 2019: The harms of exaggerated information and non‐evidence‐based measures - [LINK](article_ioannidis_coronavirus_2020)
 
 
 ### Closest BPs
 
 * Blueprint: Resilience in staffing and skills training - [LINK](bp_12)
-* Blueprint: Architecture design - [LINK](bp_2)
-* Blueprint: One-way mobility circulation - [LINK](bp_4)
+* Blueprint: Tracking and enforcing use of Personal Protective Equipment - [LINK](bp_23)
+* Blueprint: Air Cleaning Plants - [LINK](bp_15)

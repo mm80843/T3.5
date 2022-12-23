@@ -1,17 +1,17 @@
 # Keyword: plan
 
-* [urban-city](cluster_Cluster_13)
+* [urban-city](cluster_6)
 
 
 ## Keywords
 
- * action, adaptation, adaptive planning, architectural, be j, [build](keyword_build), [build environment](keyword_build_environment), [city](keyword_city), [community](keyword_community), community planning, concept, [construction](keyword_construction), contingency, contingency planning, coordinate, cop2691, county of london, [crisis](keyword_crisis), crisis management, crisis management cycle, decision make, [design](keyword_design), design city, design intervention, design phase, design process, design professional, development objective, e plan, emergency plan, emergency response, ethical, future, [health](keyword_health), health policy, [housing](keyword_housing), housing design, implementation, [infrastructure](keyword_infrastructure), interior design, investment, land development, landscape architecture, magazine, maintenance, manage, management, marketing intelligence, mobilise resource, [model](keyword_model), negative outcome, objective, objectives42, outsourcing, performance measurement, place, [plan](keyword_plan), plan b, planner, planning and design, planning mechanism, planning profession, [policy](keyword_policy), policymake, practice, preparation, preparedness, procedure, procurement, profession, project manager, [public health](keyword_public_health), ramify issue, research handbook, [resilience](keyword_resilience), resource allocation, resource utilization, site design, space design, [stakeholder](keyword_stakeholder), strategy, [supply chain](keyword_supply_chain), sustainable city, system think, town plan, training program, trans portation, [urban](keyword_urban), urban design, urban environment, urban future, urban green, [urban green space](keyword_urban_green_space), urban land market, [urban plan](keyword_urban_plan), urban plann, [urban planning](keyword_urban_planning), urban study, urbanization, value
+ * action, adaptation, adaptive planning, architectural, be j, [build](keyword_build), [build environment](keyword_build_environment), [city](keyword_city), [community](keyword_community), community planning, concept, [construction](keyword_construction), contingency, contingency planning, coordinate, cop2691, county of london, [crisis](keyword_crisis), crisis management, crisis management cycle, decision make, [design](keyword_design), design city, design intervention, design phase, design process, design professional, development objective, e plan, emergency plan, emergency response, ethical, future, [health](keyword_health), health policy, [housing](keyword_housing), housing design, implementation, [infrastructure](keyword_infrastructure), interior design, investment, land development, landscape architecture, magazine, [maintenance](keyword_maintenance), manage, [management](keyword_management), marketing intelligence, mobilise resource, [model](keyword_model), negative outcome, objective, objectives42, outsourcing, performance measurement, [place](keyword_place), [plan](keyword_plan), plan b, planner, planning and design, planning mechanism, planning profession, [policy](keyword_policy), policymake, practice, preparation, preparedness, procedure, procurement, profession, project manager, [public health](keyword_public_health), ramify issue, research handbook, [resilience](keyword_resilience), resource allocation, resource utilization, site design, space design, [stakeholder](keyword_stakeholder), strategy, [supply chain](keyword_supply_chain), sustainable city, system think, town plan, training program, trans portation, [urban](keyword_urban), urban design, urban environment, urban future, urban green, [urban green space](keyword_urban_green_space), urban land market, [urban plan](keyword_urban_plan), urban plann, [urban planning](keyword_urban_planning), urban study, urbanization, value
 
 
-## Concepts
 
- ![](imgs/keyword_plan.jpg)
+## Mapping
 
+<img src="plotly/keyword_plan.svg">
 
 
 ## Neighbours

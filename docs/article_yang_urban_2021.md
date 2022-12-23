@@ -2,7 +2,7 @@
 
 * Source: [10.5334/bc.130](https://doi.org/10.5334/bc.130)
 * Year: 2021
-* Cluster: [urban-city](cluster_13)
+* Cluster: [urban-city](cluster_6)
 
 
 
@@ -13,7 +13,7 @@
 
 ## Concepts
 
- ![](imgs/article_yang_urban_2021.jpg)
+ ![](plotly/article_yang_urban_2021.svg)
 
 
 
@@ -22,17 +22,18 @@
 ### Closest articles
 
 * Association of built environment attributes with the spread of COVID-19 at its initial stage in China - [LINK](article_li_association_2021)
-* Understanding the role of urban design in disease spreading - [LINK](article_brizuela_understanding_2019)
-* COVID-19 risks and systemic gaps in Nigeria: resilience building lessons for pandemic and climate change management - [LINK](article_lawal_covid-19_2022)
 * Treating two pandemics for the price of one: Chronic and infectious disease impacts of the built and natural environment - [LINK](article_frank_treating_2021)
-* Urban planning after COVID-19 - [LINK](article_rtpi_urban_2021)
-* Study of COVID-19 pandemic in London (UK) from urban context - [LINK](article_ghosh_study_2020)
 * The socio-economic determinants of COVID-19: A spatial analysis of German county level data - [LINK](article_ehlert_socio-economic_2021)
-* Eviction, Health Inequity, and the Spread of COVID-19: Housing Policy as a Primary Pandemic Mitigation Strategy - [LINK](article_benfer_eviction_2021)
+* Understanding the role of urban design in disease spreading - [LINK](article_brizuela_understanding_2019)
+* The Socio-Spatial Determinants of COVID-19 Diffusion: The Impact of Globalisation, Settlement Characteristics and Population - [LINK](article_sigler_socio-spatial_2020)
+* COVID-19 and the rise of intimate partner violence - [LINK](article_aguero_covid-19_2021)
+* Covid-19 and asset management in EU: a preliminary assessment of performance and investment styles - [LINK](article_rizvi_covid-19_2020)
+* Building sustainable finance for resilient protected and conserved areas: lessons from COVID-19 - [LINK](article_cumming_building_2021)
+* Climate and the spread of COVID-19 - [LINK](article_chen_climate_2021)
 
 
 ### Closest BPs
 
-* Blueprint: Resilience in staffing and skills training - [LINK](bp_12)
+* Blueprint: Smart Locker System - [LINK](bp_1)
 * Blueprint: Monitoring of wastewater - [LINK](bp_21)
-* Blueprint: Architecture design - [LINK](bp_2)
+* Blueprint: Resilience in staffing and skills training - [LINK](bp_12)

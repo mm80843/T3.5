@@ -1,19 +1,19 @@
 # Keyword: room
 
-* [air-ventilation](cluster_Cluster_0)
+* [air-sars](cluster_9)
 
-* [nd-icu](cluster_Cluster_4)
+* [uv-air](cluster_15)
 
 
 ## Keywords
 
- * Cluster_0, Cluster_4, [air](keyword_air), [air filter](keyword_air_filter), air handling, air sample, air temperature, [anteroom](keyword_anteroom), [apartment](keyword_apartment), banquet, bathroom, [bedroom](keyword_bedroom), breathing zone, [build](keyword_build), carpet, ceiling, ceiling fan, [chair](keyword_chair), class, common area, compartment, confine space, [corridor](keyword_corridor), corridor space, displacement ventilation, [domain](keyword_domain), door, dwell, enclosure, [floor](keyword_floor), furniture, gapthe, [garden](keyword_garden), heat source, [home](keyword_home), home office, home office space, [hospital](keyword_hospital), hotel, [house](keyword_house), independent isolation room, [indoor](keyword_indoor), indoor location, isolated isolation room, isolation room, live, microbe, mix, mix air distribution, movement, movement of people, negative isolation, no heat source, [occupant](keyword_occupant), open closing window, open window, operating room, [patient](keyword_patient), private bathroom, protective environment, rectangular, relative humidity, retrofitting, [room](keyword_room), room air, room air cleaner, room occupancy, rooms, [school](keyword_school), secondary air circulation, secondary air circulation system, [space](keyword_space), space apart, supply air, [toilet](keyword_toilet), underﬂoor ventilation, unit, ventilate, ventilate building, [ventilation](keyword_ventilation), ventilation flow, ventilation rate, ventilation strategy, ventilation system, washroom, well ventilate, [window](keyword_window)
+ * Cluster_15, Cluster_9, [air](keyword_air), [air filter](keyword_air_filter), air handling, air sample, air temperature, [anteroom](keyword_anteroom), [apartment](keyword_apartment), banquet, bathroom, [bedroom](keyword_bedroom), breathing zone, [build](keyword_build), carpet, ceiling, ceiling fan, [chair](keyword_chair), class, common area, compartment, confine space, [corridor](keyword_corridor), corridor space, displacement ventilation, [domain](keyword_domain), door, dwell, enclosure, floor, furniture, gapthe, [garden](keyword_garden), heat source, [home](keyword_home), home office, home office space, [hospital](keyword_hospital), hotel, [house](keyword_house), independent isolation room, [indoor](keyword_indoor), indoor location, isolated isolation room, isolation room, [live](keyword_live), microbe, mix, mix air distribution, movement, movement of people, negative isolation, no heat source, [occupant](keyword_occupant), open closing window, open window, operating room, [patient](keyword_patient), private bathroom, protective environment, rectangular, relative humidity, retrofitting, [room](keyword_room), room air, room air cleaner, room occupancy, rooms, [school](keyword_school), secondary air circulation, secondary air circulation system, [space](keyword_space), space apart, supply air, [toilet](keyword_toilet), underﬂoor ventilation, unit, ventilate, ventilate building, [ventilation](keyword_ventilation), ventilation flow, ventilation rate, ventilation strategy, ventilation system, washroom, well ventilate, [window](keyword_window)
 
 
-## Concepts
 
- ![](imgs/keyword_room.jpg)
+## Mapping
 
+<img src="plotly/keyword_room.svg">
 
 
 ## Neighbours

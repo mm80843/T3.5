@@ -2,7 +2,7 @@
 
 * Source: [10.1016/j.chaos.2020.110088](https://doi.org/10.1016/j.chaos.2020.110088)
 * Year: 2020
-* Cluster: [health-patient](cluster_14)
+* Cluster: [air-sars](cluster_9)
 
 
 
@@ -13,7 +13,7 @@
 
 ## Concepts
 
- ![](imgs/article_silva_covid-abs_2020.jpg)
+ ![](plotly/article_silva_covid-abs_2020.svg)
 
 
 
@@ -22,18 +22,18 @@
 ### Closest articles
 
 * EXPOSED: An occupant exposure model for confined spaces to retrofit crowd models during a pandemic - [LINK](article_ronchi_exposed_2020)
-* Digital Twin of COVID-19 Mass Vaccination Centers - [LINK](article_pilati_digital_2021)
 * Building occupancy estimation with people flow modeling in AnyLogic - [LINK](article_li_building_2016)
-* COVID19-Routes: A Safe Pedestrian Navigation Service - [LINK](article_cantarero_covid19-routes_2021)
-* Social distancing enhanced automated optimal design of physical spaces in the wake of the COVID-19 pandemic - [LINK](article_ugail_social_2021)
-* Designing a Multi-Agent Occupant Simulation System to Support Facility Planning and Analysis for COVID-19 - [LINK](article_lee_designing_2021)
 * Exploring the Non-Medical impacts of Covid-19 using Natural Language Processing - [LINK](article_agade_exploring_2020)
-* COVID-19 Bulletin 1: Alterations to BREEAM assessment requirements as a result of the Coronavirus pandemic – Knowledge Base - [LINK](article_breeam_covid-19_2020)
-* Attitudes towards outdoor and neighbour noise during the COVID-19 lockdown: A case study in London - [LINK](article_lee_attitudes_2021)
+* Digital Twin of COVID-19 Mass Vaccination Centers - [LINK](article_pilati_digital_2021)
+* COVID19-Routes: A Safe Pedestrian Navigation Service - [LINK](article_cantarero_covid19-routes_2021)
+* Construction of a Linked Data Set of COVID-19 Knowledge Graphs: Development and Applications - [LINK](article_wang_construction_2022)
+* Management of the COVID-19 pandemic: challenges, practices, and organizational support - [LINK](article_hossny_management_2022)
+* Risk Diagnosis and Mitigation System of COVID-19 Using Expert System and Web Scraping - [LINK](article_mufid_risk_2020)
+* Social distancing enhanced automated optimal design of physical spaces in the wake of the COVID-19 pandemic - [LINK](article_ugail_social_2021)
 
 
 ### Closest BPs
 
 * Blueprint: Resilience in staffing and skills training - [LINK](bp_12)
-* Blueprint: One-way mobility circulation - [LINK](bp_4)
-* Blueprint: Architecture design - [LINK](bp_2)
+* Blueprint: Tracking and enforcing use of Personal Protective Equipment - [LINK](bp_23)
+* Blueprint: Air Cleaning Plants - [LINK](bp_15)

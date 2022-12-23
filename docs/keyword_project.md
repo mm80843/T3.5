@@ -1,19 +1,17 @@
 # Keyword: project
 
-* [construction-resilience](cluster_Cluster_5)
-
-* [podcast-audio](cluster_Cluster_7)
+* [construction-pandemic](cluster_1)
 
 
 ## Keywords
 
- * 53 usbgc, Cluster_5, Cluster_7, asset manag, bbmap, bmap, budget, [business](keyword_business), business as usual, communication line, communication network, [construction](keyword_construction), construction business, construction firm, [construction industry](keyword_construction_industry), construction operation, [construction worker](keyword_construction_worker), [contractor](keyword_contractor), coronavirus pandemic, cost, cost of such disruption, [covid-19](keyword_covid-19), covidgraph, cran, [design](keyword_design), design professional, economic resilience, estimator, fund, funded by, goal, governance, governance model, guideline, guideline project, [infrastructure](keyword_infrastructure), [iot](keyword_iot), learn, lifecycle, [manager](keyword_manager), negotiation process, nonessential, objective, panama canal, process, process perspective, [productivity](keyword_productivity), [project](keyword_project), project base learn, project complexity, project document, project library, project lifecycle, [project management](keyword_project_management), project manager, project s, project stakeholder, project summary, projects, proof of concept, [research](keyword_research), research and development, research grant scheme, research project, sbply, sbply 17 180501 000334, [smart city](keyword_smart_city), [stakeholder](keyword_stakeholder), [supply chain](keyword_supply_chain), task, tax incentive, team, urban economic resilience during and after covid 19, usbgc, [value engineering](keyword_value_engineering), wastewater treatment, workflow, ﬂexibility
+ * 53 usbgc, Cluster_1, asset manag, bbmap, bmap, budget, [business](keyword_business), business as usual, communication line, communication network, [construction](keyword_construction), construction business, construction firm, [construction industry](keyword_construction_industry), construction operation, [construction worker](keyword_construction_worker), [contractor](keyword_contractor), coronavirus pandemic, cost, cost of such disruption, [covid-19](keyword_covid-19), covidgraph, cran, [design](keyword_design), design professional, economic resilience, estimator, fund, funded by, goal, governance, governance model, guideline, guideline project, [infrastructure](keyword_infrastructure), [iot](keyword_iot), learn, lifecycle, [manager](keyword_manager), negotiation process, nonessential, objective, panama canal, [process](keyword_process), process perspective, [productivity](keyword_productivity), [project](keyword_project), project base learn, project complexity, project document, project library, project lifecycle, [project management](keyword_project_management), project manager, project s, project stakeholder, project summary, projects, proof of concept, [research](keyword_research), research and development, research grant scheme, research project, sbply, sbply 17 180501 000334, [smart city](keyword_smart_city), [stakeholder](keyword_stakeholder), [supply chain](keyword_supply_chain), task, tax incentive, team, urban economic resilience during and after covid 19, usbgc, [value engineering](keyword_value_engineering), wastewater treatment, workflow, ﬂexibility
 
 
-## Concepts
 
- ![](imgs/keyword_project.jpg)
+## Mapping
 
+<img src="plotly/keyword_project.svg">
 
 
 ## Neighbours

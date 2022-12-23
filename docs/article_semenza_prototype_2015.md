@@ -2,18 +2,18 @@
 
 * Source: [10.3390/ijerph120606333](https://doi.org/10.3390/ijerph120606333)
 * Year: 2015
-* Cluster: [malaria-vector](cluster_12)
+* Cluster: [malaria-vector](cluster_13)
 
 
 
 ## Keywords
 
- * 26 may 2015, ae, aedes aegypti, aedes albopictus, american airlines, b biol, baka a, case study, central, [china](keyword_china), chotpitayasunondh t, [climate change](keyword_climate_change), climatic, [croatia](keyword_croatia), d j, [dengue](keyword_dengue), dengue virus, [disease](keyword_disease), district, district level, e3, e3 network, eastern europe, ecdc, [ecosystem](keyword_ecosystem), emerg, emerging flaviviruses, [environmental](keyword_environmental), [epidemic](keyword_epidemic), [epidemiological](keyword_epidemiological), [epidemiology](keyword_epidemiology), eur, euro, [europe](keyword_europe), european centre for disease prevention and control, european environment and epidemiology e3 network, [european union](keyword_european_union), eurosurveillance, evros province, forecast and control of epidemics in a globalized world, [france](keyword_france), [global](keyword_global), globalization, greece, [health](keyword_health), host, [human health](keyword_human_health), infect, infectious, [infectious disease](keyword_infectious_disease), interconnect, interconnect world, ismail h, j c, la ruche, lindgren e, logistic regression, madeira, [malaria](keyword_malaria), malaria in the who european region 1971 1999, malkinson d, [manhattan](keyword_manhattan), [member state](keyword_member_state), [monitor](keyword_monitor), [mosquito](keyword_mosquito), nat, [nature](keyword_nature), neglect, [new jersey](keyword_new_jersey), [new york city](keyword_new_york_city), [outbreak](keyword_outbreak), parasit, [pathogen](keyword_pathogen), paz s, [perspective](keyword_perspective), plos neglect, population density, [portugal](keyword_portugal), [public health](keyword_public_health), public health 2015, [research](keyword_research), [risk](keyword_risk), semenza, [spread](keyword_spread), suk j e, suntayakorn, [surveillance](keyword_surveillance), survey, surveyor, [transmission](keyword_transmission), [trenton](keyword_trenton), turkey, [usa](keyword_usa), vec, [vector](keyword_vector), [vector borne disease](keyword_vector_borne_disease), west nile fever, west nile virus, who, zoonotic
+ * 26 may 2015, ae, aedes aegypti, aedes albopictus, american airlines, b biol, baka a, case study, central, [china](keyword_china), chotpitayasunondh t, [climate change](keyword_climate_change), climatic, [croatia](keyword_croatia), d j, [dengue](keyword_dengue), dengue virus, [disease](keyword_disease), district, district level, e3, e3 network, eastern europe, ecdc, [ecosystem](keyword_ecosystem), emerg, emerging flaviviruses, environmental, [epidemic](keyword_epidemic), [epidemiological](keyword_epidemiological), [epidemiology](keyword_epidemiology), eur, euro, [europe](keyword_europe), european centre for disease prevention and control, european environment and epidemiology e3 network, [european union](keyword_european_union), eurosurveillance, evros province, forecast and control of epidemics in a globalized world, [france](keyword_france), global, globalization, [greece](keyword_greece), [health](keyword_health), host, [human health](keyword_human_health), infect, infectious, [infectious disease](keyword_infectious_disease), interconnect, interconnect world, ismail h, j c, la ruche, lindgren e, logistic regression, madeira, [malaria](keyword_malaria), malaria in the who european region 1971 1999, malkinson d, [manhattan](keyword_manhattan), [member state](keyword_member_state), [monitor](keyword_monitor), [mosquito](keyword_mosquito), nat, [nature](keyword_nature), neglect, [new jersey](keyword_new_jersey), [new york city](keyword_new_york_city), [outbreak](keyword_outbreak), parasit, [pathogen](keyword_pathogen), paz s, [perspective](keyword_perspective), plos neglect, population density, [portugal](keyword_portugal), [public health](keyword_public_health), public health 2015, [research](keyword_research), [risk](keyword_risk), [semenza](keyword_semenza), [spread](keyword_spread), suk j e, suntayakorn, [surveillance](keyword_surveillance), [survey](keyword_survey), surveyor, [transmission](keyword_transmission), [trenton](keyword_trenton), turkey, [usa](keyword_usa), vec, [vector](keyword_vector), [vector borne disease](keyword_vector_borne_disease), west nile fever, west nile virus, who, zoonotic
 
 
 ## Concepts
 
- ![](imgs/article_semenza_prototype_2015.jpg)
+ ![](plotly/article_semenza_prototype_2015.svg)
 
 
 
@@ -29,12 +29,12 @@
 * Challenges to Mitigating the Urban Health Burden of Mosquito-Borne Diseases in the Face of Climate Change - [LINK](article_ligsay_challenges_2021)
 * Global policy challenges for urban vector-borne disease risks - [LINK](article_alabaster_global_2016)
 * Making green infrastructure healthier infrastructure - [LINK](article_lohmus_making_2015)
-* Strengthening resilience: a priority shared by Health 2020 and - [LINK](article_who_strengthening_2017)
-* COVID-19 as a Harbinger of Transforming Infrastructure Resilience - [LINK](article_carvalhaes_covid-19_2020)
+* The Emergence of Anti-Privacy and Control at the Nexus between the Concepts of Safe City and Smart City - [LINK](article_allam_emergence_2019)
+* Green infrastructure through the lens of “One Health”: A systematic review and integrative framework uncovering synergies and trade-offs between mental health and wildlife support in cities - [LINK](article_felappi_green_2020)
 
 
 ### Closest BPs
 
-* Blueprint: Antimicrobial Surfaces - [LINK](bp_5)
-* Blueprint: Smart Locker System - [LINK](bp_1)
-* Blueprint: Good hand hygiene practice - [LINK](bp_16)
+* Blueprint: Mental health – Act: Do something - [LINK](bp_18)
+* Blueprint: Mental health – Commit: Do something meaningfull - [LINK](bp_20)
+* Blueprint: Mental health – Belong: Do something with someone - [LINK](bp_19)

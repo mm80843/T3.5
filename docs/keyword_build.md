@@ -1,23 +1,21 @@
 # Keyword: build
 
-* [building-space](cluster_Cluster_1)
+* [air-sars](cluster_2)
 
-* [air-ventilation](cluster_Cluster_4)
+* [housing-space](cluster_9)
 
-* [gbn-measure](cluster_Cluster_10)
-
-* [ieq-building](cluster_Cluster_11)
+* [building-energy](cluster_14)
 
 
 ## Keywords
 
- * [apartment](keyword_apartment), [architect](keyword_architect), architectural, [architecture](keyword_architecture), [bacs](keyword_bacs), [balcony](keyword_balcony), [biophilic design](keyword_biophilic_design), [build](keyword_build), build environ, [build environment](keyword_build_environment), build morphology, build professional, build variable, [building](keyword_building), building and environment, building design, building environment, building facility, building system, building wall, [case](keyword_case), [case building](keyword_case_building), [city](keyword_city), commercial, [community](keyword_community), [construction](keyword_construction), courtyard, [crowd model](keyword_crowd_model), descriptive analysis, [design](keyword_design), [domain](keyword_domain), door, [elevator](keyword_elevator), [energy](keyword_energy), energy build, energy con sumption, [energy consumption](keyword_energy_consumption), [energy efficiency](keyword_energy_efficiency), energy use, [engineering](keyword_engineering), entrance, envelope, [environment](keyword_environment), exposure time, façade, flat roof, [floor](keyword_floor), floor plan, function, grain, [green building](keyword_green_building), [health](keyword_health), [health and safety](keyword_health_and_safety), heating system, high occupancy, [hospital](keyword_hospital), [house](keyword_house), [housing](keyword_housing), [humidity](keyword_humidity), [hvac](keyword_hvac), [indoor](keyword_indoor), [indoor environment](keyword_indoor_environment), [infrastructure](keyword_infrastructure), interior, j j build, lifecycle, live environment, [location](keyword_location), maintain, measure impact, [occupant](keyword_occupant), occupant density, [occupant health](keyword_occupant_health), [office](keyword_office), [organisation](keyword_organisation), [people](keyword_people), [plan](keyword_plan), population density, practitioner, residential, [resilience](keyword_resilience), roof, safe building environment, [sample](keyword_sample), [school](keyword_school), [simulation](keyword_simulation), [space](keyword_space), [surface](keyword_surface), [sustainability](keyword_sustainability), sustainable building, [system](keyword_system), theory, urban area, [user](keyword_user), [ventilation](keyword_ventilation), ventilation rate, ventilation system, water system, [window](keyword_window), work hour
+ * [apartment](keyword_apartment), [architect](keyword_architect), architectural, [architecture](keyword_architecture), [bacs](keyword_bacs), [balcony](keyword_balcony), [biophilic design](keyword_biophilic_design), [build](keyword_build), build environ, [build environment](keyword_build_environment), build morphology, build professional, [building](keyword_building), building and environment, building design, building environment, building manager, building system, building wall, [case](keyword_case), [case building](keyword_case_building), [city](keyword_city), commercial, [community](keyword_community), [construction](keyword_construction), courtyard, [crowd model](keyword_crowd_model), descriptive analysis, [design](keyword_design), door, elevator, [energy](keyword_energy), energy build, energy con sumption, [energy consumption](keyword_energy_consumption), [energy efficiency](keyword_energy_efficiency), energy use, [engineering](keyword_engineering), entrance, envelope, [environment](keyword_environment), exposure time, façade, flat roof, floor, floor plan, function, [green building](keyword_green_building), [health](keyword_health), [health and safety](keyword_health_and_safety), heating system, high occupancy, [hospital](keyword_hospital), [house](keyword_house), [housing](keyword_housing), [humidity](keyword_humidity), [hvac](keyword_hvac), [indoor](keyword_indoor), [indoor environment](keyword_indoor_environment), [infrastructure](keyword_infrastructure), interior, j j build, lifecycle, live environment, location, maintain, measure impact, neighbourhood, [occupant](keyword_occupant), occupant density, [occupant health](keyword_occupant_health), [office](keyword_office), [organisation](keyword_organisation), [people](keyword_people), [plan](keyword_plan), population density, practitioner, [residential](keyword_residential), [resilience](keyword_resilience), roof, safe building environment, [sample](keyword_sample), [school](keyword_school), [simulation](keyword_simulation), [space](keyword_space), [surface](keyword_surface), [sustainability](keyword_sustainability), sustainable building, [system](keyword_system), theory, type, urban area, vehicle, [ventilation](keyword_ventilation), ventilation rate, ventilation system, water system, [window](keyword_window), work hour, [workplace](keyword_workplace)
 
 
-## Concepts
 
- ![](imgs/keyword_build.jpg)
+## Mapping
 
+<img src="plotly/keyword_build.svg">
 
 
 ## Neighbours

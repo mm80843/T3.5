@@ -1,17 +1,17 @@
 # Keyword: company
 
-* [airport-coating](cluster_Cluster_6)
+* [construction-pandemic](cluster_1)
 
 
 ## Keywords
 
- * 152 mckinsey, Cluster_6, adaptation of workplace, apple, belgium, [build](keyword_build), [business](keyword_business), business activity, business sector, [company](keyword_company), competitiveness, [construction](keyword_construction), construction company, corporate tone, [covid 19 pandemic](keyword_covid_19_pandemic), culture, [danish](keyword_danish), datum processing, [employee](keyword_employee), employment brand, english, [entrepreneur](keyword_entrepreneur), fast, fast company, finance, fortune 500, headquarter, health sector, human resource, [industry](keyword_industry), industry level, institutional, [labour market](keyword_labour_market), management, [manager](keyword_manager), [manufacture](keyword_manufacture), mckinsey, mckinsey and company, mckinsey company, metric, nadca, [office](keyword_office), order, performance, pet, [policy](keyword_policy), private corporation, [productivity](keyword_productivity), profit and loss, profit make, [research](keyword_research), research grant, research group, restructure, revenue, risk management, sectoral, [society](keyword_society), societé anonyme, société anonyme, [startup](keyword_startup), train their worker, [travel](keyword_travel), travel provider, wearable register, work environment, work organisation, [worker](keyword_worker)
+ * 152 mckinsey, Cluster_1, adaptation of workplace, apple, belgium, [build](keyword_build), [business](keyword_business), business activity, business sector, [company](keyword_company), competitiveness, [construction](keyword_construction), construction company, corporate tone, [covid 19 pandemic](keyword_covid_19_pandemic), culture, [danish](keyword_danish), datum processing, [employee](keyword_employee), employment brand, english, [entrepreneur](keyword_entrepreneur), fast, fast company, finance, fortune 500, headquarter, health sector, human resource, [industry](keyword_industry), industry level, institutional, [labour market](keyword_labour_market), [management](keyword_management), [manager](keyword_manager), [manufacture](keyword_manufacture), mckinsey, mckinsey and company, mckinsey company, metric, nadca, [office](keyword_office), order, performance, pet, [policy](keyword_policy), private corporation, [productivity](keyword_productivity), profit and loss, profit make, [research](keyword_research), research grant, research group, restructure, revenue, risk management, sectoral, [society](keyword_society), societé anonyme, société anonyme, [startup](keyword_startup), train their worker, [travel](keyword_travel), travel provider, wearable register, work environment, work organisation, [worker](keyword_worker)
 
 
-## Concepts
 
- ![](imgs/keyword_company.jpg)
+## Mapping
 
+<img src="plotly/keyword_company.svg">
 
 
 ## Neighbours

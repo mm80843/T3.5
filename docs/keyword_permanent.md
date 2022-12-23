@@ -1,17 +1,17 @@
 # Keyword: permanent
 
-* [gbn-measure](cluster_Cluster_10)
+* [filter-air](cluster_0)
 
 
 ## Keywords
 
- * Cluster_10, [contract](keyword_contract), full time contract, [permanent](keyword_permanent), shelter, temporary, the future, threat
+ * Cluster_0, [contract](keyword_contract), full time contract, [permanent](keyword_permanent), shelter, temporary, the future, threat
 
 
-## Concepts
 
- ![](imgs/keyword_permanent.jpg)
+## Mapping
 
+<img src="plotly/keyword_permanent.svg">
 
 
 ## Neighbours

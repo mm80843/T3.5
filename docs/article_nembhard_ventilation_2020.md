@@ -2,18 +2,18 @@
 
 * Source: [10.1177/0748233720967528](https://doi.org/10.1177/0748233720967528)
 * Year: 2020
-* Cluster: [air-ventilation](cluster_4)
+* Cluster: [air-sars](cluster_9)
 
 
 
 ## Keywords
 
- * [aerosol](keyword_aerosol), [air](keyword_air), air contaminant, air duct, [air filter](keyword_air_filter), air intake, airborne transmission, [ashrae](keyword_ashrae), authorship, bahnfleth w, [build](keyword_build), cardno chemrisk, chartier y, [china](keyword_china), [clean](keyword_clean), close contact, code, contagion, contaminant, [control](keyword_control), cool, [coronavirus](keyword_coronavirus), cough, [covid 19 pandemic](keyword_covid_19_pandemic), [covid-19](keyword_covid-19), diamond princess cruise ship, dilution, [disinfection](keyword_disinfection), [droplet](keyword_droplet), ductwork, [efficiency](keyword_efficiency), engineering control, epa, exhaust fan, exhaust only, [facility management](keyword_facility_management), fan, [filter](keyword_filter), [filtration](keyword_filtration), flamholz a, frequently ask question, furnace, garbage, growth, gu j, guangzhou, heating, [humidity](keyword_humidity), [hvac](keyword_hvac), [hvac system](keyword_hvac_system), [iaq](keyword_iaq), in room, indoor air, [indoor air quality](keyword_indoor_air_quality), infectious, infectious disease outbreak, insulation, john milton, li k, louver, lung, [mask](keyword_mask), microbiological, nadca, nadca laurel, nembhard, odor, [pandemic](keyword_pandemic), paradise lose, perera h, pessoa silva c, [product](keyword_product), [protocol](keyword_protocol), psa, pulmonary system, qian h, rating, register, [research](keyword_research), respiratory virus, [russia](keyword_russia), [sar cov 2](keyword_sar_cov_2), service, [simulation](keyword_simulation), sneeze, [space](keyword_space), st petersburg, [system](keyword_system), tang jw, taylor engineering, [temperature](keyword_temperature), [transmission](keyword_transmission), [united states](keyword_united_states), usepa, [ventilation](keyword_ventilation), ventilation system, [virus](keyword_virus), [world health organization](keyword_world_health_organization), worldwide pandemic, [wuhan](keyword_wuhan)
+ * [aerosol](keyword_aerosol), [air](keyword_air), air contaminant, air duct, [air filter](keyword_air_filter), air intake, airborne transmission, [ashrae](keyword_ashrae), authorship, bahnfleth w, [build](keyword_build), cardno chemrisk, chartier y, [china](keyword_china), [clean](keyword_clean), close contact, code, contagion, contaminant, [control](keyword_control), cool, [coronavirus](keyword_coronavirus), cough, [covid 19 pandemic](keyword_covid_19_pandemic), [covid-19](keyword_covid-19), diamond princess cruise ship, dilution, [disinfection](keyword_disinfection), [droplet](keyword_droplet), ductwork, [efficiency](keyword_efficiency), engineering control, epa, exhaust fan, exhaust only, [facility management](keyword_facility_management), fan, [filter](keyword_filter), filtration, flamholz a, frequently ask question, furnace, garbage, growth, gu j, guangzhou, heating, [humidity](keyword_humidity), [hvac](keyword_hvac), [hvac system](keyword_hvac_system), [iaq](keyword_iaq), in room, indoor air, [indoor air quality](keyword_indoor_air_quality), infectious, infectious disease outbreak, insulation, john milton, li k, louver, lung, [mask](keyword_mask), microbiological, nadca, nadca laurel, nembhard, odor, [pandemic](keyword_pandemic), paradise lose, perera h, pessoa silva c, product, [protocol](keyword_protocol), psa, pulmonary system, qian h, rating, register, [research](keyword_research), respiratory virus, [russia](keyword_russia), [sar cov 2](keyword_sar_cov_2), [service](keyword_service), [simulation](keyword_simulation), sneeze, [space](keyword_space), st petersburg, [system](keyword_system), tang jw, taylor engineering, [temperature](keyword_temperature), [transmission](keyword_transmission), [united states](keyword_united_states), usepa, [ventilation](keyword_ventilation), ventilation system, [virus](keyword_virus), [world health organization](keyword_world_health_organization), worldwide pandemic, [wuhan](keyword_wuhan)
 
 
 ## Concepts
 
- ![](imgs/article_nembhard_ventilation_2020.jpg)
+ ![](plotly/article_nembhard_ventilation_2020.svg)
 
 
 
@@ -35,5 +35,5 @@
 ### Closest BPs
 
 * Blueprint: Installing UV in ductwork - [LINK](bp_10)
-* Blueprint: Monitoring of wastewater - [LINK](bp_21)
-* Blueprint: Resilience in staffing and skills training - [LINK](bp_12)
+* Blueprint: Installing high-efficiency air filters - [LINK](bp_11)
+* Blueprint: Negative pressure rooms - [LINK](bp_13)

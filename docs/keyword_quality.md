@@ -1,17 +1,17 @@
 # Keyword: quality
 
-* [ieq-building](cluster_Cluster_11)
+* [building-energy](cluster_2)
 
 
 ## Keywords
 
- * Cluster_11, affordable, age, amount of space available, build quality, [comfort](keyword_comfort), community service, customer volume, database, [datum](keyword_datum), datum quality evaluation, dignity, [domain](keyword_domain), [education](keyword_education), evaluation, expeditiousness, greenspace, [health](keyword_health), [health care](keyword_health_care), health care capacity, ifr, indoor air, [indoor climate](keyword_indoor_climate), job, job quality, miss or questionable, neutral, performance, [public space](keyword_public_space), [qualitative](keyword_qualitative), [quality](keyword_quality), quality of green space, quantity, reduce manpower, [resilience](keyword_resilience), [safety](keyword_safety), [sample](keyword_sample), [school](keyword_school), sdg 4, signal, [stress](keyword_stress), three legged stool, trust, trust the service, uncertainty, user satisfaction
+ * Cluster_2, affordable, age, amount of space available, build quality, [comfort](keyword_comfort), community service, customer volume, database, [datum](keyword_datum), datum quality evaluation, dignity, [domain](keyword_domain), [education](keyword_education), evaluation, expeditiousness, greenspace, [health](keyword_health), [health care](keyword_health_care), health care capacity, ifr, indoor air, [indoor climate](keyword_indoor_climate), job, job quality, miss or questionable, neutral, performance, [public space](keyword_public_space), [qualitative](keyword_qualitative), [quality](keyword_quality), quality of green space, quantity, reduce manpower, [resilience](keyword_resilience), [safety](keyword_safety), [sample](keyword_sample), [school](keyword_school), sdg 4, signal, [stress](keyword_stress), three legged stool, trust, trust the service, uncertainty, user satisfaction
 
 
-## Concepts
 
- ![](imgs/keyword_quality.jpg)
+## Mapping
 
+<img src="plotly/keyword_quality.svg">
 
 
 ## Neighbours

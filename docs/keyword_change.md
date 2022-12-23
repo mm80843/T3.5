@@ -1,23 +1,25 @@
 # Keyword: change
 
-* [urban-city](cluster_Cluster_1)
+* [construction-pandemic](cluster_1)
 
-* [building-space](cluster_Cluster_5)
+* [building-energy](cluster_2)
 
-* [construction-resilience](cluster_Cluster_12)
+* [malaria-vector](cluster_7)
 
-* [malaria-vector](cluster_Cluster_13)
+* [resilience-infrastructure](cluster_11)
+
+* [water-wastewater](cluster_13)
 
 
 ## Keywords
 
- * Cluster_1, Cluster_12, Cluster_13, Cluster_5, adapt, [air pollution](keyword_air_pollution), anthropogenic, [anxiety](keyword_anxiety), augmented reality, [change](keyword_change), changes, changing, [climate](keyword_climate), climate be always change, [climate change](keyword_climate_change), climate policy, complexity, consumer behaviour, [covid 19 pandemic](keyword_covid_19_pandemic), decade, decade to change, disruption, evolve, export demand, force, hour, import demand, [innovation](keyword_innovation), lifestyle, movement, multi dimensional, new normal, new retail experience, norm, [plan](keyword_plan), regulatory change, [resilience](keyword_resilience), [society](keyword_society), strategic, uncertainty, weather
+ * Cluster_1, Cluster_11, Cluster_13, Cluster_2, Cluster_7, adapt, [air pollution](keyword_air_pollution), anthropogenic, [anxiety](keyword_anxiety), augmented reality, [change](keyword_change), changes, changing, [climate](keyword_climate), climate be always change, [climate change](keyword_climate_change), climate policy, complexity, consumer behaviour, [covid 19 pandemic](keyword_covid_19_pandemic), decade, decade to change, disruption, evolve, export demand, force, hour, import demand, [innovation](keyword_innovation), lifestyle, movement, multi dimensional, new normal, new retail experience, norm, [plan](keyword_plan), regulatory change, [resilience](keyword_resilience), [society](keyword_society), strategic, uncertainty, weather
 
 
-## Concepts
 
- ![](imgs/keyword_change.jpg)
+## Mapping
 
+<img src="plotly/keyword_change.svg">
 
 
 ## Neighbours
@@ -32,7 +34,7 @@
 * Covid-19 and the politics of sustainable energy transitions - [LINK](article_kuzemko_covid-19_2020)
 * Guidelines for resilience systems analysis - [LINK](article_oecd_guidelines_2014)
 * Occupant health in buildings: Impact of the COVID-19 pandemic on the opinions of building professionals and implications on research - [LINK](article_awada_occupant_2022)
-* Strengthening resilience: a priority shared by Health 2020 and - [LINK](article_who_strengthening_2017)
+* World Bank Development Report - [LINK](article_world_bank_world_2022)
 
 
 ### Closest BPs

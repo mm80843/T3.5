@@ -1,17 +1,17 @@
 # Keyword: sewage
 
-* [wastewater-sars](cluster_Cluster_2)
+* [water-wastewater](cluster_7)
 
 
 ## Keywords
 
- * Cluster_2, [air](keyword_air), amersfoort, aqueous, aqueous phase, brisbane, brussels, [community](keyword_community), [coronavirus outbreak](keyword_coronavirus_outbreak), [covid 19 pandemic](keyword_covid_19_pandemic), [covid-19](keyword_covid-19), cycle threshold, daughton, [disinfection](keyword_disinfection), disinfection pool, ebola, envelop, [environment](keyword_environment), european city, faece, fece, gc, gc ml, hav, hev, [human](keyword_human), human fece, human health monitoring, inactivation of an enveloped surrogate virus, [infection](keyword_infection), inlet, [inﬂuent](keyword_inﬂuent), isolation ward, [italy](keyword_italy), last paper, log inactivation, [microbial](keyword_microbial), milliliter, [model](keyword_model), [netherland](keyword_netherland), [outlet](keyword_outlet), pasteurization, pasteurize, [pcr](keyword_pcr), pipe leakage, [pollutant](keyword_pollutant), pollution, [public health](keyword_public_health), raw sewage, rt qpcr, [sanitation](keyword_sanitation), [sar cov 2](keyword_sar_cov_2), sar cov 2 rna, sars coronavirus 2, secondary treat, [sewage](keyword_sewage), sewage disinfection pool, sewage surveillance, sewage surveillance 212, sewage treatment, solid, surface water, [system](keyword_system), [toilet](keyword_toilet), trail measure of infection, treatment plant, urinary biomarker, [viral](keyword_viral), [virus](keyword_virus), [wastewater](keyword_wastewater), wastewater treatment, wastewater treatment facility, wastewater treatment plant, [water](keyword_water), [wwtp](keyword_wwtp), ﬁlter, ﬁltrate
+ * Cluster_7, [air](keyword_air), amersfoort, aqueous, aqueous phase, brisbane, brussels, [community](keyword_community), [coronavirus outbreak](keyword_coronavirus_outbreak), [covid 19 pandemic](keyword_covid_19_pandemic), [covid-19](keyword_covid-19), cycle threshold, daughton, [disinfection](keyword_disinfection), disinfection pool, ebola, envelop, [environment](keyword_environment), european city, faece, fece, gc, gc ml, hav, hev, [human](keyword_human), human fece, human health monitoring, inactivation of an enveloped surrogate virus, [infection](keyword_infection), inlet, [inﬂuent](keyword_inﬂuent), isolation ward, [italy](keyword_italy), last paper, log inactivation, [microbial](keyword_microbial), milliliter, [model](keyword_model), [netherland](keyword_netherland), outlet, pasteurization, pasteurize, pcr, pipe leakage, [pollutant](keyword_pollutant), pollution, [public health](keyword_public_health), raw sewage, rt qpcr, [sanitation](keyword_sanitation), [sar cov 2](keyword_sar_cov_2), sar cov 2 rna, sars coronavirus 2, secondary treat, [sewage](keyword_sewage), sewage disinfection pool, sewage surveillance, sewage surveillance 212, sewage treatment, solid, surface water, [system](keyword_system), [toilet](keyword_toilet), trail measure of infection, treatment plant, urinary biomarker, [viral](keyword_viral), [virus](keyword_virus), [wastewater](keyword_wastewater), wastewater treatment, wastewater treatment facility, wastewater treatment plant, [water](keyword_water), [wwtp](keyword_wwtp), ﬁlter, ﬁltrate
 
 
-## Concepts
 
- ![](imgs/keyword_sewage.jpg)
+## Mapping
 
+<img src="plotly/keyword_sewage.svg">
 
 
 ## Neighbours

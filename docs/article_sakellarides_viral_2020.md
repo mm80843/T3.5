@@ -2,7 +2,7 @@
 
 * Source: [10.20344/amp.13841](https://doi.org/10.20344/amp.13841)
 * Year: 2020
-* Cluster: [urban-city](cluster_13)
+* Cluster: [urban-city](cluster_6)
 
 
 
@@ -13,7 +13,7 @@
 
 ## Concepts
 
- ![](imgs/article_sakellarides_viral_2020.jpg)
+ ![](plotly/article_sakellarides_viral_2020.svg)
 
 
 
@@ -22,19 +22,18 @@
 ### Closest articles
 
 * Amplifying the role of knowledge translation platforms in the COVID-19 pandemic response - [LINK](article_el-jardali_amplifying_2020)
-* 10 tech trends getting us through the COVID-19 pandemic - [LINK](article_yan_10_2020)
-* Telehealth overpromises during the Covid-19 pandemic - [LINK](article_ostherr_telehealth_2020)
-* COVID-19: A new digital dawn? - [LINK](article_robbins_covid-19_2020)
+* Health, Economic and Social Development Challenges of the COVID-19 Pandemic: Strategies for Multiple and Interconnected Issues - [LINK](article_panneer_health_2022)
+* Impact of COVID-19 on IoT Adoption in Healthcare, Smart Homes, Smart Buildings, Smart Cities, Transportation and Industrial IoT - [LINK](article_umair_impact_2021)
+* 10 Adaptive Measures for Public Places to face the COVID 19 Pandemic Outbreak - [LINK](article_cheshmehzangi_10_2020)
 * Sustainable work throughout the life course: National policies and strategies, Publications Office of the European Union - [LINK](article_eurofund_sustainable_2016)
-* Significant applications of virtual reality for COVID-19 pandemic - [LINK](article_singh_significant_2020)
-* Digital technology and COVID-19 - [LINK](article_ting_digital_2020)
-* Exploring the Potential of Artificial Intelligence and Machine Learning to Combat COVID-19 and Existing Opportunities for LMIC: A Scoping Review - [LINK](article_naseem_exploring_2020)
-* Pandemic Analytics: How Countries are Leveraging Big Data Analytics and Artificial Intelligence to Fight COVID-19? - [LINK](article_mehta_pandemic_2021)
-* Case Study on Finnish TVETA Resilient Model of Training During COVID-19 - [LINK](article_unesco_case_2021)
+* The COVID-19 pandemic: Lessons on building more equal and sustainable societies - [LINK](article_van_barneveld_covid-19_2020)
+* Urban planning after COVID-19 - [LINK](article_rtpi_urban_2021)
+* COVID-19 and the UN Sustainable Development Goals: Threat to Solidarity or an Opportunity? - [LINK](article_leal_filho_covid-19_2020)
+* The City Under COVID‐19: Podcasting As Digital Methodology - [LINK](article_rogers_city_2020)
 
 
 ### Closest BPs
 
-* Blueprint: Resilience in staffing and skills training - [LINK](bp_12)
 * Blueprint: Smart Locker System - [LINK](bp_1)
-* Blueprint: One-way mobility circulation - [LINK](bp_4)
+* Blueprint: Resilience in staffing and skills training - [LINK](bp_12)
+* Blueprint: Tracking and enforcing use of Personal Protective Equipment - [LINK](bp_23)

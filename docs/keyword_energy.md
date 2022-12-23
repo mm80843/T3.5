@@ -1,21 +1,19 @@
 # Keyword: energy
 
-* [building-space](cluster_Cluster_1)
+* [housing-space](cluster_2)
 
-* [construction-resilience](cluster_Cluster_5)
-
-* [ieq-building](cluster_Cluster_11)
+* [building-energy](cluster_14)
 
 
 ## Keywords
 
- * Cluster_5, absorb some of the incident light energy, access in africa, action, agency, air conditioner, attention, bill, bioclimatic, body heat, [build](keyword_build), [building](keyword_building), building domain, business case, carbon, carbon emission, carbon saving, case study, case study b, [clean](keyword_clean), clean product, [climate](keyword_climate), climate planning, climate policy, climate sustainability, co2, con sumption, consumption, consumption of energy, [covid-19](keyword_covid-19), demand, [economic](keyword_economic), economic growth, edf, eere, [efficiency](keyword_efficiency), electricity, energ, [energy](keyword_energy), [energy consumption](keyword_energy_consumption), energy demand, [energy efficiency](keyword_energy_efficiency), energy infrastructure, energy research, energy security, energy study, energy supply chain, [environmental](keyword_environmental), food, [fossil fuel](keyword_fossil_fuel), fuel, geoscience, ghana, [green building](keyword_green_building), [health](keyword_health), heat, [hvac](keyword_hvac), [iea](keyword_iea), incident light, [industry](keyword_industry), [infrastructure](keyword_infrastructure), inversion, kinetic energy, low carbon, machinesmachine, meter, method, performance level, [policy](keyword_policy), policy sector, power, public s health, renewable, renewable energy, renewable energy supply, renewable source, [research](keyword_research), [resilience](keyword_resilience), resource, resource efficiency, resource use, resourceefficiency, retrofit, rev 23 2013, service, shale gas, socialscience, storage, sustainable transport, [travel](keyword_travel), usage, [ventilation](keyword_ventilation), ventilation rate, [vulnerability](keyword_vulnerability), [waste](keyword_waste), [water](keyword_water), water consumption, water efficient, wh, wh m2
+ * air conditioner, attention, bill, bioclimatic, [build](keyword_build), [building](keyword_building), business case, carbon saving, case study, [clean](keyword_clean), clean product, climate policy, con sumption, consumption, consumption of energy, [covid-19](keyword_covid-19), demand, [economic](keyword_economic), economic growth, edf, eere, [efficiency](keyword_efficiency), electricity, energ, [energy](keyword_energy), [energy consumption](keyword_energy_consumption), energy demand, [energy efficiency](keyword_energy_efficiency), energy infrastructure, energy research, energy study, energy supply chain, environmental, food, [fossil fuel](keyword_fossil_fuel), fuel, geoscience, ghana, [green building](keyword_green_building), [health](keyword_health), heat, [hvac](keyword_hvac), [iea](keyword_iea), incident light, [industry](keyword_industry), [infrastructure](keyword_infrastructure), inversion, kinetic energy, less energy, low carbon, low cost infrastructure, machinesmachine, meter, method, nuclear power, off grid, office space, oil, oil and gas, outcome, [pandemic](keyword_pandemic), performance level, [policy](keyword_policy), policy sector, power, public s health, renewable, renewable energy, renewable energy supply, renewable source, [research](keyword_research), [resilience](keyword_resilience), resource, resource efficiency, resource use, resourceefficiency, retrofit, rev 23 2013, [service](keyword_service), shale gas, smart home, socialscience, solar panel, space heating, storage, [supply chain](keyword_supply_chain), sustainable transport, [transmission](keyword_transmission), transportation, [travel](keyword_travel), usage, [ventilation](keyword_ventilation), ventilation rate, [vulnerability](keyword_vulnerability), waste, [water](keyword_water), water consumption, water efficient, wh, wh m2
 
 
-## Concepts
 
- ![](imgs/keyword_energy.jpg)
+## Mapping
 
+<img src="plotly/keyword_energy.svg">
 
 
 ## Neighbours

@@ -1,17 +1,19 @@
 # Keyword: urban
 
-* [urban-city](cluster_Cluster_13)
+* [urban-city](cluster_6)
+
+* [housing-space](cluster_14)
 
 
 ## Keywords
 
- * agriculture, apartment building, architectural, [architecture](keyword_architecture), [area](keyword_area), back alley, [build](keyword_build), [build environment](keyword_build_environment), build morphology, [china](keyword_china), citizen, [city](keyword_city), city planning, [community](keyword_community), community farming, community planning, [design](keyword_design), dev urban, [economy](keyword_economy), ecosyst, [environment](keyword_environment), farm, for, for urban, [forest](keyword_forest), geographic residence, gerger, [green](keyword_green), green area, green infrastructure, green planning, [green space](keyword_green_space), habitat, [housing](keyword_housing), [human health](keyword_human_health), hydroinformatic, [indoor environment](keyword_indoor_environment), infill, [infrastructure](keyword_infrastructure), irschik, job, land use, landscape, landscape structure, level, manag j, metropolitan area, microscale, [mosquito](keyword_mosquito), nakada, narrative poor, nassereddine, natural, [neighborhood](keyword_neighborhood), peri urban, peri urban agriculture, peri urban land, peri urban matrix, periurban, place make, [plan](keyword_plan), population density, [public space](keyword_public_space), public space design, quality of life, quiet zone, region, regional, [research](keyword_research), resident, rural, scale, schranz, science, semi urban, slum, slum communities, [social](keyword_social), socio geographic, socio spatial, sound environment, [space](keyword_space), suburb, suburban, [sustainability](keyword_sustainability), transport planning, [urban](keyword_urban), urban area, urban farming, [urban green space](keyword_urban_green_space), urban health, urban improvement, urban landscape, urban space urban life dialectic, urban stud, urbanicity, urbanist, [wastewater](keyword_wastewater), wisconsin, [world](keyword_world)
+ * agriculture, apartment building, architectural, [architecture](keyword_architecture), [area](keyword_area), back alley, [build](keyword_build), [build environment](keyword_build_environment), build morphology, [china](keyword_china), citizen, [city](keyword_city), city planning, [community](keyword_community), community farming, community planning, dev urban, [economy](keyword_economy), ecosyst, [environment](keyword_environment), farm, for, for urban, [forest](keyword_forest), geographic residence, gerger, [green](keyword_green), green area, green infrastructure, green planning, [green space](keyword_green_space), habitat, [house](keyword_house), [housing](keyword_housing), [human health](keyword_human_health), hydroinformatic, [indoor environment](keyword_indoor_environment), infill, [infrastructure](keyword_infrastructure), irschik, job, land use, landscape, landscape structure, level, manag j, metropolitan area, microscale, [mosquito](keyword_mosquito), nakada, narrative poor, nassereddine, natural, [neighborhood](keyword_neighborhood), peri urban, peri urban agriculture, peri urban land, peri urban matrix, periurban, place make, [plan](keyword_plan), population density, [public space](keyword_public_space), public space design, quality of life, quiet zone, region, regional, [research](keyword_research), resident, rural, scale, schranz, science, semi urban, slum, slum communities, [social](keyword_social), socio geographic, socio spatial, sound environment, [space](keyword_space), suburb, suburban, [sustainability](keyword_sustainability), transport planning, [urban](keyword_urban), urban area, urban farming, [urban green space](keyword_urban_green_space), urban health, urban improvement, urban landscape, urban space urban life dialectic, urban stud, urbanicity, urbanist, [wastewater](keyword_wastewater), wisconsin, world
 
 
-## Concepts
 
- ![](imgs/keyword_urban.jpg)
+## Mapping
 
+<img src="plotly/keyword_urban.svg">
 
 
 ## Neighbours

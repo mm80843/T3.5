@@ -1,17 +1,17 @@
 # Keyword: blueprint
 
-* [gbn-measure](cluster_Cluster_10)
+* [filter-air](cluster_0)
 
 
 ## Keywords
 
- * Cluster_10, [blueprint](keyword_blueprint), blueprints, production planning
+ * Cluster_0, [blueprint](keyword_blueprint), blueprints, production planning
 
 
-## Concepts
 
- ![](imgs/keyword_blueprint.jpg)
+## Mapping
 
+<img src="plotly/keyword_blueprint.svg">
 
 
 ## Neighbours

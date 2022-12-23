@@ -2,7 +2,7 @@
 
 * [https://61ccv1s4h9i2otvw249pcyxh-wpengine.netdna-ssl.com/wp-content/uploads/COVID19_CIVIC_Regulatory_Aug2020.pdf](https://61ccv1s4h9i2otvw249pcyxh-wpengine.netdna-ssl.com/wp-content/uploads/COVID19_CIVIC_Regulatory_Aug2020.pdf)
 * Year: 2020
-* Cluster: [building-space](cluster_1)
+* Cluster: [air-sars](cluster_9)
 
 
 
@@ -13,7 +13,7 @@
 
 ## Concepts
 
- ![](imgs/article_hmc_architects_how_2020.jpg)
+ ![](plotly/article_hmc_architects_how_2020.svg)
 
 
 
@@ -22,19 +22,19 @@
 ### Closest articles
 
 * Will a pandemic change building codes? - [LINK](article_rozgus_will_2020)
-* Navigating Climate Change: Rethinking the Role of Buildings - [LINK](article_cole_navigating_2020)
-* The psychological impact of COVID-19 on the mental health in the general population - [LINK](article_serafini_psychological_2020)
+* The contribution of green buildings in the fight against COVID-19 - [LINK](article_world_green_building_council_contribution_2020)
+* Smart buildings: how a virus might lead to healthier buildings - Arup - [LINK](article_lam_smart_2021)
+* An Automated System to Limit COVID-19 Using Facial Mask Detection in Smart City Network - [LINK](article_rahman_automated_2020)
+* Public housing and COVID-19: contestation, challenge and change - [LINK](article_power_public_2020)
+* Towards the sustainable development of smart cities through mass video surveillance: A response to the COVID-19 pandemic - [LINK](article_shorfuzzaman_towards_2021)
+*  - [LINK](article_huy-tran_design_2022)
+* DeepSOCIAL: Social Distancing Monitoring and Infection Risk Assessment in COVID-19 Pandemic - [LINK](article_rezaei_deepsocial_2020)
+* Dangerous liaisons? Applying the social harm perspective to the social inequality, housing and health trifecta during the Covid-19 pandemic - [LINK](article_gurney_dangerous_2021)
 * Designing Post COVID-19 Buildings: Approaches for Achieving Healthy Buildings - [LINK](article_navaratnam_designing_2022)
-* Psychological Effects of Home Confinement and Social Distancing Derived from COVID-19 in the General Population—A Systematic Review - [LINK](article_rodriguez-fernandez_psychological_2021)
-* The effect of a redesigned floor plan, occupant density and the quality of indoor climate on the cost of space, productivity and sick leave in an office building–A case study - [LINK](article_saari_effect_2006)
-* Mental Health and the Covid-19 Pandemic - [LINK](article_pfefferbaum_mental_2020)
-* Mental health and COVID-19 - [LINK](article_who_mental_2021)
-* COVID-19 Lessons for a Resilient Built Environment: A Roadmap - [LINK](article_hull_covid-19_2020)
-* Architectural Design Drives the Biogeography of Indoor Bacterial Communities - [LINK](article_kembel_architectural_2014)
 
 
 ### Closest BPs
 
-* Blueprint: Building Adaptation during a pandemic - [LINK](bp_14)
+* Blueprint: Tracking and enforcing use of Personal Protective Equipment - [LINK](bp_23)
 * Blueprint: Architecture design - [LINK](bp_2)
-* Blueprint: Tender support at building stage - [LINK](bp_9)
+* Blueprint: Building Adaptation during a pandemic - [LINK](bp_14)

@@ -2,7 +2,7 @@
 
 * Source: [10.1109/ICCA.2016.7505355](https://doi.org/10.1109/ICCA.2016.7505355)
 * Year: 2016
-* Cluster: [health-patient](cluster_14)
+* Cluster: [air-sars](cluster_9)
 
 
 
@@ -13,7 +13,7 @@
 
 ## Concepts
 
- ![](imgs/article_li_building_2016.jpg)
+ ![](plotly/article_li_building_2016.svg)
 
 
 
@@ -22,18 +22,19 @@
 ### Closest articles
 
 * EXPOSED: An occupant exposure model for confined spaces to retrofit crowd models during a pandemic - [LINK](article_ronchi_exposed_2020)
-* COVID-ABS: An agent-based model of COVID-19 epidemic to simulate health and economic effects of social distancing interventions - [LINK](article_silva_covid-abs_2020)
-* Social distancing enhanced automated optimal design of physical spaces in the wake of the COVID-19 pandemic - [LINK](article_ugail_social_2021)
 * Digital Twin of COVID-19 Mass Vaccination Centers - [LINK](article_pilati_digital_2021)
+* COVID-ABS: An agent-based model of COVID-19 epidemic to simulate health and economic effects of social distancing interventions - [LINK](article_silva_covid-abs_2020)
 * COVID19-Routes: A Safe Pedestrian Navigation Service - [LINK](article_cantarero_covid19-routes_2021)
-* Designing a Multi-Agent Occupant Simulation System to Support Facility Planning and Analysis for COVID-19 - [LINK](article_lee_designing_2021)
 * Exploring the Non-Medical impacts of Covid-19 using Natural Language Processing - [LINK](article_agade_exploring_2020)
-* COVID-19 Bulletin 1: Alterations to BREEAM assessment requirements as a result of the Coronavirus pandemic – Knowledge Base - [LINK](article_breeam_covid-19_2020)
+* Using Technology to Maintain the Education of Residents During the COVID-19 Pandemic - [LINK](article_chick_using_2020)
 * Risk Diagnosis and Mitigation System of COVID-19 Using Expert System and Web Scraping - [LINK](article_mufid_risk_2020)
+* COVID-19: A new digital dawn? - [LINK](article_robbins_covid-19_2020)
+* Case Study on Finnish TVETA Resilient Model of Training During COVID-19 - [LINK](article_unesco_case_2021)
+* Management of the COVID-19 pandemic: challenges, practices, and organizational support - [LINK](article_hossny_management_2022)
 
 
 ### Closest BPs
 
-* Blueprint: Smart Locker System - [LINK](bp_1)
-* Blueprint: One-way mobility circulation - [LINK](bp_4)
-* Blueprint: Access limitation - [LINK](bp_7)
+* Blueprint: Resilience in staffing and skills training - [LINK](bp_12)
+* Blueprint: Tracking and enforcing use of Personal Protective Equipment - [LINK](bp_23)
+* Blueprint: Air Cleaning Plants - [LINK](bp_15)
