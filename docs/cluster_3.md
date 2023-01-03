@@ -1,21 +1,17 @@
-# Cluster: __respiratory-infection__ (Cluster_3)
+# Cluster: __iaq-system__ (Cluster_3)
 
 ## Keywords
 
- * [algorithm](keyword_algorithm), [attitude](keyword_attitude), [case](keyword_case), [cid](keyword_cid), [coronavirus](keyword_coronavirus), [download](keyword_download), [guest](keyword_guest), [health](keyword_health), [infection](keyword_infection), [influenza](keyword_influenza), [mask](keyword_mask), [medium](keyword_medium), [novelcoronavirus](keyword_novelcoronavirus), [participant](keyword_participant), [prevention](keyword_prevention), [respiratory](keyword_respiratory), [study](keyword_study), [virus](keyword_virus), [wear](keyword_wear)
+ * [air](keyword_air), [alert](keyword_alert), [architecture](keyword_architecture), [base](keyword_base), [biomass](keyword_biomass), [concentration](keyword_concentration), [cook](keyword_cook), [cost](keyword_cost), [datum](keyword_datum), [design](keyword_design), [energy](keyword_energy), [environment](keyword_environment), [fuel](keyword_fuel), [gas](keyword_gas), [gaseous](keyword_gaseous), [health](keyword_health), [iaq](keyword_iaq), [indoor](keyword_indoor), [interface](keyword_interface), [iot](keyword_iot), [low](keyword_low), [mobile](keyword_mobile), [module](keyword_module), [monitor](keyword_monitor), [monitor](keyword_monitor), [network](keyword_network), [node](keyword_node), [parameter](keyword_parameter), [pi](keyword_pi), [pollutant](keyword_pollutant), [pollution](keyword_pollution), [power](keyword_power), [prediction](keyword_prediction), [quality](keyword_quality), [raspberry](keyword_raspberry), [real](keyword_real), [researcher](keyword_researcher), [reveal](keyword_reveal), [rh](keyword_rh), [saini](keyword_saini), [sensor](keyword_sensor), [server](keyword_server), [study](keyword_study), [system](keyword_system), [temperature](keyword_temperature), [time](keyword_time), [vocs](keyword_vocs), [wireless](keyword_wireless), [work](keyword_work), [zigbee](keyword_zigbee)
 
 
 
 ## Concepts
 
- ![](imgs/cluster_3.jpg)
+ ![](plotly/cluster_3.svg)
 
 
 
 # Linked articles
 
-* Coronavirus disease 2019: The harms of exaggerated information and non‐evidence‐based measures - [LINK](article_ioannidis_coronavirus_2020)
-* Physical interventions to interrupt or reduce the spread of respiratory viruses: systematic review - [LINK](article_jefferson_physical_2008)
-* COVID-19 misinformation: Accuracy of articles about coronavirus prevention mostly shared on social media - [LINK](article_obiala_covid-19_2021)
-* Contributions to the mitigation of the COVID-19 pandemic - [LINK](article_pilz_contributions_2022)
-* Knowledge, attitudes, and practices of Indonesian residents regarding COVID-19: A national cross-sectional survey - [LINK](article_yodang_knowledge_2021)
+* A comprehensive review on indoor air quality monitoring systems for enhanced public health - [LINK](article_saini_comprehensive_2020)

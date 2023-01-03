@@ -1,13 +1,14 @@
-# Blueprint: __Indoor Environmental Quality (IEQ) monitoring system__ (BP_3)
+# Blueprint: __Rotating groups at work, school best against COVID-19 spread: Study__ (BP_3)
 
 
 ## Details
 
-* Cluster: __Cluster_2__ (Cluster_2)
+* Cluster: __processing-wireless__ ([Cluster_1](cluster_1))
 
 
 
 ## Description
+
 
 ### Blueprint title
 
@@ -97,7 +98,10 @@ Other:
 CID
 
 
-### Interventions
+
+## Mapping 
+
+ ### Interventions
 
 * Use of smart/innovative air quality controls technology (PA1)
 * Monitor and control indoor air quality (PA4)
@@ -106,9 +110,9 @@ CID
 
 ### Technologies
 
-* IoT
-* Biophilic desing
 * Data Analytics
+* Biophilic desing
+* IoT
 
 
 
@@ -118,19 +122,19 @@ CID
 ### Closest articles
 
 * A comprehensive review on indoor air quality monitoring systems for enhanced public health - [LINK](article_saini_comprehensive_2020)
-* Continuous IEQ monitoring system: Context and development - [LINK](article_parkinson_continuous_2019)
-* An Intelligent IEQ Monitoring and Feedback System: Development and Applications - [LINK](article_geng_intelligent_2021)
 * Scalable IoT Architecture for Monitoring IEQ Conditions in Public and Private Buildings - [LINK](article_calvo_scalable_2022)
+* An Intelligent IEQ Monitoring and Feedback System: Development and Applications - [LINK](article_geng_intelligent_2021)
+* Continuous IEQ monitoring system: Context and development - [LINK](article_parkinson_continuous_2019)
 * Characterization and performance evaluation of a full-scale activated carbon-based dynamic botanical air filtration system for improving indoor air quality - [LINK](article_wang_characterization_2011)
-* Smart buildings: how a virus might lead to healthier buildings - Arup - [LINK](article_lam_smart_2021)
 * The Effect of Opening Windows on Air Change Rates in Two Homes - [LINK](article_howard-reed_effect_2002)
 * The effect of a redesigned floor plan, occupant density and the quality of indoor climate on the cost of space, productivity and sick leave in an office building–A case study - [LINK](article_saari_effect_2006)
-* Ten questions concerning occupant health in buildings during normal operations and extreme events including the COVID-19 pandemic - [LINK](article_awada_ten_2021)
-* Occupant health in buildings: Impact of the COVID-19 pandemic on the opinions of building professionals and implications on research - [LINK](article_awada_occupant_2022)
+* Indoor Air Quality: Rethinking rules of building design strategies in post-pandemic architecture - [LINK](article_megahed_indoor_2021)
+* Designing Post COVID-19 Buildings: Approaches for Achieving Healthy Buildings - [LINK](article_navaratnam_designing_2022)
+* The contribution of green buildings in the fight against COVID-19 - [LINK](article_world_green_building_council_contribution_2020)
 
 
 ### Closest BPs
 
-* Blueprint: Building Adaptation during a pandemic - [LINK](bp_14)
-* Blueprint: Architecture design - [LINK](bp_2)
-* Blueprint: Tender support at building stage - [LINK](bp_9)
+* Blueprint: Air Cleaning Plants - [LINK](bp_15)
+* Blueprint: Installing high-efficiency air filters - [LINK](bp_11)
+* Blueprint: Tracking and enforcing use of Personal Protective Equipment - [LINK](bp_23)

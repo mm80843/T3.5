@@ -1,13 +1,14 @@
-# Blueprint: __Architecture design__ (BP_2)
+# Blueprint: __Rotating groups at work, school best against COVID-19 spread: Study__ (BP_2)
 
 
 ## Details
 
-* Cluster: __Cluster_9__ (Cluster_9)
+* Cluster: __processing-wireless__ ([Cluster_1](cluster_1))
 
 
 
 ## Description
+
 
 ### Blueprint title
 
@@ -96,7 +97,10 @@ Other:
 MM
 
 
-### Interventions
+
+## Mapping 
+
+ ### Interventions
 
 * Introduce "multi-use" / modular designs (HS1)
 * Selection of materials (PS4)
@@ -105,8 +109,8 @@ MM
 
 ### Technologies
 
-* BigData
 * Visualization
+* BigData
 * Biophilic desing
 
 
@@ -116,19 +120,17 @@ MM
 
 ### Closest articles
 
-* A comprehensive review on indoor air quality monitoring systems for enhanced public health - [LINK](article_saini_comprehensive_2020)
+* Touchless Retail: What the Rest of the World could learn from China’s new ways to shop - [LINK](article_capgemini_touchless_2020)
+* Retail Signage During the COVID-19 Pandemic - [LINK](article_mcneish_retail_2020)
+* Real-world data show that filters clean COVID-causing virus from air - [LINK](article_thompson_real-world_2021)
+* How COVID-19 Could Accelerate the Adoption of New Retail Technologies and Enhance the (E-)Servicescape - [LINK](article_willems_how_2021)
 * Scalable IoT Architecture for Monitoring IEQ Conditions in Public and Private Buildings - [LINK](article_calvo_scalable_2022)
-* An Intelligent IEQ Monitoring and Feedback System: Development and Applications - [LINK](article_geng_intelligent_2021)
-* Continuous IEQ monitoring system: Context and development - [LINK](article_parkinson_continuous_2019)
-* Characterization and performance evaluation of a full-scale activated carbon-based dynamic botanical air filtration system for improving indoor air quality - [LINK](article_wang_characterization_2011)
-* The Effect of Opening Windows on Air Change Rates in Two Homes - [LINK](article_howard-reed_effect_2002)
-* Emerging from Lockdown: CIBSE COVID-19 Guidance - [LINK](article_cibse_emerging_2020)
-* COVID-19 Higher Mortality in Chinese Regions With Chronic Exposure to Lower Air Quality - [LINK](article_pansini_covid-19_2021)
-* Air pollution linked with higher COVID-19 death rates - [LINK](article_harvard_th_chan_schoold_of_public_health_air_2020)
+* A comprehensive review on indoor air quality monitoring systems for enhanced public health - [LINK](article_saini_comprehensive_2020)
+* Navigating Climate Change: Rethinking the Role of Buildings - [LINK](article_cole_navigating_2020)
 
 
 ### Closest BPs
 
 * Blueprint: Building Adaptation during a pandemic - [LINK](bp_14)
 * Blueprint: Tender support at building stage - [LINK](bp_9)
-* Blueprint: Reducing contact points - [LINK](bp_17)
+* Blueprint: One-way mobility circulation - [LINK](bp_4)

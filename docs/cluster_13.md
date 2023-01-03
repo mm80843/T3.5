@@ -1,20 +1,17 @@
-# Cluster: __malaria-vector__ (Cluster_13)
+# Cluster: __surveying-drone__ (Cluster_13)
 
 ## Keywords
 
- * [area](keyword_area), [case](keyword_case), [change](keyword_change), [dengue](keyword_dengue), [disease](keyword_disease), [elimination](keyword_elimination), [europe](keyword_europe), [greece](keyword_greece), [health](keyword_health), [malar](keyword_malar), [malaria](keyword_malaria), [mosquito](keyword_mosquito), [nile](keyword_nile), [population](keyword_population), [public](keyword_public), [risk](keyword_risk), [semenza](keyword_semenza), [transmission](keyword_transmission), [vbd](keyword_vbd), [vector](keyword_vector)
+ * [ad](keyword_ad), [adapt](keyword_adapt), [adaptation](keyword_adaptation), [agree](keyword_agree), [application](keyword_application), [big](keyword_big), [business](keyword_business), [click](keyword_click), [contain](keyword_contain), [coron](keyword_coron), [coronavirus](keyword_coronavirus), [delivery](keyword_delivery), [door](keyword_door), [drone](keyword_drone), [drones](keyword_drones), [emerge](keyword_emerge), [enforce](keyword_enforce), [exist](keyword_exist), [experience](keyword_experience), [fin](keyword_fin), [final](keyword_final), [finalize](keyword_finalize), [finally](keyword_finally), [find](keyword_find), [fink](keyword_fink), [fiorillo](keyword_fiorillo), [fiorito](keyword_fiorito), [fire](keyword_fire), [firm](keyword_firm), [firmly](keyword_firmly), [innovative](keyword_innovative), [kg](keyword_kg), [lift](keyword_lift), [mapping](keyword_mapping), [maximum](keyword_maximum), [outbreak](keyword_outbreak), [per](keyword_per), [policy](keyword_policy), [present](keyword_present), [privacy](keyword_privacy), [quarantine](keyword_quarantine), [relevant](keyword_relevant), [scmp](keyword_scmp), [shenzhen](keyword_shenzhen), [show](keyword_show), [smart](keyword_smart), [survey](keyword_survey), [tailor](keyword_tailor), [task](keyword_task), [uav](keyword_uav)
 
 
 
 ## Concepts
 
- ![](imgs/cluster_13.jpg)
+ ![](plotly/cluster_13.svg)
 
 
 
 # Linked articles
 
-* Addressing vulnerability, building resilience: community-based adaptation to vector-borne diseases in the context of global change - [LINK](article_bardosh_addressing_2017)
-* Decision Making within the Built Environment as a Strategy for Mitigating the Risk of Malaria and Other Vector-Borne Diseases - [LINK](article_obonyo_decision_2018)
-* Prototype Early Warning Systems for Vector-Borne Diseases in Europe - [LINK](article_semenza_prototype_2015)
-* Integrating rapid risk mapping and mobile phone call record data for strategic malaria elimination planning - [LINK](article_tatem_integrating_2014)
+* China adapts survey drones to enforce world’s largest quarantine - [LINK](article_liu_china_2020)

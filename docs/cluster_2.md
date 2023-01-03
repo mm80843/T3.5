@@ -1,42 +1,22 @@
-# Cluster: __building-energy__ (Cluster_2)
+# Cluster: __space-cid__ (Cluster_2)
 
 ## Keywords
 
- * [air](keyword_air), [breeam](keyword_breeam), [build](keyword_build), [build](keyword_build), [change](keyword_change), [comfort](keyword_comfort), [control](keyword_control), [design](keyword_design), [energy](keyword_energy), [environment](keyword_environment), [green](keyword_green), [health](keyword_health), [ieq](keyword_ieq), [indoor](keyword_indoor), [occupant](keyword_occupant), [pandemic](keyword_pandemic), [quality](keyword_quality), [system](keyword_system), [ventilation](keyword_ventilation), [water](keyword_water)
+ * [agent](keyword_agent), [architectural](keyword_architectural), [architecture](keyword_architecture), [beginning](keyword_beginning), [behavioural](keyword_behavioural), [blueprint](keyword_blueprint), [build](keyword_build), [cid](keyword_cid), [club](keyword_club), [contamination](keyword_contamination), [cr](keyword_cr), [crowd](keyword_crowd), [design](keyword_design), [disease](keyword_disease), [efficacy](keyword_efficacy), [entrance](keyword_entrance), [expose](keyword_expose), [exposure](keyword_exposure), [facility](keyword_facility), [flow](keyword_flow), [guest](keyword_guest), [immunity](keyword_immunity), [infection](keyword_infection), [ip](keyword_ip), [main](keyword_main), [measure](keyword_measure), [member](keyword_member), [minimise](keyword_minimise), [model](keyword_model), [number](keyword_number), [occupant](keyword_occupant), [pandemic](keyword_pandemic), [pedestrian](keyword_pedestrian), [people](keyword_people), [person](keyword_person), [phase](keyword_phase), [precautionary](keyword_precautionary), [pt](keyword_pt), [public](keyword_public), [risk](keyword_risk), [social](keyword_social), [space](keyword_space), [sport](keyword_sport), [study](keyword_study), [take](keyword_take), [time](keyword_time), [user](keyword_user), [vaccination](keyword_vaccination), [way](keyword_way)
 
 
 
 ## Concepts
 
- ![](imgs/cluster_2.jpg)
+ ![](plotly/cluster_2.svg)
 
 
 
 # Linked articles
 
-* Occupant health in buildings: Impact of the COVID-19 pandemic on the opinions of building professionals and implications on research - [LINK](article_awada_occupant_2022)
-* Ten questions concerning occupant health in buildings during normal operations and extreme events including the COVID-19 pandemic - [LINK](article_awada_ten_2021)
-* Blueprint: Building Adaptation during a pandemic - [LINK](bp_14)
-* Blueprint: Reducing contact points - [LINK](bp_17)
-* Blueprint: Tracking and enforcing use of Personal Protective Equipment - [LINK](bp_23)
-* Blueprint: Indoor Environmental Quality (IEQ) monitoring system - [LINK](bp_3)
-* Emerging from Lockdown: CIBSE COVID-19 Guidance - [LINK](article_cibse_emerging_2020)
-* Navigating Climate Change: Rethinking the Role of Buildings - [LINK](article_cole_navigating_2020)
-* An Intelligent IEQ Monitoring and Feedback System: Development and Applications - [LINK](article_geng_intelligent_2021)
-* Addressing the impact of COVID-19 lockdown on energy use in municipal buildings: A case study in Florianópolis, Brazil - [LINK](article_geraldi_addressing_2021)
-* Reflecting on Impacts of COVID19 on Sustainable Buildings and Cities - [LINK](article_gonzalez_reflecting_2021)
-* Smart buildings: how a virus might lead to healthier buildings - Arup - [LINK](article_lam_smart_2021)
-* Indoor Air Quality: Rethinking rules of building design strategies in post-pandemic architecture - [LINK](article_megahed_indoor_2021)
-* The effect of occupant distribution on energy consumption and COVID-19 infection in buildings: A case study of university building - [LINK](article_mokhtari_effect_2021)
-* Designing Post COVID-19 Buildings: Approaches for Achieving Healthy Buildings - [LINK](article_navaratnam_designing_2022)
-* Continuous IEQ monitoring system: Context and development - [LINK](article_parkinson_continuous_2019)
-* Assessment of Building Automation and Control Systems in Danish Healthcare Facilities in the COVID-19 Era - [LINK](article_pedersen_assessment_2022)
-* COVID-19 Could Leverage a Sustainable Built Environment - [LINK](article_pinheiro_covid-19_2020)
-* Will a pandemic change building codes? - [LINK](article_rozgus_will_2020)
-* The effect of a redesigned floor plan, occupant density and the quality of indoor climate on the cost of space, productivity and sick leave in an office building–A case study - [LINK](article_saari_effect_2006)
-* Readiness Assessment of Green Building Certification Systems for Residential Buildings during Pandemics - [LINK](article_tleuken_readiness_2021)
-* Assessment method for new sustainability indicators providing pandemic resilience for residential buildings - [LINK](article_tokazhanov_assessment_2021)
-* How to Make Green Building Certification &amp; Rating Systems More Pandemic-Sustainable? - [LINK](article_ujikawa_how_2022)
-* The contribution of green buildings in the fight against COVID-19 - [LINK](article_world_green_building_council_contribution_2020)
-* Health, Wellbeing \& Productivity in Offices - [LINK](article_world_green_building_council_health_2014)
-*  - [LINK](article_yakubu_aminu_dodo_green_2020)
+* Blueprint: Architecture design - [LINK](bp_2)
+* Blueprint: One-way mobility circulation - [LINK](bp_4)
+* How the Coronavirus Will Reshape Architecture - [LINK](article_chayka_how_2020)
+* Assessment of COVID-19 precautionary measures in sports facilities: A case study on a health club in Saudi Arabia - [LINK](article_ibrahim_assessment_2022)
+* Contributions to the mitigation of the COVID-19 pandemic - [LINK](article_pilz_contributions_2022)
+* EXPOSED: An occupant exposure model for confined spaces to retrofit crowd models during a pandemic - [LINK](article_ronchi_exposed_2020)

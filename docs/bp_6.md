@@ -1,13 +1,14 @@
-# Blueprint: __Checkpoint allocation for access limitation__ (BP_6)
+# Blueprint: __Rotating groups at work, school best against COVID-19 spread: Study__ (BP_6)
 
 
 ## Details
 
-* Cluster: __Cluster_9__ (Cluster_9)
+* Cluster: __processing-wireless__ ([Cluster_1](cluster_1))
 
 
 
 ## Description
+
 
 ### Blueprint title
 
@@ -103,7 +104,10 @@ Other:
 RES
 
 
-### Interventions
+
+## Mapping 
+
+ ### Interventions
 
 * Occupancy control (eg separating at/risk contaminated population) (HJ2)
 * Optimize users flows to prevent contamination (HJ1)
@@ -111,9 +115,9 @@ RES
 
 ### Technologies
 
+* Data Analytics
 * Visualization
 * 5G
-* Data Analytics
 
 
 
@@ -124,17 +128,15 @@ RES
 
 * Touchless Retail: What the Rest of the World could learn from China’s new ways to shop - [LINK](article_capgemini_touchless_2020)
 * Retail Signage During the COVID-19 Pandemic - [LINK](article_mcneish_retail_2020)
+* Real-world data show that filters clean COVID-causing virus from air - [LINK](article_thompson_real-world_2021)
 * How COVID-19 Could Accelerate the Adoption of New Retail Technologies and Enhance the (E-)Servicescape - [LINK](article_willems_how_2021)
-* Designing a Multi-Agent Occupant Simulation System to Support Facility Planning and Analysis for COVID-19 - [LINK](article_lee_designing_2021)
-* COVID-19 Higher Mortality in Chinese Regions With Chronic Exposure to Lower Air Quality - [LINK](article_pansini_covid-19_2021)
-* Air pollution linked with higher COVID-19 death rates - [LINK](article_harvard_th_chan_schoold_of_public_health_air_2020)
+* Navigating Climate Change: Rethinking the Role of Buildings - [LINK](article_cole_navigating_2020)
+* COVID-19 risks and systemic gaps in Nigeria: resilience building lessons for pandemic and climate change management - [LINK](article_lawal_covid-19_2022)
 * A comprehensive review on indoor air quality monitoring systems for enhanced public health - [LINK](article_saini_comprehensive_2020)
-* Characterization and performance evaluation of a full-scale activated carbon-based dynamic botanical air filtration system for improving indoor air quality - [LINK](article_wang_characterization_2011)
-* The Effect of Opening Windows on Air Change Rates in Two Homes - [LINK](article_howard-reed_effect_2002)
 
 
 ### Closest BPs
 
+* Blueprint: One-way mobility circulation - [LINK](bp_4)
+* Blueprint: Rotational Shift System - [LINK](bp_0)
 * Blueprint: Access limitation - [LINK](bp_7)
-* Blueprint: Public places as information points - [LINK](bp_8)
-* Blueprint: Good hand hygiene practice - [LINK](bp_16)

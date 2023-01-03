@@ -1,13 +1,14 @@
-# Blueprint: __Rotational Shift System__ (BP_0)
+# Blueprint: __Rotating groups at work, school best against COVID-19 spread: Study__ (BP_0)
 
 
 ## Details
 
-* Cluster: __Cluster_9__ (Cluster_9)
+* Cluster: __processing-wireless__ ([Cluster_1](cluster_1))
 
 
 
 ## Description
+
 
 ### Blueprint title
 
@@ -103,7 +104,10 @@ Other:
 MM
 
 
-### Interventions
+
+## Mapping 
+
+ ### Interventions
 
 * Occupancy control (eg separating at/risk contaminated population) (HJ2)
 * Shift controls (occupancy control of total users) (HJ3)
@@ -112,10 +116,10 @@ MM
 
 ### Technologies
 
-* BigData
-* IoT
-* 5G
 * Data Analytics
+* BigData
+* 5G
+* IoT
 
 
 
@@ -127,16 +131,13 @@ MM
 * Touchless Retail: What the Rest of the World could learn from China’s new ways to shop - [LINK](article_capgemini_touchless_2020)
 * Retail Signage During the COVID-19 Pandemic - [LINK](article_mcneish_retail_2020)
 * How COVID-19 Could Accelerate the Adoption of New Retail Technologies and Enhance the (E-)Servicescape - [LINK](article_willems_how_2021)
-* Designing a Multi-Agent Occupant Simulation System to Support Facility Planning and Analysis for COVID-19 - [LINK](article_lee_designing_2021)
-* COVID-19 Higher Mortality in Chinese Regions With Chronic Exposure to Lower Air Quality - [LINK](article_pansini_covid-19_2021)
-* Air pollution linked with higher COVID-19 death rates - [LINK](article_harvard_th_chan_schoold_of_public_health_air_2020)
-* Nurture to nature via COVID-19, a self-regenerating environmental strategy of environment in global context - [LINK](article_paital_nurture_2020)
-* EXPOSED: An occupant exposure model for confined spaces to retrofit crowd models during a pandemic - [LINK](article_ronchi_exposed_2020)
-* Indirect effects of COVID-19 on the environment - [LINK](article_zambrano-monserrate_indirect_2020)
+* Real-world data show that filters clean COVID-causing virus from air - [LINK](article_thompson_real-world_2021)
+* Navigating Climate Change: Rethinking the Role of Buildings - [LINK](article_cole_navigating_2020)
+* COVID-19 risks and systemic gaps in Nigeria: resilience building lessons for pandemic and climate change management - [LINK](article_lawal_covid-19_2022)
 
 
 ### Closest BPs
 
 * Blueprint: Access limitation - [LINK](bp_7)
-* Blueprint: Public places as information points - [LINK](bp_8)
 * Blueprint: Checkpoint allocation for access limitation - [LINK](bp_6)
+* Blueprint: One-way mobility circulation - [LINK](bp_4)
