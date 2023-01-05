@@ -1,17 +1,17 @@
 # Keyword: dow
 
-* [sustainability-pillar](cluster_Cluster_0)
+* [sociale-drone](cluster_6)
 
 
 ## Keywords
 
- * Cluster_0, coronavirus crisis, [dow](keyword_dow), dows, skylight, volatile month
+ * Cluster_6, coronavirus crisis, [dow](keyword_dow), dows, skylight, volatile month
 
 
-## Concepts
 
- ![](imgs/keyword_dow.jpg)
+## Mapping
 
+<img src="plotly/keyword_dow.svg">
 
 
 ## Neighbours

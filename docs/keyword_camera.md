@@ -1,11 +1,11 @@
 # Keyword: camera
 
-* [detection-object](cluster_8)
+* [processing-wireless](cluster_14)
 
 
 ## Keywords
 
- * Cluster_8, beam, beam detector, beam sensor, [camera](keyword_camera), cameras, cctv, distribution histogram, [image](keyword_image), infrare, len, mobile phone, [monitor](keyword_monitor), monocular, privacy area, [sensor](keyword_sensor), [surveillance](keyword_surveillance), zoom, zoom in
+ * Cluster_14, beam, beam detector, beam sensor, [camera](keyword_camera), cameras, [cctv](keyword_cctv), distribution histogram, image, infrare, len, mobile phone, [monitor](keyword_monitor), monocular, privacy area, [sensor](keyword_sensor), [surveillance](keyword_surveillance), zoom, zoom in
 
 
 

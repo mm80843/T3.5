@@ -1,17 +1,25 @@
 # Keyword: coronavirus
 
-* [air-sars](cluster_1)
+* [health-city](cluster_0)
 
-* [construction-pandemic](cluster_3)
+* [wastewater-water](cluster_1)
 
-* [china-case](cluster_5)
+* [iot-blockchain](cluster_6)
 
-* [respiratory-infection](cluster_9)
+* [construction-project](cluster_7)
+
+* [air-uv](cluster_8)
+
+* [business-customer](cluster_10)
+
+* [surveying-drone](cluster_11)
+
+* [sociale-drone](cluster_13)
 
 
 ## Keywords
 
- * 229e, aerosolise, [air pollution](keyword_air_pollution), [airborne](keyword_airborne), alpha hcov 229e, architecture after coronavirus, architecture after the coronavirus, [australia](keyword_australia), bat, beta hcov oc43, business after coronavirus, c ovid, [china](keyword_china), [chinese](keyword_chinese), chloroquine, [climate change](keyword_climate_change), cobid 19, coronamelder, coronaviridae, [coronavirus](keyword_coronavirus), coronavirus case, coronavirus disease covid 19 pandemic, coronavirus pandemic, covid 19 disease, covid 19 infection, [covid 19 pandemic](keyword_covid_19_pandemic), [covid-19](keyword_covid-19), current, [disease](keyword_disease), envelop virus, [epidemic](keyword_epidemic), [france](keyword_france), [genome](keyword_genome), hcov 229e, hcov oc43, hepatitis virus, [human](keyword_human), human respiratory disease, human respiratory disease in china, infect, [infection](keyword_infection), infectious, [influenza](keyword_influenza), [influenza virus](keyword_influenza_virus), isolation, jhu, [kenya](keyword_kenya), [lockdown](keyword_lockdown), [mer cov](keyword_mer_cov), [mhv](keyword_mhv), middle east respiratory syndrome, middle east respiratory syndrome coronavirus, mouse hepatitis virus, [new york](keyword_new_york), [new york city](keyword_new_york_city), novel, novel coronavirus, oc43, [osha](keyword_osha), [outbreak](keyword_outbreak), [pandemic](keyword_pandemic), parvovirus, [pathogen](keyword_pathogen), pneumonia, pneumonia outbreak, present pandemic, protein, quarantine, ratg13, reshape city street, respiratory disease, rethink where they want to live, ride sharing, rt pcr, sar cov, [sar cov 1](keyword_sar_cov_1), [sar cov 2](keyword_sar_cov_2), [sar cov2](keyword_sar_cov2), sars coronavirus, second wave, serbia, seven, severe acute respiratory syndrome, severe acute respiratory syndrome coronavirus 2, six way urban space may change because of coronavirus, [south korea](keyword_south_korea), [spread](keyword_spread), the spread, [tourist](keyword_tourist), [transmission](keyword_transmission), transmission rate, [ultraviolet](keyword_ultraviolet), [united kingdom](keyword_united_kingdom), [vaccine](keyword_vaccine), [viral](keyword_viral), [virus](keyword_virus), warm weather, who, world after coronavirus, [wuhan](keyword_wuhan)
+ * 229e, [air pollution](keyword_air_pollution), [airborne](keyword_airborne), alpha hcov 229e, architecture after coronavirus, architecture after the coronavirus, [australia](keyword_australia), bat, beta hcov oc43, business after coronavirus, c ovid, cardiac complication, [cdc](keyword_cdc), [china](keyword_china), [chinese](keyword_chinese), chloroquine, [climate change](keyword_climate_change), cobid 19, colombia, communication I dium, coronamelder, coronaviridae, [coronavirus](keyword_coronavirus), coronavirus case, coronavirus disease, coronavirus disease covid 19 pandemic, coronavirus pandemic, covid 19 disease, covid 19 infection, [covid 19 pandemic](keyword_covid_19_pandemic), [covid-19](keyword_covid-19), current, [disease](keyword_disease), envelop virus, [epidemic](keyword_epidemic), [genome](keyword_genome), hcov oc43, hepatitis virus, [hong kong](keyword_hong_kong), [human](keyword_human), human respiratory disease, human respiratory disease in china, [infect](keyword_infect), [infection](keyword_infection), [infectious](keyword_infectious), [influenza](keyword_influenza), [influenza virus](keyword_influenza_virus), isolation, jhu, [kenya](keyword_kenya), [lockdown](keyword_lockdown), lockdown locali, [mer cov](keyword_mer_cov), mhv, middle east respiratory syndrome, middle east respiratory syndrome coronavirus, mouse hepatitis virus, [new york](keyword_new_york), [new york city](keyword_new_york_city), novel, novel coronavirus, oc43, [outbreak](keyword_outbreak), [pandemic](keyword_pandemic), [pathogen](keyword_pathogen), pneumonia, pneumonia outbreak, present pandemic, protein, [public health](keyword_public_health), [quarantine](keyword_quarantine), ratg13, reshape city street, respiratory disease, rethink where they want to live, ride sharing, rna virus, rt pcr, sar cov, [sar cov 1](keyword_sar_cov_1), [sar cov 2](keyword_sar_cov_2), sar cov 2 virus, [sar cov2](keyword_sar_cov2), sars coronavirus, second wave, serbia, severe acute respiratory syndrome, severe acute respiratory syndrome coronavirus 2, [south korea](keyword_south_korea), [spread](keyword_spread), the spread, tourist, [transmission](keyword_transmission), transmission rate, [ultraviolet](keyword_ultraviolet), [united kingdom](keyword_united_kingdom), [vaccine](keyword_vaccine), [viral](keyword_viral), [virus](keyword_virus), world after coronavirus
 
 
 

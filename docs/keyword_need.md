@@ -1,11 +1,17 @@
 # Keyword: need
 
-* [resilience-infrastructure](cluster_11)
+* [space-housing](cluster_4)
+
+* [building-design](cluster_5)
+
+* [construction-project](cluster_8)
+
+* [business-customer](cluster_11)
 
 
 ## Keywords
 
- * Cluster_11, consumption, consumption habit, [crisis](keyword_crisis), [customer](keyword_customer), demand, esteem, food, future generation, [health](keyword_health), [housing](keyword_housing), hygienic, in service, [information](keyword_information), legisin, lifestyle, manage sovereign debt, medicine, [need](keyword_need), need they, needs, organization, [pandemic](keyword_pandemic), preference, resource, [service](keyword_service), situation, surplus, technological, theoretical, weredifferent
+ * Cluster_11, Cluster_4, Cluster_5, Cluster_8, consumption, consumption habit, [crisis](keyword_crisis), [customer](keyword_customer), demand, esteem, food, future generation, [health](keyword_health), [housing](keyword_housing), hygienic, in service, [information](keyword_information), legisin, lifestyle, manage sovereign debt, medicine, [need](keyword_need), need they, needs, [organization](keyword_organization), [pandemic](keyword_pandemic), preference, resource, [service](keyword_service), situation, surplus, technological, theoretical, weredifferent
 
 
 
@@ -27,7 +33,6 @@
 * <scp>COVID</scp>             ‐19: Small and medium enterprises challenges and responses with creativity, innovation, and entrepreneurship - [LINK](article_thukral_covid19_2021)
 * A Review on Building Design as a Biomedical System for Preventing COVID-19 Pandemic - [LINK](article_amran_review_2022)
 * COVID-19 Could Leverage a Sustainable Built Environment - [LINK](article_pinheiro_covid-19_2020)
-* Readiness Assessment of Green Building Certification Systems for Residential Buildings during Pandemics - [LINK](article_tleuken_readiness_2021)
 
 
 ### Closest BPs

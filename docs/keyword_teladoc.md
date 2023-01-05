@@ -1,9 +1,23 @@
-# Keyword: __teladoc__
-
-## Concepts
-
- ![](imgs/keyword_teladoc.jpg)
+# Keyword: teladoc
 
 
-## Top articles for __teladoc__
-* pfefferbaum_mental_2020 ([pfefferbaum_mental_2020](article_pfefferbaum_mental_2020))
+## Keywords
+
+ * ceo, [health care](keyword_health_care), jason gorevic, [teladoc](keyword_teladoc), teladoc health acquisition of medecindirect, teladoc health acquisition of medecindirect 12
+
+
+
+## Mapping
+
+<img src="plotly/keyword_teladoc.svg">
+
+
+## Neighbours
+
+### Closest articles
+
+* Telehealth overpromises during the Covid-19 pandemic - [LINK](article_ostherr_telehealth_2020)
+
+
+### Closest BPs
+

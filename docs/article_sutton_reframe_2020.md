@@ -2,7 +2,7 @@
 
 * Source: [10.1002/casr.30670](https://doi.org/10.1002/casr.30670)
 * Year: 2020
-* Cluster: [construction-pandemic](cluster_1)
+* Cluster: [health-city](cluster_1)
 
 
 
@@ -21,20 +21,16 @@
 
 ### Closest articles
 
-* How Covid-19 Has Permanently Changed the Fitness Industry - [LINK](article_davalos_how_2021)
-* Rotating groups at work, school best against COVID-19 spread: Study - [LINK](article_afp_rotating_2021)
-* Assessing the health and hygiene performance of apartment buildings - [LINK](article_ho_assessing_2004)
-* How loneliness is talked about in social media during COVID-19 pandemic: Text mining of 4,492 Twitter feeds - [LINK](article_koh_how_2022)
+* Using Technology to Maintain the Education of Residents During the COVID-19 Pandemic - [LINK](article_chick_using_2020)
 * A Platform for Citizen Cooperation during the COVID-19 Pandemic in RN, Brazil - [LINK](article_de_araujo_platform_2020)
-* The City Under COVID‐19: Podcasting As Digital Methodology - [LINK](article_rogers_city_2020)
-* Attitudes towards outdoor and neighbour noise during the COVID-19 lockdown: A case study in London - [LINK](article_lee_attitudes_2021)
-* 10 tech trends getting us through the COVID-19 pandemic - [LINK](article_yan_10_2020)
-* Multilevel Analysis of Personal, Non-Medical COVID-19-Related Impact Worldwide - [LINK](article_dye_multilevel_2020)
-* What has been the impact of the COVID-19 pandemic on immigrants? An update on recent evidence - [LINK](article_oecd_what_2022)
+* Case Study on Finnish TVETA Resilient Model of Training During COVID-19 - [LINK](article_unesco_case_2021)
+* COVID-19 Bulletin 1: Alterations to BREEAM assessment requirements as a result of the Coronavirus pandemic – Knowledge Base - [LINK](article_breeam_covid-19_2020)
+* How Covid-19 Has Permanently Changed the Fitness Industry - [LINK](article_davalos_how_2021)
+* Assessing the health and hygiene performance of apartment buildings - [LINK](article_ho_assessing_2004)
 
 
 ### Closest BPs
 
 * Blueprint: Resilience in staffing and skills training - [LINK](bp_12)
-* Blueprint: Tracking and enforcing use of Personal Protective Equipment - [LINK](bp_23)
+* Blueprint: Installing high-efficiency air filters - [LINK](bp_11)
 * Blueprint: Smart Locker System - [LINK](bp_1)

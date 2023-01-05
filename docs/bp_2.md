@@ -102,16 +102,20 @@ MM
 
  ### Interventions
 
-* Introduce "multi-use" / modular designs (HS1)
-* Selection of materials (PS4)
-* Greenery (HM1)
-* Outdoor spaces (HM2)
+* Introduce "multi-use" / modular designs ([HS1](hs1))
+* Selection of materials ([PS4](ps4))
+* Greenery ([HM1](hm1))
+* Outdoor spaces ([HM2](hm2))
+* Introduce "multi-use" / modular designs ([HS1](hs1))
+* Selection of materials ([PS4](ps4))
+* Greenery ([HM1](hm1))
+* Outdoor spaces ([HM2](hm2))
 
 ### Technologies
 
 * Visualization
-* BigData
 * Biophilic desing
+* BigData
 
 
 

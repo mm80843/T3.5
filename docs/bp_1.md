@@ -109,16 +109,20 @@ MM
 
  ### Interventions
 
-* Minimize supply chain disruptions (MC1)
-* Absorb resource shortages (MC3)
-* Absorb surge in service demande (MC4)
-* Touchless technologies (PS2)
+* Minimize supply chain disruptions ([MC1](mc1))
+* Absorb resource shortages ([MC3](mc3))
+* Absorb surge in service demande ([MC4](mc4))
+* Touchless technologies ([PS2](ps2))
+* Minimize supply chain disruptions ([MC1](mc1))
+* Absorb resource shortages ([MC3](mc3))
+* Absorb surge in service demande ([MC4](mc4))
+* Touchless technologies ([PS2](ps2))
 
 ### Technologies
 
-* BigData
-* 5G
 * Robots, Drones & Automated Vehicules
+* 5G
+* BigData
 
 
 

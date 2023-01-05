@@ -1,17 +1,19 @@
 # Keyword: worker
 
-* [construction-industry](cluster_Cluster_3)
+* [construction-project](cluster_8)
+
+* [business-customer](cluster_11)
 
 
 ## Keywords
 
- * Cluster_3, amazon, attitude, casual, ceo, [company](keyword_company), [construction](keyword_construction), [construction company](keyword_construction_company), construction firm, [construction industry](keyword_construction_industry), construction manager, construction project, construction site, [construction worker](keyword_construction_worker), [covid 19 pandemic](keyword_covid_19_pandemic), direct patient contact, disable, driver, [education](keyword_education), [employee](keyword_employee), [employer](keyword_employer), employment status, fulltime, group, [health care](keyword_health_care), [healthcare](keyword_healthcare), [household](keyword_household), indian, information, interaction, job specific educatient, [labour market](keyword_labour_market), machinery, management team, [manager](keyword_manager), [manufacture](keyword_manufacture), meat factory, occupational health service, [office](keyword_office), office space, [organisation](keyword_organisation), [organization](keyword_organization), [patient](keyword_patient), production, [productivity](keyword_productivity), remote working, [robot](keyword_robot), safely work from home, [safety](keyword_safety), safety standard, safety training, secondary labour market, self employ, [stakeholder](keyword_stakeholder), [stress](keyword_stress), [student](keyword_student), take time off work, technical engineer, union, vulnerable, white collar, work condition, work from home, work hour, work organisation, [worker](keyword_worker), workers, [workplace](keyword_workplace)
+ * Cluster_11, Cluster_8, amazon, [attitude](keyword_attitude), casual, ceo, [company](keyword_company), [construction](keyword_construction), construction company, construction firm, [construction industry](keyword_construction_industry), construction manager, construction project, construction site, [construction worker](keyword_construction_worker), [covid 19 pandemic](keyword_covid_19_pandemic), direct patient contact, disable, driver, [education](keyword_education), [employee](keyword_employee), [employer](keyword_employer), employment status, fulltime, group, [health care](keyword_health_care), [healthcare](keyword_healthcare), [household](keyword_household), indian, [information](keyword_information), [interaction](keyword_interaction), job specific educatient, [labour market](keyword_labour_market), machinery, management team, [manager](keyword_manager), [manufacture](keyword_manufacture), meat factory, [office](keyword_office), office space, [organisation](keyword_organisation), [organization](keyword_organization), [patient](keyword_patient), production, [productivity](keyword_productivity), remote working, [robot](keyword_robot), safely work from home, [safety](keyword_safety), safety standard, safety training, secondary labour market, self employ, [stress](keyword_stress), [student](keyword_student), take time off work, union, vulnerable, white collar, work condition, work from home, work hour, work organisation, [worker](keyword_worker), workers, [workplace](keyword_workplace)
 
 
-## Concepts
 
- ![](imgs/keyword_worker.jpg)
+## Mapping
 
+<img src="plotly/keyword_worker.svg">
 
 
 ## Neighbours

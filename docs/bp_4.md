@@ -109,15 +109,18 @@ CID
 
  ### Interventions
 
-* Occupancy control (eg separating at/risk contaminated population) (HJ2)
-* Optimize users flows to prevent contamination (HJ1)
-* Social distancing (HU1)
+* Occupancy control (eg separating at/risk contaminated population) ([HJ2](hj2))
+* Optimize users flows to prevent contamination ([HJ1](hj1))
+* Social distancing ([HU1](hu1))
+* Occupancy control (eg separating at/risk contaminated population) ([HJ2](hj2))
+* Optimize users flows to prevent contamination ([HJ1](hj1))
+* Social distancing ([HU1](hu1))
 
 ### Technologies
 
-* Data Analytics
 * Visualization
 * 5G
+* Data Analytics
 
 
 

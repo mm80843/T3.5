@@ -1,19 +1,19 @@
 # Keyword: social
 
-* [urban-city](cluster_1)
+* [health-city](cluster_1)
 
-* [construction-pandemic](cluster_6)
+* [space-housing](cluster_2)
 
-* [housing-space](cluster_8)
+* [iot-blockchain](cluster_4)
 
-* [health-mental](cluster_10)
+* [business-customer](cluster_7)
 
-* [detection-object](cluster_14)
+* [space-cid](cluster_11)
 
 
 ## Keywords
 
- * [5 g](keyword_5_g), adaptive, administrative pharmacy, adventure, ambient, behaviour, behavioural, biological, bond, building scientist, capital, class, [community](keyword_community), consumerist, [covid 19 crisis](keyword_covid_19_crisis), cross regional, cultural, demographic status, deprive, development science, [disease](keyword_disease), [distance](keyword_distance), [domain](keyword_domain), ecological, [economic](keyword_economic), economic aspect, economic barrier, economic benefit, economic consequence, economic cost, economic development, economic disruption, economic factor, economic force, economic function, economic impact, economic integrity, economic issue, economic life, economic well be, economical, [economy](keyword_economy), [ecosystem](keyword_ecosystem), emotional, employment policy, energy injustice, [entrepreneurship](keyword_entrepreneurship), environmental, [epidemiological](keyword_epidemiological), [epidemiology](keyword_epidemiology), [europe](keyword_europe), face mask, fysisk, gender, [health](keyword_health), [healthcare](keyword_healthcare), hente, [human](keyword_human), inequality, intangible benefit, [integration](keyword_integration), [interaction](keyword_interaction), interconnect world, legitimacy, [lockdown](keyword_lockdown), normative, [pandemic](keyword_pandemic), pharmacy, [physical](keyword_physical), planetary boundary, [policy](keyword_policy), political, poverty, [psychological](keyword_psychological), [public](keyword_public), [public health](keyword_public_health), [public housing](keyword_public_housing), [public space](keyword_public_space), recreational, [research](keyword_research), resiliece, retail servicescape, sanitary, sensory, [social](keyword_social), [society](keyword_society), spatial, stay at home, sundhe, [sustainability](keyword_sustainability), sustainability pillar, sustainable bond, territorial, [urban](keyword_urban), urban society, value, wealth, web site, [well be](keyword_well_be), [wellbee](keyword_wellbee)
+ * [5 g](keyword_5_g), adaptive, administrative pharmacy, adventure, ambient, behaviour, [behavioural](keyword_behavioural), biological, bond, building scientist, capital, class, [community](keyword_community), consumerist, [covid 19 crisis](keyword_covid_19_crisis), cross regional, cultural, demographic status, deprive, development science, [disease](keyword_disease), distance, [domain](keyword_domain), ecological, [economic](keyword_economic), economic aspect, economic barrier, economic benefit, economic consequence, economic cost, economic development, economic disruption, economic factor, economic force, economic function, economic impact, economic integrity, economic issue, economic life, economic well be, economical, [economy](keyword_economy), [ecosystem](keyword_ecosystem), emotional, employment policy, energy injustice, [entrepreneurship](keyword_entrepreneurship), [environmental](keyword_environmental), [epidemiological](keyword_epidemiological), [epidemiology](keyword_epidemiology), [europe](keyword_europe), face mask, fysisk, gender, [health](keyword_health), [healthcare](keyword_healthcare), hente, [human](keyword_human), inequality, intangible benefit, integration, [interaction](keyword_interaction), interconnect world, legitimacy, [lockdown](keyword_lockdown), normative, [pandemic](keyword_pandemic), pharmacy, [physical](keyword_physical), planetary boundary, [policy](keyword_policy), political, poverty, [psychological](keyword_psychological), [public](keyword_public), [public health](keyword_public_health), [public housing](keyword_public_housing), [public space](keyword_public_space), recreational, [research](keyword_research), resiliece, retail servicescape, sanitary, sensory, [social](keyword_social), [society](keyword_society), spatial, stay at home, sundhe, [sustainability](keyword_sustainability), sustainability pillar, sustainable bond, territorial, [urban](keyword_urban), urban society, value, wealth, web site, [well be](keyword_well_be), [wellbee](keyword_wellbee)
 
 
 

@@ -1,17 +1,15 @@
 # Keyword: copper
 
-* [sars-virus](cluster_Cluster_12)
-
 
 ## Keywords
 
- * 3d print, 3d print copper coating, Cluster_12, activate copper, alloy, aluminium, anti viral, antibacterial, anticovid19, [antimicrobial](keyword_antimicrobial), [antiviral](keyword_antiviral), antiviral copper, antiviral copper coating, antiviral property, brass, bronze, building material, cardboard, cellular toxicity, coating, [cold spray](keyword_cold_spray), cold spray copper coating, cold spray process, cold spray technique, combat viral activity, construction material, [copper](keyword_copper), copper alloy, copper and copper alloy, copper coating, copper metallic plate, copper nickel, copper nickel zinc alloy, copper powder, cost saving, cu, fibre, finish, high maintenance cost, interior finish, metal, metallic, metallic plate, mineral, oxide, oxygen, plastic, polish, post covid 19, [sar cov 1](keyword_sar_cov_1), [sar cov 2](keyword_sar_cov_2), sar cov 2 covid 19, sar cov 2 covid 19 copper coating cold spray technique viricidal activity, sar cov 2 viricidal activity test, sarscov 2, silver, solioz, stainless, [stainless steel](keyword_stainless_steel), steel, tara, tin, two possible theory, value chain, valuework, viricidal, virucidal, [virus](keyword_virus), zambia, zinc
+ * [3d print](keyword_3d_print), 3d print copper coating, SARS-CoV-2, activate copper, alloy, aluminium, anti viral, antibacterial, anticovid19, [antimicrobial](keyword_antimicrobial), [antiviral](keyword_antiviral), brass, bronze, building material, cardboard, cellular toxicity, [coating](keyword_coating), cold spray, cold spray copper coating, cold spray process, cold spray technique, construction material, [copper](keyword_copper), copper alloy, copper and copper alloy, copper coating, copper metallic plate, copper nickel, copper nickel zinc alloy, copper powder, cost saving, cu, fibre, finish, high maintenance cost, interior finish, metal, metallic, metallic plate, mineral, oxide, oxygen, plastic, polish, post covid 19, [sar cov 1](keyword_sar_cov_1), [sar cov 2](keyword_sar_cov_2), sar cov 2 covid 19, silver, solioz, stainless, [stainless steel](keyword_stainless_steel), steel, tara, tin, two possible theory, value chain, valuework, viricidal, virucidal, [virus](keyword_virus), zambia, zinc
 
 
-## Concepts
 
- ![](imgs/keyword_copper.jpg)
+## Mapping
 
+<img src="plotly/keyword_copper.svg">
 
 
 ## Neighbours

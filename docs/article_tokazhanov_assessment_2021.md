@@ -2,13 +2,13 @@
 
 * Source: [10.1016/j.mex.2021.101577](https://doi.org/10.1016/j.mex.2021.101577)
 * Year: 2021
-* Cluster: [building-energy](cluster_2)
+* Cluster: [building-design](cluster_5)
 
 
 
 ## Keywords
 
- * 1 point, 5 point scale, acoustic, add to, [air](keyword_air), air quality, [apartment](keyword_apartment), appliance, [architect](keyword_architect), [bacteria](keyword_bacteria), [balcony](keyword_balcony), [breeam](keyword_breeam), breeam indicator, [build](keyword_build), casbee, [clean](keyword_clean), co2, [coating](keyword_coating), [comfort](keyword_comfort), [community](keyword_community), [coronavirus](keyword_coronavirus), [covid 19 pandemic](keyword_covid_19_pandemic), [covid-19](keyword_covid-19), criterion, day, [disinfectant](keyword_disinfectant), [disinfection](keyword_disinfection), drink water, elevator button, emergency, [energy](keyword_energy), [energy consumption](keyword_energy_consumption), energy supply, energy use, eﬃciency, farm, [garden](keyword_garden), [gardening](keyword_gardening), gbcs, [gbcss](keyword_gbcss), greywater, guney, hardship of, household waste, [humidity](keyword_humidity), hygiene, [indicator](keyword_indicator), [infection](keyword_infection), innovative technology, isolation, landscape, [leed](keyword_leed), [lockdown](keyword_lockdown), magazine, [management](keyword_management), material, method, methodology, methodsx, microclimate, night, noise insulation, ozone, [pandemic](keyword_pandemic), [pandemic resilient indicator](keyword_pandemic_resilient_indicator), [pathogen](keyword_pathogen), propagation, [sanitation](keyword_sanitation), seal, separate toilet, sink, [smart](keyword_smart), socialize, [spread](keyword_spread), [surface](keyword_surface), sustain, [sustainability](keyword_sustainability), sustainable, [system](keyword_system), tap water, [technology](keyword_technology), [temperature](keyword_temperature), the wake of, [tleuken](keyword_tleuken), [toilet](keyword_toilet), [transmission](keyword_transmission), transportation, [urban](keyword_urban), [ventilation](keyword_ventilation), ventilation system, [virus](keyword_virus), virus propagation, waste, waste management, [wastewater](keyword_wastewater), [water](keyword_water), water quality, well, [work](keyword_work), ﬁlter
+ * 1 point, 5 point scale, acoustic, add to, [air](keyword_air), air quality, [apartment](keyword_apartment), appliance, [architect](keyword_architect), [bacteria](keyword_bacteria), [balcony](keyword_balcony), [breeam](keyword_breeam), breeam indicator, [build](keyword_build), casbee, [clean](keyword_clean), co2, [coating](keyword_coating), comfort, [community](keyword_community), [coronavirus](keyword_coronavirus), [covid 19 pandemic](keyword_covid_19_pandemic), [covid-19](keyword_covid-19), criterion, day, [disinfectant](keyword_disinfectant), [disinfection](keyword_disinfection), drink water, elevator button, emergency, [energy](keyword_energy), [energy consumption](keyword_energy_consumption), energy supply, energy use, eﬃciency, farm, [garden](keyword_garden), [gardening](keyword_gardening), gbcs, [gbcss](keyword_gbcss), greywater, guney, hardship of, household waste, [humidity](keyword_humidity), hygiene, [indicator](keyword_indicator), [infection](keyword_infection), innovative technology, isolation, landscape, [leed](keyword_leed), [lockdown](keyword_lockdown), magazine, [management](keyword_management), [material](keyword_material), [method](keyword_method), methodology, methodsx, microclimate, night, noise insulation, ozone, [pandemic](keyword_pandemic), [pandemic resilient indicator](keyword_pandemic_resilient_indicator), [pathogen](keyword_pathogen), propagation, [sanitation](keyword_sanitation), seal, separate toilet, sink, [smart](keyword_smart), socialize, [spread](keyword_spread), [surface](keyword_surface), sustain, [sustainability](keyword_sustainability), [sustainable](keyword_sustainable), [system](keyword_system), tap water, [technology](keyword_technology), [temperature](keyword_temperature), the wake of, [tleuken](keyword_tleuken), [toilet](keyword_toilet), [transmission](keyword_transmission), [transportation](keyword_transportation), [urban](keyword_urban), [ventilation](keyword_ventilation), ventilation system, [virus](keyword_virus), virus propagation, waste, waste management, [wastewater](keyword_wastewater), [water](keyword_water), water quality, [well](keyword_well), [work](keyword_work), ﬁlter
 
 
 ## Concepts
@@ -23,18 +23,16 @@
 
 * Readiness Assessment of Green Building Certification Systems for Residential Buildings during Pandemics - [LINK](article_tleuken_readiness_2021)
 * How to Make Green Building Certification &amp; Rating Systems More Pandemic-Sustainable? - [LINK](article_ujikawa_how_2022)
-* COVID-19 and Green Housing: A Review of Relevant Literature - [LINK](article_kaklauskas_covid-19_2021)
-* Towards Resilient Residential Buildings and Neighborhoods in Light of COVID-19 Pandemic—The Scenario of Podgorica, Montenegro - [LINK](article_bojovic_towards_2022)
-* COVID-19 Experience Transforming the Protective Environment of Office Buildings and Spaces - [LINK](article_phapant_covid-19_2021)
-* Mental health and COVID-19 - [LINK](article_who_mental_2021)
-* A study on office workplace modification during the COVID-19 pandemic in The Netherlands - [LINK](article_hou_study_2021)
-* Mental Health and the Covid-19 Pandemic - [LINK](article_pfefferbaum_mental_2020)
-* How our homes impact our health: using a COVID-19 informed approach to examine urban apartment housing - [LINK](article_peters_how_2020)
-* It’s time to reimagine where and how work will get done (PwC’s US Remote Work Survey) - [LINK](article_pricewaterhousecoopers_its_2021)
+* When the fourth water and digital revolution encountered COVID-19 - [LINK](article_poch_when_2020)
+* Future perspectives of wastewater-based epidemiology: Monitoring infectious disease spread and resistance to the community level - [LINK](article_sims_future_2020)
+* Strengthening resilience: a priority shared by Health 2020 and - [LINK](article_who_strengthening_2017)
+* China adapts survey drones to enforce world’s largest quarantine - [LINK](article_liu_china_2020)
+* COVID-19 as a Harbinger of Transforming Infrastructure Resilience - [LINK](article_carvalhaes_covid-19_2020)
+* Computational analysis of SARS-CoV-2/COVID-19 surveillance by wastewater-based epidemiology locally and globally: Feasibility, economy, opportunities and challenges - [LINK](article_hart_computational_2020)
 
 
 ### Closest BPs
 
-* Blueprint: Building Adaptation during a pandemic - [LINK](bp_14)
-* Blueprint: Architecture design - [LINK](bp_2)
-* Blueprint: nan - [LINK](bp_34)
+* Blueprint: Monitoring of wastewater - [LINK](bp_21)
+* Blueprint: Indoor Environmental Quality (IEQ) monitoring system - [LINK](bp_3)
+* Blueprint: Air Cleaning Plants - [LINK](bp_15)

@@ -1,17 +1,17 @@
 # Keyword: behavioural
 
-* [gbn-measure](cluster_Cluster_10)
+* [space-cid](cluster_2)
 
 
 ## Keywords
 
- * Cluster_10, [behavioural](keyword_behavioural), climate change mitigation, [datum](keyword_datum), datum drive, energy relevant behaviour, opportunity, [psychological](keyword_psychological), [public health](keyword_public_health), risk averse, [social](keyword_social), socio psychological, socioeconomic, technical, [workplace](keyword_workplace)
+ * Cluster_2, [behavioural](keyword_behavioural), climate change mitigation, [datum](keyword_datum), datum drive, energy relevant behaviour, opportunity, [psychological](keyword_psychological), [public health](keyword_public_health), risk averse, [social](keyword_social), socio psychological, socioeconomic, technical, [workplace](keyword_workplace)
 
 
-## Concepts
 
- ![](imgs/keyword_behavioural.jpg)
+## Mapping
 
+<img src="plotly/keyword_behavioural.svg">
 
 
 ## Neighbours

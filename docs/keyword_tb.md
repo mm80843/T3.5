@@ -1,11 +1,11 @@
 # Keyword: tb
 
-* [uv-air](cluster_15)
+* [design-ventilation](cluster_12)
 
 
 ## Keywords
 
- * Cluster_15, [airborne infection](keyword_airborne_infection), airborne pathogen, b tb disease, canadian, [disease](keyword_disease), drug susceptibility assay, dsðt, hierarchy of control, [hiv](keyword_hiv), hiv aid, [infection control](keyword_infection_control), infectious, [infectious disease](keyword_infectious_disease), infectious person, [ionizer](keyword_ionizer), [jwt](keyword_jwt), localize outbreak, mycobacterium tuberculosis, negative air ionization, negative pressure, [pb](keyword_pb), pq, ra, scourge, tab, [tb](keyword_tb), tb disease, tb infection control, tb transmission, trtxex, ttsb, [tuberculosis](keyword_tuberculosis), [uv](keyword_uv), [uv light](keyword_uv_light), ztt
+ * Cluster_12, [airborne infection](keyword_airborne_infection), airborne pathogen, b tb disease, canadian, [disease](keyword_disease), drug susceptibility assay, dsðt, hierarchy of control, [hiv](keyword_hiv), hiv aid, [infection control](keyword_infection_control), [infectious](keyword_infectious), [infectious disease](keyword_infectious_disease), infectious person, [ionizer](keyword_ionizer), [jwt](keyword_jwt), localize outbreak, mycobacterium tuberculosis, negative air ionization, negative pressure, [pb](keyword_pb), pq, ra, scourge, tab, [tb](keyword_tb), tb disease, tb infection control, tb transmission, trtxex, ttsb, [tuberculosis](keyword_tuberculosis), [uv](keyword_uv), [uv light](keyword_uv_light), ztt
 
 
 

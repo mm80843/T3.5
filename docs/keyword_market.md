@@ -1,32 +1,34 @@
-# Keyword: __market__
-## Clusters
+# Keyword: market
 
-* Cluster 5: [space-flexible](cluster_5.md)
-
-## Concepts
-
- ![](imgs/keyword_market.jpg)
+* [business-customer](cluster_11)
 
 
-## Articles
-* Navigating Climate Change: Rethinking the Role of
-Buildings ([cole_navigating_2020](article_cole_navigating_2020.md))
-* Mechanisms for addressing the impact of COVID-19 on
-infrastructure projects ([king_mechanisms_2021](article_king_mechanisms_2021.md))
-* What drives unverified information sharing and
-cyberchondria during the COVID-19 pandemic? ([laato_what_2020](article_laato_what_2020.md))
-* Contributions of Smart City Solutions and
-Technologies to Resilience against the COVID-19
-Pandemic: A Literature Review ([sharifi_contributions_2021](article_sharifi_contributions_2021.md))
-* COVID19-Routes: A Safe Pedestrian Navigation
-Service ([cantarero_covid19-routes_2021](article_cantarero_covid19-routes_2021.md))
-* Understanding the role of urban design in disease
-spreading ([brizuela_understanding_2019](article_brizuela_understanding_2019.md))
-* COVID-19 Could Leverage a Sustainable Built
-Environment ([pinheiro_covid-19_2020](article_pinheiro_covid-19_2020.md))
-* RUDDS_bioRxiv_update-300 ([RUDDS_bioRxiv_update-300](article_RUDDS_bioRxiv_update-300.md))
-* A Comprehensive Review of the COVID-19 Pandemic
-and the Role of IoT, Drones, AI, Blockchain, and
-5G in Managing its Impact ([chamola_comprehensive_2020](article_chamola_comprehensive_2020.md))
-* Effects to Construction Project Management
-Impacted Circular Economic of Covid-19 Pandemic ([paikan_effects_2021](article_paikan_effects_2021.md))
+## Keywords
+
+ * 32 s c, Cluster_11, alternative finance, annual_report, [architect](keyword_architect), bazaar, border, [business](keyword_business), businessinsider com, [city](keyword_city), cnbc, competitive, competitiveness, [construction](keyword_construction), construction market, [consumer](keyword_consumer), consumer credit, [country](keyword_country), credit rationing, debt, demand, design and build, discipline, due diligence, [economic](keyword_economic), economic opportunity, [economy](keyword_economy), export, festive, fishery, [fossil fuel](keyword_fossil_fuel), gather, [germany](keyword_germany), grocery, huanan, [industry](keyword_industry), [information](keyword_information), issue, [italy](keyword_italy), labor, leisure area, [market](keyword_market), market research, market research report, market share, marketed, marketing catchment, marketing catchment activity, markets, middle income country, neoliberalism, oﬃce, place, pricing, [public](keyword_public), research report, researchandmarket com, revenue, saudi arabia health and fitness club market, self drive, sense, [service](keyword_service), service firm, servicescape, [social](keyword_social), stock exchange, [switzerland](keyword_switzerland), [system](keyword_system), system perspective, the economy, wholesale market, zillow
+
+
+
+## Mapping
+
+<img src="plotly/keyword_market.svg">
+
+
+## Neighbours
+
+### Closest articles
+
+* World Bank Development Report - [LINK](article_world_bank_world_2022)
+* How COVID-19 Could Accelerate the Adoption of New Retail Technologies and Enhance the (E-)Servicescape - [LINK](article_willems_how_2021)
+* Impact of Covid-19 on the built environment - [LINK](article_mahima_impact_2022)
+* Contextualizing the Covid-19 pandemic for a carbon-constrained world: Insights for sustainability transitions, energy justice, and research methodology - [LINK](article_sovacool_contextualizing_2020)
+* Questioning the use of the balcony in apartments during the COVID-19 pandemic process - [LINK](article_aydin_questioning_2020)
+* Urban planning after COVID-19 - [LINK](article_rtpi_urban_2021)
+* Propositions for a Resilient, Post-COVID-19 Future for the AEC Industry - [LINK](article_nassereddine_propositions_2021)
+* Navigating Climate Change: Rethinking the Role of Buildings - [LINK](article_cole_navigating_2020)
+* Assessment of COVID-19 precautionary measures in sports facilities: A case study on a health club in Saudi Arabia - [LINK](article_ibrahim_assessment_2022)
+* Mechanisms for addressing the impact of COVID-19 on infrastructure projects - [LINK](article_king_mechanisms_2021)
+
+
+### Closest BPs
+

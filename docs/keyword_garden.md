@@ -1,17 +1,17 @@
 # Keyword: garden
 
-* [health-mental](cluster_Cluster_15)
+* [space-housing](cluster_4)
 
 
 ## Keywords
 
- * Cluster_15, allotment, [anxiety](keyword_anxiety), backyard, [balcony](keyword_balcony), balcony garden, countryside, courtyard, do mestic garden, external, [garden](keyword_garden), [gardening](keyword_gardening), gardening tool, gardens, green area, [green roof](keyword_green_roof), [green space](keyword_green_space), greenery, greenhouse, greenspace, [health](keyword_health), health datum, herb garden, [home](keyword_home), home environment, hortic, [house](keyword_house), houseplant, indoor plant, landscape, mestic garden, [nature](keyword_nature), outdoor space, park, patio, plan the world, relax, relaxation, restaurant, restorativeness, rooftop garden, [room](keyword_room), self isolation space, self report health, sky garden, sociodemographic, soil, terrace, [urban](keyword_urban), urban garden, urban greenspace, useable green area, water feature, [wellbee](keyword_wellbee), window garden, yard
+ * Cluster_4, allotment, [anxiety](keyword_anxiety), backyard, [balcony](keyword_balcony), balcony garden, countryside, [courtyard](keyword_courtyard), do mestic garden, external, [garden](keyword_garden), [gardening](keyword_gardening), gardening tool, gardens, green area, [green roof](keyword_green_roof), [green space](keyword_green_space), greenery, greenhouse, greenspace, [health](keyword_health), health datum, herb garden, [home](keyword_home), home environment, hortic, [house](keyword_house), houseplant, indoor plant, landscape, mestic garden, [nature](keyword_nature), outdoor space, park, patio, plan the world, relax, relaxation, restaurant, restorativeness, rooftop garden, [room](keyword_room), self isolation space, self report health, sky garden, sociodemographic, soil, terrace, [urban](keyword_urban), urban garden, urban greenspace, useable green area, water feature, [wellbee](keyword_wellbee), window garden, yard
 
 
-## Concepts
 
- ![](imgs/keyword_garden.jpg)
+## Mapping
 
+<img src="plotly/keyword_garden.svg">
 
 
 ## Neighbours

@@ -3,7 +3,7 @@
 
 ## Keywords
 
- * 2010 fifa world cup, bog, bog bil, [china](keyword_china), cis, [country](keyword_country), [economy](keyword_economy), equivalent ach, [india](keyword_india), innov, innova, isr, [italy](keyword_italy), kazan, krasnopresnensk, krasnoyarsk, krasnoyarsk oblast, leningrad, maksim chernenko, ministry of science and high education, moscow, nazarbayev university, nenet autonomous okrug, opec, perm, [poland](keyword_poland), [russia](keyword_russia), russian language, san marino, [saudi arabia](keyword_saudi_arabia), sofiya, sputniknew uz, st petersburg, stalingrad, tikhonova, turkey, ukraine, [unesco](keyword_unesco), [vienna](keyword_vienna), vladimir, zaire, zopur, zrt
+ * 2010 fifa world cup, bog, bog bil, [china](keyword_china), cis, [country](keyword_country), [economy](keyword_economy), equivalent ach, [india](keyword_india), innov, innova, [isr](keyword_isr), [italy](keyword_italy), kazan, krasnopresnensk, krasnoyarsk, krasnoyarsk oblast, leningrad, maksim chernenko, ministry of science and high education, moscow, nazarbayev university, nenet autonomous okrug, opec, perm, [poland](keyword_poland), [russia](keyword_russia), russian language, san marino, [saudi arabia](keyword_saudi_arabia), sofiya, sputniknew uz, st petersburg, stalingrad, tikhonova, turkey, ukraine, [unesco](keyword_unesco), [vienna](keyword_vienna), vladimir, zaire, zopur, zrt
 
 
 

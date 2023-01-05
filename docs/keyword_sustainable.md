@@ -1,17 +1,19 @@
 # Keyword: sustainable
 
-* [economic-health](cluster_Cluster_9)
+* [design-ventilation](cluster_9)
+
+* [obesity-county](cluster_12)
 
 
 ## Keywords
 
- * Cluster_9, alternative energy, alternative energy source, [build environment](keyword_build_environment), [city](keyword_city), [climate change](keyword_climate_change), climate resilient policy, coexistence, [construction](keyword_construction), consumption, [covid-19](keyword_covid-19), definition of sustainable, [design](keyword_design), [development](keyword_development), eco friendly, [economic](keyword_economic), economic recovery, economic system, ecotourism, [energy consumption](keyword_energy_consumption), energy saving, [environment](keyword_environment), [environmental](keyword_environmental), environmentally sound, eﬀective, finance, [green](keyword_green), [green building](keyword_green_building), green design, green recovery, growth, habitat iii, [health](keyword_health), inclusive, infrastructure project, innovative, job, land conservation, land use, life cycle, lifestyle, livable city, organic farming, [pandemic](keyword_pandemic), [policy](keyword_policy), public policy, renewable energy, [resilience](keyword_resilience), resilient, resilient city, resilient infrastructure, resource energy efficient, restoration, reusable resource, [risk](keyword_risk), risk mitigation, s cascone, safe, sensitive, [smart](keyword_smart), [smart city](keyword_smart_city), [social](keyword_social), [society](keyword_society), strategy, supply and production, sustain sustain, [sustainability](keyword_sustainability), [sustainable](keyword_sustainable), sustainable assessment, sustainable build environment, [sustainable energy transition](keyword_sustainable_energy_transition), sustainable land use, sustainable tourism, [sustainable work](keyword_sustainable_work), sustainably, [system](keyword_system), temper, thematically, thrive, [tourism](keyword_tourism), transition management, transportation, unsustainable, urban community, urban development, urban development in uk city, urban green, urban mobility, urban water system, urbanisation, [urbanism](keyword_urbanism), value, water management, [work](keyword_work), work environment, work life, work perspective, workability, [workplace](keyword_workplace), world economy
+ * alternative energy, alternative energy source, [build environment](keyword_build_environment), [city](keyword_city), [climate change](keyword_climate_change), climate resilient policy, coexistence, [construction](keyword_construction), consumption, [covid-19](keyword_covid-19), definition of sustainable, [design](keyword_design), development, eco friendly, [economic](keyword_economic), economic recovery, economic system, ecotourism, [energy consumption](keyword_energy_consumption), energy saving, [environment](keyword_environment), [environmental](keyword_environmental), environmentally sound, eﬀective, finance, [green](keyword_green), [green building](keyword_green_building), green design, green recovery, growth, habitat iii, [health](keyword_health), inclusive, infrastructure project, [innovative](keyword_innovative), [job](keyword_job), land conservation, land use, life cycle, lifestyle, livable city, organic farming, [pandemic](keyword_pandemic), [policy](keyword_policy), public policy, renewable, renewable energy, renewable material, [resilience](keyword_resilience), resilient, resilient city, resilient infrastructure, resource energy efficient, restoration, reusable resource, [risk](keyword_risk), risk mitigation, s cascone, safe, sensitive, [smart](keyword_smart), [smart city](keyword_smart_city), [social](keyword_social), [society](keyword_society), [strategy](keyword_strategy), supply and production, sustain sustain, [sustainability](keyword_sustainability), [sustainable](keyword_sustainable), sustainable city and community, sustainable design, [sustainable development](keyword_sustainable_development), sustainable development agenda, sustainable employment, [sustainable energy transition](keyword_sustainable_energy_transition), sustainable land use, sustainable tourism, [sustainable work](keyword_sustainable_work), sustainable work throughout the life course, sustainably, [system](keyword_system), [tourism](keyword_tourism), transition management, [transportation](keyword_transportation), unsustainable, urban community, urban development, urban development in uk city, urban green, urban mobility, urban water system, value, water management, [work](keyword_work), work environment, work life, work perspective, workability, [workplace](keyword_workplace), world economy
 
 
-## Concepts
 
- ![](imgs/keyword_sustainable.jpg)
+## Mapping
 
+<img src="plotly/keyword_sustainable.svg">
 
 
 ## Neighbours

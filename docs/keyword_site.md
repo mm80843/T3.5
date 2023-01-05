@@ -1,17 +1,17 @@
 # Keyword: site
 
-* [nd-icu](cluster_Cluster_0)
+* [construction-project](cluster_8)
 
 
 ## Keywords
 
- * Cluster_0, blog, [community](keyword_community), [construction](keyword_construction), context, cookie policy, [covid-19](keyword_covid-19), [facebook](keyword_facebook), [health and safety](keyword_health_and_safety), health and safety rationale, [krako w](keyword_krako_w), [logistic](keyword_logistic), [office](keyword_office), [site](keyword_site), site engineer, sites
+ * Cluster_8, blog, [community](keyword_community), [construction](keyword_construction), context, cookie policy, [covid-19](keyword_covid-19), [facebook](keyword_facebook), [health and safety](keyword_health_and_safety), health and safety rationale, [krako w](keyword_krako_w), [logistic](keyword_logistic), [office](keyword_office), [site](keyword_site), site engineer, sites
 
 
-## Concepts
 
- ![](imgs/keyword_site.jpg)
+## Mapping
 
+<img src="plotly/keyword_site.svg">
 
 
 ## Neighbours

@@ -1,17 +1,17 @@
 # Keyword: phase
 
-* [gbn-measure](cluster_Cluster_10)
+* [space-cid](cluster_2)
 
 
 ## Keywords
 
- * Cluster_10, aqueous, [covid 19 pandemic](keyword_covid_19_pandemic), [covid-19](keyword_covid-19), [efficiency](keyword_efficiency), end, evolution, evolution of this pandemic, evolve, kpis, layout, operator, [pandemic](keyword_pandemic), [phase](keyword_phase), phases, queue, recovery phase, second phase, this pandemic, [time](keyword_time)
+ * Cluster_2, aqueous, [covid 19 pandemic](keyword_covid_19_pandemic), [covid-19](keyword_covid-19), [efficiency](keyword_efficiency), [end](keyword_end), evolution, evolution of this pandemic, evolve, kpis, layout, operator, [pandemic](keyword_pandemic), [phase](keyword_phase), phases, queue, recovery phase, second phase, this pandemic, [time](keyword_time)
 
 
-## Concepts
 
- ![](imgs/keyword_phase.jpg)
+## Mapping
 
+<img src="plotly/keyword_phase.svg">
 
 
 ## Neighbours

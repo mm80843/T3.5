@@ -1,17 +1,17 @@
 # Keyword: flexible
 
-* [space-flexible](cluster_Cluster_14)
+* [business-customer](cluster_11)
 
 
 ## Keywords
 
- * Cluster_14, [flexible](keyword_flexible), new normal, rigid, [technology](keyword_technology)
+ * Cluster_11, [flexible](keyword_flexible), new normal, rigid, [technology](keyword_technology)
 
 
-## Concepts
 
- ![](imgs/keyword_flexible.jpg)
+## Mapping
 
+<img src="plotly/keyword_flexible.svg">
 
 
 ## Neighbours

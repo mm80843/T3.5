@@ -1,17 +1,15 @@
 # Keyword: loneliness
 
-* [health-mental](cluster_Cluster_15)
-
 
 ## Keywords
 
- * Cluster_15, affect, alienation, [anxiety](keyword_anxiety), boredom, community impact of loneliness, cope strategy, [covid 19 pandemic](keyword_covid_19_pandemic), [covid-19](keyword_covid-19), death, [depression](keyword_depression), disabled loneliness, disabling loneliness, effect on loneliness, emotional, experi ence, experience, feeling of, frustration, impact of loneliness, isolation, lack of work life balance, letterwrite, [loneliness](keyword_loneliness), loneliness paradox, loneliness scale, loss of human to human interaction, multidimensional, multidimensionality, news article on impact of loneliness, news article on impact of loneliness and way of address they, old people, [pandemic](keyword_pandemic), post traumatic fixmestress disorder, [psychological](keyword_psychological), quarantine, risk factor, [social](keyword_social), socialisolation, [stress](keyword_stress), ucla loneliness scale, weiss s typology, weiss typology
+ * affect, alienation, [anxiety](keyword_anxiety), boredom, community impact of loneliness, cope strategy, [covid 19 pandemic](keyword_covid_19_pandemic), [covid-19](keyword_covid-19), death, [depression](keyword_depression), disabled loneliness, disabling loneliness, effect on loneliness, emotional, experi ence, [experience](keyword_experience), feeling of, frustration, impact of loneliness, isolation, lack of work life balance, letterwrite, [loneliness](keyword_loneliness), loneliness paradox, loneliness scale, loss of human to human interaction, multidimensional, multidimensionality, news article on impact of loneliness, news article on impact of loneliness and way of address they, old people, [pandemic](keyword_pandemic), post traumatic fixmestress disorder, [psychological](keyword_psychological), [quarantine](keyword_quarantine), risk factor, [social](keyword_social), socialisolation, [stress](keyword_stress), ucla loneliness scale, weiss s typology, weiss typology
 
 
-## Concepts
 
- ![](imgs/keyword_loneliness.jpg)
+## Mapping
 
+<img src="plotly/keyword_loneliness.svg">
 
 
 ## Neighbours
@@ -27,6 +25,7 @@
 * The Impact of COVID-19 on Public Space: A Review of the Emerging Questions - [LINK](article_honey-roses_impact_2020)
 * Coronavirus questions that will not go away: interrogating urban and socio-spatial implications of COVID-19 measures - [LINK](article_salama_coronavirus_2020)
 * 10 tech trends getting us through the COVID-19 pandemic - [LINK](article_yan_10_2020)
+* Green in times of COVID-19: urban green space relevance during the COVID-19 pandemic in Buenos Aires City - [LINK](article_marconi_green_2022)
 
 
 ### Closest BPs

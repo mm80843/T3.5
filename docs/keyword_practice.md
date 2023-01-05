@@ -1,33 +1,34 @@
-# Keyword: __practice__
-## Clusters
+# Keyword: practice
 
-* Cluster 2: [construction-resilience](cluster_2.md)
-
-## Concepts
-
- ![](imgs/keyword_practice.jpg)
+* [construction-project](cluster_8)
 
 
-## Articles
-* Amplifying the role of knowledge translation platforms in
-the COVID-19 pandemic response ([el-jardali_amplifying_2020](article_el-jardali_amplifying_2020.md))
-* Revisiting the built environment: 10 potential development
-changes and paradigm shifts due to COVID-19 ([cheshmehzangi_revisiting_2021](article_cheshmehzangi_revisiting_2021.md))
-* eurofund_sustainable_2016-100 ([eurofund_sustainable_2016-100](article_eurofund_sustainable_2016-100.md))
-* Analysis of COVID-19 Concerns Raised by the
-Construction Workforce and Development of
-Mitigation Practices ([bou_hatoum_analysis_2021](article_bou_hatoum_analysis_2021.md))
-* Towards Resilient Residential Buildings and
-Neighborhoods in Light of COVID-19 Pandemic—The
-Scenario of Podgorica, Montenegro ([bojovic_towards_2022](article_bojovic_towards_2022.md))
-* Occupant health in buildings: Impact of the COVID-19
-pandemic on the opinions of building professionals and
-implications on research ([awada_occupant_2022](article_awada_occupant_2022.md))
-* Navigating Climate Change: Rethinking the Role of
-Buildings ([cole_navigating_2020](article_cole_navigating_2020.md))
-* Coronavirus questions that will not go away: interrogating
-urban and socio-spatial implications of COVID-19
-measures ([salama_coronavirus_2020](article_salama_coronavirus_2020.md))
-* Amplifying the role of knowledge translation platforms in
-the COVID-19 pandemic response ([el-jardali_amplifying_2020](article_el-jardali_amplifying_2020.md))
-* nassereddine_propositions_2021-200 ([nassereddine_propositions_2021-200](article_nassereddine_propositions_2021-200.md))
+## Keywords
+
+ * Cluster_8, [adapt](keyword_adapt), [attitude](keyword_attitude), barrier, [biophilic design](keyword_biophilic_design), coercive control, coercivecontrol, [community](keyword_community), community of practice, [construction worker](keyword_construction_worker), convention, culture, development practice, discipline, [education](keyword_education), [evidence](keyword_evidence), futureˈsustainability, good practice, green space planning, [health and safety](keyword_health_and_safety), health education, hygiene, [impact](keyword_impact), [knowledge](keyword_knowledge), [learn](keyword_learn), maintain, modelling of public policy, new policy, norm, [nursing](keyword_nursing), nutritionist, pandemic management, [perspective](keyword_perspective), [plan](keyword_plan), planning theory, [policy](keyword_policy), policymake, [practice](keyword_practice), practice alignment, practices, principle, [public health](keyword_public_health), public policy, relevance, reopen safely, [research](keyword_research), [safety](keyword_safety), service theory, [simulation](keyword_simulation), software development, [solution](keyword_solution), solution be offer, [theme](keyword_theme), theorize, theory, unemployment, urban agriculture practices, urban metabolism, [urban planning](keyword_urban_planning), value, value creation, way of thinking, [workplace](keyword_workplace)
+
+
+
+## Mapping
+
+<img src="plotly/keyword_practice.svg">
+
+
+## Neighbours
+
+### Closest articles
+
+* How COVID-19 Could Accelerate the Adoption of New Retail Technologies and Enhance the (E-)Servicescape - [LINK](article_willems_how_2021)
+* Amplifying the role of knowledge translation platforms in the COVID-19 pandemic response - [LINK](article_el-jardali_amplifying_2020)
+* The Impact of COVID-19 on Public Space: A Review of the Emerging Questions - [LINK](article_honey-roses_impact_2020)
+* Analysis of COVID-19 Concerns Raised by the Construction Workforce and Development of Mitigation Practices - [LINK](article_bou_hatoum_analysis_2021)
+* Coronavirus questions that will not go away: interrogating urban and socio-spatial implications of COVID-19 measures - [LINK](article_salama_coronavirus_2020)
+* Revisiting the built environment: 10 potential development changes and paradigm shifts due to COVID-19 - [LINK](article_cheshmehzangi_revisiting_2021)
+* Addressing vulnerability, building resilience: community-based adaptation to vector-borne diseases in the context of global change - [LINK](article_bardosh_addressing_2017)
+* Urban planning after COVID-19 - [LINK](article_rtpi_urban_2021)
+* Sustainable work throughout the life course: National policies and strategies, Publications Office of the European Union - [LINK](article_eurofund_sustainable_2016)
+* World Bank Development Report - [LINK](article_world_bank_world_2022)
+
+
+### Closest BPs
+

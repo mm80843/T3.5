@@ -2,7 +2,7 @@
 
 * Source: [10.1080/19491247.2020.1797991](https://doi.org/10.1080/19491247.2020.1797991)
 * Year: 2020
-* Cluster: [housing-space](cluster_14)
+* Cluster: [space-housing](cluster_4)
 
 
 
@@ -24,17 +24,16 @@
 * Dangerous liaisons? Applying the social harm perspective to the social inequality, housing and health trifecta during the Covid-19 pandemic - [LINK](article_gurney_dangerous_2021)
 * Eviction, Health Inequity, and the Spread of COVID-19: Housing Policy as a Primary Pandemic Mitigation Strategy - [LINK](article_benfer_eviction_2021)
 * Housing Experience in Gated Communities in the Time of Pandemics: Lessons Learned from COVID-19 - [LINK](article_asfour_housing_2022)
-* Questioning the use of the balcony in apartments during the COVID-19 pandemic process - [LINK](article_aydin_questioning_2020)
-* Biophilic design in architecture and its contributions to health, well-being, and sustainability: A critical review - [LINK](article_zhong_biophilic_2022)
 * Urban Community Sustainable Development Patterns under the Influence of COVID-19: A Case Study Based on the Non-Contact Interaction Perspective of Hangzhou City - [LINK](article_wang_urban_2021)
-* The contribution of green buildings in the fight against COVID-19 - [LINK](article_world_green_building_council_contribution_2020)
-* How Architecture Fails in Conditions of Crisis: a Discussion on the Value of Interior Design over the COVID-19 Outbreak - [LINK](article_rassia_how_2020)
-* Assessment of COVID-19 precautionary measures in sports facilities: A case study on a health club in Saudi Arabia - [LINK](article_ibrahim_assessment_2022)
+* The City Under COVID‐19: Podcasting As Digital Methodology - [LINK](article_rogers_city_2020)
 * A Mixed Approach on Resilience of Spanish Dwellings and Households during COVID-19 Lockdown - [LINK](article_cuerdo-vilches_mixed_2020)
+* Association between indoor-outdoor green features and psychological health during the COVID-19 lockdown in Italy: A cross-sectional nationwide study - [LINK](article_spano_association_2021)
+* Questioning the use of the balcony in apartments during the COVID-19 pandemic process - [LINK](article_aydin_questioning_2020)
+* Understanding the role of urban design in disease spreading - [LINK](article_brizuela_understanding_2019)
 
 
 ### Closest BPs
 
-* Blueprint: Tracking and enforcing use of Personal Protective Equipment - [LINK](bp_23)
 * Blueprint: Resilience in staffing and skills training - [LINK](bp_12)
-* Blueprint: Architecture design - [LINK](bp_2)
+* Blueprint: Monitoring of wastewater - [LINK](bp_21)
+* Blueprint: Installing high-efficiency air filters - [LINK](bp_11)

@@ -2,7 +2,7 @@
 
 * Source: [10.1371/journal.pone.0239352](https://doi.org/10.1371/journal.pone.0239352)
 * Year: 2021
-* Cluster: [air-sars](cluster_9)
+* Cluster: [health-city](cluster_1)
 
 
 
@@ -23,18 +23,17 @@
 
 * The Intelligent Lockdown: Compliance with COVID-19 Mitigation Measures in the Netherlands - [LINK](article_kuiper_intelligent_2020)
 * Compliance with COVID-19 Mitigation Measures in the United States - [LINK](article_van_rooij_compliance_2020)
-* DfMA for rapid adaptive resilience and flexible infrastructure - [LINK](article_mott_macdonald_dfma_2020)
-* Preparing critical infrastructure for the future: Lessons learnt from the Covid-19 pandemic - [LINK](article_tomalska_preparing_2022)
-* COVID-19 as a Harbinger of Transforming Infrastructure Resilience - [LINK](article_carvalhaes_covid-19_2020)
-* How Can Blockchain Help People in the Event of Pandemics Such as the COVID-19? - [LINK](article_chang_how_2020)
-* Blockchain technology and its applications to combat COVID-19 pandemic - [LINK](article_sharma_blockchain_2022)
-* A review of definitions and measures of system resilience - [LINK](article_hosseini_review_2016)
-* COVID-19 and a new resilient infrastructure landscape - [LINK](article_oecd_covid-19_2021)
-* Guidelines for resilience systems analysis - [LINK](article_oecd_guidelines_2014)
+* Building occupancy estimation with people flow modeling in AnyLogic - [LINK](article_li_building_2016)
+* Challenges of data sharing in European Covid-19 projects: A learning opportunity for advancing pandemic preparedness and response - [LINK](article_tacconelli_challenges_2022)
+* 2020 Data Protection Report - [LINK](article_council_of_europe_2020_2020)
+* EXPOSED: An occupant exposure model for confined spaces to retrofit crowd models during a pandemic - [LINK](article_ronchi_exposed_2020)
+* Exploring the Non-Medical impacts of Covid-19 using Natural Language Processing - [LINK](article_agade_exploring_2020)
+* Digital Twin of COVID-19 Mass Vaccination Centers - [LINK](article_pilati_digital_2021)
+* Will a pandemic change building codes? - [LINK](article_rozgus_will_2020)
 
 
 ### Closest BPs
 
-* Blueprint: Antimicrobial Surfaces - [LINK](bp_5)
-* Blueprint: Reducing contact points - [LINK](bp_17)
-* Blueprint: Good hand hygiene practice - [LINK](bp_16)
+* Blueprint: Installing high-efficiency air filters - [LINK](bp_11)
+* Blueprint: Resilience in staffing and skills training - [LINK](bp_12)
+* Blueprint: Air Cleaning Plants - [LINK](bp_15)

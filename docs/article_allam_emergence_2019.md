@@ -2,7 +2,7 @@
 
 * Source: [10.3390/smartcities2010007](https://doi.org/10.3390/smartcities2010007)
 * Year: 2019
-* Cluster: [urban-city](cluster_6)
+* Cluster: [health-city](cluster_1)
 
 
 
@@ -23,10 +23,10 @@
 
 * The three modes of existence of the pandemic smart city - [LINK](article_soderstrom_three_2021)
 * The Smart City and Covid‐19 - [LINK](article_webb_smart_2020)
-* Learning from the COVID-19 pandemic in governing smart cities - [LINK](article_bolivar_learning_2022)
-* Contributions of Smart City Solutions and Technologies to Resilience against the COVID-19 Pandemic: A Literature Review - [LINK](article_sharifi_contributions_2021)
 * Smart cities and the pandemic: digital technologies on the urban management of Brazilian cities - [LINK](article_fariniuk_smart_2020)
+* Learning from the COVID-19 pandemic in governing smart cities - [LINK](article_bolivar_learning_2022)
 * Future (post-COVID) digital, smart and sustainable cities in the wake of 6G: Digital twins, immersive realities and new urban economies - [LINK](article_allam_future_2021)
+* Contributions of Smart City Solutions and Technologies to Resilience against the COVID-19 Pandemic: A Literature Review - [LINK](article_sharifi_contributions_2021)
 * On the Coronavirus (COVID-19) Outbreak and the Smart City Network: Universal Data Sharing Standards Coupled with Artificial Intelligence (AI) to Benefit Urban Health Monitoring and Management - [LINK](article_allam_coronavirus_2020)
 * Smart cities and a data-driven response to COVID-19 - [LINK](article_james_smart_2020)
 * Pandemic stricken cities on lockdown. Where are our planning and design professionals [now, then and into the future]? - [LINK](article_allam_pandemic_2020)
@@ -35,6 +35,6 @@
 
 ### Closest BPs
 
-* Blueprint: Mental health – Act: Do something - [LINK](bp_18)
-* Blueprint: Mental health – Belong: Do something with someone - [LINK](bp_19)
-* Blueprint: Mental health – Commit: Do something meaningfull - [LINK](bp_20)
+* Blueprint: Monitoring of wastewater - [LINK](bp_21)
+* Blueprint: Resilience in staffing and skills training - [LINK](bp_12)
+* Blueprint: Air Cleaning Plants - [LINK](bp_15)

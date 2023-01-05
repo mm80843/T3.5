@@ -1,19 +1,17 @@
 # Keyword: qpcr
 
-* [wastewater-sars](cluster_Cluster_2)
-
-* [perpetuity-bioaerosol](cluster_Cluster_3)
+* [wastewater-water](cluster_0)
 
 
 ## Keywords
 
- * Cluster_2, Cluster_3, biomark, biomark hd 96, ct, [detection](keyword_detection), high throughput, high throughput qpcr, pepper mild mottle virus, pmmov, [qpcr](keyword_qpcr), reproducible datum, rt pcr, rt qpcr, [sar cov 2](keyword_sar_cov_2), sar cov 2 concentration, sequence, sequence analysis, taqman, [wastewater](keyword_wastewater)
+ * Cluster_0, biomark, biomark hd 96, ct, [detection](keyword_detection), high throughput, high throughput qpcr, pepper mild mottle virus, pmmov, [qpcr](keyword_qpcr), reproducible datum, rt pcr, rt qpcr, [sar cov 2](keyword_sar_cov_2), sar cov 2 concentration, sequence, sequence analysis, taqman, [wastewater](keyword_wastewater)
 
 
-## Concepts
 
- ![](imgs/keyword_qpcr.jpg)
+## Mapping
 
+<img src="plotly/keyword_qpcr.svg">
 
 
 ## Neighbours

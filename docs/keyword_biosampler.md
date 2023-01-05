@@ -1,10 +1,23 @@
-# Keyword: __biosampler__
-
-## Concepts
-
- ![](imgs/keyword_biosampler.jpg)
+# Keyword: biosampler
 
 
-## Top articles for __biosampler__
-* Far-UVC light (222 nm) efficiently and safely
-inactivates airborne human coronaviruses ([buonanno_far-uvc_2020](article_buonanno_far-uvc_2020))
+## Keywords
+
+ * [aerosol](keyword_aerosol), aerosol chamber, [biosampler](keyword_biosampler), [virus](keyword_virus), virus infectivity assay
+
+
+
+## Mapping
+
+<img src="plotly/keyword_biosampler.svg">
+
+
+## Neighbours
+
+### Closest articles
+
+* Far-UVC light (222 nm) efficiently and safely inactivates airborne human coronaviruses - [LINK](article_buonanno_far-uvc_2020)
+
+
+### Closest BPs
+

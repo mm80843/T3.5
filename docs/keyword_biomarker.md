@@ -1,17 +1,17 @@
 # Keyword: biomarker
 
-* [wastewater-sars](cluster_Cluster_2)
+* [wastewater-water](cluster_0)
 
 
 ## Keywords
 
- * 10 environment international, 8 iso prostaglandin f2alpha, Cluster_2, antibiotic resistance gene, arrhenius equation, biological, [biomarker](keyword_biomarker), biomarker of exposure, biomarkers, biomolecule, [biosensor](keyword_biosensor), cortisol, cortisol secretion, cotinine, covid 19 outbreak, [covid-19](keyword_covid-19), [disease](keyword_disease), elevate, elisa, endocrine disruptor, endogenous, [epidemiological](keyword_epidemiological), [epidemiology](keyword_epidemiology), exogenous, [exposure](keyword_exposure), [health](keyword_health), identiﬁed, inflammation, inflammatory damage, inﬂammatory response, inﬂammatory response biomarker, isoprostane, metabolic, monitor infectious disease spread, orm, oxidative stress, [population](keyword_population), proptoype, proteomic, quantify, salivary, [sar cov 2](keyword_sar_cov_2), [sensor](keyword_sensor), urinary, urinary biomarker, urine ip 10, vitamin d bind protein, [well be](keyword_well_be), well be assess ment
+ * 10 environment international, 8 iso prostaglandin f2alpha, Cluster_0, antibiotic resistance gene, arrhenius equation, biological, [biomarker](keyword_biomarker), biomarker of exposure, biomarkers, biomolecule, [biosensor](keyword_biosensor), cortisol, cortisol secretion, cotinine, covid 19 outbreak, [covid-19](keyword_covid-19), [disease](keyword_disease), elevate, elisa, endocrine disruptor, endogenous, [epidemiological](keyword_epidemiological), [epidemiology](keyword_epidemiology), exogenous, [exposure](keyword_exposure), [health](keyword_health), identiﬁed, inflammation, inflammatory damage, inﬂammatory response, inﬂammatory response biomarker, isoprostane, metabolic, monitor infectious disease spread, orm, oxidative stress, [population](keyword_population), proptoype, proteomic, quantify, salivary, [sar cov 2](keyword_sar_cov_2), [sensor](keyword_sensor), urinary, urinary biomarker, urine ip 10, vitamin d bind protein, [well be](keyword_well_be), well be assess ment
 
 
-## Concepts
 
- ![](imgs/keyword_biomarker.jpg)
+## Mapping
 
+<img src="plotly/keyword_biomarker.svg">
 
 
 ## Neighbours

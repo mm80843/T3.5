@@ -109,16 +109,20 @@ MM
 
  ### Interventions
 
-* Occupancy control (eg separating at/risk contaminated population) (HJ2)
-* Shift controls (occupancy control of total users) (HJ3)
-* Early detection (MP3)
-* Absorb resource shortages (MC3)
+* Occupancy control (eg separating at/risk contaminated population) ([HJ2](hj2))
+* Shift controls (occupancy control of total users) ([HJ3](hj3))
+* Early detection ([MP3](mp3))
+* Absorb resource shortages ([MC3](mc3))
+* Occupancy control (eg separating at/risk contaminated population) ([HJ2](hj2))
+* Shift controls (occupancy control of total users) ([HJ3](hj3))
+* Early detection ([MP3](mp3))
+* Absorb resource shortages ([MC3](mc3))
 
 ### Technologies
 
-* Data Analytics
 * BigData
 * 5G
+* Data Analytics
 * IoT
 
 

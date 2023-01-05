@@ -1,9 +1,23 @@
-# Keyword: __phenopacket__
-
-## Concepts
-
- ![](imgs/keyword_phenopacket.jpg)
+# Keyword: phenopacket
 
 
-## Top articles for __phenopacket__
-* The COVID-19 epidemiology and monitoring ontology ([queralt-rosinach_covid-19_2021](article_queralt-rosinach_covid-19_2021))
+## Keywords
+
+ * ga4gh, [machine learning](keyword_machine_learning), omop, [phenopacket](keyword_phenopacket), phenopacket schema, phenopackets
+
+
+
+## Mapping
+
+<img src="plotly/keyword_phenopacket.svg">
+
+
+## Neighbours
+
+### Closest articles
+
+* The COVID-19 epidemiology and monitoring ontology - [LINK](article_queralt-rosinach_covid-19_2021)
+
+
+### Closest BPs
+

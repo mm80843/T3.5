@@ -1,11 +1,11 @@
 # Keyword: pedestrian
 
-* [detection-object](cluster_8)
+* [space-cid](cluster_2)
 
 
 ## Keywords
 
- * Cluster_8, bicyclist, biker, [bound box](keyword_bound_box), [build](keyword_build), car, [city](keyword_city), [cycling](keyword_cycling), cyclist, direction of movement, face to face contact, [green](keyword_green), guidebook on pedestrian and bicycle volume datum collection, micro mobility, [mobility](keyword_mobility), navigation service, nose, [pedestrian](keyword_pedestrian), pedestrian scale, pedestrians, shoulder, sidewalk, street, sustainable city and society, [traffic](keyword_traffic), trajectory, vehicular traffic, walk, walkway
+ * Cluster_2, bicyclist, biker, [bound box](keyword_bound_box), [build](keyword_build), car, [city](keyword_city), [cycling](keyword_cycling), cyclist, direction of movement, face to face contact, [green](keyword_green), guidebook on pedestrian and bicycle volume datum collection, micro mobility, [mobility](keyword_mobility), navigation service, nose, [pedestrian](keyword_pedestrian), pedestrian scale, pedestrians, shoulder, sidewalk, street, sustainable city and society, [traffic](keyword_traffic), trajectory, vehicular traffic, walk, walkway
 
 
 

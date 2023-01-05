@@ -1,11 +1,11 @@
 # Keyword: solution
 
-* [ontology-datum](cluster_12)
+* [iot-blockchain](cluster_7)
 
 
 ## Keywords
 
- * 3d, 3d view, Cluster_12, [air](keyword_air), all inclusive, alternative option, alternative solution, aqueous, aqueous phase, automation, [blockchain](keyword_blockchain), [build](keyword_build), [building](keyword_building), [chromosome](keyword_chromosome), [climate change](keyword_climate_change), contagion, couple detection, [datum](keyword_datum), datum analytic, demo, demo e not at all, [design](keyword_design), electronic system, [formaldehyde](keyword_formaldehyde), good approach, government intervention, long term, long term solution, minimalist, mobile technology, monocular, monocular solution, [nature](keyword_nature), nature base, nature base solution, ncsolution, one solution, online education, optimal, optimize, plug and play, practice, problem, rapid win, [route](keyword_route), science base evidence, search phase, [smart](keyword_smart), smart fleet management, [solution](keyword_solution), solution to this problem, solutions, strategy, [sustainability](keyword_sustainability), [technology](keyword_technology), technology drive, technologyempowere, tinker, well possible, well possible solution
+ * 3d, 3d view, Cluster_7, [air](keyword_air), all inclusive, alternative option, alternative solution, aqueous, aqueous phase, automation, [blockchain](keyword_blockchain), [build](keyword_build), [building](keyword_building), [chromosome](keyword_chromosome), [climate change](keyword_climate_change), contagion, couple detection, [datum](keyword_datum), datum analytic, demo, demo e not at all, [design](keyword_design), electronic system, [formaldehyde](keyword_formaldehyde), good approach, government intervention, long term, long term solution, minimalist, mobile technology, monocular, monocular solution, [nature](keyword_nature), nature base, nature base solution, ncsolution, one solution, online education, optimal, optimize, plug and play, [practice](keyword_practice), problem, rapid win, [route](keyword_route), science base evidence, search phase, [smart](keyword_smart), smart fleet management, [solution](keyword_solution), solution to this problem, solutions, [strategy](keyword_strategy), [sustainability](keyword_sustainability), [technology](keyword_technology), technology drive, technologyempowere, tinker, well possible, well possible solution
 
 
 

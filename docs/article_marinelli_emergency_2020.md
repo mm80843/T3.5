@@ -2,7 +2,7 @@
 
 * Source: [10.1109/EMR.2020.3029850](https://doi.org/10.1109/EMR.2020.3029850)
 * Year: 2020
-* Cluster: [air-sars](cluster_9)
+* Cluster: [building-design](cluster_5)
 
 
 
@@ -23,18 +23,18 @@
 
 * Management of the COVID-19 pandemic: challenges, practices, and organizational support - [LINK](article_hossny_management_2022)
 * Supporting Technologies for COVID-19 Prevention: Systemized Review - [LINK](article_zhao_supporting_2022)
-* Telehealth overpromises during the Covid-19 pandemic - [LINK](article_ostherr_telehealth_2020)
-* Infodemic and the spread of fake news in the COVID-19-era - [LINK](article_orso_infodemic_2020)
+* 10 tech trends getting us through the COVID-19 pandemic - [LINK](article_yan_10_2020)
 * COVID-19: A new digital dawn? - [LINK](article_robbins_covid-19_2020)
+* Wastewater surveillance for population-wide Covid-19: The present and future - [LINK](article_daughton_wastewater_2020)
+* Using Technology to Maintain the Education of Residents During the COVID-19 Pandemic - [LINK](article_chick_using_2020)
 * Response to COVID-19 in Taiwan - [LINK](article_wang_response_2020)
-* Knowledge, attitudes, and practices of Indonesian residents regarding COVID-19: A national cross-sectional survey - [LINK](article_yodang_knowledge_2021)
-* The impacts of knowledge, risk perception, emotion and information on citizens’ protective behaviors during the outbreak of COVID-19: a cross-sectional study in China - [LINK](article_ning_impacts_2020)
-* Coronavirus: Can artificial intelligence be smart enough to detect fake news? - [LINK](article_tong_coronavirus_2020)
-* Covid-19 and community mitigation strategies in a pandemic - [LINK](article_ebrahim_covid-19_2020)
+* SARS-CoV-2 in wastewater: potential health risk, but also data source - [LINK](article_lodder_sars-cov-2_2020)
+* Telehealth overpromises during the Covid-19 pandemic - [LINK](article_ostherr_telehealth_2020)
+* Overview of the mitigation strategies for COVID-19 pandemic - [LINK](article_ads_overview_2020)
 
 
 ### Closest BPs
 
 * Blueprint: Resilience in staffing and skills training - [LINK](bp_12)
-* Blueprint: Air Cleaning Plants - [LINK](bp_15)
-* Blueprint: Public places as information points - [LINK](bp_8)
+* Blueprint: Negative pressure rooms - [LINK](bp_13)
+* Blueprint: Smart Locker System - [LINK](bp_1)

@@ -1,9 +1,23 @@
-# Keyword: __biostatistic__
-
-## Concepts
-
- ![](imgs/keyword_biostatistic.jpg)
+# Keyword: biostatistic
 
 
-## Top articles for __biostatistic__
-* pfefferbaum_mental_2020 ([pfefferbaum_mental_2020](article_pfefferbaum_mental_2020))
+## Keywords
+
+ * [biostatistic](keyword_biostatistic), biostatistics, datum science, rachel nethery, xiao wu
+
+
+
+## Mapping
+
+<img src="plotly/keyword_biostatistic.svg">
+
+
+## Neighbours
+
+### Closest articles
+
+* Air pollution linked with higher COVID-19 death rates - [LINK](article_harvard_th_chan_schoold_of_public_health_air_2020)
+
+
+### Closest BPs
+

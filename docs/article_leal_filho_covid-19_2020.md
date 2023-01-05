@@ -2,7 +2,7 @@
 
 * Source: [10.3390/su12135343](https://doi.org/10.3390/su12135343)
 * Year: 2020
-* Cluster: [construction-pandemic](cluster_1)
+* Cluster: [business-customer](cluster_11)
 
 
 
@@ -21,19 +21,20 @@
 
 ### Closest articles
 
-* COVID-19: IMPACT OF THE PANDEMIC ON THE SUSTAINABLE DEVELOPMENT GOALS - [LINK](article_samout_covid-19_2020)
 * The COVID-19 pandemic: Lessons on building more equal and sustainable societies - [LINK](article_van_barneveld_covid-19_2020)
 * How COVID-19 Redefines the Concept of Sustainability - [LINK](article_hakovirta_how_2020)
+* COVID-19: IMPACT OF THE PANDEMIC ON THE SUSTAINABLE DEVELOPMENT GOALS - [LINK](article_samout_covid-19_2020)
 * Health, Economic and Social Development Challenges of the COVID-19 Pandemic: Strategies for Multiple and Interconnected Issues - [LINK](article_panneer_health_2022)
 * Building up an ecologically sustainable and socially desirable post-COVID-19 future - [LINK](article_duflot_building_2021)
-* A critical analysis of the impacts of COVID-19 on the global economy and ecosystems and opportunities for circular economy strategies - [LINK](article_ibn-mohammed_critical_2021)
 * The socio-economic implications of the coronavirus pandemic (COVID-19): A review - [LINK](article_nicola_socio-economic_2020)
-* Sustainable work throughout the life course: National policies and strategies, Publications Office of the European Union - [LINK](article_eurofund_sustainable_2016)
+* A critical analysis of the impacts of COVID-19 on the global economy and ecosystems and opportunities for circular economy strategies - [LINK](article_ibn-mohammed_critical_2021)
+* Responsible Transport: A post-COVID agenda for transport policy and practice - [LINK](article_budd_responsible_2020)
 * Urban planning after COVID-19 - [LINK](article_rtpi_urban_2021)
+* Mobility Behaviour in View of the Impact of the COVID-19 Pandemic—Public Transport Users in Gdansk Case Study - [LINK](article_przybylowski_mobility_2021)
 
 
 ### Closest BPs
 
-* Blueprint: Smart Locker System - [LINK](bp_1)
 * Blueprint: Resilience in staffing and skills training - [LINK](bp_12)
-* Blueprint: Mental health – Belong: Do something with someone - [LINK](bp_19)
+* Blueprint: Monitoring of wastewater - [LINK](bp_21)
+* Blueprint: Installing high-efficiency air filters - [LINK](bp_11)

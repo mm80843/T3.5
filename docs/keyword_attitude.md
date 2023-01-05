@@ -1,11 +1,9 @@
 # Keyword: attitude
 
-* [respiratory-infection](cluster_3)
-
 
 ## Keywords
 
- * Cluster_3, anthropological, [attitude](keyword_attitude), attitudes, behavior, behavior change, behaviour, [consumer](keyword_consumer), cultural, customer empathy, decision maker, favorability, gender, human behavior, [knowledge](keyword_knowledge), perception, practice, risk take, [social](keyword_social), subjectivism, trust, [worker](keyword_worker), [workplace](keyword_workplace)
+ * anthropological, [attitude](keyword_attitude), attitudes, behavior, behavior change, behaviour, [consumer](keyword_consumer), cultural, customer empathy, decision maker, favorability, gender, human behavior, [knowledge](keyword_knowledge), perception, [practice](keyword_practice), risk take, [social](keyword_social), subjectivism, trust, [worker](keyword_worker), [workplace](keyword_workplace)
 
 
 

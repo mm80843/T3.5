@@ -1,17 +1,15 @@
 # Keyword: gerba
 
-* [perpetuity-bioaerosol](cluster_Cluster_3)
-
 
 ## Keywords
 
- * Cluster_3, carducci, carducci a, caslino, cp, e k, [gerba](keyword_gerba), koenig, kurgat, lesile, p m, pepper, pogreba brown, sifuente, sinclair, walter q lett charle
+ * carducci, carducci a, caslino, cp, e k, [gerba](keyword_gerba), koenig, kurgat, lesile, p m, pepper, pogreba brown, sifuente, sinclair, walter q lett charle
 
 
-## Concepts
 
- ![](imgs/keyword_gerba.jpg)
+## Mapping
 
+<img src="plotly/keyword_gerba.svg">
 
 
 ## Neighbours
@@ -27,6 +25,7 @@
 * Computational analysis of SARS-CoV-2/COVID-19 surveillance by wastewater-based epidemiology locally and globally: Feasibility, economy, opportunities and challenges - [LINK](article_hart_computational_2020)
 * First detection of SARS-CoV-2 in untreated wastewaters in Italy - [LINK](article_la_rosa_first_2020)
 * SARS-CoV-2 RNA in wastewater anticipated COVID-19 occurrence in a low prevalence area - [LINK](article_randazzo_sars-cov-2_2020)
+* Toilets dominate environmental detection of SARS-CoV-2 virus in a hospital - [LINK](article_ding_toilets_2020)
 
 
 ### Closest BPs

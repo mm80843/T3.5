@@ -1,9 +1,24 @@
-# Keyword: __drones__
-## Clusters
+# Keyword: drones
 
-* Cluster 13: [robot-drone](cluster_13)
+* [surveying-drone](cluster_13)
 
-## Concepts
 
- ![](imgs/keyword_drones.jpg)
+## Keywords
+
+ * Cluster_13, [drones](keyword_drones)
+
+
+
+## Mapping
+
+<img src="plotly/keyword_drones.svg">
+
+
+## Neighbours
+
+### Closest articles
+
+
+
+### Closest BPs
 

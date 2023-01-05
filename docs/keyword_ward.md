@@ -1,11 +1,13 @@
 # Keyword: ward
 
-* [filter-air](cluster_0)
+* [design-ventilation](cluster_10)
+
+* [air-uv](cluster_12)
 
 
 ## Keywords
 
- * 15 klein, 5 klein, 9 klein, Cluster_0, air outlet, [anteroom](keyword_anteroom), bay, bedrail, [covid-19](keyword_covid-19), cubicle, drainage system, emergency department, emergency hospital, [gw](keyword_gw), [hospital](keyword_hospital), huoshenshan hospital, [icu](keyword_icu), icus, infectious disease hospital, inpatient, isolation, isolation room, isolation ward, kimura, negative pressure isolation, operating theatre, [patient](keyword_patient), patient room, persars, sanitization, surge, temporary infectious disease ward, [ward](keyword_ward), wards
+ * 15 klein, 5 klein, 9 klein, Cluster_10, Cluster_12, air outlet, [anteroom](keyword_anteroom), bay, bedrail, [covid-19](keyword_covid-19), cubicle, drainage system, emergency department, emergency hospital, [gw](keyword_gw), [hospital](keyword_hospital), huoshenshan hospital, [icu](keyword_icu), icus, infectious disease hospital, inpatient, isolation, isolation room, isolation ward, kimura, negative pressure isolation, operating theatre, [patient](keyword_patient), patient room, persars, sanitization, surge, temporary infectious disease ward, [ward](keyword_ward), wards
 
 
 

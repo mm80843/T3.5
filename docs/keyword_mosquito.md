@@ -1,13 +1,9 @@
 # Keyword: mosquito
 
-* [malaria-vector](cluster_5)
-
-* [china-case](cluster_13)
-
 
 ## Keywords
 
- * Cluster_13, Cluster_5, aede, aede genus, aede neomelaniconium, aedes vector, albopictus, anophele, breed, breeding sites, [build](keyword_build), container bred, [control](keyword_control), culex pipiens complex, [dengue](keyword_dengue), dengue virus, diptera, [disease](keyword_disease), disease vector, disease vectors, duck pond, entomology, [infectious disease](keyword_infectious_disease), insect, insecticide, insecticides, larva, larvae, [malaria](keyword_malaria), malaria mitigation, malaria transmission, malaria vector, [mosquito](keyword_mosquito), mosquito breeding, mosquito larvae, mosquitoes, mosquitoes in urban water bodies, mosquitos, [pathogen](keyword_pathogen), rift valley fever virus, specie, transmit dengue virus, [urban](keyword_urban), [vector](keyword_vector), vector control, wolbachia
+ * aede, aede genus, aede neomelaniconium, aedes vector, albopictus, anophele, breed, breeding sites, [build](keyword_build), container bred, [control](keyword_control), culex pipiens complex, dengue, dengue virus, diptera, [disease](keyword_disease), disease vector, disease vectors, duck pond, entomology, [infectious disease](keyword_infectious_disease), insect, insecticide, insecticides, larva, larvae, [malaria](keyword_malaria), malaria mitigation, malaria transmission, malaria vector, [mosquito](keyword_mosquito), mosquito breeding, mosquito larvae, mosquitoes, mosquitoes in urban water bodies, mosquitos, [pathogen](keyword_pathogen), rift valley fever virus, specie, transmit dengue virus, [urban](keyword_urban), [vector](keyword_vector), vector control, wolbachia
 
 
 

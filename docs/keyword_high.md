@@ -1,11 +1,15 @@
 # Keyword: high
 
-* [filter-air](cluster_0)
+* [health-city](cluster_1)
+
+* [building-design](cluster_5)
+
+* [air-uv](cluster_10)
 
 
 ## Keywords
 
- * Cluster_0, campolindo, cbe sector, comorbidity, comorbidity level, [covid-19](keyword_covid-19), evidence standard, hear range, [high](keyword_high), high cost of borrow, high risk building, high subj, higher, highest, hyperinflation, impulsivity, j j high, [low](keyword_low), low cci, low density, low risk, [medium](keyword_medium), medium risk, middle income country, moderate, more, more realistic, [new york](keyword_new_york), no high, [pandemic](keyword_pandemic), pelling, poor, probability, [risk](keyword_risk), risk exposure, risk of bias, risk of transmission sn compr, [sector](keyword_sector), [stress](keyword_stress), tianyi, very high risk building, yes no high
+ * Cluster_1, Cluster_10, Cluster_5, campolindo, cbe sector, comorbidity, comorbidity level, [covid-19](keyword_covid-19), evidence standard, hear range, [high](keyword_high), high cost of borrow, high risk building, high subj, higher, highest, hyperinflation, impulsivity, j j high, [low](keyword_low), low cci, low density, low risk, medium, medium risk, middle income country, moderate, more, more realistic, [new york](keyword_new_york), no high, [pandemic](keyword_pandemic), pelling, poor, probability, [risk](keyword_risk), risk exposure, risk of bias, risk of transmission sn compr, [sector](keyword_sector), [stress](keyword_stress), tianyi, very high risk building, yes no high
 
 
 
@@ -27,7 +31,6 @@
 * Effects of temperature and humidity on the spread of COVID-19: A systematic review - [LINK](article_mecenas_effects_2020)
 * Architectural Design Drives the Biogeography of Indoor Bacterial Communities - [LINK](article_kembel_architectural_2014)
 * Review and comparison of HVAC operation guidelines in different countries during the COVID-19 pandemic - [LINK](article_guo_review_2021)
-* Study of COVID-19 pandemic in London (UK) from urban context - [LINK](article_ghosh_study_2020)
 
 
 ### Closest BPs

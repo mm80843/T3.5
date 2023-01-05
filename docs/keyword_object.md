@@ -1,11 +1,11 @@
 # Keyword: object
 
-* [detection-object](cluster_8)
+* [processing-wireless](cluster_14)
 
 
 ## Keywords
 
- * Cluster_8, [asset](keyword_asset), [chair](keyword_chair), class, coordinate, design environment, [detection](keyword_detection), [domain](keyword_domain), entity, fall, form, hand, [object](keyword_object), [ontology](keyword_ontology), perceiver, perception, [space](keyword_space), subject, [surface](keyword_surface)
+ * Cluster_14, asset, [chair](keyword_chair), class, coordinate, design environment, [detection](keyword_detection), [domain](keyword_domain), entity, fall, form, hand, [object](keyword_object), [ontology](keyword_ontology), perceiver, perception, [space](keyword_space), subject, [surface](keyword_surface)
 
 
 

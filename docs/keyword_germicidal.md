@@ -1,11 +1,11 @@
 # Keyword: germicidal
 
-* [uv-air](cluster_15)
+* [air-uv](cluster_10)
 
 
 ## Keywords
 
- * Cluster_15, air mixing, airborne contagion, airborne infectious agent, biologic agent, bioterrorism, [coronavirus](keyword_coronavirus), disinfect, [disinfection](keyword_disinfection), duration of exposure, efﬁcacy, erythemal, far uvc, far uvc light, fluence, [germicidal](keyword_germicidal), [graphene](keyword_graphene), [inactivate](keyword_inactivate), [irradiation](keyword_irradiation), mix, [pathogen](keyword_pathogen), sunlight, [ultraviolet](keyword_ultraviolet), ultraviolet guv air disinfection, ultraviolet irradiation, [uv](keyword_uv), uv air disinfection, uv field, uv fixture, uv irradiation, uv lamp, [uv light](keyword_uv_light), uv radiation, uv ﬁeld, [uv-c](keyword_uv-c), [uvgi](keyword_uvgi), uvgi lamp, ﬁxture
+ * Cluster_10, air mixing, airborne contagion, airborne infectious agent, biologic agent, bioterrorism, [coronavirus](keyword_coronavirus), [disinfect](keyword_disinfect), [disinfection](keyword_disinfection), duration of exposure, efﬁcacy, erythemal, far uvc, far uvc light, fluence, [germicidal](keyword_germicidal), [graphene](keyword_graphene), inactivate, [irradiation](keyword_irradiation), mix, [pathogen](keyword_pathogen), [sunlight](keyword_sunlight), [ultraviolet](keyword_ultraviolet), ultraviolet guv air disinfection, ultraviolet irradiation, [uv](keyword_uv), uv air disinfection, uv field, uv fixture, uv irradiation, uv lamp, [uv light](keyword_uv_light), uv radiation, uv ﬁeld, [uv-c](keyword_uv-c), [uvgi](keyword_uvgi), uvgi lamp, ﬁxture
 
 
 

@@ -1,17 +1,15 @@
 # Keyword: uv-c
 
-* [uvc-hcov](cluster_Cluster_7)
-
 
 ## Keywords
 
- * 254 nm, 254 nm uv c, 254 psynetnm, Cluster_7, aerosolise, airstream, band, carcinogen, [covid-19](keyword_covid-19), deactivate, [decontamination](keyword_decontamination), decontamination device, di rect, disinfect, [disinfection](keyword_disinfection), disinfection robot, filter facepiece mask, [germicidal](keyword_germicidal), health effect, hepa, [infection control](keyword_infection_control), [irradiation](keyword_irradiation), [lamp](keyword_lamp), [light](keyword_light), light emit device, light sensitivity, light source, [lighting](keyword_lighting), [mer cov](keyword_mer_cov), microbe, [microorganism](keyword_microorganism), mitigation step, [personal protective equipment](keyword_personal_protective_equipment), probable human carcinogen, [robot](keyword_robot), [safety](keyword_safety), safety of uv c, [sar cov 1](keyword_sar_cov_1), [sar cov 2](keyword_sar_cov_2), sar cov 2 virus, sarscov 1, [surfacide](keyword_surfacide), surfacide disinfection system, [ultraviolet](keyword_ultraviolet), [uv](keyword_uv), uv - c, uv b, uv c, uv lamp, uv radiation, [uv-c](keyword_uv-c), uvc, uvc light, uvc light and coronavirus, [uvgi](keyword_uvgi), [virus](keyword_virus), wavelength, µm
+ * 254 nm, 254 nm uv c, 254 psynetnm, UV/UVGI/Irradation, aerosolise, airstream, band, carcinogen, [covid-19](keyword_covid-19), deactivate, [decontamination](keyword_decontamination), decontamination device, di rect, [disinfect](keyword_disinfect), [disinfection](keyword_disinfection), disinfection robot, filter facepiece mask, [germicidal](keyword_germicidal), health effect, [hepa](keyword_hepa), [infection control](keyword_infection_control), [irradiation](keyword_irradiation), lamp, light, light emit device, light sensitivity, light source, lighting, [mer cov](keyword_mer_cov), microbe, [microorganism](keyword_microorganism), mitigation step, probable human carcinogen, [robot](keyword_robot), [safety](keyword_safety), safety of uv c, [sar cov 1](keyword_sar_cov_1), [sar cov 2](keyword_sar_cov_2), sar cov 2 virus, sarscov 1, [surfacide](keyword_surfacide), surfacide disinfection system, [ultraviolet](keyword_ultraviolet), [uv](keyword_uv), uv - c, uv b, uv c, uv lamp, uv radiation, [uv-c](keyword_uv-c), uvc, uvc light, uvc light and coronavirus, [uvgi](keyword_uvgi), [virus](keyword_virus), wavelength, µm
 
 
-## Concepts
 
- ![](imgs/keyword_uv-c.jpg)
+## Mapping
 
+<img src="plotly/keyword_uv-c.svg">
 
 
 ## Neighbours

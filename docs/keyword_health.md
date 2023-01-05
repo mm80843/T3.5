@@ -1,31 +1,31 @@
 # Keyword: health
 
-* [urban-city](cluster_1)
+* [health-city](cluster_0)
 
-* [air-sars](cluster_2)
+* [space-housing](cluster_1)
 
-* [construction-pandemic](cluster_3)
+* [wastewater-water](cluster_3)
 
-* [housing-space](cluster_4)
+* [building-design](cluster_4)
 
-* [datum-iot](cluster_5)
+* [iot-blockchain](cluster_5)
 
-* [health-mental](cluster_6)
+* [design-ventilation](cluster_7)
 
-* [building-energy](cluster_9)
+* [construction-project](cluster_8)
 
-* [malaria-vector](cluster_10)
+* [air-uv](cluster_9)
 
-* [resilience-infrastructure](cluster_11)
+* [business-customer](cluster_10)
 
-* [china-case](cluster_13)
+* [obesity-county](cluster_11)
 
-* [respiratory-infection](cluster_14)
+* [iaq-system](cluster_12)
 
 
 ## Keywords
 
- * [air pollution](keyword_air_pollution), air quality, [architecture](keyword_architecture), awada, behavior, [build](keyword_build), [build environment](keyword_build_environment), care, [city](keyword_city), [climate change](keyword_climate_change), climate resilience, cognitive function, [comfort](keyword_comfort), [community](keyword_community), condition, coronavirus disease covid 19, [covid 19 pandemic](keyword_covid_19_pandemic), development, diet, [disease](keyword_disease), [economic](keyword_economic), economic outcome, [education](keyword_education), [energy](keyword_energy), [environment](keyword_environment), environmental, epidemiologist, [epidemiology](keyword_epidemiology), [europe](keyword_europe), exercise, family, fitness, food system, [garden](keyword_garden), [gardening](keyword_gardening), [green space](keyword_green_space), happiness, [health](keyword_health), [health care](keyword_health_care), health inequity, health manag, health outcome, health service, [health system](keyword_health_system), [healthcare](keyword_healthcare), healthcare personnel, healthcare professional, [healthcare system](keyword_healthcare_system), [hospital](keyword_hospital), [housing](keyword_housing), [human](keyword_human), hygiene, ill, [indoor environment](keyword_indoor_environment), [infection](keyword_infection), [infectious disease](keyword_infectious_disease), life expectancy, link, longevity, [medical](keyword_medical), medicine, [mental](keyword_mental), [nature](keyword_nature), nutrition, [occupant health](keyword_occupant_health), [pandemic](keyword_pandemic), performance, [physical](keyword_physical), pollution, population density, [prevention](keyword_prevention), preventive medicine, [productivity](keyword_productivity), [psychological](keyword_psychological), psychology, [public](keyword_public), [public health](keyword_public_health), public health directive, public health emergency, [research](keyword_research), [resilience](keyword_resilience), [risk](keyword_risk), [safety](keyword_safety), [sector](keyword_sector), [security](keyword_security), [social](keyword_social), socio demographic, [stress](keyword_stress), stressful life event, [sustainability](keyword_sustainability), [sustainable development](keyword_sustainable_development), theoretical, [urban green space](keyword_urban_green_space), water quality, welfare, [well be](keyword_well_be), [wellbee](keyword_wellbee), wellness, world health organisation, [world health organization](keyword_world_health_organization)
+ * [air pollution](keyword_air_pollution), air quality, [architecture](keyword_architecture), awada, behavior, [build](keyword_build), [build environment](keyword_build_environment), [care](keyword_care), [city](keyword_city), [climate change](keyword_climate_change), climate resilience, cognitive function, comfort, [community](keyword_community), condition, coronavirus disease covid 19, [covid 19 pandemic](keyword_covid_19_pandemic), development, diet, [disease](keyword_disease), [economic](keyword_economic), economic outcome, [education](keyword_education), [energy](keyword_energy), [environment](keyword_environment), [environmental](keyword_environmental), epidemiologist, [epidemiology](keyword_epidemiology), [europe](keyword_europe), exercise, family, fitness, food system, [garden](keyword_garden), [gardening](keyword_gardening), [green space](keyword_green_space), happiness, [health](keyword_health), [health care](keyword_health_care), health inequity, health manag, health outcome, health service, [health system](keyword_health_system), [healthcare](keyword_healthcare), healthcare personnel, healthcare professional, [healthcare system](keyword_healthcare_system), [hospital](keyword_hospital), [housing](keyword_housing), [human](keyword_human), hygiene, ill, [indoor environment](keyword_indoor_environment), [infection](keyword_infection), [infectious disease](keyword_infectious_disease), life expectancy, link, longevity, [medical](keyword_medical), medicine, [mental](keyword_mental), [nature](keyword_nature), nutrition, [occupant health](keyword_occupant_health), [pandemic](keyword_pandemic), performance, [physical](keyword_physical), [pollution](keyword_pollution), population density, [prevention](keyword_prevention), preventive medicine, [productivity](keyword_productivity), [psychological](keyword_psychological), psychology, [public](keyword_public), [public health](keyword_public_health), public health directive, public health emergency, [research](keyword_research), [resilience](keyword_resilience), [risk](keyword_risk), [safety](keyword_safety), [sector](keyword_sector), [security](keyword_security), [social](keyword_social), socio demographic, [stress](keyword_stress), stressful life event, [sustainability](keyword_sustainability), [sustainable development](keyword_sustainable_development), theoretical, [urban green space](keyword_urban_green_space), water quality, welfare, [well be](keyword_well_be), [wellbee](keyword_wellbee), wellness, world health organisation, [world health organization](keyword_world_health_organization)
 
 
 

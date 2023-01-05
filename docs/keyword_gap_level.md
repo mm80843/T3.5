@@ -1,10 +1,23 @@
-# Keyword: __gap level__
-
-## Concepts
-
- ![](imgs/keyword_gap_level.jpg)
+# Keyword: gap level
 
 
-## Top articles for __gap level__
-* How to Make Green Building Certification \&
-Rating Systems More Pandemic-Sustainable? ([ujikawa_how_2022](article_ujikawa_how_2022))
+## Keywords
+
+ * [gap level](keyword_gap_level), gap levels, health safety gap level, [subcategory](keyword_subcategory), [system](keyword_system)
+
+
+
+## Mapping
+
+<img src="plotly/keyword_gap_level.svg">
+
+
+## Neighbours
+
+### Closest articles
+
+* How to Make Green Building Certification &amp; Rating Systems More Pandemic-Sustainable? - [LINK](article_ujikawa_how_2022)
+
+
+### Closest BPs
+

@@ -1,17 +1,17 @@
 # Keyword: pcr
 
-* [wastewater-sars](cluster_Cluster_2)
+* [wastewater-water](cluster_0)
 
 
 ## Keywords
 
- * 440 ar gouilh, Cluster_2, ampliﬁe, analytical, antibody, ar gouilh, [assay](keyword_assay), cell culture, chain reaction, contaminant, [coronavirus](keyword_coronavirus), covid 19 detection, covid 19 outbreak, [covid-19](keyword_covid-19), cyclonic aerosol sampler, detect specific genetic material, detection method, diagnosis, diagnostic, diagnostic detection, digital, gel electrophoresis, [gene](keyword_gene), m gene, mean, measurement, nest, nest pcr, pandemic wave interval, [pcr](keyword_pcr), pcr product, pcr unit, [product](keyword_product), promoter, proteomic, qrt, rdrp, reverse transcription, [rna](keyword_rna), rt qpcr, [sar cov 2](keyword_sar_cov_2), sar cov 2 rdrp, [sar cov2](keyword_sar_cov2), sd, [sewage](keyword_sewage), signal, speciﬁc, speciﬁcity, target, tendency, [wastewater](keyword_wastewater), wastewater matrix, ﬁrst pcr
+ * 440 ar gouilh, Cluster_0, ampliﬁe, analytical, antibody, ar gouilh, [assay](keyword_assay), cell culture, chain reaction, contaminant, [coronavirus](keyword_coronavirus), covid 19 detection, covid 19 outbreak, [covid-19](keyword_covid-19), cyclonic aerosol sampler, detect specific genetic material, detection method, [diagnosis](keyword_diagnosis), diagnostic, diagnostic detection, [digital](keyword_digital), gel electrophoresis, [gene](keyword_gene), m gene, mean, measurement, nest, nest pcr, pandemic wave interval, [pcr](keyword_pcr), pcr product, pcr unit, product, promoter, proteomic, qrt, rdrp, reverse transcription, [rna](keyword_rna), rt qpcr, [sar cov 2](keyword_sar_cov_2), sar cov 2 rdrp, [sar cov2](keyword_sar_cov2), sd, [sewage](keyword_sewage), signal, speciﬁc, speciﬁcity, target, tendency, [wastewater](keyword_wastewater), wastewater matrix, ﬁrst pcr
 
 
-## Concepts
 
- ![](imgs/keyword_pcr.jpg)
+## Mapping
 
+<img src="plotly/keyword_pcr.svg">
 
 
 ## Neighbours

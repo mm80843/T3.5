@@ -1,17 +1,19 @@
 # Keyword: big
 
-* [surveying-mapping](cluster_Cluster_10)
+* [processing-wireless](cluster_13)
+
+* [surveying-drone](cluster_14)
 
 
 ## Keywords
 
- * Cluster_10, [big](keyword_big), [big datum](keyword_big_datum), small
+ * Cluster_13, Cluster_14, [big](keyword_big), [big datum](keyword_big_datum), small
 
 
-## Concepts
 
- ![](imgs/keyword_big.jpg)
+## Mapping
 
+<img src="plotly/keyword_big.svg">
 
 
 ## Neighbours

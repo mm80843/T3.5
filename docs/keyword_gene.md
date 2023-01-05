@@ -1,17 +1,17 @@
 # Keyword: gene
 
-* [wastewater-sars](cluster_Cluster_2)
+* [wastewater-water](cluster_0)
 
 
 ## Keywords
 
- * 16 rrna, Cluster_2, ace2, allele, amit seru, amromin, antibiotic resistance, [assay](keyword_assay), c2, c4, call of the wild, cdc primer, cell, cell equivalent, cep235, [chromosome](keyword_chromosome), [coronavirus](keyword_coronavirus), covid 19 s, [covid-19](keyword_covid-19), e_sarbeco_f1, e_sarbeco_r2, envelope gene, envelope protein, fragment, [gene](keyword_gene), gene fragment, gene marker, gene primer, gene sequence, genes, genet, genetic, genetic material, [genome](keyword_genome), genotypic, hemagglutinin, hepatitis c virus, hereditary, ifn gamma, [infection](keyword_infection), innate immune, ipvdhps, m gene, [medical](keyword_medical), n1 n3, n3, naat, non speciﬁc, nucleic acid, nucleocapsid, nucleoprotein, nucleoprotein gene, oncorhynchus keta, [ontology](keyword_ontology), orf1ab, organism, p12, [pcr](keyword_pcr), pcr product, primer probe set, probe set, protein, rdrp, resistance gene, [rna](keyword_rna), rrna, rtqpcr, [sar cov 2](keyword_sar_cov_2), sar cov 2 rna, sar cov 2 s, sar cov 2 speciﬁc, [sar cov2](keyword_sar_cov2), sarscov 2 speciﬁc, sequence, spike, tmprss2, v4 region, [vaccine](keyword_vaccine), [viral](keyword_viral), vo, [wastewater](keyword_wastewater), الnucleocapsid, الnucleocapsid n, ﬁnding
+ * 16 rrna, Cluster_0, ace2, allele, amit seru, amromin, antibiotic resistance, [assay](keyword_assay), c2, c4, call of the wild, cdc primer, cell, cell equivalent, cep235, [chromosome](keyword_chromosome), [coronavirus](keyword_coronavirus), covid 19 s, [covid-19](keyword_covid-19), e_sarbeco_f1, e_sarbeco_r2, envelope gene, envelope protein, fragment, [gene](keyword_gene), gene fragment, gene marker, gene primer, gene sequence, genes, genet, genetic, genetic material, [genome](keyword_genome), genotypic, hemagglutinin, hepatitis c virus, hereditary, ifn gamma, [infection](keyword_infection), innate immune, ipvdhps, m gene, [medical](keyword_medical), n1 n3, n3, naat, non speciﬁc, nucleic acid, nucleocapsid, nucleoprotein, nucleoprotein gene, oncorhynchus keta, [ontology](keyword_ontology), orf1ab, organism, p12, [pcr](keyword_pcr), pcr product, primer probe set, probe set, protein, rdrp, resistance gene, [rna](keyword_rna), rrna, rtqpcr, [sar cov 2](keyword_sar_cov_2), sar cov 2 rna, sar cov 2 s, sar cov 2 speciﬁc, [sar cov2](keyword_sar_cov2), sarscov 2 speciﬁc, sequence, spike, tmprss2, v4 region, [vaccine](keyword_vaccine), [viral](keyword_viral), vo, [wastewater](keyword_wastewater), الnucleocapsid, الnucleocapsid n, ﬁnding
 
 
-## Concepts
 
- ![](imgs/keyword_gene.jpg)
+## Mapping
 
+<img src="plotly/keyword_gene.svg">
 
 
 ## Neighbours

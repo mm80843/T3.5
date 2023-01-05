@@ -2,7 +2,7 @@
 
 * Source: [10.1126/science.abb6105](https://doi.org/10.1126/science.abb6105)
 * Year: 2020
-* Cluster: [china-case](cluster_5)
+* Cluster: [health-city](cluster_1)
 
 
 
@@ -25,16 +25,16 @@
 * Open-source analytics tools for studying the COVID-19 coronavirus outbreak - [LINK](article_wu_open-source_2020)
 *  - [LINK](article_mehtab_alam_role_2021)
 * Study of COVID-19 pandemic in London (UK) from urban context - [LINK](article_ghosh_study_2020)
+* Coronavirus: Can artificial intelligence be smart enough to detect fake news? - [LINK](article_tong_coronavirus_2020)
 * Climate and the spread of COVID-19 - [LINK](article_chen_climate_2021)
+* Infodemic and the spread of fake news in the COVID-19-era - [LINK](article_orso_infodemic_2020)
+* COVID-19 misinformation: Accuracy of articles about coronavirus prevention mostly shared on social media - [LINK](article_obiala_covid-19_2021)
 * Effects of temperature and humidity on the spread of COVID-19: A systematic review - [LINK](article_mecenas_effects_2020)
-* Mechanistic insights into the effect of humidity on airborne influenza virus survival, transmission and incidence - [LINK](article_marr_mechanistic_2019)
-* Coronavirus disease 2019: The harms of exaggerated information and non‐evidence‐based measures - [LINK](article_ioannidis_coronavirus_2020)
-* Overview of the mitigation strategies for COVID-19 pandemic - [LINK](article_ads_overview_2020)
-* Contributions to the mitigation of the COVID-19 pandemic - [LINK](article_pilz_contributions_2022)
+* Covid-19 and community mitigation strategies in a pandemic - [LINK](article_ebrahim_covid-19_2020)
 
 
 ### Closest BPs
 
-* Blueprint: Monitoring of wastewater - [LINK](bp_21)
 * Blueprint: Resilience in staffing and skills training - [LINK](bp_12)
+* Blueprint: Installing UV in ductwork - [LINK](bp_10)
 * Blueprint: Negative pressure rooms - [LINK](bp_13)

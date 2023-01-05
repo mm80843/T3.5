@@ -1,11 +1,11 @@
 # Keyword: apartment
 
-* [housing-space](cluster_14)
+* [space-housing](cluster_4)
 
 
 ## Keywords
 
- * 80 m2, Cluster_14, airflow, [apartment](keyword_apartment), apartments, [balcony](keyword_balcony), bathroom, bedroom design, [build](keyword_build), building level, [city](keyword_city), construction phase, farm, flat, four room, four room apartment, hallway, [home](keyword_home), home interior, [house](keyword_house), [housing](keyword_housing), housing issue, housing more than 4 people, housing typology, indoor area, layout, live space, living room, mid rise, multifamily, open space, partition between room, prospect refuge condition, [residential](keyword_residential), [room](keyword_room), semi open, single house, studio, summer house, superposed apartments, the apartment, two bedroom, type of housing, unit, wall up, [window](keyword_window)
+ * 80 m2, Cluster_4, airflow, [apartment](keyword_apartment), apartments, [balcony](keyword_balcony), bathroom, bedroom design, [build](keyword_build), building level, [city](keyword_city), construction phase, farm, flat, four room, four room apartment, hallway, [home](keyword_home), home interior, [house](keyword_house), [housing](keyword_housing), housing issue, housing more than 4 people, housing typology, indoor area, layout, live space, living room, mid rise, multifamily, open space, partition between room, prospect refuge condition, [residential](keyword_residential), [room](keyword_room), semi open, single house, studio, summer house, superposed apartments, the apartment, two bedroom, type of housing, unit, wall up, [window](keyword_window)
 
 
 

@@ -1,11 +1,11 @@
 # Keyword: device
 
-* [datum-iot](cluster_4)
+* [iot-blockchain](cluster_7)
 
 
 ## Keywords
 
- * Cluster_4, aircleane, [algorithm](keyword_algorithm), appliance, browser, cell, cell user, co location testing, consumer air cleaning, consumer air cleaning device, contact datum, data bank, [device](keyword_device), devices, electricity, every device, fet biosensor, gadget, hardware, household appliance, [hvac](keyword_hvac), [infrastructure](keyword_infrastructure), integrate, integrate system, internet connection, [internet of thing](keyword_internet_of_thing), [iot](keyword_iot), iot sensor, microphone, [monitor](keyword_monitor), [network](keyword_network), operation, outdoor air, power, router, [sensor](keyword_sensor), [service](keyword_service), set, smart device, [system](keyword_system), [technology](keyword_technology), terminal, test device, type of device, user, voice control, voice control device, wearable, wearable device
+ * Cluster_7, aircleane, [algorithm](keyword_algorithm), appliance, browser, cell, cell user, co location testing, consumer air cleaning, consumer air cleaning device, contact datum, data bank, [device](keyword_device), devices, electricity, every device, fet biosensor, gadget, hardware, household appliance, [hvac](keyword_hvac), [infrastructure](keyword_infrastructure), integrate, integrate system, internet connection, [internet of thing](keyword_internet_of_thing), [iot](keyword_iot), iot sensor, microphone, [monitor](keyword_monitor), [network](keyword_network), operation, outdoor air, [power](keyword_power), router, [sensor](keyword_sensor), [service](keyword_service), set, smart device, [system](keyword_system), [technology](keyword_technology), terminal, test device, type of device, [user](keyword_user), voice control, voice control device, [wearable](keyword_wearable), wearable device
 
 
 

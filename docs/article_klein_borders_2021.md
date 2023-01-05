@@ -2,7 +2,7 @@
 
 * Source: [10.30722/anzjes.vol12.iss2.15071](https://doi.org/10.30722/anzjes.vol12.iss2.15071)
 * Year: 2021
-* Cluster: [construction-pandemic](cluster_1)
+* Cluster: [health-city](cluster_1)
 
 
 
@@ -21,19 +21,20 @@
 
 ### Closest articles
 
-* How drones help cities during the Covid-19 pandemic \textbar TheMayor.EU - [LINK](article_dimitrova_how_2021)
-* 2020 Data Protection Report - [LINK](article_council_of_europe_2020_2020)
-* Challenges of data sharing in European Covid-19 projects: A learning opportunity for advancing pandemic preparedness and response - [LINK](article_tacconelli_challenges_2022)
-* Understanding the role of urban design in disease spreading - [LINK](article_brizuela_understanding_2019)
-* <scp>COVID</scp>             ‐19: Small and medium enterprises challenges and responses with creativity, innovation, and entrepreneurship - [LINK](article_thukral_covid19_2021)
-* Startups in times of crisis – A rapid response to the COVID-19 pandemic - [LINK](article_kuckertz_startups_2020)
+* World Bank Development Report - [LINK](article_world_bank_world_2022)
 * COVID-19 and regional solutions for mitigating the risk of SME finance in selected ASEAN member states - [LINK](article_taghizadeh-hesary_covid-19_2022)
-* Drones. Disinfecting robots. Supercomputers. The coronavirus outbreak is a test for China's tech industry \textbar CNN Business - [LINK](article_wang_drones_2020)
-* Strengthening resilience: a priority shared by Health 2020 and - [LINK](article_who_strengthening_2017)
+* DfMA for rapid adaptive resilience and flexible infrastructure - [LINK](article_mott_macdonald_dfma_2020)
+* <scp>COVID</scp>             ‐19: Small and medium enterprises challenges and responses with creativity, innovation, and entrepreneurship - [LINK](article_thukral_covid19_2021)
+* Navigating Climate Change: Rethinking the Role of Buildings - [LINK](article_cole_navigating_2020)
+* COVID-19 risks and systemic gaps in Nigeria: resilience building lessons for pandemic and climate change management - [LINK](article_lawal_covid-19_2022)
+* Startups in times of crisis – A rapid response to the COVID-19 pandemic - [LINK](article_kuckertz_startups_2020)
+* Covid-19 and asset management in EU: a preliminary assessment of performance and investment styles - [LINK](article_rizvi_covid-19_2020)
+* Building sustainable finance for resilient protected and conserved areas: lessons from COVID-19 - [LINK](article_cumming_building_2021)
+* What our response to the COVID-19 pandemic tells us of our capacity to respond to climate change - [LINK](article_gemenne_what_2020)
 
 
 ### Closest BPs
 
 * Blueprint: Smart Locker System - [LINK](bp_1)
-* Blueprint: Monitoring of wastewater - [LINK](bp_21)
 * Blueprint: Resilience in staffing and skills training - [LINK](bp_12)
+* Blueprint: Rotational Shift System - [LINK](bp_0)

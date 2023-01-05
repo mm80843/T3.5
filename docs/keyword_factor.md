@@ -1,31 +1,34 @@
-# Keyword: __factor__
-## Clusters
+# Keyword: factor
 
-* Cluster 7: [tourism-tourist](cluster_7)
-
-## Concepts
-
- ![](imgs/keyword_factor.jpg)
+* [obesity-county](cluster_9)
 
 
-## Top 10 articles for __factor__
-* Should I Stay or Should I Go? Tourists’
-COVID-19 Risk Perception and Vacation Behavior
-Shift ([bratic_should_2021](article_bratic_should_2021))
-* The Intelligent Lockdown: Compliance with COVID-19
-Mitigation Measures in the Netherlands ([kuiper_intelligent_2020](article_kuiper_intelligent_2020))
-* who_strengthening_2017 ([who_strengthening_2017](article_who_strengthening_2017))
-* Compliance with COVID-19 Mitigation Measures in the
-United States ([van_rooij_compliance_2020](article_van_rooij_compliance_2020))
-* What drives unverified information sharing and
-cyberchondria during the COVID-19 pandemic? ([laato_what_2020](article_laato_what_2020))
-* COVID-19 and regional solutions for mitigating the risk
-of SME finance in selected ASEAN member states ([taghizadeh-hesary_covid-19_2022](article_taghizadeh-hesary_covid-19_2022))
-* COVID-19 and Green Housing: A Review of
-Relevant Literature ([kaklauskas_covid-19_2021](article_kaklauskas_covid-19_2021))
-* The COVID-19 pandemic: Impacts on cities and major
-lessons for urban planning, design, and management ([sharifi_covid-19_2020](article_sharifi_covid-19_2020))
-* Mapping research in logistics and supply chain management
-during COVID-19 pandemic ([montoya-torres_mapping_2021](article_montoya-torres_mapping_2021))
-* Effects of temperature and humidity on the spread of
-COVID-19: A systematic review ([mecenas_effects_2020](article_mecenas_effects_2020))
+## Keywords
+
+ * Cluster_9, age, alcohol consumption, [anxiety](keyword_anxiety), assumption, borreliacidal, [build environment](keyword_build_environment), build environment change, business environment, characteristic of the household, cluster, cognitive load, [compliance](keyword_compliance), compliance with the measure, component, confound, confound factor, consumer preference, [control](keyword_control), [county](keyword_county), cumulative exposure, default risk ratio, [demographic](keyword_demographic), disruption, dynamic of the pandemic, early warning system, [ecosystem](keyword_ecosystem), [exposure](keyword_exposure), [factor](keyword_factor), factor analysis, factoring, factors, [flourish](keyword_flourish), gender, green route, [health](keyword_health), health risk, housing preference, hum hum, impulsivity, [infection](keyword_infection), intervention strategy, iq, kap, level of danger, meteorological, method factor, occupation status, option, [pandemic](keyword_pandemic), policy making, politicalorientation, primary construction area, productivity productivity, [quantile](keyword_quantile), receptor, reliability, [resilience](keyword_resilience), respiratory droplet, reverse factoring, [risk](keyword_risk), risk of getting infect, rotation, [route](keyword_route), significant, significant effect, smoking, statistic, subjective, subtheme, temperature dependent of rate change, uncertainty, [variable](keyword_variable), variance, vif, [vulnerability](keyword_vulnerability), weather, weight
+
+
+
+## Mapping
+
+<img src="plotly/keyword_factor.svg">
+
+
+## Neighbours
+
+### Closest articles
+
+* Should I Stay or Should I Go? Tourists’ COVID-19 Risk Perception and Vacation Behavior Shift - [LINK](article_bratic_should_2021)
+* Strengthening resilience: a priority shared by Health 2020 and - [LINK](article_who_strengthening_2017)
+* What drives unverified information sharing and cyberchondria during the COVID-19 pandemic? - [LINK](article_laato_what_2020)
+* COVID-19 and regional solutions for mitigating the risk of SME finance in selected ASEAN member states - [LINK](article_taghizadeh-hesary_covid-19_2022)
+* Effects of temperature and humidity on the spread of COVID-19: A systematic review - [LINK](article_mecenas_effects_2020)
+* The Intelligent Lockdown: Compliance with COVID-19 Mitigation Measures in the Netherlands - [LINK](article_kuiper_intelligent_2020)
+* Compliance with COVID-19 Mitigation Measures in the United States - [LINK](article_van_rooij_compliance_2020)
+* Revisiting the built environment: 10 potential development changes and paradigm shifts due to COVID-19 - [LINK](article_cheshmehzangi_revisiting_2021)
+* Treating two pandemics for the price of one: Chronic and infectious disease impacts of the built and natural environment - [LINK](article_frank_treating_2021)
+* Review and comparison of HVAC operation guidelines in different countries during the COVID-19 pandemic - [LINK](article_guo_review_2021)
+
+
+### Closest BPs
+

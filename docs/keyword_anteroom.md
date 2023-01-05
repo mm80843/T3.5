@@ -1,17 +1,15 @@
 # Keyword: anteroom
 
-* [ward-patient](cluster_Cluster_15)
-
 
 ## Keywords
 
- * Cluster_15, [aerosol](keyword_aerosol), [aiir](keyword_aiir), airborne infection isolation room, aniir, [anteroom](keyword_anteroom), anterooms, [bed](keyword_bed), [build](keyword_build), clean corridor, [corridor](keyword_corridor), [design](keyword_design), fifth floor ward, hepa filter, [hospital](keyword_hospital), hospital room, [infection control](keyword_infection_control), infection isolation, infection isolation room, isolation room, partition, partition anteroom, patient room, pe, protect space, psychiatric hospital, public area, restroom, [room](keyword_room), ventilation air, [ward](keyword_ward)
+ * [aerosol](keyword_aerosol), [aiir](keyword_aiir), airborne infection isolation room, aniir, [anteroom](keyword_anteroom), anterooms, bed, [build](keyword_build), clean corridor, [corridor](keyword_corridor), [design](keyword_design), fifth floor ward, hepa filter, [hospital](keyword_hospital), [infection control](keyword_infection_control), infection isolation, infection isolation room, isolation room, partition, partition anteroom, patient room, pe, protect space, psychiatric hospital, public area, restroom, [room](keyword_room), ventilation air, [ward](keyword_ward)
 
 
-## Concepts
 
- ![](imgs/keyword_anteroom.jpg)
+## Mapping
 
+<img src="plotly/keyword_anteroom.svg">
 
 
 ## Neighbours
@@ -27,6 +25,7 @@
 * A critical review of heating, ventilation, and air conditioning (HVAC) systems within the context of a global SARS-CoV-2 epidemic - [LINK](article_elsaid_critical_2021)
 * Review and comparison of HVAC operation guidelines in different countries during the COVID-19 pandemic - [LINK](article_guo_review_2021)
 * 2019 Novel Coronavirus (COVID-19) Pandemic: Built Environment Considerations To Reduce Transmission - [LINK](article_dietz_2019_2020)
+* A review of facilities management interventions to mitigate respiratory infections in existing buildings - [LINK](article_zhang_review_2022)
 
 
 ### Closest BPs

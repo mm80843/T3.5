@@ -1,17 +1,17 @@
 # Keyword: rna
 
-* [wastewater-sars](cluster_Cluster_2)
+* [wastewater-water](cluster_0)
 
 
 ## Keywords
 
- * Cluster_2, SARS-CoV-2, a virus, [aerosol](keyword_aerosol), concentration, control sampler, copy, [covid-19](keyword_covid-19), dna, fece, [gene](keyword_gene), [genome](keyword_genome), gram, high throughput qpcr, [italy](keyword_italy), monte carlo simulation, nest rt pcr assay, nucleic acid, nucleocapsid, nucleoside, [pcr](keyword_pcr), phage, protein, protein synthesis, quantitative viral, reverse transcription polymerase chain reaction, [rna](keyword_rna), rna extraction, rnas, rt qpcr, [sample](keyword_sample), [sar cov 2](keyword_sar_cov_2), sar cov 2 rna, sars coronavirus 2, sars cov 90 2, single stranded virus, standard curve dna, stool, [viral](keyword_viral), virulence, [virus](keyword_virus), [wastewater](keyword_wastewater)
+ * Cluster_0, SARS-CoV-2, a virus, [aerosol](keyword_aerosol), [concentration](keyword_concentration), control sampler, copy, [covid-19](keyword_covid-19), dna, fece, [gene](keyword_gene), [genome](keyword_genome), gram, high throughput qpcr, [italy](keyword_italy), monte carlo simulation, nest rt pcr assay, nucleic acid, nucleocapsid, nucleoside, [pcr](keyword_pcr), phage, protein, protein synthesis, quantitative viral, reverse transcription polymerase chain reaction, [rna](keyword_rna), rna extraction, rnas, rt qpcr, [sample](keyword_sample), [sar cov 2](keyword_sar_cov_2), sar cov 2 rna, sars coronavirus 2, sars cov 90 2, single stranded virus, standard curve dna, stool, [viral](keyword_viral), virulence, [virus](keyword_virus), [wastewater](keyword_wastewater)
 
 
-## Concepts
 
- ![](imgs/keyword_rna.jpg)
+## Mapping
 
+<img src="plotly/keyword_rna.svg">
 
 
 ## Neighbours

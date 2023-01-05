@@ -1,9 +1,23 @@
-# Keyword: __live streaming__
-
-## Concepts
-
- ![](imgs/keyword_live_streaming.jpg)
+# Keyword: live streaming
 
 
-## Top articles for __live streaming__
-* yan_10_2020 ([yan_10_2020](article_yan_10_2020))
+## Keywords
+
+ * business model, e commerce, [live streaming](keyword_live_streaming), online shopping, product selection, shop in china, stream
+
+
+
+## Mapping
+
+<img src="plotly/keyword_live_streaming.svg">
+
+
+## Neighbours
+
+### Closest articles
+
+* Touchless Retail: What the Rest of the World could learn from China’s new ways to shop - [LINK](article_capgemini_touchless_2020)
+
+
+### Closest BPs
+

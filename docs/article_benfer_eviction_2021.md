@@ -2,7 +2,7 @@
 
 * Source: [10.1007/s11524-020-00502-1](https://doi.org/10.1007/s11524-020-00502-1)
 * Year: 2021
-* Cluster: [air-sars](cluster_9)
+* Cluster: [health-city](cluster_1)
 
 
 
@@ -23,18 +23,17 @@
 
 * Dangerous liaisons? Applying the social harm perspective to the social inequality, housing and health trifecta during the Covid-19 pandemic - [LINK](article_gurney_dangerous_2021)
 * Public housing and COVID-19: contestation, challenge and change - [LINK](article_power_public_2020)
+* Understanding the role of urban design in disease spreading - [LINK](article_brizuela_understanding_2019)
 * Housing Experience in Gated Communities in the Time of Pandemics: Lessons Learned from COVID-19 - [LINK](article_asfour_housing_2022)
-* Urban Community Sustainable Development Patterns under the Influence of COVID-19: A Case Study Based on the Non-Contact Interaction Perspective of Hangzhou City - [LINK](article_wang_urban_2021)
-* Assessment of COVID-19 precautionary measures in sports facilities: A case study on a health club in Saudi Arabia - [LINK](article_ibrahim_assessment_2022)
-* Social distancing enhanced automated optimal design of physical spaces in the wake of the COVID-19 pandemic - [LINK](article_ugail_social_2021)
-* Questioning the use of the balcony in apartments during the COVID-19 pandemic process - [LINK](article_aydin_questioning_2020)
-* Risk Diagnosis and Mitigation System of COVID-19 Using Expert System and Web Scraping - [LINK](article_mufid_risk_2020)
+* The City Under COVID‐19: Podcasting As Digital Methodology - [LINK](article_rogers_city_2020)
 * A Mixed Approach on Resilience of Spanish Dwellings and Households during COVID-19 Lockdown - [LINK](article_cuerdo-vilches_mixed_2020)
-* Towards the sustainable development of smart cities through mass video surveillance: A response to the COVID-19 pandemic - [LINK](article_shorfuzzaman_towards_2021)
+* Questioning the use of the balcony in apartments during the COVID-19 pandemic process - [LINK](article_aydin_questioning_2020)
+* Urban design attributes and resilience: COVID-19 evidence from New York City - [LINK](article_yang_urban_2021)
+* Urban Community Sustainable Development Patterns under the Influence of COVID-19: A Case Study Based on the Non-Contact Interaction Perspective of Hangzhou City - [LINK](article_wang_urban_2021)
 
 
 ### Closest BPs
 
-* Blueprint: Tracking and enforcing use of Personal Protective Equipment - [LINK](bp_23)
 * Blueprint: Resilience in staffing and skills training - [LINK](bp_12)
-* Blueprint: Architecture design - [LINK](bp_2)
+* Blueprint: Monitoring of wastewater - [LINK](bp_21)
+* Blueprint: Installing high-efficiency air filters - [LINK](bp_11)

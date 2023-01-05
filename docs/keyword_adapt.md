@@ -1,17 +1,17 @@
 # Keyword: adapt
 
-* [surveying-mapping](cluster_Cluster_10)
+* [surveying-drone](cluster_13)
 
 
 ## Keywords
 
- * Cluster_10, absorb, [adapt](keyword_adapt), adapted, adapting, anticipate, [change](keyword_change), change their response and practice, change time, [climate change](keyword_climate_change), [covid-19](keyword_covid-19), cross cult, evolve, expertise, language, manage, [pandemic](keyword_pandemic), [plan](keyword_plan), practice, prepare, remix, [resilience](keyword_resilience), resist change, survive, [technology](keyword_technology), transform, update
+ * Cluster_13, absorb, [adapt](keyword_adapt), adapted, adapting, anticipate, [change](keyword_change), change their response and practice, change time, [climate change](keyword_climate_change), [covid-19](keyword_covid-19), cross cult, evolve, expertise, language, manage, [pandemic](keyword_pandemic), [plan](keyword_plan), [practice](keyword_practice), prepare, remix, [resilience](keyword_resilience), resist change, survive, [technology](keyword_technology), transform, update
 
 
-## Concepts
 
- ![](imgs/keyword_adapt.jpg)
+## Mapping
 
+<img src="plotly/keyword_adapt.svg">
 
 
 ## Neighbours

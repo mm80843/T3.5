@@ -2,7 +2,7 @@
 
 * Source: [10.14745/ccdr.v42i10a05](https://doi.org/10.14745/ccdr.v42i10a05)
 * Year: 2016
-* Cluster: [urban-city](cluster_6)
+* Cluster: [health-city](cluster_1)
 
 
 
@@ -27,14 +27,14 @@
 * The impact of climate change on the epidemiology and control of Rift Valley fever - PubMed - [LINK](article_martin_impact_2008)
 * Prototype Early Warning Systems for Vector-Borne Diseases in Europe - [LINK](article_semenza_prototype_2015)
 * Addressing vulnerability, building resilience: community-based adaptation to vector-borne diseases in the context of global change - [LINK](article_bardosh_addressing_2017)
+* Learning from pandemics: Applying resilience thinking to identify priorities for planning urban settlements - [LINK](article_syal_learning_2021)
 * Decision Making within the Built Environment as a Strategy for Mitigating the Risk of Malaria and Other Vector-Borne Diseases - [LINK](article_obonyo_decision_2018)
 * Integrating rapid risk mapping and mobile phone call record data for strategic malaria elimination planning - [LINK](article_tatem_integrating_2014)
-* Green infrastructure through the lens of “One Health”: A systematic review and integrative framework uncovering synergies and trade-offs between mental health and wildlife support in cities - [LINK](article_felappi_green_2020)
-* Urban Green Infrastructure and Green Open Spaces: An Issue of Social Fairness in Times of COVID-19 Crisis - [LINK](article_reinwald_urban_2021)
+* COVID-19 Pandemic: Rethinking Strategies for Resilient Urban Design, Perceptions, and Planning - [LINK](article_afrin_covid-19_2021)
 
 
 ### Closest BPs
 
-* Blueprint: Mental health – Act: Do something - [LINK](bp_18)
-* Blueprint: Mental health – Belong: Do something with someone - [LINK](bp_19)
-* Blueprint: Mental health – Commit: Do something meaningfull - [LINK](bp_20)
+* Blueprint: Monitoring of wastewater - [LINK](bp_21)
+* Blueprint: Air Cleaning Plants - [LINK](bp_15)
+* Blueprint: Indoor Environmental Quality (IEQ) monitoring system - [LINK](bp_3)

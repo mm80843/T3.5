@@ -1,17 +1,17 @@
 # Keyword: crowd
 
-* [memish-saudi](cluster_Cluster_8)
+* [space-cid](cluster_2)
 
 
 ## Keywords
 
- * Cluster_8, a policy emerge to preventovercrowde, a policy emerge to preventoversovercrowde, adverse health outcome, bug, carnival, congestion, [coronavirus](keyword_coronavirus), [covid-19](keyword_covid-19), [crowd](keyword_crowd), crowd place, crowded, crowding, crowds, datum analytic, densely populate, density, distance measure, expose couple with a microscopic crowd model, group, high density, hotspot, housing neglect, indoor space, [infection](keyword_infection), kuda, physical distancing norm, [policy](keyword_policy), soothe vr, spatial disparity, urban density, urban geography
+ * Cluster_2, a policy emerge to preventovercrowde, a policy emerge to preventoversovercrowde, adverse health outcome, bug, carnival, congestion, [coronavirus](keyword_coronavirus), [covid-19](keyword_covid-19), [crowd](keyword_crowd), crowd place, crowded, crowding, crowds, datum analytic, densely populate, [density](keyword_density), distance measure, expose couple with a microscopic crowd model, group, high density, hotspot, housing neglect, indoor space, [infection](keyword_infection), kuda, [policy](keyword_policy), soothe vr, urban density, urban geography
 
 
-## Concepts
 
- ![](imgs/keyword_crowd.jpg)
+## Mapping
 
+<img src="plotly/keyword_crowd.svg">
 
 
 ## Neighbours

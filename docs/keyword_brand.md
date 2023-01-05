@@ -1,17 +1,17 @@
 # Keyword: brand
 
-* [customer-brand](cluster_Cluster_8)
+* [business-customer](cluster_11)
 
 
 ## Keywords
 
- * Cluster_8, advertisement, advertising, arby s, association, attitude of a brand, authentic, authenticity, awareness, benefit, [brand](keyword_brand), brand association, brand equity, brand image, brand name, brand relationship, brands, category, coconsume, community practice, [consumer](keyword_consumer), consumer trust, corporate advertisement, [covid-19](keyword_covid-19), different, employment, enrico ronchi, experience, expose, familiarity, financial institution, food service, goodwill, green brand image, green image, help brand, hyperpersonalisation, identify, logo, luxury, manufacturer, marketer, [marketing](keyword_marketing), marketing communication, neiman marcus, pier one, product, promote, recognize, [retailer](keyword_retailer), sell, [service](keyword_service), signal, signal of quality, smart marketing, stoppe, stoppe røgudvikle, store brand, studio, sub branding, trustworthiness, uber, unique association, value
+ * Cluster_11, advertisement, advertising, arby s, [association](keyword_association), attitude of a brand, authentic, authenticity, awareness, benefit, [brand](keyword_brand), brand association, brand equity, brand image, brand name, brand relationship, brands, category, coconsume, community practice, [consumer](keyword_consumer), consumer trust, corporate advertisement, [covid-19](keyword_covid-19), different, [employment](keyword_employment), enrico ronchi, [experience](keyword_experience), [expose](keyword_expose), familiarity, food service, goodwill, green brand image, green image, help brand, hyperpersonalisation, [identify](keyword_identify), logo, luxury, manufacturer, marketer, [marketing](keyword_marketing), marketing communication, neiman marcus, pier one, product, promote, recognize, [retailer](keyword_retailer), sell, [service](keyword_service), signal, smart marketing, stoppe, stoppe røgudvikle, store brand, studio, sub branding, trustworthiness, uber, unique association, value
 
 
-## Concepts
 
- ![](imgs/keyword_brand.jpg)
+## Mapping
 
+<img src="plotly/keyword_brand.svg">
 
 
 ## Neighbours

@@ -2,7 +2,7 @@
 
 * Source: [10.1016/j.scitotenv.2020.141589](https://doi.org/10.1016/j.scitotenv.2020.141589)
 * Year: 2020
-* Cluster: [urban-city](cluster_6)
+* Cluster: [space-housing](cluster_4)
 
 
 
@@ -22,19 +22,19 @@
 ### Closest articles
 
 * Urban Green Infrastructure and Green Open Spaces: An Issue of Social Fairness in Times of COVID-19 Crisis - [LINK](article_reinwald_urban_2021)
-* Urban form: Realising the value of green space: a planners’ perspective on the COVID-19 pandemic - [LINK](article_ahmadpoor_urban_2021)
 * The impact of the COVID-19 pandemic on the importance of urban green spaces to the public - [LINK](article_noszczyk_impact_2022)
+* Urban form: Realising the value of green space: a planners’ perspective on the COVID-19 pandemic - [LINK](article_ahmadpoor_urban_2021)
 * The role of green roofs in post COVID-19 confinement: An analysis of willingness to pay - [LINK](article_manso_role_2021)
 * Effects of the COVID-19 pandemic on the use and perceptions of urban green space: An international exploratory study - [LINK](article_ugolini_effects_2020)
-* Association between indoor-outdoor green features and psychological health during the COVID-19 lockdown in Italy: A cross-sectional nationwide study - [LINK](article_spano_association_2021)
 * Green in times of COVID-19: urban green space relevance during the COVID-19 pandemic in Buenos Aires City - [LINK](article_marconi_green_2022)
+* Association between indoor-outdoor green features and psychological health during the COVID-19 lockdown in Italy: A cross-sectional nationwide study - [LINK](article_spano_association_2021)
+* The Impact of COVID-19 on Public Space: A Review of the Emerging Questions - [LINK](article_honey-roses_impact_2020)
 * Green spaces, especially forest, linked to lower SARS-CoV-2 infection rates: A one-year nationwide study - [LINK](article_jiang_green_2021)
-* Making green infrastructure healthier infrastructure - [LINK](article_lohmus_making_2015)
-* Global policy challenges for urban vector-borne disease risks - [LINK](article_alabaster_global_2016)
+* Impact of Covid-19 on the built environment - [LINK](article_mahima_impact_2022)
 
 
 ### Closest BPs
 
-* Blueprint: Mental health – Act: Do something - [LINK](bp_18)
-* Blueprint: Mental health – Belong: Do something with someone - [LINK](bp_19)
-* Blueprint: Mental health – Commit: Do something meaningfull - [LINK](bp_20)
+* Blueprint: Monitoring of wastewater - [LINK](bp_21)
+* Blueprint: Resilience in staffing and skills training - [LINK](bp_12)
+* Blueprint: Air Cleaning Plants - [LINK](bp_15)

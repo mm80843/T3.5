@@ -1,17 +1,15 @@
 # Keyword: podcast
 
-* [podcast-audio](cluster_Cluster_7)
-
 
 ## Keywords
 
- * Cluster_7, [academic](keyword_academic), applepodcast, audio output, audio recording, audio series, communication medium, [covid-19](keyword_covid-19), curate, curate production, curate production of the podcast, dallas and mile, googledoc, home health, [listen](keyword_listen), listen to, methodology, micro public, [podcast](keyword_podcast), podcast editing framework, podcast production process, podcasting, podcasts, production process, qualitative research, radio maker, radio show, storytelle, the podcast project, urban study, webinar
+ * academic, applepodcast, audio output, audio recording, audio series, communication medium, [covid-19](keyword_covid-19), curate, curate production, curate production of the podcast, dallas and mile, googledoc, home health, listen, listen to, methodology, micro public, [podcast](keyword_podcast), podcast editing framework, podcast production process, podcasting, podcasts, production process, qualitative research, radio maker, radio show, storytelle, the podcast project, urban study, webinar
 
 
-## Concepts
 
- ![](imgs/keyword_podcast.jpg)
+## Mapping
 
+<img src="plotly/keyword_podcast.svg">
 
 
 ## Neighbours

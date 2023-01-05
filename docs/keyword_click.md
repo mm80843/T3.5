@@ -1,17 +1,17 @@
 # Keyword: click
 
-* [surveying-mapping](cluster_Cluster_10)
+* [surveying-drone](cluster_13)
 
 
 ## Keywords
 
- * Cluster_10, available button, [click](keyword_click)
+ * Cluster_13, available button, [click](keyword_click)
 
 
-## Concepts
 
- ![](imgs/keyword_click.jpg)
+## Mapping
 
+<img src="plotly/keyword_click.svg">
 
 
 ## Neighbours

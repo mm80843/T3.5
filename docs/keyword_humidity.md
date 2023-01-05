@@ -1,11 +1,11 @@
 # Keyword: humidity
 
-* [china-case](cluster_5)
+* [air-uv](cluster_10)
 
 
 ## Keywords
 
- * 80 humidity, Cluster_5, [aerosol](keyword_aerosol), air condition, air cooling, air quality, air temperature, airflow, ambient air, ambient air temperature, atmosphere, azuma, [build](keyword_build), cli matic, [climate](keyword_climate), climatic condition, climatic indicator, climatic variable, coronavirus aerosol, covid 19 transmission, [covid-19](keyword_covid-19), dehumidify, drier, drier condition, dry air, engineering control, evaporation, heat, heat index, humid climate, humider air, humidities, [humidity](keyword_humidity), humidity subj ofventilation, indoor air, indoor air condition, indoor temperature, intermediate humidity, low humidity, meteorological, mh1, mid range, mild to low humidity, mold, population density, relative, relative humidity, relative relativehumidity, relativehumidity, respirable, rh, [sensor](keyword_sensor), setpoint, specific humidity, spread of the virus, [temperature](keyword_temperature), time series analysis, type, type of humidity, uvgi system, virus propagation, virus survival, [water](keyword_water), water evaporation, weather, weather condition, weather factor, weather variable, wetter climate, wind speed
+ * 80 humidity, Cluster_10, [aerosol](keyword_aerosol), air condition, air cooling, air quality, air temperature, airflow, ambient air, ambient air temperature, atmosphere, azuma, [build](keyword_build), cli matic, [climate](keyword_climate), climatic condition, climatic indicator, climatic variable, coronavirus aerosol, covid 19 transmission, [covid-19](keyword_covid-19), dehumidify, drier, drier condition, dry air, engineering control, evaporation, heat, heat index, humid climate, humider air, humidities, [humidity](keyword_humidity), humidity subj ofventilation, indoor air, indoor air condition, indoor temperature, intermediate humidity, low humidity, meteorological, mh1, mid range, mild to low humidity, mold, population density, relative, relative humidity, relative relativehumidity, relativehumidity, respirable, [rh](keyword_rh), [sensor](keyword_sensor), setpoint, specific humidity, spread of the virus, [temperature](keyword_temperature), time series analysis, [type](keyword_type), type of humidity, uvgi system, virus propagation, virus survival, [water](keyword_water), water evaporation, weather, weather condition, weather factor, weather variable, wetter climate, wind speed
 
 
 

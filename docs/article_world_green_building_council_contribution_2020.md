@@ -2,13 +2,13 @@
 
 * [https://www.worldgbc.org/news-media/contribution-green-buildings-fight-against-covid-19](https://www.worldgbc.org/news-media/contribution-green-buildings-fight-against-covid-19)
 * Year: 2020
-* Cluster: [building-energy](cluster_2)
+* Cluster: [building-design](cluster_5)
 
 
 
 ## Keywords
 
- * accessibility, [air](keyword_air), air quality, ammonia, [antiviral](keyword_antiviral), asgb, asgb certification, benzene, [build](keyword_build), build base prevention and control, [building](keyword_building), building base, building technology, building technology in china, [china](keyword_china), contain the epidemic, contribution green building fight against covid 19, contributiongreen building fight against covid 19, [control](keyword_control), cookie policy, coronavirus disease, coronavirus disease covid 19, covid 19 prevention and control, [covid-19](keyword_covid-19), cross infection, [disease](keyword_disease), [drug](keyword_drug), [epidemic](keyword_epidemic), epidemic prevention and control, [facebook](keyword_facebook), fitzrovia, [formaldehyde](keyword_formaldehyde), gather, gather base, [green building](keyword_green_building), green building council, green building in the fight against covid 19, green development, [health](keyword_health), health performance of building, immunity, [infection](keyword_infection), [lockdown](keyword_lockdown), [london](keyword_london), major public health emergency, [medium](keyword_medium), medium centre, new technology, newman st, [news](keyword_news), news medium, particulate matter, [pollutant](keyword_pollutant), [prevention](keyword_prevention), prevention and control, [privacy policy](keyword_privacy_policy), property management, provide convenience and facility for epidemic prevention and control, [public health](keyword_public_health), public health emergency, radon, restrict to community, self limit disease, sharer, spread widely around the world, [technology](keyword_technology), term condition, the contribution of green building in the fight against covid 19, [unesco](keyword_unesco), [united nations](keyword_united_nations), [virus](keyword_virus), [washington dc](keyword_washington_dc), waste management, water quality, water quality monitoring, world government center, [world green building council](keyword_world_green_building_council), world green building council day, world green building council suite 101, world headquarter, [world heritage site](keyword_world_heritage_site), worldgbc, worldgbc org, worldwide around the world
+ * accessibility, [air](keyword_air), air quality, ammonia, [antiviral](keyword_antiviral), asgb, asgb certification, benzene, [build](keyword_build), build base prevention and control, [building](keyword_building), building base, building technology, building technology in china, [china](keyword_china), contain the epidemic, contribution green building fight against covid 19, contributiongreen building fight against covid 19, [control](keyword_control), cookie policy, coronavirus disease, coronavirus disease covid 19, covid 19 prevention and control, [covid-19](keyword_covid-19), cross infection, [disease](keyword_disease), [drug](keyword_drug), [epidemic](keyword_epidemic), epidemic prevention and control, [facebook](keyword_facebook), fitzrovia, [formaldehyde](keyword_formaldehyde), gather, gather base, [green building](keyword_green_building), green building council, green building in the fight against covid 19, green development, [health](keyword_health), health performance of building, [immunity](keyword_immunity), [infection](keyword_infection), [lockdown](keyword_lockdown), [london](keyword_london), major public health emergency, medium, medium centre, new technology, newman st, [news](keyword_news), news medium, particulate matter, [pollutant](keyword_pollutant), [prevention](keyword_prevention), prevention and control, [privacy policy](keyword_privacy_policy), property management, provide convenience and facility for epidemic prevention and control, [public health](keyword_public_health), public health emergency, radon, restrict to community, self limit disease, sharer, spread widely around the world, [technology](keyword_technology), term condition, the contribution of green building in the fight against covid 19, [unesco](keyword_unesco), [united nations](keyword_united_nations), [virus](keyword_virus), [washington dc](keyword_washington_dc), waste management, water quality, water quality monitoring, world government center, [world green building council](keyword_world_green_building_council), world green building council day, world green building council suite 101, world headquarter, [world heritage site](keyword_world_heritage_site), worldgbc, worldgbc org, worldwide around the world
 
 
 ## Concepts
@@ -21,20 +21,20 @@
 
 ### Closest articles
 
-* How will COVID-19 change future building regulations? - [LINK](article_hmc_architects_how_2020)
-* Will a pandemic change building codes? - [LINK](article_rozgus_will_2020)
-* Architectural Design Drives the Biogeography of Indoor Bacterial Communities - [LINK](article_kembel_architectural_2014)
-* The COVID-19 Impact on Flexible Office Space - [LINK](article_clifton_covid-19_2020)
-* Public housing and COVID-19: contestation, challenge and change - [LINK](article_power_public_2020)
-* It’s time to reimagine where and how work will get done (PwC’s US Remote Work Survey) - [LINK](article_pricewaterhousecoopers_its_2021)
-* Biophilic design in architecture and its contributions to health, well-being, and sustainability: A critical review - [LINK](article_zhong_biophilic_2022)
-* Dangerous liaisons? Applying the social harm perspective to the social inequality, housing and health trifecta during the Covid-19 pandemic - [LINK](article_gurney_dangerous_2021)
-* How Architecture Fails in Conditions of Crisis: a Discussion on the Value of Interior Design over the COVID-19 Outbreak - [LINK](article_rassia_how_2020)
-* A study on office workplace modification during the COVID-19 pandemic in The Netherlands - [LINK](article_hou_study_2021)
+*  - [LINK](article_yakubu_aminu_dodo_green_2020)
+* Designing Post COVID-19 Buildings: Approaches for Achieving Healthy Buildings - [LINK](article_navaratnam_designing_2022)
+* Smart buildings: how a virus might lead to healthier buildings - Arup - [LINK](article_lam_smart_2021)
+* Indoor Air Quality: Rethinking rules of building design strategies in post-pandemic architecture - [LINK](article_megahed_indoor_2021)
+* Reflecting on Impacts of COVID19 on Sustainable Buildings and Cities - [LINK](article_gonzalez_reflecting_2021)
+* Assessment of Building Automation and Control Systems in Danish Healthcare Facilities in the COVID-19 Era - [LINK](article_pedersen_assessment_2022)
+* Ten questions concerning occupant health in buildings during normal operations and extreme events including the COVID-19 pandemic - [LINK](article_awada_ten_2021)
+* Impacts of COVID-19 on residential building energy use and performance - [LINK](article_kawka_impacts_2021)
+* The effect of occupant distribution on energy consumption and COVID-19 infection in buildings: A case study of university building - [LINK](article_mokhtari_effect_2021)
+* Continuous IEQ monitoring system: Context and development - [LINK](article_parkinson_continuous_2019)
 
 
 ### Closest BPs
 
-* Blueprint: Tracking and enforcing use of Personal Protective Equipment - [LINK](bp_23)
-* Blueprint: Building Adaptation during a pandemic - [LINK](bp_14)
-* Blueprint: Architecture design - [LINK](bp_2)
+* Blueprint: Indoor Environmental Quality (IEQ) monitoring system - [LINK](bp_3)
+* Blueprint: Air Cleaning Plants - [LINK](bp_15)
+* Blueprint: Monitoring of wastewater - [LINK](bp_21)

@@ -103,15 +103,19 @@ CID
 
  ### Interventions
 
-* Use of smart/innovative air quality controls technology (PA1)
-* Monitor and control indoor air quality (PA4)
-* Environmental parameters control (PA2)
-* Outdoor spaces (HM2)
+* Use of smart/innovative air quality controls technology ([PA1](pa1))
+* Monitor and control indoor air quality ([PA4](pa4))
+* Environmental parameters control ([PA2](pa2))
+* Outdoor spaces ([HM2](hm2))
+* Use of smart/innovative air quality controls technology ([PA1](pa1))
+* Monitor and control indoor air quality ([PA4](pa4))
+* Environmental parameters control ([PA2](pa2))
+* Outdoor spaces ([HM2](hm2))
 
 ### Technologies
 
-* Data Analytics
 * Biophilic desing
+* Data Analytics
 * IoT
 
 

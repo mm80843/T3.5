@@ -1,17 +1,15 @@
 # Keyword: sleep
 
-* [health-mental](cluster_Cluster_15)
-
 
 ## Keywords
 
- * Cluster_15, activity, [bedroom](keyword_bedroom), circadian clock, circadian rhythm, cognition, door, [environmental](keyword_environmental), [exposure](keyword_exposure), function, [health](keyword_health), heart, heavy activity, hibernate, [homelessness](keyword_homelessness), insomnia, leisure, leisure pursuit, live, melatonin, melatonin suppression, morning alertness, neuroscientist, [noise](keyword_noise), physiology, regulate our emotion, [research](keyword_research), rest, shelter, [sleep](keyword_sleep), sleep habit, sleep heal, sleep quality, sleep quality change, sleep wake pattern, sleeping, socialize, [stress](keyword_stress), systematic review, wake, wake hour
+ * [activity](keyword_activity), [bedroom](keyword_bedroom), circadian clock, circadian rhythm, cognition, [door](keyword_door), [environmental](keyword_environmental), [exposure](keyword_exposure), function, [health](keyword_health), heart, heavy activity, hibernate, [homelessness](keyword_homelessness), insomnia, leisure, leisure pursuit, [live](keyword_live), melatonin, melatonin suppression, morning alertness, neuroscientist, [noise](keyword_noise), physiology, regulate our emotion, [research](keyword_research), rest, shelter, [sleep](keyword_sleep), sleep habit, sleep heal, sleep quality, sleep quality change, sleep wake pattern, sleeping, socialize, [stress](keyword_stress), systematic review, wake, wake hour
 
 
-## Concepts
 
- ![](imgs/keyword_sleep.jpg)
+## Mapping
 
+<img src="plotly/keyword_sleep.svg">
 
 
 ## Neighbours

@@ -1,17 +1,17 @@
 # Keyword: permission
 
-* [memish-saudi](cluster_Cluster_8)
+* [processing-wireless](cluster_14)
 
 
 ## Keywords
 
- * Cluster_8, [copyright owner](keyword_copyright_owner), datum collection, no reuse, [permission](keyword_permission), permissions, [reproduction](keyword_reproduction), reuse
+ * Cluster_14, [copyright owner](keyword_copyright_owner), datum collection, no reuse, [permission](keyword_permission), permissions, [reproduction](keyword_reproduction), reuse
 
 
-## Concepts
 
- ![](imgs/keyword_permission.jpg)
+## Mapping
 
+<img src="plotly/keyword_permission.svg">
 
 
 ## Neighbours

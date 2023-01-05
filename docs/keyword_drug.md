@@ -1,11 +1,11 @@
 # Keyword: drug
 
-* [ontology-datum](cluster_12)
+* [wastewater-water](cluster_0)
 
 
 ## Keywords
 
- * Cluster_12, alcohol, alcohol depend, alleviate symptom, anti coronavirus, anti coronavirus drug, anti inflammatory, antibacterial, [antiviral](keyword_antiviral), arbidol, arthritis, cocaine, compound, condition, condition under which the drug work against the coronaviruse, cortisone, [covid-19](keyword_covid-19), development of effective drug, discov, [disease](keyword_disease), [drug](keyword_drug), drug addiction, drug development, drug target interaction, drug use, drugs, [epidemic](keyword_epidemic), fda, [healthcare](keyword_healthcare), hydroxychloroquine, illicit, indinavir, ivermectin, ivermectin inhibit the replication of sar cov 2 in vitro, [malaria](keyword_malaria), match, mechanism of action, medication, medicine, nicotine, [nih](keyword_nih), nonpharmaceutical, [ontology](keyword_ontology), opioid, pharma, pharma company, pharmaceutical, pharmacist, pharmacol, remdesivir, [research](keyword_research), resistance, [sar cov 2](keyword_sar_cov_2), test, [treatment](keyword_treatment), [vaccine](keyword_vaccine)
+ * Cluster_0, alcohol, alcohol depend, alleviate symptom, anti coronavirus, anti coronavirus drug, anti inflammatory, antibacterial, [antiviral](keyword_antiviral), arbidol, arthritis, cocaine, compound, condition, condition under which the drug work against the coronaviruse, cortisone, [covid-19](keyword_covid-19), development of effective drug, discov, [disease](keyword_disease), [drug](keyword_drug), drug addiction, drug development, drug target interaction, drug use, drugs, [epidemic](keyword_epidemic), fda, [healthcare](keyword_healthcare), hydroxychloroquine, illicit, indinavir, ivermectin, ivermectin inhibit the replication of sar cov 2 in vitro, [malaria](keyword_malaria), match, mechanism of action, medication, medicine, nicotine, [nih](keyword_nih), nonpharmaceutical, [ontology](keyword_ontology), opioid, pharma, pharma company, pharmaceutical, pharmacist, pharmacol, remdesivir, [research](keyword_research), resistance, [sar cov 2](keyword_sar_cov_2), [test](keyword_test), [treatment](keyword_treatment), [vaccine](keyword_vaccine)
 
 
 

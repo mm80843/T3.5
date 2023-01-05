@@ -1,17 +1,17 @@
 # Keyword: rt
 
-* [wastewater-sars](cluster_Cluster_2)
+* [wastewater-water](cluster_0)
 
 
 ## Keywords
 
- * Cluster_2, c persistence reference, contact rate, ct, it ita ith its rt dt, m gene, reproduction number, [rt](keyword_rt), rt pcr, [temperature](keyword_temperature), [transmission](keyword_transmission), uapbcadr
+ * Cluster_0, c persistence reference, contact rate, ct, it ita ith its rt dt, m gene, reproduction number, [rt](keyword_rt), rt pcr, [temperature](keyword_temperature), [transmission](keyword_transmission), uapbcadr
 
 
-## Concepts
 
- ![](imgs/keyword_rt.jpg)
+## Mapping
 
+<img src="plotly/keyword_rt.svg">
 
 
 ## Neighbours

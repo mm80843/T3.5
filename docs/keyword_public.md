@@ -1,17 +1,17 @@
 # Keyword: public
 
-* [urban-city](cluster_6)
+* [health-city](cluster_1)
 
-* [health-mental](cluster_7)
+* [space-housing](cluster_2)
 
-* [malaria-vector](cluster_10)
+* [iot-blockchain](cluster_4)
 
-* [water-wastewater](cluster_13)
+* [space-cid](cluster_7)
 
 
 ## Keywords
 
- * Cluster_10, Cluster_13, Cluster_6, Cluster_7, adm, amc, asset management, [bank](keyword_bank), bath, bicycle sharing, bicycle sharing program, [build environment](keyword_build_environment), [business](keyword_business), childcare, civil society, commercial, communication, credit guarantee, crisis management, [datum](keyword_datum), debt, democratic society, development bank, eligible debt, employment obligation, employment service, go public, [health](keyword_health), [healthcare](keyword_healthcare), house design, [housing](keyword_housing), hygiene, [information](keyword_information), information communication, information source, [lockdown](keyword_lockdown), [management](keyword_management), [medium](keyword_medium), mitigation policy, mode of transport, not for profit, open space, pol, [policy](keyword_policy), policy maker, politicalparticipation, privat, private, private bank, private building, private company, private debt, private entity, private facility, private fitness organization, private investment, private project, private property, private public partnership, private resources, private sector, private sources, private stakeholder, private transport, private transportation, [public](keyword_public), public building, public bus, public datum, public gathering, [public health](keyword_public_health), public health official, public health services, public health surveillance, public life, [public place](keyword_public_place), public policy, public relation, public service, [public space](keyword_public_space), public transit, [public transport](keyword_public_transport), public transportation, public work, publicface, publicface facility, publico, publics, recreation, self interest, share transport, [social](keyword_social), [society](keyword_society), staff, subsidy, [transport](keyword_transport), transportation, [travel](keyword_travel), will we change, will we observe few people
+ * Cluster_1, Cluster_2, Cluster_4, Cluster_7, adm, amc, asset management, [bank](keyword_bank), bath, bicycle sharing, bicycle sharing program, [build environment](keyword_build_environment), [business](keyword_business), childcare, civil society, commercial, communication, credit guarantee, crisis management, [datum](keyword_datum), debt, democratic society, development bank, eligible debt, employment obligation, employment service, go public, [health](keyword_health), [healthcare](keyword_healthcare), house design, [housing](keyword_housing), hygiene, [information](keyword_information), information communication, information source, [lockdown](keyword_lockdown), [management](keyword_management), medium, mitigation policy, mode of transport, not for profit, open space, pol, [policy](keyword_policy), policy maker, politicalparticipation, privat, private, private bank, private building, private company, private debt, private entity, private facility, private fitness organization, private investment, private project, private property, private public partnership, private resources, private sector, private sources, private stakeholder, private transport, private transportation, [public](keyword_public), public building, public bus, public datum, public gathering, [public health](keyword_public_health), public health official, public health services, public health surveillance, public life, [public place](keyword_public_place), public policy, public relation, public service, [public space](keyword_public_space), public transit, [public transport](keyword_public_transport), public transportation, public work, publicface, publicface facility, publico, publics, recreation, self interest, share transport, [social](keyword_social), [society](keyword_society), staff, subsidy, [transport](keyword_transport), [transportation](keyword_transportation), [travel](keyword_travel), will we change, will we observe few people
 
 
 

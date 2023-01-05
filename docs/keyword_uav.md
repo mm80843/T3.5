@@ -1,17 +1,17 @@
 # Keyword: uav
 
-* [surveying-mapping](cluster_Cluster_10)
+* [surveying-drone](cluster_13)
 
 
 ## Keywords
 
- * [5 g network](keyword_5_g_network), Cluster_10, beyond line of sight, blos, cognitive relay network, command center, [covid 19 pandemic](keyword_covid_19_pandemic), dara, draganfly, [monitor](keyword_monitor), monitor the condition, monitor the condition of the patient, relay network, research and development, [robot](keyword_robot), [uav](keyword_uav), uhd, ultra high definition camera
+ * [5 g network](keyword_5_g_network), Cluster_13, beyond line of sight, blos, cognitive relay network, command center, [covid 19 pandemic](keyword_covid_19_pandemic), dara, draganfly, [monitor](keyword_monitor), monitor the condition, monitor the condition of the patient, relay network, research and development, [robot](keyword_robot), [uav](keyword_uav), uhd, ultra high definition camera
 
 
-## Concepts
 
- ![](imgs/keyword_uav.jpg)
+## Mapping
 
+<img src="plotly/keyword_uav.svg">
 
 
 ## Neighbours

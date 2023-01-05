@@ -1,17 +1,15 @@
 # Keyword: font
 
-* [sign-retailer](cluster_Cluster_8)
-
 
 ## Keywords
 
- * Cluster_8, [big datum](keyword_big_datum), black, black font, capitalization, color, crossref gallego, [font](keyword_font), fonts, graph, highlight, [information](keyword_information), italicization, lead, letter, non serif, on serif, perception of font, poster, presentation, read, read from two meter away, san serif, sansserif, sansserif font, serif, [sign](keyword_sign), tesler, type, yellow, yellow color
+ * [big datum](keyword_big_datum), black, black font, capitalization, color, crossref gallego, [font](keyword_font), fonts, graph, highlight, [information](keyword_information), italicization, lead, letter, non serif, on serif, perception of font, poster, presentation, read, read from two meter away, san serif, sansserif, sansserif font, serif, [sign](keyword_sign), tesler, [type](keyword_type), yellow, yellow color
 
 
-## Concepts
 
- ![](imgs/keyword_font.jpg)
+## Mapping
 
+<img src="plotly/keyword_font.svg">
 
 
 ## Neighbours

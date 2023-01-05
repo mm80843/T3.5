@@ -1,17 +1,15 @@
 # Keyword: signage
 
-* [sign-retailer](cluster_Cluster_8)
-
 
 ## Keywords
 
- * Cluster_8, awareness signage, [covid-19](keyword_covid-19), message, [safety](keyword_safety), servicescape, [signage](keyword_signage), signages, size advantage, [wayfinde](keyword_wayfinde), workout equipment
+ * awareness signage, [covid-19](keyword_covid-19), message, [safety](keyword_safety), servicescape, [signage](keyword_signage), signages, size advantage, [wayfinde](keyword_wayfinde), workout equipment
 
 
-## Concepts
 
- ![](imgs/keyword_signage.jpg)
+## Mapping
 
+<img src="plotly/keyword_signage.svg">
 
 
 ## Neighbours

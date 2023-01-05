@@ -1,17 +1,17 @@
 # Keyword: coron
 
-* [surveying-mapping](cluster_Cluster_10)
+* [surveying-drone](cluster_13)
 
 
 ## Keywords
 
- * Cluster_10, [china](keyword_china), [coron](keyword_coron), [coronavirus outbreak](keyword_coronavirus_outbreak), [virus](keyword_virus)
+ * Cluster_13, [coron](keyword_coron), [coronavirus outbreak](keyword_coronavirus_outbreak), [virus](keyword_virus)
 
 
-## Concepts
 
- ![](imgs/keyword_coron.jpg)
+## Mapping
 
+<img src="plotly/keyword_coron.svg">
 
 
 ## Neighbours

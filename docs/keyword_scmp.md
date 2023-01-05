@@ -1,17 +1,17 @@
 # Keyword: scmp
 
-* [surveying-mapping](cluster_Cluster_10)
+* [surveying-drone](cluster_13)
 
 
 ## Keywords
 
- * Cluster_10, [scmp](keyword_scmp)
+ * Cluster_13, [scmp](keyword_scmp)
 
 
-## Concepts
 
- ![](imgs/keyword_scmp.jpg)
+## Mapping
 
+<img src="plotly/keyword_scmp.svg">
 
 
 ## Neighbours

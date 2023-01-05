@@ -1,17 +1,17 @@
 # Keyword: task
 
-* [surveying-mapping](cluster_Cluster_10)
+* [surveying-drone](cluster_13)
 
 
 ## Keywords
 
- * Cluster_10, challenge, collaborative learning, [contractor](keyword_contractor), jobsite, laboursave, life, memory, [ontology](keyword_ontology), [organisation](keyword_organisation), process, [project](keyword_project), reason, role, scheduling, [task](keyword_task), task description, tasks, time dedication
+ * Cluster_13, collaborative learning, [contractor](keyword_contractor), jobsite, laboursave, memory, [ontology](keyword_ontology), [organisation](keyword_organisation), process, [project](keyword_project), reason, role, scheduling, [task](keyword_task), task description, tasks, time dedication
 
 
-## Concepts
 
- ![](imgs/keyword_task.jpg)
+## Mapping
 
+<img src="plotly/keyword_task.svg">
 
 
 ## Neighbours
@@ -26,6 +26,7 @@
 * Health, Wellbeing \& Productivity in Offices - [LINK](article_world_green_building_council_health_2014)
 * An Overview of Biomedical Ontologies for Pandemics and Infectious Diseases Representation - [LINK](article_bayoudhi_overview_2021)
 * A Mixed Approach on Resilience of Spanish Dwellings and Households during COVID-19 Lockdown - [LINK](article_cuerdo-vilches_mixed_2020)
+* COVID19-Routes: A Safe Pedestrian Navigation Service - [LINK](article_cantarero_covid19-routes_2021)
 
 
 ### Closest BPs

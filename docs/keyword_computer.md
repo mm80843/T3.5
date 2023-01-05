@@ -1,11 +1,11 @@
 # Keyword: computer
 
-* [detection-object](cluster_8)
+* [processing-wireless](cluster_14)
 
 
 ## Keywords
 
- * Cluster_8, account, board, button, communication, compute, [computer](keyword_computer), computer architecture, computer architecture and technology, computer mouse, computer science, computer screen, computers, [datum](keyword_datum), datum processing center, [desk](keyword_desk), disinfect, [education](keyword_education), electronic device and technology, [engineering](keyword_engineering), [environment](keyword_environment), equipment, game, hum, hum comput, human behavior, [industry](keyword_industry), information science, intel, interface, keyboard, laptop, learn, learn device, logist, machine and mindlessness, matlab, mobile learning device, mouse, operation, operation research, play game, printer, product group, program, remote expert, scientific datum, sensor nod, [service](keyword_service), [simulation](keyword_simulation), smart board, [smart ieq](keyword_smart_ieq), smartphone, [society](keyword_society), software, supercomputer, [technology](keyword_technology), vacuum cleaner, washer and dryer, webcam, [workstation](keyword_workstation)
+ * Cluster_14, account, board, button, communication, compute, [computer](keyword_computer), computer architecture, computer architecture and technology, computer mouse, computer science, computer screen, computers, [datum](keyword_datum), datum processing center, [desk](keyword_desk), [disinfect](keyword_disinfect), [education](keyword_education), electronic device and technology, [engineering](keyword_engineering), [environment](keyword_environment), equipment, game, hum, hum comput, human behavior, [industry](keyword_industry), information science, intel, [interface](keyword_interface), keyboard, laptop, [learn](keyword_learn), learn device, logist, machine and mindlessness, matlab, mobile learning device, mouse, operation, operation research, play game, printer, product group, program, remote expert, scientific datum, sensor nod, [service](keyword_service), [simulation](keyword_simulation), smart board, [smart ieq](keyword_smart_ieq), [smartphone](keyword_smartphone), [society](keyword_society), software, supercomputer, [technology](keyword_technology), vacuum cleaner, washer and dryer, webcam, [workstation](keyword_workstation)
 
 
 

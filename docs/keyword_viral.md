@@ -1,17 +1,19 @@
 # Keyword: viral
 
-* [wastewater-sars](cluster_Cluster_2)
+* [wastewater-water](cluster_0)
+
+* [air-uv](cluster_10)
 
 
 ## Keywords
 
- * Cluster_2, a whole cooked bat, acharya, acute respiratory tract infection, adenovirus, [aerosol](keyword_aerosol), aerosol virus, air infection, [airborne](keyword_airborne), antigen, author proof, [bacteria](keyword_bacteria), bacterial, because of no pollution I can see hilarious trendtake over twitter, [bioaerosol](keyword_bioaerosol), bmc infect, chinese woman eat a whole cooked bat, comment12, contami, [coronavirus](keyword_coronavirus), coronavirus covid 19, [covid 19 pandemic](keyword_covid_19_pandemic), covid 19 pneumonia, [covid-19](keyword_covid-19), culture, [disease](keyword_disease), disease transmission, eat a whole cooked bat, emergence of other new virus, envelope, [epidemic](keyword_epidemic), [epidemiological](keyword_epidemiological), [epidemiology](keyword_epidemiology), [fake news](keyword_fake_news), fomite, fungal, [gene](keyword_gene), [genome](keyword_genome), genome analysis, genome quantiﬁcation, genomic, genomic equivalent, hiv positive, human immunodeﬁciency virus, inactivation, [infection](keyword_infection), infectious, [infectious disease](keyword_infectious_disease), load, n1 primer, nbu, nuclei, nucleic acid, [outbreak](keyword_outbreak), outgrowth assay, [pandemic](keyword_pandemic), parasitic, [particle](keyword_particle), particle in the air, [pathogen](keyword_pathogen), picture of the dhauladhar mountain range, pneumonia, precipitation, protein, replicate, replication, [rna](keyword_rna), rna shedding, rvf, s protein, [sar cov 2](keyword_sar_cov_2), sar cov 2 rna, [sar outbreak](keyword_sar_outbreak), [sewage](keyword_sewage), shed, specie, [spread](keyword_spread), strain, suspend protein, take customer s cart for refuse to wear mask, titer, trans mission, transfer, [transmission](keyword_transmission), transmission from person to person, upper respiratory, [vector borne disease](keyword_vector_borne_disease), video of costco employee take customer s cart, video of costco employee take customer s cart for refuse to wear mask, [viral](keyword_viral), viralaerosol, [virus](keyword_virus), wwtps
+ * Cluster_0, Cluster_10, a whole cooked bat, acharya, acute respiratory tract infection, adenovirus, [aerosol](keyword_aerosol), aerosol virus, air infection, [airborne](keyword_airborne), antigen, author proof, [bacteria](keyword_bacteria), bacterial, because of no pollution I can see hilarious trendtake over twitter, [bioaerosol](keyword_bioaerosol), bmc infect, chinese woman eat a whole cooked bat, comment12, contami, [coronavirus](keyword_coronavirus), coronavirus covid 19, [covid 19 pandemic](keyword_covid_19_pandemic), covid 19 pneumonia, [covid-19](keyword_covid-19), culture, [disease](keyword_disease), disease transmission, eat a whole cooked bat, emergence of other new virus, envelope, [epidemic](keyword_epidemic), [epidemiological](keyword_epidemiological), [epidemiology](keyword_epidemiology), [fake news](keyword_fake_news), fomite, fungal, [gene](keyword_gene), [genome](keyword_genome), genome analysis, genome quantiﬁcation, genomic, genomic equivalent, hiv positive, human immunodeﬁciency virus, inactivation, [infection](keyword_infection), [infectious](keyword_infectious), [infectious disease](keyword_infectious_disease), load, n1 primer, nbu, nuclei, nucleic acid, [outbreak](keyword_outbreak), outgrowth assay, [pandemic](keyword_pandemic), parasitic, [particle](keyword_particle), particle in the air, [pathogen](keyword_pathogen), picture of the dhauladhar mountain range, pneumonia, precipitation, protein, replicate, replication, [rna](keyword_rna), rna shedding, rvf, s protein, [sar cov 2](keyword_sar_cov_2), sar cov 2 rna, [sar outbreak](keyword_sar_outbreak), [sewage](keyword_sewage), shed, specie, [spread](keyword_spread), strain, suspend protein, take customer s cart for refuse to wear mask, titer, trans mission, transfer, [transmission](keyword_transmission), transmission from person to person, upper respiratory, [vector borne disease](keyword_vector_borne_disease), video of costco employee take customer s cart, video of costco employee take customer s cart for refuse to wear mask, [viral](keyword_viral), viralaerosol, [virus](keyword_virus), wwtps
 
 
-## Concepts
 
- ![](imgs/keyword_viral.jpg)
+## Mapping
 
+<img src="plotly/keyword_viral.svg">
 
 
 ## Neighbours

@@ -1,17 +1,17 @@
 # Keyword: enforce
 
-* [surveying-mapping](cluster_Cluster_10)
+* [surveying-drone](cluster_13)
 
 
 ## Keywords
 
- * Cluster_10, action verb, creditor right, [deterrence](keyword_deterrence), [enforce](keyword_enforce), enforced, repossess, voluntary
+ * Cluster_13, action verb, creditor right, [deterrence](keyword_deterrence), [enforce](keyword_enforce), enforced, repossess, voluntary
 
 
-## Concepts
 
- ![](imgs/keyword_enforce.jpg)
+## Mapping
 
+<img src="plotly/keyword_enforce.svg">
 
 
 ## Neighbours

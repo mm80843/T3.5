@@ -1,17 +1,17 @@
 # Keyword: workforce
 
-* [construction-industry](cluster_Cluster_3)
+* [construction-project](cluster_8)
 
 
 ## Keywords
 
- * 3 3 billion, 3 3 billion people, Cluster_3, age, career, [china](keyword_china), [construction](keyword_construction), [construction company](keyword_construction_company), construction firm, [construction industry](keyword_construction_industry), construction project, construction site, [covid-19](keyword_covid-19), [culture](keyword_culture), decision make, [employer](keyword_employer), employment rate, hazard of the workplace, [health and safety](keyword_health_and_safety), home office, human resource management, [industry](keyword_industry), informaleconomy, management, migrant worker, office worker, [organization](keyword_organization), population age, [productivity](keyword_productivity), [professional](keyword_professional), project manager, remote working, resilient organization, selfemploye, work base learn, work condition, work from home, [workforce](keyword_workforce), workforces, [workplace](keyword_workplace)
+ * 3 3 billion, 3 3 billion people, Cluster_8, age, career, [china](keyword_china), [construction](keyword_construction), construction company, construction firm, [construction industry](keyword_construction_industry), construction project, construction site, [covid-19](keyword_covid-19), culture, decision make, [employer](keyword_employer), employment rate, hazard of the workplace, [health and safety](keyword_health_and_safety), home office, human resource management, [industry](keyword_industry), informaleconomy, [management](keyword_management), migrant worker, office worker, [organization](keyword_organization), population age, [productivity](keyword_productivity), [professional](keyword_professional), project manager, remote working, resilient organization, selfemploye, [work base learn](keyword_work_base_learn), work condition, work from home, [workforce](keyword_workforce), workforces, [workplace](keyword_workplace)
 
 
-## Concepts
 
- ![](imgs/keyword_workforce.jpg)
+## Mapping
 
+<img src="plotly/keyword_workforce.svg">
 
 
 ## Neighbours

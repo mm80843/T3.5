@@ -1,11 +1,13 @@
 # Keyword: treatment
 
-* [water-wastewater](cluster_7)
+* [wastewater-water](cluster_0)
+
+* [iot-blockchain](cluster_7)
 
 
 ## Keywords
 
- * Cluster_7, antiretroviral, care, cost, covid 19 disease, [covid-19](keyword_covid-19), curative, curative research, decision make process, diagnosis, [disease](keyword_disease), [disinfection](keyword_disinfection), [drug](keyword_drug), early detection, effectiveness, efﬁciency, exercise, fatality rate, [health care](keyword_health_care), health care authority, [healthcare](keyword_healthcare), healthcare facility, [hospital](keyword_hospital), infect, [infection](keyword_infection), isolation, laser, line of treatment, long treatment, [management](keyword_management), [medical](keyword_medical), medication, [monitor](keyword_monitor), nutrition, patient care, [plant](keyword_plant), pneumonia, [prevention](keyword_prevention), prevention and control, preventive vaccine, [psychological](keyword_psychological), quarantine, recovery rate, regulate storage tank, rehabilit, rehabilitation, [research](keyword_research), sanitization, source, [surgery](keyword_surgery), symptomatic, [telemedicine](keyword_telemedicine), tertiary operation, toxic waste, [treatment](keyword_treatment), treatment course, treatment plant, treatment protocol, treatments, uv clean, [vaccine](keyword_vaccine), [wastewater](keyword_wastewater), wastewater collection and treatment, wastewater engineering, wastewater management, wastewater treatment, water supply
+ * Cluster_0, Cluster_7, antiretroviral, [care](keyword_care), [cost](keyword_cost), covid 19 disease, [covid-19](keyword_covid-19), curative, curative research, decision make process, [diagnosis](keyword_diagnosis), [disease](keyword_disease), [disinfection](keyword_disinfection), [drug](keyword_drug), early detection, effectiveness, efﬁciency, exercise, fatality rate, [health care](keyword_health_care), health care authority, [healthcare](keyword_healthcare), healthcare facility, [hospital](keyword_hospital), [infect](keyword_infect), [infection](keyword_infection), isolation, laser, line of treatment, long treatment, [management](keyword_management), [medical](keyword_medical), medication, [monitor](keyword_monitor), nutrition, patient care, [plant](keyword_plant), pneumonia, [prevention](keyword_prevention), prevention and control, preventive vaccine, [psychological](keyword_psychological), [quarantine](keyword_quarantine), recovery rate, regulate storage tank, rehabilit, rehabilitation, [research](keyword_research), sanitization, source, [surgery](keyword_surgery), symptomatic, [telemedicine](keyword_telemedicine), tertiary operation, toxic waste, [treatment](keyword_treatment), treatment course, treatment plant, treatment protocol, treatments, uv clean, [vaccine](keyword_vaccine), [wastewater](keyword_wastewater), wastewater collection and treatment, wastewater engineering, wastewater management, wastewater treatment, water supply
 
 
 

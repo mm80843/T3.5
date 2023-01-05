@@ -1,11 +1,19 @@
 # Keyword: new
 
-* [urban-city](cluster_6)
+* [health-city](cluster_1)
+
+* [space-housing](cluster_4)
+
+* [building-design](cluster_5)
+
+* [construction-project](cluster_8)
+
+* [business-customer](cluster_11)
 
 
 ## Keywords
 
- * Cluster_6, construct, coronavirus infection, exist one, [home](keyword_home), home exist, interreg central, [knowledge](keyword_knowledge), [new](keyword_new), new challengenge, new knowledge, newchallenge, [office](keyword_office), old
+ * Cluster_1, Cluster_11, Cluster_4, Cluster_5, Cluster_8, construct, coronavirus infection, exist one, [home](keyword_home), home exist, interreg central, [knowledge](keyword_knowledge), [new](keyword_new), new challengenge, new knowledge, newchallenge, [office](keyword_office), old
 
 
 

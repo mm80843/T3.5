@@ -1,14 +1,25 @@
-# Keyword: __help__
-## Clusters
+# Keyword: help
 
-* Cluster 13: [robot-drone](cluster_13)
-
-## Concepts
-
- ![](imgs/keyword_help.jpg)
+* [iot-blockchain](cluster_7)
 
 
-## Top 10 articles for __help__
-* Exploring the Non-Medical impacts of Covid-19 using
-Natural Language Processing ([agade_exploring_2020](article_agade_exploring_2020))
-* rtpi_urban_2021 ([rtpi_urban_2021](article_rtpi_urban_2021))
+## Keywords
+
+ * Cluster_7, [help](keyword_help), infrastructure project
+
+
+
+## Mapping
+
+<img src="plotly/keyword_help.svg">
+
+
+## Neighbours
+
+### Closest articles
+
+* Urban planning after COVID-19 - [LINK](article_rtpi_urban_2021)
+
+
+### Closest BPs
+

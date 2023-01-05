@@ -1,10 +1,23 @@
-# Keyword: __neighbour noise__
-
-## Concepts
-
- ![](imgs/keyword_neighbour_noise.jpg)
+# Keyword: neighbour noise
 
 
-## Top articles for __neighbour noise__
-* Attitudes towards outdoor and neighbour noise during the
-COVID-19 lockdown: A case study in London ([lee_attitudes_2021](article_lee_attitudes_2021))
+## Keywords
+
+ * airborne source, [annoyance](keyword_annoyance), annoyance rat, annoyance rating, flat, hear noise, [lockdown](keyword_lockdown), [neighbour noise](keyword_neighbour_noise), [noise](keyword_noise), outdoor noise, road traffic, talk shout
+
+
+
+## Mapping
+
+<img src="plotly/keyword_neighbour_noise.svg">
+
+
+## Neighbours
+
+### Closest articles
+
+* Attitudes towards outdoor and neighbour noise during the COVID-19 lockdown: A case study in London - [LINK](article_lee_attitudes_2021)
+
+
+### Closest BPs
+

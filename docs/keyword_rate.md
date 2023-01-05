@@ -1,17 +1,21 @@
 # Keyword: rate
 
-* [perpetuity-forest](cluster_Cluster_6)
+* [design-ventilation](cluster_9)
+
+* [air-uv](cluster_10)
+
+* [obesity-county](cluster_12)
 
 
 ## Keywords
 
- * 5 level likert scale, Cluster_6, grade, health relate absenteeism, high efficiency, level score, likert scale, per, [rate](keyword_rate), rated, rates, [temperature](keyword_temperature), [ventilation](keyword_ventilation), voluntary leave, voluntary leave rate
+ * 5 level likert scale, Cluster_10, Cluster_12, Cluster_9, grade, health relate absenteeism, high efficiency, level score, likert scale, [per](keyword_per), [rate](keyword_rate), rated, rates, [temperature](keyword_temperature), [ventilation](keyword_ventilation), voluntary leave, voluntary leave rate
 
 
-## Concepts
 
- ![](imgs/keyword_rate.jpg)
+## Mapping
 
+<img src="plotly/keyword_rate.svg">
 
 
 ## Neighbours

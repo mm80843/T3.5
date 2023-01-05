@@ -1,10 +1,23 @@
-# Keyword: __guizhou__
-
-## Concepts
-
- ![](imgs/keyword_guizhou.jpg)
+# Keyword: guizhou
 
 
-## Top articles for __guizhou__
-* CIDO, a community-based ontology for coronavirus disease
-knowledge and data integration, sharing, and analysis ([he_cido_2020](article_he_cido_2020))
+## Keywords
+
+ * [china](keyword_china), guiyang, [guizhou](keyword_guizhou)
+
+
+
+## Mapping
+
+<img src="plotly/keyword_guizhou.svg">
+
+
+## Neighbours
+
+### Closest articles
+
+* CIDO, a community-based ontology for coronavirus disease knowledge and data integration, sharing, and analysis - [LINK](article_he_cido_2020)
+
+
+### Closest BPs
+

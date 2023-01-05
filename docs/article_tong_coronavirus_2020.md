@@ -2,7 +2,7 @@
 
 * [https://www.marketplace.org/2020/02/12/coronavirus-can-artificial-intelligence-be-smart-enough-to-detect-fake-news/](https://www.marketplace.org/2020/02/12/coronavirus-can-artificial-intelligence-be-smart-enough-to-detect-fake-news/)
 * Year: 2020
-* Cluster: [construction-pandemic](cluster_1)
+* Cluster: [health-city](cluster_1)
 
 
 
@@ -26,15 +26,15 @@
 * What drives unverified information sharing and cyberchondria during the COVID-19 pandemic? - [LINK](article_laato_what_2020)
 * The changes in the effects of social media use of Cypriots due to COVID-19 pandemic - [LINK](article_kaya_changes_2020)
 * COVID-19 media fatigue: predictors of decreasing interest and avoidance of COVID-19–related news - [LINK](article_buneviciene_covid-19_2021)
-* Telehealth overpromises during the Covid-19 pandemic - [LINK](article_ostherr_telehealth_2020)
-* Pandemic Analytics: How Countries are Leveraging Big Data Analytics and Artificial Intelligence to Fight COVID-19? - [LINK](article_mehta_pandemic_2021)
-* Exploring the Potential of Artificial Intelligence and Machine Learning to Combat COVID-19 and Existing Opportunities for LMIC: A Scoping Review - [LINK](article_naseem_exploring_2020)
-* Digital technology and COVID-19 - [LINK](article_ting_digital_2020)
-* Mobile Technology Solution for COVID-19: Surveillance and Prevention - [LINK](article_raza_mobile_2021)
+*  - [LINK](article_mehtab_alam_role_2021)
+* Coronavirus disease 2019: The harms of exaggerated information and non‐evidence‐based measures - [LINK](article_ioannidis_coronavirus_2020)
+* An investigation of transmission control measures during the first 50 days of the COVID-19 epidemic in China - [LINK](article_tian_investigation_2020)
+* The effect of human mobility and control measures on the COVID-19 epidemic in China - [LINK](article_kraemer_effect_2020)
+* Covid-19 and community mitigation strategies in a pandemic - [LINK](article_ebrahim_covid-19_2020)
 
 
 ### Closest BPs
 
 * Blueprint: Resilience in staffing and skills training - [LINK](bp_12)
+* Blueprint: Installing UV in ductwork - [LINK](bp_10)
 * Blueprint: Negative pressure rooms - [LINK](bp_13)
-* Blueprint: Air Cleaning Plants - [LINK](bp_15)

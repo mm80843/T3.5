@@ -2,7 +2,7 @@
 
 * [https://www.worldbank.org/en/publication/wdr2022](https://www.worldbank.org/en/publication/wdr2022)
 * Year: 2022
-* Cluster: [construction-pandemic](cluster_1)
+* Cluster: [business-customer](cluster_11)
 
 
 
@@ -24,16 +24,16 @@
 * COVID-19 and regional solutions for mitigating the risk of SME finance in selected ASEAN member states - [LINK](article_taghizadeh-hesary_covid-19_2022)
 * Covid-19 and asset management in EU: a preliminary assessment of performance and investment styles - [LINK](article_rizvi_covid-19_2020)
 * Building sustainable finance for resilient protected and conserved areas: lessons from COVID-19 - [LINK](article_cumming_building_2021)
-* Global value chains: Efficiency and risks in the context of COVID-19 - [LINK](article_oecd_global_2021)
-* <scp>COVID</scp>             ‐19: Small and medium enterprises challenges and responses with creativity, innovation, and entrepreneurship - [LINK](article_thukral_covid19_2021)
 * Startups in times of crisis – A rapid response to the COVID-19 pandemic - [LINK](article_kuckertz_startups_2020)
-* The socio-economic implications of the coronavirus pandemic (COVID-19): A review - [LINK](article_nicola_socio-economic_2020)
+* <scp>COVID</scp>             ‐19: Small and medium enterprises challenges and responses with creativity, innovation, and entrepreneurship - [LINK](article_thukral_covid19_2021)
+* Global value chains: Efficiency and risks in the context of COVID-19 - [LINK](article_oecd_global_2021)
+* Borders and Catastrophe: lessons from COVID-19 for the European Green Deal - [LINK](article_klein_borders_2021)
 * Mapping research in logistics and supply chain management during COVID-19 pandemic - [LINK](article_montoya-torres_mapping_2021)
-* Urban design attributes and resilience: COVID-19 evidence from New York City - [LINK](article_yang_urban_2021)
+* DfMA for rapid adaptive resilience and flexible infrastructure - [LINK](article_mott_macdonald_dfma_2020)
 
 
 ### Closest BPs
 
-* Blueprint: Smart Locker System - [LINK](bp_1)
 * Blueprint: Resilience in staffing and skills training - [LINK](bp_12)
-* Blueprint: Monitoring of wastewater - [LINK](bp_21)
+* Blueprint: Smart Locker System - [LINK](bp_1)
+* Blueprint: Installing high-efficiency air filters - [LINK](bp_11)

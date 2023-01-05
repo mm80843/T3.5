@@ -1,19 +1,19 @@
 # Keyword: user
 
-* [gbn-measure](cluster_Cluster_6)
+* [building-design](cluster_2)
 
-* [airport-coating](cluster_Cluster_10)
+* [space-cid](cluster_5)
 
 
 ## Keywords
 
- * Cluster_10, Cluster_6, android, application, [build](keyword_build), communication, computer security, device, [facebook](keyword_facebook), [fake news](keyword_fake_news), guide, information technology, [interaction](keyword_interaction), interface, [internet](keyword_internet), landscape design, location datum, location trail, market research, [model](keyword_model), [product](keyword_product), self checkout counter, test, [twitter](keyword_twitter), type of user, usage, [user](keyword_user), users
+ * Cluster_2, Cluster_5, android, [application](keyword_application), [build](keyword_build), communication, computer security, [device](keyword_device), [facebook](keyword_facebook), [fake news](keyword_fake_news), guide, information technology, [interaction](keyword_interaction), [interface](keyword_interface), [internet](keyword_internet), landscape design, location datum, location trail, market research, [model](keyword_model), product, self checkout counter, [test](keyword_test), [twitter](keyword_twitter), type of user, usage, [user](keyword_user), users
 
 
-## Concepts
 
- ![](imgs/keyword_user.jpg)
+## Mapping
 
+<img src="plotly/keyword_user.svg">
 
 
 ## Neighbours

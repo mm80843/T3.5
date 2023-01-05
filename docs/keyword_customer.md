@@ -1,17 +1,17 @@
 # Keyword: customer
 
-* [sign-retailer](cluster_Cluster_8)
+* [business-customer](cluster_11)
 
 
 ## Keywords
 
- * Cluster_8, [bank](keyword_bank), barrier, brick and mortar store, [business](keyword_business), cashier, coffee shop, [community](keyword_community), competitor, [consumer](keyword_consumer), consumption, consumption experience, content, coworke, [customer](keyword_customer), customer acquisition, customer experience, customer face employee, [customer journey](keyword_customer_journey), customer need, customer satisfaction, customer support, customers, decision make, digitalization, direct interaction, e commerce, [employee](keyword_employee), experience, face to face banking, firm, food service industry, gym owner, hygiene, individualized attention, individualized attention to their customer, insight, [interaction](keyword_interaction), invoice, [mask](keyword_mask), [need](keyword_need), perception, point of purchase, [product](keyword_product), product and or service, provider, purchasing decision, relationship, remote, restaurant, [retail](keyword_retail), [retailer](keyword_retailer), satisfaction, seat arrangement, segment, seller, service, service firm, service provider, [shop](keyword_shop), small business, [sme](keyword_sme), [stakeholder](keyword_stakeholder), stop and look, supermarket, supplier, [supply chain](keyword_supply_chain), [technology](keyword_technology), the other part, thepublic, trust, utility
+ * Cluster_11, [bank](keyword_bank), barrier, brick and mortar store, [business](keyword_business), cashier, coffee shop, [community](keyword_community), competitor, [consumer](keyword_consumer), consumption, consumption experience, content, coworke, [customer](keyword_customer), customer acquisition, customer experience, customer face employee, [customer journey](keyword_customer_journey), customer need, customer satisfaction, customer support, customers, decision make, digitalization, direct interaction, e commerce, [employee](keyword_employee), [experience](keyword_experience), face to face banking, [firm](keyword_firm), food service industry, gym owner, hygiene, individualized attention, individualized attention to their customer, insight, [interaction](keyword_interaction), invoice, [mask](keyword_mask), [need](keyword_need), perception, point of purchase, product, product and or service, provider, purchasing decision, [relationship](keyword_relationship), [remote](keyword_remote), restaurant, retail, [retailer](keyword_retailer), satisfaction, seat arrangement, segment, seller, [service](keyword_service), service firm, service provider, [shop](keyword_shop), small business, [sme](keyword_sme), [stakeholder](keyword_stakeholder), stop and look, supermarket, supplier, [supply chain](keyword_supply_chain), [technology](keyword_technology), the other part, thepublic, trust, utility
 
 
-## Concepts
 
- ![](imgs/keyword_customer.jpg)
+## Mapping
 
+<img src="plotly/keyword_customer.svg">
 
 
 ## Neighbours

@@ -1,17 +1,17 @@
 # Keyword: retailer
 
-* [sign-retailer](cluster_Cluster_8)
+* [business-customer](cluster_11)
 
 
 ## Keywords
 
- * Cluster_8, age of disruption, alternative outlet, association, assortment, augment service, brand, brand image, brick and mortar, brick and mortar retailing, [business](keyword_business), changi recommend, coffee shop, competition, [consumer](keyword_consumer), consumer s shopping experience, convenience store, current crisis, [customer](keyword_customer), customer experience, distribution chain, distribution channel, distribution network, e commerce, [employee](keyword_employee), experience, go online, [government](keyword_government), government regulation, [grocery](keyword_grocery), in store, independent retailer, inventory tracking, just in time inventory management, manage in store crowd, merchandise, multi channel, new technology, online grocer, online retail, online retailer, online retailing, online shopping, panic buying, panic buying period, privacy sensitive technology, profit, promotion, [retail](keyword_retail), retail employee, retail management, [retailer](keyword_retailer), retailers, sale, sale of item, self checkout counter, selfcheckout, selfcheckout counter, service industry, service sector, [shop](keyword_shop), shop online, shopper, [sign](keyword_sign), single location retailer, store network, supermarket, supplier, [supply chain](keyword_supply_chain), target, [technology](keyword_technology), wholesaler
+ * Cluster_11, age of disruption, alternative outlet, [association](keyword_association), assortment, augment service, [brand](keyword_brand), brand image, brick and mortar, brick and mortar retailing, [business](keyword_business), changi recommend, coffee shop, competition, [consumer](keyword_consumer), consumer s shopping experience, convenience store, current crisis, [customer](keyword_customer), customer experience, distribution chain, distribution channel, distribution network, e commerce, [employee](keyword_employee), [experience](keyword_experience), go online, [government](keyword_government), government regulation, grocery, in store, independent retailer, inventory tracking, just in time inventory management, manage in store crowd, merchandise, multi channel, new technology, online grocer, online retail, online retailer, online retailing, online shopping, panic buying, panic buying period, privacy sensitive technology, profit, promotion, retail, retail employee, retail management, [retailer](keyword_retailer), retailers, sale, sale of item, self checkout counter, selfcheckout, selfcheckout counter, service industry, service sector, [shop](keyword_shop), shop online, shopper, [sign](keyword_sign), single location retailer, store network, supermarket, supplier, [supply chain](keyword_supply_chain), target, [technology](keyword_technology), wholesaler
 
 
-## Concepts
 
- ![](imgs/keyword_retailer.jpg)
+## Mapping
 
+<img src="plotly/keyword_retailer.svg">
 
 
 ## Neighbours

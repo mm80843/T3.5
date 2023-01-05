@@ -1,17 +1,17 @@
 # Keyword: store
 
-* [sign-retailer](cluster_Cluster_8)
+* [sociale-drone](cluster_6)
 
 
 ## Keywords
 
- * 80 c, Cluster_8, aisle, aliquote, amigo, brick and mortar, [business](keyword_business), bygne, chick fil a, cloud, database dump, decant, department store, google play, grocery store, mall, occupancy management, [office](keyword_office), pharmacy, prisstigninger, [product](keyword_product), [retail](keyword_retail), reusable bag, [shop](keyword_shop), sommerhusområder, [store](keyword_store), stored, stores, storing, supermarket, the store, triple store, viklet
+ * 80 c, Cluster_6, aisle, aliquote, amigo, brick and mortar, [business](keyword_business), bygne, chick fil a, [cloud](keyword_cloud), database dump, decant, department store, google play, grocery store, mall, occupancy management, [office](keyword_office), pharmacy, prisstigninger, product, retail, reusable bag, [shop](keyword_shop), sommerhusområder, [store](keyword_store), stored, stores, storing, supermarket, the store, triple store, viklet
 
 
-## Concepts
 
- ![](imgs/keyword_store.jpg)
+## Mapping
 
+<img src="plotly/keyword_store.svg">
 
 
 ## Neighbours

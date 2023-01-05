@@ -1,19 +1,23 @@
 # Keyword: datum
 
-* [urban-city](cluster_4)
+* [health-city](cluster_0)
 
-* [ontology-datum](cluster_5)
+* [wastewater-water](cluster_1)
 
-* [datum-iot](cluster_6)
+* [iot-blockchain](cluster_3)
 
-* [china-case](cluster_7)
+* [construction-project](cluster_7)
 
-* [water-wastewater](cluster_12)
+* [processing-wireless](cluster_8)
+
+* [obesity-county](cluster_9)
+
+* [iaq-system](cluster_14)
 
 
 ## Keywords
 
- * analyse, [analysis](keyword_analysis), [analytic](keyword_analytic), analyze, api, assessment, authoritative information, [big datum](keyword_big_datum), big datum analytic, [blockchain](keyword_blockchain), causality analysis, census, cloud, cloud platform, collateral, collect, computer science, computer scientist, confidential, data availability statement, database, [datum](keyword_datum), datum acquisition, datum analysis, datum availability, datum everywhere, datum scientist, datum structure, document, empirical, [epidemiological](keyword_epidemiological), [evidence](keyword_evidence), excel sheet, formidle analyser, geolocation, github, health condition, health datum, heuristic, hypothesis, [information](keyword_information), insight, integrate, [integration](keyword_integration), [internet of thing](keyword_internet_of_thing), interview, [knowledge](keyword_knowledge), life science, machine learning, manage, material, memory, mendeley, method, mobile phone, [model](keyword_model), modeller, nchs, [ontology](keyword_ontology), open datum, operation, operator, organization, outcome metric, [pandemic](keyword_pandemic), [pandemien](keyword_pandemien), perception, predict, [privacy](keyword_privacy), privacy concern, report, [research](keyword_research), [researcher](keyword_researcher), [sample](keyword_sample), schema, science, scientist, sense, sensitive, [sensor](keyword_sensor), [service](keyword_service), [smart building](keyword_smart_building), smartphone, software, software application, [solution](keyword_solution), statistic, statistical, storage, strength, subjective judgment, [surveillance](keyword_surveillance), [technology](keyword_technology), telecommunication, test, third party, unstructured datum, urban informatic, wearable device, world in datum
+ * analyse, [analysis](keyword_analysis), [analytic](keyword_analytic), analyze, api, assessment, authoritative information, [big datum](keyword_big_datum), big datum analytic, [blockchain](keyword_blockchain), causality analysis, census, [cloud](keyword_cloud), cloud platform, collateral, collect, computer science, computer scientist, confidential, data availability statement, [datum](keyword_datum), datum acquisition, datum analysis, datum availability, datum everywhere, datum scientist, datum structure, document, empirical, [epidemiological](keyword_epidemiological), [evidence](keyword_evidence), excel sheet, formidle analyser, [geolocation](keyword_geolocation), github, health condition, health datum, heuristic, hypothesis, [information](keyword_information), insight, integrate, integration, [internet of thing](keyword_internet_of_thing), interview, [knowledge](keyword_knowledge), life science, [machine learning](keyword_machine_learning), manage, [material](keyword_material), memory, mendeley, [method](keyword_method), mobile phone, [model](keyword_model), modeller, nchs, [ontology](keyword_ontology), open datum, operation, operator, [organization](keyword_organization), our world in datum, outcome metric, [pandemic](keyword_pandemic), [pandemien](keyword_pandemien), perception, predict, [privacy](keyword_privacy), privacy concern, [report](keyword_report), [research](keyword_research), [researcher](keyword_researcher), [sample](keyword_sample), schema, science, scientist, sense, sensitive, [sensor](keyword_sensor), [service](keyword_service), [smart building](keyword_smart_building), [smartphone](keyword_smartphone), software, software application, [solution](keyword_solution), statistic, statistical, storage, strength, subjective judgment, [surveillance](keyword_surveillance), [technology](keyword_technology), [test](keyword_test), third party, unstructured datum, urban informatic, wearable device, world, world in datum
 
 
 

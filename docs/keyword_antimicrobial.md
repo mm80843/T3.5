@@ -1,17 +1,15 @@
 # Keyword: antimicrobial
 
-* [airport-coating](cluster_Cluster_6)
-
 
 ## Keywords
 
- * Cluster_6, acta biomater, additive, [agent](keyword_agent), anti biofoule, antibacterial, [antibiotic](keyword_antibiotic), antibiotic resistance, [antimicrobial](keyword_antimicrobial), antimicrobials, [antiviral](keyword_antiviral), as sociation, [bacteria](keyword_bacteria), building material, building product, carbon base, cardboard, chemical, chloroquine, [clean](keyword_clean), clean equipment, [coating](keyword_coating), compound, contact kill, [copper](keyword_copper), copper alloy, copper touch surface, copperbase, cotton, cotton fabric, [covid-19](keyword_covid-19), covidkille, crossref frost, de rivative, [disinfectant](keyword_disinfectant), [disinfection](keyword_disinfection), evi dence, fullerene, gbns, germ, go, go sheet, gra phene, [graphene](keyword_graphene), graphene oxide, hydroxychloroquine, inactivate, [infection](keyword_infection), infectious particle, inorganic, isolation, kill, kriontm, material, mechanism, mechanism of action, mechanism of action of gbns against virus, microbe, nano coating, nanomaterial, nanoparticle, nanosheet, nanotechnology, organic, paint, [pathogen](keyword_pathogen), phytoncide, plastic, polyallylamine, [polymer](keyword_polymer), prescribe, [product](keyword_product), proper tie, property, protection, resistance, richlite, richlite 15 of 31, [sar cov 2](keyword_sar_cov_2), selective pressure, silver nanoparticle, sterilizer, strek, [surface](keyword_surface), surface coating, surface functionalization, surfacewise2, toxic, [transmission](keyword_transmission), ultraviolet uv light exposure, [virus](keyword_virus)
+ * acta biomater, additive, [agent](keyword_agent), anti biofoule, antibacterial, [antibiotic](keyword_antibiotic), antibiotic resistance, [antimicrobial](keyword_antimicrobial), antimicrobials, [antiviral](keyword_antiviral), as sociation, [bacteria](keyword_bacteria), building material, building product, carbon base, cardboard, chemical, chloroquine, [clean](keyword_clean), clean equipment, [coating](keyword_coating), compound, contact kill, [copper](keyword_copper), copper alloy, copper touch surface, copperbase, cotton, cotton fabric, [covid-19](keyword_covid-19), covidkille, crossref frost, de rivative, [disinfectant](keyword_disinfectant), [disinfection](keyword_disinfection), evi dence, fullerene, gbns, germ, go, go sheet, gra phene, [graphene](keyword_graphene), graphene oxide, hydroxychloroquine, inactivate, [infection](keyword_infection), infectious particle, inorganic, isolation, kill, kriontm, [material](keyword_material), mechanism, mechanism of action, mechanism of action of gbns against virus, microbe, nano coating, nanomaterial, nanoparticle, nanosheet, nanotechnology, organic, paint, [pathogen](keyword_pathogen), phytoncide, plastic, polyallylamine, [polymer](keyword_polymer), prescribe, product, proper tie, property, protection, resistance, richlite, richlite 15 of 31, [sar cov 2](keyword_sar_cov_2), selective pressure, silver nanoparticle, sterilizer, strek, [surface](keyword_surface), surface coating, surface functionalization, surfacewise2, toxic, [transmission](keyword_transmission), ultraviolet uv light exposure, [virus](keyword_virus)
 
 
-## Concepts
 
- ![](imgs/keyword_antimicrobial.jpg)
+## Mapping
 
+<img src="plotly/keyword_antimicrobial.svg">
 
 
 ## Neighbours

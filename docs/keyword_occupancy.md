@@ -1,17 +1,17 @@
 # Keyword: occupancy
 
-* [gbn-measure](cluster_Cluster_10)
+* [building-design](cluster_5)
 
 
 ## Keywords
 
- * Cluster_10, activity, [amenity](keyword_amenity), assurance of control, average trend, bar chart, detect, floor to ceiling, hourly, hourly occupancy, [house](keyword_house), [indoor environment](keyword_indoor_environment), intermediate, [occupancy](keyword_occupancy), occupancy level, occupancy rate, occupant activity, outdoor ventilation, restroom, schedule, [school](keyword_school), seat design, [space](keyword_space), [ventilation](keyword_ventilation), ventilation rate, window opening behavior, zone
+ * Cluster_5, [activity](keyword_activity), [amenity](keyword_amenity), assurance of control, average trend, bar chart, [detect](keyword_detect), floor to ceiling, hourly, hourly occupancy, [house](keyword_house), [indoor environment](keyword_indoor_environment), intermediate, [occupancy](keyword_occupancy), occupancy level, occupancy rate, occupant activity, outdoor ventilation, restroom, schedule, [school](keyword_school), seat design, [space](keyword_space), [ventilation](keyword_ventilation), ventilation rate, window opening behavior, zone
 
 
-## Concepts
 
- ![](imgs/keyword_occupancy.jpg)
+## Mapping
 
+<img src="plotly/keyword_occupancy.svg">
 
 
 ## Neighbours
