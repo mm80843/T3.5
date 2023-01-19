@@ -1,9 +1,8 @@
-# Blueprint: __Rotating groups at work, school best against COVID-19 spread: Study__ (BP_0)
 
 
 ## Details
 
-* Cluster: __processing-wireless__ ([Cluster_1](cluster_1))
+* Cluster: __ontology-datum__ ([Cluster_2](cluster_2))
 
 
 
@@ -16,11 +15,11 @@ Rotational Shift System
 
 ### Idea description
 
-During the COVID -19 outbreak, large organisations, as well as many educational institutions, explored the potential to reduce disease transmission by dividing their staff (and students) into smaller groups that take turns using and servicing physical space in enclosed and high-traffic areas. The main idea is to introduce a rotating shift schedule in high occupancy areas, focusing on managing staff presence through shifts rather than the potential users of the services provided.
+During the COVID-19 pandemic, large organisations, as well as many educational institutions, explored the potential to reduce disease transmission by dividing their staff (and students) into smaller groups that take turns using and servicing physical space in enclosed and high-traffic areas. The main idea is to introduce a rotating shift schedule in high occupancy areas, focusing on managing staff presence through shifts rather than the potential users of the services provided. Workers should remain with the same shift group to reduce social mixing between groups of staff.
 
 ### Why?
 
-Limiting the occupancy of enclosed spaces allows for better social distancing and control over indoor parameters (such as CO2 concentration in the air). In addition, rotating the workforce prevents the transmission of diseases between the majority of staff, thus maintaining the final quality of service and bringing more flexibility to clients.
+Limiting the occupancy of enclosed spaces allows for better social distancing. In addition, rotating the workforce prevents the transmission of diseases between the majority of staff, thus maintaining the final quality of service and bringing more flexibility to clients.
 
 ### Contextual situations
 
@@ -28,15 +27,15 @@ This measure should be used in enclosed and busy areas such as offices (during w
 
 ### Problems to solve
 
-Reduced possibility of disease transmission due to less crowded areas and disruption of services due to unavailable labour.
+Reduced possibility of disease transmission due to less crowded areas, less social mixing between staff groups, and reduced disruption of services due to unavailable labour.
 
 ### Value proposition
 
-The implementation of this measure will allow control over occupancy and critical parameters in the indoor spaces, while maintaining the quality of services and productivity at the usual level and providing flexibility to the end users of these services.
+The implementation of this measure will allow control over occupancy, while maintaining the quality of services and productivity at the usual level and providing flexibility to the end users of these services.
 
 ### Capabilities
 
-The good functioning of the rotational shift system is based on three main pillars - 1) a shift booking system that assigns workers to specific groups depending on the situation 2) education of users through information campaigns about the logic of this measure 3) a robust testing plan for a quick response time in case of infection in one of the groups
+The good functioning of the rotational shift system is based on three main pillars - 1) a shift booking system that assigns workers to specific groups depending on the situation 2) education of users through information campaigns about the logic of this measure 3) a robust testing and shift coverage plan for a quick response time in case of infection in one of the groups
 
 ### Restrictions and limitations
 
@@ -51,7 +50,7 @@ A number of limitations and constraints were identified for this specific measur
 
 ### Transmission
 
-Both
+Airborne & Respiratory & Direct Contact
 
 ### Scale
 
@@ -67,7 +66,7 @@ AFP
 
 ### Permanent
 
-Used at specific periods – during high number of disease cases
+Temporary
 
 ### Technical or behavioural
 
@@ -120,10 +119,10 @@ MM
 
 ### Technologies
 
-* BigData
-* 5G
 * Data Analytics
+* 5G
 * IoT
+* BigData
 
 
 
@@ -132,16 +131,20 @@ MM
 
 ### Closest articles
 
-* Touchless Retail: What the Rest of the World could learn from China’s new ways to shop - [LINK](article_capgemini_touchless_2020)
-* Retail Signage During the COVID-19 Pandemic - [LINK](article_mcneish_retail_2020)
-* How COVID-19 Could Accelerate the Adoption of New Retail Technologies and Enhance the (E-)Servicescape - [LINK](article_willems_how_2021)
-* Real-world data show that filters clean COVID-causing virus from air - [LINK](article_thompson_real-world_2021)
-* Navigating Climate Change: Rethinking the Role of Buildings - [LINK](article_cole_navigating_2020)
+* Building occupancy estimation with people flow modeling in AnyLogic - [LINK](article_li_building_2016)
+* EXPOSED: An occupant exposure model for confined spaces to retrofit crowd models during a pandemic - [LINK](article_ronchi_exposed_2020)
+* Challenges of data sharing in European Covid-19 projects: A learning opportunity for advancing pandemic preparedness and response - [LINK](article_tacconelli_challenges_2022)
+* 2020 Data Protection Report - [LINK](article_council_of_europe_2020_2020)
+* Social distancing enhanced automated optimal design of physical spaces in the wake of the COVID-19 pandemic - [LINK](article_ugail_social_2021)
+* Emergency Healthcare Facilities: Managing Design in a Post Covid-19 World - [LINK](article_marinelli_emergency_2020)
 * COVID-19 risks and systemic gaps in Nigeria: resilience building lessons for pandemic and climate change management - [LINK](article_lawal_covid-19_2022)
+* Digital Twin of COVID-19 Mass Vaccination Centers - [LINK](article_pilati_digital_2021)
+* COVID-ABS: An agent-based model of COVID-19 epidemic to simulate health and economic effects of social distancing interventions - [LINK](article_silva_covid-abs_2020)
+* COVID19-Routes: A Safe Pedestrian Navigation Service - [LINK](article_cantarero_covid19-routes_2021)
 
 
 ### Closest BPs
 
+* Blueprint: One-way mobility circulation - [LINK](bp_4)
 * Blueprint: Access limitation - [LINK](bp_7)
 * Blueprint: Checkpoint allocation for access limitation - [LINK](bp_6)
-* Blueprint: One-way mobility circulation - [LINK](bp_4)
