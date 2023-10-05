@@ -4,14 +4,6 @@
 
 This research abstract summarizes a study that explores the influences of social media use during the COVID-19 pandemic. The study investigates the impact of social media use in various dimensions, including public awareness, fake news, knowledge sharing, and psychological well-being and anxiety. The research was conducted online during the lockdown in Cyprus, and the respondents were asked to participate voluntarily. The findings reveal that social media is used as the primary medium for information retrieval during the pandemic, and users are aware of the spread of fake news and rely on official organizations for accurate information. The study also shows that social media use does not create panic or anxiety among users during the pandemic. Additionally, decision-makers are influenced by social media discussions, and users do not use social media for support during this time. Recommendations are made for health ministries and content developers to use social media effectively in providing accurate information and support during pandemics. The study concludes that social media use during the COVID-19 pandemic is different from normal times, with a focus on survival and collective goals. The study has limitations, such as a limited sample size and the need for further research on the recognition of fake news and the social media use of recovered cases.
 
-## Property: has_ArticleTitle
-
-The changes in the effects of social media use of Cypriots due to COVID-19 pandemic
-
-## Property: has_ArticleYear
-
-2020
-
 ## Property: has_ArticleRef
 
 * [el-jardali_amplifying_2020](../Article/PBN__Article_111)
@@ -23,4 +15,12 @@ During the COVID-19 pandemic, people have been using social media more than usua
 ## Property: has_ArticleDOI
 
 10.1016/j.techsoc.2020.101380
+
+## Property: has_ArticleTitle
+
+The changes in the effects of social media use of Cypriots due to COVID-19 pandemic
+
+## Property: has_ArticleYear
+
+2020
 

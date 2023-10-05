@@ -1,9 +1,5 @@
 # Stakeholder: __workers__ (PBN__Stakeholder_128)
 
-## Property: has_StakeholderSubgroup
-
-* [Occupational and Workers](../StakeholderSubgroup/PBN__StakeholderSubgroup_27)
-
 ## Property: has_StakeholderGroup
 
 * [Workers](../StakeholderGroup/PBN__StakeholderGroup_2)
@@ -13,4 +9,8 @@
 ## Property: has_StakeholderID
 
 * [Q105764136](../Qid/Q105764136)
+
+## Property: has_StakeholderSubgroup
+
+* [Occupational and Workers](../StakeholderSubgroup/PBN__StakeholderSubgroup_27)
 

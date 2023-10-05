@@ -1,9 +1,5 @@
 # Stakeholder: __individuals with limited access to green spaces__ (PBN__Stakeholder_803)
 
-## Property: has_StakeholderSubgroup
-
-* [nan](../StakeholderSubgroup/PBN__StakeholderSubgroup_7)
-
 ## Property: has_StakeholderGroup
 
 * [Vulnerable Population](../StakeholderGroup/PBN__StakeholderGroup_6)
@@ -11,4 +7,8 @@
 ## Property: has_StakeholderID
 
 * [Q22652](../Qid/Q22652)
+
+## Property: has_StakeholderSubgroup
+
+* [nan](../StakeholderSubgroup/PBN__StakeholderSubgroup_7)
 

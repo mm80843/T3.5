@@ -1,30 +1,8 @@
 # Risk: __Transmission__ (PBN__Risk_974)
 
-## Property: has_RiskSubject
-
-* [general population](../Stakeholder/PBN__Stakeholder_9)
-
 ## Property: has_RiskISO_Impact
 
 * [Health and care](../RiskISO/PBN__RiskISO_Purpose_0)
-
-## Property: has_RiskSource
-
-* [ferguson_report_2020](../Article/PBN__Article_80)
-* [hizra_houses_2021](../Article/PBN__Article_277)
-
-## Property: has_RiskName
-
-Increased infection rate and potential for widespread outbreak
-
-## Property: has_RiskHealth
-
-* [physical](../RiskHealth/PBN__RiskHealth_0)
-
-## Property: has_RiskGBN
-
-* [Yes](../RiskGBN/PBN__RiskGBN_1)
-* [No](../RiskGBN/PBN__RiskGBN_0)
 
 ## Property: has_RiskTechnology
 
@@ -33,23 +11,23 @@ Increased infection rate and potential for widespread outbreak
 * [uv disinfection](../Technology/PBN__Technology_204)
 * [contact tracing apps](../Technology/PBN__Technology_11)
 
-## Property: has_RiskOwner
+## Property: has_RiskSubject
 
-* [government](../Stakeholder/PBN__Stakeholder_73)
-* [public health organizations](../Stakeholder/PBN__Stakeholder_173)
-* [healthcare authorities](../Stakeholder/PBN__Stakeholder_452)
+* [general population](../Stakeholder/PBN__Stakeholder_9)
 
 ## Property: has_RiskType
 
 * [health](../RiskType/PBN__RiskType_4)
 
-## Property: has_RiskDescription
-
-Spread of contagious diseases through airborne and droplets
-
 ## Property: has_RiskISO_Purpose
 
 * [Safety and security](../RiskISO/PBN__RiskISO_Impact_0)
+
+## Property: has_RiskOwner
+
+* [government](../Stakeholder/PBN__Stakeholder_73)
+* [public health organizations](../Stakeholder/PBN__Stakeholder_173)
+* [healthcare authorities](../Stakeholder/PBN__Stakeholder_452)
 
 ## Property: has_RiskMitigation
 
@@ -103,4 +81,26 @@ Spread of contagious diseases through airborne and droplets
 * [Remote work](../Mitigation/PBN__Mitigation_310)
 * [Face masks](../Mitigation/PBN__Mitigation_1084)
 * [Preprocessing disinfection of sewage](../Mitigation/PBN__Mitigation_2330)
+
+## Property: has_RiskName
+
+Increased infection rate and potential for widespread outbreak
+
+## Property: has_RiskDescription
+
+Spread of contagious diseases through airborne and droplets
+
+## Property: has_RiskSource
+
+* [ferguson_report_2020](../Article/PBN__Article_80)
+* [hizra_houses_2021](../Article/PBN__Article_277)
+
+## Property: has_RiskGBN
+
+* [Yes](../RiskGBN/PBN__RiskGBN_1)
+* [No](../RiskGBN/PBN__RiskGBN_0)
+
+## Property: has_RiskHealth
+
+* [physical](../RiskHealth/PBN__RiskHealth_0)
 

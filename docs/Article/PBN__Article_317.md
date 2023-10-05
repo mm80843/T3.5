@@ -1,13 +1,5 @@
 # Article: __amran_review_2022__ (PBN__Article_317)
 
-## Property: has_ArticleTitle
-
-A Review on Building Design as a Biomedical System for Preventing COVID-19 Pandemic
-
-## Property: has_ArticleYear
-
-2022
-
 ## Property: has_ArticleRef
 
 * [przybylowski_mobility_2021](../Article/PBN__Article_113)
@@ -35,4 +27,12 @@ A Review on Building Design as a Biomedical System for Preventing COVID-19 Pande
 ## Property: has_ArticleDOI
 
 10.3390/buildings12050582
+
+## Property: has_ArticleTitle
+
+A Review on Building Design as a Biomedical System for Preventing COVID-19 Pandemic
+
+## Property: has_ArticleYear
+
+2022
 

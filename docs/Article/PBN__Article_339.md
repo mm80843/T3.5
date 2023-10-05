@@ -1,13 +1,5 @@
 # Article: __elrayies_prophylactic_2022__ (PBN__Article_339)
 
-## Property: has_ArticleTitle
-
-Prophylactic Architecture: Formulating the Concept of Pandemic-Resilient Homes
-
-## Property: has_ArticleYear
-
-2022
-
 ## Property: has_ArticleRef
 
 * [morawska_how_2020](../Article/PBN__Article_121)
@@ -50,4 +42,12 @@ Prophylactic Architecture: Formulating the Concept of Pandemic-Resilient Homes
 ## Property: has_ArticleDOI
 
 10.3390/buildings12070927
+
+## Property: has_ArticleTitle
+
+Prophylactic Architecture: Formulating the Concept of Pandemic-Resilient Homes
+
+## Property: has_ArticleYear
+
+2022
 

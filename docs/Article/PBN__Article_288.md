@@ -4,14 +4,6 @@
 
 This research abstract summarizes a comprehensive review of the literature on the spread and transmission dynamics of SARS-CoV-2, the virus responsible for COVID-19, within the built environment (BE). The review highlights the potential for the virus to be transmitted through both direct and indirect contact with contaminated surfaces (fomites), as well as through close interactions between individuals. It emphasizes the importance of understanding the role of human behavior, spatial dynamics, and building operational factors in promoting or mitigating the spread of the virus. The abstract also discusses the potential for airborne transmission of the virus and the role of ventilation systems in reducing transmission risks. It suggests several strategies for controlling and mitigating the spread of COVID-19 within the built environment, including proper hand hygiene, social distancing measures, cleaning and disinfection protocols, and enhanced HVAC operational practices. The abstract concludes by emphasizing the importance of these measures in reducing the potential for transmission of SARS-CoV-2 within the built environment and the need for continued research and implementation of effective infection control strategies.
 
-## Property: has_ArticleTitle
-
-2019 Novel Coronavirus (COVID-19) Pandemic: Built Environment Considerations To Reduce Transmission
-
-## Property: has_ArticleYear
-
-2020
-
 ## Property: has_ArticleRef
 
 * [ong_air_2020](../Article/PBN__Article_264)
@@ -31,4 +23,12 @@ There have been several outbreaks of diseases caused by coronaviruses in the pas
 ## Property: has_ArticleDOI
 
 10.1128/mSystems.00245-20
+
+## Property: has_ArticleTitle
+
+2019 Novel Coronavirus (COVID-19) Pandemic: Built Environment Considerations To Reduce Transmission
+
+## Property: has_ArticleYear
+
+2020
 

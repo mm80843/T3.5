@@ -4,14 +4,6 @@
 
 This research paper discusses the need for a comprehensive and innovative approach to dealing with the COVID-19 pandemic in terms of indoor air quality and building design. The authors highlight the importance of airborne transmission of the virus and the role of ultrafine particles in spreading the disease. They emphasize the need for healthy indoor environmental quality (IEQ) by maintaining optimum air quality, thermal comfort, ventilation, acoustic performance, lighting, and spatial layout. The paper explores existing technologies and strategies to achieve healthy buildings, including ergonomic furnishing, daylighting, operable shading, nature views, green scaping, and improved indoor air quality. The authors also discuss the use of innovative techniques such as antimicrobial coatings, ultraviolet radiation, air cleaning plants, bipolar ionization, disinfectant fogging systems, and smart technologies for contactless operations. They recommend retrofitting existing buildings with these technologies and incorporating them into the design of future buildings to reduce the transmission of COVID-19 and other infectious diseases. The paper concludes that these strategies can contribute to a healthier and more sustainable built environment.
 
-## Property: has_ArticleTitle
-
-Designing Post COVID-19 Buildings: Approaches for Achieving Healthy Buildings
-
-## Property: has_ArticleYear
-
-2022
-
 ## Property: has_ArticleRef
 
 * [awada_ten_2021](../Article/PBN__Article_38)
@@ -31,4 +23,12 @@ During the COVID-19 pandemic, buildings have had to make changes to keep people 
 ## Property: has_ArticleDOI
 
 10.3390/buildings12010074
+
+## Property: has_ArticleTitle
+
+Designing Post COVID-19 Buildings: Approaches for Achieving Healthy Buildings
+
+## Property: has_ArticleYear
+
+2022
 

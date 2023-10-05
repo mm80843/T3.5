@@ -1,0 +1,26 @@
+
+
+# RiskType -- 22 instances.
+
+* [economic](RiskType/PBN__RiskType_3)
+* [social](RiskType/PBN__RiskType_2)
+* [environmental](RiskType/PBN__RiskType_0)
+* [health](RiskType/PBN__RiskType_4)
+* [legal](RiskType/PBN__RiskType_6)
+* [reputation](RiskType/PBN__RiskType_13)
+* [political](RiskType/PBN__RiskType_1)
+* [technological](RiskType/PBN__RiskType_5)
+* [ethical](RiskType/PBN__RiskType_8)
+* [nan](RiskType/PBN__RiskType_14)
+* [other](RiskType/PBN__RiskType_11)
+* [biological](RiskType/PBN__RiskType_10)
+* [technology](RiskType/PBN__RiskType_20)
+* [socio-economic](RiskType/PBN__RiskType_7)
+* [scientific](RiskType/PBN__RiskType_9)
+* [----------------](RiskType/PBN__RiskType_12)
+* [educational](RiskType/PBN__RiskType_19)
+* [medical](RiskType/PBN__RiskType_15)
+* [occupational](RiskType/PBN__RiskType_16)
+* [education](RiskType/PBN__RiskType_17)
+* [social/health](RiskType/PBN__RiskType_18)
+* [--------------](RiskType/PBN__RiskType_21)

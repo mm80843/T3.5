@@ -1,33 +1,25 @@
 # Risk: __Need for alternative detection methods__ (PBN__Risk_1152)
 
+## Property: has_RiskISO_Impact
+
+* [Health and care](../RiskISO/PBN__RiskISO_Purpose_0)
+
+## Property: has_RiskTechnology
+
+* [none](../Technology/PBN__Technology_35)
+
 ## Property: has_RiskSubject
 
 * [laboratory personnel](../Stakeholder/PBN__Stakeholder_690)
 * [researchers in wastewater analysis](../Stakeholder/PBN__Stakeholder_691)
 
-## Property: has_RiskISO_Impact
+## Property: has_RiskType
 
-* [Health and care](../RiskISO/PBN__RiskISO_Purpose_0)
+* [technological](../RiskType/PBN__RiskType_5)
 
-## Property: has_RiskSource
+## Property: has_RiskISO_Purpose
 
-* [barcelo_wastewater-based_2020](../Article/PBN__Article_178)
-
-## Property: has_RiskName
-
-Limited options for early detection and monitoring of COVID-19 outbreaks in wastewater.
-
-## Property: has_RiskHealth
-
-* [physical](../RiskHealth/PBN__RiskHealth_0)
-
-## Property: has_RiskGBN
-
-* [Yes](../RiskGBN/PBN__RiskGBN_1)
-
-## Property: has_RiskTechnology
-
-* [none](../Technology/PBN__Technology_35)
+* [Well-being](../RiskISO/PBN__RiskISO_Impact_1)
 
 ## Property: has_RiskOwner
 
@@ -35,19 +27,27 @@ Limited options for early detection and monitoring of COVID-19 outbreaks in wast
 * [researchers](../Stakeholder/PBN__Stakeholder_2)
 * [laboratory personnel](../Stakeholder/PBN__Stakeholder_690)
 
-## Property: has_RiskType
+## Property: has_RiskMitigation
 
-* [technological](../RiskType/PBN__RiskType_5)
+* [Exploration and development of alternative detection methods such as CRISPR, digital PCR, lab-on-a-chip, and biosensors.](../RiskMitigation/PBN__RiskMitigation_1604)
+
+## Property: has_RiskName
+
+Limited options for early detection and monitoring of COVID-19 outbreaks in wastewater.
 
 ## Property: has_RiskDescription
 
 PCR methods should be complemented with alternative detection methods to improve comparability, sensitivity, and affordability in wastewater-based epidemiology.
 
-## Property: has_RiskISO_Purpose
+## Property: has_RiskSource
 
-* [Well-being](../RiskISO/PBN__RiskISO_Impact_1)
+* [barcelo_wastewater-based_2020](../Article/PBN__Article_178)
 
-## Property: has_RiskMitigation
+## Property: has_RiskGBN
 
-* [Exploration and development of alternative detection methods such as CRISPR, digital PCR, lab-on-a-chip, and biosensors.](../RiskMitigation/PBN__RiskMitigation_1604)
+* [Yes](../RiskGBN/PBN__RiskGBN_1)
+
+## Property: has_RiskHealth
+
+* [physical](../RiskHealth/PBN__RiskHealth_0)
 

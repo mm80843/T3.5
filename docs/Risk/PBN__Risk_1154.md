@@ -1,33 +1,25 @@
 # Risk: __Lack of specific biomarkers for COVID-19 detection in wastewater__ (PBN__Risk_1154)
 
+## Property: has_RiskISO_Impact
+
+* [Innovation, Creativity and research](../RiskISO/PBN__RiskISO_Purpose_2)
+
+## Property: has_RiskTechnology
+
+* [nan](../Technology/PBN__Technology_22)
+
 ## Property: has_RiskSubject
 
 * [laboratory personnel](../Stakeholder/PBN__Stakeholder_690)
 * [researchers in wastewater analysis](../Stakeholder/PBN__Stakeholder_691)
 
-## Property: has_RiskISO_Impact
+## Property: has_RiskType
 
-* [Innovation, Creativity and research](../RiskISO/PBN__RiskISO_Purpose_2)
+* [technological](../RiskType/PBN__RiskType_5)
 
-## Property: has_RiskSource
+## Property: has_RiskISO_Purpose
 
-* [barcelo_wastewater-based_2020](../Article/PBN__Article_178)
-
-## Property: has_RiskName
-
-Inability to specifically detect and monitor COVID-19 outbreaks in wastewater using biomarker-based methods.
-
-## Property: has_RiskHealth
-
-* [other](../RiskHealth/PBN__RiskHealth_2)
-
-## Property: has_RiskGBN
-
-* [No](../RiskGBN/PBN__RiskGBN_0)
-
-## Property: has_RiskTechnology
-
-* [nan](../Technology/PBN__Technology_22)
+* [Biodiversity and ecosystem services](../RiskISO/PBN__RiskISO_Impact_15)
 
 ## Property: has_RiskOwner
 
@@ -35,19 +27,27 @@ Inability to specifically detect and monitor COVID-19 outbreaks in wastewater us
 * [researchers](../Stakeholder/PBN__Stakeholder_2)
 * [laboratory personnel](../Stakeholder/PBN__Stakeholder_690)
 
-## Property: has_RiskType
+## Property: has_RiskMitigation
 
-* [technological](../RiskType/PBN__RiskType_5)
+* [Exploration and identification of specific biomarkers associated with COVID-19 in wastewater.](../RiskMitigation/PBN__RiskMitigation_1606)
+
+## Property: has_RiskName
+
+Inability to specifically detect and monitor COVID-19 outbreaks in wastewater using biomarker-based methods.
 
 ## Property: has_RiskDescription
 
 The absence of specific biomarkers for COVID-19 in wastewater limits the use of biomarker-based detection methods.
 
-## Property: has_RiskISO_Purpose
+## Property: has_RiskSource
 
-* [Biodiversity and ecosystem services](../RiskISO/PBN__RiskISO_Impact_15)
+* [barcelo_wastewater-based_2020](../Article/PBN__Article_178)
 
-## Property: has_RiskMitigation
+## Property: has_RiskGBN
 
-* [Exploration and identification of specific biomarkers associated with COVID-19 in wastewater.](../RiskMitigation/PBN__RiskMitigation_1606)
+* [No](../RiskGBN/PBN__RiskGBN_0)
+
+## Property: has_RiskHealth
+
+* [other](../RiskHealth/PBN__RiskHealth_2)
 

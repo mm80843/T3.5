@@ -1,27 +1,8 @@
 # Benef: __Reduced transmission__ (PBN__Benef_232)
 
-## Property: has_Beneficiary
-
-* [residents](../Stakeholder/PBN__Stakeholder_59)
-* [general population](../Stakeholder/PBN__Stakeholder_9)
-* [building owners](../Stakeholder/PBN__Stakeholder_80)
-* [occupants](../Stakeholder/PBN__Stakeholder_92)
-* [general public](../Stakeholder/PBN__Stakeholder_29)
-* [individuals](../Stakeholder/PBN__Stakeholder_20)
-
 ## Property: has_BenefDetails
 
 Opening windows can increase outside air fraction and total air change rate, reducing the concentration of airborne viral particles and the risk of transmission.
-
-## Property: has_BenefSource
-
-* [tokazhanov_assessment_2021](../Article/PBN__Article_51)
-* [ferguson_report_2020](../Article/PBN__Article_80)
-* [rahim_impact_2022](../Article/PBN__Article_94)
-* [ebrahim_covid-19_2020](../Article/PBN__Article_112)
-* [quantin_covid-19_2022](../Article/PBN__Article_136)
-* [salama_coronavirus_2020](../Article/PBN__Article_184)
-* [dietz_2019_2020](../Article/PBN__Article_288)
 
 ## Property: has_BenefReturn
 
@@ -38,4 +19,23 @@ Opening windows can increase outside air fraction and total air change rate, red
 * [Private investors benefit by investing in increased ventilation systems that improve indoor air quality and reduce the risk of infection, thus enhancing occupant satisfaction and potentially attracting more tenants or customers.](../BenefReturn/PBN__BenefReturn_1531)
 * [Private investors benefit by investing in UV germicidal irradiation systems that enhance indoor air quality and reduce the risk of infection, thus enhancing occupant satisfaction and potentially attracting more tenants or customers.](../BenefReturn/PBN__BenefReturn_1532)
 * [Private investors benefit by promoting window ventilation, which improves indoor air quality and reduces the risk of infection, thus enhancing occupant satisfaction and potentially attracting more tenants or customers.](../BenefReturn/PBN__BenefReturn_1533)
+
+## Property: has_Beneficiary
+
+* [residents](../Stakeholder/PBN__Stakeholder_59)
+* [general population](../Stakeholder/PBN__Stakeholder_9)
+* [building owners](../Stakeholder/PBN__Stakeholder_80)
+* [occupants](../Stakeholder/PBN__Stakeholder_92)
+* [general public](../Stakeholder/PBN__Stakeholder_29)
+* [individuals](../Stakeholder/PBN__Stakeholder_20)
+
+## Property: has_BenefSource
+
+* [tokazhanov_assessment_2021](../Article/PBN__Article_51)
+* [ferguson_report_2020](../Article/PBN__Article_80)
+* [rahim_impact_2022](../Article/PBN__Article_94)
+* [ebrahim_covid-19_2020](../Article/PBN__Article_112)
+* [quantin_covid-19_2022](../Article/PBN__Article_136)
+* [salama_coronavirus_2020](../Article/PBN__Article_184)
+* [dietz_2019_2020](../Article/PBN__Article_288)
 

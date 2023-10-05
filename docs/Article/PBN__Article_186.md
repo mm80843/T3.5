@@ -4,14 +4,6 @@
 
 This research proposes a methodology for the automated optimal design of physical spaces to enable social distancing during the COVID-19 pandemic. The methodology is based on the circle packing problem, where the objective is to arrange objects in a given physical space while adhering to social distancing requirements. The optimization problem is formulated as a constrained nonlinear optimization problem, which is solved using the interior-point method. The proposed methodology can handle various types of physical spaces, such as rectangular, circular, and triangular rooms, and can incorporate constraints related to the airflow pattern, position of windows and doors, and fixed objects within the space. The methodology is demonstrated through several examples, including meeting rooms, common areas, airplane seating arrangements, and an atrium area of a university building. The results show that the proposed methodology can generate feasible and optimal arrangements of physical spaces that adhere to social distancing requirements. This research provides a novel approach to help designers and decision-makers in planning and reconfiguring physical spaces to reduce the risk of COVID-19 transmission.
 
-## Property: has_ArticleTitle
-
-Social distancing enhanced automated optimal design of physical spaces in the wake of the COVID-19 pandemic
-
-## Property: has_ArticleYear
-
-2021
-
 ## Property: has_ArticleRef
 
 * [shorfuzzaman_towards_2021](../Article/PBN__Article_117)
@@ -24,4 +16,12 @@ In this article, the authors propose a way to design or reconfigure physical spa
 ## Property: has_ArticleDOI
 
 10.1016/j.scs.2021.102791
+
+## Property: has_ArticleTitle
+
+Social distancing enhanced automated optimal design of physical spaces in the wake of the COVID-19 pandemic
+
+## Property: has_ArticleYear
+
+2021
 

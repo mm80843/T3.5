@@ -4,14 +4,6 @@
 
 This paper provides a systematic review and bibliometric analysis of previous research on pandemic mitigation strategies and discusses the considerable research publications on COVID-19. The authors highlight the importance of strengthening public health and hygiene, as well as implementing measures such as tracking and tracing transmissions, mass testing, social distancing, and vaccine formulation. The review examines the economic and social impact of pandemics, and emphasizes the need for strong and rapid domestic and global preparedness to stop the spread and spark risk. The reproduction number (R0) of COVID-19 is compared to other pandemics, and the authors propose a conceptual strategic framework and various protocols for monitoring and controlling the spread of COVID-19. They also suggest the use of innovative technologies, such as cloud-based tracing and tracking systems, QR codes for identification and testing, and offshore medical rigs. The paper concludes by highlighting the importance of long-term strategies, technological advancements, and interdisciplinary collaboration in mitigating the current crisis and preparing for future pandemics.
 
-## Property: has_ArticleTitle
-
-Mitigation strategies to fight the COVID-19 pandemic—present, future and beyond
-
-## Property: has_ArticleYear
-
-2020
-
 ## Property: has_ArticleRef
 
 * [ebrahim_covid-19_2020](../Article/PBN__Article_112)
@@ -23,4 +15,12 @@ Pandemics, like the current COVID-19 pandemic, can cause a lot of harm to the ec
 ## Property: has_ArticleDOI
 
 10.1108/jhr-04-2020-0109
+
+## Property: has_ArticleTitle
+
+Mitigation strategies to fight the COVID-19 pandemic—present, future and beyond
+
+## Property: has_ArticleYear
+
+2020
 

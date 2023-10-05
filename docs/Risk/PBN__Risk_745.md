@@ -1,5 +1,15 @@
 # Risk: __Energy consumption__ (PBN__Risk_745)
 
+## Property: has_RiskISO_Impact
+
+* [Economy and sustainable production and consumption](../RiskISO/PBN__RiskISO_Purpose_8)
+
+## Property: has_RiskTechnology
+
+* [energy-efficient appliances](../Technology/PBN__Technology_79)
+* [smart meters](../Technology/PBN__Technology_668)
+* [energy-efficient systems and technologies](../Technology/PBN__Technology_1893)
+
 ## Property: has_RiskSubject
 
 * [building occupants](../Stakeholder/PBN__Stakeholder_97)
@@ -7,33 +17,14 @@
 * [building owners](../Stakeholder/PBN__Stakeholder_80)
 * [energy managers](../Stakeholder/PBN__Stakeholder_1531)
 
-## Property: has_RiskISO_Impact
+## Property: has_RiskType
 
-* [Economy and sustainable production and consumption](../RiskISO/PBN__RiskISO_Purpose_8)
+* [economic](../RiskType/PBN__RiskType_3)
+* [environmental](../RiskType/PBN__RiskType_0)
 
-## Property: has_RiskSource
+## Property: has_RiskISO_Purpose
 
-* [gonzalez_reflecting_2021](../Article/PBN__Article_110)
-* [wang_characterization_2011](../Article/PBN__Article_71)
-
-## Property: has_RiskName
-
-Increased energy costs, environmental impact.
-
-## Property: has_RiskHealth
-
-* [physical](../RiskHealth/PBN__RiskHealth_0)
-* [nan](../RiskHealth/PBN__RiskHealth_6)
-
-## Property: has_RiskGBN
-
-* [Yes](../RiskGBN/PBN__RiskGBN_1)
-
-## Property: has_RiskTechnology
-
-* [energy-efficient appliances](../Technology/PBN__Technology_79)
-* [smart meters](../Technology/PBN__Technology_668)
-* [energy-efficient systems and technologies](../Technology/PBN__Technology_1893)
+* [Responsible resource use](../RiskISO/PBN__RiskISO_Impact_4)
 
 ## Property: has_RiskOwner
 
@@ -42,19 +33,6 @@ Increased energy costs, environmental impact.
 * [policymakers](../Stakeholder/PBN__Stakeholder_126)
 * [facility managers](../Stakeholder/PBN__Stakeholder_166)
 * [energy managers](../Stakeholder/PBN__Stakeholder_1531)
-
-## Property: has_RiskType
-
-* [economic](../RiskType/PBN__RiskType_3)
-* [environmental](../RiskType/PBN__RiskType_0)
-
-## Property: has_RiskDescription
-
-Buildings account for a significant portion of energy consumption, and air conditioning offices contribute to the growing demand for energy.
-
-## Property: has_RiskISO_Purpose
-
-* [Responsible resource use](../RiskISO/PBN__RiskISO_Impact_4)
 
 ## Property: has_RiskMitigation
 
@@ -68,4 +46,26 @@ Buildings account for a significant portion of energy consumption, and air condi
 * [Programmable thermostats](../Mitigation/PBN__Mitigation_2153)
 * [Solar chargers](../Mitigation/PBN__Mitigation_2155)
 * [Sustainable energy sources](../Mitigation/PBN__Mitigation_2163)
+
+## Property: has_RiskName
+
+Increased energy costs, environmental impact.
+
+## Property: has_RiskDescription
+
+Buildings account for a significant portion of energy consumption, and air conditioning offices contribute to the growing demand for energy.
+
+## Property: has_RiskSource
+
+* [gonzalez_reflecting_2021](../Article/PBN__Article_110)
+* [wang_characterization_2011](../Article/PBN__Article_71)
+
+## Property: has_RiskGBN
+
+* [Yes](../RiskGBN/PBN__RiskGBN_1)
+
+## Property: has_RiskHealth
+
+* [physical](../RiskHealth/PBN__RiskHealth_0)
+* [nan](../RiskHealth/PBN__RiskHealth_6)
 

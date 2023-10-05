@@ -4,14 +4,6 @@
 
 This study aimed to investigate the impact of control measures, including travel restrictions, on the spread of COVID-19 in China. The researchers used real-time mobility data and case data with travel history to assess the role of case importation in transmission across different cities in China. They found that early on in the outbreak, the spatial distribution of cases in China could be explained by human mobility data. However, after the implementation of control measures, this correlation dropped and growth rates became negative in most locations, indicating successful mitigation of the spread of COVID-19. The study also highlighted the importance of Wuhan as a major source of early cases with known travel history. The authors concluded that travel restrictions are effective in the early stages of an outbreak when it is localized, but may be less effective when the outbreak is more widespread. Additionally, the combination of interventions implemented in China significantly reduced local transmission of COVID-19. Further research is needed to understand the optimal balance between public health measures and societal and economic impacts.
 
-## Property: has_ArticleTitle
-
-The effect of human mobility and control measures on the COVID-19 epidemic in China
-
-## Property: has_ArticleYear
-
-2020
-
 ## Property: has_ArticleRef
 
 * [tian_investigation_2020](../Article/PBN__Article_197)
@@ -23,4 +15,12 @@ The coronavirus disease 2019 (COVID-19) outbreak started in China and spread qui
 ## Property: has_ArticleDOI
 
 10.1126/science.abb4218
+
+## Property: has_ArticleTitle
+
+The effect of human mobility and control measures on the COVID-19 epidemic in China
+
+## Property: has_ArticleYear
+
+2020
 

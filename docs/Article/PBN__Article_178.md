@@ -4,14 +4,6 @@
 
 This research abstract discusses the use of wastewater-based epidemiology (WBE) as a method to detect and monitor the spread of COVID-19. WBE involves analyzing sewage samples for the presence of the SARS-CoV-2 virus, which can provide early detection and information about the scale of an outbreak. The most commonly used method for detecting the virus in wastewater is nucleic acid-based polymerase chain reaction (PCR) assay, which requires complex sample handling and can be time-consuming. Several countries have reported detecting SARS-CoV-2 in sewage using PCR, and the concentration methods used vary. Some studies have found that viral RNA can be detected in feces even when respiratory samples are negative. In addition to PCR, other methods such as lab-on-a-chip (LOC) technologies and biosensors are being explored for rapid and on-site detection of the virus in wastewater. Biomarkers, such as inflammatory response biomarkers, are also being considered for WBE. Standardization of analytical protocols and comparison of results between labs are areas of concern. Overall, there is a need to improve the comparability and sensitivity of PCR methods used in WBE and to explore alternative detection methods.
 
-## Property: has_ArticleTitle
-
-Wastewater-Based Epidemiology to monitor COVID-19 outbreak: Present and future diagnostic methods to be in your radar
-
-## Property: has_ArticleYear
-
-2020
-
 ## Property: has_ArticleRef
 
 * [daughton_wastewater_2020](../Article/PBN__Article_213)
@@ -28,4 +20,12 @@ Wastewater-based epidemiology (WBE) is a way to detect COVID-19 outbreaks by ana
 ## Property: has_ArticleDOI
 
 10.1016/j.cscee.2020.100042
+
+## Property: has_ArticleTitle
+
+Wastewater-Based Epidemiology to monitor COVID-19 outbreak: Present and future diagnostic methods to be in your radar
+
+## Property: has_ArticleYear
+
+2020
 

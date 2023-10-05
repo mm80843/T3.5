@@ -1,10 +1,5 @@
 # Technology: __green infrastructure__ (PBN__Technology_48)
 
-## Property: has_StakeholderSubgroup
-
-* [Urban Planning and Green Spaces](../TechSubgroup/PBN__TechSubgroup_85)
-* [Green Spaces and Urban Design](../TechSubgroup/PBN__TechSubgroup_84)
-
 ## Property: has_TechnologyID
 
 * [Q3427027](../Qid/Q3427027)
@@ -13,4 +8,9 @@
 
 * [Wellbeing](../TechGroup/PBN__TechGroup_2)
 * [Urban technology](../TechGroup/PBN__TechGroup_14)
+
+## Property: has_StakeholderSubgroup
+
+* [Urban Planning and Green Spaces](../TechSubgroup/PBN__TechSubgroup_85)
+* [Green Spaces and Urban Design](../TechSubgroup/PBN__TechSubgroup_84)
 

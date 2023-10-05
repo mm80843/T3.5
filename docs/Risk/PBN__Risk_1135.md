@@ -1,52 +1,52 @@
 # Risk: __Scalability and cost of graphene-based coatings__ (PBN__Risk_1135)
 
+## Property: has_RiskISO_Impact
+
+* [Economy and sustainable production and consumption](../RiskISO/PBN__RiskISO_Purpose_8)
+
+## Property: has_RiskTechnology
+
+* [scalable production techniques for graphene coatings](../Technology/PBN__Technology_216)
+
 ## Property: has_RiskSubject
 
 * [general population](../Stakeholder/PBN__Stakeholder_9)
 * [manufacturers](../Stakeholder/PBN__Stakeholder_34)
 
-## Property: has_RiskISO_Impact
+## Property: has_RiskType
 
-* [Economy and sustainable production and consumption](../RiskISO/PBN__RiskISO_Purpose_8)
+* [economic](../RiskType/PBN__RiskType_3)
 
-## Property: has_RiskSource
+## Property: has_RiskISO_Purpose
 
-* [ayub_graphene-based_2021](../Article/PBN__Article_187)
-
-## Property: has_RiskName
-
-Limited availability and high cost of graphene coatings
-
-## Property: has_RiskHealth
-
-* [nan](../RiskHealth/PBN__RiskHealth_6)
-
-## Property: has_RiskGBN
-
-* [Yes](../RiskGBN/PBN__RiskGBN_1)
-
-## Property: has_RiskTechnology
-
-* [scalable production techniques for graphene coatings](../Technology/PBN__Technology_216)
+* [Responsible resource use](../RiskISO/PBN__RiskISO_Impact_4)
 
 ## Property: has_RiskOwner
 
 * [manufacturers](../Stakeholder/PBN__Stakeholder_34)
 * [researchers](../Stakeholder/PBN__Stakeholder_2)
 
-## Property: has_RiskType
+## Property: has_RiskMitigation
 
-* [economic](../RiskType/PBN__RiskType_3)
+* [Develop cost-effective and scalable production methods](../RiskMitigation/PBN__RiskMitigation_1583)
+
+## Property: has_RiskName
+
+Limited availability and high cost of graphene coatings
 
 ## Property: has_RiskDescription
 
 Challenges in mass production and affordability of graphene coatings
 
-## Property: has_RiskISO_Purpose
+## Property: has_RiskSource
 
-* [Responsible resource use](../RiskISO/PBN__RiskISO_Impact_4)
+* [ayub_graphene-based_2021](../Article/PBN__Article_187)
 
-## Property: has_RiskMitigation
+## Property: has_RiskGBN
 
-* [Develop cost-effective and scalable production methods](../RiskMitigation/PBN__RiskMitigation_1583)
+* [Yes](../RiskGBN/PBN__RiskGBN_1)
+
+## Property: has_RiskHealth
+
+* [nan](../RiskHealth/PBN__RiskHealth_6)
 

@@ -4,14 +4,6 @@
 
 This study examines the association between built environment (BE) attributes and the spread of the COVID-19 virus in China. The study focuses on both inter-city and intra-city BE attributes, such as the number of trains and flights, between-ness centrality of key transport nodes, population flow, travel time by public transport, density of points of interest around railway stations, and population density of built-up areas. The study uses a mixed geographically weighted regression (GWR) model to estimate the associations of these BE attributes with the spread of the virus. The results show that the number of trains, population flow, between-ness centrality, travel time by public transport, and population density of built-up areas have mixed effects on the spread of COVID-19. The associations vary across locations, indicating spatial heterogeneity. The study suggests that restricting inter-city connections and reducing population densities in built-up areas could be effective measures to prevent the spread of future pandemics. The findings have important policy implications for urban planning and policy-making to improve the resilience of cities and communities in dealing with public health pandemics. However, the study has some limitations, such as the focus on the initial stage of the pandemic and the need to consider socio-demographic characteristics and healthcare facilities in future studies.
 
-## Property: has_ArticleTitle
-
-Association of built environment attributes with the spread of COVID-19 at its initial stage in China
-
-## Property: has_ArticleYear
-
-2021
-
 ## Property: has_ArticleRef
 
 * [dietz_2019_2020](../Article/PBN__Article_288)
@@ -25,4 +17,12 @@ This study looked at how different attributes of the built environment (BE) in C
 ## Property: has_ArticleDOI
 
 10.1016/j.scs.2021.102752
+
+## Property: has_ArticleTitle
+
+Association of built environment attributes with the spread of COVID-19 at its initial stage in China
+
+## Property: has_ArticleYear
+
+2021
 

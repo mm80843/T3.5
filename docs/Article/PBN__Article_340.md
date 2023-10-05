@@ -1,13 +1,5 @@
 # Article: __elsaid_critical_2021__ (PBN__Article_340)
 
-## Property: has_ArticleTitle
-
-A critical review of heating, ventilation, and air conditioning (HVAC) systems within the context of a global SARS-CoV-2 epidemic
-
-## Property: has_ArticleYear
-
-2021
-
 ## Property: has_ArticleRef
 
 * [guo_review_2021](../Article/PBN__Article_45)
@@ -20,4 +12,12 @@ A critical review of heating, ventilation, and air conditioning (HVAC) systems w
 ## Property: has_ArticleDOI
 
 10.1016/j.psep.2021.09.021
+
+## Property: has_ArticleTitle
+
+A critical review of heating, ventilation, and air conditioning (HVAC) systems within the context of a global SARS-CoV-2 epidemic
+
+## Property: has_ArticleYear
+
+2021
 

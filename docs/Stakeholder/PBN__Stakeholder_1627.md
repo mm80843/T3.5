@@ -1,9 +1,5 @@
 # Stakeholder: __venue owner__ (PBN__Stakeholder_1627)
 
-## Property: has_StakeholderSubgroup
-
-* [nan](../StakeholderSubgroup/PBN__StakeholderSubgroup_7)
-
 ## Property: has_StakeholderGroup
 
 * [City Officials](../StakeholderGroup/PBN__StakeholderGroup_0)
@@ -11,4 +7,8 @@
 ## Property: has_StakeholderID
 
 * [Q8719053](../Qid/Q8719053)
+
+## Property: has_StakeholderSubgroup
+
+* [nan](../StakeholderSubgroup/PBN__StakeholderSubgroup_7)
 

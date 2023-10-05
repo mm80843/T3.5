@@ -4,14 +4,6 @@
 
 This research abstract summarizes a study that examines the impact of the COVID-19 pandemic on tourists' behavior and vacation plans. The study finds that the perception of COVID-19 as a travel risk leads to changes in vacation behavior, such as altering destination choices, accommodation preferences, and travel activities. COVID-19 risk perception also influences the decision to travel internationally or domestically and the duration of vacations. Additionally, the study reveals the presence of travel anxiety due to COVID-19, which further affects vacation plans, particularly in terms of not traveling or reducing the length of trips. The findings highlight the need for specific strategies to address travel anxiety and reduce perceived travel risks in order to restore international tourism demand. The study also suggests that post-pandemic tourism may become more sustainable, with tourists opting for smaller, isolated accommodations and engaging in more outdoor activities. However, the study acknowledges limitations in terms of its geographical scope and the need for further research on tourists' behavior and anxiety in different cultural contexts.
 
-## Property: has_ArticleTitle
-
-Should I Stay or Should I Go? Tourists’ COVID-19 Risk Perception and Vacation Behavior Shift
-
-## Property: has_ArticleYear
-
-2021
-
 ## Property: has_ArticleRef
 
 * [nicola_socio-economic_2020](../Article/PBN__Article_135)
@@ -23,4 +15,12 @@ The COVID-19 pandemic is a really big problem that is affecting the whole world.
 ## Property: has_ArticleDOI
 
 10.3390/su13063573
+
+## Property: has_ArticleTitle
+
+Should I Stay or Should I Go? Tourists’ COVID-19 Risk Perception and Vacation Behavior Shift
+
+## Property: has_ArticleYear
+
+2021
 

@@ -1,9 +1,5 @@
 # Stakeholder: __healthcare facilities__ (PBN__Stakeholder_33)
 
-## Property: has_StakeholderSubgroup
-
-* [Healthcare](../StakeholderSubgroup/PBN__StakeholderSubgroup_48)
-
 ## Property: has_StakeholderGroup
 
 * [Health Authorities](../StakeholderGroup/PBN__StakeholderGroup_4)
@@ -12,4 +8,8 @@
 ## Property: has_StakeholderID
 
 * [Q4260475](../Qid/Q4260475)
+
+## Property: has_StakeholderSubgroup
+
+* [Healthcare](../StakeholderSubgroup/PBN__StakeholderSubgroup_48)
 

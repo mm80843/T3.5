@@ -4,14 +4,6 @@
 
 This scoping review summarizes the main interventions implemented by governments in response to the psychosocial and economic outcomes of the COVID-19 pandemic. The review includes studies published between December 2019 and December 2020 and focuses on economic, social, and psychological interventions. The findings reveal that governments have taken various measures to manage the negative effects of the pandemic on different populations. Economic interventions primarily target impoverished households and include cash payments, loan guarantees, tax deferrals, subsidies, and employment protections. Social support measures aim to protect vulnerable groups and include providing shelters, personal protective equipment, and support for victims of domestic violence, refugees, and the elderly. Psychological interventions have been delivered remotely through virtual platforms and telemedicine, with a focus on resilience, flexibility, and emotional regulation. However, there are disparities in the implementation of interventions, with high-income countries having more resources to address these issues compared to lower-income countries. In conclusion, governments have a responsibility to support vulnerable populations and mitigate the socioeconomic and psychological impacts of the pandemic.
 
-## Property: has_ArticleTitle
-
-Non-medical Interventions to Reduce the Burden of Psychosocial and Economic Impacts of COVID-19 Pandemic: A Scope Review
-
-## Property: has_ArticleYear
-
-2021
-
 ## Property: has_ArticleRef
 
 * [akseer_covid-19_2020](../Article/PBN__Article_222)
@@ -25,4 +17,12 @@ The COVID-19 pandemic has caused a lot of problems for people all around the wor
 ## Property: has_ArticleDOI
 
 10.5812/semj.118177
+
+## Property: has_ArticleTitle
+
+Non-medical Interventions to Reduce the Burden of Psychosocial and Economic Impacts of COVID-19 Pandemic: A Scope Review
+
+## Property: has_ArticleYear
+
+2021
 

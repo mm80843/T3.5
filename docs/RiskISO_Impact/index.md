@@ -1,0 +1,28 @@
+
+
+# RiskISO_Impact -- 24 instances.
+
+* [Resilience](RiskISO/PBN__RiskISO_Impact_2)
+* [Health and care](RiskISO/PBN__RiskISO_Impact_3)
+* [Responsible resource use](RiskISO/PBN__RiskISO_Impact_4)
+* [Well-being](RiskISO/PBN__RiskISO_Impact_1)
+* [Preserv. and improve. of the environment](RiskISO/PBN__RiskISO_Impact_7)
+* [Topic](RiskISO/PBN__RiskISO_Impact_12)
+* [Economy and sustainable production and consumption](RiskISO/PBN__RiskISO_Impact_10)
+* [Safety and security](RiskISO/PBN__RiskISO_Impact_0)
+* [Preservation and improvement of the environment](RiskISO/PBN__RiskISO_Impact_6)
+* [Mobility](RiskISO/PBN__RiskISO_Impact_14)
+* [Attractiveness](RiskISO/PBN__RiskISO_Impact_9)
+* [Research](RiskISO/PBN__RiskISO_Impact_11)
+* [nan](RiskISO/PBN__RiskISO_Impact_13)
+* [Technology and innovation](RiskISO/PBN__RiskISO_Impact_20)
+* [Innovation, Creativity and research](RiskISO/PBN__RiskISO_Impact_8)
+* [Social cohesion](RiskISO/PBN__RiskISO_Impact_5)
+* [Biodiversity and ecosystem services](RiskISO/PBN__RiskISO_Impact_15)
+* [Preservaion and improvement of the environment](RiskISO/PBN__RiskISO_Impact_16)
+* [Governance, empowerment and engagement](RiskISO/PBN__RiskISO_Impact_17)
+* [Preservations and improvement of the environment](RiskISO/PBN__RiskISO_Impact_18)
+* [Education and capacity building](RiskISO/PBN__RiskISO_Impact_19)
+* [-------------------------------------](RiskISO/PBN__RiskISO_Impact_21)
+* [Preserv. and improvement of the environment](RiskISO/PBN__RiskISO_Impact_22)
+* [Responsbile resource use](RiskISO/PBN__RiskISO_Impact_23)

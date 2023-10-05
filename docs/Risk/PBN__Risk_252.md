@@ -1,42 +1,8 @@
 # Risk: __Airborne transmission__ (PBN__Risk_252)
 
-## Property: has_RiskSubject
-
-* [healthcare workers](../Stakeholder/PBN__Stakeholder_68)
-* [patients](../Stakeholder/PBN__Stakeholder_31)
-* [building occupants](../Stakeholder/PBN__Stakeholder_97)
-* [occupants of crowded and poorly ventilated buildings](../Stakeholder/PBN__Stakeholder_1201)
-* [workers](../Stakeholder/PBN__Stakeholder_128)
-* [employees](../Stakeholder/PBN__Stakeholder_220)
-* [visitors in indoor spaces](../Stakeholder/PBN__Stakeholder_1288)
-* [individuals in the vicinity of infected individuals](../Stakeholder/PBN__Stakeholder_1455)
-* [visitors](../Stakeholder/PBN__Stakeholder_118)
-
 ## Property: has_RiskISO_Impact
 
 * [Health and care](../RiskISO/PBN__RiskISO_Purpose_0)
-
-## Property: has_RiskSource
-
-* [ding_toilets_2020](../Article/PBN__Article_196)
-* [marotta_resilient_2021](../Article/PBN__Article_274)
-* [navaratnam_designing_2022](../Article/PBN__Article_282)
-* [phapant_covid-19_2021](../Article/PBN__Article_120)
-* [sun_efficacy_2020](../Article/PBN__Article_125)
-* [yakubu_aminu_dodo_green_2020](../Article/PBN__Article_290)
-
-## Property: has_RiskName
-
-Increased risk of infection and spread of disease
-
-## Property: has_RiskHealth
-
-* [physical](../RiskHealth/PBN__RiskHealth_0)
-
-## Property: has_RiskGBN
-
-* [No](../RiskGBN/PBN__RiskGBN_0)
-* [Yes](../RiskGBN/PBN__RiskGBN_1)
 
 ## Property: has_RiskTechnology
 
@@ -50,6 +16,29 @@ Increased risk of infection and spread of disease
 * [improved ventilation systems](../Technology/PBN__Technology_249)
 * [none](../Technology/PBN__Technology_35)
 
+## Property: has_RiskSubject
+
+* [healthcare workers](../Stakeholder/PBN__Stakeholder_68)
+* [patients](../Stakeholder/PBN__Stakeholder_31)
+* [building occupants](../Stakeholder/PBN__Stakeholder_97)
+* [occupants of crowded and poorly ventilated buildings](../Stakeholder/PBN__Stakeholder_1201)
+* [workers](../Stakeholder/PBN__Stakeholder_128)
+* [employees](../Stakeholder/PBN__Stakeholder_220)
+* [visitors in indoor spaces](../Stakeholder/PBN__Stakeholder_1288)
+* [individuals in the vicinity of infected individuals](../Stakeholder/PBN__Stakeholder_1455)
+* [visitors](../Stakeholder/PBN__Stakeholder_118)
+
+## Property: has_RiskType
+
+* [health](../RiskType/PBN__RiskType_4)
+* [social](../RiskType/PBN__RiskType_2)
+* [environmental](../RiskType/PBN__RiskType_0)
+* [technological](../RiskType/PBN__RiskType_5)
+
+## Property: has_RiskISO_Purpose
+
+* [Safety and security](../RiskISO/PBN__RiskISO_Impact_0)
+
 ## Property: has_RiskOwner
 
 * [hospital management](../Stakeholder/PBN__Stakeholder_239)
@@ -62,21 +51,6 @@ Increased risk of infection and spread of disease
 * [organizations](../Stakeholder/PBN__Stakeholder_186)
 * [governments](../Stakeholder/PBN__Stakeholder_47)
 * [facility ma](../Stakeholder/PBN__Stakeholder_1578)
-
-## Property: has_RiskType
-
-* [health](../RiskType/PBN__RiskType_4)
-* [social](../RiskType/PBN__RiskType_2)
-* [environmental](../RiskType/PBN__RiskType_0)
-* [technological](../RiskType/PBN__RiskType_5)
-
-## Property: has_RiskDescription
-
-Contagious disease transmission through respiratory droplets in the air
-
-## Property: has_RiskISO_Purpose
-
-* [Safety and security](../RiskISO/PBN__RiskISO_Impact_0)
 
 ## Property: has_RiskMitigation
 
@@ -129,4 +103,30 @@ Contagious disease transmission through respiratory droplets in the air
 * [Personal Protective Equipment](../Mitigation/PBN__Mitigation_555)
 * [Isolation Facilities](../Mitigation/PBN__Mitigation_2090)
 * [Control the airflows in micro spaces](../Mitigation/PBN__Mitigation_2131)
+
+## Property: has_RiskName
+
+Increased risk of infection and spread of disease
+
+## Property: has_RiskDescription
+
+Contagious disease transmission through respiratory droplets in the air
+
+## Property: has_RiskSource
+
+* [ding_toilets_2020](../Article/PBN__Article_196)
+* [marotta_resilient_2021](../Article/PBN__Article_274)
+* [navaratnam_designing_2022](../Article/PBN__Article_282)
+* [phapant_covid-19_2021](../Article/PBN__Article_120)
+* [sun_efficacy_2020](../Article/PBN__Article_125)
+* [yakubu_aminu_dodo_green_2020](../Article/PBN__Article_290)
+
+## Property: has_RiskGBN
+
+* [No](../RiskGBN/PBN__RiskGBN_0)
+* [Yes](../RiskGBN/PBN__RiskGBN_1)
+
+## Property: has_RiskHealth
+
+* [physical](../RiskHealth/PBN__RiskHealth_0)
 

@@ -1,30 +1,8 @@
 # Risk: __COVID-19 transmission__ (PBN__Risk_133)
 
-## Property: has_RiskSubject
-
-* [general population](../Stakeholder/PBN__Stakeholder_9)
-* [healthcare workers](../Stakeholder/PBN__Stakeholder_68)
-* [vulnerable populations](../Stakeholder/PBN__Stakeholder_127)
-
 ## Property: has_RiskISO_Impact
 
 * [Health and care](../RiskISO/PBN__RiskISO_Purpose_0)
-
-## Property: has_RiskSource
-
-* [ghosh_study_2020](../Article/PBN__Article_57)
-
-## Property: has_RiskName
-
-High risk of infection and spread of the virus.
-
-## Property: has_RiskHealth
-
-* [physical](../RiskHealth/PBN__RiskHealth_0)
-
-## Property: has_RiskGBN
-
-* [No](../RiskGBN/PBN__RiskGBN_0)
 
 ## Property: has_RiskTechnology
 
@@ -33,23 +11,25 @@ High risk of infection and spread of the virus.
 * [air purifiers](../Technology/PBN__Technology_138)
 * [disinfection technologies](../Technology/PBN__Technology_350)
 
-## Property: has_RiskOwner
+## Property: has_RiskSubject
 
-* [government](../Stakeholder/PBN__Stakeholder_73)
-* [healthcare organizations](../Stakeholder/PBN__Stakeholder_216)
-* [individuals](../Stakeholder/PBN__Stakeholder_20)
+* [general population](../Stakeholder/PBN__Stakeholder_9)
+* [healthcare workers](../Stakeholder/PBN__Stakeholder_68)
+* [vulnerable populations](../Stakeholder/PBN__Stakeholder_127)
 
 ## Property: has_RiskType
 
 * [health](../RiskType/PBN__RiskType_4)
 
-## Property: has_RiskDescription
-
-Transmission of COVID-19 from person to person through respiratory droplets or contact with contaminated objects or surfaces.
-
 ## Property: has_RiskISO_Purpose
 
 * [Safety and security](../RiskISO/PBN__RiskISO_Impact_0)
+
+## Property: has_RiskOwner
+
+* [government](../Stakeholder/PBN__Stakeholder_73)
+* [healthcare organizations](../Stakeholder/PBN__Stakeholder_216)
+* [individuals](../Stakeholder/PBN__Stakeholder_20)
 
 ## Property: has_RiskMitigation
 
@@ -112,4 +92,24 @@ Transmission of COVID-19 from person to person through respiratory droplets or c
 * [Increased ventilation](../Mitigation/PBN__Mitigation_1134)
 * [Remote work and online meetings](../Mitigation/PBN__Mitigation_1135)
 * [Contact tracing](../Mitigation/PBN__Mitigation_250)
+
+## Property: has_RiskName
+
+High risk of infection and spread of the virus.
+
+## Property: has_RiskDescription
+
+Transmission of COVID-19 from person to person through respiratory droplets or contact with contaminated objects or surfaces.
+
+## Property: has_RiskSource
+
+* [ghosh_study_2020](../Article/PBN__Article_57)
+
+## Property: has_RiskGBN
+
+* [No](../RiskGBN/PBN__RiskGBN_0)
+
+## Property: has_RiskHealth
+
+* [physical](../RiskHealth/PBN__RiskHealth_0)
 

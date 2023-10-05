@@ -4,14 +4,6 @@
 
 This research abstract summarizes a Special Section of Energy Research & Social Science that explores the connections between Covid-19 and energy and climate policy. The pandemic has had significant impacts on energy supply and demand, energy governance, and future low-carbon transitions. Key findings include the reduction in energy consumption and greenhouse gas emissions due to lockdown measures and travel restrictions, as well as the disruption to renewable energy sectors and global fossil fuel markets. The pandemic has also exacerbated energy poverty and vulnerability, particularly for marginalized groups, and has implications for energy justice and the just transition. Furthermore, the pandemic has influenced social practices and sustainability transitions, potentially accelerating or hindering progress towards sustainability goals. The pandemic has also raised important considerations for research practice and methodology, highlighting the need to adapt to the changing context and develop new ways of conducting research. Overall, the pandemic presents both risks and opportunities for energy and climate policy, and careful governance is required to ensure that sustainability is prioritized in the recovery process.
 
-## Property: has_ArticleTitle
-
-Contextualizing the Covid-19 pandemic for a carbon-constrained world: Insights for sustainability transitions, energy justice, and research methodology
-
-## Property: has_ArticleYear
-
-2020
-
 ## Property: has_ArticleRef
 
 * [kuzemko_covid-19_2020](../Article/PBN__Article_14)
@@ -25,4 +17,12 @@ The Covid-19 pandemic has greatly affected the world. It has caused a lot of sic
 ## Property: has_ArticleDOI
 
 10.1016/j.erss.2020.101701
+
+## Property: has_ArticleTitle
+
+Contextualizing the Covid-19 pandemic for a carbon-constrained world: Insights for sustainability transitions, energy justice, and research methodology
+
+## Property: has_ArticleYear
+
+2020
 

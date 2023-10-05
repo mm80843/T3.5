@@ -1,13 +1,5 @@
 # Article: __li_impacts_2022__ (PBN__Article_355)
 
-## Property: has_ArticleTitle
-
-Impacts of COVID-19 on construction project management: a life cycle perspective
-
-## Property: has_ArticleYear
-
-2022
-
 ## Property: has_ArticleRef
 
 * [allam_pandemic_2020](../Article/PBN__Article_147)
@@ -23,4 +15,12 @@ Impacts of COVID-19 on construction project management: a life cycle perspective
 ## Property: has_ArticleDOI
 
 10.1108/ecam-10-2021-0873
+
+## Property: has_ArticleTitle
+
+Impacts of COVID-19 on construction project management: a life cycle perspective
+
+## Property: has_ArticleYear
+
+2022
 

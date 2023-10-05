@@ -1,53 +1,53 @@
 # Risk: __Inaccurate identification and tracking of infected individuals__ (PBN__Risk_2035)
 
-## Property: has_RiskSubject
-
-* [general public](../Stakeholder/PBN__Stakeholder_29)
-* [healthcare workers](../Stakeholder/PBN__Stakeholder_68)
-
 ## Property: has_RiskISO_Impact
 
 * [Health and care](../RiskISO/PBN__RiskISO_Purpose_0)
-
-## Property: has_RiskSource
-
-* [saman_recently_2021](../Article/PBN__Article_79)
-
-## Property: has_RiskName
-
-Delayed contact tracing and difficulty in controlling the spread of the virus
-
-## Property: has_RiskHealth
-
-* [physical](../RiskHealth/PBN__RiskHealth_0)
-
-## Property: has_RiskGBN
-
-* [Yes](../RiskGBN/PBN__RiskGBN_1)
 
 ## Property: has_RiskTechnology
 
 * [automated face recognition systems](../Technology/PBN__Technology_1506)
 * [ai algorithms](../Technology/PBN__Technology_149)
 
-## Property: has_RiskOwner
+## Property: has_RiskSubject
 
-* [government](../Stakeholder/PBN__Stakeholder_73)
-* [public health agencies](../Stakeholder/PBN__Stakeholder_222)
+* [general public](../Stakeholder/PBN__Stakeholder_29)
+* [healthcare workers](../Stakeholder/PBN__Stakeholder_68)
 
 ## Property: has_RiskType
 
 * [technological](../RiskType/PBN__RiskType_5)
 
-## Property: has_RiskDescription
-
-Difficulties in identifying and tracing potential COVID-19 cases
-
 ## Property: has_RiskISO_Purpose
 
 * [Resilience](../RiskISO/PBN__RiskISO_Impact_2)
 
+## Property: has_RiskOwner
+
+* [government](../Stakeholder/PBN__Stakeholder_73)
+* [public health agencies](../Stakeholder/PBN__Stakeholder_222)
+
 ## Property: has_RiskMitigation
 
 * [Implementing automated face recognition technology with AI integration](../RiskMitigation/PBN__RiskMitigation_2660)
+
+## Property: has_RiskName
+
+Delayed contact tracing and difficulty in controlling the spread of the virus
+
+## Property: has_RiskDescription
+
+Difficulties in identifying and tracing potential COVID-19 cases
+
+## Property: has_RiskSource
+
+* [saman_recently_2021](../Article/PBN__Article_79)
+
+## Property: has_RiskGBN
+
+* [Yes](../RiskGBN/PBN__RiskGBN_1)
+
+## Property: has_RiskHealth
+
+* [physical](../RiskHealth/PBN__RiskHealth_0)
 

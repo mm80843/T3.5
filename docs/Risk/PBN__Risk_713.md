@@ -1,5 +1,26 @@
 # Risk: __Inadequate ventilation__ (PBN__Risk_713)
 
+## Property: has_RiskISO_Impact
+
+* [Living and working environment](../RiskISO/PBN__RiskISO_Purpose_1)
+
+## Property: has_RiskTechnology
+
+* [none](../Technology/PBN__Technology_35)
+* [air purification systems](../Technology/PBN__Technology_244)
+* [hvac technologies](../Technology/PBN__Technology_491)
+* [improved hvac systems](../Technology/PBN__Technology_662)
+* [air purifiers](../Technology/PBN__Technology_138)
+* [air quality sensors](../Technology/PBN__Technology_432)
+* [ventilation systems](../Technology/PBN__Technology_139)
+* [natural ventilation](../Technology/PBN__Technology_270)
+* [mechanical ventilation systems](../Technology/PBN__Technology_1013)
+* [smart building management systems](../Technology/PBN__Technology_208)
+* [air quality monitoring systems](../Technology/PBN__Technology_1292)
+* [automated windows](../Technology/PBN__Technology_1354)
+* [air circulation systems](../Technology/PBN__Technology_259)
+* [hvac technology](../Technology/PBN__Technology_1831)
+
 ## Property: has_RiskSubject
 
 * [building occupants](../Stakeholder/PBN__Stakeholder_97)
@@ -22,54 +43,15 @@
 * [customers](../Stakeholder/PBN__Stakeholder_221)
 * [especially in enclosed spaces with limited fresh air exchange](../Stakeholder/PBN__Stakeholder_1591)
 
-## Property: has_RiskISO_Impact
+## Property: has_RiskType
 
-* [Living and working environment](../RiskISO/PBN__RiskISO_Purpose_1)
+* [environmental](../RiskType/PBN__RiskType_0)
+* [technological](../RiskType/PBN__RiskType_5)
+* [health](../RiskType/PBN__RiskType_4)
 
-## Property: has_RiskSource
+## Property: has_RiskISO_Purpose
 
-* [agade_exploring_2020](../Article/PBN__Article_114)
-* [azuma_environmental_2020](../Article/PBN__Article_249)
-* [dehghani_hierarchy_2020](../Article/PBN__Article_73)
-* [de_araujo_platform_2020](../Article/PBN__Article_46)
-* [gonzalez_reflecting_2021](../Article/PBN__Article_110)
-* [huy-tran_design_2022](../Article/PBN__Article_285)
-* [nembhard_ventilation_2020](../Article/PBN__Article_104)
-* [parkinson_continuous_2019](../Article/PBN__Article_160)
-* [phapant_covid-19_2021](../Article/PBN__Article_120)
-* [rahim_impact_2022](../Article/PBN__Article_94)
-* [saari_effect_2006](../Article/PBN__Article_223)
-* [ugail_social_2021](../Article/PBN__Article_186)
-* [zhang_review_2022](../Article/PBN__Article_171)
-
-## Property: has_RiskName
-
-Higher risk of airborne virus transmission among occupants.
-
-## Property: has_RiskHealth
-
-* [physical](../RiskHealth/PBN__RiskHealth_0)
-
-## Property: has_RiskGBN
-
-* [Yes](../RiskGBN/PBN__RiskGBN_1)
-
-## Property: has_RiskTechnology
-
-* [none](../Technology/PBN__Technology_35)
-* [air purification systems](../Technology/PBN__Technology_244)
-* [hvac technologies](../Technology/PBN__Technology_491)
-* [improved hvac systems](../Technology/PBN__Technology_662)
-* [air purifiers](../Technology/PBN__Technology_138)
-* [air quality sensors](../Technology/PBN__Technology_432)
-* [ventilation systems](../Technology/PBN__Technology_139)
-* [natural ventilation](../Technology/PBN__Technology_270)
-* [mechanical ventilation systems](../Technology/PBN__Technology_1013)
-* [smart building management systems](../Technology/PBN__Technology_208)
-* [air quality monitoring systems](../Technology/PBN__Technology_1292)
-* [automated windows](../Technology/PBN__Technology_1354)
-* [air circulation systems](../Technology/PBN__Technology_259)
-* [hvac technology](../Technology/PBN__Technology_1831)
+* [Well-being](../RiskISO/PBN__RiskISO_Impact_1)
 
 ## Property: has_RiskOwner
 
@@ -88,20 +70,6 @@ Higher risk of airborne virus transmission among occupants.
 * [individuals](../Stakeholder/PBN__Stakeholder_20)
 * [office managers](../Stakeholder/PBN__Stakeholder_1289)
 * [hvac professionals](../Stakeholder/PBN__Stakeholder_1164)
-
-## Property: has_RiskType
-
-* [environmental](../RiskType/PBN__RiskType_0)
-* [technological](../RiskType/PBN__RiskType_5)
-* [health](../RiskType/PBN__RiskType_4)
-
-## Property: has_RiskDescription
-
-Insufficient outdoor air ventilation in buildings, reducing air dilution and increasing the concentration of airborne viruses.
-
-## Property: has_RiskISO_Purpose
-
-* [Well-being](../RiskISO/PBN__RiskISO_Impact_1)
 
 ## Property: has_RiskMitigation
 
@@ -123,4 +91,36 @@ Insufficient outdoor air ventilation in buildings, reducing air dilution and inc
 * [Increase ventilation rates and airflow, consider filtration and air purification systems, and ensure proper maintenance of HVAC systems.](../RiskMitigation/PBN__RiskMitigation_3106)
 * [Improved ventilation rates](../Mitigation/PBN__Mitigation_223)
 * [Good air flow](../Mitigation/PBN__Mitigation_771)
+
+## Property: has_RiskName
+
+Higher risk of airborne virus transmission among occupants.
+
+## Property: has_RiskDescription
+
+Insufficient outdoor air ventilation in buildings, reducing air dilution and increasing the concentration of airborne viruses.
+
+## Property: has_RiskSource
+
+* [agade_exploring_2020](../Article/PBN__Article_114)
+* [azuma_environmental_2020](../Article/PBN__Article_249)
+* [dehghani_hierarchy_2020](../Article/PBN__Article_73)
+* [de_araujo_platform_2020](../Article/PBN__Article_46)
+* [gonzalez_reflecting_2021](../Article/PBN__Article_110)
+* [huy-tran_design_2022](../Article/PBN__Article_285)
+* [nembhard_ventilation_2020](../Article/PBN__Article_104)
+* [parkinson_continuous_2019](../Article/PBN__Article_160)
+* [phapant_covid-19_2021](../Article/PBN__Article_120)
+* [rahim_impact_2022](../Article/PBN__Article_94)
+* [saari_effect_2006](../Article/PBN__Article_223)
+* [ugail_social_2021](../Article/PBN__Article_186)
+* [zhang_review_2022](../Article/PBN__Article_171)
+
+## Property: has_RiskGBN
+
+* [Yes](../RiskGBN/PBN__RiskGBN_1)
+
+## Property: has_RiskHealth
+
+* [physical](../RiskHealth/PBN__RiskHealth_0)
 

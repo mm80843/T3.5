@@ -1,35 +1,8 @@
 # Risk: __Privacy concerns__ (PBN__Risk_47)
 
-## Property: has_RiskSubject
-
-* [citizens](../Stakeholder/PBN__Stakeholder_54)
-* [residents](../Stakeholder/PBN__Stakeholder_59)
-* [wearable device users](../Stakeholder/PBN__Stakeholder_641)
-* [healthcare providers](../Stakeholder/PBN__Stakeholder_121)
-* [users of iot devices and mobile apps](../Stakeholder/PBN__Stakeholder_1430)
-
 ## Property: has_RiskISO_Impact
 
 * [Health and care](../RiskISO/PBN__RiskISO_Purpose_0)
-
-## Property: has_RiskSource
-
-* [allam_emergence_2019](../Article/PBN__Article_15)
-* [burki_wearable_2022](../Article/PBN__Article_195)
-* [james_smart_2020](../Article/PBN__Article_164)
-* [subramanian_role_2021](../Article/PBN__Article_226)
-
-## Property: has_RiskName
-
-Loss of privacy and potential misuse of personal information.
-
-## Property: has_RiskHealth
-
-* [other](../RiskHealth/PBN__RiskHealth_2)
-
-## Property: has_RiskGBN
-
-* [No](../RiskGBN/PBN__RiskGBN_0)
 
 ## Property: has_RiskTechnology
 
@@ -43,6 +16,22 @@ Loss of privacy and potential misuse of personal information.
 * [data anonymization](../Technology/PBN__Technology_822)
 * [access control systems](../Technology/PBN__Technology_164)
 
+## Property: has_RiskSubject
+
+* [citizens](../Stakeholder/PBN__Stakeholder_54)
+* [residents](../Stakeholder/PBN__Stakeholder_59)
+* [wearable device users](../Stakeholder/PBN__Stakeholder_641)
+* [healthcare providers](../Stakeholder/PBN__Stakeholder_121)
+* [users of iot devices and mobile apps](../Stakeholder/PBN__Stakeholder_1430)
+
+## Property: has_RiskType
+
+* [legal](../RiskType/PBN__RiskType_6)
+
+## Property: has_RiskISO_Purpose
+
+* [Resilience](../RiskISO/PBN__RiskISO_Impact_2)
+
 ## Property: has_RiskOwner
 
 * [government](../Stakeholder/PBN__Stakeholder_73)
@@ -54,18 +43,6 @@ Loss of privacy and potential misuse of personal information.
 * [data scientists](../Stakeholder/PBN__Stakeholder_627)
 * [developers](../Stakeholder/PBN__Stakeholder_637)
 * [data handlers](../Stakeholder/PBN__Stakeholder_1431)
-
-## Property: has_RiskType
-
-* [legal](../RiskType/PBN__RiskType_6)
-
-## Property: has_RiskDescription
-
-Data collected from IoT devices and mobile apps may infringe on individuals' privacy.
-
-## Property: has_RiskISO_Purpose
-
-* [Resilience](../RiskISO/PBN__RiskISO_Impact_2)
 
 ## Property: has_RiskMitigation
 
@@ -90,4 +67,27 @@ Data collected from IoT devices and mobile apps may infringe on individuals' pri
 * [Correlating health issues with movement patterns](../Mitigation/PBN__Mitigation_2346)
 * [Monitoring people movement during events](../Mitigation/PBN__Mitigation_2347)
 * [Name-and-shame or prosecute anti-social activities](../Mitigation/PBN__Mitigation_2356)
+
+## Property: has_RiskName
+
+Loss of privacy and potential misuse of personal information.
+
+## Property: has_RiskDescription
+
+Data collected from IoT devices and mobile apps may infringe on individuals' privacy.
+
+## Property: has_RiskSource
+
+* [allam_emergence_2019](../Article/PBN__Article_15)
+* [burki_wearable_2022](../Article/PBN__Article_195)
+* [james_smart_2020](../Article/PBN__Article_164)
+* [subramanian_role_2021](../Article/PBN__Article_226)
+
+## Property: has_RiskGBN
+
+* [No](../RiskGBN/PBN__RiskGBN_0)
+
+## Property: has_RiskHealth
+
+* [other](../RiskHealth/PBN__RiskHealth_2)
 

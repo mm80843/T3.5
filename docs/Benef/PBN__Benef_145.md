@@ -1,14 +1,28 @@
 # Benef: __nan__ (PBN__Benef_145)
 
+## Property: has_BenefDetails
+
+nan
+
+## Property: has_BenefReturn
+
+* [nan](../BenefReturn/PBN__BenefReturn_146)
+* [economic impact of the pandemic](../BenefReturn/PBN__BenefReturn_1082)
+* [restriction measures can lead](../BenefReturn/PBN__BenefReturn_1331)
+* [to increased property value](../BenefReturn/PBN__BenefReturn_1332)
+* [due to improved quality of life.](../BenefReturn/PBN__BenefReturn_1333)
+* [property value due to increased](../BenefReturn/PBN__BenefReturn_1336)
+* [comfort and reduced annoyance.](../BenefReturn/PBN__BenefReturn_1337)
+* [for research purposes.](../BenefReturn/PBN__BenefReturn_1382)
+* [of multiple data sources.](../BenefReturn/PBN__BenefReturn_1384)
+* [and monitoring of new virus variants.](../BenefReturn/PBN__BenefReturn_1386)
+* [for better public health response](../BenefReturn/PBN__BenefReturn_1388)
+
 ## Property: has_Beneficiary
 
 * [nan](../Stakeholder/PBN__Stakeholder_83)
 * [transportation](../Stakeholder/PBN__Stakeholder_387)
 * [communities](../Stakeholder/PBN__Stakeholder_4)
-
-## Property: has_BenefDetails
-
-nan
 
 ## Property: has_BenefSource
 
@@ -24,18 +38,4 @@ nan
 * [queralt-rosinach_covid-19_2021](../Article/PBN__Article_259)
 * [navaratnam_designing_2022](../Article/PBN__Article_282)
 * [taghizadeh-hesary_covid-19_2022](../Article/PBN__Article_292)
-
-## Property: has_BenefReturn
-
-* [nan](../BenefReturn/PBN__BenefReturn_146)
-* [economic impact of the pandemic](../BenefReturn/PBN__BenefReturn_1082)
-* [restriction measures can lead](../BenefReturn/PBN__BenefReturn_1331)
-* [to increased property value](../BenefReturn/PBN__BenefReturn_1332)
-* [due to improved quality of life.](../BenefReturn/PBN__BenefReturn_1333)
-* [property value due to increased](../BenefReturn/PBN__BenefReturn_1336)
-* [comfort and reduced annoyance.](../BenefReturn/PBN__BenefReturn_1337)
-* [for research purposes.](../BenefReturn/PBN__BenefReturn_1382)
-* [of multiple data sources.](../BenefReturn/PBN__BenefReturn_1384)
-* [and monitoring of new virus variants.](../BenefReturn/PBN__BenefReturn_1386)
-* [for better public health response](../BenefReturn/PBN__BenefReturn_1388)
 

@@ -1,31 +1,8 @@
 # Benef: __Improved indoor air quality__ (PBN__Benef_169)
 
-## Property: has_Beneficiary
-
-* [building occupants](../Stakeholder/PBN__Stakeholder_97)
-* [occupants in the building](../Stakeholder/PBN__Stakeholder_165)
-* [workers](../Stakeholder/PBN__Stakeholder_128)
-* [employers](../Stakeholder/PBN__Stakeholder_180)
-* [staff](../Stakeholder/PBN__Stakeholder_103)
-* [occupants](../Stakeholder/PBN__Stakeholder_92)
-
 ## Property: has_BenefDetails
 
 Green buildings with proper ventilation systems improve indoor air quality, reducing the risk of COVID-19 transmission and improving occupants' health and well-being.
-
-## Property: has_BenefSource
-
-* [awada_ten_2021](../Article/PBN__Article_38)
-* [nardell_air_2021](../Article/PBN__Article_66)
-* [dehghani_hierarchy_2020](../Article/PBN__Article_73)
-* [nembhard_ventilation_2020](../Article/PBN__Article_104)
-* [ho_assessing_2004](../Article/PBN__Article_180)
-* [calvo_scalable_2022](../Article/PBN__Article_234)
-* [azuma_environmental_2020](../Article/PBN__Article_249)
-* [awada_occupant_2022](../Article/PBN__Article_273)
-* [saini_comprehensive_2020](../Article/PBN__Article_281)
-* [navaratnam_designing_2022](../Article/PBN__Article_282)
-* [yakubu_aminu_dodo_green_2020](../Article/PBN__Article_290)
 
 ## Property: has_BenefReturn
 
@@ -40,4 +17,27 @@ Green buildings with proper ventilation systems improve indoor air quality, redu
 * [Investment in proper ventilation systems can improve indoor air quality, leading to healthier and more productive occupants and potentially increasing property value.](../BenefReturn/PBN__BenefReturn_1497)
 * [Increase in occupant health and well-being](../BenefReturn/PBN__BenefReturn_1501)
 * [Private investors can increase the value of their buildings by implementing green building design, attracting tenants and improving occupant satisfaction and productivity.](../BenefReturn/PBN__BenefReturn_1539)
+
+## Property: has_Beneficiary
+
+* [building occupants](../Stakeholder/PBN__Stakeholder_97)
+* [occupants in the building](../Stakeholder/PBN__Stakeholder_165)
+* [workers](../Stakeholder/PBN__Stakeholder_128)
+* [employers](../Stakeholder/PBN__Stakeholder_180)
+* [staff](../Stakeholder/PBN__Stakeholder_103)
+* [occupants](../Stakeholder/PBN__Stakeholder_92)
+
+## Property: has_BenefSource
+
+* [awada_ten_2021](../Article/PBN__Article_38)
+* [nardell_air_2021](../Article/PBN__Article_66)
+* [dehghani_hierarchy_2020](../Article/PBN__Article_73)
+* [nembhard_ventilation_2020](../Article/PBN__Article_104)
+* [ho_assessing_2004](../Article/PBN__Article_180)
+* [calvo_scalable_2022](../Article/PBN__Article_234)
+* [azuma_environmental_2020](../Article/PBN__Article_249)
+* [awada_occupant_2022](../Article/PBN__Article_273)
+* [saini_comprehensive_2020](../Article/PBN__Article_281)
+* [navaratnam_designing_2022](../Article/PBN__Article_282)
+* [yakubu_aminu_dodo_green_2020](../Article/PBN__Article_290)
 

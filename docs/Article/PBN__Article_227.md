@@ -4,14 +4,6 @@
 
 This study reviewed literature on the use of smart solutions and technologies during the COVID-19 pandemic to enhance resilience in cities. The findings show that smart solutions have the potential to contribute to all four resilience abilities: planning and preparation, absorption, recovery, and adaptation. Smart solutions, such as integrated management platforms and AI-enabled systems, can improve planning and preparation by facilitating collaborative and integrated planning, providing smart city infrastructure, and enabling forecasting and prediction. In terms of absorption, smart technologies can help prevent the spread of the virus and reduce transmission speed through measures like contact tracing, social distancing monitoring, and crowd detection. For recovery, smart solutions provide support to overstretched healthcare staff and ensure the continuity of basic functions through telemedicine, teleworking, and automated systems. Adaptation is facilitated by the accelerated transition towards digitalization and optimization of city operations. However, challenges related to privacy, data security, equitable access, and scalability need to be addressed. Future research should explore the linkages between different resilience abilities, examine the potential trade-offs of smart solutions, and assess their impact on sustainability. Overall, smart solutions have the potential to enhance resilience and contribute to more effective responses to future adverse events.
 
-## Property: has_ArticleTitle
-
-Contributions of Smart City Solutions and Technologies to Resilience against the COVID-19 Pandemic: A Literature Review
-
-## Property: has_ArticleYear
-
-2021
-
 ## Property: has_ArticleRef
 
 * [chamola_comprehensive_2020](../Article/PBN__Article_313)
@@ -36,4 +28,12 @@ During the COVID-19 pandemic, smart technologies have been used to help cities r
 ## Property: has_ArticleDOI
 
 10.3390/su13148018
+
+## Property: has_ArticleTitle
+
+Contributions of Smart City Solutions and Technologies to Resilience against the COVID-19 Pandemic: A Literature Review
+
+## Property: has_ArticleYear
+
+2021
 

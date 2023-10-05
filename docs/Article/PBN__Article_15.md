@@ -4,14 +4,6 @@
 
 This research abstract examines the combined adoption of the concepts of smart cities and safe cities in urban areas. It highlights the challenges faced in implementing these concepts, such as privacy concerns, control issues, and propaganda. The abstract discusses the use of technologies such as the Internet of Things (IoT), Big Data, and Blockchain in the management of smart cities and safe cities. It also emphasizes the need for public-private partnerships (PPPs) in financing these projects, but acknowledges the reservations of citizens regarding the involvement of private entities in data collection and management. The abstract concludes by emphasizing the importance of addressing privacy, security, and control concerns in order to achieve urban comfort and acceptance of these concepts.
 
-## Property: has_ArticleTitle
-
-The Emergence of Anti-Privacy and Control at the Nexus between the Concepts of Safe City and Smart City
-
-## Property: has_ArticleYear
-
-2019
-
 ## Property: has_ArticleLLMSummary
 
 The world is becoming more urbanized, which means there are more people living in cities. But this also brings with it new challenges, like conflicts and inequality. To help make cities safer and more secure, there are two concepts that are gaining popularity: the safe city and the smart city.
@@ -27,4 +19,12 @@ Despite these concerns, many cities around the world are adopting these concepts
 ## Property: has_ArticleDOI
 
 10.3390/smartcities2010007
+
+## Property: has_ArticleTitle
+
+The Emergence of Anti-Privacy and Control at the Nexus between the Concepts of Safe City and Smart City
+
+## Property: has_ArticleYear
+
+2019
 

@@ -1,36 +1,14 @@
 # Risk: __nan__ (PBN__Risk_295)
 
-## Property: has_RiskSubject
-
-* [nan](../Stakeholder/PBN__Stakeholder_83)
-
 ## Property: has_RiskISO_Impact
 
 * [nan](../RiskISO/PBN__RiskISO_Purpose_3)
-
-## Property: has_RiskSource
-
-* [syal_learning_2021](../Article/PBN__Article_137)
-* [ting_digital_2020](../Article/PBN__Article_278)
-* [yang_urban_2021](../Article/PBN__Article_6)
-
-## Property: has_RiskName
-
-nan
-
-## Property: has_RiskHealth
-
-* [nan](../RiskHealth/PBN__RiskHealth_6)
-
-## Property: has_RiskGBN
-
-* [nan](../RiskGBN/PBN__RiskGBN_2)
 
 ## Property: has_RiskTechnology
 
 * [nan](../Technology/PBN__Technology_22)
 
-## Property: has_RiskOwner
+## Property: has_RiskSubject
 
 * [nan](../Stakeholder/PBN__Stakeholder_83)
 
@@ -38,13 +16,13 @@ nan
 
 * [nan](../RiskType/PBN__RiskType_14)
 
-## Property: has_RiskDescription
-
-nan
-
 ## Property: has_RiskISO_Purpose
 
 * [nan](../RiskISO/PBN__RiskISO_Impact_13)
+
+## Property: has_RiskOwner
+
+* [nan](../Stakeholder/PBN__Stakeholder_83)
 
 ## Property: has_RiskMitigation
 
@@ -1033,4 +1011,26 @@ nan
 * [Strengthened waste collection](../Mitigation/PBN__Mitigation_2456)
 * [Ratification of environmental commitments](../Mitigation/PBN__Mitigation_2457)
 * [Urgent and essential waste management as a service](../Mitigation/PBN__Mitigation_2459)
+
+## Property: has_RiskName
+
+nan
+
+## Property: has_RiskDescription
+
+nan
+
+## Property: has_RiskSource
+
+* [syal_learning_2021](../Article/PBN__Article_137)
+* [ting_digital_2020](../Article/PBN__Article_278)
+* [yang_urban_2021](../Article/PBN__Article_6)
+
+## Property: has_RiskGBN
+
+* [nan](../RiskGBN/PBN__RiskGBN_2)
+
+## Property: has_RiskHealth
+
+* [nan](../RiskHealth/PBN__RiskHealth_6)
 

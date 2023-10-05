@@ -4,14 +4,6 @@
 
 This research abstract summarizes a study that investigated the effects of the COVID-19 pandemic on mobility behaviors, specifically focusing on public transport users. The study was conducted in the city of Gdańsk, Poland. The findings showed that the pandemic had a significant impact on mobility behaviors, with a decrease in the use of public transport and an increase in the use of private vehicles and active modes of transport. Factors such as fear of infection, switch to online work and learning, and a lack of alternative modes of transport contributed to the decline in public transport use. The study also found that the feeling of comfort and safety in public transport during the pandemic influenced passengers' willingness to return to using public transport after the pandemic. The findings highlight the need for policies and measures that prioritize the safety and comfort of public transport users to encourage their return to using public transport in the future.
 
-## Property: has_ArticleTitle
-
-Mobility Behaviour in View of the Impact of the COVID-19 Pandemic—Public Transport Users in Gdansk Case Study
-
-## Property: has_ArticleYear
-
-2021
-
 ## Property: has_ArticleRef
 
 * [kuzemko_covid-19_2020](../Article/PBN__Article_14)
@@ -25,4 +17,12 @@ The COVID-19 pandemic has had a big impact on how people travel. Governments hav
 ## Property: has_ArticleDOI
 
 10.3390/su13010364
+
+## Property: has_ArticleTitle
+
+Mobility Behaviour in View of the Impact of the COVID-19 Pandemic—Public Transport Users in Gdansk Case Study
+
+## Property: has_ArticleYear
+
+2021
 

@@ -4,14 +4,6 @@
 
 This research abstract summarizes the potential use of graphene-based nanomaterials (GBNs) as antiviral coatings to combat the spread of infectious diseases, particularly the current COVID-19 pandemic. The abstract discusses the stability of viruses on various surfaces and the need for effective surface disinfection to prevent transmission. GBNs, specifically graphene oxide (GO) and reduced graphene oxide (rGO), have been found to exhibit antimicrobial activity against various types of viruses. The unique properties of GBNs, such as their negative charge, sharp edges, and nanosheet structure, contribute to their antiviral effects. The abstract also highlights the potential application of GBNs in various forms such as surface coatings, diagnostic devices, personal protective equipment, and air filtration systems. Additionally, the abstract discusses the mechanisms of action by which GBNs interact with and inactivate viruses. The abstract concludes by emphasizing the importance of further research and development of GBNs as long-lasting antiviral coatings to prevent the spread of infectious diseases.
 
-## Property: has_ArticleTitle
-
-Graphene-based nanomaterials as antimicrobial surface coatings: A parallel approach to restrain the expansion of COVID-19
-
-## Property: has_ArticleYear
-
-2021
-
 ## Property: has_ArticleRef
 
 * [kampf_persistence_2020](../Article/PBN__Article_233)
@@ -24,4 +16,12 @@ Viruses like the coronavirus can cause diseases in humans, and they can spread f
 ## Property: has_ArticleDOI
 
 10.1016/j.surfin.2021.101460
+
+## Property: has_ArticleTitle
+
+Graphene-based nanomaterials as antimicrobial surface coatings: A parallel approach to restrain the expansion of COVID-19
+
+## Property: has_ArticleYear
+
+2021
 

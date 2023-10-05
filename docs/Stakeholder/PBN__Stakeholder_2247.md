@@ -1,9 +1,5 @@
 # Stakeholder: __People in spaces connected to ventilation systems__ (PBN__Stakeholder_2247)
 
-## Property: has_StakeholderSubgroup
-
-* [People in Buildings](../StakeholderSubgroup/PBN__StakeholderSubgroup_93)
-
 ## Property: has_StakeholderGroup
 
 * [Vulnerable Population](../StakeholderGroup/PBN__StakeholderGroup_6)
@@ -12,4 +8,8 @@
 ## Property: has_StakeholderID
 
 * [Q584049](../Qid/Q584049)
+
+## Property: has_StakeholderSubgroup
+
+* [People in Buildings](../StakeholderSubgroup/PBN__StakeholderSubgroup_93)
 

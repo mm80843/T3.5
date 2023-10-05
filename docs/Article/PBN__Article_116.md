@@ -4,14 +4,6 @@
 
 This research abstract highlights the urgent need for advanced technological solutions to combat the global COVID-19 pandemic and future epidemics. The rapid spread of the virus has overwhelmed healthcare systems and led to a shortage of critical care facilities. The healthcare sector has been ineffective in treating the disease, and the need for investment in preventive medicine, community health, and disaster management is emphasized. Countries like South Korea, Japan, China, and the United States are utilizing emerging technologies to minimize the impact of the pandemic. The use of technologies such as population screening, infection tracking, vaccine development, effective quarantine, resource allocation, and targeted responses are recommended. Positioning technologies, smartphone-based applications, and modeling software aid in disaster management and tracking infected individuals. Molecular technologies with supercomputing capabilities are being utilized for vaccine development. The authors stress the importance of engineering-based innovative technologies and the role of Industry 4.0 in responding to public health challenges. They advocate for the use of digital technologies including artificial intelligence, big data, Internet of things, cloud computing, blockchain, additive manufacturing, and 5G to improve global efforts in monitoring, prevention, control, treatment, resource allocation, and vaccine development. The authors believe that embracing emerging strategies and implementing Medicine 4.0 are crucial in the fight against the COVID-19 pandemic.
 
-## Property: has_ArticleTitle
-
-Emerging Technologies to Combat the COVID-19 Pandemic
-
-## Property: has_ArticleYear
-
-2020
-
 ## Property: has_ArticleRef
 
 * [wang_response_2020](../Article/PBN__Article_24)
@@ -23,4 +15,12 @@ The COVID-19 pandemic is spreading very quickly around the world. So far, there 
 ## Property: has_ArticleDOI
 
 10.1016/j.jceh.2020.04.019
+
+## Property: has_ArticleTitle
+
+Emerging Technologies to Combat the COVID-19 Pandemic
+
+## Property: has_ArticleYear
+
+2020
 

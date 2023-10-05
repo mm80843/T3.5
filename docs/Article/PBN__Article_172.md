@@ -4,14 +4,6 @@
 
 This research study assesses the need for global green building certification and rating systems (GBC&RS) to implement indicators that make them more sustainable during pandemics. The study focuses on four major GBC&RS: LEED, WELL, BREEAM, and CASBEE. A gap analysis is conducted to identify the missing indicators in each system. The analysis reveals that LEED has the highest gap level at 68%, followed by CASBEE at 54%, BREEAM at 40%, and WELL at 67%. The study suggests specific actions to close the identified gaps in each system, such as implementing touchless technologies, improving wastewater management, and promoting outdoor spaces in buildings. The limitations of the study include the consideration of a limited number of certification systems and a focus on environmental and social sustainability pillars only. Future work should focus on improving existing systems and developing new certifications that address pandemic-related issues more comprehensively.
 
-## Property: has_ArticleTitle
-
-How to Make Green Building Certification \& Rating Systems More Pandemic-Sustainable?
-
-## Property: has_ArticleYear
-
-2022
-
 ## Property: has_ArticleRef
 
 * [tleuken_readiness_2021](../Article/PBN__Article_342)
@@ -23,4 +15,12 @@ The construction industry pollutes the environment a lot. So, it's important for
 ## Property: has_ArticleDOI
 
 10.1007/978-981-19-1704-2_23
+
+## Property: has_ArticleTitle
+
+How to Make Green Building Certification \& Rating Systems More Pandemic-Sustainable?
+
+## Property: has_ArticleYear
+
+2022
 

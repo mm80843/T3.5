@@ -1,10 +1,5 @@
 # Technology: __digital PCR__ (PBN__Technology_2103)
 
-## Property: has_StakeholderSubgroup
-
-* [Diagnostic and Testing Tools](../TechSubgroup/PBN__TechSubgroup_12)
-* [Biotechnological Techniques and Devices](../TechSubgroup/PBN__TechSubgroup_29)
-
 ## Property: has_TechnologyID
 
 * [Q5276136](../Qid/Q5276136)
@@ -13,4 +8,9 @@
 
 * [AI tools](../TechGroup/PBN__TechGroup_0)
 * [Biology techs](../TechGroup/PBN__TechGroup_15)
+
+## Property: has_StakeholderSubgroup
+
+* [Diagnostic and Testing Tools](../TechSubgroup/PBN__TechSubgroup_12)
+* [Biotechnological Techniques and Devices](../TechSubgroup/PBN__TechSubgroup_29)
 

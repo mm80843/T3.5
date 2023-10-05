@@ -4,14 +4,6 @@
 
 This research abstract summarizes a comprehensive review on the prevention and control of COVID-19, caused by the SARS-CoV-2 virus. The abstract highlights the characteristics and transmission of coronaviruses, the epidemiology of COVID-19, and the various approaches for testing and treatment. It also discusses the importance of organizational, environmental, and personal measures in preventing the spread of the virus, including hand hygiene, the use of personal protective equipment (PPE), and environmental sanitization. The abstract concludes by emphasizing the need for a multi-faceted approach to preventing and controlling COVID-19, taking into account the specific circumstances of different workplaces.
 
-## Property: has_ArticleTitle
-
-COVID-19 Pandemic: Prevention and Protection Measures to Be Adopted at the Workplace
-
-## Property: has_ArticleYear
-
-2020
-
 ## Property: has_ArticleRef
 
 * [van_doremalen_aerosol_2020](../Article/PBN__Article_21)
@@ -25,4 +17,12 @@ Coronaviruses are a type of respiratory virus that can make people sick. There a
 ## Property: has_ArticleDOI
 
 10.3390/su12093603
+
+## Property: has_ArticleTitle
+
+COVID-19 Pandemic: Prevention and Protection Measures to Be Adopted at the Workplace
+
+## Property: has_ArticleYear
+
+2020
 

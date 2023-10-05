@@ -4,14 +4,6 @@
 
 This research abstract discusses the importance of ventilation in reducing the transmission of SARS-CoV-2 in nonmedical settings such as offices, schools, and homes. The SARS-CoV-2 virus is primarily transmitted through respiratory droplets and contact routes, but there is evidence to suggest that smaller droplets, known as aerosols, can also contribute to transmission. Ventilation through natural or mechanical systems can help dilute and disperse these droplets, reducing the risk of infection. Recommendations for using ventilation systems in nonmedical settings include increasing outdoor air ventilation, using high-efficiency air filters, keeping systems running continuously, and adding portable air cleaners or UVGI devices to high-density spaces. Proper maintenance and cleaning of ventilation systems are also important to ensure their effectiveness. While there is debate about the extent of airborne aerosol transmission, implementing ventilation measures along with other preventive measures can help lower the risk of COVID-19 transmission in indoor environments.
 
-## Property: has_ArticleTitle
-
-Ventilation use in nonmedical settings during COVID-19: Cleaning protocol, maintenance, and recommendations
-
-## Property: has_ArticleYear
-
-2020
-
 ## Property: has_ArticleRef
 
 * [morawska_how_2020](../Article/PBN__Article_121)
@@ -23,4 +15,12 @@ Ventilation is important for reducing the risk of spreading the virus that cause
 ## Property: has_ArticleDOI
 
 10.1177/0748233720967528
+
+## Property: has_ArticleTitle
+
+Ventilation use in nonmedical settings during COVID-19: Cleaning protocol, maintenance, and recommendations
+
+## Property: has_ArticleYear
+
+2020
 

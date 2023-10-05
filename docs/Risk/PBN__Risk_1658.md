@@ -1,52 +1,52 @@
 # Risk: __Error accumulation__ (PBN__Risk_1658)
 
+## Property: has_RiskISO_Impact
+
+* [Biodiversity and ecosystem services](../RiskISO/PBN__RiskISO_Purpose_4)
+
+## Property: has_RiskTechnology
+
+* [kalman filter algorithm](../Technology/PBN__Technology_991)
+
 ## Property: has_RiskSubject
 
 * [risk experts](../Stakeholder/PBN__Stakeholder_1077)
 * [building managers](../Stakeholder/PBN__Stakeholder_10)
 
-## Property: has_RiskISO_Impact
+## Property: has_RiskType
 
-* [Biodiversity and ecosystem services](../RiskISO/PBN__RiskISO_Purpose_4)
+* [technological](../RiskType/PBN__RiskType_5)
 
-## Property: has_RiskSource
+## Property: has_RiskISO_Purpose
 
-* [li_building_2016](../Article/PBN__Article_29)
-
-## Property: has_RiskName
-
-Large bias in people flow and occupancy estimation
-
-## Property: has_RiskHealth
-
-* [nan](../RiskHealth/PBN__RiskHealth_6)
-
-## Property: has_RiskGBN
-
-* [No](../RiskGBN/PBN__RiskGBN_0)
-
-## Property: has_RiskTechnology
-
-* [kalman filter algorithm](../Technology/PBN__Technology_991)
+* [Preservaion and improvement of the environment](../RiskISO/PBN__RiskISO_Impact_16)
 
 ## Property: has_RiskOwner
 
 * [risk experts](../Stakeholder/PBN__Stakeholder_1077)
 * [researchers](../Stakeholder/PBN__Stakeholder_2)
 
-## Property: has_RiskType
+## Property: has_RiskMitigation
 
-* [technological](../RiskType/PBN__RiskType_5)
+* [Implementation of Kalman filter algorithm to handle constraints in estimation](../RiskMitigation/PBN__RiskMitigation_2206)
+
+## Property: has_RiskName
+
+Large bias in people flow and occupancy estimation
 
 ## Property: has_RiskDescription
 
 Accumulation of errors in sensor measurements
 
-## Property: has_RiskISO_Purpose
+## Property: has_RiskSource
 
-* [Preservaion and improvement of the environment](../RiskISO/PBN__RiskISO_Impact_16)
+* [li_building_2016](../Article/PBN__Article_29)
 
-## Property: has_RiskMitigation
+## Property: has_RiskGBN
 
-* [Implementation of Kalman filter algorithm to handle constraints in estimation](../RiskMitigation/PBN__RiskMitigation_2206)
+* [No](../RiskGBN/PBN__RiskGBN_0)
+
+## Property: has_RiskHealth
+
+* [nan](../RiskHealth/PBN__RiskHealth_6)
 

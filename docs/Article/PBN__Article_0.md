@@ -4,14 +4,6 @@
 
 This study investigated the presence of SARS-CoV-2 genetic material in wastewater samples collected from nine municipal wastewater treatment plants in Germany during the height of the COVID-19 pandemic. The samples were analyzed using reverse transcription-quantitative polymerase chain reaction (RT-qPCR) to detect specific genes of the virus, as well as pan-genotypic gene sequences of other coronaviruses. The study found that SARS-CoV-2 RNA was detected in the untreated wastewater samples, indicating the presence of the virus in the population. The RT-qPCR analysis also showed differences in the concentration of SARS-CoV-2 genetic material between the solid and liquid phases of the wastewater samples. While the viral RNA was detected in the solid phase, its concentration was higher in the liquid phase, possibly due to the repartitioning of genetic material during wastewater treatment. The study also found that the detected SARS-CoV-2 genetic material in the wastewater samples was non-infectious based on tests conducted on cultured cells. Overall, this study demonstrates the potential of wastewater-based monitoring as a tool to track the spread of SARS-CoV-2 in a population.
 
-## Property: has_ArticleTitle
-
-Detection of SARS-CoV-2 in raw and treated wastewater in Germany – Suitability for COVID-19 surveillance and potential transmission risks
-
-## Property: has_ArticleYear
-
-2021
-
 ## Property: has_ArticleRef
 
 * [ahmed_first_2020](../Article/PBN__Article_205)
@@ -28,4 +20,12 @@ Scientists conducted a study to see if they could find traces of the new coronav
 ## Property: has_ArticleDOI
 
 10.1016/j.scitotenv.2020.141750
+
+## Property: has_ArticleTitle
+
+Detection of SARS-CoV-2 in raw and treated wastewater in Germany – Suitability for COVID-19 surveillance and potential transmission risks
+
+## Property: has_ArticleYear
+
+2021
 

@@ -4,14 +4,6 @@
 
 This study explores the potential development changes and paradigm shifts in the construction and built environment sectors due to the impact of the COVID-19 pandemic. The study utilizes an expert-led approach, with 50 experts from academia, government agencies, and practitioners participating. The top six primary areas of each sector are identified, and the top five main factors for post-COVID development changes are determined. The study identifies ten potential development changes in construction and the built environment. In the construction sector, these include a decline in car-based transportation infrastructure, a push for information-based construction management methods, an increase in off-site construction and engineering, and opportunities for new materials for performative insulation. In the built environment sector, potential changes include revisions in density and compact design, spatial planning considerations, smaller and individual internal layouts, a push for meso-scale strategies at the neighborhood/community level, and new opportunities for non-centralized building systems. The study concludes that the focus on resilience, health, and safety are likely to develop further in both sectors, and the paradigm shifts will depend on the longevity of the outbreak and the adoption of new parameters and innovative design and engineering considerations.
 
-## Property: has_ArticleTitle
-
-Revisiting the built environment: 10 potential development changes and paradigm shifts due to COVID-19
-
-## Property: has_ArticleYear
-
-2021
-
 ## Property: has_ArticleRef
 
 * [rogers_city_2020](../Article/PBN__Article_7)
@@ -24,4 +16,12 @@ In the midst of the COVID-19 pandemic, there are expected changes and shifts in 
 ## Property: has_ArticleDOI
 
 10.1016/j.jum.2021.01.002
+
+## Property: has_ArticleTitle
+
+Revisiting the built environment: 10 potential development changes and paradigm shifts due to COVID-19
+
+## Property: has_ArticleYear
+
+2021
 

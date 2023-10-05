@@ -1,29 +1,8 @@
 # Risk: __Transmission of COVID-19__ (PBN__Risk_2123)
 
-## Property: has_RiskSubject
-
-* [general public](../Stakeholder/PBN__Stakeholder_29)
-* [especially those in close contact with infected individuals](../Stakeholder/PBN__Stakeholder_1429)
-
 ## Property: has_RiskISO_Impact
 
 * [Health and care](../RiskISO/PBN__RiskISO_Purpose_0)
-
-## Property: has_RiskSource
-
-* [spennemann_residential_2021](../Article/PBN__Article_56)
-
-## Property: has_RiskName
-
-High risk of spreading the disease and increasing the number of cases.
-
-## Property: has_RiskHealth
-
-* [physical](../RiskHealth/PBN__RiskHealth_0)
-
-## Property: has_RiskGBN
-
-* [Yes](../RiskGBN/PBN__RiskGBN_1)
 
 ## Property: has_RiskTechnology
 
@@ -31,23 +10,24 @@ High risk of spreading the disease and increasing the number of cases.
 * [air filters](../Technology/PBN__Technology_1111)
 * [uv-c disinfection technology](../Technology/PBN__Technology_1627)
 
-## Property: has_RiskOwner
+## Property: has_RiskSubject
 
-* [individuals](../Stakeholder/PBN__Stakeholder_20)
-* [public health authorities](../Stakeholder/PBN__Stakeholder_0)
-* [building owners and operators](../Stakeholder/PBN__Stakeholder_525)
+* [general public](../Stakeholder/PBN__Stakeholder_29)
+* [especially those in close contact with infected individuals](../Stakeholder/PBN__Stakeholder_1429)
 
 ## Property: has_RiskType
 
 * [environmental](../RiskType/PBN__RiskType_0)
 
-## Property: has_RiskDescription
-
-Transmission of COVID-19 can occur person-to-person and person-to-surface-to-person through aerosols emitted by infected individuals.
-
 ## Property: has_RiskISO_Purpose
 
 * [Health and care](../RiskISO/PBN__RiskISO_Impact_3)
+
+## Property: has_RiskOwner
+
+* [individuals](../Stakeholder/PBN__Stakeholder_20)
+* [public health authorities](../Stakeholder/PBN__Stakeholder_0)
+* [building owners and operators](../Stakeholder/PBN__Stakeholder_525)
 
 ## Property: has_RiskMitigation
 
@@ -62,4 +42,24 @@ Transmission of COVID-19 can occur person-to-person and person-to-surface-to-per
 * [Personal Protective Equipment (PPE)](../Mitigation/PBN__Mitigation_464)
 * [Travel Restrictions](../Mitigation/PBN__Mitigation_710)
 * [Increased Testing and Contact Tracing](../Mitigation/PBN__Mitigation_711)
+
+## Property: has_RiskName
+
+High risk of spreading the disease and increasing the number of cases.
+
+## Property: has_RiskDescription
+
+Transmission of COVID-19 can occur person-to-person and person-to-surface-to-person through aerosols emitted by infected individuals.
+
+## Property: has_RiskSource
+
+* [spennemann_residential_2021](../Article/PBN__Article_56)
+
+## Property: has_RiskGBN
+
+* [Yes](../RiskGBN/PBN__RiskGBN_1)
+
+## Property: has_RiskHealth
+
+* [physical](../RiskHealth/PBN__RiskHealth_0)
 

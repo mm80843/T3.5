@@ -1,5 +1,28 @@
 # Risk: __Overcrowding__ (PBN__Risk_571)
 
+## Property: has_RiskISO_Impact
+
+* [Health and care](../RiskISO/PBN__RiskISO_Purpose_0)
+
+## Property: has_RiskTechnology
+
+* [urban planning regulations](../Technology/PBN__Technology_52)
+* [design guidelines](../Technology/PBN__Technology_166)
+* [occupancy monitoring systems](../Technology/PBN__Technology_433)
+* [crowd management strategies](../Technology/PBN__Technology_434)
+* [housing design and construction standards](../Technology/PBN__Technology_456)
+* [remote working](../Technology/PBN__Technology_718)
+* [digital communication tools](../Technology/PBN__Technology_719)
+* [occupancy tracking systems](../Technology/PBN__Technology_775)
+* [reservation systems](../Technology/PBN__Technology_776)
+* [crowd control measures](../Technology/PBN__Technology_777)
+* [nan](../Technology/PBN__Technology_22)
+* [occupancy sensors](../Technology/PBN__Technology_649)
+* [crowd management systems](../Technology/PBN__Technology_1261)
+* [digital signage](../Technology/PBN__Technology_366)
+* [crowd-management technologies](../Technology/PBN__Technology_1868)
+* [social nan distancing measures](../Technology/PBN__Technology_1869)
+
 ## Property: has_RiskSubject
 
 * [gated and non-gated community residents](../Stakeholder/PBN__Stakeholder_636)
@@ -22,54 +45,13 @@
 * [individuals attending nan events](../Stakeholder/PBN__Stakeholder_1525)
 * [public transport](../Stakeholder/PBN__Stakeholder_1182)
 
-## Property: has_RiskISO_Impact
+## Property: has_RiskType
 
-* [Health and care](../RiskISO/PBN__RiskISO_Purpose_0)
+* [social](../RiskType/PBN__RiskType_2)
 
-## Property: has_RiskSource
+## Property: has_RiskISO_Purpose
 
-* [asfour_housing_2022](../Article/PBN__Article_87)
-* [cuerdo-vilches_mixed_2020](../Article/PBN__Article_89)
-* [dalessandro_covid-19_2020](../Article/PBN__Article_161)
-* [hizra_houses_2021](../Article/PBN__Article_277)
-* [ibrahim_assessment_2022](../Article/PBN__Article_128)
-* [malliga_comprehensive_2021](../Article/PBN__Article_35)
-* [saari_effect_2006](../Article/PBN__Article_223)
-* [venter_urban_2020 venter_urban_2020 nan venter_urban_2020 nan nan venter_urban_2020](../Article/PBN__Article_303)
-
-## Property: has_RiskName
-
-Increased risk of disease transmission and spread
-
-## Property: has_RiskHealth
-
-* [physical](../RiskHealth/PBN__RiskHealth_0)
-* [mental](../RiskHealth/PBN__RiskHealth_1)
-* [other](../RiskHealth/PBN__RiskHealth_2)
-
-## Property: has_RiskGBN
-
-* [Yes](../RiskGBN/PBN__RiskGBN_1)
-* [No](../RiskGBN/PBN__RiskGBN_0)
-
-## Property: has_RiskTechnology
-
-* [urban planning regulations](../Technology/PBN__Technology_52)
-* [design guidelines](../Technology/PBN__Technology_166)
-* [occupancy monitoring systems](../Technology/PBN__Technology_433)
-* [crowd management strategies](../Technology/PBN__Technology_434)
-* [housing design and construction standards](../Technology/PBN__Technology_456)
-* [remote working](../Technology/PBN__Technology_718)
-* [digital communication tools](../Technology/PBN__Technology_719)
-* [occupancy tracking systems](../Technology/PBN__Technology_775)
-* [reservation systems](../Technology/PBN__Technology_776)
-* [crowd control measures](../Technology/PBN__Technology_777)
-* [nan](../Technology/PBN__Technology_22)
-* [occupancy sensors](../Technology/PBN__Technology_649)
-* [crowd management systems](../Technology/PBN__Technology_1261)
-* [digital signage](../Technology/PBN__Technology_366)
-* [crowd-management technologies](../Technology/PBN__Technology_1868)
-* [social nan distancing measures](../Technology/PBN__Technology_1869)
+* [Preservation and improvement of the environment](../RiskISO/PBN__RiskISO_Impact_6)
 
 ## Property: has_RiskOwner
 
@@ -91,18 +73,6 @@ Increased risk of disease transmission and spread
 * [governments](../Stakeholder/PBN__Stakeholder_47)
 * [venue owners](../Stakeholder/PBN__Stakeholder_845)
 
-## Property: has_RiskType
-
-* [social](../RiskType/PBN__RiskType_2)
-
-## Property: has_RiskDescription
-
-Increased density of individuals in confined spaces
-
-## Property: has_RiskISO_Purpose
-
-* [Preservation and improvement of the environment](../RiskISO/PBN__RiskISO_Impact_6)
-
 ## Property: has_RiskMitigation
 
 * [Visible and accessible green elements and spaces](../RiskMitigation/PBN__RiskMitigation_799)
@@ -117,4 +87,34 @@ Increased density of individuals in confined spaces
 * [Retrofitting](../Mitigation/PBN__Mitigation_33)
 * [Green Open Spaces](../Mitigation/PBN__Mitigation_1706)
 * [Crowd control on public transport](../Mitigation/PBN__Mitigation_2358)
+
+## Property: has_RiskName
+
+Increased risk of disease transmission and spread
+
+## Property: has_RiskDescription
+
+Increased density of individuals in confined spaces
+
+## Property: has_RiskSource
+
+* [asfour_housing_2022](../Article/PBN__Article_87)
+* [cuerdo-vilches_mixed_2020](../Article/PBN__Article_89)
+* [dalessandro_covid-19_2020](../Article/PBN__Article_161)
+* [hizra_houses_2021](../Article/PBN__Article_277)
+* [ibrahim_assessment_2022](../Article/PBN__Article_128)
+* [malliga_comprehensive_2021](../Article/PBN__Article_35)
+* [saari_effect_2006](../Article/PBN__Article_223)
+* [venter_urban_2020 venter_urban_2020 nan venter_urban_2020 nan nan venter_urban_2020](../Article/PBN__Article_303)
+
+## Property: has_RiskGBN
+
+* [Yes](../RiskGBN/PBN__RiskGBN_1)
+* [No](../RiskGBN/PBN__RiskGBN_0)
+
+## Property: has_RiskHealth
+
+* [physical](../RiskHealth/PBN__RiskHealth_0)
+* [mental](../RiskHealth/PBN__RiskHealth_1)
+* [other](../RiskHealth/PBN__RiskHealth_2)
 

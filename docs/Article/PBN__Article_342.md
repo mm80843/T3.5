@@ -1,13 +1,5 @@
 # Article: __tleuken_readiness_2021__ (PBN__Article_342)
 
-## Property: has_ArticleTitle
-
-Readiness Assessment of Green Building Certification Systems for Residential Buildings during Pandemics
-
-## Property: has_ArticleYear
-
-2021
-
 ## Property: has_ArticleRef
 
 * [allam_pandemic_2020](../Article/PBN__Article_147)
@@ -33,4 +25,12 @@ Readiness Assessment of Green Building Certification Systems for Residential Bui
 ## Property: has_ArticleDOI
 
 10.3390/su13020460
+
+## Property: has_ArticleTitle
+
+Readiness Assessment of Green Building Certification Systems for Residential Buildings during Pandemics
+
+## Property: has_ArticleYear
+
+2021
 

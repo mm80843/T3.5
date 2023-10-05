@@ -4,14 +4,6 @@
 
 This paper provides a comprehensive review of the relationship between housing, health, and social inequality, with a focus on the Covid-19 pandemic. It argues that home, as a locus of social harm during the pandemic, is a key factor in understanding the three-way relationship. The paper introduces the concept of social harm and the harm-from-home perspective, highlighting the dangers and harms that can occur within the domestic environment. It presents a systematic literature mapping exercise, which identifies three types of social harm that occurred during the pandemic: domestic violence, mental health harms, and health-harming behaviors. The review demonstrates the significant increase in domestic violence during lockdowns, as well as the negative impact on mental health and the prevalence of health-harming behaviors such as increased alcohol consumption and poor diet. The paper suggests that a social harm lens can offer new insights into the structural nature of mental health and well-being inequalities and their housing contexts. It also explores potential policy interventions to address and reduce social harm in the housing sector. In conclusion, the paper calls for further research and theory development in understanding the relationship between housing, health, and social inequality using a social harm perspective.
 
-## Property: has_ArticleTitle
-
-Dangerous liaisons? Applying the social harm perspective to the social inequality, housing and health trifecta during the Covid-19 pandemic
-
-## Property: has_ArticleYear
-
-2021
-
 ## Property: has_ArticleRef
 
 * [aguero_covid-19_2021](../Article/PBN__Article_8)
@@ -26,4 +18,12 @@ This text talks about the relationship between housing, health, and social inequ
 ## Property: has_ArticleDOI
 
 10.1080/19491247.2021.1971033
+
+## Property: has_ArticleTitle
+
+Dangerous liaisons? Applying the social harm perspective to the social inequality, housing and health trifecta during the Covid-19 pandemic
+
+## Property: has_ArticleYear
+
+2021
 

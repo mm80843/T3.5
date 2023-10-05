@@ -4,14 +4,6 @@
 
 This research abstract summarizes the study's focus on the strategies developed by Sustainability Rating Systems (SRS) to minimize the transmission of infectious diseases, with a specific emphasis on the COVID-19 pandemic. The SRS examined in this study include WELL, Fitwel, and LEED, which have released evidence-based strategies in response to COVID-19. The aim of the study is to assess the strategies developed by these SRS and determine their level of sustainability. The study examines the degree of sustainability in terms of environmental, social, and economic factors for each strategy. The results show that strategies related to the built environment have a higher environmental and economic impact, while company policies are easier to implement. The study also highlights limitations of the SRS, including their weak sustainability approach and lack of analytical strategies addressing occupancy rates and physical distancing. Overall, this study provides a critical review of the strategies developed by SRS in response to the COVID-19 pandemic and assesses their level of sustainability. Supplementary materials with detailed strategies addressed by the SRS are provided.
 
-## Property: has_ArticleTitle
-
-Resilient Built Environment: Critical Review of the Strategies Released by the Sustainability Rating Systems in Response to the COVID-19 Pandemic
-
-## Property: has_ArticleYear
-
-2021
-
 ## Property: has_ArticleRef
 
 * [sun_efficacy_2020](../Article/PBN__Article_125)
@@ -29,4 +21,12 @@ In this text, we learn about different types of coronaviruses, including the one
 ## Property: has_ArticleDOI
 
 10.3390/su132011164
+
+## Property: has_ArticleTitle
+
+Resilient Built Environment: Critical Review of the Strategies Released by the Sustainability Rating Systems in Response to the COVID-19 Pandemic
+
+## Property: has_ArticleYear
+
+2021
 

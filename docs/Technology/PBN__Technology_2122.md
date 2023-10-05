@@ -1,9 +1,5 @@
 # Technology: __ELISA__ (PBN__Technology_2122)
 
-## Property: has_StakeholderSubgroup
-
-* [Diagnostic and Testing Tools](../TechSubgroup/PBN__TechSubgroup_12)
-
 ## Property: has_TechnologyID
 
 * [Q166164](../Qid/Q166164)
@@ -13,4 +9,8 @@
 ## Property: has_StakeholderGroup
 
 * [AI tools](../TechGroup/PBN__TechGroup_0)
+
+## Property: has_StakeholderSubgroup
+
+* [Diagnostic and Testing Tools](../TechSubgroup/PBN__TechSubgroup_12)
 

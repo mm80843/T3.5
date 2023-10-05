@@ -4,14 +4,6 @@
 
 This research abstract summarizes a paper that discusses the importance of biomedical application ontologies in representing pandemics and infectious diseases. The paper begins by providing background information on ontology and the different types of ontologies. It then focuses on the state-of-the-art ontologies developed for representing earlier infectious diseases and pandemics, including MERS, COVID-19, malaria, influenza-like illness, brucellosis, dengue fever, schistosomiasis, meningitis, and swine flu. The ontologies are described in terms of their development process, tools used, and evaluation methods. The paper concludes by acknowledging the importance of developing ontologies that model multiple diseases and promoting their use in controlling and monitoring pandemics. The abstract highlights the significance of ontologies in sharing and communicating consensual knowledge about infectious diseases and encourages further development in this area.
 
-## Property: has_ArticleTitle
-
-An Overview of Biomedical Ontologies for Pandemics and Infectious Diseases Representation
-
-## Property: has_ArticleYear
-
-2021
-
 ## Property: has_ArticleRef
 
 * [he_cido_2020](../Article/PBN__Article_13)
@@ -23,4 +15,12 @@ The text talks about something called ontologies, which are like special vocabul
 ## Property: has_ArticleDOI
 
 10.1016/j.procs.2021.09.201
+
+## Property: has_ArticleTitle
+
+An Overview of Biomedical Ontologies for Pandemics and Infectious Diseases Representation
+
+## Property: has_ArticleYear
+
+2021
 

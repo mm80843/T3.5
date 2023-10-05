@@ -4,14 +4,6 @@
 
 This study examines the perceptions of construction professionals in the United States and Iran regarding the impact of COVID-19 on the construction industry. The study is conducted in three rounds of surveys, six months apart, to understand how these perceptions have changed over time. The study population comprises construction professionals in both countries, and a total of 567 responses are collected. The findings show that both groups perceived a relatively high impact of COVID-19 on various aspects of their professional careers. However, this perceived impact lessened over time. The study also highlights the differences and similarities in perceptions between the two countries. The researchers suggest that the results can help construction managers and policymakers in adopting global approaches and localizing response plans. The study acknowledges its limitations, including the sample size and response intervals, and suggests further research to explore the change in perceptions over time among construction professionals.
 
-## Property: has_ArticleTitle
-
-Perception of COVID-19 impacts on the construction industry over time
-
-## Property: has_ArticleYear
-
-2022
-
 ## Property: has_ArticleRef
 
 * [araya_influence_2021](../Article/PBN__Article_157)
@@ -25,4 +17,12 @@ This text is about a study that was conducted to understand how the COVID-19 pan
 ## Property: has_ArticleDOI
 
 10.1080/23311916.2022.2044575
+
+## Property: has_ArticleTitle
+
+Perception of COVID-19 impacts on the construction industry over time
+
+## Property: has_ArticleYear
+
+2022
 

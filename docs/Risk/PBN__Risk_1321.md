@@ -1,35 +1,27 @@
 # Risk: __Ineffective air filtration__ (PBN__Risk_1321)
 
+## Property: has_RiskISO_Impact
+
+* [Safety and security](../RiskISO/PBN__RiskISO_Purpose_5)
+
+## Property: has_RiskTechnology
+
+* [none](../Technology/PBN__Technology_35)
+
 ## Property: has_RiskSubject
 
 * [workers in workplaces with inadequate air filtration](../Stakeholder/PBN__Stakeholder_839)
 * [general population](../Stakeholder/PBN__Stakeholder_9)
 * [individuals in spaces with poor air filtration](../Stakeholder/PBN__Stakeholder_1208)
 
-## Property: has_RiskISO_Impact
+## Property: has_RiskType
 
-* [Safety and security](../RiskISO/PBN__RiskISO_Purpose_5)
+* [technological](../RiskType/PBN__RiskType_5)
+* [environmental](../RiskType/PBN__RiskType_0)
 
-## Property: has_RiskSource
+## Property: has_RiskISO_Purpose
 
-* [dehghani_hierarchy_2020](../Article/PBN__Article_73)
-* [nembhard_ventilation_2020](../Article/PBN__Article_104)
-
-## Property: has_RiskName
-
-Retention and recirculation of virus particles in the air, increased risk of infection
-
-## Property: has_RiskHealth
-
-* [physical](../RiskHealth/PBN__RiskHealth_0)
-
-## Property: has_RiskGBN
-
-* [Yes](../RiskGBN/PBN__RiskGBN_1)
-
-## Property: has_RiskTechnology
-
-* [none](../Technology/PBN__Technology_35)
+* [Resilience](../RiskISO/PBN__RiskISO_Impact_2)
 
 ## Property: has_RiskOwner
 
@@ -38,21 +30,29 @@ Retention and recirculation of virus particles in the air, increased risk of inf
 * [building owners](../Stakeholder/PBN__Stakeholder_80)
 * [facility managers](../Stakeholder/PBN__Stakeholder_166)
 
-## Property: has_RiskType
+## Property: has_RiskMitigation
 
-* [technological](../RiskType/PBN__RiskType_5)
-* [environmental](../RiskType/PBN__RiskType_0)
+* [Use high-efficiency air filters in ventilation systems.](../RiskMitigation/PBN__RiskMitigation_1811)
+* [Using high-efficiency air filters (such as MERV-13 or HEPA filters), regularly replacing and cleaning filters](../RiskMitigation/PBN__RiskMitigation_2388)
+
+## Property: has_RiskName
+
+Retention and recirculation of virus particles in the air, increased risk of infection
 
 ## Property: has_RiskDescription
 
 Inadequate filtration of airborne particles, including virus particles, in ventilation systems
 
-## Property: has_RiskISO_Purpose
+## Property: has_RiskSource
 
-* [Resilience](../RiskISO/PBN__RiskISO_Impact_2)
+* [dehghani_hierarchy_2020](../Article/PBN__Article_73)
+* [nembhard_ventilation_2020](../Article/PBN__Article_104)
 
-## Property: has_RiskMitigation
+## Property: has_RiskGBN
 
-* [Use high-efficiency air filters in ventilation systems.](../RiskMitigation/PBN__RiskMitigation_1811)
-* [Using high-efficiency air filters (such as MERV-13 or HEPA filters), regularly replacing and cleaning filters](../RiskMitigation/PBN__RiskMitigation_2388)
+* [Yes](../RiskGBN/PBN__RiskGBN_1)
+
+## Property: has_RiskHealth
+
+* [physical](../RiskHealth/PBN__RiskHealth_0)
 

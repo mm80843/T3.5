@@ -1,32 +1,8 @@
 # Benef: __Reduction in transmission__ (PBN__Benef_262)
 
-## Property: has_Beneficiary
-
-* [students](../Stakeholder/PBN__Stakeholder_101)
-* [faculty](../Stakeholder/PBN__Stakeholder_134)
-* [staff](../Stakeholder/PBN__Stakeholder_103)
-* [general population](../Stakeholder/PBN__Stakeholder_9)
-* [building owners and occupants](../Stakeholder/PBN__Stakeholder_143)
-* [population](../Stakeholder/PBN__Stakeholder_81)
-* [infected individuals](../Stakeholder/PBN__Stakeholder_161)
-* [household members](../Stakeholder/PBN__Stakeholder_162)
-* [teachers](../Stakeholder/PBN__Stakeholder_102)
-* [workers](../Stakeholder/PBN__Stakeholder_128)
-* [passengers](../Stakeholder/PBN__Stakeholder_499)
-
 ## Property: has_BenefDetails
 
 Reducing physical contact and maintaining distance helps prevent the spread of the virus, protecting the health of workers and passengers
-
-## Property: has_BenefSource
-
-* [sutton_reframe_2020](../Article/PBN__Article_53)
-* [ghosh_study_2020](../Article/PBN__Article_57)
-* [walker_impact_2020](../Article/PBN__Article_65)
-* [flaxman_report_2020](../Article/PBN__Article_166)
-* [abideen_mitigation_2020](../Article/PBN__Article_200)
-* [mecenas_effects_2020](../Article/PBN__Article_228)
-* [kaushal_strategies_2021](../Article/PBN__Article_268)
 
 ## Property: has_BenefReturn
 
@@ -45,4 +21,28 @@ Reducing physical contact and maintaining distance helps prevent the spread of t
 * [Private investors can benefit from implementing these interventions by reducing the spread of the disease, which can lead to a decrease in the burden on healthcare systems, lower healthcare costs, and a potential increase in economic stability and productivity.](../BenefReturn/PBN__BenefReturn_1230)
 * [Private investors can benefit from implementing these policies by reducing the spread of the disease, which can lead to a decrease in the burden on healthcare systems, lower healthcare costs, and a potential increase in economic stability and productivity.](../BenefReturn/PBN__BenefReturn_1233)
 * [Implementing social distancing measures reduces the risk of virus transmission, ensuring the safety of workers and passengers and maintaining public trust and confidence in the transport system.](../BenefReturn/PBN__BenefReturn_1432)
+
+## Property: has_Beneficiary
+
+* [students](../Stakeholder/PBN__Stakeholder_101)
+* [faculty](../Stakeholder/PBN__Stakeholder_134)
+* [staff](../Stakeholder/PBN__Stakeholder_103)
+* [general population](../Stakeholder/PBN__Stakeholder_9)
+* [building owners and occupants](../Stakeholder/PBN__Stakeholder_143)
+* [population](../Stakeholder/PBN__Stakeholder_81)
+* [infected individuals](../Stakeholder/PBN__Stakeholder_161)
+* [household members](../Stakeholder/PBN__Stakeholder_162)
+* [teachers](../Stakeholder/PBN__Stakeholder_102)
+* [workers](../Stakeholder/PBN__Stakeholder_128)
+* [passengers](../Stakeholder/PBN__Stakeholder_499)
+
+## Property: has_BenefSource
+
+* [sutton_reframe_2020](../Article/PBN__Article_53)
+* [ghosh_study_2020](../Article/PBN__Article_57)
+* [walker_impact_2020](../Article/PBN__Article_65)
+* [flaxman_report_2020](../Article/PBN__Article_166)
+* [abideen_mitigation_2020](../Article/PBN__Article_200)
+* [mecenas_effects_2020](../Article/PBN__Article_228)
+* [kaushal_strategies_2021](../Article/PBN__Article_268)
 

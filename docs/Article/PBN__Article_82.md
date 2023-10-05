@@ -4,14 +4,6 @@
 
 This study analyzed construction-related complaints submitted to the OSHA Complaint Tracker from March 2020 to January 2021 to understand the health and safety concerns of construction workers during the COVID-19 pandemic. The complaints were categorized into themes such as personnel testing positive and continuing to work, lack of enforcement of social distancing and provision of masks and PPE, inadequate hand-washing facilities, lack of adherence to safety guidelines, and failure to disinfect the workplace. Based on these concerns, 100 best practices were identified from guidelines provided by OSHA, CDC, and AGC. The practices covered themes including access points, communication and awareness, compliance, daily tasks and activities, engineering controls, exposure response plan, human interactions, hygiene and sanitization, management of deliveries, physical and mental health, and safety wearables and carry-ons. The study provides insights into the concerns of construction workers and offers recommendations to address these concerns and improve health and safety on construction sites during the pandemic. Future research can assess the effectiveness of these practices and how the situation evolves as vaccines are rolled out.
 
-## Property: has_ArticleTitle
-
-Analysis of COVID-19 Concerns Raised by the Construction Workforce and Development of Mitigation Practices
-
-## Property: has_ArticleYear
-
-2021
-
 ## Property: has_ArticleRef
 
 * [gamil_impact_2020](../Article/PBN__Article_168)
@@ -25,4 +17,12 @@ Coronavirus disease (COVID-19) is a new and serious illness caused by a virus th
 ## Property: has_ArticleDOI
 
 10.3389/fbuil.2021.688495
+
+## Property: has_ArticleTitle
+
+Analysis of COVID-19 Concerns Raised by the Construction Workforce and Development of Mitigation Practices
+
+## Property: has_ArticleYear
+
+2021
 

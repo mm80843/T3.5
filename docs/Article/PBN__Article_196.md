@@ -4,14 +4,6 @@
 
 This study aimed to analyze the potential transmission risk of the SARS-CoV-2 virus in a hospital environment by performing environmental sampling in four isolation rooms housing COVID-19 patients. The study found that the most contaminated environment was the toilet, with several positive surface samples indicating fecal contamination. The detection of the virus in the corridor air and on the surface of exhaust grilles in the bathroom suggests the possible existence of airborne transmission, although the airborne concentration of the virus was found to be very low. The study also found that there were no positive samples on non-toilet object surfaces in the patients' rooms. The results imply that toilets may be high-risk areas in hospitals with COVID-19 patients, highlighting the importance of hand and environmental hygiene. The study had limitations, such as a small number of collected air samples and restricted access to patients with mild symptoms.
 
-## Property: has_ArticleTitle
-
-Toilets dominate environmental detection of SARS-CoV-2 virus in a hospital
-
-## Property: has_ArticleYear
-
-2020
-
 ## Property: has_ArticleRef
 
 * [ong_air_2020](../Article/PBN__Article_264)
@@ -23,4 +15,12 @@ A study was conducted in a hospital in China to understand how the coronavirus s
 ## Property: has_ArticleDOI
 
 10.1101/2020.04.03.20052175
+
+## Property: has_ArticleTitle
+
+Toilets dominate environmental detection of SARS-CoV-2 virus in a hospital
+
+## Property: has_ArticleYear
+
+2020
 

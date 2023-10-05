@@ -1,36 +1,8 @@
 # Risk: __Spread of COVID-19__ (PBN__Risk_91)
 
-## Property: has_RiskSubject
-
-* [general population](../Stakeholder/PBN__Stakeholder_9)
-* [healthcare workers](../Stakeholder/PBN__Stakeholder_68)
-* [vulnerable populations](../Stakeholder/PBN__Stakeholder_127)
-
 ## Property: has_RiskISO_Impact
 
 * [Health and care](../RiskISO/PBN__RiskISO_Purpose_0)
-
-## Property: has_RiskSource
-
-* [hutasoit_sars-cov-2_2020](../Article/PBN__Article_16)
-* [leal_filho_covid-19_2020](../Article/PBN__Article_109)
-* [mesa_vieira_covid-19_2020](../Article/PBN__Article_236)
-* [rogers_city_2020](../Article/PBN__Article_7)
-* [sigler_socio-spatial_2020](../Article/PBN__Article_175)
-* [thukral_covid19_2021](../Article/PBN__Article_194)
-
-## Property: has_RiskName
-
-High number of cases, strain on healthcare system, high mortality rates.
-
-## Property: has_RiskHealth
-
-* [physical](../RiskHealth/PBN__RiskHealth_0)
-
-## Property: has_RiskGBN
-
-* [Yes](../RiskGBN/PBN__RiskGBN_1)
-* [No](../RiskGBN/PBN__RiskGBN_0)
 
 ## Property: has_RiskTechnology
 
@@ -46,6 +18,22 @@ High number of cases, strain on healthcare system, high mortality rates.
 * [diagnostic testing](../Technology/PBN__Technology_345)
 * [remote work technologies](../Technology/PBN__Technology_134)
 
+## Property: has_RiskSubject
+
+* [general population](../Stakeholder/PBN__Stakeholder_9)
+* [healthcare workers](../Stakeholder/PBN__Stakeholder_68)
+* [vulnerable populations](../Stakeholder/PBN__Stakeholder_127)
+
+## Property: has_RiskType
+
+* [health](../RiskType/PBN__RiskType_4)
+* [social](../RiskType/PBN__RiskType_2)
+* [environmental](../RiskType/PBN__RiskType_0)
+
+## Property: has_RiskISO_Purpose
+
+* [Resilience](../RiskISO/PBN__RiskISO_Impact_2)
+
 ## Property: has_RiskOwner
 
 * [government](../Stakeholder/PBN__Stakeholder_73)
@@ -55,20 +43,6 @@ High number of cases, strain on healthcare system, high mortality rates.
 * [government health agencies](../Stakeholder/PBN__Stakeholder_883)
 * [healthcare providers](../Stakeholder/PBN__Stakeholder_121)
 * [healthcare institutions](../Stakeholder/PBN__Stakeholder_269)
-
-## Property: has_RiskType
-
-* [health](../RiskType/PBN__RiskType_4)
-* [social](../RiskType/PBN__RiskType_2)
-* [environmental](../RiskType/PBN__RiskType_0)
-
-## Property: has_RiskDescription
-
-The virus can easily spread from person to person, leading to high infection rates and overwhelming healthcare systems.
-
-## Property: has_RiskISO_Purpose
-
-* [Resilience](../RiskISO/PBN__RiskISO_Impact_2)
 
 ## Property: has_RiskMitigation
 
@@ -140,4 +114,30 @@ The virus can easily spread from person to person, leading to high infection rat
 * [Enhancing healthcare facilities](../Mitigation/PBN__Mitigation_1124)
 * [Implementing social distancing measures](../Mitigation/PBN__Mitigation_1125)
 * [Promoting hand hygiene practices](../Mitigation/PBN__Mitigation_1126)
+
+## Property: has_RiskName
+
+High number of cases, strain on healthcare system, high mortality rates.
+
+## Property: has_RiskDescription
+
+The virus can easily spread from person to person, leading to high infection rates and overwhelming healthcare systems.
+
+## Property: has_RiskSource
+
+* [hutasoit_sars-cov-2_2020](../Article/PBN__Article_16)
+* [leal_filho_covid-19_2020](../Article/PBN__Article_109)
+* [mesa_vieira_covid-19_2020](../Article/PBN__Article_236)
+* [rogers_city_2020](../Article/PBN__Article_7)
+* [sigler_socio-spatial_2020](../Article/PBN__Article_175)
+* [thukral_covid19_2021](../Article/PBN__Article_194)
+
+## Property: has_RiskGBN
+
+* [Yes](../RiskGBN/PBN__RiskGBN_1)
+* [No](../RiskGBN/PBN__RiskGBN_0)
+
+## Property: has_RiskHealth
+
+* [physical](../RiskHealth/PBN__RiskHealth_0)
 

@@ -4,14 +4,6 @@
 
 This research abstract discusses the implications of the COVID-19 pandemic on the health and safety of construction workers in the construction industry. It highlights the rapid spread and long incubation period of the virus, as well as the decline in travel and implementation of social distancing measures. The pandemic has led to significant declines and losses in transport operations and has impacted workers in the transportation sector. The study emphasizes the need to understand the complex decisions that affect the construction system during a pandemic. It compares COVID-19 to past epidemics and highlights the unique challenges it presents. The abstract also explores the socio-economic-environmental impacts of the pandemic on construction and provides a ten-point strategy to reduce its impact on the health of construction workers. It discusses the disruption of construction activity, the severe impact on taxes and other fees, and the positive and negative environmental impacts of the pandemic. The abstract concludes with limitations of the study and recommendations for future research.
 
-## Property: has_ArticleTitle
-
-Strategies to Mitigate COVID-19 Pandemic Impacts on Health and Safety of Workers in Construction Projects
-
-## Property: has_ArticleYear
-
-2021
-
 ## Property: has_ArticleRef
 
 * [megahed_antivirus-built_2020](../Article/PBN__Article_298)
@@ -23,4 +15,12 @@ The coronavirus disease, also known as COVID-19, is a sickness caused by a virus
 ## Property: has_ArticleDOI
 
 10.36937/cebel.2021.002.001
+
+## Property: has_ArticleTitle
+
+Strategies to Mitigate COVID-19 Pandemic Impacts on Health and Safety of Workers in Construction Projects
+
+## Property: has_ArticleYear
+
+2021
 

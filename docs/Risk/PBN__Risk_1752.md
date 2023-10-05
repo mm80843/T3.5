@@ -1,34 +1,26 @@
 # Risk: __Data sharing__ (PBN__Risk_1752)
 
+## Property: has_RiskISO_Impact
+
+* [Innovation, Creativity and research](../RiskISO/PBN__RiskISO_Purpose_2)
+
+## Property: has_RiskTechnology
+
+* [data sharing platforms and policies](../Technology/PBN__Technology_1125)
+
 ## Property: has_RiskSubject
 
 * [governments](../Stakeholder/PBN__Stakeholder_47)
 * [public health agencies](../Stakeholder/PBN__Stakeholder_222)
 * [private organizations](../Stakeholder/PBN__Stakeholder_247)
 
-## Property: has_RiskISO_Impact
+## Property: has_RiskType
 
-* [Innovation, Creativity and research](../RiskISO/PBN__RiskISO_Purpose_2)
+* [legal](../RiskType/PBN__RiskType_6)
 
-## Property: has_RiskSource
+## Property: has_RiskISO_Purpose
 
-* [mehta_pandemic_2021](../Article/PBN__Article_106)
-
-## Property: has_RiskName
-
-Inadequate data exchange and delayed response to the pandemic
-
-## Property: has_RiskHealth
-
-* [technological](../RiskHealth/PBN__RiskHealth_5)
-
-## Property: has_RiskGBN
-
-* [No](../RiskGBN/PBN__RiskGBN_0)
-
-## Property: has_RiskTechnology
-
-* [data sharing platforms and policies](../Technology/PBN__Technology_1125)
+* [Resilience](../RiskISO/PBN__RiskISO_Impact_2)
 
 ## Property: has_RiskOwner
 
@@ -36,19 +28,27 @@ Inadequate data exchange and delayed response to the pandemic
 * [research institutions](../Stakeholder/PBN__Stakeholder_413)
 * [data scientists](../Stakeholder/PBN__Stakeholder_627)
 
-## Property: has_RiskType
+## Property: has_RiskMitigation
 
-* [legal](../RiskType/PBN__RiskType_6)
+* [Promote data sharing initiatives and create integrated platforms and open-source structures](../RiskMitigation/PBN__RiskMitigation_2321)
+
+## Property: has_RiskName
+
+Inadequate data exchange and delayed response to the pandemic
 
 ## Property: has_RiskDescription
 
 Difficulty in consolidating and exchanging data due to legal issues and limited resources
 
-## Property: has_RiskISO_Purpose
+## Property: has_RiskSource
 
-* [Resilience](../RiskISO/PBN__RiskISO_Impact_2)
+* [mehta_pandemic_2021](../Article/PBN__Article_106)
 
-## Property: has_RiskMitigation
+## Property: has_RiskGBN
 
-* [Promote data sharing initiatives and create integrated platforms and open-source structures](../RiskMitigation/PBN__RiskMitigation_2321)
+* [No](../RiskGBN/PBN__RiskGBN_0)
+
+## Property: has_RiskHealth
+
+* [technological](../RiskHealth/PBN__RiskHealth_5)
 

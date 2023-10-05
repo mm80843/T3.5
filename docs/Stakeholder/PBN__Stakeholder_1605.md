@@ -1,9 +1,5 @@
 # Stakeholder: __city dweller__ (PBN__Stakeholder_1605)
 
-## Property: has_StakeholderSubgroup
-
-* [Public Entities](../StakeholderSubgroup/PBN__StakeholderSubgroup_3)
-
 ## Property: has_StakeholderGroup
 
 * [City Officials](../StakeholderGroup/PBN__StakeholderGroup_0)
@@ -11,4 +7,8 @@
 ## Property: has_StakeholderID
 
 * [Q22947](../Qid/Q22947)
+
+## Property: has_StakeholderSubgroup
+
+* [Public Entities](../StakeholderSubgroup/PBN__StakeholderSubgroup_3)
 

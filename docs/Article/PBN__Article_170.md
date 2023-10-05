@@ -4,14 +4,6 @@
 
 This research paper investigates the role of ontology-based solutions in addressing the challenges related to COVID-19 data. The paper evaluates existing ontology-based solutions proposed by the research community and their capabilities for analyzing and managing the spread of COVID-19. The primary contributions of this research are to investigate the role of ontology-based solutions, evaluate tool support for ontology models, and present reference architectures for COVID-19 analytics. The paper follows the methodology of Systematic Mapping Studies (SMS) to conduct the review and answers three research questions: how ontologies are used to address COVID-19 analytics challenges, what level of tool support is provided for ontology models, and what are the recurring challenges and reference architecture modules that emerge from investigated solutions. The results of the review show that ontologies are used for health monitoring, disease modeling, drug modeling, and data intelligence in COVID-19 analytics applications. Existing tools used in the studies provide limited automation, and there is a lack of rigorous evaluation of the proposed solutions. The paper concludes by suggesting future work to qualitatively analyze the proposed ontologies and evaluate their quality.
 
-## Property: has_ArticleTitle
-
-An Overview of Ontologies and Tool Support for COVID-19 Analytics
-
-## Property: has_ArticleYear
-
-2021
-
 ## Property: has_ArticleRef
 
 * [wang_response_2020](../Article/PBN__Article_24)
@@ -23,4 +15,12 @@ This text is about how scientists and researchers are using a special kind of so
 ## Property: has_ArticleDOI
 
 10.1109/EDOCW52865.2021.00026
+
+## Property: has_ArticleTitle
+
+An Overview of Ontologies and Tool Support for COVID-19 Analytics
+
+## Property: has_ArticleYear
+
+2021
 

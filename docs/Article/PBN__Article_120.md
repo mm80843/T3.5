@@ -4,14 +4,6 @@
 
 This research abstract discusses the impact of the COVID-19 pandemic on office buildings and workplaces. The abstract highlights the global economic decline, the challenges in public health, and the spread of the virus through different modes of transmission. It also emphasizes the need for regulations and guidelines to prevent the transmission of COVID-19 in workplaces, as well as the importance of implementing protective and preventive measures in office buildings. The abstract mentions the need for ventilation systems, physical distancing, and touch-free technologies as engineering control measures. It also emphasizes the role of administrative and organizational control measures, such as workplace safety measures, cleaning and disinfection, emergency plans, and education and communication. The abstract concludes by stating that resilient office buildings with safety assurances are needed for workers to return to their workplaces amidst the ongoing pandemic.
 
-## Property: has_ArticleTitle
-
-COVID-19 Experience Transforming the Protective Environment of Office Buildings and Spaces
-
-## Property: has_ArticleYear
-
-2021
-
 ## Property: has_ArticleRef
 
 * [megahed_antivirus-built_2020](../Article/PBN__Article_298)
@@ -29,4 +21,12 @@ During the COVID-19 pandemic, many people got sick and many people died. It was 
 ## Property: has_ArticleDOI
 
 10.3390/su132413636
+
+## Property: has_ArticleTitle
+
+COVID-19 Experience Transforming the Protective Environment of Office Buildings and Spaces
+
+## Property: has_ArticleYear
+
+2021
 

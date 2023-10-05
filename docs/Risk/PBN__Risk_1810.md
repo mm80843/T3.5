@@ -1,52 +1,52 @@
 # Risk: __Decline in manufacturing industry__ (PBN__Risk_1810)
 
+## Property: has_RiskISO_Impact
+
+* [Economy and sustainable production and consumption](../RiskISO/PBN__RiskISO_Purpose_8)
+
+## Property: has_RiskTechnology
+
+* [nan](../Technology/PBN__Technology_22)
+
 ## Property: has_RiskSubject
 
 * [manufacturing companies](../Stakeholder/PBN__Stakeholder_1152)
 * [workers](../Stakeholder/PBN__Stakeholder_128)
 
-## Property: has_RiskISO_Impact
+## Property: has_RiskType
 
-* [Economy and sustainable production and consumption](../RiskISO/PBN__RiskISO_Purpose_8)
+* [economic](../RiskType/PBN__RiskType_3)
 
-## Property: has_RiskSource
+## Property: has_RiskISO_Purpose
 
-* [nicola_socio-economic_2020](../Article/PBN__Article_135)
-
-## Property: has_RiskName
-
-Reduction in global production, slowdown in predicted growth
-
-## Property: has_RiskHealth
-
-* [economic](../RiskHealth/PBN__RiskHealth_3)
-
-## Property: has_RiskGBN
-
-* [Yes](../RiskGBN/PBN__RiskGBN_1)
-
-## Property: has_RiskTechnology
-
-* [nan](../Technology/PBN__Technology_22)
+* [Attractiveness](../RiskISO/PBN__RiskISO_Impact_9)
 
 ## Property: has_RiskOwner
 
 * [government](../Stakeholder/PBN__Stakeholder_73)
 * [manufacturing industry](../Stakeholder/PBN__Stakeholder_1215)
 
-## Property: has_RiskType
+## Property: has_RiskMitigation
 
-* [economic](../RiskType/PBN__RiskType_3)
+* [Provide relief measures and financial support to manufacturing businesses, explore alternative supply chains](../RiskMitigation/PBN__RiskMitigation_2394)
+
+## Property: has_RiskName
+
+Reduction in global production, slowdown in predicted growth
 
 ## Property: has_RiskDescription
 
 Anticipated decline in turnover and negative impact on business operations due to disruption to supply chains and staffing deficiencies
 
-## Property: has_RiskISO_Purpose
+## Property: has_RiskSource
 
-* [Attractiveness](../RiskISO/PBN__RiskISO_Impact_9)
+* [nicola_socio-economic_2020](../Article/PBN__Article_135)
 
-## Property: has_RiskMitigation
+## Property: has_RiskGBN
 
-* [Provide relief measures and financial support to manufacturing businesses, explore alternative supply chains](../RiskMitigation/PBN__RiskMitigation_2394)
+* [Yes](../RiskGBN/PBN__RiskGBN_1)
+
+## Property: has_RiskHealth
+
+* [economic](../RiskHealth/PBN__RiskHealth_3)
 

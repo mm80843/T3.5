@@ -4,14 +4,6 @@
 
 This article examines the role of waste and wastewater management in the global response to the COVID-19 pandemic. The virus, SARS-CoV-2, is genetically similar to the SARS-CoV coronavirus and is believed to have crossed the species barrier from animals to humans, likely originating from bats. The morphology and structure of SARS-CoV-2 have implications for waste and wastewater services, as the virus can be transmitted via air as part of aerosols. Waste materials from households and quarantine facilities with positive or suspected COVID-19 patients may contain viable virus particles and could be a source of infection. It is recommended to use strict infection control and hygiene standards when collecting waste from these locations. Wastewater can also be an important point of surveillance for COVID-19, as traces of the virus can be detected in sewage using nucleic acid testing. Wastewater monitoring could be a useful tool to assess the incidence of COVID-19 within populations and inform public health policy. Further research is needed to understand the transmission pathways and persistence of SARS-CoV-2 in wastewater. The article concludes by emphasizing the need for pandemic preparedness and response in the waste and wastewater sectors.
 
-## Property: has_ArticleTitle
-
-The COVID-19 pandemic: Considerations for the waste and wastewater services sector
-
-## Property: has_ArticleYear
-
-2020
-
 ## Property: has_ArticleRef
 
 * [van_doremalen_aerosol_2020](../Article/PBN__Article_21)
@@ -24,4 +16,12 @@ A new virus called COVID-19 is causing a global pandemic and people all around t
 ## Property: has_ArticleDOI
 
 10.1016/j.cscee.2020.100006
+
+## Property: has_ArticleTitle
+
+The COVID-19 pandemic: Considerations for the waste and wastewater services sector
+
+## Property: has_ArticleYear
+
+2020
 

@@ -4,14 +4,6 @@
 
 This study examined the impact of the COVID-19 pandemic on urban park use patterns in North Carolina, USA. Two data collection methods were used: a survey of residents and cell phone location data. The findings revealed significant declines in urban park visitation since the start of the pandemic, consistent with other studies. The declines in park visitation were more pronounced in socially vulnerable communities, exacerbating preexisting disparities in park use. Higher-income individuals and frequent park users were more likely to increase their park use during the pandemic. The results suggest that the pandemic did not attract many new users to urban parks and highlight the need for more effective communication to underserved populations. The study also found that park use patterns varied based on demographic factors such as income, race/ethnicity, and age. The findings underscore the environmental justice concerns and the need for equitable access to park spaces. Future research should explore the mechanisms behind these disparities and the impact of different public health regulations on park use.
 
-## Property: has_ArticleTitle
-
-Urban Park Use During the COVID-19 Pandemic: Are Socially Vulnerable Communities Disproportionately Impacted?
-
-## Property: has_ArticleYear
-
-2021
-
 ## Property: has_ArticleRef
 
 * [hanzl_urban_2021](../Article/PBN__Article_346)
@@ -27,4 +19,12 @@ During the COVID-19 pandemic, people had to stay home and couldn't go to many pl
 ## Property: has_ArticleDOI
 
 10.3389/frsc.2021.710243
+
+## Property: has_ArticleTitle
+
+Urban Park Use During the COVID-19 Pandemic: Are Socially Vulnerable Communities Disproportionately Impacted?
+
+## Property: has_ArticleYear
+
+2021
 

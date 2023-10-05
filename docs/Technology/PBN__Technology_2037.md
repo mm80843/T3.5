@@ -1,9 +1,5 @@
 # Technology: __Data analytics__ (PBN__Technology_2037)
 
-## Property: has_StakeholderSubgroup
-
-* [Data Analytics and Modeling](../TechSubgroup/PBN__TechSubgroup_2)
-
 ## Property: has_TechnologyID
 
 * [Q485396](../Qid/Q485396)
@@ -12,4 +8,8 @@
 
 * [AI tools](../TechGroup/PBN__TechGroup_0)
 * [Biology techs](../TechGroup/PBN__TechGroup_15)
+
+## Property: has_StakeholderSubgroup
+
+* [Data Analytics and Modeling](../TechSubgroup/PBN__TechSubgroup_2)
 

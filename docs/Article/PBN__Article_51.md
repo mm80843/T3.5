@@ -4,14 +4,6 @@
 
 This research abstract summarizes a study that addresses the need for new assessment tools to evaluate the sustainability of residential buildings under pandemic conditions. The study finds that existing green building certification systems do not cover the necessary indicators for pandemic resilience. As a result, the study proposes a new methodology that includes specific measures for health and safety, mental health, air quality, water quality, environmental resource consumption, and comfort. These measures aim to prevent virus propagation, promote well-being, and ensure the efficient use of resources during a pandemic. The proposed methodology provides a comprehensive framework for assessing and improving the sustainability of residential buildings in the face of future pandemics. The findings of this study can be valuable for engineers, architects, and construction designers in developing more resilient and sustainable building solutions.
 
-## Property: has_ArticleTitle
-
-Assessment method for new sustainability indicators providing pandemic resilience for residential buildings
-
-## Property: has_ArticleYear
-
-2021
-
 ## Property: has_ArticleRef
 
 * [tokazhanov_how_2020](../Article/PBN__Article_67)
@@ -31,4 +23,12 @@ During a pandemic, it's important to make sure that our homes are safe and healt
 ## Property: has_ArticleDOI
 
 10.1016/j.mex.2021.101577
+
+## Property: has_ArticleTitle
+
+Assessment method for new sustainability indicators providing pandemic resilience for residential buildings
+
+## Property: has_ArticleYear
+
+2021
 

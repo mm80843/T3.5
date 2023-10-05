@@ -4,14 +4,6 @@
 
 This research review examines various facilities management (FM) interventions aimed at preventing the transmission of respiratory viruses in built environments. The study covers interventions in HVAC systems, drainage systems, cleaning practices, and space and occupancy management. The review finds that while HVAC interventions, such as increasing ventilation rates and using HEPA filters, can be effective in reducing airborne transmission, more research is needed to determine optimal ventilation rates and maintenance practices. Drainage system interventions, particularly in high-rise buildings, are also important in preventing virus transmission. Proper cleaning practices, including surface disinfection and waste management, are crucial for preventing fomite transmission. Additionally, the review highlights the importance of space and occupancy management, including controlling occupant density and implementing social distancing measures. Emerging technologies, such as IoT-based applications and UVGI systems, show promise in infection control but require further evaluation. Overall, this review identifies research gaps and provides a foundation for the development of integrated FM solutions for respiratory infection control in built environments.
 
-## Property: has_ArticleTitle
-
-A review of facilities management interventions to mitigate respiratory infections in existing buildings
-
-## Property: has_ArticleYear
-
-2022
-
 ## Property: has_ArticleRef
 
 * [morawska_how_2020](../Article/PBN__Article_121)
@@ -35,4 +27,12 @@ This article is about how facilities management (FM) can help prevent the spread
 ## Property: has_ArticleDOI
 
 10.1016/j.buildenv.2022.109347
+
+## Property: has_ArticleTitle
+
+A review of facilities management interventions to mitigate respiratory infections in existing buildings
+
+## Property: has_ArticleYear
+
+2022
 

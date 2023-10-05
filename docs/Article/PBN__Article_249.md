@@ -4,14 +4,6 @@
 
 This research abstract summarizes the effect and role of environmental factors in buildings, spatial dynamics, and building operational factors in the transmission of SARS-CoV-2, the virus that causes COVID-19. The study provides an overview of the environmental factors involved in the persistence and spread of the virus, including air temperature and humidity, sunlight, and stability on surfaces. It also highlights the possible pathways of SARS-CoV-2 transmission, including droplet and contact transmission, and the potential for close-contact aerosol transmission in confined, crowded, and poorly ventilated indoor environments. The abstract discusses the importance of adequate control measures, such as ventilation, filtration, and ultraviolet germicidal irradiation, in preventing the spread of the virus in building environments. It also discusses the recommendations and guidelines provided by the Japanese ministries for indoor environmental quality control to prevent SARS-CoV-2 transmission. Overall, the study emphasizes the importance of understanding the transmission dynamics of SARS-CoV-2 in indoor environments and implementing appropriate control measures to prevent the spread of COVID-19.
 
-## Property: has_ArticleTitle
-
-Environmental factors involved in SARS-CoV-2 transmission: effect and role of indoor environmental quality in the strategy for COVID-19 infection control
-
-## Property: has_ArticleYear
-
-2020
-
 ## Property: has_ArticleRef
 
 * [guo_aerosol_2020](../Article/PBN__Article_263)
@@ -26,4 +18,12 @@ In this article, the authors discuss the factors that contribute to the transmis
 ## Property: has_ArticleDOI
 
 10.1186/s12199-020-00904-2
+
+## Property: has_ArticleTitle
+
+Environmental factors involved in SARS-CoV-2 transmission: effect and role of indoor environmental quality in the strategy for COVID-19 infection control
+
+## Property: has_ArticleYear
+
+2020
 

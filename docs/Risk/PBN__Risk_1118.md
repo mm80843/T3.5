@@ -1,52 +1,52 @@
 # Risk: __Poor Thermal Conditions__ (PBN__Risk_1118)
 
+## Property: has_RiskISO_Impact
+
+* [Health and care](../RiskISO/PBN__RiskISO_Purpose_0)
+
+## Property: has_RiskTechnology
+
+* [none](../Technology/PBN__Technology_35)
+
 ## Property: has_RiskSubject
 
 * [occupants](../Stakeholder/PBN__Stakeholder_92)
 * [especially those in extreme temperature environments](../Stakeholder/PBN__Stakeholder_645)
 
-## Property: has_RiskISO_Impact
+## Property: has_RiskType
 
-* [Health and care](../RiskISO/PBN__RiskISO_Purpose_0)
+* [technological](../RiskType/PBN__RiskType_5)
 
-## Property: has_RiskSource
+## Property: has_RiskISO_Purpose
 
-* [awada_occupant_2022](../Article/PBN__Article_273)
-
-## Property: has_RiskName
-
-Discomfort, reduced productivity, thermal stress, and health issues
-
-## Property: has_RiskHealth
-
-* [physical](../RiskHealth/PBN__RiskHealth_0)
-
-## Property: has_RiskGBN
-
-* [Yes](../RiskGBN/PBN__RiskGBN_1)
-
-## Property: has_RiskTechnology
-
-* [none](../Technology/PBN__Technology_35)
+* [Well-being](../RiskISO/PBN__RiskISO_Impact_1)
 
 ## Property: has_RiskOwner
 
 * [facility managers](../Stakeholder/PBN__Stakeholder_166)
 * [hvac technicians](../Stakeholder/PBN__Stakeholder_643)
 
-## Property: has_RiskType
+## Property: has_RiskMitigation
 
-* [technological](../RiskType/PBN__RiskType_5)
+* [Installation of efficient HVAC systems, proper insulation, and controls for temperature regulation](../RiskMitigation/PBN__RiskMitigation_1566)
+
+## Property: has_RiskName
+
+Discomfort, reduced productivity, thermal stress, and health issues
 
 ## Property: has_RiskDescription
 
 Inadequate heating or cooling, uneven temperature distribution
 
-## Property: has_RiskISO_Purpose
+## Property: has_RiskSource
 
-* [Well-being](../RiskISO/PBN__RiskISO_Impact_1)
+* [awada_occupant_2022](../Article/PBN__Article_273)
 
-## Property: has_RiskMitigation
+## Property: has_RiskGBN
 
-* [Installation of efficient HVAC systems, proper insulation, and controls for temperature regulation](../RiskMitigation/PBN__RiskMitigation_1566)
+* [Yes](../RiskGBN/PBN__RiskGBN_1)
+
+## Property: has_RiskHealth
+
+* [physical](../RiskHealth/PBN__RiskHealth_0)
 

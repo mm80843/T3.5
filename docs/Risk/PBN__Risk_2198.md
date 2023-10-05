@@ -1,52 +1,52 @@
 # Risk: __MH3__ (PBN__Risk_2198)
 
+## Property: has_RiskISO_Impact
+
+* [Living and working environment](../RiskISO/PBN__RiskISO_Purpose_1)
+
+## Property: has_RiskTechnology
+
+* [design of safe and social spaces](../Technology/PBN__Technology_1739)
+
 ## Property: has_RiskSubject
 
 * [building occupants](../Stakeholder/PBN__Stakeholder_97)
 * [residents](../Stakeholder/PBN__Stakeholder_59)
 
-## Property: has_RiskISO_Impact
+## Property: has_RiskType
 
-* [Living and working environment](../RiskISO/PBN__RiskISO_Purpose_1)
+* [social](../RiskType/PBN__RiskType_2)
 
-## Property: has_RiskSource
+## Property: has_RiskISO_Purpose
 
-* [tokazhanov_assessment_2021](../Article/PBN__Article_51)
-
-## Property: has_RiskName
-
-Fulfill socialization needs without risk of infection
-
-## Property: has_RiskHealth
-
-* [mental](../RiskHealth/PBN__RiskHealth_1)
-
-## Property: has_RiskGBN
-
-* [Yes](../RiskGBN/PBN__RiskGBN_1)
-
-## Property: has_RiskTechnology
-
-* [design of safe and social spaces](../Technology/PBN__Technology_1739)
+* [Well-being](../RiskISO/PBN__RiskISO_Impact_1)
 
 ## Property: has_RiskOwner
 
 * [building management](../Stakeholder/PBN__Stakeholder_1105)
 * [facilities](../Stakeholder/PBN__Stakeholder_1487)
 
-## Property: has_RiskType
+## Property: has_RiskMitigation
 
-* [social](../RiskType/PBN__RiskType_2)
+* [Provide safe and social spaces](../RiskMitigation/PBN__RiskMitigation_2869)
+
+## Property: has_RiskName
+
+Fulfill socialization needs without risk of infection
 
 ## Property: has_RiskDescription
 
 Access to common building spaces with sufficient safety and social distance
 
-## Property: has_RiskISO_Purpose
+## Property: has_RiskSource
 
-* [Well-being](../RiskISO/PBN__RiskISO_Impact_1)
+* [tokazhanov_assessment_2021](../Article/PBN__Article_51)
 
-## Property: has_RiskMitigation
+## Property: has_RiskGBN
 
-* [Provide safe and social spaces](../RiskMitigation/PBN__RiskMitigation_2869)
+* [Yes](../RiskGBN/PBN__RiskGBN_1)
+
+## Property: has_RiskHealth
+
+* [mental](../RiskHealth/PBN__RiskHealth_1)
 
