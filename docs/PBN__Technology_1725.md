@@ -1,0 +1,10 @@
+# Technoloy: __pressure sensors__ (PBN__Technology_1725)
+
+## Property: has_StakeholderSubgroup
+
+* [Surveillance and Tracking Systems](PBN__TechSubgroup_21)
+
+## Property: has_StakeholderGroup
+
+* [Enforcement measures](PBN__TechGroup_7)
+

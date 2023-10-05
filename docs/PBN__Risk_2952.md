@@ -1,0 +1,6 @@
+# RISK: __Virus spread through vertical shaft__ (PBN__Risk_2952)
+
+## Property: has_RiskMitigation
+
+* [Independent ventilation system for each apartment unit](PBN__Mitigation_1154)
+

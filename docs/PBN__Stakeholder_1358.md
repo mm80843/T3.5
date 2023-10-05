@@ -1,0 +1,16 @@
+# STAKEHOLDER: __building occupants in environments with high chemical pollutant levels__ (PBN__Stakeholder_1358)
+
+## Property: has_StakeholderSubgroup
+
+* [Occupants](PBN__StakeholderSubgroup_55)
+* [Real Estate and Construction](PBN__StakeholderSubgroup_31)
+
+## Property: has_StakeholderGroup
+
+* [Private Sector](PBN__StakeholderGroup_5)
+* [Building Occupants](PBN__StakeholderGroup_11)
+
+## Property: has_StakeholderID
+
+* [Q104885559](Q104885559)
+

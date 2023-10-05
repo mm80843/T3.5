@@ -1,0 +1,6 @@
+# RISK: __Insufficient outdoor air supply__ (PBN__Risk_3065)
+
+## Property: has_RiskMitigation
+
+* [Increased outdoor air supply](PBN__Mitigation_1427)
+

@@ -1,0 +1,10 @@
+# STAKEHOLDER: __cleaning services__ (PBN__Stakeholder_538)
+
+## Property: has_StakeholderSubgroup
+
+* [nan](PBN__StakeholderSubgroup_7)
+
+## Property: has_StakeholderGroup
+
+* [Workers](PBN__StakeholderGroup_2)
+

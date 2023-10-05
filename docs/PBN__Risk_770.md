@@ -1,0 +1,6 @@
+# RISK: __Losses in supply and demand__ (PBN__Risk_770)
+
+## Property: has_RiskMitigation
+
+* [Blockchain technology for supply chain management](PBN__RiskMitigation_1057)
+
