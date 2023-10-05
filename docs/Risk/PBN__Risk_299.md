@@ -1,0 +1,6 @@
+# Risk: __Less collaboration between stakeholders__ (PBN__Risk_299)
+
+## Property: has_RiskMitigation
+
+* [Integrated project delivery model](../RiskMitigation/PBN__RiskMitigation_370)
+

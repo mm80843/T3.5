@@ -1,0 +1,6 @@
+# Risk: __Health care system overload__ (PBN__Risk_12)
+
+## Property: has_RiskMitigation
+
+* [Strengthen public and universal health systems](../RiskMitigation/PBN__RiskMitigation_16)
+

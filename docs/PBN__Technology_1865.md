@@ -1,6 +1,0 @@
-# Technoloy: __suitable treatment and__ (PBN__Technology_1865)
-
-## Property: has_TechnologyID
-
-* [Q179661](Q179661)
-

@@ -1,0 +1,6 @@
+# Technology: __face mask usage__ (PBN__Technology_1991)
+
+## Property: has_TechnologyID
+
+* [Q3064085](../Qid/Q3064085)
+

@@ -1,0 +1,6 @@
+# Risk: __Misinformation and confusion__ (PBN__Risk_3274)
+
+## Property: has_RiskMitigation
+
+* [Effective Communication](../Mitigation/PBN__Mitigation_1865)
+

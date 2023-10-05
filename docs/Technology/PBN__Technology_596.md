@@ -1,0 +1,6 @@
+# Technology: __green space quality assessment tools__ (PBN__Technology_596)
+
+## Property: has_TechnologyID
+
+* [Q22652](../Qid/Q22652)
+
