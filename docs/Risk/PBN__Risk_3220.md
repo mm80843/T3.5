@@ -1,6 +1,8 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Lack of access to natural light__ (PBN__Risk_3220)
 
 ## Property: has_RiskMitigation
 
-* [Natural Lighting](../Mitigation/PBN__Mitigation_1690)
+* [Natural Lighting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1690.md)
 

@@ -1,10 +1,12 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Mental health harms__ (PBN__Risk_3)
 
 ## Property: has_RiskMitigation
 
-* [Access to mental health support services](../RiskMitigation/PBN__RiskMitigation_7)
-* [Garden access](../Mitigation/PBN__Mitigation_739)
-* [Well-being support](../Mitigation/PBN__Mitigation_741)
-* [Policy interventions](../Mitigation/PBN__Mitigation_734)
-* [Access to green spaces](../Mitigation/PBN__Mitigation_125)
+* [Access to mental health support services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_7.md)
+* [Garden access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_739.md)
+* [Well-being support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_741.md)
+* [Policy interventions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_734.md)
+* [Access to green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_125.md)
 

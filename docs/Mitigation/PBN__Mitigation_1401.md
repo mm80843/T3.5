@@ -1,14 +1,16 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __AI-assisted patient positioning for radiological imaging__ (PBN__Mitigation_1401)
-
-## Property: has_MitigationTechnology
-
-* [artificial intelligence](../Technology/PBN__Technology_358)
-* [cameras](../Technology/PBN__Technology_3842)
-* [and speakers](../Technology/PBN__Technology_3843)
 
 ## Property: has_MitigationSource
 
-* [naseem_exploring_2020](../Article/PBN__Article_131)
+* [naseem_exploring_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_131.md)
+
+## Property: has_MitigationTechnology
+
+* [artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_358.md)
+* [cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3842.md)
+* [and speakers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3843.md)
 
 ## Property: has_MitigationPrinciple
 

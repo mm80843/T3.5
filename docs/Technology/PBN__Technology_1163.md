@@ -1,6 +1,8 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) 
+
 # Technology: __funding support__ (PBN__Technology_1163)
 
 ## Property: has_TechnologyID
 
-* [Q6055890](../Qid/Q6055890)
+* [Q6055890](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6055890.md)
 

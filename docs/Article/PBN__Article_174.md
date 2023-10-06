@@ -1,13 +1,23 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) 
+
 # Article: __frank_treating_2021__ (PBN__Article_174)
+
+## Property: has_ArticleYear
+
+2021
+
+## Property: has_ArticleRef
+
+* [li_association_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_32.md)
+* [megahed_antivirus-built_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_298.md)
 
 ## Property: has_ArticleLLMShortSummary
 
 This study examines the relationships between the built environment, chronic disease (specifically obesity), and COVID-19 mortality. Using county-level data, the study finds that higher residential density is associated with lower COVID-19 fatality rates, while higher prevalence of obesity is associated with higher fatality rates. The study also finds that certain built environment characteristics, such as pedestrian-oriented design and greater street connectivity, are associated with lower prevalence of obesity. These associations vary across counties, indicating the importance of considering local context. The study highlights the role of unobserved heterogeneity and the need to account for it in analyses. The findings have important implications for policymakers, emphasizing the need for healthier, more walkable environments to combat chronic disease and reduce the impact of infectious diseases like COVID-19. Future research should consider higher-resolution data and examine physical activity outcomes to further understand the relationships between the built environment and health outcomes.
 
-## Property: has_ArticleRef
+## Property: has_ArticleTitle
 
-* [li_association_2021](../Article/PBN__Article_32)
-* [megahed_antivirus-built_2020](../Article/PBN__Article_298)
+Treating two pandemics for the price of one: Chronic and infectious disease impacts of the built and natural environment
 
 ## Property: has_ArticleLLMSummary
 
@@ -16,12 +26,4 @@ This study looked at how the environment we live in, including things like our n
 ## Property: has_ArticleDOI
 
 10.1016/j.scs.2021.103089
-
-## Property: has_ArticleTitle
-
-Treating two pandemics for the price of one: Chronic and infectious disease impacts of the built and natural environment
-
-## Property: has_ArticleYear
-
-2021
 

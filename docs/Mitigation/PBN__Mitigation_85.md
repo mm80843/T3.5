@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Mobilizing informal institutions for education__ (PBN__Mitigation_85)
-
-## Property: has_MitigationTechnology
-
-* [chws](../Technology/PBN__Technology_2955)
-* [community support groups](../Technology/PBN__Technology_75)
 
 ## Property: has_MitigationSource
 
-* [akseer_covid-19_2020](../Article/PBN__Article_222)
+* [akseer_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_222.md)
+
+## Property: has_MitigationTechnology
+
+* [chws](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2955.md)
+* [community support groups](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_75.md)
 
 ## Property: has_MitigationPrinciple
 

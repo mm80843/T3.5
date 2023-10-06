@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Building regulations__ (PBN__Mitigation_733)
-
-## Property: has_MitigationTechnology
-
-* [strong building codes](../Technology/PBN__Technology_3413)
-* [inspections](../Technology/PBN__Technology_84)
 
 ## Property: has_MitigationSource
 
-* [gurney_dangerous_2021](../Article/PBN__Article_2)
+* [gurney_dangerous_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_2.md)
+
+## Property: has_MitigationTechnology
+
+* [strong building codes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3413.md)
+* [inspections](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_84.md)
 
 ## Property: has_MitigationPrinciple
 

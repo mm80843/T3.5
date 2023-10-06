@@ -1,14 +1,16 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Renewable energy__ (PBN__Mitigation_1827)
-
-## Property: has_MitigationTechnology
-
-* [solar](../Technology/PBN__Technology_4092)
-* [wind](../Technology/PBN__Technology_4093)
-* [hydro power](../Technology/PBN__Technology_4094)
 
 ## Property: has_MitigationSource
 
-* [samout_covid-19_2020](../Article/PBN__Article_58)
+* [samout_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_58.md)
+
+## Property: has_MitigationTechnology
+
+* [solar](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4092.md)
+* [wind](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4093.md)
+* [hydro power](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4094.md)
 
 ## Property: has_MitigationPrinciple
 

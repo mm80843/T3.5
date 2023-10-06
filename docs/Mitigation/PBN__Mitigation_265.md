@@ -1,23 +1,25 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Improved ventilation__ (PBN__Mitigation_265)
-
-## Property: has_MitigationTechnology
-
-* [ventilation systems](../Technology/PBN__Technology_139)
-* [air purifiers](../Technology/PBN__Technology_138)
-* [hvac systems](../Technology/PBN__Technology_185)
-* [windows](../Technology/PBN__Technology_140)
-* [mechanical ventilation](../Technology/PBN__Technology_271)
-* [natural ventilation](../Technology/PBN__Technology_270)
-* [hvac system](../Technology/PBN__Technology_3190)
 
 ## Property: has_MitigationSource
 
-* [behzadinasab_surface_2020](../Article/PBN__Article_199)
-* [koh_how_2022](../Article/PBN__Article_190)
-* [medema_presence_2020](../Article/PBN__Article_1)
-* [megahed_indoor_2021](../Article/PBN__Article_206)
-* [paikan_effects_2021](../Article/PBN__Article_134)
-* [rahim_impact_2022 rahim_impact_2022](../Article/PBN__Article_309)
+* [behzadinasab_surface_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_199.md)
+* [koh_how_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_190.md)
+* [medema_presence_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_1.md)
+* [megahed_indoor_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_206.md)
+* [paikan_effects_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_134.md)
+* [rahim_impact_2022 rahim_impact_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_309.md)
+
+## Property: has_MitigationTechnology
+
+* [ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_139.md)
+* [air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_138.md)
+* [hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_185.md)
+* [windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_140.md)
+* [mechanical ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_271.md)
+* [natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_270.md)
+* [hvac system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3190.md)
 
 ## Property: has_MitigationPrinciple
 

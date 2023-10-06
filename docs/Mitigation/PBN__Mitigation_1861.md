@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Early Warning Systems__ (PBN__Mitigation_1861)
-
-## Property: has_MitigationTechnology
-
-* [monitoring systems](../Technology/PBN__Technology_201)
-* [data analysis tools](../Technology/PBN__Technology_554)
 
 ## Property: has_MitigationSource
 
-* [semenza_prototype_2015](../Article/PBN__Article_212)
+* [semenza_prototype_2015](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_212.md)
+
+## Property: has_MitigationTechnology
+
+* [monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_201.md)
+* [data analysis tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_554.md)
 
 ## Property: has_MitigationPrinciple
 

@@ -1,6 +1,8 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Lack of community-level vector control capacity__ (PBN__Risk_759)
 
 ## Property: has_RiskMitigation
 
-* [Improving capacity for essential vector control operations](../RiskMitigation/PBN__RiskMitigation_1049)
+* [Improving capacity for essential vector control operations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1049.md)
 

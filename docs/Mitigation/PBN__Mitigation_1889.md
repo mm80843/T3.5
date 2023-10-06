@@ -1,14 +1,16 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Automated surveillance and contactless delivery__ (PBN__Mitigation_1889)
-
-## Property: has_MitigationTechnology
-
-* [blockchain technology](../Technology/PBN__Technology_211)
-* [uavs](../Technology/PBN__Technology_4124)
-* [robots](../Technology/PBN__Technology_3001)
 
 ## Property: has_MitigationSource
 
-* [sharma_blockchain_2022](../Article/PBN__Article_219)
+* [sharma_blockchain_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_219.md)
+
+## Property: has_MitigationTechnology
+
+* [blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_211.md)
+* [uavs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4124.md)
+* [robots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3001.md)
 
 ## Property: has_MitigationPrinciple
 

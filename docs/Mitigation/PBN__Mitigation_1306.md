@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Biofiltration technology__ (PBN__Mitigation_1306)
-
-## Property: has_MitigationTechnology
-
-* [green walls](../Technology/PBN__Technology_1010)
-* [microalgae structures](../Technology/PBN__Technology_3778)
 
 ## Property: has_MitigationSource
 
-* [megahed_indoor_2021](../Article/PBN__Article_206)
+* [megahed_indoor_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_206.md)
+
+## Property: has_MitigationTechnology
+
+* [green walls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1010.md)
+* [microalgae structures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3778.md)
 
 ## Property: has_MitigationPrinciple
 

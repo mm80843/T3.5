@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Providing income and support to impacted workers__ (PBN__Mitigation_2262)
-
-## Property: has_MitigationTechnology
-
-* [social security payments](../Technology/PBN__Technology_4378)
-* [wage subsidies](../Technology/PBN__Technology_4379)
 
 ## Property: has_MitigationSource
 
-* [van_barneveld_covid-19_2020](../Article/PBN__Article_124)
+* [van_barneveld_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_124.md)
+
+## Property: has_MitigationTechnology
+
+* [social security payments](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4378.md)
+* [wage subsidies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4379.md)
 
 ## Property: has_MitigationPrinciple
 

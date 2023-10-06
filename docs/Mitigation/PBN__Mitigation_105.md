@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Converged Command     Centres__ (PBN__Mitigation_105)
-
-## Property: has_MitigationTechnology
-
-* [real-time data analysis](../Technology/PBN__Technology_2005)
 
 ## Property: has_MitigationSource
 
-* [allam_emergence_2019](../Article/PBN__Article_15)
+* [allam_emergence_2019](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_15.md)
+
+## Property: has_MitigationTechnology
+
+* [real-time data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2005.md)
 
 ## Property: has_MitigationPrinciple
 

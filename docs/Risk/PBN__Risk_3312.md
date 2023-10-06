@@ -1,8 +1,10 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Energy insecurity__ (PBN__Risk_3312)
 
 ## Property: has_RiskMitigation
 
-* [Disconnection bans](../Mitigation/PBN__Mitigation_1978)
-* [Energy bill deferral and payment extension plans](../Mitigation/PBN__Mitigation_1979)
-* [Bans on disconnections](../Mitigation/PBN__Mitigation_1981)
+* [Disconnection bans](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1978.md)
+* [Energy bill deferral and payment extension plans](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1979.md)
+* [Bans on disconnections](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1981.md)
 

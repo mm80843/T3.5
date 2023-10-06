@@ -1,19 +1,21 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Sustainable control__ (PBN__Benef_110)
 
 ## Property: has_BenefDetails
 
 Ensuring long-term adherence to control measures and public support
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Investing in sustainable control measures can maintain low transmission rates, prevent future outbreaks, and support economic recovery.](../BenefReturn/PBN__BenefReturn_109)
+* [wang_response_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_24.md)
 
 ## Property: has_Beneficiary
 
-* [government](../Stakeholder/PBN__Stakeholder_73)
-* [general population](../Stakeholder/PBN__Stakeholder_9)
+* [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [wang_response_2020](../Article/PBN__Article_24)
+* [Investing in sustainable control measures can maintain low transmission rates, prevent future outbreaks, and support economic recovery.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_109.md)
 

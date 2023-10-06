@@ -1,6 +1,8 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) 
+
 # Technology: __temperature__ (PBN__Technology_1063)
 
 ## Property: has_TechnologyID
 
-* [Q11466](../Qid/Q11466)
+* [Q11466](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q11466.md)
 

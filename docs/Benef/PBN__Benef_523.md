@@ -1,19 +1,21 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Environmental benefits__ (PBN__Benef_523)
 
 ## Property: has_BenefDetails
 
 Telecommuting reduces the need for daily commuting, resulting in reduced greenhouse gas emissions and air pollution.
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Implementing telecommuting can contribute to a cleaner environment and mitigate the impact of contagious diseases on public health.](../BenefReturn/PBN__BenefReturn_573)
+* [restrepo_betancur_impacto_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_108.md)
 
 ## Property: has_Beneficiary
 
-* [society](../Stakeholder/PBN__Stakeholder_53)
-* [environment](../Stakeholder/PBN__Stakeholder_116)
+* [society](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_53.md)
+* [environment](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_116.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [restrepo_betancur_impacto_2021](../Article/PBN__Article_108)
+* [Implementing telecommuting can contribute to a cleaner environment and mitigate the impact of contagious diseases on public health.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_573.md)
 

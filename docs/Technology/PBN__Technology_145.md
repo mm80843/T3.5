@@ -1,6 +1,8 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) 
+
 # Technology: __outdoor furniture__ (PBN__Technology_145)
 
 ## Property: has_TechnologyID
 
-* [Q2744736](../Qid/Q2744736)
+* [Q2744736](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2744736.md)
 

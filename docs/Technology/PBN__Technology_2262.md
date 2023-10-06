@@ -1,16 +1,18 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) 
+
 # Technology: __Indoor biophilic design__ (PBN__Technology_2262)
-
-## Property: has_TechnologyID
-
-* [Q1299240](../Qid/Q1299240)
 
 ## Property: has_StakeholderGroup
 
-* [Wellbeing](../TechGroup/PBN__TechGroup_2)
-* [Indoor air technologies](../TechGroup/PBN__TechGroup_13)
+* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
+* [Indoor air technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_13.md)
+
+## Property: has_TechnologyID
+
+* [Q1299240](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1299240.md)
 
 ## Property: has_StakeholderSubgroup
 
-* [Design Strategies](../TechSubgroup/PBN__TechSubgroup_104)
-* [Indoor Environmental Quality](../TechSubgroup/PBN__TechSubgroup_79)
+* [Design Strategies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_104.md)
+* [Indoor Environmental Quality](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_79.md)
 

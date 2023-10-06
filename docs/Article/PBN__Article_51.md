@@ -1,20 +1,30 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) 
+
 # Article: __tokazhanov_assessment_2021__ (PBN__Article_51)
+
+## Property: has_ArticleYear
+
+2021
+
+## Property: has_ArticleRef
+
+* [tokazhanov_how_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_67.md)
+* [tleuken_readiness_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_342.md)
+* [megahed_antivirus-built_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_298.md)
+* [van_doremalen_aerosol_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_21.md)
+* [lytle_predicted_2005](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_321.md)
+* [amerio_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_254.md)
+* [wang_sars-cov-2_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_55.md)
+* [zambrano-monserrate_indirect_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_238.md)
+* [soga_gardening_2017](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_338.md)
 
 ## Property: has_ArticleLLMShortSummary
 
 This research abstract summarizes a study that addresses the need for new assessment tools to evaluate the sustainability of residential buildings under pandemic conditions. The study finds that existing green building certification systems do not cover the necessary indicators for pandemic resilience. As a result, the study proposes a new methodology that includes specific measures for health and safety, mental health, air quality, water quality, environmental resource consumption, and comfort. These measures aim to prevent virus propagation, promote well-being, and ensure the efficient use of resources during a pandemic. The proposed methodology provides a comprehensive framework for assessing and improving the sustainability of residential buildings in the face of future pandemics. The findings of this study can be valuable for engineers, architects, and construction designers in developing more resilient and sustainable building solutions.
 
-## Property: has_ArticleRef
+## Property: has_ArticleTitle
 
-* [tokazhanov_how_2020](../Article/PBN__Article_67)
-* [tleuken_readiness_2021](../Article/PBN__Article_342)
-* [megahed_antivirus-built_2020](../Article/PBN__Article_298)
-* [van_doremalen_aerosol_2020](../Article/PBN__Article_21)
-* [lytle_predicted_2005](../Article/PBN__Article_321)
-* [amerio_covid-19_2020](../Article/PBN__Article_254)
-* [wang_sars-cov-2_2020](../Article/PBN__Article_55)
-* [zambrano-monserrate_indirect_2020](../Article/PBN__Article_238)
-* [soga_gardening_2017](../Article/PBN__Article_338)
+Assessment method for new sustainability indicators providing pandemic resilience for residential buildings
 
 ## Property: has_ArticleLLMSummary
 
@@ -23,12 +33,4 @@ During a pandemic, it's important to make sure that our homes are safe and healt
 ## Property: has_ArticleDOI
 
 10.1016/j.mex.2021.101577
-
-## Property: has_ArticleTitle
-
-Assessment method for new sustainability indicators providing pandemic resilience for residential buildings
-
-## Property: has_ArticleYear
-
-2021
 

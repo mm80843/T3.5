@@ -1,4 +1,10 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) 
+
 # Article: __sims_future_2020__ (PBN__Article_48)
+
+## Property: has_ArticleYear
+
+2020
 
 ## Property: has_ArticleLLMShortSummary
 
@@ -10,6 +16,10 @@ The study suggests that WBE can be expanded to monitor infectious diseases by an
 
 The study concludes that WBE has the potential to complement current surveillance systems and provide population-wide surveillance data in real-time. Advancements in extraction techniques, analytical tools, and biomarker discovery are needed to overcome the challenges associated with WBE. The research abstract emphasizes the significance of effective surveillance systems for the early intervention and control of infectious disease outbreaks.
 
+## Property: has_ArticleTitle
+
+Future perspectives of wastewater-based epidemiology: Monitoring infectious disease spread and resistance to the community level
+
 ## Property: has_ArticleLLMSummary
 
 There are many diseases that can make a lot of people sick. Some of these diseases are new and have never been seen before. They can spread quickly and cause outbreaks all over the world. There are different ways that people try to keep track of these diseases and stop them from spreading. One new way is called Wastewater-Based Epidemiology (WBE). WBE is a technique that looks at the water we use and can tell us if there are any harmful germs or chemicals in it. By studying the water, scientists can learn about the health of a whole community and if there are any diseases going around. This can help them respond faster and keep people safe. But there are still some challenges that scientists need to figure out, like how to extract the germs or chemicals from the water and how to measure the population size accurately. With more research, WBE could be a really helpful tool in fighting infectious diseases.
@@ -17,12 +27,4 @@ There are many diseases that can make a lot of people sick. Some of these diseas
 ## Property: has_ArticleDOI
 
 10.1016/j.envint.2020.105689
-
-## Property: has_ArticleTitle
-
-Future perspectives of wastewater-based epidemiology: Monitoring infectious disease spread and resistance to the community level
-
-## Property: has_ArticleYear
-
-2020
 

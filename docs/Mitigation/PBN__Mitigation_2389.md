@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Indoor residual spraying (IRS)__ (PBN__Mitigation_2389)
-
-## Property: has_MitigationTechnology
-
-* [insecticides](../Technology/PBN__Technology_4456)
-* [spraying equipment](../Technology/PBN__Technology_2918)
 
 ## Property: has_MitigationSource
 
-* [wilson_importance_2020](../Article/PBN__Article_64)
+* [wilson_importance_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_64.md)
+
+## Property: has_MitigationTechnology
+
+* [insecticides](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4456.md)
+* [spraying equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2918.md)
 
 ## Property: has_MitigationPrinciple
 

@@ -1,6 +1,8 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Urban management__ (PBN__Risk_2416)
 
 ## Property: has_RiskMitigation
 
-* [Rethinking, replanning, redesigning](../Mitigation/PBN__Mitigation_34)
+* [Rethinking, replanning, redesigning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_34.md)
 

@@ -1,56 +1,58 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Lack of knowledge about the benefits of urban green spaces__ (PBN__Risk_1824)
-
-## Property: has_RiskISO_Impact
-
-* [Biodiversity and ecosystem services](../RiskISO/PBN__RiskISO_Purpose_4)
-
-## Property: has_RiskTechnology
-
-* [educational campaigns](../Technology/PBN__Technology_251)
-* [community workshops](../Technology/PBN__Technology_1182)
-* [online resources](../Technology/PBN__Technology_224)
-
-## Property: has_RiskSubject
-
-* [residents of urban areas](../Stakeholder/PBN__Stakeholder_1227)
-* [especially those in underserved communities](../Stakeholder/PBN__Stakeholder_1232)
-
-## Property: has_RiskType
-
-* [social](../RiskType/PBN__RiskType_2)
-* [technological](../RiskType/PBN__RiskType_5)
-
-## Property: has_RiskISO_Purpose
-
-* [Preservation and improvement of the environment](../RiskISO/PBN__RiskISO_Impact_6)
-
-## Property: has_RiskOwner
-
-* [government agencies](../Stakeholder/PBN__Stakeholder_55)
-* [health organizations](../Stakeholder/PBN__Stakeholder_422)
-* [community organizations](../Stakeholder/PBN__Stakeholder_150)
-
-## Property: has_RiskMitigation
-
-* [Increase public awareness and education about the benefits of urban green spaces through targeted campaigns and community outreach](../RiskMitigation/PBN__RiskMitigation_2410)
 
 ## Property: has_RiskName
 
 Missed opportunities for improving well-being and health outcomes
 
+## Property: has_RiskISO_Impact
+
+* [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_4.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Preservation and improvement of the environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_6.md)
+
+## Property: has_RiskOwner
+
+* [government agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_55.md)
+* [health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_422.md)
+* [community organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_150.md)
+
+## Property: has_RiskTechnology
+
+* [educational campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_251.md)
+* [community workshops](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1182.md)
+* [online resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_224.md)
+
+## Property: has_RiskSubject
+
+* [residents of urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1227.md)
+* [especially those in underserved communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1232.md)
+
+## Property: has_RiskMitigation
+
+* [Increase public awareness and education about the benefits of urban green spaces through targeted campaigns and community outreach](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2410.md)
+
 ## Property: has_RiskDescription
 
 Limited awareness and understanding of the mental and physical health benefits of urban green spaces
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [noszczyk_impact_2022](../Article/PBN__Article_203)
+* [physical and mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_7.md)
+
+## Property: has_RiskType
+
+* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
+* [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
 
 ## Property: has_RiskGBN
 
-* [Yes](../RiskGBN/PBN__RiskGBN_1)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [physical and mental](../RiskHealth/PBN__RiskHealth_7)
+* [noszczyk_impact_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_203.md)
 

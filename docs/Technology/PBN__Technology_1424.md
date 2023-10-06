@@ -1,14 +1,16 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) 
+
 # Technology: __remote consultation tools__ (PBN__Technology_1424)
-
-## Property: has_TechnologyID
-
-* [Q17052685](../Qid/Q17052685)
 
 ## Property: has_StakeholderGroup
 
-* [Telehealth](../TechGroup/PBN__TechGroup_3)
+* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_3.md)
+
+## Property: has_TechnologyID
+
+* [Q17052685](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q17052685.md)
 
 ## Property: has_StakeholderSubgroup
 
-* [nan](../TechSubgroup/PBN__TechSubgroup_7)
+* [nan](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_7.md)
 

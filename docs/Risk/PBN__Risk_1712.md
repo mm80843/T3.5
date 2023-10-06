@@ -1,55 +1,57 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Lack of equitable access to healthcare__ (PBN__Risk_1712)
-
-## Property: has_RiskISO_Impact
-
-* [Health and care](../RiskISO/PBN__RiskISO_Purpose_0)
-
-## Property: has_RiskTechnology
-
-* [healthcare providers](../Technology/PBN__Technology_1072)
-* [governments](../Technology/PBN__Technology_614)
-* [community organizations](../Technology/PBN__Technology_1073)
-
-## Property: has_RiskSubject
-
-* [disadvantaged communities](../Stakeholder/PBN__Stakeholder_1143)
-* [marginalized populations](../Stakeholder/PBN__Stakeholder_275)
-
-## Property: has_RiskType
-
-* [social](../RiskType/PBN__RiskType_2)
-
-## Property: has_RiskISO_Purpose
-
-* [Resilience](../RiskISO/PBN__RiskISO_Impact_2)
-
-## Property: has_RiskOwner
-
-* [healthcare providers](../Stakeholder/PBN__Stakeholder_121)
-* [governments](../Stakeholder/PBN__Stakeholder_47)
-* [community organizations](../Stakeholder/PBN__Stakeholder_150)
-
-## Property: has_RiskMitigation
-
-* [Ensure healthcare accessibility and affordability, address social determinants of health, provide targeted support to vulnerable populations](../RiskMitigation/PBN__RiskMitigation_2276)
 
 ## Property: has_RiskName
 
 Increased disparities in health outcomes, higher risk of infection and severe illness
 
+## Property: has_RiskISO_Impact
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
+## Property: has_RiskOwner
+
+* [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
+* [governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
+* [community organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_150.md)
+
+## Property: has_RiskTechnology
+
+* [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1072.md)
+* [governments](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_614.md)
+* [community organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1073.md)
+
+## Property: has_RiskSubject
+
+* [disadvantaged communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1143.md)
+* [marginalized populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_275.md)
+
+## Property: has_RiskMitigation
+
+* [Ensure healthcare accessibility and affordability, address social determinants of health, provide targeted support to vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2276.md)
+
 ## Property: has_RiskDescription
 
 Disadvantaged communities may face barriers in accessing healthcare and preventive measures
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [matheri_water_2023](../Article/PBN__Article_162)
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Property: has_RiskType
+
+* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
 
 ## Property: has_RiskGBN
 
-* [No](../RiskGBN/PBN__RiskGBN_0)
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [physical](../RiskHealth/PBN__RiskHealth_0)
+* [matheri_water_2023](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_162.md)
 

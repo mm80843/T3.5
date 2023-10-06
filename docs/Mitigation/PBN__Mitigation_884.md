@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Open data sharing__ (PBN__Mitigation_884)
-
-## Property: has_MitigationTechnology
-
-* [data sharing platforms](../Technology/PBN__Technology_152)
-* [collaboration](../Technology/PBN__Technology_151)
 
 ## Property: has_MitigationSource
 
-* [ioannidis_coronavirus_2020](../Article/PBN__Article_101)
+* [ioannidis_coronavirus_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_101.md)
+
+## Property: has_MitigationTechnology
+
+* [data sharing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_152.md)
+* [collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_151.md)
 
 ## Property: has_MitigationPrinciple
 

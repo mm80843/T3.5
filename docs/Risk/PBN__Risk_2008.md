@@ -1,51 +1,53 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Lack of capacity for vector control operations__ (PBN__Risk_2008)
-
-## Property: has_RiskISO_Impact
-
-* [Health and care](../RiskISO/PBN__RiskISO_Purpose_0)
-
-## Property: has_RiskTechnology
-
-* [investment in resources and training for vector control organizations](../Technology/PBN__Technology_1469)
-
-## Property: has_RiskSubject
-
-* [vector-control organizations](../Stakeholder/PBN__Stakeholder_1348)
-
-## Property: has_RiskType
-
-* [technological](../RiskType/PBN__RiskType_5)
-
-## Property: has_RiskISO_Purpose
-
-* [Health and care](../RiskISO/PBN__RiskISO_Impact_3)
-
-## Property: has_RiskOwner
-
-* [governments](../Stakeholder/PBN__Stakeholder_47)
-* [public health authorities](../Stakeholder/PBN__Stakeholder_0)
-
-## Property: has_RiskMitigation
-
-* [Improve capacity of vector control organizations through funding and training.](../RiskMitigation/PBN__RiskMitigation_2626)
 
 ## Property: has_RiskName
 
 Inadequate response to disease outbreaks and increased risk of disease transmission.
 
+## Property: has_RiskISO_Impact
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
+
+## Property: has_RiskOwner
+
+* [governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
+* [public health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_0.md)
+
+## Property: has_RiskTechnology
+
+* [investment in resources and training for vector control organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1469.md)
+
+## Property: has_RiskSubject
+
+* [vector-control organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1348.md)
+
+## Property: has_RiskMitigation
+
+* [Improve capacity of vector control organizations through funding and training.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2626.md)
+
 ## Property: has_RiskDescription
 
 Many vector-control organizations lack the capacity to effectively control mosquito populations.
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [roosa_general_2022](../Article/PBN__Article_217)
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Property: has_RiskType
+
+* [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
 
 ## Property: has_RiskGBN
 
-* [No](../RiskGBN/PBN__RiskGBN_0)
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [physical](../RiskHealth/PBN__RiskHealth_0)
+* [roosa_general_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_217.md)
 

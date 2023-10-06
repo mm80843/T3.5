@@ -1,6 +1,8 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Decreased public gatherings__ (PBN__Risk_2746)
 
 ## Property: has_RiskMitigation
 
-* [Reimagining large public spaces and events in a post-pandemic world](../Mitigation/PBN__Mitigation_794)
+* [Reimagining large public spaces and events in a post-pandemic world](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_794.md)
 

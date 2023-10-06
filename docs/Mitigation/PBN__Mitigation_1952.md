@@ -1,14 +1,16 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __5G deployment and limited connectivity challenges__ (PBN__Mitigation_1952)
-
-## Property: has_MitigationTechnology
-
-* [small cell networks](../Technology/PBN__Technology_4157)
-* [ran sharing](../Technology/PBN__Technology_4158)
-* [l5go networks](../Technology/PBN__Technology_1586)
 
 ## Property: has_MitigationSource
 
-* [siriwardhana_role_2021](../Article/PBN__Article_9)
+* [siriwardhana_role_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_9.md)
+
+## Property: has_MitigationTechnology
+
+* [small cell networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4157.md)
+* [ran sharing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4158.md)
+* [l5go networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1586.md)
 
 ## Property: has_MitigationPrinciple
 

@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Robots__ (PBN__Mitigation_2021)
-
-## Property: has_MitigationTechnology
-
-* [robotics](../Technology/PBN__Technology_1173)
 
 ## Property: has_MitigationSource
 
-* [subramanian_role_2021](../Article/PBN__Article_226)
+* [subramanian_role_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_226.md)
+
+## Property: has_MitigationTechnology
+
+* [robotics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1173.md)
 
 ## Property: has_MitigationPrinciple
 

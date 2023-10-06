@@ -1,14 +1,16 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Maintenance and/or decontamination of water__ (PBN__Mitigation_2134)
-
-## Property: has_MitigationTechnology
-
-* [filtration](../Technology/PBN__Technology_1752)
-* [disinfection](../Technology/PBN__Technology_835)
-* [routine maintenance](../Technology/PBN__Technology_4254)
 
 ## Property: has_MitigationSource
 
-* [tokazhanov_assessment_2021](../Article/PBN__Article_51)
+* [tokazhanov_assessment_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_51.md)
+
+## Property: has_MitigationTechnology
+
+* [filtration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1752.md)
+* [disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_835.md)
+* [routine maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4254.md)
 
 ## Property: has_MitigationPrinciple
 

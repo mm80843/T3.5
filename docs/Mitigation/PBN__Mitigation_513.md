@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Biomarker testing__ (PBN__Mitigation_513)
-
-## Property: has_MitigationTechnology
-
-* [biomarkers](../Technology/PBN__Technology_3281)
-* [immunoassays](../Technology/PBN__Technology_3282)
 
 ## Property: has_MitigationSource
 
-* [daughton_wastewater_2020](../Article/PBN__Article_213)
+* [daughton_wastewater_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_213.md)
+
+## Property: has_MitigationTechnology
+
+* [biomarkers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3281.md)
+* [immunoassays](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3282.md)
 
 ## Property: has_MitigationPrinciple
 

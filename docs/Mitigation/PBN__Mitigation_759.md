@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Temperature adjustment in WBE__ (PBN__Mitigation_759)
-
-## Property: has_MitigationTechnology
-
-* [temperature sensors](../Technology/PBN__Technology_3044)
 
 ## Property: has_MitigationSource
 
-* [hart_computational_2020](../Article/PBN__Article_252)
+* [hart_computational_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_252.md)
+
+## Property: has_MitigationTechnology
+
+* [temperature sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3044.md)
 
 ## Property: has_MitigationPrinciple
 

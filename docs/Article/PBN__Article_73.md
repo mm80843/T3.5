@@ -1,13 +1,23 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) 
+
 # Article: __dehghani_hierarchy_2020__ (PBN__Article_73)
+
+## Property: has_ArticleYear
+
+2020
+
+## Property: has_ArticleRef
+
+* [ong_air_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_264.md)
+* [dietz_2019_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_288.md)
 
 ## Property: has_ArticleLLMShortSummary
 
 This study focuses on the use of engineering controls to reduce occupational exposure to COVID-19 in workplaces. Engineering controls, which are measures that minimize or prevent exposure without relying on workers' behaviors, are found to be the most effective solution. Ventilation is an important aspect of engineering controls, as indoor transmission of the virus through aerosols is a major concern. Increasing air exchanges, avoiding air recirculation, and increasing the use of outdoor air are recommended to improve ventilation efficiency. The use of high-efficiency air filters and portable air cleaners with HEPA filters can also help remove particles from the air. Physical barriers, such as plexiglass, can be installed to maintain social distancing and limit human-to-human interactions. Administrative controls, such as reducing the number of workers and minimizing face-to-face meetings, as well as the proper use of personal protective equipment (PPE), are also important in controlling the exposure. Overall, a combination of these control measures is recommended to protect workers against COVID-19 in occupational settings.
 
-## Property: has_ArticleRef
+## Property: has_ArticleTitle
 
-* [ong_air_2020](../Article/PBN__Article_264)
-* [dietz_2019_2020](../Article/PBN__Article_288)
+The hierarchy of preventive measures to protect workers against the COVID-19 pandemic: A review
 
 ## Property: has_ArticleLLMSummary
 
@@ -16,12 +26,4 @@ COVID-19 is a disease caused by a virus called SARS-CoV-2. It has spread all ove
 ## Property: has_ArticleDOI
 
 10.3233/wor-203330
-
-## Property: has_ArticleTitle
-
-The hierarchy of preventive measures to protect workers against the COVID-19 pandemic: A review
-
-## Property: has_ArticleYear
-
-2020
 

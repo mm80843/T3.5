@@ -1,52 +1,54 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Insufficient disinfection__ (PBN__Risk_2032)
-
-## Property: has_RiskISO_Impact
-
-* [Health and care](../RiskISO/PBN__RiskISO_Purpose_0)
-
-## Property: has_RiskTechnology
-
-* [none](../Technology/PBN__Technology_35)
-
-## Property: has_RiskSubject
-
-* [general public](../Stakeholder/PBN__Stakeholder_29)
-* [healthcare workers](../Stakeholder/PBN__Stakeholder_68)
-
-## Property: has_RiskType
-
-* [technological](../RiskType/PBN__RiskType_5)
-
-## Property: has_RiskISO_Purpose
-
-* [Health and care](../RiskISO/PBN__RiskISO_Impact_3)
-
-## Property: has_RiskOwner
-
-* [facility management](../Stakeholder/PBN__Stakeholder_655)
-* [cleaning staff](../Stakeholder/PBN__Stakeholder_656)
-
-## Property: has_RiskMitigation
-
-* [Regular and thorough cleaning and disinfection of frequently touched surfaces](../RiskMitigation/PBN__RiskMitigation_2657)
 
 ## Property: has_RiskName
 
 Increased risk of transmission as people come into contact with contaminated surfaces
 
+## Property: has_RiskISO_Impact
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
+
+## Property: has_RiskOwner
+
+* [facility management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_655.md)
+* [cleaning staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_656.md)
+
+## Property: has_RiskTechnology
+
+* [none](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
+
+## Property: has_RiskSubject
+
+* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
+* [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
+
+## Property: has_RiskMitigation
+
+* [Regular and thorough cleaning and disinfection of frequently touched surfaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2657.md)
+
 ## Property: has_RiskDescription
 
 Lack of proper cleaning and disinfection protocols leads to virus survival on surfaces
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [saman_recently_2021](../Article/PBN__Article_79)
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Property: has_RiskType
+
+* [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
 
 ## Property: has_RiskGBN
 
-* [Yes](../RiskGBN/PBN__RiskGBN_1)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [physical](../RiskHealth/PBN__RiskHealth_0)
+* [saman_recently_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_79.md)
 

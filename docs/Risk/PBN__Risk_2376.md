@@ -1,54 +1,56 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Remote operation and telecommuting__ (PBN__Risk_2376)
-
-## Property: has_RiskISO_Impact
-
-* [Innovation, Creativity and research](../RiskISO/PBN__RiskISO_Purpose_2)
-
-## Property: has_RiskTechnology
-
-* [teleoperation](../Technology/PBN__Technology_1988)
-* [online platforms](../Technology/PBN__Technology_67)
-
-## Property: has_RiskSubject
-
-* [employees](../Stakeholder/PBN__Stakeholder_220)
-* [students](../Stakeholder/PBN__Stakeholder_101)
-* [businesses](../Stakeholder/PBN__Stakeholder_147)
-
-## Property: has_RiskType
-
-* [technological](../RiskType/PBN__RiskType_5)
-
-## Property: has_RiskISO_Purpose
-
-* [Resilience](../RiskISO/PBN__RiskISO_Impact_2)
-
-## Property: has_RiskOwner
-
-* [organizations](../Stakeholder/PBN__Stakeholder_186)
-* [educational institutions](../Stakeholder/PBN__Stakeholder_66)
-
-## Property: has_RiskMitigation
-
-* [Adoption of teleoperation and online interactions to facilitate remote work and learning.](../RiskMitigation/PBN__RiskMitigation_3085)
 
 ## Property: has_RiskName
 
 Reduced productivity and economic impacts
 
+## Property: has_RiskISO_Impact
+
+* [Innovation, Creativity and research](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_2.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
+## Property: has_RiskOwner
+
+* [organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_186.md)
+* [educational institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_66.md)
+
+## Property: has_RiskTechnology
+
+* [teleoperation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1988.md)
+* [online platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_67.md)
+
+## Property: has_RiskSubject
+
+* [employees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_220.md)
+* [students](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_101.md)
+* [businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_147.md)
+
+## Property: has_RiskMitigation
+
+* [Adoption of teleoperation and online interactions to facilitate remote work and learning.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3085.md)
+
 ## Property: has_RiskDescription
 
 Outbreaks like COVID-19 highlight the need for remote operation and telecommuting to ensure continuity of work and socio-economic functions.
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [yang_combating_2020](../Article/PBN__Article_23)
+* [nan](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_6.md)
+
+## Property: has_RiskType
+
+* [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
 
 ## Property: has_RiskGBN
 
-* [Yes](../RiskGBN/PBN__RiskGBN_1)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [nan](../RiskHealth/PBN__RiskHealth_6)
+* [yang_combating_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_23.md)
 

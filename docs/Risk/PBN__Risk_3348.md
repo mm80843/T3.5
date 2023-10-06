@@ -1,6 +1,8 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Pathogen propagation__ (PBN__Risk_3348)
 
 ## Property: has_RiskMitigation
 
-* [Efficiency of air filtration systems](../Mitigation/PBN__Mitigation_2129)
+* [Efficiency of air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2129.md)
 

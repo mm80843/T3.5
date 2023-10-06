@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Enhancing accessibility for low-income residents__ (PBN__Mitigation_2208)
-
-## Property: has_MitigationTechnology
-
-* [accessible transportation options](../Technology/PBN__Technology_4322)
-* [subsidized entry fees](../Technology/PBN__Technology_4323)
 
 ## Property: has_MitigationSource
 
-* [uchiyama_access_2020](../Article/PBN__Article_275)
+* [uchiyama_access_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_275.md)
+
+## Property: has_MitigationTechnology
+
+* [accessible transportation options](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4322.md)
+* [subsidized entry fees](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4323.md)
 
 ## Property: has_MitigationPrinciple
 

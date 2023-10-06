@@ -1,16 +1,18 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Household-level activity/sports spaces__ (PBN__Mitigation_2128)
-
-## Property: has_MitigationTechnology
-
-* [park with workout stations](../Technology/PBN__Technology_4248)
-* [free access to gym](../Technology/PBN__Technology_4249)
-* [designated areas](../Technology/PBN__Technology_4351)
-* [equipment](../Technology/PBN__Technology_3248)
 
 ## Property: has_MitigationSource
 
-* [tokazhanov_assessment_2021](../Article/PBN__Article_51)
-* [ujikawa_how_2022](../Article/PBN__Article_172)
+* [tokazhanov_assessment_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_51.md)
+* [ujikawa_how_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_172.md)
+
+## Property: has_MitigationTechnology
+
+* [park with workout stations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4248.md)
+* [free access to gym](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4249.md)
+* [designated areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4351.md)
+* [equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3248.md)
 
 ## Property: has_MitigationPrinciple
 

@@ -1,14 +1,16 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Global Containment Strategy__ (PBN__Mitigation_36)
-
-## Property: has_MitigationTechnology
-
-* [travel advisories](../Technology/PBN__Technology_26)
-* [temperature screening](../Technology/PBN__Technology_25)
-* [quarantine](../Technology/PBN__Technology_2914)
 
 ## Property: has_MitigationSource
 
-* [ads_overview_2020](../Article/PBN__Article_86)
+* [ads_overview_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_86.md)
+
+## Property: has_MitigationTechnology
+
+* [travel advisories](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_26.md)
+* [temperature screening](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_25.md)
+* [quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2914.md)
 
 ## Property: has_MitigationPrinciple
 

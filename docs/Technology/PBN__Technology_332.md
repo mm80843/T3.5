@@ -1,17 +1,19 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) 
+
 # Technology: __sensor redundancy__ (PBN__Technology_332)
-
-## Property: has_TechnologyID
-
-* [Q1204361](../Qid/Q1204361)
 
 ## Property: has_StakeholderGroup
 
-* [Data privacy](../TechGroup/PBN__TechGroup_5)
-* [IoT](../TechGroup/PBN__TechGroup_16)
+* [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_5.md)
+* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
+
+## Property: has_TechnologyID
+
+* [Q1204361](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1204361.md)
 
 ## Property: has_StakeholderSubgroup
 
-* [IoT Devices and Protocols](../TechSubgroup/PBN__TechSubgroup_143)
-* [Public Health Measures and Regulations](../TechSubgroup/PBN__TechSubgroup_92)
-* [Monitoring Systems and Sensors](../TechSubgroup/PBN__TechSubgroup_119)
+* [IoT Devices and Protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_143.md)
+* [Public Health Measures and Regulations](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_92.md)
+* [Monitoring Systems and Sensors](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_119.md)
 

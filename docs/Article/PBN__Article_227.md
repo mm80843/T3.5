@@ -1,25 +1,35 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) 
+
 # Article: __sharifi_contributions_2021__ (PBN__Article_227)
+
+## Property: has_ArticleYear
+
+2021
+
+## Property: has_ArticleRef
+
+* [chamola_comprehensive_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_313.md)
+* [naseem_exploring_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_131.md)
+* [hosseini_review_2016](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_348.md)
+* [soderstrom_three_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_250.md)
+* [sharifi_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_318.md)
+* [siriwardhana_role_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_9.md)
+* [allam_future_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_312.md)
+* [sakellarides_viral_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_183.md)
+* [james_smart_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_164.md)
+* [rezaei_deepsocial_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_368.md)
+* [kraemer_effect_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_248.md)
+* [shorfuzzaman_towards_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_117.md)
+* [webb_smart_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_294.md)
+* [allam_coronavirus_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_280.md)
 
 ## Property: has_ArticleLLMShortSummary
 
 This study reviewed literature on the use of smart solutions and technologies during the COVID-19 pandemic to enhance resilience in cities. The findings show that smart solutions have the potential to contribute to all four resilience abilities: planning and preparation, absorption, recovery, and adaptation. Smart solutions, such as integrated management platforms and AI-enabled systems, can improve planning and preparation by facilitating collaborative and integrated planning, providing smart city infrastructure, and enabling forecasting and prediction. In terms of absorption, smart technologies can help prevent the spread of the virus and reduce transmission speed through measures like contact tracing, social distancing monitoring, and crowd detection. For recovery, smart solutions provide support to overstretched healthcare staff and ensure the continuity of basic functions through telemedicine, teleworking, and automated systems. Adaptation is facilitated by the accelerated transition towards digitalization and optimization of city operations. However, challenges related to privacy, data security, equitable access, and scalability need to be addressed. Future research should explore the linkages between different resilience abilities, examine the potential trade-offs of smart solutions, and assess their impact on sustainability. Overall, smart solutions have the potential to enhance resilience and contribute to more effective responses to future adverse events.
 
-## Property: has_ArticleRef
+## Property: has_ArticleTitle
 
-* [chamola_comprehensive_2020](../Article/PBN__Article_313)
-* [naseem_exploring_2020](../Article/PBN__Article_131)
-* [hosseini_review_2016](../Article/PBN__Article_348)
-* [soderstrom_three_2021](../Article/PBN__Article_250)
-* [sharifi_covid-19_2020](../Article/PBN__Article_318)
-* [siriwardhana_role_2021](../Article/PBN__Article_9)
-* [allam_future_2021](../Article/PBN__Article_312)
-* [sakellarides_viral_2020](../Article/PBN__Article_183)
-* [james_smart_2020](../Article/PBN__Article_164)
-* [rezaei_deepsocial_2020](../Article/PBN__Article_368)
-* [kraemer_effect_2020](../Article/PBN__Article_248)
-* [shorfuzzaman_towards_2021](../Article/PBN__Article_117)
-* [webb_smart_2020](../Article/PBN__Article_294)
-* [allam_coronavirus_2020](../Article/PBN__Article_280)
+Contributions of Smart City Solutions and Technologies to Resilience against the COVID-19 Pandemic: A Literature Review
 
 ## Property: has_ArticleLLMSummary
 
@@ -28,12 +38,4 @@ During the COVID-19 pandemic, smart technologies have been used to help cities r
 ## Property: has_ArticleDOI
 
 10.3390/su13148018
-
-## Property: has_ArticleTitle
-
-Contributions of Smart City Solutions and Technologies to Resilience against the COVID-19 Pandemic: A Literature Review
-
-## Property: has_ArticleYear
-
-2021
 

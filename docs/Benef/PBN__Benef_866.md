@@ -1,18 +1,20 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Increased public awareness and compliance with preventive measures__ (PBN__Benef_866)
 
 ## Property: has_BenefDetails
 
 Public health campaigns educate the public on preventive measures such as hand hygiene and mask wearing
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Private investors in healthcare and hygiene products would benefit from increased demand for their products](../BenefReturn/PBN__BenefReturn_947)
+* [sigler_socio-spatial_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_175.md)
 
 ## Property: has_Beneficiary
 
-* [global population](../Stakeholder/PBN__Stakeholder_278)
+* [global population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_278.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [sigler_socio-spatial_2020](../Article/PBN__Article_175)
+* [Private investors in healthcare and hygiene products would benefit from increased demand for their products](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_947.md)
 

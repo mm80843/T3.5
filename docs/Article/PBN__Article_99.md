@@ -1,8 +1,18 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) 
+
 # Article: __channa_rise_2021__ (PBN__Article_99)
+
+## Property: has_ArticleYear
+
+2021
 
 ## Property: has_ArticleLLMShortSummary
 
 This study provides a comprehensive review of wearable devices and their applications in the context of the COVID-19 pandemic. The review discusses the types of wearable sensors and devices that can monitor early symptoms of COVID-19, as well as the telehealth framework for remote screening and diagnosis. The use of wearable devices for contact tracing, social distancing, and stress management is also explored. The study highlights the potential barriers to the use of wearables, such as technical issues, social interruption, and regulatory aspects, and provides potential solutions to overcome these barriers. The importance of cloud, edge, and fog computing in conjunction with wearables is also emphasized. The review concludes that wearables have the potential to significantly improve healthcare systems during the pandemic and beyond, but more research and validation studies are needed to enhance their clinical utility.
+
+## Property: has_ArticleTitle
+
+The Rise of Wearable Devices during the COVID-19 Pandemic: A Systematic Review
 
 ## Property: has_ArticleLLMSummary
 
@@ -11,12 +21,4 @@ Wearable devices are special gadgets that you can wear, like a watch or a bracel
 ## Property: has_ArticleDOI
 
 10.3390/s21175787
-
-## Property: has_ArticleTitle
-
-The Rise of Wearable Devices during the COVID-19 Pandemic: A Systematic Review
-
-## Property: has_ArticleYear
-
-2021
 

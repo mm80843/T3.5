@@ -1,14 +1,16 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) 
+
 # Stakeholder: __insurance subscriber__ (PBN__Stakeholder_1928)
-
-## Property: has_StakeholderGroup
-
-* [Private Sector](../StakeholderGroup/PBN__StakeholderGroup_5)
-
-## Property: has_StakeholderID
-
-* [Q43183](../Qid/Q43183)
 
 ## Property: has_StakeholderSubgroup
 
-* [Insurance](../StakeholderSubgroup/PBN__StakeholderSubgroup_60)
+* [Insurance](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_60.md)
+
+## Property: has_StakeholderGroup
+
+* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
+
+## Property: has_StakeholderID
+
+* [Q43183](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q43183.md)
 

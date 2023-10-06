@@ -1,12 +1,22 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) 
+
 # Article: __wang_sars-cov-2_2020__ (PBN__Article_55)
+
+## Property: has_ArticleYear
+
+2020
+
+## Property: has_ArticleRef
+
+* [ong_air_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_264.md)
 
 ## Property: has_ArticleLLMShortSummary
 
 This study aimed to monitor hospital environmental hygiene and evaluate the quality of infection control in isolation wards during the COVID-19 pandemic. The study was conducted in the isolation wards of the First Affiliated Hospital of Zhejiang University in China. The hospital implemented routine cleaning and disinfection procedures, and samples were collected from environmental surfaces, sewage, and staff personal protective equipment (PPE). None of the environmental surface samples tested positive for SARS-CoV-2 RNA, indicating the effectiveness of cleaning and disinfection measures. Three sewage samples from the inlet of preprocessing disinfection equipment tested positive for SARS-CoV-2 RNA, but subsequent samples from the outlet and final outlet of the disinfection pool were negative. All staff respiratory specimens tested negative for SARS-CoV-2 RNA. The study also found that the respiratory and stool samples of two patients with COVID-19 were positive for SARS-CoV-2 RNA, suggesting potential transmission routes. However, the object surfaces surrounding these patients tested negative for the virus, indicating the effectiveness of disinfection measures. Overall, the study demonstrates that strict disinfection and hand hygiene practices can help reduce the risk of hospital-associated COVID-19 infections in isolation wards.
 
-## Property: has_ArticleRef
+## Property: has_ArticleTitle
 
-* [ong_air_2020](../Article/PBN__Article_264)
+SARS-CoV-2 RNA detection of hospital isolation wards hygiene monitoring during the Coronavirus Disease 2019 outbreak in a Chinese hospital
 
 ## Property: has_ArticleLLMSummary
 
@@ -15,12 +25,4 @@ A new virus called SARS-CoV-2, which causes a disease called COVID-19, has sprea
 ## Property: has_ArticleDOI
 
 10.1016/j.ijid.2020.04.024
-
-## Property: has_ArticleTitle
-
-SARS-CoV-2 RNA detection of hospital isolation wards hygiene monitoring during the Coronavirus Disease 2019 outbreak in a Chinese hospital
-
-## Property: has_ArticleYear
-
-2020
 

@@ -1,18 +1,20 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Enhanced occupant comfort__ (PBN__Benef_208)
 
 ## Property: has_BenefDetails
 
 Improved thermal comfort, reducing stress and promoting well-being.
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Increased occupancy rates and tenant satisfaction, leading to higher asset value.](../BenefReturn/PBN__BenefReturn_215)
+* [de_araujo_platform_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_46.md)
 
 ## Property: has_Beneficiary
 
-* [building occupants](../Stakeholder/PBN__Stakeholder_97)
+* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [de_araujo_platform_2020](../Article/PBN__Article_46)
+* [Increased occupancy rates and tenant satisfaction, leading to higher asset value.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_215.md)
 

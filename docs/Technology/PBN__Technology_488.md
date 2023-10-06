@@ -1,10 +1,12 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) 
+
 # Technology: __gowns__ (PBN__Technology_488)
 
 ## Property: has_StakeholderGroup
 
-* [Hygiene protocols](../TechGroup/PBN__TechGroup_9)
+* [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_9.md)
 
 ## Property: has_StakeholderSubgroup
 
-* [Personal Protective Equipment (PPE)](../TechSubgroup/PBN__TechSubgroup_58)
+* [Personal Protective Equipment (PPE)](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_58.md)
 

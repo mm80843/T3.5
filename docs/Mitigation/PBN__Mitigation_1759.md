@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Adequate Ventilation__ (PBN__Mitigation_1759)
-
-## Property: has_MitigationTechnology
-
-* [hvac system](../Technology/PBN__Technology_3190)
-* [ventilation](../Technology/PBN__Technology_3132)
 
 ## Property: has_MitigationSource
 
-* [saari_effect_2006](../Article/PBN__Article_223)
+* [saari_effect_2006](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_223.md)
+
+## Property: has_MitigationTechnology
+
+* [hvac system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3190.md)
+* [ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3132.md)
 
 ## Property: has_MitigationPrinciple
 

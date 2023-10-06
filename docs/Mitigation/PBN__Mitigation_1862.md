@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Improved Blood Safety Practices__ (PBN__Mitigation_1862)
-
-## Property: has_MitigationTechnology
-
-* [pathogen reduction technologies](../Technology/PBN__Technology_4117)
 
 ## Property: has_MitigationSource
 
-* [semenza_prototype_2015](../Article/PBN__Article_212)
+* [semenza_prototype_2015](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_212.md)
+
+## Property: has_MitigationTechnology
+
+* [pathogen reduction technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4117.md)
 
 ## Property: has_MitigationPrinciple
 

@@ -1,18 +1,20 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Improved control of epidemic__ (PBN__Benef_773)
 
 ## Property: has_BenefDetails
 
 Higher compliance with mitigation measures leads to better control of the epidemic, reducing the spread of infections and potential outbreaks.
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Private investors investing in compliance measures can help prevent outbreaks and subsequent shutdowns, which can protect the value of their investments in the built environment.](../BenefReturn/PBN__BenefReturn_841)
+* [mukerjee_mitigation_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_154.md)
 
 ## Property: has_Beneficiary
 
-* [general public](../Stakeholder/PBN__Stakeholder_29)
+* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [mukerjee_mitigation_2021](../Article/PBN__Article_154)
+* [Private investors investing in compliance measures can help prevent outbreaks and subsequent shutdowns, which can protect the value of their investments in the built environment.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_841.md)
 

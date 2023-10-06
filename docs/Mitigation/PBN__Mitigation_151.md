@@ -1,16 +1,18 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Virtual clinics__ (PBN__Mitigation_151)
-
-## Property: has_MitigationTechnology
-
-* [smartphones](../Technology/PBN__Technology_3002)
-* [webcam-enabled computers](../Technology/PBN__Technology_3003)
-* [telemedicine](../Technology/PBN__Technology_73)
-* [digital imaging](../Technology/PBN__Technology_4233)
 
 ## Property: has_MitigationSource
 
-* [arpaci_leveraging_2021](../Article/PBN__Article_297)
-* [ting_digital_2020](../Article/PBN__Article_278)
+* [arpaci_leveraging_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_297.md)
+* [ting_digital_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_278.md)
+
+## Property: has_MitigationTechnology
+
+* [smartphones](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3002.md)
+* [webcam-enabled computers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3003.md)
+* [telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_73.md)
+* [digital imaging](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4233.md)
 
 ## Property: has_MitigationPrinciple
 

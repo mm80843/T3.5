@@ -1,14 +1,16 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Optimum occupant presence schedule__ (PBN__Mitigation_1343)
-
-## Property: has_MitigationTechnology
-
-* [optimization algorithms (nsga-ii](../Technology/PBN__Technology_3808)
-* [mopso](../Technology/PBN__Technology_3809)
-* [spea2)](../Technology/PBN__Technology_3810)
 
 ## Property: has_MitigationSource
 
-* [mokhtari_effect_2021](../Article/PBN__Article_169)
+* [mokhtari_effect_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_169.md)
+
+## Property: has_MitigationTechnology
+
+* [optimization algorithms (nsga-ii](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3808.md)
+* [mopso](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3809.md)
+* [spea2)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3810.md)
 
 ## Property: has_MitigationPrinciple
 

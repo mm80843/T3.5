@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Increase helpline__ (PBN__Mitigation_46)
-
-## Property: has_MitigationTechnology
-
-* [helpline system](../Technology/PBN__Technology_2923)
 
 ## Property: has_MitigationSource
 
-* [aguero_covid-19_2021](../Article/PBN__Article_8)
+* [aguero_covid-19_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_8.md)
+
+## Property: has_MitigationTechnology
+
+* [helpline system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2923.md)
 
 ## Property: has_MitigationPrinciple
 

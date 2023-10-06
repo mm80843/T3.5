@@ -1,53 +1,55 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Financial sustainability of water sector__ (PBN__Risk_1919)
-
-## Property: has_RiskISO_Impact
-
-* [Economy and sustainable production and consumption](../RiskISO/PBN__RiskISO_Purpose_8)
-
-## Property: has_RiskTechnology
-
-* [digital payment systems](../Technology/PBN__Technology_697)
-* [ai-backed systems](../Technology/PBN__Technology_1314)
-
-## Property: has_RiskSubject
-
-* [water utilities](../Stakeholder/PBN__Stakeholder_329)
-* [vulnerable households](../Stakeholder/PBN__Stakeholder_254)
-
-## Property: has_RiskType
-
-* [economic](../RiskType/PBN__RiskType_3)
-
-## Property: has_RiskISO_Purpose
-
-* [Responsible resource use](../RiskISO/PBN__RiskISO_Impact_4)
-
-## Property: has_RiskOwner
-
-* [water utilities](../Stakeholder/PBN__Stakeholder_329)
-* [regulatory authorities](../Stakeholder/PBN__Stakeholder_1297)
-
-## Property: has_RiskMitigation
-
-* [Implement policies to support revenue generation and payment flexibility.](../RiskMitigation/PBN__RiskMitigation_2522)
 
 ## Property: has_RiskName
 
 Threat to the financial sustainability of water services.
 
+## Property: has_RiskISO_Impact
+
+* [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_8.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+
+## Property: has_RiskOwner
+
+* [water utilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_329.md)
+* [regulatory authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1297.md)
+
+## Property: has_RiskTechnology
+
+* [digital payment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_697.md)
+* [ai-backed systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1314.md)
+
+## Property: has_RiskSubject
+
+* [water utilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_329.md)
+* [vulnerable households](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_254.md)
+
+## Property: has_RiskMitigation
+
+* [Implement policies to support revenue generation and payment flexibility.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2522.md)
+
 ## Property: has_RiskDescription
 
 Economic standstill leads to decreased revenue and financial sustainability of water utilities.
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [poch_when_2020](../Article/PBN__Article_207)
+* [economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_3.md)
+
+## Property: has_RiskType
+
+* [economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_3.md)
 
 ## Property: has_RiskGBN
 
-* [Yes](../RiskGBN/PBN__RiskGBN_1)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [economic](../RiskHealth/PBN__RiskHealth_3)
+* [poch_when_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_207.md)
 

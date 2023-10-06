@@ -1,19 +1,21 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Enriched ontology__ (PBN__Benef_1237)
 
 ## Property: has_BenefDetails
 
 Fills the gap in epidemiological surveillance terms
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Advancement in epidemiological research and analysis](../BenefReturn/PBN__BenefReturn_1387)
+* [queralt-rosinach_covid-19_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_259.md)
 
 ## Property: has_Beneficiary
 
-* [researchers](../Stakeholder/PBN__Stakeholder_2)
-* [epidemiologists](../Stakeholder/PBN__Stakeholder_6)
+* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+* [epidemiologists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_6.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [queralt-rosinach_covid-19_2021](../Article/PBN__Article_259)
+* [Advancement in epidemiological research and analysis](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1387.md)
 

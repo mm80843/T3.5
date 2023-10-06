@@ -1,15 +1,17 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Alternative Means for Continuity of Basic Functions__ (PBN__Mitigation_1874)
-
-## Property: has_MitigationTechnology
-
-* [iot](../Technology/PBN__Technology_277)
-* [ai](../Technology/PBN__Technology_278)
-* [automation](../Technology/PBN__Technology_1451)
-* [3d printing](../Technology/PBN__Technology_133)
 
 ## Property: has_MitigationSource
 
-* [sharifi_contributions_2021](../Article/PBN__Article_227)
+* [sharifi_contributions_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_227.md)
+
+## Property: has_MitigationTechnology
+
+* [iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_277.md)
+* [ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_278.md)
+* [automation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1451.md)
+* [3d printing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_133.md)
 
 ## Property: has_MitigationPrinciple
 

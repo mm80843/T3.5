@@ -1,8 +1,10 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Outbreak from China__ (PBN__Risk_77)
 
 ## Property: has_RiskMitigation
 
-* [Enhanced case finding](../RiskMitigation/PBN__RiskMitigation_92)
-* [Quarantine for high-risk individuals](../RiskMitigation/PBN__RiskMitigation_93)
-* [Border control and travel restrictions](../RiskMitigation/PBN__RiskMitigation_94)
+* [Enhanced case finding](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_92.md)
+* [Quarantine for high-risk individuals](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_93.md)
+* [Border control and travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_94.md)
 

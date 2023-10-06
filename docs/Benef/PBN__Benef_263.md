@@ -1,20 +1,22 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Improved hygiene and safety__ (PBN__Benef_263)
 
 ## Property: has_BenefDetails
 
 Reduces the risk of contamination and transmission of the virus
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Private investors investing in this measure would benefit from a safer and healthier environment, leading to increased student and staff satisfaction and reduced absenteeism.](../BenefReturn/PBN__BenefReturn_275)
+* [sutton_reframe_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_53.md)
 
 ## Property: has_Beneficiary
 
-* [students](../Stakeholder/PBN__Stakeholder_101)
-* [faculty](../Stakeholder/PBN__Stakeholder_134)
-* [staff](../Stakeholder/PBN__Stakeholder_103)
+* [students](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_101.md)
+* [faculty](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_134.md)
+* [staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_103.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [sutton_reframe_2020](../Article/PBN__Article_53)
+* [Private investors investing in this measure would benefit from a safer and healthier environment, leading to increased student and staff satisfaction and reduced absenteeism.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_275.md)
 

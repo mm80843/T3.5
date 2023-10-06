@@ -1,52 +1,54 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Disease severity in re-infected patients__ (PBN__Risk_1913)
-
-## Property: has_RiskISO_Impact
-
-* [Health and care](../RiskISO/PBN__RiskISO_Purpose_0)
-
-## Property: has_RiskTechnology
-
-* [comparative studies and data analysis technologies](../Technology/PBN__Technology_1311)
-
-## Property: has_RiskSubject
-
-* [re-infected patients](../Stakeholder/PBN__Stakeholder_1295)
-* [researchers](../Stakeholder/PBN__Stakeholder_2)
-
-## Property: has_RiskType
-
-* [medical](../RiskType/PBN__RiskType_15)
-
-## Property: has_RiskISO_Purpose
-
-* [Health and care](../RiskISO/PBN__RiskISO_Impact_3)
-
-## Property: has_RiskOwner
-
-* [healthcare providers](../Stakeholder/PBN__Stakeholder_121)
-* [researchers](../Stakeholder/PBN__Stakeholder_2)
-
-## Property: has_RiskMitigation
-
-* [Conduct comparative studies on disease severity between re-infected and initially infected patients.](../RiskMitigation/PBN__RiskMitigation_2515)
 
 ## Property: has_RiskName
 
 Difficulty in assessing the impact of re-infections on disease severity.
 
+## Property: has_RiskISO_Impact
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
+
+## Property: has_RiskOwner
+
+* [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
+* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+
+## Property: has_RiskTechnology
+
+* [comparative studies and data analysis technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1311.md)
+
+## Property: has_RiskSubject
+
+* [re-infected patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1295.md)
+* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+
+## Property: has_RiskMitigation
+
+* [Conduct comparative studies on disease severity between re-infected and initially infected patients.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2515.md)
+
 ## Property: has_RiskDescription
 
 Unclear difference in disease severity between re-infected patients and patients with initial infection.
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [pilz_contributions_2022](../Article/PBN__Article_245)
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Property: has_RiskType
+
+* [medical](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_15.md)
 
 ## Property: has_RiskGBN
 
-* [Yes](../RiskGBN/PBN__RiskGBN_1)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [physical](../RiskHealth/PBN__RiskHealth_0)
+* [pilz_contributions_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_245.md)
 

@@ -1,19 +1,21 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Demand response automation__ (PBN__Benef_601)
 
 ## Property: has_BenefDetails
 
 HEMS can automate demand response programs, optimizing energy use and contributing to the stability of the power grid.
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Private investors in HEMS technologies would benefit from increased demand from electricity providers and grid operators seeking to optimize energy consumption and ensure grid stability.](../BenefReturn/PBN__BenefReturn_649)
+* [chen_coronavirus_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_119.md)
 
 ## Property: has_Beneficiary
 
-* [electricity providers](../Stakeholder/PBN__Stakeholder_249)
-* [grid operators](../Stakeholder/PBN__Stakeholder_250)
+* [electricity providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_249.md)
+* [grid operators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_250.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [chen_coronavirus_2020](../Article/PBN__Article_119)
+* [Private investors in HEMS technologies would benefit from increased demand from electricity providers and grid operators seeking to optimize energy consumption and ensure grid stability.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_649.md)
 

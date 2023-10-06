@@ -1,20 +1,22 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) 
+
 # Technology: __Contact tracing apps__ (PBN__Technology_2145)
-
-## Property: has_TechnologyID
-
-* [Q1128437](../Qid/Q1128437)
 
 ## Property: has_StakeholderGroup
 
-* [Social media](../TechGroup/PBN__TechGroup_1)
-* [Data privacy](../TechGroup/PBN__TechGroup_5)
-* [Surveillance systems](../TechGroup/PBN__TechGroup_6)
-* [Enforcement measures](../TechGroup/PBN__TechGroup_7)
+* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_1.md)
+* [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_5.md)
+* [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_6.md)
+* [Enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_7.md)
+
+## Property: has_TechnologyID
+
+* [Q1128437](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1128437.md)
 
 ## Property: has_StakeholderSubgroup
 
-* [Public Health and Safety Measures](../TechSubgroup/PBN__TechSubgroup_52)
-* [Touchless and Remote Technologies](../TechSubgroup/PBN__TechSubgroup_53)
-* [Apps and Mobile Technologies](../TechSubgroup/PBN__TechSubgroup_22)
-* [Contact Tracing Technologies](../TechSubgroup/PBN__TechSubgroup_23)
+* [Public Health and Safety Measures](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_52.md)
+* [Touchless and Remote Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_53.md)
+* [Apps and Mobile Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_22.md)
+* [Contact Tracing Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_23.md)
 

@@ -1,52 +1,54 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Interoperability__ (PBN__Risk_2129)
-
-## Property: has_RiskISO_Impact
-
-* [Safety and security](../RiskISO/PBN__RiskISO_Purpose_5)
-
-## Property: has_RiskTechnology
-
-* [standardization efforts](../Technology/PBN__Technology_1639)
-* [development of interoperability frameworks](../Technology/PBN__Technology_1640)
-
-## Property: has_RiskSubject
-
-* [iot device manufacturers and service providers](../Stakeholder/PBN__Stakeholder_1436)
-
-## Property: has_RiskType
-
-* [technological](../RiskType/PBN__RiskType_5)
-
-## Property: has_RiskISO_Purpose
-
-* [Resilience](../RiskISO/PBN__RiskISO_Impact_2)
-
-## Property: has_RiskOwner
-
-* [industry organizations](../Stakeholder/PBN__Stakeholder_1437)
-* [standardization bodies](../Stakeholder/PBN__Stakeholder_1401)
-
-## Property: has_RiskMitigation
-
-* [Adoption of standard protocols and interfaces, development of interoperability standards.](../RiskMitigation/PBN__RiskMitigation_2782)
 
 ## Property: has_RiskName
 
 Difficulties in integration and data sharing, limited efficiency and effectiveness.
 
+## Property: has_RiskISO_Impact
+
+* [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_5.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
+## Property: has_RiskOwner
+
+* [industry organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1437.md)
+* [standardization bodies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1401.md)
+
+## Property: has_RiskTechnology
+
+* [standardization efforts](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1639.md)
+* [development of interoperability frameworks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1640.md)
+
+## Property: has_RiskSubject
+
+* [iot device manufacturers and service providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1436.md)
+
+## Property: has_RiskMitigation
+
+* [Adoption of standard protocols and interfaces, development of interoperability standards.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2782.md)
+
 ## Property: has_RiskDescription
 
 Lack of interoperability between different IoT devices and platforms.
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [subramanian_role_2021](../Article/PBN__Article_226)
+* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
+
+## Property: has_RiskType
+
+* [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
 
 ## Property: has_RiskGBN
 
-* [No](../RiskGBN/PBN__RiskGBN_0)
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [other](../RiskHealth/PBN__RiskHealth_2)
+* [subramanian_role_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_226.md)
 

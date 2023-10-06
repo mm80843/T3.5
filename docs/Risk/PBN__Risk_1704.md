@@ -1,58 +1,60 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Influenza virus survival__ (PBN__Risk_1704)
-
-## Property: has_RiskISO_Impact
-
-* [Health and care](../RiskISO/PBN__RiskISO_Purpose_0)
-
-## Property: has_RiskTechnology
-
-* [environmental control systems](../Technology/PBN__Technology_1058)
-* [such as hvac systems](../Technology/PBN__Technology_1059)
-* [can be used to regulate ah and rh levels](../Technology/PBN__Technology_1060)
-
-## Property: has_RiskSubject
-
-* [people in the built environment](../Stakeholder/PBN__Stakeholder_1122)
-* [including residents](../Stakeholder/PBN__Stakeholder_1123)
-* [workers](../Stakeholder/PBN__Stakeholder_128)
-* [visitors](../Stakeholder/PBN__Stakeholder_118)
-* [are at risk](../Stakeholder/PBN__Stakeholder_1124)
-
-## Property: has_RiskType
-
-* [environmental](../RiskType/PBN__RiskType_0)
-
-## Property: has_RiskISO_Purpose
-
-* [Resilience](../RiskISO/PBN__RiskISO_Impact_2)
-
-## Property: has_RiskOwner
-
-* [building owners](../Stakeholder/PBN__Stakeholder_80)
-* [facility managers](../Stakeholder/PBN__Stakeholder_166)
-* [public health authorities are responsible for regulating ah and rh levels](../Stakeholder/PBN__Stakeholder_1125)
-
-## Property: has_RiskMitigation
-
-* [Regulate and control AH and RH levels in the built environment to reduce virus survival and transmission.](../RiskMitigation/PBN__RiskMitigation_2267)
 
 ## Property: has_RiskName
 
 If AH and RH are not regulated, it can lead to increased survival and transmission of influenza viruses.
 
+## Property: has_RiskISO_Impact
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
+## Property: has_RiskOwner
+
+* [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
+* [facility managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_166.md)
+* [public health authorities are responsible for regulating ah and rh levels](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1125.md)
+
+## Property: has_RiskTechnology
+
+* [environmental control systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1058.md)
+* [such as hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1059.md)
+* [can be used to regulate ah and rh levels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1060.md)
+
+## Property: has_RiskSubject
+
+* [people in the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1122.md)
+* [including residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1123.md)
+* [workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_128.md)
+* [visitors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_118.md)
+* [are at risk](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1124.md)
+
+## Property: has_RiskMitigation
+
+* [Regulate and control AH and RH levels in the built environment to reduce virus survival and transmission.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2267.md)
+
 ## Property: has_RiskDescription
 
 AH and RH both play a role in influenza virus survival.
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [marr_mechanistic_2019](../Article/PBN__Article_54)
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Property: has_RiskType
+
+* [environmental](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_0.md)
 
 ## Property: has_RiskGBN
 
-* [Yes](../RiskGBN/PBN__RiskGBN_1)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [physical](../RiskHealth/PBN__RiskHealth_0)
+* [marr_mechanistic_2019](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_54.md)
 

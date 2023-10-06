@@ -1,65 +1,67 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Noise Pollution__ (PBN__Risk_1120)
-
-## Property: has_RiskISO_Impact
-
-* [Health and care](../RiskISO/PBN__RiskISO_Purpose_0)
-
-## Property: has_RiskTechnology
-
-* [soundproofing materials](../Technology/PBN__Technology_119)
-* [acoustic panels](../Technology/PBN__Technology_190)
-* [white noise machines](../Technology/PBN__Technology_191)
-* [noise reduction measures](../Technology/PBN__Technology_1239)
-
-## Property: has_RiskSubject
-
-* [occupants](../Stakeholder/PBN__Stakeholder_92)
-* [especially those in noisy environments such as offices](../Stakeholder/PBN__Stakeholder_648)
-* [schools](../Stakeholder/PBN__Stakeholder_366)
-* [hospitals](../Stakeholder/PBN__Stakeholder_64)
-* [general population](../Stakeholder/PBN__Stakeholder_9)
-* [individuals living in noisy areas](../Stakeholder/PBN__Stakeholder_1261)
-
-## Property: has_RiskType
-
-* [environmental](../RiskType/PBN__RiskType_0)
-* [social](../RiskType/PBN__RiskType_2)
-
-## Property: has_RiskISO_Purpose
-
-* [Preservation and improvement of the environment](../RiskISO/PBN__RiskISO_Impact_6)
-
-## Property: has_RiskOwner
-
-* [building owners](../Stakeholder/PBN__Stakeholder_80)
-* [facility managers](../Stakeholder/PBN__Stakeholder_166)
-* [acoustical engineers](../Stakeholder/PBN__Stakeholder_649)
-* [government](../Stakeholder/PBN__Stakeholder_73)
-* [urban planning authorities](../Stakeholder/PBN__Stakeholder_1072)
-
-## Property: has_RiskMitigation
-
-* [Sound insulation, use of acoustic materials, noise control measures](../RiskMitigation/PBN__RiskMitigation_1568)
-* [Implement noise reduction measures, regulate noise levels in urban areas, promote soundproofing measures](../RiskMitigation/PBN__RiskMitigation_2459)
 
 ## Property: has_RiskName
 
 Stress, hearing problems, impaired cognitive function
 
+## Property: has_RiskISO_Impact
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Preservation and improvement of the environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_6.md)
+
+## Property: has_RiskOwner
+
+* [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
+* [facility managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_166.md)
+* [acoustical engineers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_649.md)
+* [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
+* [urban planning authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1072.md)
+
+## Property: has_RiskTechnology
+
+* [soundproofing materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_119.md)
+* [acoustic panels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_190.md)
+* [white noise machines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_191.md)
+* [noise reduction measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1239.md)
+
+## Property: has_RiskSubject
+
+* [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
+* [especially those in noisy environments such as offices](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_648.md)
+* [schools](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_366.md)
+* [hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_64.md)
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+* [individuals living in noisy areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1261.md)
+
+## Property: has_RiskMitigation
+
+* [Sound insulation, use of acoustic materials, noise control measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1568.md)
+* [Implement noise reduction measures, regulate noise levels in urban areas, promote soundproofing measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2459.md)
+
 ## Property: has_RiskDescription
 
 Human activities, such as traffic and industrial operations, contribute to noise pollution, impacting mental and physical health.
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [awada_occupant_2022](../Article/PBN__Article_273)
-* [paital_nurture_2020](../Article/PBN__Article_44)
+* [mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
+
+## Property: has_RiskType
+
+* [environmental](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_0.md)
+* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
 
 ## Property: has_RiskGBN
 
-* [Yes](../RiskGBN/PBN__RiskGBN_1)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [mental](../RiskHealth/PBN__RiskHealth_1)
+* [awada_occupant_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_273.md)
+* [paital_nurture_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_44.md)
 

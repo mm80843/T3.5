@@ -1,6 +1,8 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Slow identification of cases__ (PBN__Risk_460)
 
 ## Property: has_RiskMitigation
 
-* [AI for rapid identification](../RiskMitigation/PBN__RiskMitigation_650)
+* [AI for rapid identification](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_650.md)
 

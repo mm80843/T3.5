@@ -1,6 +1,8 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Potential risks of limiting freedom of speech__ (PBN__Risk_2834)
 
 ## Property: has_RiskMitigation
 
-* [Censorship of fake news](../Mitigation/PBN__Mitigation_963)
+* [Censorship of fake news](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_963.md)
 

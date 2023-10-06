@@ -1,19 +1,21 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Enhanced resilience and well-being__ (PBN__Benef_1034)
 
 ## Property: has_BenefDetails
 
 Strengthening social support systems, such as social welfare programs and community support networks, improves the overall resilience and well-being of vulnerable populations, reducing poverty and inequalities.
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Private investors in social support systems and services can benefit from increased demand and improved financial stability of vulnerable populations.](../BenefReturn/PBN__BenefReturn_1155)
+* [lawal_covid-19_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_215.md)
 
 ## Property: has_Beneficiary
 
-* [government](../Stakeholder/PBN__Stakeholder_73)
-* [vulnerable populations](../Stakeholder/PBN__Stakeholder_127)
+* [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
+* [vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_127.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [lawal_covid-19_2022](../Article/PBN__Article_215)
+* [Private investors in social support systems and services can benefit from increased demand and improved financial stability of vulnerable populations.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1155.md)
 

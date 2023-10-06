@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Compliance__ (PBN__Mitigation_296)
-
-## Property: has_MitigationTechnology
-
-* [safety and health officers](../Technology/PBN__Technology_3127)
-* [procedures](../Technology/PBN__Technology_3128)
 
 ## Property: has_MitigationSource
 
-* [bou_hatoum_analysis_2021](../Article/PBN__Article_82)
+* [bou_hatoum_analysis_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_82.md)
+
+## Property: has_MitigationTechnology
+
+* [safety and health officers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3127.md)
+* [procedures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3128.md)
 
 ## Property: has_MitigationPrinciple
 

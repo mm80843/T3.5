@@ -1,54 +1,56 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Data management issues__ (PBN__Risk_2085)
-
-## Property: has_RiskISO_Impact
-
-* [Health and care](../RiskISO/PBN__RiskISO_Purpose_0)
-
-## Property: has_RiskTechnology
-
-* [cloud computing](../Technology/PBN__Technology_1232)
-* [big data analytics nan platforms](../Technology/PBN__Technology_1572)
-* [data nan nan warehousing](../Technology/PBN__Technology_1573)
-
-## Property: has_RiskSubject
-
-* [healthcare providers](../Stakeholder/PBN__Stakeholder_121)
-* [researchers](../Stakeholder/PBN__Stakeholder_2)
-* [government nan agencies](../Stakeholder/PBN__Stakeholder_1398)
-
-## Property: has_RiskType
-
-* [technological](../RiskType/PBN__RiskType_5)
-
-## Property: has_RiskISO_Purpose
-
-* [Well-being](../RiskISO/PBN__RiskISO_Impact_1)
-
-## Property: has_RiskOwner
-
-* [data management agencies](../Stakeholder/PBN__Stakeholder_1399)
-
-## Property: has_RiskMitigation
-
-* [Implement efficient data management nan strategies and nan nan robust data nan nan nan governance](../RiskMitigation/PBN__RiskMitigation_2733)
 
 ## Property: has_RiskName
 
 Inaccurate or incomplete data nan in the decision- nan nan making process
 
+## Property: has_RiskISO_Impact
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+
+## Property: has_RiskOwner
+
+* [data management agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1399.md)
+
+## Property: has_RiskTechnology
+
+* [cloud computing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1232.md)
+* [big data analytics nan platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1572.md)
+* [data nan nan warehousing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1573.md)
+
+## Property: has_RiskSubject
+
+* [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
+* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+* [government nan agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1398.md)
+
+## Property: has_RiskMitigation
+
+* [Implement efficient data management nan strategies and nan nan robust data nan nan nan governance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2733.md)
+
 ## Property: has_RiskDescription
 
 Challenges in managing and nan processing large nan nan amounts of data
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [singh_internet_2020 singh_internet_2020 nan singh_internet_2020 nan nan singh_internet_2020 nan nan nan singh_internet_2020](../Article/PBN__Article_300)
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Property: has_RiskType
+
+* [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
 
 ## Property: has_RiskGBN
 
-* [Yes](../RiskGBN/PBN__RiskGBN_1)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [physical](../RiskHealth/PBN__RiskHealth_0)
+* [singh_internet_2020 singh_internet_2020 nan singh_internet_2020 nan nan singh_internet_2020 nan nan nan singh_internet_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_300.md)
 

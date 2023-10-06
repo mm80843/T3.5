@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Alarm signals and LED screens__ (PBN__Mitigation_1669)
-
-## Property: has_MitigationTechnology
-
-* [alarms](../Technology/PBN__Technology_3995)
-* [led screens](../Technology/PBN__Technology_3996)
 
 ## Property: has_MitigationSource
 
-* [rahman_automated_2020](../Article/PBN__Article_265)
+* [rahman_automated_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_265.md)
+
+## Property: has_MitigationTechnology
+
+* [alarms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3995.md)
+* [led screens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3996.md)
 
 ## Property: has_MitigationPrinciple
 

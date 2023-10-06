@@ -1,12 +1,22 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) 
+
 # Article: __siriwardhana_role_2021__ (PBN__Article_9)
+
+## Property: has_ArticleYear
+
+2021
+
+## Property: has_ArticleRef
+
+* [chang_how_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_241.md)
 
 ## Property: has_ArticleLLMShortSummary
 
 This research abstract discusses the potential use of 5G technology in addressing the challenges posed by the COVID-19 pandemic. The authors highlight the various ways in which 5G can support the healthcare sector in providing remote healthcare services, such as telehealth, telemedicine, telenursing, telepharmacy, and telesurgery. They also discuss the importance of rapid deployment of new healthcare applications and services, as well as the use of 5G in supply chain management for healthcare, self-isolation monitoring, and contact tracing. The authors explore the role of 5G in addressing scalability and quality of service challenges, as well as implementation challenges related to privacy protection, security, limited connectivity, societal issues, and legal and regulatory considerations. Overall, the authors argue that 5G technology has the potential to significantly enhance healthcare services and mitigate the challenges posed by the COVID-19 pandemic, but it is crucial to address the implementation challenges effectively.
 
-## Property: has_ArticleRef
+## Property: has_ArticleTitle
 
-* [chang_how_2020](../Article/PBN__Article_241)
+The role of 5G for digital healthcare against COVID-19 pandemic: Opportunities and challenges
 
 ## Property: has_ArticleLLMSummary
 
@@ -15,12 +25,4 @@ The Coronavirus Disease (COVID-19) has caused a lot of changes in our lives. One
 ## Property: has_ArticleDOI
 
 10.1016/j.icte.2020.10.002
-
-## Property: has_ArticleTitle
-
-The role of 5G for digital healthcare against COVID-19 pandemic: Opportunities and challenges
-
-## Property: has_ArticleYear
-
-2021
 

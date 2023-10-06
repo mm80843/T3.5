@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Engaging the finance sector and attracting private capital__ (PBN__Mitigation_494)
-
-## Property: has_MitigationTechnology
-
-* [finance sector engagement](../Technology/PBN__Technology_3260)
 
 ## Property: has_MitigationSource
 
-* [cumming_building_2021](../Article/PBN__Article_33)
+* [cumming_building_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_33.md)
+
+## Property: has_MitigationTechnology
+
+* [finance sector engagement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3260.md)
 
 ## Property: has_MitigationPrinciple
 

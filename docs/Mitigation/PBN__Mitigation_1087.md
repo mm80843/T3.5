@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Crowd control measures__ (PBN__Mitigation_1087)
-
-## Property: has_MitigationTechnology
-
-* [crowd management techniques](../Technology/PBN__Technology_3636)
 
 ## Property: has_MitigationSource
 
-* [leal_filho_covid-19_2020](../Article/PBN__Article_109)
+* [leal_filho_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_109.md)
+
+## Property: has_MitigationTechnology
+
+* [crowd management techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3636.md)
 
 ## Property: has_MitigationPrinciple
 

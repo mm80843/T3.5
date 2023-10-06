@@ -1,53 +1,55 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Inadequate unit sizes__ (PBN__Risk_1894)
-
-## Property: has_RiskISO_Impact
-
-* [Safety and security](../RiskISO/PBN__RiskISO_Purpose_5)
-
-## Property: has_RiskTechnology
-
-* [provide larger units and flexible housing options to support physical distancing](../Technology/PBN__Technology_1276)
-
-## Property: has_RiskSubject
-
-* [apartment residents](../Stakeholder/PBN__Stakeholder_356)
-* [occupants](../Stakeholder/PBN__Stakeholder_92)
-
-## Property: has_RiskType
-
-* [social](../RiskType/PBN__RiskType_2)
-
-## Property: has_RiskISO_Purpose
-
-* [Safety and security](../RiskISO/PBN__RiskISO_Impact_0)
-
-## Property: has_RiskOwner
-
-* [architects](../Stakeholder/PBN__Stakeholder_431)
-* [designers](../Stakeholder/PBN__Stakeholder_74)
-* [property developers](../Stakeholder/PBN__Stakeholder_1284)
-
-## Property: has_RiskMitigation
-
-* [Design apartments with more generous living spaces and multiple bathrooms in shared units.](../RiskMitigation/PBN__RiskMitigation_2492)
 
 ## Property: has_RiskName
 
 Difficulties in physical distancing, increased risk of disease transmission.
 
+## Property: has_RiskISO_Impact
+
+* [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_5.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_0.md)
+
+## Property: has_RiskOwner
+
+* [architects](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_431.md)
+* [designers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_74.md)
+* [property developers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1284.md)
+
+## Property: has_RiskTechnology
+
+* [provide larger units and flexible housing options to support physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1276.md)
+
+## Property: has_RiskSubject
+
+* [apartment residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_356.md)
+* [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
+
+## Property: has_RiskMitigation
+
+* [Design apartments with more generous living spaces and multiple bathrooms in shared units.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2492.md)
+
 ## Property: has_RiskDescription
 
 Apartments that do not provide adequate living space and allow for physical distancing can pose challenges during pandemics or situations requiring self-isolation or quarantine.
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [peters_how_2020](../Article/PBN__Article_279)
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Property: has_RiskType
+
+* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
 
 ## Property: has_RiskGBN
 
-* [Yes](../RiskGBN/PBN__RiskGBN_1)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [physical](../RiskHealth/PBN__RiskHealth_0)
+* [peters_how_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_279.md)
 

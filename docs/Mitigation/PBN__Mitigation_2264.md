@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Coordinated response and global cooperation__ (PBN__Mitigation_2264)
-
-## Property: has_MitigationTechnology
-
-* [international cooperation and coordination](../Technology/PBN__Technology_4381)
 
 ## Property: has_MitigationSource
 
-* [van_barneveld_covid-19_2020](../Article/PBN__Article_124)
+* [van_barneveld_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_124.md)
+
+## Property: has_MitigationTechnology
+
+* [international cooperation and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4381.md)
 
 ## Property: has_MitigationPrinciple
 

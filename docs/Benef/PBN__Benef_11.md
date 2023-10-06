@@ -1,25 +1,27 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Improved mental health outcomes__ (PBN__Benef_11)
 
 ## Property: has_BenefDetails
 
 Access to psychosocial services through telemedicine
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Improved quality of life and overall well-being](../BenefReturn/PBN__BenefReturn_11)
-* [Private investors would indirectly benefit from improved mental health outcomes, as it contributes to a more stable and productive workforce.](../BenefReturn/PBN__BenefReturn_684)
-* [Enhanced coping skills and reduced distress, leading to improved compliance with public health directives and better overall health outcomes](../BenefReturn/PBN__BenefReturn_903)
+* [gurney_dangerous_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_2.md)
+* [rodriguez-fernandez_psychological_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_126.md)
+* [pfefferbaum_mental_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_167.md)
 
 ## Property: has_Beneficiary
 
-* [individuals with mental health issues](../Stakeholder/PBN__Stakeholder_8)
-* [general population](../Stakeholder/PBN__Stakeholder_9)
-* [particularly those with low income or low education](../Stakeholder/PBN__Stakeholder_267)
-* [individuals and communities affected by pandemics](../Stakeholder/PBN__Stakeholder_341)
+* [individuals with mental health issues](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_8.md)
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+* [particularly those with low income or low education](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_267.md)
+* [individuals and communities affected by pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_341.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [gurney_dangerous_2021](../Article/PBN__Article_2)
-* [rodriguez-fernandez_psychological_2021](../Article/PBN__Article_126)
-* [pfefferbaum_mental_2020](../Article/PBN__Article_167)
+* [Improved quality of life and overall well-being](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_11.md)
+* [Private investors would indirectly benefit from improved mental health outcomes, as it contributes to a more stable and productive workforce.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_684.md)
+* [Enhanced coping skills and reduced distress, leading to improved compliance with public health directives and better overall health outcomes](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_903.md)
 

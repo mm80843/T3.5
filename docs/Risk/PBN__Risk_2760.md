@@ -1,7 +1,9 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Transmission, Cost__ (PBN__Risk_2760)
 
 ## Property: has_RiskMitigation
 
-* [Copper Coating](../Mitigation/PBN__Mitigation_824)
-* [Stainless Steel Replacement with Copper](../Mitigation/PBN__Mitigation_825)
+* [Copper Coating](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_824.md)
+* [Stainless Steel Replacement with Copper](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_825.md)
 

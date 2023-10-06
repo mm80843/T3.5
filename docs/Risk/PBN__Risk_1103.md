@@ -1,52 +1,54 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Lack of Infrastructure for 5G Network__ (PBN__Risk_1103)
-
-## Property: has_RiskISO_Impact
-
-* [Health and care](../RiskISO/PBN__RiskISO_Purpose_0)
-
-## Property: has_RiskTechnology
-
-* [none](../Technology/PBN__Technology_35)
-
-## Property: has_RiskSubject
-
-* [telecommunication companies](../Stakeholder/PBN__Stakeholder_633)
-* [government agencies](../Stakeholder/PBN__Stakeholder_55)
-
-## Property: has_RiskType
-
-* [technological](../RiskType/PBN__RiskType_5)
-
-## Property: has_RiskISO_Purpose
-
-* [Resilience](../RiskISO/PBN__RiskISO_Impact_2)
-
-## Property: has_RiskOwner
-
-* [telecommunication companies](../Stakeholder/PBN__Stakeholder_633)
-* [it professionals](../Stakeholder/PBN__Stakeholder_628)
-
-## Property: has_RiskMitigation
-
-* [Invest in 5G infrastructure, expand network coverage, prioritize high-bandwidth areas.](../RiskMitigation/PBN__RiskMitigation_1550)
 
 ## Property: has_RiskName
 
 Slower data transmission, limited scalability of real-time applications.
 
+## Property: has_RiskISO_Impact
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
+## Property: has_RiskOwner
+
+* [telecommunication companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_633.md)
+* [it professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_628.md)
+
+## Property: has_RiskTechnology
+
+* [none](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
+
+## Property: has_RiskSubject
+
+* [telecommunication companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_633.md)
+* [government agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_55.md)
+
+## Property: has_RiskMitigation
+
+* [Invest in 5G infrastructure, expand network coverage, prioritize high-bandwidth areas.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1550.md)
+
 ## Property: has_RiskDescription
 
 Inadequate availability and coverage of 5G networks for efficient data transmission and real-time processing.
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [arpaci_leveraging_2021](../Article/PBN__Article_297)
+* [nan](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_6.md)
+
+## Property: has_RiskType
+
+* [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
 
 ## Property: has_RiskGBN
 
-* [No](../RiskGBN/PBN__RiskGBN_0)
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [nan](../RiskHealth/PBN__RiskHealth_6)
+* [arpaci_leveraging_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_297.md)
 

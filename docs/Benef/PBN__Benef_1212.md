@@ -1,19 +1,21 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Rapid and inexpensive tracking__ (PBN__Benef_1212)
 
 ## Property: has_BenefDetails
 
 WBE can quickly track the presence of infected individuals at various levels, from towns to specific drainage areas, allowing for timely response and containment measures.
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Private investors in WBE implementation would benefit from the rapid and inexpensive tracking of COVID-19, enabling swift response and containment, protecting public health and the economy.](../BenefReturn/PBN__BenefReturn_1356)
+* [hart_computational_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_252.md)
 
 ## Property: has_Beneficiary
 
-* [emergency response teams](../Stakeholder/PBN__Stakeholder_471)
-* [local decision-makers](../Stakeholder/PBN__Stakeholder_472)
+* [emergency response teams](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_471.md)
+* [local decision-makers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_472.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [hart_computational_2020](../Article/PBN__Article_252)
+* [Private investors in WBE implementation would benefit from the rapid and inexpensive tracking of COVID-19, enabling swift response and containment, protecting public health and the economy.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1356.md)
 

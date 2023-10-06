@@ -1,15 +1,17 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) 
+
 # Stakeholder: __vulnerable households__ (PBN__Stakeholder_254)
-
-## Property: has_StakeholderGroup
-
-* [Vulnerable Population](../StakeholderGroup/PBN__StakeholderGroup_6)
-
-## Property: has_StakeholderID
-
-* [Q3376054](../Qid/Q3376054)
 
 ## Property: has_StakeholderSubgroup
 
-* [Vulnerable Individuals](../StakeholderSubgroup/PBN__StakeholderSubgroup_82)
-* [Economic and Social Status](../StakeholderSubgroup/PBN__StakeholderSubgroup_106)
+* [Vulnerable Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_82.md)
+* [Economic and Social Status](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_106.md)
+
+## Property: has_StakeholderGroup
+
+* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
+
+## Property: has_StakeholderID
+
+* [Q3376054](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3376054.md)
 

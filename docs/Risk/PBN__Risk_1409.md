@@ -1,54 +1,56 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Unnecessary stand-by loads__ (PBN__Risk_1409)
-
-## Property: has_RiskISO_Impact
-
-* [Health and care](../RiskISO/PBN__RiskISO_Purpose_0)
-
-## Property: has_RiskTechnology
-
-* [power-saving features in devices](../Technology/PBN__Technology_650)
-* [energy management systems](../Technology/PBN__Technology_324)
-* [user education](../Technology/PBN__Technology_651)
-
-## Property: has_RiskSubject
-
-* [occupants of buildings and organizations](../Stakeholder/PBN__Stakeholder_915)
-
-## Property: has_RiskType
-
-* [technological](../RiskType/PBN__RiskType_5)
-
-## Property: has_RiskISO_Purpose
-
-* [Health and care](../RiskISO/PBN__RiskISO_Impact_3)
-
-## Property: has_RiskOwner
-
-* [building owners](../Stakeholder/PBN__Stakeholder_80)
-* [facility managers](../Stakeholder/PBN__Stakeholder_166)
-* [occupants](../Stakeholder/PBN__Stakeholder_92)
-
-## Property: has_RiskMitigation
-
-* [Equip devices with power-saving features, encourage users to turn off equipment when not in use, and implement policies to minimize stand-by loads.](../RiskMitigation/PBN__RiskMitigation_1916)
 
 ## Property: has_RiskName
 
 Increased energy consumption, higher costs, and negative environmental impact.
 
+## Property: has_RiskISO_Impact
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
+
+## Property: has_RiskOwner
+
+* [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
+* [facility managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_166.md)
+* [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
+
+## Property: has_RiskTechnology
+
+* [power-saving features in devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_650.md)
+* [energy management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_324.md)
+* [user education](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_651.md)
+
+## Property: has_RiskSubject
+
+* [occupants of buildings and organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_915.md)
+
+## Property: has_RiskMitigation
+
+* [Equip devices with power-saving features, encourage users to turn off equipment when not in use, and implement policies to minimize stand-by loads.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1916.md)
+
 ## Property: has_RiskDescription
 
 Stand-by loads, such as computers and equipment, continue to consume energy even when not in use, leading to energy wastage.
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [geraldi_addressing_2021](../Article/PBN__Article_286)
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Property: has_RiskType
+
+* [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
 
 ## Property: has_RiskGBN
 
-* [No](../RiskGBN/PBN__RiskGBN_0)
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [physical](../RiskHealth/PBN__RiskHealth_0)
+* [geraldi_addressing_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_286.md)
 

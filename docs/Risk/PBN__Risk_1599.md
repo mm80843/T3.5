@@ -1,55 +1,57 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Unfavorable economic climate for innovation__ (PBN__Risk_1599)
-
-## Property: has_RiskISO_Impact
-
-* [Innovation, Creativity and research](../RiskISO/PBN__RiskISO_Purpose_2)
-
-## Property: has_RiskTechnology
-
-* [online networking platforms](../Technology/PBN__Technology_909)
-* [digital marketplaces](../Technology/PBN__Technology_910)
-
-## Property: has_RiskSubject
-
-* [startup founders](../Stakeholder/PBN__Stakeholder_1033)
-* [customers](../Stakeholder/PBN__Stakeholder_221)
-* [investors](../Stakeholder/PBN__Stakeholder_49)
-
-## Property: has_RiskType
-
-* [economic](../RiskType/PBN__RiskType_3)
-
-## Property: has_RiskISO_Purpose
-
-* [Attractiveness](../RiskISO/PBN__RiskISO_Impact_9)
-
-## Property: has_RiskOwner
-
-* [startups](../Stakeholder/PBN__Stakeholder_322)
-* [entrepreneurs](../Stakeholder/PBN__Stakeholder_417)
-* [investors](../Stakeholder/PBN__Stakeholder_49)
-
-## Property: has_RiskMitigation
-
-* [Seek alternative markets and partners, adapt business models, leverage social capital.](../RiskMitigation/PBN__RiskMitigation_2133)
 
 ## Property: has_RiskName
 
 Limited opportunities for growth and innovation.
 
+## Property: has_RiskISO_Impact
+
+* [Innovation, Creativity and research](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_2.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Attractiveness](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_9.md)
+
+## Property: has_RiskOwner
+
+* [startups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_322.md)
+* [entrepreneurs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_417.md)
+* [investors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_49.md)
+
+## Property: has_RiskTechnology
+
+* [online networking platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_909.md)
+* [digital marketplaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_910.md)
+
+## Property: has_RiskSubject
+
+* [startup founders](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1033.md)
+* [customers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_221.md)
+* [investors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_49.md)
+
+## Property: has_RiskMitigation
+
+* [Seek alternative markets and partners, adapt business models, leverage social capital.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2133.md)
+
 ## Property: has_RiskDescription
 
 Economic uncertainty and market gridlock discourages experimentation and hinders business growth.
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [kuckertz_startups_2020](../Article/PBN__Article_158)
+* [economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_3.md)
+
+## Property: has_RiskType
+
+* [economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_3.md)
 
 ## Property: has_RiskGBN
 
-* [Yes](../RiskGBN/PBN__RiskGBN_1)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [economic](../RiskHealth/PBN__RiskHealth_3)
+* [kuckertz_startups_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_158.md)
 

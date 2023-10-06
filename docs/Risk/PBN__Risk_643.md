@@ -1,54 +1,56 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Negative psychological effects of quarantine and social distancing__ (PBN__Risk_643)
-
-## Property: has_RiskISO_Impact
-
-* [Safety and security](../RiskISO/PBN__RiskISO_Purpose_5)
-
-## Property: has_RiskTechnology
-
-* [telehealth platforms](../Technology/PBN__Technology_219)
-* [video conferencing](../Technology/PBN__Technology_406)
-* [mental health apps](../Technology/PBN__Technology_117)
-
-## Property: has_RiskSubject
-
-* [general population](../Stakeholder/PBN__Stakeholder_9)
-
-## Property: has_RiskType
-
-* [social](../RiskType/PBN__RiskType_2)
-
-## Property: has_RiskISO_Purpose
-
-* [Safety and security](../RiskISO/PBN__RiskISO_Impact_0)
-
-## Property: has_RiskOwner
-
-* [mental health professionals](../Stakeholder/PBN__Stakeholder_368)
-* [support organizations](../Stakeholder/PBN__Stakeholder_791)
-
-## Property: has_RiskMitigation
-
-* [Home-based exercises and physical activity](../RiskMitigation/PBN__RiskMitigation_894)
-* [Access to mental health services, social support networks, and online therapies](../RiskMitigation/PBN__RiskMitigation_1757)
 
 ## Property: has_RiskName
 
 Mental health deterioration, decreased well-being
 
+## Property: has_RiskISO_Impact
+
+* [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_5.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_0.md)
+
+## Property: has_RiskOwner
+
+* [mental health professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_368.md)
+* [support organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_791.md)
+
+## Property: has_RiskTechnology
+
+* [telehealth platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_219.md)
+* [video conferencing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_406.md)
+* [mental health apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_117.md)
+
+## Property: has_RiskSubject
+
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+
+## Property: has_RiskMitigation
+
+* [Home-based exercises and physical activity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_894.md)
+* [Access to mental health services, social support networks, and online therapies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1757.md)
+
 ## Property: has_RiskDescription
 
 Anxiety, stress, and depression due to isolation and uncertainty
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [chtourou_staying_2020](../Article/PBN__Article_181)
+* [mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
+
+## Property: has_RiskType
+
+* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
 
 ## Property: has_RiskGBN
 
-* [Yes](../RiskGBN/PBN__RiskGBN_1)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [mental](../RiskHealth/PBN__RiskHealth_1)
+* [chtourou_staying_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_181.md)
 

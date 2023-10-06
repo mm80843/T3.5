@@ -1,8 +1,18 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) 
+
 # Article: __benfer_eviction_2021__ (PBN__Article_43)
+
+## Property: has_ArticleYear
+
+2021
 
 ## Property: has_ArticleLLMShortSummary
 
 This research abstract summarizes a study that explores the relationship between eviction and the spread of COVID-19. The study highlights that the COVID-19 pandemic has resulted in job loss and economic hardship, particularly among marginalized populations. It notes that eviction rates were already high before the pandemic, disproportionately affecting Black and Hispanic renters. Due to the lack of affordable housing units and high rent burdens, many renters were already vulnerable to eviction. The study suggests that eviction and housing displacement contribute to the spread of COVID-19 by increasing overcrowding and hindering compliance with public health guidelines. It also highlights the impact of eviction on mental health and access to healthcare. The study emphasizes the disproportionate impact of eviction on people of color and women. It discusses the effectiveness of eviction moratoria in reducing eviction filings and the potential association between lifting moratoria and increased COVID-19 infection and mortality rates. The study recommends implementing supportive measures such as rental assistance, eviction diversion programs, and increasing healthcare access to prevent eviction and reduce the spread of COVID-19. Overall, the study highlights the importance of addressing the root causes of the housing and eviction crisis to achieve health equity and justice.
+
+## Property: has_ArticleTitle
+
+Eviction, Health Inequity, and the Spread of COVID-19: Housing Policy as a Primary Pandemic Mitigation Strategy
 
 ## Property: has_ArticleLLMSummary
 
@@ -11,12 +21,4 @@ During the COVID-19 pandemic, many people lost their jobs and had a hard time pa
 ## Property: has_ArticleDOI
 
 10.1007/s11524-020-00502-1
-
-## Property: has_ArticleTitle
-
-Eviction, Health Inequity, and the Spread of COVID-19: Housing Policy as a Primary Pandemic Mitigation Strategy
-
-## Property: has_ArticleYear
-
-2021
 

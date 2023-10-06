@@ -1,8 +1,18 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) 
+
 # Article: __paikan_effects_2021__ (PBN__Article_134)
+
+## Property: has_ArticleYear
+
+2021
 
 ## Property: has_ArticleLLMShortSummary
 
 This research abstract discusses the impact of the COVID-19 pandemic on the construction industry, specifically focusing on the positive and negative effects on construction firms. The study involved a combination of desk research and field research, gathering information from building professionals in various sectors of the industry. The results show that the majority of projects were impacted by the pandemic, with some experiencing partial or full stoppage. Government decisions played a significant role in the stoppage of work on construction sites. The study also highlights the need for further research in order to understand the long-lasting consequences of the pandemic on the construction industry. Additionally, the abstract briefly mentions the concept of a circular economy and its potential role in resolving waste problems in the industry.
+
+## Property: has_ArticleTitle
+
+Effects to Construction Project Management Impacted Circular Economic of Covid-19 Pandemic
 
 ## Property: has_ArticleLLMSummary
 
@@ -11,12 +21,4 @@ The COVID-19 virus, also known as the coronavirus, has spread all over the world
 ## Property: has_ArticleDOI
 
 10.30954/2322-0465.1.2021.5
-
-## Property: has_ArticleTitle
-
-Effects to Construction Project Management Impacted Circular Economic of Covid-19 Pandemic
-
-## Property: has_ArticleYear
-
-2021
 

@@ -1,19 +1,21 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Adaptive design approach__ (PBN__Benef_1083)
 
 ## Property: has_BenefDetails
 
 Enables future adaptability and responsiveness to changing needs and circumstances
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Increased longevity of buildings, reduced need for future renovations](../BenefReturn/PBN__BenefReturn_1210)
+* [soliman_building_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_224.md)
 
 ## Property: has_Beneficiary
 
-* [architects](../Stakeholder/PBN__Stakeholder_431)
-* [designers](../Stakeholder/PBN__Stakeholder_74)
+* [architects](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_431.md)
+* [designers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_74.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [soliman_building_2022](../Article/PBN__Article_224)
+* [Increased longevity of buildings, reduced need for future renovations](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1210.md)
 

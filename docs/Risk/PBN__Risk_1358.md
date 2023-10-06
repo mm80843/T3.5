@@ -1,56 +1,58 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Inconsistent use of research evidence__ (PBN__Risk_1358)
-
-## Property: has_RiskISO_Impact
-
-* [Economy and sustainable production and consumption](../RiskISO/PBN__RiskISO_Purpose_8)
-
-## Property: has_RiskTechnology
-
-* [knowledge translation platforms](../Technology/PBN__Technology_565)
-* [data analysis tools](../Technology/PBN__Technology_554)
-
-## Property: has_RiskSubject
-
-* [decision-makers](../Stakeholder/PBN__Stakeholder_227)
-* [policymakers](../Stakeholder/PBN__Stakeholder_126)
-* [practitioners](../Stakeholder/PBN__Stakeholder_228)
-
-## Property: has_RiskType
-
-* [political](../RiskType/PBN__RiskType_1)
-* [technological](../RiskType/PBN__RiskType_5)
-* [social](../RiskType/PBN__RiskType_2)
-
-## Property: has_RiskISO_Purpose
-
-* [Responsible resource use](../RiskISO/PBN__RiskISO_Impact_4)
-
-## Property: has_RiskOwner
-
-* [governments](../Stakeholder/PBN__Stakeholder_47)
-* [organizations supporting evidence-informed policy-making](../Stakeholder/PBN__Stakeholder_877)
-
-## Property: has_RiskMitigation
-
-* [Promote the use of research evidence in decision-making processes, engage decision-makers in priority setting, and provide accessible and relevant evidence to inform critical decisions](../RiskMitigation/PBN__RiskMitigation_1854)
 
 ## Property: has_RiskName
 
 Decisions are not based on best available evidence, leading to ineffective or harmful policies and practices
 
+## Property: has_RiskISO_Impact
+
+* [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_8.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+
+## Property: has_RiskOwner
+
+* [governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
+* [organizations supporting evidence-informed policy-making](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_877.md)
+
+## Property: has_RiskTechnology
+
+* [knowledge translation platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_565.md)
+* [data analysis tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_554.md)
+
+## Property: has_RiskSubject
+
+* [decision-makers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_227.md)
+* [policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_126.md)
+* [practitioners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_228.md)
+
+## Property: has_RiskMitigation
+
+* [Promote the use of research evidence in decision-making processes, engage decision-makers in priority setting, and provide accessible and relevant evidence to inform critical decisions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1854.md)
+
 ## Property: has_RiskDescription
 
 Research evidence is not consistently used to inform decisions in public health emergencies
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [el-jardali_amplifying_2020](../Article/PBN__Article_111)
+* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
+
+## Property: has_RiskType
+
+* [political](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_1.md)
+* [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
+* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
 
 ## Property: has_RiskGBN
 
-* [No](../RiskGBN/PBN__RiskGBN_0)
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [other](../RiskHealth/PBN__RiskHealth_2)
+* [el-jardali_amplifying_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_111.md)
 

@@ -1,16 +1,18 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Home quarantine__ (PBN__Mitigation_238)
-
-## Property: has_MitigationTechnology
-
-* [nan](../Technology/PBN__Technology_22)
-* [mobile phone tracking](../Technology/PBN__Technology_1685)
 
 ## Property: has_MitigationSource
 
-* [bauerle_e-mental_2020](../Article/PBN__Article_209)
-* [ferguson_report_2020](../Article/PBN__Article_80)
-* [walker_impact_2020](../Article/PBN__Article_65)
-* [wang_response_2020](../Article/PBN__Article_24)
+* [bauerle_e-mental_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_209.md)
+* [ferguson_report_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_80.md)
+* [walker_impact_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_65.md)
+* [wang_response_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_24.md)
+
+## Property: has_MitigationTechnology
+
+* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
+* [mobile phone tracking](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1685.md)
 
 ## Property: has_MitigationPrinciple
 

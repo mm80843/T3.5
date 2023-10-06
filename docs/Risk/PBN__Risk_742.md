@@ -1,6 +1,8 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Risk of resurgence and rebound__ (PBN__Risk_742)
 
 ## Property: has_RiskMitigation
 
-* [WBE for monitoring Covid-19](../RiskMitigation/PBN__RiskMitigation_1024)
+* [WBE for monitoring Covid-19](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1024.md)
 

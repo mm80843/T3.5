@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Incorporating green spaces__ (PBN__Mitigation_2149)
-
-## Property: has_MitigationTechnology
-
-* [gardens](../Technology/PBN__Technology_1736)
-* [green roofs](../Technology/PBN__Technology_1392)
 
 ## Property: has_MitigationSource
 
-* [tokazhanov_how_2020](../Article/PBN__Article_67)
+* [tokazhanov_how_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_67.md)
+
+## Property: has_MitigationTechnology
+
+* [gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1736.md)
+* [green roofs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1392.md)
 
 ## Property: has_MitigationPrinciple
 

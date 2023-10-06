@@ -1,56 +1,58 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Reduced income and limited financial resources__ (PBN__Risk_778)
-
-## Property: has_RiskISO_Impact
-
-* [Economy and sustainable production and consumption](../RiskISO/PBN__RiskISO_Purpose_8)
-
-## Property: has_RiskTechnology
-
-* [financial support systems](../Technology/PBN__Technology_71)
-* [social welfare programs](../Technology/PBN__Technology_72)
-
-## Property: has_RiskSubject
-
-* [vulnerable families](../Stakeholder/PBN__Stakeholder_582)
-* [low-income households](../Stakeholder/PBN__Stakeholder_219)
-
-## Property: has_RiskType
-
-* [political](../RiskType/PBN__RiskType_1)
-* [economic](../RiskType/PBN__RiskType_3)
-
-## Property: has_RiskISO_Purpose
-
-* [Attractiveness](../RiskISO/PBN__RiskISO_Impact_9)
-
-## Property: has_RiskOwner
-
-* [government](../Stakeholder/PBN__Stakeholder_73)
-* [ngos](../Stakeholder/PBN__Stakeholder_234)
-
-## Property: has_RiskMitigation
-
-* [Social protection programs](../RiskMitigation/PBN__RiskMitigation_1071)
-* [Implement social protection programs and financial incentives to support vulnerable families](../RiskMitigation/PBN__RiskMitigation_1494)
-* [Financial-incentive based models](../Mitigation/PBN__Mitigation_82)
 
 ## Property: has_RiskName
 
 Increased risk of food insecurity and poor nutrition
 
+## Property: has_RiskISO_Impact
+
+* [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_8.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Attractiveness](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_9.md)
+
+## Property: has_RiskOwner
+
+* [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
+* [ngos](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_234.md)
+
+## Property: has_RiskTechnology
+
+* [financial support systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_71.md)
+* [social welfare programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_72.md)
+
+## Property: has_RiskSubject
+
+* [vulnerable families](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_582.md)
+* [low-income households](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_219.md)
+
+## Property: has_RiskMitigation
+
+* [Social protection programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1071.md)
+* [Implement social protection programs and financial incentives to support vulnerable families](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1494.md)
+* [Financial-incentive based models](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_82.md)
+
 ## Property: has_RiskDescription
 
 Economic impact of COVID-19 leads to unemployment, poverty, and limited financial resources for vulnerable households
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [akseer_covid-19_2020](../Article/PBN__Article_222)
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Property: has_RiskType
+
+* [political](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_1.md)
+* [economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_3.md)
 
 ## Property: has_RiskGBN
 
-* [No](../RiskGBN/PBN__RiskGBN_0)
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [physical](../RiskHealth/PBN__RiskHealth_0)
+* [akseer_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_222.md)
 

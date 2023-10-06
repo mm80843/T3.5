@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Garden access__ (PBN__Mitigation_739)
-
-## Property: has_MitigationTechnology
-
-* [access to outdoor spaces](../Technology/PBN__Technology_3419)
 
 ## Property: has_MitigationSource
 
-* [gurney_dangerous_2021](../Article/PBN__Article_2)
+* [gurney_dangerous_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_2.md)
+
+## Property: has_MitigationTechnology
+
+* [access to outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3419.md)
 
 ## Property: has_MitigationPrinciple
 

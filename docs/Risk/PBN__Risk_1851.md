@@ -1,69 +1,71 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Lack of public awareness and education__ (PBN__Risk_1851)
-
-## Property: has_RiskISO_Impact
-
-* [Education and capacity building](../RiskISO/PBN__RiskISO_Purpose_7)
-
-## Property: has_RiskTechnology
-
-* [health promotion campaigns](../Technology/PBN__Technology_1217)
-* [community engagement platforms](../Technology/PBN__Technology_966)
-* [public education programs](../Technology/PBN__Technology_1547)
-* [social media campaigns](../Technology/PBN__Technology_880)
-* [digital communication platforms](../Technology/PBN__Technology_897)
-* [social media](../Technology/PBN__Technology_898)
-* [educational materials](../Technology/PBN__Technology_495)
-
-## Property: has_RiskSubject
-
-* [general population](../Stakeholder/PBN__Stakeholder_9)
-* [vulnerable populations](../Stakeholder/PBN__Stakeholder_127)
-* [general public](../Stakeholder/PBN__Stakeholder_29)
-
-## Property: has_RiskType
-
-* [social](../RiskType/PBN__RiskType_2)
-* [educational](../RiskType/PBN__RiskType_19)
-
-## Property: has_RiskISO_Purpose
-
-* [Preservation and improvement of the environment](../RiskISO/PBN__RiskISO_Impact_6)
-
-## Property: has_RiskOwner
-
-* [public health agencies](../Stakeholder/PBN__Stakeholder_222)
-* [ngos](../Stakeholder/PBN__Stakeholder_234)
-* [educational institutions](../Stakeholder/PBN__Stakeholder_66)
-* [governments](../Stakeholder/PBN__Stakeholder_47)
-* [healthcare organizations](../Stakeholder/PBN__Stakeholder_216)
-* [government](../Stakeholder/PBN__Stakeholder_73)
-
-## Property: has_RiskMitigation
-
-* [Conduct public awareness campaigns and education programs to promote prevention measures.](../RiskMitigation/PBN__RiskMitigation_2437)
-* [Conduct public awareness campaigns, provide accurate information.](../RiskMitigation/PBN__RiskMitigation_2713)
-* [Implement public awareness campaigns, provide education on proper hygiene practices and social distancing](../RiskMitigation/PBN__RiskMitigation_2724)
 
 ## Property: has_RiskName
 
 Increased risk of non-compliance with preventive measures, higher transmission rates
 
+## Property: has_RiskISO_Impact
+
+* [Education and capacity building](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_7.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Preservation and improvement of the environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_6.md)
+
+## Property: has_RiskOwner
+
+* [public health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_222.md)
+* [ngos](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_234.md)
+* [educational institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_66.md)
+* [governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
+* [healthcare organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_216.md)
+* [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
+
+## Property: has_RiskTechnology
+
+* [health promotion campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1217.md)
+* [community engagement platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_966.md)
+* [public education programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1547.md)
+* [social media campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_880.md)
+* [digital communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_897.md)
+* [social media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_898.md)
+* [educational materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_495.md)
+
+## Property: has_RiskSubject
+
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+* [vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_127.md)
+* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
+
+## Property: has_RiskMitigation
+
+* [Conduct public awareness campaigns and education programs to promote prevention measures.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2437.md)
+* [Conduct public awareness campaigns, provide accurate information.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2713.md)
+* [Implement public awareness campaigns, provide education on proper hygiene practices and social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2724.md)
+
 ## Property: has_RiskDescription
 
 Insufficient public knowledge and understanding of contagious diseases and preventive measures
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [ogden_vector-borne_2016](../Article/PBN__Article_17)
-* [shorfuzzaman_towards_2021](../Article/PBN__Article_117)
-* [silva_covid-abs_2020](../Article/PBN__Article_139)
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+* [mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
+
+## Property: has_RiskType
+
+* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
+* [educational](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_19.md)
 
 ## Property: has_RiskGBN
 
-* [Yes](../RiskGBN/PBN__RiskGBN_1)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [physical](../RiskHealth/PBN__RiskHealth_0)
-* [mental](../RiskHealth/PBN__RiskHealth_1)
+* [ogden_vector-borne_2016](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_17.md)
+* [shorfuzzaman_towards_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_117.md)
+* [silva_covid-abs_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_139.md)
 

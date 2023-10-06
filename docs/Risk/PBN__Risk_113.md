@@ -1,6 +1,8 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Increase in chronic diseases from sedentary lifestyles__ (PBN__Risk_113)
 
 ## Property: has_RiskMitigation
 
-* [Incorporating exercise opportunities in design](../RiskMitigation/PBN__RiskMitigation_137)
+* [Incorporating exercise opportunities in design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_137.md)
 

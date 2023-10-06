@@ -1,12 +1,22 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) 
+
 # Article: __conway-morris_removal_2021__ (PBN__Article_232)
+
+## Property: has_ArticleYear
+
+2021
+
+## Property: has_ArticleRef
+
+* [van_doremalen_aerosol_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_21.md)
 
 ## Property: has_ArticleLLMShortSummary
 
 This study investigated the effectiveness of air filtration and UV light sterilization in reducing detectable airborne SARS-CoV-2 and other microbial bioaerosols in repurposed COVID-19 wards and intensive care units (ICUs). The researchers conducted a crossover study, using portable air filtration devices in a surge ward and surge ICU. They found that airborne SARS-CoV-2 was detected on all five days in the ward before the air/UV filter was activated, but on none of the five days when the filter was operational. Airborne SARS-CoV-2 was infrequently detected in the ICU. The filtration significantly reduced the burden of other microbial bioaerosols in both the ward and the ICU. These findings suggest that air filtration devices can remove SARS-CoV-2 from the air and may help reduce the risk of hospital-acquired infections. The study provides evidence for the effectiveness of combined air filtration and UV sterilization in removing airborne SARS-CoV-2 from hospital environments.
 
-## Property: has_ArticleRef
+## Property: has_ArticleTitle
 
-* [van_doremalen_aerosol_2020](../Article/PBN__Article_21)
+The removal of airborne SARS-CoV-2 and other microbial bioaerosols by air filtration on COVID-19 surge units
 
 ## Property: has_ArticleLLMSummary
 
@@ -15,12 +25,4 @@ Scientists conducted a study to see if air filters with UV light can remove the 
 ## Property: has_ArticleDOI
 
 10.1101/2021.09.16.21263684
-
-## Property: has_ArticleTitle
-
-The removal of airborne SARS-CoV-2 and other microbial bioaerosols by air filtration on COVID-19 surge units
-
-## Property: has_ArticleYear
-
-2021
 

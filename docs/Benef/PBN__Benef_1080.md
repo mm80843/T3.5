@@ -1,19 +1,21 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Temporary adaptations__ (PBN__Benef_1080)
 
 ## Property: has_BenefDetails
 
 Enables quick and reversible modifications to support different uses
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Enhanced adaptability, reduced cost of permanent installations](../BenefReturn/PBN__BenefReturn_1207)
+* [soliman_building_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_224.md)
 
 ## Property: has_Beneficiary
 
-* [building owners](../Stakeholder/PBN__Stakeholder_80)
-* [users](../Stakeholder/PBN__Stakeholder_430)
+* [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
+* [users](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_430.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [soliman_building_2022](../Article/PBN__Article_224)
+* [Enhanced adaptability, reduced cost of permanent installations](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1207.md)
 

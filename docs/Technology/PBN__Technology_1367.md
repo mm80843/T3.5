@@ -1,6 +1,8 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) 
+
 # Technology: __videoconferencing tools__ (PBN__Technology_1367)
 
 ## Property: has_TechnologyID
 
-* [Q238354](../Qid/Q238354)
+* [Q238354](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q238354.md)
 

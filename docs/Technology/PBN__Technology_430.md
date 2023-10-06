@@ -1,6 +1,8 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) 
+
 # Technology: __job search platforms__ (PBN__Technology_430)
 
 ## Property: has_TechnologyID
 
-* [Q629194](../Qid/Q629194)
+* [Q629194](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q629194.md)
 

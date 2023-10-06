@@ -1,18 +1,20 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Reduction in virus spread__ (PBN__Benef_1371)
 
 ## Property: has_BenefDetails
 
 Controlling movement and minimizing contact between individuals
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Decreased transmission rate, improved public health and safety](../BenefReturn/PBN__BenefReturn_1558)
+* [webb_smart_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_294.md)
 
 ## Property: has_Beneficiary
 
-* [general population](../Stakeholder/PBN__Stakeholder_9)
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [webb_smart_2020](../Article/PBN__Article_294)
+* [Decreased transmission rate, improved public health and safety](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1558.md)
 

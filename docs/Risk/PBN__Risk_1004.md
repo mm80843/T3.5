@@ -1,6 +1,8 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Limited functionality and reliability of wearable devices__ (PBN__Risk_1004)
 
 ## Property: has_RiskMitigation
 
-* [Development of next-generation wearable devices with sufficient reliability and robustness](../RiskMitigation/PBN__RiskMitigation_1426)
+* [Development of next-generation wearable devices with sufficient reliability and robustness](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1426.md)
 

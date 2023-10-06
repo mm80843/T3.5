@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Chi-square and t-test analysis__ (PBN__Mitigation_2207)
-
-## Property: has_MitigationTechnology
-
-* [statistical software](../Technology/PBN__Technology_4321)
 
 ## Property: has_MitigationSource
 
-* [uchiyama_access_2020](../Article/PBN__Article_275)
+* [uchiyama_access_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_275.md)
+
+## Property: has_MitigationTechnology
+
+* [statistical software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4321.md)
 
 ## Property: has_MitigationPrinciple
 

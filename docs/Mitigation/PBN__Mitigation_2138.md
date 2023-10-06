@@ -1,16 +1,18 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Access to alternative water sources__ (PBN__Mitigation_2138)
-
-## Property: has_MitigationTechnology
-
-* [rainwater storage](../Technology/PBN__Technology_4258)
-* [water filters](../Technology/PBN__Technology_4259)
-* [rainwater collection](../Technology/PBN__Technology_4366)
-* [water treatment systems](../Technology/PBN__Technology_4367)
 
 ## Property: has_MitigationSource
 
-* [tokazhanov_assessment_2021](../Article/PBN__Article_51)
-* [ujikawa_how_2022](../Article/PBN__Article_172)
+* [tokazhanov_assessment_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_51.md)
+* [ujikawa_how_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_172.md)
+
+## Property: has_MitigationTechnology
+
+* [rainwater storage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4258.md)
+* [water filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4259.md)
+* [rainwater collection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4366.md)
+* [water treatment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4367.md)
 
 ## Property: has_MitigationPrinciple
 

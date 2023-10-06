@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Flexible building systems__ (PBN__Mitigation_2167)
-
-## Property: has_MitigationTechnology
-
-* [adjustable walls](../Technology/PBN__Technology_4291)
-* [screens](../Technology/PBN__Technology_4292)
 
 ## Property: has_MitigationSource
 
-* [tokazhanov_how_2020](../Article/PBN__Article_67)
+* [tokazhanov_how_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_67.md)
+
+## Property: has_MitigationTechnology
+
+* [adjustable walls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4291.md)
+* [screens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4292.md)
 
 ## Property: has_MitigationPrinciple
 

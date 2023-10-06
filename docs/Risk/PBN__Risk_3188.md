@@ -1,6 +1,8 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Insufficient and inappropriate food provision__ (PBN__Risk_3188)
 
 ## Property: has_RiskMitigation
 
-* [Adequate provision of culturally appropriate food](../Mitigation/PBN__Mitigation_1642)
+* [Adequate provision of culturally appropriate food](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1642.md)
 

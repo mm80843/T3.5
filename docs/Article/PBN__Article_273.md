@@ -1,12 +1,22 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) 
+
 # Article: __awada_occupant_2022__ (PBN__Article_273)
+
+## Property: has_ArticleYear
+
+2022
+
+## Property: has_ArticleRef
+
+* [awada_ten_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_38.md)
 
 ## Property: has_ArticleLLMShortSummary
 
 The study aimed to compare the literature on occupant health assessment in buildings with professional opinions and understand the impact of the COVID-19 pandemic on professionals' perspectives. A literature review identified a focus on physical and mental well-being, with limited research on social well-being, and an emphasis on indoor air quality and ventilation. Professionals identified physical symptoms like fatigue and musculoskeletal disorders as important, while mental well-being focused on stress, depression, and anxiety. Professionals considered questionnaires as the most important method for assessing occupant health, while physiological/psychometric measurements were less favored. Office buildings were most studied and experienced, indicating a need for research in other building types. Professionals believed that they can influence occupant health and that health should be incorporated as an objective in building design and operation. The COVID-19 pandemic influenced professionals' perspectives, with increased focus on ventilation, less dense layouts, touch-free systems, and hands-free controls. Challenges included a lack of understanding, collaboration, proof of return on investment, and data privacy concerns. Future research should address social well-being, quantitative metrics, collaboration, and trade-offs between energy efficiency and health.
 
-## Property: has_ArticleRef
+## Property: has_ArticleTitle
 
-* [awada_ten_2021](../Article/PBN__Article_38)
+Occupant health in buildings: Impact of the COVID-19 pandemic on the opinions of building professionals and implications on research
 
 ## Property: has_ArticleLLMSummary
 
@@ -15,12 +25,4 @@ The text is about the importance of designing and constructing buildings that su
 ## Property: has_ArticleDOI
 
 10.1016/j.buildenv.2021.108440
-
-## Property: has_ArticleTitle
-
-Occupant health in buildings: Impact of the COVID-19 pandemic on the opinions of building professionals and implications on research
-
-## Property: has_ArticleYear
-
-2022
 

@@ -1,53 +1,55 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Data integrity__ (PBN__Risk_2128)
-
-## Property: has_RiskISO_Impact
-
-* [Safety and security](../RiskISO/PBN__RiskISO_Purpose_5)
-
-## Property: has_RiskTechnology
-
-* [quality control processes](../Technology/PBN__Technology_1637)
-* [calibration protocols](../Technology/PBN__Technology_1638)
-
-## Property: has_RiskSubject
-
-* [users of iot devices](../Stakeholder/PBN__Stakeholder_1434)
-* [healthcare professionals](../Stakeholder/PBN__Stakeholder_32)
-
-## Property: has_RiskType
-
-* [technological](../RiskType/PBN__RiskType_5)
-
-## Property: has_RiskISO_Purpose
-
-* [Resilience](../RiskISO/PBN__RiskISO_Impact_2)
-
-## Property: has_RiskOwner
-
-* [device manufacturers](../Stakeholder/PBN__Stakeholder_1435)
-* [healthcare institutions](../Stakeholder/PBN__Stakeholder_269)
-
-## Property: has_RiskMitigation
-
-* [Regular maintenance and calibration of devices, verification of data quality.](../RiskMitigation/PBN__RiskMitigation_2781)
 
 ## Property: has_RiskName
 
 Incorrect decisions, unreliable predictions, and compromised patient care.
 
+## Property: has_RiskISO_Impact
+
+* [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_5.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
+## Property: has_RiskOwner
+
+* [device manufacturers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1435.md)
+* [healthcare institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_269.md)
+
+## Property: has_RiskTechnology
+
+* [quality control processes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1637.md)
+* [calibration protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1638.md)
+
+## Property: has_RiskSubject
+
+* [users of iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1434.md)
+* [healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_32.md)
+
+## Property: has_RiskMitigation
+
+* [Regular maintenance and calibration of devices, verification of data quality.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2781.md)
+
 ## Property: has_RiskDescription
 
 Data collected from IoT devices, drones, robots, etc. may be inaccurate or corrupted.
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [subramanian_role_2021](../Article/PBN__Article_226)
+* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
+
+## Property: has_RiskType
+
+* [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
 
 ## Property: has_RiskGBN
 
-* [No](../RiskGBN/PBN__RiskGBN_0)
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [other](../RiskHealth/PBN__RiskHealth_2)
+* [subramanian_role_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_226.md)
 

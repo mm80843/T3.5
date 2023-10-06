@@ -1,18 +1,20 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Long-term protection__ (PBN__Benef_597)
 
 ## Property: has_BenefDetails
 
 Reduction in cases and severity of COVID-19
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Asset value increase from improved public health and safety](../BenefReturn/PBN__BenefReturn_647)
+* [wu_current_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_118.md)
 
 ## Property: has_Beneficiary
 
-* [general public](../Stakeholder/PBN__Stakeholder_29)
+* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [wu_current_2021](../Article/PBN__Article_118)
+* [Asset value increase from improved public health and safety](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_647.md)
 

@@ -1,6 +1,8 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Migration of infectious particles from the isolation room into the corridor__ (PBN__Risk_2928)
 
 ## Property: has_RiskMitigation
 
-* [Partitioning to make anterooms](../Mitigation/PBN__Mitigation_1109)
+* [Partitioning to make anterooms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1109.md)
 

@@ -1,6 +1,8 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Energy supply disruption__ (PBN__Risk_3353)
 
 ## Property: has_RiskMitigation
 
-* [Access to backup energy sources](../Mitigation/PBN__Mitigation_2140)
+* [Access to backup energy sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2140.md)
 

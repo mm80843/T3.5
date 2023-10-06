@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Controlled visitor access__ (PBN__Mitigation_156)
-
-## Property: has_MitigationTechnology
-
-* [access control system](../Technology/PBN__Technology_3007)
 
 ## Property: has_MitigationSource
 
-* [asfour_housing_2022](../Article/PBN__Article_87)
+* [asfour_housing_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_87.md)
+
+## Property: has_MitigationTechnology
+
+* [access control system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3007.md)
 
 ## Property: has_MitigationPrinciple
 

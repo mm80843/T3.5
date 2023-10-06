@@ -1,8 +1,18 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) 
+
 # Article: __ligsay_challenges_2021__ (PBN__Article_95)
+
+## Property: has_ArticleYear
+
+2021
 
 ## Property: has_ArticleLLMShortSummary
 
 Climate change has led to a steady increase in global carbon dioxide emissions and a rise in global average temperature, resulting in numerous impacts on different sectors and regions. One major concern is the impact on human health, as climate change can lead to droughts, floods, storms, heat waves, and the spread of diseases. Low-income countries in Africa and Asia are expected to bear the brunt of these health impacts. Managing health risks will require resilient health systems and mitigation of climate change. Urban areas are particularly vulnerable, with urban heat islands (UHIs) exacerbating the negative effects of extreme temperatures, air pollution, and poor water quality. Urban mosquito-borne diseases are a particular concern, as the urban environment provides suitable habitats for mosquito vectors. The effects of climate change and UHIs on mosquito-borne diseases are not well understood, but urbanization is associated with increased local temperatures and the availability of mosquito breeding sites. Mitigation strategies for UHIs include vegetation, urban geometry, water bodies, shading, and energy management. However, these strategies can also affect mosquito populations and disease transmission. Coordinated efforts across multiple sectors, including water management, environmental hygiene, and housing improvements, are needed to tackle urban mosquito-borne diseases in the context of UHIs and climate change. Multi-sectoral collaboration is crucial for developing resilient strategies to protect public health in cities.
+
+## Property: has_ArticleTitle
+
+Challenges to Mitigating the Urban Health Burden of Mosquito-Borne Diseases in the Face of Climate Change
 
 ## Property: has_ArticleLLMSummary
 
@@ -11,12 +21,4 @@ Global warming is causing the Earth to get hotter, and it's making a lot of bad 
 ## Property: has_ArticleDOI
 
 10.3390/ijerph18095035
-
-## Property: has_ArticleTitle
-
-Challenges to Mitigating the Urban Health Burden of Mosquito-Borne Diseases in the Face of Climate Change
-
-## Property: has_ArticleYear
-
-2021
 

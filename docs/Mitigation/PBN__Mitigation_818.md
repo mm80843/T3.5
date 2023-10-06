@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Mask wearing__ (PBN__Mitigation_818)
-
-## Property: has_MitigationTechnology
-
-* [masks](../Technology/PBN__Technology_1053)
 
 ## Property: has_MitigationSource
 
-* [ho_assessing_2004](../Article/PBN__Article_180)
+* [ho_assessing_2004](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_180.md)
+
+## Property: has_MitigationTechnology
+
+* [masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1053.md)
 
 ## Property: has_MitigationPrinciple
 

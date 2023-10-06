@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Efficient home organization__ (PBN__Mitigation_2169)
-
-## Property: has_MitigationTechnology
-
-* [smart storage solutions](../Technology/PBN__Technology_1006)
 
 ## Property: has_MitigationSource
 
-* [tokazhanov_how_2020](../Article/PBN__Article_67)
+* [tokazhanov_how_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_67.md)
+
+## Property: has_MitigationTechnology
+
+* [smart storage solutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1006.md)
 
 ## Property: has_MitigationPrinciple
 

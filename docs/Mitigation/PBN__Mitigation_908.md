@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Regulatory adaptation__ (PBN__Mitigation_908)
-
-## Property: has_MitigationTechnology
-
-* [compliance with regulatory changes](../Technology/PBN__Technology_3533)
 
 ## Property: has_MitigationSource
 
-* [jallow_impact_2020](../Article/PBN__Article_141)
+* [jallow_impact_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_141.md)
+
+## Property: has_MitigationTechnology
+
+* [compliance with regulatory changes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3533.md)
 
 ## Property: has_MitigationPrinciple
 

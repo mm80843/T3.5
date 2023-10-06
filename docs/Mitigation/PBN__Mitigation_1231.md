@@ -1,14 +1,16 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Digital revolution in water management__ (PBN__Mitigation_1231)
-
-## Property: has_MitigationTechnology
-
-* [artificial intelligence](../Technology/PBN__Technology_358)
-* [iot](../Technology/PBN__Technology_277)
-* [big data analytics](../Technology/PBN__Technology_2938)
 
 ## Property: has_MitigationSource
 
-* [matheri_water_2023](../Article/PBN__Article_162)
+* [matheri_water_2023](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_162.md)
+
+## Property: has_MitigationTechnology
+
+* [artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_358.md)
+* [iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_277.md)
+* [big data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2938.md)
 
 ## Property: has_MitigationPrinciple
 

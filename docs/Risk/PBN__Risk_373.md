@@ -1,58 +1,60 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Exaggerated information__ (PBN__Risk_373)
-
-## Property: has_RiskISO_Impact
-
-* [Health and care](../RiskISO/PBN__RiskISO_Purpose_0)
-
-## Property: has_RiskTechnology
-
-* [fact-checking tools](../Technology/PBN__Technology_7)
-* [data transparency](../Technology/PBN__Technology_801)
-
-## Property: has_RiskSubject
-
-* [general public](../Stakeholder/PBN__Stakeholder_29)
-* [policymakers](../Stakeholder/PBN__Stakeholder_126)
-
-## Property: has_RiskType
-
-* [technological](../RiskType/PBN__RiskType_5)
-* [social](../RiskType/PBN__RiskType_2)
-* [economic](../RiskType/PBN__RiskType_3)
-* [legal](../RiskType/PBN__RiskType_6)
-
-## Property: has_RiskISO_Purpose
-
-* [Well-being](../RiskISO/PBN__RiskISO_Impact_1)
-
-## Property: has_RiskOwner
-
-* [media](../Stakeholder/PBN__Stakeholder_231)
-* [government bodies](../Stakeholder/PBN__Stakeholder_976)
-
-## Property: has_RiskMitigation
-
-* [Fact-checking](../RiskMitigation/PBN__RiskMitigation_506)
-* [Verify sources and rely on accurate, evidence-based information](../RiskMitigation/PBN__RiskMitigation_2044)
-* [Sensationalism](../Mitigation/PBN__Mitigation_875)
 
 ## Property: has_RiskName
 
 Misallocation of resources, panic shopping
 
+## Property: has_RiskISO_Impact
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+
+## Property: has_RiskOwner
+
+* [media](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_231.md)
+* [government bodies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_976.md)
+
+## Property: has_RiskTechnology
+
+* [fact-checking tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_7.md)
+* [data transparency](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_801.md)
+
+## Property: has_RiskSubject
+
+* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
+* [policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_126.md)
+
+## Property: has_RiskMitigation
+
+* [Fact-checking](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_506.md)
+* [Verify sources and rely on accurate, evidence-based information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2044.md)
+* [Sensationalism](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_875.md)
+
 ## Property: has_RiskDescription
 
 Exaggerated information can lead to inappropriate actions and fuel conspiracy theories, causing harm
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [ioannidis_coronavirus_2020](../Article/PBN__Article_101)
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Property: has_RiskType
+
+* [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
+* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
+* [economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_3.md)
+* [legal](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_6.md)
 
 ## Property: has_RiskGBN
 
-* [No](../RiskGBN/PBN__RiskGBN_0)
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [physical](../RiskHealth/PBN__RiskHealth_0)
+* [ioannidis_coronavirus_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_101.md)
 

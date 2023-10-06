@@ -1,18 +1,20 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Protection for workers__ (PBN__Benef_492)
 
 ## Property: has_BenefDetails
 
 Providing appropriate PPE, such as gowns, masks, shields, and gloves, reduces the risk of infection for workers and contributes to overall workplace safety.
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Private investors would benefit from investing in the provision of PPE as it would protect the health and safety of workers, comply with occupational health and safety regulations, and mitigate potential legal and financial liabilities.](../BenefReturn/PBN__BenefReturn_535)
+* [fawzy_covid-19_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_100.md)
 
 ## Property: has_Beneficiary
 
-* [workers](../Stakeholder/PBN__Stakeholder_128)
+* [workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_128.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [fawzy_covid-19_2021](../Article/PBN__Article_100)
+* [Private investors would benefit from investing in the provision of PPE as it would protect the health and safety of workers, comply with occupational health and safety regulations, and mitigate potential legal and financial liabilities.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_535.md)
 

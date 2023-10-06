@@ -1,8 +1,18 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) 
+
 # Article: __twohig-bennett_health_2018__ (PBN__Article_50)
+
+## Property: has_ArticleYear
+
+2018
 
 ## Property: has_ArticleLLMShortSummary
 
 This systematic review and meta-analysis examined the association between greenspace exposure and a wide range of health outcomes. The review included 143 studies from various countries, with a combined population size of over 290 million. The meta-analyses found statistically significant associations between greenspace exposure and reduced diastolic blood pressure, heart rate, salivary cortisol, incidence of type II diabetes and stroke, all-cause and cardiovascular mortality, as well as improved pregnancy outcomes, heart rate variability, HDL cholesterol, and self-reported health. However, there was high heterogeneity across studies for some outcomes, indicating the need for caution in interpreting the results. Other non-pooled health outcomes, such as cancer outcomes, respiratory mortality, sleep duration, and various biomarkers, also showed salutogenic associations with greenspace exposure. The review highlighted the need for further research on the underlying mechanisms of the greenspace-health relationship and the impact of greenspace on mental health and communicable diseases. Overall, the findings suggest that greenspace is beneficial for a wide range of health outcomes and should be considered as part of efforts to improve population health.
+
+## Property: has_ArticleTitle
+
+The health benefits of the great outdoors: A systematic review and meta-analysis of greenspace exposure and health outcomes
 
 ## Property: has_ArticleLLMSummary
 
@@ -11,12 +21,4 @@ This text is about how greenspaces, like parks and open areas with trees and nat
 ## Property: has_ArticleDOI
 
 10.1016/j.envres.2018.06.030
-
-## Property: has_ArticleTitle
-
-The health benefits of the great outdoors: A systematic review and meta-analysis of greenspace exposure and health outcomes
-
-## Property: has_ArticleYear
-
-2018
 

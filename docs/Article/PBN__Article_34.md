@@ -1,8 +1,18 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) 
+
 # Article: __rassia_how_2020__ (PBN__Article_34)
+
+## Property: has_ArticleYear
+
+2020
 
 ## Property: has_ArticleLLMShortSummary
 
 This research abstract explores the concept of designing units for living that prioritize the safety and well-being of occupants, both physically and mentally. It discusses the challenges of modern architecture and the emphasis on artificial intelligence and machine learning as solutions, noting that these approaches can often neglect the importance of nature. The abstract highlights the historical manipulation of nature for aesthetic purposes and the resulting loss of green spaces in urban environments. It argues that humans are outdoor creatures and that artificial environmental conditions can lead to chronic diseases and unhealthy lifestyles. The abstract suggests that building design should prioritize elements such as natural light, ventilation, and connections to nature in order to create a sense of safety and calmness. It proposes integrating nature into living spaces through features like small house gardening. Ultimately, the abstract calls for a more human-centric approach to architecture that considers the physical and emotional needs of occupants, particularly in times of crisis.
+
+## Property: has_ArticleTitle
+
+How Architecture Fails in Conditions of Crisis: a Discussion on the Value of Interior Design over the COVID-19 Outbreak
 
 ## Property: has_ArticleLLMSummary
 
@@ -11,12 +21,4 @@ Architects have been designing buildings for people to live in for a long time. 
 ## Property: has_ArticleDOI
 
 10.1007/s43069-020-0014-9
-
-## Property: has_ArticleTitle
-
-How Architecture Fails in Conditions of Crisis: a Discussion on the Value of Interior Design over the COVID-19 Outbreak
-
-## Property: has_ArticleYear
-
-2020
 

@@ -1,19 +1,21 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Indoor air quality__ (PBN__Benef_525)
 
 ## Property: has_BenefDetails
 
 Improved ventilation systems in buildings contribute to better indoor air quality, reducing the risk of airborne transmission of contagious diseases.
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Implementing improved ventilation systems can enhance the overall health and well-being of employees and customers, resulting in increased productivity and customer satisfaction.](../BenefReturn/PBN__BenefReturn_576)
+* [restrepo_betancur_impacto_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_108.md)
 
 ## Property: has_Beneficiary
 
-* [employees](../Stakeholder/PBN__Stakeholder_220)
-* [customers](../Stakeholder/PBN__Stakeholder_221)
+* [employees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_220.md)
+* [customers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_221.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [restrepo_betancur_impacto_2021](../Article/PBN__Article_108)
+* [Implementing improved ventilation systems can enhance the overall health and well-being of employees and customers, resulting in increased productivity and customer satisfaction.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_576.md)
 

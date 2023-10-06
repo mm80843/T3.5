@@ -1,93 +1,95 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Privacy concerns__ (PBN__Risk_47)
-
-## Property: has_RiskISO_Impact
-
-* [Health and care](../RiskISO/PBN__RiskISO_Purpose_0)
-
-## Property: has_RiskTechnology
-
-* [encryption](../Technology/PBN__Technology_97)
-* [anonymity](../Technology/PBN__Technology_98)
-* [biometrics](../Technology/PBN__Technology_99)
-* [blockchain technology](../Technology/PBN__Technology_211)
-* [encryption algorithms](../Technology/PBN__Technology_317)
-* [blockchain](../Technology/PBN__Technology_94)
-* [encryption techniques](../Technology/PBN__Technology_821)
-* [data anonymization](../Technology/PBN__Technology_822)
-* [access control systems](../Technology/PBN__Technology_164)
-
-## Property: has_RiskSubject
-
-* [citizens](../Stakeholder/PBN__Stakeholder_54)
-* [residents](../Stakeholder/PBN__Stakeholder_59)
-* [wearable device users](../Stakeholder/PBN__Stakeholder_641)
-* [healthcare providers](../Stakeholder/PBN__Stakeholder_121)
-* [users of iot devices and mobile apps](../Stakeholder/PBN__Stakeholder_1430)
-
-## Property: has_RiskType
-
-* [legal](../RiskType/PBN__RiskType_6)
-
-## Property: has_RiskISO_Purpose
-
-* [Resilience](../RiskISO/PBN__RiskISO_Impact_2)
-
-## Property: has_RiskOwner
-
-* [government](../Stakeholder/PBN__Stakeholder_73)
-* [private entities](../Stakeholder/PBN__Stakeholder_56)
-* [wearable device manufacturers](../Stakeholder/PBN__Stakeholder_744)
-* [healthcare providers](../Stakeholder/PBN__Stakeholder_121)
-* [regulatory bodies](../Stakeholder/PBN__Stakeholder_708)
-* [local governments](../Stakeholder/PBN__Stakeholder_568)
-* [data scientists](../Stakeholder/PBN__Stakeholder_627)
-* [developers](../Stakeholder/PBN__Stakeholder_637)
-* [data handlers](../Stakeholder/PBN__Stakeholder_1431)
-
-## Property: has_RiskMitigation
-
-* [Encryption and anonymity](../RiskMitigation/PBN__RiskMitigation_64)
-* [Implement encryption, anonymity, and biometrics, establish clear data control policies](../RiskMitigation/PBN__RiskMitigation_1513)
-* [Strong data encryption, secure data storage, consent-based data sharing.](../RiskMitigation/PBN__RiskMitigation_1683)
-* [Implement data protection and privacy regulations, ensure transparency and consent in data collection and usage](../RiskMitigation/PBN__RiskMitigation_2062)
-* [Implement strong data protection measures, obtain consent, and ensure data anonymity.](../RiskMitigation/PBN__RiskMitigation_2779)
-* [Video surveillance](../Mitigation/PBN__Mitigation_104)
-* [Digital contact tracing](../Mitigation/PBN__Mitigation_148)
-* [Analysis of Root Causes](../Mitigation/PBN__Mitigation_921)
-* [Contact Tracing](../Mitigation/PBN__Mitigation_1377)
-* [Aarogya Setu app](../Mitigation/PBN__Mitigation_1698)
-* [COVIDsafe app](../Mitigation/PBN__Mitigation_1702)
-* [Contact tracing](../Mitigation/PBN__Mitigation_250)
-* [Mass video surveillance](../Mitigation/PBN__Mitigation_1908)
-* [Mass surveillance](../Mitigation/PBN__Mitigation_1973)
-* [Tracking and contact tracing apps](../Mitigation/PBN__Mitigation_1974)
-* [Mobile phone tracking for contact tracing](../Mitigation/PBN__Mitigation_2343)
-* [Optimizing transport based on demand](../Mitigation/PBN__Mitigation_2344)
-* [Crime reduction through mobile phone identification](../Mitigation/PBN__Mitigation_2345)
-* [Correlating health issues with movement patterns](../Mitigation/PBN__Mitigation_2346)
-* [Monitoring people movement during events](../Mitigation/PBN__Mitigation_2347)
-* [Name-and-shame or prosecute anti-social activities](../Mitigation/PBN__Mitigation_2356)
 
 ## Property: has_RiskName
 
 Loss of privacy and potential misuse of personal information.
 
+## Property: has_RiskISO_Impact
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
+## Property: has_RiskOwner
+
+* [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
+* [private entities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_56.md)
+* [wearable device manufacturers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_744.md)
+* [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
+* [regulatory bodies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_708.md)
+* [local governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_568.md)
+* [data scientists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_627.md)
+* [developers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_637.md)
+* [data handlers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1431.md)
+
+## Property: has_RiskTechnology
+
+* [encryption](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_97.md)
+* [anonymity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_98.md)
+* [biometrics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_99.md)
+* [blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_211.md)
+* [encryption algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_317.md)
+* [blockchain](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_94.md)
+* [encryption techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_821.md)
+* [data anonymization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_822.md)
+* [access control systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_164.md)
+
+## Property: has_RiskSubject
+
+* [citizens](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_54.md)
+* [residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
+* [wearable device users](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_641.md)
+* [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
+* [users of iot devices and mobile apps](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1430.md)
+
+## Property: has_RiskMitigation
+
+* [Encryption and anonymity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_64.md)
+* [Implement encryption, anonymity, and biometrics, establish clear data control policies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1513.md)
+* [Strong data encryption, secure data storage, consent-based data sharing.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1683.md)
+* [Implement data protection and privacy regulations, ensure transparency and consent in data collection and usage](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2062.md)
+* [Implement strong data protection measures, obtain consent, and ensure data anonymity.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2779.md)
+* [Video surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_104.md)
+* [Digital contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_148.md)
+* [Analysis of Root Causes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_921.md)
+* [Contact Tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1377.md)
+* [Aarogya Setu app](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1698.md)
+* [COVIDsafe app](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1702.md)
+* [Contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_250.md)
+* [Mass video surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1908.md)
+* [Mass surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1973.md)
+* [Tracking and contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1974.md)
+* [Mobile phone tracking for contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2343.md)
+* [Optimizing transport based on demand](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2344.md)
+* [Crime reduction through mobile phone identification](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2345.md)
+* [Correlating health issues with movement patterns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2346.md)
+* [Monitoring people movement during events](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2347.md)
+* [Name-and-shame or prosecute anti-social activities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2356.md)
+
 ## Property: has_RiskDescription
 
 Data collected from IoT devices and mobile apps may infringe on individuals' privacy.
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [allam_emergence_2019](../Article/PBN__Article_15)
-* [burki_wearable_2022](../Article/PBN__Article_195)
-* [james_smart_2020](../Article/PBN__Article_164)
-* [subramanian_role_2021](../Article/PBN__Article_226)
+* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
+
+## Property: has_RiskType
+
+* [legal](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_6.md)
 
 ## Property: has_RiskGBN
 
-* [No](../RiskGBN/PBN__RiskGBN_0)
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [other](../RiskHealth/PBN__RiskHealth_2)
+* [allam_emergence_2019](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_15.md)
+* [burki_wearable_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_195.md)
+* [james_smart_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_164.md)
+* [subramanian_role_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_226.md)
 

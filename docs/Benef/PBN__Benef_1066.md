@@ -1,18 +1,20 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Financial stability and poverty reduction__ (PBN__Benef_1066)
 
 ## Property: has_BenefDetails
 
 Access to financial resources and reduced risk of food insecurity
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Improved financial well-being, reduced risk of undernutrition](../BenefReturn/PBN__BenefReturn_1191)
+* [akseer_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_222.md)
 
 ## Property: has_Beneficiary
 
-* [vulnerable households](../Stakeholder/PBN__Stakeholder_254)
+* [vulnerable households](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_254.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [akseer_covid-19_2020](../Article/PBN__Article_222)
+* [Improved financial well-being, reduced risk of undernutrition](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1191.md)
 

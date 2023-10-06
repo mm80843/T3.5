@@ -1,55 +1,57 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Inequitable access to healthcare__ (PBN__Risk_1317)
-
-## Property: has_RiskISO_Impact
-
-* [Health and care](../RiskISO/PBN__RiskISO_Purpose_0)
-
-## Property: has_RiskTechnology
-
-* [telemedicine](../Technology/PBN__Technology_73)
-* [mobile health clinics](../Technology/PBN__Technology_477)
-* [community health workers](../Technology/PBN__Technology_478)
-
-## Property: has_RiskSubject
-
-* [marginalized populations](../Stakeholder/PBN__Stakeholder_275)
-* [vulnerable populations](../Stakeholder/PBN__Stakeholder_127)
-
-## Property: has_RiskType
-
-* [social](../RiskType/PBN__RiskType_2)
-
-## Property: has_RiskISO_Purpose
-
-* [Governance, empowerment and engagement](../RiskISO/PBN__RiskISO_Impact_17)
-
-## Property: has_RiskOwner
-
-* [government](../Stakeholder/PBN__Stakeholder_73)
-* [healthcare organizations](../Stakeholder/PBN__Stakeholder_216)
-* [social welfare organizations](../Stakeholder/PBN__Stakeholder_833)
-
-## Property: has_RiskMitigation
-
-* [Improving healthcare access and affordability, addressing systemic inequities in healthcare.](../RiskMitigation/PBN__RiskMitigation_1806)
 
 ## Property: has_RiskName
 
 Higher infection rates, disproportionate mortality rates, increased health disparities.
 
+## Property: has_RiskISO_Impact
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Governance, empowerment and engagement](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_17.md)
+
+## Property: has_RiskOwner
+
+* [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
+* [healthcare organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_216.md)
+* [social welfare organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_833.md)
+
+## Property: has_RiskTechnology
+
+* [telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_73.md)
+* [mobile health clinics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_477.md)
+* [community health workers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_478.md)
+
+## Property: has_RiskSubject
+
+* [marginalized populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_275.md)
+* [vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_127.md)
+
+## Property: has_RiskMitigation
+
+* [Improving healthcare access and affordability, addressing systemic inequities in healthcare.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1806.md)
+
 ## Property: has_RiskDescription
 
 Unequal access to healthcare services exacerbates the impact of epidemics on marginalized populations.
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [davis_epidemics_2022](../Article/PBN__Article_152)
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Property: has_RiskType
+
+* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
 
 ## Property: has_RiskGBN
 
-* [Yes](../RiskGBN/PBN__RiskGBN_1)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [physical](../RiskHealth/PBN__RiskHealth_0)
+* [davis_epidemics_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_152.md)
 

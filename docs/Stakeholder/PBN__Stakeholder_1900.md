@@ -1,15 +1,17 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) 
+
 # Stakeholder: __apartment resident__ (PBN__Stakeholder_1900)
-
-## Property: has_StakeholderGroup
-
-* [Private Sector](../StakeholderGroup/PBN__StakeholderGroup_5)
-* [Housing And Property](../StakeholderGroup/PBN__StakeholderGroup_10)
-
-## Property: has_StakeholderID
-
-* [Q188507](../Qid/Q188507)
 
 ## Property: has_StakeholderSubgroup
 
-* [Tenants](../StakeholderSubgroup/PBN__StakeholderSubgroup_65)
+* [Tenants](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_65.md)
+
+## Property: has_StakeholderGroup
+
+* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
+* [Housing And Property](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_10.md)
+
+## Property: has_StakeholderID
+
+* [Q188507](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q188507.md)
 

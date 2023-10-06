@@ -1,53 +1,55 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Sample bias in wearable device studies__ (PBN__Risk_1111)
-
-## Property: has_RiskISO_Impact
-
-* [Innovation, Creativity and research](../RiskISO/PBN__RiskISO_Purpose_2)
-
-## Property: has_RiskTechnology
-
-* [outreach programs](../Technology/PBN__Technology_174)
-* [subsidized access to wearable devices](../Technology/PBN__Technology_175)
-
-## Property: has_RiskSubject
-
-* [older people](../Stakeholder/PBN__Stakeholder_107)
-* [low-income populations](../Stakeholder/PBN__Stakeholder_110)
-
-## Property: has_RiskType
-
-* [social](../RiskType/PBN__RiskType_2)
-
-## Property: has_RiskISO_Purpose
-
-* [Innovation, Creativity and research](../RiskISO/PBN__RiskISO_Impact_8)
-
-## Property: has_RiskOwner
-
-* [research institutions](../Stakeholder/PBN__Stakeholder_413)
-* [public health organizations](../Stakeholder/PBN__Stakeholder_173)
-
-## Property: has_RiskMitigation
-
-* [Ensure inclusivity and diversity in participant recruitment for wearable device studies](../RiskMitigation/PBN__RiskMitigation_1559)
 
 ## Property: has_RiskName
 
 Inaccurate representation of the population and limited applicability of findings
 
+## Property: has_RiskISO_Impact
+
+* [Innovation, Creativity and research](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_2.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Innovation, Creativity and research](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_8.md)
+
+## Property: has_RiskOwner
+
+* [research institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_413.md)
+* [public health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_173.md)
+
+## Property: has_RiskTechnology
+
+* [outreach programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_174.md)
+* [subsidized access to wearable devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_175.md)
+
+## Property: has_RiskSubject
+
+* [older people](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_107.md)
+* [low-income populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_110.md)
+
+## Property: has_RiskMitigation
+
+* [Ensure inclusivity and diversity in participant recruitment for wearable device studies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1559.md)
+
 ## Property: has_RiskDescription
 
 Exclusion of older people and low-income populations who do not typically own or have access to wearable devices
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [ates_wearable_2021](../Article/PBN__Article_296)
+* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_4.md)
+
+## Property: has_RiskType
+
+* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
 
 ## Property: has_RiskGBN
 
-* [No](../RiskGBN/PBN__RiskGBN_0)
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [social](../RiskHealth/PBN__RiskHealth_4)
+* [ates_wearable_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_296.md)
 

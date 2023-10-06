@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Universal access to critical infrastructures__ (PBN__Mitigation_2055)
-
-## Property: has_MitigationTechnology
-
-* [infrastructure development](../Technology/PBN__Technology_76)
-* [healthcare systems](../Technology/PBN__Technology_3384)
 
 ## Property: has_MitigationSource
 
-* [syal_learning_2021](../Article/PBN__Article_137)
+* [syal_learning_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_137.md)
+
+## Property: has_MitigationTechnology
+
+* [infrastructure development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_76.md)
+* [healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3384.md)
 
 ## Property: has_MitigationPrinciple
 

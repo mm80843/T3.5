@@ -1,12 +1,22 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) 
+
 # Article: __ning_impacts_2020__ (PBN__Article_74)
+
+## Property: has_ArticleYear
+
+2020
+
+## Property: has_ArticleRef
+
+* [ferguson_report_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_80.md)
 
 ## Property: has_ArticleLLMShortSummary
 
 This study aimed to assess the protective behaviors adopted by citizens in China during the middle of the COVID-19 outbreak and explore the determinants of these behaviors. A cross-sectional questionnaire survey was conducted from January to February 2020. The survey measured knowledge, risk perception, negative emotion, official communication, and protective behaviors related to COVID-19. It also collected sociodemographic data. A total of 2,845 participants completed the questionnaire. The results showed that the adoption level of protective behaviors was high, with 71% of participants embracing these behaviors. Knowledge and perceived severity of the outbreak were significant predictors of protective behaviors. Negative emotion and attention to and trust in official governmental media were also associated with higher levels of protective behaviors. Women, older individuals, and those in good health were more likely to adopt protective measures. The findings suggest that effective communication from government sources is critical in shaping public behavior during a pandemic.
 
-## Property: has_ArticleRef
+## Property: has_ArticleTitle
 
-* [ferguson_report_2020](../Article/PBN__Article_80)
+The impacts of knowledge, risk perception, emotion and information on citizens’ protective behaviors during the outbreak of COVID-19: a cross-sectional study in China
 
 ## Property: has_ArticleLLMSummary
 
@@ -15,12 +25,4 @@ This text is about how people in China are responding to the COVID-19 pandemic. 
 ## Property: has_ArticleDOI
 
 10.1186/s12889-020-09892-y
-
-## Property: has_ArticleTitle
-
-The impacts of knowledge, risk perception, emotion and information on citizens’ protective behaviors during the outbreak of COVID-19: a cross-sectional study in China
-
-## Property: has_ArticleYear
-
-2020
 

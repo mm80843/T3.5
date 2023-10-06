@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Strengthening revenue generation from tourism__ (PBN__Mitigation_491)
-
-## Property: has_MitigationTechnology
-
-* [tourism revenue](../Technology/PBN__Technology_3259)
 
 ## Property: has_MitigationSource
 
-* [cumming_building_2021](../Article/PBN__Article_33)
+* [cumming_building_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_33.md)
+
+## Property: has_MitigationTechnology
+
+* [tourism revenue](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3259.md)
 
 ## Property: has_MitigationPrinciple
 

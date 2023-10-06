@@ -1,15 +1,17 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Self-isolation__ (PBN__Mitigation_439)
-
-## Property: has_MitigationTechnology
-
-* [nan](../Technology/PBN__Technology_22)
 
 ## Property: has_MitigationSource
 
-* [chtourou_staying_2020](../Article/PBN__Article_181)
-* [corley_home_2021](../Article/PBN__Article_244)
-* [mehtab_alam_role_2021](../Article/PBN__Article_267)
-* [rogers_city_2020](../Article/PBN__Article_7)
+* [chtourou_staying_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_181.md)
+* [corley_home_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_244.md)
+* [mehtab_alam_role_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_267.md)
+* [rogers_city_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_7.md)
+
+## Property: has_MitigationTechnology
+
+* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 
 ## Property: has_MitigationPrinciple
 

@@ -1,18 +1,20 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Greater community building__ (PBN__Benef_422)
 
 ## Property: has_BenefDetails
 
 Supporting mutual aid groups and initiatives can lead to increased community building and social cohesion, enhancing resilience and support for vulnerable groups during public-health emergencies.
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Private investors in community building initiatives can benefit from improved social stability and reduced social inequality, potentially leading to improved asset values and financial returns.](../BenefReturn/PBN__BenefReturn_453)
+* [acuto_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_85.md)
 
 ## Property: has_Beneficiary
 
-* [vulnerable groups](../Stakeholder/PBN__Stakeholder_115)
+* [vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_115.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [acuto_covid-19_2020](../Article/PBN__Article_85)
+* [Private investors in community building initiatives can benefit from improved social stability and reduced social inequality, potentially leading to improved asset values and financial returns.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_453.md)
 

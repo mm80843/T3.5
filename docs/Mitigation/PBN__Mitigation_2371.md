@@ -1,14 +1,16 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Data dashboards__ (PBN__Mitigation_2371)
-
-## Property: has_MitigationTechnology
-
-* [upcode](../Technology/PBN__Technology_4438)
-* [johns hopkins university coronavirus dashboard](../Technology/PBN__Technology_4439)
-* [healthmap](../Technology/PBN__Technology_4440)
 
 ## Property: has_MitigationSource
 
-* [whitelaw_applications_2020](../Article/PBN__Article_127)
+* [whitelaw_applications_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_127.md)
+
+## Property: has_MitigationTechnology
+
+* [upcode](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4438.md)
+* [johns hopkins university coronavirus dashboard](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4439.md)
+* [healthmap](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4440.md)
 
 ## Property: has_MitigationPrinciple
 

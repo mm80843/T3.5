@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Implementing new regulations and technologies for tracking and surveillance in public spaces__ (PBN__Mitigation_792)
-
-## Property: has_MitigationTechnology
-
-* [surveillance technologies](../Technology/PBN__Technology_1263)
-* [tracking technology](../Technology/PBN__Technology_1722)
 
 ## Property: has_MitigationSource
 
-* [honey-roses_impact_2020](../Article/PBN__Article_261)
+* [honey-roses_impact_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_261.md)
+
+## Property: has_MitigationTechnology
+
+* [surveillance technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1263.md)
+* [tracking technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1722.md)
 
 ## Property: has_MitigationPrinciple
 

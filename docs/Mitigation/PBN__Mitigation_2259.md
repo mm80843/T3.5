@@ -1,14 +1,16 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Rethinking global trade and supply chains__ (PBN__Mitigation_2259)
-
-## Property: has_MitigationTechnology
-
-* [diversification](../Technology/PBN__Technology_4373)
-* [localization](../Technology/PBN__Technology_4374)
-* [3d printing](../Technology/PBN__Technology_133)
 
 ## Property: has_MitigationSource
 
-* [van_barneveld_covid-19_2020](../Article/PBN__Article_124)
+* [van_barneveld_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_124.md)
+
+## Property: has_MitigationTechnology
+
+* [diversification](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4373.md)
+* [localization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4374.md)
+* [3d printing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_133.md)
 
 ## Property: has_MitigationPrinciple
 

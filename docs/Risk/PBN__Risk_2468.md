@@ -1,7 +1,9 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Lack of expertise__ (PBN__Risk_2468)
 
 ## Property: has_RiskMitigation
 
-* [Integrated healthcare environment](../Mitigation/PBN__Mitigation_155)
-* [Expert System](../Mitigation/PBN__Mitigation_1370)
+* [Integrated healthcare environment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_155.md)
+* [Expert System](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1370.md)
 

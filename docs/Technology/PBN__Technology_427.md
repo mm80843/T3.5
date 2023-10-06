@@ -1,6 +1,8 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) 
+
 # Technology: __online community forums__ (PBN__Technology_427)
 
 ## Property: has_TechnologyID
 
-* [Q168210](../Qid/Q168210)
+* [Q168210](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q168210.md)
 

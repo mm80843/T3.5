@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Medical Technological Development__ (PBN__Mitigation_949)
-
-## Property: has_MitigationTechnology
-
-* [testing technologies](../Technology/PBN__Technology_37)
-* [contact tracing](../Technology/PBN__Technology_404)
 
 ## Property: has_MitigationSource
 
-* [kaushal_strategies_2021](../Article/PBN__Article_268)
+* [kaushal_strategies_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_268.md)
+
+## Property: has_MitigationTechnology
+
+* [testing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_37.md)
+* [contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_404.md)
 
 ## Property: has_MitigationPrinciple
 

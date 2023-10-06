@@ -1,10 +1,12 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Pandemic__ (PBN__Risk_446)
 
 ## Property: has_RiskMitigation
 
-* [Mandatory lockdowns](../RiskMitigation/PBN__RiskMitigation_616)
-* [Government stimulus packages](../RiskMitigation/PBN__RiskMitigation_617)
-* [Bans on disconnection](../RiskMitigation/PBN__RiskMitigation_618)
-* [Research on sustainable solutions](../RiskMitigation/PBN__RiskMitigation_619)
-* [Increased funding for clean energy](../RiskMitigation/PBN__RiskMitigation_620)
+* [Mandatory lockdowns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_616.md)
+* [Government stimulus packages](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_617.md)
+* [Bans on disconnection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_618.md)
+* [Research on sustainable solutions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_619.md)
+* [Increased funding for clean energy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_620.md)
 

@@ -1,60 +1,62 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Lack of understanding__ (PBN__Risk_1537)
-
-## Property: has_RiskISO_Impact
-
-* [Health and care](../RiskISO/PBN__RiskISO_Purpose_0)
-
-## Property: has_RiskTechnology
-
-* [data analysis tools](../Technology/PBN__Technology_554)
-* [training programs](../Technology/PBN__Technology_82)
-* [educational programs](../Technology/PBN__Technology_839)
-* [public awareness campaigns](../Technology/PBN__Technology_102)
-
-## Property: has_RiskSubject
-
-* [decision-makers](../Stakeholder/PBN__Stakeholder_227)
-* [researchers](../Stakeholder/PBN__Stakeholder_2)
-* [general population](../Stakeholder/PBN__Stakeholder_9)
-
-## Property: has_RiskType
-
-* [social](../RiskType/PBN__RiskType_2)
-
-## Property: has_RiskISO_Purpose
-
-* [Well-being](../RiskISO/PBN__RiskISO_Impact_1)
-
-## Property: has_RiskOwner
-
-* [newcastle urban observatory](../Stakeholder/PBN__Stakeholder_991)
-* [local government](../Stakeholder/PBN__Stakeholder_307)
-* [government](../Stakeholder/PBN__Stakeholder_73)
-* [public health organizations](../Stakeholder/PBN__Stakeholder_173)
-
-## Property: has_RiskMitigation
-
-* [Provide training and support for stakeholders in data analysis and interpretation](../RiskMitigation/PBN__RiskMitigation_2066)
-* [Increase public education and knowledge dissemination through government campaigns and public health initiatives](../RiskMitigation/PBN__RiskMitigation_2403)
 
 ## Property: has_RiskName
 
 Decreased adoption of protective measures, increased risk of infection and spread
 
+## Property: has_RiskISO_Impact
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+
+## Property: has_RiskOwner
+
+* [newcastle urban observatory](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_991.md)
+* [local government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_307.md)
+* [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
+* [public health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_173.md)
+
+## Property: has_RiskTechnology
+
+* [data analysis tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_554.md)
+* [training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_82.md)
+* [educational programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_839.md)
+* [public awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_102.md)
+
+## Property: has_RiskSubject
+
+* [decision-makers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_227.md)
+* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+
+## Property: has_RiskMitigation
+
+* [Provide training and support for stakeholders in data analysis and interpretation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2066.md)
+* [Increase public education and knowledge dissemination through government campaigns and public health initiatives](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2403.md)
+
 ## Property: has_RiskDescription
 
 A lack of understanding of COVID-19 and its transmission can hinder public compliance with protective measures
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [james_smart_2020](../Article/PBN__Article_164)
-* [ning_impacts_2020](../Article/PBN__Article_74)
+* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
+
+## Property: has_RiskType
+
+* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
 
 ## Property: has_RiskGBN
 
-* [No](../RiskGBN/PBN__RiskGBN_0)
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [other](../RiskHealth/PBN__RiskHealth_2)
+* [james_smart_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_164.md)
+* [ning_impacts_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_74.md)
 

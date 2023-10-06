@@ -1,6 +1,8 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) 
+
 # Technology: __cash transfer programs__ (PBN__Technology_958)
 
 ## Property: has_TechnologyID
 
-* [Q13377609](../Qid/Q13377609)
+* [Q13377609](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q13377609.md)
 

@@ -1,6 +1,8 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Disrupted sleep__ (PBN__Risk_3151)
 
 ## Property: has_RiskMitigation
 
-* [Circadian regulation: bedrooms designed for sleep](../Mitigation/PBN__Mitigation_1596)
+* [Circadian regulation: bedrooms designed for sleep](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1596.md)
 

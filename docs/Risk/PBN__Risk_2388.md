@@ -1,54 +1,56 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Reduction of environmental noise level__ (PBN__Risk_2388)
-
-## Property: has_RiskISO_Impact
-
-* [Biodiversity and ecosystem services](../RiskISO/PBN__RiskISO_Purpose_4)
-
-## Property: has_RiskTechnology
-
-* [noise reduction technologies](../Technology/PBN__Technology_2002)
-* [urban planning strategies](../Technology/PBN__Technology_49)
-
-## Property: has_RiskSubject
-
-* [urban residents](../Stakeholder/PBN__Stakeholder_209)
-* [especially those living in noisy areas](../Stakeholder/PBN__Stakeholder_1587)
-
-## Property: has_RiskType
-
-* [environmental](../RiskType/PBN__RiskType_0)
-
-## Property: has_RiskISO_Purpose
-
-* [Preservation and improvement of the environment](../RiskISO/PBN__RiskISO_Impact_6)
-
-## Property: has_RiskOwner
-
-* [government](../Stakeholder/PBN__Stakeholder_73)
-* [urban planners](../Stakeholder/PBN__Stakeholder_125)
-* [transportation sector](../Stakeholder/PBN__Stakeholder_1588)
-
-## Property: has_RiskMitigation
-
-* [Continue promoting remote work and sustainable transportation options.](../RiskMitigation/PBN__RiskMitigation_3098)
 
 ## Property: has_RiskName
 
 Improved health and well-being, better sleep quality, and reduced stress levels.
 
+## Property: has_RiskISO_Impact
+
+* [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_4.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Preservation and improvement of the environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_6.md)
+
+## Property: has_RiskOwner
+
+* [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
+* [urban planners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_125.md)
+* [transportation sector](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1588.md)
+
+## Property: has_RiskTechnology
+
+* [noise reduction technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2002.md)
+* [urban planning strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_49.md)
+
+## Property: has_RiskSubject
+
+* [urban residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_209.md)
+* [especially those living in noisy areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1587.md)
+
+## Property: has_RiskMitigation
+
+* [Continue promoting remote work and sustainable transportation options.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3098.md)
+
 ## Property: has_RiskDescription
 
 Decreased noise levels in cities due to reduced transportation and commercial activities.
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [zambrano-monserrate_indirect_2020](../Article/PBN__Article_238)
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Property: has_RiskType
+
+* [environmental](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_0.md)
 
 ## Property: has_RiskGBN
 
-* [Yes](../RiskGBN/PBN__RiskGBN_1)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [physical](../RiskHealth/PBN__RiskHealth_0)
+* [zambrano-monserrate_indirect_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_238.md)
 

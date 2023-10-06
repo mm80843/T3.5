@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Shareable data formats__ (PBN__Mitigation_575)
-
-## Property: has_MitigationTechnology
-
-* [standardised data formats](../Technology/PBN__Technology_3317)
-* [github repositories](../Technology/PBN__Technology_3326)
 
 ## Property: has_MitigationSource
 
-* [dron_data_2022](../Article/PBN__Article_208)
+* [dron_data_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_208.md)
+
+## Property: has_MitigationTechnology
+
+* [standardised data formats](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3317.md)
+* [github repositories](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3326.md)
 
 ## Property: has_MitigationPrinciple
 

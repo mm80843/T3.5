@@ -1,14 +1,16 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Monitoring sewage for virus detection__ (PBN__Mitigation_1633)
-
-## Property: has_MitigationTechnology
-
-* [wastewater testing](../Technology/PBN__Technology_3686)
-* [sewage epidemiology](../Technology/PBN__Technology_3962)
-* [ai](../Technology/PBN__Technology_278)
 
 ## Property: has_MitigationSource
 
-* [poch_when_2020](../Article/PBN__Article_207)
+* [poch_when_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_207.md)
+
+## Property: has_MitigationTechnology
+
+* [wastewater testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3686.md)
+* [sewage epidemiology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3962.md)
+* [ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_278.md)
 
 ## Property: has_MitigationPrinciple
 

@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Telecommunication tools__ (PBN__Mitigation_241)
-
-## Property: has_MitigationTechnology
-
-* [telecommunication tools and web-based applications](../Technology/PBN__Technology_3083)
 
 ## Property: has_MitigationSource
 
-* [bauerle_e-mental_2020](../Article/PBN__Article_209)
+* [bauerle_e-mental_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_209.md)
+
+## Property: has_MitigationTechnology
+
+* [telecommunication tools and web-based applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3083.md)
 
 ## Property: has_MitigationPrinciple
 

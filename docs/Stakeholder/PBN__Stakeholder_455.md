@@ -1,6 +1,8 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) 
+
 # Stakeholder: __media outlets__ (PBN__Stakeholder_455)
 
 ## Property: has_StakeholderID
 
-* [Q11033](../Qid/Q11033)
+* [Q11033](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q11033.md)
 

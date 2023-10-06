@@ -1,57 +1,59 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Lack of awareness and education about intimate partner violence during the pandemic__ (PBN__Risk_1039)
-
-## Property: has_RiskISO_Impact
-
-* [Education and capacity building](../RiskISO/PBN__RiskISO_Purpose_7)
-
-## Property: has_RiskTechnology
-
-* [online campaigns](../Technology/PBN__Technology_46)
-* [social media platforms](../Technology/PBN__Technology_47)
-
-## Property: has_RiskSubject
-
-* [general population](../Stakeholder/PBN__Stakeholder_9)
-* [community members](../Stakeholder/PBN__Stakeholder_155)
-* [healthcare professionals](../Stakeholder/PBN__Stakeholder_32)
-
-## Property: has_RiskType
-
-* [social](../RiskType/PBN__RiskType_2)
-
-## Property: has_RiskISO_Purpose
-
-* [Health and care](../RiskISO/PBN__RiskISO_Impact_3)
-
-## Property: has_RiskOwner
-
-* [government](../Stakeholder/PBN__Stakeholder_73)
-* [ngos](../Stakeholder/PBN__Stakeholder_234)
-* [community organizations](../Stakeholder/PBN__Stakeholder_150)
-* [healthcare providers](../Stakeholder/PBN__Stakeholder_121)
-
-## Property: has_RiskMitigation
-
-* [Develop and implement awareness campaigns targeting the general population and key stakeholders, provide information on available resources and support services](../RiskMitigation/PBN__RiskMitigation_1472)
 
 ## Property: has_RiskName
 
 Increased likelihood of underreporting and delayed intervention for victims of intimate partner violence
 
+## Property: has_RiskISO_Impact
+
+* [Education and capacity building](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_7.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
+
+## Property: has_RiskOwner
+
+* [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
+* [ngos](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_234.md)
+* [community organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_150.md)
+* [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
+
+## Property: has_RiskTechnology
+
+* [online campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_46.md)
+* [social media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_47.md)
+
+## Property: has_RiskSubject
+
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+* [community members](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_155.md)
+* [healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_32.md)
+
+## Property: has_RiskMitigation
+
+* [Develop and implement awareness campaigns targeting the general population and key stakeholders, provide information on available resources and support services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1472.md)
+
 ## Property: has_RiskDescription
 
 Limited information and awareness campaigns about intimate partner violence in the context of the pandemic may prevent individuals from seeking help or recognizing signs of abuse
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [aguero_covid-19_2021](../Article/PBN__Article_8)
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+* [mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
+
+## Property: has_RiskType
+
+* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
 
 ## Property: has_RiskGBN
 
-* [No](../RiskGBN/PBN__RiskGBN_0)
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [physical](../RiskHealth/PBN__RiskHealth_0)
-* [mental](../RiskHealth/PBN__RiskHealth_1)
+* [aguero_covid-19_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_8.md)
 

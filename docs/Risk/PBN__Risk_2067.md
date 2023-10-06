@@ -1,56 +1,58 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Financial crisis__ (PBN__Risk_2067)
-
-## Property: has_RiskISO_Impact
-
-* [Economy and sustainable production and consumption](../RiskISO/PBN__RiskISO_Purpose_8)
-
-## Property: has_RiskTechnology
-
-* [nan](../Technology/PBN__Technology_22)
-
-## Property: has_RiskSubject
-
-* [construction companies](../Stakeholder/PBN__Stakeholder_181)
-* [construction workers](../Stakeholder/PBN__Stakeholder_197)
-
-## Property: has_RiskType
-
-* [economic](../RiskType/PBN__RiskType_3)
-
-## Property: has_RiskISO_Purpose
-
-* [Responsible resource use](../RiskISO/PBN__RiskISO_Impact_4)
-
-## Property: has_RiskOwner
-
-* [construction companies](../Stakeholder/PBN__Stakeholder_181)
-* [government](../Stakeholder/PBN__Stakeholder_73)
-
-## Property: has_RiskMitigation
-
-* [Efficient crisis management, timely warning system](../RiskMitigation/PBN__RiskMitigation_2705)
-* [Reviewing contracts and service agreements](../Mitigation/PBN__Mitigation_1903)
-* [Determining ideal projects](../Mitigation/PBN__Mitigation_1904)
-* [Adjusting schedules to avoid slowdown bottleneck](../Mitigation/PBN__Mitigation_1905)
-* [Improving office productivity and lowering overhead costs](../Mitigation/PBN__Mitigation_1906)
 
 ## Property: has_RiskName
 
 Job loss, company closures
 
+## Property: has_RiskISO_Impact
+
+* [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_8.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+
+## Property: has_RiskOwner
+
+* [construction companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_181.md)
+* [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
+
+## Property: has_RiskTechnology
+
+* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
+
+## Property: has_RiskSubject
+
+* [construction companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_181.md)
+* [construction workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_197.md)
+
+## Property: has_RiskMitigation
+
+* [Efficient crisis management, timely warning system](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2705.md)
+* [Reviewing contracts and service agreements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1903.md)
+* [Determining ideal projects](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1904.md)
+* [Adjusting schedules to avoid slowdown bottleneck](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1905.md)
+* [Improving office productivity and lowering overhead costs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1906.md)
+
 ## Property: has_RiskDescription
 
 Construction industry severely impacted by economic downturn
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [shibani_effects_2020](../Article/PBN__Article_75)
+* [economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_3.md)
+
+## Property: has_RiskType
+
+* [economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_3.md)
 
 ## Property: has_RiskGBN
 
-* [No](../RiskGBN/PBN__RiskGBN_0)
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [economic](../RiskHealth/PBN__RiskHealth_3)
+* [shibani_effects_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_75.md)
 

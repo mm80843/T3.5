@@ -1,6 +1,8 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) 
+
 # Technology: __vertical gardening systems__ (PBN__Technology_622)
 
 ## Property: has_TechnologyID
 
-* [Q2562744](../Qid/Q2562744)
+* [Q2562744](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2562744.md)
 

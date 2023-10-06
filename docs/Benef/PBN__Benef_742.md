@@ -1,19 +1,21 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Enhanced coordination and communication__ (PBN__Benef_742)
 
 ## Property: has_BenefDetails
 
 Improved coordination and communication in the supply chain can ensure the availability of essential commodities during crises
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Businesses can benefit from uninterrupted supply chain operations and increased customer satisfaction.](../BenefReturn/PBN__BenefReturn_805)
+* [allam_pandemic_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_147.md)
 
 ## Property: has_Beneficiary
 
-* [businesses](../Stakeholder/PBN__Stakeholder_147)
-* [general public](../Stakeholder/PBN__Stakeholder_29)
+* [businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_147.md)
+* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [allam_pandemic_2020](../Article/PBN__Article_147)
+* [Businesses can benefit from uninterrupted supply chain operations and increased customer satisfaction.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_805.md)
 

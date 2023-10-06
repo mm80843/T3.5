@@ -1,16 +1,18 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Use of specific medicines__ (PBN__Mitigation_1555)
-
-## Property: has_MitigationTechnology
-
-* [anti-bacterial](../Technology/PBN__Technology_3917)
-* [antimalarial](../Technology/PBN__Technology_3918)
-* [antiviral](../Technology/PBN__Technology_3919)
-* [protease inhibitors](../Technology/PBN__Technology_3920)
-* [corticosteroids](../Technology/PBN__Technology_3921)
 
 ## Property: has_MitigationSource
 
-* [paital_nurture_2020](../Article/PBN__Article_44)
+* [paital_nurture_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_44.md)
+
+## Property: has_MitigationTechnology
+
+* [anti-bacterial](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3917.md)
+* [antimalarial](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3918.md)
+* [antiviral](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3919.md)
+* [protease inhibitors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3920.md)
+* [corticosteroids](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3921.md)
 
 ## Property: has_MitigationPrinciple
 

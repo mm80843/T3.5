@@ -1,64 +1,66 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Economic crisis__ (PBN__Risk_231)
-
-## Property: has_RiskISO_Impact
-
-* [Economy and sustainable production and consumption](../RiskISO/PBN__RiskISO_Purpose_8)
-
-## Property: has_RiskTechnology
-
-* [financial technology](../Technology/PBN__Technology_1243)
-* [digital payment systems](../Technology/PBN__Technology_697)
-* [data analytics for targeted assistance](../Technology/PBN__Technology_1244)
-* [nan](../Technology/PBN__Technology_22)
-
-## Property: has_RiskSubject
-
-* [low-income workers](../Stakeholder/PBN__Stakeholder_1262)
-* [informal sector workers](../Stakeholder/PBN__Stakeholder_1263)
-* [migrants](../Stakeholder/PBN__Stakeholder_446)
-* [marginalized populations](../Stakeholder/PBN__Stakeholder_275)
-* [general population](../Stakeholder/PBN__Stakeholder_9)
-* [vulnerable groups](../Stakeholder/PBN__Stakeholder_115)
-
-## Property: has_RiskType
-
-* [economic](../RiskType/PBN__RiskType_3)
-
-## Property: has_RiskISO_Purpose
-
-* [Economy and sustainable production and consumption](../RiskISO/PBN__RiskISO_Impact_10)
-
-## Property: has_RiskOwner
-
-* [governments](../Stakeholder/PBN__Stakeholder_47)
-* [international organizations](../Stakeholder/PBN__Stakeholder_242)
-* [financial institutions](../Stakeholder/PBN__Stakeholder_405)
-
-## Property: has_RiskMitigation
-
-* [Strengthening planning mechanism](../RiskMitigation/PBN__RiskMitigation_280)
-* [Implement economic stimulus packages, provide income support schemes, ensure social safety nets, and protect vulnerable populations.](../RiskMitigation/PBN__RiskMitigation_2466)
-* [Implement social protection measures, promote economic recovery.](../RiskMitigation/PBN__RiskMitigation_2661)
 
 ## Property: has_RiskName
 
 Losses to the world economy, increase in poverty and inequality.
 
+## Property: has_RiskISO_Impact
+
+* [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_8.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_10.md)
+
+## Property: has_RiskOwner
+
+* [governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
+* [international organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_242.md)
+* [financial institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_405.md)
+
+## Property: has_RiskTechnology
+
+* [financial technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1243.md)
+* [digital payment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_697.md)
+* [data analytics for targeted assistance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1244.md)
+* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
+
+## Property: has_RiskSubject
+
+* [low-income workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1262.md)
+* [informal sector workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1263.md)
+* [migrants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_446.md)
+* [marginalized populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_275.md)
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+* [vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_115.md)
+
+## Property: has_RiskMitigation
+
+* [Strengthening planning mechanism](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_280.md)
+* [Implement economic stimulus packages, provide income support schemes, ensure social safety nets, and protect vulnerable populations.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2466.md)
+* [Implement social protection measures, promote economic recovery.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2661.md)
+
 ## Property: has_RiskDescription
 
 The global economic crisis triggered by the Covid-19 pandemic.
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [panneer_health_2022](../Article/PBN__Article_144)
-* [samout_covid-19_2020](../Article/PBN__Article_58)
+* [economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_3.md)
+* [nan](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_6.md)
+
+## Property: has_RiskType
+
+* [economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_3.md)
 
 ## Property: has_RiskGBN
 
-* [No](../RiskGBN/PBN__RiskGBN_0)
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [economic](../RiskHealth/PBN__RiskHealth_3)
-* [nan](../RiskHealth/PBN__RiskHealth_6)
+* [panneer_health_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_144.md)
+* [samout_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_58.md)
 

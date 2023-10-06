@@ -1,54 +1,56 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Reduced consumer spending__ (PBN__Risk_2172)
-
-## Property: has_RiskISO_Impact
-
-* [Innovation, Creativity and research](../RiskISO/PBN__RiskISO_Purpose_2)
-
-## Property: has_RiskTechnology
-
-* [digital marketing](../Technology/PBN__Technology_908)
-* [e-commerce platforms](../Technology/PBN__Technology_696)
-
-## Property: has_RiskSubject
-
-* [businesses](../Stakeholder/PBN__Stakeholder_147)
-* [retailers](../Stakeholder/PBN__Stakeholder_323)
-* [service providers](../Stakeholder/PBN__Stakeholder_476)
-
-## Property: has_RiskType
-
-* [social](../RiskType/PBN__RiskType_2)
-
-## Property: has_RiskISO_Purpose
-
-* [Education and capacity building](../RiskISO/PBN__RiskISO_Impact_19)
-
-## Property: has_RiskOwner
-
-* [businesses](../Stakeholder/PBN__Stakeholder_147)
-* [marketing departments](../Stakeholder/PBN__Stakeholder_1475)
-
-## Property: has_RiskMitigation
-
-* [Creating value-based marketing strategies, offering discounts or promotions, and diversifying product/service offerings to meet changing consumer needs.](../RiskMitigation/PBN__RiskMitigation_2841)
 
 ## Property: has_RiskName
 
 Decreased sales, job losses, reduced business revenue.
 
+## Property: has_RiskISO_Impact
+
+* [Innovation, Creativity and research](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_2.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Education and capacity building](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_19.md)
+
+## Property: has_RiskOwner
+
+* [businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_147.md)
+* [marketing departments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1475.md)
+
+## Property: has_RiskTechnology
+
+* [digital marketing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_908.md)
+* [e-commerce platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_696.md)
+
+## Property: has_RiskSubject
+
+* [businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_147.md)
+* [retailers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_323.md)
+* [service providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_476.md)
+
+## Property: has_RiskMitigation
+
+* [Creating value-based marketing strategies, offering discounts or promotions, and diversifying product/service offerings to meet changing consumer needs.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2841.md)
+
 ## Property: has_RiskDescription
 
 Fear of contagion, income decline, and uncertainty lead to decreased consumer spending, impacting businesses' revenue and profitability.
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [thukral_covid19_2021](../Article/PBN__Article_194)
+* [economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_3.md)
+
+## Property: has_RiskType
+
+* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
 
 ## Property: has_RiskGBN
 
-* [Yes](../RiskGBN/PBN__RiskGBN_1)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [economic](../RiskHealth/PBN__RiskHealth_3)
+* [thukral_covid19_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_194.md)
 

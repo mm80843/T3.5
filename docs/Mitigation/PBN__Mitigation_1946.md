@@ -1,16 +1,18 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Rapid deployment of new healthcare applications and services__ (PBN__Mitigation_1946)
-
-## Property: has_MitigationTechnology
-
-* [ai](../Technology/PBN__Technology_278)
-* [machine learning](../Technology/PBN__Technology_3004)
-* [sdn](../Technology/PBN__Technology_4149)
-* [nfv](../Technology/PBN__Technology_4150)
-* [mec](../Technology/PBN__Technology_1584)
 
 ## Property: has_MitigationSource
 
-* [siriwardhana_role_2021](../Article/PBN__Article_9)
+* [siriwardhana_role_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_9.md)
+
+## Property: has_MitigationTechnology
+
+* [ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_278.md)
+* [machine learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3004.md)
+* [sdn](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4149.md)
+* [nfv](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4150.md)
+* [mec](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1584.md)
 
 ## Property: has_MitigationPrinciple
 

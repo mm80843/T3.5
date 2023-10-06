@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Rowing ergometers__ (PBN__Mitigation_455)
-
-## Property: has_MitigationTechnology
-
-* [rowing machines](../Technology/PBN__Technology_3244)
-* [heart rate monitors](../Technology/PBN__Technology_3243)
 
 ## Property: has_MitigationSource
 
-* [chtourou_staying_2020](../Article/PBN__Article_181)
+* [chtourou_staying_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_181.md)
+
+## Property: has_MitigationTechnology
+
+* [rowing machines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3244.md)
+* [heart rate monitors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3243.md)
 
 ## Property: has_MitigationPrinciple
 

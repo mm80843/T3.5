@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Same Room Exposure__ (PBN__Mitigation_1749)
-
-## Property: has_MitigationTechnology
-
-* [number of building occupants](../Technology/PBN__Technology_4046)
 
 ## Property: has_MitigationSource
 
-* [ronchi_exposed_2020](../Article/PBN__Article_3)
+* [ronchi_exposed_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_3.md)
+
+## Property: has_MitigationTechnology
+
+* [number of building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4046.md)
 
 ## Property: has_MitigationPrinciple
 

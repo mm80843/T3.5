@@ -1,50 +1,52 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Lack of proper training__ (PBN__Risk_2089)
-
-## Property: has_RiskISO_Impact
-
-* [Education and capacity building](../RiskISO/PBN__RiskISO_Purpose_7)
-
-## Property: has_RiskTechnology
-
-* [virtual reality](../Technology/PBN__Technology_1233)
-
-## Property: has_RiskSubject
-
-* [medical staff](../Stakeholder/PBN__Stakeholder_93)
-
-## Property: has_RiskType
-
-* [technological](../RiskType/PBN__RiskType_5)
-
-## Property: has_RiskISO_Purpose
-
-* [Resilience](../RiskISO/PBN__RiskISO_Impact_2)
-
-## Property: has_RiskOwner
-
-* [healthcare institutions](../Stakeholder/PBN__Stakeholder_269)
-
-## Property: has_RiskMitigation
-
-* [Provide virtual reality-based training](../RiskMitigation/PBN__RiskMitigation_2738)
 
 ## Property: has_RiskName
 
 Reduced effectiveness
 
+## Property: has_RiskISO_Impact
+
+* [Education and capacity building](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_7.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
+## Property: has_RiskOwner
+
+* [healthcare institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_269.md)
+
+## Property: has_RiskTechnology
+
+* [virtual reality](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1233.md)
+
+## Property: has_RiskSubject
+
+* [medical staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_93.md)
+
+## Property: has_RiskMitigation
+
+* [Provide virtual reality-based training](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2738.md)
+
 ## Property: has_RiskDescription
 
 Inadequate training for medical staff
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [singh_significant_2020](../Article/PBN__Article_231)
+* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
+
+## Property: has_RiskType
+
+* [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
 
 ## Property: has_RiskGBN
 
-* [Yes](../RiskGBN/PBN__RiskGBN_1)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [other](../RiskHealth/PBN__RiskHealth_2)
+* [singh_significant_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_231.md)
 

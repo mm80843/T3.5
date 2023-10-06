@@ -1,52 +1,54 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Shift in public priorities__ (PBN__Risk_1609)
-
-## Property: has_RiskISO_Impact
-
-* [Mobility](../RiskISO/PBN__RiskISO_Purpose_14)
-
-## Property: has_RiskTechnology
-
-* [public awareness campaigns](../Technology/PBN__Technology_102)
-* [social media platforms](../Technology/PBN__Technology_47)
-
-## Property: has_RiskSubject
-
-* [general public](../Stakeholder/PBN__Stakeholder_29)
-* [policymakers](../Stakeholder/PBN__Stakeholder_126)
-
-## Property: has_RiskType
-
-* [political](../RiskType/PBN__RiskType_1)
-
-## Property: has_RiskISO_Purpose
-
-* [Well-being](../RiskISO/PBN__RiskISO_Impact_1)
-
-## Property: has_RiskOwner
-
-* [none](../Stakeholder/PBN__Stakeholder_629)
-
-## Property: has_RiskMitigation
-
-* [Engage and educate the public on the benefits of sustainable energy, advocate for green recovery measures](../RiskMitigation/PBN__RiskMitigation_2148)
 
 ## Property: has_RiskName
 
 Shift in political will and funding for sustainable energy projects
 
+## Property: has_RiskISO_Impact
+
+* [Mobility](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_14.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+
+## Property: has_RiskOwner
+
+* [none](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_629.md)
+
+## Property: has_RiskTechnology
+
+* [public awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_102.md)
+* [social media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_47.md)
+
+## Property: has_RiskSubject
+
+* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
+* [policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_126.md)
+
+## Property: has_RiskMitigation
+
+* [Engage and educate the public on the benefits of sustainable energy, advocate for green recovery measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2148.md)
+
 ## Property: has_RiskDescription
 
 Change in public focus and support for sustainable energy transition
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [kuzemko_covid-19_2020](../Article/PBN__Article_14)
+* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_4.md)
+
+## Property: has_RiskType
+
+* [political](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_1.md)
 
 ## Property: has_RiskGBN
 
-* [No](../RiskGBN/PBN__RiskGBN_0)
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [social](../RiskHealth/PBN__RiskHealth_4)
+* [kuzemko_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_14.md)
 

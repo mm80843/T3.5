@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Sensor integration__ (PBN__Mitigation_699)
-
-## Property: has_MitigationTechnology
-
-* [sensor integration](../Technology/PBN__Technology_644)
 
 ## Property: has_MitigationSource
 
-* [geng_intelligent_2021](../Article/PBN__Article_62)
+* [geng_intelligent_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_62.md)
+
+## Property: has_MitigationTechnology
+
+* [sensor integration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_644.md)
 
 ## Property: has_MitigationPrinciple
 

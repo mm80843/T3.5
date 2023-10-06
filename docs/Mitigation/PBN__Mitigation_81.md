@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Building resilient food systems__ (PBN__Mitigation_81)
-
-## Property: has_MitigationTechnology
-
-* [context-specific initiatives](../Technology/PBN__Technology_2950)
-* [innovative demand and supply-side initiatives](../Technology/PBN__Technology_2951)
 
 ## Property: has_MitigationSource
 
-* [akseer_covid-19_2020](../Article/PBN__Article_222)
+* [akseer_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_222.md)
+
+## Property: has_MitigationTechnology
+
+* [context-specific initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2950.md)
+* [innovative demand and supply-side initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2951.md)
 
 ## Property: has_MitigationPrinciple
 

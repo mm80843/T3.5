@@ -1,21 +1,23 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Protection of healthcare workers__ (PBN__Benef_681)
 
 ## Property: has_BenefDetails
 
 Hand hygiene can protect healthcare workers from acquiring the virus, reducing the risk of transmission
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Improved employee safety and well-being, reduced risk of infection spread](../BenefReturn/PBN__BenefReturn_729)
-* [Private investors investing in hand hygiene products (e.g. alcohol-based hand rubs) would benefit from improved asset value (e.g. increased demand for hand hygiene products)](../BenefReturn/PBN__BenefReturn_1256)
+* [nicola_socio-economic_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_135.md)
+* [kampf_persistence_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_233.md)
 
 ## Property: has_Beneficiary
 
-* [healthcare workers](../Stakeholder/PBN__Stakeholder_68)
-* [healthcare settings](../Stakeholder/PBN__Stakeholder_441)
+* [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
+* [healthcare settings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_441.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [nicola_socio-economic_2020](../Article/PBN__Article_135)
-* [kampf_persistence_2020](../Article/PBN__Article_233)
+* [Improved employee safety and well-being, reduced risk of infection spread](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_729.md)
+* [Private investors investing in hand hygiene products (e.g. alcohol-based hand rubs) would benefit from improved asset value (e.g. increased demand for hand hygiene products)](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1256.md)
 

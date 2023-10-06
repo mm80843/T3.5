@@ -1,54 +1,56 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Lack of maintenance and upkeep of UGS__ (PBN__Risk_2258)
-
-## Property: has_RiskISO_Impact
-
-* [Health and care](../RiskISO/PBN__RiskISO_Purpose_0)
-
-## Property: has_RiskTechnology
-
-* [vegetation management techniques](../Technology/PBN__Technology_1842)
-* [volunteer involvement](../Technology/PBN__Technology_1843)
-* [community engagement](../Technology/PBN__Technology_51)
-
-## Property: has_RiskSubject
-
-* [general public](../Stakeholder/PBN__Stakeholder_29)
-* [visitors of ugs](../Stakeholder/PBN__Stakeholder_1511)
-
-## Property: has_RiskType
-
-* [environmental](../RiskType/PBN__RiskType_0)
-
-## Property: has_RiskISO_Purpose
-
-* [Attractiveness](../RiskISO/PBN__RiskISO_Impact_9)
-
-## Property: has_RiskOwner
-
-* [local governments](../Stakeholder/PBN__Stakeholder_568)
-* [park management authorities](../Stakeholder/PBN__Stakeholder_1512)
-
-## Property: has_RiskMitigation
-
-* [Implementing regular maintenance and vegetation management programs in UGS, involving community in upkeep efforts](../RiskMitigation/PBN__RiskMitigation_2937)
 
 ## Property: has_RiskName
 
 Decreased quality of UGS, increased safety hazards
 
+## Property: has_RiskISO_Impact
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Attractiveness](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_9.md)
+
+## Property: has_RiskOwner
+
+* [local governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_568.md)
+* [park management authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1512.md)
+
+## Property: has_RiskTechnology
+
+* [vegetation management techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1842.md)
+* [volunteer involvement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1843.md)
+* [community engagement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_51.md)
+
+## Property: has_RiskSubject
+
+* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
+* [visitors of ugs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1511.md)
+
+## Property: has_RiskMitigation
+
+* [Implementing regular maintenance and vegetation management programs in UGS, involving community in upkeep efforts](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2937.md)
+
 ## Property: has_RiskDescription
 
 Neglecting the maintenance and upkeep of UGS can lead to deterioration of green spaces and reduced benefits
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [ugolini_effects_2020](../Article/PBN__Article_90)
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Property: has_RiskType
+
+* [environmental](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_0.md)
 
 ## Property: has_RiskGBN
 
-* [Yes](../RiskGBN/PBN__RiskGBN_1)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [physical](../RiskHealth/PBN__RiskHealth_0)
+* [ugolini_effects_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_90.md)
 

@@ -1,20 +1,22 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) 
+
 # Technology: __Ventilation systems__ (PBN__Technology_2348)
 
 ## Property: has_StakeholderGroup
 
-* [Infrastructure](../TechGroup/PBN__TechGroup_4)
-* [Monitoring](../TechGroup/PBN__TechGroup_8)
-* [Hygiene protocols](../TechGroup/PBN__TechGroup_9)
-* [Building materials](../TechGroup/PBN__TechGroup_12)
-* [Indoor air technologies](../TechGroup/PBN__TechGroup_13)
-* [Urban technology](../TechGroup/PBN__TechGroup_14)
-* [Indoor air technlogies](../TechGroup/PBN__TechGroup_18)
+* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
+* [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_8.md)
+* [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_9.md)
+* [Building materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_12.md)
+* [Indoor air technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_13.md)
+* [Urban technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_14.md)
+* [Indoor air technlogies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_18.md)
 
 ## Property: has_StakeholderSubgroup
 
-* [HVAC and Ventilation Systems](../TechSubgroup/PBN__TechSubgroup_72)
-* [Air Quality and Filtration Systems](../TechSubgroup/PBN__TechSubgroup_76)
-* [Building Systems and Design](../TechSubgroup/PBN__TechSubgroup_89)
-* [Indoor Environment and Ventilation Systems](../TechSubgroup/PBN__TechSubgroup_75)
-* [HVAC and Air Quality Systems](../TechSubgroup/PBN__TechSubgroup_90)
+* [HVAC and Ventilation Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_72.md)
+* [Air Quality and Filtration Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_76.md)
+* [Building Systems and Design](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_89.md)
+* [Indoor Environment and Ventilation Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_75.md)
+* [HVAC and Air Quality Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_90.md)
 

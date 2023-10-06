@@ -1,52 +1,54 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Data unavailability__ (PBN__Risk_2364)
-
-## Property: has_RiskISO_Impact
-
-* [Safety and security](../RiskISO/PBN__RiskISO_Purpose_5)
-
-## Property: has_RiskTechnology
-
-* [data backup and storage](../Technology/PBN__Technology_1967)
-
-## Property: has_RiskSubject
-
-* [researchers](../Stakeholder/PBN__Stakeholder_2)
-* [public health officials](../Stakeholder/PBN__Stakeholder_310)
-
-## Property: has_RiskType
-
-* [technological](../RiskType/PBN__RiskType_5)
-
-## Property: has_RiskISO_Purpose
-
-* [Resilience](../RiskISO/PBN__RiskISO_Impact_2)
-
-## Property: has_RiskOwner
-
-* [data analysts](../Stakeholder/PBN__Stakeholder_479)
-* [researchers](../Stakeholder/PBN__Stakeholder_2)
-
-## Property: has_RiskMitigation
-
-* [Maintain access to historical data even if real-time data is unavailable](../RiskMitigation/PBN__RiskMitigation_3070)
 
 ## Property: has_RiskName
 
 Loss of real-time data and reliance on historical data
 
+## Property: has_RiskISO_Impact
+
+* [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_5.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
+## Property: has_RiskOwner
+
+* [data analysts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_479.md)
+* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+
+## Property: has_RiskTechnology
+
+* [data backup and storage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1967.md)
+
+## Property: has_RiskSubject
+
+* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+* [public health officials](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_310.md)
+
+## Property: has_RiskMitigation
+
+* [Maintain access to historical data even if real-time data is unavailable](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3070.md)
+
 ## Property: has_RiskDescription
 
 APIs stop providing data, resulting in lack of real-time updates
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [wu_open-source_2020](../Article/PBN__Article_218)
+* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
+
+## Property: has_RiskType
+
+* [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
 
 ## Property: has_RiskGBN
 
-* [No](../RiskGBN/PBN__RiskGBN_0)
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [other](../RiskHealth/PBN__RiskHealth_2)
+* [wu_open-source_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_218.md)
 

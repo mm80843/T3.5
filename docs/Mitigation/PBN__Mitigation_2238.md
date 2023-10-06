@@ -1,14 +1,16 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Self-dependent services__ (PBN__Mitigation_2238)
-
-## Property: has_MitigationTechnology
-
-* [pharmacies](../Technology/PBN__Technology_4360)
-* [stores](../Technology/PBN__Technology_4361)
-* [urban/community farming](../Technology/PBN__Technology_4362)
 
 ## Property: has_MitigationSource
 
-* [ujikawa_how_2022](../Article/PBN__Article_172)
+* [ujikawa_how_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_172.md)
+
+## Property: has_MitigationTechnology
+
+* [pharmacies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4360.md)
+* [stores](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4361.md)
+* [urban/community farming](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4362.md)
 
 ## Property: has_MitigationPrinciple
 

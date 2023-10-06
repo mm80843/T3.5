@@ -1,6 +1,8 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) 
+
 # Technology: __development of new insecticides__ (PBN__Technology_1949)
 
 ## Property: has_TechnologyID
 
-* [Q181322](../Qid/Q181322)
+* [Q181322](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q181322.md)
 

@@ -1,53 +1,55 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Lack of data standardization__ (PBN__Risk_1942)
-
-## Property: has_RiskISO_Impact
-
-* [Governance, empowerment and engagement](../RiskISO/PBN__RiskISO_Purpose_6)
-
-## Property: has_RiskTechnology
-
-* [data modeling standards](../Technology/PBN__Technology_1348)
-* [interoperability guidelines](../Technology/PBN__Technology_1349)
-
-## Property: has_RiskSubject
-
-* [data scientists](../Stakeholder/PBN__Stakeholder_627)
-* [researchers](../Stakeholder/PBN__Stakeholder_2)
-
-## Property: has_RiskType
-
-* [technological](../RiskType/PBN__RiskType_5)
-
-## Property: has_RiskISO_Purpose
-
-* [Resilience](../RiskISO/PBN__RiskISO_Impact_2)
-
-## Property: has_RiskOwner
-
-* [data scientists](../Stakeholder/PBN__Stakeholder_627)
-* [researchers](../Stakeholder/PBN__Stakeholder_2)
-
-## Property: has_RiskMitigation
-
-* [Adopt common data models such as Phenopackets or OHDSI standards.](../RiskMitigation/PBN__RiskMitigation_2548)
 
 ## Property: has_RiskName
 
 Compromised comparability and reproducibility of research findings.
 
+## Property: has_RiskISO_Impact
+
+* [Governance, empowerment and engagement](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_6.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
+## Property: has_RiskOwner
+
+* [data scientists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_627.md)
+* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+
+## Property: has_RiskTechnology
+
+* [data modeling standards](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1348.md)
+* [interoperability guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1349.md)
+
+## Property: has_RiskSubject
+
+* [data scientists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_627.md)
+* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+
+## Property: has_RiskMitigation
+
+* [Adopt common data models such as Phenopackets or OHDSI standards.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2548.md)
+
 ## Property: has_RiskDescription
 
 Lack of standardized data models hinders data analysis and integration in epidemiology research.
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [queralt-rosinach_covid-19_2021](../Article/PBN__Article_259)
+* [nan](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_6.md)
+
+## Property: has_RiskType
+
+* [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
 
 ## Property: has_RiskGBN
 
-* [No](../RiskGBN/PBN__RiskGBN_0)
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [nan](../RiskHealth/PBN__RiskHealth_6)
+* [queralt-rosinach_covid-19_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_259.md)
 

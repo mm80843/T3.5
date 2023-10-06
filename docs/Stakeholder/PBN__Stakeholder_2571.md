@@ -1,14 +1,16 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) 
+
 # Stakeholder: __Occupant of commercial and healthcare facility__ (PBN__Stakeholder_2571)
-
-## Property: has_StakeholderGroup
-
-* [Building Occupants](../StakeholderGroup/PBN__StakeholderGroup_11)
-
-## Property: has_StakeholderID
-
-* [Q655686](../Qid/Q655686)
 
 ## Property: has_StakeholderSubgroup
 
-* [Specific Building Occupants](../StakeholderSubgroup/PBN__StakeholderSubgroup_68)
+* [Specific Building Occupants](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_68.md)
+
+## Property: has_StakeholderGroup
+
+* [Building Occupants](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_11.md)
+
+## Property: has_StakeholderID
+
+* [Q655686](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q655686.md)
 

@@ -1,13 +1,23 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) 
+
 # Article: __guo_review_2021__ (PBN__Article_45)
+
+## Property: has_ArticleYear
+
+2021
+
+## Property: has_ArticleRef
+
+* [van_doremalen_aerosol_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_21.md)
+* [morawska_how_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_121.md)
 
 ## Property: has_ArticleLLMShortSummary
 
 This research abstract summarizes the guidelines and recommendations made by various HVAC-related institutions and societies regarding the transmission of SARS-CoV-2 in buildings. It emphasizes the importance of proper ventilation and airflow patterns in mitigating the airborne transmission of the virus. The guidelines suggest increasing the amount of outdoor air, improving filtration with MERV-13 filters, and using portable room air cleaners with HEPA filters. Ultraviolet germicidal irradiation (UVGI) is also recommended in high-risk spaces. The guidelines advise keeping HVAC systems running longer and operating them with caution to reduce the risk of transmission. Temperature and humidity setpoints should be considered, and the operation of heat recovery equipment should be monitored. The guidelines also recommend maintaining pressure differentials between zones, inspecting and replacing filters regularly, and ensuring proper water and drainage system maintenance. Overall, the guidelines aim to minimize the risk of SARS-CoV-2 transmission through effective HVAC system management. Further research is needed to better understand the transmission routes and characteristics of SARS-CoV-2.
 
-## Property: has_ArticleRef
+## Property: has_ArticleTitle
 
-* [van_doremalen_aerosol_2020](../Article/PBN__Article_21)
-* [morawska_how_2020](../Article/PBN__Article_121)
+Review and comparison of HVAC operation guidelines in different countries during the COVID-19 pandemic
 
 ## Property: has_ArticleLLMSummary
 
@@ -16,12 +26,4 @@ During the COVID-19 pandemic, it is important to be careful about how we use HVA
 ## Property: has_ArticleDOI
 
 10.1016/j.buildenv.2020.107368
-
-## Property: has_ArticleTitle
-
-Review and comparison of HVAC operation guidelines in different countries during the COVID-19 pandemic
-
-## Property: has_ArticleYear
-
-2021
 

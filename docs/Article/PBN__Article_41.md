@@ -1,8 +1,18 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) 
+
 # Article: __ahmadpoor_urban_2021__ (PBN__Article_41)
+
+## Property: has_ArticleYear
+
+2021
 
 ## Property: has_ArticleLLMShortSummary
 
 This research abstract summarizes the importance of green space in urban planning and design, particularly in the context of the COVID-19 pandemic. It highlights the negative consequences of limited access to green space, such as increased health issues and reduced mental well-being. The abstract emphasizes the need for proximity and quality considerations when designing and planning urban green spaces. It discusses the disparities in access to green space, with disadvantaged communities often having poorer-quality spaces. The abstract also presents the positive impacts of green space on physical and mental health, as well as the potential benefits of community gardens and other initiatives. It concludes by calling for greater recognition and inclusion of green space in future urban planning and design to create healthier post-pandemic environments.
+
+## Property: has_ArticleTitle
+
+Urban form: Realising the value of green space: a planners’ perspective on the COVID-19 pandemic
 
 ## Property: has_ArticleLLMSummary
 
@@ -11,12 +21,4 @@ During the last few decades, cities have been growing really fast and more peopl
 ## Property: has_ArticleDOI
 
 10.3828/tpr.2020.37
-
-## Property: has_ArticleTitle
-
-Urban form: Realising the value of green space: a planners’ perspective on the COVID-19 pandemic
-
-## Property: has_ArticleYear
-
-2021
 

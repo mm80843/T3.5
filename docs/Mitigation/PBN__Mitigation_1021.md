@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Financial Support__ (PBN__Mitigation_1021)
-
-## Property: has_MitigationTechnology
-
-* [access to capital](../Technology/PBN__Technology_3589)
 
 ## Property: has_MitigationSource
 
-* [kuckertz_startups_2020](../Article/PBN__Article_158)
+* [kuckertz_startups_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_158.md)
+
+## Property: has_MitigationTechnology
+
+* [access to capital](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3589.md)
 
 ## Property: has_MitigationPrinciple
 

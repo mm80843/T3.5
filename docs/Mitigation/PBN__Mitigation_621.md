@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Monitoring of agglomerations__ (PBN__Mitigation_621)
-
-## Property: has_MitigationTechnology
-
-* [geolocation data](../Technology/PBN__Technology_3365)
 
 ## Property: has_MitigationSource
 
-* [fariniuk_smart_2020](../Article/PBN__Article_143)
+* [fariniuk_smart_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_143.md)
+
+## Property: has_MitigationTechnology
+
+* [geolocation data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3365.md)
 
 ## Property: has_MitigationPrinciple
 

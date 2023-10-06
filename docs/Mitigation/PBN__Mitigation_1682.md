@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Disinfecting shared tools and equipment__ (PBN__Mitigation_1682)
-
-## Property: has_MitigationTechnology
-
-* [cleaning supplies](../Technology/PBN__Technology_148)
 
 ## Property: has_MitigationSource
 
-* [raoufi_identifying_2021](../Article/PBN__Article_220)
+* [raoufi_identifying_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_220.md)
+
+## Property: has_MitigationTechnology
+
+* [cleaning supplies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_148.md)
 
 ## Property: has_MitigationPrinciple
 

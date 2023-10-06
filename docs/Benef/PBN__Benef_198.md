@@ -1,19 +1,21 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Reduced eviction rates__ (PBN__Benef_198)
 
 ## Property: has_BenefDetails
 
 Medicaid expansion reduces medical debt and financial burden, increasing tenants' ability to make rent payments and lowering eviction rates, reducing the risk of homelessness and COVID-19 transmission.
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Private investors in rental properties would benefit from reduced vacancies, improved tenant stability, and reduced risk of rental income loss.](../BenefReturn/PBN__BenefReturn_202)
+* [benfer_eviction_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_43.md)
 
 ## Property: has_Beneficiary
 
-* [low-income renters](../Stakeholder/PBN__Stakeholder_112)
-* [people facing eviction](../Stakeholder/PBN__Stakeholder_113)
+* [low-income renters](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_112.md)
+* [people facing eviction](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_113.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [benfer_eviction_2021](../Article/PBN__Article_43)
+* [Private investors in rental properties would benefit from reduced vacancies, improved tenant stability, and reduced risk of rental income loss.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_202.md)
 

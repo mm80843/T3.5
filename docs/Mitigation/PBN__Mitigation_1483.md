@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Cross-disciplinary collaboration__ (PBN__Mitigation_1483)
-
-## Property: has_MitigationTechnology
-
-* [collaboration platforms](../Technology/PBN__Technology_155)
-* [communication tools](../Technology/PBN__Technology_168)
 
 ## Property: has_MitigationSource
 
-* [obonyo_decision_2018](../Article/PBN__Article_272)
+* [obonyo_decision_2018](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_272.md)
+
+## Property: has_MitigationTechnology
+
+* [collaboration platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_155.md)
+* [communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_168.md)
 
 ## Property: has_MitigationPrinciple
 

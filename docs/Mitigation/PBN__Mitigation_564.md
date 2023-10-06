@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Open and trustworthy international research partnership__ (PBN__Mitigation_564)
-
-## Property: has_MitigationTechnology
-
-* [international covid-19 data alliance](../Technology/PBN__Technology_3311)
 
 ## Property: has_MitigationSource
 
-* [dron_data_2022](../Article/PBN__Article_208)
+* [dron_data_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_208.md)
+
+## Property: has_MitigationTechnology
+
+* [international covid-19 data alliance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3311.md)
 
 ## Property: has_MitigationPrinciple
 

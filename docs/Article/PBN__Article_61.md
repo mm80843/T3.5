@@ -1,13 +1,23 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) 
+
 # Article: __memarzadeh_applications_2010__ (PBN__Article_61)
+
+## Property: has_ArticleYear
+
+2010
+
+## Property: has_ArticleRef
+
+* [li_role_2007](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_328.md)
+* [escombe_upper-room_2009](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_105.md)
 
 ## Property: has_ArticleLLMShortSummary
 
 This review examines the use of ultraviolet germicidal irradiation (UVGI) for disinfecting the air in health care facilities. UVGI has been used for many years to control airborne infectious particles. Most UVGI systems are installed in health care facilities, with 41% in hospitals and 19% in clinics. However, there has been a lack of experimental data on the performance of UVGI systems in hospital rooms. Laboratory studies have shown that UVGI is effective against various microorganisms, but there is still insufficient evidence to rely solely on UVGI for preventing health care-associated transmission of tuberculosis. The review suggests that there is a need for more research on the practical application of UVGI in real-world settings, as well as standardized testing protocols and guidelines for designing and installing UVGI systems. The review also discusses the limitations and safety precautions associated with UVGI, as well as other methods for reducing the risk of airborne transmission. Overall, UVGI should be viewed as a supplement to ventilation and other infection control measures, rather than a standalone solution.
 
-## Property: has_ArticleRef
+## Property: has_ArticleTitle
 
-* [li_role_2007](../Article/PBN__Article_328)
-* [escombe_upper-room_2009](../Article/PBN__Article_105)
+Applications of ultraviolet germicidal irradiation disinfection in health care facilities: Effective adjunct, but not stand-alone technology
 
 ## Property: has_ArticleLLMSummary
 
@@ -16,12 +26,4 @@ UVGI, or ultraviolet germicidal irradiation, is a method that uses UV light to k
 ## Property: has_ArticleDOI
 
 10.1016/j.ajic.2010.04.208
-
-## Property: has_ArticleTitle
-
-Applications of ultraviolet germicidal irradiation disinfection in health care facilities: Effective adjunct, but not stand-alone technology
-
-## Property: has_ArticleYear
-
-2010
 

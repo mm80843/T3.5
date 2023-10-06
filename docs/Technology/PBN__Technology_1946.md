@@ -1,14 +1,16 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) 
+
 # Technology: __healthcare technologies and facilities__ (PBN__Technology_1946)
-
-## Property: has_TechnologyID
-
-* [Q4260475](../Qid/Q4260475)
 
 ## Property: has_StakeholderGroup
 
-* [Infrastructure](../TechGroup/PBN__TechGroup_4)
+* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
+
+## Property: has_TechnologyID
+
+* [Q4260475](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4260475.md)
 
 ## Property: has_StakeholderSubgroup
 
-* [Mobile and Healthcare Infrastructure](../TechSubgroup/PBN__TechSubgroup_99)
+* [Mobile and Healthcare Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_99.md)
 

@@ -1,14 +1,16 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) 
+
 # Technology: __Market analysis tools__ (PBN__Technology_2346)
-
-## Property: has_TechnologyID
-
-* [Q6770838](../Qid/Q6770838)
 
 ## Property: has_StakeholderGroup
 
-* [Infrastructure](../TechGroup/PBN__TechGroup_4)
+* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
+
+## Property: has_TechnologyID
+
+* [Q6770838](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6770838.md)
 
 ## Property: has_StakeholderSubgroup
 
-* [Data Management and Communication Systems](../TechSubgroup/PBN__TechSubgroup_18)
+* [Data Management and Communication Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_18.md)
 

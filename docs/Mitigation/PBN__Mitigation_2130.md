@@ -1,16 +1,18 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Monitor and control indoor air pollution__ (PBN__Mitigation_2130)
-
-## Property: has_MitigationTechnology
-
-* [pm](../Technology/PBN__Technology_4250)
-* [co2 concentration](../Technology/PBN__Technology_4251)
-* [ozone](../Technology/PBN__Technology_1909)
-* [temperature](../Technology/PBN__Technology_1063)
-* [humidity](../Technology/PBN__Technology_3133)
 
 ## Property: has_MitigationSource
 
-* [tokazhanov_assessment_2021](../Article/PBN__Article_51)
+* [tokazhanov_assessment_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_51.md)
+
+## Property: has_MitigationTechnology
+
+* [pm](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4250.md)
+* [co2 concentration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4251.md)
+* [ozone](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1909.md)
+* [temperature](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1063.md)
+* [humidity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3133.md)
 
 ## Property: has_MitigationPrinciple
 

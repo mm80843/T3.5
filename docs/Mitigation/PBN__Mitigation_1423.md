@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Good housekeeping practices__ (PBN__Mitigation_1423)
-
-## Property: has_MitigationTechnology
-
-* [regular cleaning and maintenance of hvac system components](../Technology/PBN__Technology_3869)
 
 ## Property: has_MitigationSource
 
-* [nembhard_ventilation_2020](../Article/PBN__Article_104)
+* [nembhard_ventilation_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_104.md)
+
+## Property: has_MitigationTechnology
+
+* [regular cleaning and maintenance of hvac system components](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3869.md)
 
 ## Property: has_MitigationPrinciple
 

@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Wiping surfaces with disinfectant__ (PBN__Mitigation_2329)
-
-## Property: has_MitigationTechnology
-
-* [chlorine-containing disinfectant](../Technology/PBN__Technology_3072)
 
 ## Property: has_MitigationSource
 
-* [wang_sars-cov-2_2020](../Article/PBN__Article_55)
+* [wang_sars-cov-2_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_55.md)
+
+## Property: has_MitigationTechnology
+
+* [chlorine-containing disinfectant](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3072.md)
 
 ## Property: has_MitigationPrinciple
 

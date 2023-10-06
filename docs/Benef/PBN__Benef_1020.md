@@ -1,20 +1,22 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Enhanced credibility and reputation__ (PBN__Benef_1020)
 
 ## Property: has_BenefDetails
 
 Transparent and standardized protocols for WBE can help establish credibility and a reputation for safety, increasing public trust in the monitoring and control measures.
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Private investors investing in transparent and standardized WBE protocols can benefit from improved public perception, increased adoption of WBE technologies, and potential financial returns from the implementation of these protocols.](../BenefReturn/PBN__BenefReturn_1141)
+* [daughton_wastewater_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_213.md)
 
 ## Property: has_Beneficiary
 
-* [governments](../Stakeholder/PBN__Stakeholder_47)
-* [scientists](../Stakeholder/PBN__Stakeholder_46)
-* [researchers](../Stakeholder/PBN__Stakeholder_2)
+* [governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
+* [scientists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_46.md)
+* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [daughton_wastewater_2020](../Article/PBN__Article_213)
+* [Private investors investing in transparent and standardized WBE protocols can benefit from improved public perception, increased adoption of WBE technologies, and potential financial returns from the implementation of these protocols.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1141.md)
 

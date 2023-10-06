@@ -1,11 +1,13 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Spread of infections and diseases in the built environment__ (PBN__Risk_1010)
 
 ## Property: has_RiskMitigation
 
-* [Decentralization](../RiskMitigation/PBN__RiskMitigation_1437)
-* [Urban farming integrated approaches](../RiskMitigation/PBN__RiskMitigation_1438)
-* [Wider corridors and doorways](../RiskMitigation/PBN__RiskMitigation_1439)
-* [Modular construction](../RiskMitigation/PBN__RiskMitigation_1357)
-* [Hygienic building materials](../RiskMitigation/PBN__RiskMitigation_1440)
-* [Artificial intelligence and touchless technologies](../RiskMitigation/PBN__RiskMitigation_1441)
+* [Decentralization](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1437.md)
+* [Urban farming integrated approaches](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1438.md)
+* [Wider corridors and doorways](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1439.md)
+* [Modular construction](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1357.md)
+* [Hygienic building materials](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1440.md)
+* [Artificial intelligence and touchless technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1441.md)
 

@@ -1,19 +1,21 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Enhanced surveillance and social monitoring__ (PBN__Benef_744)
 
 ## Property: has_BenefDetails
 
 Improved surveillance and social monitoring can help prevent and address psychological tensions and social conflicts
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Enhanced social cohesion can lead to a more peaceful and harmonious society.](../BenefReturn/PBN__BenefReturn_807)
+* [allam_pandemic_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_147.md)
 
 ## Property: has_Beneficiary
 
-* [government](../Stakeholder/PBN__Stakeholder_73)
-* [general public](../Stakeholder/PBN__Stakeholder_29)
+* [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
+* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [allam_pandemic_2020](../Article/PBN__Article_147)
+* [Enhanced social cohesion can lead to a more peaceful and harmonious society.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_807.md)
 

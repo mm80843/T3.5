@@ -1,18 +1,20 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Social and economic__ (PBN__Benef_980)
 
 ## Property: has_BenefDetails
 
 Reduction of crowded areas
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Economic recovery of local](../BenefReturn/PBN__BenefReturn_1079)
+* [cantarero_covid19-routes_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_201.md)
 
 ## Property: has_Beneficiary
 
-* [local businesses,](../Stakeholder/PBN__Stakeholder_385)
+* [local businesses,](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_385.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [cantarero_covid19-routes_2021](../Article/PBN__Article_201)
+* [Economic recovery of local](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1079.md)
 

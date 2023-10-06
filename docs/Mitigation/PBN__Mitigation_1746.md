@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Physical Contact__ (PBN__Mitigation_1746)
-
-## Property: has_MitigationTechnology
-
-* [pedestrian trajectories](../Technology/PBN__Technology_4043)
-* [agent dimensions](../Technology/PBN__Technology_4044)
 
 ## Property: has_MitigationSource
 
-* [ronchi_exposed_2020](../Article/PBN__Article_3)
+* [ronchi_exposed_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_3.md)
+
+## Property: has_MitigationTechnology
+
+* [pedestrian trajectories](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4043.md)
+* [agent dimensions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4044.md)
 
 ## Property: has_MitigationPrinciple
 

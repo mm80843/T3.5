@@ -1,6 +1,8 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) 
+
 # Technology: __infrared thermal imaging cameras__ (PBN__Technology_1502)
 
 ## Property: has_TechnologyID
 
-* [Q581851](../Qid/Q581851)
+* [Q581851](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q581851.md)
 

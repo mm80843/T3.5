@@ -1,8 +1,18 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) 
+
 # Article: __kuzemko_covid-19_2020__ (PBN__Article_14)
+
+## Property: has_ArticleYear
+
+2020
 
 ## Property: has_ArticleLLMShortSummary
 
 This research abstract summarizes a perspectives piece that explores how the COVID-19 pandemic may influence the politics of sustainable energy transitions. The authors discuss the impact of the pandemic on various aspects including energy system change, finance and investment, multi-scalar governance, and social practices. They note that the pandemic has led to a significant reduction in energy demand and prices for fossil fuels, while renewable energy demand remains less affected. There is potential for a shift towards green recovery packages and increased investment in sustainable energy, as well as a reevaluation of financial practices that support fossil fuel industries. The authors also highlight the role of national governments and sub-national actors in responding to the crisis and shaping energy governance. They emphasize the need to consider the social and political practices that may change as a result of the pandemic and how public support for climate action may evolve. Ultimately, the authors argue that the decisions made during the recovery from the pandemic will be crucial in determining the success of sustainable energy transitions.
+
+## Property: has_ArticleTitle
+
+Covid-19 and the politics of sustainable energy transitions
 
 ## Property: has_ArticleLLMSummary
 
@@ -11,12 +21,4 @@ The Covid-19 pandemic has had a big impact on the world. Many people have gotten
 ## Property: has_ArticleDOI
 
 10.1016/j.erss.2020.101685
-
-## Property: has_ArticleTitle
-
-Covid-19 and the politics of sustainable energy transitions
-
-## Property: has_ArticleYear
-
-2020
 

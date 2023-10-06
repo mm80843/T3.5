@@ -1,53 +1,55 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Safety of far-UVC light exposure__ (PBN__Risk_1229)
-
-## Property: has_RiskISO_Impact
-
-* [Health and care](../RiskISO/PBN__RiskISO_Purpose_0)
-
-## Property: has_RiskTechnology
-
-* [regulatory bodies](../Technology/PBN__Technology_184)
-* [public health organizations](../Technology/PBN__Technology_313)
-
-## Property: has_RiskSubject
-
-* [general population](../Stakeholder/PBN__Stakeholder_9)
-* [individuals exposed to far-uvc light](../Stakeholder/PBN__Stakeholder_742)
-
-## Property: has_RiskType
-
-* [legal](../RiskType/PBN__RiskType_6)
-
-## Property: has_RiskISO_Purpose
-
-* [Well-being](../RiskISO/PBN__RiskISO_Impact_1)
-
-## Property: has_RiskOwner
-
-* [government regulators](../Stakeholder/PBN__Stakeholder_739)
-* [building managers](../Stakeholder/PBN__Stakeholder_10)
-
-## Property: has_RiskMitigation
-
-* [Set and enforce regulatory limits on far-UVC light exposure.](../RiskMitigation/PBN__RiskMitigation_1680)
 
 ## Property: has_RiskName
 
 Potential health risks and adverse effects from excessive exposure
 
+## Property: has_RiskISO_Impact
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+
+## Property: has_RiskOwner
+
+* [government regulators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_739.md)
+* [building managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_10.md)
+
+## Property: has_RiskTechnology
+
+* [regulatory bodies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_184.md)
+* [public health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_313.md)
+
+## Property: has_RiskSubject
+
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+* [individuals exposed to far-uvc light](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_742.md)
+
+## Property: has_RiskMitigation
+
+* [Set and enforce regulatory limits on far-UVC light exposure.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1680.md)
+
 ## Property: has_RiskDescription
 
 Ensuring that far-UVC light exposure remains within safe limits for human health
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [buonanno_far-uvc_2020](../Article/PBN__Article_182)
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Property: has_RiskType
+
+* [legal](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_6.md)
 
 ## Property: has_RiskGBN
 
-* [Yes](../RiskGBN/PBN__RiskGBN_1)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [physical](../RiskHealth/PBN__RiskHealth_0)
+* [buonanno_far-uvc_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_182.md)
 

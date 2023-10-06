@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Virtual learning in combination with in-person classes__ (PBN__Mitigation_1350)
-
-## Property: has_MitigationTechnology
-
-* [virtual learning technologies](../Technology/PBN__Technology_3812)
 
 ## Property: has_MitigationSource
 
-* [mokhtari_effect_2021](../Article/PBN__Article_169)
+* [mokhtari_effect_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_169.md)
+
+## Property: has_MitigationTechnology
+
+* [virtual learning technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3812.md)
 
 ## Property: has_MitigationPrinciple
 

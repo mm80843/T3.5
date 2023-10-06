@@ -1,13 +1,23 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) 
+
 # Article: __nardell_air_2021__ (PBN__Article_66)
+
+## Property: has_ArticleYear
+
+2021
+
+## Property: has_ArticleRef
+
+* [escombe_upper-room_2009](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_105.md)
+* [buonanno_far-uvc_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_182.md)
 
 ## Property: has_ArticleLLMShortSummary
 
 Germicidal ultraviolet (GUV) air disinfection, specifically upper room GUV, is an effective and cost-efficient method for disinfecting air in occupied rooms where person-to-person transmission is likely. GUV works by damaging nucleic acids, making it effective against a wide range of pathogens including bacteria, viruses, fungi, and protozoa. Upper room GUV utilizes convection and ceiling fans to effectively mix and decontaminate large volumes of room air, providing the equivalent of up to 24 air changes per hour. This method has been proven effective in reducing transmission of measles and tuberculosis in real-life settings. There are few barriers to implementing upper room GUV, including lack of awareness, misinformation, and lack of technical experts. UV wands and other questionable UV products pose a risk and should not be used for air disinfection. Dosing considerations for upper room GUV include total fixture UV output, air volume treated, and average ray length. For Far UV, dosing guidelines need to account for actual human exposure and time-motion reduction. Increasing public awareness, training more UV technicians, and conducting research on exposure guidelines are necessary to overcome barriers and optimize the use of germicidal UV for airborne infection control.
 
-## Property: has_ArticleRef
+## Property: has_ArticleTitle
 
-* [escombe_upper-room_2009](../Article/PBN__Article_105)
-* [buonanno_far-uvc_2020](../Article/PBN__Article_182)
+Air Disinfection for Airborne Infection Control with a Focus on COVID-19: Why Germicidal UV is Essential†
 
 ## Property: has_ArticleLLMSummary
 
@@ -16,12 +26,4 @@ Germicidal ultraviolet (GUV) air disinfection is a very effective way to clean t
 ## Property: has_ArticleDOI
 
 10.1111/php.13421
-
-## Property: has_ArticleTitle
-
-Air Disinfection for Airborne Infection Control with a Focus on COVID-19: Why Germicidal UV is Essential†
-
-## Property: has_ArticleYear
-
-2021
 

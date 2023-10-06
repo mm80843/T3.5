@@ -1,61 +1,63 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Poor thermal comfort__ (PBN__Risk_1883)
-
-## Property: has_RiskISO_Impact
-
-* [Education and capacity building](../RiskISO/PBN__RiskISO_Purpose_7)
-
-## Property: has_RiskTechnology
-
-* [smart thermostats](../Technology/PBN__Technology_1254)
-* [personal comfort devices](../Technology/PBN__Technology_1255)
-* [use operable windows and shading devices for natural ventilation and temperature control](../Technology/PBN__Technology_1268)
-
-## Property: has_RiskSubject
-
-* [occupants](../Stakeholder/PBN__Stakeholder_92)
-* [employees](../Stakeholder/PBN__Stakeholder_220)
-* [apartment residents](../Stakeholder/PBN__Stakeholder_356)
-
-## Property: has_RiskType
-
-* [technological](../RiskType/PBN__RiskType_5)
-* [environmental](../RiskType/PBN__RiskType_0)
-
-## Property: has_RiskISO_Purpose
-
-* [Resilience](../RiskISO/PBN__RiskISO_Impact_2)
-
-## Property: has_RiskOwner
-
-* [building owners](../Stakeholder/PBN__Stakeholder_80)
-* [facility managers](../Stakeholder/PBN__Stakeholder_166)
-* [architects](../Stakeholder/PBN__Stakeholder_431)
-* [designers](../Stakeholder/PBN__Stakeholder_74)
-* [building managers](../Stakeholder/PBN__Stakeholder_10)
-
-## Property: has_RiskMitigation
-
-* [Improve insulation, adjust HVAC systems, provide personal comfort devices](../RiskMitigation/PBN__RiskMitigation_2478)
-* [Ensure proper facade design and ventilation to maintain thermal comfort.](../RiskMitigation/PBN__RiskMitigation_2488)
 
 ## Property: has_RiskName
 
 Increased health issues, decreased occupant comfort and productivity, reduced resident satisfaction.
 
+## Property: has_RiskISO_Impact
+
+* [Education and capacity building](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_7.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
+## Property: has_RiskOwner
+
+* [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
+* [facility managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_166.md)
+* [architects](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_431.md)
+* [designers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_74.md)
+* [building managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_10.md)
+
+## Property: has_RiskTechnology
+
+* [smart thermostats](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1254.md)
+* [personal comfort devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1255.md)
+* [use operable windows and shading devices for natural ventilation and temperature control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1268.md)
+
+## Property: has_RiskSubject
+
+* [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
+* [employees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_220.md)
+* [apartment residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_356.md)
+
+## Property: has_RiskMitigation
+
+* [Improve insulation, adjust HVAC systems, provide personal comfort devices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2478.md)
+* [Ensure proper facade design and ventilation to maintain thermal comfort.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2488.md)
+
 ## Property: has_RiskDescription
 
 Inadequate thermal conditions in apartments, such as overheating or poor indoor air quality, can negatively impact resident health, comfort, and well-being.
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [parkinson_continuous_2019](../Article/PBN__Article_160)
-* [peters_how_2020](../Article/PBN__Article_279)
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Property: has_RiskType
+
+* [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
+* [environmental](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_0.md)
 
 ## Property: has_RiskGBN
 
-* [Yes](../RiskGBN/PBN__RiskGBN_1)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [physical](../RiskHealth/PBN__RiskHealth_0)
+* [parkinson_continuous_2019](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_160.md)
+* [peters_how_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_279.md)
 

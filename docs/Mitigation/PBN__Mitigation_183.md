@@ -1,17 +1,19 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Biophilic Design__ (PBN__Mitigation_183)
-
-## Property: has_MitigationTechnology
-
-* [indoor vegetation](../Technology/PBN__Technology_3046)
-* [natural views](../Technology/PBN__Technology_3047)
-* [indoor plants](../Technology/PBN__Technology_1612)
-* [green walls](../Technology/PBN__Technology_1010)
-* [natural materials](../Technology/PBN__Technology_4016)
 
 ## Property: has_MitigationSource
 
-* [awada_ten_2021](../Article/PBN__Article_38)
-* [rassia_how_2020](../Article/PBN__Article_34)
+* [awada_ten_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_38.md)
+* [rassia_how_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_34.md)
+
+## Property: has_MitigationTechnology
+
+* [indoor vegetation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3046.md)
+* [natural views](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3047.md)
+* [indoor plants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1612.md)
+* [green walls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1010.md)
+* [natural materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4016.md)
 
 ## Property: has_MitigationPrinciple
 

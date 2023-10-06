@@ -1,6 +1,8 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Limitations of anonymization conversions__ (PBN__Risk_818)
 
 ## Property: has_RiskMitigation
 
-* [Alignment to longitudinal characteristics](../RiskMitigation/PBN__RiskMitigation_1124)
+* [Alignment to longitudinal characteristics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1124.md)
 

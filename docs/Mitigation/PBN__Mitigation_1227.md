@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Air Filtration__ (PBN__Mitigation_1227)
-
-## Property: has_MitigationTechnology
-
-* [air purifiers](../Technology/PBN__Technology_138)
-* [hvac filters](../Technology/PBN__Technology_3744)
 
 ## Property: has_MitigationSource
 
-* [marr_mechanistic_2019](../Article/PBN__Article_54)
+* [marr_mechanistic_2019](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_54.md)
+
+## Property: has_MitigationTechnology
+
+* [air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_138.md)
+* [hvac filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3744.md)
 
 ## Property: has_MitigationPrinciple
 

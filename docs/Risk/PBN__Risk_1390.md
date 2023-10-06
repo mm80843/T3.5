@@ -1,67 +1,69 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Mental health issues__ (PBN__Risk_1390)
-
-## Property: has_RiskISO_Impact
-
-* [Health and care](../RiskISO/PBN__RiskISO_Purpose_0)
-
-## Property: has_RiskTechnology
-
-* [teletherapy](../Technology/PBN__Technology_609)
-* [online support groups](../Technology/PBN__Technology_124)
-* [online therapy platforms](../Technology/PBN__Technology_116)
-* [mental health apps](../Technology/PBN__Technology_117)
-* [telepsychiatry](../Technology/PBN__Technology_1247)
-* [mental health hotlines](../Technology/PBN__Technology_1811)
-* [mental health education programs](../Technology/PBN__Technology_1812)
-
-## Property: has_RiskSubject
-
-* [general population](../Stakeholder/PBN__Stakeholder_9)
-* [vulnerable groups](../Stakeholder/PBN__Stakeholder_115)
-* [healthcare workers](../Stakeholder/PBN__Stakeholder_68)
-
-## Property: has_RiskType
-
-* [social](../RiskType/PBN__RiskType_2)
-
-## Property: has_RiskISO_Purpose
-
-* [Well-being](../RiskISO/PBN__RiskISO_Impact_1)
-
-## Property: has_RiskOwner
-
-* [government](../Stakeholder/PBN__Stakeholder_73)
-* [mental health organizations](../Stakeholder/PBN__Stakeholder_605)
-* [governments](../Stakeholder/PBN__Stakeholder_47)
-* [community support networks](../Stakeholder/PBN__Stakeholder_1268)
-* [healthcare providers](../Stakeholder/PBN__Stakeholder_121)
-
-## Property: has_RiskMitigation
-
-* [Provide mental health support services, promote social connectedness, and address economic challenges](../RiskMitigation/PBN__RiskMitigation_1889)
-* [Provide mental health support services, promote social connections, and raise awareness about mental health.](../RiskMitigation/PBN__RiskMitigation_2469)
-* [Increase access to mental health services, promote mental health awareness and support, provide coping mechanisms and resources.](../RiskMitigation/PBN__RiskMitigation_2913)
-* [Regular Physical Activity](../Mitigation/PBN__Mitigation_1239)
 
 ## Property: has_RiskName
 
 Increased mental health disorders, decreased well-being and quality of life.
 
+## Property: has_RiskISO_Impact
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+
+## Property: has_RiskOwner
+
+* [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
+* [mental health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_605.md)
+* [governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
+* [community support networks](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1268.md)
+* [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
+
+## Property: has_RiskTechnology
+
+* [teletherapy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_609.md)
+* [online support groups](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_124.md)
+* [online therapy platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_116.md)
+* [mental health apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_117.md)
+* [telepsychiatry](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1247.md)
+* [mental health hotlines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1811.md)
+* [mental health education programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1812.md)
+
+## Property: has_RiskSubject
+
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+* [vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_115.md)
+* [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
+
+## Property: has_RiskMitigation
+
+* [Provide mental health support services, promote social connectedness, and address economic challenges](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1889.md)
+* [Provide mental health support services, promote social connections, and raise awareness about mental health.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2469.md)
+* [Increase access to mental health services, promote mental health awareness and support, provide coping mechanisms and resources.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2913.md)
+* [Regular Physical Activity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1239.md)
+
 ## Property: has_RiskDescription
 
 Psychological and emotional impact of the pandemic and associated stressors.
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [ferguson_report_2020](../Article/PBN__Article_80)
-* [panneer_health_2022](../Article/PBN__Article_144)
-* [tricarico_proximity_2021](../Article/PBN__Article_216)
+* [mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
+
+## Property: has_RiskType
+
+* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
 
 ## Property: has_RiskGBN
 
-* [No](../RiskGBN/PBN__RiskGBN_0)
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [mental](../RiskHealth/PBN__RiskHealth_1)
+* [ferguson_report_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_80.md)
+* [panneer_health_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_144.md)
+* [tricarico_proximity_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_216.md)
 

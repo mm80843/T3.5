@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Air sampling__ (PBN__Mitigation_1521)
-
-## Property: has_MitigationTechnology
-
-* [skc universal pumps](../Technology/PBN__Technology_3907)
-* [sartorius md8 sampler](../Technology/PBN__Technology_3908)
 
 ## Property: has_MitigationSource
 
-* [ong_air_2020](../Article/PBN__Article_264)
+* [ong_air_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_264.md)
+
+## Property: has_MitigationTechnology
+
+* [skc universal pumps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3907.md)
+* [sartorius md8 sampler](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3908.md)
 
 ## Property: has_MitigationPrinciple
 

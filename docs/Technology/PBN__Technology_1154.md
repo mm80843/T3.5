@@ -1,6 +1,8 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) 
+
 # Technology: __sustainable practices__ (PBN__Technology_1154)
 
 ## Property: has_TechnologyID
 
-* [Q219416](../Qid/Q219416)
+* [Q219416](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q219416.md)
 

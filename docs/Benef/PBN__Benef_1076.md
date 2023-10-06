@@ -1,20 +1,22 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Consistency in parking standards__ (PBN__Benef_1076)
 
 ## Property: has_BenefDetails
 
 Promotes uniformity in car parking design across different countries
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Streamlined design process, increased efficiency in car parking development](../BenefReturn/PBN__BenefReturn_1202)
+* [soliman_building_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_224.md)
 
 ## Property: has_Beneficiary
 
-* [architects](../Stakeholder/PBN__Stakeholder_431)
-* [designers](../Stakeholder/PBN__Stakeholder_74)
-* [building owners](../Stakeholder/PBN__Stakeholder_80)
+* [architects](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_431.md)
+* [designers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_74.md)
+* [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [soliman_building_2022](../Article/PBN__Article_224)
+* [Streamlined design process, increased efficiency in car parking development](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1202.md)
 

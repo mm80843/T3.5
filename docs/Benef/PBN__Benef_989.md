@@ -1,18 +1,20 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Understanding disease transmission__ (PBN__Benef_989)
 
 ## Property: has_BenefDetails
 
 Conducting epidemiological research helps to understand the patterns and transmission of infectious diseases, enabling better response strategies and policy development.
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Investing in epidemiological research improves public health outcomes and guides public health interventions.](../BenefReturn/PBN__BenefReturn_1096)
+* [bayoudhi_overview_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_204.md)
 
 ## Property: has_Beneficiary
 
-* [scientific community](../Stakeholder/PBN__Stakeholder_348)
+* [scientific community](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_348.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [bayoudhi_overview_2021](../Article/PBN__Article_204)
+* [Investing in epidemiological research improves public health outcomes and guides public health interventions.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1096.md)
 

@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Enhanced HVAC Systems__ (PBN__Mitigation_1756)
-
-## Property: has_MitigationTechnology
-
-* [ventilation systems](../Technology/PBN__Technology_139)
-* [air filters](../Technology/PBN__Technology_1111)
 
 ## Property: has_MitigationSource
 
-* [saadi-sedik_pandemics_2021](../Article/PBN__Article_98)
+* [saadi-sedik_pandemics_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_98.md)
+
+## Property: has_MitigationTechnology
+
+* [ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_139.md)
+* [air filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1111.md)
 
 ## Property: has_MitigationPrinciple
 

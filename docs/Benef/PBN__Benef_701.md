@@ -1,18 +1,20 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Social cohesion and network formation__ (PBN__Benef_701)
 
 ## Property: has_BenefDetails
 
 Building social capital through participatory governance enhances community resilience and responses to crises
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Higher asset value due to improved community stability and social cohesion](../BenefReturn/PBN__BenefReturn_747)
+* [syal_learning_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_137.md)
 
 ## Property: has_Beneficiary
 
-* [communities](../Stakeholder/PBN__Stakeholder_4)
+* [communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_4.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [syal_learning_2021](../Article/PBN__Article_137)
+* [Higher asset value due to improved community stability and social cohesion](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_747.md)
 

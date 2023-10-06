@@ -1,52 +1,54 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Positive health effects of NPIs__ (PBN__Risk_1792)
-
-## Property: has_RiskISO_Impact
-
-* [Biodiversity and ecosystem services](../RiskISO/PBN__RiskISO_Purpose_4)
-
-## Property: has_RiskTechnology
-
-* [sustainable practices](../Technology/PBN__Technology_1154)
-* [active transportation infrastructure](../Technology/PBN__Technology_1155)
-
-## Property: has_RiskSubject
-
-* [general population](../Stakeholder/PBN__Stakeholder_9)
-
-## Property: has_RiskType
-
-* [environmental](../RiskType/PBN__RiskType_0)
-
-## Property: has_RiskISO_Purpose
-
-* [Preservation and improvement of the environment](../RiskISO/PBN__RiskISO_Impact_6)
-
-## Property: has_RiskOwner
-
-* [governments](../Stakeholder/PBN__Stakeholder_47)
-* [environmental organizations](../Stakeholder/PBN__Stakeholder_1193)
-
-## Property: has_RiskMitigation
-
-* [Promote sustainable practices, invest in infrastructure for active transportation](../RiskMitigation/PBN__RiskMitigation_2368)
 
 ## Property: has_RiskName
 
 Improved environmental health, decreased incidence of respiratory infections and accidents
 
+## Property: has_RiskISO_Impact
+
+* [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_4.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Preservation and improvement of the environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_6.md)
+
+## Property: has_RiskOwner
+
+* [governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
+* [environmental organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1193.md)
+
+## Property: has_RiskTechnology
+
+* [sustainable practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1154.md)
+* [active transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1155.md)
+
+## Property: has_RiskSubject
+
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+
+## Property: has_RiskMitigation
+
+* [Promote sustainable practices, invest in infrastructure for active transportation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2368.md)
+
 ## Property: has_RiskDescription
 
 Reduction in environmental pollution, road traffic accidents, and incidence of acute respiratory infections
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [muller_effects_2021](../Article/PBN__Article_30)
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Property: has_RiskType
+
+* [environmental](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_0.md)
 
 ## Property: has_RiskGBN
 
-* [No](../RiskGBN/PBN__RiskGBN_0)
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [physical](../RiskHealth/PBN__RiskHealth_0)
+* [muller_effects_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_30.md)
 

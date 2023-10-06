@@ -1,20 +1,30 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) 
+
 # Article: __dietz_2019_2020__ (PBN__Article_288)
+
+## Property: has_ArticleYear
+
+2020
+
+## Property: has_ArticleRef
+
+* [ong_air_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_264.md)
+* [kampf_persistence_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_233.md)
+* [van_doremalen_aerosol_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_21.md)
+* [marr_mechanistic_2019](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_54.md)
+* [memarzadeh_applications_2010](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_61.md)
+* [howard-reed_effect_2002](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_235.md)
+* [lytle_predicted_2005](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_321.md)
+* [bedell_efficacy_2016](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_269.md)
+* [kembel_architectural_2014](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_52.md)
 
 ## Property: has_ArticleLLMShortSummary
 
 This research abstract summarizes a comprehensive review of the literature on the spread and transmission dynamics of SARS-CoV-2, the virus responsible for COVID-19, within the built environment (BE). The review highlights the potential for the virus to be transmitted through both direct and indirect contact with contaminated surfaces (fomites), as well as through close interactions between individuals. It emphasizes the importance of understanding the role of human behavior, spatial dynamics, and building operational factors in promoting or mitigating the spread of the virus. The abstract also discusses the potential for airborne transmission of the virus and the role of ventilation systems in reducing transmission risks. It suggests several strategies for controlling and mitigating the spread of COVID-19 within the built environment, including proper hand hygiene, social distancing measures, cleaning and disinfection protocols, and enhanced HVAC operational practices. The abstract concludes by emphasizing the importance of these measures in reducing the potential for transmission of SARS-CoV-2 within the built environment and the need for continued research and implementation of effective infection control strategies.
 
-## Property: has_ArticleRef
+## Property: has_ArticleTitle
 
-* [ong_air_2020](../Article/PBN__Article_264)
-* [kampf_persistence_2020](../Article/PBN__Article_233)
-* [van_doremalen_aerosol_2020](../Article/PBN__Article_21)
-* [marr_mechanistic_2019](../Article/PBN__Article_54)
-* [memarzadeh_applications_2010](../Article/PBN__Article_61)
-* [howard-reed_effect_2002](../Article/PBN__Article_235)
-* [lytle_predicted_2005](../Article/PBN__Article_321)
-* [bedell_efficacy_2016](../Article/PBN__Article_269)
-* [kembel_architectural_2014](../Article/PBN__Article_52)
+2019 Novel Coronavirus (COVID-19) Pandemic: Built Environment Considerations To Reduce Transmission
 
 ## Property: has_ArticleLLMSummary
 
@@ -23,12 +33,4 @@ There have been several outbreaks of diseases caused by coronaviruses in the pas
 ## Property: has_ArticleDOI
 
 10.1128/mSystems.00245-20
-
-## Property: has_ArticleTitle
-
-2019 Novel Coronavirus (COVID-19) Pandemic: Built Environment Considerations To Reduce Transmission
-
-## Property: has_ArticleYear
-
-2020
 

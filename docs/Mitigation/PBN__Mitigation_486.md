@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Encouraging proper sanitation and hygiene practices__ (PBN__Mitigation_486)
-
-## Property: has_MitigationTechnology
-
-* [hand sanitizer](../Technology/PBN__Technology_3258)
-* [disinfectant wipes](../Technology/PBN__Technology_673)
 
 ## Property: has_MitigationSource
 
-* [cuerdo-vilches_mixed_2020](../Article/PBN__Article_89)
+* [cuerdo-vilches_mixed_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_89.md)
+
+## Property: has_MitigationTechnology
+
+* [hand sanitizer](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3258.md)
+* [disinfectant wipes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_673.md)
 
 ## Property: has_MitigationPrinciple
 

@@ -1,51 +1,53 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Lack of drugs and vaccines__ (PBN__Risk_1349)
-
-## Property: has_RiskISO_Impact
-
-* [Governance, empowerment and engagement](../RiskISO/PBN__RiskISO_Purpose_6)
-
-## Property: has_RiskTechnology
-
-* [research and development of drugs and vaccines](../Technology/PBN__Technology_545)
-
-## Property: has_RiskSubject
-
-* [general population](../Stakeholder/PBN__Stakeholder_9)
-
-## Property: has_RiskType
-
-* [technological](../RiskType/PBN__RiskType_5)
-
-## Property: has_RiskISO_Purpose
-
-* [Resilience](../RiskISO/PBN__RiskISO_Impact_2)
-
-## Property: has_RiskOwner
-
-* [global health organizations](../Stakeholder/PBN__Stakeholder_860)
-* [pharmaceutical companies](../Stakeholder/PBN__Stakeholder_124)
-
-## Property: has_RiskMitigation
-
-* [Rely on community interventions, transparency, and public engagement](../RiskMitigation/PBN__RiskMitigation_1843)
 
 ## Property: has_RiskName
 
 Increased morbidity and mortality rates
 
+## Property: has_RiskISO_Impact
+
+* [Governance, empowerment and engagement](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_6.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
+## Property: has_RiskOwner
+
+* [global health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_860.md)
+* [pharmaceutical companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_124.md)
+
+## Property: has_RiskTechnology
+
+* [research and development of drugs and vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_545.md)
+
+## Property: has_RiskSubject
+
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+
+## Property: has_RiskMitigation
+
+* [Rely on community interventions, transparency, and public engagement](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1843.md)
+
 ## Property: has_RiskDescription
 
 No drugs or vaccines are available, overburdened health systems
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [ebrahim_covid-19_2020](../Article/PBN__Article_112)
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Property: has_RiskType
+
+* [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
 
 ## Property: has_RiskGBN
 
-* [No](../RiskGBN/PBN__RiskGBN_0)
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [physical](../RiskHealth/PBN__RiskHealth_0)
+* [ebrahim_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_112.md)
 

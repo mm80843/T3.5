@@ -1,19 +1,21 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Public awareness and support__ (PBN__Benef_152)
 
 ## Property: has_BenefDetails
 
 Increasing public awareness and support for nature conservation and PCAs
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Increased public involvement and participation in conservation efforts](../BenefReturn/PBN__BenefReturn_153)
+* [cumming_building_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_33.md)
 
 ## Property: has_Beneficiary
 
-* [pcas](../Stakeholder/PBN__Stakeholder_84)
-* [general public](../Stakeholder/PBN__Stakeholder_29)
+* [pcas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_84.md)
+* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [cumming_building_2021](../Article/PBN__Article_33)
+* [Increased public involvement and participation in conservation efforts](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_153.md)
 

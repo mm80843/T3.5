@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Concentration methods__ (PBN__Mitigation_230)
-
-## Property: has_MitigationTechnology
-
-* [ultrafiltration](../Technology/PBN__Technology_3074)
-* [adsorption-elution](../Technology/PBN__Technology_3075)
 
 ## Property: has_MitigationSource
 
-* [barcelo_wastewater-based_2020](../Article/PBN__Article_178)
+* [barcelo_wastewater-based_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_178.md)
+
+## Property: has_MitigationTechnology
+
+* [ultrafiltration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3074.md)
+* [adsorption-elution](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3075.md)
 
 ## Property: has_MitigationPrinciple
 

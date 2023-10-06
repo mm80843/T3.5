@@ -1,17 +1,27 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) 
+
 # Article: __matheri_water_2023__ (PBN__Article_162)
+
+## Property: has_ArticleYear
+
+2023
+
+## Property: has_ArticleRef
+
+* [ahmed_first_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_205.md)
+* [hart_computational_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_252.md)
+* [poch_when_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_207.md)
+* [sims_future_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_48.md)
+* [wang_disinfection_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_191.md)
+* [wilkinson_local_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_36.md)
 
 ## Property: has_ArticleLLMShortSummary
 
 This research abstract discusses various aspects of the COVID-19 pandemic and its impact on water and wastewater management. It highlights the importance of proper management of water, sanitation, and hygiene (WASH) in preventing the spread of COVID-19. The use of wastewater surveillance as a tool for monitoring and tracking the spread of the virus is emphasized, along with the need for effective treatment and disinfection of wastewater. The abstract also explores the role of digitalization, artificial intelligence, and robotics in combating COVID-19, as well as the importance of contact tracing and the use of biosensors for early detection. It concludes by discussing the potential of predictive analytics, geospatial analysis, and knowledge management in responding to the pandemic. Overall, the abstract provides a comprehensive overview of the various approaches and technologies being employed to address the challenges of the COVID-19 pandemic in the water and wastewater sector.
 
-## Property: has_ArticleRef
+## Property: has_ArticleTitle
 
-* [ahmed_first_2020](../Article/PBN__Article_205)
-* [hart_computational_2020](../Article/PBN__Article_252)
-* [poch_when_2020](../Article/PBN__Article_207)
-* [sims_future_2020](../Article/PBN__Article_48)
-* [wang_disinfection_2020](../Article/PBN__Article_191)
-* [wilkinson_local_2020](../Article/PBN__Article_36)
+Water and wastewater digital surveillance for monitoring and early detection of the COVID-19 hotspot: industry 4.0
 
 ## Property: has_ArticleLLMSummary
 
@@ -20,12 +30,4 @@ The COVID-19 pandemic is a global health crisis caused by a virus called SARS-Co
 ## Property: has_ArticleDOI
 
 10.1007/s13762-022-03982-7
-
-## Property: has_ArticleTitle
-
-Water and wastewater digital surveillance for monitoring and early detection of the COVID-19 hotspot: industry 4.0
-
-## Property: has_ArticleYear
-
-2023
 

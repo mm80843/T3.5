@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Immunofluorescence__ (PBN__Mitigation_326)
-
-## Property: has_MitigationTechnology
-
-* [anti-human coronavirus spike glycoprotein](../Technology/PBN__Technology_3157)
-* [fluorescent staining protocol](../Technology/PBN__Technology_3158)
 
 ## Property: has_MitigationSource
 
-* [buonanno_far-uvc_2020](../Article/PBN__Article_182)
+* [buonanno_far-uvc_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_182.md)
+
+## Property: has_MitigationTechnology
+
+* [anti-human coronavirus spike glycoprotein](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3157.md)
+* [fluorescent staining protocol](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3158.md)
 
 ## Property: has_MitigationPrinciple
 

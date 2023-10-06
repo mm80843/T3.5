@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Promoting community voice and ownership__ (PBN__Mitigation_2266)
-
-## Property: has_MitigationTechnology
-
-* [community engagement and ownership models](../Technology/PBN__Technology_4383)
 
 ## Property: has_MitigationSource
 
-* [van_barneveld_covid-19_2020](../Article/PBN__Article_124)
+* [van_barneveld_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_124.md)
+
+## Property: has_MitigationTechnology
+
+* [community engagement and ownership models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4383.md)
 
 ## Property: has_MitigationPrinciple
 

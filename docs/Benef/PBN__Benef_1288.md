@@ -1,18 +1,20 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Reduced noise transmission__ (PBN__Benef_1288)
 
 ## Property: has_BenefDetails
 
 Decreased stress, improved focus and concentration
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Reduced noise levels lead to increased productivity and improved well-being, maximizing the asset value of the property.](../BenefReturn/PBN__BenefReturn_1453)
+* [awada_occupant_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_273.md)
 
 ## Property: has_Beneficiary
 
-* [occupants](../Stakeholder/PBN__Stakeholder_92)
+* [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [awada_occupant_2022](../Article/PBN__Article_273)
+* [Reduced noise levels lead to increased productivity and improved well-being, maximizing the asset value of the property.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1453.md)
 

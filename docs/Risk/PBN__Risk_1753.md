@@ -1,53 +1,55 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Data quality__ (PBN__Risk_1753)
-
-## Property: has_RiskISO_Impact
-
-* [Safety and security](../RiskISO/PBN__RiskISO_Purpose_5)
-
-## Property: has_RiskTechnology
-
-* [data cleansing and validation tools](../Technology/PBN__Technology_1126)
-
-## Property: has_RiskSubject
-
-* [data scientists](../Stakeholder/PBN__Stakeholder_627)
-* [healthcare researchers](../Stakeholder/PBN__Stakeholder_1168)
-
-## Property: has_RiskType
-
-* [technological](../RiskType/PBN__RiskType_5)
-
-## Property: has_RiskISO_Purpose
-
-* [Resilience](../RiskISO/PBN__RiskISO_Impact_2)
-
-## Property: has_RiskOwner
-
-* [data scientists](../Stakeholder/PBN__Stakeholder_627)
-* [researchers](../Stakeholder/PBN__Stakeholder_2)
-* [healthcare administrators](../Stakeholder/PBN__Stakeholder_559)
-
-## Property: has_RiskMitigation
-
-* [Improve data quality through standardized data collection processes](../RiskMitigation/PBN__RiskMitigation_2322)
 
 ## Property: has_RiskName
 
 Development of inaccurate predictive models and hindered decision-making
 
+## Property: has_RiskISO_Impact
+
+* [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_5.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
+## Property: has_RiskOwner
+
+* [data scientists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_627.md)
+* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+* [healthcare administrators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_559.md)
+
+## Property: has_RiskTechnology
+
+* [data cleansing and validation tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1126.md)
+
+## Property: has_RiskSubject
+
+* [data scientists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_627.md)
+* [healthcare researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1168.md)
+
+## Property: has_RiskMitigation
+
+* [Improve data quality through standardized data collection processes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2322.md)
+
 ## Property: has_RiskDescription
 
 Growing amount of data and poor-quality data aggregation
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [mehta_pandemic_2021](../Article/PBN__Article_106)
+* [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_5.md)
+
+## Property: has_RiskType
+
+* [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
 
 ## Property: has_RiskGBN
 
-* [No](../RiskGBN/PBN__RiskGBN_0)
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [technological](../RiskHealth/PBN__RiskHealth_5)
+* [mehta_pandemic_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_106.md)
 

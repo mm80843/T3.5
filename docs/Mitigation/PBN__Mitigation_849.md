@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Phosphate buffered saline (PBS)__ (PBN__Mitigation_849)
-
-## Property: has_MitigationTechnology
-
-* [phosphate buffered saline](../Technology/PBN__Technology_3492)
 
 ## Property: has_MitigationSource
 
-* [ikner_continuously_2020](../Article/PBN__Article_246)
+* [ikner_continuously_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_246.md)
+
+## Property: has_MitigationTechnology
+
+* [phosphate buffered saline](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3492.md)
 
 ## Property: has_MitigationPrinciple
 

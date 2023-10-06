@@ -1,19 +1,21 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Remote counseling services__ (PBN__Benef_1163)
 
 ## Property: has_BenefDetails
 
 Provides mental health support, counseling, and guidance remotely
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Supports mental well-being, reduces stress, and enhances coping mechanisms during the pandemic](../BenefReturn/PBN__BenefReturn_1294)
+* [raza_mobile_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_239.md)
 
 ## Property: has_Beneficiary
 
-* [general public](../Stakeholder/PBN__Stakeholder_29)
-* [individuals](../Stakeholder/PBN__Stakeholder_20)
+* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
+* [individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_20.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [raza_mobile_2021](../Article/PBN__Article_239)
+* [Supports mental well-being, reduces stress, and enhances coping mechanisms during the pandemic](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1294.md)
 

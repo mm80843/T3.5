@@ -1,6 +1,8 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Technical performance__ (PBN__Risk_2455)
 
 ## Property: has_RiskMitigation
 
-* [Training and upskilling of construction workers](../Mitigation/PBN__Mitigation_135)
+* [Training and upskilling of construction workers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_135.md)
 

@@ -1,60 +1,62 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Contagious diseases transmission through hospital wastes and wastewater__ (PBN__Risk_2314)
-
-## Property: has_RiskISO_Impact
-
-* [Biodiversity and ecosystem services](../RiskISO/PBN__RiskISO_Purpose_4)
-
-## Property: has_RiskTechnology
-
-* [various disinfection technologies including ozone](../Technology/PBN__Technology_1903)
-* [ultraviolet irradiation](../Technology/PBN__Technology_1904)
-* [liquid chlorine](../Technology/PBN__Technology_1905)
-* [chlorine dioxide](../Technology/PBN__Technology_1906)
-* [sodium hypochlorite](../Technology/PBN__Technology_852)
-
-## Property: has_RiskSubject
-
-* [public](../Stakeholder/PBN__Stakeholder_52)
-* [medical staff](../Stakeholder/PBN__Stakeholder_93)
-* [hospital workers](../Stakeholder/PBN__Stakeholder_432)
-* [individuals coming into contact with contaminated water sources](../Stakeholder/PBN__Stakeholder_1542)
-
-## Property: has_RiskType
-
-* [environmental](../RiskType/PBN__RiskType_0)
-
-## Property: has_RiskISO_Purpose
-
-* [Responsible resource use](../RiskISO/PBN__RiskISO_Impact_4)
-
-## Property: has_RiskOwner
-
-* [hospital management](../Stakeholder/PBN__Stakeholder_239)
-* [government](../Stakeholder/PBN__Stakeholder_73)
-* [environmental agencies](../Stakeholder/PBN__Stakeholder_685)
-* [water authorities](../Stakeholder/PBN__Stakeholder_494)
-
-## Property: has_RiskMitigation
-
-* [Proper disinfection and treatment of hospital wastes and wastewater to eliminate pathogens.](../RiskMitigation/PBN__RiskMitigation_3007)
 
 ## Property: has_RiskName
 
 Increased spread of contagious diseases and risk of infection.
 
+## Property: has_RiskISO_Impact
+
+* [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_4.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+
+## Property: has_RiskOwner
+
+* [hospital management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_239.md)
+* [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
+* [environmental agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_685.md)
+* [water authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_494.md)
+
+## Property: has_RiskTechnology
+
+* [various disinfection technologies including ozone](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1903.md)
+* [ultraviolet irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1904.md)
+* [liquid chlorine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1905.md)
+* [chlorine dioxide](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1906.md)
+* [sodium hypochlorite](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_852.md)
+
+## Property: has_RiskSubject
+
+* [public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_52.md)
+* [medical staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_93.md)
+* [hospital workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_432.md)
+* [individuals coming into contact with contaminated water sources](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1542.md)
+
+## Property: has_RiskMitigation
+
+* [Proper disinfection and treatment of hospital wastes and wastewater to eliminate pathogens.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3007.md)
+
 ## Property: has_RiskDescription
 
 Hospital wastes and wastewater contaminated with contagious diseases pathogens can lead to the transmission of diseases to individuals coming into contact with the waste or through contaminated water sources.
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [wang_disinfection_2020](../Article/PBN__Article_191)
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Property: has_RiskType
+
+* [environmental](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_0.md)
 
 ## Property: has_RiskGBN
 
-* [No](../RiskGBN/PBN__RiskGBN_0)
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [physical](../RiskHealth/PBN__RiskHealth_0)
+* [wang_disinfection_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_191.md)
 

@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Machine learning algorithms for screening of SARS-CoV-2__ (PBN__Mitigation_1395)
-
-## Property: has_MitigationTechnology
-
-* [machine learning algorithms](../Technology/PBN__Technology_3165)
 
 ## Property: has_MitigationSource
 
-* [naseem_exploring_2020](../Article/PBN__Article_131)
+* [naseem_exploring_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_131.md)
+
+## Property: has_MitigationTechnology
+
+* [machine learning algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3165.md)
 
 ## Property: has_MitigationPrinciple
 

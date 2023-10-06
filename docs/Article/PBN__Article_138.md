@@ -1,8 +1,18 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) 
+
 # Article: __vela_rol_2021__ (PBN__Article_138)
+
+## Property: has_ArticleYear
+
+2021
 
 ## Property: has_ArticleLLMShortSummary
 
 This research aimed to identify the role of social networks during times of crisis such as the COVID-19 pandemic. The study used a methodological approach combining a systematic literature review and an analytical evolutionary observation of social media posts from March to July 2020. The results indicate that social networks are massive and easily accessible mechanisms that serve as an effective communication channel for government measures to combat the pandemic. However, there are also publications on social media that aim to generate panic, spread unproven remedies, and even disseminate fake news. These negative aspects should be analyzed further to understand the nature of behaviors that contribute to these issues, especially considering the crisis situation that the population is facing. The study highlights the importance of recognizing the broad spectrum of behaviors and reactions related to COVID-19 on social media in order to effectively address the crisis.
+
+## Property: has_ArticleTitle
+
+El Rol De Las Redes Sociales En La Pandemia Del Covid-19
 
 ## Property: has_ArticleLLMSummary
 
@@ -11,12 +21,4 @@ Summary: This study aimed to understand how social networks, like Facebook and I
 ## Property: has_ArticleDOI
 
 10.14198/GEOGRA2021.12.137
-
-## Property: has_ArticleTitle
-
-El Rol De Las Redes Sociales En La Pandemia Del Covid-19
-
-## Property: has_ArticleYear
-
-2021
 

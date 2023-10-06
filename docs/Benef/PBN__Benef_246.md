@@ -1,29 +1,31 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Reduced energy consumption__ (PBN__Benef_246)
 
 ## Property: has_BenefDetails
 
 The use of occupancy sensing setback thermostats can lead to reduced energy consumption by adjusting the temperature when rooms are unoccupied.
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Implementing energy-efficient appliances can attract tenants seeking cost savings and a greener lifestyle.](../BenefReturn/PBN__BenefReturn_258)
-* [Private investors can benefit from the implementation of energy-efficient technologies and renewable energy sources, leading to increased market demand and investment opportunities.](../BenefReturn/PBN__BenefReturn_665)
-* [Lower energy costs, increased energy efficiency](../BenefReturn/PBN__BenefReturn_912)
-* [Private investors can benefit from reduced energy costs for homeowners and increased energy efficiency in buildings.](../BenefReturn/PBN__BenefReturn_1394)
+* [tokazhanov_assessment_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_51.md)
+* [sovacool_contextualizing_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_123.md)
+* [mokhtari_effect_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_169.md)
+* [al-mumin_occupants_2003](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_260.md)
 
 ## Property: has_Beneficiary
 
-* [residents](../Stakeholder/PBN__Stakeholder_59)
-* [society](../Stakeholder/PBN__Stakeholder_53)
-* [building owners](../Stakeholder/PBN__Stakeholder_80)
-* [occupants](../Stakeholder/PBN__Stakeholder_92)
-* [environment](../Stakeholder/PBN__Stakeholder_116)
-* [homeowners](../Stakeholder/PBN__Stakeholder_480)
+* [residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
+* [society](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_53.md)
+* [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
+* [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
+* [environment](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_116.md)
+* [homeowners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_480.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [tokazhanov_assessment_2021](../Article/PBN__Article_51)
-* [sovacool_contextualizing_2020](../Article/PBN__Article_123)
-* [mokhtari_effect_2021](../Article/PBN__Article_169)
-* [al-mumin_occupants_2003](../Article/PBN__Article_260)
+* [Implementing energy-efficient appliances can attract tenants seeking cost savings and a greener lifestyle.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_258.md)
+* [Private investors can benefit from the implementation of energy-efficient technologies and renewable energy sources, leading to increased market demand and investment opportunities.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_665.md)
+* [Lower energy costs, increased energy efficiency](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_912.md)
+* [Private investors can benefit from reduced energy costs for homeowners and increased energy efficiency in buildings.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1394.md)
 

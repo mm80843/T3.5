@@ -1,4 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) 
+
 # Article: __syal_learning_2021__ (PBN__Article_137)
+
+## Property: has_ArticleYear
+
+2021
+
+## Property: has_ArticleRef
+
+* [kampf_persistence_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_233.md)
+* [van_doremalen_aerosol_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_21.md)
 
 ## Property: has_ArticleLLMShortSummary
 
@@ -6,10 +17,9 @@ This research abstract summarizes a comprehensive study on the impact of the COV
 Access to critical infrastructures such as water and shelter is crucial to reducing vulnerability and curbing disease transmission. Environmental quality, including air and water pollution, can exacerbate the incidence and severity of diseases. The study emphasizes the need for redundancy in supply chains and operations to prevent shortages and strengthen resilience. Furthermore, participatory governance structures and the cultivation of social capital are vital for building adaptive capacity and responding effectively to shocks.
 The abstract also discusses the integration of complex systems and resilience theory in public health and urban planning. It recognizes the interconnectedness of macro and micro factors and emphasizes the role of planning in addressing the unequal distribution of disease in society. The abstract concludes by highlighting the need for comprehensive planning strategies that reduce shocks, stresses, vulnerability, and enhance redundancy and social adaptive capacity in urban settlements.
 
-## Property: has_ArticleRef
+## Property: has_ArticleTitle
 
-* [kampf_persistence_2020](../Article/PBN__Article_233)
-* [van_doremalen_aerosol_2020](../Article/PBN__Article_21)
+Learning from pandemics: Applying resilience thinking to identify priorities for planning urban settlements
 
 ## Property: has_ArticleLLMSummary
 
@@ -18,12 +28,4 @@ This text is about how diseases like COVID-19 can affect cities and what we need
 ## Property: has_ArticleDOI
 
 10.1016/j.jum.2021.05.004
-
-## Property: has_ArticleTitle
-
-Learning from pandemics: Applying resilience thinking to identify priorities for planning urban settlements
-
-## Property: has_ArticleYear
-
-2021
 

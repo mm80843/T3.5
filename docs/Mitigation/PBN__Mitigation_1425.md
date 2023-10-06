@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Regular air changes__ (PBN__Mitigation_1425)
-
-## Property: has_MitigationTechnology
-
-* [hvac systems](../Technology/PBN__Technology_185)
-* [natural ventilation](../Technology/PBN__Technology_270)
 
 ## Property: has_MitigationSource
 
-* [nembhard_ventilation_2020](../Article/PBN__Article_104)
+* [nembhard_ventilation_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_104.md)
+
+## Property: has_MitigationTechnology
+
+* [hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_185.md)
+* [natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_270.md)
 
 ## Property: has_MitigationPrinciple
 

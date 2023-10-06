@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Enhance Access to Mental Health Care__ (PBN__Mitigation_1834)
-
-## Property: has_MitigationTechnology
-
-* [improved healthcare infrastructure](../Technology/PBN__Technology_1204)
-* [telemedicine](../Technology/PBN__Technology_73)
 
 ## Property: has_MitigationSource
 
-* [santini_mental_2021](../Article/PBN__Article_189)
+* [santini_mental_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_189.md)
+
+## Property: has_MitigationTechnology
+
+* [improved healthcare infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1204.md)
+* [telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_73.md)
 
 ## Property: has_MitigationPrinciple
 

@@ -1,18 +1,20 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Improved systems design__ (PBN__Benef_319)
 
 ## Property: has_BenefDetails
 
 Further research needed on efficacy of UVGI systems
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Improved understanding and optimization of UVGI systems](../BenefReturn/PBN__BenefReturn_336)
+* [memarzadeh_applications_2010](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_61.md)
 
 ## Property: has_Beneficiary
 
-* [researchers](../Stakeholder/PBN__Stakeholder_2)
+* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [memarzadeh_applications_2010](../Article/PBN__Article_61)
+* [Improved understanding and optimization of UVGI systems](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_336.md)
 

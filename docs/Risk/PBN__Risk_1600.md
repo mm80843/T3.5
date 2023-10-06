@@ -1,53 +1,55 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Exclusion from government support programs__ (PBN__Risk_1600)
-
-## Property: has_RiskISO_Impact
-
-* [Health and care](../RiskISO/PBN__RiskISO_Purpose_0)
-
-## Property: has_RiskTechnology
-
-* [lobbying initiatives](../Technology/PBN__Technology_913)
-* [online entrepreneurship communities](../Technology/PBN__Technology_914)
-
-## Property: has_RiskSubject
-
-* [startup founders](../Stakeholder/PBN__Stakeholder_1033)
-* [entrepreneurs](../Stakeholder/PBN__Stakeholder_417)
-
-## Property: has_RiskType
-
-* [political](../RiskType/PBN__RiskType_1)
-
-## Property: has_RiskISO_Purpose
-
-* [Responsible resource use](../RiskISO/PBN__RiskISO_Impact_4)
-
-## Property: has_RiskOwner
-
-* [startups](../Stakeholder/PBN__Stakeholder_322)
-* [government](../Stakeholder/PBN__Stakeholder_73)
-
-## Property: has_RiskMitigation
-
-* [Advocate for startup-specific support, gather information through entrepreneurial networks.](../RiskMitigation/PBN__RiskMitigation_2135)
 
 ## Property: has_RiskName
 
 Limited financial support and resources.
 
+## Property: has_RiskISO_Impact
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+
+## Property: has_RiskOwner
+
+* [startups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_322.md)
+* [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
+
+## Property: has_RiskTechnology
+
+* [lobbying initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_913.md)
+* [online entrepreneurship communities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_914.md)
+
+## Property: has_RiskSubject
+
+* [startup founders](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1033.md)
+* [entrepreneurs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_417.md)
+
+## Property: has_RiskMitigation
+
+* [Advocate for startup-specific support, gather information through entrepreneurial networks.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2135.md)
+
 ## Property: has_RiskDescription
 
 Startups are excluded from government support programs due to their specific characteristics or bureaucratic hurdles.
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [kuckertz_startups_2020](../Article/PBN__Article_158)
+* [economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_3.md)
+
+## Property: has_RiskType
+
+* [political](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_1.md)
 
 ## Property: has_RiskGBN
 
-* [No](../RiskGBN/PBN__RiskGBN_0)
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [economic](../RiskHealth/PBN__RiskHealth_3)
+* [kuckertz_startups_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_158.md)
 

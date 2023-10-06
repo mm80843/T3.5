@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Predictive Analytics for Resource Planning__ (PBN__Mitigation_1322)
-
-## Property: has_MitigationTechnology
-
-* [predictive analytics](../Technology/PBN__Technology_3710)
-* [epidemiological models](../Technology/PBN__Technology_757)
 
 ## Property: has_MitigationSource
 
-* [mehta_pandemic_2021](../Article/PBN__Article_106)
+* [mehta_pandemic_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_106.md)
+
+## Property: has_MitigationTechnology
+
+* [predictive analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3710.md)
+* [epidemiological models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_757.md)
 
 ## Property: has_MitigationPrinciple
 

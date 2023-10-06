@@ -1,59 +1,61 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Contagious transmission in buildings__ (PBN__Risk_1140)
-
-## Property: has_RiskISO_Impact
-
-* [Biodiversity and ecosystem services](../RiskISO/PBN__RiskISO_Purpose_4)
-
-## Property: has_RiskTechnology
-
-* [ventilation systems](../Technology/PBN__Technology_139)
-* [air purifiers](../Technology/PBN__Technology_138)
-* [uv germicidal irradiation](../Technology/PBN__Technology_225)
-* [proper cleaning and disinfection protocols](../Technology/PBN__Technology_226)
-
-## Property: has_RiskSubject
-
-* [individuals in crowded](../Stakeholder/PBN__Stakeholder_663)
-* [poorly ventilated indoor environments such as offices](../Stakeholder/PBN__Stakeholder_664)
-* [restaurants](../Stakeholder/PBN__Stakeholder_243)
-* [gyms](../Stakeholder/PBN__Stakeholder_665)
-* [healthcare facilities](../Stakeholder/PBN__Stakeholder_33)
-
-## Property: has_RiskType
-
-* [social](../RiskType/PBN__RiskType_2)
-
-## Property: has_RiskISO_Purpose
-
-* [Resilience](../RiskISO/PBN__RiskISO_Impact_2)
-
-## Property: has_RiskOwner
-
-* [building owners](../Stakeholder/PBN__Stakeholder_80)
-* [facility managers](../Stakeholder/PBN__Stakeholder_166)
-* [individuals in charge of building maintenance and operations](../Stakeholder/PBN__Stakeholder_666)
-
-## Property: has_RiskMitigation
-
-* [Ensure adequate ventilation, maintain physical distancing, wear masks, practice good hand hygiene, and clean and disinfect surfaces regularly.](../RiskMitigation/PBN__RiskMitigation_1589)
 
 ## Property: has_RiskName
 
 Rapid spread of COVID-19 and increased risk of transmission in indoor environments.
 
+## Property: has_RiskISO_Impact
+
+* [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_4.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
+## Property: has_RiskOwner
+
+* [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
+* [facility managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_166.md)
+* [individuals in charge of building maintenance and operations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_666.md)
+
+## Property: has_RiskTechnology
+
+* [ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_139.md)
+* [air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_138.md)
+* [uv germicidal irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_225.md)
+* [proper cleaning and disinfection protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_226.md)
+
+## Property: has_RiskSubject
+
+* [individuals in crowded](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_663.md)
+* [poorly ventilated indoor environments such as offices](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_664.md)
+* [restaurants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_243.md)
+* [gyms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_665.md)
+* [healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_33.md)
+
+## Property: has_RiskMitigation
+
+* [Ensure adequate ventilation, maintain physical distancing, wear masks, practice good hand hygiene, and clean and disinfect surfaces regularly.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1589.md)
+
 ## Property: has_RiskDescription
 
 SARS-CoV-2 can spread easily in a confined, crowded, and poorly ventilated indoor environment, leading to a large number of secondary infections.
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [azuma_environmental_2020](../Article/PBN__Article_249)
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Property: has_RiskType
+
+* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
 
 ## Property: has_RiskGBN
 
-* [Yes](../RiskGBN/PBN__RiskGBN_1)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [physical](../RiskHealth/PBN__RiskHealth_0)
+* [azuma_environmental_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_249.md)
 

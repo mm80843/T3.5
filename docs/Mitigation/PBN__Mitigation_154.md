@@ -1,15 +1,17 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Prevention applications__ (PBN__Mitigation_154)
-
-## Property: has_MitigationTechnology
-
-* [iot](../Technology/PBN__Technology_277)
-* [mobile computing](../Technology/PBN__Technology_2998)
-* [drones](../Technology/PBN__Technology_864)
-* [image processing](../Technology/PBN__Technology_3006)
 
 ## Property: has_MitigationSource
 
-* [arpaci_leveraging_2021](../Article/PBN__Article_297)
+* [arpaci_leveraging_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_297.md)
+
+## Property: has_MitigationTechnology
+
+* [iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_277.md)
+* [mobile computing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2998.md)
+* [drones](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_864.md)
+* [image processing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3006.md)
 
 ## Property: has_MitigationPrinciple
 

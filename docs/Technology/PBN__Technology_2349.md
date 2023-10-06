@@ -1,18 +1,20 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) 
+
 # Technology: __UV-C disinfection technology__ (PBN__Technology_2349)
-
-## Property: has_TechnologyID
-
-* [Q73984](../Qid/Q73984)
 
 ## Property: has_StakeholderGroup
 
-* [Infrastructure](../TechGroup/PBN__TechGroup_4)
-* [Building materials](../TechGroup/PBN__TechGroup_12)
-* [Indoor air technlogies](../TechGroup/PBN__TechGroup_18)
+* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
+* [Building materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_12.md)
+* [Indoor air technlogies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_18.md)
+
+## Property: has_TechnologyID
+
+* [Q73984](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q73984.md)
 
 ## Property: has_StakeholderSubgroup
 
-* [Sanitation and Safety](../TechSubgroup/PBN__TechSubgroup_123)
-* [Purification and Disinfection](../TechSubgroup/PBN__TechSubgroup_88)
-* [Sanitation and Waste Management](../TechSubgroup/PBN__TechSubgroup_121)
+* [Sanitation and Safety](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_123.md)
+* [Purification and Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_88.md)
+* [Sanitation and Waste Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_121.md)
 

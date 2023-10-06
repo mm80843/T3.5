@@ -1,22 +1,24 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Physical distancing__ (PBN__Mitigation_192)
-
-## Property: has_MitigationTechnology
-
-* [nan](../Technology/PBN__Technology_22)
 
 ## Property: has_MitigationSource
 
-* [aydin_questioning_2020](../Article/PBN__Article_165)
-* [behzadinasab_surface_2020](../Article/PBN__Article_199)
-* [de_araujo_platform_2020](../Article/PBN__Article_46)
-* [ehlert_socio-economic_2021](../Article/PBN__Article_40)
-* [mahima_impact_2022](../Article/PBN__Article_10)
-* [mbunge_critical_2021](../Article/PBN__Article_91)
-* [muller_effects_2021](../Article/PBN__Article_30)
-* [oni_implications_2020](../Article/PBN__Article_68)
-* [rogers_city_2020](../Article/PBN__Article_7)
-* [shorfuzzaman_towards_2021](../Article/PBN__Article_117)
-* [yodang_knowledge_2021](../Article/PBN__Article_176)
+* [aydin_questioning_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_165.md)
+* [behzadinasab_surface_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_199.md)
+* [de_araujo_platform_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_46.md)
+* [ehlert_socio-economic_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_40.md)
+* [mahima_impact_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_10.md)
+* [mbunge_critical_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_91.md)
+* [muller_effects_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_30.md)
+* [oni_implications_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_68.md)
+* [rogers_city_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_7.md)
+* [shorfuzzaman_towards_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_117.md)
+* [yodang_knowledge_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_176.md)
+
+## Property: has_MitigationTechnology
+
+* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 
 ## Property: has_MitigationPrinciple
 

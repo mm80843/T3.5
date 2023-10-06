@@ -1,52 +1,54 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Student and faculty stress__ (PBN__Risk_2148)
-
-## Property: has_RiskISO_Impact
-
-* [Health and care](../RiskISO/PBN__RiskISO_Purpose_0)
-
-## Property: has_RiskTechnology
-
-* [mental health support services](../Technology/PBN__Technology_1121)
-* [mindfulness and stress reduction techniques](../Technology/PBN__Technology_1665)
-
-## Property: has_RiskSubject
-
-* [students](../Stakeholder/PBN__Stakeholder_101)
-* [faculty](../Stakeholder/PBN__Stakeholder_134)
-
-## Property: has_RiskType
-
-* [social](../RiskType/PBN__RiskType_2)
-
-## Property: has_RiskISO_Purpose
-
-* [Health and care](../RiskISO/PBN__RiskISO_Impact_3)
-
-## Property: has_RiskOwner
-
-* [university](../Stakeholder/PBN__Stakeholder_1457)
-
-## Property: has_RiskMitigation
-
-* [Provide counseling services, emphasize mental health support](../RiskMitigation/PBN__RiskMitigation_2810)
 
 ## Property: has_RiskName
 
 Negative impact on mental health and well-being
 
+## Property: has_RiskISO_Impact
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
+
+## Property: has_RiskOwner
+
+* [university](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1457.md)
+
+## Property: has_RiskTechnology
+
+* [mental health support services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1121.md)
+* [mindfulness and stress reduction techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1665.md)
+
+## Property: has_RiskSubject
+
+* [students](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_101.md)
+* [faculty](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_134.md)
+
+## Property: has_RiskMitigation
+
+* [Provide counseling services, emphasize mental health support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2810.md)
+
 ## Property: has_RiskDescription
 
 High levels of stress among students and faculty during the pandemic
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [sutton_reframe_2020](../Article/PBN__Article_53)
+* [mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
+
+## Property: has_RiskType
+
+* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
 
 ## Property: has_RiskGBN
 
-* [No](../RiskGBN/PBN__RiskGBN_0)
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [mental](../RiskHealth/PBN__RiskHealth_1)
+* [sutton_reframe_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_53.md)
 

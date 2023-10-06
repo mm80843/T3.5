@@ -1,54 +1,56 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Health risks__ (PBN__Risk_2014)
-
-## Property: has_RiskISO_Impact
-
-* [Impact](../RiskISO/PBN__RiskISO_Purpose_11)
-
-## Property: has_RiskTechnology
-
-* [social distancing technologies](../Technology/PBN__Technology_1476)
-* [personal protective equipment](../Technology/PBN__Technology_136)
-* [healthcare infrastructure](../Technology/PBN__Technology_3)
-
-## Property: has_RiskSubject
-
-* [general population](../Stakeholder/PBN__Stakeholder_9)
-* [vulnerable populations](../Stakeholder/PBN__Stakeholder_127)
-
-## Property: has_RiskType
-
-* [environmental](../RiskType/PBN__RiskType_0)
-
-## Property: has_RiskISO_Purpose
-
-* [Topic](../RiskISO/PBN__RiskISO_Impact_12)
-
-## Property: has_RiskOwner
-
-* [public health agencies](../Stakeholder/PBN__Stakeholder_222)
-* [healthcare systems](../Stakeholder/PBN__Stakeholder_193)
-
-## Property: has_RiskMitigation
-
-* [Implement public health measures, such as social distancing and proper hygiene protocols, invest in healthcare infrastructure and resources, and promote vaccination and disease surveillance.](../RiskMitigation/PBN__RiskMitigation_2632)
 
 ## Property: has_RiskName
 
 Increased morbidity and mortality rates, overwhelmed healthcare systems, and long-term health consequences.
 
+## Property: has_RiskISO_Impact
+
+* [Impact](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_11.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Topic](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_12.md)
+
+## Property: has_RiskOwner
+
+* [public health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_222.md)
+* [healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_193.md)
+
+## Property: has_RiskTechnology
+
+* [social distancing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1476.md)
+* [personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_136.md)
+* [healthcare infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3.md)
+
+## Property: has_RiskSubject
+
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+* [vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_127.md)
+
+## Property: has_RiskMitigation
+
+* [Implement public health measures, such as social distancing and proper hygiene protocols, invest in healthcare infrastructure and resources, and promote vaccination and disease surveillance.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2632.md)
+
 ## Property: has_RiskDescription
 
 Pandemics, such as COVID-19, pose significant health risks to individuals and communities.
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [saadi-sedik_pandemics_2021](../Article/PBN__Article_98)
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Property: has_RiskType
+
+* [environmental](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_0.md)
 
 ## Property: has_RiskGBN
 
-* [No](../RiskGBN/PBN__RiskGBN_0)
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [physical](../RiskHealth/PBN__RiskHealth_0)
+* [saadi-sedik_pandemics_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_98.md)
 

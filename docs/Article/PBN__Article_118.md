@@ -1,8 +1,18 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) 
+
 # Article: __wu_current_2021__ (PBN__Article_118)
+
+## Property: has_ArticleYear
+
+2021
 
 ## Property: has_ArticleLLMShortSummary
 
 This review article provides a summary of current knowledge on various aspects of COVID-19, including the origin of the SARS-CoV-2 virus, its cell entry mechanisms, tissue tropism, and pathogenesis. The review discusses the potential animal hosts of the virus, such as bats and pangolins, and highlights the need to identify the "Patient Zero" to better understand the emergence of the virus. The article also explores the different receptors and factors involved in virus entry into host cells, as well as the organ systems affected by COVID-19, including the respiratory system, gastrointestinal system, and central nervous system. Additionally, the review examines population susceptibility to the virus, with a focus on age, gender, and blood type. The article also discusses key factors contributing to the transmission of the virus, such as close contact, respiratory droplets, and surface contamination, and highlights the importance of vaccines and drugs in combating the disease. The review concludes by emphasizing the need for ongoing surveillance of coronaviruses and the development of broad-spectrum antiviral drugs and universal vaccines to prepare for future outbreaks of emerging infectious diseases.
+
+## Property: has_ArticleTitle
+
+Current knowledge of COVID-19: Advances, challenges and future perspectives
 
 ## Property: has_ArticleLLMSummary
 
@@ -11,12 +21,4 @@ Scientists have been studying COVID-19 to find out where it comes from and how i
 ## Property: has_ArticleDOI
 
 10.1016/j.bsheal.2021.06.001
-
-## Property: has_ArticleTitle
-
-Current knowledge of COVID-19: Advances, challenges and future perspectives
-
-## Property: has_ArticleYear
-
-2021
 

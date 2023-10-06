@@ -1,14 +1,16 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) 
+
 # Stakeholder: __energy assistance programs__ (PBN__Stakeholder_1010)
-
-## Property: has_StakeholderGroup
-
-* [Private Sector](../StakeholderGroup/PBN__StakeholderGroup_5)
-
-## Property: has_StakeholderID
-
-* [Q5376986](../Qid/Q5376986)
 
 ## Property: has_StakeholderSubgroup
 
-* [Energy](../StakeholderSubgroup/PBN__StakeholderSubgroup_30)
+* [Energy](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_30.md)
+
+## Property: has_StakeholderGroup
+
+* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
+
+## Property: has_StakeholderID
+
+* [Q5376986](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5376986.md)
 

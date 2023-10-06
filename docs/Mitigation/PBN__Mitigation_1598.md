@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Natural ventilation and thermal comfort at home__ (PBN__Mitigation_1598)
-
-## Property: has_MitigationTechnology
-
-* [operable windows](../Technology/PBN__Technology_3938)
-* [ventilation systems](../Technology/PBN__Technology_139)
 
 ## Property: has_MitigationSource
 
-* [peters_how_2020](../Article/PBN__Article_279)
+* [peters_how_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_279.md)
+
+## Property: has_MitigationTechnology
+
+* [operable windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3938.md)
+* [ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_139.md)
 
 ## Property: has_MitigationPrinciple
 

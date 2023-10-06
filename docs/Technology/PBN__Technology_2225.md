@@ -1,17 +1,19 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) 
+
 # Technology: __Improved ventilation systems__ (PBN__Technology_2225)
-
-## Property: has_TechnologyID
-
-* [Q584049](../Qid/Q584049)
 
 ## Property: has_StakeholderGroup
 
-* [Wellbeing](../TechGroup/PBN__TechGroup_2)
-* [Infrastructure](../TechGroup/PBN__TechGroup_4)
-* [Indoor air technologies](../TechGroup/PBN__TechGroup_13)
-* [Urban technology](../TechGroup/PBN__TechGroup_14)
+* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
+* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
+* [Indoor air technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_13.md)
+* [Urban technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_14.md)
+
+## Property: has_TechnologyID
+
+* [Q584049](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q584049.md)
 
 ## Property: has_StakeholderSubgroup
 
-* [Physical Health Technologies](../TechSubgroup/PBN__TechSubgroup_59)
+* [Physical Health Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_59.md)
 

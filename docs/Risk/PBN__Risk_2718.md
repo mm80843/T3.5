@@ -1,6 +1,8 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Bias in regions without testing__ (PBN__Risk_2718)
 
 ## Property: has_RiskMitigation
 
-* [Wastewater-based epidemiology (WBE)](../Mitigation/PBN__Mitigation_61)
+* [Wastewater-based epidemiology (WBE)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_61.md)
 

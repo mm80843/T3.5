@@ -1,8 +1,18 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) 
+
 # Article: __mahima_impact_2022__ (PBN__Article_10)
+
+## Property: has_ArticleYear
+
+2022
 
 ## Property: has_ArticleLLMShortSummary
 
 This research abstract summarizes a comprehensive review of the impact of Covid-19 on the built environment and provides insights into design considerations for mitigating the spread of the virus. The study emphasizes the need for better preparedness and response actions to address the global pandemic. The impacts of Covid-19 on public health, socio-economic composition, neighborhoods, streets, green spaces, and transportation are discussed. The research highlights the vulnerability and resilience of urban systems and the importance of inclusive urban planning and management of multi-functional public spaces. Recommendations include promoting development with lower density, decentralization, urban farming, and encouraging pedestrian and cycling facilities. The study also emphasizes the role of community gardens, parks, trails, and other public spaces in fostering physical activity and social interactions. Additionally, the research acknowledges the challenges faced in dense populations and suggests incorporating pandemic-resilient strategies in architectural and urban design curriculum. The abstract concludes with the importance of ongoing research, effective governance, and future studies to understand and prevent future pandemics.
+
+## Property: has_ArticleTitle
+
+Impact of Covid-19 on the built environment
 
 ## Property: has_ArticleLLMSummary
 
@@ -11,12 +21,4 @@ Covid-19 is a global pandemic that is affecting people all over the world. It is
 ## Property: has_ArticleDOI
 
 10.1108/FEBE-09-2021-0040
-
-## Property: has_ArticleTitle
-
-Impact of Covid-19 on the built environment
-
-## Property: has_ArticleYear
-
-2022
 

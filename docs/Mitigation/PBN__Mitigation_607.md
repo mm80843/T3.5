@@ -1,14 +1,16 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Activate rapid response services__ (PBN__Mitigation_607)
-
-## Property: has_MitigationTechnology
-
-* [standard operating procedures](../Technology/PBN__Technology_3347)
-* [skilled team](../Technology/PBN__Technology_3348)
-* [databases](../Technology/PBN__Technology_3349)
 
 ## Property: has_MitigationSource
 
-* [el-jardali_amplifying_2020](../Article/PBN__Article_111)
+* [el-jardali_amplifying_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_111.md)
+
+## Property: has_MitigationTechnology
+
+* [standard operating procedures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3347.md)
+* [skilled team](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3348.md)
+* [databases](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3349.md)
 
 ## Property: has_MitigationPrinciple
 

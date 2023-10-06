@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Zoned Air Conditioning__ (PBN__Mitigation_2016)
-
-## Property: has_MitigationTechnology
-
-* [ducted air conditioning](../Technology/PBN__Technology_4195)
 
 ## Property: has_MitigationSource
 
-* [spennemann_residential_2021](../Article/PBN__Article_56)
+* [spennemann_residential_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_56.md)
+
+## Property: has_MitigationTechnology
+
+* [ducted air conditioning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4195.md)
 
 ## Property: has_MitigationPrinciple
 

@@ -1,14 +1,16 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Education and training__ (PBN__Mitigation_178)
-
-## Property: has_MitigationTechnology
-
-* [workshops](../Technology/PBN__Technology_3039)
-* [courses](../Technology/PBN__Technology_3040)
-* [webinars](../Technology/PBN__Technology_3041)
 
 ## Property: has_MitigationSource
 
-* [awada_occupant_2022](../Article/PBN__Article_273)
+* [awada_occupant_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_273.md)
+
+## Property: has_MitigationTechnology
+
+* [workshops](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3039.md)
+* [courses](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3040.md)
+* [webinars](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3041.md)
 
 ## Property: has_MitigationPrinciple
 

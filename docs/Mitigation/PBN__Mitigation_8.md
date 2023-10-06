@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Dedicated walk-in clinic__ (PBN__Mitigation_8)
-
-## Property: has_MitigationTechnology
-
-* [medical infrastructure](../Technology/PBN__Technology_2897)
 
 ## Property: has_MitigationSource
 
-* [abideen_mitigation_2020](../Article/PBN__Article_200)
+* [abideen_mitigation_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_200.md)
+
+## Property: has_MitigationTechnology
+
+* [medical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2897.md)
 
 ## Property: has_MitigationPrinciple
 

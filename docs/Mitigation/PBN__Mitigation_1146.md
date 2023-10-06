@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Tick Control__ (PBN__Mitigation_1146)
-
-## Property: has_MitigationTechnology
-
-* [pyrethrin-soaked cotton fibers](../Technology/PBN__Technology_3689)
-* [ospa-based transmission-blocking vaccine](../Technology/PBN__Technology_3690)
 
 ## Property: has_MitigationSource
 
-* [lohmus_making_2015](../Article/PBN__Article_20)
+* [lohmus_making_2015](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_20.md)
+
+## Property: has_MitigationTechnology
+
+* [pyrethrin-soaked cotton fibers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3689.md)
+* [ospa-based transmission-blocking vaccine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3690.md)
 
 ## Property: has_MitigationPrinciple
 

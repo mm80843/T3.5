@@ -1,18 +1,20 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) 
+
 # Technology: __Sanitation systems__ (PBN__Technology_2406)
-
-## Property: has_TechnologyID
-
-* [Q949149](../Qid/Q949149)
 
 ## Property: has_StakeholderGroup
 
-* [Infrastructure](../TechGroup/PBN__TechGroup_4)
-* [Hygiene protocols](../TechGroup/PBN__TechGroup_9)
-* [Urban technology](../TechGroup/PBN__TechGroup_14)
+* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
+* [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_9.md)
+* [Urban technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_14.md)
+
+## Property: has_TechnologyID
+
+* [Q949149](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q949149.md)
 
 ## Property: has_StakeholderSubgroup
 
-* [Sanitation and Waste Management](../TechSubgroup/PBN__TechSubgroup_121)
-* [Urban Planning and Green Spaces](../TechSubgroup/PBN__TechSubgroup_85)
-* [Water and Waste Management](../TechSubgroup/PBN__TechSubgroup_134)
+* [Sanitation and Waste Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_121.md)
+* [Urban Planning and Green Spaces](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_85.md)
+* [Water and Waste Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_134.md)
 

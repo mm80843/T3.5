@@ -1,52 +1,54 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Importance of social distancing__ (PBN__Risk_1159)
-
-## Property: has_RiskISO_Impact
-
-* [Living and working environment](../RiskISO/PBN__RiskISO_Purpose_1)
-
-## Property: has_RiskTechnology
-
-* [nan](../Technology/PBN__Technology_22)
-
-## Property: has_RiskSubject
-
-* [densely populated urban slums](../Stakeholder/PBN__Stakeholder_692)
-* [refugee habitations](../Stakeholder/PBN__Stakeholder_693)
-
-## Property: has_RiskType
-
-* [social](../RiskType/PBN__RiskType_2)
-
-## Property: has_RiskISO_Purpose
-
-* [Health and care](../RiskISO/PBN__RiskISO_Impact_3)
-
-## Property: has_RiskOwner
-
-* [health authorities](../Stakeholder/PBN__Stakeholder_394)
-* [local governments](../Stakeholder/PBN__Stakeholder_568)
-
-## Property: has_RiskMitigation
-
-* [Provide guidance on social distancing measures, improve living conditions in crowded areas](../RiskMitigation/PBN__RiskMitigation_1611)
 
 ## Property: has_RiskName
 
 Difficulties in implementing social distancing in densely populated areas
 
+## Property: has_RiskISO_Impact
+
+* [Living and working environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_1.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
+
+## Property: has_RiskOwner
+
+* [health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_394.md)
+* [local governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_568.md)
+
+## Property: has_RiskTechnology
+
+* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
+
+## Property: has_RiskSubject
+
+* [densely populated urban slums](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_692.md)
+* [refugee habitations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_693.md)
+
+## Property: has_RiskMitigation
+
+* [Provide guidance on social distancing measures, improve living conditions in crowded areas](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1611.md)
+
 ## Property: has_RiskDescription
 
 Social distancing is crucial for containing the spread of the virus, but challenges exist
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [bauerle_e-mental_2020](../Article/PBN__Article_209)
+* [physical and mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_7.md)
+
+## Property: has_RiskType
+
+* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
 
 ## Property: has_RiskGBN
 
-* [Yes](../RiskGBN/PBN__RiskGBN_1)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [physical and mental](../RiskHealth/PBN__RiskHealth_7)
+* [bauerle_e-mental_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_209.md)
 

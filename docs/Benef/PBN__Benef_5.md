@@ -1,19 +1,21 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Early detection of COVID-19__ (PBN__Benef_5)
 
 ## Property: has_BenefDetails
 
 Monitoring the virus in sewage can serve as an early warning system for the (re-)emergence of COVID-19, allowing for timely public health interventions
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Private investors in sewage surveillance can benefit by providing a valuable service to communities and public health authorities, leading to potential future contracts and partnerships.](../BenefReturn/PBN__BenefReturn_5)
+* [medema_presence_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_1.md)
 
 ## Property: has_Beneficiary
 
-* [communities](../Stakeholder/PBN__Stakeholder_4)
-* [public health authorities](../Stakeholder/PBN__Stakeholder_0)
+* [communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_4.md)
+* [public health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_0.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [medema_presence_2020](../Article/PBN__Article_1)
+* [Private investors in sewage surveillance can benefit by providing a valuable service to communities and public health authorities, leading to potential future contracts and partnerships.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_5.md)
 

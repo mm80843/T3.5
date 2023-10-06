@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Decreased show-off behavior on social media__ (PBN__Mitigation_967)
-
-## Property: has_MitigationTechnology
-
-* [user behavior](../Technology/PBN__Technology_3563)
 
 ## Property: has_MitigationSource
 
-* [kaya_changes_2020](../Article/PBN__Article_185)
+* [kaya_changes_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_185.md)
+
+## Property: has_MitigationTechnology
+
+* [user behavior](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3563.md)
 
 ## Property: has_MitigationPrinciple
 

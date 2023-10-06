@@ -1,20 +1,22 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Improved wellbeing economy__ (PBN__Benef_904)
 
 ## Property: has_BenefDetails
 
 Sustainable and equitable economic growth, improved quality of life
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Enhanced societal well-being, long-term economic benefits](../BenefReturn/PBN__BenefReturn_990)
+* [sakellarides_viral_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_183.md)
 
 ## Property: has_Beneficiary
 
-* [national](../Stakeholder/PBN__Stakeholder_360)
-* [european](../Stakeholder/PBN__Stakeholder_361)
-* [and global economies](../Stakeholder/PBN__Stakeholder_362)
+* [national](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_360.md)
+* [european](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_361.md)
+* [and global economies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_362.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [sakellarides_viral_2020](../Article/PBN__Article_183)
+* [Enhanced societal well-being, long-term economic benefits](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_990.md)
 

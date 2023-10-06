@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Lightweight security solutions for IoT devices__ (PBN__Mitigation_1185)
-
-## Property: has_MitigationTechnology
-
-* [lightweight security algorithms](../Technology/PBN__Technology_3713)
-* [encryption technology](../Technology/PBN__Technology_1070)
 
 ## Property: has_MitigationSource
 
-* [malliga_comprehensive_2021](../Article/PBN__Article_35)
+* [malliga_comprehensive_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_35.md)
+
+## Property: has_MitigationTechnology
+
+* [lightweight security algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3713.md)
+* [encryption technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1070.md)
 
 ## Property: has_MitigationPrinciple
 

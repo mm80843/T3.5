@@ -1,53 +1,55 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Person-to-person transmission__ (PBN__Risk_2372)
-
-## Property: has_RiskISO_Impact
-
-* [Health and care](../RiskISO/PBN__RiskISO_Purpose_0)
-
-## Property: has_RiskTechnology
-
-* [contact tracing apps](../Technology/PBN__Technology_11)
-* [temperature screening](../Technology/PBN__Technology_25)
-
-## Property: has_RiskSubject
-
-* [building occupants](../Stakeholder/PBN__Stakeholder_97)
-* [visitors](../Stakeholder/PBN__Stakeholder_118)
-
-## Property: has_RiskType
-
-* [social](../RiskType/PBN__RiskType_2)
-
-## Property: has_RiskISO_Purpose
-
-* [Health and care](../RiskISO/PBN__RiskISO_Impact_3)
-
-## Property: has_RiskOwner
-
-* [individuals](../Stakeholder/PBN__Stakeholder_20)
-* [organizations](../Stakeholder/PBN__Stakeholder_186)
-
-## Property: has_RiskMitigation
-
-* [Social distancing, wearing masks, hand hygiene](../RiskMitigation/PBN__RiskMitigation_2293)
 
 ## Property: has_RiskName
 
 Rapid spread of disease and increased risk of infection
 
+## Property: has_RiskISO_Impact
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
+
+## Property: has_RiskOwner
+
+* [individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_20.md)
+* [organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_186.md)
+
+## Property: has_RiskTechnology
+
+* [contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_11.md)
+* [temperature screening](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_25.md)
+
+## Property: has_RiskSubject
+
+* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
+* [visitors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_118.md)
+
+## Property: has_RiskMitigation
+
+* [Social distancing, wearing masks, hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2293.md)
+
 ## Property: has_RiskDescription
 
 Contagious disease transmission through direct contact with an infected person
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [yakubu_aminu_dodo_green_2020](../Article/PBN__Article_290)
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Property: has_RiskType
+
+* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
 
 ## Property: has_RiskGBN
 
-* [No](../RiskGBN/PBN__RiskGBN_0)
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [physical](../RiskHealth/PBN__RiskHealth_0)
+* [yakubu_aminu_dodo_green_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_290.md)
 

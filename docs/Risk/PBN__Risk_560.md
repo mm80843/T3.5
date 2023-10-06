@@ -1,54 +1,56 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Barriers to accessing funding__ (PBN__Risk_560)
-
-## Property: has_RiskISO_Impact
-
-* [Safety and security](../RiskISO/PBN__RiskISO_Purpose_5)
-
-## Property: has_RiskTechnology
-
-* [crowdfunding platforms](../Technology/PBN__Technology_911)
-* [angel investor networks](../Technology/PBN__Technology_912)
-
-## Property: has_RiskSubject
-
-* [startup founders](../Stakeholder/PBN__Stakeholder_1033)
-* [entrepreneurs](../Stakeholder/PBN__Stakeholder_417)
-
-## Property: has_RiskType
-
-* [economic](../RiskType/PBN__RiskType_3)
-
-## Property: has_RiskISO_Purpose
-
-* [Responsible resource use](../RiskISO/PBN__RiskISO_Impact_4)
-
-## Property: has_RiskOwner
-
-* [startups](../Stakeholder/PBN__Stakeholder_322)
-* [investors](../Stakeholder/PBN__Stakeholder_49)
-
-## Property: has_RiskMitigation
-
-* [Bricolage crisis response](../RiskMitigation/PBN__RiskMitigation_786)
-* [Explore alternative funding options, build strong investor relationships.](../RiskMitigation/PBN__RiskMitigation_2134)
 
 ## Property: has_RiskName
 
 Limited financial resources, hindered business growth.
 
+## Property: has_RiskISO_Impact
+
+* [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_5.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+
+## Property: has_RiskOwner
+
+* [startups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_322.md)
+* [investors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_49.md)
+
+## Property: has_RiskTechnology
+
+* [crowdfunding platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_911.md)
+* [angel investor networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_912.md)
+
+## Property: has_RiskSubject
+
+* [startup founders](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1033.md)
+* [entrepreneurs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_417.md)
+
+## Property: has_RiskMitigation
+
+* [Bricolage crisis response](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_786.md)
+* [Explore alternative funding options, build strong investor relationships.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2134.md)
+
 ## Property: has_RiskDescription
 
 Startups face difficulties in accessing capital for recovery and growth.
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [kuckertz_startups_2020](../Article/PBN__Article_158)
+* [economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_3.md)
+
+## Property: has_RiskType
+
+* [economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_3.md)
 
 ## Property: has_RiskGBN
 
-* [No](../RiskGBN/PBN__RiskGBN_0)
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [economic](../RiskHealth/PBN__RiskHealth_3)
+* [kuckertz_startups_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_158.md)
 

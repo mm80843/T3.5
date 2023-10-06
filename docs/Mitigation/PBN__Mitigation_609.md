@@ -1,14 +1,16 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Remain alert and responsive to changing needs__ (PBN__Mitigation_609)
-
-## Property: has_MitigationTechnology
-
-* [monitoring systems](../Technology/PBN__Technology_201)
-* [social media analysis](../Technology/PBN__Technology_3352)
-* [proactive agenda setting](../Technology/PBN__Technology_3353)
 
 ## Property: has_MitigationSource
 
-* [el-jardali_amplifying_2020](../Article/PBN__Article_111)
+* [el-jardali_amplifying_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_111.md)
+
+## Property: has_MitigationTechnology
+
+* [monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_201.md)
+* [social media analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3352.md)
+* [proactive agenda setting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3353.md)
 
 ## Property: has_MitigationPrinciple
 

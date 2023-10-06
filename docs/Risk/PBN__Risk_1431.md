@@ -1,53 +1,55 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Domestic Violence and Intimate Partner Violence__ (PBN__Risk_1431)
-
-## Property: has_RiskISO_Impact
-
-* [Safety and security](../RiskISO/PBN__RiskISO_Purpose_5)
-
-## Property: has_RiskTechnology
-
-* [online platforms for helplines](../Technology/PBN__Technology_687)
-* [mobile apps for reporting](../Technology/PBN__Technology_688)
-
-## Property: has_RiskSubject
-
-* [victims of domestic violence and intimate partner violence](../Stakeholder/PBN__Stakeholder_931)
-
-## Property: has_RiskType
-
-* [social](../RiskType/PBN__RiskType_2)
-
-## Property: has_RiskISO_Purpose
-
-* [Social cohesion](../RiskISO/PBN__RiskISO_Impact_5)
-
-## Property: has_RiskOwner
-
-* [government](../Stakeholder/PBN__Stakeholder_73)
-* [ngos](../Stakeholder/PBN__Stakeholder_234)
-* [support organizations](../Stakeholder/PBN__Stakeholder_791)
-
-## Property: has_RiskMitigation
-
-* [Increased accessibility to helplines and support services, awareness campaigns.](../RiskMitigation/PBN__RiskMitigation_1940)
 
 ## Property: has_RiskName
 
 Physical harm, psychological trauma, and even death for the victims.
 
+## Property: has_RiskISO_Impact
+
+* [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_5.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Social cohesion](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_5.md)
+
+## Property: has_RiskOwner
+
+* [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
+* [ngos](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_234.md)
+* [support organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_791.md)
+
+## Property: has_RiskTechnology
+
+* [online platforms for helplines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_687.md)
+* [mobile apps for reporting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_688.md)
+
+## Property: has_RiskSubject
+
+* [victims of domestic violence and intimate partner violence](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_931.md)
+
+## Property: has_RiskMitigation
+
+* [Increased accessibility to helplines and support services, awareness campaigns.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1940.md)
+
 ## Property: has_RiskDescription
 
 Increased incidence of domestic violence and intimate partner violence during lockdowns.
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [gurney_dangerous_2021](../Article/PBN__Article_2)
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Property: has_RiskType
+
+* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
 
 ## Property: has_RiskGBN
 
-* [No](../RiskGBN/PBN__RiskGBN_0)
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [physical](../RiskHealth/PBN__RiskHealth_0)
+* [gurney_dangerous_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_2.md)
 

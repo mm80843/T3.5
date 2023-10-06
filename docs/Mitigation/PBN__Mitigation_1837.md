@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Implement Policies for Paid Sick Leave__ (PBN__Mitigation_1837)
-
-## Property: has_MitigationTechnology
-
-* [government legislation](../Technology/PBN__Technology_4097)
-* [workplace policies](../Technology/PBN__Technology_4098)
 
 ## Property: has_MitigationSource
 
-* [santini_mental_2021](../Article/PBN__Article_189)
+* [santini_mental_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_189.md)
+
+## Property: has_MitigationTechnology
+
+* [government legislation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4097.md)
+* [workplace policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4098.md)
 
 ## Property: has_MitigationPrinciple
 

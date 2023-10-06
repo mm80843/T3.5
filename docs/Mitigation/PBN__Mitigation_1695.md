@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Bluetooth-based contact tracing__ (PBN__Mitigation_1695)
-
-## Property: has_MitigationTechnology
-
-* [bluetooth](../Technology/PBN__Technology_2999)
 
 ## Property: has_MitigationSource
 
-* [raza_mobile_2021](../Article/PBN__Article_239)
+* [raza_mobile_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_239.md)
+
+## Property: has_MitigationTechnology
+
+* [bluetooth](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2999.md)
 
 ## Property: has_MitigationPrinciple
 

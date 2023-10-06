@@ -1,14 +1,16 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Commercial real-world data services__ (PBN__Mitigation_565)
-
-## Property: has_MitigationTechnology
-
-* [commercial vendors](../Technology/PBN__Technology_3312)
-* [health networks](../Technology/PBN__Technology_3313)
-* [insurance providers](../Technology/PBN__Technology_3314)
 
 ## Property: has_MitigationSource
 
-* [dron_data_2022](../Article/PBN__Article_208)
+* [dron_data_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_208.md)
+
+## Property: has_MitigationTechnology
+
+* [commercial vendors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3312.md)
+* [health networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3313.md)
+* [insurance providers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3314.md)
 
 ## Property: has_MitigationPrinciple
 

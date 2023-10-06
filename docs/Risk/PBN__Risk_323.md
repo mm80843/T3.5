@@ -1,9 +1,11 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Contagious transmission in built environment__ (PBN__Risk_323)
 
 ## Property: has_RiskMitigation
 
-* [UV-Light radiation](../RiskMitigation/PBN__RiskMitigation_402)
-* [Infrared thermal imaging](../RiskMitigation/PBN__RiskMitigation_403)
-* [Robotics](../RiskMitigation/PBN__RiskMitigation_404)
-* [Automated face recognition technology](../RiskMitigation/PBN__RiskMitigation_405)
+* [UV-Light radiation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_402.md)
+* [Infrared thermal imaging](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_403.md)
+* [Robotics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_404.md)
+* [Automated face recognition technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_405.md)
 

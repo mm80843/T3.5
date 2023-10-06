@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Practical PPE rules__ (PBN__Mitigation_1563)
-
-## Property: has_MitigationTechnology
-
-* [personal protective equipment](../Technology/PBN__Technology_136)
 
 ## Property: has_MitigationSource
 
-* [pamidimukkala_impacts_2021](../Article/PBN__Article_49)
+* [pamidimukkala_impacts_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_49.md)
+
+## Property: has_MitigationTechnology
+
+* [personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_136.md)
 
 ## Property: has_MitigationPrinciple
 

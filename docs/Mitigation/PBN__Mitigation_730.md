@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Implement UV germicidal irradiation__ (PBN__Mitigation_730)
-
-## Property: has_MitigationTechnology
-
-* [ultraviolet (uv) lamps](../Technology/PBN__Technology_3408)
 
 ## Property: has_MitigationSource
 
-* [guo_review_2021](../Article/PBN__Article_45)
+* [guo_review_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_45.md)
+
+## Property: has_MitigationTechnology
+
+* [ultraviolet (uv) lamps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3408.md)
 
 ## Property: has_MitigationPrinciple
 

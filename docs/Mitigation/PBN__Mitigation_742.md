@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Addressing precarity__ (PBN__Mitigation_742)
-
-## Property: has_MitigationTechnology
-
-* [welfare policies](../Technology/PBN__Technology_3424)
-* [financial support](../Technology/PBN__Technology_607)
 
 ## Property: has_MitigationSource
 
-* [gurney_dangerous_2021](../Article/PBN__Article_2)
+* [gurney_dangerous_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_2.md)
+
+## Property: has_MitigationTechnology
+
+* [welfare policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3424.md)
+* [financial support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_607.md)
 
 ## Property: has_MitigationPrinciple
 

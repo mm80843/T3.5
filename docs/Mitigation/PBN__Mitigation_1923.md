@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Protein-based Inflammation Biomarkers__ (PBN__Mitigation_1923)
-
-## Property: has_MitigationTechnology
-
-* [urine proteomics](../Technology/PBN__Technology_4142)
-* [mass spectrometry](../Technology/PBN__Technology_2123)
 
 ## Property: has_MitigationSource
 
-* [sims_future_2020](../Article/PBN__Article_48)
+* [sims_future_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_48.md)
+
+## Property: has_MitigationTechnology
+
+* [urine proteomics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4142.md)
+* [mass spectrometry](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2123.md)
 
 ## Property: has_MitigationPrinciple
 

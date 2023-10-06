@@ -1,6 +1,8 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Lack of intercomparisons__ (PBN__Risk_2608)
 
 ## Property: has_RiskMitigation
 
-* [Standardized testing protocols](../Mitigation/PBN__Mitigation_515)
+* [Standardized testing protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_515.md)
 

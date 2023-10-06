@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Virtual ways of educating the general population and high-risk groups__ (PBN__Mitigation_211)
-
-## Property: has_MitigationTechnology
-
-* [online platforms](../Technology/PBN__Technology_67)
-* [video conferences](../Technology/PBN__Technology_3059)
 
 ## Property: has_MitigationSource
 
-* [azmand_non-medical_2021](../Article/PBN__Article_243)
+* [azmand_non-medical_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_243.md)
+
+## Property: has_MitigationTechnology
+
+* [online platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_67.md)
+* [video conferences](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3059.md)
 
 ## Property: has_MitigationPrinciple
 

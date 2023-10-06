@@ -1,53 +1,55 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Concealment of information__ (PBN__Risk_2390)
-
-## Property: has_RiskISO_Impact
-
-* [Education and capacity building](../RiskISO/PBN__RiskISO_Purpose_7)
-
-## Property: has_RiskTechnology
-
-* [data sharing platforms](../Technology/PBN__Technology_152)
-* [open communication channels](../Technology/PBN__Technology_2004)
-
-## Property: has_RiskSubject
-
-* [general public](../Stakeholder/PBN__Stakeholder_29)
-* [media](../Stakeholder/PBN__Stakeholder_231)
-
-## Property: has_RiskType
-
-* [political](../RiskType/PBN__RiskType_1)
-
-## Property: has_RiskISO_Purpose
-
-* [Resilience](../RiskISO/PBN__RiskISO_Impact_2)
-
-## Property: has_RiskOwner
-
-* [government officials](../Stakeholder/PBN__Stakeholder_333)
-* [public health organizations](../Stakeholder/PBN__Stakeholder_173)
-
-## Property: has_RiskMitigation
-
-* [Improve transparency and timely information disclosure](../RiskMitigation/PBN__RiskMitigation_3103)
 
 ## Property: has_RiskName
 
 Public perception of distrust and confusion, potential spread of misinformation
 
+## Property: has_RiskISO_Impact
+
+* [Education and capacity building](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_7.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
+## Property: has_RiskOwner
+
+* [government officials](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_333.md)
+* [public health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_173.md)
+
+## Property: has_RiskTechnology
+
+* [data sharing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_152.md)
+* [open communication channels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2004.md)
+
+## Property: has_RiskSubject
+
+* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
+* [media](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_231.md)
+
+## Property: has_RiskMitigation
+
+* [Improve transparency and timely information disclosure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3103.md)
+
 ## Property: has_RiskDescription
 
 Government concealing information about the outbreak
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [zhang_effective_2020](../Article/PBN__Article_188)
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Property: has_RiskType
+
+* [political](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_1.md)
 
 ## Property: has_RiskGBN
 
-* [Yes](../RiskGBN/PBN__RiskGBN_1)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [physical](../RiskHealth/PBN__RiskHealth_0)
+* [zhang_effective_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_188.md)
 

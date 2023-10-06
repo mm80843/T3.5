@@ -1,8 +1,18 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) 
+
 # Article: __buneviciene_covid-19_2021__ (PBN__Article_153)
+
+## Property: has_ArticleYear
+
+2021
 
 ## Property: has_ArticleLLMShortSummary
 
 This study aimed to examine the incidence and predictors of decreasing interest and avoidance of COVID-19 news. An online survey was conducted, and participants were asked about their interest, avoidance, demographic variables, health status, and mental health symptoms. The results showed that one-third of the respondents were losing interest or avoiding news about COVID-19, and 26% had stopped following the news. Younger age, post-traumatic stress symptoms, less fear of COVID-19, and less frequent use of healthcare professionals for information were associated with decreasing interest and avoidance of news. More frequent use of friends/relatives for information and less frequent use of internet news sources were also associated with avoidance or diminishing interest in COVID-19 news. It is important to maintain public interest and awareness about the pandemic to optimize adherence to public health measures. Younger individuals should especially maintain interest in COVID-19 news. Strategies should be implemented to decrease the burden of negative and distressing information and to use healthcare professionals as reliable sources of information. Further studies should explore the association between interest in COVID-19 news and adherence to public health measures.
+
+## Property: has_ArticleTitle
+
+COVID-19 media fatigue: predictors of decreasing interest and avoidance of COVID-19–related news
 
 ## Property: has_ArticleLLMSummary
 
@@ -11,12 +21,4 @@ The COVID-19 pandemic is a global health crisis that started in China and has sp
 ## Property: has_ArticleDOI
 
 10.1016/j.puhe.2021.05.024
-
-## Property: has_ArticleTitle
-
-COVID-19 media fatigue: predictors of decreasing interest and avoidance of COVID-19–related news
-
-## Property: has_ArticleYear
-
-2021
 

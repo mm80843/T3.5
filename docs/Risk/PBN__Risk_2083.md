@@ -1,53 +1,55 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Security and privacy concerns__ (PBN__Risk_2083)
-
-## Property: has_RiskISO_Impact
-
-* [Health and care](../RiskISO/PBN__RiskISO_Purpose_0)
-
-## Property: has_RiskTechnology
-
-* [encryption and authentication nan technologies](../Technology/PBN__Technology_1570)
-
-## Property: has_RiskSubject
-
-* [patients](../Stakeholder/PBN__Stakeholder_31)
-* [healthcare providers](../Stakeholder/PBN__Stakeholder_121)
-* [general nan public](../Stakeholder/PBN__Stakeholder_1395)
-
-## Property: has_RiskType
-
-* [legal](../RiskType/PBN__RiskType_6)
-
-## Property: has_RiskISO_Purpose
-
-* [Health and care](../RiskISO/PBN__RiskISO_Impact_3)
-
-## Property: has_RiskOwner
-
-* [government](../Stakeholder/PBN__Stakeholder_73)
-* [healthcare agencies](../Stakeholder/PBN__Stakeholder_543)
-
-## Property: has_RiskMitigation
-
-* [Implement strong security measures nan to protect data nan nan and privacy](../RiskMitigation/PBN__RiskMitigation_2731)
 
 ## Property: has_RiskName
 
 Leakage or misuse of personal and nan sensitive data nan nan collected during nan nan nan IoT implementation
 
+## Property: has_RiskISO_Impact
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
+
+## Property: has_RiskOwner
+
+* [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
+* [healthcare agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_543.md)
+
+## Property: has_RiskTechnology
+
+* [encryption and authentication nan technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1570.md)
+
+## Property: has_RiskSubject
+
+* [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
+* [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
+* [general nan public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1395.md)
+
+## Property: has_RiskMitigation
+
+* [Implement strong security measures nan to protect data nan nan and privacy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2731.md)
+
 ## Property: has_RiskDescription
 
 Concerns about the security and privacy nan of data collected nan nan during IoT nan nan nan implementation
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [singh_internet_2020 singh_internet_2020 nan singh_internet_2020 nan nan singh_internet_2020 nan nan nan singh_internet_2020](../Article/PBN__Article_300)
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Property: has_RiskType
+
+* [legal](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_6.md)
 
 ## Property: has_RiskGBN
 
-* [No](../RiskGBN/PBN__RiskGBN_0)
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [physical](../RiskHealth/PBN__RiskHealth_0)
+* [singh_internet_2020 singh_internet_2020 nan singh_internet_2020 nan nan singh_internet_2020 nan nan nan singh_internet_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_300.md)
 

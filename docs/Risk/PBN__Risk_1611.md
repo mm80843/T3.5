@@ -1,54 +1,56 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Cyberchondria__ (PBN__Risk_1611)
-
-## Property: has_RiskISO_Impact
-
-* [Health and care](../RiskISO/PBN__RiskISO_Purpose_0)
-
-## Property: has_RiskTechnology
-
-* [online mental health platforms](../Technology/PBN__Technology_934)
-* [digital health interventions](../Technology/PBN__Technology_935)
-* [education campaigns](../Technology/PBN__Technology_85)
-
-## Property: has_RiskSubject
-
-* [social media users](../Stakeholder/PBN__Stakeholder_82)
-* [individuals seeking health information online](../Stakeholder/PBN__Stakeholder_1040)
-
-## Property: has_RiskType
-
-* [social](../RiskType/PBN__RiskType_2)
-
-## Property: has_RiskISO_Purpose
-
-* [Well-being](../RiskISO/PBN__RiskISO_Impact_1)
-
-## Property: has_RiskOwner
-
-* [mental health professionals](../Stakeholder/PBN__Stakeholder_368)
-* [social media companies](../Stakeholder/PBN__Stakeholder_557)
-
-## Property: has_RiskMitigation
-
-* [Provide mental health support, promote healthy digital habits, educate the public on evaluating online health information](../RiskMitigation/PBN__RiskMitigation_2151)
 
 ## Property: has_RiskName
 
 Functional impairment, increased anxiety, problematic internet use
 
+## Property: has_RiskISO_Impact
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+
+## Property: has_RiskOwner
+
+* [mental health professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_368.md)
+* [social media companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_557.md)
+
+## Property: has_RiskTechnology
+
+* [online mental health platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_934.md)
+* [digital health interventions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_935.md)
+* [education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_85.md)
+
+## Property: has_RiskSubject
+
+* [social media users](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_82.md)
+* [individuals seeking health information online](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1040.md)
+
+## Property: has_RiskMitigation
+
+* [Provide mental health support, promote healthy digital habits, educate the public on evaluating online health information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2151.md)
+
 ## Property: has_RiskDescription
 
 Online health searches with a worsening of anxiety or distress
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [laato_what_2020](../Article/PBN__Article_31)
+* [mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
+
+## Property: has_RiskType
+
+* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
 
 ## Property: has_RiskGBN
 
-* [Yes](../RiskGBN/PBN__RiskGBN_1)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [mental](../RiskHealth/PBN__RiskHealth_1)
+* [laato_what_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_31.md)
 

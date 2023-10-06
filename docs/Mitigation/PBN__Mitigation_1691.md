@@ -1,15 +1,17 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Urban Farming__ (PBN__Mitigation_1691)
-
-## Property: has_MitigationTechnology
-
-* [greenhouse technology](../Technology/PBN__Technology_4012)
-* [hydroponics](../Technology/PBN__Technology_4013)
-* [aeroponics](../Technology/PBN__Technology_4014)
-* [vertical farming](../Technology/PBN__Technology_4015)
 
 ## Property: has_MitigationSource
 
-* [rassia_how_2020](../Article/PBN__Article_34)
+* [rassia_how_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_34.md)
+
+## Property: has_MitigationTechnology
+
+* [greenhouse technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4012.md)
+* [hydroponics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4013.md)
+* [aeroponics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4014.md)
+* [vertical farming](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4015.md)
 
 ## Property: has_MitigationPrinciple
 

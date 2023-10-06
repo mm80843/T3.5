@@ -1,14 +1,16 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) 
+
 # Technology: __personal hygiene practices__ (PBN__Technology_2211)
-
-## Property: has_TechnologyID
-
-* [Q9292190](../Qid/Q9292190)
 
 ## Property: has_StakeholderGroup
 
-* [Wellbeing](../TechGroup/PBN__TechGroup_2)
+* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
+
+## Property: has_TechnologyID
+
+* [Q9292190](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q9292190.md)
 
 ## Property: has_StakeholderSubgroup
 
-* [Cleaning Supplies and Hygiene Practices](../TechSubgroup/PBN__TechSubgroup_61)
+* [Cleaning Supplies and Hygiene Practices](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_61.md)
 

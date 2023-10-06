@@ -1,13 +1,23 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) 
+
 # Article: __el-jardali_amplifying_2020__ (PBN__Article_111)
+
+## Property: has_ArticleYear
+
+2020
+
+## Property: has_ArticleRef
+
+* [ioannidis_coronavirus_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_101.md)
+* [orso_infodemic_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_299.md)
 
 ## Property: has_ArticleLLMShortSummary
 
 This research abstract discusses the role of knowledge translation (KT) platforms in pandemic responses, using the COVID-19 pandemic as a context. KT platforms bring together decision-makers, researchers, practitioners, and other stakeholders to translate evidence into policy and action during public health crises. The abstract outlines the emerging roles of KT platforms, including engaging decision-makers in setting priorities, synthesizing the best available evidence, contextualizing and disseminating actionable evidence, promoting trust and countering misinformation, providing platforms for cross-sectoral dialogue, and monitoring and evaluating policy response. The abstract also discusses the lessons learned from a KT platform effort in a middle-income country and highlights the importance of rapid response services, positioning KT platforms as credible sources of evidence, remaining responsive to changing priorities, searching for evidence beyond conventional sources, harnessing complementary evidence networks, and leveraging multiple dissemination channels. The abstract concludes by emphasizing the need to invest in and strengthen KT platforms to support evidence-informed decision-making during public health crises.
 
-## Property: has_ArticleRef
+## Property: has_ArticleTitle
 
-* [ioannidis_coronavirus_2020](../Article/PBN__Article_101)
-* [orso_infodemic_2020](../Article/PBN__Article_299)
+Amplifying the role of knowledge translation platforms in the COVID-19 pandemic response
 
 ## Property: has_ArticleLLMSummary
 
@@ -16,12 +26,4 @@ During the COVID-19 pandemic, it has been really important for decision-makers t
 ## Property: has_ArticleDOI
 
 10.1186/s12961-020-00576-y
-
-## Property: has_ArticleTitle
-
-Amplifying the role of knowledge translation platforms in the COVID-19 pandemic response
-
-## Property: has_ArticleYear
-
-2020
 

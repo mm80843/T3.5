@@ -1,58 +1,60 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Lack of preparedness__ (PBN__Risk_492)
-
-## Property: has_RiskISO_Impact
-
-* [Biodiversity and ecosystem services](../RiskISO/PBN__RiskISO_Purpose_4)
-
-## Property: has_RiskTechnology
-
-* [emergency response systems](../Technology/PBN__Technology_32)
-* [preparedness strategies](../Technology/PBN__Technology_33)
-* [stockpiling technologies](../Technology/PBN__Technology_34)
-
-## Property: has_RiskSubject
-
-* [government authorities](../Stakeholder/PBN__Stakeholder_302)
-* [healthcare institutions](../Stakeholder/PBN__Stakeholder_269)
-* [emergency response agencies](../Stakeholder/PBN__Stakeholder_558)
-
-## Property: has_RiskType
-
-* [political](../RiskType/PBN__RiskType_1)
-
-## Property: has_RiskISO_Purpose
-
-* [Preserv. and improve. of the environment](../RiskISO/PBN__RiskISO_Impact_7)
-
-## Property: has_RiskOwner
-
-* [government authorities](../Stakeholder/PBN__Stakeholder_302)
-* [healthcare institutions](../Stakeholder/PBN__Stakeholder_269)
-
-## Property: has_RiskMitigation
-
-* [Prioritize participatory governance structures](../RiskMitigation/PBN__RiskMitigation_693)
-* [Developing robust healthcare systems, stockpiling medical supplies, conducting regular drills and simulations](../RiskMitigation/PBN__RiskMitigation_1465)
-* [Resilience Building](../Mitigation/PBN__Mitigation_1026)
-* [Pandemic preparedness planning](../Mitigation/PBN__Mitigation_2362)
 
 ## Property: has_RiskName
 
 Delayed response, overwhelmed healthcare systems, high mortality rates
 
+## Property: has_RiskISO_Impact
+
+* [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_4.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Preserv. and improve. of the environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_7.md)
+
+## Property: has_RiskOwner
+
+* [government authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_302.md)
+* [healthcare institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_269.md)
+
+## Property: has_RiskTechnology
+
+* [emergency response systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_32.md)
+* [preparedness strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_33.md)
+* [stockpiling technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_34.md)
+
+## Property: has_RiskSubject
+
+* [government authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_302.md)
+* [healthcare institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_269.md)
+* [emergency response agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_558.md)
+
+## Property: has_RiskMitigation
+
+* [Prioritize participatory governance structures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_693.md)
+* [Developing robust healthcare systems, stockpiling medical supplies, conducting regular drills and simulations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1465.md)
+* [Resilience Building](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1026.md)
+* [Pandemic preparedness planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2362.md)
+
 ## Property: has_RiskDescription
 
 Insufficient readiness and planning for contagious disease outbreaks can lead to ineffective response and uncontrolled spread
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [agade_exploring_2020](../Article/PBN__Article_114)
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Property: has_RiskType
+
+* [political](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_1.md)
 
 ## Property: has_RiskGBN
 
-* [Yes](../RiskGBN/PBN__RiskGBN_1)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [physical](../RiskHealth/PBN__RiskHealth_0)
+* [agade_exploring_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_114.md)
 

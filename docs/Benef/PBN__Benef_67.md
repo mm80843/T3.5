@@ -1,19 +1,21 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Financial resilience__ (PBN__Benef_67)
 
 ## Property: has_BenefDetails
 
 Divestment from fossil fuels reduces financial risks and promotes investment in sustainable energy.
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Investing in divestment from fossil fuels improves financial resilience and supports sustainable energy investment opportunities.](../BenefReturn/PBN__BenefReturn_67)
+* [kuzemko_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_14.md)
 
 ## Property: has_Beneficiary
 
-* [investors](../Stakeholder/PBN__Stakeholder_49)
-* [sustainable energy companies](../Stakeholder/PBN__Stakeholder_48)
+* [investors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_49.md)
+* [sustainable energy companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_48.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [kuzemko_covid-19_2020](../Article/PBN__Article_14)
+* [Investing in divestment from fossil fuels improves financial resilience and supports sustainable energy investment opportunities.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_67.md)
 

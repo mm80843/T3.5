@@ -1,15 +1,17 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Topical repellents__ (PBN__Mitigation_2391)
-
-## Property: has_MitigationTechnology
-
-* [topical repellents](../Technology/PBN__Technology_4458)
-* [such as deet](../Technology/PBN__Technology_4459)
-* [picaridin](../Technology/PBN__Technology_4460)
-* [or oil of lemon eucalyptus](../Technology/PBN__Technology_4461)
 
 ## Property: has_MitigationSource
 
-* [wilson_importance_2020](../Article/PBN__Article_64)
+* [wilson_importance_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_64.md)
+
+## Property: has_MitigationTechnology
+
+* [topical repellents](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4458.md)
+* [such as deet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4459.md)
+* [picaridin](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4460.md)
+* [or oil of lemon eucalyptus](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4461.md)
 
 ## Property: has_MitigationPrinciple
 

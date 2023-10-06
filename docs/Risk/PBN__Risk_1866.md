@@ -1,56 +1,58 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Occupational health and safety risks__ (PBN__Risk_1866)
-
-## Property: has_RiskISO_Impact
-
-* [Health and care](../RiskISO/PBN__RiskISO_Purpose_0)
-
-## Property: has_RiskTechnology
-
-* [wearable technology](../Technology/PBN__Technology_1235)
-* [safety monitoring systems](../Technology/PBN__Technology_1236)
-* [contact tracing apps](../Technology/PBN__Technology_11)
-
-## Property: has_RiskSubject
-
-* [construction workers](../Stakeholder/PBN__Stakeholder_197)
-* [maintenance staff](../Stakeholder/PBN__Stakeholder_704)
-* [healthcare workers](../Stakeholder/PBN__Stakeholder_68)
-
-## Property: has_RiskType
-
-* [social](../RiskType/PBN__RiskType_2)
-
-## Property: has_RiskISO_Purpose
-
-* [Responsible resource use](../RiskISO/PBN__RiskISO_Impact_4)
-
-## Property: has_RiskOwner
-
-* [employers](../Stakeholder/PBN__Stakeholder_180)
-* [building owners](../Stakeholder/PBN__Stakeholder_80)
-* [occupational health and safety agencies](../Stakeholder/PBN__Stakeholder_1259)
-
-## Property: has_RiskMitigation
-
-* [Implementing safety protocols, providing personal protective equipment, promoting good hygiene practices.](../RiskMitigation/PBN__RiskMitigation_2455)
 
 ## Property: has_RiskName
 
 Increased risk of infections, injuries, long-term health effects.
 
+## Property: has_RiskISO_Impact
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+
+## Property: has_RiskOwner
+
+* [employers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_180.md)
+* [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
+* [occupational health and safety agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1259.md)
+
+## Property: has_RiskTechnology
+
+* [wearable technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1235.md)
+* [safety monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1236.md)
+* [contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_11.md)
+
+## Property: has_RiskSubject
+
+* [construction workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_197.md)
+* [maintenance staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_704.md)
+* [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
+
+## Property: has_RiskMitigation
+
+* [Implementing safety protocols, providing personal protective equipment, promoting good hygiene practices.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2455.md)
+
 ## Property: has_RiskDescription
 
 Workers in the built environment are at risk of exposure to contagious diseases and other occupational hazards.
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [paikan_effects_2021](../Article/PBN__Article_134)
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Property: has_RiskType
+
+* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
 
 ## Property: has_RiskGBN
 
-* [Yes](../RiskGBN/PBN__RiskGBN_1)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [physical](../RiskHealth/PBN__RiskHealth_0)
+* [paikan_effects_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_134.md)
 

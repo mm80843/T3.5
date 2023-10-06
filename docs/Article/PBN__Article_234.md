@@ -1,13 +1,23 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) 
+
 # Article: __calvo_scalable_2022__ (PBN__Article_234)
+
+## Property: has_ArticleYear
+
+2022
+
+## Property: has_ArticleRef
+
+* [parkinson_continuous_2019](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_160.md)
+* [burridge_ventilation_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_330.md)
 
 ## Property: has_ArticleLLMShortSummary
 
 This research presents a scalable IoT architecture for monitoring indoor environmental quality (IEQ) in public and private buildings. The architecture consists of smart IEQ sensor nodes at the edge layer, which acquire IEQ parameters locally, and IEQ concentrators at the fog layer, which collect and analyze data from multiple sensor nodes. The architecture is designed to ensure thermal comfort, reduce energy consumption, and guarantee air quality. The system uses existing wireless communication infrastructure, such as WiFi, to transmit data, making it cost-effective and easy to deploy. The research also includes a prototype of the IEQ monitoring system, which uses low-cost open-source hardware and software. The prototype was tested in different scenarios, including staff offices, laboratories, and classrooms, and demonstrated positive performance results. Overall, the proposed architecture and prototype provide a practical solution for monitoring IEQ in buildings, contributing to sustainability and well-being.
 
-## Property: has_ArticleRef
+## Property: has_ArticleTitle
 
-* [parkinson_continuous_2019](../Article/PBN__Article_160)
-* [burridge_ventilation_2021](../Article/PBN__Article_330)
+Scalable IoT Architecture for Monitoring IEQ Conditions in Public and Private Buildings
 
 ## Property: has_ArticleLLMSummary
 
@@ -16,12 +26,4 @@ The authors have created a system called the Indoor Environment Quality (IEQ) mo
 ## Property: has_ArticleDOI
 
 10.3390/en15062270
-
-## Property: has_ArticleTitle
-
-Scalable IoT Architecture for Monitoring IEQ Conditions in Public and Private Buildings
-
-## Property: has_ArticleYear
-
-2022
 

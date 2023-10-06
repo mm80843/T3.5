@@ -1,8 +1,10 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Miscommunication__ (PBN__Risk_2576)
 
 ## Property: has_RiskMitigation
 
-* [Misinformation Prevention](../Mitigation/PBN__Mitigation_436)
-* [Enhanced Communication](../Mitigation/PBN__Mitigation_680)
-* [Proper communication](../Mitigation/PBN__Mitigation_872)
+* [Misinformation Prevention](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_436.md)
+* [Enhanced Communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_680.md)
+* [Proper communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_872.md)
 

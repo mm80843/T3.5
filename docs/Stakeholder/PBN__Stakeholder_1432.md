@@ -1,14 +1,16 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) 
+
 # Stakeholder: __users of iot devices and network administrators__ (PBN__Stakeholder_1432)
-
-## Property: has_StakeholderGroup
-
-* [Technology Sector](../StakeholderGroup/PBN__StakeholderGroup_12)
-
-## Property: has_StakeholderID
-
-* [Q680296](../Qid/Q680296)
 
 ## Property: has_StakeholderSubgroup
 
-* [nan](../StakeholderSubgroup/PBN__StakeholderSubgroup_7)
+* [nan](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_7.md)
+
+## Property: has_StakeholderGroup
+
+* [Technology Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_12.md)
+
+## Property: has_StakeholderID
+
+* [Q680296](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q680296.md)
 

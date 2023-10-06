@@ -1,52 +1,54 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Inadequate visitor access control__ (PBN__Risk_1106)
-
-## Property: has_RiskISO_Impact
-
-* [Living and working environment](../RiskISO/PBN__RiskISO_Purpose_1)
-
-## Property: has_RiskTechnology
-
-* [access control systems](../Technology/PBN__Technology_164)
-* [surveillance cameras](../Technology/PBN__Technology_165)
-
-## Property: has_RiskSubject
-
-* [gated community residents](../Stakeholder/PBN__Stakeholder_201)
-
-## Property: has_RiskType
-
-* [social](../RiskType/PBN__RiskType_2)
-
-## Property: has_RiskISO_Purpose
-
-* [Well-being](../RiskISO/PBN__RiskISO_Impact_1)
-
-## Property: has_RiskOwner
-
-* [gated community administration](../Stakeholder/PBN__Stakeholder_634)
-* [security personnel](../Stakeholder/PBN__Stakeholder_635)
-
-## Property: has_RiskMitigation
-
-* [Strengthen security measures such as identification checks and surveillance](../RiskMitigation/PBN__RiskMitigation_1553)
 
 ## Property: has_RiskName
 
 Increased risk of infection and reduced safety
 
+## Property: has_RiskISO_Impact
+
+* [Living and working environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_1.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+
+## Property: has_RiskOwner
+
+* [gated community administration](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_634.md)
+* [security personnel](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_635.md)
+
+## Property: has_RiskTechnology
+
+* [access control systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_164.md)
+* [surveillance cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_165.md)
+
+## Property: has_RiskSubject
+
+* [gated community residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_201.md)
+
+## Property: has_RiskMitigation
+
+* [Strengthen security measures such as identification checks and surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1553.md)
+
 ## Property: has_RiskDescription
 
 Lack of control over who can enter gated communities
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [asfour_housing_2022](../Article/PBN__Article_87)
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Property: has_RiskType
+
+* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
 
 ## Property: has_RiskGBN
 
-* [No](../RiskGBN/PBN__RiskGBN_0)
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [physical](../RiskHealth/PBN__RiskHealth_0)
+* [asfour_housing_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_87.md)
 

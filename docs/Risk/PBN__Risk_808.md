@@ -1,6 +1,8 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Underutilized smart solutions__ (PBN__Risk_808)
 
 ## Property: has_RiskMitigation
 
-* [Accelerating transition towards digitalization](../RiskMitigation/PBN__RiskMitigation_1110)
+* [Accelerating transition towards digitalization](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1110.md)
 

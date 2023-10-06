@@ -1,16 +1,18 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) 
+
 # Technology: __Use of air purifiers or ventilation systems__ (PBN__Technology_2665)
-
-## Property: has_TechnologyID
-
-* [Q1196206](../Qid/Q1196206)
 
 ## Property: has_StakeholderGroup
 
-* [Building materials](../TechGroup/PBN__TechGroup_12)
-* [Indoor air technologies](../TechGroup/PBN__TechGroup_13)
+* [Building materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_12.md)
+* [Indoor air technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_13.md)
+
+## Property: has_TechnologyID
+
+* [Q1196206](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1196206.md)
 
 ## Property: has_StakeholderSubgroup
 
-* [HVAC and Ventilation Systems](../TechSubgroup/PBN__TechSubgroup_72)
-* [Purification and Disinfection](../TechSubgroup/PBN__TechSubgroup_88)
+* [HVAC and Ventilation Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_72.md)
+* [Purification and Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_88.md)
 

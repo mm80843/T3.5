@@ -1,19 +1,21 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Automation of healthcare services, telemedicine__ (PBN__Benef_1098)
 
 ## Property: has_BenefDetails
 
 Use of smart robots, AI-enabled diagnostic systems, telemedicine platforms for remote consultations and monitoring
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Higher healthcare capacity, reduced waiting times, improved patient care, reduced exposure to infections](../BenefReturn/PBN__BenefReturn_1227)
+* [sharifi_contributions_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_227.md)
 
 ## Property: has_Beneficiary
 
-* [healthcare sector](../Stakeholder/PBN__Stakeholder_246)
-* [patients](../Stakeholder/PBN__Stakeholder_31)
+* [healthcare sector](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_246.md)
+* [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [sharifi_contributions_2021](../Article/PBN__Article_227)
+* [Higher healthcare capacity, reduced waiting times, improved patient care, reduced exposure to infections](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1227.md)
 

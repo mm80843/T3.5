@@ -1,7 +1,9 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Waste contamination__ (PBN__Risk_3350)
 
 ## Property: has_RiskMitigation
 
-* [Proper segregation of medical waste](../Mitigation/PBN__Mitigation_2135)
-* [Disinfection of household waste](../Mitigation/PBN__Mitigation_2136)
+* [Proper segregation of medical waste](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2135.md)
+* [Disinfection of household waste](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2136.md)
 

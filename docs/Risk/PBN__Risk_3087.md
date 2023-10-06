@@ -1,6 +1,8 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Increased mental and physical health problems__ (PBN__Risk_3087)
 
 ## Property: has_RiskMitigation
 
-* [Closure of Public Spaces](../Mitigation/PBN__Mitigation_1467)
+* [Closure of Public Spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1467.md)
 

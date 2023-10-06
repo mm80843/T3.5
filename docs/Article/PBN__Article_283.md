@@ -1,8 +1,18 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) 
+
 # Article: __obiala_covid-19_2021__ (PBN__Article_283)
+
+## Property: has_ArticleYear
+
+2021
 
 ## Property: has_ArticleLLMShortSummary
 
 This research study aims to analyze the accuracy of articles about coronavirus prevention that have been most frequently shared on social media. Thirty articles about coronavirus prevention were identified using the online analytic tool Buzzsumo, which searches for articles based on keywords and provides data about the number of shares on popular social media platforms. The articles were classified as accurate, misleading, or inaccurate based on criteria that aligned with guidelines from the World Health Organization (WHO) and the Centers for Disease Prevention and Control (CDC) or scientific research. Out of the 30 articles analyzed, 80% were found to be accurate, 20% were misleading, and none were inaccurate. Most of the shared content came from non-affiliated and non-peer-reviewed journal websites. The articles about medications were mostly accurate, while all the articles about wearing masks were found to be misleading to some extent. The study suggests that while accurate information on coronavirus prevention is shared on social media, there is still room for improvement, especially regarding fundamental issues such as wearing masks. The study also highlights the importance of quickly providing accurate and well-communicated information during a global pandemic.
+
+## Property: has_ArticleTitle
+
+COVID-19 misinformation: Accuracy of articles about coronavirus prevention mostly shared on social media
 
 ## Property: has_ArticleLLMSummary
 
@@ -11,12 +21,4 @@ In this study, researchers looked at articles about preventing the coronavirus t
 ## Property: has_ArticleDOI
 
 10.1016/j.hlpt.2020.10.007
-
-## Property: has_ArticleTitle
-
-COVID-19 misinformation: Accuracy of articles about coronavirus prevention mostly shared on social media
-
-## Property: has_ArticleYear
-
-2021
 

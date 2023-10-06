@@ -1,17 +1,19 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Digital contact tracing__ (PBN__Mitigation_148)
-
-## Property: has_MitigationTechnology
-
-* [iot](../Technology/PBN__Technology_277)
-* [mobile computing](../Technology/PBN__Technology_2998)
-* [bluetooth](../Technology/PBN__Technology_2999)
-* [gps](../Technology/PBN__Technology_3000)
-* [wearable devices](../Technology/PBN__Technology_3189)
 
 ## Property: has_MitigationSource
 
-* [arpaci_leveraging_2021](../Article/PBN__Article_297)
-* [channa_rise_2021](../Article/PBN__Article_99)
+* [arpaci_leveraging_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_297.md)
+* [channa_rise_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_99.md)
+
+## Property: has_MitigationTechnology
+
+* [iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_277.md)
+* [mobile computing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2998.md)
+* [bluetooth](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2999.md)
+* [gps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3000.md)
+* [wearable devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3189.md)
 
 ## Property: has_MitigationPrinciple
 

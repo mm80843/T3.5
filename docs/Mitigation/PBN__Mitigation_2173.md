@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Plsmax technologies__ (PBN__Mitigation_2173)
-
-## Property: has_MitigationTechnology
-
-* [sensor technologies](../Technology/PBN__Technology_4299)
-* [data analytics](../Technology/PBN__Technology_1069)
 
 ## Property: has_MitigationSource
 
-* [tokazhanov_how_2020](../Article/PBN__Article_67)
+* [tokazhanov_how_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_67.md)
+
+## Property: has_MitigationTechnology
+
+* [sensor technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4299.md)
+* [data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1069.md)
 
 ## Property: has_MitigationPrinciple
 

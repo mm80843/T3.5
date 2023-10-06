@@ -1,19 +1,21 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Thorough study of anti-coronavirus drugs__ (PBN__Benef_64)
 
 ## Property: has_BenefDetails
 
 Ontological representation of missing drug information enables comprehensive study and analysis of anti-coronavirus drugs, aiding in the design of effective treatments.
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Private investors can benefit indirectly from the improved understanding and analysis of anti-coronavirus drugs, potentially leading to better-targeted and more effective treatments, attracting investment and commercial interest.](../BenefReturn/PBN__BenefReturn_64)
+* [he_cido_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_13.md)
 
 ## Property: has_Beneficiary
 
-* [researchers](../Stakeholder/PBN__Stakeholder_2)
-* [scientists](../Stakeholder/PBN__Stakeholder_46)
+* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+* [scientists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_46.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [he_cido_2020](../Article/PBN__Article_13)
+* [Private investors can benefit indirectly from the improved understanding and analysis of anti-coronavirus drugs, potentially leading to better-targeted and more effective treatments, attracting investment and commercial interest.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_64.md)
 

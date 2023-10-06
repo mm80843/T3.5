@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Resilient healthcare system__ (PBN__Mitigation_1575)
-
-## Property: has_MitigationTechnology
-
-* [healthcare infrastructure](../Technology/PBN__Technology_3)
-* [resources](../Technology/PBN__Technology_3643)
 
 ## Property: has_MitigationSource
 
-* [panneer_health_2022](../Article/PBN__Article_144)
+* [panneer_health_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_144.md)
+
+## Property: has_MitigationTechnology
+
+* [healthcare infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3.md)
+* [resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3643.md)
 
 ## Property: has_MitigationPrinciple
 

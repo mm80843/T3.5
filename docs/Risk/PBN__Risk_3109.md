@@ -1,6 +1,8 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Limited access to training__ (PBN__Risk_3109)
 
 ## Property: has_RiskMitigation
 
-* [Training programs for skill development](../Mitigation/PBN__Mitigation_1506)
+* [Training programs for skill development](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1506.md)
 

@@ -1,19 +1,21 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Strengthened supply chain__ (PBN__Benef_684)
 
 ## Property: has_BenefDetails
 
 Improves resilience and sustainability of the supply chain, reduces dependency on overseas suppliers
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Enhanced supply chain resilience, reduced risk of disruption](../BenefReturn/PBN__BenefReturn_732)
+* [nicola_socio-economic_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_135.md)
 
 ## Property: has_Beneficiary
 
-* [pharmaceutical companies](../Stakeholder/PBN__Stakeholder_124)
-* [healthcare facilities](../Stakeholder/PBN__Stakeholder_33)
+* [pharmaceutical companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_124.md)
+* [healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_33.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [nicola_socio-economic_2020](../Article/PBN__Article_135)
+* [Enhanced supply chain resilience, reduced risk of disruption](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_732.md)
 

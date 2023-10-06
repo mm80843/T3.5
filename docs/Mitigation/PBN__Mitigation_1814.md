@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Infrared thermal imaging__ (PBN__Mitigation_1814)
-
-## Property: has_MitigationTechnology
-
-* [infrared cameras](../Technology/PBN__Technology_4087)
-* [thermographic cameras](../Technology/PBN__Technology_4088)
 
 ## Property: has_MitigationSource
 
-* [saman_recently_2021](../Article/PBN__Article_79)
+* [saman_recently_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_79.md)
+
+## Property: has_MitigationTechnology
+
+* [infrared cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4087.md)
+* [thermographic cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4088.md)
 
 ## Property: has_MitigationPrinciple
 

@@ -1,6 +1,8 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) 
+
 # Technology: __combination of vital sign screening and testing__ (PBN__Technology_1942)
 
 ## Property: has_TechnologyID
 
-* [Q1067560](../Qid/Q1067560)
+* [Q1067560](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1067560.md)
 

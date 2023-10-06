@@ -1,54 +1,56 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Faecal-oral transmission__ (PBN__Risk_1333)
-
-## Property: has_RiskISO_Impact
-
-* [Health and care](../RiskISO/PBN__RiskISO_Purpose_0)
-
-## Property: has_RiskTechnology
-
-* [hand hygiene](../Technology/PBN__Technology_509)
-* [regular cleaning and disinfection of toilets](../Technology/PBN__Technology_510)
-
-## Property: has_RiskSubject
-
-* [healthcare workers](../Stakeholder/PBN__Stakeholder_68)
-* [patients](../Stakeholder/PBN__Stakeholder_31)
-
-## Property: has_RiskType
-
-* [health](../RiskType/PBN__RiskType_4)
-
-## Property: has_RiskISO_Purpose
-
-* [Safety and security](../RiskISO/PBN__RiskISO_Impact_0)
-
-## Property: has_RiskOwner
-
-* [cleaning staff](../Stakeholder/PBN__Stakeholder_656)
-* [public health agencies](../Stakeholder/PBN__Stakeholder_222)
-
-## Property: has_RiskMitigation
-
-* [Maintain hygiene in private and public toilets.](../RiskMitigation/PBN__RiskMitigation_1827)
-* [Faecal management](../Mitigation/PBN__Mitigation_559)
 
 ## Property: has_RiskName
 
 Potential risk of transmission through the faecal-oral route.
 
+## Property: has_RiskISO_Impact
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_0.md)
+
+## Property: has_RiskOwner
+
+* [cleaning staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_656.md)
+* [public health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_222.md)
+
+## Property: has_RiskTechnology
+
+* [hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_509.md)
+* [regular cleaning and disinfection of toilets](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_510.md)
+
+## Property: has_RiskSubject
+
+* [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
+* [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
+
+## Property: has_RiskMitigation
+
+* [Maintain hygiene in private and public toilets.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1827.md)
+* [Faecal management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_559.md)
+
 ## Property: has_RiskDescription
 
 Positive detection of the virus on toilet surfaces and bathroom areas.
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [ding_toilets_2020](../Article/PBN__Article_196)
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Property: has_RiskType
+
+* [health](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_4.md)
 
 ## Property: has_RiskGBN
 
-* [No](../RiskGBN/PBN__RiskGBN_0)
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [physical](../RiskHealth/PBN__RiskHealth_0)
+* [ding_toilets_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_196.md)
 

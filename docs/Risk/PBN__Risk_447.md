@@ -1,6 +1,8 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Neoliberalism’s impact on health__ (PBN__Risk_447)
 
 ## Property: has_RiskMitigation
 
-* [Increase public health funding](../RiskMitigation/PBN__RiskMitigation_621)
+* [Increase public health funding](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_621.md)
 

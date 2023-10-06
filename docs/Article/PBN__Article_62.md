@@ -1,12 +1,22 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) 
+
 # Article: __geng_intelligent_2021__ (PBN__Article_62)
+
+## Property: has_ArticleYear
+
+2021
+
+## Property: has_ArticleRef
+
+* [parkinson_continuous_2019](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_160.md)
 
 ## Property: has_ArticleLLMShortSummary
 
 This study introduces the Intelligent Built Environment Monitor (IBEM), an intelligent indoor environmental quality (IEQ) monitoring and feedback system. IBEM consists of an integrated sensor, a cloud server, a database, a web platform, and a mobile interface. The system enables continuous monitoring of IEQ parameters such as air temperature, humidity, CO2, PM2.5, and illuminance. The IBEM device has been validated through a co-location experiment with reference sensors, showing strong correlations and slight deviations. IBEM has been deployed in 131 buildings in China, creating a comprehensive IEQ database with over 1TB of data. The system has been used for targeted IEQ diagnosis in offices and hospitals, identifying inadequate thermal conditions and poor indoor air quality. The system also collects occupant feedback, and analysis of subjective and objective data reveals insights into occupant satisfaction and preferences. IBEM offers a cost-effective and efficient solution for large-scale IEQ monitoring and feedback, enhancing our understanding of IEQ in real-world scenarios.
 
-## Property: has_ArticleRef
+## Property: has_ArticleTitle
 
-* [parkinson_continuous_2019](../Article/PBN__Article_160)
+An Intelligent IEQ Monitoring and Feedback System: Development and Applications
 
 ## Property: has_ArticleLLMSummary
 
@@ -15,12 +25,4 @@ IBEM (Intelligent Built Environment Monitor) is a system that helps monitor the 
 ## Property: has_ArticleDOI
 
 10.1016/j.eng.2021.09.017
-
-## Property: has_ArticleTitle
-
-An Intelligent IEQ Monitoring and Feedback System: Development and Applications
-
-## Property: has_ArticleYear
-
-2021
 

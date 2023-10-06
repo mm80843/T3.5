@@ -1,10 +1,12 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Airborne pathogen__ (PBN__Risk_845)
 
 ## Property: has_RiskMitigation
 
-* [Filtration](../RiskMitigation/PBN__RiskMitigation_312)
-* [UVGI](../RiskMitigation/PBN__RiskMitigation_315)
-* [Personalized ventilation](../RiskMitigation/PBN__RiskMitigation_1167)
-* [Total volume air distribution](../RiskMitigation/PBN__RiskMitigation_1168)
-* [Photocatalytic oxidation](../RiskMitigation/PBN__RiskMitigation_1169)
+* [Filtration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_312.md)
+* [UVGI](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_315.md)
+* [Personalized ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1167.md)
+* [Total volume air distribution](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1168.md)
+* [Photocatalytic oxidation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1169.md)
 

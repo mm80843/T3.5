@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Automation__ (PBN__Mitigation_1755)
-
-## Property: has_MitigationTechnology
-
-* [robotics](../Technology/PBN__Technology_1173)
-* [artificial intelligence](../Technology/PBN__Technology_358)
 
 ## Property: has_MitigationSource
 
-* [saadi-sedik_pandemics_2021](../Article/PBN__Article_98)
+* [saadi-sedik_pandemics_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_98.md)
+
+## Property: has_MitigationTechnology
+
+* [robotics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1173.md)
+* [artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_358.md)
 
 ## Property: has_MitigationPrinciple
 

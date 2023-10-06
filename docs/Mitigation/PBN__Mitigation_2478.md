@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Ventilator Innovations__ (PBN__Mitigation_2478)
-
-## Property: has_MitigationTechnology
-
-* [automation technology](../Technology/PBN__Technology_4522)
 
 ## Property: has_MitigationSource
 
-* [zhao_supporting_2022](../Article/PBN__Article_266)
+* [zhao_supporting_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_266.md)
+
+## Property: has_MitigationTechnology
+
+* [automation technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4522.md)
 
 ## Property: has_MitigationPrinciple
 

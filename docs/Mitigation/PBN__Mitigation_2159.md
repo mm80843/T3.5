@@ -1,14 +1,16 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Smart home automation__ (PBN__Mitigation_2159)
-
-## Property: has_MitigationTechnology
-
-* [detectors](../Technology/PBN__Technology_4285)
-* [sensors](../Technology/PBN__Technology_200)
-* [remote control](../Technology/PBN__Technology_4278)
 
 ## Property: has_MitigationSource
 
-* [tokazhanov_how_2020](../Article/PBN__Article_67)
+* [tokazhanov_how_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_67.md)
+
+## Property: has_MitigationTechnology
+
+* [detectors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4285.md)
+* [sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_200.md)
+* [remote control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4278.md)
 
 ## Property: has_MitigationPrinciple
 

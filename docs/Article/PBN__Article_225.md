@@ -1,13 +1,23 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) 
+
 # Article: __karia_covid-19_2020__ (PBN__Article_225)
+
+## Property: has_ArticleYear
+
+2020
+
+## Property: has_ArticleRef
+
+* [ong_air_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_264.md)
+* [van_doremalen_aerosol_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_21.md)
 
 ## Property: has_ArticleLLMShortSummary
 
 This research abstract provides a summary of a study on the modes of transmission of SARS-CoV-2, the virus responsible for COVID-19. The study conducted an electronic search in May and June 2020 using databases like WHO, PubMed, and Google Scholar. The search focused on identifying possible modes of transmission and included patient data regardless of age, gender, or location. The study found several modes of transmission, including respiratory droplets, aerosols formed during medical procedures, contaminated surfaces (fomites), anal secretions, saliva, urine, tears, semen, and mother-to-child. These modes may be underestimated and contribute to the spread of the virus. The study suggests measures to reduce transmission, such as social distancing, disinfection of objects, and proper personal hygiene. The use of personal protective equipment is also important in reducing transmission among healthcare professionals. The study concludes by highlighting the need for further research to assess other potential modes of transmission.
 
-## Property: has_ArticleRef
+## Property: has_ArticleTitle
 
-* [ong_air_2020](../Article/PBN__Article_264)
-* [van_doremalen_aerosol_2020](../Article/PBN__Article_21)
+COVID-19 and its Modes of Transmission
 
 ## Property: has_ArticleLLMSummary
 
@@ -16,12 +26,4 @@ The coronavirus disease, known as COVID-19, is a sickness caused by a virus call
 ## Property: has_ArticleDOI
 
 10.1007/s42399-020-00498-4
-
-## Property: has_ArticleTitle
-
-COVID-19 and its Modes of Transmission
-
-## Property: has_ArticleYear
-
-2020
 

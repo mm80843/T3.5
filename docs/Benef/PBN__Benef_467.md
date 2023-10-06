@@ -1,19 +1,21 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Adaptability__ (PBN__Benef_467)
 
 ## Property: has_BenefDetails
 
 Flexible spaces and robust internet connection support remote working and adaptability of the building, meeting the needs of occupants during quarantine.
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Higher tenant demand and retention due to the ability to accommodate different needs.](../BenefReturn/PBN__BenefReturn_503)
+* [rahim_impact_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_94.md)
 
 ## Property: has_Beneficiary
 
-* [building owners](../Stakeholder/PBN__Stakeholder_80)
-* [occupants](../Stakeholder/PBN__Stakeholder_92)
+* [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
+* [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [rahim_impact_2022](../Article/PBN__Article_94)
+* [Higher tenant demand and retention due to the ability to accommodate different needs.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_503.md)
 

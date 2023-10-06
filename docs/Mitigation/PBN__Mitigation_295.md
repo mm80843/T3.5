@@ -1,15 +1,17 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Communication and Awareness__ (PBN__Mitigation_295)
-
-## Property: has_MitigationTechnology
-
-* [meetings](../Technology/PBN__Technology_3124)
-* [webinars](../Technology/PBN__Technology_3041)
-* [posters](../Technology/PBN__Technology_3125)
-* [emails](../Technology/PBN__Technology_3126)
 
 ## Property: has_MitigationSource
 
-* [bou_hatoum_analysis_2021](../Article/PBN__Article_82)
+* [bou_hatoum_analysis_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_82.md)
+
+## Property: has_MitigationTechnology
+
+* [meetings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3124.md)
+* [webinars](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3041.md)
+* [posters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3125.md)
+* [emails](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3126.md)
 
 ## Property: has_MitigationPrinciple
 

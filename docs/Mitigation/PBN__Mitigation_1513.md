@@ -1,14 +1,16 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Green infrastructure__ (PBN__Mitigation_1513)
-
-## Property: has_MitigationTechnology
-
-* [vegetation](../Technology/PBN__Technology_3716)
-* [rain gardens](../Technology/PBN__Technology_3900)
-* [green roofs](../Technology/PBN__Technology_1392)
 
 ## Property: has_MitigationSource
 
-* [ogden_vector-borne_2016](../Article/PBN__Article_17)
+* [ogden_vector-borne_2016](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_17.md)
+
+## Property: has_MitigationTechnology
+
+* [vegetation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3716.md)
+* [rain gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3900.md)
+* [green roofs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1392.md)
 
 ## Property: has_MitigationPrinciple
 

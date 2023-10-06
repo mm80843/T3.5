@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Data mining methods for understanding the COVID-19 outbreak__ (PBN__Mitigation_1402)
-
-## Property: has_MitigationTechnology
-
-* [data mining techniques and health data](../Technology/PBN__Technology_3844)
 
 ## Property: has_MitigationSource
 
-* [naseem_exploring_2020](../Article/PBN__Article_131)
+* [naseem_exploring_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_131.md)
+
+## Property: has_MitigationTechnology
+
+* [data mining techniques and health data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3844.md)
 
 ## Property: has_MitigationPrinciple
 

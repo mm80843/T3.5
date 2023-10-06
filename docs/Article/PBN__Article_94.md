@@ -1,17 +1,27 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) 
+
 # Article: __rahim_impact_2022__ (PBN__Article_94)
+
+## Property: has_ArticleYear
+
+2022
+
+## Property: has_ArticleRef
+
+* [marr_mechanistic_2019](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_54.md)
+* [nghiem_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_229.md)
+* [ong_air_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_264.md)
+* [awada_occupant_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_273.md)
+* [awada_ten_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_38.md)
+* [tokazhanov_how_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_67.md)
 
 ## Property: has_ArticleLLMShortSummary
 
 This research abstract summarizes the implications of the COVID-19 pandemic on building design and strategies for sustainable building practices. The study utilizes a literature review method to gather information from various sources. The spread of COVID-19 is prevalent in buildings and transportation, with transmission occurring in small, poorly ventilated spaces with large crowds and close contact. The pandemic has led to activities in buildings being limited or suspended, as well as the implementation of measures such as transparent barriers, working hour adjustments, and visitor restrictions. The pandemic has also highlighted the importance of healthy buildings and the link between the indoor environment and health. Sanitation and ventilation improvements are crucial in preventing the transmission of the virus in buildings. The pandemic has also influenced interior adaptation, with an emphasis on flexible and adaptable spaces for work, study, and other activities. The study concludes that building design must consider the implications of the pandemic and prioritize the health and well-being of occupants in a post-pandemic society.
 
-## Property: has_ArticleRef
+## Property: has_ArticleTitle
 
-* [marr_mechanistic_2019](../Article/PBN__Article_54)
-* [nghiem_covid-19_2020](../Article/PBN__Article_229)
-* [ong_air_2020](../Article/PBN__Article_264)
-* [awada_occupant_2022](../Article/PBN__Article_273)
-* [awada_ten_2021](../Article/PBN__Article_38)
-* [tokazhanov_how_2020](../Article/PBN__Article_67)
+The Impact of the COVID-19 Pandemic on the Space Pattern Changes in Buildings
 
 ## Property: has_ArticleLLMSummary
 
@@ -20,12 +30,4 @@ The COVID-19 pandemic has caused a lot of changes in our lives. It's a new virus
 ## Property: has_ArticleDOI
 
 10.1051/matecconf/202237205002
-
-## Property: has_ArticleTitle
-
-The Impact of the COVID-19 Pandemic on the Space Pattern Changes in Buildings
-
-## Property: has_ArticleYear
-
-2022
 

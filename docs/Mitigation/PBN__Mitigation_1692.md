@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Active Design__ (PBN__Mitigation_1692)
-
-## Property: has_MitigationTechnology
-
-* [treadmills](../Technology/PBN__Technology_3241)
-* [standing desks](../Technology/PBN__Technology_4017)
 
 ## Property: has_MitigationSource
 
-* [rassia_how_2020](../Article/PBN__Article_34)
+* [rassia_how_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_34.md)
+
+## Property: has_MitigationTechnology
+
+* [treadmills](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3241.md)
+* [standing desks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4017.md)
 
 ## Property: has_MitigationPrinciple
 

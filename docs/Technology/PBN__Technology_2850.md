@@ -1,14 +1,16 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) 
+
 # Technology: __Smart home technologies__ (PBN__Technology_2850)
-
-## Property: has_TechnologyID
-
-* [Q64865818](../Qid/Q64865818)
 
 ## Property: has_StakeholderGroup
 
-* [IoT](../TechGroup/PBN__TechGroup_16)
+* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
+
+## Property: has_TechnologyID
+
+* [Q64865818](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q64865818.md)
 
 ## Property: has_StakeholderSubgroup
 
-* [Internet of Things (IoT) and Smart Technologies](../TechSubgroup/PBN__TechSubgroup_94)
+* [Internet of Things (IoT) and Smart Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_94.md)
 

@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Citizen engagement and participatory platforms__ (PBN__Mitigation_291)
-
-## Property: has_MitigationTechnology
-
-* [e-participation platforms](../Technology/PBN__Technology_3117)
-* [social media communication](../Technology/PBN__Technology_3118)
 
 ## Property: has_MitigationSource
 
-* [bolivar_learning_2022](../Article/PBN__Article_177)
+* [bolivar_learning_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_177.md)
+
+## Property: has_MitigationTechnology
+
+* [e-participation platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3117.md)
+* [social media communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3118.md)
 
 ## Property: has_MitigationPrinciple
 

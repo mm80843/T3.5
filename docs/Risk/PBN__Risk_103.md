@@ -1,6 +1,8 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Positive health effects (reduced environmental pollution, fewer accidents, lower ARI incidence)__ (PBN__Risk_103)
 
 ## Property: has_RiskMitigation
 
-* [Implementation of NPIs](../RiskMitigation/PBN__RiskMitigation_119)
+* [Implementation of NPIs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_119.md)
 

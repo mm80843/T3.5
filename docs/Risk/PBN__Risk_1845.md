@@ -1,53 +1,55 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Disruption of immigrant employment__ (PBN__Risk_1845)
-
-## Property: has_RiskISO_Impact
-
-* [Health and care](../RiskISO/PBN__RiskISO_Purpose_0)
-
-## Property: has_RiskTechnology
-
-* [job retention schemes](../Technology/PBN__Technology_1209)
-* [financial assistance programs](../Technology/PBN__Technology_894)
-* [online training platforms](../Technology/PBN__Technology_1210)
-
-## Property: has_RiskSubject
-
-* [immigrants](../Stakeholder/PBN__Stakeholder_489)
-
-## Property: has_RiskType
-
-* [economic](../RiskType/PBN__RiskType_3)
-
-## Property: has_RiskISO_Purpose
-
-* [Resilience](../RiskISO/PBN__RiskISO_Impact_2)
-
-## Property: has_RiskOwner
-
-* [governments](../Stakeholder/PBN__Stakeholder_47)
-* [employment agencies](../Stakeholder/PBN__Stakeholder_1250)
-
-## Property: has_RiskMitigation
-
-* [Provide job retention schemes and financial support for affected industries, promote job transitions and reskilling opportunities.](../RiskMitigation/PBN__RiskMitigation_2431)
 
 ## Property: has_RiskName
 
 Immigrants face higher unemployment rates and income losses compared to the native-born population.
 
+## Property: has_RiskISO_Impact
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
+## Property: has_RiskOwner
+
+* [governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
+* [employment agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1250.md)
+
+## Property: has_RiskTechnology
+
+* [job retention schemes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1209.md)
+* [financial assistance programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_894.md)
+* [online training platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1210.md)
+
+## Property: has_RiskSubject
+
+* [immigrants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_489.md)
+
+## Property: has_RiskMitigation
+
+* [Provide job retention schemes and financial support for affected industries, promote job transitions and reskilling opportunities.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2431.md)
+
 ## Property: has_RiskDescription
 
 Immigrants are more affected by economic downturns and are overrepresented in sectors most impacted by the pandemic, leading to job losses and financial insecurity.
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [oecd_what_2022](../Article/PBN__Article_287)
+* [economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_3.md)
+
+## Property: has_RiskType
+
+* [economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_3.md)
 
 ## Property: has_RiskGBN
 
-* [No](../RiskGBN/PBN__RiskGBN_0)
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [economic](../RiskHealth/PBN__RiskHealth_3)
+* [oecd_what_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_287.md)
 

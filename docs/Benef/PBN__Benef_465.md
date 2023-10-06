@@ -1,20 +1,22 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Reduced contact__ (PBN__Benef_465)
 
 ## Property: has_BenefDetails
 
 Touch-free systems and antimicrobial materials reduce contact surfaces, minimizing the risk of virus transmission.
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Increased safety and confidence for occupants, leading to higher occupancy rates.](../BenefReturn/PBN__BenefReturn_501)
-* [Increased safety and hygiene standards, attracting higher-quality tenants and improving asset value.](../BenefReturn/PBN__BenefReturn_505)
+* [rahim_impact_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_94.md)
 
 ## Property: has_Beneficiary
 
-* [building owners](../Stakeholder/PBN__Stakeholder_80)
-* [occupants](../Stakeholder/PBN__Stakeholder_92)
+* [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
+* [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [rahim_impact_2022](../Article/PBN__Article_94)
+* [Increased safety and confidence for occupants, leading to higher occupancy rates.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_501.md)
+* [Increased safety and hygiene standards, attracting higher-quality tenants and improving asset value.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_505.md)
 

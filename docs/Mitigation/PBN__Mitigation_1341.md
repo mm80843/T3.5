@@ -1,15 +1,17 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Clear and inclusive communication__ (PBN__Mitigation_1341)
-
-## Property: has_MitigationTechnology
-
-* [diverse communication channels (e.g. television](../Technology/PBN__Technology_3804)
-* [radio](../Technology/PBN__Technology_3805)
-* [newspapers](../Technology/PBN__Technology_3806)
-* [apps)](../Technology/PBN__Technology_3807)
 
 ## Property: has_MitigationSource
 
-* [mesa_vieira_covid-19_2020](../Article/PBN__Article_236)
+* [mesa_vieira_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_236.md)
+
+## Property: has_MitigationTechnology
+
+* [diverse communication channels (e.g. television](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3804.md)
+* [radio](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3805.md)
+* [newspapers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3806.md)
+* [apps)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3807.md)
 
 ## Property: has_MitigationPrinciple
 

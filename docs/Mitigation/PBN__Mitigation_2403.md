@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Real-time data access__ (PBN__Mitigation_2403)
-
-## Property: has_MitigationTechnology
-
-* [r package (ncov2019)](../Technology/PBN__Technology_4475)
-* [api calls](../Technology/PBN__Technology_4476)
 
 ## Property: has_MitigationSource
 
-* [wu_open-source_2020](../Article/PBN__Article_218)
+* [wu_open-source_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_218.md)
+
+## Property: has_MitigationTechnology
+
+* [r package (ncov2019)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4475.md)
+* [api calls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4476.md)
 
 ## Property: has_MitigationPrinciple
 

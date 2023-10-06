@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Plasmacluster Ions__ (PBN__Mitigation_278)
-
-## Property: has_MitigationTechnology
-
-* [plasmacluster ion technology](../Technology/PBN__Technology_3110)
 
 ## Property: has_MitigationSource
 
-* [bolashikov_methods_2009](../Article/PBN__Article_240)
+* [bolashikov_methods_2009](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_240.md)
+
+## Property: has_MitigationTechnology
+
+* [plasmacluster ion technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3110.md)
 
 ## Property: has_MitigationPrinciple
 

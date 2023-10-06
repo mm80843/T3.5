@@ -1,52 +1,54 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Increase in domestic violence__ (PBN__Risk_1438)
-
-## Property: has_RiskISO_Impact
-
-* [Well-being](../RiskISO/PBN__RiskISO_Purpose_12)
-
-## Property: has_RiskTechnology
-
-* [telecommunication systems for reporting](../Technology/PBN__Technology_698)
-* [online counseling platforms](../Technology/PBN__Technology_220)
-
-## Property: has_RiskSubject
-
-* [victims of domestic violence](../Stakeholder/PBN__Stakeholder_7)
-
-## Property: has_RiskType
-
-* [social](../RiskType/PBN__RiskType_2)
-
-## Property: has_RiskISO_Purpose
-
-* [Social cohesion](../RiskISO/PBN__RiskISO_Impact_5)
-
-## Property: has_RiskOwner
-
-* [government](../Stakeholder/PBN__Stakeholder_73)
-* [domestic violence organizations](../Stakeholder/PBN__Stakeholder_934)
-
-## Property: has_RiskMitigation
-
-* [Enhance support services for victims, increase public awareness, provide safe spaces](../RiskMitigation/PBN__RiskMitigation_1950)
 
 ## Property: has_RiskName
 
 Physical and psychological harm to victims, strained social support systems
 
+## Property: has_RiskISO_Impact
+
+* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_12.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Social cohesion](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_5.md)
+
+## Property: has_RiskOwner
+
+* [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
+* [domestic violence organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_934.md)
+
+## Property: has_RiskTechnology
+
+* [telecommunication systems for reporting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_698.md)
+* [online counseling platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_220.md)
+
+## Property: has_RiskSubject
+
+* [victims of domestic violence](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_7.md)
+
+## Property: has_RiskMitigation
+
+* [Enhance support services for victims, increase public awareness, provide safe spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1950.md)
+
 ## Property: has_RiskDescription
 
 Social issues exacerbated during pandemic, leading to higher occurrence of domestic violence
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [hakovirta_how_2020](../Article/PBN__Article_202)
+* [mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
+
+## Property: has_RiskType
+
+* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
 
 ## Property: has_RiskGBN
 
-* [No](../RiskGBN/PBN__RiskGBN_0)
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [mental](../RiskHealth/PBN__RiskHealth_1)
+* [hakovirta_how_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_202.md)
 

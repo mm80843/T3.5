@@ -1,53 +1,55 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Exclusion of non-English speaking populations__ (PBN__Risk_1590)
-
-## Property: has_RiskISO_Impact
-
-* [Biodiversity and ecosystem services](../RiskISO/PBN__RiskISO_Purpose_4)
-
-## Property: has_RiskTechnology
-
-* [multilingual social media platforms](../Technology/PBN__Technology_902)
-* [translation tools](../Technology/PBN__Technology_903)
-
-## Property: has_RiskSubject
-
-* [non-english speakers](../Stakeholder/PBN__Stakeholder_1022)
-* [individuals in non-english speaking countries](../Stakeholder/PBN__Stakeholder_1023)
-
-## Property: has_RiskType
-
-* [social](../RiskType/PBN__RiskType_2)
-
-## Property: has_RiskISO_Purpose
-
-* [Health and care](../RiskISO/PBN__RiskISO_Impact_3)
-
-## Property: has_RiskOwner
-
-* [researchers](../Stakeholder/PBN__Stakeholder_2)
-* [translators](../Stakeholder/PBN__Stakeholder_1024)
-
-## Property: has_RiskMitigation
-
-* [Expand research to include non-English social media platforms and languages](../RiskMitigation/PBN__RiskMitigation_2123)
 
 ## Property: has_RiskName
 
 Inaccurate or incomplete understanding of global loneliness experiences
 
+## Property: has_RiskISO_Impact
+
+* [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_4.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
+
+## Property: has_RiskOwner
+
+* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+* [translators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1024.md)
+
+## Property: has_RiskTechnology
+
+* [multilingual social media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_902.md)
+* [translation tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_903.md)
+
+## Property: has_RiskSubject
+
+* [non-english speakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1022.md)
+* [individuals in non-english speaking countries](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1023.md)
+
+## Property: has_RiskMitigation
+
+* [Expand research to include non-English social media platforms and languages](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2123.md)
+
 ## Property: has_RiskDescription
 
 Focus on Twitter feeds in English limits the representation of non-English speaking populations
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [koh_how_2022](../Article/PBN__Article_190)
+* [nan](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_6.md)
+
+## Property: has_RiskType
+
+* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
 
 ## Property: has_RiskGBN
 
-* [No](../RiskGBN/PBN__RiskGBN_0)
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [nan](../RiskHealth/PBN__RiskHealth_6)
+* [koh_how_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_190.md)
 

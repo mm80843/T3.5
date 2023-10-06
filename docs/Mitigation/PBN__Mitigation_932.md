@@ -1,22 +1,24 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Surface Disinfection__ (PBN__Mitigation_932)
-
-## Property: has_MitigationTechnology
-
-* [sodium hypochlorite](../Technology/PBN__Technology_852)
-* [ethanol](../Technology/PBN__Technology_853)
-* [benzalkonium chloride](../Technology/PBN__Technology_3553)
-* [etc](../Technology/PBN__Technology_1402)
-* [disinfectants](../Technology/PBN__Technology_413)
-* [uv-c devices](../Technology/PBN__Technology_3746)
-* [disinfectant sprays](../Technology/PBN__Technology_672)
-* [wipes](../Technology/PBN__Technology_3927)
 
 ## Property: has_MitigationSource
 
-* [kampf_persistence_2020](../Article/PBN__Article_233)
-* [marr_mechanistic_2019](../Article/PBN__Article_54)
-* [pansini_covid-19_2021](../Article/PBN__Article_42)
-* [suman_sustainability_2020](../Article/PBN__Article_142)
+* [kampf_persistence_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_233.md)
+* [marr_mechanistic_2019](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_54.md)
+* [pansini_covid-19_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_42.md)
+* [suman_sustainability_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_142.md)
+
+## Property: has_MitigationTechnology
+
+* [sodium hypochlorite](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_852.md)
+* [ethanol](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_853.md)
+* [benzalkonium chloride](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3553.md)
+* [etc](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1402.md)
+* [disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_413.md)
+* [uv-c devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3746.md)
+* [disinfectant sprays](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_672.md)
+* [wipes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3927.md)
 
 ## Property: has_MitigationPrinciple
 

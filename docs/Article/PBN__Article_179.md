@@ -1,15 +1,25 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) 
+
 # Article: __maharani_biophilic_2022__ (PBN__Article_179)
+
+## Property: has_ArticleYear
+
+2022
+
+## Property: has_ArticleRef
+
+* [peters_how_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_279.md)
+* [amerio_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_254.md)
+* [spennemann_residential_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_56.md)
+* [tokazhanov_how_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_67.md)
 
 ## Property: has_ArticleLLMShortSummary
 
 The COVID-19 pandemic has led to changes in habits and regulations worldwide, including limitations on mobility and activities. This has particularly affected residents of apartments, who face challenges due to limited space and inadequate room quality. It is important to consider the design of apartment units to increase their resilience to the pandemic and improve residents' comfort. This study focuses on using biophilic design principles to achieve these goals. Biophilic design emphasizes a sustained connection with nature and provides a sense of comfort and healing. Health protocols for COVID-19 prevention, such as good ventilation and exposure to natural elements, align with biophilic design principles. The study identifies several design criteria for apartment units, including the provision of openings for air circulation and natural light, optimal layout configurations that prioritize daylight access, separate wet and living areas, and the presence of green spaces. The implementation of biophilic design and COVID-19 health protocols can lead to physical, mental, and behavioral benefits for residents. Ultimately, the goal is to create a comfortable and resilient living environment during the pandemic.
 
-## Property: has_ArticleRef
+## Property: has_ArticleTitle
 
-* [peters_how_2020](../Article/PBN__Article_279)
-* [amerio_covid-19_2020](../Article/PBN__Article_254)
-* [spennemann_residential_2021](../Article/PBN__Article_56)
-* [tokazhanov_how_2020](../Article/PBN__Article_67)
+Biophilic Design to Enhance Residence Comfort in Covid Era
 
 ## Property: has_ArticleLLMSummary
 
@@ -18,12 +28,4 @@ During the COVID-19 pandemic, people have had to stay at home more and be carefu
 ## Property: has_ArticleDOI
 
 10.54338/27382656-2022.2-007
-
-## Property: has_ArticleTitle
-
-Biophilic Design to Enhance Residence Comfort in Covid Era
-
-## Property: has_ArticleYear
-
-2022
 

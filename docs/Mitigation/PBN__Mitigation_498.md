@@ -1,15 +1,17 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Re-appropriation of the basic principles and archetypes of sustainable architecture, thermal comfort and Indoor Air Quality (IAQ)__ (PBN__Mitigation_498)
-
-## Property: has_MitigationTechnology
-
-* [correct orientation](../Technology/PBN__Technology_3264)
-* [natural lighting](../Technology/PBN__Technology_3265)
-* [albedo control](../Technology/PBN__Technology_3266)
-* [suitable materials](../Technology/PBN__Technology_3267)
 
 ## Property: has_MitigationSource
 
-* [dalessandro_covid-19_2020](../Article/PBN__Article_161)
+* [dalessandro_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_161.md)
+
+## Property: has_MitigationTechnology
+
+* [correct orientation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3264.md)
+* [natural lighting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3265.md)
+* [albedo control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3266.md)
+* [suitable materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3267.md)
 
 ## Property: has_MitigationPrinciple
 

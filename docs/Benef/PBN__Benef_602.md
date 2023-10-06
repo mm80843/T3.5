@@ -1,19 +1,21 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Environmental consciousness__ (PBN__Benef_602)
 
 ## Property: has_BenefDetails
 
 HEMS can provide CO2 emission information, promoting more environmentally-conscious behavior and contributing to decarbonization efforts.
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Private investors in HEMS technologies would benefit from increased demand as more individuals and businesses seek to reduce their carbon footprint and address climate change concerns.](../BenefReturn/PBN__BenefReturn_650)
+* [chen_coronavirus_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_119.md)
 
 ## Property: has_Beneficiary
 
-* [climate](../Stakeholder/PBN__Stakeholder_251)
-* [society](../Stakeholder/PBN__Stakeholder_53)
+* [climate](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_251.md)
+* [society](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_53.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [chen_coronavirus_2020](../Article/PBN__Article_119)
+* [Private investors in HEMS technologies would benefit from increased demand as more individuals and businesses seek to reduce their carbon footprint and address climate change concerns.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_650.md)
 

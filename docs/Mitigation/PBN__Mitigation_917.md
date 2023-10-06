@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Monitoring Changing Social Behavior__ (PBN__Mitigation_917)
-
-## Property: has_MitigationTechnology
-
-* [iot sensing infrastructure](../Technology/PBN__Technology_3534)
-* [social behavior analysis](../Technology/PBN__Technology_3544)
 
 ## Property: has_MitigationSource
 
-* [james_smart_2020](../Article/PBN__Article_164)
+* [james_smart_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_164.md)
+
+## Property: has_MitigationTechnology
+
+* [iot sensing infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3534.md)
+* [social behavior analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3544.md)
 
 ## Property: has_MitigationPrinciple
 

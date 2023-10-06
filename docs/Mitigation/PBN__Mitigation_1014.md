@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Public health education campaigns__ (PBN__Mitigation_1014)
-
-## Property: has_MitigationTechnology
-
-* [digital media](../Technology/PBN__Technology_3581)
-* [print media](../Technology/PBN__Technology_3582)
 
 ## Property: has_MitigationSource
 
-* [koh_how_2022](../Article/PBN__Article_190)
+* [koh_how_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_190.md)
+
+## Property: has_MitigationTechnology
+
+* [digital media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3581.md)
+* [print media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3582.md)
 
 ## Property: has_MitigationPrinciple
 

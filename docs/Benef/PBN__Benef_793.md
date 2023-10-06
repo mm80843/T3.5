@@ -1,18 +1,20 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Improved support accessibility__ (PBN__Benef_793)
 
 ## Property: has_BenefDetails
 
 Providing information and assistance tailored to startup challenges
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Enhanced access to financial and non-financial support for recovery and growth](../BenefReturn/PBN__BenefReturn_861)
+* [kuckertz_startups_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_158.md)
 
 ## Property: has_Beneficiary
 
-* [startups](../Stakeholder/PBN__Stakeholder_322)
+* [startups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_322.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [kuckertz_startups_2020](../Article/PBN__Article_158)
+* [Enhanced access to financial and non-financial support for recovery and growth](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_861.md)
 

@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Clear screens between seats__ (PBN__Mitigation_316)
-
-## Property: has_MitigationTechnology
-
-* [physical barriers](../Technology/PBN__Technology_343)
 
 ## Property: has_MitigationSource
 
-* [budd_responsible_2020](../Article/PBN__Article_148)
+* [budd_responsible_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_148.md)
+
+## Property: has_MitigationTechnology
+
+* [physical barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_343.md)
 
 ## Property: has_MitigationPrinciple
 

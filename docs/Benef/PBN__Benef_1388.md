@@ -1,19 +1,21 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Early detection of potential outbreaks__ (PBN__Benef_1388)
 
 ## Property: has_BenefDetails
 
 Monitoring high temperatures or other indicators to identify individuals who may be unwell
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Early response to health emergencies, improved public health and safety](../BenefReturn/PBN__BenefReturn_1575)
+* [webb_smart_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_294.md)
 
 ## Property: has_Beneficiary
 
-* [public health officials](../Stakeholder/PBN__Stakeholder_310)
-* [general population](../Stakeholder/PBN__Stakeholder_9)
+* [public health officials](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_310.md)
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [webb_smart_2020](../Article/PBN__Article_294)
+* [Early response to health emergencies, improved public health and safety](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1575.md)
 

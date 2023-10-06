@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Mobile temperature measurement__ (PBN__Mitigation_2373)
-
-## Property: has_MitigationTechnology
-
-* [thermometers](../Technology/PBN__Technology_3922)
 
 ## Property: has_MitigationSource
 
-* [whitelaw_applications_2020](../Article/PBN__Article_127)
+* [whitelaw_applications_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_127.md)
+
+## Property: has_MitigationTechnology
+
+* [thermometers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3922.md)
 
 ## Property: has_MitigationPrinciple
 

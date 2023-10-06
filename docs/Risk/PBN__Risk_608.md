@@ -1,8 +1,10 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __COVID-19 analytics__ (PBN__Risk_608)
 
 ## Property: has_RiskMitigation
 
-* [Ontological reasoning](../RiskMitigation/PBN__RiskMitigation_842)
-* [Big data analytics](../RiskMitigation/PBN__RiskMitigation_843)
-* [Knowledge graphs and linked data](../RiskMitigation/PBN__RiskMitigation_844)
+* [Ontological reasoning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_842.md)
+* [Big data analytics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_843.md)
+* [Knowledge graphs and linked data](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_844.md)
 

@@ -1,15 +1,17 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Enhanced cleaning and disinfection__ (PBN__Mitigation_1009)
-
-## Property: has_MitigationTechnology
-
-* [cleaning agents](../Technology/PBN__Technology_3292)
-* [disinfectants](../Technology/PBN__Technology_413)
-* [cleaning and disinfection products](../Technology/PBN__Technology_227)
 
 ## Property: has_MitigationSource
 
-* [koh_how_2022](../Article/PBN__Article_190)
-* [li_seeing_2020](../Article/PBN__Article_25)
+* [koh_how_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_190.md)
+* [li_seeing_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_25.md)
+
+## Property: has_MitigationTechnology
+
+* [cleaning agents](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3292.md)
+* [disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_413.md)
+* [cleaning and disinfection products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_227.md)
 
 ## Property: has_MitigationPrinciple
 

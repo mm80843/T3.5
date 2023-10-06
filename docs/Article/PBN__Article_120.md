@@ -1,18 +1,28 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) 
+
 # Article: __phapant_covid-19_2021__ (PBN__Article_120)
+
+## Property: has_ArticleYear
+
+2021
+
+## Property: has_ArticleRef
+
+* [megahed_antivirus-built_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_298.md)
+* [dietz_2019_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_288.md)
+* [tokazhanov_how_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_67.md)
+* [awada_ten_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_38.md)
+* [van_doremalen_aerosol_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_21.md)
+* [guo_aerosol_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_263.md)
+* [cirrincione_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_284.md)
 
 ## Property: has_ArticleLLMShortSummary
 
 This research abstract discusses the impact of the COVID-19 pandemic on office buildings and workplaces. The abstract highlights the global economic decline, the challenges in public health, and the spread of the virus through different modes of transmission. It also emphasizes the need for regulations and guidelines to prevent the transmission of COVID-19 in workplaces, as well as the importance of implementing protective and preventive measures in office buildings. The abstract mentions the need for ventilation systems, physical distancing, and touch-free technologies as engineering control measures. It also emphasizes the role of administrative and organizational control measures, such as workplace safety measures, cleaning and disinfection, emergency plans, and education and communication. The abstract concludes by stating that resilient office buildings with safety assurances are needed for workers to return to their workplaces amidst the ongoing pandemic.
 
-## Property: has_ArticleRef
+## Property: has_ArticleTitle
 
-* [megahed_antivirus-built_2020](../Article/PBN__Article_298)
-* [dietz_2019_2020](../Article/PBN__Article_288)
-* [tokazhanov_how_2020](../Article/PBN__Article_67)
-* [awada_ten_2021](../Article/PBN__Article_38)
-* [van_doremalen_aerosol_2020](../Article/PBN__Article_21)
-* [guo_aerosol_2020](../Article/PBN__Article_263)
-* [cirrincione_covid-19_2020](../Article/PBN__Article_284)
+COVID-19 Experience Transforming the Protective Environment of Office Buildings and Spaces
 
 ## Property: has_ArticleLLMSummary
 
@@ -21,12 +31,4 @@ During the COVID-19 pandemic, many people got sick and many people died. It was 
 ## Property: has_ArticleDOI
 
 10.3390/su132413636
-
-## Property: has_ArticleTitle
-
-COVID-19 Experience Transforming the Protective Environment of Office Buildings and Spaces
-
-## Property: has_ArticleYear
-
-2021
 

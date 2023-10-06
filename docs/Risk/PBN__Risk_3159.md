@@ -1,6 +1,8 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Overwhelm, stress__ (PBN__Risk_3159)
 
 ## Property: has_RiskMitigation
 
-* [Seeking appropriate assistance](../Mitigation/PBN__Mitigation_1610)
+* [Seeking appropriate assistance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1610.md)
 

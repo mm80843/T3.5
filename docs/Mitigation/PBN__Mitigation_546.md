@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Chemical deactivation of viral particles on surfaces__ (PBN__Mitigation_546)
-
-## Property: has_MitigationTechnology
-
-* [62-71% ethanol solution](../Technology/PBN__Technology_3294)
 
 ## Property: has_MitigationSource
 
-* [dietz_2019_2020](../Article/PBN__Article_288)
+* [dietz_2019_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_288.md)
+
+## Property: has_MitigationTechnology
+
+* [62-71% ethanol solution](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3294.md)
 
 ## Property: has_MitigationPrinciple
 

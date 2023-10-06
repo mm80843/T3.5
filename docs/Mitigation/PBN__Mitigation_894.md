@@ -1,17 +1,19 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Social distancing measures__ (PBN__Mitigation_894)
-
-## Property: has_MitigationTechnology
-
-* [nan](../Technology/PBN__Technology_22)
-* [floor markings](../Technology/PBN__Technology_360)
-* [physical barriers](../Technology/PBN__Technology_343)
 
 ## Property: has_MitigationSource
 
-* [jallow_impact_2020](../Article/PBN__Article_141)
-* [kawka_impacts_2021](../Article/PBN__Article_97)
-* [salama_coronavirus_2020](../Article/PBN__Article_184)
-* [zambrano-monserrate_indirect_2020](../Article/PBN__Article_238)
+* [jallow_impact_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_141.md)
+* [kawka_impacts_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_97.md)
+* [salama_coronavirus_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_184.md)
+* [zambrano-monserrate_indirect_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_238.md)
+
+## Property: has_MitigationTechnology
+
+* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
+* [floor markings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_360.md)
+* [physical barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_343.md)
 
 ## Property: has_MitigationPrinciple
 

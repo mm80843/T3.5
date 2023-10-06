@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Making social spaces safe and viable__ (PBN__Mitigation_409)
-
-## Property: has_MitigationTechnology
-
-* [disinfection equipment](../Technology/PBN__Technology_1356)
-* [hygiene supplies](../Technology/PBN__Technology_768)
 
 ## Property: has_MitigationSource
 
-* [cheshmehzangi_10_2020](../Article/PBN__Article_63)
+* [cheshmehzangi_10_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_63.md)
+
+## Property: has_MitigationTechnology
+
+* [disinfection equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1356.md)
+* [hygiene supplies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_768.md)
 
 ## Property: has_MitigationPrinciple
 

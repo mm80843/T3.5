@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Deployment of low-carbon technologies and infrastructure__ (PBN__Mitigation_1991)
-
-## Property: has_MitigationTechnology
-
-* [low-carbon technologies](../Technology/PBN__Technology_4180)
 
 ## Property: has_MitigationSource
 
-* [sovacool_contextualizing_2020](../Article/PBN__Article_123)
+* [sovacool_contextualizing_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_123.md)
+
+## Property: has_MitigationTechnology
+
+* [low-carbon technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4180.md)
 
 ## Property: has_MitigationPrinciple
 

@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Phylogenetic analysis__ (PBN__Mitigation_2396)
-
-## Property: has_MitigationTechnology
-
-* [genome sequencing](../Technology/PBN__Technology_1952)
-* [comparative analysis of genome sequences](../Technology/PBN__Technology_4470)
 
 ## Property: has_MitigationSource
 
-* [wu_current_2021](../Article/PBN__Article_118)
+* [wu_current_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_118.md)
+
+## Property: has_MitigationTechnology
+
+* [genome sequencing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1952.md)
+* [comparative analysis of genome sequences](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4470.md)
 
 ## Property: has_MitigationPrinciple
 

@@ -1,54 +1,56 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Lack of quantitative evidence for the effectiveness of UBPI__ (PBN__Risk_2242)
-
-## Property: has_RiskISO_Impact
-
-* [Innovation, Creativity and research](../RiskISO/PBN__RiskISO_Purpose_2)
-
-## Property: has_RiskTechnology
-
-* [research studies](../Technology/PBN__Technology_1816)
-* [data collection and analysis methods](../Technology/PBN__Technology_1817)
-
-## Property: has_RiskSubject
-
-* [practitioners and recipients of ubpi](../Stakeholder/PBN__Stakeholder_1505)
-
-## Property: has_RiskType
-
-* [technological](../RiskType/PBN__RiskType_5)
-* [social](../RiskType/PBN__RiskType_2)
-
-## Property: has_RiskISO_Purpose
-
-* [Preservation and improvement of the environment](../RiskISO/PBN__RiskISO_Impact_6)
-
-## Property: has_RiskOwner
-
-* [researchers](../Stakeholder/PBN__Stakeholder_2)
-* [practitioners](../Stakeholder/PBN__Stakeholder_228)
-* [healthcare institutions](../Stakeholder/PBN__Stakeholder_269)
-
-## Property: has_RiskMitigation
-
-* [Conducting research studies and gathering quantitative data on the outcomes and effectiveness of UBPI.](../RiskMitigation/PBN__RiskMitigation_2920)
 
 ## Property: has_RiskName
 
 Limited ability to measure and assess the impact and outcomes of UBPI.
 
+## Property: has_RiskISO_Impact
+
+* [Innovation, Creativity and research](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_2.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Preservation and improvement of the environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_6.md)
+
+## Property: has_RiskOwner
+
+* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+* [practitioners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_228.md)
+* [healthcare institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_269.md)
+
+## Property: has_RiskTechnology
+
+* [research studies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1816.md)
+* [data collection and analysis methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1817.md)
+
+## Property: has_RiskSubject
+
+* [practitioners and recipients of ubpi](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1505.md)
+
+## Property: has_RiskMitigation
+
+* [Conducting research studies and gathering quantitative data on the outcomes and effectiveness of UBPI.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2920.md)
+
 ## Property: has_RiskDescription
 
 There is a lack of quantitative data to support the effectiveness of the Ultrabrief Psychological Interventions (UBPI) approach.
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [tze_ping_ultra_2020](../Article/PBN__Article_258)
+* [mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
+
+## Property: has_RiskType
+
+* [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
+* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
 
 ## Property: has_RiskGBN
 
-* [No](../RiskGBN/PBN__RiskGBN_0)
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [mental](../RiskHealth/PBN__RiskHealth_1)
+* [tze_ping_ultra_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_258.md)
 

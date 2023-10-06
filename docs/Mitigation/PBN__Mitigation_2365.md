@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Physical removal of solid residues__ (PBN__Mitigation_2365)
-
-## Property: has_MitigationTechnology
-
-* [centrifugation](../Technology/PBN__Technology_4431)
-* [ultrafiltration units](../Technology/PBN__Technology_4432)
 
 ## Property: has_MitigationSource
 
-* [westhaus_detection_2021](../Article/PBN__Article_0)
+* [westhaus_detection_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_0.md)
+
+## Property: has_MitigationTechnology
+
+* [centrifugation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4431.md)
+* [ultrafiltration units](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4432.md)
 
 ## Property: has_MitigationPrinciple
 

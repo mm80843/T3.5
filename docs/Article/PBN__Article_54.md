@@ -1,8 +1,18 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) 
+
 # Article: __marr_mechanistic_2019__ (PBN__Article_54)
+
+## Property: has_ArticleYear
+
+2019
 
 ## Property: has_ArticleLLMShortSummary
 
 This article discusses the relationship between humidity and influenza transmission. It argues that absolute humidity (AH) plays a more important role than relative humidity (RH) in modulating the survival, transmission, and seasonality of influenza viruses. The relationship between AH and RH depends on temperature, with higher temperatures leading to higher AH values. The article reviews and reanalyzes previous data on influenza virus survival in aerosols and droplets, transmission in animal models, and influenza incidence. The findings suggest that temperature significantly affects virus survival, with higher temperatures reducing survival. Most influenza transmission between humans likely occurs indoors within a specific temperature range where AH and RH are correlated. The article also discusses the mechanisms behind the relationship between RH and transmission via droplets and aerosols, wherein RH affects the physics and chemistry of the droplets. Overall, the analysis supports the conclusion that a combination of temperature and RH provides a more consistent explanation for influenza transmission than AH alone.
+
+## Property: has_ArticleTitle
+
+Mechanistic insights into the effect of humidity on airborne influenza virus survival, transmission and incidence
 
 ## Property: has_ArticleLLMSummary
 
@@ -11,12 +21,4 @@ Humidity, which is the amount of water vapor in the air, can affect the transmis
 ## Property: has_ArticleDOI
 
 10.1098/rsif.2018.0298
-
-## Property: has_ArticleTitle
-
-Mechanistic insights into the effect of humidity on airborne influenza virus survival, transmission and incidence
-
-## Property: has_ArticleYear
-
-2019
 

@@ -1,10 +1,12 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) 
+
 # Stakeholder: __Migrants__ (PBN__Stakeholder_2346)
-
-## Property: has_StakeholderGroup
-
-* [Vulnerable Population](../StakeholderGroup/PBN__StakeholderGroup_6)
 
 ## Property: has_StakeholderSubgroup
 
-* [Migrants and Minorities](../StakeholderSubgroup/PBN__StakeholderSubgroup_111)
+* [Migrants and Minorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_111.md)
+
+## Property: has_StakeholderGroup
+
+* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
 

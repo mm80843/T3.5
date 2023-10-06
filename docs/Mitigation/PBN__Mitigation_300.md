@@ -1,14 +1,16 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Human Interactions__ (PBN__Mitigation_300)
-
-## Property: has_MitigationTechnology
-
-* [shift alteration](../Technology/PBN__Technology_3137)
-* [online meetings](../Technology/PBN__Technology_3138)
-* [walkie-talkies](../Technology/PBN__Technology_3139)
 
 ## Property: has_MitigationSource
 
-* [bou_hatoum_analysis_2021](../Article/PBN__Article_82)
+* [bou_hatoum_analysis_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_82.md)
+
+## Property: has_MitigationTechnology
+
+* [shift alteration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3137.md)
+* [online meetings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3138.md)
+* [walkie-talkies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3139.md)
 
 ## Property: has_MitigationPrinciple
 

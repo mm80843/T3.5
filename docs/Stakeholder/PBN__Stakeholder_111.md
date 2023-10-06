@@ -1,6 +1,8 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) 
+
 # Stakeholder: __people of color__ (PBN__Stakeholder_111)
 
 ## Property: has_StakeholderID
 
-* [Q2072081](../Qid/Q2072081)
+* [Q2072081](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2072081.md)
 

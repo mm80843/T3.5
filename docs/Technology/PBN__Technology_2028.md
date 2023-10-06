@@ -1,6 +1,8 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) 
+
 # Technology: __antigen tests__ (PBN__Technology_2028)
 
 ## Property: has_TechnologyID
 
-* [Q66023711](../Qid/Q66023711)
+* [Q66023711](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q66023711.md)
 

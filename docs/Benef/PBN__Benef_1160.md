@@ -1,19 +1,21 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Self-monitoring and assessment__ (PBN__Benef_1160)
 
 ## Property: has_BenefDetails
 
 Allows individuals to monitor their health status, track symptoms, and assess their risk of exposure
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Empowers individuals to take proactive measures, reduces transmission risk, and promotes early intervention](../BenefReturn/PBN__BenefReturn_1292)
+* [raza_mobile_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_239.md)
 
 ## Property: has_Beneficiary
 
-* [general public](../Stakeholder/PBN__Stakeholder_29)
-* [individuals](../Stakeholder/PBN__Stakeholder_20)
+* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
+* [individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_20.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [raza_mobile_2021](../Article/PBN__Article_239)
+* [Empowers individuals to take proactive measures, reduces transmission risk, and promotes early intervention](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1292.md)
 

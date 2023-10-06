@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Health screening of workers__ (PBN__Mitigation_1680)
-
-## Property: has_MitigationTechnology
-
-* [body temperature scanners](../Technology/PBN__Technology_4007)
 
 ## Property: has_MitigationSource
 
-* [raoufi_identifying_2021](../Article/PBN__Article_220)
+* [raoufi_identifying_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_220.md)
+
+## Property: has_MitigationTechnology
+
+* [body temperature scanners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4007.md)
 
 ## Property: has_MitigationPrinciple
 

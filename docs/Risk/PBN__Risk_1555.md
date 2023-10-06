@@ -1,52 +1,54 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Aerosol transmission__ (PBN__Risk_1555)
-
-## Property: has_RiskISO_Impact
-
-* [Health and care](../RiskISO/PBN__RiskISO_Purpose_0)
-
-## Property: has_RiskTechnology
-
-* [use of air purifiers or ventilation systems](../Technology/PBN__Technology_859)
-
-## Property: has_RiskSubject
-
-* [healthcare staff](../Stakeholder/PBN__Stakeholder_139)
-* [patients](../Stakeholder/PBN__Stakeholder_31)
-
-## Property: has_RiskType
-
-* [technological](../RiskType/PBN__RiskType_5)
-
-## Property: has_RiskISO_Purpose
-
-* [Safety and security](../RiskISO/PBN__RiskISO_Impact_0)
-
-## Property: has_RiskOwner
-
-* [healthcare institutions](../Stakeholder/PBN__Stakeholder_269)
-
-## Property: has_RiskMitigation
-
-* [Use of appropriate protective equipment, proper ventilation, and limiting aerosol-generating procedures](../RiskMitigation/PBN__RiskMitigation_2084)
-* [Ventilation](../Mitigation/PBN__Mitigation_170)
 
 ## Property: has_RiskName
 
 Increased risk of infection in healthcare settings
 
+## Property: has_RiskISO_Impact
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_0.md)
+
+## Property: has_RiskOwner
+
+* [healthcare institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_269.md)
+
+## Property: has_RiskTechnology
+
+* [use of air purifiers or ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_859.md)
+
+## Property: has_RiskSubject
+
+* [healthcare staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_139.md)
+* [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
+
+## Property: has_RiskMitigation
+
+* [Use of appropriate protective equipment, proper ventilation, and limiting aerosol-generating procedures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2084.md)
+* [Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_170.md)
+
 ## Property: has_RiskDescription
 
 Transmission of the virus through aerosols formed during surgical and dental procedures
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [karia_covid-19_2020](../Article/PBN__Article_225)
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Property: has_RiskType
+
+* [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
 
 ## Property: has_RiskGBN
 
-* [No](../RiskGBN/PBN__RiskGBN_0)
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [physical](../RiskHealth/PBN__RiskHealth_0)
+* [karia_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_225.md)
 

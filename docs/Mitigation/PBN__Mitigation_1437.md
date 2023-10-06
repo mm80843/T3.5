@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Monitoring wastewater__ (PBN__Mitigation_1437)
-
-## Property: has_MitigationTechnology
-
-* [analytical genomic approaches](../Technology/PBN__Technology_3877)
 
 ## Property: has_MitigationSource
 
-* [nghiem_covid-19_2020 nghiem_covid-19_2020](../Article/PBN__Article_308)
+* [nghiem_covid-19_2020 nghiem_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_308.md)
+
+## Property: has_MitigationTechnology
+
+* [analytical genomic approaches](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3877.md)
 
 ## Property: has_MitigationPrinciple
 

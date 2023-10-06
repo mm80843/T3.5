@@ -1,8 +1,18 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) 
+
 # Article: __bedell_efficacy_2016__ (PBN__Article_269)
+
+## Property: has_ArticleYear
+
+2016
 
 ## Property: has_ArticleLLMShortSummary
 
 This research study aimed to evaluate the effectiveness of the Surfacide multiple-emitter automated UV-C disinfection system against MHV-A59, a mouse analog of MERS-CoV, and SARS-CoV. The system consists of three UV-C emitters with touch screen control and motion sensors. The study found that the UV-C energy emitted from the Surfacide system was able to reduce the viral titers of MHV-A59 by an average of 2.71 log10 in 5 minutes and 6.11 log10 in 10 minutes of exposure. This resulted in undetectable levels of the virus. For MERS-CoV, a 5-minute exposure to the UV-C emitter resulted in undetectable virus levels that remained undetectable even after 30 minutes of total exposure. The study also emphasized that UV-C disinfection should be used as an adjunct to standard cleaning practices, rather than a replacement. This research is the first to document the effectiveness of a whole-room UV-C system against RNA viruses like MHV-A59, MERS-CoV, and SARS-CoV. The use of the Surfacide system during MERS outbreaks can potentially prevent the nosocomial spread of the virus and protect staff.
+
+## Property: has_ArticleTitle
+
+Efficacy of an Automated Multiple Emitter Whole-Room Ultraviolet-C Disinfection System Against Coronaviruses MHV and MERS-CoV
 
 ## Property: has_ArticleLLMSummary
 
@@ -11,12 +21,4 @@ A machine called the Surfacide uses ultraviolet light to kill viruses and bacter
 ## Property: has_ArticleDOI
 
 10.1017/ice.2015.348
-
-## Property: has_ArticleTitle
-
-Efficacy of an Automated Multiple Emitter Whole-Room Ultraviolet-C Disinfection System Against Coronaviruses MHV and MERS-CoV
-
-## Property: has_ArticleYear
-
-2016
 

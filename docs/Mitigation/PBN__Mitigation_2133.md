@@ -1,14 +1,16 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Safety measures of drinking water__ (PBN__Mitigation_2133)
-
-## Property: has_MitigationTechnology
-
-* [ultrafiltration](../Technology/PBN__Technology_3074)
-* [disinfection](../Technology/PBN__Technology_835)
-* [proper disposal](../Technology/PBN__Technology_4253)
 
 ## Property: has_MitigationSource
 
-* [tokazhanov_assessment_2021](../Article/PBN__Article_51)
+* [tokazhanov_assessment_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_51.md)
+
+## Property: has_MitigationTechnology
+
+* [ultrafiltration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3074.md)
+* [disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_835.md)
+* [proper disposal](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4253.md)
 
 ## Property: has_MitigationPrinciple
 

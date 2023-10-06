@@ -1,8 +1,18 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) 
+
 # Article: __wang_construction_2022__ (PBN__Article_28)
+
+## Property: has_ArticleYear
+
+2022
 
 ## Property: has_ArticleLLMShortSummary
 
 This study presents OpenKG-COVID19, one of the largest linked data sets of COVID-19 knowledge graphs (KGs), covering 10 aspects including encyclopedia, concept, medical, health, prevention, goods, research, epidemiology, character, and events. The KGs were constructed using various methods including knowledge modeling, extraction from structured and semistructured data sources, and interlinking of knowledge from different KGs. The data set contains more than 2572 concepts, 329,600 entities, 513 properties, and 2,687,329 facts. The data quality of OpenKG-COVID19 was evaluated, and it achieved high precision, with 98.35% of sampled facts considered correct. Access interfaces such as search, browsing, and querying were provided, and a SPARQL endpoint was established. The sustainability and continuous update of the KGs are ensured through a knowledge crowdsourcing platform. The possible applications of OpenKG-COVID19 include intelligent question answering, semantic search, recommendation systems, visualization analysis, and decision-making support. OpenKG-COVID19 can provide researchers with a comprehensive understanding and knowledge of COVID-19, enabling them to better study and combat the disease.
+
+## Property: has_ArticleTitle
+
+Construction of a Linked Data Set of COVID-19 Knowledge Graphs: Development and Applications
 
 ## Property: has_ArticleLLMSummary
 
@@ -11,12 +21,4 @@ Researchers have created a large database called OpenKG-COVID19 that contains a 
 ## Property: has_ArticleDOI
 
 10.2196/37215
-
-## Property: has_ArticleTitle
-
-Construction of a Linked Data Set of COVID-19 Knowledge Graphs: Development and Applications
-
-## Property: has_ArticleYear
-
-2022
 

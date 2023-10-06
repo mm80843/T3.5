@@ -1,14 +1,16 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) 
+
 # Technology: __Improved sensor technology__ (PBN__Technology_2451)
-
-## Property: has_TechnologyID
-
-* [Q167676](../Qid/Q167676)
 
 ## Property: has_StakeholderGroup
 
-* [Surveillance systems](../TechGroup/PBN__TechGroup_6)
+* [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_6.md)
+
+## Property: has_TechnologyID
+
+* [Q167676](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q167676.md)
 
 ## Property: has_StakeholderSubgroup
 
-* [Sensor and Remote Sensing Technologies](../TechSubgroup/PBN__TechSubgroup_153)
+* [Sensor and Remote Sensing Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_153.md)
 

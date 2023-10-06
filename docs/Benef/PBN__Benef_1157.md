@@ -1,18 +1,20 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Combating misinformation__ (PBN__Benef_1157)
 
 ## Property: has_BenefDetails
 
 Provides accurate and reliable information, helping to counter misinformation and educate the public
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Enhances public understanding, reduces panic, and promotes adherence to preventive measures](../BenefReturn/PBN__BenefReturn_1289)
+* [raza_mobile_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_239.md)
 
 ## Property: has_Beneficiary
 
-* [general public](../Stakeholder/PBN__Stakeholder_29)
+* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [raza_mobile_2021](../Article/PBN__Article_239)
+* [Enhances public understanding, reduces panic, and promotes adherence to preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1289.md)
 

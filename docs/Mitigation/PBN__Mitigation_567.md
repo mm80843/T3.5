@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Reproducible analytics__ (PBN__Mitigation_567)
-
-## Property: has_MitigationTechnology
-
-* [artificial intelligence](../Technology/PBN__Technology_358)
-* [machine learning methodologies](../Technology/PBN__Technology_3316)
 
 ## Property: has_MitigationSource
 
-* [dron_data_2022](../Article/PBN__Article_208)
+* [dron_data_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_208.md)
+
+## Property: has_MitigationTechnology
+
+* [artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_358.md)
+* [machine learning methodologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3316.md)
 
 ## Property: has_MitigationPrinciple
 

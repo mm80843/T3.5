@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Spread of infection__ (PBN__Risk_2408)
 
 ## Property: has_RiskMitigation
 
-* [Quarantines](../Mitigation/PBN__Mitigation_18)
-* [Testing facilities](../Mitigation/PBN__Mitigation_21)
-* [Edge expansion](../Mitigation/PBN__Mitigation_23)
-* [Informal settlements](../Mitigation/PBN__Mitigation_24)
-* [Access to adequate sanitation](../Mitigation/PBN__Mitigation_25)
-* [Quarantine/isolation](../Mitigation/PBN__Mitigation_249)
-* [Teleconsultations](../Mitigation/PBN__Mitigation_616)
+* [Quarantines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_18.md)
+* [Testing facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_21.md)
+* [Edge expansion](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_23.md)
+* [Informal settlements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_24.md)
+* [Access to adequate sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_25.md)
+* [Quarantine/isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_249.md)
+* [Teleconsultations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_616.md)
 

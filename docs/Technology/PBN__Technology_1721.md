@@ -1,14 +1,16 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) 
+
 # Technology: __thermo-visors__ (PBN__Technology_1721)
-
-## Property: has_TechnologyID
-
-* [Q18192457](../Qid/Q18192457)
 
 ## Property: has_StakeholderGroup
 
-* [Hygiene protocols](../TechGroup/PBN__TechGroup_9)
+* [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_9.md)
+
+## Property: has_TechnologyID
+
+* [Q18192457](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q18192457.md)
 
 ## Property: has_StakeholderSubgroup
 
-* [Touchless and Barrier Technologies](../TechSubgroup/PBN__TechSubgroup_166)
+* [Touchless and Barrier Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_166.md)
 

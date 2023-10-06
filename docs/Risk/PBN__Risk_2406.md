@@ -1,10 +1,12 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Outbreak__ (PBN__Risk_2406)
 
 ## Property: has_RiskMitigation
 
-* [Infectious disease monitoring](../Mitigation/PBN__Mitigation_4)
-* [Crisis management](../Mitigation/PBN__Mitigation_5)
-* [Risk communication systems](../Mitigation/PBN__Mitigation_6)
-* [Dedicated walk-in clinic](../Mitigation/PBN__Mitigation_8)
-* [E-healthcare](../Mitigation/PBN__Mitigation_12)
+* [Infectious disease monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4.md)
+* [Crisis management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5.md)
+* [Risk communication systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_6.md)
+* [Dedicated walk-in clinic](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_8.md)
+* [E-healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_12.md)
 

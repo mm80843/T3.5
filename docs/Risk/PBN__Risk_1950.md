@@ -1,53 +1,55 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __False positive reactions in wastewater testing__ (PBN__Risk_1950)
-
-## Property: has_RiskISO_Impact
-
-* [Biodiversity and ecosystem services](../RiskISO/PBN__RiskISO_Purpose_4)
-
-## Property: has_RiskTechnology
-
-* [verification of results through multiple testing methods](../Technology/PBN__Technology_1359)
-* [including confirmation with clinical testing](../Technology/PBN__Technology_1360)
-
-## Property: has_RiskSubject
-
-* [public health authorities](../Stakeholder/PBN__Stakeholder_0)
-* [researchers](../Stakeholder/PBN__Stakeholder_2)
-
-## Property: has_RiskType
-
-* [technological](../RiskType/PBN__RiskType_5)
-
-## Property: has_RiskISO_Purpose
-
-* [Responsible resource use](../RiskISO/PBN__RiskISO_Impact_4)
-
-## Property: has_RiskOwner
-
-* [public health authorities](../Stakeholder/PBN__Stakeholder_0)
-* [testing laboratories](../Stakeholder/PBN__Stakeholder_1159)
-
-## Property: has_RiskMitigation
-
-* [Implement quality control measures and validation protocols to minimize false positive results.](../RiskMitigation/PBN__RiskMitigation_2561)
 
 ## Property: has_RiskName
 
 Unnecessary economic and social burdens, diversion of resources from other critical areas.
 
+## Property: has_RiskISO_Impact
+
+* [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_4.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+
+## Property: has_RiskOwner
+
+* [public health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_0.md)
+* [testing laboratories](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1159.md)
+
+## Property: has_RiskTechnology
+
+* [verification of results through multiple testing methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1359.md)
+* [including confirmation with clinical testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1360.md)
+
+## Property: has_RiskSubject
+
+* [public health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_0.md)
+* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+
+## Property: has_RiskMitigation
+
+* [Implement quality control measures and validation protocols to minimize false positive results.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2561.md)
+
 ## Property: has_RiskDescription
 
 False positive reactions in wastewater testing for SARS-CoV-2 RNA may lead to unnecessary response measures and resource allocation.
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [randazzo_sars-cov-2_2020](../Article/PBN__Article_96)
+* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
+
+## Property: has_RiskType
+
+* [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
 
 ## Property: has_RiskGBN
 
-* [Yes](../RiskGBN/PBN__RiskGBN_1)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [other](../RiskHealth/PBN__RiskHealth_2)
+* [randazzo_sars-cov-2_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_96.md)
 

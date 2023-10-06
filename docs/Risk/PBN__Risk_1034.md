@@ -1,63 +1,65 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Travel-related transmission__ (PBN__Risk_1034)
-
-## Property: has_RiskISO_Impact
-
-* [Health and care](../RiskISO/PBN__RiskISO_Purpose_0)
-
-## Property: has_RiskTechnology
-
-* [travel restrictions](../Technology/PBN__Technology_36)
-* [testing technologies](../Technology/PBN__Technology_37)
-* [travel tracking systems](../Technology/PBN__Technology_38)
-* [travel surveillance systems](../Technology/PBN__Technology_549)
-* [remote working technology](../Technology/PBN__Technology_550)
-
-## Property: has_RiskSubject
-
-* [travelers](../Stakeholder/PBN__Stakeholder_560)
-* [border control officials](../Stakeholder/PBN__Stakeholder_561)
-* [travellers](../Stakeholder/PBN__Stakeholder_553)
-* [essential staff](../Stakeholder/PBN__Stakeholder_863)
-* [general population](../Stakeholder/PBN__Stakeholder_9)
-
-## Property: has_RiskType
-
-* [political](../RiskType/PBN__RiskType_1)
-
-## Property: has_RiskISO_Purpose
-
-* [Resilience](../RiskISO/PBN__RiskISO_Impact_2)
-
-## Property: has_RiskOwner
-
-* [government authorities](../Stakeholder/PBN__Stakeholder_302)
-* [airlines](../Stakeholder/PBN__Stakeholder_562)
-* [travel agencies](../Stakeholder/PBN__Stakeholder_563)
-* [transportation companies](../Stakeholder/PBN__Stakeholder_864)
-
-## Property: has_RiskMitigation
-
-* [Imposing travel restrictions, implementing comprehensive screening and testing protocols](../RiskMitigation/PBN__RiskMitigation_1467)
-* [Implement travel restrictions, reduce travel demand, promote alternative methods of essential supply](../RiskMitigation/PBN__RiskMitigation_1846)
 
 ## Property: has_RiskName
 
 Increased global spread of the virus
 
+## Property: has_RiskISO_Impact
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
+## Property: has_RiskOwner
+
+* [government authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_302.md)
+* [airlines](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_562.md)
+* [travel agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_563.md)
+* [transportation companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_864.md)
+
+## Property: has_RiskTechnology
+
+* [travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_36.md)
+* [testing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_37.md)
+* [travel tracking systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_38.md)
+* [travel surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_549.md)
+* [remote working technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_550.md)
+
+## Property: has_RiskSubject
+
+* [travelers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_560.md)
+* [border control officials](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_561.md)
+* [travellers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_553.md)
+* [essential staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_863.md)
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+
+## Property: has_RiskMitigation
+
+* [Imposing travel restrictions, implementing comprehensive screening and testing protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1467.md)
+* [Implement travel restrictions, reduce travel demand, promote alternative methods of essential supply](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1846.md)
+
 ## Property: has_RiskDescription
 
 Travel contributes significantly to disease transmission
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [agade_exploring_2020](../Article/PBN__Article_114)
-* [ebrahim_covid-19_2020](../Article/PBN__Article_112)
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Property: has_RiskType
+
+* [political](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_1.md)
 
 ## Property: has_RiskGBN
 
-* [No](../RiskGBN/PBN__RiskGBN_0)
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [physical](../RiskHealth/PBN__RiskHealth_0)
+* [agade_exploring_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_114.md)
+* [ebrahim_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_112.md)
 

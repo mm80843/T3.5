@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Essential Oils__ (PBN__Mitigation_279)
-
-## Property: has_MitigationTechnology
-
-* [essential oils](../Technology/PBN__Technology_3111)
 
 ## Property: has_MitigationSource
 
-* [bolashikov_methods_2009](../Article/PBN__Article_240)
+* [bolashikov_methods_2009](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_240.md)
+
+## Property: has_MitigationTechnology
+
+* [essential oils](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3111.md)
 
 ## Property: has_MitigationPrinciple
 

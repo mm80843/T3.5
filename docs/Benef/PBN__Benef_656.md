@@ -1,18 +1,20 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Ambient pollutant reduction__ (PBN__Benef_656)
 
 ## Property: has_BenefDetails
 
 Green spaces, especially forest, can remove air pollutants, reducing the risk of respiratory infections and improving overall health
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Private investors in green spaces would benefit from increased demand for properties near green spaces, leading to higher property values.](../BenefReturn/PBN__BenefReturn_702)
+* [jiang_green_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_130.md)
 
 ## Property: has_Beneficiary
 
-* [general population](../Stakeholder/PBN__Stakeholder_9)
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [jiang_green_2021](../Article/PBN__Article_130)
+* [Private investors in green spaces would benefit from increased demand for properties near green spaces, leading to higher property values.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_702.md)
 

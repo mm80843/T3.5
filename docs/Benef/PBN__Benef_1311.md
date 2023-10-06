@@ -1,18 +1,20 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Early symptom recognition and referral__ (PBN__Benef_1311)
 
 ## Property: has_BenefDetails
 
 Chat bots and phone-based software for self-monitoring and medical treatment referral
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Reduced hospital consultations and better resource allocation](../BenefReturn/PBN__BenefReturn_1481)
+* [ting_digital_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_278.md)
 
 ## Property: has_Beneficiary
 
-* [patients](../Stakeholder/PBN__Stakeholder_31)
+* [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [ting_digital_2020](../Article/PBN__Article_278)
+* [Reduced hospital consultations and better resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1481.md)
 

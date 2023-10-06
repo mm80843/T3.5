@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __RH effect on UV inactivation of bacterial aerosols__ (PBN__Mitigation_2296)
-
-## Property: has_MitigationTechnology
-
-* [measuring rh](../Technology/PBN__Technology_4393)
 
 ## Property: has_MitigationSource
 
-* [walker_effect_2007](../Article/PBN__Article_88)
+* [walker_effect_2007](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_88.md)
+
+## Property: has_MitigationTechnology
+
+* [measuring rh](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4393.md)
 
 ## Property: has_MitigationPrinciple
 

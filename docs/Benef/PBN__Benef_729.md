@@ -1,19 +1,21 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Transposition of open markets to a virtual environment__ (PBN__Benef_729)
 
 ## Property: has_BenefDetails
 
 Virtual markets allow businesses to continue operating while ensuring safety
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Maintain business operations and support local commerce](../BenefReturn/PBN__BenefReturn_783)
+* [fariniuk_smart_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_143.md)
 
 ## Property: has_Beneficiary
 
-* [local businesses](../Stakeholder/PBN__Stakeholder_300)
-* [general public](../Stakeholder/PBN__Stakeholder_29)
+* [local businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_300.md)
+* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [fariniuk_smart_2020](../Article/PBN__Article_143)
+* [Maintain business operations and support local commerce](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_783.md)
 

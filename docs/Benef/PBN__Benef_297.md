@@ -1,19 +1,21 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Enhanced building performance and comfort__ (PBN__Benef_297)
 
 ## Property: has_BenefDetails
 
 New materials with improved insulation properties increase energy efficiency, reduce operating costs, and provide a more comfortable indoor environment.
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Enhanced building performance leads to cost savings, improved tenant satisfaction and retention, and increased property value.](../BenefReturn/PBN__BenefReturn_315)
+* [cheshmehzangi_revisiting_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_59.md)
 
 ## Property: has_Beneficiary
 
-* [construction industry](../Stakeholder/PBN__Stakeholder_149)
-* [building owners](../Stakeholder/PBN__Stakeholder_80)
+* [construction industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_149.md)
+* [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [cheshmehzangi_revisiting_2021](../Article/PBN__Article_59)
+* [Enhanced building performance leads to cost savings, improved tenant satisfaction and retention, and increased property value.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_315.md)
 

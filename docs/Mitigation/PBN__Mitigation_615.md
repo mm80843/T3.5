@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Distance learning/training__ (PBN__Mitigation_615)
-
-## Property: has_MitigationTechnology
-
-* [virtual learning platforms](../Technology/PBN__Technology_1422)
 
 ## Property: has_MitigationSource
 
-* [fariniuk_smart_2020](../Article/PBN__Article_143)
+* [fariniuk_smart_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_143.md)
+
+## Property: has_MitigationTechnology
+
+* [virtual learning platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1422.md)
 
 ## Property: has_MitigationPrinciple
 

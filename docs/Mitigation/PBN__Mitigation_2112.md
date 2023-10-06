@@ -1,14 +1,16 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Public health education through social media__ (PBN__Mitigation_2112)
-
-## Property: has_MitigationTechnology
-
-* [social media platforms (e.g.](../Technology/PBN__Technology_4229)
-* [facebook](../Technology/PBN__Technology_4230)
-* [twitter)](../Technology/PBN__Technology_4231)
 
 ## Property: has_MitigationSource
 
-* [ting_digital_2020](../Article/PBN__Article_278)
+* [ting_digital_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_278.md)
+
+## Property: has_MitigationTechnology
+
+* [social media platforms (e.g.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4229.md)
+* [facebook](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4230.md)
+* [twitter)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4231.md)
 
 ## Property: has_MitigationPrinciple
 

@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Use of energy-efficient appliances__ (PBN__Mitigation_2142)
-
-## Property: has_MitigationTechnology
-
-* [energy reduction ratio](../Technology/PBN__Technology_4262)
 
 ## Property: has_MitigationSource
 
-* [tokazhanov_assessment_2021](../Article/PBN__Article_51)
+* [tokazhanov_assessment_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_51.md)
+
+## Property: has_MitigationTechnology
+
+* [energy reduction ratio](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4262.md)
 
 ## Property: has_MitigationPrinciple
 

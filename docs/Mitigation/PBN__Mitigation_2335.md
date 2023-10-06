@@ -1,14 +1,16 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Integration of physical and virtual space__ (PBN__Mitigation_2335)
-
-## Property: has_MitigationTechnology
-
-* [internet](../Technology/PBN__Technology_3058)
-* [information technology](../Technology/PBN__Technology_2900)
-* [digital integration](../Technology/PBN__Technology_4417)
 
 ## Property: has_MitigationSource
 
-* [wang_urban_2021](../Article/PBN__Article_291)
+* [wang_urban_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_291.md)
+
+## Property: has_MitigationTechnology
+
+* [internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3058.md)
+* [information technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2900.md)
+* [digital integration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4417.md)
 
 ## Property: has_MitigationPrinciple
 

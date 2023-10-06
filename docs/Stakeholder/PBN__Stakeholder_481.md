@@ -1,6 +1,8 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) 
+
 # Stakeholder: __pedestrians__ (PBN__Stakeholder_481)
 
 ## Property: has_StakeholderID
 
-* [Q221488](../Qid/Q221488)
+* [Q221488](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q221488.md)
 

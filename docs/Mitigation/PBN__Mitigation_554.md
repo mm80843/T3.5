@@ -1,14 +1,16 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Proper handwashing hygiene promotion__ (PBN__Mitigation_554)
-
-## Property: has_MitigationTechnology
-
-* [signage](../Technology/PBN__Technology_230)
-* [soap dispensers](../Technology/PBN__Technology_1023)
-* [alcohol-based hand sanitizer](../Technology/PBN__Technology_3300)
 
 ## Property: has_MitigationSource
 
-* [dietz_2019_2020](../Article/PBN__Article_288)
+* [dietz_2019_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_288.md)
+
+## Property: has_MitigationTechnology
+
+* [signage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_230.md)
+* [soap dispensers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1023.md)
+* [alcohol-based hand sanitizer](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3300.md)
 
 ## Property: has_MitigationPrinciple
 

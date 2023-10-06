@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Remote work/telecommuting__ (PBN__Mitigation_1551)
-
-## Property: has_MitigationTechnology
-
-* [internet](../Technology/PBN__Technology_3058)
-* [telecommunication technology](../Technology/PBN__Technology_3060)
 
 ## Property: has_MitigationSource
 
-* [paikan_effects_2021](../Article/PBN__Article_134)
+* [paikan_effects_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_134.md)
+
+## Property: has_MitigationTechnology
+
+* [internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3058.md)
+* [telecommunication technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3060.md)
 
 ## Property: has_MitigationPrinciple
 

@@ -1,18 +1,20 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Vaccine testing__ (PBN__Benef_589)
 
 ## Property: has_BenefDetails
 
 Evaluation of vaccines and therapeutic drugs
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Asset value increase from improved testing and development](../BenefReturn/PBN__BenefReturn_642)
+* [wu_current_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_118.md)
 
 ## Property: has_Beneficiary
 
-* [researchers](../Stakeholder/PBN__Stakeholder_2)
+* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [wu_current_2021](../Article/PBN__Article_118)
+* [Asset value increase from improved testing and development](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_642.md)
 

@@ -1,18 +1,20 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Enhanced thermal comfort__ (PBN__Benef_843)
 
 ## Property: has_BenefDetails
 
 Optimizing occupant distribution aligns internal load with climatic conditions
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Increased occupant satisfaction, improved comfort](../BenefReturn/PBN__BenefReturn_917)
+* [mokhtari_effect_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_169.md)
 
 ## Property: has_Beneficiary
 
-* [building occupants](../Stakeholder/PBN__Stakeholder_97)
+* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [mokhtari_effect_2021](../Article/PBN__Article_169)
+* [Increased occupant satisfaction, improved comfort](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_917.md)
 

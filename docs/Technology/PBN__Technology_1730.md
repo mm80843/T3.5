@@ -1,6 +1,8 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) 
+
 # Technology: __covering high-touch surfaces with antimicrobial material__ (PBN__Technology_1730)
 
 ## Property: has_TechnologyID
 
-* [Q41568378](../Qid/Q41568378)
+* [Q41568378](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q41568378.md)
 

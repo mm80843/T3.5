@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Outdoor spaces__ (PBN__Mitigation_2229)
-
-## Property: has_MitigationTechnology
-
-* [balconies](../Technology/PBN__Technology_1009)
-* [terraces](../Technology/PBN__Technology_4349)
 
 ## Property: has_MitigationSource
 
-* [ujikawa_how_2022](../Article/PBN__Article_172)
+* [ujikawa_how_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_172.md)
+
+## Property: has_MitigationTechnology
+
+* [balconies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1009.md)
+* [terraces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4349.md)
 
 ## Property: has_MitigationPrinciple
 

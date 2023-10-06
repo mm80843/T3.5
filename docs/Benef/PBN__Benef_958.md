@@ -1,19 +1,21 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Reduced need for face-to-face appointments__ (PBN__Benef_958)
 
 ## Property: has_BenefDetails
 
 Combining telemedicine with wearables can reduce the need for face-to-face appointments, enabling remote monitoring and reducing healthcare costs and burdens.
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Private investors can benefit from the increased demand for telemedicine technologies and wearables for remote monitoring.](../BenefReturn/PBN__BenefReturn_1053)
+* [burki_wearable_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_195.md)
 
 ## Property: has_Beneficiary
 
-* [patients](../Stakeholder/PBN__Stakeholder_31)
-* [healthcare providers](../Stakeholder/PBN__Stakeholder_121)
+* [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
+* [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [burki_wearable_2022](../Article/PBN__Article_195)
+* [Private investors can benefit from the increased demand for telemedicine technologies and wearables for remote monitoring.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1053.md)
 

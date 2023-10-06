@@ -1,19 +1,21 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Identifying high-risk areas__ (PBN__Benef_387)
 
 ## Property: has_BenefDetails
 
 Prioritize investigation and control efforts
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Improved surveillance and control strategies](../BenefReturn/PBN__BenefReturn_415)
+* [tatem_integrating_2014](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_76.md)
 
 ## Property: has_Beneficiary
 
-* [malaria elimination programs](../Stakeholder/PBN__Stakeholder_182)
-* [healthcare providers](../Stakeholder/PBN__Stakeholder_121)
+* [malaria elimination programs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_182.md)
+* [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [tatem_integrating_2014](../Article/PBN__Article_76)
+* [Improved surveillance and control strategies](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_415.md)
 

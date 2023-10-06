@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Contextualising and disseminating evidence__ (PBN__Mitigation_603)
-
-## Property: has_MitigationTechnology
-
-* [user-friendly formats](../Technology/PBN__Technology_3343)
-* [plain language](../Technology/PBN__Technology_3344)
 
 ## Property: has_MitigationSource
 
-* [el-jardali_amplifying_2020](../Article/PBN__Article_111)
+* [el-jardali_amplifying_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_111.md)
+
+## Property: has_MitigationTechnology
+
+* [user-friendly formats](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3343.md)
+* [plain language](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3344.md)
 
 ## Property: has_MitigationPrinciple
 

@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Flexible public places__ (PBN__Mitigation_411)
-
-## Property: has_MitigationTechnology
-
-* [adaptive infrastructure](../Technology/PBN__Technology_3202)
 
 ## Property: has_MitigationSource
 
-* [cheshmehzangi_10_2020](../Article/PBN__Article_63)
+* [cheshmehzangi_10_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_63.md)
+
+## Property: has_MitigationTechnology
+
+* [adaptive infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3202.md)
 
 ## Property: has_MitigationPrinciple
 

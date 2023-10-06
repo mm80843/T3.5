@@ -1,14 +1,16 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Nature incorporation__ (PBN__Mitigation_2479)
-
-## Property: has_MitigationTechnology
-
-* [living materials](../Technology/PBN__Technology_4523)
-* [natural light](../Technology/PBN__Technology_3031)
-* [greenery](../Technology/PBN__Technology_4524)
 
 ## Property: has_MitigationSource
 
-* [zhong_biophilic_2022](../Article/PBN__Article_211)
+* [zhong_biophilic_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_211.md)
+
+## Property: has_MitigationTechnology
+
+* [living materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4523.md)
+* [natural light](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3031.md)
+* [greenery](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4524.md)
 
 ## Property: has_MitigationPrinciple
 

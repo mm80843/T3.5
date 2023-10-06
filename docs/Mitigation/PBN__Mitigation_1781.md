@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Efficient Cooking Practices__ (PBN__Mitigation_1781)
-
-## Property: has_MitigationTechnology
-
-* [cooking techniques](../Technology/PBN__Technology_4061)
-* [ventilation](../Technology/PBN__Technology_3132)
 
 ## Property: has_MitigationSource
 
-* [saini_comprehensive_2020](../Article/PBN__Article_281)
+* [saini_comprehensive_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_281.md)
+
+## Property: has_MitigationTechnology
+
+* [cooking techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4061.md)
+* [ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3132.md)
 
 ## Property: has_MitigationPrinciple
 

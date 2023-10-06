@@ -1,14 +1,16 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Bipolar ionization__ (PBN__Mitigation_1307)
-
-## Property: has_MitigationTechnology
-
-* [high voltage electrodes](../Technology/PBN__Technology_3779)
-* [bipolar ionization technology](../Technology/PBN__Technology_3851)
 
 ## Property: has_MitigationSource
 
-* [megahed_indoor_2021](../Article/PBN__Article_206)
-* [navaratnam_designing_2022](../Article/PBN__Article_282)
+* [megahed_indoor_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_206.md)
+* [navaratnam_designing_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_282.md)
+
+## Property: has_MitigationTechnology
+
+* [high voltage electrodes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3779.md)
+* [bipolar ionization technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3851.md)
 
 ## Property: has_MitigationPrinciple
 

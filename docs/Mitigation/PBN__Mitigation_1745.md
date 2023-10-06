@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Air filtration systems__ (PBN__Mitigation_1745)
-
-## Property: has_MitigationTechnology
-
-* [air filters](../Technology/PBN__Technology_1111)
 
 ## Property: has_MitigationSource
 
-* [rogers_city_2020](../Article/PBN__Article_7)
+* [rogers_city_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_7.md)
+
+## Property: has_MitigationTechnology
+
+* [air filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1111.md)
 
 ## Property: has_MitigationPrinciple
 

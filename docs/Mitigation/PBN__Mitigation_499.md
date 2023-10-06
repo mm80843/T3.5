@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Water consumption and Wastewater Management__ (PBN__Mitigation_499)
-
-## Property: has_MitigationTechnology
-
-* [water treatment technologies](../Technology/PBN__Technology_975)
-* [water disinfection](../Technology/PBN__Technology_3268)
 
 ## Property: has_MitigationSource
 
-* [dalessandro_covid-19_2020](../Article/PBN__Article_161)
+* [dalessandro_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_161.md)
+
+## Property: has_MitigationTechnology
+
+* [water treatment technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_975.md)
+* [water disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3268.md)
 
 ## Property: has_MitigationPrinciple
 

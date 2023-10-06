@@ -1,18 +1,28 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) 
+
 # Article: __sharma_blockchain_2022__ (PBN__Article_219)
+
+## Property: has_ArticleYear
+
+2022
+
+## Property: has_ArticleRef
+
+* [chang_how_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_241.md)
+* [christodoulou_health_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_78.md)
+* [singh_internet_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_295.md)
+* [singh_significant_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_231.md)
+* [suman_sustainability_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_142.md)
+* [ting_digital_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_278.md)
+* [vaishya_emerging_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_116.md)
 
 ## Property: has_ArticleLLMShortSummary
 
 Blockchain technology has the potential to play a critical role in monitoring and controlling the spread of the COVID-19 pandemic. The existing technology lacks trustable data that accurately reflects the spread of the virus. Blockchain technology can provide a digital database that contains accurate and transparent information about COVID-19 patients, test results, treatment status, and discharge summaries. By utilizing blockchain technology, data can be securely stored and shared among participating nodes such as hospitals, laboratories, and government sites. Blockchain technology can also be applied to various areas such as outbreak tracking, donation tracking, medical supply chain management, and public surveillance systems. The use of blockchain technology can improve disease control, traceability of infected patients, transparency in the treatment process, and the management of healthcare instruments. However, there are limitations to blockchain technology, such as energy consumption, scalability, complexity, and privacy concerns. Overall, the combination of blockchain technology with artificial intelligence, big data, and cloud computing can effectively combat the COVID-19 pandemic and future pandemics.
 
-## Property: has_ArticleRef
+## Property: has_ArticleTitle
 
-* [chang_how_2020](../Article/PBN__Article_241)
-* [christodoulou_health_2020](../Article/PBN__Article_78)
-* [singh_internet_2020](../Article/PBN__Article_295)
-* [singh_significant_2020](../Article/PBN__Article_231)
-* [suman_sustainability_2020](../Article/PBN__Article_142)
-* [ting_digital_2020](../Article/PBN__Article_278)
-* [vaishya_emerging_2020](../Article/PBN__Article_116)
+Blockchain technology and its applications to combat COVID-19 pandemic
 
 ## Property: has_ArticleLLMSummary
 
@@ -21,12 +31,4 @@ Blockchain technology is a special kind of technology that can help in monitorin
 ## Property: has_ArticleDOI
 
 10.1007/s42600-020-00106-3
-
-## Property: has_ArticleTitle
-
-Blockchain technology and its applications to combat COVID-19 pandemic
-
-## Property: has_ArticleYear
-
-2022
 

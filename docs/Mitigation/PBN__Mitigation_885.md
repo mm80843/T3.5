@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Prevention of panic__ (PBN__Mitigation_885)
-
-## Property: has_MitigationTechnology
-
-* [accurate and calm communication](../Technology/PBN__Technology_3516)
 
 ## Property: has_MitigationSource
 
-* [ioannidis_coronavirus_2020](../Article/PBN__Article_101)
+* [ioannidis_coronavirus_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_101.md)
+
+## Property: has_MitigationTechnology
+
+* [accurate and calm communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3516.md)
 
 ## Property: has_MitigationPrinciple
 

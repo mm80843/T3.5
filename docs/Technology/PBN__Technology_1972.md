@@ -1,6 +1,8 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) 
+
 # Technology: __development of non-invasive testing techniques__ (PBN__Technology_1972)
 
 ## Property: has_TechnologyID
 
-* [Q11501543](../Qid/Q11501543)
+* [Q11501543](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q11501543.md)
 

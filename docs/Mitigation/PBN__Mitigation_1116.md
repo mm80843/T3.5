@@ -1,14 +1,16 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Urban housing improvement__ (PBN__Mitigation_1116)
-
-## Property: has_MitigationTechnology
-
-* [housing quality](../Technology/PBN__Technology_3665)
-* [air conditioning](../Technology/PBN__Technology_3666)
-* [insecticide-treated screens](../Technology/PBN__Technology_3667)
 
 ## Property: has_MitigationSource
 
-* [ligsay_challenges_2021](../Article/PBN__Article_95)
+* [ligsay_challenges_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_95.md)
+
+## Property: has_MitigationTechnology
+
+* [housing quality](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3665.md)
+* [air conditioning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3666.md)
+* [insecticide-treated screens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3667.md)
 
 ## Property: has_MitigationPrinciple
 

@@ -1,52 +1,54 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Inefficient thermal comfort__ (PBN__Risk_1803)
-
-## Property: has_RiskISO_Impact
-
-* [Health and care](../RiskISO/PBN__RiskISO_Purpose_0)
-
-## Property: has_RiskTechnology
-
-* [none](../Technology/PBN__Technology_35)
-
-## Property: has_RiskSubject
-
-* [occupants of buildings with inefficient thermal comfort](../Stakeholder/PBN__Stakeholder_1204)
-
-## Property: has_RiskType
-
-* [environmental](../RiskType/PBN__RiskType_0)
-
-## Property: has_RiskISO_Purpose
-
-* [Well-being](../RiskISO/PBN__RiskISO_Impact_1)
-
-## Property: has_RiskOwner
-
-* [building owners](../Stakeholder/PBN__Stakeholder_80)
-* [facility managers](../Stakeholder/PBN__Stakeholder_166)
-
-## Property: has_RiskMitigation
-
-* [Optimize HVAC systems, provide individual temperature control options, insulate the building envelope](../RiskMitigation/PBN__RiskMitigation_2383)
 
 ## Property: has_RiskName
 
 Discomfort, reduced productivity
 
+## Property: has_RiskISO_Impact
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+
+## Property: has_RiskOwner
+
+* [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
+* [facility managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_166.md)
+
+## Property: has_RiskTechnology
+
+* [none](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
+
+## Property: has_RiskSubject
+
+* [occupants of buildings with inefficient thermal comfort](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1204.md)
+
+## Property: has_RiskMitigation
+
+* [Optimize HVAC systems, provide individual temperature control options, insulate the building envelope](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2383.md)
+
 ## Property: has_RiskDescription
 
 Inadequate temperature control in buildings can impact occupants' comfort and well-being
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [navaratnam_designing_2022](../Article/PBN__Article_282)
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+* [mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
+
+## Property: has_RiskType
+
+* [environmental](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_0.md)
 
 ## Property: has_RiskGBN
 
-* [Yes](../RiskGBN/PBN__RiskGBN_1)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [physical](../RiskHealth/PBN__RiskHealth_0)
-* [mental](../RiskHealth/PBN__RiskHealth_1)
+* [navaratnam_designing_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_282.md)
 

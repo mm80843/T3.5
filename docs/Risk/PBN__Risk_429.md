@@ -1,56 +1,58 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Population susceptibility__ (PBN__Risk_429)
-
-## Property: has_RiskISO_Impact
-
-* [Living and working environment](../RiskISO/PBN__RiskISO_Purpose_1)
-
-## Property: has_RiskTechnology
-
-* [targeted testing and protection measures based on population characteristics](../Technology/PBN__Technology_1957)
-
-## Property: has_RiskSubject
-
-* [elderly individuals](../Stakeholder/PBN__Stakeholder_806)
-* [individuals with underlying health conditions](../Stakeholder/PBN__Stakeholder_889)
-
-## Property: has_RiskType
-
-* [social](../RiskType/PBN__RiskType_2)
-* [political](../RiskType/PBN__RiskType_1)
-* [environmental](../RiskType/PBN__RiskType_0)
-
-## Property: has_RiskISO_Purpose
-
-* [Well-being](../RiskISO/PBN__RiskISO_Impact_1)
-
-## Property: has_RiskOwner
-
-* [public health officials](../Stakeholder/PBN__Stakeholder_310)
-* [healthcare providers](../Stakeholder/PBN__Stakeholder_121)
-
-## Property: has_RiskMitigation
-
-* [Blood types](../RiskMitigation/PBN__RiskMitigation_597)
-* [Social distancing](../RiskMitigation/PBN__RiskMitigation_275)
-* [Prioritize testing and protection for vulnerable populations, such as the elderly and those with underlying health conditions.](../RiskMitigation/PBN__RiskMitigation_3063)
 
 ## Property: has_RiskName
 
 Higher risk of infection and mortality among vulnerable populations.
 
+## Property: has_RiskISO_Impact
+
+* [Living and working environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_1.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+
+## Property: has_RiskOwner
+
+* [public health officials](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_310.md)
+* [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
+
+## Property: has_RiskTechnology
+
+* [targeted testing and protection measures based on population characteristics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1957.md)
+
+## Property: has_RiskSubject
+
+* [elderly individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_806.md)
+* [individuals with underlying health conditions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_889.md)
+
+## Property: has_RiskMitigation
+
+* [Blood types](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_597.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_275.md)
+* [Prioritize testing and protection for vulnerable populations, such as the elderly and those with underlying health conditions.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3063.md)
+
 ## Property: has_RiskDescription
 
 Susceptibility to SARS-CoV-2 varies among different populations based on age, gender, and other factors.
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [wu_current_2021](../Article/PBN__Article_118)
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Property: has_RiskType
+
+* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
+* [political](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_1.md)
+* [environmental](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_0.md)
 
 ## Property: has_RiskGBN
 
-* [No](../RiskGBN/PBN__RiskGBN_0)
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [physical](../RiskHealth/PBN__RiskHealth_0)
+* [wu_current_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_118.md)
 

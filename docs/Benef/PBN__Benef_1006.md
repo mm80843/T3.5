@@ -1,18 +1,20 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Optimized operations__ (PBN__Benef_1006)
 
 ## Property: has_BenefDetails
 
 Increased efficiency and productivity
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Improved workforce safety and reduced operational costs](../BenefReturn/PBN__BenefReturn_1118)
+* [poch_when_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_207.md)
 
 ## Property: has_Beneficiary
 
-* [water utilities/workforce](../Stakeholder/PBN__Stakeholder_399)
+* [water utilities/workforce](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_399.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [poch_when_2020](../Article/PBN__Article_207)
+* [Improved workforce safety and reduced operational costs](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1118.md)
 

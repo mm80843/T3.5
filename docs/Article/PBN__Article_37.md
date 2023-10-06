@@ -1,12 +1,22 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) 
+
 # Article: __la_rosa_first_2020__ (PBN__Article_37)
+
+## Property: has_ArticleYear
+
+2020
+
+## Property: has_ArticleRef
+
+* [ahmed_first_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_205.md)
 
 ## Property: has_ArticleLLMShortSummary
 
 This study investigated the presence of SARS-CoV-2, the virus responsible for COVID-19, in sewage samples collected from wastewater treatment plants (WWTPs) in Milan and Rome, Italy. Twelve raw sewage samples were collected between February and April 2020. The samples underwent a heat treatment to ensure the safety of laboratory personnel before viral concentration was performed. The samples were then tested using multiple PCR assays to detect the presence of SARS-CoV-2 RNA. The results showed that 50% of the wastewater samples tested positive for SARS-CoV-2 RNA, with the newly designed assay targeting the RdRp gene showing higher sensitivity compared to other assays. The sequences obtained from the positive samples showed 100% identity with the first SARS-CoV-2 sequence detected in Italy. These results indicate that environmental surveillance of sewage can be a sensitive tool for detecting the presence of the virus in the population, even in the early stages of an outbreak. Further research is needed to quantify the viral load in sewage and to monitor the virus in wastewater samples from different regions in Italy. Environmental monitoring of SARS-CoV-2 in sewage could also serve as an early warning system for the reemergence of COVID-19 in urban areas.
 
-## Property: has_ArticleRef
+## Property: has_ArticleTitle
 
-* [ahmed_first_2020](../Article/PBN__Article_205)
+First detection of SARS-CoV-2 in untreated wastewaters in Italy
 
 ## Property: has_ArticleLLMSummary
 
@@ -15,12 +25,4 @@ Scientists in Italy collected sewage samples from wastewater treatment plants in
 ## Property: has_ArticleDOI
 
 10.1016/j.scitotenv.2020.139652
-
-## Property: has_ArticleTitle
-
-First detection of SARS-CoV-2 in untreated wastewaters in Italy
-
-## Property: has_ArticleYear
-
-2020
 

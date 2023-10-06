@@ -1,6 +1,8 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Data linkage challenges, discordant definitions__ (PBN__Risk_2629)
 
 ## Property: has_RiskMitigation
 
-* [Common data infrastructures](../Mitigation/PBN__Mitigation_566)
+* [Common data infrastructures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_566.md)
 

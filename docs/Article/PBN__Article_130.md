@@ -1,12 +1,22 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) 
+
 # Article: __jiang_green_2021__ (PBN__Article_130)
+
+## Property: has_ArticleYear
+
+2021
+
+## Property: has_ArticleRef
+
+* [walker_impact_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_65.md)
 
 ## Property: has_ArticleLLMShortSummary
 
 This study examines the relationship between green spaces, particularly forests, and the risk of infection with SARS-CoV-2, the virus that causes COVID-19. The researchers conducted a comprehensive assessment of the association between green spaces and infection rates in 3,108 counties in the United States from January to December 2020. They found that green spaces, especially forests, have a significant negative association with SARS-CoV-2 infection rates. The effect was strongest in counties with moderate levels of urbanicity. The association between forest and infection rates increased over time, with the strongest effect observed in the most recent time period when infection rates were at their highest. The study also identified an optimal buffer distance of 1.0-1.4 kilometers from forested areas, within which the greatest reduction in infection rates was observed. The findings suggest that preserving and developing green spaces, particularly forests, may help reduce the risk of SARS-CoV-2 infection.
 
-## Property: has_ArticleRef
+## Property: has_ArticleTitle
 
-* [walker_impact_2020](../Article/PBN__Article_65)
+Green spaces, especially forest, linked to lower SARS-CoV-2 infection rates: A one-year nationwide study
 
 ## Property: has_ArticleLLMSummary
 
@@ -15,12 +25,4 @@ Green spaces, like parks and forests, have many health benefits for people. They
 ## Property: has_ArticleDOI
 
 10.1101/2021.08.04.21261420
-
-## Property: has_ArticleTitle
-
-Green spaces, especially forest, linked to lower SARS-CoV-2 infection rates: A one-year nationwide study
-
-## Property: has_ArticleYear
-
-2021
 

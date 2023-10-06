@@ -1,8 +1,18 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) 
+
 # Article: __sun_efficacy_2020__ (PBN__Article_125)
+
+## Property: has_ArticleYear
+
+2020
 
 ## Property: has_ArticleLLMShortSummary
 
 This study aims to investigate the impacts of social distance and ventilation effectiveness on the infection risk of COVID-19. The distance index (Pd) and ventilation index (Ez) were introduced into the Wells-Riley model, which is commonly used to predict infection risk. The study analyzed the distribution and transmission of respiratory droplets during talking and calculated the transmission distance of droplets based on their size. The study also considered the evaporation of droplets during transmission and its effect on transmission distance. The calibrated model showed reasonable accuracy in predicting infection rates for various scenarios. The study projected the infection risk in different confined spaces and found that social distancing and ventilation play important roles in mitigating the risk of infection. The required minimum ventilation rate to achieve a target infection probability of 2% was determined and found to be influenced by social distancing. The study concluded that increasing social distance and improving ventilation effectiveness are effective measures to control the spread of COVID-19. However, the study has limitations in terms of not considering other transmission routes and uncertainties in initial infection probability. Overall, the findings contribute to understanding the impact of social distance and ventilation on the transmission of COVID-19 in indoor spaces.
+
+## Property: has_ArticleTitle
+
+The efficacy of social distance and ventilation effectiveness in preventing COVID-19 transmission
 
 ## Property: has_ArticleLLMSummary
 
@@ -11,12 +21,4 @@ This study looked at how the coronavirus spreads through respiratory droplets wh
 ## Property: has_ArticleDOI
 
 10.1016/j.scs.2020.102390
-
-## Property: has_ArticleTitle
-
-The efficacy of social distance and ventilation effectiveness in preventing COVID-19 transmission
-
-## Property: has_ArticleYear
-
-2020
 

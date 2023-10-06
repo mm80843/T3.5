@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Artificial intelligence in predictive analytics__ (PBN__Mitigation_1235)
-
-## Property: has_MitigationTechnology
-
-* [machine learning](../Technology/PBN__Technology_3004)
-* [deep learning models](../Technology/PBN__Technology_3759)
 
 ## Property: has_MitigationSource
 
-* [matheri_water_2023](../Article/PBN__Article_162)
+* [matheri_water_2023](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_162.md)
+
+## Property: has_MitigationTechnology
+
+* [machine learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3004.md)
+* [deep learning models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3759.md)
 
 ## Property: has_MitigationPrinciple
 

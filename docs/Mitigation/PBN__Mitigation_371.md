@@ -1,15 +1,17 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Remote monitoring__ (PBN__Mitigation_371)
-
-## Property: has_MitigationTechnology
-
-* [wearable sensors](../Technology/PBN__Technology_2949)
-* [building management systems](../Technology/PBN__Technology_3395)
-* [sensors](../Technology/PBN__Technology_200)
 
 ## Property: has_MitigationSource
 
-* [channa_rise_2021](../Article/PBN__Article_99)
-* [geraldi_addressing_2021](../Article/PBN__Article_286)
+* [channa_rise_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_99.md)
+* [geraldi_addressing_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_286.md)
+
+## Property: has_MitigationTechnology
+
+* [wearable sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2949.md)
+* [building management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3395.md)
+* [sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_200.md)
 
 ## Property: has_MitigationPrinciple
 

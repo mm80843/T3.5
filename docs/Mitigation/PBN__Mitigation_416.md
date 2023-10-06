@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Decline in car-based transportation infrastructure__ (PBN__Mitigation_416)
-
-## Property: has_MitigationTechnology
-
-* [bicycle paths](../Technology/PBN__Technology_3207)
 
 ## Property: has_MitigationSource
 
-* [cheshmehzangi_revisiting_2021](../Article/PBN__Article_59)
+* [cheshmehzangi_revisiting_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_59.md)
+
+## Property: has_MitigationTechnology
+
+* [bicycle paths](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3207.md)
 
 ## Property: has_MitigationPrinciple
 

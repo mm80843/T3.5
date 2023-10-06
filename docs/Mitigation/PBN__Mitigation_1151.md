@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Opening presence for air circulation and sun exposure__ (PBN__Mitigation_1151)
-
-## Property: has_MitigationTechnology
-
-* [windows](../Technology/PBN__Technology_140)
-* [openings](../Technology/PBN__Technology_3702)
 
 ## Property: has_MitigationSource
 
-* [maharani_biophilic_2022](../Article/PBN__Article_179)
+* [maharani_biophilic_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_179.md)
+
+## Property: has_MitigationTechnology
+
+* [windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_140.md)
+* [openings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3702.md)
 
 ## Property: has_MitigationPrinciple
 

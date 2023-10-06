@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Sanitation__ (PBN__Mitigation_1659)
-
-## Property: has_MitigationTechnology
-
-* [clean drinking water](../Technology/PBN__Technology_3985)
-* [](../Technology/PBN__Technology_3986)
 
 ## Property: has_MitigationSource
 
-* [rahim_impact_2022](../Article/PBN__Article_94)
+* [rahim_impact_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_94.md)
+
+## Property: has_MitigationTechnology
+
+* [clean drinking water](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3985.md)
+* [](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3986.md)
 
 ## Property: has_MitigationPrinciple
 

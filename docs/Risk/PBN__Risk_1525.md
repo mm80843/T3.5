@@ -1,53 +1,55 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Delays in project activities__ (PBN__Risk_1525)
-
-## Property: has_RiskISO_Impact
-
-* [Economy and sustainable production and consumption](../RiskISO/PBN__RiskISO_Purpose_8)
-
-## Property: has_RiskTechnology
-
-* [communication and collaboration tools](../Technology/PBN__Technology_810)
-
-## Property: has_RiskSubject
-
-* [contractors](../Stakeholder/PBN__Stakeholder_179)
-* [project teams](../Stakeholder/PBN__Stakeholder_979)
-* [clients](../Stakeholder/PBN__Stakeholder_297)
-
-## Property: has_RiskType
-
-* [economic](../RiskType/PBN__RiskType_3)
-
-## Property: has_RiskISO_Purpose
-
-* [Resilience](../RiskISO/PBN__RiskISO_Impact_2)
-
-## Property: has_RiskOwner
-
-* [management team](../Stakeholder/PBN__Stakeholder_292)
-* [operations team](../Stakeholder/PBN__Stakeholder_293)
-
-## Property: has_RiskMitigation
-
-* [Implement remote work solutions, utilize digital tools](../RiskMitigation/PBN__RiskMitigation_2052)
 
 ## Property: has_RiskName
 
 Increased costs, project timeline disruptions
 
+## Property: has_RiskISO_Impact
+
+* [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_8.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
+## Property: has_RiskOwner
+
+* [management team](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_292.md)
+* [operations team](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_293.md)
+
+## Property: has_RiskTechnology
+
+* [communication and collaboration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_810.md)
+
+## Property: has_RiskSubject
+
+* [contractors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_179.md)
+* [project teams](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_979.md)
+* [clients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_297.md)
+
+## Property: has_RiskMitigation
+
+* [Implement remote work solutions, utilize digital tools](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2052.md)
+
 ## Property: has_RiskDescription
 
 COVID-19 restrictions and working from home leading to delays
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [jallow_impact_2020](../Article/PBN__Article_141)
+* [nan](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_6.md)
+
+## Property: has_RiskType
+
+* [economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_3.md)
 
 ## Property: has_RiskGBN
 
-* [No](../RiskGBN/PBN__RiskGBN_0)
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [nan](../RiskHealth/PBN__RiskHealth_6)
+* [jallow_impact_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_141.md)
 

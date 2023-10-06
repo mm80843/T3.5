@@ -1,6 +1,8 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __High entrance/membership fees for green areas__ (PBN__Risk_945)
 
 ## Property: has_RiskMitigation
 
-* [Reduce entrance/membership fees for green areas](../RiskMitigation/PBN__RiskMitigation_1314)
+* [Reduce entrance/membership fees for green areas](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1314.md)
 

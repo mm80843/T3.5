@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Occupational safety measures__ (PBN__Mitigation_1510)
-
-## Property: has_MitigationTechnology
-
-* [personal protective equipment](../Technology/PBN__Technology_136)
-* [sanitation protocols](../Technology/PBN__Technology_1497)
 
 ## Property: has_MitigationSource
 
-* [oecd_what_2022](../Article/PBN__Article_287)
+* [oecd_what_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_287.md)
+
+## Property: has_MitigationTechnology
+
+* [personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_136.md)
+* [sanitation protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1497.md)
 
 ## Property: has_MitigationPrinciple
 

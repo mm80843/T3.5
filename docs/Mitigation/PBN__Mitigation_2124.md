@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Adjustability of indoor temperature/humidity__ (PBN__Mitigation_2124)
-
-## Property: has_MitigationTechnology
-
-* [temperature control](../Technology/PBN__Technology_4050)
-* [humidity control](../Technology/PBN__Technology_4241)
 
 ## Property: has_MitigationSource
 
-* [tokazhanov_assessment_2021](../Article/PBN__Article_51)
+* [tokazhanov_assessment_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_51.md)
+
+## Property: has_MitigationTechnology
+
+* [temperature control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4050.md)
+* [humidity control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4241.md)
 
 ## Property: has_MitigationPrinciple
 

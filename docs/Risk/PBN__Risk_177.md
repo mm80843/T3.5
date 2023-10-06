@@ -1,6 +1,8 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __PVP4: Virus propagation__ (PBN__Risk_177)
 
 ## Property: has_RiskMitigation
 
-* [Proper selection of indoor materials](../RiskMitigation/PBN__RiskMitigation_217)
+* [Proper selection of indoor materials](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_217.md)
 

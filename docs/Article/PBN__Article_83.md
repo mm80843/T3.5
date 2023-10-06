@@ -1,12 +1,22 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) 
+
 # Article: __reinwald_urban_2021__ (PBN__Article_83)
+
+## Property: has_ArticleYear
+
+2021
+
+## Property: has_ArticleRef
+
+* [uchiyama_access_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_275.md)
 
 ## Property: has_ArticleLLMShortSummary
 
 This study examines the relationship between urban green infrastructure and the resilience of cities and their populations in the context of the COVID-19 pandemic. The distribution of green and open spaces in the City of Vienna is used as an example to illustrate the uneven distribution of greenery in cities. The study highlights the importance of green infrastructure, such as street open spaces, parks, and building greening, particularly during lockdowns and periods of restricted mobility. It discusses the challenges posed by climate change and the urban heat island effect, and how these challenges are exacerbated by the pandemic. The study emphasizes the need for green infrastructure close to homes, especially for vulnerable populations and those spending more time at home due to the pandemic. It explores the positive effects of urban green infrastructure on emotional health and well-being, and the role of green spaces in ecosystem services. The study also discusses the importance of social justice and equitable distribution of green infrastructure in urban areas. It suggests that the COVID-19 crisis offers an opportunity to prioritize green infrastructure as a means to adapt to climate change and improve the resilience of cities. The study concludes by calling for a reevaluation of the distribution of urban green infrastructure and a consideration of social and spatial justice in urban planning processes.
 
-## Property: has_ArticleRef
+## Property: has_ArticleTitle
 
-* [uchiyama_access_2020](../Article/PBN__Article_275)
+Urban Green Infrastructure and Green Open Spaces: An Issue of Social Fairness in Times of COVID-19 Crisis
 
 ## Property: has_ArticleLLMSummary
 
@@ -15,12 +25,4 @@ The coronavirus pandemic has changed life all around the world. The virus spread
 ## Property: has_ArticleDOI
 
 10.3390/su131910606
-
-## Property: has_ArticleTitle
-
-Urban Green Infrastructure and Green Open Spaces: An Issue of Social Fairness in Times of COVID-19 Crisis
-
-## Property: has_ArticleYear
-
-2021
 

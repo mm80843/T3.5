@@ -1,6 +1,8 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Challenges in centralized and federated approaches__ (PBN__Risk_816)
 
 ## Property: has_RiskMitigation
 
-* [Strengthening local support](../RiskMitigation/PBN__RiskMitigation_1122)
+* [Strengthening local support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1122.md)
 

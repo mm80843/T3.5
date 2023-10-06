@@ -1,21 +1,23 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Secure environment for online education__ (PBN__Benef_1057)
 
 ## Property: has_BenefDetails
 
 Blockchain technology provides a secure environment for online education, ensuring the security and privacy of student and teacher data
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Private investors investing in blockchain-based online education platforms would benefit from improved security and privacy, enhancing the value of their investment.](../BenefReturn/PBN__BenefReturn_1178)
+* [sharma_blockchain_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_219.md)
 
 ## Property: has_Beneficiary
 
-* [colleges](../Stakeholder/PBN__Stakeholder_426)
-* [schools](../Stakeholder/PBN__Stakeholder_366)
-* [students](../Stakeholder/PBN__Stakeholder_101)
-* [teachers](../Stakeholder/PBN__Stakeholder_102)
+* [colleges](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_426.md)
+* [schools](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_366.md)
+* [students](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_101.md)
+* [teachers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_102.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [sharma_blockchain_2022](../Article/PBN__Article_219)
+* [Private investors investing in blockchain-based online education platforms would benefit from improved security and privacy, enhancing the value of their investment.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1178.md)
 

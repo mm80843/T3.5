@@ -1,18 +1,20 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) 
+
 # Technology: __building automation systems__ (PBN__Technology_202)
-
-## Property: has_TechnologyID
-
-* [Q1149653](../Qid/Q1149653)
 
 ## Property: has_StakeholderGroup
 
-* [Infrastructure](../TechGroup/PBN__TechGroup_4)
-* [Monitoring](../TechGroup/PBN__TechGroup_8)
-* [IoT](../TechGroup/PBN__TechGroup_16)
+* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
+* [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_8.md)
+* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
+
+## Property: has_TechnologyID
+
+* [Q1149653](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1149653.md)
 
 ## Property: has_StakeholderSubgroup
 
-* [Building Systems and Design](../TechSubgroup/PBN__TechSubgroup_89)
-* [Hardware and Devices](../TechSubgroup/PBN__TechSubgroup_117)
-* [Energy and Resource Management](../TechSubgroup/PBN__TechSubgroup_118)
+* [Building Systems and Design](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_89.md)
+* [Hardware and Devices](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_117.md)
+* [Energy and Resource Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_118.md)
 

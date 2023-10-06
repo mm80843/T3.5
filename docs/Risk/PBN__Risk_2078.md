@@ -1,56 +1,58 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Lack of personal protective equipment__ (PBN__Risk_2078)
-
-## Property: has_RiskISO_Impact
-
-* [Governance, empowerment and engagement](../RiskISO/PBN__RiskISO_Purpose_6)
-
-## Property: has_RiskTechnology
-
-* [advanced manufacturing techniques](../Technology/PBN__Technology_1557)
-* [supply chain management systems](../Technology/PBN__Technology_110)
-
-## Property: has_RiskSubject
-
-* [healthcare workers](../Stakeholder/PBN__Stakeholder_68)
-* [frontline workers](../Stakeholder/PBN__Stakeholder_797)
-* [general population](../Stakeholder/PBN__Stakeholder_9)
-
-## Property: has_RiskType
-
-* [technological](../RiskType/PBN__RiskType_5)
-* [economic](../RiskType/PBN__RiskType_3)
-
-## Property: has_RiskISO_Purpose
-
-* [Responsible resource use](../RiskISO/PBN__RiskISO_Impact_4)
-
-## Property: has_RiskOwner
-
-* [government](../Stakeholder/PBN__Stakeholder_73)
-* [healthcare organizations](../Stakeholder/PBN__Stakeholder_216)
-* [manufacturers](../Stakeholder/PBN__Stakeholder_34)
-
-## Property: has_RiskMitigation
-
-* [Increase production and distribution of personal protective equipment, stockpile reserves for emergencies](../RiskMitigation/PBN__RiskMitigation_2722)
 
 ## Property: has_RiskName
 
 Increased risk of infections among healthcare workers and general population
 
+## Property: has_RiskISO_Impact
+
+* [Governance, empowerment and engagement](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_6.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+
+## Property: has_RiskOwner
+
+* [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
+* [healthcare organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_216.md)
+* [manufacturers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_34.md)
+
+## Property: has_RiskTechnology
+
+* [advanced manufacturing techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1557.md)
+* [supply chain management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_110.md)
+
+## Property: has_RiskSubject
+
+* [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
+* [frontline workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_797.md)
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+
+## Property: has_RiskMitigation
+
+* [Increase production and distribution of personal protective equipment, stockpile reserves for emergencies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2722.md)
+
 ## Property: has_RiskDescription
 
 Insufficient availability of personal protective equipment (e.g., masks, gloves)
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [silva_covid-abs_2020](../Article/PBN__Article_139)
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Property: has_RiskType
+
+* [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
+* [economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_3.md)
 
 ## Property: has_RiskGBN
 
-* [No](../RiskGBN/PBN__RiskGBN_0)
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [physical](../RiskHealth/PBN__RiskHealth_0)
+* [silva_covid-abs_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_139.md)
 

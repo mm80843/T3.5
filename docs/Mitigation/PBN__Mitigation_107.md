@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Transparency of data usage__ (PBN__Mitigation_107)
-
-## Property: has_MitigationTechnology
-
-* [data policies](../Technology/PBN__Technology_2970)
-* [control](../Technology/PBN__Technology_2971)
 
 ## Property: has_MitigationSource
 
-* [allam_emergence_2019](../Article/PBN__Article_15)
+* [allam_emergence_2019](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_15.md)
+
+## Property: has_MitigationTechnology
+
+* [data policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2970.md)
+* [control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2971.md)
 
 ## Property: has_MitigationPrinciple
 

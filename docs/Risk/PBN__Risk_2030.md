@@ -1,58 +1,60 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Social interaction and engagement__ (PBN__Risk_2030)
-
-## Property: has_RiskISO_Impact
-
-* [Living and working environment](../RiskISO/PBN__RiskISO_Purpose_1)
-
-## Property: has_RiskTechnology
-
-* [video conferencing](../Technology/PBN__Technology_406)
-* [social media platforms](../Technology/PBN__Technology_47)
-* [public space design with social distancing in mind](../Technology/PBN__Technology_1499)
-
-## Property: has_RiskSubject
-
-* [individuals](../Stakeholder/PBN__Stakeholder_20)
-* [communities](../Stakeholder/PBN__Stakeholder_4)
-* [vulnerable populations](../Stakeholder/PBN__Stakeholder_127)
-
-## Property: has_RiskType
-
-* [social](../RiskType/PBN__RiskType_2)
-* [technological](../RiskType/PBN__RiskType_5)
-
-## Property: has_RiskISO_Purpose
-
-* [Resilience](../RiskISO/PBN__RiskISO_Impact_2)
-
-## Property: has_RiskOwner
-
-* [governments](../Stakeholder/PBN__Stakeholder_47)
-* [community organizations](../Stakeholder/PBN__Stakeholder_150)
-* [individuals](../Stakeholder/PBN__Stakeholder_20)
-
-## Property: has_RiskMitigation
-
-* [Promotion of virtual communication and digital technologies for social interaction, designated public spaces that allow for safe socializing](../RiskMitigation/PBN__RiskMitigation_2654)
 
 ## Property: has_RiskName
 
 Increased feelings of isolation, loneliness, decreased mental well-being
 
+## Property: has_RiskISO_Impact
+
+* [Living and working environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_1.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
+## Property: has_RiskOwner
+
+* [governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
+* [community organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_150.md)
+* [individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_20.md)
+
+## Property: has_RiskTechnology
+
+* [video conferencing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_406.md)
+* [social media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_47.md)
+* [public space design with social distancing in mind](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1499.md)
+
+## Property: has_RiskSubject
+
+* [individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_20.md)
+* [communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_4.md)
+* [vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_127.md)
+
+## Property: has_RiskMitigation
+
+* [Promotion of virtual communication and digital technologies for social interaction, designated public spaces that allow for safe socializing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2654.md)
+
 ## Property: has_RiskDescription
 
 Limited contact and reduced social interaction between individuals and communities
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [salama_coronavirus_2020](../Article/PBN__Article_184)
+* [mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
+* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
+
+## Property: has_RiskType
+
+* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
+* [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
 
 ## Property: has_RiskGBN
 
-* [Yes](../RiskGBN/PBN__RiskGBN_1)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [mental](../RiskHealth/PBN__RiskHealth_1)
-* [other](../RiskHealth/PBN__RiskHealth_2)
+* [salama_coronavirus_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_184.md)
 

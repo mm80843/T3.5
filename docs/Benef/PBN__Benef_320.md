@@ -1,21 +1,23 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Improved thermal comfort__ (PBN__Benef_320)
 
 ## Property: has_BenefDetails
 
 Opening windows allows for better control of temperature and airflow, leading to improved thermal comfort.
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Improved occupant satisfaction, productivity, and well-being, leading to increased tenant retention and attraction.](../BenefReturn/PBN__BenefReturn_337)
-* [Increased occupant satisfaction and productivity due to improved comfort levels.](../BenefReturn/PBN__BenefReturn_1263)
+* [geng_intelligent_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_62.md)
+* [howard-reed_effect_2002](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_235.md)
 
 ## Property: has_Beneficiary
 
-* [building occupants](../Stakeholder/PBN__Stakeholder_97)
-* [occupants](../Stakeholder/PBN__Stakeholder_92)
+* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
+* [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [geng_intelligent_2021](../Article/PBN__Article_62)
-* [howard-reed_effect_2002](../Article/PBN__Article_235)
+* [Improved occupant satisfaction, productivity, and well-being, leading to increased tenant retention and attraction.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_337.md)
+* [Increased occupant satisfaction and productivity due to improved comfort levels.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1263.md)
 

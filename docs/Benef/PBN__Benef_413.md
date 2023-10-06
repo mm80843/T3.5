@@ -1,18 +1,20 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Enhanced hygiene__ (PBN__Benef_413)
 
 ## Property: has_BenefDetails
 
 Implementing sanitization protocols, including regular cleaning and disinfection of work areas and equipment, reduces the risk of virus transmission.
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Investment in sanitization protocols demonstrates a commitment to worker safety, reduces the likelihood of COVID-19 outbreaks, and enhances project productivity and efficiency.](../BenefReturn/PBN__BenefReturn_443)
+* [bou_hatoum_analysis_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_82.md)
 
 ## Property: has_Beneficiary
 
-* [construction workers](../Stakeholder/PBN__Stakeholder_197)
+* [construction workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_197.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [bou_hatoum_analysis_2021](../Article/PBN__Article_82)
+* [Investment in sanitization protocols demonstrates a commitment to worker safety, reduces the likelihood of COVID-19 outbreaks, and enhances project productivity and efficiency.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_443.md)
 

@@ -1,18 +1,20 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Equality__ (PBN__Benef_1181)
 
 ## Property: has_BenefDetails
 
 Reduces disparities, provides equal access to resources and support
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Increases social equity and improves social cohesion, leading to stable and inclusive communities](../BenefReturn/PBN__BenefReturn_1316)
+* [azmand_non-medical_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_243.md)
 
 ## Property: has_Beneficiary
 
-* [vulnerable groups](../Stakeholder/PBN__Stakeholder_115)
+* [vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_115.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [azmand_non-medical_2021](../Article/PBN__Article_243)
+* [Increases social equity and improves social cohesion, leading to stable and inclusive communities](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1316.md)
 

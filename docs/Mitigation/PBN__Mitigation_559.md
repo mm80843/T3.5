@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Faecal management__ (PBN__Mitigation_559)
-
-## Property: has_MitigationTechnology
-
-* [sanitation systems](../Technology/PBN__Technology_246)
 
 ## Property: has_MitigationSource
 
-* [ding_toilets_2020](../Article/PBN__Article_196)
+* [ding_toilets_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_196.md)
+
+## Property: has_MitigationTechnology
+
+* [sanitation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_246.md)
 
 ## Property: has_MitigationPrinciple
 

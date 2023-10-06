@@ -1,16 +1,18 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) 
+
 # Technology: __training materials__ (PBN__Technology_1661)
-
-## Property: has_TechnologyID
-
-* [Q918385](../Qid/Q918385)
 
 ## Property: has_StakeholderGroup
 
-* [Infrastructure](../TechGroup/PBN__TechGroup_4)
-* [Educational resources](../TechGroup/PBN__TechGroup_11)
+* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
+* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_11.md)
+
+## Property: has_TechnologyID
+
+* [Q918385](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q918385.md)
 
 ## Property: has_StakeholderSubgroup
 
-* [Educational and Training Resources](../TechSubgroup/PBN__TechSubgroup_39)
-* [Training and Education](../TechSubgroup/PBN__TechSubgroup_62)
+* [Educational and Training Resources](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_39.md)
+* [Training and Education](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_62.md)
 

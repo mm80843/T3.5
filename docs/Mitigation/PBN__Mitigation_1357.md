@@ -1,15 +1,17 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Knowledge sharing__ (PBN__Mitigation_1357)
-
-## Property: has_MitigationTechnology
-
-* [knowledge sharing](../Technology/PBN__Technology_3457)
-* [information sharing tools](../Technology/PBN__Technology_4076)
-* [collaborative platforms](../Technology/PBN__Technology_1132)
 
 ## Property: has_MitigationSource
 
-* [montoya-torres_mapping_2021](../Article/PBN__Article_4)
-* [sakellarides_viral_2020](../Article/PBN__Article_183)
+* [montoya-torres_mapping_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_4.md)
+* [sakellarides_viral_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_183.md)
+
+## Property: has_MitigationTechnology
+
+* [knowledge sharing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3457.md)
+* [information sharing tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4076.md)
+* [collaborative platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1132.md)
 
 ## Property: has_MitigationPrinciple
 

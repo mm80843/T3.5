@@ -1,8 +1,18 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) 
+
 # Article: __he_cido_2020__ (PBN__Article_13)
+
+## Property: has_ArticleYear
+
+2020
 
 ## Property: has_ArticleLLMShortSummary
 
 This research abstract discusses the bottlenecks in achieving precision medicine, therapeutic drugs, and preventive vaccines for coronavirus. The first bottleneck is the disintegrated and non-interoperable nature of big data, which hinders computer-assisted reasoning and knowledge representation. The second bottleneck is the lack of bioinformatics tools to integrate and analyze heterogeneous data and knowledge. Ontologies, such as the Gene Ontology (GO) and the Infectious Disease Ontology (IDO), are crucial for data integration and knowledge representation. The Open Biomedical and Biological Ontologies (OBO) Foundry promotes ontology interoperability. The recently developed Coronavirus Infectious Disease Ontology (CIDO) aims to provide standardized representation of coronavirus infectious diseases. CIDO reuses terms from existing ontologies and aligns them under the Basic Formal Ontology (BFO), allowing interoperability with other ontologies. CIDO can be leveraged for rational drug and vaccine design against coronaviruses. Additionally, CIDO supports the representation of anti-coronavirus drugs and the annotation of vaccine candidates. CIDO enables community-based metadata standardization and welcomes wide community participation. It is expected to facilitate basic research on mechanisms and translational applications for COVID-19 treatment and prevention.
+
+## Property: has_ArticleTitle
+
+CIDO, a community-based ontology for coronavirus disease knowledge and data integration, sharing, and analysis
 
 ## Property: has_ArticleLLMSummary
 
@@ -11,12 +21,4 @@ Scientists are trying to find ways to treat and prevent diseases like COVID-19 b
 ## Property: has_ArticleDOI
 
 10.1038/s41597-020-0523-6
-
-## Property: has_ArticleTitle
-
-CIDO, a community-based ontology for coronavirus disease knowledge and data integration, sharing, and analysis
-
-## Property: has_ArticleYear
-
-2020
 

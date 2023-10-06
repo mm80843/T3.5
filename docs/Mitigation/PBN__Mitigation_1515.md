@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Outdoor space design__ (PBN__Mitigation_1515)
-
-## Property: has_MitigationTechnology
-
-* [urban planning](../Technology/PBN__Technology_922)
 
 ## Property: has_MitigationSource
 
-* [ogden_vector-borne_2016](../Article/PBN__Article_17)
+* [ogden_vector-borne_2016](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_17.md)
+
+## Property: has_MitigationTechnology
+
+* [urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_922.md)
 
 ## Property: has_MitigationPrinciple
 

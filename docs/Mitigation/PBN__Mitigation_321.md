@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Information source selection__ (PBN__Mitigation_321)
-
-## Property: has_MitigationTechnology
-
-* [internet](../Technology/PBN__Technology_3058)
-* [healthcare professionals](../Technology/PBN__Technology_3153)
 
 ## Property: has_MitigationSource
 
-* [buneviciene_covid-19_2021](../Article/PBN__Article_153)
+* [buneviciene_covid-19_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_153.md)
+
+## Property: has_MitigationTechnology
+
+* [internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3058.md)
+* [healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3153.md)
 
 ## Property: has_MitigationPrinciple
 

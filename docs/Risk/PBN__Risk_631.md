@@ -1,6 +1,8 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Inadequate governance models__ (PBN__Risk_631)
 
 ## Property: has_RiskMitigation
 
-* [Implementation of ETs-based governance models](../RiskMitigation/PBN__RiskMitigation_874)
+* [Implementation of ETs-based governance models](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_874.md)
 

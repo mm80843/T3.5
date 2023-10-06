@@ -1,10 +1,12 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Validity concerns in energy social science research during the COVID-19 pandemic__ (PBN__Risk_983)
 
 ## Property: has_RiskMitigation
 
-* [Capture and report on extra relevant data](../RiskMitigation/PBN__RiskMitigation_1387)
-* [Consider implications for design, conduct, and interpretation of research](../RiskMitigation/PBN__RiskMitigation_1388)
-* [Employ longitudinal elements in research design](../RiskMitigation/PBN__RiskMitigation_1389)
-* [Explore alternative data collection methods](../RiskMitigation/PBN__RiskMitigation_1390)
-* [Embrace transparency and reproducibility practices](../RiskMitigation/PBN__RiskMitigation_1391)
+* [Capture and report on extra relevant data](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1387.md)
+* [Consider implications for design, conduct, and interpretation of research](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1388.md)
+* [Employ longitudinal elements in research design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1389.md)
+* [Explore alternative data collection methods](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1390.md)
+* [Embrace transparency and reproducibility practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1391.md)
 

@@ -1,15 +1,17 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Search for evidence beyond conventional types__ (PBN__Mitigation_610)
-
-## Property: has_MitigationTechnology
-
-* [grey literature](../Technology/PBN__Technology_3354)
-* [reports](../Technology/PBN__Technology_3355)
-* [social media](../Technology/PBN__Technology_898)
-* [correspondence](../Technology/PBN__Technology_3356)
 
 ## Property: has_MitigationSource
 
-* [el-jardali_amplifying_2020](../Article/PBN__Article_111)
+* [el-jardali_amplifying_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_111.md)
+
+## Property: has_MitigationTechnology
+
+* [grey literature](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3354.md)
+* [reports](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3355.md)
+* [social media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_898.md)
+* [correspondence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3356.md)
 
 ## Property: has_MitigationPrinciple
 

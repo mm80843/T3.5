@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Data Visualization__ (PBN__Mitigation_916)
-
-## Property: has_MitigationTechnology
-
-* [data visualization technology](../Technology/PBN__Technology_3542)
-* [graphical representation](../Technology/PBN__Technology_3543)
 
 ## Property: has_MitigationSource
 
-* [james_smart_2020](../Article/PBN__Article_164)
+* [james_smart_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_164.md)
+
+## Property: has_MitigationTechnology
+
+* [data visualization technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3542.md)
+* [graphical representation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3543.md)
 
 ## Property: has_MitigationPrinciple
 

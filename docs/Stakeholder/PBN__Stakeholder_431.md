@@ -1,6 +1,8 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) 
+
 # Stakeholder: __architects__ (PBN__Stakeholder_431)
 
 ## Property: has_StakeholderID
 
-* [Q4787002](../Qid/Q4787002)
+* [Q4787002](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4787002.md)
 

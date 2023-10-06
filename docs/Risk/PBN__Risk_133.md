@@ -1,115 +1,117 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __COVID-19 transmission__ (PBN__Risk_133)
-
-## Property: has_RiskISO_Impact
-
-* [Health and care](../RiskISO/PBN__RiskISO_Purpose_0)
-
-## Property: has_RiskTechnology
-
-* [contact tracing apps](../Technology/PBN__Technology_11)
-* [temperature screening](../Technology/PBN__Technology_25)
-* [air purifiers](../Technology/PBN__Technology_138)
-* [disinfection technologies](../Technology/PBN__Technology_350)
-
-## Property: has_RiskSubject
-
-* [general population](../Stakeholder/PBN__Stakeholder_9)
-* [healthcare workers](../Stakeholder/PBN__Stakeholder_68)
-* [vulnerable populations](../Stakeholder/PBN__Stakeholder_127)
-
-## Property: has_RiskType
-
-* [health](../RiskType/PBN__RiskType_4)
-
-## Property: has_RiskISO_Purpose
-
-* [Safety and security](../RiskISO/PBN__RiskISO_Impact_0)
-
-## Property: has_RiskOwner
-
-* [government](../Stakeholder/PBN__Stakeholder_73)
-* [healthcare organizations](../Stakeholder/PBN__Stakeholder_216)
-* [individuals](../Stakeholder/PBN__Stakeholder_20)
-
-## Property: has_RiskMitigation
-
-* [Implementation of infection control measures](../RiskMitigation/PBN__RiskMitigation_157)
-* [Social lockdown](../RiskMitigation/PBN__RiskMitigation_182)
-* [Social distancing](../RiskMitigation/PBN__RiskMitigation_275)
-* [Improved building environment](../RiskMitigation/PBN__RiskMitigation_276)
-* [Increased green space](../RiskMitigation/PBN__RiskMitigation_277)
-* [Responsible transport](../RiskMitigation/PBN__RiskMitigation_278)
-* [Clear urban policy](../RiskMitigation/PBN__RiskMitigation_279)
-* [Case isolation](../RiskMitigation/PBN__RiskMitigation_336)
-* [Home quarantine](../RiskMitigation/PBN__RiskMitigation_337)
-* [Social distancing of at-risk groups](../RiskMitigation/PBN__RiskMitigation_338)
-* [School and university closure](../RiskMitigation/PBN__RiskMitigation_339)
-* [Home isolation of suspect cases](../RiskMitigation/PBN__RiskMitigation_406)
-* [Home quarantine of household members](../RiskMitigation/PBN__RiskMitigation_407)
-* [Social distancing of the elderly and at-risk individuals](../RiskMitigation/PBN__RiskMitigation_408)
-* [Combination of multiple interventions](../RiskMitigation/PBN__RiskMitigation_409)
-* [Personal Protective Equipment (PPE)](../RiskMitigation/PBN__RiskMitigation_415)
-* [Social distancing measures](../RiskMitigation/PBN__RiskMitigation_416)
-* [Sanitization protocols](../RiskMitigation/PBN__RiskMitigation_417)
-* [Communication and awareness campaigns](../RiskMitigation/PBN__RiskMitigation_418)
-* [Worker health monitoring](../RiskMitigation/PBN__RiskMitigation_419)
-* [Wearable technology](../RiskMitigation/PBN__RiskMitigation_498)
-* [Cloud-based remote monitoring](../RiskMitigation/PBN__RiskMitigation_499)
-* [Artificial intelligence](../RiskMitigation/PBN__RiskMitigation_500)
-* [Cloud, edge, and fog computing](../RiskMitigation/PBN__RiskMitigation_501)
-* [Implementation of anti-contagion policies](../RiskMitigation/PBN__RiskMitigation_516)
-* [Digital tracking tools](../RiskMitigation/PBN__RiskMitigation_633)
-* [Big data and AI forecasting](../RiskMitigation/PBN__RiskMitigation_634)
-* [Screening technologies](../RiskMitigation/PBN__RiskMitigation_635)
-* [Contact tracing tools](../RiskMitigation/PBN__RiskMitigation_636)
-* [Quarantine and self-isolation measures](../RiskMitigation/PBN__RiskMitigation_637)
-* [Virtual care platforms](../RiskMitigation/PBN__RiskMitigation_638)
-* [Adaptive design of built environment](../RiskMitigation/PBN__RiskMitigation_753)
-* [Neighbourhood hygiene maintenance](../RiskMitigation/PBN__RiskMitigation_754)
-* [Use of professional signage](../RiskMitigation/PBN__RiskMitigation_792)
-* [Use of standardized signage](../RiskMitigation/PBN__RiskMitigation_793)
-* [Use of larger, readable fonts](../RiskMitigation/PBN__RiskMitigation_794)
-* [Use of branded signage](../RiskMitigation/PBN__RiskMitigation_795)
-* [Use of color and design elements](../RiskMitigation/PBN__RiskMitigation_796)
-* [Optimized physical space modeling](../RiskMitigation/PBN__RiskMitigation_913)
-* [Sustainable design of courtyards](../RiskMitigation/PBN__RiskMitigation_914)
-* [Air ventilation control system](../RiskMitigation/PBN__RiskMitigation_915)
-* [Computer-based solutions](../RiskMitigation/PBN__RiskMitigation_916)
-* [Safe pedestrian navigation](../RiskMitigation/PBN__RiskMitigation_970)
-* [Green building design](../RiskMitigation/PBN__RiskMitigation_1392)
-* [Green retrofitting](../RiskMitigation/PBN__RiskMitigation_1393)
-* [Non-Pharmaceutical Interventions (NPIs)](../RiskMitigation/PBN__RiskMitigation_666)
-* [Adequate daylighting](../RiskMitigation/PBN__RiskMitigation_1394)
-* [Sustainable site management](../RiskMitigation/PBN__RiskMitigation_1395)
-* [Maintain social distancing, practice good hygiene, wear masks in public, and follow public health guidelines.](../RiskMitigation/PBN__RiskMitigation_1920)
-* [Lockdowns](../Mitigation/PBN__Mitigation_821)
-* [Physical Distancing](../Mitigation/PBN__Mitigation_351)
-* [Face Coverings](../Mitigation/PBN__Mitigation_1060)
-* [Travel restrictions](../Mitigation/PBN__Mitigation_11)
-* [Social distancing](../Mitigation/PBN__Mitigation_2)
-* [Quarantine measures](../Mitigation/PBN__Mitigation_1133)
-* [Use of personal protective equipment (PPE)](../Mitigation/PBN__Mitigation_538)
-* [Increased ventilation](../Mitigation/PBN__Mitigation_1134)
-* [Remote work and online meetings](../Mitigation/PBN__Mitigation_1135)
-* [Contact tracing](../Mitigation/PBN__Mitigation_250)
 
 ## Property: has_RiskName
 
 High risk of infection and spread of the virus.
 
+## Property: has_RiskISO_Impact
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_0.md)
+
+## Property: has_RiskOwner
+
+* [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
+* [healthcare organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_216.md)
+* [individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_20.md)
+
+## Property: has_RiskTechnology
+
+* [contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_11.md)
+* [temperature screening](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_25.md)
+* [air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_138.md)
+* [disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_350.md)
+
+## Property: has_RiskSubject
+
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+* [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
+* [vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_127.md)
+
+## Property: has_RiskMitigation
+
+* [Implementation of infection control measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_157.md)
+* [Social lockdown](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_182.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_275.md)
+* [Improved building environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_276.md)
+* [Increased green space](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_277.md)
+* [Responsible transport](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_278.md)
+* [Clear urban policy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_279.md)
+* [Case isolation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_336.md)
+* [Home quarantine](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_337.md)
+* [Social distancing of at-risk groups](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_338.md)
+* [School and university closure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_339.md)
+* [Home isolation of suspect cases](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_406.md)
+* [Home quarantine of household members](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_407.md)
+* [Social distancing of the elderly and at-risk individuals](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_408.md)
+* [Combination of multiple interventions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_409.md)
+* [Personal Protective Equipment (PPE)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_415.md)
+* [Social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_416.md)
+* [Sanitization protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_417.md)
+* [Communication and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_418.md)
+* [Worker health monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_419.md)
+* [Wearable technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_498.md)
+* [Cloud-based remote monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_499.md)
+* [Artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_500.md)
+* [Cloud, edge, and fog computing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_501.md)
+* [Implementation of anti-contagion policies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_516.md)
+* [Digital tracking tools](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_633.md)
+* [Big data and AI forecasting](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_634.md)
+* [Screening technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_635.md)
+* [Contact tracing tools](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_636.md)
+* [Quarantine and self-isolation measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_637.md)
+* [Virtual care platforms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_638.md)
+* [Adaptive design of built environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_753.md)
+* [Neighbourhood hygiene maintenance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_754.md)
+* [Use of professional signage](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_792.md)
+* [Use of standardized signage](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_793.md)
+* [Use of larger, readable fonts](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_794.md)
+* [Use of branded signage](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_795.md)
+* [Use of color and design elements](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_796.md)
+* [Optimized physical space modeling](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_913.md)
+* [Sustainable design of courtyards](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_914.md)
+* [Air ventilation control system](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_915.md)
+* [Computer-based solutions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_916.md)
+* [Safe pedestrian navigation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_970.md)
+* [Green building design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1392.md)
+* [Green retrofitting](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1393.md)
+* [Non-Pharmaceutical Interventions (NPIs)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_666.md)
+* [Adequate daylighting](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1394.md)
+* [Sustainable site management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1395.md)
+* [Maintain social distancing, practice good hygiene, wear masks in public, and follow public health guidelines.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1920.md)
+* [Lockdowns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_821.md)
+* [Physical Distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_351.md)
+* [Face Coverings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1060.md)
+* [Travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_11.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2.md)
+* [Quarantine measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1133.md)
+* [Use of personal protective equipment (PPE)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_538.md)
+* [Increased ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1134.md)
+* [Remote work and online meetings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1135.md)
+* [Contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_250.md)
+
 ## Property: has_RiskDescription
 
 Transmission of COVID-19 from person to person through respiratory droplets or contact with contaminated objects or surfaces.
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [ghosh_study_2020](../Article/PBN__Article_57)
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Property: has_RiskType
+
+* [health](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_4.md)
 
 ## Property: has_RiskGBN
 
-* [No](../RiskGBN/PBN__RiskGBN_0)
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [physical](../RiskHealth/PBN__RiskHealth_0)
+* [ghosh_study_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_57.md)
 

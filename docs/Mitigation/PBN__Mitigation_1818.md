@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Distance learning__ (PBN__Mitigation_1818)
-
-## Property: has_MitigationTechnology
-
-* [internet](../Technology/PBN__Technology_3058)
-* [computers](../Technology/PBN__Technology_4091)
 
 ## Property: has_MitigationSource
 
-* [samout_covid-19_2020](../Article/PBN__Article_58)
+* [samout_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_58.md)
+
+## Property: has_MitigationTechnology
+
+* [internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3058.md)
+* [computers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4091.md)
 
 ## Property: has_MitigationPrinciple
 

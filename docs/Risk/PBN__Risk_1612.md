@@ -1,55 +1,57 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Information overload__ (PBN__Risk_1612)
-
-## Property: has_RiskISO_Impact
-
-* [Innovation, Creativity and research](../RiskISO/PBN__RiskISO_Purpose_2)
-
-## Property: has_RiskTechnology
-
-* [information filtering tools](../Technology/PBN__Technology_936)
-* [ai algorithms](../Technology/PBN__Technology_149)
-* [digital literacy programs](../Technology/PBN__Technology_575)
-
-## Property: has_RiskSubject
-
-* [general public](../Stakeholder/PBN__Stakeholder_29)
-* [social media users](../Stakeholder/PBN__Stakeholder_82)
-
-## Property: has_RiskType
-
-* [technological](../RiskType/PBN__RiskType_5)
-
-## Property: has_RiskISO_Purpose
-
-* [Resilience](../RiskISO/PBN__RiskISO_Impact_2)
-
-## Property: has_RiskOwner
-
-* [education institutions](../Stakeholder/PBN__Stakeholder_1041)
-* [digital literacy organizations](../Stakeholder/PBN__Stakeholder_1042)
-
-## Property: has_RiskMitigation
-
-* [Develop strategies to manage and filter information, promote digital literacy skills](../RiskMitigation/PBN__RiskMitigation_2152)
-* [Synthesising the best available evidence](../Mitigation/PBN__Mitigation_602)
 
 ## Property: has_RiskName
 
 Difficulty in processing and evaluating information, decreased decision-making capabilities
 
+## Property: has_RiskISO_Impact
+
+* [Innovation, Creativity and research](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_2.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
+## Property: has_RiskOwner
+
+* [education institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1041.md)
+* [digital literacy organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1042.md)
+
+## Property: has_RiskTechnology
+
+* [information filtering tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_936.md)
+* [ai algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_149.md)
+* [digital literacy programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_575.md)
+
+## Property: has_RiskSubject
+
+* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
+* [social media users](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_82.md)
+
+## Property: has_RiskMitigation
+
+* [Develop strategies to manage and filter information, promote digital literacy skills](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2152.md)
+* [Synthesising the best available evidence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_602.md)
+
 ## Property: has_RiskDescription
 
 Excessive amount of information that overwhelms an individual's cognitive capacity
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [laato_what_2020](../Article/PBN__Article_31)
+* [mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
+
+## Property: has_RiskType
+
+* [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
 
 ## Property: has_RiskGBN
 
-* [Yes](../RiskGBN/PBN__RiskGBN_1)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [mental](../RiskHealth/PBN__RiskHealth_1)
+* [laato_what_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_31.md)
 

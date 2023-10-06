@@ -1,55 +1,57 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Psychological Risk__ (PBN__Risk_84)
-
-## Property: has_RiskISO_Impact
-
-* [Health and care](../RiskISO/PBN__RiskISO_Purpose_0)
-
-## Property: has_RiskTechnology
-
-* [online counseling platforms](../Technology/PBN__Technology_220)
-* [mental health apps](../Technology/PBN__Technology_117)
-
-## Property: has_RiskSubject
-
-* [tourists](../Stakeholder/PBN__Stakeholder_72)
-* [individuals with pre-existing mental health conditions](../Stakeholder/PBN__Stakeholder_660)
-
-## Property: has_RiskType
-
-* [social](../RiskType/PBN__RiskType_2)
-
-## Property: has_RiskISO_Purpose
-
-* [Well-being](../RiskISO/PBN__RiskISO_Impact_1)
-
-## Property: has_RiskOwner
-
-* [mental health organizations](../Stakeholder/PBN__Stakeholder_605)
-* [governments](../Stakeholder/PBN__Stakeholder_47)
-* [tourism industry](../Stakeholder/PBN__Stakeholder_196)
-
-## Property: has_RiskMitigation
-
-* [Providing clear and transparent information](../RiskMitigation/PBN__RiskMitigation_101)
-* [Providing mental health support, counseling, and stress management techniques](../RiskMitigation/PBN__RiskMitigation_2208)
 
 ## Property: has_RiskName
 
 Negative affect, worry, and fear
 
+## Property: has_RiskISO_Impact
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+
+## Property: has_RiskOwner
+
+* [mental health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_605.md)
+* [governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
+* [tourism industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_196.md)
+
+## Property: has_RiskTechnology
+
+* [online counseling platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_220.md)
+* [mental health apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_117.md)
+
+## Property: has_RiskSubject
+
+* [tourists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_72.md)
+* [individuals with pre-existing mental health conditions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_660.md)
+
+## Property: has_RiskMitigation
+
+* [Providing clear and transparent information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_101.md)
+* [Providing mental health support, counseling, and stress management techniques](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2208.md)
+
 ## Property: has_RiskDescription
 
 Anxiety and mental discomfort related to COVID-19
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [li_seeing_2020](../Article/PBN__Article_25)
+* [mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
+
+## Property: has_RiskType
+
+* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
 
 ## Property: has_RiskGBN
 
-* [No](../RiskGBN/PBN__RiskGBN_0)
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [mental](../RiskHealth/PBN__RiskHealth_1)
+* [li_seeing_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_25.md)
 

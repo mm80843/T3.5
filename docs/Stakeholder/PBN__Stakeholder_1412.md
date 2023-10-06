@@ -1,14 +1,16 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) 
+
 # Stakeholder: __sustainability experts__ (PBN__Stakeholder_1412)
-
-## Property: has_StakeholderGroup
-
-* [National Authorities](../StakeholderGroup/PBN__StakeholderGroup_7)
-
-## Property: has_StakeholderID
-
-* [Q219416](../Qid/Q219416)
 
 ## Property: has_StakeholderSubgroup
 
-* [Sustainability and Environment](../StakeholderSubgroup/PBN__StakeholderSubgroup_115)
+* [Sustainability and Environment](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_115.md)
+
+## Property: has_StakeholderGroup
+
+* [National Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_7.md)
+
+## Property: has_StakeholderID
+
+* [Q219416](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q219416.md)
 

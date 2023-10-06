@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Drones for contactless delivery and surveillance__ (PBN__Mitigation_289)
-
-## Property: has_MitigationTechnology
-
-* [drones](../Technology/PBN__Technology_864)
 
 ## Property: has_MitigationSource
 
-* [bolivar_learning_2022](../Article/PBN__Article_177)
+* [bolivar_learning_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_177.md)
+
+## Property: has_MitigationTechnology
+
+* [drones](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_864.md)
 
 ## Property: has_MitigationPrinciple
 

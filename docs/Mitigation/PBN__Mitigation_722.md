@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Stricter protective measures for ICU staff__ (PBN__Mitigation_722)
-
-## Property: has_MitigationTechnology
-
-* [personal protective equipment (ppe)](../Technology/PBN__Technology_819)
 
 ## Property: has_MitigationSource
 
-* [guo_aerosol_2020](../Article/PBN__Article_263)
+* [guo_aerosol_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_263.md)
+
+## Property: has_MitigationTechnology
+
+* [personal protective equipment (ppe)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_819.md)
 
 ## Property: has_MitigationPrinciple
 

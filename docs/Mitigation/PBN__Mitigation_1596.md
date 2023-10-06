@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Circadian regulation: bedrooms designed for sleep__ (PBN__Mitigation_1596)
-
-## Property: has_MitigationTechnology
-
-* [glazing](../Technology/PBN__Technology_3937)
-* [operable windows](../Technology/PBN__Technology_3938)
 
 ## Property: has_MitigationSource
 
-* [peters_how_2020](../Article/PBN__Article_279)
+* [peters_how_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_279.md)
+
+## Property: has_MitigationTechnology
+
+* [glazing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3937.md)
+* [operable windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3938.md)
 
 ## Property: has_MitigationPrinciple
 

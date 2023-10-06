@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Physical and Mental Health__ (PBN__Mitigation_303)
-
-## Property: has_MitigationTechnology
-
-* [stress management](../Technology/PBN__Technology_1284)
-* [flexible sick leave](../Technology/PBN__Technology_3144)
 
 ## Property: has_MitigationSource
 
-* [bou_hatoum_analysis_2021](../Article/PBN__Article_82)
+* [bou_hatoum_analysis_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_82.md)
+
+## Property: has_MitigationTechnology
+
+* [stress management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1284.md)
+* [flexible sick leave](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3144.md)
 
 ## Property: has_MitigationPrinciple
 

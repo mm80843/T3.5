@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Outdoor activities/usage of open spaces__ (PBN__Mitigation_1012)
-
-## Property: has_MitigationTechnology
-
-* [parks](../Technology/PBN__Technology_1740)
-* [public spaces](../Technology/PBN__Technology_3580)
 
 ## Property: has_MitigationSource
 
-* [koh_how_2022](../Article/PBN__Article_190)
+* [koh_how_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_190.md)
+
+## Property: has_MitigationTechnology
+
+* [parks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1740.md)
+* [public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3580.md)
 
 ## Property: has_MitigationPrinciple
 

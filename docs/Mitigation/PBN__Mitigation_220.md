@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Adequate control of air conditioning and ventilation systems__ (PBN__Mitigation_220)
-
-## Property: has_MitigationTechnology
-
-* [proper maintenance and operation of hvac systems](../Technology/PBN__Technology_3066)
 
 ## Property: has_MitigationSource
 
-* [azuma_environmental_2020](../Article/PBN__Article_249)
+* [azuma_environmental_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_249.md)
+
+## Property: has_MitigationTechnology
+
+* [proper maintenance and operation of hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3066.md)
 
 ## Property: has_MitigationPrinciple
 

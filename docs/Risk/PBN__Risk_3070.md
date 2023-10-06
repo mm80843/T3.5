@@ -1,6 +1,8 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Risk of false negatives or false positives__ (PBN__Risk_3070)
 
 ## Property: has_RiskMitigation
 
-* [Deployment of Viral Testing](../Mitigation/PBN__Mitigation_1442)
+* [Deployment of Viral Testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1442.md)
 

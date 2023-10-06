@@ -1,14 +1,16 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) 
+
 # Technology: __collaborations with social media platforms to combat misinformation__ (PBN__Technology_1439)
-
-## Property: has_TechnologyID
-
-* [Q1401274](../Qid/Q1401274)
 
 ## Property: has_StakeholderGroup
 
-* [Social media](../TechGroup/PBN__TechGroup_1)
+* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_1.md)
+
+## Property: has_TechnologyID
+
+* [Q1401274](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1401274.md)
 
 ## Property: has_StakeholderSubgroup
 
-* [Advocacy and Lobbying Efforts](../TechSubgroup/PBN__TechSubgroup_43)
+* [Advocacy and Lobbying Efforts](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_43.md)
 

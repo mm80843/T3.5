@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Natural Lighting__ (PBN__Mitigation_1690)
-
-## Property: has_MitigationTechnology
-
-* [daylighting systems](../Technology/PBN__Technology_187)
 
 ## Property: has_MitigationSource
 
-* [rassia_how_2020](../Article/PBN__Article_34)
+* [rassia_how_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_34.md)
+
+## Property: has_MitigationTechnology
+
+* [daylighting systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_187.md)
 
 ## Property: has_MitigationPrinciple
 

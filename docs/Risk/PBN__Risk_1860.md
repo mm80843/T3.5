@@ -1,55 +1,57 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Inequities in disease vulnerability and access to care__ (PBN__Risk_1860)
-
-## Property: has_RiskISO_Impact
-
-* [Economy and sustainable production and consumption](../RiskISO/PBN__RiskISO_Purpose_8)
-
-## Property: has_RiskTechnology
-
-* [healthcare infrastructure](../Technology/PBN__Technology_3)
-* [telehealth services](../Technology/PBN__Technology_19)
-* [mobile health clinics](../Technology/PBN__Technology_477)
-
-## Property: has_RiskSubject
-
-* [low-income communities](../Stakeholder/PBN__Stakeholder_27)
-* [marginalized populations](../Stakeholder/PBN__Stakeholder_275)
-
-## Property: has_RiskType
-
-* [social](../RiskType/PBN__RiskType_2)
-
-## Property: has_RiskISO_Purpose
-
-* [Resilience](../RiskISO/PBN__RiskISO_Impact_2)
-
-## Property: has_RiskOwner
-
-* [government](../Stakeholder/PBN__Stakeholder_73)
-* [healthcare providers](../Stakeholder/PBN__Stakeholder_121)
-* [ngos](../Stakeholder/PBN__Stakeholder_234)
-
-## Property: has_RiskMitigation
-
-* [Prioritize healthcare resources for vulnerable populations, improve access to healthcare, address systemic injustices and disparities.](../RiskMitigation/PBN__RiskMitigation_2447)
 
 ## Property: has_RiskName
 
 Disproportionate disease impact on vulnerable populations, limited healthcare access and resources.
 
+## Property: has_RiskISO_Impact
+
+* [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_8.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
+## Property: has_RiskOwner
+
+* [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
+* [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
+* [ngos](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_234.md)
+
+## Property: has_RiskTechnology
+
+* [healthcare infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3.md)
+* [telehealth services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_19.md)
+* [mobile health clinics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_477.md)
+
+## Property: has_RiskSubject
+
+* [low-income communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_27.md)
+* [marginalized populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_275.md)
+
+## Property: has_RiskMitigation
+
+* [Prioritize healthcare resources for vulnerable populations, improve access to healthcare, address systemic injustices and disparities.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2447.md)
+
 ## Property: has_RiskDescription
 
 Control measures expose existing inequities in disease vulnerability and access to healthcare, leading to poorer disease outcomes among the poor and marginalized.
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [oni_implications_2020](../Article/PBN__Article_68)
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Property: has_RiskType
+
+* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
 
 ## Property: has_RiskGBN
 
-* [No](../RiskGBN/PBN__RiskGBN_0)
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [physical](../RiskHealth/PBN__RiskHealth_0)
+* [oni_implications_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_68.md)
 

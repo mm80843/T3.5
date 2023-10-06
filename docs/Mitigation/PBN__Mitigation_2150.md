@@ -1,15 +1,17 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Wastewater management__ (PBN__Mitigation_2150)
-
-## Property: has_MitigationTechnology
-
-* [proper sewage and treatment systems](../Technology/PBN__Technology_4276)
-* [sealing technologies](../Technology/PBN__Technology_4352)
-* [separation systems](../Technology/PBN__Technology_4353)
 
 ## Property: has_MitigationSource
 
-* [tokazhanov_how_2020](../Article/PBN__Article_67)
-* [ujikawa_how_2022](../Article/PBN__Article_172)
+* [tokazhanov_how_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_67.md)
+* [ujikawa_how_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_172.md)
+
+## Property: has_MitigationTechnology
+
+* [proper sewage and treatment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4276.md)
+* [sealing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4352.md)
+* [separation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4353.md)
 
 ## Property: has_MitigationPrinciple
 

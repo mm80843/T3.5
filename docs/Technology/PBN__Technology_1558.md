@@ -1,14 +1,16 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) 
+
 # Technology: __diagnostic testing systems__ (PBN__Technology_1558)
-
-## Property: has_TechnologyID
-
-* [Q1762591](../Qid/Q1762591)
 
 ## Property: has_StakeholderGroup
 
-* [Biology techs](../TechGroup/PBN__TechGroup_15)
+* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_15.md)
+
+## Property: has_TechnologyID
+
+* [Q1762591](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1762591.md)
 
 ## Property: has_StakeholderSubgroup
 
-* [Diagnostic and Testing Tools](../TechSubgroup/PBN__TechSubgroup_12)
+* [Diagnostic and Testing Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_12.md)
 

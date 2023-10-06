@@ -1,55 +1,57 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Personnel Reporting to Work Despite Testing Positive or Being Exposed to COVID-19__ (PBN__Risk_1201)
-
-## Property: has_RiskISO_Impact
-
-* [Innovation, Creativity and research](../RiskISO/PBN__RiskISO_Purpose_2)
-
-## Property: has_RiskTechnology
-
-* [remote work technology](../Technology/PBN__Technology_286)
-* [contact tracing apps](../Technology/PBN__Technology_11)
-
-## Property: has_RiskSubject
-
-* [construction workers](../Stakeholder/PBN__Stakeholder_197)
-* [supervisors](../Stakeholder/PBN__Stakeholder_721)
-* [contractors](../Stakeholder/PBN__Stakeholder_179)
-
-## Property: has_RiskType
-
-* [health](../RiskType/PBN__RiskType_4)
-
-## Property: has_RiskISO_Purpose
-
-* [Resilience](../RiskISO/PBN__RiskISO_Impact_2)
-
-## Property: has_RiskOwner
-
-* [construction companies](../Stakeholder/PBN__Stakeholder_181)
-* [site managers](../Stakeholder/PBN__Stakeholder_722)
-* [supervisors](../Stakeholder/PBN__Stakeholder_721)
-
-## Property: has_RiskMitigation
-
-* [Implement strict policies and protocols for employees who test positive or are exposed to COVID-19, including mandatory self-isolation and remote work options.](../RiskMitigation/PBN__RiskMitigation_1653)
 
 ## Property: has_RiskName
 
 Increased risk of virus transmission within the construction site and potential outbreak among workers.
 
+## Property: has_RiskISO_Impact
+
+* [Innovation, Creativity and research](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_2.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
+## Property: has_RiskOwner
+
+* [construction companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_181.md)
+* [site managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_722.md)
+* [supervisors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_721.md)
+
+## Property: has_RiskTechnology
+
+* [remote work technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_286.md)
+* [contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_11.md)
+
+## Property: has_RiskSubject
+
+* [construction workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_197.md)
+* [supervisors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_721.md)
+* [contractors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_179.md)
+
+## Property: has_RiskMitigation
+
+* [Implement strict policies and protocols for employees who test positive or are exposed to COVID-19, including mandatory self-isolation and remote work options.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1653.md)
+
 ## Property: has_RiskDescription
 
 Construction workers continuing to report to work despite being infected or exposed to the virus.
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [bou_hatoum_analysis_2021](../Article/PBN__Article_82)
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Property: has_RiskType
+
+* [health](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_4.md)
 
 ## Property: has_RiskGBN
 
-* [Yes](../RiskGBN/PBN__RiskGBN_1)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [physical](../RiskHealth/PBN__RiskHealth_0)
+* [bou_hatoum_analysis_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_82.md)
 

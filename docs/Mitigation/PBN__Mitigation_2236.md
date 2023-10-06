@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Adjustable indoor spaces__ (PBN__Mitigation_2236)
-
-## Property: has_MitigationTechnology
-
-* [flexible design](../Technology/PBN__Technology_3262)
-* [movable partitions](../Technology/PBN__Technology_4357)
 
 ## Property: has_MitigationSource
 
-* [ujikawa_how_2022](../Article/PBN__Article_172)
+* [ujikawa_how_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_172.md)
+
+## Property: has_MitigationTechnology
+
+* [flexible design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3262.md)
+* [movable partitions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4357.md)
 
 ## Property: has_MitigationPrinciple
 

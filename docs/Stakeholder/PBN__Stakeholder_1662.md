@@ -1,16 +1,18 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) 
+
 # Stakeholder: __worker in low-wage job__ (PBN__Stakeholder_1662)
-
-## Property: has_StakeholderGroup
-
-* [Workers](../StakeholderGroup/PBN__StakeholderGroup_2)
-* [Private Sector](../StakeholderGroup/PBN__StakeholderGroup_5)
-
-## Property: has_StakeholderID
-
-* [Q1988850](../Qid/Q1988850)
 
 ## Property: has_StakeholderSubgroup
 
-* [Occupational and Workers](../StakeholderSubgroup/PBN__StakeholderSubgroup_27)
-* [Types of Workers](../StakeholderSubgroup/PBN__StakeholderSubgroup_22)
+* [Occupational and Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_27.md)
+* [Types of Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_22.md)
+
+## Property: has_StakeholderGroup
+
+* [Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_2.md)
+* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
+
+## Property: has_StakeholderID
+
+* [Q1988850](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1988850.md)
 

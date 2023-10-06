@@ -1,19 +1,21 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Improved energy efficiency__ (PBN__Benef_1240)
 
 ## Property: has_BenefDetails
 
 Implementation of energy efficient designs such as external shading and evaporative cooling can reduce energy consumption in residential buildings.
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Private investors can benefit from increased property value and reduced energy costs for homeowners, leading to increased demand for energy-efficient buildings.](../BenefReturn/PBN__BenefReturn_1391)
+* [al-mumin_occupants_2003](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_260.md)
 
 ## Property: has_Beneficiary
 
-* [homeowners](../Stakeholder/PBN__Stakeholder_480)
-* [residents](../Stakeholder/PBN__Stakeholder_59)
+* [homeowners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_480.md)
+* [residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [al-mumin_occupants_2003](../Article/PBN__Article_260)
+* [Private investors can benefit from increased property value and reduced energy costs for homeowners, leading to increased demand for energy-efficient buildings.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1391.md)
 

@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Proper management of ICT infrastructure__ (PBN__Mitigation_2143)
-
-## Property: has_MitigationTechnology
-
-* [reliable and constant ict connection](../Technology/PBN__Technology_4263)
 
 ## Property: has_MitigationSource
 
-* [tokazhanov_assessment_2021](../Article/PBN__Article_51)
+* [tokazhanov_assessment_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_51.md)
+
+## Property: has_MitigationTechnology
+
+* [reliable and constant ict connection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4263.md)
 
 ## Property: has_MitigationPrinciple
 

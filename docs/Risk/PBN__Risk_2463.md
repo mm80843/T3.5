@@ -1,7 +1,9 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Social interaction__ (PBN__Risk_2463)
 
 ## Property: has_RiskMitigation
 
-* [Social Distancing Guidelines](../Mitigation/PBN__Mitigation_145)
-* [Design of public open-air spaces](../Mitigation/PBN__Mitigation_2006)
+* [Social Distancing Guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_145.md)
+* [Design of public open-air spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2006.md)
 

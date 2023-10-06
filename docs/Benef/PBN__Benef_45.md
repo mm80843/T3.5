@@ -1,18 +1,20 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Community development__ (PBN__Benef_45)
 
 ## Property: has_BenefDetails
 
 Implementing neighborhood-oriented development patterns can promote community development, inclusivity, safety, resilience, and sustainability in neighborhoods.
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Private investors investing in neighborhood-oriented development can benefit from increased demand for residential properties in well-developed and vibrant communities.](../BenefReturn/PBN__BenefReturn_45)
+* [mahima_impact_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_10.md)
 
 ## Property: has_Beneficiary
 
-* [residents of neighborhoods](../Stakeholder/PBN__Stakeholder_39)
+* [residents of neighborhoods](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_39.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [mahima_impact_2022](../Article/PBN__Article_10)
+* [Private investors investing in neighborhood-oriented development can benefit from increased demand for residential properties in well-developed and vibrant communities.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_45.md)
 

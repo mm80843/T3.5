@@ -1,17 +1,19 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Integrated healthcare environment__ (PBN__Mitigation_155)
-
-## Property: has_MitigationTechnology
-
-* [iot](../Technology/PBN__Technology_277)
-* [cloud computing](../Technology/PBN__Technology_1232)
-* [ai](../Technology/PBN__Technology_278)
-* [robots](../Technology/PBN__Technology_3001)
-* [mobile computing](../Technology/PBN__Technology_2998)
-* [blockchain](../Technology/PBN__Technology_94)
 
 ## Property: has_MitigationSource
 
-* [arpaci_leveraging_2021](../Article/PBN__Article_297)
+* [arpaci_leveraging_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_297.md)
+
+## Property: has_MitigationTechnology
+
+* [iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_277.md)
+* [cloud computing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1232.md)
+* [ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_278.md)
+* [robots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3001.md)
+* [mobile computing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2998.md)
+* [blockchain](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_94.md)
 
 ## Property: has_MitigationPrinciple
 

@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Balancing Ventilation__ (PBN__Mitigation_814)
-
-## Property: has_MitigationTechnology
-
-* [mechanical ventilation system with balanced air distribution](../Technology/PBN__Technology_3468)
 
 ## Property: has_MitigationSource
 
-* [howard-reed_effect_2002 howard-reed_effect_2002](../Article/PBN__Article_307)
+* [howard-reed_effect_2002 howard-reed_effect_2002](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_307.md)
+
+## Property: has_MitigationTechnology
+
+* [mechanical ventilation system with balanced air distribution](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3468.md)
 
 ## Property: has_MitigationPrinciple
 

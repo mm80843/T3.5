@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Enhanced communication and coordination__ (PBN__Mitigation_133)
-
-## Property: has_MitigationTechnology
-
-* [communication tools](../Technology/PBN__Technology_168)
 
 ## Property: has_MitigationSource
 
-* [araya_influence_2021](../Article/PBN__Article_157)
+* [araya_influence_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_157.md)
+
+## Property: has_MitigationTechnology
+
+* [communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_168.md)
 
 ## Property: has_MitigationPrinciple
 

@@ -1,16 +1,18 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) 
+
 # Technology: __efficient lighting fixtures__ (PBN__Technology_655)
-
-## Property: has_TechnologyID
-
-* [Q815738](../Qid/Q815738)
 
 ## Property: has_StakeholderGroup
 
-* [Infrastructure](../TechGroup/PBN__TechGroup_4)
-* [IoT](../TechGroup/PBN__TechGroup_16)
+* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
+* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
+
+## Property: has_TechnologyID
+
+* [Q815738](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q815738.md)
 
 ## Property: has_StakeholderSubgroup
 
-* [Building Systems and Design](../TechSubgroup/PBN__TechSubgroup_89)
-* [Lighting and HVAC Systems](../TechSubgroup/PBN__TechSubgroup_78)
+* [Building Systems and Design](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_89.md)
+* [Lighting and HVAC Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_78.md)
 

@@ -1,19 +1,21 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Reduction in mosquito breeding__ (PBN__Benef_92)
 
 ## Property: has_BenefDetails
 
 Increased water movement and aeration can reduce mosquito breeding in urban bodies of water, decreasing the risk of mosquito-borne diseases
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Investing in water movement and aeration can improve public health outcomes by reducing the risk of mosquito-borne diseases for residents.](../BenefReturn/PBN__BenefReturn_89)
+* [lohmus_making_2015](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_20.md)
 
 ## Property: has_Beneficiary
 
-* [public health](../Stakeholder/PBN__Stakeholder_58)
-* [residents](../Stakeholder/PBN__Stakeholder_59)
+* [public health](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_58.md)
+* [residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [lohmus_making_2015](../Article/PBN__Article_20)
+* [Investing in water movement and aeration can improve public health outcomes by reducing the risk of mosquito-borne diseases for residents.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_89.md)
 

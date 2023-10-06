@@ -1,6 +1,8 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) 
+
 # Technology: __real-time data analysis__ (PBN__Technology_2005)
 
 ## Property: has_TechnologyID
 
-* [Q7300787](../Qid/Q7300787)
+* [Q7300787](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7300787.md)
 

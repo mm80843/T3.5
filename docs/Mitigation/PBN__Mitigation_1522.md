@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Routine cleaning__ (PBN__Mitigation_1522)
-
-## Property: has_MitigationTechnology
-
-* [sodium dichloroisocyanurate](../Technology/PBN__Technology_3909)
 
 ## Property: has_MitigationSource
 
-* [ong_air_2020](../Article/PBN__Article_264)
+* [ong_air_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_264.md)
+
+## Property: has_MitigationTechnology
+
+* [sodium dichloroisocyanurate](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3909.md)
 
 ## Property: has_MitigationPrinciple
 

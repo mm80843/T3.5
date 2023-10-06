@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Carbon pricing__ (PBN__Mitigation_582)
-
-## Property: has_MitigationTechnology
-
-* [carbon accounting systems](../Technology/PBN__Technology_3330)
 
 ## Property: has_MitigationSource
 
-* [duflot_building_2021](../Article/PBN__Article_5)
+* [duflot_building_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_5.md)
+
+## Property: has_MitigationTechnology
+
+* [carbon accounting systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3330.md)
 
 ## Property: has_MitigationPrinciple
 

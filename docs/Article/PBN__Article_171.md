@@ -1,24 +1,34 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) 
+
 # Article: __zhang_review_2022__ (PBN__Article_171)
+
+## Property: has_ArticleYear
+
+2022
+
+## Property: has_ArticleRef
+
+* [morawska_how_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_121.md)
+* [amos_enhancing_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_315.md)
+* [saari_effect_2006](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_223.md)
+* [memarzadeh_applications_2010](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_61.md)
+* [guo_review_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_45.md)
+* [navaratnam_designing_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_282.md)
+* [sun_efficacy_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_125.md)
+* [escombe_upper-room_2009](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_105.md)
+* [walker_effect_2007](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_88.md)
+* [wang_sars-cov-2_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_55.md)
+* [mokhtari_effect_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_169.md)
+* [ronchi_exposed_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_3.md)
+* [awada_ten_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_38.md)
 
 ## Property: has_ArticleLLMShortSummary
 
 This research review examines various facilities management (FM) interventions aimed at preventing the transmission of respiratory viruses in built environments. The study covers interventions in HVAC systems, drainage systems, cleaning practices, and space and occupancy management. The review finds that while HVAC interventions, such as increasing ventilation rates and using HEPA filters, can be effective in reducing airborne transmission, more research is needed to determine optimal ventilation rates and maintenance practices. Drainage system interventions, particularly in high-rise buildings, are also important in preventing virus transmission. Proper cleaning practices, including surface disinfection and waste management, are crucial for preventing fomite transmission. Additionally, the review highlights the importance of space and occupancy management, including controlling occupant density and implementing social distancing measures. Emerging technologies, such as IoT-based applications and UVGI systems, show promise in infection control but require further evaluation. Overall, this review identifies research gaps and provides a foundation for the development of integrated FM solutions for respiratory infection control in built environments.
 
-## Property: has_ArticleRef
+## Property: has_ArticleTitle
 
-* [morawska_how_2020](../Article/PBN__Article_121)
-* [amos_enhancing_2021](../Article/PBN__Article_315)
-* [saari_effect_2006](../Article/PBN__Article_223)
-* [memarzadeh_applications_2010](../Article/PBN__Article_61)
-* [guo_review_2021](../Article/PBN__Article_45)
-* [navaratnam_designing_2022](../Article/PBN__Article_282)
-* [sun_efficacy_2020](../Article/PBN__Article_125)
-* [escombe_upper-room_2009](../Article/PBN__Article_105)
-* [walker_effect_2007](../Article/PBN__Article_88)
-* [wang_sars-cov-2_2020](../Article/PBN__Article_55)
-* [mokhtari_effect_2021](../Article/PBN__Article_169)
-* [ronchi_exposed_2020](../Article/PBN__Article_3)
-* [awada_ten_2021](../Article/PBN__Article_38)
+A review of facilities management interventions to mitigate respiratory infections in existing buildings
 
 ## Property: has_ArticleLLMSummary
 
@@ -27,12 +37,4 @@ This article is about how facilities management (FM) can help prevent the spread
 ## Property: has_ArticleDOI
 
 10.1016/j.buildenv.2022.109347
-
-## Property: has_ArticleTitle
-
-A review of facilities management interventions to mitigate respiratory infections in existing buildings
-
-## Property: has_ArticleYear
-
-2022
 

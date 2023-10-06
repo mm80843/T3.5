@@ -1,14 +1,16 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) 
+
 # Technology: __point-of-care testing devices__ (PBN__Technology_1559)
-
-## Property: has_TechnologyID
-
-* [Q491983](../Qid/Q491983)
 
 ## Property: has_StakeholderGroup
 
-* [Biology techs](../TechGroup/PBN__TechGroup_15)
+* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_15.md)
+
+## Property: has_TechnologyID
+
+* [Q491983](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q491983.md)
 
 ## Property: has_StakeholderSubgroup
 
-* [Diagnostic and Testing Tools](../TechSubgroup/PBN__TechSubgroup_12)
+* [Diagnostic and Testing Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_12.md)
 

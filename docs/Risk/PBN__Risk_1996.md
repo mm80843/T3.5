@@ -1,51 +1,53 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Decreased working time__ (PBN__Risk_1996)
-
-## Property: has_RiskISO_Impact
-
-* [Health and care](../RiskISO/PBN__RiskISO_Purpose_0)
-
-## Property: has_RiskTechnology
-
-* [telecommuting and collaboration tools](../Technology/PBN__Technology_1453)
-
-## Property: has_RiskSubject
-
-* [construction professionals](../Stakeholder/PBN__Stakeholder_529)
-
-## Property: has_RiskType
-
-* [social](../RiskType/PBN__RiskType_2)
-
-## Property: has_RiskISO_Purpose
-
-* [Well-being](../RiskISO/PBN__RiskISO_Impact_1)
-
-## Property: has_RiskOwner
-
-* [construction organizations](../Stakeholder/PBN__Stakeholder_530)
-* [government](../Stakeholder/PBN__Stakeholder_73)
-
-## Property: has_RiskMitigation
-
-* [Implement flexible work arrangements, such as remote work and flexible schedules.](../RiskMitigation/PBN__RiskMitigation_2614)
 
 ## Property: has_RiskName
 
 Decreased productivity and income for construction professionals.
 
+## Property: has_RiskISO_Impact
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+
+## Property: has_RiskOwner
+
+* [construction organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_530.md)
+* [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
+
+## Property: has_RiskTechnology
+
+* [telecommuting and collaboration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1453.md)
+
+## Property: has_RiskSubject
+
+* [construction professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_529.md)
+
+## Property: has_RiskMitigation
+
+* [Implement flexible work arrangements, such as remote work and flexible schedules.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2614.md)
+
 ## Property: has_RiskDescription
 
 Participants reported a decrease in their working time due to the COVID-19 pandemic.
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [rokooei_perception_2022](../Article/PBN__Article_293)
+* [economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_3.md)
+
+## Property: has_RiskType
+
+* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
 
 ## Property: has_RiskGBN
 
-* [Yes](../RiskGBN/PBN__RiskGBN_1)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [economic](../RiskHealth/PBN__RiskHealth_3)
+* [rokooei_perception_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_293.md)
 

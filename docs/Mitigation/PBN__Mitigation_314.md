@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Contactless door sensors__ (PBN__Mitigation_314)
-
-## Property: has_MitigationTechnology
-
-* [sensor technology](../Technology/PBN__Technology_3150)
 
 ## Property: has_MitigationSource
 
-* [budd_responsible_2020](../Article/PBN__Article_148)
+* [budd_responsible_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_148.md)
+
+## Property: has_MitigationTechnology
+
+* [sensor technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3150.md)
 
 ## Property: has_MitigationPrinciple
 

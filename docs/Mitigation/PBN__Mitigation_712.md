@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Filtration and Ventilation__ (PBN__Mitigation_712)
-
-## Property: has_MitigationTechnology
-
-* [hvac systems](../Technology/PBN__Technology_185)
 
 ## Property: has_MitigationSource
 
-* [gonzalez_reflecting_2021](../Article/PBN__Article_110)
+* [gonzalez_reflecting_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_110.md)
+
+## Property: has_MitigationTechnology
+
+* [hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_185.md)
 
 ## Property: has_MitigationPrinciple
 

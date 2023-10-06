@@ -1,19 +1,21 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Municipal services__ (PBN__Benef_730)
 
 ## Property: has_BenefDetails
 
 Transposition of services to digital platforms improves access to healthcare information
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Improve service delivery and enhance citizen experience](../BenefReturn/PBN__BenefReturn_784)
-* [Enhance public awareness and provide timely information](../BenefReturn/PBN__BenefReturn_790)
+* [fariniuk_smart_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_143.md)
 
 ## Property: has_Beneficiary
 
-* [general public](../Stakeholder/PBN__Stakeholder_29)
+* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [fariniuk_smart_2020](../Article/PBN__Article_143)
+* [Improve service delivery and enhance citizen experience](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_784.md)
+* [Enhance public awareness and provide timely information](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_790.md)
 

@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __IoT and AI__ (PBN__Mitigation_1319)
-
-## Property: has_MitigationTechnology
-
-* [iot sensors](../Technology/PBN__Technology_3790)
-* [ai algorithms](../Technology/PBN__Technology_149)
 
 ## Property: has_MitigationSource
 
-* [mehtab_alam_role_2021](../Article/PBN__Article_267)
+* [mehtab_alam_role_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_267.md)
+
+## Property: has_MitigationTechnology
+
+* [iot sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3790.md)
+* [ai algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_149.md)
 
 ## Property: has_MitigationPrinciple
 

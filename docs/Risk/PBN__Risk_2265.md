@@ -1,54 +1,56 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Disruption of global supply chains__ (PBN__Risk_2265)
-
-## Property: has_RiskISO_Impact
-
-* [Community infrastructures](../RiskISO/PBN__RiskISO_Purpose_9)
-
-## Property: has_RiskTechnology
-
-* [none](../Technology/PBN__Technology_35)
-
-## Property: has_RiskSubject
-
-* [general population](../Stakeholder/PBN__Stakeholder_9)
-* [vulnerable communities](../Stakeholder/PBN__Stakeholder_28)
-
-## Property: has_RiskType
-
-* [economic](../RiskType/PBN__RiskType_3)
-
-## Property: has_RiskISO_Purpose
-
-* [Mobility](../RiskISO/PBN__RiskISO_Impact_14)
-
-## Property: has_RiskOwner
-
-* [government](../Stakeholder/PBN__Stakeholder_73)
-* [businesses](../Stakeholder/PBN__Stakeholder_147)
-* [policymakers](../Stakeholder/PBN__Stakeholder_126)
-
-## Property: has_RiskMitigation
-
-* [Diversify sources of imports, restructure supply chains, increase domestic manufacturing capacity.](../RiskMitigation/PBN__RiskMitigation_2951)
-* [Re-shoring of critical energy industries](../Mitigation/PBN__Mitigation_1056)
 
 ## Property: has_RiskName
 
 Instability in global food supply, shortage of critical medicines, disruptions in trade and economy.
 
+## Property: has_RiskISO_Impact
+
+* [Community infrastructures](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_9.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Mobility](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_14.md)
+
+## Property: has_RiskOwner
+
+* [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
+* [businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_147.md)
+* [policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_126.md)
+
+## Property: has_RiskTechnology
+
+* [none](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
+
+## Property: has_RiskSubject
+
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+* [vulnerable communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_28.md)
+
+## Property: has_RiskMitigation
+
+* [Diversify sources of imports, restructure supply chains, increase domestic manufacturing capacity.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2951.md)
+* [Re-shoring of critical energy industries](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1056.md)
+
 ## Property: has_RiskDescription
 
 Border closures and disruptions in aviation and shipping have strained global supply chains, affecting food supply and access to critical goods and medicines.
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [van_barneveld_covid-19_2020](../Article/PBN__Article_124)
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Property: has_RiskType
+
+* [economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_3.md)
 
 ## Property: has_RiskGBN
 
-* [Yes](../RiskGBN/PBN__RiskGBN_1)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [physical](../RiskHealth/PBN__RiskHealth_0)
+* [van_barneveld_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_124.md)
 

@@ -1,54 +1,56 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Labour shortages__ (PBN__Risk_730)
-
-## Property: has_RiskISO_Impact
-
-* [Health and care](../RiskISO/PBN__RiskISO_Purpose_0)
-
-## Property: has_RiskTechnology
-
-* [remote work technology](../Technology/PBN__Technology_286)
-* [virtual collaboration tools](../Technology/PBN__Technology_131)
-
-## Property: has_RiskSubject
-
-* [construction industry workers](../Stakeholder/PBN__Stakeholder_828)
-* [employees](../Stakeholder/PBN__Stakeholder_220)
-
-## Property: has_RiskType
-
-* [economic](../RiskType/PBN__RiskType_3)
-
-## Property: has_RiskISO_Purpose
-
-* [Safety and security](../RiskISO/PBN__RiskISO_Impact_0)
-
-## Property: has_RiskOwner
-
-* [construction companies](../Stakeholder/PBN__Stakeholder_181)
-* [government](../Stakeholder/PBN__Stakeholder_73)
-
-## Property: has_RiskMitigation
-
-* [Offsite construction](../RiskMitigation/PBN__RiskMitigation_1012)
-* [Implement flexible working arrangements, remote working, and training programs.](../RiskMitigation/PBN__RiskMitigation_1791)
 
 ## Property: has_RiskName
 
 Reduced labor productivity, delays in project completion.
 
+## Property: has_RiskISO_Impact
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_0.md)
+
+## Property: has_RiskOwner
+
+* [construction companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_181.md)
+* [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
+
+## Property: has_RiskTechnology
+
+* [remote work technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_286.md)
+* [virtual collaboration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_131.md)
+
+## Property: has_RiskSubject
+
+* [construction industry workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_828.md)
+* [employees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_220.md)
+
+## Property: has_RiskMitigation
+
+* [Offsite construction](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1012.md)
+* [Implement flexible working arrangements, remote working, and training programs.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1791.md)
+
 ## Property: has_RiskDescription
 
 Shortage of employees due to lockdown, furlough scheme, and job losses.
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [dan-jumbo_covid-19_2021](../Article/PBN__Article_210)
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Property: has_RiskType
+
+* [economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_3.md)
 
 ## Property: has_RiskGBN
 
-* [No](../RiskGBN/PBN__RiskGBN_0)
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [physical](../RiskHealth/PBN__RiskHealth_0)
+* [dan-jumbo_covid-19_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_210.md)
 

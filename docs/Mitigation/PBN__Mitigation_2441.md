@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Regular updates on COVID-19__ (PBN__Mitigation_2441)
-
-## Property: has_MitigationTechnology
-
-* [information communication technology](../Technology/PBN__Technology_4506)
 
 ## Property: has_MitigationSource
 
-* [yodang_knowledge_2021](../Article/PBN__Article_176)
+* [yodang_knowledge_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_176.md)
+
+## Property: has_MitigationTechnology
+
+* [information communication technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4506.md)
 
 ## Property: has_MitigationPrinciple
 

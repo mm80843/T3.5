@@ -1,19 +1,21 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Identification of impacted businesses__ (PBN__Benef_566)
 
 ## Property: has_BenefDetails
 
 Clear understanding of the impact on restaurants and hospitality businesses, including bankruptcies and closures
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Development of support measures for affected businesses, strategic planning for recovery in the industry](../BenefReturn/PBN__BenefReturn_619)
+* [agade_exploring_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_114.md)
 
 ## Property: has_Beneficiary
 
-* [restaurants](../Stakeholder/PBN__Stakeholder_243)
-* [hospitality industry](../Stakeholder/PBN__Stakeholder_244)
+* [restaurants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_243.md)
+* [hospitality industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_244.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [agade_exploring_2020](../Article/PBN__Article_114)
+* [Development of support measures for affected businesses, strategic planning for recovery in the industry](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_619.md)
 

@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Optimization algorithm__ (PBN__Mitigation_2222)
-
-## Property: has_MitigationTechnology
-
-* [circle packing algorithm](../Technology/PBN__Technology_4339)
 
 ## Property: has_MitigationSource
 
-* [ugail_social_2021](../Article/PBN__Article_186)
+* [ugail_social_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_186.md)
+
+## Property: has_MitigationTechnology
+
+* [circle packing algorithm](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4339.md)
 
 ## Property: has_MitigationPrinciple
 

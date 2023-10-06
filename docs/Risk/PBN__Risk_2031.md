@@ -1,56 +1,58 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Healthcare system capacity__ (PBN__Risk_2031)
-
-## Property: has_RiskISO_Impact
-
-* [Health and care](../RiskISO/PBN__RiskISO_Purpose_0)
-
-## Property: has_RiskTechnology
-
-* [emergency response planning](../Technology/PBN__Technology_1500)
-* [investment in healthcare infrastructure and resources](../Technology/PBN__Technology_1501)
-
-## Property: has_RiskSubject
-
-* [healthcare workers](../Stakeholder/PBN__Stakeholder_68)
-* [patients](../Stakeholder/PBN__Stakeholder_31)
-* [vulnerable populations](../Stakeholder/PBN__Stakeholder_127)
-
-## Property: has_RiskType
-
-* [environmental](../RiskType/PBN__RiskType_0)
-* [technological](../RiskType/PBN__RiskType_5)
-
-## Property: has_RiskISO_Purpose
-
-* [Health and care](../RiskISO/PBN__RiskISO_Impact_3)
-
-## Property: has_RiskOwner
-
-* [governments](../Stakeholder/PBN__Stakeholder_47)
-* [healthcare institutions](../Stakeholder/PBN__Stakeholder_269)
-* [emergency management agencies](../Stakeholder/PBN__Stakeholder_1253)
-
-## Property: has_RiskMitigation
-
-* [Increasing healthcare system capacity, surge capacity planning, emergency preparedness measures](../RiskMitigation/PBN__RiskMitigation_2655)
 
 ## Property: has_RiskName
 
 Decreased quality of care, increased mortality rates
 
+## Property: has_RiskISO_Impact
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
+
+## Property: has_RiskOwner
+
+* [governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
+* [healthcare institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_269.md)
+* [emergency management agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1253.md)
+
+## Property: has_RiskTechnology
+
+* [emergency response planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1500.md)
+* [investment in healthcare infrastructure and resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1501.md)
+
+## Property: has_RiskSubject
+
+* [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
+* [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
+* [vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_127.md)
+
+## Property: has_RiskMitigation
+
+* [Increasing healthcare system capacity, surge capacity planning, emergency preparedness measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2655.md)
+
 ## Property: has_RiskDescription
 
 Overwhelmed healthcare systems due to high demand during contagious disease outbreaks
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [salama_coronavirus_2020](../Article/PBN__Article_184)
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Property: has_RiskType
+
+* [environmental](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_0.md)
+* [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
 
 ## Property: has_RiskGBN
 
-* [Yes](../RiskGBN/PBN__RiskGBN_1)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [physical](../RiskHealth/PBN__RiskHealth_0)
+* [salama_coronavirus_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_184.md)
 

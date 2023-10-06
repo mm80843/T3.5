@@ -1,15 +1,17 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Supply chain management for healthcare__ (PBN__Mitigation_1947)
-
-## Property: has_MitigationTechnology
-
-* [iot](../Technology/PBN__Technology_277)
-* [blockchain](../Technology/PBN__Technology_94)
-* [mmwave](../Technology/PBN__Technology_4151)
-* [massive mimo](../Technology/PBN__Technology_4152)
 
 ## Property: has_MitigationSource
 
-* [siriwardhana_role_2021](../Article/PBN__Article_9)
+* [siriwardhana_role_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_9.md)
+
+## Property: has_MitigationTechnology
+
+* [iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_277.md)
+* [blockchain](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_94.md)
+* [mmwave](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4151.md)
+* [massive mimo](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4152.md)
 
 ## Property: has_MitigationPrinciple
 

@@ -1,6 +1,8 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Lack of Knowledge__ (PBN__Risk_3248)
 
 ## Property: has_RiskMitigation
 
-* [Public Awareness and Education](../Mitigation/PBN__Mitigation_1776)
+* [Public Awareness and Education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1776.md)
 

@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Promote local investment and leadership__ (PBN__Mitigation_2096)
-
-## Property: has_MitigationTechnology
-
-* [local funding sources](../Technology/PBN__Technology_4226)
-* [community engagement](../Technology/PBN__Technology_51)
 
 ## Property: has_MitigationSource
 
-* [thurstan_envisioning_2021](../Article/PBN__Article_221)
+* [thurstan_envisioning_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_221.md)
+
+## Property: has_MitigationTechnology
+
+* [local funding sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4226.md)
+* [community engagement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_51.md)
 
 ## Property: has_MitigationPrinciple
 

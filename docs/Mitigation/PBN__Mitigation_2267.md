@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Green New Deal__ (PBN__Mitigation_2267)
-
-## Property: has_MitigationTechnology
-
-* [investments in clean energy and sustainable industries](../Technology/PBN__Technology_4384)
 
 ## Property: has_MitigationSource
 
-* [van_barneveld_covid-19_2020](../Article/PBN__Article_124)
+* [van_barneveld_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_124.md)
+
+## Property: has_MitigationTechnology
+
+* [investments in clean energy and sustainable industries](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4384.md)
 
 ## Property: has_MitigationPrinciple
 

@@ -1,19 +1,21 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Improved accessibility and safety__ (PBN__Benef_1242)
 
 ## Property: has_BenefDetails
 
 Safer and more comfortable travel experience, encourages active modes of transportation, reduces pollution
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Increased property value, improved quality of life](../BenefReturn/PBN__BenefReturn_1395)
+* [honey-roses_impact_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_261.md)
 
 ## Property: has_Beneficiary
 
-* [pedestrians](../Stakeholder/PBN__Stakeholder_481)
-* [cyclists](../Stakeholder/PBN__Stakeholder_482)
+* [pedestrians](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_481.md)
+* [cyclists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_482.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [honey-roses_impact_2020](../Article/PBN__Article_261)
+* [Increased property value, improved quality of life](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1395.md)
 

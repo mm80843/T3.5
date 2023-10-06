@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Smart learning__ (PBN__Mitigation_373)
-
-## Property: has_MitigationTechnology
-
-* [wearable devices](../Technology/PBN__Technology_3189)
-* [iot](../Technology/PBN__Technology_277)
 
 ## Property: has_MitigationSource
 
-* [channa_rise_2021](../Article/PBN__Article_99)
+* [channa_rise_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_99.md)
+
+## Property: has_MitigationTechnology
+
+* [wearable devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3189.md)
+* [iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_277.md)
 
 ## Property: has_MitigationPrinciple
 

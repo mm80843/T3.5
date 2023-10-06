@@ -1,52 +1,54 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Environmental impact and waste management challenges__ (PBN__Risk_1623)
-
-## Property: has_RiskISO_Impact
-
-* [Biodiversity and ecosystem services](../RiskISO/PBN__RiskISO_Purpose_4)
-
-## Property: has_RiskTechnology
-
-* [improved waste management infrastructure](../Technology/PBN__Technology_946)
-
-## Property: has_RiskSubject
-
-* [healthcare workers](../Stakeholder/PBN__Stakeholder_68)
-* [general population](../Stakeholder/PBN__Stakeholder_9)
-
-## Property: has_RiskType
-
-* [environmental](../RiskType/PBN__RiskType_0)
-
-## Property: has_RiskISO_Purpose
-
-* [Preservation and improvement of the environment](../RiskISO/PBN__RiskISO_Impact_6)
-
-## Property: has_RiskOwner
-
-* [government](../Stakeholder/PBN__Stakeholder_73)
-* [waste management organizations](../Stakeholder/PBN__Stakeholder_1048)
-
-## Property: has_RiskMitigation
-
-* [Enhance waste management systems](../RiskMitigation/PBN__RiskMitigation_2164)
 
 ## Property: has_RiskName
 
 Pollution and contamination, environmental degradation
 
+## Property: has_RiskISO_Impact
+
+* [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_4.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Preservation and improvement of the environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_6.md)
+
+## Property: has_RiskOwner
+
+* [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
+* [waste management organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1048.md)
+
+## Property: has_RiskTechnology
+
+* [improved waste management infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_946.md)
+
+## Property: has_RiskSubject
+
+* [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+
+## Property: has_RiskMitigation
+
+* [Enhance waste management systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2164.md)
+
 ## Property: has_RiskDescription
 
 Improper disposal of non-biodegradable protective gear
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [lawal_covid-19_2022](../Article/PBN__Article_215)
+* [environmental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_9.md)
+
+## Property: has_RiskType
+
+* [environmental](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_0.md)
 
 ## Property: has_RiskGBN
 
-* [No](../RiskGBN/PBN__RiskGBN_0)
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [environmental](../RiskHealth/PBN__RiskHealth_9)
+* [lawal_covid-19_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_215.md)
 

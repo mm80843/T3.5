@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Adaptation of healthcare facilities__ (PBN__Mitigation_2005)
-
-## Property: has_MitigationTechnology
-
-* [containment spaces](../Technology/PBN__Technology_4191)
-* [compartmentalized ventilation](../Technology/PBN__Technology_4192)
 
 ## Property: has_MitigationSource
 
-* [spennemann_designing_2022](../Article/PBN__Article_149)
+* [spennemann_designing_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_149.md)
+
+## Property: has_MitigationTechnology
+
+* [containment spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4191.md)
+* [compartmentalized ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4192.md)
 
 ## Property: has_MitigationPrinciple
 

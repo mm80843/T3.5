@@ -1,6 +1,8 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) 
+
 # Technology: __green space planning strategies and design guidelines__ (PBN__Technology_725)
 
 ## Property: has_TechnologyID
 
-* [Q185035](../Qid/Q185035)
+* [Q185035](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q185035.md)
 

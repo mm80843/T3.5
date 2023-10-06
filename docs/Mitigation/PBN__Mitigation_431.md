@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Viewing Surgical Videos__ (PBN__Mitigation_431)
-
-## Property: has_MitigationTechnology
-
-* [high-quality surgical videos](../Technology/PBN__Technology_3226)
 
 ## Property: has_MitigationSource
 
-* [chick_using_2020](../Article/PBN__Article_11)
+* [chick_using_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_11.md)
+
+## Property: has_MitigationTechnology
+
+* [high-quality surgical videos](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3226.md)
 
 ## Property: has_MitigationPrinciple
 

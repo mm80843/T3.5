@@ -1,16 +1,18 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Antimicrobial materials__ (PBN__Mitigation_1855)
-
-## Property: has_MitigationTechnology
-
-* [antimicrobial surface materials](../Technology/PBN__Technology_4111)
-* [copper](../Technology/PBN__Technology_4272)
-* [alloys copper](../Technology/PBN__Technology_4273)
-* [antimicrobial additives for indoor finishing materials](../Technology/PBN__Technology_4274)
 
 ## Property: has_MitigationSource
 
-* [sarvari_global_2022](../Article/PBN__Article_27)
-* [tokazhanov_how_2020](../Article/PBN__Article_67)
+* [sarvari_global_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_27.md)
+* [tokazhanov_how_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_67.md)
+
+## Property: has_MitigationTechnology
+
+* [antimicrobial surface materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4111.md)
+* [copper](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4272.md)
+* [alloys copper](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4273.md)
+* [antimicrobial additives for indoor finishing materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4274.md)
 
 ## Property: has_MitigationPrinciple
 

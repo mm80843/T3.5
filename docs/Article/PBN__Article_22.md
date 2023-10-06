@@ -1,8 +1,18 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) 
+
 # Article: __jefferson_physical_2008__ (PBN__Article_22)
+
+## Property: has_ArticleYear
+
+2008
 
 ## Property: has_ArticleLLMShortSummary
 
 This systematic review summarizes the evidence for the effectiveness of combined public health measures, such as personal hygiene, distancing, and barriers, in reducing the spread of respiratory viruses. The review focused on interventions to prevent the transmission of respiratory viruses from animals to humans or from humans to humans. The authors excluded vaccines and antivirals because these have been reviewed separately. The review included trials and observational studies that controlled for confounding factors. The outcome measures included deaths, cases of viral illness, severity of illness, and burden measures such as hospital admissions. The review identified 51 studies that met the inclusion criteria. The quality of the included studies varied and there were some limitations in reporting and study design. However, the review found that physical barriers, such as handwashing, wearing masks, and isolation are effective and relatively inexpensive interventions for reducing the spread of respiratory viruses, including SARS. The review also highlighted the importance of implementing these interventions in combination and providing instruction and education to maximize their effectiveness. Further large pragmatic trials are needed to evaluate the best combinations of interventions. In the meantime, the review recommends implementing frequent handwashing, wearing masks, gloves, gowns, and isolation of people with suspected respiratory tract infections to reduce viral transmission.
+
+## Property: has_ArticleTitle
+
+Physical interventions to interrupt or reduce the spread of respiratory viruses: systematic review
 
 ## Property: has_ArticleLLMSummary
 
@@ -11,12 +21,4 @@ Respiratory viruses can cause a lot of sickness and sometimes even lead to death
 ## Property: has_ArticleDOI
 
 10.1136/bmj.39393.510347.BE
-
-## Property: has_ArticleTitle
-
-Physical interventions to interrupt or reduce the spread of respiratory viruses: systematic review
-
-## Property: has_ArticleYear
-
-2008
 

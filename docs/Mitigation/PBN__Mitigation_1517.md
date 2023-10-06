@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Public health awareness__ (PBN__Mitigation_1517)
-
-## Property: has_MitigationTechnology
-
-* [education](../Technology/PBN__Technology_1119)
-* [communication campaigns](../Technology/PBN__Technology_1157)
 
 ## Property: has_MitigationSource
 
-* [ogden_vector-borne_2016](../Article/PBN__Article_17)
+* [ogden_vector-borne_2016](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_17.md)
+
+## Property: has_MitigationTechnology
+
+* [education](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1119.md)
+* [communication campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1157.md)
 
 ## Property: has_MitigationPrinciple
 

@@ -1,52 +1,54 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Social equity disparities__ (PBN__Risk_1418)
-
-## Property: has_RiskISO_Impact
-
-* [Health and care](../RiskISO/PBN__RiskISO_Purpose_0)
-
-## Property: has_RiskTechnology
-
-* [equitable distribution of resources](../Technology/PBN__Technology_669)
-
-## Property: has_RiskSubject
-
-* [low-income communities](../Stakeholder/PBN__Stakeholder_27)
-* [marginalized groups](../Stakeholder/PBN__Stakeholder_880)
-
-## Property: has_RiskType
-
-* [social](../RiskType/PBN__RiskType_2)
-
-## Property: has_RiskISO_Purpose
-
-* [Safety and security](../RiskISO/PBN__RiskISO_Impact_0)
-
-## Property: has_RiskOwner
-
-* [community organizations](../Stakeholder/PBN__Stakeholder_150)
-* [policymakers](../Stakeholder/PBN__Stakeholder_126)
-
-## Property: has_RiskMitigation
-
-* [Invest in HVAC infrastructure for disadvantaged communities](../RiskMitigation/PBN__RiskMitigation_1926)
 
 ## Property: has_RiskName
 
 Greater health risks for marginalized groups
 
+## Property: has_RiskISO_Impact
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_0.md)
+
+## Property: has_RiskOwner
+
+* [community organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_150.md)
+* [policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_126.md)
+
+## Property: has_RiskTechnology
+
+* [equitable distribution of resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_669.md)
+
+## Property: has_RiskSubject
+
+* [low-income communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_27.md)
+* [marginalized groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_880.md)
+
+## Property: has_RiskMitigation
+
+* [Invest in HVAC infrastructure for disadvantaged communities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1926.md)
+
 ## Property: has_RiskDescription
 
 Low-income communities may lack access to adequate HVAC systems, increasing their vulnerability to poor indoor air quality and contagious diseases.
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [gonzalez_reflecting_2021](../Article/PBN__Article_110)
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Property: has_RiskType
+
+* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
 
 ## Property: has_RiskGBN
 
-* [Yes](../RiskGBN/PBN__RiskGBN_1)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [physical](../RiskHealth/PBN__RiskHealth_0)
+* [gonzalez_reflecting_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_110.md)
 

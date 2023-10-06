@@ -1,14 +1,16 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) 
+
 # Technology: __Control samples__ (PBN__Technology_2826)
-
-## Property: has_TechnologyID
-
-* [Q2148398](../Qid/Q2148398)
 
 ## Property: has_StakeholderGroup
 
-* [Biology techs](../TechGroup/PBN__TechGroup_15)
+* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_15.md)
+
+## Property: has_TechnologyID
+
+* [Q2148398](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2148398.md)
 
 ## Property: has_StakeholderSubgroup
 
-* [Diagnostic and Testing Tools](../TechSubgroup/PBN__TechSubgroup_12)
+* [Diagnostic and Testing Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_12.md)
 

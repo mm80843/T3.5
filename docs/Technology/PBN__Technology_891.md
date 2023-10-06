@@ -1,6 +1,8 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) 
+
 # Technology: __public education and awareness campaigns__ (PBN__Technology_891)
 
 ## Property: has_TechnologyID
 
-* [Q12182551](../Qid/Q12182551)
+* [Q12182551](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q12182551.md)
 

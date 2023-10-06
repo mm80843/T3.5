@@ -1,6 +1,8 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Inadequate ventilation in makeshift hospitals__ (PBN__Risk_443)
 
 ## Property: has_RiskMitigation
 
-* [Adequate ventilation systems](../RiskMitigation/PBN__RiskMitigation_613)
+* [Adequate ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_613.md)
 

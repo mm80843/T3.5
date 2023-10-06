@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Wastewater-based epidemiology__ (PBN__Mitigation_1081)
-
-## Property: has_MitigationTechnology
-
-* [environmental surveillance](../Technology/PBN__Technology_3632)
 
 ## Property: has_MitigationSource
 
-* [la_rosa_first_2020](../Article/PBN__Article_37)
+* [la_rosa_first_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_37.md)
+
+## Property: has_MitigationTechnology
+
+* [environmental surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3632.md)
 
 ## Property: has_MitigationPrinciple
 

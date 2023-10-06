@@ -1,19 +1,21 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Enhanced data security__ (PBN__Benef_1393)
 
 ## Property: has_BenefDetails
 
 Addressing security and privacy concerns ensures the protection of IoT data, maintaining patient confidentiality.
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Enhanced data security builds trust and confidence in the use of IoT technology, encouraging its adoption.](../BenefReturn/PBN__BenefReturn_1581)
+* [singh_internet_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_295.md)
 
 ## Property: has_Beneficiary
 
-* [patients](../Stakeholder/PBN__Stakeholder_31)
-* [healthcare providers](../Stakeholder/PBN__Stakeholder_121)
+* [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
+* [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [singh_internet_2020](../Article/PBN__Article_295)
+* [Enhanced data security builds trust and confidence in the use of IoT technology, encouraging its adoption.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1581.md)
 

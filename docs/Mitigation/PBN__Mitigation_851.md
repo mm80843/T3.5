@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Letheen Broth Base (LBB)__ (PBN__Mitigation_851)
-
-## Property: has_MitigationTechnology
-
-* [letheen broth base](../Technology/PBN__Technology_3494)
 
 ## Property: has_MitigationSource
 
-* [ikner_continuously_2020](../Article/PBN__Article_246)
+* [ikner_continuously_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_246.md)
+
+## Property: has_MitigationTechnology
+
+* [letheen broth base](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3494.md)
 
 ## Property: has_MitigationPrinciple
 

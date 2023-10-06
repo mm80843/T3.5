@@ -1,55 +1,57 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Technological limitations and dependencies__ (PBN__Risk_2100)
-
-## Property: has_RiskISO_Impact
-
-* [Living together, interdependence and mutuality](../RiskISO/PBN__RiskISO_Purpose_10)
-
-## Property: has_RiskTechnology
-
-* [infrastructure redundancy](../Technology/PBN__Technology_1595)
-* [cloud computing](../Technology/PBN__Technology_1232)
-* [technical support](../Technology/PBN__Technology_1596)
-
-## Property: has_RiskSubject
-
-* [general population](../Stakeholder/PBN__Stakeholder_9)
-* [businesses](../Stakeholder/PBN__Stakeholder_147)
-* [government agencies](../Stakeholder/PBN__Stakeholder_55)
-
-## Property: has_RiskType
-
-* [technological](../RiskType/PBN__RiskType_5)
-
-## Property: has_RiskISO_Purpose
-
-* [Resilience](../RiskISO/PBN__RiskISO_Impact_2)
-
-## Property: has_RiskOwner
-
-* [technology companies](../Stakeholder/PBN__Stakeholder_719)
-* [government bodies](../Stakeholder/PBN__Stakeholder_976)
-
-## Property: has_RiskMitigation
-
-* [Implementation of backup systems, redundancy measures, technical support and maintenance](../RiskMitigation/PBN__RiskMitigation_2750)
 
 ## Property: has_RiskName
 
 Service disruptions, delays in decision-making, decreased functionality
 
+## Property: has_RiskISO_Impact
+
+* [Living together, interdependence and mutuality](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_10.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
+## Property: has_RiskOwner
+
+* [technology companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_719.md)
+* [government bodies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_976.md)
+
+## Property: has_RiskTechnology
+
+* [infrastructure redundancy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1595.md)
+* [cloud computing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1232.md)
+* [technical support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1596.md)
+
+## Property: has_RiskSubject
+
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+* [businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_147.md)
+* [government agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_55.md)
+
+## Property: has_RiskMitigation
+
+* [Implementation of backup systems, redundancy measures, technical support and maintenance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2750.md)
+
 ## Property: has_RiskDescription
 
 Reliance on technological solutions in the smart city may be hindered by technical issues, limitations, or disruptions
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [soderstrom_three_2021](../Article/PBN__Article_250)
+* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
+
+## Property: has_RiskType
+
+* [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
 
 ## Property: has_RiskGBN
 
-* [Yes](../RiskGBN/PBN__RiskGBN_1)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [other](../RiskHealth/PBN__RiskHealth_2)
+* [soderstrom_three_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_250.md)
 

@@ -1,14 +1,16 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Public support and participation__ (PBN__Mitigation_1059)
-
-## Property: has_MitigationTechnology
-
-* [public opinion](../Technology/PBN__Technology_3605)
-* [activism](../Technology/PBN__Technology_3606)
-* [consumer choices](../Technology/PBN__Technology_3607)
 
 ## Property: has_MitigationSource
 
-* [kuzemko_covid-19_2020](../Article/PBN__Article_14)
+* [kuzemko_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_14.md)
+
+## Property: has_MitigationTechnology
+
+* [public opinion](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3605.md)
+* [activism](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3606.md)
+* [consumer choices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3607.md)
 
 ## Property: has_MitigationPrinciple
 

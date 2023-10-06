@@ -1,6 +1,8 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Misuse of data__ (PBN__Risk_50)
 
 ## Property: has_RiskMitigation
 
-* [Clear data usage policies](../RiskMitigation/PBN__RiskMitigation_67)
+* [Clear data usage policies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_67.md)
 

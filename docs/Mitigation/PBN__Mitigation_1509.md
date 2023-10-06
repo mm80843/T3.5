@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Improved ventilation in buildings__ (PBN__Mitigation_1509)
-
-## Property: has_MitigationTechnology
-
-* [hvac systems](../Technology/PBN__Technology_185)
-* [ventilation infrastructure](../Technology/PBN__Technology_3896)
 
 ## Property: has_MitigationSource
 
-* [oecd_what_2022](../Article/PBN__Article_287)
+* [oecd_what_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_287.md)
+
+## Property: has_MitigationTechnology
+
+* [hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_185.md)
+* [ventilation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3896.md)
 
 ## Property: has_MitigationPrinciple
 

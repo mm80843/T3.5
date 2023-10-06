@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Rapid diagnosis techniques__ (PBN__Mitigation_1254)
-
-## Property: has_MitigationTechnology
-
-* [ai](../Technology/PBN__Technology_278)
-* [deep learning models](../Technology/PBN__Technology_3759)
 
 ## Property: has_MitigationSource
 
-* [mbunge_critical_2021](../Article/PBN__Article_91)
+* [mbunge_critical_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_91.md)
+
+## Property: has_MitigationTechnology
+
+* [ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_278.md)
+* [deep learning models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3759.md)
 
 ## Property: has_MitigationPrinciple
 

@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Vaccine development and drug discovery__ (PBN__Mitigation_1255)
-
-## Property: has_MitigationTechnology
-
-* [ai](../Technology/PBN__Technology_278)
-* [data analysis](../Technology/PBN__Technology_3346)
 
 ## Property: has_MitigationSource
 
-* [mbunge_critical_2021](../Article/PBN__Article_91)
+* [mbunge_critical_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_91.md)
+
+## Property: has_MitigationTechnology
+
+* [ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_278.md)
+* [data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3346.md)
 
 ## Property: has_MitigationPrinciple
 

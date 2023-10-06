@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Housing evictions__ (PBN__Mitigation_26)
-
-## Property: has_MitigationTechnology
-
-* [legal measures and social support programs](../Technology/PBN__Technology_2907)
 
 ## Property: has_MitigationSource
 
-* [acuto_covid-19_2020](../Article/PBN__Article_85)
+* [acuto_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_85.md)
+
+## Property: has_MitigationTechnology
+
+* [legal measures and social support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2907.md)
 
 ## Property: has_MitigationPrinciple
 

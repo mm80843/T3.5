@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Trust and cooperation__ (PBN__Mitigation_1796)
-
-## Property: has_MitigationTechnology
-
-* [building social capital](../Technology/PBN__Technology_4072)
-* [fostering community](../Technology/PBN__Technology_4073)
 
 ## Property: has_MitigationSource
 
-* [sakellarides_viral_2020](../Article/PBN__Article_183)
+* [sakellarides_viral_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_183.md)
+
+## Property: has_MitigationTechnology
+
+* [building social capital](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4072.md)
+* [fostering community](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4073.md)
 
 ## Property: has_MitigationPrinciple
 

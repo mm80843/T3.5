@@ -1,6 +1,8 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) 
+
 # Technology: __improved surveillance and early warning systems__ (PBN__Technology_887)
 
 ## Property: has_TechnologyID
 
-* [Q5326904](../Qid/Q5326904)
+* [Q5326904](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5326904.md)
 

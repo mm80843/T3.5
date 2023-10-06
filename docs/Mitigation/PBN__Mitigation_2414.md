@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Longitudinal analysis of wastewater samples__ (PBN__Mitigation_2414)
-
-## Property: has_MitigationTechnology
-
-* [rt-qpcr](../Technology/PBN__Technology_4479)
-* [data analysis](../Technology/PBN__Technology_3346)
 
 ## Property: has_MitigationSource
 
-* [wu_sars-cov-2_2020](../Article/PBN__Article_251)
+* [wu_sars-cov-2_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_251.md)
+
+## Property: has_MitigationTechnology
+
+* [rt-qpcr](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4479.md)
+* [data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3346.md)
 
 ## Property: has_MitigationPrinciple
 

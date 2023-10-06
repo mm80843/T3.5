@@ -1,18 +1,20 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Continued social interactions__ (PBN__Benef_104)
 
 ## Property: has_BenefDetails
 
 Providing continued social interactions and adherence to treatment regimes without spreading disease
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Improved mental health and well-being](../BenefReturn/PBN__BenefReturn_102)
+* [yang_combating_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_23.md)
 
 ## Property: has_Beneficiary
 
-* [isolated individuals](../Stakeholder/PBN__Stakeholder_65)
+* [isolated individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_65.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [yang_combating_2020](../Article/PBN__Article_23)
+* [Improved mental health and well-being](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_102.md)
 

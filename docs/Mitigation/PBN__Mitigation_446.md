@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Yoga__ (PBN__Mitigation_446)
-
-## Property: has_MitigationTechnology
-
-* [yoga mats](../Technology/PBN__Technology_3236)
-* [online yoga classes](../Technology/PBN__Technology_3237)
 
 ## Property: has_MitigationSource
 
-* [chtourou_staying_2020](../Article/PBN__Article_181)
+* [chtourou_staying_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_181.md)
+
+## Property: has_MitigationTechnology
+
+* [yoga mats](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3236.md)
+* [online yoga classes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3237.md)
 
 ## Property: has_MitigationPrinciple
 

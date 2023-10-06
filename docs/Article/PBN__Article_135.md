@@ -1,8 +1,18 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) 
+
 # Article: __nicola_socio-economic_2020__ (PBN__Article_135)
+
+## Property: has_ArticleYear
+
+2020
 
 ## Property: has_ArticleLLMShortSummary
 
 The outbreak of COVID-19 has had a detrimental effect on global healthcare systems and the world economy. In terms of the primary sectors of the economy, the agricultural sector has been impacted by a global crash in demand, resulting in a drop in prices of agricultural commodities. The petroleum and oil sector has experienced an oil-price war triggered by a refusal by Russia to slash oil production, leading to a steep price crash. The manufacturing industry has seen a decline in turnover and disruptions to supply chains. In the tertiary sectors, the education sector has been greatly affected, with widespread school closures and socioeconomic implications such as the loss of free school meals and increased childcare costs. The financial industry has faced disruptions in supply chains and a decline in stock markets. The real estate sector has been uncertain due to social distancing measures and the inability to conduct house viewings. The tourism industry has been severely impacted with travel restrictions and cancellations of major sporting events. The healthcare and pharmaceutical industry is facing challenges in providing care and shortages of protective equipment, while also experiencing changes in healthcare management and investments in vaccine development. The food sector has seen panic-buying and stockpiling, leading to shortages and challenges in food distribution. The social impact of the pandemic includes an increase in domestic violence and a boost in online gaming. To mitigate the effects of the crisis, governments and financial institutions have implemented various measures such as economic stimulus packages and support for affected businesses.
+
+## Property: has_ArticleTitle
+
+The socio-economic implications of the coronavirus pandemic (COVID-19): A review
 
 ## Property: has_ArticleLLMSummary
 
@@ -29,12 +39,4 @@ Overall, the COVID-19 outbreak has had a big impact on many different parts of t
 ## Property: has_ArticleDOI
 
 10.1016/j.ijsu.2020.04.018
-
-## Property: has_ArticleTitle
-
-The socio-economic implications of the coronavirus pandemic (COVID-19): A review
-
-## Property: has_ArticleYear
-
-2020
 

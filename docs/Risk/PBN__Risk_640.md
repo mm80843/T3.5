@@ -1,9 +1,11 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Limited space and inadequate room quality__ (PBN__Risk_640)
 
 ## Property: has_RiskMitigation
 
-* [Provide openings for air circulation and sun exposure](../RiskMitigation/PBN__RiskMitigation_884)
-* [Optimize layout for north-south orientation](../RiskMitigation/PBN__RiskMitigation_885)
-* [Provide access to nature and green spaces](../RiskMitigation/PBN__RiskMitigation_886)
-* [Separation of wet and living spaces](../RiskMitigation/PBN__RiskMitigation_887)
+* [Provide openings for air circulation and sun exposure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_884.md)
+* [Optimize layout for north-south orientation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_885.md)
+* [Provide access to nature and green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_886.md)
+* [Separation of wet and living spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_887.md)
 

@@ -1,55 +1,57 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Spatial planning considerations__ (PBN__Risk_247)
-
-## Property: has_RiskISO_Impact
-
-* [Community infrastructures](../RiskISO/PBN__RiskISO_Purpose_9)
-
-## Property: has_RiskTechnology
-
-* [urban planners](../Technology/PBN__Technology_379)
-* [architects](../Technology/PBN__Technology_380)
-* [designers](../Technology/PBN__Technology_381)
-
-## Property: has_RiskSubject
-
-* [city dwellers](../Stakeholder/PBN__Stakeholder_772)
-* [communities](../Stakeholder/PBN__Stakeholder_4)
-
-## Property: has_RiskType
-
-* [social](../RiskType/PBN__RiskType_2)
-
-## Property: has_RiskISO_Purpose
-
-* [Mobility](../RiskISO/PBN__RiskISO_Impact_14)
-
-## Property: has_RiskOwner
-
-* [urban planning departments](../Stakeholder/PBN__Stakeholder_777)
-* [design professionals](../Stakeholder/PBN__Stakeholder_365)
-
-## Property: has_RiskMitigation
-
-* [Adoption of spatial planning strategies for pandemic preparedness](../RiskMitigation/PBN__RiskMitigation_296)
-* [Incorporate placemaking and public place design in spatial planning, include hygiene development and spatial use](../RiskMitigation/PBN__RiskMitigation_1737)
 
 ## Property: has_RiskName
 
 Improved spatial planning strategies, enhanced functionality and accessibility of spaces
 
+## Property: has_RiskISO_Impact
+
+* [Community infrastructures](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_9.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Mobility](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_14.md)
+
+## Property: has_RiskOwner
+
+* [urban planning departments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_777.md)
+* [design professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_365.md)
+
+## Property: has_RiskTechnology
+
+* [urban planners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_379.md)
+* [architects](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_380.md)
+* [designers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_381.md)
+
+## Property: has_RiskSubject
+
+* [city dwellers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_772.md)
+* [communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_4.md)
+
+## Property: has_RiskMitigation
+
+* [Adoption of spatial planning strategies for pandemic preparedness](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_296.md)
+* [Incorporate placemaking and public place design in spatial planning, include hygiene development and spatial use](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1737.md)
+
 ## Property: has_RiskDescription
 
 Considerations in spatial planning for placemaking and public place design
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [cheshmehzangi_revisiting_2021](../Article/PBN__Article_59)
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Property: has_RiskType
+
+* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
 
 ## Property: has_RiskGBN
 
-* [Yes](../RiskGBN/PBN__RiskGBN_1)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [physical](../RiskHealth/PBN__RiskHealth_0)
+* [cheshmehzangi_revisiting_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_59.md)
 

@@ -1,4 +1,10 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) 
+
 # Article: __muller_effects_2021__ (PBN__Article_30)
+
+## Property: has_ArticleYear
+
+2021
 
 ## Property: has_ArticleLLMShortSummary
 
@@ -8,6 +14,10 @@ Two studies conducted in Germany investigated the effects of NPIs on the inciden
 
 Both studies concluded that NPIs significantly reduce the overall incidence of infectious diseases, suggesting that these interventions may have long-term non-COVID-19 control benefits. They emphasize the importance of considering both the harmful collateral effects and the indirect positive effects of NPIs on health. While there is a push to return to normalcy, the studies highlight the immediate health and well-being benefits of elements from the NPI portfolio, such as face masks, physical distancing, and improved hand hygiene, even outside of pandemic periods. These benefits should be taken into account when considering the discontinuation of NPIs.
 
+## Property: has_ArticleTitle
+
+Effects of non-pharmaceutical interventions against COVID-19 on the incidence of other diseases
+
 ## Property: has_ArticleLLMSummary
 
 During the COVID-19 pandemic, countries like Germany used strategies called nonpharmaceutical interventions (NPIs) to try and stop the spread of the virus. Some of these strategies were things like wearing masks and staying apart from other people. While these strategies helped with the pandemic, they also had some negative effects. It became harder for people to get the medical care they needed, and some diseases like heart disease decreased while others like HIV/AIDS and malaria may increase. NPIs also made some people feel sad or stressed, and they had negative effects on the economy. However, there were some positive effects too. Pollution went down, there were fewer car accidents, and less people got sick with respiratory infections. Two studies done in Germany showed that NPIs helped to reduce the spread of other diseases too. So even though NPIs can be hard, they can also help keep us healthy.
@@ -15,12 +25,4 @@ During the COVID-19 pandemic, countries like Germany used strategies called nonp
 ## Property: has_ArticleDOI
 
 10.1016/j.lanepe.2021.100139
-
-## Property: has_ArticleTitle
-
-Effects of non-pharmaceutical interventions against COVID-19 on the incidence of other diseases
-
-## Property: has_ArticleYear
-
-2021
 

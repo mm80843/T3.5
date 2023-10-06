@@ -1,54 +1,56 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Emotional distress and psychiatric illness__ (PBN__Risk_1896)
-
-## Property: has_RiskISO_Impact
-
-* [Health and care](../RiskISO/PBN__RiskISO_Purpose_0)
-
-## Property: has_RiskTechnology
-
-* [telemedicine](../Technology/PBN__Technology_73)
-* [remote mental health care](../Technology/PBN__Technology_1278)
-
-## Property: has_RiskSubject
-
-* [individuals](../Stakeholder/PBN__Stakeholder_20)
-* [communities](../Stakeholder/PBN__Stakeholder_4)
-* [healthcare providers](../Stakeholder/PBN__Stakeholder_121)
-
-## Property: has_RiskType
-
-* [social](../RiskType/PBN__RiskType_2)
-
-## Property: has_RiskISO_Purpose
-
-* [Well-being](../RiskISO/PBN__RiskISO_Impact_1)
-
-## Property: has_RiskOwner
-
-* [healthcare providers](../Stakeholder/PBN__Stakeholder_121)
-* [communities](../Stakeholder/PBN__Stakeholder_4)
-
-## Property: has_RiskMitigation
-
-* [Prevention efforts, screening for mental health problems, psychoeducation, psychosocial support](../RiskMitigation/PBN__RiskMitigation_2494)
 
 ## Property: has_RiskName
 
 Widespread emotional distress and increased risk for psychiatric illness
 
+## Property: has_RiskISO_Impact
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+
+## Property: has_RiskOwner
+
+* [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
+* [communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_4.md)
+
+## Property: has_RiskTechnology
+
+* [telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_73.md)
+* [remote mental health care](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1278.md)
+
+## Property: has_RiskSubject
+
+* [individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_20.md)
+* [communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_4.md)
+* [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
+
+## Property: has_RiskMitigation
+
+* [Prevention efforts, screening for mental health problems, psychoeducation, psychosocial support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2494.md)
+
 ## Property: has_RiskDescription
 
 Uncertain prognoses, resource shortages, and public health measures contribute to emotional distress
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [pfefferbaum_mental_2020](../Article/PBN__Article_167)
+* [mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
+
+## Property: has_RiskType
+
+* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
 
 ## Property: has_RiskGBN
 
-* [No](../RiskGBN/PBN__RiskGBN_0)
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [mental](../RiskHealth/PBN__RiskHealth_1)
+* [pfefferbaum_mental_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_167.md)
 

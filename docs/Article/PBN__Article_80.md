@@ -1,8 +1,18 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) 
+
 # Article: __ferguson_report_2020__ (PBN__Article_80)
+
+## Property: has_ArticleYear
+
+2020
 
 ## Property: has_ArticleLLMShortSummary
 
 In this research abstract, the authors discuss the global impact of the COVID-19 pandemic and the need for non-pharmaceutical interventions (NPIs) to reduce transmission of the virus. They analyze the effectiveness of different NPIs, both in isolation and in combination, for mitigation and suppression strategies. The results suggest that a combination of multiple interventions is necessary to have a substantial impact on transmission. Mitigation strategies, such as home isolation of suspect cases and social distancing of high-risk individuals, can reduce peak healthcare demand and deaths, but still result in a large number of deaths and overwhelmed healthcare systems. Suppression strategies, which aim to reduce transmission to low levels, require population-wide social distancing, case isolation, household quarantine, and potentially school and university closures. These measures would need to be maintained until a vaccine becomes available, which could be 18 months or more. The authors also discuss the challenges and uncertainties associated with implementing and sustaining these interventions, as well as the potential economic and social costs. Overall, the findings support the need for a layered approach of multiple interventions to effectively control the COVID-19 pandemic.
+
+## Property: has_ArticleTitle
+
+Report 9: Impact of non-pharmaceutical interventions (NPIs) to reduce COVID19 mortality and healthcare demand
 
 ## Property: has_ArticleLLMSummary
 
@@ -17,12 +27,4 @@ It's also important to know that these measures can have a big impact on our liv
 ## Property: has_ArticleDOI
 
 10.25561/77482
-
-## Property: has_ArticleTitle
-
-Report 9: Impact of non-pharmaceutical interventions (NPIs) to reduce COVID19 mortality and healthcare demand
-
-## Property: has_ArticleYear
-
-2020
 

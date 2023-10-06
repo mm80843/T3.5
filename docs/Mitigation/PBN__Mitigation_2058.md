@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Prioritize participatory governance structures__ (PBN__Mitigation_2058)
-
-## Property: has_MitigationTechnology
-
-* [participatory planning](../Technology/PBN__Technology_4213)
-* [social capital building](../Technology/PBN__Technology_4214)
 
 ## Property: has_MitigationSource
 
-* [syal_learning_2021](../Article/PBN__Article_137)
+* [syal_learning_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_137.md)
+
+## Property: has_MitigationTechnology
+
+* [participatory planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4213.md)
+* [social capital building](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4214.md)
 
 ## Property: has_MitigationPrinciple
 

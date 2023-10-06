@@ -1,6 +1,8 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Insufficient adoption of clean energy technologies__ (PBN__Risk_3322)
 
 ## Property: has_RiskMitigation
 
-* [Deployment of low-carbon technologies and infrastructure](../Mitigation/PBN__Mitigation_1991)
+* [Deployment of low-carbon technologies and infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1991.md)
 

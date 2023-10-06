@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Performance-based modeling__ (PBN__Mitigation_1312)
-
-## Property: has_MitigationTechnology
-
-* [computer-aided design (cad) tools](../Technology/PBN__Technology_3782)
-* [cfd models](../Technology/PBN__Technology_3783)
 
 ## Property: has_MitigationSource
 
-* [megahed_indoor_2021](../Article/PBN__Article_206)
+* [megahed_indoor_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_206.md)
+
+## Property: has_MitigationTechnology
+
+* [computer-aided design (cad) tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3782.md)
+* [cfd models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3783.md)
 
 ## Property: has_MitigationPrinciple
 

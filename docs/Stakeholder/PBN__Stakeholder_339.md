@@ -1,6 +1,8 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) 
+
 # Stakeholder: __psychiatric__ (PBN__Stakeholder_339)
 
 ## Property: has_StakeholderID
 
-* [Q104408663](../Qid/Q104408663)
+* [Q104408663](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q104408663.md)
 

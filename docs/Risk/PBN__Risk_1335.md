@@ -1,83 +1,85 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Insufficient ventilation__ (PBN__Risk_1335)
-
-## Property: has_RiskISO_Impact
-
-* [Health and care](../RiskISO/PBN__RiskISO_Purpose_0)
-
-## Property: has_RiskTechnology
-
-* [none](../Technology/PBN__Technology_35)
-* [air purifiers](../Technology/PBN__Technology_138)
-* [hvac systems with hepa filters](../Technology/PBN__Technology_772)
-* [ventilation systems](../Technology/PBN__Technology_139)
-* [improved ventilation systems](../Technology/PBN__Technology_249)
-* [air circulation devices](../Technology/PBN__Technology_1662)
-
-## Property: has_RiskSubject
-
-* [healthcare workers](../Stakeholder/PBN__Stakeholder_68)
-* [patients](../Stakeholder/PBN__Stakeholder_31)
-* [building occupants](../Stakeholder/PBN__Stakeholder_97)
-* [occupants](../Stakeholder/PBN__Stakeholder_92)
-* [visitors](../Stakeholder/PBN__Stakeholder_118)
-* [staff](../Stakeholder/PBN__Stakeholder_103)
-* [general population](../Stakeholder/PBN__Stakeholder_9)
-* [employees](../Stakeholder/PBN__Stakeholder_220)
-* [individuals in confined spaces](../Stakeholder/PBN__Stakeholder_1456)
-
-## Property: has_RiskType
-
-* [health](../RiskType/PBN__RiskType_4)
-* [environmental](../RiskType/PBN__RiskType_0)
-* [technological](../RiskType/PBN__RiskType_5)
-
-## Property: has_RiskISO_Purpose
-
-* [Well-being](../RiskISO/PBN__RiskISO_Impact_1)
-
-## Property: has_RiskOwner
-
-* [hospital management](../Stakeholder/PBN__Stakeholder_239)
-* [facility managers](../Stakeholder/PBN__Stakeholder_166)
-* [building owners](../Stakeholder/PBN__Stakeholder_80)
-* [facility management](../Stakeholder/PBN__Stakeholder_655)
-* [individuals](../Stakeholder/PBN__Stakeholder_20)
-* [businesses](../Stakeholder/PBN__Stakeholder_147)
-* [governments](../Stakeholder/PBN__Stakeholder_47)
-
-## Property: has_RiskMitigation
-
-* [Improve ventilation systems and air circulation in the hospital.](../RiskMitigation/PBN__RiskMitigation_1829)
-* [Increase ventilation rates and use air purifiers](../RiskMitigation/PBN__RiskMitigation_2005)
-* [Implement proper ventilation systems and air filtration methods to ensure adequate fresh air circulation](../RiskMitigation/PBN__RiskMitigation_2024)
-* [Use of air purifiers, opening windows, HVAC system maintenance.](../RiskMitigation/PBN__RiskMitigation_2239)
-* [Improve HVAC systems, increase outdoor air intake, and use of air purifiers or filters](../RiskMitigation/PBN__RiskMitigation_2261)
-* [Increase ventilation rate to dilute contaminants](../RiskMitigation/PBN__RiskMitigation_2805)
-* [Increased outdoor air](../Mitigation/PBN__Mitigation_2465)
 
 ## Property: has_RiskName
 
 Increased risk of infection for individuals in confined spaces
 
+## Property: has_RiskISO_Impact
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+
+## Property: has_RiskOwner
+
+* [hospital management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_239.md)
+* [facility managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_166.md)
+* [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
+* [facility management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_655.md)
+* [individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_20.md)
+* [businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_147.md)
+* [governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
+
+## Property: has_RiskTechnology
+
+* [none](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
+* [air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_138.md)
+* [hvac systems with hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_772.md)
+* [ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_139.md)
+* [improved ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_249.md)
+* [air circulation devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1662.md)
+
+## Property: has_RiskSubject
+
+* [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
+* [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
+* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
+* [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
+* [visitors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_118.md)
+* [staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_103.md)
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+* [employees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_220.md)
+* [individuals in confined spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1456.md)
+
+## Property: has_RiskMitigation
+
+* [Improve ventilation systems and air circulation in the hospital.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1829.md)
+* [Increase ventilation rates and use air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2005.md)
+* [Implement proper ventilation systems and air filtration methods to ensure adequate fresh air circulation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2024.md)
+* [Use of air purifiers, opening windows, HVAC system maintenance.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2239.md)
+* [Improve HVAC systems, increase outdoor air intake, and use of air purifiers or filters](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2261.md)
+* [Increase ventilation rate to dilute contaminants](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2805.md)
+* [Increased outdoor air](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2465.md)
+
 ## Property: has_RiskDescription
 
 Inadequate ventilation rate in confined spaces leading to higher risk of respiratory infectious disease transmission
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [ding_toilets_2020](../Article/PBN__Article_196)
-* [ho_assessing_2004](../Article/PBN__Article_180)
-* [ibrahim_assessment_2022](../Article/PBN__Article_128)
-* [malliga_comprehensive_2021](../Article/PBN__Article_35)
-* [marotta_resilient_2021](../Article/PBN__Article_274)
-* [sun_efficacy_2020](../Article/PBN__Article_125)
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Property: has_RiskType
+
+* [health](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_4.md)
+* [environmental](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_0.md)
+* [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
 
 ## Property: has_RiskGBN
 
-* [No](../RiskGBN/PBN__RiskGBN_0)
-* [Yes](../RiskGBN/PBN__RiskGBN_1)
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [physical](../RiskHealth/PBN__RiskHealth_0)
+* [ding_toilets_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_196.md)
+* [ho_assessing_2004](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_180.md)
+* [ibrahim_assessment_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_128.md)
+* [malliga_comprehensive_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_35.md)
+* [marotta_resilient_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_274.md)
+* [sun_efficacy_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_125.md)
 

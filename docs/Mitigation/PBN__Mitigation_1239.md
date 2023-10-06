@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Regular Physical Activity__ (PBN__Mitigation_1239)
-
-## Property: has_MitigationTechnology
-
-* [exercise equipment](../Technology/PBN__Technology_3238)
-* [internet](../Technology/PBN__Technology_3058)
 
 ## Property: has_MitigationSource
 
-* [maugeri_impact_2020](../Article/PBN__Article_18)
+* [maugeri_impact_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_18.md)
+
+## Property: has_MitigationTechnology
+
+* [exercise equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3238.md)
+* [internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3058.md)
 
 ## Property: has_MitigationPrinciple
 

@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Staggered Schedules__ (PBN__Mitigation_809)
-
-## Property: has_MitigationTechnology
-
-* [scheduling software](../Technology/PBN__Technology_634)
-* [communication tools](../Technology/PBN__Technology_168)
 
 ## Property: has_MitigationSource
 
-* [hou_study_2021](../Article/PBN__Article_193)
+* [hou_study_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_193.md)
+
+## Property: has_MitigationTechnology
+
+* [scheduling software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_634.md)
+* [communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_168.md)
 
 ## Property: has_MitigationPrinciple
 

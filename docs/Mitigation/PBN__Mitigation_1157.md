@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Presence of green spaces and natural elements__ (PBN__Mitigation_1157)
-
-## Property: has_MitigationTechnology
-
-* [balconies](../Technology/PBN__Technology_1009)
-* [green spaces](../Technology/PBN__Technology_146)
 
 ## Property: has_MitigationSource
 
-* [maharani_biophilic_2022](../Article/PBN__Article_179)
+* [maharani_biophilic_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_179.md)
+
+## Property: has_MitigationTechnology
+
+* [balconies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1009.md)
+* [green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_146.md)
 
 ## Property: has_MitigationPrinciple
 

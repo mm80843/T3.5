@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Indoor Air Quality Monitoring__ (PBN__Mitigation_1773)
-
-## Property: has_MitigationTechnology
-
-* [sensor networks](../Technology/PBN__Technology_4053)
-* [iot](../Technology/PBN__Technology_277)
 
 ## Property: has_MitigationSource
 
-* [saini_comprehensive_2020](../Article/PBN__Article_281)
+* [saini_comprehensive_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_281.md)
+
+## Property: has_MitigationTechnology
+
+* [sensor networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4053.md)
+* [iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_277.md)
 
 ## Property: has_MitigationPrinciple
 

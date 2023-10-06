@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Increase cooking and eating at home__ (PBN__Mitigation_1532)
-
-## Property: has_MitigationTechnology
-
-* [cooking appliances](../Technology/PBN__Technology_3911)
 
 ## Property: has_MitigationSource
 
-* [oni_implications_2020](../Article/PBN__Article_68)
+* [oni_implications_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_68.md)
+
+## Property: has_MitigationTechnology
+
+* [cooking appliances](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3911.md)
 
 ## Property: has_MitigationPrinciple
 

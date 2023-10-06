@@ -1,6 +1,8 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Unintended urban biodiversity__ (PBN__Risk_64)
 
 ## Property: has_RiskMitigation
 
-* [Increase biodiversity of urban environments](../RiskMitigation/PBN__RiskMitigation_76)
+* [Increase biodiversity of urban environments](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_76.md)
 

@@ -1,19 +1,21 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Security and privacy of user data__ (PBN__Benef_1054)
 
 ## Property: has_BenefDetails
 
 Blockchain technology provides a decentralized solution for contact tracing, ensuring security and privacy of user data
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Private investors investing in blockchain-based contact tracing would benefit from improved security and privacy, enhancing the value of their investment.](../BenefReturn/PBN__BenefReturn_1175)
+* [sharma_blockchain_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_219.md)
 
 ## Property: has_Beneficiary
 
-* [healthcare industry](../Stakeholder/PBN__Stakeholder_423)
-* [individuals](../Stakeholder/PBN__Stakeholder_20)
+* [healthcare industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_423.md)
+* [individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_20.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [sharma_blockchain_2022](../Article/PBN__Article_219)
+* [Private investors investing in blockchain-based contact tracing would benefit from improved security and privacy, enhancing the value of their investment.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1175.md)
 

@@ -1,52 +1,54 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Induction process__ (PBN__Risk_1529)
-
-## Property: has_RiskISO_Impact
-
-* [Safety and security](../RiskISO/PBN__RiskISO_Purpose_5)
-
-## Property: has_RiskTechnology
-
-* [online induction platforms](../Technology/PBN__Technology_814)
-* [virtual training tools](../Technology/PBN__Technology_815)
-
-## Property: has_RiskSubject
-
-* [new staff members](../Stakeholder/PBN__Stakeholder_985)
-
-## Property: has_RiskType
-
-* [legal](../RiskType/PBN__RiskType_6)
-
-## Property: has_RiskISO_Purpose
-
-* [Resilience](../RiskISO/PBN__RiskISO_Impact_2)
-
-## Property: has_RiskOwner
-
-* [responsible owner](../Stakeholder/PBN__Stakeholder_980)
-* [human resources](../Stakeholder/PBN__Stakeholder_842)
-
-## Property: has_RiskMitigation
-
-* [Implement remote induction process](../RiskMitigation/PBN__RiskMitigation_2056)
 
 ## Property: has_RiskName
 
 Delayed onboarding of new staff, potential safety risks
 
+## Property: has_RiskISO_Impact
+
+* [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_5.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
+## Property: has_RiskOwner
+
+* [responsible owner](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_980.md)
+* [human resources](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_842.md)
+
+## Property: has_RiskTechnology
+
+* [online induction platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_814.md)
+* [virtual training tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_815.md)
+
+## Property: has_RiskSubject
+
+* [new staff members](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_985.md)
+
+## Property: has_RiskMitigation
+
+* [Implement remote induction process](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2056.md)
+
 ## Property: has_RiskDescription
 
 Challenges in conducting induction and drug/alcohol testing
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [jallow_impact_2020](../Article/PBN__Article_141)
+* [nan](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_6.md)
+
+## Property: has_RiskType
+
+* [legal](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_6.md)
 
 ## Property: has_RiskGBN
 
-* [No](../RiskGBN/PBN__RiskGBN_0)
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [nan](../RiskHealth/PBN__RiskHealth_6)
+* [jallow_impact_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_141.md)
 

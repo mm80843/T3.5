@@ -1,19 +1,21 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Enhanced quality control of scientific research__ (PBN__Benef_861)
 
 ## Property: has_BenefDetails
 
 Improvement in research quality and reliability, minimizing the publication of flawed studies.
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Increased investments in research, improved reputation of research institutions and researchers, potential collaborations and funding opportunities.](../BenefReturn/PBN__BenefReturn_938)
+* [watson_rise_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_173.md)
 
 ## Property: has_Beneficiary
 
-* [researchers](../Stakeholder/PBN__Stakeholder_2)
-* [scientific community](../Stakeholder/PBN__Stakeholder_348)
+* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+* [scientific community](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_348.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [watson_rise_2022](../Article/PBN__Article_173)
+* [Increased investments in research, improved reputation of research institutions and researchers, potential collaborations and funding opportunities.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_938.md)
 

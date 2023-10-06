@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Screening masses__ (PBN__Mitigation_44)
-
-## Property: has_MitigationTechnology
-
-* [screening technology](../Technology/PBN__Technology_2922)
 
 ## Property: has_MitigationSource
 
-* [agade_exploring_2020](../Article/PBN__Article_114)
+* [agade_exploring_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_114.md)
+
+## Property: has_MitigationTechnology
+
+* [screening technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2922.md)
 
 ## Property: has_MitigationPrinciple
 

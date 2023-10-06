@@ -1,18 +1,20 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Access to education__ (PBN__Benef_985)
 
 ## Property: has_BenefDetails
 
 Online learning provides access to education for students, especially those who may not have access to traditional education systems
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Private investors in education technology would benefit from increased demand for online learning platforms and services](../BenefReturn/PBN__BenefReturn_1087)
+* [hakovirta_how_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_202.md)
 
 ## Property: has_Beneficiary
 
-* [students](../Stakeholder/PBN__Stakeholder_101)
+* [students](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_101.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [hakovirta_how_2020](../Article/PBN__Article_202)
+* [Private investors in education technology would benefit from increased demand for online learning platforms and services](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1087.md)
 

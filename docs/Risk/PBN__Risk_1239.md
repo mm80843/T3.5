@@ -1,53 +1,55 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Inadequate public infrastructure__ (PBN__Risk_1239)
-
-## Property: has_RiskISO_Impact
-
-* [Health and care](../RiskISO/PBN__RiskISO_Purpose_0)
-
-## Property: has_RiskTechnology
-
-* [city governments](../Technology/PBN__Technology_340)
-* [healthcare organizations](../Technology/PBN__Technology_341)
-
-## Property: has_RiskSubject
-
-* [general population](../Stakeholder/PBN__Stakeholder_9)
-* [vulnerable individuals](../Stakeholder/PBN__Stakeholder_750)
-
-## Property: has_RiskType
-
-* [social](../RiskType/PBN__RiskType_2)
-
-## Property: has_RiskISO_Purpose
-
-* [Health and care](../RiskISO/PBN__RiskISO_Impact_3)
-
-## Property: has_RiskOwner
-
-* [government](../Stakeholder/PBN__Stakeholder_73)
-* [healthcare organizations](../Stakeholder/PBN__Stakeholder_216)
-
-## Property: has_RiskMitigation
-
-* [Building and maintaining adequate public health infrastructure, promoting hygiene practices](../RiskMitigation/PBN__RiskMitigation_1697)
 
 ## Property: has_RiskName
 
 Increased risk of virus transmission in public spaces and limited access to healthcare services
 
+## Property: has_RiskISO_Impact
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
+
+## Property: has_RiskOwner
+
+* [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
+* [healthcare organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_216.md)
+
+## Property: has_RiskTechnology
+
+* [city governments](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_340.md)
+* [healthcare organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_341.md)
+
+## Property: has_RiskSubject
+
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+* [vulnerable individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_750.md)
+
+## Property: has_RiskMitigation
+
+* [Building and maintaining adequate public health infrastructure, promoting hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1697.md)
+
 ## Property: has_RiskDescription
 
 Insufficient provision of public health facilities, sanitation, and hygiene infrastructure
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [cantarero_covid19-routes_2021](../Article/PBN__Article_201)
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Property: has_RiskType
+
+* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
 
 ## Property: has_RiskGBN
 
-* [No](../RiskGBN/PBN__RiskGBN_0)
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [physical](../RiskHealth/PBN__RiskHealth_0)
+* [cantarero_covid19-routes_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_201.md)
 

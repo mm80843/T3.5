@@ -1,55 +1,57 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Impulsive adoption of extreme measures__ (PBN__Risk_1521)
-
-## Property: has_RiskISO_Impact
-
-* [nan](../RiskISO/PBN__RiskISO_Purpose_3)
-
-## Property: has_RiskTechnology
-
-* [public education](../Technology/PBN__Technology_804)
-* [clear guidelines](../Technology/PBN__Technology_805)
-
-## Property: has_RiskSubject
-
-* [general public](../Stakeholder/PBN__Stakeholder_29)
-* [healthcare workers](../Stakeholder/PBN__Stakeholder_68)
-* [policymakers](../Stakeholder/PBN__Stakeholder_126)
-
-## Property: has_RiskType
-
-* [political](../RiskType/PBN__RiskType_1)
-* [technological](../RiskType/PBN__RiskType_5)
-
-## Property: has_RiskISO_Purpose
-
-* [Responsible resource use](../RiskISO/PBN__RiskISO_Impact_4)
-
-## Property: has_RiskOwner
-
-* [public health agencies](../Stakeholder/PBN__Stakeholder_222)
-* [government bodies](../Stakeholder/PBN__Stakeholder_976)
-
-## Property: has_RiskMitigation
-
-* [Rely on evidence-based measures, prioritize hygienic practices](../RiskMitigation/PBN__RiskMitigation_2048)
 
 ## Property: has_RiskName
 
 Panic shopping, shortage of medical supplies, excess hospital admissions
 
+## Property: has_RiskISO_Impact
+
+* [nan](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_3.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+
+## Property: has_RiskOwner
+
+* [public health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_222.md)
+* [government bodies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_976.md)
+
+## Property: has_RiskTechnology
+
+* [public education](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_804.md)
+* [clear guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_805.md)
+
+## Property: has_RiskSubject
+
+* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
+* [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
+* [policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_126.md)
+
+## Property: has_RiskMitigation
+
+* [Rely on evidence-based measures, prioritize hygienic practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2048.md)
+
 ## Property: has_RiskDescription
 
 Under alarming circumstances, extreme measures without evidence can cause harm and resource misallocation
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [ioannidis_coronavirus_2020](../Article/PBN__Article_101)
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Property: has_RiskType
+
+* [political](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_1.md)
+* [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
 
 ## Property: has_RiskGBN
 
-* [No](../RiskGBN/PBN__RiskGBN_0)
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [physical](../RiskHealth/PBN__RiskHealth_0)
+* [ioannidis_coronavirus_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_101.md)
 

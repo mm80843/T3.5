@@ -1,10 +1,12 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Health harming behaviors__ (PBN__Risk_2708)
 
 ## Property: has_RiskMitigation
 
-* [Building regulations](../Mitigation/PBN__Mitigation_733)
-* [Rent controls](../Mitigation/PBN__Mitigation_736)
-* [Regulatory measures](../Mitigation/PBN__Mitigation_737)
-* [Fire safety improvements](../Mitigation/PBN__Mitigation_738)
-* [Addressing precarity](../Mitigation/PBN__Mitigation_742)
+* [Building regulations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_733.md)
+* [Rent controls](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_736.md)
+* [Regulatory measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_737.md)
+* [Fire safety improvements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_738.md)
+* [Addressing precarity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_742.md)
 

@@ -1,53 +1,55 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Data privacy and public perception__ (PBN__Risk_1921)
-
-## Property: has_RiskISO_Impact
-
-* [Innovation, Creativity and research](../RiskISO/PBN__RiskISO_Purpose_2)
-
-## Property: has_RiskTechnology
-
-* [data protection systems](../Technology/PBN__Technology_1316)
-* [ai-backed systems](../Technology/PBN__Technology_1314)
-
-## Property: has_RiskSubject
-
-* [citizens](../Stakeholder/PBN__Stakeholder_54)
-* [water utilities](../Stakeholder/PBN__Stakeholder_329)
-
-## Property: has_RiskType
-
-* [technological](../RiskType/PBN__RiskType_5)
-
-## Property: has_RiskISO_Purpose
-
-* [Resilience](../RiskISO/PBN__RiskISO_Impact_2)
-
-## Property: has_RiskOwner
-
-* [water utilities](../Stakeholder/PBN__Stakeholder_329)
-* [regulatory authorities](../Stakeholder/PBN__Stakeholder_1297)
-
-## Property: has_RiskMitigation
-
-* [Implement data protection measures and provide objective water quality data.](../RiskMitigation/PBN__RiskMitigation_2524)
 
 ## Property: has_RiskName
 
 Potential privacy issues and the need to educate the public on water treatment processes.
 
+## Property: has_RiskISO_Impact
+
+* [Innovation, Creativity and research](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_2.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
+## Property: has_RiskOwner
+
+* [water utilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_329.md)
+* [regulatory authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1297.md)
+
+## Property: has_RiskTechnology
+
+* [data protection systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1316.md)
+* [ai-backed systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1314.md)
+
+## Property: has_RiskSubject
+
+* [citizens](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_54.md)
+* [water utilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_329.md)
+
+## Property: has_RiskMitigation
+
+* [Implement data protection measures and provide objective water quality data.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2524.md)
+
 ## Property: has_RiskDescription
 
 Increased digitalization can lead to concerns about data privacy and the need to demonstrate water quality to maintain public trust.
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [poch_when_2020](../Article/PBN__Article_207)
+* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
+
+## Property: has_RiskType
+
+* [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
 
 ## Property: has_RiskGBN
 
-* [Yes](../RiskGBN/PBN__RiskGBN_1)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [other](../RiskHealth/PBN__RiskHealth_2)
+* [poch_when_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_207.md)
 

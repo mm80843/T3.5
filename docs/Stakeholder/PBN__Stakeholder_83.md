@@ -1,6 +1,8 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) 
+
 # Stakeholder: __nan__ (PBN__Stakeholder_83)
 
 ## Property: has_StakeholderID
 
-* [Q244698](../Qid/Q244698)
+* [Q244698](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q244698.md)
 

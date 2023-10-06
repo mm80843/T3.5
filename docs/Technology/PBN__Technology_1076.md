@@ -1,14 +1,16 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) 
+
 # Technology: __virtual personal trainers__ (PBN__Technology_1076)
-
-## Property: has_TechnologyID
-
-* [Q762121](../Qid/Q762121)
 
 ## Property: has_StakeholderGroup
 
-* [Wellbeing](../TechGroup/PBN__TechGroup_2)
+* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
+
+## Property: has_TechnologyID
+
+* [Q762121](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q762121.md)
 
 ## Property: has_StakeholderSubgroup
 
-* [Well-being and Lifestyle](../TechSubgroup/PBN__TechSubgroup_45)
+* [Well-being and Lifestyle](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_45.md)
 

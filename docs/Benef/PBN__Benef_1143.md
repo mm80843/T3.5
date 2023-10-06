@@ -1,18 +1,20 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Reliable and accurate early detection of COVID-19 risk__ (PBN__Benef_1143)
 
 ## Property: has_BenefDetails
 
 Users can trust the results of the expert system for early detection, reducing the risk of misdiagnosis or false results.
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Improved public health, increased users’ trust and satisfaction, increased demand for the mobile application.](../BenefReturn/PBN__BenefReturn_1273)
+* [mufid_risk_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_237.md)
 
 ## Property: has_Beneficiary
 
-* [general public](../Stakeholder/PBN__Stakeholder_29)
+* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [mufid_risk_2020](../Article/PBN__Article_237)
+* [Improved public health, increased users’ trust and satisfaction, increased demand for the mobile application.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1273.md)
 

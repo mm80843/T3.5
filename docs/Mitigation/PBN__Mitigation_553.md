@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Spatial configuration promoting social distancing__ (PBN__Mitigation_553)
-
-## Property: has_MitigationTechnology
-
-* [building layout and design](../Technology/PBN__Technology_3299)
 
 ## Property: has_MitigationSource
 
-* [dietz_2019_2020](../Article/PBN__Article_288)
+* [dietz_2019_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_288.md)
+
+## Property: has_MitigationTechnology
+
+* [building layout and design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3299.md)
 
 ## Property: has_MitigationPrinciple
 

@@ -1,6 +1,8 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Inefficient testing for COVID-19__ (PBN__Risk_462)
 
 ## Property: has_RiskMitigation
 
-* [AI for testing optimization](../RiskMitigation/PBN__RiskMitigation_652)
+* [AI for testing optimization](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_652.md)
 

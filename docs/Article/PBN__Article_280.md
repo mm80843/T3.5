@@ -1,12 +1,22 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) 
+
 # Article: __allam_coronavirus_2020__ (PBN__Article_280)
+
+## Property: has_ArticleYear
+
+2020
+
+## Property: has_ArticleRef
+
+* [allam_emergence_2019](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_15.md)
 
 ## Property: has_ArticleLLMShortSummary
 
 This research abstract discusses the impact of the COVID-19 outbreak on cities and the importance of standardized communication and data sharing in smart cities to effectively manage and respond to such crises. The abstract highlights the rapid spread of the virus and the uncertainties surrounding it, leading the World Health Organization to declare it a global public health emergency. It emphasizes the role of technology and data sharing in responding to outbreaks, using the example of the Global Initiative on Sharing All Influenza Data (GISAID) platform. The abstract further explores the potential of smart city technologies, such as thermal cameras and IoT sensors, for early detection of outbreaks and the importance of collaboration and standardization between different devices and platforms. It also discusses the challenges and geopolitical issues related to data control and sharing. The abstract concludes by emphasizing the economic and social impacts of outbreaks on cities and the need for standardized protocols and communication to effectively manage health crises.
 
-## Property: has_ArticleRef
+## Property: has_ArticleTitle
 
-* [allam_emergence_2019](../Article/PBN__Article_15)
+On the Coronavirus (COVID-19) Outbreak and the Smart City Network: Universal Data Sharing Standards Coupled with Artificial Intelligence (AI) to Benefit Urban Health Monitoring and Management
 
 ## Property: has_ArticleLLMSummary
 
@@ -15,12 +25,4 @@ The Coronavirus outbreak, also known as COVID-19, started in China and has cause
 ## Property: has_ArticleDOI
 
 10.3390/healthcare8010046
-
-## Property: has_ArticleTitle
-
-On the Coronavirus (COVID-19) Outbreak and the Smart City Network: Universal Data Sharing Standards Coupled with Artificial Intelligence (AI) to Benefit Urban Health Monitoring and Management
-
-## Property: has_ArticleYear
-
-2020
 

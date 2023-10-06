@@ -1,24 +1,26 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Reduced airborne transmission__ (PBN__Benef_997)
 
 ## Property: has_BenefDetails
 
 UVGI systems can disinfect indoor air, reducing the concentration of infectious aerosols and the risk of airborne transmission of SARS-CoV-2
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Private investors can benefit from increased demand and desirability of buildings with effective air disinfection strategies, leading to higher occupancy rates and rental income.](../BenefReturn/PBN__BenefReturn_1104)
-* [Private investors can attract tenants and customers by ensuring a healthy and safe indoor environment, increasing property value and occupancy rates.](../BenefReturn/PBN__BenefReturn_1339)
-* [Private investors can attract tenants and customers by implementing UVGI systems, ensuring a healthy and safe indoor environment, increasing property value and occupancy rates.](../BenefReturn/PBN__BenefReturn_1342)
+* [megahed_indoor_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_206.md)
+* [azuma_environmental_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_249.md)
 
 ## Property: has_Beneficiary
 
-* [occupants](../Stakeholder/PBN__Stakeholder_92)
-* [building occupants](../Stakeholder/PBN__Stakeholder_97)
-* [staff](../Stakeholder/PBN__Stakeholder_103)
-* [visitors](../Stakeholder/PBN__Stakeholder_118)
+* [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
+* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
+* [staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_103.md)
+* [visitors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_118.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [megahed_indoor_2021](../Article/PBN__Article_206)
-* [azuma_environmental_2020](../Article/PBN__Article_249)
+* [Private investors can benefit from increased demand and desirability of buildings with effective air disinfection strategies, leading to higher occupancy rates and rental income.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1104.md)
+* [Private investors can attract tenants and customers by ensuring a healthy and safe indoor environment, increasing property value and occupancy rates.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1339.md)
+* [Private investors can attract tenants and customers by implementing UVGI systems, ensuring a healthy and safe indoor environment, increasing property value and occupancy rates.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1342.md)
 

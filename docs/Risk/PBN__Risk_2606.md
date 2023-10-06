@@ -1,6 +1,8 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Unknown viral shedding routes__ (PBN__Risk_2606)
 
 ## Property: has_RiskMitigation
 
-* [Biomarker testing](../Mitigation/PBN__Mitigation_513)
+* [Biomarker testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_513.md)
 

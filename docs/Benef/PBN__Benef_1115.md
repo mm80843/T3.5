@@ -1,18 +1,20 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Enhanced training effectiveness__ (PBN__Benef_1115)
 
 ## Property: has_BenefDetails
 
 VR allows for practice with complex cases and creates an analogous environment for better learning and handling of COVID-19 cases
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Improved skills and ability to handle COVID-19 cases, leading to better patient outcomes and reduced errors.](../BenefReturn/PBN__BenefReturn_1247)
+* [singh_significant_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_231.md)
 
 ## Property: has_Beneficiary
 
-* [medical staff](../Stakeholder/PBN__Stakeholder_93)
+* [medical staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_93.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [singh_significant_2020](../Article/PBN__Article_231)
+* [Improved skills and ability to handle COVID-19 cases, leading to better patient outcomes and reduced errors.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1247.md)
 

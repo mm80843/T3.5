@@ -1,6 +1,8 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) 
+
 # Technology: __web-based platforms__ (PBN__Technology_1819)
 
 ## Property: has_TechnologyID
 
-* [Q271680](../Qid/Q271680)
+* [Q271680](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q271680.md)
 

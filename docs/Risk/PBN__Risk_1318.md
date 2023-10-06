@@ -1,53 +1,55 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Occupational exposure to coronavirus__ (PBN__Risk_1318)
-
-## Property: has_RiskISO_Impact
-
-* [Biodiversity and ecosystem services](../RiskISO/PBN__RiskISO_Purpose_4)
-
-## Property: has_RiskTechnology
-
-* [ventilation systems](../Technology/PBN__Technology_139)
-* [physical barriers](../Technology/PBN__Technology_343)
-
-## Property: has_RiskSubject
-
-* [workers in high-risk industries](../Stakeholder/PBN__Stakeholder_834)
-
-## Property: has_RiskType
-
-* [health](../RiskType/PBN__RiskType_4)
-* [social](../RiskType/PBN__RiskType_2)
-
-## Property: has_RiskISO_Purpose
-
-* [Resilience](../RiskISO/PBN__RiskISO_Impact_2)
-
-## Property: has_RiskOwner
-
-* [employers](../Stakeholder/PBN__Stakeholder_180)
-* [health and safety professionals](../Stakeholder/PBN__Stakeholder_835)
-
-## Property: has_RiskMitigation
-
-* [Implement engineering and administrative controls, provide PPE.](../RiskMitigation/PBN__RiskMitigation_1807)
 
 ## Property: has_RiskName
 
 Increased risk of contracting COVID-19 and spreading it to others.
 
+## Property: has_RiskISO_Impact
+
+* [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_4.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
+## Property: has_RiskOwner
+
+* [employers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_180.md)
+* [health and safety professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_835.md)
+
+## Property: has_RiskTechnology
+
+* [ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_139.md)
+* [physical barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_343.md)
+
+## Property: has_RiskSubject
+
+* [workers in high-risk industries](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_834.md)
+
+## Property: has_RiskMitigation
+
+* [Implement engineering and administrative controls, provide PPE.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1807.md)
+
 ## Property: has_RiskDescription
 
 Workers in high-risk industries may be exposed to the virus in the workplace.
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [dehghani_hierarchy_2020](../Article/PBN__Article_73)
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Property: has_RiskType
+
+* [health](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_4.md)
+* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
 
 ## Property: has_RiskGBN
 
-* [No](../RiskGBN/PBN__RiskGBN_0)
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [physical](../RiskHealth/PBN__RiskHealth_0)
+* [dehghani_hierarchy_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_73.md)
 

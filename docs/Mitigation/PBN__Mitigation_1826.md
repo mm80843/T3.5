@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Science-based decision-making__ (PBN__Mitigation_1826)
-
-## Property: has_MitigationTechnology
-
-* [research](../Technology/PBN__Technology_261)
-* [data analysis](../Technology/PBN__Technology_3346)
 
 ## Property: has_MitigationSource
 
-* [samout_covid-19_2020](../Article/PBN__Article_58)
+* [samout_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_58.md)
+
+## Property: has_MitigationTechnology
+
+* [research](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_261.md)
+* [data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3346.md)
 
 ## Property: has_MitigationPrinciple
 

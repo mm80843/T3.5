@@ -1,6 +1,8 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Limited capital and resources__ (PBN__Risk_2868)
 
 ## Property: has_RiskMitigation
 
-* [Access to Financial Capital](../Mitigation/PBN__Mitigation_1030)
+* [Access to Financial Capital](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1030.md)
 

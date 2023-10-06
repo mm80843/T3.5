@@ -1,51 +1,53 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __High HIV prevalence in men__ (PBN__Risk_1346)
-
-## Property: has_RiskISO_Impact
-
-* [Health and care](../RiskISO/PBN__RiskISO_Purpose_0)
-
-## Property: has_RiskTechnology
-
-* [none](../Technology/PBN__Technology_35)
-
-## Property: has_RiskSubject
-
-* [men in south africa](../Stakeholder/PBN__Stakeholder_857)
-
-## Property: has_RiskType
-
-* [health](../RiskType/PBN__RiskType_4)
-
-## Property: has_RiskISO_Purpose
-
-* [Resilience](../RiskISO/PBN__RiskISO_Impact_2)
-
-## Property: has_RiskOwner
-
-* [healthcare organizations](../Stakeholder/PBN__Stakeholder_216)
-* [government agencies](../Stakeholder/PBN__Stakeholder_55)
-
-## Property: has_RiskMitigation
-
-* [Improve access to HIV prevention and testing services, promote awareness and education on safer sex practices](../RiskMitigation/PBN__RiskMitigation_1840)
 
 ## Property: has_RiskName
 
 Increased risk of HIV transmission, higher healthcare burden, impact on society and economy
 
+## Property: has_RiskISO_Impact
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
+## Property: has_RiskOwner
+
+* [healthcare organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_216.md)
+* [government agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_55.md)
+
+## Property: has_RiskTechnology
+
+* [none](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
+
+## Property: has_RiskSubject
+
+* [men in south africa](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_857.md)
+
+## Property: has_RiskMitigation
+
+* [Improve access to HIV prevention and testing services, promote awareness and education on safer sex practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1840.md)
+
 ## Property: has_RiskDescription
 
 HIV prevalence is significantly higher in men compared to women
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [dye_multilevel_2020](../Article/PBN__Article_39)
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Property: has_RiskType
+
+* [health](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_4.md)
 
 ## Property: has_RiskGBN
 
-* [No](../RiskGBN/PBN__RiskGBN_0)
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [physical](../RiskHealth/PBN__RiskHealth_0)
+* [dye_multilevel_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_39.md)
 

@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Pollen Allergy Prevention__ (PBN__Mitigation_1150)
-
-## Property: has_MitigationTechnology
-
-* [planting insect-pollinated plants](../Technology/PBN__Technology_3700)
-* [controlling allergic potential of exotic species](../Technology/PBN__Technology_3701)
 
 ## Property: has_MitigationSource
 
-* [lohmus_making_2015](../Article/PBN__Article_20)
+* [lohmus_making_2015](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_20.md)
+
+## Property: has_MitigationTechnology
+
+* [planting insect-pollinated plants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3700.md)
+* [controlling allergic potential of exotic species](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3701.md)
 
 ## Property: has_MitigationPrinciple
 

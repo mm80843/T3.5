@@ -1,14 +1,16 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) 
+
 # Technology: __demand response technologies__ (PBN__Technology_353)
-
-## Property: has_TechnologyID
-
-* [Q5255048](../Qid/Q5255048)
 
 ## Property: has_StakeholderGroup
 
-* [Building materials](../TechGroup/PBN__TechGroup_12)
+* [Building materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_12.md)
+
+## Property: has_TechnologyID
+
+* [Q5255048](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5255048.md)
 
 ## Property: has_StakeholderSubgroup
 
-* [Energy Efficiency](../TechSubgroup/PBN__TechSubgroup_183)
+* [Energy Efficiency](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_183.md)
 

@@ -1,12 +1,22 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) 
+
 # Article: __rodriguez-fernandez_psychological_2021__ (PBN__Article_126)
+
+## Property: has_ArticleYear
+
+2021
+
+## Property: has_ArticleRef
+
+* [nicola_socio-economic_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_135.md)
 
 ## Property: has_ArticleLLMShortSummary
 
 This systematic review aimed to explore the impact of social distancing and home confinement resulting from the SARS-CoV-2 pandemic on the mental health of the general population, specifically in terms of depression, stress, and anxiety. The review included 26 studies that analyzed the mental health of adults during the pandemic. The prevalence of anxiety symptoms ranged from 8.3% to 45.1%, while depressive symptoms ranged from 14.6% to 46.42%. Factors associated with anxiety, depression, and stress included being female, younger age, unemployment, lower income and education levels, previous mental health or psychiatric illnesses, and feelings of loneliness. Concern about the COVID-19, perception of insufficient information, and social isolation were also associated with poorer mental health outcomes. On the other hand, social support, economic stability, and adequate information were protective factors. The findings suggest the need for targeted interventions and support for vulnerable populations during and after the pandemic to mitigate the mental health consequences of social distancing and home confinement.
 
-## Property: has_ArticleRef
+## Property: has_ArticleTitle
 
-* [nicola_socio-economic_2020](../Article/PBN__Article_135)
+Psychological Effects of Home Confinement and Social Distancing Derived from COVID-19 in the General Population—A Systematic Review
 
 ## Property: has_ArticleLLMSummary
 
@@ -15,12 +25,4 @@ During the COVID-19 pandemic, many people had to stay at home and keep their dis
 ## Property: has_ArticleDOI
 
 10.3390/ijerph18126528
-
-## Property: has_ArticleTitle
-
-Psychological Effects of Home Confinement and Social Distancing Derived from COVID-19 in the General Population—A Systematic Review
-
-## Property: has_ArticleYear
-
-2021
 

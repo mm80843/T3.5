@@ -1,53 +1,55 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Lack of research and development__ (PBN__Risk_1312)
-
-## Property: has_RiskISO_Impact
-
-* [Biodiversity and ecosystem services](../RiskISO/PBN__RiskISO_Purpose_4)
-
-## Property: has_RiskTechnology
-
-* [research collaborations](../Technology/PBN__Technology_468)
-* [funding programs](../Technology/PBN__Technology_469)
-
-## Property: has_RiskSubject
-
-* [scientific community](../Stakeholder/PBN__Stakeholder_348)
-* [governments](../Stakeholder/PBN__Stakeholder_47)
-
-## Property: has_RiskType
-
-* [political](../RiskType/PBN__RiskType_1)
-
-## Property: has_RiskISO_Purpose
-
-* [Economy and sustainable production and consumption](../RiskISO/PBN__RiskISO_Impact_10)
-
-## Property: has_RiskOwner
-
-* [government agencies](../Stakeholder/PBN__Stakeholder_55)
-* [research institutions](../Stakeholder/PBN__Stakeholder_413)
-
-## Property: has_RiskMitigation
-
-* [Coordinate and fund national and international research efforts, establish databases for knowledge sharing](../RiskMitigation/PBN__RiskMitigation_1801)
 
 ## Property: has_RiskName
 
 Slow progress in developing optimized testing protocols and standardized methods
 
+## Property: has_RiskISO_Impact
+
+* [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_4.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_10.md)
+
+## Property: has_RiskOwner
+
+* [government agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_55.md)
+* [research institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_413.md)
+
+## Property: has_RiskTechnology
+
+* [research collaborations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_468.md)
+* [funding programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_469.md)
+
+## Property: has_RiskSubject
+
+* [scientific community](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_348.md)
+* [governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
+
+## Property: has_RiskMitigation
+
+* [Coordinate and fund national and international research efforts, establish databases for knowledge sharing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1801.md)
+
 ## Property: has_RiskDescription
 
 Insufficient focus and funding for the advancement of WBE as a public health tool
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [daughton_wastewater_2020](../Article/PBN__Article_213)
+* [nan](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_6.md)
+
+## Property: has_RiskType
+
+* [political](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_1.md)
 
 ## Property: has_RiskGBN
 
-* [nan](../RiskGBN/PBN__RiskGBN_2)
+* [nan](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_2.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [nan](../RiskHealth/PBN__RiskHealth_6)
+* [daughton_wastewater_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_213.md)
 

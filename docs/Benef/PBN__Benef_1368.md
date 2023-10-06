@@ -1,19 +1,21 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Decreased disruptions and challenges__ (PBN__Benef_1368)
 
 ## Property: has_BenefDetails
 
 Increases confidence and stability in the construction industry, leading to improved project performance
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Private investors benefit from improved project performance and reduced financial risks](../BenefReturn/PBN__BenefReturn_1555)
+* [rokooei_perception_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_293.md)
 
 ## Property: has_Beneficiary
 
-* [construction professionals](../Stakeholder/PBN__Stakeholder_529)
-* [construction organizations](../Stakeholder/PBN__Stakeholder_530)
+* [construction professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_529.md)
+* [construction organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_530.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [rokooei_perception_2022](../Article/PBN__Article_293)
+* [Private investors benefit from improved project performance and reduced financial risks](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1555.md)
 

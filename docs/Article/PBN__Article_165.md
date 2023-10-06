@@ -1,8 +1,18 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) 
+
 # Article: __aydin_questioning_2020__ (PBN__Article_165)
+
+## Property: has_ArticleYear
+
+2020
 
 ## Property: has_ArticleLLMShortSummary
 
 This study examines the use and performance of balconies in apartments during the COVID-19 pandemic. The study analyzes the functional and behavioral aspects of balconies, including their size, orientation, and relationship with the environment. It also investigates the actions and activities that take place on balconies, such as chatting, eating, working, and storage. The study finds that the pandemic has increased the importance of balconies and the time spent on them. It reveals that balconies are used for traditional activities like vegetable drying and food storage. The size of the balcony affects its functionality, and larger balconies are more likely to be used for various purposes. Privacy and environmental qualities, such as visibility, noise, and presence of green areas, are important factors in balcony performance. The study suggests that the design of apartments should consider the functional and behavioral performance of balconies to enhance user satisfaction.
+
+## Property: has_ArticleTitle
+
+Questioning the use of the balcony in apartments during the COVID-19 pandemic process
 
 ## Property: has_ArticleLLMSummary
 
@@ -11,12 +21,4 @@ During the COVID-19 pandemic, people had to stay at home to stay safe and preven
 ## Property: has_ArticleDOI
 
 10.1108/ARCH-09-2020-0202
-
-## Property: has_ArticleTitle
-
-Questioning the use of the balcony in apartments during the COVID-19 pandemic process
-
-## Property: has_ArticleYear
-
-2020
 

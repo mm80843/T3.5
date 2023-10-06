@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Self-Reported Symptoms__ (PBN__Mitigation_163)
-
-## Property: has_MitigationTechnology
-
-* [self-reported symptoms](../Technology/PBN__Technology_3016)
-* [smartwatch data](../Technology/PBN__Technology_3017)
 
 ## Property: has_MitigationSource
 
-* [ates_wearable_2021](../Article/PBN__Article_296)
+* [ates_wearable_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_296.md)
+
+## Property: has_MitigationTechnology
+
+* [self-reported symptoms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3016.md)
+* [smartwatch data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3017.md)
 
 ## Property: has_MitigationPrinciple
 

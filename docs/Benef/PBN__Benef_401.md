@@ -1,18 +1,20 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Remote patient care and disinfection__ (PBN__Benef_401)
 
 ## Property: has_BenefDetails
 
 Robots can perform medical procedures, monitor patients, deliver supplies, and disinfect spaces, reducing the need for direct contact between healthcare workers and patients
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Investment in robotic systems can improve healthcare efficiency, reduce infection risk for healthcare workers, and enhance the reputation and asset value of healthcare facilities.](../BenefReturn/PBN__BenefReturn_429)
+* [saman_recently_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_79.md)
 
 ## Property: has_Beneficiary
 
-* [healthcare facilities](../Stakeholder/PBN__Stakeholder_33)
+* [healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_33.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [saman_recently_2021](../Article/PBN__Article_79)
+* [Investment in robotic systems can improve healthcare efficiency, reduce infection risk for healthcare workers, and enhance the reputation and asset value of healthcare facilities.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_429.md)
 

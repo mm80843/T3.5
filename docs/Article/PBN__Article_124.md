@@ -1,8 +1,18 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) 
+
 # Article: __van_barneveld_covid-19_2020__ (PBN__Article_124)
+
+## Property: has_ArticleYear
+
+2020
 
 ## Property: has_ArticleLLMShortSummary
 
 The COVID-19 pandemic has exposed the vulnerabilities and unsustainability of neoliberalism, with its adverse effects on social equity, health, and wellbeing. The pandemic has impacted different groups of people based on social class, gender, age, and country of residence. The lack of planning and consideration for vulnerable populations, such as internal migrants and informal economy workers, has led to food security issues, mental health risks, and increased inequality. The pandemic has also highlighted weaknesses in healthcare systems, particularly in countries with privatized and underfunded systems. The crisis has strained global health governance and revealed the need for global leadership and cooperation. The pandemic has had mixed environmental effects, with a decrease in pollution but also increased exploitation of fossil fuels. First Nations peoples, women, and young and migrant workers have been disproportionately affected by the pandemic. Developing countries are facing devastating impacts due to supply chain disruptions, tourism industry collapse, and falling export revenues. Australia, as an integrated global economy, has experienced significant economic shocks and job losses. The crisis in Australia has highlighted the shortcomings of the neoliberal industrial relations regime, with a need for greater social protection and systems reform. The pandemic calls for a reimagining of the social contract, with a focus on sustainability, equity, and solidarity in the post-pandemic recovery.
+
+## Property: has_ArticleTitle
+
+The COVID-19 pandemic: Lessons on building more equal and sustainable societies
 
 ## Property: has_ArticleLLMSummary
 
@@ -11,12 +21,4 @@ The COVID-19 pandemic has exposed the vulnerabilities and failures of neoliberal
 ## Property: has_ArticleDOI
 
 10.1177/1035304620927107
-
-## Property: has_ArticleTitle
-
-The COVID-19 pandemic: Lessons on building more equal and sustainable societies
-
-## Property: has_ArticleYear
-
-2020
 

@@ -1,6 +1,8 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) 
+
 # Technology: __non-toxic nanomaterials__ (PBN__Technology_215)
 
 ## Property: has_TechnologyID
 
-* [Q967847](../Qid/Q967847)
+* [Q967847](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q967847.md)
 

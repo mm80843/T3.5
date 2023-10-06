@@ -1,7 +1,9 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Poor Ventilation__ (PBN__Risk_2668)
 
 ## Property: has_RiskMitigation
 
-* [Enhanced Ventilation Systems](../Mitigation/PBN__Mitigation_627)
-* [Proper Building Ventilation](../Mitigation/PBN__Mitigation_1777)
+* [Enhanced Ventilation Systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_627.md)
+* [Proper Building Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1777.md)
 

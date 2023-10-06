@@ -1,19 +1,21 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Controlling infection__ (PBN__Benef_702)
 
 ## Property: has_BenefDetails
 
 Flattened infection curve
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Preserves lives, reduces healthcare burden](../BenefReturn/PBN__BenefReturn_749)
-* [Prevents spread of disease, reduces infections](../BenefReturn/PBN__BenefReturn_752)
+* [silva_covid-abs_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_139.md)
 
 ## Property: has_Beneficiary
 
-* [general population](../Stakeholder/PBN__Stakeholder_9)
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [silva_covid-abs_2020](../Article/PBN__Article_139)
+* [Preserves lives, reduces healthcare burden](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_749.md)
+* [Prevents spread of disease, reduces infections](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_752.md)
 

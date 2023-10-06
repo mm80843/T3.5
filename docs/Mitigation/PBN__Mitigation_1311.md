@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Monitoring and sensing__ (PBN__Mitigation_1311)
-
-## Property: has_MitigationTechnology
-
-* [sensors](../Technology/PBN__Technology_200)
-* [artificial intelligence](../Technology/PBN__Technology_358)
 
 ## Property: has_MitigationSource
 
-* [megahed_indoor_2021](../Article/PBN__Article_206)
+* [megahed_indoor_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_206.md)
+
+## Property: has_MitigationTechnology
+
+* [sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_200.md)
+* [artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_358.md)
 
 ## Property: has_MitigationPrinciple
 

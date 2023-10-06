@@ -1,14 +1,16 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Smartwatch Data__ (PBN__Mitigation_162)
-
-## Property: has_MitigationTechnology
-
-* [smartwatches](../Technology/PBN__Technology_3013)
-* [fitbits](../Technology/PBN__Technology_3014)
-* [apple watches](../Technology/PBN__Technology_3015)
 
 ## Property: has_MitigationSource
 
-* [ates_wearable_2021](../Article/PBN__Article_296)
+* [ates_wearable_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_296.md)
+
+## Property: has_MitigationTechnology
+
+* [smartwatches](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3013.md)
+* [fitbits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3014.md)
+* [apple watches](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3015.md)
 
 ## Property: has_MitigationPrinciple
 

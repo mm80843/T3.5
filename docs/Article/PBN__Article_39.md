@@ -1,8 +1,18 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) 
+
 # Article: __dye_multilevel_2020__ (PBN__Article_39)
+
+## Property: has_ArticleYear
+
+2020
 
 ## Property: has_ArticleLLMShortSummary
 
 This research abstract summarizes two studies. The first study focuses on the distribution and determinants of HIV prevalence in South Africa. The study used the South African Demographic and Health Survey data, which included representative sample surveys of households. The study found that HIV prevalence was 28.4% among women and 14.8% among men. Provincial HIV prevalence varied, with Kwazulu-Natal having the highest prevalence. Certain factors, such as age and marital status, were associated with higher HIV prevalence among women and men. The study also identified hotspots and groups that need targeted preventive and control measures. The second study examined rural disparities in surgery from gynecologic oncologists in the Midwestern United States. The study found that rural women were less likely to receive surgical care from a specialist and to be referred to a specialist compared to urban women. However, there was no significant difference in specialist surgery after a referral. Rural women treated by a specialist had better surgical outcomes, but experienced a longer time from diagnosis to surgery. These findings highlight the need to address disparities in access to specialized care for ovarian cancer in rural areas.
+
+## Property: has_ArticleTitle
+
+Multilevel Analysis of Personal, Non-Medical COVID-19-Related Impact Worldwide
 
 ## Property: has_ArticleLLMSummary
 
@@ -13,12 +23,4 @@ Another study looked at how women in rural areas in the Midwestern part of the U
 ## Property: has_ArticleDOI
 
 10.1016/j.annepidem.2020.08.060
-
-## Property: has_ArticleTitle
-
-Multilevel Analysis of Personal, Non-Medical COVID-19-Related Impact Worldwide
-
-## Property: has_ArticleYear
-
-2020
 

@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Energy-efficient appliances__ (PBN__Mitigation_90)
-
-## Property: has_MitigationTechnology
-
-* [energy-efficient technology](../Technology/PBN__Technology_2960)
 
 ## Property: has_MitigationSource
 
-* [al-mumin_occupants_2003](../Article/PBN__Article_260)
+* [al-mumin_occupants_2003](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_260.md)
+
+## Property: has_MitigationTechnology
+
+* [energy-efficient technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2960.md)
 
 ## Property: has_MitigationPrinciple
 

@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Hand sanitizer dispensers__ (PBN__Mitigation_315)
-
-## Property: has_MitigationTechnology
-
-* [hand sanitizer technology](../Technology/PBN__Technology_3151)
 
 ## Property: has_MitigationSource
 
-* [budd_responsible_2020](../Article/PBN__Article_148)
+* [budd_responsible_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_148.md)
+
+## Property: has_MitigationTechnology
+
+* [hand sanitizer technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3151.md)
 
 ## Property: has_MitigationPrinciple
 

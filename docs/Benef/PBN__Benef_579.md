@@ -1,19 +1,21 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Efficient relief and rehabilitation efforts__ (PBN__Benef_579)
 
 ## Property: has_BenefDetails
 
 Enhanced ability to locate affected areas and allocate resources accordingly
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Private investors can benefit from investing in positioning technologies by improving disaster response efforts and reducing infrastructure damage.](../BenefReturn/PBN__BenefReturn_632)
+* [vaishya_emerging_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_116.md)
 
 ## Property: has_Beneficiary
 
-* [government](../Stakeholder/PBN__Stakeholder_73)
-* [disaster management agencies](../Stakeholder/PBN__Stakeholder_245)
+* [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
+* [disaster management agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_245.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [vaishya_emerging_2020](../Article/PBN__Article_116)
+* [Private investors can benefit from investing in positioning technologies by improving disaster response efforts and reducing infrastructure damage.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_632.md)
 

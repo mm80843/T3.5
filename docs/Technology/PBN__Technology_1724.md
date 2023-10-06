@@ -1,14 +1,16 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) 
+
 # Technology: __keycard swiping__ (PBN__Technology_1724)
-
-## Property: has_TechnologyID
-
-* [Q1054723](../Qid/Q1054723)
 
 ## Property: has_StakeholderGroup
 
-* [Enforcement measures](../TechGroup/PBN__TechGroup_7)
+* [Enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_7.md)
+
+## Property: has_TechnologyID
+
+* [Q1054723](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1054723.md)
 
 ## Property: has_StakeholderSubgroup
 
-* [Surveillance and Tracking Systems](../TechSubgroup/PBN__TechSubgroup_21)
+* [Surveillance and Tracking Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_21.md)
 

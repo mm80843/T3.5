@@ -1,55 +1,57 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Overwhelmed healthcare systems__ (PBN__Risk_1629)
-
-## Property: has_RiskISO_Impact
-
-* [Health and care](../RiskISO/PBN__RiskISO_Purpose_0)
-
-## Property: has_RiskTechnology
-
-* [telemedicine technologies](../Technology/PBN__Technology_954)
-* [portable medical equipment](../Technology/PBN__Technology_955)
-
-## Property: has_RiskSubject
-
-* [general population](../Stakeholder/PBN__Stakeholder_9)
-* [healthcare workers](../Stakeholder/PBN__Stakeholder_68)
-
-## Property: has_RiskType
-
-* [health](../RiskType/PBN__RiskType_4)
-
-## Property: has_RiskISO_Purpose
-
-* [Safety and security](../RiskISO/PBN__RiskISO_Impact_0)
-
-## Property: has_RiskOwner
-
-* [governments](../Stakeholder/PBN__Stakeholder_47)
-* [healthcare organizations](../Stakeholder/PBN__Stakeholder_216)
-
-## Property: has_RiskMitigation
-
-* [Increase healthcare capacity, prioritize resources, telemedicine](../RiskMitigation/PBN__RiskMitigation_2171)
-* [Universal healthcare](../Mitigation/PBN__Mitigation_581)
-* [Predicting hospital capacity and balancing loads](../Mitigation/PBN__Mitigation_2350)
 
 ## Property: has_RiskName
 
 Increased mortality rates, limited access to healthcare for non-COVID-19 patients
 
+## Property: has_RiskISO_Impact
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_0.md)
+
+## Property: has_RiskOwner
+
+* [governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
+* [healthcare organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_216.md)
+
+## Property: has_RiskTechnology
+
+* [telemedicine technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_954.md)
+* [portable medical equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_955.md)
+
+## Property: has_RiskSubject
+
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+* [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
+
+## Property: has_RiskMitigation
+
+* [Increase healthcare capacity, prioritize resources, telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2171.md)
+* [Universal healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_581.md)
+* [Predicting hospital capacity and balancing loads](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2350.md)
+
 ## Property: has_RiskDescription
 
 Inability to provide adequate healthcare services due to high number of COVID-19 patients
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [leal_filho_covid-19_2020](../Article/PBN__Article_109)
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Property: has_RiskType
+
+* [health](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_4.md)
 
 ## Property: has_RiskGBN
 
-* [Yes](../RiskGBN/PBN__RiskGBN_1)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [physical](../RiskHealth/PBN__RiskHealth_0)
+* [leal_filho_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_109.md)
 

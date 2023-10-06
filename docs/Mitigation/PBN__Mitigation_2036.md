@@ -1,14 +1,16 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __PPE usage__ (PBN__Mitigation_2036)
-
-## Property: has_MitigationTechnology
-
-* [masks](../Technology/PBN__Technology_1053)
-* [respirators](../Technology/PBN__Technology_485)
-* [face shields](../Technology/PBN__Technology_486)
 
 ## Property: has_MitigationSource
 
-* [sunandar_preventing_2021](../Article/PBN__Article_102)
+* [sunandar_preventing_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_102.md)
+
+## Property: has_MitigationTechnology
+
+* [masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1053.md)
+* [respirators](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_485.md)
+* [face shields](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_486.md)
 
 ## Property: has_MitigationPrinciple
 

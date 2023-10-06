@@ -1,19 +1,21 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Attract attention__ (PBN__Benef_799)
 
 ## Property: has_BenefDetails
 
 Color and design elements make signs more noticeable and eye-catching, increasing their impact and effectiveness
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Eye-catching signs are more likely to grab customers’ attention, increasing their awareness of and engagement with social distancing measures.](../BenefReturn/PBN__BenefReturn_868)
+* [mcneish_retail_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_159.md)
 
 ## Property: has_Beneficiary
 
-* [retailers](../Stakeholder/PBN__Stakeholder_323)
-* [customers](../Stakeholder/PBN__Stakeholder_221)
+* [retailers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_323.md)
+* [customers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_221.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [mcneish_retail_2020](../Article/PBN__Article_159)
+* [Eye-catching signs are more likely to grab customers’ attention, increasing their awareness of and engagement with social distancing measures.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_868.md)
 

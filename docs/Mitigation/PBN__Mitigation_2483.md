@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Indoor biophilia__ (PBN__Mitigation_2483)
-
-## Property: has_MitigationTechnology
-
-* [potted plants](../Technology/PBN__Technology_4243)
-* [water features](../Technology/PBN__Technology_4244)
 
 ## Property: has_MitigationSource
 
-* [zhong_biophilic_2022](../Article/PBN__Article_211)
+* [zhong_biophilic_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_211.md)
+
+## Property: has_MitigationTechnology
+
+* [potted plants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4243.md)
+* [water features](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4244.md)
 
 ## Property: has_MitigationPrinciple
 

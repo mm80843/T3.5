@@ -1,14 +1,16 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) 
+
 # Technology: __Use of digital platforms for public health education and awareness campaigns__ (PBN__Technology_2460)
-
-## Property: has_TechnologyID
-
-* [Q69964246](../Qid/Q69964246)
 
 ## Property: has_StakeholderGroup
 
-* [Surveillance systems](../TechGroup/PBN__TechGroup_6)
+* [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_6.md)
+
+## Property: has_TechnologyID
+
+* [Q69964246](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q69964246.md)
 
 ## Property: has_StakeholderSubgroup
 
-* [Public Health and Awareness Campaigns](../TechSubgroup/PBN__TechSubgroup_51)
+* [Public Health and Awareness Campaigns](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_51.md)
 

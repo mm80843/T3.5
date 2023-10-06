@@ -1,19 +1,21 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Improved design quality__ (PBN__Benef_1075)
 
 ## Property: has_BenefDetails
 
 Provides clear guidance for creating adaptable and flexible buildings
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Increased efficiency in design process, improved building functionality](../BenefReturn/PBN__BenefReturn_1201)
+* [soliman_building_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_224.md)
 
 ## Property: has_Beneficiary
 
-* [architects](../Stakeholder/PBN__Stakeholder_431)
-* [designers](../Stakeholder/PBN__Stakeholder_74)
+* [architects](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_431.md)
+* [designers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_74.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [soliman_building_2022](../Article/PBN__Article_224)
+* [Increased efficiency in design process, improved building functionality](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1201.md)
 

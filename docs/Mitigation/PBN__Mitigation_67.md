@@ -1,15 +1,17 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Exergames__ (PBN__Mitigation_67)
-
-## Property: has_MitigationTechnology
-
-* [electronic products for human-computer interaction](../Technology/PBN__Technology_2948)
-* [motion sensor controls](../Technology/PBN__Technology_3232)
-* [video game consoles](../Technology/PBN__Technology_3233)
 
 ## Property: has_MitigationSource
 
-* [ai_mental_2021](../Article/PBN__Article_242)
-* [chtourou_staying_2020](../Article/PBN__Article_181)
+* [ai_mental_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_242.md)
+* [chtourou_staying_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_181.md)
+
+## Property: has_MitigationTechnology
+
+* [electronic products for human-computer interaction](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2948.md)
+* [motion sensor controls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3232.md)
+* [video game consoles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3233.md)
 
 ## Property: has_MitigationPrinciple
 

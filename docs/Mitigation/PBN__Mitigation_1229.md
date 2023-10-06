@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Vaccination Campaigns__ (PBN__Mitigation_1229)
-
-## Property: has_MitigationTechnology
-
-* [vaccines](../Technology/PBN__Technology_828)
 
 ## Property: has_MitigationSource
 
-* [marr_mechanistic_2019](../Article/PBN__Article_54)
+* [marr_mechanistic_2019](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_54.md)
+
+## Property: has_MitigationTechnology
+
+* [vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_828.md)
 
 ## Property: has_MitigationPrinciple
 

@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Targeted communication strategies__ (PBN__Mitigation_1500)
-
-## Property: has_MitigationTechnology
-
-* [communication technology](../Technology/PBN__Technology_546)
-* [translation services](../Technology/PBN__Technology_1259)
 
 ## Property: has_MitigationSource
 
-* [oecd_what_2022](../Article/PBN__Article_287)
+* [oecd_what_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_287.md)
+
+## Property: has_MitigationTechnology
+
+* [communication technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_546.md)
+* [translation services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1259.md)
 
 ## Property: has_MitigationPrinciple
 

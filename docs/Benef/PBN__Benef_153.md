@@ -1,29 +1,31 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Improved well-being__ (PBN__Benef_153)
 
 ## Property: has_BenefDetails
 
 Providing personal space enhances well-being by allowing individuals to have privacy and autonomy.
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Private investors can benefit from increased demand and higher property values as occupants prioritize spaces that promote well-being.](../BenefReturn/PBN__BenefReturn_154)
-* [Investing in measures to reduce noise pollution can improve well-being and potentially lead to asset value improvement in areas with reduced noise levels](../BenefReturn/PBN__BenefReturn_206)
-* [Investment in green spaces can enhance the property’s value and attract tenants seeking a healthier lifestyle.](../BenefReturn/PBN__BenefReturn_243)
-* [Providing household-level activity spaces can increase tenant satisfaction and attract individuals prioritizing health.](../BenefReturn/PBN__BenefReturn_246)
-* [Investing in personal space can attract residents who value their privacy, potentially increasing the property’s desirability and value.](../BenefReturn/PBN__BenefReturn_932)
+* [rassia_how_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_34.md)
+* [paital_nurture_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_44.md)
+* [tokazhanov_assessment_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_51.md)
+* [ujikawa_how_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_172.md)
 
 ## Property: has_Beneficiary
 
-* [occupants](../Stakeholder/PBN__Stakeholder_92)
-* [general population](../Stakeholder/PBN__Stakeholder_9)
-* [wildlife](../Stakeholder/PBN__Stakeholder_117)
-* [residents](../Stakeholder/PBN__Stakeholder_59)
-* [building occupants](../Stakeholder/PBN__Stakeholder_97)
+* [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+* [wildlife](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_117.md)
+* [residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
+* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [rassia_how_2020](../Article/PBN__Article_34)
-* [paital_nurture_2020](../Article/PBN__Article_44)
-* [tokazhanov_assessment_2021](../Article/PBN__Article_51)
-* [ujikawa_how_2022](../Article/PBN__Article_172)
+* [Private investors can benefit from increased demand and higher property values as occupants prioritize spaces that promote well-being.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_154.md)
+* [Investing in measures to reduce noise pollution can improve well-being and potentially lead to asset value improvement in areas with reduced noise levels](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_206.md)
+* [Investment in green spaces can enhance the property’s value and attract tenants seeking a healthier lifestyle.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_243.md)
+* [Providing household-level activity spaces can increase tenant satisfaction and attract individuals prioritizing health.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_246.md)
+* [Investing in personal space can attract residents who value their privacy, potentially increasing the property’s desirability and value.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_932.md)
 

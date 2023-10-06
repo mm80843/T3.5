@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Decontamination__ (PBN__Mitigation_2049)
-
-## Property: has_MitigationTechnology
-
-* [cleaning supplies](../Technology/PBN__Technology_148)
-* [disinfectants](../Technology/PBN__Technology_413)
 
 ## Property: has_MitigationSource
 
-* [sutton_reframe_2020](../Article/PBN__Article_53)
+* [sutton_reframe_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_53.md)
+
+## Property: has_MitigationTechnology
+
+* [cleaning supplies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_148.md)
+* [disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_413.md)
 
 ## Property: has_MitigationPrinciple
 

@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Messaging tools__ (PBN__Mitigation_1716)
-
-## Property: has_MitigationTechnology
-
-* [mobile devices](../Technology/PBN__Technology_4026)
-* [messaging apps](../Technology/PBN__Technology_4027)
 
 ## Property: has_MitigationSource
 
-* [robbins_covid-19_2020](../Article/PBN__Article_93)
+* [robbins_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_93.md)
+
+## Property: has_MitigationTechnology
+
+* [mobile devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4026.md)
+* [messaging apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4027.md)
 
 ## Property: has_MitigationPrinciple
 

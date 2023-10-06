@@ -1,64 +1,66 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Disinformation__ (PBN__Risk_1272)
-
-## Property: has_RiskISO_Impact
-
-* [Governance, empowerment and engagement](../RiskISO/PBN__RiskISO_Purpose_6)
-
-## Property: has_RiskTechnology
-
-* [none](../Technology/PBN__Technology_35)
-* [fact-checking platforms](../Technology/PBN__Technology_892)
-* [public health campaigns](../Technology/PBN__Technology_167)
-
-## Property: has_RiskSubject
-
-* [general public](../Stakeholder/PBN__Stakeholder_29)
-* [healthcare systems](../Stakeholder/PBN__Stakeholder_193)
-* [governments](../Stakeholder/PBN__Stakeholder_47)
-* [general population](../Stakeholder/PBN__Stakeholder_9)
-* [susceptible to misinformation](../Stakeholder/PBN__Stakeholder_1273)
-
-## Property: has_RiskType
-
-* [social](../RiskType/PBN__RiskType_2)
-
-## Property: has_RiskISO_Purpose
-
-* [Resilience](../RiskISO/PBN__RiskISO_Impact_2)
-
-## Property: has_RiskOwner
-
-* [media organizations](../Stakeholder/PBN__Stakeholder_547)
-* [social media platforms](../Stakeholder/PBN__Stakeholder_556)
-* [government agencies](../Stakeholder/PBN__Stakeholder_55)
-* [government](../Stakeholder/PBN__Stakeholder_73)
-* [online platforms](../Stakeholder/PBN__Stakeholder_1274)
-
-## Property: has_RiskMitigation
-
-* [Fact-checking, promoting reliable sources, educating the public](../RiskMitigation/PBN__RiskMitigation_1751)
-* [Promote accurate and timely information, combat misinformation](../RiskMitigation/PBN__RiskMitigation_2475)
 
 ## Property: has_RiskName
 
 Confusion, panic, and lack of adherence to preventive measures
 
+## Property: has_RiskISO_Impact
+
+* [Governance, empowerment and engagement](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_6.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
+## Property: has_RiskOwner
+
+* [media organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_547.md)
+* [social media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_556.md)
+* [government agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_55.md)
+* [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
+* [online platforms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1274.md)
+
+## Property: has_RiskTechnology
+
+* [none](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
+* [fact-checking platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_892.md)
+* [public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_167.md)
+
+## Property: has_RiskSubject
+
+* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
+* [healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_193.md)
+* [governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+* [susceptible to misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1273.md)
+
+## Property: has_RiskMitigation
+
+* [Fact-checking, promoting reliable sources, educating the public](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1751.md)
+* [Promote accurate and timely information, combat misinformation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2475.md)
+
 ## Property: has_RiskDescription
 
 Spread of false or misleading information about the disease
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [christodoulou_health_2020](../Article/PBN__Article_78)
-* [pansini_covid-19_2021](../Article/PBN__Article_42)
+* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
+* [mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
+
+## Property: has_RiskType
+
+* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
 
 ## Property: has_RiskGBN
 
-* [No](../RiskGBN/PBN__RiskGBN_0)
-* [Yes](../RiskGBN/PBN__RiskGBN_1)
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [other](../RiskHealth/PBN__RiskHealth_2)
-* [mental](../RiskHealth/PBN__RiskHealth_1)
+* [christodoulou_health_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_78.md)
+* [pansini_covid-19_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_42.md)
 

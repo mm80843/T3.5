@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Incorporation of green areas in available spaces__ (PBN__Mitigation_1203)
-
-## Property: has_MitigationTechnology
-
-* [urban design](../Technology/PBN__Technology_3430)
 
 ## Property: has_MitigationSource
 
-* [marconi_green_2022](../Article/PBN__Article_198)
+* [marconi_green_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_198.md)
+
+## Property: has_MitigationTechnology
+
+* [urban design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3430.md)
 
 ## Property: has_MitigationPrinciple
 

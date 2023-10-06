@@ -1,14 +1,16 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) 
+
 # Technology: __public education and awareness__ (PBN__Technology_1872)
-
-## Property: has_TechnologyID
-
-* [Q12182551](../Qid/Q12182551)
 
 ## Property: has_StakeholderGroup
 
-* [Wellbeing](../TechGroup/PBN__TechGroup_2)
+* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
+
+## Property: has_TechnologyID
+
+* [Q12182551](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q12182551.md)
 
 ## Property: has_StakeholderSubgroup
 
-* [nan](../TechSubgroup/PBN__TechSubgroup_7)
+* [nan](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_7.md)
 

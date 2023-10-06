@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Separate sanitation area__ (PBN__Mitigation_1156)
-
-## Property: has_MitigationTechnology
-
-* [separate room](../Technology/PBN__Technology_3706)
-* [material connection](../Technology/PBN__Technology_3707)
 
 ## Property: has_MitigationSource
 
-* [maharani_biophilic_2022](../Article/PBN__Article_179)
+* [maharani_biophilic_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_179.md)
+
+## Property: has_MitigationTechnology
+
+* [separate room](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3706.md)
+* [material connection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3707.md)
 
 ## Property: has_MitigationPrinciple
 

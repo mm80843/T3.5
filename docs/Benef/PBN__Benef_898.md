@@ -1,19 +1,21 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Increase in asset value__ (PBN__Benef_898)
 
 ## Property: has_BenefDetails
 
 Implementation of far-UVC light in public places would enhance the safety and cleanliness of the built environment, making properties more attractive and valuable to tenants and investors.
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Private investors and property owners would benefit from the increased demand and higher rents or sale prices of properties equipped with far-UVC light technology.](../BenefReturn/PBN__BenefReturn_983)
+* [buonanno_far-uvc_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_182.md)
 
 ## Property: has_Beneficiary
 
-* [private investors](../Stakeholder/PBN__Stakeholder_89)
-* [property owners](../Stakeholder/PBN__Stakeholder_177)
+* [private investors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_89.md)
+* [property owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_177.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [buonanno_far-uvc_2020](../Article/PBN__Article_182)
+* [Private investors and property owners would benefit from the increased demand and higher rents or sale prices of properties equipped with far-UVC light technology.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_983.md)
 

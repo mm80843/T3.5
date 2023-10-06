@@ -1,17 +1,27 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) 
+
 # Article: __beggs_upper-room_2020__ (PBN__Article_163)
+
+## Property: has_ArticleYear
+
+2020
+
+## Property: has_ArticleRef
+
+* [bedell_efficacy_2016](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_269.md)
+* [buonanno_far-uvc_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_182.md)
+* [escombe_upper-room_2009](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_105.md)
+* [guo_aerosol_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_263.md)
+* [morawska_how_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_121.md)
+* [walker_effect_2007](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_88.md)
 
 ## Property: has_ArticleLLMShortSummary
 
 This research article investigates the potential use of upper-room ultraviolet germicidal irradiation (UVGI) as a method to disinfect the air and reduce transmission of COVID-19. UV-C light at wavelengths close to 254 nm is used to create an irradiation field that disinfects airborne bacteria and viruses. The study uses a decay equation to describe the viral inactivation achieved by a given UV radiant flux. The researchers conducted a literature review to gather data on the UV irradiation of coronaviruses, including SARS-CoV-2. They found that SARS-CoV-2 is susceptible to UV-C damage and more vulnerable to UV inactivation than other coronaviruses. The study also estimates the required upper-room UV irradiation flux and effective upper-room Z value for SARS-CoV-2. The results suggest that upper-room UVGI has the potential to effectively disinfect SARS-CoV-2 in the air, especially when combined with good room air mixing and ventilation. However, further experimental work is needed to validate the results and assess the limitations of upper-room UVGI in real-world scenarios.
 
-## Property: has_ArticleRef
+## Property: has_ArticleTitle
 
-* [bedell_efficacy_2016](../Article/PBN__Article_269)
-* [buonanno_far-uvc_2020](../Article/PBN__Article_182)
-* [escombe_upper-room_2009](../Article/PBN__Article_105)
-* [guo_aerosol_2020](../Article/PBN__Article_263)
-* [morawska_how_2020](../Article/PBN__Article_121)
-* [walker_effect_2007](../Article/PBN__Article_88)
+Upper-room ultraviolet air disinfection might help to reduce COVID-19 transmission in buildings: a feasibility study
 
 ## Property: has_ArticleLLMSummary
 
@@ -20,12 +30,4 @@ Researchers have been studying the use of ultraviolet (UV) light to disinfect ai
 ## Property: has_ArticleDOI
 
 10.7717/peerj.10196
-
-## Property: has_ArticleTitle
-
-Upper-room ultraviolet air disinfection might help to reduce COVID-19 transmission in buildings: a feasibility study
-
-## Property: has_ArticleYear
-
-2020
 

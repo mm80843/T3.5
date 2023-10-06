@@ -1,55 +1,57 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Improper disposal of pharmaceutical wastes__ (PBN__Risk_2315)
-
-## Property: has_RiskISO_Impact
-
-* [Health and care](../RiskISO/PBN__RiskISO_Purpose_0)
-
-## Property: has_RiskTechnology
-
-* [incineration](../Technology/PBN__Technology_1907)
-* [hazardous waste treatment](../Technology/PBN__Technology_1908)
-
-## Property: has_RiskSubject
-
-* [public](../Stakeholder/PBN__Stakeholder_52)
-* [environmental agencies](../Stakeholder/PBN__Stakeholder_685)
-* [water authorities](../Stakeholder/PBN__Stakeholder_494)
-
-## Property: has_RiskType
-
-* [environmental](../RiskType/PBN__RiskType_0)
-
-## Property: has_RiskISO_Purpose
-
-* [Safety and security](../RiskISO/PBN__RiskISO_Impact_0)
-
-## Property: has_RiskOwner
-
-* [hospital management](../Stakeholder/PBN__Stakeholder_239)
-* [government](../Stakeholder/PBN__Stakeholder_73)
-* [environmental agencies](../Stakeholder/PBN__Stakeholder_685)
-
-## Property: has_RiskMitigation
-
-* [Proper disposal methods for pharmaceutical wastes, including incineration and hazardous waste treatment.](../RiskMitigation/PBN__RiskMitigation_3008)
 
 ## Property: has_RiskName
 
 Increased risk of contamination of water sources, ecosystem disruption, and potential harm to human health.
 
+## Property: has_RiskISO_Impact
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_0.md)
+
+## Property: has_RiskOwner
+
+* [hospital management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_239.md)
+* [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
+* [environmental agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_685.md)
+
+## Property: has_RiskTechnology
+
+* [incineration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1907.md)
+* [hazardous waste treatment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1908.md)
+
+## Property: has_RiskSubject
+
+* [public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_52.md)
+* [environmental agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_685.md)
+* [water authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_494.md)
+
+## Property: has_RiskMitigation
+
+* [Proper disposal methods for pharmaceutical wastes, including incineration and hazardous waste treatment.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3008.md)
+
 ## Property: has_RiskDescription
 
 Improper disposal of pharmaceutical wastes from hospitals can lead to environmental contamination and potential health risks.
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [wang_disinfection_2020](../Article/PBN__Article_191)
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Property: has_RiskType
+
+* [environmental](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_0.md)
 
 ## Property: has_RiskGBN
 
-* [No](../RiskGBN/PBN__RiskGBN_0)
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [physical](../RiskHealth/PBN__RiskHealth_0)
+* [wang_disinfection_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_191.md)
 

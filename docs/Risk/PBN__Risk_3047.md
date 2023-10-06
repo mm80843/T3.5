@@ -1,6 +1,8 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Lack of resources in LMIC__ (PBN__Risk_3047)
 
 ## Property: has_RiskMitigation
 
-* [AI-based tools for resource-limited settings](../Mitigation/PBN__Mitigation_1399)
+* [AI-based tools for resource-limited settings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1399.md)
 

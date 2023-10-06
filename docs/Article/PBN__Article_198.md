@@ -1,13 +1,23 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) 
+
 # Article: __marconi_green_2022__ (PBN__Article_198)
+
+## Property: has_ArticleYear
+
+2022
+
+## Property: has_ArticleRef
+
+* [serafini_psychological_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_12.md)
+* [ugolini_effects_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_90.md)
 
 ## Property: has_ArticleLLMShortSummary
 
 This study investigates the impact of the COVID-19 pandemic on the perception of urban green spaces (UGSs) in Buenos Aires City and their importance for the well-being of its inhabitants. The study finds that UGSs in the city provide various ecosystem services and are essential for physical and mental health. The density of UGSs in the city is relatively low, with only 6.3 m2/person, which is below the recommended value by the World Health Organization. The distribution of UGSs in the city is also uneven, with some districts having higher densities than others. The study also finds a correlation between the density of UGSs and socio-economic factors such as poverty and COVID-19 cases. During the strict confinement period, visits to UGSs decreased significantly, and when restrictions were lifted, people visited UGSs more frequently, although still below the baseline levels. The perception of UGSs as calm and natural landscapes with abundant vegetation and nature sounds remained consistent before and during the pandemic. The study concludes that UGSs are important for the well-being of urban residents and calls for improvements in the distribution and accessibility of UGSs in the city. It also emphasizes the need to raise awareness about the importance of UGSs and promote their conservation as part of public policies.
 
-## Property: has_ArticleRef
+## Property: has_ArticleTitle
 
-* [serafini_psychological_2020](../Article/PBN__Article_12)
-* [ugolini_effects_2020](../Article/PBN__Article_90)
+Green in times of COVID-19: urban green space relevance during the COVID-19 pandemic in Buenos Aires City
 
 ## Property: has_ArticleLLMSummary
 
@@ -16,12 +26,4 @@ During the COVID-19 pandemic, people in Buenos Aires City were told to stay at h
 ## Property: has_ArticleDOI
 
 10.1007/s11252-022-01204-z
-
-## Property: has_ArticleTitle
-
-Green in times of COVID-19: urban green space relevance during the COVID-19 pandemic in Buenos Aires City
-
-## Property: has_ArticleYear
-
-2022
 

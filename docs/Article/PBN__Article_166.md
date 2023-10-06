@@ -1,8 +1,18 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) 
+
 # Article: __flaxman_report_2020__ (PBN__Article_166)
+
+## Property: has_ArticleYear
+
+2020
 
 ## Property: has_ArticleLLMShortSummary
 
 This report presents a semi-mechanistic Bayesian hierarchical model to estimate the impact of non-pharmaceutical interventions on the transmission of COVID-19 in 11 European countries. The model assumes that changes in the reproduction number are an immediate response to interventions being implemented. The results suggest that these interventions have had a substantial impact on reducing transmission, with the reproduction number dropping to close to 1 in Italy around the time of lockdown. The estimated reproduction numbers for all countries range from 0.97 to 2.64, with an average reduction of 64% compared to pre-intervention values. The model estimates that interventions across all 11 countries will have averted 59,000 deaths up to March 31, with wide credible intervals. The estimates also suggest that there have been many more infections than reported, with attack rates ranging from 0.7% to 15% across countries. The authors note that there is still uncertainty in the estimates and the impact of interventions may vary between countries and over time.
+
+## Property: has_ArticleTitle
+
+Report 13: Estimating the number of infections and the impact of non-pharmaceutical interventions on COVID-19 in 11 European countries
 
 ## Property: has_ArticleLLMSummary
 
@@ -11,12 +21,4 @@ In this report, scientists studied how different measures (like closing schools,
 ## Property: has_ArticleDOI
 
 10.25561/77731
-
-## Property: has_ArticleTitle
-
-Report 13: Estimating the number of infections and the impact of non-pharmaceutical interventions on COVID-19 in 11 European countries
-
-## Property: has_ArticleYear
-
-2020
 

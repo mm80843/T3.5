@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Enhanced Communication__ (PBN__Mitigation_680)
-
-## Property: has_MitigationTechnology
-
-* [communication tools](../Technology/PBN__Technology_168)
 
 ## Property: has_MitigationSource
 
-* [gamil_impact_2020](../Article/PBN__Article_168)
+* [gamil_impact_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_168.md)
+
+## Property: has_MitigationTechnology
+
+* [communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_168.md)
 
 ## Property: has_MitigationPrinciple
 

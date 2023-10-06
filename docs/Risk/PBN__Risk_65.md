@@ -1,6 +1,8 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Tick-borne diseases in urban areas__ (PBN__Risk_65)
 
 ## Property: has_RiskMitigation
 
-* [Increase number of aquatic predators](../RiskMitigation/PBN__RiskMitigation_77)
+* [Increase number of aquatic predators](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_77.md)
 

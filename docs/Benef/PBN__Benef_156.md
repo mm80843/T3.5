@@ -1,18 +1,20 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Sense of belonging and security__ (PBN__Benef_156)
 
 ## Property: has_BenefDetails
 
 Integrating natural elements, such as plots of soil for small house gardening, can create a sense of belonging and security for occupants, fostering a stronger connection with nature.
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Private investors can benefit from increased demand for spaces that offer a sense of belonging and security, leading to higher occupancy rates and tenant satisfaction.](../BenefReturn/PBN__BenefReturn_157)
+* [rassia_how_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_34.md)
 
 ## Property: has_Beneficiary
 
-* [occupants](../Stakeholder/PBN__Stakeholder_92)
+* [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [rassia_how_2020](../Article/PBN__Article_34)
+* [Private investors can benefit from increased demand for spaces that offer a sense of belonging and security, leading to higher occupancy rates and tenant satisfaction.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_157.md)
 

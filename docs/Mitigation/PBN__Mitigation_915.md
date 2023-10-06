@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Data Integration__ (PBN__Mitigation_915)
-
-## Property: has_MitigationTechnology
-
-* [data integration technology](../Technology/PBN__Technology_3540)
-* [application programming interfaces (apis)](../Technology/PBN__Technology_3541)
 
 ## Property: has_MitigationSource
 
-* [james_smart_2020](../Article/PBN__Article_164)
+* [james_smart_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_164.md)
+
+## Property: has_MitigationTechnology
+
+* [data integration technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3540.md)
+* [application programming interfaces (apis)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3541.md)
 
 ## Property: has_MitigationPrinciple
 

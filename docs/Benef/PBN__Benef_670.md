@@ -1,18 +1,20 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Raised awareness of health gains__ (PBN__Benef_670)
 
 ## Property: has_BenefDetails
 
 Highlighting the health benefits of sustainable development policies promotes their adoption and implementation
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Private investors in sustainable development projects can benefit from improved reputation, increased demand, and potential government incentives.](../BenefReturn/PBN__BenefReturn_716)
+* [alabaster_global_2016](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_132.md)
 
 ## Property: has_Beneficiary
 
-* [global population](../Stakeholder/PBN__Stakeholder_278)
+* [global population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_278.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [alabaster_global_2016](../Article/PBN__Article_132)
+* [Private investors in sustainable development projects can benefit from improved reputation, increased demand, and potential government incentives.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_716.md)
 

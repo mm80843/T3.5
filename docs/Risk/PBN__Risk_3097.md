@@ -1,6 +1,8 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Lack of knowledge and inhibitions__ (PBN__Risk_3097)
 
 ## Property: has_RiskMitigation
 
-* [Public awareness campaigns](../Mitigation/PBN__Mitigation_1482)
+* [Public awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1482.md)
 

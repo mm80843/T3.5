@@ -1,14 +1,16 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Active transportation infrastructure__ (PBN__Mitigation_677)
-
-## Property: has_MitigationTechnology
-
-* [nan](../Technology/PBN__Technology_22)
-* [cycling and pedestrian infrastructure](../Technology/PBN__Technology_4499)
 
 ## Property: has_MitigationSource
 
-* [frank_treating_2021](../Article/PBN__Article_174)
-* [yang_urban_2021](../Article/PBN__Article_6)
+* [frank_treating_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_174.md)
+* [yang_urban_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_6.md)
+
+## Property: has_MitigationTechnology
+
+* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
+* [cycling and pedestrian infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4499.md)
 
 ## Property: has_MitigationPrinciple
 

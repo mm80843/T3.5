@@ -1,8 +1,18 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) 
+
 # Article: __oni_implications_2020__ (PBN__Article_68)
+
+## Property: has_ArticleYear
+
+2020
 
 ## Property: has_ArticleLLMShortSummary
 
 This research abstract summarizes a debate piece that discusses the potential impacts of COVID-19 control measures on diet and physical activity in low- and middle-income countries (LMICs). The implementation of control measures such as border closures, restricted movement, and school closures has slowed down transmission but has also affected health behaviors and risks, particularly among vulnerable populations. These measures have limited access to healthy foods and physical activity environments, exacerbating existing inequities in disease vulnerability and access to care. The closure of national borders threatens food supply, resulting in limited access to fresh foods and increasing wealth inequality. Stay-at-home orders and curfew measures reduce opportunities for physical activity, increasing the risk of chronic conditions. However, the new reality may also encourage physical activity as people seek respite from being at home. Governments in LMICs have taken wide-ranging multisectoral actions to address inequalities and support access to healthy diets and physical activity during the pandemic. The experience from these interventions can inform longer-term strategies to make fresh foods more available and create safe environments for physical activity within communities. Lastly, a rights-based approach to public health is important to ensure the collective good while protecting individual rights. Overall, societies that prioritize health are crucial in reducing vulnerability to COVID-19 and other diseases.
+
+## Property: has_ArticleTitle
+
+Implications of COVID-19 control measures for diet and physical activity, and lessons for addressing other pandemics facing rapidly urbanising countries
 
 ## Property: has_ArticleLLMSummary
 
@@ -11,12 +21,4 @@ The COVID-19 pandemic has had many effects on people's lives, especially in coun
 ## Property: has_ArticleDOI
 
 10.1080/16549716.2020.1810415
-
-## Property: has_ArticleTitle
-
-Implications of COVID-19 control measures for diet and physical activity, and lessons for addressing other pandemics facing rapidly urbanising countries
-
-## Property: has_ArticleYear
-
-2020
 

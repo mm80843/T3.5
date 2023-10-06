@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Accurate evidence__ (PBN__Mitigation_891)
-
-## Property: has_MitigationTechnology
-
-* [reliable research](../Technology/PBN__Technology_3524)
-* [peer review](../Technology/PBN__Technology_3525)
 
 ## Property: has_MitigationSource
 
-* [ioannidis_coronavirus_2020](../Article/PBN__Article_101)
+* [ioannidis_coronavirus_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_101.md)
+
+## Property: has_MitigationTechnology
+
+* [reliable research](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3524.md)
+* [peer review](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3525.md)
 
 ## Property: has_MitigationPrinciple
 

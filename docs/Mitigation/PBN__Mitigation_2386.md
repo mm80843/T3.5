@@ -1,14 +1,16 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Environmental management__ (PBN__Mitigation_2386)
-
-## Property: has_MitigationTechnology
-
-* [drainage](../Technology/PBN__Technology_4451)
-* [habitat modification](../Technology/PBN__Technology_4452)
-* [habitat manipulation](../Technology/PBN__Technology_4453)
 
 ## Property: has_MitigationSource
 
-* [wilson_importance_2020](../Article/PBN__Article_64)
+* [wilson_importance_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_64.md)
+
+## Property: has_MitigationTechnology
+
+* [drainage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4451.md)
+* [habitat modification](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4452.md)
+* [habitat manipulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4453.md)
 
 ## Property: has_MitigationPrinciple
 

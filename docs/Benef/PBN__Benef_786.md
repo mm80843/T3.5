@@ -1,18 +1,20 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Resolved disputes__ (PBN__Benef_786)
 
 ## Property: has_BenefDetails
 
 The use of force majeure clauses helps resolve disputes and claims related to COVID-19, minimizing legal challenges and delays in project execution.
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Private investors would benefit from reduced legal costs and improved project timelines.](../BenefReturn/PBN__BenefReturn_854)
+* [araya_influence_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_157.md)
 
 ## Property: has_Beneficiary
 
-* [project administration team](../Stakeholder/PBN__Stakeholder_321)
+* [project administration team](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_321.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [araya_influence_2021](../Article/PBN__Article_157)
+* [Private investors would benefit from reduced legal costs and improved project timelines.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_854.md)
 

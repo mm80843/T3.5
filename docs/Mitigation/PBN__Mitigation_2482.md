@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Outdoor biophilia__ (PBN__Mitigation_2482)
-
-## Property: has_MitigationTechnology
-
-* [landscaped grounds](../Technology/PBN__Technology_1735)
-* [rooftop gardens](../Technology/PBN__Technology_1786)
 
 ## Property: has_MitigationSource
 
-* [zhong_biophilic_2022](../Article/PBN__Article_211)
+* [zhong_biophilic_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_211.md)
+
+## Property: has_MitigationTechnology
+
+* [landscaped grounds](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1735.md)
+* [rooftop gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1786.md)
 
 ## Property: has_MitigationPrinciple
 

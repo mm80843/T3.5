@@ -1,16 +1,18 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Isolation__ (PBN__Mitigation_752)
-
-## Property: has_MitigationTechnology
-
-* [separate rooms or designated areas for contagion control](../Technology/PBN__Technology_3426)
-* [dedicated isolation rooms](../Technology/PBN__Technology_3548)
-* [dedicated isolation facilities](../Technology/PBN__Technology_3830)
 
 ## Property: has_MitigationSource
 
-* [hakovirta_how_2020](../Article/PBN__Article_202)
-* [jefferson_physical_2008](../Article/PBN__Article_22)
-* [mukerjee_mitigation_2021](../Article/PBN__Article_154)
+* [hakovirta_how_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_202.md)
+* [jefferson_physical_2008](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_22.md)
+* [mukerjee_mitigation_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_154.md)
+
+## Property: has_MitigationTechnology
+
+* [separate rooms or designated areas for contagion control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3426.md)
+* [dedicated isolation rooms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3548.md)
+* [dedicated isolation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3830.md)
 
 ## Property: has_MitigationPrinciple
 

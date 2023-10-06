@@ -1,71 +1,73 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Inadequate sanitation__ (PBN__Risk_1399)
-
-## Property: has_RiskISO_Impact
-
-* [Living and working environment](../RiskISO/PBN__RiskISO_Purpose_1)
-
-## Property: has_RiskTechnology
-
-* [water purification systems](../Technology/PBN__Technology_625)
-* [sanitation facilities](../Technology/PBN__Technology_626)
-* [hygiene education programs](../Technology/PBN__Technology_627)
-* [automated cleaning tools](../Technology/PBN__Technology_1321)
-* [touchless fixtures](../Technology/PBN__Technology_721)
-* [wastewater treatment plants](../Technology/PBN__Technology_1353)
-
-## Property: has_RiskSubject
-
-* [densely populated areas](../Stakeholder/PBN__Stakeholder_901)
-* [low-income communities](../Stakeholder/PBN__Stakeholder_27)
-* [areas with inadequate sanitation facilities](../Stakeholder/PBN__Stakeholder_902)
-* [public housing residents](../Stakeholder/PBN__Stakeholder_217)
-* [building occupants](../Stakeholder/PBN__Stakeholder_97)
-* [residents](../Stakeholder/PBN__Stakeholder_59)
-
-## Property: has_RiskType
-
-* [environmental](../RiskType/PBN__RiskType_0)
-* [health](../RiskType/PBN__RiskType_4)
-
-## Property: has_RiskISO_Purpose
-
-* [Resilience](../RiskISO/PBN__RiskISO_Impact_2)
-
-## Property: has_RiskOwner
-
-* [government](../Stakeholder/PBN__Stakeholder_73)
-* [non-profit organizations](../Stakeholder/PBN__Stakeholder_804)
-* [community leaders](../Stakeholder/PBN__Stakeholder_606)
-* [housing authorities](../Stakeholder/PBN__Stakeholder_1301)
-* [building owners](../Stakeholder/PBN__Stakeholder_80)
-* [local governments](../Stakeholder/PBN__Stakeholder_568)
-
-## Property: has_RiskMitigation
-
-* [Improve sanitation infrastructure, promote hygiene education and practices, increase access to clean water sources.](../RiskMitigation/PBN__RiskMitigation_1899)
-* [Increase cleaning frequency, provide adequate supplies](../RiskMitigation/PBN__RiskMitigation_2528)
-* [Ensure access to clean drinking water, improve wastewater treatment and management systems.](../RiskMitigation/PBN__RiskMitigation_2552)
 
 ## Property: has_RiskName
 
 Increased risk of virus transmission through water and sewage systems.
 
+## Property: has_RiskISO_Impact
+
+* [Living and working environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_1.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
+## Property: has_RiskOwner
+
+* [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
+* [non-profit organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_804.md)
+* [community leaders](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_606.md)
+* [housing authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1301.md)
+* [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
+* [local governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_568.md)
+
+## Property: has_RiskTechnology
+
+* [water purification systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_625.md)
+* [sanitation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_626.md)
+* [hygiene education programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_627.md)
+* [automated cleaning tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1321.md)
+* [touchless fixtures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_721.md)
+* [wastewater treatment plants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1353.md)
+
+## Property: has_RiskSubject
+
+* [densely populated areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_901.md)
+* [low-income communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_27.md)
+* [areas with inadequate sanitation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_902.md)
+* [public housing residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_217.md)
+* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
+* [residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
+
+## Property: has_RiskMitigation
+
+* [Improve sanitation infrastructure, promote hygiene education and practices, increase access to clean water sources.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1899.md)
+* [Increase cleaning frequency, provide adequate supplies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2528.md)
+* [Ensure access to clean drinking water, improve wastewater treatment and management systems.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2552.md)
+
 ## Property: has_RiskDescription
 
 Lack of clean drinking water and proper wastewater management can contribute to the spread of the virus.
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [frank_treating_2021](../Article/PBN__Article_174)
-* [power_public_2020](../Article/PBN__Article_107)
-* [rahim_impact_2022](../Article/PBN__Article_94)
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Property: has_RiskType
+
+* [environmental](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_0.md)
+* [health](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_4.md)
 
 ## Property: has_RiskGBN
 
-* [No](../RiskGBN/PBN__RiskGBN_0)
-* [Yes](../RiskGBN/PBN__RiskGBN_1)
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [physical](../RiskHealth/PBN__RiskHealth_0)
+* [frank_treating_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_174.md)
+* [power_public_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_107.md)
+* [rahim_impact_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_94.md)
 

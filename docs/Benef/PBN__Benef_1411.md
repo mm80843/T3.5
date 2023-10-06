@@ -1,19 +1,21 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Harmonized messaging__ (PBN__Benef_1411)
 
 ## Property: has_BenefDetails
 
 Ensures consistent and reliable information, reducing confusion and conflicting interpretations of expert opinions.
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Private investors would benefit from improved public trust in healthcare authorities and reduced societal unrest, promoting stability and confidence in the market.](../BenefReturn/PBN__BenefReturn_1602)
+* [orso_infodemic_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_299.md)
 
 ## Property: has_Beneficiary
 
-* [medical professionals](../Stakeholder/PBN__Stakeholder_425)
-* [general public](../Stakeholder/PBN__Stakeholder_29)
+* [medical professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_425.md)
+* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [orso_infodemic_2020](../Article/PBN__Article_299)
+* [Private investors would benefit from improved public trust in healthcare authorities and reduced societal unrest, promoting stability and confidence in the market.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1602.md)
 

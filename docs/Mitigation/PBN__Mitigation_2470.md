@@ -1,14 +1,16 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Proper maintenance of drainage system__ (PBN__Mitigation_2470)
-
-## Property: has_MitigationTechnology
-
-* [regular inspection](../Technology/PBN__Technology_4514)
-* [repair](../Technology/PBN__Technology_4515)
-* [maintenance](../Technology/PBN__Technology_3785)
 
 ## Property: has_MitigationSource
 
-* [zhang_review_2022](../Article/PBN__Article_171)
+* [zhang_review_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_171.md)
+
+## Property: has_MitigationTechnology
+
+* [regular inspection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4514.md)
+* [repair](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4515.md)
+* [maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3785.md)
 
 ## Property: has_MitigationPrinciple
 

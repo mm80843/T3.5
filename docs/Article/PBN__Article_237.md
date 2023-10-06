@@ -1,8 +1,18 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) 
+
 # Article: __mufid_risk_2020__ (PBN__Article_237)
+
+## Property: has_ArticleYear
+
+2020
 
 ## Property: has_ArticleLLMShortSummary
 
 This research paper proposes the development of a mobile application that uses an expert system and web scraping to provide early detection and information on COVID-19 in Indonesia. The expert system is based on a rule-based method and is designed to help users assess their risk of contracting COVID-19 based on a set of symptoms. The application also includes a web scraping component that retrieves COVID-19 mitigation information and case developments from official websites. The system design includes a knowledge base for symptom-based diagnosis and a SQLite database for storing scraped data. The performance evaluation of the application indicates that it is user-friendly and performs well in terms of satisfaction and ease of use. The expert system's results were validated through various test scenarios. The study concludes that the application can provide early detection and mitigation information for COVID-19 in Indonesia, with potential future enhancements such as patient tracking features.
+
+## Property: has_ArticleTitle
+
+Risk Diagnosis and Mitigation System of COVID-19 Using Expert System and Web Scraping
 
 ## Property: has_ArticleLLMSummary
 
@@ -11,12 +21,4 @@ This text is about a mobile application that helps people detect early symptoms 
 ## Property: has_ArticleDOI
 
 10.1109/IES50839.2020.9231619
-
-## Property: has_ArticleTitle
-
-Risk Diagnosis and Mitigation System of COVID-19 Using Expert System and Web Scraping
-
-## Property: has_ArticleYear
-
-2020
 

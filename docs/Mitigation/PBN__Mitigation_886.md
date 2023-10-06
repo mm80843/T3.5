@@ -1,17 +1,19 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Resource allocation__ (PBN__Mitigation_886)
-
-## Property: has_MitigationTechnology
-
-* [efficient allocation strategies](../Technology/PBN__Technology_3517)
-* [cloud computing](../Technology/PBN__Technology_1232)
-* [big data](../Technology/PBN__Technology_276)
-* [government funds and military personnel](../Technology/PBN__Technology_4412)
 
 ## Property: has_MitigationSource
 
-* [ioannidis_coronavirus_2020](../Article/PBN__Article_101)
-* [vaishya_emerging_2020](../Article/PBN__Article_116)
-* [wang_response_2020](../Article/PBN__Article_24)
+* [ioannidis_coronavirus_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_101.md)
+* [vaishya_emerging_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_116.md)
+* [wang_response_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_24.md)
+
+## Property: has_MitigationTechnology
+
+* [efficient allocation strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3517.md)
+* [cloud computing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1232.md)
+* [big data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_276.md)
+* [government funds and military personnel](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4412.md)
 
 ## Property: has_MitigationPrinciple
 

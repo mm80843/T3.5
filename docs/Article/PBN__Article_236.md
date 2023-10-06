@@ -1,8 +1,18 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) 
+
 # Article: __mesa_vieira_covid-19_2020__ (PBN__Article_236)
+
+## Property: has_ArticleYear
+
+2020
 
 ## Property: has_ArticleLLMShortSummary
 
 This article discusses the impact of COVID-19 on various vulnerable populations and the importance of considering their mental wellbeing during the pandemic. The measures taken to reduce the spread of the virus have had wide-reaching impacts on health systems, economies, and societies globally. Social distancing measures have led to increased feelings of depression, anxiety, and indignation, as well as a decrease in positive emotions. Misinformation has also been a significant issue, leading to uncertainty and fear, which can impair quality of life and even increase rates of suicide. Vulnerable populations such as indigenous communities, homeless individuals, migrants, incarcerated individuals, and people with disabilities face additional challenges and health disparities. Healthcare professionals on the frontline are at higher risk of stress, depression, and anxiety disorders. The elderly, individuals with psychiatric disorders, and families living in poor conditions are also significantly affected. Strategies to promote mental health and wellbeing, such as maintaining social connections using technology, restricting news exposure, providing reliable information, and increasing access to mental health services through telemedicine, are recommended. It is essential to prioritize the wellbeing of vulnerable populations and promote cooperation and solidarity to address these challenges.
+
+## Property: has_ArticleTitle
+
+COVID-19: The forgotten priorities of the pandemic
 
 ## Property: has_ArticleLLMSummary
 
@@ -11,12 +21,4 @@ The COVID-19 pandemic is a serious disease that has affected many people around 
 ## Property: has_ArticleDOI
 
 10.1016/j.maturitas.2020.04.004
-
-## Property: has_ArticleTitle
-
-COVID-19: The forgotten priorities of the pandemic
-
-## Property: has_ArticleYear
-
-2020
 

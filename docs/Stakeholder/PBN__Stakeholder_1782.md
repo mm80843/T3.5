@@ -1,14 +1,16 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) 
+
 # Stakeholder: __worker in the renewable energy sector__ (PBN__Stakeholder_1782)
-
-## Property: has_StakeholderGroup
-
-* [Workers](../StakeholderGroup/PBN__StakeholderGroup_2)
-
-## Property: has_StakeholderID
-
-* [Q12705](../Qid/Q12705)
 
 ## Property: has_StakeholderSubgroup
 
-* [nan](../StakeholderSubgroup/PBN__StakeholderSubgroup_7)
+* [nan](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_7.md)
+
+## Property: has_StakeholderGroup
+
+* [Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_2.md)
+
+## Property: has_StakeholderID
+
+* [Q12705](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q12705.md)
 

@@ -1,6 +1,8 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Lack of understanding of disease spread and patterns__ (PBN__Risk_3146)
 
 ## Property: has_RiskMitigation
 
-* [Effective public health surveillance](../Mitigation/PBN__Mitigation_1573)
+* [Effective public health surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1573.md)
 

@@ -1,6 +1,8 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Inefficient usage and risk behaviors__ (PBN__Risk_2819)
 
 ## Property: has_RiskMitigation
 
-* [Use of Face Masks](../Mitigation/PBN__Mitigation_941)
+* [Use of Face Masks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_941.md)
 

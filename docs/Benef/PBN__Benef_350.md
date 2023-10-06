@@ -1,18 +1,20 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Flexible design for versatile use of spaces__ (PBN__Benef_350)
 
 ## Property: has_BenefDetails
 
 Adaptability to changing needs, privacy, and comfort for each family member
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Improved comfort and quality of life](../BenefReturn/PBN__BenefReturn_373)
+* [tokazhanov_how_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_67.md)
 
 ## Property: has_Beneficiary
 
-* [occupants](../Stakeholder/PBN__Stakeholder_92)
+* [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [tokazhanov_how_2020](../Article/PBN__Article_67)
+* [Improved comfort and quality of life](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_373.md)
 

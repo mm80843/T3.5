@@ -1,6 +1,8 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Impact on public transit__ (PBN__Risk_916)
 
 ## Property: has_RiskMitigation
 
-* [Restructuring public transit operations to comply with health and safety guidelines](../RiskMitigation/PBN__RiskMitigation_1262)
+* [Restructuring public transit operations to comply with health and safety guidelines](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1262.md)
 

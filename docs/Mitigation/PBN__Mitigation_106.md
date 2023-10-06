@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __PPP restructuring__ (PBN__Mitigation_106)
-
-## Property: has_MitigationTechnology
-
-* [restructuring models](../Technology/PBN__Technology_2969)
 
 ## Property: has_MitigationSource
 
-* [allam_emergence_2019](../Article/PBN__Article_15)
+* [allam_emergence_2019](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_15.md)
+
+## Property: has_MitigationTechnology
+
+* [restructuring models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2969.md)
 
 ## Property: has_MitigationPrinciple
 

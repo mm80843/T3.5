@@ -1,18 +1,20 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Protection against virus transmission__ (PBN__Benef_503)
 
 ## Property: has_BenefDetails
 
 Providing appropriate PPE, such as masks and gloves, ensures the protection of workers from virus transmission
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Investing in PPE reduces the risk of COVID-19 transmission in the workplace, protecting workers and ensuring business continuity.](../BenefReturn/PBN__BenefReturn_547)
+* [sunandar_preventing_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_102.md)
 
 ## Property: has_Beneficiary
 
-* [workers](../Stakeholder/PBN__Stakeholder_128)
+* [workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_128.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [sunandar_preventing_2021](../Article/PBN__Article_102)
+* [Investing in PPE reduces the risk of COVID-19 transmission in the workplace, protecting workers and ensuring business continuity.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_547.md)
 

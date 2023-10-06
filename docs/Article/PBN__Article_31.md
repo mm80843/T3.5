@@ -1,8 +1,18 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) 
+
 # Article: __laato_what_2020__ (PBN__Article_31)
+
+## Property: has_ArticleYear
+
+2020
 
 ## Property: has_ArticleLLMShortSummary
 
 The COVID-19 pandemic has led to the rapid spread of misinformation through social media, posing a serious threat to public health. This study aims to understand the individual drivers of COVID-19 misinformation sharing and cyberchondria (excessive health-related anxiety driven by online health searches). The researchers developed and tested a research model using survey data from 294 Facebook users in Bangladesh. The results showed that online information trust and information overload were associated with increased sharing of unverified COVID-19 information and cyberchondria. Perceived severity and perceived susceptibility also predicted increased cyberchondria. However, health beliefs did not have an impact on sharing unverified information. Gender had a significant effect, with females experiencing higher levels of cyberchondria and being less likely to share unverified information compared to males. Age moderated the effects of information overload and perceived severity on cyberchondria and sharing unverified information. The findings suggest that interventions to reduce the spread of misinformation and cyberchondria should focus on managing information consumption and verifying sources. Social media platforms and health organizations can play a role by curbing the amount of COVID-19 information and directing users to trusted sources.
+
+## Property: has_ArticleTitle
+
+What drives unverified information sharing and cyberchondria during the COVID-19 pandemic?
 
 ## Property: has_ArticleLLMSummary
 
@@ -11,12 +21,4 @@ During the COVID-19 pandemic, there has been a lot of false information being sp
 ## Property: has_ArticleDOI
 
 10.1080/0960085X.2020.1770632
-
-## Property: has_ArticleTitle
-
-What drives unverified information sharing and cyberchondria during the COVID-19 pandemic?
-
-## Property: has_ArticleYear
-
-2020
 

@@ -1,53 +1,55 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Inadequate patient-centered care__ (PBN__Risk_2021)
-
-## Property: has_RiskISO_Impact
-
-* [Health and care](../RiskISO/PBN__RiskISO_Purpose_0)
-
-## Property: has_RiskTechnology
-
-* [electronic health records](../Technology/PBN__Technology_1425)
-* [telemedicine](../Technology/PBN__Technology_73)
-
-## Property: has_RiskSubject
-
-* [healthcare professionals](../Stakeholder/PBN__Stakeholder_32)
-* [general population](../Stakeholder/PBN__Stakeholder_9)
-
-## Property: has_RiskType
-
-* [social](../RiskType/PBN__RiskType_2)
-
-## Property: has_RiskISO_Purpose
-
-* [Health and care](../RiskISO/PBN__RiskISO_Impact_3)
-
-## Property: has_RiskOwner
-
-* [healthcare providers](../Stakeholder/PBN__Stakeholder_121)
-* [policymakers](../Stakeholder/PBN__Stakeholder_126)
-
-## Property: has_RiskMitigation
-
-* [Implement community-centered care approach](../RiskMitigation/PBN__RiskMitigation_2644)
 
 ## Property: has_RiskName
 
 Ineffective response and spread of disease
 
+## Property: has_RiskISO_Impact
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
+
+## Property: has_RiskOwner
+
+* [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
+* [policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_126.md)
+
+## Property: has_RiskTechnology
+
+* [electronic health records](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1425.md)
+* [telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_73.md)
+
+## Property: has_RiskSubject
+
+* [healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_32.md)
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+
+## Property: has_RiskMitigation
+
+* [Implement community-centered care approach](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2644.md)
+
 ## Property: has_RiskDescription
 
 Western healthcare system's focus on individual patient care is inadequate in a pandemic
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [sakellarides_viral_2020](../Article/PBN__Article_183)
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Property: has_RiskType
+
+* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
 
 ## Property: has_RiskGBN
 
-* [No](../RiskGBN/PBN__RiskGBN_0)
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [physical](../RiskHealth/PBN__RiskHealth_0)
+* [sakellarides_viral_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_183.md)
 

@@ -1,53 +1,55 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Psychopathology in vulnerable groups__ (PBN__Risk_1898)
-
-## Property: has_RiskISO_Impact
-
-* [Health and care](../RiskISO/PBN__RiskISO_Purpose_0)
-
-## Property: has_RiskTechnology
-
-* [remote mental health care](../Technology/PBN__Technology_1278)
-* [targeted interventions](../Technology/PBN__Technology_1279)
-
-## Property: has_RiskSubject
-
-* [individuals at risk](../Stakeholder/PBN__Stakeholder_798)
-* [healthcare providers](../Stakeholder/PBN__Stakeholder_121)
-
-## Property: has_RiskType
-
-* [social](../RiskType/PBN__RiskType_2)
-
-## Property: has_RiskISO_Purpose
-
-* [Health and care](../RiskISO/PBN__RiskISO_Impact_3)
-
-## Property: has_RiskOwner
-
-* [healthcare providers](../Stakeholder/PBN__Stakeholder_121)
-* [mental health professionals](../Stakeholder/PBN__Stakeholder_368)
-
-## Property: has_RiskMitigation
-
-* [Targeted mental health support, assessment and monitoring of vulnerable individuals](../RiskMitigation/PBN__RiskMitigation_2496)
 
 ## Property: has_RiskName
 
 Adverse psychosocial outcomes such as depression and anxiety disorders in vulnerable groups
 
+## Property: has_RiskISO_Impact
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
+
+## Property: has_RiskOwner
+
+* [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
+* [mental health professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_368.md)
+
+## Property: has_RiskTechnology
+
+* [remote mental health care](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1278.md)
+* [targeted interventions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1279.md)
+
+## Property: has_RiskSubject
+
+* [individuals at risk](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_798.md)
+* [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
+
+## Property: has_RiskMitigation
+
+* [Targeted mental health support, assessment and monitoring of vulnerable individuals](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2496.md)
+
 ## Property: has_RiskDescription
 
 People at risk (elderly, those with compromised health, preexisting conditions) are more vulnerable
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [pfefferbaum_mental_2020](../Article/PBN__Article_167)
+* [mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
+
+## Property: has_RiskType
+
+* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
 
 ## Property: has_RiskGBN
 
-* [No](../RiskGBN/PBN__RiskGBN_0)
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [mental](../RiskHealth/PBN__RiskHealth_1)
+* [pfefferbaum_mental_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_167.md)
 

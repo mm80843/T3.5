@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Handwashing stations__ (PBN__Mitigation_2033)
-
-## Property: has_MitigationTechnology
-
-* [soap](../Technology/PBN__Technology_3086)
-* [hand sanitizer dispensers](../Technology/PBN__Technology_4201)
 
 ## Property: has_MitigationSource
 
-* [sunandar_preventing_2021](../Article/PBN__Article_102)
+* [sunandar_preventing_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_102.md)
+
+## Property: has_MitigationTechnology
+
+* [soap](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3086.md)
+* [hand sanitizer dispensers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4201.md)
 
 ## Property: has_MitigationPrinciple
 

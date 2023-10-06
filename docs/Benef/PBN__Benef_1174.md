@@ -1,18 +1,20 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Improvement in mental health__ (PBN__Benef_1174)
 
 ## Property: has_BenefDetails
 
 Home-based exercise (such as yoga, dancing, exergames) has been shown to alleviate mental illness symptoms, improve anxiety, mood, and emotional health.
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Private investors investing in home-based exercise programs can benefit from improved asset value and increased demand for digital fitness platforms and equipment.](../BenefReturn/PBN__BenefReturn_1308)
+* [ai_mental_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_242.md)
 
 ## Property: has_Beneficiary
 
-* [individuals](../Stakeholder/PBN__Stakeholder_20)
+* [individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_20.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [ai_mental_2021](../Article/PBN__Article_242)
+* [Private investors investing in home-based exercise programs can benefit from improved asset value and increased demand for digital fitness platforms and equipment.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1308.md)
 

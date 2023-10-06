@@ -1,18 +1,20 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Discovery of unknown correlations and more accurate predictions__ (PBN__Benef_1398)
 
 ## Property: has_BenefDetails
 
 Analysis of sensor data can yield previously unknown correlations, leading to more accurate predictions and improving the efficacy of healthcare practitioners in diagnosing and treating patients.
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Private investors could benefit from investing in data analytics and machine learning technologies, as it would enhance the capabilities of wearable devices and improve patient outcomes, leading to potential profit and asset value improvement.](../BenefReturn/PBN__BenefReturn_1586)
+* [ates_wearable_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_296.md)
 
 ## Property: has_Beneficiary
 
-* [healthcare practitioners](../Stakeholder/PBN__Stakeholder_544)
+* [healthcare practitioners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_544.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [ates_wearable_2021](../Article/PBN__Article_296)
+* [Private investors could benefit from investing in data analytics and machine learning technologies, as it would enhance the capabilities of wearable devices and improve patient outcomes, leading to potential profit and asset value improvement.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1586.md)
 

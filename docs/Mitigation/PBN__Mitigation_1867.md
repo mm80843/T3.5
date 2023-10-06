@@ -1,16 +1,18 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Smart city infrastructure__ (PBN__Mitigation_1867)
-
-## Property: has_MitigationTechnology
-
-* [iot](../Technology/PBN__Technology_277)
-* [ai](../Technology/PBN__Technology_278)
-* [machine learning](../Technology/PBN__Technology_3004)
-* [5g](../Technology/PBN__Technology_4121)
-* [blockchain](../Technology/PBN__Technology_94)
 
 ## Property: has_MitigationSource
 
-* [sharifi_contributions_2021](../Article/PBN__Article_227)
+* [sharifi_contributions_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_227.md)
+
+## Property: has_MitigationTechnology
+
+* [iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_277.md)
+* [ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_278.md)
+* [machine learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3004.md)
+* [5g](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4121.md)
+* [blockchain](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_94.md)
 
 ## Property: has_MitigationPrinciple
 

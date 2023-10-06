@@ -1,16 +1,18 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) 
+
 # Technology: __Healthcare infrastructure__ (PBN__Technology_2286)
-
-## Property: has_TechnologyID
-
-* [Q31207](../Qid/Q31207)
 
 ## Property: has_StakeholderGroup
 
-* [Telehealth](../TechGroup/PBN__TechGroup_3)
-* [Infrastructure](../TechGroup/PBN__TechGroup_4)
+* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_3.md)
+* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
+
+## Property: has_TechnologyID
+
+* [Q31207](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q31207.md)
 
 ## Property: has_StakeholderSubgroup
 
-* [Mobile and Healthcare Infrastructure](../TechSubgroup/PBN__TechSubgroup_99)
-* [Telemedicine and Telehealth Services](../TechSubgroup/PBN__TechSubgroup_28)
+* [Mobile and Healthcare Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_99.md)
+* [Telemedicine and Telehealth Services](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_28.md)
 

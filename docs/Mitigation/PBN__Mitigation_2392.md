@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Genetic manipulation of mosquitoes (Gene drive)__ (PBN__Mitigation_2392)
-
-## Property: has_MitigationTechnology
-
-* [genetic modification technologies](../Technology/PBN__Technology_4462)
-* [such as crispr/cas9](../Technology/PBN__Technology_4463)
 
 ## Property: has_MitigationSource
 
-* [wilson_importance_2020](../Article/PBN__Article_64)
+* [wilson_importance_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_64.md)
+
+## Property: has_MitigationTechnology
+
+* [genetic modification technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4462.md)
+* [such as crispr/cas9](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4463.md)
 
 ## Property: has_MitigationPrinciple
 

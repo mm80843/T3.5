@@ -1,8 +1,18 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) 
+
 # Article: __orso_infodemic_2020__ (PBN__Article_299)
+
+## Property: has_ArticleYear
+
+2020
 
 ## Property: has_ArticleLLMShortSummary
 
 This article discusses the spread of misinformation and inaccurate information during the COVID-19 pandemic. It highlights a tweet by the French Minister of Health recommending against the use of anti-inflammatory drugs, which gained widespread attention and support. However, no scientific articles were found to support this claim. The article also mentions conflicting information about the use of ACE inhibitors and sartans in relation to COVID-19. The author questions the cause of this misinformation and suggests that physicians may rely too heavily on their own expertise and may not always interpret data correctly. The article concludes by emphasizing the importance of reliable information and individual responsibility in the scientific community, particularly in the age of social media.
+
+## Property: has_ArticleTitle
+
+Infodemic and the spread of fake news in the COVID-19-era
 
 ## Property: has_ArticleLLMSummary
 
@@ -11,12 +21,4 @@ During the pandemic, there was a lot of information going around about which med
 ## Property: has_ArticleDOI
 
 10.1097/MEJ.0000000000000713
-
-## Property: has_ArticleTitle
-
-Infodemic and the spread of fake news in the COVID-19-era
-
-## Property: has_ArticleYear
-
-2020
 

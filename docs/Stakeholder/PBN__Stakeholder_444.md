@@ -1,6 +1,8 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) 
+
 # Stakeholder: __homeless people__ (PBN__Stakeholder_444)
 
 ## Property: has_StakeholderID
 
-* [Q29325697](../Qid/Q29325697)
+* [Q29325697](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q29325697.md)
 

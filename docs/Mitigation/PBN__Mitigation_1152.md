@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Natural ventilation through window openings__ (PBN__Mitigation_1152)
-
-## Property: has_MitigationTechnology
-
-* [windows](../Technology/PBN__Technology_140)
-* [mechanical ventilation](../Technology/PBN__Technology_271)
 
 ## Property: has_MitigationSource
 
-* [maharani_biophilic_2022](../Article/PBN__Article_179)
+* [maharani_biophilic_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_179.md)
+
+## Property: has_MitigationTechnology
+
+* [windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_140.md)
+* [mechanical ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_271.md)
 
 ## Property: has_MitigationPrinciple
 

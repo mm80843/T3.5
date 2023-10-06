@@ -1,19 +1,21 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Reduction of misinformation sharing__ (PBN__Benef_144)
 
 ## Property: has_BenefDetails
 
 Increases the accuracy of information shared on social media platforms, reducing the spread of fake news and misinformation.
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Private investors would benefit from the improved accuracy of information, which can lead to increased trust, credibility, and user engagement with their platforms or services.](../BenefReturn/PBN__BenefReturn_144)
-* [Private investors would benefit from the improved user behavior, as it can lead to increased trust, credibility, and user engagement with their platforms or services.](../BenefReturn/PBN__BenefReturn_145)
+* [laato_what_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_31.md)
 
 ## Property: has_Beneficiary
 
-* [social media users](../Stakeholder/PBN__Stakeholder_82)
+* [social media users](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_82.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [laato_what_2020](../Article/PBN__Article_31)
+* [Private investors would benefit from the improved accuracy of information, which can lead to increased trust, credibility, and user engagement with their platforms or services.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_144.md)
+* [Private investors would benefit from the improved user behavior, as it can lead to increased trust, credibility, and user engagement with their platforms or services.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_145.md)
 

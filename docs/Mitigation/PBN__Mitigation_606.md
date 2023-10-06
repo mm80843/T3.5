@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Monitoring and evaluating policy response__ (PBN__Mitigation_606)
-
-## Property: has_MitigationTechnology
-
-* [monitoring systems](../Technology/PBN__Technology_201)
-* [data analysis](../Technology/PBN__Technology_3346)
 
 ## Property: has_MitigationSource
 
-* [el-jardali_amplifying_2020](../Article/PBN__Article_111)
+* [el-jardali_amplifying_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_111.md)
+
+## Property: has_MitigationTechnology
+
+* [monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_201.md)
+* [data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3346.md)
 
 ## Property: has_MitigationPrinciple
 

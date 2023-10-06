@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Government Support__ (PBN__Mitigation_1022)
-
-## Property: has_MitigationTechnology
-
-* [policy measures](../Technology/PBN__Technology_3590)
 
 ## Property: has_MitigationSource
 
-* [kuckertz_startups_2020](../Article/PBN__Article_158)
+* [kuckertz_startups_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_158.md)
+
+## Property: has_MitigationTechnology
+
+* [policy measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3590.md)
 
 ## Property: has_MitigationPrinciple
 

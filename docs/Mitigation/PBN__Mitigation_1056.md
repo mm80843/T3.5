@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Re-shoring of critical energy industries__ (PBN__Mitigation_1056)
-
-## Property: has_MitigationTechnology
-
-* [industrial practices](../Technology/PBN__Technology_3599)
-* [supply chains](../Technology/PBN__Technology_3600)
 
 ## Property: has_MitigationSource
 
-* [kuzemko_covid-19_2020](../Article/PBN__Article_14)
+* [kuzemko_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_14.md)
+
+## Property: has_MitigationTechnology
+
+* [industrial practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3599.md)
+* [supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3600.md)
 
 ## Property: has_MitigationPrinciple
 

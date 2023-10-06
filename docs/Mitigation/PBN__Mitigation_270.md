@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Rental assistance programs__ (PBN__Mitigation_270)
-
-## Property: has_MitigationTechnology
-
-* [financial support](../Technology/PBN__Technology_607)
 
 ## Property: has_MitigationSource
 
-* [benfer_eviction_2021](../Article/PBN__Article_43)
+* [benfer_eviction_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_43.md)
+
+## Property: has_MitigationTechnology
+
+* [financial support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_607.md)
 
 ## Property: has_MitigationPrinciple
 

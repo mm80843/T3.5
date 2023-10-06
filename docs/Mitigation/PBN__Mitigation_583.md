@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Sustainable farming__ (PBN__Mitigation_583)
-
-## Property: has_MitigationTechnology
-
-* [organic farming methods](../Technology/PBN__Technology_3331)
 
 ## Property: has_MitigationSource
 
-* [duflot_building_2021](../Article/PBN__Article_5)
+* [duflot_building_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_5.md)
+
+## Property: has_MitigationTechnology
+
+* [organic farming methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3331.md)
 
 ## Property: has_MitigationPrinciple
 

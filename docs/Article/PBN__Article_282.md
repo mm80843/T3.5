@@ -1,20 +1,30 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) 
+
 # Article: __navaratnam_designing_2022__ (PBN__Article_282)
+
+## Property: has_ArticleYear
+
+2022
+
+## Property: has_ArticleRef
+
+* [awada_ten_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_38.md)
+* [megahed_indoor_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_206.md)
+* [tokazhanov_how_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_67.md)
+* [kaklauskas_covid-19_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_322.md)
+* [megahed_antivirus-built_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_298.md)
+* [guo_review_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_45.md)
+* [vranay_adaptation_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_214.md)
+* [beggs_upper-room_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_163.md)
+* [hutasoit_sars-cov-2_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_16.md)
 
 ## Property: has_ArticleLLMShortSummary
 
 This research paper discusses the need for a comprehensive and innovative approach to dealing with the COVID-19 pandemic in terms of indoor air quality and building design. The authors highlight the importance of airborne transmission of the virus and the role of ultrafine particles in spreading the disease. They emphasize the need for healthy indoor environmental quality (IEQ) by maintaining optimum air quality, thermal comfort, ventilation, acoustic performance, lighting, and spatial layout. The paper explores existing technologies and strategies to achieve healthy buildings, including ergonomic furnishing, daylighting, operable shading, nature views, green scaping, and improved indoor air quality. The authors also discuss the use of innovative techniques such as antimicrobial coatings, ultraviolet radiation, air cleaning plants, bipolar ionization, disinfectant fogging systems, and smart technologies for contactless operations. They recommend retrofitting existing buildings with these technologies and incorporating them into the design of future buildings to reduce the transmission of COVID-19 and other infectious diseases. The paper concludes that these strategies can contribute to a healthier and more sustainable built environment.
 
-## Property: has_ArticleRef
+## Property: has_ArticleTitle
 
-* [awada_ten_2021](../Article/PBN__Article_38)
-* [megahed_indoor_2021](../Article/PBN__Article_206)
-* [tokazhanov_how_2020](../Article/PBN__Article_67)
-* [kaklauskas_covid-19_2021](../Article/PBN__Article_322)
-* [megahed_antivirus-built_2020](../Article/PBN__Article_298)
-* [guo_review_2021](../Article/PBN__Article_45)
-* [vranay_adaptation_2020](../Article/PBN__Article_214)
-* [beggs_upper-room_2020](../Article/PBN__Article_163)
-* [hutasoit_sars-cov-2_2020](../Article/PBN__Article_16)
+Designing Post COVID-19 Buildings: Approaches for Achieving Healthy Buildings
 
 ## Property: has_ArticleLLMSummary
 
@@ -23,12 +33,4 @@ During the COVID-19 pandemic, buildings have had to make changes to keep people 
 ## Property: has_ArticleDOI
 
 10.3390/buildings12010074
-
-## Property: has_ArticleTitle
-
-Designing Post COVID-19 Buildings: Approaches for Achieving Healthy Buildings
-
-## Property: has_ArticleYear
-
-2022
 

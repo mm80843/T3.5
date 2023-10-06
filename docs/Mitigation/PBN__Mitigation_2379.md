@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Privacy concerns__ (PBN__Mitigation_2379)
-
-## Property: has_MitigationTechnology
-
-* [anonymity](../Technology/PBN__Technology_98)
-* [limited data retention](../Technology/PBN__Technology_4447)
 
 ## Property: has_MitigationSource
 
-* [whitelaw_applications_2020](../Article/PBN__Article_127)
+* [whitelaw_applications_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_127.md)
+
+## Property: has_MitigationTechnology
+
+* [anonymity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_98.md)
+* [limited data retention](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4447.md)
 
 ## Property: has_MitigationPrinciple
 

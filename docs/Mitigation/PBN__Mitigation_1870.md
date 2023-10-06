@@ -1,15 +1,17 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Preventive Measures__ (PBN__Mitigation_1870)
-
-## Property: has_MitigationTechnology
-
-* [ai](../Technology/PBN__Technology_278)
-* [machine learning](../Technology/PBN__Technology_3004)
-* [iot](../Technology/PBN__Technology_277)
-* [drones](../Technology/PBN__Technology_864)
 
 ## Property: has_MitigationSource
 
-* [sharifi_contributions_2021](../Article/PBN__Article_227)
+* [sharifi_contributions_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_227.md)
+
+## Property: has_MitigationTechnology
+
+* [ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_278.md)
+* [machine learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3004.md)
+* [iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_277.md)
+* [drones](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_864.md)
 
 ## Property: has_MitigationPrinciple
 

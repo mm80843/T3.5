@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Regular inspection and maintenance__ (PBN__Mitigation_1428)
-
-## Property: has_MitigationTechnology
-
-* [qualified hvac professionals](../Technology/PBN__Technology_3871)
-* [industry standards and guidelines](../Technology/PBN__Technology_3872)
 
 ## Property: has_MitigationSource
 
-* [nembhard_ventilation_2020](../Article/PBN__Article_104)
+* [nembhard_ventilation_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_104.md)
+
+## Property: has_MitigationTechnology
+
+* [qualified hvac professionals](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3871.md)
+* [industry standards and guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3872.md)
 
 ## Property: has_MitigationPrinciple
 

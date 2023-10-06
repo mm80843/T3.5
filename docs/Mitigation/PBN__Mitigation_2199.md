@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Ultrabrief Psychological Intervention (UBPI)__ (PBN__Mitigation_2199)
-
-## Property: has_MitigationTechnology
-
-* [nan](../Technology/PBN__Technology_22)
 
 ## Property: has_MitigationSource
 
-* [tze_ping_ultra_2020](../Article/PBN__Article_258)
+* [tze_ping_ultra_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_258.md)
+
+## Property: has_MitigationTechnology
+
+* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 
 ## Property: has_MitigationPrinciple
 

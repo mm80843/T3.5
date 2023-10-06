@@ -1,8 +1,18 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) 
+
 # Article: __roosa_general_2022__ (PBN__Article_217)
+
+## Property: has_ArticleYear
+
+2022
 
 ## Property: has_ArticleLLMShortSummary
 
 This research abstract summarizes a study that explores the effectiveness of personal protection measures, such as mosquito repellent and protective clothing, in mitigating mosquito-borne disease outbreaks. The study uses a compartmental model to examine the dynamics of mosquito-borne diseases in a population and considers individual-level behavioral drivers, such as concern for being bitten by mosquitoes and concern for disease transmission. The results show that while personal protection measures alone are not enough to significantly impact an outbreak, they can be effective in reducing the total number of infections when combined with community-level vector control measures. The study also finds that public health messaging should focus on both general mosquito bite prevention and disease transmission prevention, with the emphasis on one or the other depending on the level of community-level vector control. The findings highlight the importance of considering individual motivations and concerns when designing public health campaigns to reduce the burden of vector-borne diseases.
+
+## Property: has_ArticleTitle
+
+A general modeling framework for exploring the impact of individual concern and personal protection on vector-borne disease dynamics
 
 ## Property: has_ArticleLLMSummary
 
@@ -11,12 +21,4 @@ Scientists have found that climate change and population growth are contributing
 ## Property: has_ArticleDOI
 
 10.1186/s13071-022-05481-7
-
-## Property: has_ArticleTitle
-
-A general modeling framework for exploring the impact of individual concern and personal protection on vector-borne disease dynamics
-
-## Property: has_ArticleYear
-
-2022
 

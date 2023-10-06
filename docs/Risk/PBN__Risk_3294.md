@@ -1,6 +1,8 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Forecast Accuracy__ (PBN__Risk_3294)
 
 ## Property: has_RiskMitigation
 
-* [Predictive Forecasting of Virus Spread](../Mitigation/PBN__Mitigation_1937)
+* [Predictive Forecasting of Virus Spread](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1937.md)
 

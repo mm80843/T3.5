@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __UV-based technologies__ (PBN__Mitigation_1304)
-
-## Property: has_MitigationTechnology
-
-* [uvgi](../Technology/PBN__Technology_3775)
-* [far-uvc light](../Technology/PBN__Technology_3776)
 
 ## Property: has_MitigationSource
 
-* [megahed_indoor_2021](../Article/PBN__Article_206)
+* [megahed_indoor_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_206.md)
+
+## Property: has_MitigationTechnology
+
+* [uvgi](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3775.md)
+* [far-uvc light](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3776.md)
 
 ## Property: has_MitigationPrinciple
 

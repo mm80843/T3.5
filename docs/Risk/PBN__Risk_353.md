@@ -1,54 +1,56 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Shortage of COVID-19 testing kits__ (PBN__Risk_353)
-
-## Property: has_RiskISO_Impact
-
-* [Health and care](../RiskISO/PBN__RiskISO_Purpose_0)
-
-## Property: has_RiskTechnology
-
-* [manufacturing companies](../Technology/PBN__Technology_1084)
-* [logistics providers](../Technology/PBN__Technology_1085)
-
-## Property: has_RiskSubject
-
-* [general population](../Stakeholder/PBN__Stakeholder_9)
-* [healthcare workers](../Stakeholder/PBN__Stakeholder_68)
-
-## Property: has_RiskType
-
-* [technological](../RiskType/PBN__RiskType_5)
-
-## Property: has_RiskISO_Purpose
-
-* [Resilience](../RiskISO/PBN__RiskISO_Impact_2)
-
-## Property: has_RiskOwner
-
-* [manufacturing companies](../Stakeholder/PBN__Stakeholder_1152)
-* [governments](../Stakeholder/PBN__Stakeholder_47)
-
-## Property: has_RiskMitigation
-
-* [Development of IoMT applications](../RiskMitigation/PBN__RiskMitigation_464)
-* [Increase production and distribution of testing kits](../RiskMitigation/PBN__RiskMitigation_2284)
 
 ## Property: has_RiskName
 
 Slows down diagnosis and containment efforts
 
+## Property: has_RiskISO_Impact
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
+## Property: has_RiskOwner
+
+* [manufacturing companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1152.md)
+* [governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
+
+## Property: has_RiskTechnology
+
+* [manufacturing companies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1084.md)
+* [logistics providers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1085.md)
+
+## Property: has_RiskSubject
+
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+* [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
+
+## Property: has_RiskMitigation
+
+* [Development of IoMT applications](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_464.md)
+* [Increase production and distribution of testing kits](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2284.md)
+
 ## Property: has_RiskDescription
 
 Lack of availability and access to testing kits for prompt and widespread testing
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [mbunge_critical_2021](../Article/PBN__Article_91)
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Property: has_RiskType
+
+* [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
 
 ## Property: has_RiskGBN
 
-* [No](../RiskGBN/PBN__RiskGBN_0)
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [physical](../RiskHealth/PBN__RiskHealth_0)
+* [mbunge_critical_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_91.md)
 

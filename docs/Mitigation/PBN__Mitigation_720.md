@@ -1,14 +1,16 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Hand hygiene practices__ (PBN__Mitigation_720)
-
-## Property: has_MitigationTechnology
-
-* [hand sanitizer](../Technology/PBN__Technology_3258)
-* [hand sanitizers](../Technology/PBN__Technology_412)
 
 ## Property: has_MitigationSource
 
-* [guo_aerosol_2020](../Article/PBN__Article_263)
-* [mecenas_effects_2020](../Article/PBN__Article_228)
+* [guo_aerosol_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_263.md)
+* [mecenas_effects_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_228.md)
+
+## Property: has_MitigationTechnology
+
+* [hand sanitizer](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3258.md)
+* [hand sanitizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_412.md)
 
 ## Property: has_MitigationPrinciple
 

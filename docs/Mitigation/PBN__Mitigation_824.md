@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Copper Coating__ (PBN__Mitigation_824)
-
-## Property: has_MitigationTechnology
-
-* [cold-spray technique](../Technology/PBN__Technology_3471)
-* [copper particles](../Technology/PBN__Technology_3472)
 
 ## Property: has_MitigationSource
 
-* [hutasoit_sars-cov-2_2020](../Article/PBN__Article_16)
+* [hutasoit_sars-cov-2_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_16.md)
+
+## Property: has_MitigationTechnology
+
+* [cold-spray technique](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3471.md)
+* [copper particles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3472.md)
 
 ## Property: has_MitigationPrinciple
 

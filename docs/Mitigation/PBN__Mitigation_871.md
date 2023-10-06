@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Contact Tracing and Testing of Close Contacts__ (PBN__Mitigation_871)
-
-## Property: has_MitigationTechnology
-
-* [contact tracing](../Technology/PBN__Technology_404)
-* [testing](../Technology/PBN__Technology_403)
 
 ## Property: has_MitigationSource
 
-* [ingram_covid-19_2021](../Article/PBN__Article_255)
+* [ingram_covid-19_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_255.md)
+
+## Property: has_MitigationTechnology
+
+* [contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_404.md)
+* [testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_403.md)
 
 ## Property: has_MitigationPrinciple
 

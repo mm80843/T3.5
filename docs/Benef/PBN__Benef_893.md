@@ -1,18 +1,20 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Improved hygiene practices__ (PBN__Benef_893)
 
 ## Property: has_BenefDetails
 
 Increased awareness and compliance with hygiene measures, reducing disease transmission risk
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Private investors can reduce operational costs by minimizing absenteeism and enhancing workforce productivity](../BenefReturn/PBN__BenefReturn_976)
+* [ho_assessing_2004](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_180.md)
 
 ## Property: has_Beneficiary
 
-* [building occupants](../Stakeholder/PBN__Stakeholder_97)
+* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [ho_assessing_2004](../Article/PBN__Article_180)
+* [Private investors can reduce operational costs by minimizing absenteeism and enhancing workforce productivity](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_976.md)
 

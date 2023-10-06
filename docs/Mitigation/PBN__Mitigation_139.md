@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Sensor-based fixtures or devices__ (PBN__Mitigation_139)
-
-## Property: has_MitigationTechnology
-
-* [sensors](../Technology/PBN__Technology_200)
-* [automation systems](../Technology/PBN__Technology_2986)
 
 ## Property: has_MitigationSource
 
-* [ara_dilshad_shangi_adaptive_2020](../Article/PBN__Article_151)
+* [ara_dilshad_shangi_adaptive_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_151.md)
+
+## Property: has_MitigationTechnology
+
+* [sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_200.md)
+* [automation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2986.md)
 
 ## Property: has_MitigationPrinciple
 

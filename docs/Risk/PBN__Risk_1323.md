@@ -1,54 +1,56 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Ineffective administrative controls__ (PBN__Risk_1323)
-
-## Property: has_RiskISO_Impact
-
-* [Living and working environment](../RiskISO/PBN__RiskISO_Purpose_1)
-
-## Property: has_RiskTechnology
-
-* [policies](../Technology/PBN__Technology_482)
-* [protocols](../Technology/PBN__Technology_154)
-* [employee training](../Technology/PBN__Technology_483)
-
-## Property: has_RiskSubject
-
-* [workers in all industries](../Stakeholder/PBN__Stakeholder_841)
-
-## Property: has_RiskType
-
-* [social](../RiskType/PBN__RiskType_2)
-
-## Property: has_RiskISO_Purpose
-
-* [Well-being](../RiskISO/PBN__RiskISO_Impact_1)
-
-## Property: has_RiskOwner
-
-* [employers](../Stakeholder/PBN__Stakeholder_180)
-* [human resources](../Stakeholder/PBN__Stakeholder_842)
-* [health and safety professionals](../Stakeholder/PBN__Stakeholder_835)
-
-## Property: has_RiskMitigation
-
-* [Enforce measures such as social distancing and remote work.](../RiskMitigation/PBN__RiskMitigation_1813)
 
 ## Property: has_RiskName
 
 Increased risk of exposure to SARS-CoV-2 in the workplace.
 
+## Property: has_RiskISO_Impact
+
+* [Living and working environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_1.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+
+## Property: has_RiskOwner
+
+* [employers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_180.md)
+* [human resources](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_842.md)
+* [health and safety professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_835.md)
+
+## Property: has_RiskTechnology
+
+* [policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_482.md)
+* [protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_154.md)
+* [employee training](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_483.md)
+
+## Property: has_RiskSubject
+
+* [workers in all industries](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_841.md)
+
+## Property: has_RiskMitigation
+
+* [Enforce measures such as social distancing and remote work.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1813.md)
+
 ## Property: has_RiskDescription
 
 Inadequate implementation of policies and procedures to limit exposure.
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [dehghani_hierarchy_2020](../Article/PBN__Article_73)
+* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_4.md)
+
+## Property: has_RiskType
+
+* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
 
 ## Property: has_RiskGBN
 
-* [Yes](../RiskGBN/PBN__RiskGBN_1)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [social](../RiskHealth/PBN__RiskHealth_4)
+* [dehghani_hierarchy_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_73.md)
 

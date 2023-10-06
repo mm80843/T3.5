@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Adequate ventilation__ (PBN__Mitigation_213)
-
-## Property: has_MitigationTechnology
-
-* [ventilation systems](../Technology/PBN__Technology_139)
-* [opening windows](../Technology/PBN__Technology_3061)
 
 ## Property: has_MitigationSource
 
-* [azuma_environmental_2020](../Article/PBN__Article_249)
+* [azuma_environmental_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_249.md)
+
+## Property: has_MitigationTechnology
+
+* [ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_139.md)
+* [opening windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3061.md)
 
 ## Property: has_MitigationPrinciple
 

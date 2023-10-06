@@ -1,19 +1,21 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Increased safety and confidence in using public transit__ (PBN__Benef_1248)
 
 ## Property: has_BenefDetails
 
 Reduced risk of virus transmission, improved access to transportation options
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Increased ridership, increased revenue for public transit agencies](../BenefReturn/PBN__BenefReturn_1401)
+* [honey-roses_impact_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_261.md)
 
 ## Property: has_Beneficiary
 
-* [public transit users](../Stakeholder/PBN__Stakeholder_486)
-* [general public](../Stakeholder/PBN__Stakeholder_29)
+* [public transit users](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_486.md)
+* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [honey-roses_impact_2020](../Article/PBN__Article_261)
+* [Increased ridership, increased revenue for public transit agencies](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1401.md)
 

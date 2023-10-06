@@ -1,9 +1,11 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Higher COVID-19 mortality rate__ (PBN__Risk_2682)
 
 ## Property: has_RiskMitigation
 
-* [Increase in green space](../Mitigation/PBN__Mitigation_676)
-* [Active transportation infrastructure](../Mitigation/PBN__Mitigation_677)
-* [Promotion of healthier lifestyles](../Mitigation/PBN__Mitigation_678)
-* [Improved access to healthcare](../Mitigation/PBN__Mitigation_679)
+* [Increase in green space](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_676.md)
+* [Active transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_677.md)
+* [Promotion of healthier lifestyles](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_678.md)
+* [Improved access to healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_679.md)
 

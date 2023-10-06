@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Portable Air Conditioners__ (PBN__Mitigation_1965)
-
-## Property: has_MitigationTechnology
-
-* [portable air conditioners](../Technology/PBN__Technology_4173)
 
 ## Property: has_MitigationSource
 
-* [soliman_building_2022](../Article/PBN__Article_224)
+* [soliman_building_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_224.md)
+
+## Property: has_MitigationTechnology
+
+* [portable air conditioners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4173.md)
 
 ## Property: has_MitigationPrinciple
 

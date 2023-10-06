@@ -1,14 +1,16 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Active travel__ (PBN__Mitigation_311)
-
-## Property: has_MitigationTechnology
-
-* [bicycles](../Technology/PBN__Technology_3147)
-* [e-scooters](../Technology/PBN__Technology_3148)
-* [walking](../Technology/PBN__Technology_3149)
 
 ## Property: has_MitigationSource
 
-* [budd_responsible_2020](../Article/PBN__Article_148)
+* [budd_responsible_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_148.md)
+
+## Property: has_MitigationTechnology
+
+* [bicycles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3147.md)
+* [e-scooters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3148.md)
+* [walking](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3149.md)
 
 ## Property: has_MitigationPrinciple
 

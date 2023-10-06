@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Intelligent Transportation System (ITS)__ (PBN__Mitigation_1672)
-
-## Property: has_MitigationTechnology
-
-* [its](../Technology/PBN__Technology_3997)
-* [sensors](../Technology/PBN__Technology_200)
 
 ## Property: has_MitigationSource
 
-* [rahman_automated_2020](../Article/PBN__Article_265)
+* [rahman_automated_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_265.md)
+
+## Property: has_MitigationTechnology
+
+* [its](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3997.md)
+* [sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_200.md)
 
 ## Property: has_MitigationPrinciple
 

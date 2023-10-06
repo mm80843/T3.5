@@ -1,14 +1,16 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __IoT-based solutions for early diagnosis__ (PBN__Mitigation_1182)
-
-## Property: has_MitigationTechnology
-
-* [iot devices](../Technology/PBN__Technology_96)
-* [sensors](../Technology/PBN__Technology_200)
-* [diagnostic tools](../Technology/PBN__Technology_611)
 
 ## Property: has_MitigationSource
 
-* [malliga_comprehensive_2021](../Article/PBN__Article_35)
+* [malliga_comprehensive_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_35.md)
+
+## Property: has_MitigationTechnology
+
+* [iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_96.md)
+* [sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_200.md)
+* [diagnostic tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_611.md)
 
 ## Property: has_MitigationPrinciple
 

@@ -1,15 +1,17 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Green roofs__ (PBN__Mitigation_1187)
-
-## Property: has_MitigationTechnology
-
-* [vegetation](../Technology/PBN__Technology_3716)
-* [layers](../Technology/PBN__Technology_3717)
-* [substrate](../Technology/PBN__Technology_3718)
-* [maintenance needs](../Technology/PBN__Technology_3719)
 
 ## Property: has_MitigationSource
 
-* [manso_role_2021](../Article/PBN__Article_262)
+* [manso_role_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_262.md)
+
+## Property: has_MitigationTechnology
+
+* [vegetation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3716.md)
+* [layers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3717.md)
+* [substrate](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3718.md)
+* [maintenance needs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3719.md)
 
 ## Property: has_MitigationPrinciple
 

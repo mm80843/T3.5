@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Building Information Modelling (BIM)__ (PBN__Mitigation_1234)
-
-## Property: has_MitigationTechnology
-
-* [digital twin](../Technology/PBN__Technology_3757)
-* [knowledge management](../Technology/PBN__Technology_3758)
 
 ## Property: has_MitigationSource
 
-* [matheri_water_2023](../Article/PBN__Article_162)
+* [matheri_water_2023](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_162.md)
+
+## Property: has_MitigationTechnology
+
+* [digital twin](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3757.md)
+* [knowledge management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3758.md)
 
 ## Property: has_MitigationPrinciple
 

@@ -1,6 +1,8 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) 
+
 # Technology: __smart home technologies__ (PBN__Technology_1015)
 
 ## Property: has_TechnologyID
 
-* [Q64865818](../Qid/Q64865818)
+* [Q64865818](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q64865818.md)
 

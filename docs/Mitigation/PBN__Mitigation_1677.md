@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Concentration method__ (PBN__Mitigation_1677)
-
-## Property: has_MitigationTechnology
-
-* [aluminum hydroxide adsorption-precipitation protocol](../Technology/PBN__Technology_4003)
 
 ## Property: has_MitigationSource
 
-* [randazzo_sars-cov-2_2020](../Article/PBN__Article_96)
+* [randazzo_sars-cov-2_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_96.md)
+
+## Property: has_MitigationTechnology
+
+* [aluminum hydroxide adsorption-precipitation protocol](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4003.md)
 
 ## Property: has_MitigationPrinciple
 

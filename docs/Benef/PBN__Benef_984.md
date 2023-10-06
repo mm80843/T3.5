@@ -1,19 +1,21 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Environmental protection__ (PBN__Benef_984)
 
 ## Property: has_BenefDetails
 
 Increased funding for conservation efforts would help protect endangered species and ecosystems
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Private investors in conservation organizations would benefit from increased funding opportunities and potential long-term ecological and economic returns](../BenefReturn/PBN__BenefReturn_1085)
+* [hakovirta_how_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_202.md)
 
 ## Property: has_Beneficiary
 
-* [conservation efforts](../Stakeholder/PBN__Stakeholder_390)
-* [endangered species](../Stakeholder/PBN__Stakeholder_391)
+* [conservation efforts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_390.md)
+* [endangered species](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_391.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [hakovirta_how_2020](../Article/PBN__Article_202)
+* [Private investors in conservation organizations would benefit from increased funding opportunities and potential long-term ecological and economic returns](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1085.md)
 

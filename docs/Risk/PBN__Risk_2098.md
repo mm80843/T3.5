@@ -1,53 +1,55 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Legal and regulatory dimension__ (PBN__Risk_2098)
-
-## Property: has_RiskISO_Impact
-
-* [Health and care](../RiskISO/PBN__RiskISO_Purpose_0)
-
-## Property: has_RiskTechnology
-
-* [privacy policies](../Technology/PBN__Technology_1589)
-* [standardization and regulation](../Technology/PBN__Technology_1590)
-
-## Property: has_RiskSubject
-
-* [patients](../Stakeholder/PBN__Stakeholder_31)
-* [healthcare organizations](../Stakeholder/PBN__Stakeholder_216)
-
-## Property: has_RiskType
-
-* [legal](../RiskType/PBN__RiskType_6)
-
-## Property: has_RiskISO_Purpose
-
-* [Health and care](../RiskISO/PBN__RiskISO_Impact_3)
-
-## Property: has_RiskOwner
-
-* [policy bodies](../Stakeholder/PBN__Stakeholder_1407)
-* [legal advisors](../Stakeholder/PBN__Stakeholder_1408)
-
-## Property: has_RiskMitigation
-
-* [Adhere to privacy policies, standardize and regulate healthcare technology, obtain legal advice](../RiskMitigation/PBN__RiskMitigation_2747)
 
 ## Property: has_RiskName
 
 Violation of privacy, denial of healthcare access, liability concerns
 
+## Property: has_RiskISO_Impact
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
+
+## Property: has_RiskOwner
+
+* [policy bodies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1407.md)
+* [legal advisors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1408.md)
+
+## Property: has_RiskTechnology
+
+* [privacy policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1589.md)
+* [standardization and regulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1590.md)
+
+## Property: has_RiskSubject
+
+* [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
+* [healthcare organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_216.md)
+
+## Property: has_RiskMitigation
+
+* [Adhere to privacy policies, standardize and regulate healthcare technology, obtain legal advice](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2747.md)
+
 ## Property: has_RiskDescription
 
 Legal issues related to privacy, access to healthcare, and liability
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [siriwardhana_role_2021](../Article/PBN__Article_9)
+* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
+
+## Property: has_RiskType
+
+* [legal](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_6.md)
 
 ## Property: has_RiskGBN
 
-* [Yes](../RiskGBN/PBN__RiskGBN_1)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [other](../RiskHealth/PBN__RiskHealth_2)
+* [siriwardhana_role_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_9.md)
 

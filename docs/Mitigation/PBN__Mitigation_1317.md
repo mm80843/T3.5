@@ -1,14 +1,16 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Big Data__ (PBN__Mitigation_1317)
-
-## Property: has_MitigationTechnology
-
-* [data analytics](../Technology/PBN__Technology_1069)
-* [facial recognition software](../Technology/PBN__Technology_3788)
 
 ## Property: has_MitigationSource
 
-* [mehtab_alam_role_2021](../Article/PBN__Article_267)
-* [parkinson_continuous_2019](../Article/PBN__Article_160)
+* [mehtab_alam_role_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_267.md)
+* [parkinson_continuous_2019](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_160.md)
+
+## Property: has_MitigationTechnology
+
+* [data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1069.md)
+* [facial recognition software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3788.md)
 
 ## Property: has_MitigationPrinciple
 

@@ -1,13 +1,23 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) 
+
 # Article: __arpaci_leveraging_2021__ (PBN__Article_297)
+
+## Property: has_ArticleYear
+
+2021
+
+## Property: has_ArticleRef
+
+* [yang_combating_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_23.md)
+* [chamola_comprehensive_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_313.md)
 
 ## Property: has_ArticleLLMShortSummary
 
 This research abstract summarizes a study that proposes an integrated framework of digital transformation technologies to tackle the COVID-19 pandemic. The study highlights the benefits and challenges of using these technologies for diagnosis, treatment, and prevention of COVID-19. The proposed framework consists of four main components: data sources, digital transformation technologies, applications, and users. It utilizes emerging technologies such as artificial intelligence, blockchain, robotics, and telemedicine to improve efficiency and effectiveness in managing the pandemic. The study emphasizes the importance of data acquisition and integration, privacy, governance, expertise, scalability, legislation, infrastructure, cost, adoption, and trust as key challenges in implementing this framework. The researchers conclude that a holistic approach that integrates various digital transformation technologies can help mitigate the negative impacts of the pandemic and improve the healthcare system.
 
-## Property: has_ArticleRef
+## Property: has_ArticleTitle
 
-* [yang_combating_2020](../Article/PBN__Article_23)
-* [chamola_comprehensive_2020](../Article/PBN__Article_313)
+Leveraging Digital Transformation Technologies to Tackle COVID-19: Proposing a Privacy-First Holistic Framework
 
 ## Property: has_ArticleLLMSummary
 
@@ -16,12 +26,4 @@ The COVID-19 pandemic is a disease caused by a virus that attacks people's respi
 ## Property: has_ArticleDOI
 
 10.1007/978-3-030-67716-9_10
-
-## Property: has_ArticleTitle
-
-Leveraging Digital Transformation Technologies to Tackle COVID-19: Proposing a Privacy-First Holistic Framework
-
-## Property: has_ArticleYear
-
-2021
 

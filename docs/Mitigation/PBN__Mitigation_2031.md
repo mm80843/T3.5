@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Partition/barriers__ (PBN__Mitigation_2031)
-
-## Property: has_MitigationTechnology
-
-* [strip curtains](../Technology/PBN__Technology_4199)
-* [plastic barriers](../Technology/PBN__Technology_4200)
 
 ## Property: has_MitigationSource
 
-* [sunandar_preventing_2021](../Article/PBN__Article_102)
+* [sunandar_preventing_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_102.md)
+
+## Property: has_MitigationTechnology
+
+* [strip curtains](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4199.md)
+* [plastic barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4200.md)
 
 ## Property: has_MitigationPrinciple
 

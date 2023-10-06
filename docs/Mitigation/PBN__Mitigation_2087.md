@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Human movement analysis__ (PBN__Mitigation_2087)
-
-## Property: has_MitigationTechnology
-
-* [mobile phone cdrs](../Technology/PBN__Technology_4224)
 
 ## Property: has_MitigationSource
 
-* [tatem_integrating_2014](../Article/PBN__Article_76)
+* [tatem_integrating_2014](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_76.md)
+
+## Property: has_MitigationTechnology
+
+* [mobile phone cdrs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4224.md)
 
 ## Property: has_MitigationPrinciple
 

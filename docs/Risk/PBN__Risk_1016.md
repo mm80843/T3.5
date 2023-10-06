@@ -1,68 +1,70 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Zoonotic infections__ (PBN__Risk_1016)
-
-## Property: has_RiskISO_Impact
-
-* [Health and care](../RiskISO/PBN__RiskISO_Purpose_0)
-
-## Property: has_RiskTechnology
-
-* [surveillance systems](../Technology/PBN__Technology_0)
-* [testing and diagnostic technologies](../Technology/PBN__Technology_1)
-* [increased surveillance and monitoring](../Technology/PBN__Technology_525)
-* [early detection and response systems](../Technology/PBN__Technology_526)
-* [improved sanitation and hygiene practices](../Technology/PBN__Technology_527)
-
-## Property: has_RiskSubject
-
-* [general population](../Stakeholder/PBN__Stakeholder_9)
-* [healthcare workers](../Stakeholder/PBN__Stakeholder_68)
-* [wildlife conservation organizations](../Stakeholder/PBN__Stakeholder_545)
-* [humans](../Stakeholder/PBN__Stakeholder_17)
-* [animals](../Stakeholder/PBN__Stakeholder_18)
-* [ecosystems](../Stakeholder/PBN__Stakeholder_19)
-
-## Property: has_RiskType
-
-* [environmental](../RiskType/PBN__RiskType_0)
-
-## Property: has_RiskISO_Purpose
-
-* [Safety and security](../RiskISO/PBN__RiskISO_Impact_0)
-
-## Property: has_RiskOwner
-
-* [government agencies](../Stakeholder/PBN__Stakeholder_55)
-* [healthcare institutions](../Stakeholder/PBN__Stakeholder_269)
-* [wildlife conservation organizations](../Stakeholder/PBN__Stakeholder_545)
-* [governments](../Stakeholder/PBN__Stakeholder_47)
-* [international organizations](../Stakeholder/PBN__Stakeholder_242)
-* [communities](../Stakeholder/PBN__Stakeholder_4)
-
-## Property: has_RiskMitigation
-
-* [Improve animal-human interactions, control illegal wildlife trade, strengthen surveillance and monitoring systems](../RiskMitigation/PBN__RiskMitigation_1447)
-* [Strengthen regulations on wildlife trade and consumption, protect biodiversity, and improve animal husbandry practices](../RiskMitigation/PBN__RiskMitigation_1835)
 
 ## Property: has_RiskName
 
 Increased risk of emerging infectious diseases
 
+## Property: has_RiskISO_Impact
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_0.md)
+
+## Property: has_RiskOwner
+
+* [government agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_55.md)
+* [healthcare institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_269.md)
+* [wildlife conservation organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_545.md)
+* [governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
+* [international organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_242.md)
+* [communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_4.md)
+
+## Property: has_RiskTechnology
+
+* [surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_0.md)
+* [testing and diagnostic technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1.md)
+* [increased surveillance and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_525.md)
+* [early detection and response systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_526.md)
+* [improved sanitation and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_527.md)
+
+## Property: has_RiskSubject
+
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+* [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
+* [wildlife conservation organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_545.md)
+* [humans](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_17.md)
+* [animals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_18.md)
+* [ecosystems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_19.md)
+
+## Property: has_RiskMitigation
+
+* [Improve animal-human interactions, control illegal wildlife trade, strengthen surveillance and monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1447.md)
+* [Strengthen regulations on wildlife trade and consumption, protect biodiversity, and improve animal husbandry practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1835.md)
+
 ## Property: has_RiskDescription
 
 Diseases transmitted from animals to humans have increased in recent decades due to deforestation, wildlife hunting, and intensive animal husbandry
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [abideen_mitigation_2020](../Article/PBN__Article_200)
-* [duflot_building_2021](../Article/PBN__Article_5)
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
+
+## Property: has_RiskType
+
+* [environmental](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_0.md)
 
 ## Property: has_RiskGBN
 
-* [No](../RiskGBN/PBN__RiskGBN_0)
-* [Yes](../RiskGBN/PBN__RiskGBN_1)
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [physical](../RiskHealth/PBN__RiskHealth_0)
-* [other](../RiskHealth/PBN__RiskHealth_2)
+* [abideen_mitigation_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_200.md)
+* [duflot_building_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_5.md)
 

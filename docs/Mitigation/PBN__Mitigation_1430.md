@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Removal of wet or contaminated insulation__ (PBN__Mitigation_1430)
-
-## Property: has_MitigationTechnology
-
-* [proper cleaning procedures](../Technology/PBN__Technology_1727)
 
 ## Property: has_MitigationSource
 
-* [nembhard_ventilation_2020](../Article/PBN__Article_104)
+* [nembhard_ventilation_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_104.md)
+
+## Property: has_MitigationTechnology
+
+* [proper cleaning procedures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1727.md)
 
 ## Property: has_MitigationPrinciple
 

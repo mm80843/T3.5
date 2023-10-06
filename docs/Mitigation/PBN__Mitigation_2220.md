@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Sequence annotation__ (PBN__Mitigation_2220)
-
-## Property: has_MitigationTechnology
-
-* [bioaider software](../Technology/PBN__Technology_4338)
 
 ## Property: has_MitigationSource
 
-* [ugail_social_2021](../Article/PBN__Article_186)
+* [ugail_social_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_186.md)
+
+## Property: has_MitigationTechnology
+
+* [bioaider software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4338.md)
 
 ## Property: has_MitigationPrinciple
 

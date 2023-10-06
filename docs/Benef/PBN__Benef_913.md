@@ -1,18 +1,20 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Increased trust in official information__ (PBN__Benef_913)
 
 ## Property: has_BenefDetails
 
 Increased access to reliable and accurate information from trusted sources
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Increased trust in official information can lead to more compliant behavior among the public, potentially decreasing the spread of the virus.](../BenefReturn/PBN__BenefReturn_1000)
+* [kaya_changes_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_185.md)
 
 ## Property: has_Beneficiary
 
-* [general public](../Stakeholder/PBN__Stakeholder_29)
+* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [kaya_changes_2020](../Article/PBN__Article_185)
+* [Increased trust in official information can lead to more compliant behavior among the public, potentially decreasing the spread of the virus.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1000.md)
 

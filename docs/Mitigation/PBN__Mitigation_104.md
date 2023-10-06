@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Video surveillance__ (PBN__Mitigation_104)
-
-## Property: has_MitigationTechnology
-
-* [video networking](../Technology/PBN__Technology_2967)
-* [cloud storage](../Technology/PBN__Technology_2968)
 
 ## Property: has_MitigationSource
 
-* [allam_emergence_2019](../Article/PBN__Article_15)
+* [allam_emergence_2019](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_15.md)
+
+## Property: has_MitigationTechnology
+
+* [video networking](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2967.md)
+* [cloud storage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2968.md)
 
 ## Property: has_MitigationPrinciple
 

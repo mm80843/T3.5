@@ -1,21 +1,23 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Private investment__ (PBN__Benef_151)
 
 ## Property: has_BenefDetails
 
 Attracting private investment through sustainable financing strategies
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Increased funding and financial stability for PCAs, economic growth and job creation](../BenefReturn/PBN__BenefReturn_152)
+* [cumming_building_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_33.md)
 
 ## Property: has_Beneficiary
 
-* [pcas](../Stakeholder/PBN__Stakeholder_84)
-* [private investors](../Stakeholder/PBN__Stakeholder_89)
-* [finance sector](../Stakeholder/PBN__Stakeholder_90)
-* [economy](../Stakeholder/PBN__Stakeholder_91)
+* [pcas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_84.md)
+* [private investors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_89.md)
+* [finance sector](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_90.md)
+* [economy](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_91.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [cumming_building_2021](../Article/PBN__Article_33)
+* [Increased funding and financial stability for PCAs, economic growth and job creation](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_152.md)
 

@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __TaqMan real-time RT-PCR__ (PBN__Mitigation_1678)
-
-## Property: has_MitigationTechnology
-
-* [taqman rt-qpcr assay](../Technology/PBN__Technology_4004)
-* [lightcycler 480 instrument](../Technology/PBN__Technology_4005)
 
 ## Property: has_MitigationSource
 
-* [randazzo_sars-cov-2_2020](../Article/PBN__Article_96)
+* [randazzo_sars-cov-2_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_96.md)
+
+## Property: has_MitigationTechnology
+
+* [taqman rt-qpcr assay](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4004.md)
+* [lightcycler 480 instrument](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4005.md)
 
 ## Property: has_MitigationPrinciple
 

@@ -1,19 +1,21 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Accelerated sustainability transitions__ (PBN__Benef_625)
 
 ## Property: has_BenefDetails
 
 Research on sustainable solutions during and after the pandemic can accelerate the transition to renewable energy, energy efficiency, and low-carbon technologies
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Private investors can benefit from investment in innovative solutions and technologies, creating new market opportunities and driving economic growth.](../BenefReturn/PBN__BenefReturn_668)
+* [sovacool_contextualizing_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_123.md)
 
 ## Property: has_Beneficiary
 
-* [energy and climate researchers](../Stakeholder/PBN__Stakeholder_255)
-* [society](../Stakeholder/PBN__Stakeholder_53)
+* [energy and climate researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_255.md)
+* [society](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_53.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [sovacool_contextualizing_2020](../Article/PBN__Article_123)
+* [Private investors can benefit from investment in innovative solutions and technologies, creating new market opportunities and driving economic growth.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_668.md)
 

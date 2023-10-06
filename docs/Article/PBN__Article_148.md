@@ -1,8 +1,18 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) 
+
 # Article: __budd_responsible_2020__ (PBN__Article_148)
+
+## Property: has_ArticleYear
+
+2020
 
 ## Property: has_ArticleLLMShortSummary
 
 The COVID-19 pandemic resulted in a significant reduction in industrial activity and transport emissions, leading to improved air quality and a glimpse of a greener future. Lockdown measures and stay-at-home orders resulted in a decline in road traffic, air travel, and public transport ridership. People noticed cleaner air, reduced noise pollution, and the benefits of walking and cycling. This shift to a slower, more local, and less-carbon intensive existence demonstrated the potential for sustained changes in a post-COVID world. The pandemic also highlighted the role of individual responsibility and actions in achieving positive social and environmental outcomes. As discussions of the "new normal" and post-COVID recovery take place, there are opportunities to develop a new future for transport. This paper proposes the concept of Responsible Transport, which emphasizes the role of individual choices and actions in delivering socially desired outcomes. It encourages individuals to consider the impact of their travel choices on themselves, others, and the environment, and advocates for a shift towards more sustainable modes of transportation. It also highlights the importance of empowering individuals to effect positive change and calls for a reconfiguration of transport policies and practices at all levels, from local to international.
+
+## Property: has_ArticleTitle
+
+Responsible Transport: A post-COVID agenda for transport policy and practice
 
 ## Property: has_ArticleLLMSummary
 
@@ -11,12 +21,4 @@ During the COVID-19 pandemic, there was a big decrease in people traveling and g
 ## Property: has_ArticleDOI
 
 10.1016/j.trip.2020.100151
-
-## Property: has_ArticleTitle
-
-Responsible Transport: A post-COVID agenda for transport policy and practice
-
-## Property: has_ArticleYear
-
-2020
 

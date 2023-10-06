@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Privacy protection issues__ (PBN__Mitigation_1949)
-
-## Property: has_MitigationTechnology
-
-* [privacy-by-design](../Technology/PBN__Technology_1579)
-* [software defined privacy](../Technology/PBN__Technology_4155)
 
 ## Property: has_MitigationSource
 
-* [siriwardhana_role_2021](../Article/PBN__Article_9)
+* [siriwardhana_role_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_9.md)
+
+## Property: has_MitigationTechnology
+
+* [privacy-by-design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1579.md)
+* [software defined privacy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4155.md)
 
 ## Property: has_MitigationPrinciple
 

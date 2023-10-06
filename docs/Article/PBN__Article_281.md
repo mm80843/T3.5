@@ -1,8 +1,18 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) 
+
 # Article: __saini_comprehensive_2020__ (PBN__Article_281)
+
+## Property: has_ArticleYear
+
+2020
 
 ## Property: has_ArticleLLMShortSummary
 
 This paper provides an overview of the challenges and health impacts associated with indoor air pollution (IAP), particularly in developing countries. It discusses the use of biomass fuels for cooking and heating purposes, which is a major contributor to IAP and associated health issues. The paper highlights the need for improved ventilation and cleaner cooking solutions to reduce IAP and improve indoor air quality (IAQ). Several IAQ monitoring systems are reviewed, including those based on wireless sensor networks (WSNs) and Internet of Things (IoT) technologies. The strengths and weaknesses of these systems are discussed, along with the potential for future research in IAQ monitoring. The paper concludes by emphasizing the importance of developing cost-effective and accurate IAQ monitoring systems to address the health challenges posed by IAP.
+
+## Property: has_ArticleTitle
+
+A comprehensive review on indoor air quality monitoring systems for enhanced public health
 
 ## Property: has_ArticleLLMSummary
 
@@ -11,12 +21,4 @@ Researchers have been studying the quality of the air we breathe, especially ind
 ## Property: has_ArticleDOI
 
 10.1186/s42834-020-0047-y
-
-## Property: has_ArticleTitle
-
-A comprehensive review on indoor air quality monitoring systems for enhanced public health
-
-## Property: has_ArticleYear
-
-2020
 

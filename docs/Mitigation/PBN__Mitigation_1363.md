@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Air cleaning devices__ (PBN__Mitigation_1363)
-
-## Property: has_MitigationTechnology
-
-* [germicidal ultraviolet (guv)](../Technology/PBN__Technology_3820)
 
 ## Property: has_MitigationSource
 
-* [morawska_how_2020](../Article/PBN__Article_121)
+* [morawska_how_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_121.md)
+
+## Property: has_MitigationTechnology
+
+* [germicidal ultraviolet (guv)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3820.md)
 
 ## Property: has_MitigationPrinciple
 

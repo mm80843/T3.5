@@ -1,18 +1,20 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Reduced virus lifespan on surfaces__ (PBN__Benef_75)
 
 ## Property: has_BenefDetails
 
 Copper-coated surfaces inactivate COVID-19 virus within hours, reducing the risk of transmission through surface contact.
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Private investors can benefit from investing in copper coating technology as it improves the value and safety of public spaces, reducing the risk of liability and potential shutdowns.](../BenefReturn/PBN__BenefReturn_76)
+* [hutasoit_sars-cov-2_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_16.md)
 
 ## Property: has_Beneficiary
 
-* [public](../Stakeholder/PBN__Stakeholder_52)
+* [public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_52.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [hutasoit_sars-cov-2_2020](../Article/PBN__Article_16)
+* [Private investors can benefit from investing in copper coating technology as it improves the value and safety of public spaces, reducing the risk of liability and potential shutdowns.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_76.md)
 

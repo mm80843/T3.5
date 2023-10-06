@@ -1,6 +1,8 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) 
+
 # Technology: __use of advanced hvac systems with high-efficiency filters__ (PBN__Technology_1020)
 
 ## Property: has_TechnologyID
 
-* [Q583488](../Qid/Q583488)
+* [Q583488](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q583488.md)
 

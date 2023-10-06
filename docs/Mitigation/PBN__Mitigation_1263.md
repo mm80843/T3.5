@@ -1,14 +1,16 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Wearing face masks__ (PBN__Mitigation_1263)
-
-## Property: has_MitigationTechnology
-
-* [face masks](../Technology/PBN__Technology_342)
-* [nan](../Technology/PBN__Technology_22)
 
 ## Property: has_MitigationSource
 
-* [mecenas_effects_2020](../Article/PBN__Article_228)
-* [spennemann_designing_2022](../Article/PBN__Article_149)
+* [mecenas_effects_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_228.md)
+* [spennemann_designing_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_149.md)
+
+## Property: has_MitigationTechnology
+
+* [face masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_342.md)
+* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 
 ## Property: has_MitigationPrinciple
 

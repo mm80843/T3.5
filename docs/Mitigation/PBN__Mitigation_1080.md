@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Investing in disaster risk reduction and preparedness__ (PBN__Mitigation_1080)
-
-## Property: has_MitigationTechnology
-
-* [preparedness planning](../Technology/PBN__Technology_3630)
-* [risk reduction measures](../Technology/PBN__Technology_3631)
 
 ## Property: has_MitigationSource
 
-* [lawal_covid-19_2022](../Article/PBN__Article_215)
+* [lawal_covid-19_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_215.md)
+
+## Property: has_MitigationTechnology
+
+* [preparedness planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3630.md)
+* [risk reduction measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3631.md)
 
 ## Property: has_MitigationPrinciple
 

@@ -1,6 +1,8 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) 
+
 # Technology: __investment in education__ (PBN__Technology_942)
 
 ## Property: has_TechnologyID
 
-* [Q59243211](../Qid/Q59243211)
+* [Q59243211](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q59243211.md)
 

@@ -1,19 +1,21 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Improved disaster response__ (PBN__Benef_745)
 
 ## Property: has_BenefDetails
 
 Adoption of pandemic preparedness protocols can ensure a coordinated and efficient disaster response, reducing the impact of pandemics on cities
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Urban planning and architectural institutions can contribute to better urban planning and design strategies, leading to safer and more resilient cities.](../BenefReturn/PBN__BenefReturn_808)
+* [allam_pandemic_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_147.md)
 
 ## Property: has_Beneficiary
 
-* [urban planning and architectural institutions](../Stakeholder/PBN__Stakeholder_308)
-* [general public](../Stakeholder/PBN__Stakeholder_29)
+* [urban planning and architectural institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_308.md)
+* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [allam_pandemic_2020](../Article/PBN__Article_147)
+* [Urban planning and architectural institutions can contribute to better urban planning and design strategies, leading to safer and more resilient cities.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_808.md)
 

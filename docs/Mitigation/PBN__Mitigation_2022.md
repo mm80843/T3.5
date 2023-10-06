@@ -1,14 +1,16 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __AI/ML/DL__ (PBN__Mitigation_2022)
-
-## Property: has_MitigationTechnology
-
-* [artificial intelligence](../Technology/PBN__Technology_358)
-* [machine learning](../Technology/PBN__Technology_3004)
-* [deep learning](../Technology/PBN__Technology_1715)
 
 ## Property: has_MitigationSource
 
-* [subramanian_role_2021](../Article/PBN__Article_226)
+* [subramanian_role_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_226.md)
+
+## Property: has_MitigationTechnology
+
+* [artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_358.md)
+* [machine learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3004.md)
+* [deep learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1715.md)
 
 ## Property: has_MitigationPrinciple
 

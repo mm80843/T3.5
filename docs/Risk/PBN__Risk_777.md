@@ -1,56 +1,58 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Food insecurity and poor-quality diets__ (PBN__Risk_777)
-
-## Property: has_RiskISO_Impact
-
-* [Community infrastructures](../RiskISO/PBN__RiskISO_Purpose_9)
-
-## Property: has_RiskTechnology
-
-* [agricultural technology](../Technology/PBN__Technology_69)
-* [food production and distribution systems](../Technology/PBN__Technology_70)
-
-## Property: has_RiskSubject
-
-* [children](../Stakeholder/PBN__Stakeholder_62)
-* [families](../Stakeholder/PBN__Stakeholder_580)
-
-## Property: has_RiskType
-
-* [socio-economic](../RiskType/PBN__RiskType_7)
-
-## Property: has_RiskISO_Purpose
-
-* [Responsible resource use](../RiskISO/PBN__RiskISO_Impact_4)
-
-## Property: has_RiskOwner
-
-* [government](../Stakeholder/PBN__Stakeholder_73)
-* [ngos](../Stakeholder/PBN__Stakeholder_234)
-* [communities](../Stakeholder/PBN__Stakeholder_4)
-
-## Property: has_RiskMitigation
-
-* [Building resilient food systems](../RiskMitigation/PBN__RiskMitigation_1070)
-* [Implement innovative demand and supply-side initiatives to build resilient food systems](../RiskMitigation/PBN__RiskMitigation_1493)
-* [Building resilient food systems](../Mitigation/PBN__Mitigation_81)
 
 ## Property: has_RiskName
 
 Increased risk of undernutrition and related health issues
 
+## Property: has_RiskISO_Impact
+
+* [Community infrastructures](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_9.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+
+## Property: has_RiskOwner
+
+* [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
+* [ngos](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_234.md)
+* [communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_4.md)
+
+## Property: has_RiskTechnology
+
+* [agricultural technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_69.md)
+* [food production and distribution systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_70.md)
+
+## Property: has_RiskSubject
+
+* [children](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_62.md)
+* [families](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_580.md)
+
+## Property: has_RiskMitigation
+
+* [Building resilient food systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1070.md)
+* [Implement innovative demand and supply-side initiatives to build resilient food systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1493.md)
+* [Building resilient food systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_81.md)
+
 ## Property: has_RiskDescription
 
 Limited access to fresh produce may lead to increased consumption of processed and less nutritious foods, resulting in poor health outcomes
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [akseer_covid-19_2020](../Article/PBN__Article_222)
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Property: has_RiskType
+
+* [socio-economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_7.md)
 
 ## Property: has_RiskGBN
 
-* [Yes](../RiskGBN/PBN__RiskGBN_1)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [physical](../RiskHealth/PBN__RiskHealth_0)
+* [akseer_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_222.md)
 

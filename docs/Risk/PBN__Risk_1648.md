@@ -1,55 +1,57 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Lack of multi-sectoral collaboration__ (PBN__Risk_1648)
-
-## Property: has_RiskISO_Impact
-
-* [Innovation, Creativity and research](../RiskISO/PBN__RiskISO_Purpose_2)
-
-## Property: has_RiskTechnology
-
-* [inter-sectorial impact models](../Technology/PBN__Technology_983)
-* [collaborative planning and decision-making processes](../Technology/PBN__Technology_984)
-
-## Property: has_RiskSubject
-
-* [health sector](../Stakeholder/PBN__Stakeholder_1071)
-* [urban planning authorities](../Stakeholder/PBN__Stakeholder_1072)
-* [water management agencies](../Stakeholder/PBN__Stakeholder_1073)
-
-## Property: has_RiskType
-
-* [social](../RiskType/PBN__RiskType_2)
-
-## Property: has_RiskISO_Purpose
-
-* [Research](../RiskISO/PBN__RiskISO_Impact_11)
-
-## Property: has_RiskOwner
-
-* [multi-sectoral organizations](../Stakeholder/PBN__Stakeholder_1074)
-* [government agencies](../Stakeholder/PBN__Stakeholder_55)
-* [urban planning authorities](../Stakeholder/PBN__Stakeholder_1072)
-
-## Property: has_RiskMitigation
-
-* [Foster multi-sectoral collaboration, align policies and climate services, prioritize urban health in climate change planning.](../RiskMitigation/PBN__RiskMitigation_2196)
 
 ## Property: has_RiskName
 
 Inefficient use of resources and missed opportunities for integrated solutions.
 
+## Property: has_RiskISO_Impact
+
+* [Innovation, Creativity and research](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_2.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Research](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_11.md)
+
+## Property: has_RiskOwner
+
+* [multi-sectoral organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1074.md)
+* [government agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_55.md)
+* [urban planning authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1072.md)
+
+## Property: has_RiskTechnology
+
+* [inter-sectorial impact models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_983.md)
+* [collaborative planning and decision-making processes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_984.md)
+
+## Property: has_RiskSubject
+
+* [health sector](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1071.md)
+* [urban planning authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1072.md)
+* [water management agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1073.md)
+
+## Property: has_RiskMitigation
+
+* [Foster multi-sectoral collaboration, align policies and climate services, prioritize urban health in climate change planning.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2196.md)
+
 ## Property: has_RiskDescription
 
 Limited collaboration between different sectors, including health, urban planning, and water management, hinders effective mitigation strategies for urban health issues.
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [ligsay_challenges_2021](../Article/PBN__Article_95)
+* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
+
+## Property: has_RiskType
+
+* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
 
 ## Property: has_RiskGBN
 
-* [No](../RiskGBN/PBN__RiskGBN_0)
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [other](../RiskHealth/PBN__RiskHealth_2)
+* [ligsay_challenges_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_95.md)
 

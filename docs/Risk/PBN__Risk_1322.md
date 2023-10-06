@@ -1,53 +1,55 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Lack of physical barriers__ (PBN__Risk_1322)
-
-## Property: has_RiskISO_Impact
-
-* [Health and care](../RiskISO/PBN__RiskISO_Purpose_0)
-
-## Property: has_RiskTechnology
-
-* [plexiglass](../Technology/PBN__Technology_479)
-* [polycarbonate](../Technology/PBN__Technology_480)
-* [tempered glass](../Technology/PBN__Technology_481)
-
-## Property: has_RiskSubject
-
-* [workers in close-proximity work environments](../Stakeholder/PBN__Stakeholder_840)
-
-## Property: has_RiskType
-
-* [technological](../RiskType/PBN__RiskType_5)
-
-## Property: has_RiskISO_Purpose
-
-* [Responsible resource use](../RiskISO/PBN__RiskISO_Impact_4)
-
-## Property: has_RiskOwner
-
-* [employers](../Stakeholder/PBN__Stakeholder_180)
-* [facilities management](../Stakeholder/PBN__Stakeholder_658)
-
-## Property: has_RiskMitigation
-
-* [Install physical barriers such as plexiglass or partitions.](../RiskMitigation/PBN__RiskMitigation_1812)
 
 ## Property: has_RiskName
 
 Increased risk of transmission due to close human interaction.
 
+## Property: has_RiskISO_Impact
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+
+## Property: has_RiskOwner
+
+* [employers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_180.md)
+* [facilities management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_658.md)
+
+## Property: has_RiskTechnology
+
+* [plexiglass](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_479.md)
+* [polycarbonate](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_480.md)
+* [tempered glass](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_481.md)
+
+## Property: has_RiskSubject
+
+* [workers in close-proximity work environments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_840.md)
+
+## Property: has_RiskMitigation
+
+* [Install physical barriers such as plexiglass or partitions.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1812.md)
+
 ## Property: has_RiskDescription
 
 Absence of physical barriers can facilitate the spread of the virus.
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [dehghani_hierarchy_2020](../Article/PBN__Article_73)
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Property: has_RiskType
+
+* [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
 
 ## Property: has_RiskGBN
 
-* [Yes](../RiskGBN/PBN__RiskGBN_1)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [physical](../RiskHealth/PBN__RiskHealth_0)
+* [dehghani_hierarchy_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_73.md)
 

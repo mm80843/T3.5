@@ -1,14 +1,16 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Position the KT platform as a credible source__ (PBN__Mitigation_608)
-
-## Property: has_MitigationTechnology
-
-* [trust](../Technology/PBN__Technology_3350)
-* [responsiveness](../Technology/PBN__Technology_3351)
-* [transparency](../Technology/PBN__Technology_1927)
 
 ## Property: has_MitigationSource
 
-* [el-jardali_amplifying_2020](../Article/PBN__Article_111)
+* [el-jardali_amplifying_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_111.md)
+
+## Property: has_MitigationTechnology
+
+* [trust](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3350.md)
+* [responsiveness](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3351.md)
+* [transparency](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1927.md)
 
 ## Property: has_MitigationPrinciple
 

@@ -1,4 +1,10 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) 
+
 # Article: __gonzalez_reflecting_2021__ (PBN__Article_110)
+
+## Property: has_ArticleYear
+
+2021
 
 ## Property: has_ArticleLLMShortSummary
 
@@ -8,6 +14,10 @@ While outdoor air quality has improved during the pandemic due to reduced econom
 
 The pandemic has exacerbated social equity issues related to indoor environments, as people are forced to spend more time indoors without adequate HVAC systems. Low-income communities face the economic burden of using HVAC systems during the summer season. As extended stay-at-home periods continue, sociotechnical analysis and solutions are needed to address the challenges of climate change, vulnerable communities, and global pandemics.
 
+## Property: has_ArticleTitle
+
+Reflecting on Impacts of COVID19 on Sustainable Buildings and Cities
+
 ## Property: has_ArticleLLMSummary
 
 The COVID19 pandemic has affected many parts of our lives, including buildings and cities. Buildings are important because the virus can spread easily indoors, so it's important to have good ventilation and filters to control the spread. However, many buildings were not designed with this in mind, so changes may need to be made to make them safer. The pandemic has also affected the demand for energy, with less energy being used in commercial buildings and more in residential buildings. This has led to changes in how buildings should be designed in the future. Lastly, the pandemic has shown that not everyone has access to healthy indoor environments, which is a problem that needs to be addressed.
@@ -15,12 +25,4 @@ The COVID19 pandemic has affected many parts of our lives, including buildings a
 ## Property: has_ArticleDOI
 
 10.1115/1.4050374
-
-## Property: has_ArticleTitle
-
-Reflecting on Impacts of COVID19 on Sustainable Buildings and Cities
-
-## Property: has_ArticleYear
-
-2021
 

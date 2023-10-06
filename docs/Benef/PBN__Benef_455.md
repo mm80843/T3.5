@@ -1,22 +1,24 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Improved communication__ (PBN__Benef_455)
 
 ## Property: has_BenefDetails
 
 Facilitates clear communication by providing a well-lit, noise-free environment with close proximity between subjects.
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Enhances coordination, reduces disruptions in healthcare delivery, and ensures effective use of resources.](../BenefReturn/PBN__BenefReturn_491)
-* [Enhanced team collaboration, increased efficiency in information sharing and problem-solving.](../BenefReturn/PBN__BenefReturn_1002)
+* [robbins_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_93.md)
+* [ugail_social_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_186.md)
 
 ## Property: has_Beneficiary
 
-* [healthcare staff](../Stakeholder/PBN__Stakeholder_139)
-* [employees](../Stakeholder/PBN__Stakeholder_220)
-* [teams](../Stakeholder/PBN__Stakeholder_363)
+* [healthcare staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_139.md)
+* [employees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_220.md)
+* [teams](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_363.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [robbins_covid-19_2020](../Article/PBN__Article_93)
-* [ugail_social_2021](../Article/PBN__Article_186)
+* [Enhances coordination, reduces disruptions in healthcare delivery, and ensures effective use of resources.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_491.md)
+* [Enhanced team collaboration, increased efficiency in information sharing and problem-solving.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1002.md)
 

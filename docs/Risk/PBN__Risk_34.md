@@ -1,7 +1,9 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Psychological impact of COVID-19 infection__ (PBN__Risk_34)
 
 ## Property: has_RiskMitigation
 
-* [Enhance health education using online platforms](../RiskMitigation/PBN__RiskMitigation_48)
-* [Implement telemedicine services](../RiskMitigation/PBN__RiskMitigation_49)
+* [Enhance health education using online platforms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_48.md)
+* [Implement telemedicine services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_49.md)
 

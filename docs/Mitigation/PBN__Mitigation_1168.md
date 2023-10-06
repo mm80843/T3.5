@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Online shopping__ (PBN__Mitigation_1168)
-
-## Property: has_MitigationTechnology
-
-* [internet access](../Technology/PBN__Technology_1211)
 
 ## Property: has_MitigationSource
 
-* [mahima_impact_2022](../Article/PBN__Article_10)
+* [mahima_impact_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_10.md)
+
+## Property: has_MitigationTechnology
+
+* [internet access](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1211.md)
 
 ## Property: has_MitigationPrinciple
 

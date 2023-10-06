@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Humidification__ (PBN__Mitigation_1045)
-
-## Property: has_MitigationTechnology
-
-* [humidifiers](../Technology/PBN__Technology_925)
 
 ## Property: has_MitigationSource
 
-* [kumar_role_2021](../Article/PBN__Article_140)
+* [kumar_role_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_140.md)
+
+## Property: has_MitigationTechnology
+
+* [humidifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_925.md)
 
 ## Property: has_MitigationPrinciple
 

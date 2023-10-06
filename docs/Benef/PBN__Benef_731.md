@@ -1,19 +1,21 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Hackathon__ (PBN__Benef_731)
 
 ## Property: has_BenefDetails
 
 Innovative solutions and collaborations stimulate economic growth and problem-solving
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Foster innovation and attract investment](../BenefReturn/PBN__BenefReturn_785)
+* [fariniuk_smart_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_143.md)
 
 ## Property: has_Beneficiary
 
-* [general public](../Stakeholder/PBN__Stakeholder_29)
-* [innovators](../Stakeholder/PBN__Stakeholder_301)
+* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
+* [innovators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_301.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [fariniuk_smart_2020](../Article/PBN__Article_143)
+* [Foster innovation and attract investment](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_785.md)
 

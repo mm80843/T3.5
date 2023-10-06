@@ -1,6 +1,8 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Limited vaccine storage capacity__ (PBN__Risk_154)
 
 ## Property: has_RiskMitigation
 
-* [Improve cold chain logistics](../RiskMitigation/PBN__RiskMitigation_197)
+* [Improve cold chain logistics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_197.md)
 

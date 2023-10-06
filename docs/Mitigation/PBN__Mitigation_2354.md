@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Monitoring buying behavior and limiting purchases__ (PBN__Mitigation_2354)
-
-## Property: has_MitigationTechnology
-
-* [data analytics](../Technology/PBN__Technology_1069)
-* [monitoring systems](../Technology/PBN__Technology_201)
 
 ## Property: has_MitigationSource
 
-* [webb_smart_2020](../Article/PBN__Article_294)
+* [webb_smart_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_294.md)
+
+## Property: has_MitigationTechnology
+
+* [data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1069.md)
+* [monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_201.md)
 
 ## Property: has_MitigationPrinciple
 

@@ -1,6 +1,8 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Overfitted models__ (PBN__Risk_3431)
 
 ## Property: has_RiskMitigation
 
-* [Machine learning models](../Mitigation/PBN__Mitigation_2369)
+* [Machine learning models](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2369.md)
 

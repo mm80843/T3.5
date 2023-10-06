@@ -1,19 +1,21 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Efficient resource utilization__ (PBN__Benef_1203)
 
 ## Property: has_BenefDetails
 
 Use existing resources efficiently and provide targeted support for pandemic mitigation efforts
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Cost savings, improved effectiveness in pandemic response, and reduced strain on public resources, leading to economic resilience and investor confidence.](../BenefReturn/PBN__BenefReturn_1346)
+* [soderstrom_three_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_250.md)
 
 ## Property: has_Beneficiary
 
-* [civil society organizations](../Stakeholder/PBN__Stakeholder_232)
-* [citizens](../Stakeholder/PBN__Stakeholder_54)
+* [civil society organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_232.md)
+* [citizens](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_54.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [soderstrom_three_2021](../Article/PBN__Article_250)
+* [Cost savings, improved effectiveness in pandemic response, and reduced strain on public resources, leading to economic resilience and investor confidence.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1346.md)
 

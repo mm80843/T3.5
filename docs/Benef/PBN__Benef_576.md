@@ -1,19 +1,21 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Improved healthcare infrastructure__ (PBN__Benef_576)
 
 ## Property: has_BenefDetails
 
 Increased capacity for critical care treatment
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Private investors can benefit from investing in healthcare infrastructure by improving asset value and attracting more patients.](../BenefReturn/PBN__BenefReturn_629)
+* [vaishya_emerging_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_116.md)
 
 ## Property: has_Beneficiary
 
-* [government](../Stakeholder/PBN__Stakeholder_73)
-* [healthcare providers](../Stakeholder/PBN__Stakeholder_121)
+* [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
+* [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [vaishya_emerging_2020](../Article/PBN__Article_116)
+* [Private investors can benefit from investing in healthcare infrastructure by improving asset value and attracting more patients.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_629.md)
 

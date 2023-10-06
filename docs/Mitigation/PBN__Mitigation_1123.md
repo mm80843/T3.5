@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Building transport networks__ (PBN__Mitigation_1123)
-
-## Property: has_MitigationTechnology
-
-* [road network infrastructure](../Technology/PBN__Technology_3675)
 
 ## Property: has_MitigationSource
 
-* [li_association_2021](../Article/PBN__Article_32)
+* [li_association_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_32.md)
+
+## Property: has_MitigationTechnology
+
+* [road network infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3675.md)
 
 ## Property: has_MitigationPrinciple
 

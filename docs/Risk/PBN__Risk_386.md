@@ -1,11 +1,13 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Economic impact of COVID-19__ (PBN__Risk_386)
 
 ## Property: has_RiskMitigation
 
-* [Investment in healthcare systems](../RiskMitigation/PBN__RiskMitigation_538)
-* [Investment in social and healthcare systems](../RiskMitigation/PBN__RiskMitigation_539)
-* [Investment in education](../RiskMitigation/PBN__RiskMitigation_540)
-* [Investment in gender equality](../RiskMitigation/PBN__RiskMitigation_541)
-* [Investment in peace and justice](../RiskMitigation/PBN__RiskMitigation_542)
-* [Investment in clean energy](../RiskMitigation/PBN__RiskMitigation_543)
+* [Investment in healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_538.md)
+* [Investment in social and healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_539.md)
+* [Investment in education](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_540.md)
+* [Investment in gender equality](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_541.md)
+* [Investment in peace and justice](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_542.md)
+* [Investment in clean energy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_543.md)
 

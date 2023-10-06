@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Improved ventilation rates__ (PBN__Mitigation_223)
-
-## Property: has_MitigationTechnology
-
-* [hvac system modification](../Technology/PBN__Technology_3068)
-* [natural ventilation](../Technology/PBN__Technology_270)
 
 ## Property: has_MitigationSource
 
-* [azuma_environmental_2020](../Article/PBN__Article_249)
+* [azuma_environmental_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_249.md)
+
+## Property: has_MitigationTechnology
+
+* [hvac system modification](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3068.md)
+* [natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_270.md)
 
 ## Property: has_MitigationPrinciple
 

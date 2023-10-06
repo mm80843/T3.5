@@ -1,60 +1,62 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Increased population density__ (PBN__Risk_1397)
-
-## Property: has_RiskISO_Impact
-
-* [Safety and security](../RiskISO/PBN__RiskISO_Purpose_5)
-
-## Property: has_RiskTechnology
-
-* [mobile applications for contact tracing](../Technology/PBN__Technology_617)
-* [ai-based monitoring systems](../Technology/PBN__Technology_618)
-* [crowd management technologies](../Technology/PBN__Technology_619)
-* [urban planning and city management technologies](../Technology/PBN__Technology_1106)
-
-## Property: has_RiskSubject
-
-* [general population](../Stakeholder/PBN__Stakeholder_9)
-* [especially those living in densely populated areas](../Stakeholder/PBN__Stakeholder_897)
-* [residents of densely populated cities](../Stakeholder/PBN__Stakeholder_1160)
-
-## Property: has_RiskType
-
-* [social](../RiskType/PBN__RiskType_2)
-
-## Property: has_RiskISO_Purpose
-
-* [Resilience](../RiskISO/PBN__RiskISO_Impact_2)
-
-## Property: has_RiskOwner
-
-* [government](../Stakeholder/PBN__Stakeholder_73)
-* [public health authorities](../Stakeholder/PBN__Stakeholder_0)
-* [urban planners](../Stakeholder/PBN__Stakeholder_125)
-* [policymakers](../Stakeholder/PBN__Stakeholder_126)
-
-## Property: has_RiskMitigation
-
-* [Implement social distancing measures, increase access to healthcare, and improve hygiene practices.](../RiskMitigation/PBN__RiskMitigation_1896)
-* [Implement measures to reduce population density, such as decentralization and expanding horizontally](../RiskMitigation/PBN__RiskMitigation_2303)
 
 ## Property: has_RiskName
 
 Higher concentration of COVID-19 cases and increased risk of infection
 
+## Property: has_RiskISO_Impact
+
+* [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_5.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
+## Property: has_RiskOwner
+
+* [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
+* [public health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_0.md)
+* [urban planners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_125.md)
+* [policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_126.md)
+
+## Property: has_RiskTechnology
+
+* [mobile applications for contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_617.md)
+* [ai-based monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_618.md)
+* [crowd management technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_619.md)
+* [urban planning and city management technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1106.md)
+
+## Property: has_RiskSubject
+
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+* [especially those living in densely populated areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_897.md)
+* [residents of densely populated cities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1160.md)
+
+## Property: has_RiskMitigation
+
+* [Implement social distancing measures, increase access to healthcare, and improve hygiene practices.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1896.md)
+* [Implement measures to reduce population density, such as decentralization and expanding horizontally](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2303.md)
+
 ## Property: has_RiskDescription
 
 Densely populated cities increase the risk of infection transmission
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [frank_treating_2021](../Article/PBN__Article_174)
-* [megahed_antivirus-built_2020](../Article/PBN__Article_298)
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Property: has_RiskType
+
+* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
 
 ## Property: has_RiskGBN
 
-* [No](../RiskGBN/PBN__RiskGBN_0)
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [physical](../RiskHealth/PBN__RiskHealth_0)
+* [frank_treating_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_174.md)
+* [megahed_antivirus-built_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_298.md)
 

@@ -1,53 +1,55 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Loss of urban biodiversity__ (PBN__Risk_1381)
-
-## Property: has_RiskISO_Impact
-
-* [Biodiversity and ecosystem services](../RiskISO/PBN__RiskISO_Purpose_4)
-
-## Property: has_RiskTechnology
-
-* [biodiversity conservation guidelines](../Technology/PBN__Technology_600)
-* [urban planning strategies](../Technology/PBN__Technology_49)
-
-## Property: has_RiskSubject
-
-* [urban wildlife](../Stakeholder/PBN__Stakeholder_890)
-
-## Property: has_RiskType
-
-* [environmental](../RiskType/PBN__RiskType_0)
-
-## Property: has_RiskISO_Purpose
-
-* [Preservations and improvement of the environment](../RiskISO/PBN__RiskISO_Impact_18)
-
-## Property: has_RiskOwner
-
-* [urban planners](../Stakeholder/PBN__Stakeholder_125)
-* [city governments](../Stakeholder/PBN__Stakeholder_354)
-* [developers](../Stakeholder/PBN__Stakeholder_637)
-
-## Property: has_RiskMitigation
-
-* [Implement biodiversity conservation strategies in urban planning, prioritize the creation of diverse green spaces](../RiskMitigation/PBN__RiskMitigation_1878)
 
 ## Property: has_RiskName
 
 Loss of biodiversity, decline in wildlife populations
 
+## Property: has_RiskISO_Impact
+
+* [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_4.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Preservations and improvement of the environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_18.md)
+
+## Property: has_RiskOwner
+
+* [urban planners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_125.md)
+* [city governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_354.md)
+* [developers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_637.md)
+
+## Property: has_RiskTechnology
+
+* [biodiversity conservation guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_600.md)
+* [urban planning strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_49.md)
+
+## Property: has_RiskSubject
+
+* [urban wildlife](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_890.md)
+
+## Property: has_RiskMitigation
+
+* [Implement biodiversity conservation strategies in urban planning, prioritize the creation of diverse green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1878.md)
+
 ## Property: has_RiskDescription
 
 Degradation and fragmentation of natural habitats in urban areas
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [felappi_green_2020](../Article/PBN__Article_150)
+* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
+
+## Property: has_RiskType
+
+* [environmental](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_0.md)
 
 ## Property: has_RiskGBN
 
-* [Yes](../RiskGBN/PBN__RiskGBN_1)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [other](../RiskHealth/PBN__RiskHealth_2)
+* [felappi_green_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_150.md)
 

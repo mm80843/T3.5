@@ -1,19 +1,21 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Reduced income inequalities__ (PBN__Benef_695)
 
 ## Property: has_BenefDetails
 
 Addressing socioeconomic factors during the pandemic helps mitigate income disparities
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Improved social cohesion, reduced societal inequalities](../BenefReturn/PBN__BenefReturn_744)
+* [quantin_covid-19_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_136.md)
 
 ## Property: has_Beneficiary
 
-* [societal population](../Stakeholder/PBN__Stakeholder_289)
-* [government](../Stakeholder/PBN__Stakeholder_73)
+* [societal population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_289.md)
+* [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [quantin_covid-19_2022](../Article/PBN__Article_136)
+* [Improved social cohesion, reduced societal inequalities](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_744.md)
 

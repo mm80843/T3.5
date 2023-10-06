@@ -1,6 +1,8 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Lack of global leadership__ (PBN__Risk_3402)
 
 ## Property: has_RiskMitigation
 
-* [Coordinated response and global cooperation](../Mitigation/PBN__Mitigation_2264)
+* [Coordinated response and global cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2264.md)
 

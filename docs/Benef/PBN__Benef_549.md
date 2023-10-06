@@ -1,21 +1,23 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+
 # Benef: __Disseminating evidence through various mediums__ (PBN__Benef_549)
 
 ## Property: has_BenefDetails
 
 Innovating and utilizing multiple channels such as social media, interviews, and webinars improves dissemination and reach of evidence
 
-## Property: has_BenefReturn
+## Property: has_BenefSource
 
-* [Increased awareness, engagement, and uptake of evidence by target audiences](../BenefReturn/PBN__BenefReturn_601)
+* [el-jardali_amplifying_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_111.md)
 
 ## Property: has_Beneficiary
 
-* [policy-makers](../Stakeholder/PBN__Stakeholder_229)
-* [healthcare professionals](../Stakeholder/PBN__Stakeholder_32)
-* [ngos](../Stakeholder/PBN__Stakeholder_234)
-* [public](../Stakeholder/PBN__Stakeholder_52)
+* [policy-makers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_229.md)
+* [healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_32.md)
+* [ngos](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_234.md)
+* [public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_52.md)
 
-## Property: has_BenefSource
+## Property: has_BenefReturn
 
-* [el-jardali_amplifying_2020](../Article/PBN__Article_111)
+* [Increased awareness, engagement, and uptake of evidence by target audiences](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_601.md)
 

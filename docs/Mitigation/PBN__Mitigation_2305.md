@@ -1,15 +1,17 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Dynamic botanical air filtration system__ (PBN__Mitigation_2305)
-
-## Property: has_MitigationTechnology
-
-* [activated carbon](../Technology/PBN__Technology_1891)
-* [water](../Technology/PBN__Technology_3087)
-* [microorganisms](../Technology/PBN__Technology_4395)
-* [plant roots](../Technology/PBN__Technology_4397)
 
 ## Property: has_MitigationSource
 
-* [wang_characterization_2011](../Article/PBN__Article_71)
+* [wang_characterization_2011](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_71.md)
+
+## Property: has_MitigationTechnology
+
+* [activated carbon](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1891.md)
+* [water](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3087.md)
+* [microorganisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4395.md)
+* [plant roots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4397.md)
 
 ## Property: has_MitigationPrinciple
 

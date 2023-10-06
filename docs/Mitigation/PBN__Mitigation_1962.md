@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Tempfloor Panels__ (PBN__Mitigation_1962)
-
-## Property: has_MitigationTechnology
-
-* [tempfloor panels](../Technology/PBN__Technology_4170)
 
 ## Property: has_MitigationSource
 
-* [soliman_building_2022](../Article/PBN__Article_224)
+* [soliman_building_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_224.md)
+
+## Property: has_MitigationTechnology
+
+* [tempfloor panels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4170.md)
 
 ## Property: has_MitigationPrinciple
 

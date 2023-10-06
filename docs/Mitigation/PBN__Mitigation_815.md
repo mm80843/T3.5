@@ -1,14 +1,16 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Filtration systems__ (PBN__Mitigation_815)
-
-## Property: has_MitigationTechnology
-
-* [hepa filters](../Technology/PBN__Technology_674)
-* [activated carbon filters](../Technology/PBN__Technology_3469)
-* [uv-c light technology](../Technology/PBN__Technology_1649)
 
 ## Property: has_MitigationSource
 
-* [howard-reed_effect_2002 howard-reed_effect_2002](../Article/PBN__Article_307)
+* [howard-reed_effect_2002 howard-reed_effect_2002](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_307.md)
+
+## Property: has_MitigationTechnology
+
+* [hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_674.md)
+* [activated carbon filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3469.md)
+* [uv-c light technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1649.md)
 
 ## Property: has_MitigationPrinciple
 

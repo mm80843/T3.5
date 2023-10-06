@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Modular Construction__ (PBN__Mitigation_1300)
-
-## Property: has_MitigationTechnology
-
-* [modular construction techniques](../Technology/PBN__Technology_3772)
 
 ## Property: has_MitigationSource
 
-* [megahed_antivirus-built_2020](../Article/PBN__Article_298)
+* [megahed_antivirus-built_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_298.md)
+
+## Property: has_MitigationTechnology
+
+* [modular construction techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3772.md)
 
 ## Property: has_MitigationPrinciple
 

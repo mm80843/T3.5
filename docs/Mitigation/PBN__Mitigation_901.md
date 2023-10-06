@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Collaboration and knowledge sharing__ (PBN__Mitigation_901)
-
-## Property: has_MitigationTechnology
-
-* [cross-sector collaboration](../Technology/PBN__Technology_3529)
 
 ## Property: has_MitigationSource
 
-* [jallow_impact_2020](../Article/PBN__Article_141)
+* [jallow_impact_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_141.md)
+
+## Property: has_MitigationTechnology
+
+* [cross-sector collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3529.md)
 
 ## Property: has_MitigationPrinciple
 

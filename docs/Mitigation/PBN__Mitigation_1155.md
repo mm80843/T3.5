@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Access to green areas__ (PBN__Mitigation_1155)
-
-## Property: has_MitigationTechnology
-
-* [balcony](../Technology/PBN__Technology_3704)
-* [vertical gardens](../Technology/PBN__Technology_3705)
 
 ## Property: has_MitigationSource
 
-* [maharani_biophilic_2022](../Article/PBN__Article_179)
+* [maharani_biophilic_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_179.md)
+
+## Property: has_MitigationTechnology
+
+* [balcony](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3704.md)
+* [vertical gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3705.md)
 
 ## Property: has_MitigationPrinciple
 

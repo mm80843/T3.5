@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Face Coverings__ (PBN__Mitigation_1060)
-
-## Property: has_MitigationTechnology
-
-* [nan](../Technology/PBN__Technology_22)
 
 ## Property: has_MitigationSource
 
-* [larson_urban_2021](../Article/PBN__Article_276)
+* [larson_urban_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_276.md)
+
+## Property: has_MitigationTechnology
+
+* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 
 ## Property: has_MitigationPrinciple
 

@@ -1,8 +1,18 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) 
+
 # Article: __ebrahim_covid-19_2020__ (PBN__Article_112)
+
+## Property: has_ArticleYear
+
+2020
 
 ## Property: has_ArticleLLMShortSummary
 
 This research abstract explores the importance of community mitigation measures in the absence of specific drugs or vaccines for disease outbreaks. The article emphasizes the need for targeted, non-coercive interventions with transparency and public engagement to delay the exponential spread of the outbreak. It highlights the role of clear communication from national and international health authorities to combat fake news and rumors. The restriction of mass gatherings and events is recommended due to the high transmission rates associated with such gatherings. The impact of travel restrictions is discussed, highlighting the potential negative effects on essential staff and the movement of supplies. Institutional quarantining is deemed unrealistic and voluntary home quarantine is suggested as an alternative, with the expansion of telehealth concepts to triage quarantined individuals. The importance of new funeral guidelines to prevent viral transmission is emphasized. The timing of implementation is crucial to the effectiveness of community mitigation measures, as early action can delay outbreaks. Slowing down the spread of the outbreak is crucial for healthcare providers to manage patient care and prevent burnout, and can have a global impact.
+
+## Property: has_ArticleTitle
+
+Covid-19 and community mitigation strategies in a pandemic
 
 ## Property: has_ArticleLLMSummary
 
@@ -11,12 +21,4 @@ During a pandemic when there are no specific drugs or vaccines available, we nee
 ## Property: has_ArticleDOI
 
 10.1136/bmj.m1066
-
-## Property: has_ArticleTitle
-
-Covid-19 and community mitigation strategies in a pandemic
-
-## Property: has_ArticleYear
-
-2020
 

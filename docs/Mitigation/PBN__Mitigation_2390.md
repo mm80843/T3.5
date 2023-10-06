@@ -1,12 +1,14 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __House screening__ (PBN__Mitigation_2390)
-
-## Property: has_MitigationTechnology
-
-* [screens or mesh materials](../Technology/PBN__Technology_4457)
 
 ## Property: has_MitigationSource
 
-* [wilson_importance_2020](../Article/PBN__Article_64)
+* [wilson_importance_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_64.md)
+
+## Property: has_MitigationTechnology
+
+* [screens or mesh materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4457.md)
 
 ## Property: has_MitigationPrinciple
 

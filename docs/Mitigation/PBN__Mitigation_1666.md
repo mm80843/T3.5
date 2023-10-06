@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Smart CCTV cameras__ (PBN__Mitigation_1666)
-
-## Property: has_MitigationTechnology
-
-* [iot](../Technology/PBN__Technology_277)
-* [cctv](../Technology/PBN__Technology_1930)
 
 ## Property: has_MitigationSource
 
-* [rahman_automated_2020](../Article/PBN__Article_265)
+* [rahman_automated_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_265.md)
+
+## Property: has_MitigationTechnology
+
+* [iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_277.md)
+* [cctv](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1930.md)
 
 ## Property: has_MitigationPrinciple
 

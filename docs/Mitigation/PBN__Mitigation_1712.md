@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Increased Hygiene Practices__ (PBN__Mitigation_1712)
-
-## Property: has_MitigationTechnology
-
-* [hand sanitizers](../Technology/PBN__Technology_412)
-* [disinfectants](../Technology/PBN__Technology_413)
 
 ## Property: has_MitigationSource
 
-* [rizvi_covid-19_2020](../Article/PBN__Article_271)
+* [rizvi_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_271.md)
+
+## Property: has_MitigationTechnology
+
+* [hand sanitizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_412.md)
+* [disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_413.md)
 
 ## Property: has_MitigationPrinciple
 

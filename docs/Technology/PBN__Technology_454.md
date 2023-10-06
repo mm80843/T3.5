@@ -1,14 +1,16 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) 
+
 # Technology: __stakeholder engagement__ (PBN__Technology_454)
-
-## Property: has_TechnologyID
-
-* [Q2930198](../Qid/Q2930198)
 
 ## Property: has_StakeholderGroup
 
-* [Surveillance systems](../TechGroup/PBN__TechGroup_6)
+* [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_6.md)
+
+## Property: has_TechnologyID
+
+* [Q2930198](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2930198.md)
 
 ## Property: has_StakeholderSubgroup
 
-* [nan](../TechSubgroup/PBN__TechSubgroup_7)
+* [nan](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_7.md)
 

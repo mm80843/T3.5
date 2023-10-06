@@ -1,6 +1,8 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) 
+
 # Technology: __soundproofing technology__ (PBN__Technology_1834)
 
 ## Property: has_TechnologyID
 
-* [Q589260](../Qid/Q589260)
+* [Q589260](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q589260.md)
 

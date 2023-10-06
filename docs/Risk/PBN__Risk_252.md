@@ -1,132 +1,134 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Airborne transmission__ (PBN__Risk_252)
-
-## Property: has_RiskISO_Impact
-
-* [Health and care](../RiskISO/PBN__RiskISO_Purpose_0)
-
-## Property: has_RiskTechnology
-
-* [air purifiers](../Technology/PBN__Technology_138)
-* [hvac systems](../Technology/PBN__Technology_185)
-* [ventilation systems](../Technology/PBN__Technology_139)
-* [hepa filters](../Technology/PBN__Technology_674)
-* [outdoor air circulation](../Technology/PBN__Technology_1164)
-* [improved hvac systems](../Technology/PBN__Technology_662)
-* [air filters](../Technology/PBN__Technology_1111)
-* [improved ventilation systems](../Technology/PBN__Technology_249)
-* [none](../Technology/PBN__Technology_35)
-
-## Property: has_RiskSubject
-
-* [healthcare workers](../Stakeholder/PBN__Stakeholder_68)
-* [patients](../Stakeholder/PBN__Stakeholder_31)
-* [building occupants](../Stakeholder/PBN__Stakeholder_97)
-* [occupants of crowded and poorly ventilated buildings](../Stakeholder/PBN__Stakeholder_1201)
-* [workers](../Stakeholder/PBN__Stakeholder_128)
-* [employees](../Stakeholder/PBN__Stakeholder_220)
-* [visitors in indoor spaces](../Stakeholder/PBN__Stakeholder_1288)
-* [individuals in the vicinity of infected individuals](../Stakeholder/PBN__Stakeholder_1455)
-* [visitors](../Stakeholder/PBN__Stakeholder_118)
-
-## Property: has_RiskType
-
-* [health](../RiskType/PBN__RiskType_4)
-* [social](../RiskType/PBN__RiskType_2)
-* [environmental](../RiskType/PBN__RiskType_0)
-* [technological](../RiskType/PBN__RiskType_5)
-
-## Property: has_RiskISO_Purpose
-
-* [Safety and security](../RiskISO/PBN__RiskISO_Impact_0)
-
-## Property: has_RiskOwner
-
-* [hospital management](../Stakeholder/PBN__Stakeholder_239)
-* [building owners](../Stakeholder/PBN__Stakeholder_80)
-* [facility managers](../Stakeholder/PBN__Stakeholder_166)
-* [architects](../Stakeholder/PBN__Stakeholder_431)
-* [engineers](../Stakeholder/PBN__Stakeholder_202)
-* [office managers](../Stakeholder/PBN__Stakeholder_1289)
-* [individuals](../Stakeholder/PBN__Stakeholder_20)
-* [organizations](../Stakeholder/PBN__Stakeholder_186)
-* [governments](../Stakeholder/PBN__Stakeholder_47)
-* [facility ma](../Stakeholder/PBN__Stakeholder_1578)
-
-## Property: has_RiskMitigation
-
-* [Upper-room UVGI](../RiskMitigation/PBN__RiskMitigation_310)
-* [UVGI in AHUs](../RiskMitigation/PBN__RiskMitigation_311)
-* [Filtration](../RiskMitigation/PBN__RiskMitigation_312)
-* [Increased outdoor air ventilation](../RiskMitigation/PBN__RiskMitigation_520)
-* [Air filtration with HEPA filters](../RiskMitigation/PBN__RiskMitigation_845)
-* [Upper-room UVGI system](../RiskMitigation/PBN__RiskMitigation_846)
-* [Enhanced HVAC filtration](../RiskMitigation/PBN__RiskMitigation_1383)
-* [Increased ventilation](../RiskMitigation/PBN__RiskMitigation_1384)
-* [UV germicidal irradiation](../RiskMitigation/PBN__RiskMitigation_1385)
-* [Window ventilation](../RiskMitigation/PBN__RiskMitigation_1386)
-* [Maintain good ventilation and air circulation in the hospital.](../RiskMitigation/PBN__RiskMitigation_1826)
-* [Improve indoor ventilation systems, increase air exchange rates, and use of air purifiers or filters](../RiskMitigation/PBN__RiskMitigation_2259)
-* [Improve ventilation systems, increase fresh air intake, use HEPA filters, and promote outdoor air circulation](../RiskMitigation/PBN__RiskMitigation_2380)
-* [Improve ventilation systems, increase fresh air supply, and use air filters to reduce the spread of airborne particles.](../RiskMitigation/PBN__RiskMitigation_2502)
-* [Adequate ventilation to dilute the virus-carrying droplets](../RiskMitigation/PBN__RiskMitigation_2804)
-* [Ventilation systems, air filtration, social distancing](../RiskMitigation/PBN__RiskMitigation_3079)
-* [Natural Ventilation](../Mitigation/PBN__Mitigation_137)
-* [Daylighting](../Mitigation/PBN__Mitigation_138)
-* [Ventilation improvement](../Mitigation/PBN__Mitigation_248)
-* [Improvement of ventilation](../Mitigation/PBN__Mitigation_530)
-* [Use of high-efficiency air filters](../Mitigation/PBN__Mitigation_531)
-* [Portable air cleaner](../Mitigation/PBN__Mitigation_532)
-* [Ventilation and air filtration](../Mitigation/PBN__Mitigation_539)
-* [Ventilation](../Mitigation/PBN__Mitigation_170)
-* [Improved Ventilation Systems](../Mitigation/PBN__Mitigation_807)
-* [Mask wearing](../Mitigation/PBN__Mitigation_818)
-* [Proper ventilation](../Mitigation/PBN__Mitigation_819)
-* [Improved ventilation in indoor spaces](../Mitigation/PBN__Mitigation_1275)
-* [Air filtration and purification](../Mitigation/PBN__Mitigation_1277)
-* [Increase ventilation rates](../Mitigation/PBN__Mitigation_1361)
-* [Avoid air recirculation](../Mitigation/PBN__Mitigation_1362)
-* [Air cleaning devices](../Mitigation/PBN__Mitigation_1363)
-* [Portable air cleaners](../Mitigation/PBN__Mitigation_1365)
-* [Enhanced ventilation](../Mitigation/PBN__Mitigation_1085)
-* [Ventilation distribution](../Mitigation/PBN__Mitigation_1366)
-* [Increase outdoor air flow](../Mitigation/PBN__Mitigation_1367)
-* [Negative pressure isolation ward](../Mitigation/PBN__Mitigation_1368)
-* [Natural ventilation](../Mitigation/PBN__Mitigation_1369)
-* [Germicidal UV air disinfection](../Mitigation/PBN__Mitigation_1390)
-* [Dilution and removal of infectious particles in room air through ventilation](../Mitigation/PBN__Mitigation_1391)
-* [Upper room germicidal UV fixtures](../Mitigation/PBN__Mitigation_1392)
-* [Room air cleaners](../Mitigation/PBN__Mitigation_1393)
-* [Ventilation Improvement](../Mitigation/PBN__Mitigation_1576)
-* [Personal Protective Equipment (PPE)](../Mitigation/PBN__Mitigation_464)
-* [Enhanced HVAC Systems](../Mitigation/PBN__Mitigation_1756)
-* [Portable Air Filters](../Mitigation/PBN__Mitigation_2089)
-* [Personal Protective Equipment](../Mitigation/PBN__Mitigation_555)
-* [Isolation Facilities](../Mitigation/PBN__Mitigation_2090)
-* [Control the airflows in micro spaces](../Mitigation/PBN__Mitigation_2131)
 
 ## Property: has_RiskName
 
 Increased risk of infection and spread of disease
 
+## Property: has_RiskISO_Impact
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_0.md)
+
+## Property: has_RiskOwner
+
+* [hospital management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_239.md)
+* [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
+* [facility managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_166.md)
+* [architects](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_431.md)
+* [engineers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_202.md)
+* [office managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1289.md)
+* [individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_20.md)
+* [organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_186.md)
+* [governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
+* [facility ma](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1578.md)
+
+## Property: has_RiskTechnology
+
+* [air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_138.md)
+* [hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_185.md)
+* [ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_139.md)
+* [hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_674.md)
+* [outdoor air circulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1164.md)
+* [improved hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_662.md)
+* [air filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1111.md)
+* [improved ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_249.md)
+* [none](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
+
+## Property: has_RiskSubject
+
+* [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
+* [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
+* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
+* [occupants of crowded and poorly ventilated buildings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1201.md)
+* [workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_128.md)
+* [employees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_220.md)
+* [visitors in indoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1288.md)
+* [individuals in the vicinity of infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1455.md)
+* [visitors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_118.md)
+
+## Property: has_RiskMitigation
+
+* [Upper-room UVGI](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_310.md)
+* [UVGI in AHUs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_311.md)
+* [Filtration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_312.md)
+* [Increased outdoor air ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_520.md)
+* [Air filtration with HEPA filters](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_845.md)
+* [Upper-room UVGI system](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_846.md)
+* [Enhanced HVAC filtration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1383.md)
+* [Increased ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1384.md)
+* [UV germicidal irradiation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1385.md)
+* [Window ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1386.md)
+* [Maintain good ventilation and air circulation in the hospital.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1826.md)
+* [Improve indoor ventilation systems, increase air exchange rates, and use of air purifiers or filters](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2259.md)
+* [Improve ventilation systems, increase fresh air intake, use HEPA filters, and promote outdoor air circulation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2380.md)
+* [Improve ventilation systems, increase fresh air supply, and use air filters to reduce the spread of airborne particles.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2502.md)
+* [Adequate ventilation to dilute the virus-carrying droplets](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2804.md)
+* [Ventilation systems, air filtration, social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3079.md)
+* [Natural Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_137.md)
+* [Daylighting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_138.md)
+* [Ventilation improvement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_248.md)
+* [Improvement of ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_530.md)
+* [Use of high-efficiency air filters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_531.md)
+* [Portable air cleaner](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_532.md)
+* [Ventilation and air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_539.md)
+* [Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_170.md)
+* [Improved Ventilation Systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_807.md)
+* [Mask wearing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_818.md)
+* [Proper ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_819.md)
+* [Improved ventilation in indoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1275.md)
+* [Air filtration and purification](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1277.md)
+* [Increase ventilation rates](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1361.md)
+* [Avoid air recirculation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1362.md)
+* [Air cleaning devices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1363.md)
+* [Portable air cleaners](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1365.md)
+* [Enhanced ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1085.md)
+* [Ventilation distribution](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1366.md)
+* [Increase outdoor air flow](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1367.md)
+* [Negative pressure isolation ward](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1368.md)
+* [Natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1369.md)
+* [Germicidal UV air disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1390.md)
+* [Dilution and removal of infectious particles in room air through ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1391.md)
+* [Upper room germicidal UV fixtures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1392.md)
+* [Room air cleaners](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1393.md)
+* [Ventilation Improvement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1576.md)
+* [Personal Protective Equipment (PPE)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_464.md)
+* [Enhanced HVAC Systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1756.md)
+* [Portable Air Filters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2089.md)
+* [Personal Protective Equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_555.md)
+* [Isolation Facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2090.md)
+* [Control the airflows in micro spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2131.md)
+
 ## Property: has_RiskDescription
 
 Contagious disease transmission through respiratory droplets in the air
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [ding_toilets_2020](../Article/PBN__Article_196)
-* [marotta_resilient_2021](../Article/PBN__Article_274)
-* [navaratnam_designing_2022](../Article/PBN__Article_282)
-* [phapant_covid-19_2021](../Article/PBN__Article_120)
-* [sun_efficacy_2020](../Article/PBN__Article_125)
-* [yakubu_aminu_dodo_green_2020](../Article/PBN__Article_290)
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Property: has_RiskType
+
+* [health](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_4.md)
+* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
+* [environmental](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_0.md)
+* [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
 
 ## Property: has_RiskGBN
 
-* [No](../RiskGBN/PBN__RiskGBN_0)
-* [Yes](../RiskGBN/PBN__RiskGBN_1)
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [physical](../RiskHealth/PBN__RiskHealth_0)
+* [ding_toilets_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_196.md)
+* [marotta_resilient_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_274.md)
+* [navaratnam_designing_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_282.md)
+* [phapant_covid-19_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_120.md)
+* [sun_efficacy_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_125.md)
+* [yakubu_aminu_dodo_green_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_290.md)
 

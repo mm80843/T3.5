@@ -1,17 +1,19 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) 
+
 # Stakeholder: __workers in the gig economy__ (PBN__Stakeholder_1700)
-
-## Property: has_StakeholderGroup
-
-* [Workers](../StakeholderGroup/PBN__StakeholderGroup_2)
-* [Private Sector](../StakeholderGroup/PBN__StakeholderGroup_5)
-
-## Property: has_StakeholderID
-
-* [Q51711208](../Qid/Q51711208)
 
 ## Property: has_StakeholderSubgroup
 
-* [Occupational and Workers](../StakeholderSubgroup/PBN__StakeholderSubgroup_27)
-* [Types of Workers](../StakeholderSubgroup/PBN__StakeholderSubgroup_22)
-* [Sectors and Industries](../StakeholderSubgroup/PBN__StakeholderSubgroup_25)
+* [Occupational and Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_27.md)
+* [Types of Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_22.md)
+* [Sectors and Industries](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_25.md)
+
+## Property: has_StakeholderGroup
+
+* [Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_2.md)
+* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
+
+## Property: has_StakeholderID
+
+* [Q51711208](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q51711208.md)
 

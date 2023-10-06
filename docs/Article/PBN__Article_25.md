@@ -1,8 +1,18 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) 
+
 # Article: __li_seeing_2020__ (PBN__Article_25)
+
+## Property: has_ArticleYear
+
+2020
 
 ## Property: has_ArticleLLMShortSummary
 
 This research abstract discusses the impact of the COVID-19 pandemic on the tourism industry. The paper highlights the vulnerability of the tourism industry to crises and disasters, including infectious diseases. It reviews the concept of psychological distance and construal level theory as frameworks for understanding tourists' risk perceptions during COVID-19. The paper identifies four dimensions of psychological distance (temporal distance, spatial distance, social distance, and hypotheticality) and discusses how they are related to COVID-19. It also examines the different risks that tourists perceive in relation to the outbreak, such as health risk, psychological risk, social risk, performance risk, image risk, and time risk. The paper explores how tourists' risk perceptions influence their behavior, leading to changes in destination choices, travel patterns, and preferences. The discussion emphasizes the importance of reducing tourists' health and psychological risk perceptions and suggests strategies for destinations and industry practitioners to address these concerns. The paper concludes by highlighting the need for further empirical research to test the relationships between psychological distance, perceived risk, and tourists' behavior during COVID-19. It also suggests exploring differences in risk perceptions among tourist segments and examining the impact of social media on tourists' psychological distance construal and risk perceptions.
+
+## Property: has_ArticleTitle
+
+Seeing the invisible hand: Underlying effects of COVID-19 on tourists’ behavioral patterns
 
 ## Property: has_ArticleLLMSummary
 
@@ -11,12 +21,4 @@ The COVID-19 pandemic has had a major impact on the tourism industry. Many count
 ## Property: has_ArticleDOI
 
 10.1016/j.jdmm.2020.100502
-
-## Property: has_ArticleTitle
-
-Seeing the invisible hand: Underlying effects of COVID-19 on tourists’ behavioral patterns
-
-## Property: has_ArticleYear
-
-2020
 

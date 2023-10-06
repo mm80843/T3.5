@@ -1,54 +1,56 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Inequality in access to healthcare__ (PBN__Risk_1994)
-
-## Property: has_RiskISO_Impact
-
-* [Health and care](../RiskISO/PBN__RiskISO_Purpose_0)
-
-## Property: has_RiskTechnology
-
-* [telehealth](../Technology/PBN__Technology_1449)
-* [mobile clinics](../Technology/PBN__Technology_20)
-* [community outreach programs](../Technology/PBN__Technology_1082)
-
-## Property: has_RiskSubject
-
-* [disadvantaged populations](../Stakeholder/PBN__Stakeholder_1347)
-
-## Property: has_RiskType
-
-* [social](../RiskType/PBN__RiskType_2)
-
-## Property: has_RiskISO_Purpose
-
-* [Resilience](../RiskISO/PBN__RiskISO_Impact_2)
-
-## Property: has_RiskOwner
-
-* [government health agencies](../Stakeholder/PBN__Stakeholder_883)
-* [healthcare providers](../Stakeholder/PBN__Stakeholder_121)
-* [ngos](../Stakeholder/PBN__Stakeholder_234)
-
-## Property: has_RiskMitigation
-
-* [Ensuring equitable access to healthcare services and resources](../RiskMitigation/PBN__RiskMitigation_2610)
 
 ## Property: has_RiskName
 
 Higher morbidity and mortality rates for disadvantaged communities
 
+## Property: has_RiskISO_Impact
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
+## Property: has_RiskOwner
+
+* [government health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_883.md)
+* [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
+* [ngos](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_234.md)
+
+## Property: has_RiskTechnology
+
+* [telehealth](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1449.md)
+* [mobile clinics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_20.md)
+* [community outreach programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1082.md)
+
+## Property: has_RiskSubject
+
+* [disadvantaged populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1347.md)
+
+## Property: has_RiskMitigation
+
+* [Ensuring equitable access to healthcare services and resources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2610.md)
+
 ## Property: has_RiskDescription
 
 Disparities in healthcare access and resources between different populations
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [rogers_city_2020](../Article/PBN__Article_7)
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Property: has_RiskType
+
+* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
 
 ## Property: has_RiskGBN
 
-* [Yes](../RiskGBN/PBN__RiskGBN_1)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [physical](../RiskHealth/PBN__RiskHealth_0)
+* [rogers_city_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_7.md)
 

@@ -1,53 +1,55 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+
 # Risk: __Effects of nebulization and impingement on viral survival__ (PBN__Risk_2301)
-
-## Property: has_RiskISO_Impact
-
-* [Living and working environment](../RiskISO/PBN__RiskISO_Purpose_1)
-
-## Property: has_RiskTechnology
-
-* [experimental apparatus](../Technology/PBN__Technology_1883)
-* [filtration systems](../Technology/PBN__Technology_1884)
-
-## Property: has_RiskSubject
-
-* [scientists](../Stakeholder/PBN__Stakeholder_46)
-* [healthcare workers](../Stakeholder/PBN__Stakeholder_68)
-
-## Property: has_RiskType
-
-* [technological](../RiskType/PBN__RiskType_5)
-
-## Property: has_RiskISO_Purpose
-
-* [Resilience](../RiskISO/PBN__RiskISO_Impact_2)
-
-## Property: has_RiskOwner
-
-* [scientists](../Stakeholder/PBN__Stakeholder_46)
-* [research institutions](../Stakeholder/PBN__Stakeholder_413)
-
-## Property: has_RiskMitigation
-
-* [Optimizing experimental conditions](../RiskMitigation/PBN__RiskMitigation_2990)
 
 ## Property: has_RiskName
 
 Decreased recovery rates of certain viruses
 
+## Property: has_RiskISO_Impact
+
+* [Living and working environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_1.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
+## Property: has_RiskOwner
+
+* [scientists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_46.md)
+* [research institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_413.md)
+
+## Property: has_RiskTechnology
+
+* [experimental apparatus](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1883.md)
+* [filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1884.md)
+
+## Property: has_RiskSubject
+
+* [scientists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_46.md)
+* [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
+
+## Property: has_RiskMitigation
+
+* [Optimizing experimental conditions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2990.md)
+
 ## Property: has_RiskDescription
 
 Impact of nebulization and air sampling on viral survival
 
-## Property: has_RiskSource
+## Property: has_RiskHealth
 
-* [walker_effect_2007](../Article/PBN__Article_88)
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Property: has_RiskType
+
+* [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
 
 ## Property: has_RiskGBN
 
-* [Yes](../RiskGBN/PBN__RiskGBN_1)
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskSource
 
-* [physical](../RiskHealth/PBN__RiskHealth_0)
+* [walker_effect_2007](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_88.md)
 

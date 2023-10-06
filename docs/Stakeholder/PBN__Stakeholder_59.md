@@ -1,17 +1,19 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) 
+
 # Stakeholder: __residents__ (PBN__Stakeholder_59)
-
-## Property: has_StakeholderGroup
-
-* [Community Stakeholders](../StakeholderGroup/PBN__StakeholderGroup_8)
-* [Individuals](../StakeholderGroup/PBN__StakeholderGroup_9)
-* [Building Occupants](../StakeholderGroup/PBN__StakeholderGroup_11)
-
-## Property: has_StakeholderID
-
-* [Q33829](../Qid/Q33829)
 
 ## Property: has_StakeholderSubgroup
 
-* [Residents](../StakeholderSubgroup/PBN__StakeholderSubgroup_72)
-* [Residents/Visitors](../StakeholderSubgroup/PBN__StakeholderSubgroup_109)
+* [Residents](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_72.md)
+* [Residents/Visitors](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_109.md)
+
+## Property: has_StakeholderGroup
+
+* [Community Stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_8.md)
+* [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
+* [Building Occupants](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_11.md)
+
+## Property: has_StakeholderID
+
+* [Q33829](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q33829.md)
 

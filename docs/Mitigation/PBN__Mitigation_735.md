@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Care infrastructures__ (PBN__Mitigation_735)
-
-## Property: has_MitigationTechnology
-
-* [community care centers](../Technology/PBN__Technology_3415)
-* [public facilities](../Technology/PBN__Technology_3416)
 
 ## Property: has_MitigationSource
 
-* [gurney_dangerous_2021](../Article/PBN__Article_2)
+* [gurney_dangerous_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_2.md)
+
+## Property: has_MitigationTechnology
+
+* [community care centers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3415.md)
+* [public facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3416.md)
 
 ## Property: has_MitigationPrinciple
 

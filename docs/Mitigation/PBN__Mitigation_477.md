@@ -1,14 +1,16 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Exposure to sunlight__ (PBN__Mitigation_477)
-
-## Property: has_MitigationTechnology
-
-* [nan](../Technology/PBN__Technology_22)
-* [access to natural light](../Technology/PBN__Technology_3441)
 
 ## Property: has_MitigationSource
 
-* [corley_home_2021](../Article/PBN__Article_244)
-* [hizra_houses_2021](../Article/PBN__Article_277)
+* [corley_home_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_244.md)
+* [hizra_houses_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_277.md)
+
+## Property: has_MitigationTechnology
+
+* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
+* [access to natural light](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3441.md)
 
 ## Property: has_MitigationPrinciple
 

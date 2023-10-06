@@ -1,13 +1,15 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+
 # Mitigation: __Robust RT-qPCR assays__ (PBN__Mitigation_64)
-
-## Property: has_MitigationTechnology
-
-* [reverse transcriptase quantitative polymerase chain reaction (rt-qpcr)](../Technology/PBN__Technology_2943)
-* [digital rt-pcr](../Technology/PBN__Technology_2947)
 
 ## Property: has_MitigationSource
 
-* [ahmed_first_2020](../Article/PBN__Article_205)
+* [ahmed_first_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_205.md)
+
+## Property: has_MitigationTechnology
+
+* [reverse transcriptase quantitative polymerase chain reaction (rt-qpcr)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2943.md)
+* [digital rt-pcr](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2947.md)
 
 ## Property: has_MitigationPrinciple
 
