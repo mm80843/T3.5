@@ -722,7 +722,7 @@
 * [Integration of health and well-being into urban planning policies](Benef/PBN__Benef_675)
 * [Resilient transport infrastructure to prevent virus spread](Benef/PBN__Benef_676)
 * [Environmental sustainability](Benef/PBN__Benef_677)
-* [Workers’ safety and health](Benef/PBN__Benef_678)
+* [Workersâ€™ safety and health](Benef/PBN__Benef_678)
 * [Business continuity](Benef/PBN__Benef_679)
 * [Risk mitigation](Benef/PBN__Benef_680)
 * [Protection of healthcare workers](Benef/PBN__Benef_681)
