@@ -2,3 +2,7 @@
 
 # Technology: __limited data retention__ (PBN__Technology_4447)
 
+## Property: has_TechnologyMitigation
+
+* [Privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2379.md)
+

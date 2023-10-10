@@ -6,3 +6,7 @@
 
 * [Q531592](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q531592.md)
 
+## Property: has_BenefitForPeople
+
+* [Facilitated re-adaptation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_59.md)
+

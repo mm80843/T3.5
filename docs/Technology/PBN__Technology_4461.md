@@ -2,3 +2,7 @@
 
 # Technology: __or oil of lemon eucalyptus__ (PBN__Technology_4461)
 
+## Property: has_TechnologyMitigation
+
+* [Topical repellents](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2391.md)
+

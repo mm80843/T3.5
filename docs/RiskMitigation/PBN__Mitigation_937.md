@@ -1,0 +1,20 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) 
+
+# RiskMitigation: __Proper coughing and sneezing techniques__ (PBN__Mitigation_937)
+
+## Property: has_MitigationRisk
+
+* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
+
+## Property: has_MitigationPrinciple
+
+Covering mouth and nose with a tissue or the inside of the elbow when coughing or sneezing to prevent respiratory droplets from spreading
+
+## Property: has_MitigationSource
+
+* [karia_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_225.md)
+
+## Property: has_MitigationTechnology
+
+* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
+

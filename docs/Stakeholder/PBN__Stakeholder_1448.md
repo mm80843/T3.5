@@ -2,7 +2,7 @@
 
 # Stakeholder: __transportation staff__ (PBN__Stakeholder_1448)
 
-## Property: has_RiskSubject
+## Property: has_SubjectRisk
 
 * [Transportation protocols and precautions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2138.md)
 

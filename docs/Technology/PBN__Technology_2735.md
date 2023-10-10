@@ -6,11 +6,11 @@
 
 * [Urban technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_14.md)
 
-## Property: has_TechnologyID
-
-* [Q20923490](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q20923490.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Communication and Information Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_46.md)
+
+## Property: has_TechnologyID
+
+* [Q20923490](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q20923490.md)
 

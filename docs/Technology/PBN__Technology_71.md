@@ -2,9 +2,10 @@
 
 # Technology: __financial support systems__ (PBN__Technology_71)
 
-## Property: has_StakeholderGroup
+## Property: has_TechnologyRisk
 
-* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
+* [Reduced income and limited financial resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_778.md)
+* [Vulnerability to Control Measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2351.md)
 
 ## Property: has_TechnologyID
 
@@ -13,4 +14,8 @@
 ## Property: has_StakeholderSubgroup
 
 * [nan](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_7.md)
+
+## Property: has_StakeholderGroup
+
+* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
 

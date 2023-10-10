@@ -2,3 +2,7 @@
 
 # Technology: __driverless vehicles__ (PBN__Technology_3999)
 
+## Property: has_TechnologyMitigation
+
+* [Driverless vehicles](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1674.md)
+

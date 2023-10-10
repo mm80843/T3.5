@@ -2,15 +2,14 @@
 
 # Benef: __Increased physical activity__ (PBN__Benef_352)
 
+## Property: has_BenefDetails
+
+Accessible green spaces promote physical activity, contributing to improved physical health and wellbeing.
+
 ## Property: has_Beneficiary
 
 * [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
 * [urban poor](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_170.md)
-
-## Property: has_BenefSource
-
-* [oni_implications_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_68.md)
-* [ugolini_effects_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_90.md)
 
 ## Property: has_BenefReturn
 
@@ -19,7 +18,8 @@
 * [Improved population health and well-being, increased access to exercise options](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_379.md)
 * [Private investors investing in the development of accessible green spaces can attract residents who prioritize an active lifestyle, leading to improved property values.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_477.md)
 
-## Property: has_BenefDetails
+## Property: has_BenefSource
 
-Accessible green spaces promote physical activity, contributing to improved physical health and wellbeing.
+* [oni_implications_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_68.md)
+* [ugolini_effects_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_90.md)
 

@@ -2,3 +2,7 @@
 
 # Technology: __cleaning supplies and protocols__ (PBN__Technology_3427)
 
+## Property: has_TechnologyMitigation
+
+* [Enhanced cleaning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_753.md)
+

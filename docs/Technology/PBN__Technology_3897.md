@@ -2,3 +2,8 @@
 
 # Technology: __vaccination clinics__ (PBN__Technology_3897)
 
+## Property: has_TechnologyMitigation
+
+* [Vaccination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_245.md)
+* [Community vaccination programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1511.md)
+

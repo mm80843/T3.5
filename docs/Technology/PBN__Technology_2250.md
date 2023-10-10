@@ -6,11 +6,11 @@
 
 * [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
 
-## Property: has_TechnologyID
-
-* [Q2266417](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2266417.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Financial Support and Community Initiatives](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_36.md)
+
+## Property: has_TechnologyID
+
+* [Q2266417](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2266417.md)
 

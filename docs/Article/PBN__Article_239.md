@@ -2,13 +2,9 @@
 
 # Article: __raza_mobile_2021__ (PBN__Article_239)
 
-## Property: has_ArticleYear
+## Property: has_ArticleTitle
 
-2021
-
-## Property: has_ArticleLLMSummary
-
-During the COVID-19 pandemic, mobile technology has been used to develop apps that can help monitor people's health and track the spread of the virus. These apps can provide useful information to the government and individuals, and help prevent the further spread of the virus. Mobile technology includes devices like smartphones and tablets that can connect to the internet and share data. These devices are used in apps for things like telemedicine, where patients can consult doctors remotely, and contact tracing, where people can be alerted if they have been in contact with an infected person. However, there are also challenges and limitations to consider, such as privacy concerns and the need for widespread adoption of these apps. Overall, mobile technology has played a significant role in helping manage the COVID-19 pandemic.
+Mobile Technology Solution for COVID-19: Surveillance and Prevention
 
 ## Property: has_BenefInArticle
 
@@ -32,9 +28,13 @@ During the COVID-19 pandemic, mobile technology has been used to develop apps th
 * [Data sharing and collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1166.md)
 * [Rapid reporting and response](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1167.md)
 
-## Property: has_ArticleTitle
+## Property: has_ArticleLLMSummary
 
-Mobile Technology Solution for COVID-19: Surveillance and Prevention
+During the COVID-19 pandemic, mobile technology has been used to develop apps that can help monitor people's health and track the spread of the virus. These apps can provide useful information to the government and individuals, and help prevent the further spread of the virus. Mobile technology includes devices like smartphones and tablets that can connect to the internet and share data. These devices are used in apps for things like telemedicine, where patients can consult doctors remotely, and contact tracing, where people can be alerted if they have been in contact with an infected person. However, there are also challenges and limitations to consider, such as privacy concerns and the need for widespread adoption of these apps. Overall, mobile technology has played a significant role in helping manage the COVID-19 pandemic.
+
+## Property: has_ArticleLLMShortSummary
+
+This research abstract discusses the use of mobile technology, specifically mobile health (mHealth), in monitoring and tracking the spread of the COVID-19 virus. The abstract provides an overview of the different types of mobile applications that have been developed to combat the pandemic, such as contact tracing apps and telemedicine apps. It also highlights the advantages and limitations of these applications, including issues related to data security and privacy. The abstract further explores the potential applications of mobile technology in research areas and future perspectives. It emphasizes the importance of considering ethical considerations, data security, and privacy when developing and implementing these mobile applications. Overall, the abstract highlights the potential of mobile technology in combating the ongoing COVID-19 pandemic.
 
 ## Property: has_RiskInArticle
 
@@ -44,15 +44,29 @@ Mobile Technology Solution for COVID-19: Surveillance and Prevention
 * [Misinformation and fake applications](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1964.md)
 * [Reliance on technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1965.md)
 
-## Property: has_ArticleDOI
+## Property: has_ArticleYear
 
-10.1007/978-981-15-8534-0_5
+2021
 
 ## Property: has_ArticleRef
 
 * [walker_impact_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_65.md)
 
-## Property: has_ArticleLLMShortSummary
+## Property: has_ArticleDOI
 
-This research abstract discusses the use of mobile technology, specifically mobile health (mHealth), in monitoring and tracking the spread of the COVID-19 virus. The abstract provides an overview of the different types of mobile applications that have been developed to combat the pandemic, such as contact tracing apps and telemedicine apps. It also highlights the advantages and limitations of these applications, including issues related to data security and privacy. The abstract further explores the potential applications of mobile technology in research areas and future perspectives. It emphasizes the importance of considering ethical considerations, data security, and privacy when developing and implementing these mobile applications. Overall, the abstract highlights the potential of mobile technology in combating the ongoing COVID-19 pandemic.
+10.1007/978-981-15-8534-0_5
+
+## Property: has_SourceMitigation
+
+* [Aarogya Setu app](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1698.md)
+* [COVIDsafe app](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1702.md)
+* [Mobile technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1693.md)
+* [Internet-based applications](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1694.md)
+* [Wi-Fi-based tracking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1696.md)
+* [GPS-based tracking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1697.md)
+* [GoK Direct app](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1701.md)
+* [TraceTogether app](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1699.md)
+* [Bluetooth-based contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1695.md)
+* [WhatsApp Chatbot](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1700.md)
+* [Telemedicine apps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1703.md)
 

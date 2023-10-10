@@ -2,6 +2,10 @@
 
 # Technology: __disease surveillance__ (PBN__Technology_1886)
 
+## Property: has_TechnologyRisk
+
+* [Transmission rebound after easing interventions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2304.md)
+
 ## Property: has_TechnologyID
 
 * [Q3555250](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3555250.md)

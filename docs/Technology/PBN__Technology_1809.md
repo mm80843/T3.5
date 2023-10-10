@@ -2,6 +2,10 @@
 
 # Technology: __digital learning platforms__ (PBN__Technology_1809)
 
+## Property: has_TechnologyRisk
+
+* [Disruption of education system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2234.md)
+
 ## Property: has_TechnologyID
 
 * [Q1068473](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1068473.md)

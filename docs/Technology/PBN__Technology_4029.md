@@ -2,3 +2,7 @@
 
 # Technology: __digital content creation tools__ (PBN__Technology_4029)
 
+## Property: has_TechnologyMitigation
+
+* [E-learning packages](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1720.md)
+

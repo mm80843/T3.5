@@ -2,9 +2,9 @@
 
 # Technology: __mass production processes__ (PBN__Technology_241)
 
-## Property: has_StakeholderGroup
+## Property: has_TechnologyRisk
 
-* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_15.md)
+* [Limited availability of biosensors for wastewater analysis](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1155.md)
 
 ## Property: has_TechnologyID
 
@@ -13,4 +13,8 @@
 ## Property: has_StakeholderSubgroup
 
 * [Mass Production Techniques](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_188.md)
+
+## Property: has_StakeholderGroup
+
+* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_15.md)
 

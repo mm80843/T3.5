@@ -2,7 +2,11 @@
 
 # Stakeholder: __health care workers__ (PBN__Stakeholder_408)
 
-## Property: has_RiskSubject
+## Property: has_BenefitForPeople
+
+* [Enhanced early detection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1028.md)
+
+## Property: has_SubjectRisk
 
 * [Insufficient negative pressure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_315.md)
 * [Lack of anterooms](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1641.md)

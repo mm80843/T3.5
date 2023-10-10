@@ -2,3 +2,7 @@
 
 # Technology: __open-source structures__ (PBN__Technology_3794)
 
+## Property: has_TechnologyMitigation
+
+* [Data Sharing Initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1323.md)
+

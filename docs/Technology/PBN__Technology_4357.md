@@ -2,3 +2,7 @@
 
 # Technology: __movable partitions__ (PBN__Technology_4357)
 
+## Property: has_TechnologyMitigation
+
+* [Adjustable indoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2236.md)
+

@@ -2,6 +2,10 @@
 
 # Technology: __strengthen peer review process__ (PBN__Technology_802)
 
+## Property: has_TechnologyRisk
+
+* [Misleading peer-reviewed publications](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1518.md)
+
 ## Property: has_TechnologyID
 
 * [Q7096397](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7096397.md)

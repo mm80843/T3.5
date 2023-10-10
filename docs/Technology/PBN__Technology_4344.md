@@ -2,3 +2,7 @@
 
 # Technology: __education materials__ (PBN__Technology_4344)
 
+## Property: has_TechnologyMitigation
+
+* [Public health education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2227.md)
+

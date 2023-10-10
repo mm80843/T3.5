@@ -2,6 +2,10 @@
 
 # Technology: __sewage surveillance__ (PBN__Technology_1103)
 
+## Property: has_TechnologyRisk
+
+* [Underreporting of COVID-19 cases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1735.md)
+
 ## Property: has_TechnologyID
 
 * [Q10966166](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q10966166.md)

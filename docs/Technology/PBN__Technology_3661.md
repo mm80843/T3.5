@@ -2,3 +2,7 @@
 
 # Technology: __video surveillance__ (PBN__Technology_3661)
 
+## Property: has_TechnologyMitigation
+
+* [Patient monitoring system and door-lock device](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1111.md)
+

@@ -2,3 +2,7 @@
 
 # Technology: __fire safety measures__ (PBN__Technology_3418)
 
+## Property: has_TechnologyMitigation
+
+* [Fire safety improvements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_738.md)
+

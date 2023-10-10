@@ -2,19 +2,19 @@
 
 # Benef: __Reduction of contact points__ (PBN__Benef_1334)
 
+## Property: has_BenefDetails
+
+Contactless technology reduces the need for physical
+
 ## Property: has_Beneficiary
 
 * [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
-
-## Property: has_BenefSource
-
-* [navaratnam_designing_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_282.md)
 
 ## Property: has_BenefReturn
 
 * [Improved hygiene and reduced risk of transmission](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1504.md)
 
-## Property: has_BenefDetails
+## Property: has_BenefSource
 
-Contactless technology reduces the need for physical
+* [navaratnam_designing_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_282.md)
 

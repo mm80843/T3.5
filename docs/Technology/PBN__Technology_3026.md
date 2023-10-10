@@ -2,3 +2,7 @@
 
 # Technology: __computational power__ (PBN__Technology_3026)
 
+## Property: has_TechnologyMitigation
+
+* [Local Data Processing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_168.md)
+

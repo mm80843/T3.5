@@ -2,6 +2,10 @@
 
 # Technology: __automatic hand sanitizers__ (PBN__Technology_1480)
 
+## Property: has_TechnologyRisk
+
+* [Inadequate sanitation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1416.md)
+
 ## Property: has_TechnologyID
 
 * [Q520181](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q520181.md)

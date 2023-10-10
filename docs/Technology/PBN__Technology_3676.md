@@ -2,3 +2,7 @@
 
 # Technology: __occupancy estimation__ (PBN__Technology_3676)
 
+## Property: has_TechnologyMitigation
+
+* [Real-time building occupancy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1127.md)
+

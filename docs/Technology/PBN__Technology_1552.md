@@ -2,9 +2,9 @@
 
 # Technology: __mobile health apps__ (PBN__Technology_1552)
 
-## Property: has_StakeholderGroup
+## Property: has_TechnologyRisk
 
-* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_3.md)
+* [Population characteristics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2076.md)
 
 ## Property: has_TechnologyID
 
@@ -13,4 +13,8 @@
 ## Property: has_StakeholderSubgroup
 
 * [Mobile Health Apps and Services](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_34.md)
+
+## Property: has_StakeholderGroup
+
+* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_3.md)
 

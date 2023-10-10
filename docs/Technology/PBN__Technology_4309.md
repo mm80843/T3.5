@@ -2,3 +2,7 @@
 
 # Technology: __interdependency analysis__ (PBN__Technology_4309)
 
+## Property: has_TechnologyMitigation
+
+* [Interdependencies Mapping](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2182.md)
+

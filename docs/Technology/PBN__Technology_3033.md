@@ -2,3 +2,7 @@
 
 # Technology: __proper equipment__ (PBN__Technology_3033)
 
+## Property: has_TechnologyMitigation
+
+* [Ergonomic design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_174.md)
+

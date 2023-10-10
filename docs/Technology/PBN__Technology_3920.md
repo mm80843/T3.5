@@ -2,3 +2,7 @@
 
 # Technology: __protease inhibitors__ (PBN__Technology_3920)
 
+## Property: has_TechnologyMitigation
+
+* [Use of specific medicines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1555.md)
+

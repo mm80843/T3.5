@@ -2,19 +2,19 @@
 
 # Benef: __Enhanced public health infrastructure__ (PBN__Benef_627)
 
+## Property: has_BenefDetails
+
+Strengthening public health systems will improve healthcare delivery, disease prevention, and response to future pandemics.
+
 ## Property: has_Beneficiary
 
 * [society](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_53.md)
-
-## Property: has_BenefSource
-
-* [van_barneveld_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_124.md)
 
 ## Property: has_BenefReturn
 
 * [Private investors can benefit from improved public health infrastructure through increased demand for healthcare services and potential investment opportunities in healthcare facilities and technology.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_670.md)
 
-## Property: has_BenefDetails
+## Property: has_BenefSource
 
-Strengthening public health systems will improve healthcare delivery, disease prevention, and response to future pandemics.
+* [van_barneveld_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_124.md)
 

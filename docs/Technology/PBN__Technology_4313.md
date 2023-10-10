@@ -2,3 +2,7 @@
 
 # Technology: __resilience-based practices__ (PBN__Technology_4313)
 
+## Property: has_TechnologyMitigation
+
+* [Resilient Approach](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2186.md)
+

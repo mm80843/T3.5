@@ -2,3 +2,7 @@
 
 # Technology: __integrated care models__ (PBN__Technology_4079)
 
+## Property: has_TechnologyMitigation
+
+* [Person-centered integrated care](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1800.md)
+

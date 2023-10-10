@@ -2,7 +2,7 @@
 
 # Stakeholder: __offices__ (PBN__Stakeholder_1036)
 
-## Property: has_RiskSubject
+## Property: has_SubjectRisk
 
 * [Poor indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_294.md)
 * [Indoor influenza transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1705.md)

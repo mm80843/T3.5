@@ -2,6 +2,10 @@
 
 # Technology: __iot devices for distance monitoring__ (PBN__Technology_1545)
 
+## Property: has_TechnologyRisk
+
+* [Social distancing challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_307.md)
+
 ## Property: has_TechnologyID
 
 * [Q251212](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q251212.md)

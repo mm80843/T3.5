@@ -2,3 +2,7 @@
 
 # Technology: __cooperative frameworks__ (PBN__Technology_4312)
 
+## Property: has_TechnologyMitigation
+
+* [Stakeholder Cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2185.md)
+

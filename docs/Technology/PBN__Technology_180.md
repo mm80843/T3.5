@@ -2,6 +2,10 @@
 
 # Technology: __advanced materials__ (PBN__Technology_180)
 
+## Property: has_TechnologyRisk
+
+* [Reliability and robustness of wearable devices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1114.md)
+
 ## Property: has_TechnologyID
 
 * [Q3595325](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3595325.md)

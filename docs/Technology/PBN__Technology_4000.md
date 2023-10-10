@@ -2,3 +2,7 @@
 
 # Technology: __dna/rna extraction methods__ (PBN__Technology_4000)
 
+## Property: has_TechnologyMitigation
+
+* [Wastewater monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1676.md)
+

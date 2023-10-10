@@ -2,3 +2,7 @@
 
 # Technology: __laser__ (PBN__Technology_3097)
 
+## Property: has_TechnologyMitigation
+
+* [Surfacide UV-C Disinfection System](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_252.md)
+

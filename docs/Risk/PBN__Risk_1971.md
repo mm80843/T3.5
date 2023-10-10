@@ -2,19 +2,47 @@
 
 # Risk: __Lack of proper ergonomic setup in home office__ (PBN__Risk_1971)
 
+## Property: has_RiskISO_Purpose
+
+* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+
+## Property: has_RiskName
+
+Increased risk of musculoskeletal disorders, decreased productivity, and potential long-term health issues.
+
+## Property: has_RiskGBN
+
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Property: has_RiskDescription
+
+Lack of proper equipment and setup can lead to musculoskeletal disorders and affect the physical health and productivity of the teleworker.
+
+## Property: has_RiskISO_Impact
+
+* [Governance, empowerment and engagement](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_6.md)
+
+## Property: has_RiskSource
+
+* [restrepo_betancur_impacto_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_108.md)
+
 ## Property: has_RiskOwner
 
 * [employers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_180.md)
 * [teleworkers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1324.md)
 * [it support](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1325.md)
 
-## Property: has_RiskName
+## Property: has_RiskSubject
 
-Increased risk of musculoskeletal disorders, decreased productivity, and potential long-term health issues.
+* [teleworkers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1324.md)
 
-## Property: has_RiskType
+## Property: has_RiskMitigation
 
-* [occupational](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_16.md)
+* [Ensure that teleworkers have access to appropriate ergonomic equipment and provide guidelines for proper setup.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2584.md)
+
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskTechnology
 
@@ -25,35 +53,7 @@ Increased risk of musculoskeletal disorders, decreased productivity, and potenti
 * [monitor risers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1401.md)
 * [etc](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1402.md)
 
-## Property: has_RiskISO_Purpose
+## Property: has_RiskType
 
-* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
-
-## Property: has_RiskDescription
-
-Lack of proper equipment and setup can lead to musculoskeletal disorders and affect the physical health and productivity of the teleworker.
-
-## Property: has_RiskSubject
-
-* [teleworkers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1324.md)
-
-## Property: has_RiskMitigation
-
-* [Ensure that teleworkers have access to appropriate ergonomic equipment and provide guidelines for proper setup.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2584.md)
-
-## Property: has_RiskISO_Impact
-
-* [Governance, empowerment and engagement](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_6.md)
-
-## Property: has_RiskGBN
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Property: has_RiskSource
-
-* [restrepo_betancur_impacto_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_108.md)
+* [occupational](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_16.md)
 

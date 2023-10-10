@@ -2,6 +2,10 @@
 
 # Technology: __green roof maintenance technologies__ (PBN__Technology_1033)
 
+## Property: has_TechnologyRisk
+
+* [High installation and maintenance costs of green roofs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1687.md)
+
 ## Property: has_TechnologyID
 
 * [Q48741](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q48741.md)

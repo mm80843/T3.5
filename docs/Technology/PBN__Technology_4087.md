@@ -2,3 +2,7 @@
 
 # Technology: __infrared cameras__ (PBN__Technology_4087)
 
+## Property: has_TechnologyMitigation
+
+* [Infrared thermal imaging](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1814.md)
+

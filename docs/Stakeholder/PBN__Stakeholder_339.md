@@ -6,3 +6,7 @@
 
 * [Q104408663](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q104408663.md)
 
+## Property: has_BenefitForPeople
+
+* [Reduced mental health problems](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_831.md)
+

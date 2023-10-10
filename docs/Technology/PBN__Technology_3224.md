@@ -2,3 +2,7 @@
 
 # Technology: __online video conference software__ (PBN__Technology_3224)
 
+## Property: has_TechnologyMitigation
+
+* [Telehealth Clinics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_429.md)
+

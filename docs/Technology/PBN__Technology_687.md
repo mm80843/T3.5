@@ -2,6 +2,10 @@
 
 # Technology: __online platforms for helplines__ (PBN__Technology_687)
 
+## Property: has_TechnologyRisk
+
+* [Domestic Violence and Intimate Partner Violence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1431.md)
+
 ## Property: has_TechnologyID
 
 * [Q1482145](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1482145.md)

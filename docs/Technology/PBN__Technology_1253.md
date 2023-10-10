@@ -2,6 +2,10 @@
 
 # Technology: __uv-c light disinfection systems__ (PBN__Technology_1253)
 
+## Property: has_TechnologyRisk
+
+* [Contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1882.md)
+
 ## Property: has_TechnologyID
 
 * [Q961734](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q961734.md)

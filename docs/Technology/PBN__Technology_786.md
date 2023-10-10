@@ -2,6 +2,10 @@
 
 # Technology: __open-access databases__ (PBN__Technology_786)
 
+## Property: has_TechnologyRisk
+
+* [Publication bias](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1508.md)
+
 ## Property: has_TechnologyID
 
 * [Q232932](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q232932.md)

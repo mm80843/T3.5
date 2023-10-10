@@ -2,19 +2,19 @@
 
 # Mitigation: __Institutional review board approval__ (PBN__Mitigation_1524)
 
-## Property: has_MitigationSource
-
-* [ong_air_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_264.md)
-
 ## Property: has_MitigationRisk
 
 * [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 
-## Property: has_MitigationTechnology
-
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
-
 ## Property: has_MitigationPrinciple
 
 Obtaining approval from the institutional review board to conduct the study in compliance with ethical guidelines
+
+## Property: has_MitigationSource
+
+* [ong_air_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_264.md)
+
+## Property: has_MitigationTechnology
+
+* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 

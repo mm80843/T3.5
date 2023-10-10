@@ -2,7 +2,54 @@
 
 # Stakeholder: __public__ (PBN__Stakeholder_52)
 
-## Property: has_RiskSubject
+## Property: has_StakeholderID
+
+* [Q2388316](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2388316.md)
+
+## Property: has_BenefitForPeople
+
+* [Improved public health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_47.md)
+* [Reduced carbon emissions](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_69.md)
+* [Reduced virus lifespan on surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_75.md)
+* [Enhanced antibacterial and antiviral properties](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_76.md)
+* [Rapid deployment of virus-inactivating solutions](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_77.md)
+* [Improved air quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_192.md)
+* [Improved virus survival](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_268.md)
+* [Higher levels of protective behaviors](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_375.md)
+* [Improved adoption of protective behaviors](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_376.md)
+* [Increased awareness of severity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_377.md)
+* [Greater compliance with protective behaviors](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_378.md)
+* [Improved public trust](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_395.md)
+* [Improvement in mental well-being](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_427.md)
+* [Disseminating evidence through various mediums](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_549.md)
+* [Verified information](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_550.md)
+* [Identification of non-medical impacts](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_560.md)
+* [Increased healthcare capacity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_618.md)
+* [Prevention of disease spread](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_765.md)
+* [Accurate and reliable information dissemination](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_858.md)
+* [Inactivation of human coronaviruses](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_897.md)
+* [Improved information transparency](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_921.md)
+* [Timely decision making](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_922.md)
+* [Increased credibility](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_923.md)
+* [Enhanced public perception](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_924.md)
+* [Improved risk perception](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_925.md)
+* [Reduction of health risks](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_936.md)
+* [Reduction of disease spread and contamination](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_937.md)
+* [Fecal coliform and pathogen destruction in wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_938.md)
+* [Disease transmission prevention](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_939.md)
+* [Worker safety](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1014.md)
+* [Access to real-time data](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1050.md)
+* [Enhanced coordination and cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1096.md)
+* [Improved communication and dissemination of accurate information](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1097.md)
+* [Increased compliance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1214.md)
+* [Limit spread of virus](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1261.md)
+* [Opportunity for unique projects](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1272.md)
+* [Positive environmental impacts](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1274.md)
+* [Improved Accuracy](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1339.md)
+* [Reliable Information](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1340.md)
+* [Increased Trust](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1341.md)
+
+## Property: has_SubjectRisk
 
 * [Inadequate disinfection of hospital wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_668.md)
 * [Lack of public trust](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_741.md)
@@ -21,8 +68,4 @@
 * [Contagious diseases transmission through hospital wastes and wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2314.md)
 * [Improper disposal of pharmaceutical wastes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2315.md)
 * [Improper disposal of chemical wastes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2316.md)
-
-## Property: has_StakeholderID
-
-* [Q2388316](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2388316.md)
 

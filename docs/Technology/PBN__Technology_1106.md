@@ -2,6 +2,10 @@
 
 # Technology: __urban planning and city management technologies__ (PBN__Technology_1106)
 
+## Property: has_TechnologyRisk
+
+* [Increased population density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1397.md)
+
 ## Property: has_TechnologyID
 
 * [Q69883](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q69883.md)

@@ -2,3 +2,7 @@
 
 # Technology: __cyber-physical systems__ (PBN__Technology_3954)
 
+## Property: has_TechnologyMitigation
+
+* [Industry 4.0 technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1621.md)
+

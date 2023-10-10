@@ -6,3 +6,7 @@
 
 * [Q13405640](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q13405640.md)
 
+## Property: has_BenefitForPeople
+
+* [Improved understanding and evaluation of health impacts](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_179.md)
+

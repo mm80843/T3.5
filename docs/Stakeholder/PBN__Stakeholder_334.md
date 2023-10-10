@@ -8,11 +8,6 @@
 * [Limited access to nature and fresh air](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1674.md)
 * [Lack of privacy in apartments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1676.md)
 
-## Property: has_StakeholderGroup
-
-* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
-* [Housing And Property](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_10.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Owners](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_59.md)
@@ -20,4 +15,17 @@
 ## Property: has_StakeholderID
 
 * [Q188507](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q188507.md)
+
+## Property: has_BenefitForPeople
+
+* [Outdoor living space](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_822.md)
+* [Natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_823.md)
+* [Visual and auditory privacy](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_824.md)
+* [Multifunctional space](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_825.md)
+* [Enhanced balcony features](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_826.md)
+
+## Property: has_StakeholderGroup
+
+* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
+* [Housing And Property](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_10.md)
 

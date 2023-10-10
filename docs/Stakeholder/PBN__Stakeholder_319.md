@@ -2,3 +2,7 @@
 
 # Stakeholder: __third countries__ (PBN__Stakeholder_319)
 
+## Property: has_BenefitForPeople
+
+* [Influencing global green transition](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_782.md)
+

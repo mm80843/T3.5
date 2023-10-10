@@ -2,19 +2,19 @@
 
 # Benef: __Enhanced social distancing__ (PBN__Benef_558)
 
+## Property: has_BenefDetails
+
+Increased space and distance between passengers, reduces risk of infection
+
 ## Property: has_Beneficiary
 
 * [public transport users](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_236.md)
-
-## Property: has_BenefSource
-
-* [przybylowski_mobility_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_113.md)
 
 ## Property: has_BenefReturn
 
 * [Increased perception of safety, encourages more passengers to use public transport](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_611.md)
 
-## Property: has_BenefDetails
+## Property: has_BenefSource
 
-Increased space and distance between passengers, reduces risk of infection
+* [przybylowski_mobility_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_113.md)
 

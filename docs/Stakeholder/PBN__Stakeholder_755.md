@@ -2,11 +2,11 @@
 
 # Stakeholder: __charitable organizations__ (PBN__Stakeholder_755)
 
-## Property: has_RiskSubject
+## Property: has_OwnerRisk
 
 * [Corruption in donation process](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1241.md)
 
-## Property: has_OwnerRisk
+## Property: has_SubjectRisk
 
 * [Corruption in donation process](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1241.md)
 

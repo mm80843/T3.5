@@ -2,7 +2,15 @@
 
 # Stakeholder: __marginalized populations__ (PBN__Stakeholder_275)
 
-## Property: has_RiskSubject
+## Property: has_StakeholderID
+
+* [Q5853064](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5853064.md)
+
+## Property: has_BenefitForPeople
+
+* [Reduced health inequalities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_664.md)
+
+## Property: has_SubjectRisk
 
 * [Economic crisis](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_231.md)
 * [Livelihood and trade disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_774.md)
@@ -13,8 +21,4 @@
 * [Inequities in disease vulnerability and access to care](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1860.md)
 * [Gender-based violence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1877.md)
 * [Inequities in infrastructure access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2152.md)
-
-## Property: has_StakeholderID
-
-* [Q5853064](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5853064.md)
 

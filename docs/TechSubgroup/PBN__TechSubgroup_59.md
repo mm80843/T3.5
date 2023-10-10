@@ -2,3 +2,30 @@
 
 # TechSubgroup: __Physical Health Technologies__ (PBN__TechSubgroup_59)
 
+## Property: has_SubgroupStakeholder
+
+* [increased use of sanitization and sterilization technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_992.md)
+* [personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_136.md)
+* [air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_138.md)
+* [face masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_342.md)
+* [cleaning and disinfection products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_227.md)
+* [respiratory hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_585.md)
+* [handwashing stations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_667.md)
+* [UV-C disinfection systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2195.md)
+* [Touchless technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2196.md)
+* [Advanced air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2197.md)
+* [Hand sanitizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2200.md)
+* [Disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2213.md)
+* [UV-C germicidal lamps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2221.md)
+* [Face masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2223.md)
+* [Improved ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2225.md)
+* [Advanced lighting systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2226.md)
+* [Water filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2227.md)
+* [Waste segregation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2229.md)
+* [HVAC systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2232.md)
+* [Natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2235.md)
+* [HVAC system cleaning equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2237.md)
+* [Health promotion campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2253.md)
+* [PPE training](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2254.md)
+* [Portable medical equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2264.md)
+

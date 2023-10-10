@@ -2,9 +2,13 @@
 
 # Technology: __anonymity__ (PBN__Technology_98)
 
-## Property: has_StakeholderGroup
+## Property: has_TechnologyRisk
 
-* [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_5.md)
+* [Privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_47.md)
+
+## Property: has_TechnologyMitigation
+
+* [Privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2379.md)
 
 ## Property: has_TechnologyID
 
@@ -13,4 +17,8 @@
 ## Property: has_StakeholderSubgroup
 
 * [Privacy and Anonymity Techniques](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_139.md)
+
+## Property: has_StakeholderGroup
+
+* [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_5.md)
 

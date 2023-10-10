@@ -2,7 +2,7 @@
 
 # Stakeholder: __indigenous groups__ (PBN__Stakeholder_1479)
 
-## Property: has_RiskSubject
+## Property: has_SubjectRisk
 
 * [Livelihood and trade disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_774.md)
 

@@ -2,7 +2,7 @@
 
 # Stakeholder: __visitors to public places__ (PBN__Stakeholder_767)
 
-## Property: has_RiskSubject
+## Property: has_SubjectRisk
 
 * [Limited access nodes for better management of Public Places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_263.md)
 * [Establish a one-way mobility circulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_264.md)

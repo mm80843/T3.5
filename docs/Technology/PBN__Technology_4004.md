@@ -2,3 +2,7 @@
 
 # Technology: __taqman rt-qpcr assay__ (PBN__Technology_4004)
 
+## Property: has_TechnologyMitigation
+
+* [TaqMan real-time RT-PCR](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1678.md)
+

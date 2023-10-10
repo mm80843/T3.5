@@ -2,19 +2,19 @@
 
 # Stakeholder: __racial and ethnic minorities__ (PBN__Stakeholder_661)
 
-## Property: has_RiskSubject
-
-* [Health disparities among vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1138.md)
-
-## Property: has_StakeholderGroup
-
-* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Migrants and Minorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_111.md)
 
+## Property: has_SubjectRisk
+
+* [Health disparities among vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1138.md)
+
 ## Property: has_StakeholderID
 
 * [Q30103](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q30103.md)
+
+## Property: has_StakeholderGroup
+
+* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
 

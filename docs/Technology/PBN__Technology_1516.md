@@ -2,6 +2,10 @@
 
 # Technology: __health information systems__ (PBN__Technology_1516)
 
+## Property: has_TechnologyRisk
+
+* [High healthcare costs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2042.md)
+
 ## Property: has_TechnologyID
 
 * [Q70323677](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q70323677.md)

@@ -2,3 +2,7 @@
 
 # Technology: __smartphone technology__ (PBN__Technology_3183)
 
+## Property: has_TechnologyMitigation
+
+* [Crowdsourced Smartphone Data](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_357.md)
+

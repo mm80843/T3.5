@@ -2,6 +2,10 @@
 
 # Technology: __remote monitoring and tracking technologies__ (PBN__Technology_1366)
 
+## Property: has_TechnologyRisk
+
+* [Workforce Distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1953.md)
+
 ## Property: has_TechnologyID
 
 * [Q3546700](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3546700.md)

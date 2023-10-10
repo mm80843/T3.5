@@ -2,19 +2,19 @@
 
 # Stakeholder: __the elderly__ (PBN__Stakeholder_824)
 
-## Property: has_RiskSubject
-
-* [Overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_571.md)
-
-## Property: has_StakeholderGroup
-
-* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Age-Specific Concerns](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_112.md)
 
+## Property: has_SubjectRisk
+
+* [Overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_571.md)
+
 ## Property: has_StakeholderID
 
 * [Q1358789](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1358789.md)
+
+## Property: has_StakeholderGroup
+
+* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
 

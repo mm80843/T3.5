@@ -2,3 +2,7 @@
 
 # Technology: __fluorescent lamps__ (PBN__Technology_4085)
 
+## Property: has_TechnologyMitigation
+
+* [UV-Light radiation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1813.md)
+

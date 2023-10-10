@@ -2,9 +2,9 @@
 
 # Technology: __fitness tracking devices for children__ (PBN__Technology_410)
 
-## Property: has_StakeholderGroup
+## Property: has_TechnologyRisk
 
-* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
+* [Lack of physical activity in children and adolescents during quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1279.md)
 
 ## Property: has_TechnologyID
 
@@ -13,4 +13,8 @@
 ## Property: has_StakeholderSubgroup
 
 * [Well-being and Lifestyle](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_45.md)
+
+## Property: has_StakeholderGroup
+
+* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
 

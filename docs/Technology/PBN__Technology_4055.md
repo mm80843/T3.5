@@ -2,3 +2,7 @@
 
 # Technology: __information and education campaigns__ (PBN__Technology_4055)
 
+## Property: has_TechnologyMitigation
+
+* [Public Awareness and Education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1776.md)
+

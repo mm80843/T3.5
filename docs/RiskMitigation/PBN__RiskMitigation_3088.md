@@ -1,0 +1,8 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) 
+
+# RiskMitigation: __Implement physical distancing measures and enforce face mask usage in public transportation. Promote alternative modes of transportation such as biking and walking.__ (PBN__RiskMitigation_3088)
+
+## Property: has_MitigationRisk
+
+* [Urban Mobility and Commute Patterns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2379.md)
+

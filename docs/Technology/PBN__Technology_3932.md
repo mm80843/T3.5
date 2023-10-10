@@ -2,3 +2,7 @@
 
 # Technology: __web service__ (PBN__Technology_3932)
 
+## Property: has_TechnologyMitigation
+
+* [SAMBA](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1581.md)
+

@@ -2,3 +2,7 @@
 
 # Technology: __park design__ (PBN__Technology_4500)
 
+## Property: has_TechnologyMitigation
+
+* [Adequate green space allocation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2432.md)
+

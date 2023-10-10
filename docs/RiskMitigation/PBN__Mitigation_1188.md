@@ -1,0 +1,20 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) 
+
+# RiskMitigation: __Promotion of green roofs__ (PBN__Mitigation_1188)
+
+## Property: has_MitigationRisk
+
+* [Economic barrier](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2958.md)
+
+## Property: has_MitigationPrinciple
+
+Promote social and environmental benefits over individual economic interests
+
+## Property: has_MitigationSource
+
+* [manso_role_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_262.md)
+
+## Property: has_MitigationTechnology
+
+* [marketing strategy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3720.md)
+

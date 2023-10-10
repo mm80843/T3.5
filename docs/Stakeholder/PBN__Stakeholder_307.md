@@ -21,3 +21,7 @@
 * [Inadequate mosquito control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1647.md)
 * [Urban density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2028.md)
 
+## Property: has_BenefitForPeople
+
+* [Economic stability and recovery](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_743.md)
+

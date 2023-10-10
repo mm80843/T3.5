@@ -2,3 +2,7 @@
 
 # Technology: __green areas__ (PBN__Technology_4038)
 
+## Property: has_TechnologyMitigation
+
+* [Outdoor Design and Spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1739.md)
+

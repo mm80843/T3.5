@@ -2,3 +2,7 @@
 
 # Technology: __body temperature scanners__ (PBN__Technology_4007)
 
+## Property: has_TechnologyMitigation
+
+* [Health screening of workers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1680.md)
+

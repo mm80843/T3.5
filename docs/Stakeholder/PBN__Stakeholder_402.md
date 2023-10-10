@@ -2,3 +2,7 @@
 
 # Stakeholder: __public and healthcare systems__ (PBN__Stakeholder_402)
 
+## Property: has_BenefitForPeople
+
+* [Containment of pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1011.md)
+

@@ -2,3 +2,7 @@
 
 # Technology: __urine proteomics__ (PBN__Technology_4142)
 
+## Property: has_TechnologyMitigation
+
+* [Protein-based Inflammation Biomarkers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1923.md)
+

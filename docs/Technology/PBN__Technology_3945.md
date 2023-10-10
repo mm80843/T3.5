@@ -2,3 +2,7 @@
 
 # Technology: __iot networks__ (PBN__Technology_3945)
 
+## Property: has_TechnologyMitigation
+
+* [Touch-free Technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1612.md)
+

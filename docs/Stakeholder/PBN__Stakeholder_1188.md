@@ -2,7 +2,7 @@
 
 # Stakeholder: __poorly ventilated environments__ (PBN__Stakeholder_1188)
 
-## Property: has_RiskSubject
+## Property: has_SubjectRisk
 
 * [Use of air cleaning and disinfection devices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1780.md)
 

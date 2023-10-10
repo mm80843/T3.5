@@ -2,3 +2,7 @@
 
 # Technology: __thermostats__ (PBN__Technology_3742)
 
+## Property: has_TechnologyMitigation
+
+* [Temperature Control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_936.md)
+

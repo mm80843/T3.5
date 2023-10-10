@@ -2,3 +2,7 @@
 
 # Technology: __dedicated isolation facilities__ (PBN__Technology_3830)
 
+## Property: has_TechnologyMitigation
+
+* [Isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_752.md)
+

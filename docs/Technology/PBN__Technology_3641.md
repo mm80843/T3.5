@@ -2,3 +2,7 @@
 
 # Technology: __advertising__ (PBN__Technology_3641)
 
+## Property: has_TechnologyMitigation
+
+* [Public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1091.md)
+

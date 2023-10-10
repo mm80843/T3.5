@@ -2,6 +2,10 @@
 
 # Technology: __urban planning and design technologies__ (PBN__Technology_1108)
 
+## Property: has_TechnologyRisk
+
+* [Insufficient public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1738.md)
+
 ## Property: has_TechnologyID
 
 * [Q63100](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q63100.md)

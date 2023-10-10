@@ -2,7 +2,7 @@
 
 # Stakeholder: __occupants of residential buildings__ (PBN__Stakeholder_1489)
 
-## Property: has_RiskSubject
+## Property: has_SubjectRisk
 
 * [Virus propagation risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_279.md)
 * [Waste management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_613.md)

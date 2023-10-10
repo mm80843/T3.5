@@ -22,3 +22,8 @@
 * [Alexithymia](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2060.md)
 * [Negative Emotions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2277.md)
 
+## Property: has_BenefitForPeople
+
+* [Identification of high-risk individuals](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_933.md)
+* [Enhanced psychological treatment effectiveness](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1117.md)
+

@@ -2,6 +2,10 @@
 
 # Technology: __blockchain security protocols__ (PBN__Technology_399)
 
+## Property: has_TechnologyRisk
+
+* [Blockchain system vulnerabilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1275.md)
+
 ## Property: has_TechnologyID
 
 * [Q1254335](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1254335.md)

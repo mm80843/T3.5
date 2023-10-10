@@ -2,9 +2,9 @@
 
 # Technology: __online training and support for mental health professionals__ (PBN__Technology_1448)
 
-## Property: has_StakeholderGroup
+## Property: has_TechnologyRisk
 
-* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
+* [Lack of access to mental health services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1993.md)
 
 ## Property: has_TechnologyID
 
@@ -13,4 +13,8 @@
 ## Property: has_StakeholderSubgroup
 
 * [Mental Health Support](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_63.md)
+
+## Property: has_StakeholderGroup
+
+* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
 

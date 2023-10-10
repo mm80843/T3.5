@@ -2,6 +2,10 @@
 
 # Technology: __risk communication strategies__ (PBN__Technology_1174)
 
+## Property: has_TechnologyRisk
+
+* [Biased risk perception](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1818.md)
+
 ## Property: has_TechnologyID
 
 * [Q24889807](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q24889807.md)

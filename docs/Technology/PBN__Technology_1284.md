@@ -2,9 +2,13 @@
 
 # Technology: __stress management__ (PBN__Technology_1284)
 
-## Property: has_StakeholderGroup
+## Property: has_TechnologyRisk
 
-* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
+* [Stress and burnout among healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1900.md)
+
+## Property: has_TechnologyMitigation
+
+* [Physical and Mental Health](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_303.md)
 
 ## Property: has_TechnologyID
 
@@ -13,4 +17,8 @@
 ## Property: has_StakeholderSubgroup
 
 * [nan](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_7.md)
+
+## Property: has_StakeholderGroup
+
+* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
 

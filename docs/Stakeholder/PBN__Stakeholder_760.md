@@ -2,7 +2,7 @@
 
 # Stakeholder: __individuals providing personal data__ (PBN__Stakeholder_760)
 
-## Property: has_RiskSubject
+## Property: has_SubjectRisk
 
 * [Privacy and security risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1245.md)
 

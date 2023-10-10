@@ -2,3 +2,7 @@
 
 # Technology: __localization__ (PBN__Technology_4374)
 
+## Property: has_TechnologyMitigation
+
+* [Rethinking global trade and supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2259.md)
+

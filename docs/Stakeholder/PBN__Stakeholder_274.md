@@ -7,16 +7,21 @@
 * [Lack of axioms and definition patterns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1941.md)
 * [Amplification of flawed data through meta-analyses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2333.md)
 
-## Property: has_RiskSubject
+## Property: has_StakeholderSubgroup
+
+* [nan](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_7.md)
+
+## Property: has_SubjectRisk
 
 * [Lack of axioms and definition patterns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1941.md)
 * [Amplification of flawed data through meta-analyses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2333.md)
 
+## Property: has_BenefitForPeople
+
+* [Automated patient monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_662.md)
+* [Improved accuracy of meta-analyses](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_860.md)
+
 ## Property: has_StakeholderGroup
 
 * [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
-
-## Property: has_StakeholderSubgroup
-
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_7.md)
 

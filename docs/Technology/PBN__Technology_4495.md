@@ -2,3 +2,7 @@
 
 # Technology: __teleoperation technology__ (PBN__Technology_4495)
 
+## Property: has_TechnologyMitigation
+
+* [Teleoperation for telemedicine and telecommuting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2426.md)
+

@@ -2,6 +2,10 @@
 
 # Technology: __real-time passenger information systems__ (PBN__Technology_1328)
 
+## Property: has_TechnologyRisk
+
+* [Reduced demand for public transport](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1931.md)
+
 ## Property: has_TechnologyID
 
 * [Q1067164](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1067164.md)

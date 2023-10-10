@@ -2,3 +2,7 @@
 
 # Technology: __public health initiatives__ (PBN__Technology_2908)
 
+## Property: has_TechnologyMitigation
+
+* [Health and prevention measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_28.md)
+

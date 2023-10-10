@@ -2,7 +2,7 @@
 
 # Stakeholder: __environmental microbiologists__ (PBN__Stakeholder_1052)
 
-## Property: has_RiskSubject
+## Property: has_SubjectRisk
 
 * [Lack of standardized method for SARS-CoV-2 detection in environmental samples](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1626.md)
 

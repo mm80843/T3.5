@@ -2,3 +2,7 @@
 
 # Stakeholder: __individuals under quarantine__ (PBN__Stakeholder_268)
 
+## Property: has_BenefitForPeople
+
+* [Targeted quarantine and movement control](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_641.md)
+

@@ -2,3 +2,8 @@
 
 # Technology: __infrared thermometers__ (PBN__Technology_3246)
 
+## Property: has_TechnologyMitigation
+
+* [Temperature Screening](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_466.md)
+* [Monitoring temperature](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_833.md)
+

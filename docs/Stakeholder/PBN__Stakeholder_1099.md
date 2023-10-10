@@ -2,7 +2,7 @@
 
 # Stakeholder: __park visitors__ (PBN__Stakeholder_1099)
 
-## Property: has_RiskSubject
+## Property: has_SubjectRisk
 
 * [Increased occurrence of ticks and tick-borne diseases in urban locations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1666.md)
 * [Increased population of urban rats](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1667.md)

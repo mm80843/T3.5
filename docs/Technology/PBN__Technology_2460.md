@@ -6,11 +6,11 @@
 
 * [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_6.md)
 
-## Property: has_TechnologyID
-
-* [Q69964246](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q69964246.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Public Health and Awareness Campaigns](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_51.md)
+
+## Property: has_TechnologyID
+
+* [Q69964246](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q69964246.md)
 

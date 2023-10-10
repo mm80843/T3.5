@@ -2,10 +2,9 @@
 
 # Technology: __clean cookstoves__ (PBN__Technology_1483)
 
-## Property: has_StakeholderGroup
+## Property: has_TechnologyRisk
 
-* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
-* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_15.md)
+* [Use of biomass fuels](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2018.md)
 
 ## Property: has_TechnologyID
 
@@ -13,6 +12,11 @@
 
 ## Property: has_StakeholderSubgroup
 
-* [Indoor Environmental Quality](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_79.md)
 * [Energy Systems and Sustainability](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_116.md)
+* [Indoor Environmental Quality](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_79.md)
+
+## Property: has_StakeholderGroup
+
+* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
+* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_15.md)
 

@@ -2,3 +2,7 @@
 
 # Technology: __cleaning and sanitization equipment__ (PBN__Technology_3556)
 
+## Property: has_TechnologyMitigation
+
+* [Personal Cleanliness, Sanitization, and Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_942.md)
+

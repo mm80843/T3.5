@@ -1,0 +1,21 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) 
+
+# RiskMitigation: __Extensive testing__ (PBN__Mitigation_1791)
+
+## Property: has_MitigationRisk
+
+* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
+
+## Property: has_MitigationPrinciple
+
+Testing a large number of individuals to identify and isolate infected cases
+
+## Property: has_MitigationSource
+
+* [sakellarides_viral_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_183.md)
+
+## Property: has_MitigationTechnology
+
+* [testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_610.md)
+* [laboratory facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3513.md)
+

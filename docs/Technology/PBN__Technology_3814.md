@@ -2,3 +2,7 @@
 
 # Technology: __scenario planning__ (PBN__Technology_3814)
 
+## Property: has_TechnologyMitigation
+
+* [Scenario planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1355.md)
+

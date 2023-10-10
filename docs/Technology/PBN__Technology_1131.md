@@ -2,6 +2,10 @@
 
 # Technology: __supply chain visibility technologies__ (PBN__Technology_1131)
 
+## Property: has_TechnologyRisk
+
+* [Supply chain disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_10.md)
+
 ## Property: has_TechnologyID
 
 * [Q1824206](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1824206.md)

@@ -2,3 +2,7 @@
 
 # Technology: __ospa-based transmission-blocking vaccine__ (PBN__Technology_3690)
 
+## Property: has_TechnologyMitigation
+
+* [Tick Control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1146.md)
+

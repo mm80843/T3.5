@@ -2,7 +2,7 @@
 
 # Stakeholder: __temporary migrants__ (PBN__Stakeholder_1516)
 
-## Property: has_RiskSubject
+## Property: has_SubjectRisk
 
 * [Exclusion and vulnerability of migrants and gig workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2266.md)
 

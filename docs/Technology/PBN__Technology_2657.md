@@ -4,15 +4,15 @@
 
 ## Property: has_StakeholderGroup
 
-* [Building materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_12.md)
 * [Urban technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_14.md)
-
-## Property: has_TechnologyID
-
-* [Q12144907](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q12144907.md)
+* [Building materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_12.md)
 
 ## Property: has_StakeholderSubgroup
 
 * [Building Materials](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_180.md)
 * [Building Design and Construction](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_181.md)
+
+## Property: has_TechnologyID
+
+* [Q12144907](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q12144907.md)
 

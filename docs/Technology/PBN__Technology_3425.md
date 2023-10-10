@@ -2,3 +2,7 @@
 
 # Technology: __bim software__ (PBN__Technology_3425)
 
+## Property: has_TechnologyMitigation
+
+* [BIM (Building Information Modelling)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_749.md)
+

@@ -2,7 +2,7 @@
 
 # Stakeholder: __athletes__ (PBN__Stakeholder_1221)
 
-## Property: has_RiskSubject
+## Property: has_SubjectRisk
 
 * [Impact on sports industry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1815.md)
 

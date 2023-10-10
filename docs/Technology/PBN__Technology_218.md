@@ -2,6 +2,10 @@
 
 # Technology: __remote working technologies__ (PBN__Technology_218)
 
+## Property: has_TechnologyRisk
+
+* [Economic decline](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_856.md)
+
 ## Property: has_TechnologyID
 
 * [Q1135326](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1135326.md)

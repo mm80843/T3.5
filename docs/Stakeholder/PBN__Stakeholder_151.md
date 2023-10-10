@@ -2,3 +2,7 @@
 
 # Stakeholder: __maintenance personnel__ (PBN__Stakeholder_151)
 
+## Property: has_BenefitForPeople
+
+* [Efficacy of UV light](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_318.md)
+

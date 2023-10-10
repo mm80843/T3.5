@@ -1,0 +1,12 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) 
+
+# RiskMitigation: __3D-Printed Personal Protective Equipment__ (PBN__RiskMitigation_1279)
+
+## Property: has_MitigationBenefit
+
+* [Ease in production](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1262.md)
+
+## Property: has_MitigationRisk
+
+* [Shortage of PPE](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_924.md)
+

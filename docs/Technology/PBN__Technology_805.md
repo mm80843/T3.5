@@ -2,9 +2,9 @@
 
 # Technology: __clear guidelines__ (PBN__Technology_805)
 
-## Property: has_StakeholderGroup
+## Property: has_TechnologyRisk
 
-* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_11.md)
+* [Impulsive adoption of extreme measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1521.md)
 
 ## Property: has_TechnologyID
 
@@ -13,4 +13,8 @@
 ## Property: has_StakeholderSubgroup
 
 * [Educational and Training Resources](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_39.md)
+
+## Property: has_StakeholderGroup
+
+* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_11.md)
 

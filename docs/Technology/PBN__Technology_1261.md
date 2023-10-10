@@ -2,6 +2,11 @@
 
 # Technology: __crowd management systems__ (PBN__Technology_1261)
 
+## Property: has_TechnologyRisk
+
+* [Overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_571.md)
+* [Religious pilgrimages](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1886.md)
+
 ## Property: has_TechnologyID
 
 * [Q1872073](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1872073.md)

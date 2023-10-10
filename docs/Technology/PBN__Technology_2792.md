@@ -6,11 +6,11 @@
 
 * [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_15.md)
 
-## Property: has_TechnologyID
-
-* [Q171184](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q171184.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Biotechnological Techniques and Devices](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_29.md)
+
+## Property: has_TechnologyID
+
+* [Q171184](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q171184.md)
 

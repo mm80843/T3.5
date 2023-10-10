@@ -2,6 +2,10 @@
 
 # Technology: __standardization efforts__ (PBN__Technology_1639)
 
+## Property: has_TechnologyRisk
+
+* [Interoperability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2129.md)
+
 ## Property: has_TechnologyID
 
 * [Q369577](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q369577.md)

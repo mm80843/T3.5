@@ -2,3 +2,7 @@
 
 # Technology: __employers__ (PBN__Technology_798)
 
+## Property: has_TechnologyRisk
+
+* [Lack of proper PPE usage and availability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1515.md)
+

@@ -2,3 +2,7 @@
 
 # Technology: __sms messaging__ (PBN__Technology_4408)
 
+## Property: has_TechnologyMitigation
+
+* [Health declaration border pass](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2317.md)
+

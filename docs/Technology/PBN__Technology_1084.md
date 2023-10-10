@@ -2,3 +2,7 @@
 
 # Technology: __manufacturing companies__ (PBN__Technology_1084)
 
+## Property: has_TechnologyRisk
+
+* [Shortage of COVID-19 testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_353.md)
+

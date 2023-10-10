@@ -2,3 +2,7 @@
 
 # Technology: __anti-microbial materials__ (PBN__Technology_4237)
 
+## Property: has_TechnologyMitigation
+
+* [Proper selection of indoor materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2122.md)
+

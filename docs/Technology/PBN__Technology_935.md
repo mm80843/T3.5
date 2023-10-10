@@ -2,6 +2,10 @@
 
 # Technology: __digital health interventions__ (PBN__Technology_935)
 
+## Property: has_TechnologyRisk
+
+* [Cyberchondria](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1611.md)
+
 ## Property: has_TechnologyID
 
 * [Q5276090](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5276090.md)

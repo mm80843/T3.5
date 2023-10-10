@@ -2,3 +2,7 @@
 
 # Technology: __building retrofits__ (PBN__Technology_3401)
 
+## Property: has_TechnologyMitigation
+
+* [Retrofits](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_713.md)
+

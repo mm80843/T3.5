@@ -2,3 +2,7 @@
 
 # Technology: __stakeholder requirements__ (PBN__Technology_3737)
 
+## Property: has_TechnologyMitigation
+
+* [Value management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1221.md)
+

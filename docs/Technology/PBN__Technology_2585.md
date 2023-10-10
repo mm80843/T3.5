@@ -6,11 +6,11 @@
 
 * [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_9.md)
 
-## Property: has_TechnologyID
-
-* [Q13446365](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q13446365.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Hygiene and Sanitation Practices and Protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_60.md)
+
+## Property: has_TechnologyID
+
+* [Q13446365](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q13446365.md)
 

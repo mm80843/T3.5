@@ -2,9 +2,13 @@
 
 # Technology: __simulation__ (PBN__Technology_389)
 
-## Property: has_StakeholderGroup
+## Property: has_TechnologyRisk
 
-* [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_8.md)
+* [Minimized Surgery](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1264.md)
+
+## Property: has_TechnologyMitigation
+
+* [Use of simulation for policy-making](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1632.md)
 
 ## Property: has_TechnologyID
 
@@ -13,4 +17,8 @@
 ## Property: has_StakeholderSubgroup
 
 * [Education and Training](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_32.md)
+
+## Property: has_StakeholderGroup
+
+* [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_8.md)
 

@@ -2,6 +2,10 @@
 
 # Technology: __disinfection supplies__ (PBN__Technology_364)
 
+## Property: has_TechnologyRisk
+
+* [Making social spaces safe and viable](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_266.md)
+
 ## Property: has_TechnologyID
 
 * [Q24887418](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q24887418.md)

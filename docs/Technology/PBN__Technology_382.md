@@ -2,3 +2,7 @@
 
 # Technology: __interior designers__ (PBN__Technology_382)
 
+## Property: has_TechnologyRisk
+
+* [Smaller and individual internal layouts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_248.md)
+

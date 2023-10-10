@@ -1,0 +1,21 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) 
+
+# RiskMitigation: __Monitoring Air Quality__ (PBN__Mitigation_911)
+
+## Property: has_MitigationRisk
+
+* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
+
+## Property: has_MitigationPrinciple
+
+Tracking and analyzing air quality indicators to assess the impact of reduced traffic on air pollution
+
+## Property: has_MitigationSource
+
+* [james_smart_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_164.md)
+
+## Property: has_MitigationTechnology
+
+* [air quality sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_432.md)
+* [iot sensing infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3534.md)
+

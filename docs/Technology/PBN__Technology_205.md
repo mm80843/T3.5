@@ -2,9 +2,10 @@
 
 # Technology: __automated cleaning systems__ (PBN__Technology_205)
 
-## Property: has_StakeholderGroup
+## Property: has_TechnologyRisk
 
-* [Drones and robots](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_17.md)
+* [Lack of sanitation in shared spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1127.md)
+* [Contamination of floor surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1420.md)
 
 ## Property: has_TechnologyID
 
@@ -13,4 +14,8 @@
 ## Property: has_StakeholderSubgroup
 
 * [Cleaning and Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_167.md)
+
+## Property: has_StakeholderGroup
+
+* [Drones and robots](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_17.md)
 

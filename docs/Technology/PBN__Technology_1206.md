@@ -2,9 +2,10 @@
 
 # Technology: __outreach campaigns__ (PBN__Technology_1206)
 
-## Property: has_StakeholderGroup
+## Property: has_TechnologyRisk
 
-* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_11.md)
+* [Lower vaccination rates among immigrants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1844.md)
+* [Limited accessibility due to education level](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2246.md)
 
 ## Property: has_TechnologyID
 
@@ -13,4 +14,8 @@
 ## Property: has_StakeholderSubgroup
 
 * [Public Awareness Campaigns and Communication Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_49.md)
+
+## Property: has_StakeholderGroup
+
+* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_11.md)
 

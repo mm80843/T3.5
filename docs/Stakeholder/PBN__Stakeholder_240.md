@@ -6,3 +6,7 @@
 
 * [Q81965](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q81965.md)
 
+## Property: has_BenefitForPeople
+
+* [Continued production and sales](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_563.md)
+

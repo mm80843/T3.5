@@ -2,3 +2,7 @@
 
 # Technology: __video game consoles__ (PBN__Technology_3233)
 
+## Property: has_TechnologyMitigation
+
+* [Exergames](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_67.md)
+

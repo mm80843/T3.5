@@ -2,3 +2,7 @@
 
 # Technology: __photocatalysts such as tio2__ (PBN__Technology_3777)
 
+## Property: has_TechnologyMitigation
+
+* [Photocatalytic oxidation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1305.md)
+

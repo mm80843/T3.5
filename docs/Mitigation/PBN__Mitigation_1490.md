@@ -2,19 +2,19 @@
 
 # Mitigation: __Simplified procedures for essential activities__ (PBN__Mitigation_1490)
 
-## Property: has_MitigationSource
-
-* [oecd_global_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_60.md)
-
 ## Property: has_MitigationRisk
 
 * [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 
-## Property: has_MitigationTechnology
-
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
-
 ## Property: has_MitigationPrinciple
 
 Governments can implement simplified procedures and permits for essential activities to enable easier and faster production during disruptions.
+
+## Property: has_MitigationSource
+
+* [oecd_global_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_60.md)
+
+## Property: has_MitigationTechnology
+
+* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 

@@ -11,10 +11,6 @@
 * [Changes in use and behavior in public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1465.md)
 * [Perceptions of public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1466.md)
 
-## Property: has_StakeholderGroup
-
-* [City Officials](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_0.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [City Officials and Administrators](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_4.md)
@@ -22,4 +18,14 @@
 ## Property: has_StakeholderID
 
 * [Q9305769](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q9305769.md)
+
+## Property: has_BenefitForPeople
+
+* [Enhanced control over city access](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1378.md)
+* [Deterrence of anti-social behavior](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1384.md)
+* [Efficient crisis response](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1389.md)
+
+## Property: has_StakeholderGroup
+
+* [City Officials](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_0.md)
 

@@ -2,6 +2,10 @@
 
 # Technology: __online entrepreneurship communities__ (PBN__Technology_914)
 
+## Property: has_TechnologyRisk
+
+* [Exclusion from government support programs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1600.md)
+
 ## Property: has_TechnologyID
 
 * [Q6576792](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6576792.md)

@@ -2,3 +2,7 @@
 
 # Technology: __government policies and guidelines__ (PBN__Technology_4329)
 
+## Property: has_TechnologyMitigation
+
+* [Flexibility in lockdown measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2214.md)
+

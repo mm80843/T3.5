@@ -1,0 +1,21 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) 
+
+# RiskMitigation: __Machine learning and artificial intelligence__ (PBN__Mitigation_287)
+
+## Property: has_MitigationRisk
+
+* [Risk of infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2469.md)
+
+## Property: has_MitigationPrinciple
+
+Utilize machine learning and AI algorithms to analyze data, detect patterns, and make predictions related to the spread of contagious diseases, enabling proactive measures for prevention and mitigation.
+
+## Property: has_MitigationSource
+
+* [bolivar_learning_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_177.md)
+
+## Property: has_MitigationTechnology
+
+* [artificial intelligence (ai)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1714.md)
+* [machine learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3004.md)
+

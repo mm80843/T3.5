@@ -2,3 +2,7 @@
 
 # Technology: __telecommunication technology (e.g. internet__ (PBN__Technology_3803)
 
+## Property: has_TechnologyMitigation
+
+* [Telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_147.md)
+

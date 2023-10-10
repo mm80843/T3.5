@@ -2,3 +2,7 @@
 
 # Technology: __shift alteration__ (PBN__Technology_3137)
 
+## Property: has_TechnologyMitigation
+
+* [Human Interactions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_300.md)
+

@@ -2,3 +2,7 @@
 
 # Technology: __wi-fi)__ (PBN__Technology_3387)
 
+## Property: has_TechnologyMitigation
+
+* [Wireless data transmission](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_694.md)
+

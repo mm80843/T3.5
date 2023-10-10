@@ -2,6 +2,10 @@
 
 # Technology: __ai tools__ (PBN__Technology_1318)
 
+## Property: has_TechnologyRisk
+
+* [Value-based decision-making and policy support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1922.md)
+
 ## Property: has_TechnologyID
 
 * [Q69906](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q69906.md)

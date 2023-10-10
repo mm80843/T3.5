@@ -2,6 +2,10 @@
 
 # Technology: __global network of virus surveillance__ (PBN__Technology_1964)
 
+## Property: has_TechnologyRisk
+
+* [Knowledge gaps and future threats](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2362.md)
+
 ## Property: has_TechnologyID
 
 * [Q478216](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q478216.md)

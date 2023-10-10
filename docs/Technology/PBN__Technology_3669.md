@@ -2,3 +2,7 @@
 
 # Technology: __railway transport__ (PBN__Technology_3669)
 
+## Property: has_TechnologyMitigation
+
+* [Restricting inter-city connections](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1118.md)
+

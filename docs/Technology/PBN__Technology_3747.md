@@ -2,3 +2,7 @@
 
 # Technology: __rapid diagnosis__ (PBN__Technology_3747)
 
+## Property: has_TechnologyMitigation
+
+* [Mass testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1.md)
+

@@ -2,3 +2,7 @@
 
 # Technology: __chloramine__ (PBN__Technology_3754)
 
+## Property: has_TechnologyMitigation
+
+* [Disinfection of water](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1230.md)
+

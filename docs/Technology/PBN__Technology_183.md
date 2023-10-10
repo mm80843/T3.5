@@ -2,3 +2,7 @@
 
 # Technology: __ethical review boards__ (PBN__Technology_183)
 
+## Property: has_TechnologyRisk
+
+* [Data security, encryption, ethics, and regulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1115.md)
+

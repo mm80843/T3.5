@@ -2,6 +2,10 @@
 
 # Technology: __market research tools__ (PBN__Technology_915)
 
+## Property: has_TechnologyRisk
+
+* [Shift in customer needs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1601.md)
+
 ## Property: has_TechnologyID
 
 * [Q913709](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q913709.md)

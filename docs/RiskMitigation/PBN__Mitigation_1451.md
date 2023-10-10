@@ -1,0 +1,20 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) 
+
+# RiskMitigation: __State Aid for Tourism Industry__ (PBN__Mitigation_1451)
+
+## Property: has_MitigationRisk
+
+* [Economic impact on government budgets, inequitable distribution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3079.md)
+
+## Property: has_MitigationPrinciple
+
+Provide financial support to the tourism industry to mitigate losses
+
+## Property: has_MitigationSource
+
+* [nicola_socio-economic_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_135.md)
+
+## Property: has_MitigationTechnology
+
+* [financial resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3637.md)
+

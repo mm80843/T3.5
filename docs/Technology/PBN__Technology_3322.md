@@ -2,3 +2,7 @@
 
 # Technology: __engagement with diverse groups__ (PBN__Technology_3322)
 
+## Property: has_TechnologyMitigation
+
+* [Address health inequities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_572.md)
+

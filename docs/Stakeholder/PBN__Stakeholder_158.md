@@ -2,3 +2,7 @@
 
 # Stakeholder: __users of bed nets__ (PBN__Stakeholder_158)
 
+## Property: has_BenefitForPeople
+
+* [Reduction in mosquito-human contact](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_336.md)
+

@@ -2,6 +2,10 @@
 
 # Technology: __advanced ventilation systems__ (PBN__Technology_1294)
 
+## Property: has_TechnologyRisk
+
+* [Spread of contagious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_20.md)
+
 ## Property: has_TechnologyID
 
 * [Q584049](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q584049.md)

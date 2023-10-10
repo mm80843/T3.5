@@ -2,3 +2,7 @@
 
 # Stakeholder: __public health specialists__ (PBN__Stakeholder_233)
 
+## Property: has_BenefitForPeople
+
+* [Coordinating and integrating research, data, and expertise](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_548.md)
+

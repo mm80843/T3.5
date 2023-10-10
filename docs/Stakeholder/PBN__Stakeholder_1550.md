@@ -2,19 +2,19 @@
 
 # Stakeholder: __especially those in underserved areas__ (PBN__Stakeholder_1550)
 
-## Property: has_RiskSubject
-
-* [Inadequate allocation of community service facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2325.md)
-
-## Property: has_StakeholderGroup
-
-* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Vulnerable and Underserved Communities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_102.md)
 
+## Property: has_SubjectRisk
+
+* [Inadequate allocation of community service facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2325.md)
+
 ## Property: has_StakeholderID
 
 * [Q518261](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q518261.md)
+
+## Property: has_StakeholderGroup
+
+* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
 

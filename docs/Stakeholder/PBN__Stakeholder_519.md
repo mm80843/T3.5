@@ -2,3 +2,7 @@
 
 # Stakeholder: __tourism and travel industries__ (PBN__Stakeholder_519)
 
+## Property: has_BenefitForPeople
+
+* [Enhanced economic stability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1323.md)
+

@@ -2,3 +2,7 @@
 
 # Technology: __rapid testing__ (PBN__Technology_2917)
 
+## Property: has_TechnologyMitigation
+
+* [Mass Testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_38.md)
+

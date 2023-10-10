@@ -2,6 +2,10 @@
 
 # Technology: __digital newsletters__ (PBN__Technology_881)
 
+## Property: has_TechnologyRisk
+
+* [Impact on public awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1573.md)
+
 ## Property: has_TechnologyID
 
 * [Q264238](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q264238.md)

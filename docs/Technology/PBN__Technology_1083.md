@@ -2,3 +2,7 @@
 
 # Technology: __collaborative networks__ (PBN__Technology_1083)
 
+## Property: has_TechnologyRisk
+
+* [Limited access to COVID-19 data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1719.md)
+

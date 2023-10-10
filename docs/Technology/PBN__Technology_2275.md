@@ -6,11 +6,11 @@
 
 * [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_3.md)
 
-## Property: has_TechnologyID
-
-* [Q1630941](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1630941.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Telemedicine and Telehealth Services](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_28.md)
+
+## Property: has_TechnologyID
+
+* [Q1630941](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1630941.md)
 

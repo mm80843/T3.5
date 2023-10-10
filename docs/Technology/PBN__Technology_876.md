@@ -2,9 +2,10 @@
 
 # Technology: __mental health resources__ (PBN__Technology_876)
 
-## Property: has_StakeholderGroup
+## Property: has_TechnologyRisk
 
-* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_11.md)
+* [Impact on psychological well-being](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1570.md)
+* [Fear and negative emotion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1819.md)
 
 ## Property: has_TechnologyID
 
@@ -13,4 +14,8 @@
 ## Property: has_StakeholderSubgroup
 
 * [Support Systems and Resources](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_42.md)
+
+## Property: has_StakeholderGroup
+
+* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_11.md)
 

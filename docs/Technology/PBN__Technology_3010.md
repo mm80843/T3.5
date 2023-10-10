@@ -2,3 +2,7 @@
 
 # Technology: __on-site shopping facilities__ (PBN__Technology_3010)
 
+## Property: has_TechnologyMitigation
+
+* [Self-sufficiency in shopping facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_159.md)
+

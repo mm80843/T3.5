@@ -2,9 +2,9 @@
 
 # Technology: __research methodology improvement__ (PBN__Technology_841)
 
-## Property: has_StakeholderGroup
+## Property: has_TechnologyRisk
 
-* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_11.md)
+* [Inadequate reporting and method quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1542.md)
 
 ## Property: has_TechnologyID
 
@@ -12,6 +12,10 @@
 
 ## Property: has_StakeholderSubgroup
 
-* [Data Collection and Reporting Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_175.md)
 * [Research and Scientific Studies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_163.md)
+* [Data Collection and Reporting Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_175.md)
+
+## Property: has_StakeholderGroup
+
+* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_11.md)
 

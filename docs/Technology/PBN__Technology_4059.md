@@ -2,3 +2,7 @@
 
 # Technology: __hvac maintenance and cleaning__ (PBN__Technology_4059)
 
+## Property: has_TechnologyMitigation
+
+* [Regular HVAC Maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1779.md)
+

@@ -6,11 +6,11 @@
 
 * [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
 
-## Property: has_TechnologyID
-
-* [Q6887300](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6887300.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Touchless and Remote Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_53.md)
+
+## Property: has_TechnologyID
+
+* [Q6887300](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6887300.md)
 

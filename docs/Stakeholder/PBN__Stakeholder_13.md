@@ -2,3 +2,7 @@
 
 # Stakeholder: __crowd model users__ (PBN__Stakeholder_13)
 
+## Property: has_BenefitForPeople
+
+* [Retrofitting of existing crowd models](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_17.md)
+

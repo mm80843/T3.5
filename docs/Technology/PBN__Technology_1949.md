@@ -2,6 +2,10 @@
 
 # Technology: __development of new insecticides__ (PBN__Technology_1949)
 
+## Property: has_TechnologyRisk
+
+* [Insecticide resistance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2353.md)
+
 ## Property: has_TechnologyID
 
 * [Q181322](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q181322.md)

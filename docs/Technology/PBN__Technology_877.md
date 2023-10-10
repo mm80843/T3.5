@@ -2,6 +2,10 @@
 
 # Technology: __transparent communication channels__ (PBN__Technology_877)
 
+## Property: has_TechnologyRisk
+
+* [Decreased trust in official sources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1572.md)
+
 ## Property: has_TechnologyID
 
 * [Q733553](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q733553.md)

@@ -2,9 +2,9 @@
 
 # Technology: __enforcement of regulations__ (PBN__Technology_112)
 
-## Property: has_StakeholderGroup
+## Property: has_TechnologyRisk
 
-* [Enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_7.md)
+* [Hoarding of essential commodities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1074.md)
 
 ## Property: has_TechnologyID
 
@@ -13,4 +13,8 @@
 ## Property: has_StakeholderSubgroup
 
 * [Enforcement and Regulation Measures](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_158.md)
+
+## Property: has_StakeholderGroup
+
+* [Enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_7.md)
 

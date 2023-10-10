@@ -2,3 +2,7 @@
 
 # Stakeholder: __healthcare providers and patients__ (PBN__Stakeholder_120)
 
+## Property: has_BenefitForPeople
+
+* [Increased vaccination capacity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_212.md)
+

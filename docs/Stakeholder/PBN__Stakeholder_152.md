@@ -6,3 +6,7 @@
 
 * [Q3354588](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3354588.md)
 
+## Property: has_BenefitForPeople
+
+* [Enhanced data resolution and accuracy](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_322.md)
+

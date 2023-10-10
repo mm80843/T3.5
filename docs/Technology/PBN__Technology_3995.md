@@ -2,3 +2,7 @@
 
 # Technology: __alarms__ (PBN__Technology_3995)
 
+## Property: has_TechnologyMitigation
+
+* [Alarm signals and LED screens](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1669.md)
+

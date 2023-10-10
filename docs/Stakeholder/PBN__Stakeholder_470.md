@@ -2,3 +2,7 @@
 
 # Stakeholder: __low-income individuals)__ (PBN__Stakeholder_470)
 
+## Property: has_BenefitForPeople
+
+* [Support for vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1202.md)
+

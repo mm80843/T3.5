@@ -2,3 +2,7 @@
 
 # Technology: __ultrafiltration units__ (PBN__Technology_4432)
 
+## Property: has_TechnologyMitigation
+
+* [Physical removal of solid residues](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2365.md)
+

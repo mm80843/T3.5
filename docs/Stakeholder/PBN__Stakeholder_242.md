@@ -23,3 +23,8 @@
 * [Disruptions to global and national supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2125.md)
 * [Lack of funding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2354.md)
 
+## Property: has_BenefitForPeople
+
+* [Identification of impacted areas](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_565.md)
+* [Global response](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_990.md)
+

@@ -2,3 +2,7 @@
 
 # Technology: __pest control measures__ (PBN__Technology_3902)
 
+## Property: has_TechnologyMitigation
+
+* [Vector control programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1516.md)
+

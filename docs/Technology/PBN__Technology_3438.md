@@ -2,3 +2,7 @@
 
 # Technology: __bioinformatics software and algorithms__ (PBN__Technology_3438)
 
+## Property: has_TechnologyMitigation
+
+* [Bioinformatics Tools](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_766.md)
+

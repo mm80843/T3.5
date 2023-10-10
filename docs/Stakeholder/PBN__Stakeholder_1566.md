@@ -2,7 +2,7 @@
 
 # Stakeholder: __individuals in low-income areas__ (PBN__Stakeholder_1566)
 
-## Property: has_RiskSubject
+## Property: has_SubjectRisk
 
 * [Socioeconomic inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2344.md)
 

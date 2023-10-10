@@ -2,6 +2,11 @@
 
 # Technology: __education and training programs__ (PBN__Technology_1156)
 
+## Property: has_TechnologyRisk
+
+* [Lack of awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_49.md)
+* [Low adoption and accessibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1963.md)
+
 ## Property: has_TechnologyID
 
 * [Q2023606](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2023606.md)

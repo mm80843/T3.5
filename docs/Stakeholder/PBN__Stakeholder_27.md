@@ -2,7 +2,16 @@
 
 # Stakeholder: __low-income communities__ (PBN__Stakeholder_27)
 
-## Property: has_RiskSubject
+## Property: has_StakeholderID
+
+* [Q59679511](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q59679511.md)
+
+## Property: has_BenefitForPeople
+
+* [Reduced vulnerability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_31.md)
+* [Equitable Indoor Environments](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_537.md)
+
+## Property: has_SubjectRisk
 
 * [Food security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_232.md)
 * [Digital exclusion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1369.md)
@@ -16,8 +25,4 @@
 * [Inequitable access to transportation options](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1934.md)
 * [Unemployment and underemployment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2038.md)
 * [Inequities in infrastructure access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2152.md)
-
-## Property: has_StakeholderID
-
-* [Q59679511](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q59679511.md)
 

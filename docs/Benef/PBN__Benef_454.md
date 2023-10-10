@@ -2,20 +2,20 @@
 
 # Benef: __Enhanced infection control measures__ (PBN__Benef_454)
 
+## Property: has_BenefDetails
+
+Equipping hospitals with trained rapid-response teams, proper PPE, and infection control measures improves the safety and protection of healthcare workers and patients
+
 ## Property: has_Beneficiary
 
-* [nursing managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_203.md)
 * [hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_64.md)
-
-## Property: has_BenefSource
-
-* [hossny_management_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_92.md)
+* [nursing managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_203.md)
 
 ## Property: has_BenefReturn
 
 * [Private investors can benefit from improved infection control measures by safeguarding their investments and ensuring the continuity of healthcare services, which can lead to improved patient satisfaction and financial stability.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_490.md)
 
-## Property: has_BenefDetails
+## Property: has_BenefSource
 
-Equipping hospitals with trained rapid-response teams, proper PPE, and infection control measures improves the safety and protection of healthcare workers and patients
+* [hossny_management_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_92.md)
 

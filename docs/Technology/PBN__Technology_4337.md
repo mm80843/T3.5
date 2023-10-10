@@ -2,3 +2,7 @@
 
 # Technology: __object detection algorithms__ (PBN__Technology_4337)
 
+## Property: has_TechnologyMitigation
+
+* [Deep learning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2219.md)
+

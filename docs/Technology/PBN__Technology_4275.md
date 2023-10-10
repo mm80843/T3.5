@@ -2,3 +2,7 @@
 
 # Technology: __air extractors__ (PBN__Technology_4275)
 
+## Property: has_TechnologyMitigation
+
+* [Natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1369.md)
+

@@ -2,3 +2,7 @@
 
 # Technology: __pond pumps__ (PBN__Technology_3693)
 
+## Property: has_TechnologyMitigation
+
+* [Mosquito Control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1148.md)
+

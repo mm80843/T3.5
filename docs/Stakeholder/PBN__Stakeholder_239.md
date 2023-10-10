@@ -13,10 +13,6 @@
 * [Improper disposal of pharmaceutical wastes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2315.md)
 * [Improper disposal of chemical wastes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2316.md)
 
-## Property: has_StakeholderGroup
-
-* [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Healthcare Administration](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_49.md)
@@ -24,4 +20,12 @@
 ## Property: has_StakeholderID
 
 * [Q5657858](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5657858.md)
+
+## Property: has_BenefitForPeople
+
+* [Improved financial management](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_562.md)
+
+## Property: has_StakeholderGroup
+
+* [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
 

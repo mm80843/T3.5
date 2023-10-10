@@ -2,9 +2,9 @@
 
 # Technology: __drones for medical supply delivery__ (PBN__Technology_1171)
 
-## Property: has_StakeholderGroup
+## Property: has_TechnologyRisk
 
-* [Drones and robots](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_17.md)
+* [Impact on healthcare systems and pharmaceutical industry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1812.md)
 
 ## Property: has_TechnologyID
 
@@ -13,4 +13,8 @@
 ## Property: has_StakeholderSubgroup
 
 * [Robotic and Drone Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_113.md)
+
+## Property: has_StakeholderGroup
+
+* [Drones and robots](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_17.md)
 

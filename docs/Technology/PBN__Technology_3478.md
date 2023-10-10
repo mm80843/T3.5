@@ -2,3 +2,7 @@
 
 # Technology: __camera__ (PBN__Technology_3478)
 
+## Property: has_TechnologyMitigation
+
+* [Face recognition](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_830.md)
+

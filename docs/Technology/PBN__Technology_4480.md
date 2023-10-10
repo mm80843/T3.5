@@ -2,3 +2,8 @@
 
 # Technology: __nucleic acid extraction__ (PBN__Technology_4480)
 
+## Property: has_TechnologyMitigation
+
+* [Wastewater-based surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2410.md)
+* [Viral enrichment protocol](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2411.md)
+

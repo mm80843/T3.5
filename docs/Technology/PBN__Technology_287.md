@@ -2,6 +2,10 @@
 
 # Technology: __regular monitoring and enforcement__ (PBN__Technology_287)
 
+## Property: has_TechnologyRisk
+
+* [Non-compliance with Mask Mandates](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1202.md)
+
 ## Property: has_TechnologyID
 
 * [Q4202277](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4202277.md)

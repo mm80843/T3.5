@@ -2,3 +2,7 @@
 
 # Technology: __trained cleaning personnel__ (PBN__Technology_3873)
 
+## Property: has_TechnologyMitigation
+
+* [Proper cleaning protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1429.md)
+

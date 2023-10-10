@@ -2,3 +2,7 @@
 
 # Technology: __controlled experiments__ (PBN__Technology_2934)
 
+## Property: has_TechnologyMitigation
+
+* [Drug modelling](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_57.md)
+

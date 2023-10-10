@@ -2,6 +2,10 @@
 
 # Technology: __enhanced cleaning and sanitization protocols__ (PBN__Technology_742)
 
+## Property: has_TechnologyRisk
+
+* [Risk of workplace transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1479.md)
+
 ## Property: has_TechnologyID
 
 * [Q652289](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q652289.md)

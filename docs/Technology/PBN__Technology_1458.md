@@ -2,11 +2,15 @@
 
 # Technology: __simulation models__ (PBN__Technology_1458)
 
-## Property: has_StakeholderGroup
+## Property: has_TechnologyRisk
 
-* [AI tools](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_0.md)
+* [High impact of COVID-19 on construction industry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1998.md)
 
 ## Property: has_StakeholderSubgroup
 
 * [Simulation and Forecasting Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_0.md)
+
+## Property: has_StakeholderGroup
+
+* [AI tools](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_0.md)
 

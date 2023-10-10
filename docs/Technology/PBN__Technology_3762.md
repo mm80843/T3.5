@@ -2,3 +2,7 @@
 
 # Technology: __computer vision__ (PBN__Technology_3762)
 
+## Property: has_TechnologyMitigation
+
+* [AI algorithms for pattern discovery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1244.md)
+

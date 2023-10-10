@@ -2,3 +2,7 @@
 
 # Technology: __ipfs__ (PBN__Technology_3228)
 
+## Property: has_TechnologyMitigation
+
+* [Health Information Exchange](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_437.md)
+

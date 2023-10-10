@@ -2,3 +2,7 @@
 
 # Technology: __collaborative tools__ (PBN__Technology_3038)
 
+## Property: has_TechnologyMitigation
+
+* [Collaboration and interdisciplinary approach](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_177.md)
+

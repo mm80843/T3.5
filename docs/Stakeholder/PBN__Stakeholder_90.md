@@ -6,3 +6,7 @@
 
 * [Q57774188](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q57774188.md)
 
+## Property: has_BenefitForPeople
+
+* [Private investment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_151.md)
+

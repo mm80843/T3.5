@@ -2,3 +2,7 @@
 
 # Stakeholder: __particularly those with low income or low education__ (PBN__Stakeholder_267)
 
+## Property: has_BenefitForPeople
+
+* [Improved mental health outcomes](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_11.md)
+

@@ -2,3 +2,7 @@
 
 # Technology: __land use regulations__ (PBN__Technology_4498)
 
+## Property: has_TechnologyMitigation
+
+* [Horizontal urban development](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2428.md)
+

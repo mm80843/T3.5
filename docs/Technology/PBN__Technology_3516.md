@@ -2,3 +2,7 @@
 
 # Technology: __accurate and calm communication__ (PBN__Technology_3516)
 
+## Property: has_TechnologyMitigation
+
+* [Prevention of panic](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_885.md)
+

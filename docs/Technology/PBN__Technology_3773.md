@@ -2,3 +2,7 @@
 
 # Technology: __antimicrobial filters__ (PBN__Technology_3773)
 
+## Property: has_TechnologyMitigation
+
+* [Filtration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_214.md)
+

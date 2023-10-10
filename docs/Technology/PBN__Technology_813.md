@@ -2,6 +2,10 @@
 
 # Technology: __online recruitment platforms__ (PBN__Technology_813)
 
+## Property: has_TechnologyRisk
+
+* [Recruitment challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1528.md)
+
 ## Property: has_TechnologyID
 
 * [Q899277](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q899277.md)

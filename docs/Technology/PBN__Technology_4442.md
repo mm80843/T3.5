@@ -2,3 +2,7 @@
 
 # Technology: __digital thermometers__ (PBN__Technology_4442)
 
+## Property: has_TechnologyMitigation
+
+* [Digital thermometers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2374.md)
+

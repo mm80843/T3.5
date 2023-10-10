@@ -2,3 +2,7 @@
 
 # Technology: __chws__ (PBN__Technology_2955)
 
+## Property: has_TechnologyMitigation
+
+* [Mobilizing informal institutions for education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_85.md)
+

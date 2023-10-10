@@ -2,6 +2,10 @@
 
 # Technology: __scientific studies__ (PBN__Technology_262)
 
+## Property: has_TechnologyRisk
+
+* [Insensitive to variations in viral species](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1176.md)
+
 ## Property: has_TechnologyID
 
 * [Q1331083](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1331083.md)

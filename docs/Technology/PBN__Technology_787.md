@@ -2,6 +2,10 @@
 
 # Technology: __surface disinfectants__ (PBN__Technology_787)
 
+## Property: has_TechnologyRisk
+
+* [Contamination of fomites](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1509.md)
+
 ## Property: has_TechnologyID
 
 * [Q73984](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q73984.md)

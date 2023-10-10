@@ -2,3 +2,7 @@
 
 # Technology: __high-quality surgical videos__ (PBN__Technology_3226)
 
+## Property: has_TechnologyMitigation
+
+* [Viewing Surgical Videos](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_431.md)
+

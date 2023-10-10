@@ -2,7 +2,7 @@
 
 # Stakeholder: __nearby residents__ (PBN__Stakeholder_1275)
 
-## Property: has_RiskSubject
+## Property: has_SubjectRisk
 
 * [Noise pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_150.md)
 

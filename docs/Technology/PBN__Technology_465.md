@@ -2,6 +2,10 @@
 
 # Technology: __communication methods__ (PBN__Technology_465)
 
+## Property: has_TechnologyRisk
+
+* [Lack of public trust](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_741.md)
+
 ## Property: has_TechnologyID
 
 * [Q2650252](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2650252.md)

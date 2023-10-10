@@ -2,3 +2,7 @@
 
 # Technology: __lightweight materials__ (PBN__Technology_4302)
 
+## Property: has_TechnologyMitigation
+
+* [Lightweight structures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2175.md)
+

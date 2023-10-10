@@ -2,3 +2,8 @@
 
 # Technology: __shields__ (PBN__Technology_3505)
 
+## Property: has_TechnologyMitigation
+
+* [Physical barriers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_533.md)
+* [Physical Barriers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_865.md)
+

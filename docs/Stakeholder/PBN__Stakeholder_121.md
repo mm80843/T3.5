@@ -78,7 +78,11 @@
 * [Limited effectiveness of digital systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2347.md)
 * [Tissue tropism and pathogenesis of SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2360.md)
 
-## Property: has_RiskSubject
+## Property: has_StakeholderSubgroup
+
+* [Healthcare](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_48.md)
+
+## Property: has_SubjectRisk
 
 * [Privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_47.md)
 * [Ethical considerations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_163.md)
@@ -116,11 +120,50 @@
 * [Increased clinical load](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2187.md)
 * [Lack of novel treatment options](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2189.md)
 
+## Property: has_BenefitForPeople
+
+* [Improved access to healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_35.md)
+* [Real-time monitoring and optimization](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_213.md)
+* [Tracking antimicrobial usage](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_217.md)
+* [Early detection and response](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_218.md)
+* [Early detection of infection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_278.md)
+* [Enhanced targeting of interventions](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_384.md)
+* [Improved understanding of movement](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_385.md)
+* [Identification of source and sink areas](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_386.md)
+* [Identifying high-risk areas](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_387.md)
+* [Prioritization of high-risk areas](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_388.md)
+* [Increased interoperability and data accessibility](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_396.md)
+* [Seamless and secure data exchange](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_398.md)
+* [Remote consultation solutions](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_461.md)
+* [Remote multidisciplinary team meetings](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_462.md)
+* [Reduced strain on healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_508.md)
+* [Improved healthcare infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_576.md)
+* [Adaptability of building to meet shifting demands](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_619.md)
+* [Improved infection control](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_620.md)
+* [Support for life-saving equipment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_621.md)
+* [Enhanced communication and surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_622.md)
+* [Prevention of misleading treatment strategies](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_859.md)
+* [Improved health literacy](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_901.md)
+* [Enhanced predictive models](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_951.md)
+* [Early detection of SARS-CoV-2 infection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_952.md)
+* [Individualized dosing](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_953.md)
+* [Mapping disease progression and identifying long COVID cases](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_954.md)
+* [Reduced need for face-to-face appointments](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_958.md)
+* [Broader healthcare applications](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_959.md)
+* [Secure data sharing and transparency](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1094.md)
+* [Improved healthcare services](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1101.md)
+* [Reduced risk of infection through contact](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1173.md)
+* [Reduced stress and improved mental health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1230.md)
+* [Faster results](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1265.md)
+* [Efficient patient triage](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1309.md)
+* [Efficient hospital resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1379.md)
+* [Efficient resource management](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1380.md)
+* [Improved admission logistics](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1381.md)
+* [Enhanced data security](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1393.md)
+* [Decreased workload for healthcare staff](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1399.md)
+* [Reduced stress levels](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1403.md)
+
 ## Property: has_StakeholderGroup
 
 * [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
-
-## Property: has_StakeholderSubgroup
-
-* [Healthcare](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_48.md)
 

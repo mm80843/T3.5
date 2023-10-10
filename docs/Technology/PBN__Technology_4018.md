@@ -2,3 +2,7 @@
 
 # Technology: __mhealth__ (PBN__Technology_4018)
 
+## Property: has_TechnologyMitigation
+
+* [Mobile technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1693.md)
+

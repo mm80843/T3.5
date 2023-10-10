@@ -2,3 +2,7 @@
 
 # Technology: __sensor-based technology__ (PBN__Technology_3036)
 
+## Property: has_TechnologyMitigation
+
+* [Touch-free systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_176.md)
+

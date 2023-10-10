@@ -2,6 +2,10 @@
 
 # Technology: __information filtering tools__ (PBN__Technology_936)
 
+## Property: has_TechnologyRisk
+
+* [Information overload](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1612.md)
+
 ## Property: has_TechnologyID
 
 * [Q6031077](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6031077.md)

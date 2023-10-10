@@ -2,6 +2,11 @@
 
 # Technology: __crowd monitoring technology__ (PBN__Technology_745)
 
+## Property: has_TechnologyRisk
+
+* [Risk of transmission in public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1480.md)
+* [Crowded spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1499.md)
+
 ## Property: has_TechnologyID
 
 * [Q5189194](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5189194.md)

@@ -1,0 +1,8 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) 
+
+# RiskMitigation: __Rigorous testing and evaluation of different coating materials and formulations__ (PBN__RiskMitigation_1631)
+
+## Property: has_MitigationRisk
+
+* [Risk of ineffective anti-SARS-CoV-2 coatings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1179.md)
+

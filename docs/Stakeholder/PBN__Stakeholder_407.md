@@ -2,3 +2,7 @@
 
 # Stakeholder: __environment and society__ (PBN__Stakeholder_407)
 
+## Property: has_BenefitForPeople
+
+* [Emissions reduction](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1027.md)
+

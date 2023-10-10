@@ -2,7 +2,7 @@
 
 # Stakeholder: __particularly those in crowded or poorly designed buildings__ (PBN__Stakeholder_1167)
 
-## Property: has_RiskSubject
+## Property: has_SubjectRisk
 
 * [Inadequate building design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1744.md)
 

@@ -2,19 +2,19 @@
 
 # Benef: __Reduction of airborne viruses__ (PBN__Benef_1337)
 
+## Property: has_BenefDetails
+
+UVGI technology disinfects viruses in the air
+
 ## Property: has_Beneficiary
 
 * [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
-
-## Property: has_BenefSource
-
-* [navaratnam_designing_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_282.md)
 
 ## Property: has_BenefReturn
 
 * [Improved health and reduced risk of transmission](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1502.md)
 
-## Property: has_BenefDetails
+## Property: has_BenefSource
 
-UVGI technology disinfects viruses in the air
+* [navaratnam_designing_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_282.md)
 

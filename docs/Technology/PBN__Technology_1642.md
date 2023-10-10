@@ -2,3 +2,7 @@
 
 # Technology: __government initiatives__ (PBN__Technology_1642)
 
+## Property: has_TechnologyRisk
+
+* [Social inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_858.md)
+

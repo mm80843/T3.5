@@ -7,11 +7,11 @@
 * [Social media](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_1.md)
 * [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
 
-## Property: has_TechnologyID
-
-* [Q21086751](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q21086751.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Public Education and Awareness Campaigns](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_40.md)
+
+## Property: has_TechnologyID
+
+* [Q21086751](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q21086751.md)
 

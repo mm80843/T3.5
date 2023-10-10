@@ -2,3 +2,7 @@
 
 # Technology: __supply chains__ (PBN__Technology_3600)
 
+## Property: has_TechnologyMitigation
+
+* [Re-shoring of critical energy industries](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1056.md)
+

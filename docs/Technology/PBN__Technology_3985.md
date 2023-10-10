@@ -2,3 +2,7 @@
 
 # Technology: __clean drinking water__ (PBN__Technology_3985)
 
+## Property: has_TechnologyMitigation
+
+* [Sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1659.md)
+

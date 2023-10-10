@@ -2,7 +2,20 @@
 
 # Stakeholder: __surgical trainees__ (PBN__Stakeholder_42)
 
-## Property: has_RiskSubject
+## Property: has_StakeholderID
+
+* [Q448553](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q448553.md)
+
+## Property: has_BenefitForPeople
+
+* [Improved knowledge acquisition](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_48.md)
+* [Continuous exposure to practice questions and discussion](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_49.md)
+* [Live video feed and interactive format](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_50.md)
+* [Continued involvement of residents with clinic](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_51.md)
+* [Maintenance of technical skills through deliberate practice](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_52.md)
+* [Enhanced learning and discussion opportunities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_53.md)
+
+## Property: has_SubjectRisk
 
 * [Decreased Exposure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1262.md)
 * [Minimized Surgery](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1264.md)
@@ -13,8 +26,4 @@
 * [Limited Operative](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1269.md)
 * [Regionalization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1270.md)
 * [Faculty Engagement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1271.md)
-
-## Property: has_StakeholderID
-
-* [Q448553](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q448553.md)
 

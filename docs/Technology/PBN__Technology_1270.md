@@ -2,6 +2,10 @@
 
 # Technology: __communal rooftops__ (PBN__Technology_1270)
 
+## Property: has_TechnologyRisk
+
+* [Limited access to nature](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1891.md)
+
 ## Property: has_TechnologyID
 
 * [Q1156696](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1156696.md)

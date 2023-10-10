@@ -2,7 +2,7 @@
 
 # Stakeholder: __population of cities with limited access to mobility datasets__ (PBN__Stakeholder_730)
 
-## Property: has_RiskSubject
+## Property: has_SubjectRisk
 
 * [Lack of availability of mobility data for most cities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1214.md)
 

@@ -12,3 +12,8 @@
 * [Long turnaround time for COVID-19 testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2402.md)
 * [False-negative results in COVID-19 testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2403.md)
 
+## Property: has_BenefitForPeople
+
+* [Enhanced accuracy of quantification](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_6.md)
+* [Improved quantification capability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_7.md)
+

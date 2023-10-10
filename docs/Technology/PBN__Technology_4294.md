@@ -2,3 +2,7 @@
 
 # Technology: __recycling__ (PBN__Technology_4294)
 
+## Property: has_TechnologyMitigation
+
+* [Proper waste management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_346.md)
+

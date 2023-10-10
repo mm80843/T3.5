@@ -2,3 +2,7 @@
 
 # Technology: __barricades)__ (PBN__Technology_3587)
 
+## Property: has_TechnologyMitigation
+
+* [Cordon Sanitaire](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1018.md)
+

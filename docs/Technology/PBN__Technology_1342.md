@@ -2,6 +2,10 @@
 
 # Technology: __community-based vaccination campaigns__ (PBN__Technology_1342)
 
+## Property: has_TechnologyRisk
+
+* [Vaccine access disparities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1939.md)
+
 ## Property: has_TechnologyID
 
 * [Q70477194](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q70477194.md)

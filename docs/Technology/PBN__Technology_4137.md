@@ -2,3 +2,7 @@
 
 # Technology: __advanced mass spectrometry__ (PBN__Technology_4137)
 
+## Property: has_TechnologyMitigation
+
+* [Wastewater-Based Epidemiology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1921.md)
+

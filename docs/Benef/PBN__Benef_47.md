@@ -2,24 +2,18 @@
 
 # Benef: __Improved public health__ (PBN__Benef_47)
 
+## Property: has_BenefDetails
+
+Increased access to green spaces and adherence to social distancing guidelines can mitigate the negative health effects of physical mobility restrictions and reduce the risk of disease transmission.
+
 ## Property: has_Beneficiary
 
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
 * [visitors of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_41.md)
 * [public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_52.md)
 * [society](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_53.md)
 * [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
-* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
-* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
-
-## Property: has_BenefSource
-
-* [mahima_impact_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_10.md)
-* [kuzemko_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_14.md)
-* [rassia_how_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_34.md)
-* [cheshmehzangi_revisiting_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_59.md)
-* [davis_epidemics_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_152.md)
-* [buonanno_far-uvc_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_182.md)
-* [venter_urban_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_256.md)
 
 ## Property: has_BenefReturn
 
@@ -31,7 +25,13 @@
 * [The general public would benefit from improved health outcomes and a reduced likelihood of contracting airborne illnesses in public spaces, leading to a higher quality of life.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_984.md)
 * [Improved health and well-being of individuals, potentially leading to reduced healthcare costs and increased productivity.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1369.md)
 
-## Property: has_BenefDetails
+## Property: has_BenefSource
 
-Increased access to green spaces and adherence to social distancing guidelines can mitigate the negative health effects of physical mobility restrictions and reduce the risk of disease transmission.
+* [mahima_impact_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_10.md)
+* [kuzemko_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_14.md)
+* [rassia_how_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_34.md)
+* [cheshmehzangi_revisiting_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_59.md)
+* [davis_epidemics_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_152.md)
+* [buonanno_far-uvc_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_182.md)
+* [venter_urban_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_256.md)
 

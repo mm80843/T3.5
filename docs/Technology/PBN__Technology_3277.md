@@ -2,3 +2,7 @@
 
 # Technology: __health and safety executive (hse)__ (PBN__Technology_3277)
 
+## Property: has_TechnologyMitigation
+
+* [Standard working procedures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_503.md)
+

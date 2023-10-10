@@ -2,8 +2,8 @@
 
 * _[Benef](https://github.com/mm80843/T3.5/blob/main/docs/Benef/index.md)_ -- 1415 instances.
 * _[BenefReturn](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/index.md)_ -- 1606 instances.
-* _[Risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/index.md)_ -- 3471 instances.
 * _[Article](https://github.com/mm80843/T3.5/blob/main/docs/Article/index.md)_ -- 376 instances.
+* _[Risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/index.md)_ -- 3471 instances.
 * _[RiskGBN](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/index.md)_ -- 5 instances.
 * _[RiskHealth](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/index.md)_ -- 14 instances.
 * _[RiskType](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/index.md)_ -- 22 instances.

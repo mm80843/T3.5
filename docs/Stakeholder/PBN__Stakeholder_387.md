@@ -6,3 +6,7 @@
 
 * [Q96622169](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q96622169.md)
 
+## Property: has_BenefitForPeople
+
+* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_145.md)
+

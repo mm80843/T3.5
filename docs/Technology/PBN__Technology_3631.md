@@ -2,3 +2,7 @@
 
 # Technology: __risk reduction measures__ (PBN__Technology_3631)
 
+## Property: has_TechnologyMitigation
+
+* [Investing in disaster risk reduction and preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1080.md)
+

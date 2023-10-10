@@ -2,29 +2,35 @@
 
 # Risk: __nan__ (PBN__Risk_295)
 
-## Property: has_RiskOwner
+## Property: has_RiskISO_Purpose
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_83.md)
+* [nan](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_13.md)
 
 ## Property: has_RiskName
 
 nan
 
-## Property: has_RiskType
+## Property: has_RiskGBN
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_14.md)
-
-## Property: has_RiskTechnology
-
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
-
-## Property: has_RiskISO_Purpose
-
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_13.md)
+* [nan](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_2.md)
 
 ## Property: has_RiskDescription
 
 nan
+
+## Property: has_RiskISO_Impact
+
+* [nan](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_3.md)
+
+## Property: has_RiskSource
+
+* [yang_urban_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_6.md)
+* [syal_learning_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_137.md)
+* [ting_digital_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_278.md)
+
+## Property: has_RiskOwner
+
+* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_83.md)
 
 ## Property: has_RiskSubject
 
@@ -1018,21 +1024,15 @@ nan
 * [Ratification of environmental commitments](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2457.md)
 * [Urgent and essential waste management as a service](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2459.md)
 
-## Property: has_RiskISO_Impact
-
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_3.md)
-
-## Property: has_RiskGBN
-
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_2.md)
-
 ## Property: has_RiskHealth
 
 * [nan](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_6.md)
 
-## Property: has_RiskSource
+## Property: has_RiskTechnology
 
-* [yang_urban_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_6.md)
-* [syal_learning_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_137.md)
-* [ting_digital_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_278.md)
+* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
+
+## Property: has_RiskType
+
+* [nan](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_14.md)
 

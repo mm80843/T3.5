@@ -2,3 +2,7 @@
 
 # Technology: __sanitation infrastructure and services__ (PBN__Technology_2906)
 
+## Property: has_TechnologyMitigation
+
+* [Access to adequate sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_25.md)
+

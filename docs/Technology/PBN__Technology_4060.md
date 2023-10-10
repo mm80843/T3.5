@@ -2,3 +2,7 @@
 
 # Technology: __policy implementation__ (PBN__Technology_4060)
 
+## Property: has_TechnologyMitigation
+
+* [Active Smoke-Free Policies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1780.md)
+

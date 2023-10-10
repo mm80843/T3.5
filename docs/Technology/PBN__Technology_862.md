@@ -2,6 +2,10 @@
 
 # Technology: __increased government funding__ (PBN__Technology_862)
 
+## Property: has_TechnologyRisk
+
+* [Financial impact on construction industry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1560.md)
+
 ## Property: has_TechnologyID
 
 * [Q63974733](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q63974733.md)

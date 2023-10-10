@@ -2,6 +2,10 @@
 
 # Technology: __-__ (PBN__Technology_357)
 
+## Property: has_TechnologyRisk
+
+* [Metropolitan area-specific study](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1256.md)
+
 ## Property: has_TechnologyID
 
 * [Q180309](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q180309.md)

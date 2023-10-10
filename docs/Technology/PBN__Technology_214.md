@@ -2,6 +2,10 @@
 
 # Technology: __solubility and processing techniques for graphene__ (PBN__Technology_214)
 
+## Property: has_TechnologyRisk
+
+* [Poor solubility and processing of graphene materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1133.md)
+
 ## Property: has_TechnologyID
 
 * [Q169917](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q169917.md)

@@ -2,19 +2,19 @@
 
 # Mitigation: __Tempfloor Panels__ (PBN__Mitigation_1962)
 
-## Property: has_MitigationSource
-
-* [soliman_building_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_224.md)
-
 ## Property: has_MitigationRisk
 
 * [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 
-## Property: has_MitigationTechnology
-
-* [tempfloor panels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4170.md)
-
 ## Property: has_MitigationPrinciple
 
 Installing temporary floor panels to create softer floor surfaces for educational spaces.
+
+## Property: has_MitigationSource
+
+* [soliman_building_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_224.md)
+
+## Property: has_MitigationTechnology
+
+* [tempfloor panels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4170.md)
 

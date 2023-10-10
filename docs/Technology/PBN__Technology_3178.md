@@ -2,3 +2,7 @@
 
 # Technology: __surveillance camera technology__ (PBN__Technology_3178)
 
+## Property: has_TechnologyMitigation
+
+* [Surveillance Cameras](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_354.md)
+

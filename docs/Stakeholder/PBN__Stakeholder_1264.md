@@ -2,7 +2,7 @@
 
 # Stakeholder: __patients with chronic conditions__ (PBN__Stakeholder_1264)
 
-## Property: has_RiskSubject
+## Property: has_SubjectRisk
 
 * [Healthcare system strain](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1875.md)
 

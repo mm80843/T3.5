@@ -2,3 +2,7 @@
 
 # Stakeholder: __individuals with previous mental health or psychiatric illnesses__ (PBN__Stakeholder_266)
 
+## Property: has_BenefitForPeople
+
+* [Reduced symptoms of anxiety, depression, and stress](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_636.md)
+

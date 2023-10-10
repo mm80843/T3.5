@@ -2,3 +2,7 @@
 
 # Technology: __sealed entrances__ (PBN__Technology_4183)
 
+## Property: has_TechnologyMitigation
+
+* [Compartmentalization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2001.md)
+

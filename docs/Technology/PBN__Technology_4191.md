@@ -2,3 +2,7 @@
 
 # Technology: __containment spaces__ (PBN__Technology_4191)
 
+## Property: has_TechnologyMitigation
+
+* [Adaptation of healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2005.md)
+

@@ -2,31 +2,34 @@
 
 # Risk: __Data security__ (PBN__Risk_1536)
 
-## Property: has_RiskOwner
+## Property: has_RiskISO_Purpose
 
-* [data scientists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_627.md)
-* [newcastle urban observatory](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_991.md)
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
 
 ## Property: has_RiskName
 
 Unauthorized use of data, compromising privacy
 
-## Property: has_RiskType
+## Property: has_RiskGBN
 
-* [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
-
-## Property: has_RiskTechnology
-
-* [data encryption techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_826.md)
-* [access control protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_827.md)
-
-## Property: has_RiskISO_Purpose
-
-* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
 ## Property: has_RiskDescription
 
 Risk of data breaches or unauthorized access to the data collected by the Newcastle Urban Observatory
+
+## Property: has_RiskISO_Impact
+
+* [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_5.md)
+
+## Property: has_RiskSource
+
+* [james_smart_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_164.md)
+
+## Property: has_RiskOwner
+
+* [data scientists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_627.md)
+* [newcastle urban observatory](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_991.md)
 
 ## Property: has_RiskSubject
 
@@ -40,19 +43,16 @@ Risk of data breaches or unauthorized access to the data collected by the Newcas
 * [5G technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2023.md)
 * [Cloud computing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2027.md)
 
-## Property: has_RiskISO_Impact
-
-* [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_5.md)
-
-## Property: has_RiskGBN
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
-
 ## Property: has_RiskHealth
 
 * [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
 
-## Property: has_RiskSource
+## Property: has_RiskTechnology
 
-* [james_smart_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_164.md)
+* [data encryption techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_826.md)
+* [access control protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_827.md)
+
+## Property: has_RiskType
+
+* [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
 

@@ -2,7 +2,7 @@
 
 # Stakeholder: __indoor spaces__ (PBN__Stakeholder_943)
 
-## Property: has_RiskSubject
+## Property: has_SubjectRisk
 
 * [Inadequate Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1117.md)
 

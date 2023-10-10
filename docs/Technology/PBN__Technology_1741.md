@@ -2,3 +2,7 @@
 
 # Technology: __gyms__ (PBN__Technology_1741)
 
+## Property: has_TechnologyRisk
+
+* [MH4](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2199.md)
+

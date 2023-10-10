@@ -2,3 +2,7 @@
 
 # Technology: __wi-fi__ (PBN__Technology_4019)
 
+## Property: has_TechnologyMitigation
+
+* [Wi-Fi-based tracking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1696.md)
+

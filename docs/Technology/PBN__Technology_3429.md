@@ -2,3 +2,7 @@
 
 # Technology: __crowd control__ (PBN__Technology_3429)
 
+## Property: has_TechnologyMitigation
+
+* [Social Distancing Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_521.md)
+

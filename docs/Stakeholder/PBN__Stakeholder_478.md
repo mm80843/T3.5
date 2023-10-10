@@ -2,3 +2,7 @@
 
 # Stakeholder: __mental health practitioners__ (PBN__Stakeholder_478)
 
+## Property: has_BenefitForPeople
+
+* [Increased evidence-base for UBPI](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1233.md)
+

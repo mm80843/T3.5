@@ -1,0 +1,20 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) 
+
+# RiskMitigation: __Advanced Air Distribution__ (PBN__Mitigation_283)
+
+## Property: has_MitigationRisk
+
+* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
+
+## Property: has_MitigationPrinciple
+
+Developing new air distribution systems that reduce the airborne transmission of pathogens in indoor spaces and protect occupants from cross-infection
+
+## Property: has_MitigationSource
+
+* [bolashikov_methods_2009](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_240.md)
+
+## Property: has_MitigationTechnology
+
+* [advanced air distribution systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3115.md)
+

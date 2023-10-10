@@ -2,7 +2,31 @@
 
 # Stakeholder: __employees__ (PBN__Stakeholder_220)
 
-## Property: has_RiskSubject
+## Property: has_StakeholderID
+
+* [Q105764136](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q105764136.md)
+
+## Property: has_BenefitForPeople
+
+* [Indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_525.md)
+* [Reduced risk of virus transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_177.md)
+* [Improved communication](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_455.md)
+* [Increased productivity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_368.md)
+* [Work-life balance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_453.md)
+* [Risk reduction](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_474.md)
+* [Improved work-life balance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_521.md)
+* [Reduced transportation costs](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_522.md)
+* [Health and safety](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_524.md)
+* [Risk mitigation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_680.md)
+* [Enhanced safety](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_914.md)
+* [Improved employee health and wellness](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_945.md)
+* [Low employee positivity rates](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1217.md)
+* [Identification of coronavirus-positive environmental surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1218.md)
+* [Swift contact tracing and case isolation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1219.md)
+* [Reduction in COVID-19 infections](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1220.md)
+* [Lower positivity rates following combined measures](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1221.md)
+
+## Property: has_SubjectRisk
 
 * [Spread of contagious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_20.md)
 * [Noise pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_150.md)
@@ -56,8 +80,4 @@
 * [Excessive noise levels](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2252.md)
 * [Inefficient space utilization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2253.md)
 * [Remote operation and telecommuting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2376.md)
-
-## Property: has_StakeholderID
-
-* [Q105764136](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q105764136.md)
 

@@ -2,3 +2,8 @@
 
 # Technology: __resources__ (PBN__Technology_3643)
 
+## Property: has_TechnologyMitigation
+
+* [Resilient healthcare system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1575.md)
+* [Health system strengthening](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1094.md)
+

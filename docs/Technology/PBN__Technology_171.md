@@ -2,6 +2,10 @@
 
 # Technology: __community events__ (PBN__Technology_171)
 
+## Property: has_TechnologyRisk
+
+* [Feeling of isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1109.md)
+
 ## Property: has_TechnologyID
 
 * [Q1656682](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1656682.md)

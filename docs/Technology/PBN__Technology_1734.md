@@ -2,6 +2,10 @@
 
 # Technology: __separate control of air temperature room by room__ (PBN__Technology_1734)
 
+## Property: has_TechnologyRisk
+
+* [PVP6](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2195.md)
+
 ## Property: has_TechnologyID
 
 * [Q390516](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q390516.md)

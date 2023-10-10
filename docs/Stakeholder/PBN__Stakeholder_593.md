@@ -2,7 +2,7 @@
 
 # Stakeholder: __urban areas__ (PBN__Stakeholder_593)
 
-## Property: has_RiskSubject
+## Property: has_SubjectRisk
 
 * [Lack of surveillance and control measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1068.md)
 

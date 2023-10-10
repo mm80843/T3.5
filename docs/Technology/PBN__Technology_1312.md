@@ -2,6 +2,10 @@
 
 # Technology: __research and data analysis technologies__ (PBN__Technology_1312)
 
+## Property: has_TechnologyRisk
+
+* [Variation in protection against re-infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1914.md)
+
 ## Property: has_TechnologyID
 
 * [Q5227240](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5227240.md)

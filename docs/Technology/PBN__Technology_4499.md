@@ -2,3 +2,7 @@
 
 # Technology: __cycling and pedestrian infrastructure__ (PBN__Technology_4499)
 
+## Property: has_TechnologyMitigation
+
+* [Active transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_677.md)
+

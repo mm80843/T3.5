@@ -2,19 +2,19 @@
 
 # Benef: __Improved availability and access to wearables__ (PBN__Benef_957)
 
+## Property: has_BenefDetails
+
+Lowering prices of wearables and ensuring equal access can help bridge the gap in access to healthcare technologies and benefits across socioeconomic groups.
+
 ## Property: has_Beneficiary
 
 * [individuals from socioeconomically disadvantaged groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_375.md)
-
-## Property: has_BenefSource
-
-* [burki_wearable_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_195.md)
 
 ## Property: has_BenefReturn
 
 * [Private investors can benefit from the increased market demand for affordable wearables and the potential for government funding or subsidies to promote equal access.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1052.md)
 
-## Property: has_BenefDetails
+## Property: has_BenefSource
 
-Lowering prices of wearables and ensuring equal access can help bridge the gap in access to healthcare technologies and benefits across socioeconomic groups.
+* [burki_wearable_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_195.md)
 

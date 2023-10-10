@@ -2,3 +2,7 @@
 
 # Technology: __logistics__ (PBN__Technology_3644)
 
+## Property: has_TechnologyMitigation
+
+* [Resilient supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1095.md)
+

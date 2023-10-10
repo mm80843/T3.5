@@ -2,3 +2,7 @@
 
 # Technology: __power management systems__ (PBN__Technology_3399)
 
+## Property: has_TechnologyMitigation
+
+* [Stand-by load](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_705.md)
+

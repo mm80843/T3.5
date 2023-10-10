@@ -2,6 +2,10 @@
 
 # Technology: __evaluation and adaptation of temporary changes__ (PBN__Technology_728)
 
+## Property: has_TechnologyRisk
+
+* [Temporary transformations becoming permanent](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1462.md)
+
 ## Property: has_TechnologyID
 
 * [Q7256373](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7256373.md)

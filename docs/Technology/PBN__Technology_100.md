@@ -2,6 +2,10 @@
 
 # Technology: __iot protocols__ (PBN__Technology_100)
 
+## Property: has_TechnologyRisk
+
+* [Security breaches](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1070.md)
+
 ## Property: has_TechnologyID
 
 * [Q251212](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q251212.md)

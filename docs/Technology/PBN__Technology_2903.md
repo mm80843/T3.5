@@ -2,3 +2,7 @@
 
 # Technology: __protocol guidelines__ (PBN__Technology_2903)
 
+## Property: has_TechnologyMitigation
+
+* [PPE usage and disposal protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_17.md)
+

@@ -2,3 +2,7 @@
 
 # Technology: __flexible floor plans__ (PBN__Technology_3941)
 
+## Property: has_TechnologyMitigation
+
+* [Appropriate unit sizes and layouts that support physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1600.md)
+

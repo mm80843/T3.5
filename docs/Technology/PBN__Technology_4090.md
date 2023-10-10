@@ -2,3 +2,7 @@
 
 # Technology: __medical robots__ (PBN__Technology_4090)
 
+## Property: has_TechnologyMitigation
+
+* [Robotics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_149.md)
+

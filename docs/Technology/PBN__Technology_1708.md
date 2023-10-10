@@ -2,6 +2,10 @@
 
 # Technology: __real-time monitoring systems__ (PBN__Technology_1708)
 
+## Property: has_TechnologyRisk
+
+* [Delay in control measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2179.md)
+
 ## Property: has_TechnologyID
 
 * [Q1165574](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1165574.md)

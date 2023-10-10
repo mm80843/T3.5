@@ -2,3 +2,7 @@
 
 # Stakeholder: __public and users of public spaces__ (PBN__Stakeholder_37)
 
+## Property: has_BenefitForPeople
+
+* [Decreased transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_43.md)
+

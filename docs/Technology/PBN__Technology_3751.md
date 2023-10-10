@@ -2,3 +2,7 @@
 
 # Technology: __rt-qpcr assay__ (PBN__Technology_3751)
 
+## Property: has_TechnologyMitigation
+
+* [Wastewater surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1138.md)
+

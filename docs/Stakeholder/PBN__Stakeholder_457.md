@@ -2,3 +2,7 @@
 
 # Stakeholder: __elderly cancer patients__ (PBN__Stakeholder_457)
 
+## Property: has_BenefitForPeople
+
+* [Enhancement of social and emotional health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1176.md)
+

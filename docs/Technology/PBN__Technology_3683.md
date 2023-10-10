@@ -2,3 +2,7 @@
 
 # Technology: __personal protective equipment (e.g.__ (PBN__Technology_3683)
 
+## Property: has_TechnologyMitigation
+
+* [Use of personal protective equipment (PPE)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_538.md)
+

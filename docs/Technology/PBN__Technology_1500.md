@@ -2,6 +2,10 @@
 
 # Technology: __emergency response planning__ (PBN__Technology_1500)
 
+## Property: has_TechnologyRisk
+
+* [Healthcare system capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2031.md)
+
 ## Property: has_TechnologyID
 
 * [Q5185982](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5185982.md)

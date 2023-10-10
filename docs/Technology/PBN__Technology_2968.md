@@ -2,3 +2,7 @@
 
 # Technology: __cloud storage__ (PBN__Technology_2968)
 
+## Property: has_TechnologyMitigation
+
+* [Video surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_104.md)
+

@@ -1,0 +1,20 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) 
+
+# RiskMitigation: __Ability to Work from Home__ (PBN__Mitigation_1298)
+
+## Property: has_MitigationRisk
+
+* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
+
+## Property: has_MitigationPrinciple
+
+Enable remote work options to reduce physical contact and limit the spread of infections in the workplace.
+
+## Property: has_MitigationSource
+
+* [megahed_antivirus-built_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_298.md)
+
+## Property: has_MitigationTechnology
+
+* [telecommunication technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3060.md)
+

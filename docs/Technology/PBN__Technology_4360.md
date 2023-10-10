@@ -2,3 +2,7 @@
 
 # Technology: __pharmacies__ (PBN__Technology_4360)
 
+## Property: has_TechnologyMitigation
+
+* [Self-dependent services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2238.md)
+

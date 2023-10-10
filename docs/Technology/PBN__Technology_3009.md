@@ -2,3 +2,7 @@
 
 # Technology: __urban planning and design strategies for reduced density__ (PBN__Technology_3009)
 
+## Property: has_TechnologyMitigation
+
+* [Less crowded environment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_158.md)
+

@@ -2,3 +2,7 @@
 
 # Technology: __energy-efficient equipment__ (PBN__Technology_3398)
 
+## Property: has_TechnologyMitigation
+
+* [Stand-by load](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_705.md)
+

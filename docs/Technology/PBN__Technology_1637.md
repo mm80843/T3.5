@@ -2,6 +2,10 @@
 
 # Technology: __quality control processes__ (PBN__Technology_1637)
 
+## Property: has_TechnologyRisk
+
+* [Data integrity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2128.md)
+
 ## Property: has_TechnologyID
 
 * [Q827792](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q827792.md)

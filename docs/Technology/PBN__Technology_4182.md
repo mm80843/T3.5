@@ -2,3 +2,7 @@
 
 # Technology: __floor-level air returns__ (PBN__Technology_4182)
 
+## Property: has_TechnologyMitigation
+
+* [Ventilation design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2000.md)
+

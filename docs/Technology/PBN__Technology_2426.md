@@ -6,11 +6,11 @@
 
 * [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_5.md)
 
-## Property: has_TechnologyID
-
-* [Q736777](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q736777.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Public Health Measures and Regulations](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_92.md)
+
+## Property: has_TechnologyID
+
+* [Q736777](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q736777.md)
 

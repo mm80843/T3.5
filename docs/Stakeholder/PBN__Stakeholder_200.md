@@ -2,3 +2,7 @@
 
 # Stakeholder: __urban citizenry__ (PBN__Stakeholder_200)
 
+## Property: has_BenefitForPeople
+
+* [Improved crisis-information repositories](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_421.md)
+

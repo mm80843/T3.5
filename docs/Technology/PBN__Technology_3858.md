@@ -2,3 +2,7 @@
 
 # Technology: __green building materials__ (PBN__Technology_3858)
 
+## Property: has_TechnologyMitigation
+
+* [Smart building materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1412.md)
+

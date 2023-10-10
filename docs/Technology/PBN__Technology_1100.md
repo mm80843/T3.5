@@ -2,6 +2,10 @@
 
 # Technology: __climate control technologies__ (PBN__Technology_1100)
 
+## Property: has_TechnologyRisk
+
+* [Climate conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1732.md)
+
 ## Property: has_TechnologyID
 
 * [Q1798773](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1798773.md)

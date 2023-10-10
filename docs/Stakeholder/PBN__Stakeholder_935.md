@@ -2,15 +2,15 @@
 
 # Stakeholder: __conservationists__ (PBN__Stakeholder_935)
 
-## Property: has_RiskSubject
+## Property: has_StakeholderSubgroup
+
+* [Conservation](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_160.md)
+
+## Property: has_SubjectRisk
 
 * [Decline in conservation efforts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1439.md)
 
 ## Property: has_StakeholderGroup
 
 * [Environmental Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_13.md)
-
-## Property: has_StakeholderSubgroup
-
-* [Conservation](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_160.md)
 

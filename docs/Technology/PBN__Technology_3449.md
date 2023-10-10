@@ -2,3 +2,7 @@
 
 # Technology: __building design and layout modifications__ (PBN__Technology_3449)
 
+## Property: has_TechnologyMitigation
+
+* [Wider doorways and corridors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_779.md)
+

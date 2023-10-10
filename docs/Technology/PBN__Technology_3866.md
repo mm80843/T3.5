@@ -2,3 +2,7 @@
 
 # Technology: __portable air purifiers with hepa filters__ (PBN__Technology_3866)
 
+## Property: has_TechnologyMitigation
+
+* [Portable room air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1419.md)
+

@@ -2,6 +2,10 @@
 
 # Technology: __mask-wearing__ (PBN__Technology_591)
 
+## Property: has_TechnologyRisk
+
+* [Transmission through aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1376.md)
+
 ## Property: has_TechnologyID
 
 * [Q161524](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q161524.md)

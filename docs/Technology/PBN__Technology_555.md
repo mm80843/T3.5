@@ -2,6 +2,10 @@
 
 # Technology: __use of personal protective equipment in schools and day care facilities__ (PBN__Technology_555)
 
+## Property: has_TechnologyRisk
+
+* [Schoolchildren and children in day care](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1354.md)
+
 ## Property: has_TechnologyID
 
 * [Q1333024](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1333024.md)

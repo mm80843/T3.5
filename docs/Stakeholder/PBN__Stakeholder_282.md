@@ -6,3 +6,8 @@
 
 * [Q13405640](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q13405640.md)
 
+## Property: has_BenefitForPeople
+
+* [Business continuity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_679.md)
+* [Risk mitigation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_680.md)
+

@@ -2,3 +2,7 @@
 
 # Technology: __medications__ (PBN__Technology_3886)
 
+## Property: has_TechnologyMitigation
+
+* [Medication prevention](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1469.md)
+

@@ -6,3 +6,7 @@
 
 * [Q1762621](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1762621.md)
 
+## Property: has_BenefitForPeople
+
+* [Increased supply stability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_785.md)
+

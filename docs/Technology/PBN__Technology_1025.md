@@ -2,6 +2,10 @@
 
 # Technology: __antimicrobial coatings for surfaces__ (PBN__Technology_1025)
 
+## Property: has_TechnologyRisk
+
+* [Inadequate sanitation and hygiene facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1680.md)
+
 ## Property: has_TechnologyID
 
 * [Q1570182](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1570182.md)

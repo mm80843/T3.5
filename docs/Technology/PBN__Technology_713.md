@@ -2,6 +2,10 @@
 
 # Technology: __bioinformatics tools__ (PBN__Technology_713)
 
+## Property: has_TechnologyRisk
+
+* [Lack of bioinformatics tools](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1452.md)
+
 ## Property: has_TechnologyID
 
 * [Q64769132](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q64769132.md)

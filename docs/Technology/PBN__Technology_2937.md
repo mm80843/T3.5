@@ -2,3 +2,7 @@
 
 # Technology: __linked data__ (PBN__Technology_2937)
 
+## Property: has_TechnologyMitigation
+
+* [Data intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_58.md)
+

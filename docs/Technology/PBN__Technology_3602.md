@@ -2,3 +2,7 @@
 
 # Technology: __national and local policies__ (PBN__Technology_3602)
 
+## Property: has_TechnologyMitigation
+
+* [Multi-scalar governance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1057.md)
+

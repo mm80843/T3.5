@@ -2,3 +2,7 @@
 
 # Technology: __rt-pcr testing__ (PBN__Technology_3502)
 
+## Property: has_TechnologyMitigation
+
+* [Universal Asymptomatic Testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_862.md)
+

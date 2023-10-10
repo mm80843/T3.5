@@ -6,3 +6,7 @@
 
 * [Q5060555](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5060555.md)
 
+## Property: has_BenefitForPeople
+
+* [Reduced stress and overwhelm](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_222.md)
+

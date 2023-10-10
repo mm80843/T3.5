@@ -2,3 +2,7 @@
 
 # Technology: __hand sanitizer technology__ (PBN__Technology_3151)
 
+## Property: has_TechnologyMitigation
+
+* [Hand sanitizer dispensers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_315.md)
+

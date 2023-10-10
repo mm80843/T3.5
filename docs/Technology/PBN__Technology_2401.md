@@ -6,11 +6,11 @@
 
 * [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
 
-## Property: has_TechnologyID
-
-* [Q59243211](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q59243211.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Training and Education](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_62.md)
+
+## Property: has_TechnologyID
+
+* [Q59243211](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q59243211.md)
 

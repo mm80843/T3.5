@@ -2,3 +2,7 @@
 
 # Stakeholder: __national and international vector control programs__ (PBN__Stakeholder_160)
 
+## Property: has_BenefitForPeople
+
+* [Strengthened vector control programs](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_339.md)
+

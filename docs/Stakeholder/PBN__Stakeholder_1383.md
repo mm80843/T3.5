@@ -2,7 +2,7 @@
 
 # Stakeholder: __public hospitals__ (PBN__Stakeholder_1383)
 
-## Property: has_RiskSubject
+## Property: has_SubjectRisk
 
 * [Lack of trustable data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2066.md)
 

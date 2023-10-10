@@ -6,11 +6,11 @@
 
 * [Blockchain and cryptography](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_10.md)
 
-## Property: has_TechnologyID
-
-* [Q70477194](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q70477194.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Vaccine Development and Tracking Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_170.md)
+
+## Property: has_TechnologyID
+
+* [Q70477194](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q70477194.md)
 

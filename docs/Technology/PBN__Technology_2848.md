@@ -6,11 +6,11 @@
 
 * [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
 
-## Property: has_TechnologyID
-
-* [Q249](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q249.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Communication and Connectivity](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_112.md)
+
+## Property: has_TechnologyID
+
+* [Q249](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q249.md)
 

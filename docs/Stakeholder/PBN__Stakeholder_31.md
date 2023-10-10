@@ -2,7 +2,11 @@
 
 # Stakeholder: __patients__ (PBN__Stakeholder_31)
 
-## Property: has_RiskSubject
+## Property: has_StakeholderSubgroup
+
+* [Patients](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_148.md)
+
+## Property: has_SubjectRisk
 
 * [Airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_252.md)
 * [Development of drugs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_431.md)
@@ -74,15 +78,88 @@
 * [Healthcare-](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2322.md)
 * [Tissue tropism and pathogenesis of SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2360.md)
 
-## Property: has_StakeholderGroup
-
-* [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
-
-## Property: has_StakeholderSubgroup
-
-* [Patients](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_148.md)
-
 ## Property: has_StakeholderID
 
 * [Q181600](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q181600.md)
+
+## Property: has_BenefitForPeople
+
+* [Improved access to healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_35.md)
+* [Enhanced healthcare delivery](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_36.md)
+* [Reduction in aerosol transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_752.md)
+* [Digital tools of support to hospitals/health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_724.md)
+* [Improved air quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_192.md)
+* [Reduced risk of virus transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_177.md)
+* [Reduced transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_207.md)
+* [Reduction of surface contamination](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_275.md)
+* [Reduction of indirect contact transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_276.md)
+* [Prevention of transmission through sewage](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_277.md)
+* [Early detection of infection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_278.md)
+* [Increased Capacity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_389.md)
+* [Infection Control](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_390.md)
+* [Maintaining Pressure Differentials](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_391.md)
+* [Expanded Workforce](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_393.md)
+* [Increased interoperability and data accessibility](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_396.md)
+* [Enhanced data privacy and autonomy](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_397.md)
+* [Reduced risk of contamination](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1267.md)
+* [Improved remote monitoring and diagnosis of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_447.md)
+* [Improved training and education of healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_449.md)
+* [Remote patient monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_485.md)
+* [Reduction in TB infection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_512.md)
+* [Reduction in TB disease](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_513.md)
+* [Improved infection control](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_620.md)
+* [Support for life-saving equipment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_621.md)
+* [Enhanced communication and surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_622.md)
+* [Real-time monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_638.md)
+* [Remote healthcare delivery](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_642.md)
+* [Faster identification](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_657.md)
+* [Reduced burden](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_658.md)
+* [Improved testing efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_659.md)
+* [Automated detection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_660.md)
+* [Improved healthcare delivery](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_682.md)
+* [Increased supply of ventilators](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_683.md)
+* [Reduces risk of contracting SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_775.md)
+* [Reduces risk of spreading other infections](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_776.md)
+* [Patient care and disease containment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_814.md)
+* [Prevention of misleading treatment strategies](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_859.md)
+* [Disease prevention](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_915.md)
+* [Enhanced treatment options](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_918.md)
+* [Reduced need for face-to-face appointments](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_958.md)
+* [Scrutiny of data accuracy and real-time updates](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1056.md)
+* [Early identification of virus presence](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1086.md)
+* [Reduction of inter-personal communication](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1089.md)
+* [Automation of healthcare services, telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1098.md)
+* [Improved healthcare services](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1101.md)
+* [Improved patient satisfaction](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1116.md)
+* [Enhanced psychological treatment effectiveness](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1117.md)
+* [Accelerated recovery and improved patient satisfaction](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1118.md)
+* [Reduction in airborne SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1119.md)
+* [Reduction in microbial bioaerosols](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1120.md)
+* [Removal of other respiratory pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1121.md)
+* [Improved environmental safety](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1122.md)
+* [Reduced viral load on surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1125.md)
+* [Reduction of hospital acquired infections](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1193.md)
+* [Reduction in transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1258.md)
+* [Prevention of cross-contamination](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1259.md)
+* [Increased awareness and adherence](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1260.md)
+* [Faster results](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1265.md)
+* [Scalability and accessibility](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1266.md)
+* [Reduction of viral titers](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1275.md)
+* [Enhanced disinfection in hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1277.md)
+* [Continuity of clinical care](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1310.md)
+* [Early symptom recognition and referral](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1311.md)
+* [Timely and accurate medication delivery](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1312.md)
+* [Rapid construction of emergency](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1335.md)
+* [Efficient hospital resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1379.md)
+* [Improved admission logistics](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1381.md)
+* [Improved patient care](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1390.md)
+* [Enhanced data security](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1393.md)
+* [Early detection of carriers](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1400.md)
+* [Reduced stress levels](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1403.md)
+* [Early detection and personalized treatment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1404.md)
+* [Improved treatment guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1413.md)
+
+## Property: has_StakeholderGroup
+
+* [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
 

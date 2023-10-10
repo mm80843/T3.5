@@ -2,3 +2,7 @@
 
 # Technology: __dl-based formalism__ (PBN__Technology_3979)
 
+## Property: has_TechnologyMitigation
+
+* [Interoperable biomedical ontology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1652.md)
+

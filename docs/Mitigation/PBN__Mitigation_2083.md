@@ -2,19 +2,19 @@
 
 # Mitigation: __Establishing a regional credit guarantee__ (PBN__Mitigation_2083)
 
-## Property: has_MitigationSource
-
-* [taghizadeh-hesary_covid-19_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_292.md)
-
 ## Property: has_MitigationRisk
 
 * [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 
-## Property: has_MitigationTechnology
-
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
-
 ## Property: has_MitigationPrinciple
 
 Establishing a regional credit guarantee scheme in ASEAN can enhance cross-border financial transactions and increase cooperation and economic integration
+
+## Property: has_MitigationSource
+
+* [taghizadeh-hesary_covid-19_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_292.md)
+
+## Property: has_MitigationTechnology
+
+* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 

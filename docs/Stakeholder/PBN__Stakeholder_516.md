@@ -2,7 +2,11 @@
 
 # Stakeholder: __healthcare policymakers__ (PBN__Stakeholder_516)
 
-## Property: has_RiskSubject
+## Property: has_OwnerRisk
+
+* [Insufficient healthcare preparation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2183.md)
+
+## Property: has_SubjectRisk
 
 * [Insufficient healthcare preparation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2183.md)
 
@@ -10,7 +14,7 @@
 
 * [Q1519812](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1519812.md)
 
-## Property: has_OwnerRisk
+## Property: has_BenefitForPeople
 
-* [Insufficient healthcare preparation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2183.md)
+* [Enhanced preparation for outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1307.md)
 

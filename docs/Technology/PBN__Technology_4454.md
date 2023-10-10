@@ -2,3 +2,7 @@
 
 # Technology: __chemical larvicides__ (PBN__Technology_4454)
 
+## Property: has_TechnologyMitigation
+
+* [Larviciding](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2387.md)
+

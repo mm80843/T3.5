@@ -2,3 +2,7 @@
 
 # Technology: __double-glazed windows__ (PBN__Technology_3257)
 
+## Property: has_TechnologyMitigation
+
+* [Implementing sound insulation measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_485.md)
+

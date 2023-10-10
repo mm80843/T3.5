@@ -2,31 +2,35 @@
 
 # Risk: __Spread of fraudulent studies__ (PBN__Risk_615)
 
-## Property: has_RiskOwner
+## Property: has_RiskISO_Purpose
 
-* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
-* [preprint servers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1559.md)
-* [journal editors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1560.md)
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
 
 ## Property: has_RiskName
 
 Misinformation can lead to misguided policies, harmful treatments, and public distrust in science.
 
-## Property: has_RiskType
+## Property: has_RiskGBN
 
-* [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
-
-## Property: has_RiskTechnology
-
-* [improved screening measures on preprint servers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1922.md)
-
-## Property: has_RiskISO_Purpose
-
-* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
 ## Property: has_RiskDescription
 
 Fraudulent studies are shared through preprints, leading to misinformation and damaging scientific integrity.
+
+## Property: has_RiskISO_Impact
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+
+## Property: has_RiskSource
+
+* [watson_rise_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_173.md)
+
+## Property: has_RiskOwner
+
+* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+* [preprint servers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1559.md)
+* [journal editors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1560.md)
 
 ## Property: has_RiskSubject
 
@@ -39,19 +43,15 @@ Fraudulent studies are shared through preprints, leading to misinformation and d
 * [Improved peer review process](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_853.md)
 * [Preprint servers can implement additional screening measures, and researchers should critically evaluate the quality of preprints before drawing conclusions.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3030.md)
 
-## Property: has_RiskISO_Impact
-
-* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
-
-## Property: has_RiskGBN
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
-
 ## Property: has_RiskHealth
 
 * [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
 
-## Property: has_RiskSource
+## Property: has_RiskTechnology
 
-* [watson_rise_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_173.md)
+* [improved screening measures on preprint servers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1922.md)
+
+## Property: has_RiskType
+
+* [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
 

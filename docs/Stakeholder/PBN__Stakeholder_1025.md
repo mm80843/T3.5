@@ -2,7 +2,7 @@
 
 # Stakeholder: __individuals traveling from or to wuhan__ (PBN__Stakeholder_1025)
 
-## Property: has_RiskSubject
+## Property: has_SubjectRisk
 
 * [Spread from Wuhan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1593.md)
 

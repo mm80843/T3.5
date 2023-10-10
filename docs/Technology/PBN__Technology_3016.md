@@ -2,3 +2,7 @@
 
 # Technology: __self-reported symptoms__ (PBN__Technology_3016)
 
+## Property: has_TechnologyMitigation
+
+* [Self-Reported Symptoms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_163.md)
+

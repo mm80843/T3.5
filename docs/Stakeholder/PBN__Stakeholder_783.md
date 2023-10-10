@@ -2,7 +2,7 @@
 
 # Stakeholder: __radiologists__ (PBN__Stakeholder_783)
 
-## Property: has_RiskSubject
+## Property: has_SubjectRisk
 
 * [Imaging Limitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1267.md)
 

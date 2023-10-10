@@ -2,3 +2,7 @@
 
 # Technology: __vaccination__ (PBN__Technology_2915)
 
+## Property: has_TechnologyMitigation
+
+* [Herd Immunity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_37.md)
+

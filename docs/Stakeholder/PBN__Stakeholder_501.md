@@ -6,3 +6,7 @@
 
 * [Q39631](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q39631.md)
 
+## Property: has_BenefitForPeople
+
+* [Enhanced disinfection in hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1277.md)
+

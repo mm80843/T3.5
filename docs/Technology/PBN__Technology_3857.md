@@ -2,3 +2,7 @@
 
 # Technology: __fogging technology__ (PBN__Technology_3857)
 
+## Property: has_TechnologyMitigation
+
+* [Disinfectant fogging systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1411.md)
+

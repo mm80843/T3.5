@@ -2,6 +2,10 @@
 
 # Technology: __including confirmation with clinical testing__ (PBN__Technology_1360)
 
+## Property: has_TechnologyRisk
+
+* [False positive reactions in wastewater testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1950.md)
+
 ## Property: has_TechnologyID
 
 * [Q70439788](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q70439788.md)

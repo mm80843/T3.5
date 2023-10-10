@@ -2,6 +2,10 @@
 
 # Technology: __distance learning technology__ (PBN__Technology_1509)
 
+## Property: has_TechnologyRisk
+
+* [Education disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_234.md)
+
 ## Property: has_TechnologyID
 
 * [Q1362939](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1362939.md)

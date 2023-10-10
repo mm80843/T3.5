@@ -2,3 +2,7 @@
 
 # Technology: __social and mental health experts__ (PBN__Technology_3082)
 
+## Property: has_TechnologyMitigation
+
+* [Mental health support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_240.md)
+

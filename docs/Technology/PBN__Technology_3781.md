@@ -2,3 +2,7 @@
 
 # Technology: __voice recognition__ (PBN__Technology_3781)
 
+## Property: has_TechnologyMitigation
+
+* [Touchless technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1310.md)
+

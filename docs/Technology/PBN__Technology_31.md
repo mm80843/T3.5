@@ -2,9 +2,11 @@
 
 # Technology: __social media monitoring__ (PBN__Technology_31)
 
-## Property: has_StakeholderGroup
+## Property: has_TechnologyRisk
 
-* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_1.md)
+* [Spread of misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_396.md)
+* [Misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1033.md)
+* [False and misleading information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2126.md)
 
 ## Property: has_TechnologyID
 
@@ -13,4 +15,8 @@
 ## Property: has_StakeholderSubgroup
 
 * [Social Media and Online Platforms Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_38.md)
+
+## Property: has_StakeholderGroup
+
+* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_1.md)
 

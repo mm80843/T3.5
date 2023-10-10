@@ -4,16 +4,16 @@
 
 ## Property: has_StakeholderGroup
 
-* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
 * [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_6.md)
+* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
 * [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_8.md)
-
-## Property: has_TechnologyID
-
-* [Q3546700](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3546700.md)
 
 ## Property: has_StakeholderSubgroup
 
 * [Data Management and Communication Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_18.md)
 * [Mobile and Remote Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_107.md)
+
+## Property: has_TechnologyID
+
+* [Q3546700](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3546700.md)
 

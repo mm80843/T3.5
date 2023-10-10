@@ -2,19 +2,19 @@
 
 # Stakeholder: __wildlife populations__ (PBN__Stakeholder_1482)
 
-## Property: has_RiskSubject
-
-* [Increased wildlife exploitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2177.md)
-
-## Property: has_StakeholderGroup
-
-* [Environmental Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_13.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Conservation](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_160.md)
 
+## Property: has_SubjectRisk
+
+* [Increased wildlife exploitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2177.md)
+
 ## Property: has_StakeholderID
 
 * [Q241741](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q241741.md)
+
+## Property: has_StakeholderGroup
+
+* [Environmental Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_13.md)
 

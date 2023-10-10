@@ -2,3 +2,7 @@
 
 # Technology: __biomarker measurements__ (PBN__Technology_3080)
 
+## Property: has_TechnologyMitigation
+
+* [Integration of multiple measurement methods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_236.md)
+

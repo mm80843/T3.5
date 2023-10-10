@@ -2,13 +2,9 @@
 
 # Article: __behzadinasab_surface_2020__ (PBN__Article_199)
 
-## Property: has_ArticleYear
+## Property: has_ArticleTitle
 
-2020
-
-## Property: has_ArticleLLMSummary
-
-Scientists have developed a special coating made of a substance called cuprous oxide that can quickly kill the virus that causes COVID-19. The coating is made by mixing cuprous oxide with a type of paint called polyurethane, which can be easily applied to different surfaces like doorknobs and credit card buttons. When the virus comes into contact with the coated surface, it gets destroyed very fast, reducing the risk of infection. The coating is also tough and stays effective even after being exposed to the virus multiple times. It is a safe material that does not harm humans or the environment.
+A Surface Coating that Rapidly Inactivates SARS-CoV-2
 
 ## Property: has_BenefInArticle
 
@@ -18,9 +14,13 @@ Scientists have developed a special coating made of a substance called cuprous o
 * [Robustness of the film](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_971.md)
 * [Reduced risk of SARS-CoV-2 transmission on various objects](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_972.md)
 
-## Property: has_ArticleTitle
+## Property: has_ArticleLLMSummary
 
-A Surface Coating that Rapidly Inactivates SARS-CoV-2
+Scientists have developed a special coating made of a substance called cuprous oxide that can quickly kill the virus that causes COVID-19. The coating is made by mixing cuprous oxide with a type of paint called polyurethane, which can be easily applied to different surfaces like doorknobs and credit card buttons. When the virus comes into contact with the coated surface, it gets destroyed very fast, reducing the risk of infection. The coating is also tough and stays effective even after being exposed to the virus multiple times. It is a safe material that does not harm humans or the environment.
+
+## Property: has_ArticleLLMShortSummary
+
+This research report describes the development and testing of an anti-SARS-CoV-2 coating that can be applied to various surfaces. The coating, made from cuprous oxide (Cu2O) particles bound with a polyurethane (PU) film, was found to rapidly and effectively inactivate the virus. The coating reduced the viral titer by approximately 99.9% within 1 hour of contact. The film remained potent even after multiple exposures to the virus and subsequent disinfection. It also retained its virucidal efficacy when exposed to water for extended periods. The coating demonstrated durability, with minimal scratching and loss of coverage when subjected to mechanical stress. In contrast, cationic polymer films did not show significant inactivation of the virus. Overall, the Cu2O/PU coating has the potential to be used on a wide range of surfaces to reduce the transmission of SARS-CoV-2.
 
 ## Property: has_RiskInArticle
 
@@ -30,15 +30,29 @@ A Surface Coating that Rapidly Inactivates SARS-CoV-2
 * [Risk of adverse effects from anti-SARS-CoV-2 coatings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1180.md)
 * [Risk of resistance development to anti-SARS-CoV-2 coatings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1181.md)
 
-## Property: has_ArticleDOI
+## Property: has_ArticleYear
 
-10.1021/acsami.0c11425
+2020
 
 ## Property: has_ArticleRef
 
 * [van_doremalen_aerosol_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_21.md)
 
-## Property: has_ArticleLLMShortSummary
+## Property: has_ArticleDOI
 
-This research report describes the development and testing of an anti-SARS-CoV-2 coating that can be applied to various surfaces. The coating, made from cuprous oxide (Cu2O) particles bound with a polyurethane (PU) film, was found to rapidly and effectively inactivate the virus. The coating reduced the viral titer by approximately 99.9% within 1 hour of contact. The film remained potent even after multiple exposures to the virus and subsequent disinfection. It also retained its virucidal efficacy when exposed to water for extended periods. The coating demonstrated durability, with minimal scratching and loss of coverage when subjected to mechanical stress. In contrast, cationic polymer films did not show significant inactivation of the virus. Overall, the Cu2O/PU coating has the potential to be used on a wide range of surfaces to reduce the transmission of SARS-CoV-2.
+10.1021/acsami.0c11425
+
+## Property: has_SourceMitigation
+
+* [Vaccination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_245.md)
+* [Hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_217.md)
+* [Physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_192.md)
+* [Anti-SARS-CoV-2 coating](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_264.md)
+* [Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_191.md)
+* [Wearing masks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_218.md)
+* [Improved ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_265.md)
+* [Surface disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_246.md)
+* [Quarantine/isolation measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_266.md)
+* [Testing and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_267.md)
+* [Public health campaigns/education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_268.md)
 

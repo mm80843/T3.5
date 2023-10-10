@@ -2,3 +2,7 @@
 
 # Technology: __vaccination campaigns__ (PBN__Technology_3624)
 
+## Property: has_TechnologyMitigation
+
+* [Vaccine production and distribution improvement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1075.md)
+

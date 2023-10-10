@@ -2,3 +2,7 @@
 
 # Technology: __smart technology__ (PBN__Technology_4518)
 
+## Property: has_TechnologyMitigation
+
+* [Smart PPE](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2474.md)
+

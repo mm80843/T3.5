@@ -2,3 +2,7 @@
 
 # Technology: __intelligent transportation systems (its)__ (PBN__Technology_3646)
 
+## Property: has_TechnologyMitigation
+
+* [Traffic restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1097.md)
+

@@ -2,3 +2,7 @@
 
 # Technology: __material connection__ (PBN__Technology_3707)
 
+## Property: has_TechnologyMitigation
+
+* [Separate sanitation area](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1156.md)
+

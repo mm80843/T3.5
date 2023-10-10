@@ -2,6 +2,10 @@
 
 # Technology: __frameworks for evaluation of real-world evidence research__ (PBN__Technology_524)
 
+## Property: has_TechnologyRisk
+
+* [Lack of standards for publication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1340.md)
+
 ## Property: has_TechnologyID
 
 * [Q30599095](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q30599095.md)

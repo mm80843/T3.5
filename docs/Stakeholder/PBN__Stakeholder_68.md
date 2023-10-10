@@ -7,7 +7,11 @@
 * [Transmission of coronaviruses from contaminated surfaces to hands](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1551.md)
 * [Ineffective disease screening and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1800.md)
 
-## Property: has_RiskSubject
+## Property: has_StakeholderSubgroup
+
+* [nan](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_7.md)
+
+## Property: has_SubjectRisk
 
 * [Spread of contagious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_20.md)
 * [Spread of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_91.md)
@@ -173,11 +177,37 @@
 * [Long turnaround time for COVID-19 testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2402.md)
 * [False-negative results in COVID-19 testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2403.md)
 
+## Property: has_BenefitForPeople
+
+* [Early detection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_0.md)
+* [Reduction in aerosol transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_752.md)
+* [Efficient contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_112.md)
+* [Improved air quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_192.md)
+* [Efficient tracking of high-risk patients](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_157.md)
+* [Reduced transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_207.md)
+* [Reduced risk of contamination](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1267.md)
+* [Reduction in TB infection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_512.md)
+* [Reduction in TB disease](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_513.md)
+* [Enhanced protection for healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_577.md)
+* [Faster identification](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_657.md)
+* [Protection of healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_681.md)
+* [Patient care and disease containment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_814.md)
+* [Early detection and monitoring of pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_816.md)
+* [Disease prevention](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_915.md)
+* [Reduction in virus transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_917.md)
+* [Reduction in transmission via body fluids](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1087.md)
+* [Reduction in airborne SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1119.md)
+* [Reduction in microbial bioaerosols](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1120.md)
+* [Removal of other respiratory pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1121.md)
+* [Improved environmental safety](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1122.md)
+* [Reduced viral load on surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1125.md)
+* [Prevention of cross-contamination](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1259.md)
+* [Increased awareness and adherence](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1260.md)
+* [Efficient transportation and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1268.md)
+* [Contactless delivery and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1270.md)
+* [Early detection and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1271.md)
+
 ## Property: has_StakeholderGroup
 
 * [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
-
-## Property: has_StakeholderSubgroup
-
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_7.md)
 

@@ -2,3 +2,7 @@
 
 # Technology: __user-friendly formats__ (PBN__Technology_3343)
 
+## Property: has_TechnologyMitigation
+
+* [Contextualising and disseminating evidence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_603.md)
+

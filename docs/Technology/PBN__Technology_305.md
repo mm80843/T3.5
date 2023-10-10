@@ -2,6 +2,10 @@
 
 # Technology: __pre-booking of seats__ (PBN__Technology_305)
 
+## Property: has_TechnologyRisk
+
+* [Fear of using public transport](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1218.md)
+
 ## Property: has_TechnologyID
 
 * [Q1122556](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1122556.md)

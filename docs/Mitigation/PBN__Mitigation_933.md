@@ -2,19 +2,19 @@
 
 # Mitigation: __Hand Washing__ (PBN__Mitigation_933)
 
-## Property: has_MitigationSource
-
-* [kampf_persistence_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_233.md)
-
 ## Property: has_MitigationRisk
 
 * [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 
-## Property: has_MitigationTechnology
-
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
-
 ## Property: has_MitigationPrinciple
 
 Not enough data on efficacy against coronavirus, but hand washing has been associated with protection against SARS-CoV
+
+## Property: has_MitigationSource
+
+* [kampf_persistence_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_233.md)
+
+## Property: has_MitigationTechnology
+
+* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 

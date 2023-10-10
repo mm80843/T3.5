@@ -2,3 +2,7 @@
 
 # Technology: __financial assistance__ (PBN__Technology_3976)
 
+## Property: has_TechnologyMitigation
+
+* [Socioeconomic Support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1651.md)
+

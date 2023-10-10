@@ -2,3 +2,7 @@
 
 # Technology: __architecture engineering__ (PBN__Technology_3215)
 
+## Property: has_TechnologyMitigation
+
+* [Smaller and individual internal layouts](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_422.md)
+

@@ -2,3 +2,7 @@
 
 # Technology: __anylogic__ (PBN__Technology_3680)
 
+## Property: has_TechnologyMitigation
+
+* [Simulation software tools](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1130.md)
+

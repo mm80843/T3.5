@@ -2,3 +2,7 @@
 
 # Technology: __ultraviolet radiation__ (PBN__Technology_3850)
 
+## Property: has_TechnologyMitigation
+
+* [UVGI technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1408.md)
+

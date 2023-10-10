@@ -2,3 +2,7 @@
 
 # Technology: __virtual communication and workflow tools__ (PBN__Technology_3366)
 
+## Property: has_TechnologyMitigation
+
+* [Transposition of municipal services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_622.md)
+

@@ -2,23 +2,18 @@
 
 # Benef: __Improved mental health__ (PBN__Benef_442)
 
+## Property: has_BenefDetails
+
+Window designs that allow for interesting views and spaces of retreat promote resident well-being and reduce stress.
+
 ## Property: has_Beneficiary
 
 * [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
-* [community members](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_155.md)
 * [urban dwellers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_26.md)
-* [individuals living in apartments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_474.md)
-* [urban residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_209.md)
 * [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
-
-## Property: has_BenefSource
-
-* [larson_urban_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_276.md)
-* [amerio_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_254.md)
-* [ugolini_effects_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_90.md)
-* [spennemann_designing_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_149.md)
-* [peters_how_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_279.md)
-* [felappi_green_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_150.md)
+* [urban residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_209.md)
+* [community members](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_155.md)
+* [individuals living in apartments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_474.md)
 
 ## Property: has_BenefReturn
 
@@ -30,7 +25,12 @@
 * [Improved mental health can lead to increased productivity, reduced absenteeism, and improved overall well-being for individuals, which can positively impact their financial well-being.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1467.md)
 * [Increased mental health can lead to improved productivity, reduced healthcare costs, and increased property value.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1484.md)
 
-## Property: has_BenefDetails
+## Property: has_BenefSource
 
-Window designs that allow for interesting views and spaces of retreat promote resident well-being and reduce stress.
+* [larson_urban_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_276.md)
+* [amerio_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_254.md)
+* [ugolini_effects_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_90.md)
+* [spennemann_designing_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_149.md)
+* [peters_how_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_279.md)
+* [felappi_green_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_150.md)
 

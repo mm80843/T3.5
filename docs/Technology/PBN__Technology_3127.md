@@ -2,3 +2,7 @@
 
 # Technology: __safety and health officers__ (PBN__Technology_3127)
 
+## Property: has_TechnologyMitigation
+
+* [Compliance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_296.md)
+

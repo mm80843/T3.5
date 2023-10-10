@@ -2,6 +2,10 @@
 
 # Technology: __design and engineering solutions for upper-room uvgi systems__ (PBN__Technology_257)
 
+## Property: has_TechnologyRisk
+
+* [Harmful effects of UV-C light on humans if not properly shielded](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1173.md)
+
 ## Property: has_TechnologyID
 
 * [Q961734](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q961734.md)

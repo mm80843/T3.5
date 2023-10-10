@@ -1,0 +1,21 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) 
+
+# RiskMitigation: __Rapid Testing Methods__ (PBN__Mitigation_2477)
+
+## Property: has_MitigationRisk
+
+* [False-negative results](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3470.md)
+
+## Property: has_MitigationPrinciple
+
+Accelerating the testing process to provide same-day results and increase the volume of tests conducted.
+
+## Property: has_MitigationSource
+
+* [zhao_supporting_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_266.md)
+
+## Property: has_MitigationTechnology
+
+* [rapid testing technology (e.g.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4520.md)
+* [id now test)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4521.md)
+

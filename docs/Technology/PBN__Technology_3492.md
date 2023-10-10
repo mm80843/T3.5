@@ -2,3 +2,7 @@
 
 # Technology: __phosphate buffered saline__ (PBN__Technology_3492)
 
+## Property: has_TechnologyMitigation
+
+* [Phosphate buffered saline (PBS)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_849.md)
+

@@ -2,6 +2,10 @@
 
 # Technology: __airflow__ (PBN__Technology_1118)
 
+## Property: has_TechnologyRisk
+
+* [Inadequate building design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1744.md)
+
 ## Property: has_TechnologyID
 
 * [Q28915062](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q28915062.md)

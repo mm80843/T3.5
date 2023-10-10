@@ -2,6 +2,10 @@
 
 # Technology: __enhanced diagnostic techniques__ (PBN__Technology_2029)
 
+## Property: has_TechnologyRisk
+
+* [False-negative results in COVID-19 testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2403.md)
+
 ## Property: has_TechnologyID
 
 * [Q177719](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q177719.md)

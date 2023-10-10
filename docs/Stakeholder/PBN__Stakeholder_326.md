@@ -2,3 +2,7 @@
 
 # Stakeholder: __commercial property owners__ (PBN__Stakeholder_326)
 
+## Property: has_BenefitForPeople
+
+* [Differentiation and market advantage](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_803.md)
+

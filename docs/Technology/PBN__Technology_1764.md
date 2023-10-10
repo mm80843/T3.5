@@ -2,6 +2,10 @@
 
 # Technology: __geothermal energy__ (PBN__Technology_1764)
 
+## Property: has_TechnologyRisk
+
+* [EU2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2210.md)
+
 ## Property: has_TechnologyID
 
 * [Q127993](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q127993.md)

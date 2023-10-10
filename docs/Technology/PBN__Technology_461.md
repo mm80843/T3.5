@@ -2,6 +2,10 @@
 
 # Technology: __workplace safety technology__ (PBN__Technology_461)
 
+## Property: has_TechnologyRisk
+
+* [Social distancing impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1306.md)
+
 ## Property: has_TechnologyID
 
 * [Q2064531](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2064531.md)

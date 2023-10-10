@@ -2,6 +2,10 @@
 
 # Technology: __scalable production techniques for graphene coatings__ (PBN__Technology_216)
 
+## Property: has_TechnologyRisk
+
+* [Scalability and cost of graphene-based coatings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1135.md)
+
 ## Property: has_TechnologyID
 
 * [Q169917](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q169917.md)

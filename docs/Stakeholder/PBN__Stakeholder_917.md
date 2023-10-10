@@ -2,7 +2,7 @@
 
 # Stakeholder: __occupants of buildings__ (PBN__Stakeholder_917)
 
-## Property: has_RiskSubject
+## Property: has_SubjectRisk
 
 * [Lack of connection with nature](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_114.md)
 * [Lack of occupant awareness and behavior](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1412.md)

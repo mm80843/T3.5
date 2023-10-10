@@ -2,3 +2,7 @@
 
 # Technology: __artificial intelligence and ml__ (PBN__Technology_3840)
 
+## Property: has_TechnologyMitigation
+
+* [AI-based tools for resource-limited settings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1399.md)
+

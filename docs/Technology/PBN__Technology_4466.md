@@ -2,3 +2,7 @@
 
 # Technology: __such as coils__ (PBN__Technology_4466)
 
+## Property: has_TechnologyMitigation
+
+* [Spatial repellents](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2394.md)
+

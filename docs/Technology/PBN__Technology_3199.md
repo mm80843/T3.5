@@ -2,3 +2,7 @@
 
 # Technology: __checkpoint stations__ (PBN__Technology_3199)
 
+## Property: has_TechnologyMitigation
+
+* [Checkpoint allocation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_408.md)
+

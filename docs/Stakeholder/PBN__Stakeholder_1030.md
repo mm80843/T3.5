@@ -2,7 +2,7 @@
 
 # Stakeholder: __industries affected by travel restrictions__ (PBN__Stakeholder_1030)
 
-## Property: has_RiskSubject
+## Property: has_SubjectRisk
 
 * [Impact on economy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1596.md)
 

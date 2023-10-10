@@ -2,3 +2,7 @@
 
 # Technology: __real-time data streams__ (PBN__Technology_3795)
 
+## Property: has_TechnologyMitigation
+
+* [Real-time Data Analytics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1324.md)
+

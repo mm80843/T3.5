@@ -2,6 +2,10 @@
 
 # Technology: __better laboratory equipment__ (PBN__Technology_1546)
 
+## Property: has_TechnologyRisk
+
+* [Lack of treatment and resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2070.md)
+
 ## Property: has_TechnologyID
 
 * [Q834028](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q834028.md)

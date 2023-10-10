@@ -2,3 +2,7 @@
 
 # Technology: __silica gel desiccant rotor__ (PBN__Technology_3109)
 
+## Property: has_TechnologyMitigation
+
+* [Desiccant Rotor](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_277.md)
+

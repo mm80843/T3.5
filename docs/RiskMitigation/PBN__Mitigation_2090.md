@@ -1,0 +1,20 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) 
+
+# RiskMitigation: __Isolation Facilities__ (PBN__Mitigation_2090)
+
+## Property: has_MitigationRisk
+
+* [Airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_252.md)
+
+## Property: has_MitigationPrinciple
+
+Use of dedicated isolation facilities reduces the risk of transmission of SARS-CoV-2 in hospitals.
+
+## Property: has_MitigationSource
+
+* [thompson_real-world_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_155.md)
+
+## Property: has_MitigationTechnology
+
+* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
+

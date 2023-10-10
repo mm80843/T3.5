@@ -6,11 +6,11 @@
 
 * [Urban technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_14.md)
 
-## Property: has_TechnologyID
-
-* [Q219416](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q219416.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Sustainable Practices and Renewable Energy](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_131.md)
+
+## Property: has_TechnologyID
+
+* [Q219416](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q219416.md)
 

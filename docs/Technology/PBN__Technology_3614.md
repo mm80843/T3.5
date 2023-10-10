@@ -2,3 +2,7 @@
 
 # Technology: __infrastructure__ (PBN__Technology_3614)
 
+## Property: has_TechnologyMitigation
+
+* [Strengthened healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1069.md)
+

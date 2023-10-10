@@ -2,3 +2,7 @@
 
 # Technology: __soap and clean water__ (PBN__Technology_2984)
 
+## Property: has_TechnologyMitigation
+
+* [Proper Handwashing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_136.md)
+

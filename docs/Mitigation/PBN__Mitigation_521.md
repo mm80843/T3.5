@@ -2,22 +2,22 @@
 
 # Mitigation: __Social Distancing Measures__ (PBN__Mitigation_521)
 
+## Property: has_MitigationRisk
+
+* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
+
+## Property: has_MitigationPrinciple
+
+Implementing physical distance between individuals to reduce the transmission of contagious diseases.
+
 ## Property: has_MitigationSource
 
 * [davis_epidemics_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_152.md)
 * [harris_respiratory_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_133.md)
-
-## Property: has_MitigationRisk
-
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 
 ## Property: has_MitigationTechnology
 
 * [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 * [signage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_230.md)
 * [crowd control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3429.md)
-
-## Property: has_MitigationPrinciple
-
-Implementing physical distance between individuals to reduce the transmission of contagious diseases.
 

@@ -2,3 +2,7 @@
 
 # Stakeholder: __businesses and individuals__ (PBN__Stakeholder_383)
 
+## Property: has_BenefitForPeople
+
+* [Financial support](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_794.md)
+

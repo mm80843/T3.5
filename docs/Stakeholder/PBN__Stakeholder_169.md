@@ -2,3 +2,7 @@
 
 # Stakeholder: __occupants and water management services__ (PBN__Stakeholder_169)
 
+## Property: has_BenefitForPeople
+
+* [Efficient water use and treatment of wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_348.md)
+

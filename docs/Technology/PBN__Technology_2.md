@@ -2,6 +2,10 @@
 
 # Technology: __containment protocols__ (PBN__Technology_2)
 
+## Property: has_TechnologyRisk
+
+* [Failure in containment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1017.md)
+
 ## Property: has_TechnologyID
 
 * [Q29071](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q29071.md)

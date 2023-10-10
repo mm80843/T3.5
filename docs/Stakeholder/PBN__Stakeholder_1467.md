@@ -2,7 +2,7 @@
 
 # Stakeholder: __it engineers__ (PBN__Stakeholder_1467)
 
-## Property: has_RiskSubject
+## Property: has_SubjectRisk
 
 * [Suboptimal data science literacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_813.md)
 

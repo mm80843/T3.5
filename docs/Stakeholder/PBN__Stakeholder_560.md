@@ -2,7 +2,11 @@
 
 # Stakeholder: __travelers__ (PBN__Stakeholder_560)
 
-## Property: has_RiskSubject
+## Property: has_StakeholderSubgroup
+
+* [Travellers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_145.md)
+
+## Property: has_SubjectRisk
 
 * [Health Risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_83.md)
 * [Travel-related transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1034.md)
@@ -18,16 +22,12 @@
 * [Globalization and travel](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2081.md)
 * [Travel transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2178.md)
 
-## Property: has_StakeholderGroup
-
-* [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
-
-## Property: has_StakeholderSubgroup
-
-* [Travellers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_145.md)
-
 ## Property: has_StakeholderID
 
 * [Q4791903](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4791903.md)
 * [Q22813352](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q22813352.md)
+
+## Property: has_StakeholderGroup
+
+* [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
 

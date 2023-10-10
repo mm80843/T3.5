@@ -6,11 +6,11 @@
 
 * [Enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_7.md)
 
-## Property: has_TechnologyID
-
-* [Q4462116](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4462116.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Travel Restrictions and Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_159.md)
+
+## Property: has_TechnologyID
+
+* [Q4462116](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4462116.md)
 

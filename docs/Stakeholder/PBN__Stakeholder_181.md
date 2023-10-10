@@ -45,7 +45,11 @@
 * [Financial crisis](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2067.md)
 * [Delay in delivery of construction materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2068.md)
 
-## Property: has_RiskSubject
+## Property: has_StakeholderSubgroup
+
+* [Real Estate and Construction](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_31.md)
+
+## Property: has_SubjectRisk
 
 * [Economic impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_124.md)
 * [Increase in off-site construction and engineering](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_244.md)
@@ -71,11 +75,20 @@
 * [Financial crisis](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2067.md)
 * [Delay in delivery of construction materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2068.md)
 
+## Property: has_BenefitForPeople
+
+* [Minimize damage from crises](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_379.md)
+* [Improved protection against potential issues](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_380.md)
+* [Enhanced supply chain resilience](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_381.md)
+* [Increased project efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_382.md)
+* [Enhanced worker safety](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_383.md)
+* [Improved liquidity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_783.md)
+* [Cost savings](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_835.md)
+* [Faster project completion](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_836.md)
+* [Improved financial performance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_837.md)
+* [Mitigating financial risks](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_838.md)
+
 ## Property: has_StakeholderGroup
 
 * [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
-
-## Property: has_StakeholderSubgroup
-
-* [Real Estate and Construction](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_31.md)
 

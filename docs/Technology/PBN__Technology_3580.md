@@ -2,3 +2,7 @@
 
 # Technology: __public spaces__ (PBN__Technology_3580)
 
+## Property: has_TechnologyMitigation
+
+* [Outdoor activities/usage of open spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1012.md)
+

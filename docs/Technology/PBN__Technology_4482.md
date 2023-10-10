@@ -2,3 +2,7 @@
 
 # Technology: __indoor environmental quality__ (PBN__Technology_4482)
 
+## Property: has_TechnologyMitigation
+
+* [Green building design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2415.md)
+

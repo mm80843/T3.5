@@ -2,6 +2,10 @@
 
 # Technology: __enhanced cleaning protocols__ (PBN__Technology_1838)
 
+## Property: has_TechnologyRisk
+
+* [Increased risk of contagion in crowded UGS](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2255.md)
+
 ## Property: has_TechnologyID
 
 * [Q2590801](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2590801.md)

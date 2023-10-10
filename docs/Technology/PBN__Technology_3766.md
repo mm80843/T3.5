@@ -2,3 +2,7 @@
 
 # Technology: __smart sensors__ (PBN__Technology_3766)
 
+## Property: has_TechnologyMitigation
+
+* [IoMT applications](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1248.md)
+

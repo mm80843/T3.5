@@ -2,3 +2,7 @@
 
 # Technology: __air exchanges__ (PBN__Technology_3903)
 
+## Property: has_TechnologyMitigation
+
+* [Airborne infection isolation rooms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1518.md)
+

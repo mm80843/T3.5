@@ -2,7 +2,7 @@
 
 # Stakeholder: __those who touch shared surfaces__ (PBN__Stakeholder_1441)
 
-## Property: has_RiskSubject
+## Property: has_SubjectRisk
 
 * [Fomite transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_609.md)
 

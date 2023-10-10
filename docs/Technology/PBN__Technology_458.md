@@ -2,6 +2,10 @@
 
 # Technology: __infrastructure development and plumbing systems__ (PBN__Technology_458)
 
+## Property: has_TechnologyRisk
+
+* [Inadequate water and sanitation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1304.md)
+
 ## Property: has_TechnologyID
 
 * [Q182612](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q182612.md)

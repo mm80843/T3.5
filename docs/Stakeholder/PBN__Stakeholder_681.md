@@ -2,7 +2,7 @@
 
 # Stakeholder: __including workplaces__ (PBN__Stakeholder_681)
 
-## Property: has_RiskSubject
+## Property: has_SubjectRisk
 
 * [Insufficient behavior and adherence to guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1143.md)
 

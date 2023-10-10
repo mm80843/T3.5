@@ -2,13 +2,9 @@
 
 # Article: __araya_influence_2021__ (PBN__Article_157)
 
-## Property: has_ArticleYear
+## Property: has_ArticleTitle
 
-2021
-
-## Property: has_ArticleLLMSummary
-
-The COVID-19 pandemic has affected the construction industry in many ways. Construction projects have been delayed or stopped, workers have had to follow new safety rules, and there have been problems with getting materials and supplies. This has caused financial problems for construction companies and workers have lost their jobs. Different groups of people involved in construction, like managers, workers, and suppliers, have been affected by these problems. It is important for us to understand these impacts so that we can find ways to help the construction industry during this time.
+Influence between COVID-19 Impacts and Project Stakeholders in Chilean Construction Projects
 
 ## Property: has_BenefInArticle
 
@@ -18,9 +14,13 @@ The COVID-19 pandemic has affected the construction industry in many ways. Const
 * [Increased supply stability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_785.md)
 * [Resolved disputes](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_786.md)
 
-## Property: has_ArticleTitle
+## Property: has_ArticleLLMSummary
 
-Influence between COVID-19 Impacts and Project Stakeholders in Chilean Construction Projects
+The COVID-19 pandemic has affected the construction industry in many ways. Construction projects have been delayed or stopped, workers have had to follow new safety rules, and there have been problems with getting materials and supplies. This has caused financial problems for construction companies and workers have lost their jobs. Different groups of people involved in construction, like managers, workers, and suppliers, have been affected by these problems. It is important for us to understand these impacts so that we can find ways to help the construction industry during this time.
+
+## Property: has_ArticleLLMShortSummary
+
+This study explores the impacts of the COVID-19 pandemic on the construction industry and the multiple stakeholders affected by these impacts. The study is based on qualitative content analysis and correspondence analysis of semi-structured interviews with construction stakeholders in Chile. The findings identify 15 categories of impacts on construction projects, including financial solvency, technical performance, project stops, delays, and concerns about health and safety. The stakeholders most affected by these impacts are construction workers and engineers/managers. The analysis also reveals associations between impact categories and stakeholders, with dimensions related to project affiliation, decision-making power, and dependence on the project. The study highlights the complex and cascading nature of the impacts of COVID-19 on the construction industry and the need for targeted strategies to mitigate these impacts among different stakeholders. Future research should further explore and quantify these impacts and evaluate the effectiveness of mitigation strategies.
 
 ## Property: has_RiskInArticle
 
@@ -30,9 +30,9 @@ Influence between COVID-19 Impacts and Project Stakeholders in Chilean Construct
 * [Workforce reduction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1085.md)
 * [Safety risks for workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1086.md)
 
-## Property: has_ArticleDOI
+## Property: has_ArticleYear
 
-10.3390/su131810082
+2021
 
 ## Property: has_ArticleRef
 
@@ -42,7 +42,16 @@ Influence between COVID-19 Impacts and Project Stakeholders in Chilean Construct
 * [raoufi_identifying_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_220.md)
 * [bou_hatoum_analysis_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_82.md)
 
-## Property: has_ArticleLLMShortSummary
+## Property: has_ArticleDOI
 
-This study explores the impacts of the COVID-19 pandemic on the construction industry and the multiple stakeholders affected by these impacts. The study is based on qualitative content analysis and correspondence analysis of semi-structured interviews with construction stakeholders in Chile. The findings identify 15 categories of impacts on construction projects, including financial solvency, technical performance, project stops, delays, and concerns about health and safety. The stakeholders most affected by these impacts are construction workers and engineers/managers. The analysis also reveals associations between impact categories and stakeholders, with dimensions related to project affiliation, decision-making power, and dependence on the project. The study highlights the complex and cascading nature of the impacts of COVID-19 on the construction industry and the need for targeted strategies to mitigate these impacts among different stakeholders. Future research should further explore and quantify these impacts and evaluate the effectiveness of mitigation strategies.
+10.3390/su131810082
+
+## Property: has_SourceMitigation
+
+* [Adoption of remote working](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_131.md)
+* [Implementation of BIM technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_134.md)
+* [Implementation of safety protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_130.md)
+* [Use of local suppliers and warehouse stock](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_132.md)
+* [Enhanced communication and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_133.md)
+* [Training and upskilling of construction workers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_135.md)
 

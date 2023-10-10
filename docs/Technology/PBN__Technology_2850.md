@@ -6,11 +6,11 @@
 
 * [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
 
-## Property: has_TechnologyID
-
-* [Q64865818](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q64865818.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Internet of Things (IoT) and Smart Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_94.md)
+
+## Property: has_TechnologyID
+
+* [Q64865818](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q64865818.md)
 

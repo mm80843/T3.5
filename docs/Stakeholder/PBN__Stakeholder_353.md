@@ -11,3 +11,9 @@
 * [Weaknesses in smart city governance models](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1199.md)
 * [Ineffective use of open government projects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1200.md)
 
+## Property: has_BenefitForPeople
+
+* [Improved transparency](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_873.md)
+* [Enhanced coordination](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_874.md)
+* [Collaborative governance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_875.md)
+

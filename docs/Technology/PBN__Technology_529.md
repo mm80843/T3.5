@@ -2,9 +2,11 @@
 
 # Technology: __social safety nets__ (PBN__Technology_529)
 
-## Property: has_StakeholderGroup
+## Property: has_TechnologyRisk
 
-* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_1.md)
+* [Inequalities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1341.md)
+* [Negative effects on the economy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1791.md)
+* [Social unrest](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2015.md)
 
 ## Property: has_TechnologyID
 
@@ -13,4 +15,8 @@
 ## Property: has_StakeholderSubgroup
 
 * [nan](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_7.md)
+
+## Property: has_StakeholderGroup
+
+* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_1.md)
 

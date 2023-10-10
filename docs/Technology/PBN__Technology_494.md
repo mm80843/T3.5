@@ -2,6 +2,10 @@
 
 # Technology: __develop emergency response plans__ (PBN__Technology_494)
 
+## Property: has_TechnologyRisk
+
+* [Insufficient healthcare infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1326.md)
+
 ## Property: has_TechnologyID
 
 * [Q5185982](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5185982.md)

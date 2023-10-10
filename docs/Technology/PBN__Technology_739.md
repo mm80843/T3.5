@@ -2,6 +2,10 @@
 
 # Technology: __communication software__ (PBN__Technology_739)
 
+## Property: has_TechnologyRisk
+
+* [Workplace productivity decrease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1477.md)
+
 ## Property: has_TechnologyID
 
 * [Q3635085](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3635085.md)

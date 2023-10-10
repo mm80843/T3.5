@@ -2,6 +2,10 @@
 
 # Technology: __improved sanitation infrastructure__ (PBN__Technology_1000)
 
+## Property: has_TechnologyRisk
+
+* [Faecal-oral transmission of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1660.md)
+
 ## Property: has_TechnologyID
 
 * [Q949149](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q949149.md)

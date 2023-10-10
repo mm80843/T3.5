@@ -2,3 +2,7 @@
 
 # Stakeholder: __people with compromised immune function__ (PBN__Stakeholder_337)
 
+## Property: has_BenefitForPeople
+
+* [Reduced mental health problems](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_831.md)
+

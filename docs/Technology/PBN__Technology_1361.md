@@ -2,6 +2,10 @@
 
 # Technology: __complex modeling techniques incorporating variables such as excretion patterns__ (PBN__Technology_1361)
 
+## Property: has_TechnologyRisk
+
+* [Inaccurate estimation of COVID-19 prevalence from wastewater data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1951.md)
+
 ## Property: has_TechnologyID
 
 * [Q17143560](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q17143560.md)

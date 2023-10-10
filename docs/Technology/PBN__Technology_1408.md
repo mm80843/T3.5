@@ -2,6 +2,10 @@
 
 # Technology: __time tracking software__ (PBN__Technology_1408)
 
+## Property: has_TechnologyRisk
+
+* [Lack of supervision and accountability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1975.md)
+
 ## Property: has_TechnologyID
 
 * [Q7805487](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7805487.md)

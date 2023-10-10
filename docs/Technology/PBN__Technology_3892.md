@@ -2,3 +2,7 @@
 
 # Technology: __vaccination distribution systems__ (PBN__Technology_3892)
 
+## Property: has_TechnologyMitigation
+
+* [Equitable vaccine distribution](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1502.md)
+

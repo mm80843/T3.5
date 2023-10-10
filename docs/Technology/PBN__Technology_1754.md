@@ -2,6 +2,10 @@
 
 # Technology: __proper sealing of pipes and sinks__ (PBN__Technology_1754)
 
+## Property: has_TechnologyRisk
+
+* [WWM1](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2206.md)
+
 ## Property: has_TechnologyID
 
 * [Q1502014](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1502014.md)

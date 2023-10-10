@@ -2,3 +2,7 @@
 
 # Technology: __ultrasound imaging__ (PBN__Technology_4491)
 
+## Property: has_TechnologyMitigation
+
+* [Robot-assisted nasopharyngeal and oropharyngeal swabs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2422.md)
+

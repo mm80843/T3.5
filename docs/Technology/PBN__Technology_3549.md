@@ -2,3 +2,7 @@
 
 # Technology: __quarantine facilities__ (PBN__Technology_3549)
 
+## Property: has_TechnologyMitigation
+
+* [Quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_7.md)
+

@@ -2,3 +2,7 @@
 
 # Technology: __coordination with suppliers__ (PBN__Technology_3142)
 
+## Property: has_TechnologyMitigation
+
+* [Management of Deliveries](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_302.md)
+

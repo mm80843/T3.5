@@ -2,6 +2,10 @@
 
 # Technology: __food storage and preservation technologies__ (PBN__Technology_1225)
 
+## Property: has_TechnologyRisk
+
+* [Food supply disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1858.md)
+
 ## Property: has_TechnologyID
 
 * [Q173514](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q173514.md)

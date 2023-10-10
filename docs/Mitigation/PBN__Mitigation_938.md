@@ -2,22 +2,22 @@
 
 # Mitigation: __Use of face masks__ (PBN__Mitigation_938)
 
-## Property: has_MitigationSource
-
-* [karia_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_225.md)
-* [koh_how_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_190.md)
-* [yang_urban_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_6.md)
-
 ## Property: has_MitigationRisk
 
 * [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
+
+## Property: has_MitigationPrinciple
+
+Wearing a mask to cover the mouth and nose to prevent respiratory droplets from being released into the air
+
+## Property: has_MitigationSource
+
+* [yang_urban_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_6.md)
+* [karia_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_225.md)
+* [koh_how_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_190.md)
 
 ## Property: has_MitigationTechnology
 
 * [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 * [face masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_342.md)
-
-## Property: has_MitigationPrinciple
-
-Wearing a mask to cover the mouth and nose to prevent respiratory droplets from being released into the air
 

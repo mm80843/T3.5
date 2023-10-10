@@ -6,3 +6,7 @@
 
 * [Q116701699](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q116701699.md)
 
+## Property: has_BenefitForPeople
+
+* [Reduction in health inequalities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_226.md)
+

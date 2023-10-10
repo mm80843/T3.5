@@ -2,13 +2,9 @@
 
 # Article: __iezadi_effectiveness_2021__ (PBN__Article_19)
 
-## Property: has_ArticleYear
+## Property: has_ArticleTitle
 
-2021
-
-## Property: has_ArticleLLMSummary
-
-The COVID-19 pandemic has been a big problem all around the world for over a year now. At first, there was no vaccine or treatment for the disease, but now there are some vaccines that are effective. However, not all countries have access to these vaccines, so it is still important to slow down the spread of the virus. Different countries have used different measures to try and control the virus, like isolating sick people, tracing their contacts, and closing schools. These measures have helped reduce the spread of the virus until more people can get vaccinated. However, there have also been some negative consequences from these measures. For example, fewer people have been diagnosed with cancer and some children have missed out on their regular vaccinations. It's important to find a balance between controlling the virus and minimizing these negative effects. There is ongoing research to understand the effectiveness of these measures and how they can be improved.
+Effectiveness of non-pharmaceutical public health interventions against COVID-19: A systematic review and meta-analysis
 
 ## Property: has_BenefInArticle
 
@@ -17,9 +13,13 @@ The COVID-19 pandemic has been a big problem all around the world for over a yea
 * [Decrease in reproduction number](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_87.md)
 * [Decrease in ICU admission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_88.md)
 
-## Property: has_ArticleTitle
+## Property: has_ArticleLLMSummary
 
-Effectiveness of non-pharmaceutical public health interventions against COVID-19: A systematic review and meta-analysis
+The COVID-19 pandemic has been a big problem all around the world for over a year now. At first, there was no vaccine or treatment for the disease, but now there are some vaccines that are effective. However, not all countries have access to these vaccines, so it is still important to slow down the spread of the virus. Different countries have used different measures to try and control the virus, like isolating sick people, tracing their contacts, and closing schools. These measures have helped reduce the spread of the virus until more people can get vaccinated. However, there have also been some negative consequences from these measures. For example, fewer people have been diagnosed with cancer and some children have missed out on their regular vaccinations. It's important to find a balance between controlling the virus and minimizing these negative effects. There is ongoing research to understand the effectiveness of these measures and how they can be improved.
+
+## Property: has_ArticleLLMShortSummary
+
+This systematic review and meta-analysis aimed to examine the effectiveness of Non-Pharmaceutical Public Health Interventions (NPHIs) in controlling the spread of COVID-19. The study included 35 observational quasi-experimental studies that assessed the impact of NPHIs on COVID-19 case growth rate, intensive care unit (ICU) admission, mortality growth rate, and reproduction number. The results showed that NPHIs have been effective in reducing the case growth rate by 4.86%, the death growth rate by 4.87%, the reproduction number by 1.90, and ICU admission by 16.50%. However, there was high heterogeneity among studies and a high probability of publication bias. The timing of the interventions was found to be crucial, with earlier implementation showing greater decreases in incidence and mortality. Other factors such as demographics, population density, testing strategies, and disease factors also influenced the effectiveness of NPHIs. The study highlights the importance of robust data infrastructure in assessing the effectiveness of NPHIs and guiding policy decisions. However, limitations such as the observational nature of the studies and confounding effects of testing considerations were identified. Overall, NPHIs have shown positive effects in controlling the spread of COVID-19, but the negative impact on other health outcomes and the economy should also be considered. Further research is needed to evaluate the effectiveness of NPHIs in different countries and their impact on non-COVID-19 health problems.
 
 ## Property: has_RiskInArticle
 
@@ -29,16 +29,30 @@ Effectiveness of non-pharmaceutical public health interventions against COVID-19
 * [Testing strategy limitations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1507.md)
 * [Publication bias](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1508.md)
 
-## Property: has_ArticleDOI
+## Property: has_ArticleYear
 
-10.1371/journal.pone.0260371
+2021
 
 ## Property: has_ArticleRef
 
 * [hsiang_effect_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_103.md)
 * [kraemer_effect_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_248.md)
 
-## Property: has_ArticleLLMShortSummary
+## Property: has_ArticleDOI
 
-This systematic review and meta-analysis aimed to examine the effectiveness of Non-Pharmaceutical Public Health Interventions (NPHIs) in controlling the spread of COVID-19. The study included 35 observational quasi-experimental studies that assessed the impact of NPHIs on COVID-19 case growth rate, intensive care unit (ICU) admission, mortality growth rate, and reproduction number. The results showed that NPHIs have been effective in reducing the case growth rate by 4.86%, the death growth rate by 4.87%, the reproduction number by 1.90, and ICU admission by 16.50%. However, there was high heterogeneity among studies and a high probability of publication bias. The timing of the interventions was found to be crucial, with earlier implementation showing greater decreases in incidence and mortality. Other factors such as demographics, population density, testing strategies, and disease factors also influenced the effectiveness of NPHIs. The study highlights the importance of robust data infrastructure in assessing the effectiveness of NPHIs and guiding policy decisions. However, limitations such as the observational nature of the studies and confounding effects of testing considerations were identified. Overall, NPHIs have shown positive effects in controlling the spread of COVID-19, but the negative impact on other health outcomes and the economy should also be considered. Further research is needed to evaluate the effectiveness of NPHIs in different countries and their impact on non-COVID-19 health problems.
+10.1371/journal.pone.0260371
+
+## Property: has_SourceMitigation
+
+* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2.md)
+* [Contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_250.md)
+* [Quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_7.md)
+* [Lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_577.md)
+* [Hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_217.md)
+* [Patient isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_834.md)
+* [Wearing facemasks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_838.md)
+* [Travel ban](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_835.md)
+* [School closing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_836.md)
+* [Mass gathering containment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_837.md)
+* [Contact-reducing strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_839.md)
 

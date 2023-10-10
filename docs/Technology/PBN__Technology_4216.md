@@ -2,3 +2,7 @@
 
 # Technology: __omop__ (PBN__Technology_4216)
 
+## Property: has_TechnologyMitigation
+
+* [Common standards](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2060.md)
+

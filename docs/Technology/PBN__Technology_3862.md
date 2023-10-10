@@ -2,3 +2,7 @@
 
 # Technology: __photocatalytic oxidation filter__ (PBN__Technology_3862)
 
+## Property: has_TechnologyMitigation
+
+* [Mechanical filtration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1413.md)
+

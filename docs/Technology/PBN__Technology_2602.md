@@ -6,11 +6,11 @@
 
 * [Blockchain and cryptography](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_10.md)
 
-## Property: has_TechnologyID
-
-* [Q5375622](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5375622.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Encryption and Authentication Techniques](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_6.md)
+
+## Property: has_TechnologyID
+
+* [Q5375622](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5375622.md)
 

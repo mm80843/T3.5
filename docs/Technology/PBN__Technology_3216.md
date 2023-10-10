@@ -2,3 +2,7 @@
 
 # Technology: __community-level infrastructure planning__ (PBN__Technology_3216)
 
+## Property: has_TechnologyMitigation
+
+* [Push for meso scale strategies at the neighbourhood/community level](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_423.md)
+

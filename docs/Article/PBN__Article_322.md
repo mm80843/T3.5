@@ -2,17 +2,13 @@
 
 # Article: __kaklauskas_covid-19_2021__ (PBN__Article_322)
 
-## Property: has_ArticleYear
-
-2021
-
 ## Property: has_ArticleTitle
 
 COVID-19 and Green Housing: A Review of Relevant Literature
 
-## Property: has_ArticleDOI
+## Property: has_ArticleYear
 
-10.3390/en14082072
+2021
 
 ## Property: has_ArticleRef
 
@@ -25,4 +21,8 @@ COVID-19 and Green Housing: A Review of Relevant Literature
 * [kuzemko_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_14.md)
 * [gamil_impact_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_168.md)
 * [shibani_effects_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_75.md)
+
+## Property: has_ArticleDOI
+
+10.3390/en14082072
 

@@ -2,19 +2,19 @@
 
 # Benef: __Reduction in faecal contamination__ (PBN__Benef_960)
 
+## Property: has_BenefDetails
+
+Proper sanitation practices reduce the risk of transmission through the faecal-oral route
+
 ## Property: has_Beneficiary
 
 * [healthcare workers and patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_215.md)
-
-## Property: has_BenefSource
-
-* [ding_toilets_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_196.md)
 
 ## Property: has_BenefReturn
 
 * [Improved safety and reduced risk of infection for healthcare workers and patients](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1055.md)
 
-## Property: has_BenefDetails
+## Property: has_BenefSource
 
-Proper sanitation practices reduce the risk of transmission through the faecal-oral route
+* [ding_toilets_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_196.md)
 

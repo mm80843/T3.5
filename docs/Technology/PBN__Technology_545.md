@@ -2,6 +2,10 @@
 
 # Technology: __research and development of drugs and vaccines__ (PBN__Technology_545)
 
+## Property: has_TechnologyRisk
+
+* [Lack of drugs and vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1349.md)
+
 ## Property: has_TechnologyID
 
 * [Q3242415](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3242415.md)

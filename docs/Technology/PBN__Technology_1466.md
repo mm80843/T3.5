@@ -2,6 +2,10 @@
 
 # Technology: __trajectory analysis tools__ (PBN__Technology_1466)
 
+## Property: has_TechnologyRisk
+
+* [Lack of microscale representation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2004.md)
+
 ## Property: has_TechnologyID
 
 * [Q193139](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q193139.md)

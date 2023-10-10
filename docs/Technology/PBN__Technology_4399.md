@@ -2,3 +2,7 @@
 
 # Technology: __ontology matching__ (PBN__Technology_4399)
 
+## Property: has_TechnologyMitigation
+
+* [Schema matching](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2307.md)
+

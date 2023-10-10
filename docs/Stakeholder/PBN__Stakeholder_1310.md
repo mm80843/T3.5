@@ -2,7 +2,7 @@
 
 # Stakeholder: __occupants of living units__ (PBN__Stakeholder_1310)
 
-## Property: has_RiskSubject
+## Property: has_SubjectRisk
 
 * [Lack of self-sufficient spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1958.md)
 

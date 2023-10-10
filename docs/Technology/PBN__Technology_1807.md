@@ -2,6 +2,10 @@
 
 # Technology: __financial grants__ (PBN__Technology_1807)
 
+## Property: has_TechnologyRisk
+
+* [Loss of cultural and creative industries](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2233.md)
+
 ## Property: has_TechnologyID
 
 * [Q545727](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q545727.md)

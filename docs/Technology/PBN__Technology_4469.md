@@ -2,3 +2,7 @@
 
 # Technology: __plastic tubes with insecticide-laden electrostatic netting__ (PBN__Technology_4469)
 
+## Property: has_TechnologyMitigation
+
+* [Eave tubes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2395.md)
+

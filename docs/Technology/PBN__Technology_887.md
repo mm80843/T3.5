@@ -2,6 +2,10 @@
 
 # Technology: __improved surveillance and early warning systems__ (PBN__Technology_887)
 
+## Property: has_TechnologyRisk
+
+* [Lack of preparedness for pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1584.md)
+
 ## Property: has_TechnologyID
 
 * [Q5326904](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5326904.md)

@@ -2,3 +2,7 @@
 
 # Technology: __negative pressure system__ (PBN__Technology_4511)
 
+## Property: has_TechnologyMitigation
+
+* [Air pressure controls](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2468.md)
+

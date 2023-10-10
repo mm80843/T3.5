@@ -2,3 +2,7 @@
 
 # Technology: __flexible shelving__ (PBN__Technology_4190)
 
+## Property: has_TechnologyMitigation
+
+* [Adaptation of supermarkets](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2004.md)
+

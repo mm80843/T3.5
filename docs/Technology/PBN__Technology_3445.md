@@ -2,3 +2,7 @@
 
 # Technology: __sanitation supplies and facilities (e.g.__ (PBN__Technology_3445)
 
+## Property: has_TechnologyMitigation
+
+* [Enhanced sanitation room](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_777.md)
+

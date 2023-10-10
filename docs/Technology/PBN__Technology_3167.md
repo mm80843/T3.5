@@ -2,3 +2,7 @@
 
 # Technology: __smart facemask technology__ (PBN__Technology_3167)
 
+## Property: has_TechnologyMitigation
+
+* [Smart facemasks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_333.md)
+

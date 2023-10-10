@@ -2,3 +2,10 @@
 
 # StakeholderSubgroup: __Contact Tracing Entities__ (PBN__StakeholderSubgroup_42)
 
+## Property: has_SubgroupStakeholder
+
+* [contact tracing teams](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_759.md)
+* [contact tracing agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1154.md)
+* [contact tracing agency](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1845.md)
+* [contact tracing team](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1852.md)
+

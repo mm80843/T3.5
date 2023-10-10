@@ -2,3 +2,7 @@
 
 # Technology: __private balcony__ (PBN__Technology_4245)
 
+## Property: has_TechnologyMitigation
+
+* [Availability of outdoor spaces in the building](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2126.md)
+

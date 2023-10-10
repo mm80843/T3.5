@@ -2,7 +2,15 @@
 
 # Stakeholder: __low-income individuals__ (PBN__Stakeholder_21)
 
-## Property: has_RiskSubject
+## Property: has_StakeholderID
+
+* [Q191159](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q191159.md)
+
+## Property: has_BenefitForPeople
+
+* [Reduced inequalities in remote work and education opportunities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_25.md)
+
+## Property: has_SubjectRisk
 
 * [Increase in poverty](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_235.md)
 * [Societal and socio-economic gaps](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_750.md)
@@ -17,8 +25,4 @@
 * [Inequality in access to green areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2249.md)
 * [Limited Capacity to Comply](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2279.md)
 * [Urban Inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2381.md)
-
-## Property: has_StakeholderID
-
-* [Q191159](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q191159.md)
 

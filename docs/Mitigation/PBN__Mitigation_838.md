@@ -2,19 +2,19 @@
 
 # Mitigation: __Wearing facemasks__ (PBN__Mitigation_838)
 
-## Property: has_MitigationSource
-
-* [iezadi_effectiveness_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_19.md)
-
 ## Property: has_MitigationRisk
 
 * [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 
-## Property: has_MitigationTechnology
-
-* [face masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_342.md)
-
 ## Property: has_MitigationPrinciple
 
 Wearing facemasks to reduce the spread of droplets containing the virus during coughing, sneezing, or speaking
+
+## Property: has_MitigationSource
+
+* [iezadi_effectiveness_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_19.md)
+
+## Property: has_MitigationTechnology
+
+* [face masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_342.md)
 

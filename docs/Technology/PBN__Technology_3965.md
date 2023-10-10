@@ -2,3 +2,7 @@
 
 # Technology: __voluntary participation__ (PBN__Technology_3965)
 
+## Property: has_TechnologyMitigation
+
+* [Protecting privacy of citizens’ data](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1635.md)
+

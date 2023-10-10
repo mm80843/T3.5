@@ -1,0 +1,22 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) 
+
+# RiskMitigation: __Mobile apps for information and contact tracing__ (PBN__Mitigation_1236)
+
+## Property: has_MitigationRisk
+
+* [Privacy and security concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_25.md)
+
+## Property: has_MitigationPrinciple
+
+Use secure and privacy-friendly mobile apps for contact tracing and information dissemination
+
+## Property: has_MitigationSource
+
+* [matheri_water_2023](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_162.md)
+
+## Property: has_MitigationTechnology
+
+* [bluetooth](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2999.md)
+* [gps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3000.md)
+* [mobile app technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3152.md)
+

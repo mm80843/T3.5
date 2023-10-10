@@ -2,7 +2,7 @@
 
 # Stakeholder: __individuals traveling from wuhan to other locations__ (PBN__Stakeholder_1026)
 
-## Property: has_RiskSubject
+## Property: has_SubjectRisk
 
 * [Importation of cases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1594.md)
 

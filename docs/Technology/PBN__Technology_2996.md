@@ -2,3 +2,7 @@
 
 # Technology: __community policies__ (PBN__Technology_2996)
 
+## Property: has_TechnologyMitigation
+
+* [Social Distancing Guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_145.md)
+

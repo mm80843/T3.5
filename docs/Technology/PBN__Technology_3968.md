@@ -2,3 +2,7 @@
 
 # Technology: __treatment plant automation__ (PBN__Technology_3968)
 
+## Property: has_TechnologyMitigation
+
+* [Optimizing energy management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1637.md)
+

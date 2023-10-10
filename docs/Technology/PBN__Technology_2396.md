@@ -8,12 +8,12 @@
 * [Enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_7.md)
 * [Urban technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_14.md)
 
-## Property: has_TechnologyID
-
-* [Q808918](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q808918.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Physical Barriers and Signage](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_132.md)
 * [Security Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_133.md)
+
+## Property: has_TechnologyID
+
+* [Q808918](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q808918.md)
 

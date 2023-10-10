@@ -2,3 +2,7 @@
 
 # Technology: __sensor networks__ (PBN__Technology_4053)
 
+## Property: has_TechnologyMitigation
+
+* [Indoor Air Quality Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1773.md)
+

@@ -2,6 +2,10 @@
 
 # Technology: __demand forecasting and planning software__ (PBN__Technology_1133)
 
+## Property: has_TechnologyRisk
+
+* [Changes in demand patterns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1772.md)
+
 ## Property: has_TechnologyID
 
 * [Q3409300](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3409300.md)

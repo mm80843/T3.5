@@ -2,6 +2,10 @@
 
 # Technology: __local food supply__ (PBN__Technology_1783)
 
+## Property: has_TechnologyRisk
+
+* [LS1](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2221.md)
+
 ## Property: has_TechnologyID
 
 * [Q5465458](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5465458.md)

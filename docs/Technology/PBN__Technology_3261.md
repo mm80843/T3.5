@@ -2,3 +2,7 @@
 
 # Technology: __urban microclimatic control__ (PBN__Technology_3261)
 
+## Property: has_TechnologyMitigation
+
+* [Visible and accessible green elements and spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_496.md)
+

@@ -2,6 +2,10 @@
 
 # Technology: __incentives for energy conservation__ (PBN__Technology_87)
 
+## Property: has_TechnologyRisk
+
+* [Unconscious occupant behavior](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1062.md)
+
 ## Property: has_TechnologyID
 
 * [Q5377219](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5377219.md)

@@ -2,3 +2,7 @@
 
 # Technology: __e-participation platforms__ (PBN__Technology_3117)
 
+## Property: has_TechnologyMitigation
+
+* [Citizen engagement and participatory platforms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_291.md)
+

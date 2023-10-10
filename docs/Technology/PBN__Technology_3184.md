@@ -2,3 +2,7 @@
 
 # Technology: __social media analytics__ (PBN__Technology_3184)
 
+## Property: has_TechnologyMitigation
+
+* [Social Media Analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_358.md)
+

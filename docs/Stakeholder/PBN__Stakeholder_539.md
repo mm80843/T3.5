@@ -2,15 +2,19 @@
 
 # Stakeholder: __emergency services__ (PBN__Stakeholder_539)
 
-## Property: has_StakeholderGroup
+## Property: has_StakeholderSubgroup
 
-* [Crisis Management](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_14.md)
+* [Emergency Services and Management](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_166.md)
 
 ## Property: has_StakeholderID
 
 * [Q814610](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q814610.md)
 
-## Property: has_StakeholderSubgroup
+## Property: has_BenefitForPeople
 
-* [Emergency Services and Management](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_166.md)
+* [Efficient crisis response](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1389.md)
+
+## Property: has_StakeholderGroup
+
+* [Crisis Management](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_14.md)
 

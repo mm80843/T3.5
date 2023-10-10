@@ -2,7 +2,7 @@
 
 # Stakeholder: __migrant populations__ (PBN__Stakeholder_1386)
 
-## Property: has_RiskSubject
+## Property: has_SubjectRisk
 
 * [Global mobility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2073.md)
 

@@ -2,3 +2,7 @@
 
 # Technology: __infrastructure support__ (PBN__Technology_2953)
 
+## Property: has_TechnologyMitigation
+
+* [Safe water access and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_84.md)
+

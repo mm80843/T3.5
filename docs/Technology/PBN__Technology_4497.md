@@ -2,3 +2,7 @@
 
 # Technology: __industrial robots__ (PBN__Technology_4497)
 
+## Property: has_TechnologyMitigation
+
+* [Robotics in industrial applications](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2427.md)
+

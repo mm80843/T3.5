@@ -6,3 +6,7 @@
 
 * [Q16060693](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q16060693.md)
 
+## Property: has_BenefitForPeople
+
+* [Enhanced understanding of risks and impacts](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1063.md)
+

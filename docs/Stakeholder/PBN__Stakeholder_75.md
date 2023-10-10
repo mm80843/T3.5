@@ -10,10 +10,6 @@
 * [Crowding and congestion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1638.md)
 * [Inadequate hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1639.md)
 
-## Property: has_StakeholderGroup
-
-* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [nan](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_7.md)
@@ -21,4 +17,16 @@
 ## Property: has_StakeholderID
 
 * [Q1090219](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1090219.md)
+
+## Property: has_BenefitForPeople
+
+* [Flexible customization](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_119.md)
+* [Visualizing virus transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_120.md)
+* [Configurable simulation parameters](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_121.md)
+* [Analysis of large-scale and longitudinal aspects](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_122.md)
+* [Evaluation of design decisions](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_123.md)
+
+## Property: has_StakeholderGroup
+
+* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
 

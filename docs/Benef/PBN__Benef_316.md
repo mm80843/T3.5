@@ -2,19 +2,19 @@
 
 # Benef: __Inactivation of pathogens__ (PBN__Benef_316)
 
+## Property: has_BenefDetails
+
+UVGI kills or inactivates bacteria on surfaces
+
 ## Property: has_Beneficiary
 
 * [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
-
-## Property: has_BenefSource
-
-* [memarzadeh_applications_2010](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_61.md)
 
 ## Property: has_BenefReturn
 
 * [Reduced risk of infection for occupants](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_333.md)
 
-## Property: has_BenefDetails
+## Property: has_BenefSource
 
-UVGI kills or inactivates bacteria on surfaces
+* [memarzadeh_applications_2010](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_61.md)
 

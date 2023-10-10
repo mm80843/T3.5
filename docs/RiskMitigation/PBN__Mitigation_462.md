@@ -1,0 +1,24 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) 
+
+# RiskMitigation: __Enhanced Cleaning and Sanitization__ (PBN__Mitigation_462)
+
+## Property: has_MitigationRisk
+
+* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
+* [Spread of Contagious Disease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3227.md)
+
+## Property: has_MitigationPrinciple
+
+Regularly clean and disinfect surfaces in rooms and buildings to reduce the presence of the virus.
+
+## Property: has_MitigationSource
+
+* [cirrincione_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_284.md)
+* [rizvi_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_271.md)
+
+## Property: has_MitigationTechnology
+
+* [cleaning equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_363.md)
+* [disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_413.md)
+* [cleaning supplies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_148.md)
+

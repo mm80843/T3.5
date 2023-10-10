@@ -2,3 +2,7 @@
 
 # Technology: __incinerator__ (PBN__Technology_4404)
 
+## Property: has_TechnologyMitigation
+
+* [Incineration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2314.md)
+

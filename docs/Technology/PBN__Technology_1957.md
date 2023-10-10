@@ -2,6 +2,10 @@
 
 # Technology: __targeted testing and protection measures based on population characteristics__ (PBN__Technology_1957)
 
+## Property: has_TechnologyRisk
+
+* [Population susceptibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_429.md)
+
 ## Property: has_TechnologyID
 
 * [Q3376054](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3376054.md)

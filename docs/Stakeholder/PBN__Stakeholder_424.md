@@ -10,3 +10,7 @@
 
 * [Disruption in supply chain](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_500.md)
 
+## Property: has_BenefitForPeople
+
+* [Provenance and transparency in supply chain](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1055.md)
+

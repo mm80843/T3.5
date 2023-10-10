@@ -2,3 +2,7 @@
 
 # Technology: __remote service platforms__ (PBN__Technology_4286)
 
+## Property: has_TechnologyMitigation
+
+* [Improved communication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2160.md)
+

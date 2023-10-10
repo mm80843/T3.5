@@ -2,6 +2,10 @@
 
 # Technology: __updated terminology and classification systems for public spaces__ (PBN__Technology_727)
 
+## Property: has_TechnologyRisk
+
+* [New typology for public space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1461.md)
+
 ## Property: has_TechnologyID
 
 * [Q294440](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q294440.md)

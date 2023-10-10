@@ -2,6 +2,10 @@
 
 # Technology: __performance tracking tools__ (PBN__Technology_1417)
 
+## Property: has_TechnologyRisk
+
+* [Superior performance of actively managed funds](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1979.md)
+
 ## Property: has_TechnologyID
 
 * [Q860554](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q860554.md)

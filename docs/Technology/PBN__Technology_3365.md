@@ -2,3 +2,7 @@
 
 # Technology: __geolocation data__ (PBN__Technology_3365)
 
+## Property: has_TechnologyMitigation
+
+* [Monitoring of agglomerations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_621.md)
+

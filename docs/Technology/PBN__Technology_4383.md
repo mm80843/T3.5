@@ -2,3 +2,7 @@
 
 # Technology: __community engagement and ownership models__ (PBN__Technology_4383)
 
+## Property: has_TechnologyMitigation
+
+* [Promoting community voice and ownership](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2266.md)
+

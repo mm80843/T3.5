@@ -2,7 +2,7 @@
 
 # Stakeholder: __temperature__ (PBN__Stakeholder_1131)
 
-## Property: has_RiskSubject
+## Property: has_SubjectRisk
 
 * [Relationship between AH, RH, and temperature](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1706.md)
 

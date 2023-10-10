@@ -2,3 +2,7 @@
 
 # Technology: __proper cleaning equipment and procedures__ (PBN__Technology_3867)
 
+## Property: has_TechnologyMitigation
+
+* [Regular maintenance and cleaning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1421.md)
+

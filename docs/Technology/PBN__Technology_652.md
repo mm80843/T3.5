@@ -2,6 +2,10 @@
 
 # Technology: __energy-efficient systems and equipment__ (PBN__Technology_652)
 
+## Property: has_TechnologyRisk
+
+* [Inefficient systems and equipment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1410.md)
+
 ## Property: has_TechnologyID
 
 * [Q924713](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q924713.md)

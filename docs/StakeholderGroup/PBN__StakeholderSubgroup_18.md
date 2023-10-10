@@ -2,3 +2,7 @@
 
 # StakeholderGroup: __Training Organizations__ (PBN__StakeholderSubgroup_18)
 
+## Property: has_SubgroupStakeholder
+
+* [training organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1335.md)
+

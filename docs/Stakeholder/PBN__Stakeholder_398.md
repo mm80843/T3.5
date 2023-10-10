@@ -2,3 +2,7 @@
 
 # Stakeholder: __water utilities/public sector__ (PBN__Stakeholder_398)
 
+## Property: has_BenefitForPeople
+
+* [Additional revenue](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1005.md)
+

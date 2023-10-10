@@ -2,6 +2,10 @@
 
 # Technology: __supply chain management systems and technologies enabling quick supplier switching__ (PBN__Technology_1202)
 
+## Property: has_TechnologyRisk
+
+* [Limited flexibility in adjusting to shocks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1840.md)
+
 ## Property: has_TechnologyID
 
 * [Q492886](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q492886.md)

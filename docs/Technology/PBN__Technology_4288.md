@@ -2,3 +2,7 @@
 
 # Technology: __segregation boxes__ (PBN__Technology_4288)
 
+## Property: has_TechnologyMitigation
+
+* [Solid waste management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2162.md)
+

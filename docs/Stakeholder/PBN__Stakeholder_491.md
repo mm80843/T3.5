@@ -6,3 +6,7 @@
 
 * [Q1367219](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1367219.md)
 
+## Property: has_BenefitForPeople
+
+* [Increased inclusivity and accessibility](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1250.md)
+

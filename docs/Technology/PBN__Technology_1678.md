@@ -2,6 +2,10 @@
 
 # Technology: __credit guarantee schemes (cgss)__ (PBN__Technology_1678)
 
+## Property: has_TechnologyRisk
+
+* [Difficulty accessing finance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2158.md)
+
 ## Property: has_TechnologyID
 
 * [Q3095288](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3095288.md)

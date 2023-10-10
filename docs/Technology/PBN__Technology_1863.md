@@ -2,6 +2,10 @@
 
 # Technology: __monitoring tools__ (PBN__Technology_1863)
 
+## Property: has_TechnologyRisk
+
+* [Panic buying](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2281.md)
+
 ## Property: has_TechnologyID
 
 * [Q41567412](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q41567412.md)

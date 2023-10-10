@@ -2,7 +2,11 @@
 
 # Stakeholder: __medical staff__ (PBN__Stakeholder_93)
 
-## Property: has_RiskSubject
+## Property: has_OwnerRisk
+
+* [Contamination of masks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1422.md)
+
+## Property: has_SubjectRisk
 
 * [Aerosol transmission of SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_922.md)
 * [Contamination of floor surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1420.md)
@@ -23,7 +27,13 @@
 
 * [Q69948433](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q69948433.md)
 
-## Property: has_OwnerRisk
+## Property: has_BenefitForPeople
 
-* [Contamination of masks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1422.md)
+* [Efficient tracking of high-risk patients](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_157.md)
+* [Reduction of infections](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_317.md)
+* [Reduces risk of contracting SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_775.md)
+* [Reduces risk of spreading other infections](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_776.md)
+* [Enhanced training effectiveness](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1115.md)
+* [Reduction in transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1258.md)
+* [Increased efficiency of medical staff](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1391.md)
 

@@ -2,6 +2,10 @@
 
 # Technology: __advanced laboratory techniques for virus detection and identification__ (PBN__Technology_496)
 
+## Property: has_TechnologyRisk
+
+* [Zoonotic transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_982.md)
+
 ## Property: has_TechnologyID
 
 * [Q478216](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q478216.md)

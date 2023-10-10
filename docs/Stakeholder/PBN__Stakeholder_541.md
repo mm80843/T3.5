@@ -2,3 +2,7 @@
 
 # Stakeholder: __high-risk patients__ (PBN__Stakeholder_541)
 
+## Property: has_BenefitForPeople
+
+* [Remote patient monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_485.md)
+

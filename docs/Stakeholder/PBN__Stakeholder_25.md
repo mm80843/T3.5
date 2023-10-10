@@ -6,3 +6,7 @@
 
 * [Q2249676](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2249676.md)
 
+## Property: has_BenefitForPeople
+
+* [Achieve Sustainable Development Goals (SDGs)](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_27.md)
+

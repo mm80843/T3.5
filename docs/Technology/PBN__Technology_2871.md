@@ -6,11 +6,11 @@
 
 * [Drones and robots](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_17.md)
 
-## Property: has_TechnologyID
-
-* [Q1472062](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1472062.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Telemedicine and Remote Access](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_109.md)
+
+## Property: has_TechnologyID
+
+* [Q1472062](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1472062.md)
 

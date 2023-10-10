@@ -2,3 +2,7 @@
 
 # Technology: __surgical masks)__ (PBN__Technology_4505)
 
+## Property: has_TechnologyMitigation
+
+* [Wearing masks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_218.md)
+

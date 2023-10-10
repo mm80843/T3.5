@@ -2,3 +2,7 @@
 
 # Technology: __water efficiency__ (PBN__Technology_4483)
 
+## Property: has_TechnologyMitigation
+
+* [Green building design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2415.md)
+

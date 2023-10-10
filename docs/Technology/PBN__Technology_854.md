@@ -2,6 +2,10 @@
 
 # Technology: __hydrogen peroxide__ (PBN__Technology_854)
 
+## Property: has_TechnologyRisk
+
+* [Inactivation of coronaviruses by biocidal agents in suspension tests](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1549.md)
+
 ## Property: has_TechnologyID
 
 * [Q171877](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q171877.md)

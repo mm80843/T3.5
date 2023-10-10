@@ -2,3 +2,7 @@
 
 # Technology: __digital tools and technologies__ (PBN__Technology_3528)
 
+## Property: has_TechnologyMitigation
+
+* [Digital tools and technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_897.md)
+

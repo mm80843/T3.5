@@ -2,3 +2,7 @@
 
 # Technology: __real-time data collection tools__ (PBN__Technology_4437)
 
+## Property: has_TechnologyMitigation
+
+* [Health monitoring platform](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2370.md)
+

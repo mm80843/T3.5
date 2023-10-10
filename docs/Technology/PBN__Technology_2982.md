@@ -2,3 +2,7 @@
 
 # Technology: __local supply chain__ (PBN__Technology_2982)
 
+## Property: has_TechnologyMitigation
+
+* [Use of local suppliers and warehouse stock](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_132.md)
+

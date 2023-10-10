@@ -2,3 +2,7 @@
 
 # Technology: __public awareness platforms__ (PBN__Technology_3887)
 
+## Property: has_TechnologyMitigation
+
+* [Public awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1482.md)
+

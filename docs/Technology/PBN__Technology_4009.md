@@ -2,3 +2,7 @@
 
 # Technology: __it infrastructure__ (PBN__Technology_4009)
 
+## Property: has_TechnologyMitigation
+
+* [Implementing remote working](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1685.md)
+

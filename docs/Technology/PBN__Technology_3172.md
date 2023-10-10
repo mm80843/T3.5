@@ -2,3 +2,7 @@
 
 # Technology: __health insurance policies__ (PBN__Technology_3172)
 
+## Property: has_TechnologyMitigation
+
+* [Health insurance coverage](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_337.md)
+

@@ -2,3 +2,7 @@
 
 # Technology: __research facilities__ (PBN__Technology_3514)
 
+## Property: has_TechnologyMitigation
+
+* [Research](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_883.md)
+

@@ -2,3 +2,7 @@
 
 # Technology: __high risk)__ (PBN__Technology_3131)
 
+## Property: has_TechnologyMitigation
+
+* [Daily Tasks and Activities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_297.md)
+

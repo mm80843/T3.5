@@ -2,3 +2,7 @@
 
 # Technology: __bio-sensor technology__ (PBN__Technology_3755)
 
+## Property: has_TechnologyMitigation
+
+* [Biosensors for diagnostics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1232.md)
+

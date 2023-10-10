@@ -2,20 +2,20 @@
 
 # Benef: __Stronger communities and better public health__ (PBN__Benef_301)
 
+## Property: has_BenefDetails
+
+Community-level planning and design strategies promote social cohesion, active living, and access to amenities, improving public health and fostering a sense of community.
+
 ## Property: has_Beneficiary
 
 * [urban planners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_125.md)
 * [community organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_150.md)
 
-## Property: has_BenefSource
-
-* [cheshmehzangi_revisiting_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_59.md)
-
 ## Property: has_BenefReturn
 
 * [Stronger communities attract residents, businesses, and investment, leading to increased property values and economic growth.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_319.md)
 
-## Property: has_BenefDetails
+## Property: has_BenefSource
 
-Community-level planning and design strategies promote social cohesion, active living, and access to amenities, improving public health and fostering a sense of community.
+* [cheshmehzangi_revisiting_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_59.md)
 

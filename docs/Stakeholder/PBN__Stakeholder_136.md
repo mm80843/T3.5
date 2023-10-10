@@ -2,3 +2,7 @@
 
 # Stakeholder: __public health agencies/researchers__ (PBN__Stakeholder_136)
 
+## Property: has_BenefitForPeople
+
+* [Improved influenza incidence predictions](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_270.md)
+

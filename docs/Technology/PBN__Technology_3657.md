@@ -2,3 +2,7 @@
 
 # Technology: __diffusion models__ (PBN__Technology_3657)
 
+## Property: has_TechnologyMitigation
+
+* [Virus Transmission Simulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1106.md)
+

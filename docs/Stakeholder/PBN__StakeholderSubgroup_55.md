@@ -2,3 +2,30 @@
 
 # Stakeholder: __Occupants__ (PBN__StakeholderSubgroup_55)
 
+## Property: has_SubgroupStakeholder
+
+* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
+* [building occupants and workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_910.md)
+* [building occupants in all types of buildings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_654.md)
+* [building occupants and researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_912.md)
+* [building occupants in poorly ventilated buildings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1356.md)
+* [building occupants in indoor spaces sharing the same hvac system](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_929.md)
+* [building occupants in environments with high chemical pollutant levels](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1358.md)
+* [building occupants in buildings without iaq monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1359.md)
+* [building occupant](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1885.md)
+* [building occupant in indoor space sharing the same hvac system](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1918.md)
+* [building occupant in all type of building](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2015.md)
+* [building occupant in environment with high chemical pollutant level](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2050.md)
+* [building occupant in poorly ventilated building](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2095.md)
+* [building occupant and researcher](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2098.md)
+* [Occupant of living unit](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2560.md)
+* [Occupants of indoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2562.md)
+* [Building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2566.md)
+* [Occupants of buildings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2567.md)
+* [Occupant of indoor space](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2568.md)
+* [Building occupant](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2581.md)
+* [Occupant of building](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2582.md)
+* [Occupants of indoor spaces such as offices](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2593.md)
+* [Occupant of indoor space such a office](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2597.md)
+* [Occupants of living units](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2598.md)
+

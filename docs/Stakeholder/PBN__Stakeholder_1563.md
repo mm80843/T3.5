@@ -2,7 +2,7 @@
 
 # Stakeholder: __ecosystem__ (PBN__Stakeholder_1563)
 
-## Property: has_RiskSubject
+## Property: has_SubjectRisk
 
 * [Ineffectiveness of conventional wastewater treatment processes in removing SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2341.md)
 

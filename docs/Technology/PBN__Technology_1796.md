@@ -2,6 +2,10 @@
 
 # Technology: __fiscal policy measures__ (PBN__Technology_1796)
 
+## Property: has_TechnologyRisk
+
+* [Economic recession](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1008.md)
+
 ## Property: has_TechnologyID
 
 * [Q187021](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q187021.md)

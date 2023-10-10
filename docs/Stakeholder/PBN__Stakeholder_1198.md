@@ -2,7 +2,7 @@
 
 # Stakeholder: __suspected cases__ (PBN__Stakeholder_1198)
 
-## Property: has_RiskSubject
+## Property: has_SubjectRisk
 
 * [Ineffective disease screening and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1800.md)
 

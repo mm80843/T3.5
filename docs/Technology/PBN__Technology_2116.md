@@ -6,11 +6,11 @@
 
 * [AI tools](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_0.md)
 
-## Property: has_TechnologyID
-
-* [Q835100](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q835100.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Monitoring Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_31.md)
+
+## Property: has_TechnologyID
+
+* [Q835100](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q835100.md)
 

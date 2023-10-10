@@ -2,6 +2,10 @@
 
 # Technology: __sustainable financing models__ (PBN__Technology_54)
 
+## Property: has_TechnologyRisk
+
+* [Insufficient funding for green space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1044.md)
+
 ## Property: has_TechnologyID
 
 * [Q85559999](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q85559999.md)

@@ -2,3 +2,7 @@
 
 # Technology: __ontology lookup service (ols)__ (PBN__Technology_3981)
 
+## Property: has_TechnologyMitigation
+
+* [Reuse of ontological terms and models](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1655.md)
+

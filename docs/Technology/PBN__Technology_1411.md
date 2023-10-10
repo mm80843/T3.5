@@ -2,6 +2,10 @@
 
 # Technology: __algorithmic trading__ (PBN__Technology_1411)
 
+## Property: has_TechnologyRisk
+
+* [Volatility in financial markets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1976.md)
+
 ## Property: has_TechnologyID
 
 * [Q139445](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q139445.md)

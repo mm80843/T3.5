@@ -2,3 +2,7 @@
 
 # Technology: __wbe__ (PBN__Technology_3070)
 
+## Property: has_TechnologyMitigation
+
+* [Sewage Epidemiology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_224.md)
+

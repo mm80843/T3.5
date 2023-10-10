@@ -2,3 +2,7 @@
 
 # Stakeholder: __water utilities/workforce__ (PBN__Stakeholder_399)
 
+## Property: has_BenefitForPeople
+
+* [Optimized operations](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1006.md)
+

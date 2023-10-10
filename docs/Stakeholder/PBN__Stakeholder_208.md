@@ -6,3 +6,7 @@
 
 * [Q3376054](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3376054.md)
 
+## Property: has_BenefitForPeople
+
+* [Telemedicine consultations](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_460.md)
+

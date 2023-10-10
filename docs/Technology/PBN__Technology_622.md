@@ -2,6 +2,10 @@
 
 # Technology: __vertical gardening systems__ (PBN__Technology_622)
 
+## Property: has_TechnologyRisk
+
+* [Lack of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1302.md)
+
 ## Property: has_TechnologyID
 
 * [Q2562744](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2562744.md)

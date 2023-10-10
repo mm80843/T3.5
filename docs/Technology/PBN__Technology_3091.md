@@ -2,3 +2,7 @@
 
 # Technology: __manual contact tracing__ (PBN__Technology_3091)
 
+## Property: has_TechnologyMitigation
+
+* [Contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_250.md)
+

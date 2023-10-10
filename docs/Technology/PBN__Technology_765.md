@@ -2,6 +2,10 @@
 
 # Technology: __testing and analysis equipment__ (PBN__Technology_765)
 
+## Property: has_TechnologyRisk
+
+* [Insufficient knowledge of COVID-19 inactivation mechanisms on copper coatings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1496.md)
+
 ## Property: has_TechnologyID
 
 * [Q2115486](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2115486.md)

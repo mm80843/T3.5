@@ -2,7 +2,21 @@
 
 # Stakeholder: __visitors__ (PBN__Stakeholder_118)
 
-## Property: has_RiskSubject
+## Property: has_StakeholderID
+
+* [Q2528360](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2528360.md)
+
+## Property: has_BenefitForPeople
+
+* [Improved air quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_192.md)
+* [Reduced risk of virus transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_177.md)
+* [Reduced transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_207.md)
+* [Reduced contact with surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_210.md)
+* [Enhanced sense of safety](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_267.md)
+* [Reduced airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_997.md)
+* [Reduced surface contamination](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1199.md)
+
+## Property: has_SubjectRisk
 
 * [Spread of contagious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_20.md)
 * [Contagious diseases propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_153.md)
@@ -56,8 +70,4 @@
 * [associated](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2323.md)
 * [Surface-to-person transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2371.md)
 * [Person-to-person transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2372.md)
-
-## Property: has_StakeholderID
-
-* [Q2528360](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2528360.md)
 

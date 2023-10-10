@@ -2,3 +2,7 @@
 
 # Technology: __cold storage facilities__ (PBN__Technology_3953)
 
+## Property: has_TechnologyMitigation
+
+* [Cold chain logistics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1620.md)
+

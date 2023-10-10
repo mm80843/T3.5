@@ -2,3 +2,7 @@
 
 # Technology: __reports__ (PBN__Technology_3355)
 
+## Property: has_TechnologyMitigation
+
+* [Search for evidence beyond conventional types](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_610.md)
+

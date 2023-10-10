@@ -2,3 +2,7 @@
 
 # Technology: __water treatment systems__ (PBN__Technology_4367)
 
+## Property: has_TechnologyMitigation
+
+* [Access to alternative water sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2138.md)
+

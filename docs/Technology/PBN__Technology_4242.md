@@ -2,3 +2,7 @@
 
 # Technology: __landscape ground__ (PBN__Technology_4242)
 
+## Property: has_TechnologyMitigation
+
+* [Availability of greenery and gardens](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2125.md)
+

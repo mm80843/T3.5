@@ -2,3 +2,7 @@
 
 # Technology: __nan nan antibacterial fabrics__ (PBN__Technology_3990)
 
+## Property: has_TechnologyMitigation
+
+* [Touch-free systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_176.md)
+

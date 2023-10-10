@@ -31,7 +31,11 @@
 * [Key factors of COVID-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2361.md)
 * [Knowledge gaps and future threats](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2362.md)
 
-## Property: has_RiskSubject
+## Property: has_StakeholderSubgroup
+
+* [Scientific Research](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_39.md)
+
+## Property: has_SubjectRisk
 
 * [Spread of fraudulent studies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_615.md)
 * [Lack of real-time data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_762.md)
@@ -51,11 +55,19 @@
 * [Effects of nebulization and impingement on viral survival](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2301.md)
 * [Cell entry of SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2359.md)
 
+## Property: has_BenefitForPeople
+
+* [Data integration](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_60.md)
+* [Data analysis efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_61.md)
+* [Data sharing and integration](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_62.md)
+* [Standardized knowledge representation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_63.md)
+* [Thorough study of anti-coronavirus drugs](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_64.md)
+* [Vaccine design and analysis](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_65.md)
+* [Enhanced credibility and reputation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1020.md)
+* [Knowledge sharing and research development](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1022.md)
+* [Access to real-time data](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1050.md)
+
 ## Property: has_StakeholderGroup
 
 * [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
-
-## Property: has_StakeholderSubgroup
-
-* [Scientific Research](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_39.md)
 

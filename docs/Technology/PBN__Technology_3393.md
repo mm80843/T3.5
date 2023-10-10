@@ -2,3 +2,7 @@
 
 # Technology: __synchronization of massive and long-term ieq measurements__ (PBN__Technology_3393)
 
+## Property: has_TechnologyMitigation
+
+* [Data synchronization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_700.md)
+

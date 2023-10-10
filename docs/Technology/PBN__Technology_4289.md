@@ -2,3 +2,8 @@
 
 # Technology: __waste separation__ (PBN__Technology_4289)
 
+## Property: has_TechnologyMitigation
+
+* [Proper waste management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_346.md)
+* [Solid waste management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2162.md)
+

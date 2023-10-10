@@ -2,3 +2,7 @@
 
 # Technology: __blockchain technologies__ (PBN__Technology_2966)
 
+## Property: has_TechnologyMitigation
+
+* [Data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_99.md)
+

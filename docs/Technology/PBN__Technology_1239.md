@@ -2,6 +2,10 @@
 
 # Technology: __noise reduction measures__ (PBN__Technology_1239)
 
+## Property: has_TechnologyRisk
+
+* [Noise Pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1120.md)
+
 ## Property: has_TechnologyID
 
 * [Q7047719](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7047719.md)

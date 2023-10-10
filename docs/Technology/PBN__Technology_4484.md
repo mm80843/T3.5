@@ -2,3 +2,7 @@
 
 # Technology: __green sustainable materials__ (PBN__Technology_4484)
 
+## Property: has_TechnologyMitigation
+
+* [Green building design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2415.md)
+

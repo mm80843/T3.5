@@ -9,7 +9,12 @@
 * [Inefficacy of liquid disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1510.md)
 * [Insufficient self-disinfecting surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1511.md)
 
-## Property: has_RiskSubject
+## Property: has_StakeholderSubgroup
+
+* [Residents](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_72.md)
+* [Residents/Visitors](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_109.md)
+
+## Property: has_SubjectRisk
 
 * [Privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_47.md)
 * [Lack of awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_49.md)
@@ -69,18 +74,57 @@
 * [Proximity to China](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2317.md)
 * [High number of flights](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2318.md)
 
-## Property: has_StakeholderGroup
-
-* [Community Stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_8.md)
-* [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
-* [Building Occupants](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_11.md)
-
-## Property: has_StakeholderSubgroup
-
-* [Residents](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_72.md)
-* [Residents/Visitors](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_109.md)
-
 ## Property: has_StakeholderID
 
 * [Q33829](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q33829.md)
+
+## Property: has_BenefitForPeople
+
+* [Reduced infection risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_29.md)
+* [Reduction in tick populations](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_90.md)
+* [Reduced rat populations](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_91.md)
+* [Reduction in mosquito breeding](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_92.md)
+* [Antimicrobial surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_127.md)
+* [Improved air quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_192.md)
+* [Improved well-being](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_153.md)
+* [Reduction in infection risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_184.md)
+* [Enhanced ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_230.md)
+* [Decreased contact](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_231.md)
+* [Reduced transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_232.md)
+* [Improved mental state](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_233.md)
+* [Socialization](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_234.md)
+* [Reduced pathogen risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_235.md)
+* [Better air quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_236.md)
+* [Limited virus spread](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_237.md)
+* [Fresh air supply](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_238.md)
+* [Clean water supply](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_239.md)
+* [Safe water management](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_240.md)
+* [Limit virus spread](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_241.md)
+* [Prevent virus spread](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_242.md)
+* [Efficient waste management](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_243.md)
+* [Stable energy supply](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_244.md)
+* [Sustainable energy use](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_245.md)
+* [Reduced energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_246.md)
+* [Safe waste management](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_247.md)
+* [Reduced virus spread](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_248.md)
+* [Constant water supply](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_249.md)
+* [Reduced water consumption](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_250.md)
+* [Stable internet access](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_251.md)
+* [Personalization](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_252.md)
+* [Privacy](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_253.md)
+* [Noise reduction](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_254.md)
+* [Local food supply](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_255.md)
+* [Local food production](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_256.md)
+* [Enhanced indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_321.md)
+* [Efficacy against coronavirus](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1194.md)
+* [Reduced neighbour noise](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1196.md)
+* [Improved energy efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1240.md)
+* [Enhanced cleanliness and hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1303.md)
+* [Improved access to outdoor environments](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1304.md)
+
+## Property: has_StakeholderGroup
+
+* [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
+* [Community Stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_8.md)
+* [Building Occupants](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_11.md)
 

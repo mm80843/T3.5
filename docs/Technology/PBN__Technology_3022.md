@@ -2,3 +2,7 @@
 
 # Technology: __patches__ (PBN__Technology_3022)
 
+## Property: has_TechnologyMitigation
+
+* [Emerging Low-Cost Wearable Sensors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_164.md)
+

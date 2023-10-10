@@ -2,3 +2,7 @@
 
 # Technology: __atomized silver nanoparticles__ (PBN__Technology_3112)
 
+## Property: has_TechnologyMitigation
+
+* [Nanotechnology (silver nanoparticles)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_280.md)
+

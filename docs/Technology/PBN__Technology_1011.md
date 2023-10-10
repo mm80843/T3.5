@@ -2,6 +2,10 @@
 
 # Technology: __windows with views__ (PBN__Technology_1011)
 
+## Property: has_TechnologyRisk
+
+* [Limited access to nature and fresh air](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1674.md)
+
 ## Property: has_TechnologyID
 
 * [Q24873715](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q24873715.md)

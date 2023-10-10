@@ -2,3 +2,7 @@
 
 # Technology: __natural language processing__ (PBN__Technology_4398)
 
+## Property: has_TechnologyMitigation
+
+* [Knowledge extraction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2306.md)
+

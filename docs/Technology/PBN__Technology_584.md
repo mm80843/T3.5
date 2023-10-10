@@ -2,6 +2,10 @@
 
 # Technology: __widespread use of masks__ (PBN__Technology_584)
 
+## Property: has_TechnologyRisk
+
+* [Transmission through respiratory droplets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1373.md)
+
 ## Property: has_TechnologyID
 
 * [Q3496615](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3496615.md)

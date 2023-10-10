@@ -2,7 +2,7 @@
 
 # Stakeholder: __people with physical disabilities__ (PBN__Stakeholder_1116)
 
-## Property: has_RiskSubject
+## Property: has_SubjectRisk
 
 * [Limited accessibility to UGS](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1691.md)
 

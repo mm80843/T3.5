@@ -2,3 +2,7 @@
 
 # Technology: __hardware__ (PBN__Technology_3931)
 
+## Property: has_TechnologyMitigation
+
+* [SAMBA](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1581.md)
+

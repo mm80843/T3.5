@@ -2,3 +2,7 @@
 
 # Technology: __efficient network__ (PBN__Technology_3732)
 
+## Property: has_TechnologyMitigation
+
+* [Medical gas supply](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1216.md)
+

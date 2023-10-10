@@ -2,7 +2,7 @@
 
 # Stakeholder: __bipoc residents__ (PBN__Stakeholder_1047)
 
-## Property: has_RiskSubject
+## Property: has_SubjectRisk
 
 * [Homogeneity in urban park use](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1617.md)
 * [Social vulnerability and park use](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1618.md)

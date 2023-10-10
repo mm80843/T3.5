@@ -2,7 +2,7 @@
 
 # Stakeholder: __residents and travelers in neighboring regions__ (PBN__Stakeholder_874)
 
-## Property: has_RiskSubject
+## Property: has_SubjectRisk
 
 * [Spillover effects between neighboring regions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1356.md)
 

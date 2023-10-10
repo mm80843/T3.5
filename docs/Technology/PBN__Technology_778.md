@@ -2,3 +2,7 @@
 
 # Technology: __announcements__ (PBN__Technology_778)
 
+## Property: has_TechnologyRisk
+
+* [Inadequate communication and awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1503.md)
+

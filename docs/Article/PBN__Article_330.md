@@ -2,17 +2,13 @@
 
 # Article: __burridge_ventilation_2021__ (PBN__Article_330)
 
-## Property: has_ArticleYear
-
-2021
-
 ## Property: has_ArticleTitle
 
 The ventilation of buildings and other mitigating measures for COVID-19: a focus on wintertime
 
-## Property: has_ArticleDOI
+## Property: has_ArticleYear
 
-10.1098/rspa.2020.0855
+2021
 
 ## Property: has_ArticleRef
 
@@ -25,4 +21,8 @@ The ventilation of buildings and other mitigating measures for COVID-19: a focus
 * [beggs_upper-room_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_163.md)
 * [bolashikov_methods_2009](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_240.md)
 * [escombe_upper-room_2009](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_105.md)
+
+## Property: has_ArticleDOI
+
+10.1098/rspa.2020.0855
 

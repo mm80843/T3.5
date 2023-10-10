@@ -2,3 +2,7 @@
 
 # Technology: __internet connection__ (PBN__Technology_4022)
 
+## Property: has_TechnologyMitigation
+
+* [Working from Home](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1705.md)
+

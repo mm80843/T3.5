@@ -1,0 +1,8 @@
+[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) 
+
+# RiskMitigation: __Develop and implement comprehensive emergency preparedness plans, including outbreak response protocols and contingency plans__ (PBN__RiskMitigation_2266)
+
+## Property: has_MitigationRisk
+
+* [Inadequate emergency preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1703.md)
+

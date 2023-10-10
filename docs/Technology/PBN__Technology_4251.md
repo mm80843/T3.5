@@ -2,3 +2,7 @@
 
 # Technology: __co2 concentration__ (PBN__Technology_4251)
 
+## Property: has_TechnologyMitigation
+
+* [Monitor and control indoor air pollution](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2130.md)
+

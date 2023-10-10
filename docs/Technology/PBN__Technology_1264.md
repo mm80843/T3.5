@@ -2,6 +2,10 @@
 
 # Technology: __provide large windows__ (PBN__Technology_1264)
 
+## Property: has_TechnologyRisk
+
+* [Inadequate window views](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_951.md)
+
 ## Property: has_TechnologyID
 
 * [Q1190017](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1190017.md)

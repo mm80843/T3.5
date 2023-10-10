@@ -2,3 +2,7 @@
 
 # Technology: __sqlite database__ (PBN__Technology_3827)
 
+## Property: has_TechnologyMitigation
+
+* [SQLite database](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1375.md)
+

@@ -2,3 +2,7 @@
 
 # Technology: __design principles that allow for future modifications and customization__ (PBN__Technology_3450)
 
+## Property: has_TechnologyMitigation
+
+* [Adaptable and flexible design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_780.md)
+

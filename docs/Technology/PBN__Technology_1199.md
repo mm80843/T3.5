@@ -2,6 +2,10 @@
 
 # Technology: __supplier diversification technologies and supply chain management systems__ (PBN__Technology_1199)
 
+## Property: has_TechnologyRisk
+
+* [Concentration of suppliers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1837.md)
+
 ## Property: has_TechnologyID
 
 * [Q1357275](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1357275.md)

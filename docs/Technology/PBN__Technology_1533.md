@@ -2,6 +2,10 @@
 
 # Technology: __advanced surveillance technology__ (PBN__Technology_1533)
 
+## Property: has_TechnologyRisk
+
+* [Inadequate surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2052.md)
+
 ## Property: has_TechnologyID
 
 * [Q2161551](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2161551.md)

@@ -2,7 +2,7 @@
 
 # Stakeholder: __particularly females__ (PBN__Stakeholder_1337)
 
-## Property: has_RiskSubject
+## Property: has_SubjectRisk
 
 * [Impact of social distancing and home confinement on mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1989.md)
 

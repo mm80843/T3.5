@@ -2,6 +2,10 @@
 
 # Technology: __antibiotic stewardship programs__ (PBN__Technology_1562)
 
+## Property: has_TechnologyRisk
+
+* [Antimicrobial resistance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_160.md)
+
 ## Property: has_TechnologyID
 
 * [Q112581955](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q112581955.md)

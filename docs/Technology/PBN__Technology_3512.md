@@ -2,3 +2,7 @@
 
 # Technology: __diagnostic testing kits__ (PBN__Technology_3512)
 
+## Property: has_TechnologyMitigation
+
+* [Testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_882.md)
+

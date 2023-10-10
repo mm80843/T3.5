@@ -2,3 +2,7 @@
 
 # Technology: __double or triple-glazed windows conducive to airtight construction__ (PBN__Technology_3467)
 
+## Property: has_TechnologyMitigation
+
+* [Glazed windows](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_813.md)
+

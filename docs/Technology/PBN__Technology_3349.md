@@ -2,3 +2,7 @@
 
 # Technology: __databases__ (PBN__Technology_3349)
 
+## Property: has_TechnologyMitigation
+
+* [Activate rapid response services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_607.md)
+

@@ -2,3 +2,7 @@
 
 # Stakeholder: __digital health communities__ (PBN__Stakeholder_205)
 
+## Property: has_BenefitForPeople
+
+* [Enhanced structured communication](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_457.md)
+

@@ -2,3 +2,7 @@
 
 # Technology: __event data__ (PBN__Technology_4424)
 
+## Property: has_TechnologyMitigation
+
+* [Monitoring people movement during events](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2347.md)
+

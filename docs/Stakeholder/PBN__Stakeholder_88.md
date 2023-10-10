@@ -2,3 +2,7 @@
 
 # Stakeholder: __development agencies__ (PBN__Stakeholder_88)
 
+## Property: has_BenefitForPeople
+
+* [Additional funding](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_149.md)
+

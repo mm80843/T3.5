@@ -2,7 +2,7 @@
 
 # Stakeholder: __tours__ (PBN__Stakeholder_1082)
 
-## Property: has_RiskSubject
+## Property: has_SubjectRisk
 
 * [Performance Risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_86.md)
 

@@ -10,3 +10,9 @@
 
 * [Domestic violence increase](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1139.md)
 
+## Property: has_BenefitForPeople
+
+* [Reduction in crime rates](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1375.md)
+* [Enhanced control over city access](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1378.md)
+* [Deterrence of anti-social behavior](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1384.md)
+

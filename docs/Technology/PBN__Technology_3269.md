@@ -2,3 +2,7 @@
 
 # Technology: __digital and smart devices__ (PBN__Technology_3269)
 
+## Property: has_TechnologyMitigation
+
+* [Urban Solid Waste Management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_500.md)
+

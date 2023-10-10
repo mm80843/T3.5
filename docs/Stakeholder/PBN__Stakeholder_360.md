@@ -6,3 +6,7 @@
 
 * [Q6038654](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6038654.md)
 
+## Property: has_BenefitForPeople
+
+* [Improved wellbeing economy](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_904.md)
+

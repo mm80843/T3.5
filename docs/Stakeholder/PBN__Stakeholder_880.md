@@ -2,7 +2,7 @@
 
 # Stakeholder: __marginalized groups__ (PBN__Stakeholder_880)
 
-## Property: has_RiskSubject
+## Property: has_SubjectRisk
 
 * [Social inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_858.md)
 * [Digital exclusion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1369.md)

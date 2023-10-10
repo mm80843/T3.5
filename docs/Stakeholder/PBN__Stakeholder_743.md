@@ -2,7 +2,7 @@
 
 # Stakeholder: __individuals in environments where uv light disinfection is employed__ (PBN__Stakeholder_743)
 
-## Property: has_RiskSubject
+## Property: has_SubjectRisk
 
 * [Comparability of far-UVC light with conventional germicidal UV light](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1230.md)
 

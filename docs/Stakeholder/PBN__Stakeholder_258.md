@@ -2,3 +2,7 @@
 
 # Stakeholder: __temporary migrants)__ (PBN__Stakeholder_258)
 
+## Property: has_BenefitForPeople
+
+* [Reduced poverty and inequality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_629.md)
+

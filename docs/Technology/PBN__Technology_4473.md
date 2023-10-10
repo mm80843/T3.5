@@ -2,3 +2,7 @@
 
 # Technology: __mrna__ (PBN__Technology_4473)
 
+## Property: has_TechnologyMitigation
+
+* [Vaccine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2397.md)
+

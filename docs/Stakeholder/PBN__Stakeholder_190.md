@@ -6,3 +6,7 @@
 
 * [Q334401](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q334401.md)
 
+## Property: has_BenefitForPeople
+
+* [Contactless identification](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_402.md)
+

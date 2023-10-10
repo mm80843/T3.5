@@ -2,3 +2,7 @@
 
 # Technology: __investments in water and sanitation systems__ (PBN__Technology_3286)
 
+## Property: has_TechnologyMitigation
+
+* [Improvement of Sanitary Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_528.md)
+

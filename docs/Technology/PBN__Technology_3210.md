@@ -2,3 +2,7 @@
 
 # Technology: __new material composites__ (PBN__Technology_3210)
 
+## Property: has_TechnologyMitigation
+
+* [Opportunities for new materials for performative insulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_419.md)
+

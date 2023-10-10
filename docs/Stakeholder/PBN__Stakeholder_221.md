@@ -6,7 +6,11 @@
 
 * [Supply chain disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_10.md)
 
-## Property: has_RiskSubject
+## Property: has_StakeholderSubgroup
+
+* [nan](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_7.md)
+
+## Property: has_SubjectRisk
 
 * [Supply chain disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_10.md)
 * [Inadequate ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_713.md)
@@ -24,15 +28,23 @@
 * [Poor lighting conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2251.md)
 * [Excessive noise levels](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2252.md)
 
-## Property: has_StakeholderGroup
-
-* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
-
-## Property: has_StakeholderSubgroup
-
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_7.md)
-
 ## Property: has_StakeholderID
 
 * [Q2979031](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2979031.md)
+
+## Property: has_BenefitForPeople
+
+* [Indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_525.md)
+* [Risk reduction](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_474.md)
+* [Health and safety](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_524.md)
+* [Enhanced communication](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_710.md)
+* [Consistent messaging](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_796.md)
+* [Improved readability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_797.md)
+* [Brand image reinforcement](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_798.md)
+* [Attract attention](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_799.md)
+* [Enhanced safety](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_914.md)
+
+## Property: has_StakeholderGroup
+
+* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
 

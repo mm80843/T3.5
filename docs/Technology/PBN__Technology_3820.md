@@ -2,3 +2,7 @@
 
 # Technology: __germicidal ultraviolet (guv)__ (PBN__Technology_3820)
 
+## Property: has_TechnologyMitigation
+
+* [Air cleaning devices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1363.md)
+

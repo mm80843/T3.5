@@ -6,3 +6,8 @@
 
 * [Q1824206](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1824206.md)
 
+## Property: has_BenefitForPeople
+
+* [Improved decision-making and preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_20.md)
+* [Enhanced supply chain performance and risk management](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_22.md)
+

@@ -2,6 +2,10 @@
 
 # Technology: __regular system security updates__ (PBN__Technology_1305)
 
+## Property: has_TechnologyRisk
+
+* [Cybersecurity threats](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1910.md)
+
 ## Property: has_TechnologyID
 
 * [Q1497831](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1497831.md)

@@ -14,3 +14,9 @@
 * [Inequalities in smart city development](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2099.md)
 * [Socioeconomic inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2344.md)
 
+## Property: has_BenefitForPeople
+
+* [Cost savings through coating existing parts](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_78.md)
+* [Early detection of outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_166.md)
+* [Public health monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_168.md)
+

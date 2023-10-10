@@ -2,19 +2,23 @@
 
 # Stakeholder: __socially disadvantaged groups__ (PBN__Stakeholder_199)
 
-## Property: has_RiskSubject
-
-* [Urban heat island effect and heat waves](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1968.md)
-
-## Property: has_StakeholderGroup
-
-* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Vulnerable Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_82.md)
 
+## Property: has_SubjectRisk
+
+* [Urban heat island effect and heat waves](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1968.md)
+
 ## Property: has_StakeholderID
 
 * [Q106394435](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q106394435.md)
+
+## Property: has_BenefitForPeople
+
+* [Improved social and spatial justice](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_418.md)
+
+## Property: has_StakeholderGroup
+
+* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
 

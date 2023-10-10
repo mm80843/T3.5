@@ -2,6 +2,10 @@
 
 # Technology: __economic policies__ (PBN__Technology_806)
 
+## Property: has_TechnologyRisk
+
+* [Economic and social disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1522.md)
+
 ## Property: has_TechnologyID
 
 * [Q582577](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q582577.md)

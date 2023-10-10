@@ -2,6 +2,11 @@
 
 # Technology: __fact-checking platforms__ (PBN__Technology_892)
 
+## Property: has_TechnologyRisk
+
+* [Disinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1272.md)
+* [Politicization of public health measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1586.md)
+
 ## Property: has_TechnologyID
 
 * [Q59555084](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q59555084.md)

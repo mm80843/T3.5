@@ -2,3 +2,7 @@
 
 # Technology: __standardized approaches__ (PBN__Technology_3374)
 
+## Property: has_TechnologyMitigation
+
+* [Considering additional variables](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_658.md)
+

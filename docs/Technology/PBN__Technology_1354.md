@@ -2,6 +2,10 @@
 
 # Technology: __automated windows__ (PBN__Technology_1354)
 
+## Property: has_TechnologyRisk
+
+* [Inadequate ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_713.md)
+
 ## Property: has_TechnologyID
 
 * [Q787116](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q787116.md)

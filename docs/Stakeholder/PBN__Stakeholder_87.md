@@ -6,3 +6,7 @@
 
 * [Q294217](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q294217.md)
 
+## Property: has_BenefitForPeople
+
+* [Sustainable funding](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_148.md)
+

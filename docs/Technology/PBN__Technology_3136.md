@@ -2,3 +2,7 @@
 
 # Technology: __record-keeping__ (PBN__Technology_3136)
 
+## Property: has_TechnologyMitigation
+
+* [Exposure Response Plan](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_299.md)
+

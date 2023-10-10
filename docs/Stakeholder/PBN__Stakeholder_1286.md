@@ -6,10 +6,6 @@
 
 * [Distress from exposure to pandemic-related news](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1902.md)
 
-## Property: has_StakeholderGroup
-
-* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [nan](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_7.md)
@@ -17,4 +13,8 @@
 ## Property: has_StakeholderID
 
 * [Q11492760](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q11492760.md)
+
+## Property: has_StakeholderGroup
+
+* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
 

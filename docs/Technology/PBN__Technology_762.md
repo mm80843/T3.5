@@ -2,6 +2,10 @@
 
 # Technology: __cold-spray technique to deposit copper coatings__ (PBN__Technology_762)
 
+## Property: has_TechnologyRisk
+
+* [Inadequate antibacterial and antiviral properties of stainless steel surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1494.md)
+
 ## Property: has_TechnologyID
 
 * [Q1683415](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1683415.md)

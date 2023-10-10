@@ -2,6 +2,10 @@
 
 # Technology: __financial instruments for price hedging__ (PBN__Technology_928)
 
+## Property: has_TechnologyRisk
+
+* [Price volatility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1608.md)
+
 ## Property: has_TechnologyID
 
 * [Q247506](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q247506.md)

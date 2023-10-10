@@ -2,3 +2,7 @@
 
 # Technology: __mechanical ventilation system__ (PBN__Technology_4036)
 
+## Property: has_TechnologyMitigation
+
+* [Ventilation System](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1732.md)
+

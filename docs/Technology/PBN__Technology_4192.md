@@ -2,3 +2,7 @@
 
 # Technology: __compartmentalized ventilation__ (PBN__Technology_4192)
 
+## Property: has_TechnologyMitigation
+
+* [Adaptation of healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2005.md)
+

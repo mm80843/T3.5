@@ -2,6 +2,10 @@
 
 # Technology: __community engagement strategies__ (PBN__Technology_438)
 
+## Property: has_TechnologyRisk
+
+* [Lack of communication and transparency](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1297.md)
+
 ## Property: has_TechnologyID
 
 * [Q5154950](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5154950.md)

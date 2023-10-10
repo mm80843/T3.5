@@ -2,3 +2,7 @@
 
 # Technology: __analytical tools__ (PBN__Technology_4143)
 
+## Property: has_TechnologyMitigation
+
+* [Monitoring of Pharmaceuticals and Metabolites](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1924.md)
+

@@ -2,6 +2,10 @@
 
 # Technology: __mental health assessments__ (PBN__Technology_599)
 
+## Property: has_TechnologyRisk
+
+* [Neglected mental health impacts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1380.md)
+
 ## Property: has_TechnologyID
 
 * [Q3510807](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3510807.md)

@@ -2,6 +2,10 @@
 
 # Technology: __glare control devices__ (PBN__Technology_189)
 
+## Property: has_TechnologyRisk
+
+* [Inadequate Lighting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1119.md)
+
 ## Property: has_TechnologyID
 
 * [Q72759](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q72759.md)

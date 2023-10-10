@@ -2,3 +2,7 @@
 
 # Technology: __layers__ (PBN__Technology_3717)
 
+## Property: has_TechnologyMitigation
+
+* [Green roofs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1187.md)
+

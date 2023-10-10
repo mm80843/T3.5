@@ -6,11 +6,11 @@
 
 * [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_8.md)
 
-## Property: has_TechnologyID
-
-* [Q736777](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q736777.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Energy and Resource Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_118.md)
+
+## Property: has_TechnologyID
+
+* [Q736777](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q736777.md)
 

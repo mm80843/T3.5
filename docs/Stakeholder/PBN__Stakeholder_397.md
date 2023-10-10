@@ -2,3 +2,7 @@
 
 # Stakeholder: __public health sector/government__ (PBN__Stakeholder_397)
 
+## Property: has_BenefitForPeople
+
+* [Early detection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_0.md)
+

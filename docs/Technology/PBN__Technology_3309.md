@@ -2,3 +2,7 @@
 
 # Technology: __disease registries__ (PBN__Technology_3309)
 
+## Property: has_TechnologyMitigation
+
+* [Real-world evidence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_561.md)
+

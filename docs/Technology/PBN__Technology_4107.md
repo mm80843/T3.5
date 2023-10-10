@@ -2,3 +2,7 @@
 
 # Technology: __ppe supply__ (PBN__Technology_4107)
 
+## Property: has_TechnologyMitigation
+
+* [Providing personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1851.md)
+

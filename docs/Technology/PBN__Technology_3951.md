@@ -2,3 +2,7 @@
 
 # Technology: __predictive modeling__ (PBN__Technology_3951)
 
+## Property: has_TechnologyMitigation
+
+* [Local lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1619.md)
+

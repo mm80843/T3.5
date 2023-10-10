@@ -2,3 +2,7 @@
 
 # Technology: __intelligence analysis__ (PBN__Technology_4316)
 
+## Property: has_TechnologyMitigation
+
+* [Intelligence Services Integration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2189.md)
+

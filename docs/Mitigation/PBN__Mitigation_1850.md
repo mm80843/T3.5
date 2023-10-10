@@ -2,19 +2,19 @@
 
 # Mitigation: __Social distancing in workplace design__ (PBN__Mitigation_1850)
 
-## Property: has_MitigationSource
-
-* [sarvari_global_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_27.md)
-
 ## Property: has_MitigationRisk
 
 * [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 
-## Property: has_MitigationTechnology
-
-* [workplace design guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4106.md)
-
 ## Property: has_MitigationPrinciple
 
 Incorporating social distancing principles in workplace design and process reengineering to minimize close contact and reduce the risk of transmission in workplaces.
+
+## Property: has_MitigationSource
+
+* [sarvari_global_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_27.md)
+
+## Property: has_MitigationTechnology
+
+* [workplace design guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4106.md)
 

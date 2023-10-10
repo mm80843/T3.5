@@ -2,3 +2,7 @@
 
 # Technology: __pedestrian sensors__ (PBN__Technology_3536)
 
+## Property: has_TechnologyMitigation
+
+* [Reduction in Pedestrian Flow](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_910.md)
+

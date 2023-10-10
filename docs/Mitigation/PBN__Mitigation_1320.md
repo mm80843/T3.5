@@ -2,20 +2,20 @@
 
 # Mitigation: __Contact Tracing Applications__ (PBN__Mitigation_1320)
 
-## Property: has_MitigationSource
-
-* [mehta_pandemic_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_106.md)
-
 ## Property: has_MitigationRisk
 
 * [Privacy and Security of Data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3018.md)
+
+## Property: has_MitigationPrinciple
+
+Utilizes location and proximity data to identify potential exposure to the virus and enable early detection and isolation of infected individuals.
+
+## Property: has_MitigationSource
+
+* [mehta_pandemic_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_106.md)
 
 ## Property: has_MitigationTechnology
 
 * [mobile apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3470.md)
 * [location and bluetooth data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3791.md)
-
-## Property: has_MitigationPrinciple
-
-Utilizes location and proximity data to identify potential exposure to the virus and enable early detection and isolation of infected individuals.
 

@@ -2,13 +2,9 @@
 
 # Article: __king_mechanisms_2021__ (PBN__Article_115)
 
-## Property: has_ArticleYear
+## Property: has_ArticleTitle
 
-2021
-
-## Property: has_ArticleLLMSummary
-
-The construction industry in Malaysia is having a tough time because of the COVID-19 pandemic. Many construction projects had to stop and workers had to stay at home because of the virus. This has caused the industry to lose a lot of money and many projects may have to be cancelled. The government has tried to help by giving financial aid, but it hasn't been enough. Contractors are also facing problems with managing their workers and following the new rules for safety. The government needs to do more to help the industry recover and get back on track.
+Mechanisms for addressing the impact of COVID-19 on infrastructure projects
 
 ## Property: has_BenefInArticle
 
@@ -22,9 +18,13 @@ The construction industry in Malaysia is having a tough time because of the COVI
 * [Revision of contract](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_574.md)
 * [Extension of Time (EOT) entitlements](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_575.md)
 
-## Property: has_ArticleTitle
+## Property: has_ArticleLLMSummary
 
-Mechanisms for addressing the impact of COVID-19 on infrastructure projects
+The construction industry in Malaysia is having a tough time because of the COVID-19 pandemic. Many construction projects had to stop and workers had to stay at home because of the virus. This has caused the industry to lose a lot of money and many projects may have to be cancelled. The government has tried to help by giving financial aid, but it hasn't been enough. Contractors are also facing problems with managing their workers and following the new rules for safety. The government needs to do more to help the industry recover and get back on track.
+
+## Property: has_ArticleLLMShortSummary
+
+This research study investigates the impact of COVID-19 on the construction industry in Malaysia and identifies the problems faced by contractors in infrastructure projects and potential solutions from their perspective. The study found that the construction industry suffered significant financial losses due to the suspension of project operations, disruption of supply chains, and workforce shortages caused by the pandemic. Contractors faced difficulties with cost management, including increased costs due to extended project periods and compliance with new standard operating procedures. They also encountered challenges in managing their workforce and ensuring clear guidelines for SOP compliance. Proposed solutions from the contractors included revising contracts to address loss claims, providing financial aids to support the industry, ensuring a stable economy, and addressing supply chain disruptions and labor shortages. The findings of this study provide insights for the government to implement more effective strategies to support contractors and promote industry recovery.
 
 ## Property: has_RiskInArticle
 
@@ -34,15 +34,30 @@ Mechanisms for addressing the impact of COVID-19 on infrastructure projects
 * [Management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1581.md)
 * [Environmental](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1582.md)
 
-## Property: has_ArticleDOI
+## Property: has_ArticleYear
 
-10.1088/1755-1315/682/1/012047
+2021
 
 ## Property: has_ArticleRef
 
 * [gamil_impact_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_168.md)
 
-## Property: has_ArticleLLMShortSummary
+## Property: has_ArticleDOI
 
-This research study investigates the impact of COVID-19 on the construction industry in Malaysia and identifies the problems faced by contractors in infrastructure projects and potential solutions from their perspective. The study found that the construction industry suffered significant financial losses due to the suspension of project operations, disruption of supply chains, and workforce shortages caused by the pandemic. Contractors faced difficulties with cost management, including increased costs due to extended project periods and compliance with new standard operating procedures. They also encountered challenges in managing their workforce and ensuring clear guidelines for SOP compliance. Proposed solutions from the contractors included revising contracts to address loss claims, providing financial aids to support the industry, ensuring a stable economy, and addressing supply chain disruptions and labor shortages. The findings of this study provide insights for the government to implement more effective strategies to support contractors and promote industry recovery.
+10.1088/1755-1315/682/1/012047
+
+## Property: has_SourceMitigation
+
+* [Control and stop virus outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_992.md)
+* [Financial support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_128.md)
+* [Promote economic stability](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_993.md)
+* [SOP compliance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_983.md)
+* [Extension of Time (EOT)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_984.md)
+* [Clear SOP guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_985.md)
+* [Increase spending on development](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_986.md)
+* [Ensure labor supply](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_987.md)
+* [Resume material supply chain](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_988.md)
+* [Clear contractual arrangements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_989.md)
+* [Provide financial aids](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_990.md)
+* [Efficient workforce management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_991.md)
 

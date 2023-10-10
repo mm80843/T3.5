@@ -2,3 +2,7 @@
 
 # Technology: __copper__ (PBN__Technology_4272)
 
+## Property: has_TechnologyMitigation
+
+* [Antimicrobial materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1855.md)
+

@@ -2,20 +2,20 @@
 
 # Benef: __Reliability in supply chain__ (PBN__Benef_1058)
 
+## Property: has_BenefDetails
+
+Blockchain technology ensures reliability in the supply chain, reducing losses in supply and demand
+
 ## Property: has_Beneficiary
 
-* [healthcare industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_423.md)
 * [businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_147.md)
-
-## Property: has_BenefSource
-
-* [sharma_blockchain_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_219.md)
+* [healthcare industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_423.md)
 
 ## Property: has_BenefReturn
 
 * [Private investors investing in blockchain-based supply chain management would benefit from improved reliability, enhancing the value of their investment.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1179.md)
 
-## Property: has_BenefDetails
+## Property: has_BenefSource
 
-Blockchain technology ensures reliability in the supply chain, reducing losses in supply and demand
+* [sharma_blockchain_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_219.md)
 

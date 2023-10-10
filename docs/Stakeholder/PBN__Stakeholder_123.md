@@ -2,3 +2,7 @@
 
 # Stakeholder: __public health researchers and policymakers__ (PBN__Stakeholder_123)
 
+## Property: has_BenefitForPeople
+
+* [Improved data collection and analysis](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_215.md)
+

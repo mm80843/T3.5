@@ -2,3 +2,7 @@
 
 # Technology: __stainless steel__ (PBN__Technology_3500)
 
+## Property: has_TechnologyMitigation
+
+* [Stainless steel coupons](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_857.md)
+

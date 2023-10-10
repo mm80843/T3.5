@@ -2,6 +2,10 @@
 
 # Technology: __antigen tests__ (PBN__Technology_2028)
 
+## Property: has_TechnologyRisk
+
+* [Long turnaround time for COVID-19 testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2402.md)
+
 ## Property: has_TechnologyID
 
 * [Q66023711](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q66023711.md)

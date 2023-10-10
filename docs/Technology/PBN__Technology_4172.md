@@ -2,3 +2,7 @@
 
 # Technology: __extra light fixtures__ (PBN__Technology_4172)
 
+## Property: has_TechnologyMitigation
+
+* [Additional Lighting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1964.md)
+

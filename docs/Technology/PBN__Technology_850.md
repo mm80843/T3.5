@@ -2,6 +2,10 @@
 
 # Technology: __biocidal agents such as hydrogen peroxide__ (PBN__Technology_850)
 
+## Property: has_TechnologyRisk
+
+* [Persistence of coronavirus on inanimate surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1548.md)
+
 ## Property: has_TechnologyID
 
 * [Q171877](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q171877.md)

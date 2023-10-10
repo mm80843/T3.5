@@ -2,17 +2,13 @@
 
 # Article: __ozdamar_participation_2022__ (PBN__Article_365)
 
-## Property: has_ArticleYear
-
-2022
-
 ## Property: has_ArticleTitle
 
 The Participation of Biophilic Design in the Design of the Post-Pandemic Living Space:
 
-## Property: has_ArticleDOI
+## Property: has_ArticleYear
 
-10.4018/978-1-7998-6725-8.ch004
+2022
 
 ## Property: has_ArticleRef
 
@@ -21,4 +17,8 @@ The Participation of Biophilic Design in the Design of the Post-Pandemic Living 
 * [dietz_2019_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_288.md)
 * [ugolini_effects_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_90.md)
 * [venter_urban_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_256.md)
+
+## Property: has_ArticleDOI
+
+10.4018/978-1-7998-6725-8.ch004
 

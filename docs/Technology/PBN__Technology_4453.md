@@ -2,3 +2,7 @@
 
 # Technology: __habitat manipulation__ (PBN__Technology_4453)
 
+## Property: has_TechnologyMitigation
+
+* [Environmental management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2386.md)
+

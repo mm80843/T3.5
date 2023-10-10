@@ -2,3 +2,7 @@
 
 # Technology: __uv light fixtures__ (PBN__Technology_3361)
 
+## Property: has_TechnologyMitigation
+
+* [Upper-room UV lights](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_613.md)
+

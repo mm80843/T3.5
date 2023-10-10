@@ -2,7 +2,7 @@
 
 # Stakeholder: __commercial buildings__ (PBN__Stakeholder_672)
 
-## Property: has_RiskSubject
+## Property: has_SubjectRisk
 
 * [Inadequate ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_713.md)
 

@@ -4,14 +4,14 @@
 
 ## Property: has_StakeholderGroup
 
-* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_1.md)
 * [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_6.md)
-
-## Property: has_TechnologyID
-
-* [Q5145802](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5145802.md)
+* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_1.md)
 
 ## Property: has_StakeholderSubgroup
 
 * [Communication Technologies and Channels](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_27.md)
+
+## Property: has_TechnologyID
+
+* [Q5145802](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5145802.md)
 

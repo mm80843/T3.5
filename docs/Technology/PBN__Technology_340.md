@@ -2,3 +2,7 @@
 
 # Technology: __city governments__ (PBN__Technology_340)
 
+## Property: has_TechnologyRisk
+
+* [Inadequate public infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1239.md)
+

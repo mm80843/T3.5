@@ -2,3 +2,8 @@
 
 # Technology: __quarantine facilities or designated quarantine areas__ (PBN__Technology_3802)
 
+## Property: has_TechnologyMitigation
+
+* [Quarantine of persons in contact](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1336.md)
+* [Mandatory quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1338.md)
+

@@ -2,3 +2,7 @@
 
 # Technology: __digital rt-qpcr assay__ (PBN__Technology_4006)
 
+## Property: has_TechnologyMitigation
+
+* [Digital RT-qPCR](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1679.md)
+

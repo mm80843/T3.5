@@ -2,3 +2,7 @@
 
 # Stakeholder: __vulnerable groups (e.g. women__ (PBN__Stakeholder_263)
 
+## Property: has_BenefitForPeople
+
+* [Improved mental well-being](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_229.md)
+

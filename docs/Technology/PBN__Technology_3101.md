@@ -2,3 +2,7 @@
 
 # Technology: __polyurethane__ (PBN__Technology_3101)
 
+## Property: has_TechnologyMitigation
+
+* [Anti-SARS-CoV-2 coating](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_264.md)
+

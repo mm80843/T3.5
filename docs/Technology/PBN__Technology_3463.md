@@ -2,3 +2,9 @@
 
 # Technology: __communication__ (PBN__Technology_3463)
 
+## Property: has_TechnologyMitigation
+
+* [Support at individual level](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_804.md)
+* [Worker Education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_870.md)
+* [Emergency Plan Development](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1616.md)
+

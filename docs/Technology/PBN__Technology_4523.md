@@ -2,3 +2,7 @@
 
 # Technology: __living materials__ (PBN__Technology_4523)
 
+## Property: has_TechnologyMitigation
+
+* [Nature incorporation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2479.md)
+

@@ -2,7 +2,7 @@
 
 # Stakeholder: __online users__ (PBN__Stakeholder_882)
 
-## Property: has_RiskSubject
+## Property: has_SubjectRisk
 
 * [Misinformation and fake news](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1372.md)
 

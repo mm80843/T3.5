@@ -2,6 +2,10 @@
 
 # Technology: __crowd management measures__ (PBN__Technology_303)
 
+## Property: has_TechnologyRisk
+
+* [Inadequate public transport capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1216.md)
+
 ## Property: has_TechnologyID
 
 * [Q5189194](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5189194.md)

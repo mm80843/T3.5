@@ -2,3 +2,7 @@
 
 # Technology: __spearman-karber method__ (PBN__Technology_3499)
 
+## Property: has_TechnologyMitigation
+
+* [Spearman-Karber Method](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_856.md)
+

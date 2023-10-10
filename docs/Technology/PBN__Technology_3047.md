@@ -2,3 +2,7 @@
 
 # Technology: __natural views__ (PBN__Technology_3047)
 
+## Property: has_TechnologyMitigation
+
+* [Biophilic Design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_183.md)
+

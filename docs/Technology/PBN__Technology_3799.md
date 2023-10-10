@@ -2,3 +2,7 @@
 
 # Technology: __communication technology (e.g. internet__ (PBN__Technology_3799)
 
+## Property: has_TechnologyMitigation
+
+* [Work from home](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1333.md)
+

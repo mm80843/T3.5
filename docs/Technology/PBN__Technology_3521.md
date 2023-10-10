@@ -2,3 +2,7 @@
 
 # Technology: __unbiased sampling__ (PBN__Technology_3521)
 
+## Property: has_TechnologyMitigation
+
+* [Unbiased data collection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_889.md)
+

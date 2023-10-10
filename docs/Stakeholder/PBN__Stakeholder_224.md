@@ -2,3 +2,7 @@
 
 # Stakeholder: __students and young workers__ (PBN__Stakeholder_224)
 
+## Property: has_BenefitForPeople
+
+* [Increased educational opportunities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_529.md)
+

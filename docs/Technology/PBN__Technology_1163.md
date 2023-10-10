@@ -2,6 +2,10 @@
 
 # Technology: __funding support__ (PBN__Technology_1163)
 
+## Property: has_TechnologyRisk
+
+* [Cost](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1796.md)
+
 ## Property: has_TechnologyID
 
 * [Q6055890](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6055890.md)

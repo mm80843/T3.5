@@ -2,3 +2,7 @@
 
 # Technology: __air cleaning systems__ (PBN__Technology_4394)
 
+## Property: has_TechnologyMitigation
+
+* [Cleaning air](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2303.md)
+

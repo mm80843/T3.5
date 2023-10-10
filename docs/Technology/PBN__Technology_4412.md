@@ -2,3 +2,7 @@
 
 # Technology: __government funds and military personnel__ (PBN__Technology_4412)
 
+## Property: has_TechnologyMitigation
+
+* [Resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_886.md)
+

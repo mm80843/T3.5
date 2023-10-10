@@ -2,6 +2,18 @@
 
 # Blueprint: __PBN:BP_19__ (PBN__Blueprint_18)
 
+## Property: has_BPCapabilities
+
+A sound and comprehensive management plan to control animal vectors is as important as training for building occupants and technical staff, including pest prevention and control professionals.
+
+## Property: has_BPPhase
+
+Design & Operational
+
+## Property: has_BPType
+
+Technical & Behavioural
+
 ## Property: has_BPDemonstrated
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6964823/
@@ -10,17 +22,13 @@ https://www.epa.gov/sites/default/files/2015-11/documents/ipm_in_buildings.pdf
 
 
 
-## Property: has_BPProblem
+## Property: has_BPValueProposition
 
-Continuous control of animal vectors prevents infestations and thus reduces the risk of spreading diseases and other health risks such as severe allergic reactions or asthma attacks. In addition, the risk of property damage will be much lower.
+The implementation of IMP or other integrating measures that opt for rather non-toxic and innovative solutions will not only reduce the risk of disease spread among building occupants, but will also lead to a more sustainable and environmentally friendly transformation. Pest control will also lead to significant cost savings, as even a small infestation can lead to high investments.
 
-## Property: has_BPRestriction
+## Property: has_BPTitle
 
-The main obstacle to effective prevention and control of animal vectors is the inability or even lack of knowledge exchange between trained professionals, as well as the lack of expertise in non-traditional methods, which are still widely used in many EU countries. Furthermore, innovation in this particular sector cannot be considered rapid and there are currently not many alternatives to traditional methods. Moreover, training of personnel migh be costly and use of toxic pesticides and insecticides can harm the environment. 
-
-## Property: has_BPPhase
-
-Design & Operational
+Animal vectors control  measures
 
 ## Property: has_BPDescription
 
@@ -30,17 +38,21 @@ Animal vector control methods and technologies are central to preventing the tra
 •	 prevention
 •	 application of the lowest risk pest control methods such as trapping, eradication or local application of pesticides and insecticides if non-toxic methods have not brought the success determined by the thresholds
 
-## Property: has_BPTransmission
+## Property: has_BPRestriction
 
-Direct contact & Fomite
+The main obstacle to effective prevention and control of animal vectors is the inability or even lack of knowledge exchange between trained professionals, as well as the lack of expertise in non-traditional methods, which are still widely used in many EU countries. Furthermore, innovation in this particular sector cannot be considered rapid and there are currently not many alternatives to traditional methods. Moreover, training of personnel migh be costly and use of toxic pesticides and insecticides can harm the environment. 
+
+## Property: has_BPProblem
+
+Continuous control of animal vectors prevents infestations and thus reduces the risk of spreading diseases and other health risks such as severe allergic reactions or asthma attacks. In addition, the risk of property damage will be much lower.
 
 ## Property: has_BPReason
 
 In areas where mosquito-borne diseases are endemic (e.g. dengue fever, malaria, West Nile virus), care should be taken to reduce exposure to mosquitoes and eliminate their breeding sites within infrastructure. Climate change will extend the range of disease-carrying mosquitoes further north, so that malaria could also pose a threat in southern Europe in the coming decades. In addition, COVID -19 was the most recent example of a zoonosis spreading worldwide, but other diseases such as the Zika virus, dengue fever and SARS are also among the epidemics. According to 2016 UNEP estimates, about 75% of emerging infectious diseases originate from animals. In addition, numerous studies confirm the hypothesis that animals that choose the urban environment as their natural habitat, especially rodents, insects and birds, carry significantly greater amounts of pathogens than animals in other habitats.
 
-## Property: has_BPScale
+## Property: has_BPPermanent
 
-Both
+Permanent & Temporary
 
 ## Property: has_BPContext
 
@@ -55,23 +67,11 @@ In addition, rodents such as mice and rats can carry diseases such as hantavirus
 •	 storing food in thick plastic or metal containers with tight-fitting lids
 •	 sealing cracks or holes in external walls
 
-## Property: has_BPType
+## Property: has_BPScale
 
-Technical & Behavioural
+Both
 
-## Property: has_BPTitle
+## Property: has_BPTransmission
 
-Animal vectors control  measures
-
-## Property: has_BPCapabilities
-
-A sound and comprehensive management plan to control animal vectors is as important as training for building occupants and technical staff, including pest prevention and control professionals.
-
-## Property: has_BPPermanent
-
-Permanent & Temporary
-
-## Property: has_BPValueProposition
-
-The implementation of IMP or other integrating measures that opt for rather non-toxic and innovative solutions will not only reduce the risk of disease spread among building occupants, but will also lead to a more sustainable and environmentally friendly transformation. Pest control will also lead to significant cost savings, as even a small infestation can lead to high investments.
+Direct contact & Fomite
 

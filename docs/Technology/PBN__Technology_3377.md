@@ -2,3 +2,7 @@
 
 # Technology: __symptom monitoring__ (PBN__Technology_3377)
 
+## Property: has_TechnologyMitigation
+
+* [Case-based measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_673.md)
+

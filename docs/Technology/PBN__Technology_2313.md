@@ -6,11 +6,11 @@
 
 * [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
 
-## Property: has_TechnologyID
-
-* [Q9386255](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q9386255.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [nan](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_7.md)
+
+## Property: has_TechnologyID
+
+* [Q9386255](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q9386255.md)
 

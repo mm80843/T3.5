@@ -2,6 +2,10 @@
 
 # Technology: __local sourcing networks__ (PBN__Technology_1693)
 
+## Property: has_TechnologyRisk
+
+* [Disruption of supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1130.md)
+
 ## Property: has_TechnologyID
 
 * [Q17083947](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q17083947.md)

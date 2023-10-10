@@ -2,3 +2,7 @@
 
 # Technology: __air pollution sensors__ (PBN__Technology_3043)
 
+## Property: has_TechnologyMitigation
+
+* [Improved Indoor Air Quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_180.md)
+

@@ -2,3 +2,7 @@
 
 # Technology: __greenhouse technology__ (PBN__Technology_4012)
 
+## Property: has_TechnologyMitigation
+
+* [Urban Farming](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1691.md)
+

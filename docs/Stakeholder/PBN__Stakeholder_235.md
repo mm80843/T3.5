@@ -2,3 +2,7 @@
 
 # Stakeholder: __funeral attendees__ (PBN__Stakeholder_235)
 
+## Property: has_BenefitForPeople
+
+* [Decreased transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_43.md)
+

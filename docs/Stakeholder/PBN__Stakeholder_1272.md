@@ -2,7 +2,7 @@
 
 # Stakeholder: __areas with limited healthcare access__ (PBN__Stakeholder_1272)
 
-## Property: has_RiskSubject
+## Property: has_SubjectRisk
 
 * [Lack of Healthcare Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1881.md)
 

@@ -2,6 +2,10 @@
 
 # Technology: __verbal communication techniques__ (PBN__Technology_1814)
 
+## Property: has_TechnologyRisk
+
+* [Limited availability of non-verbal cues in telepsychiatry consultations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2241.md)
+
 ## Property: has_TechnologyID
 
 * [Q1875737](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1875737.md)

@@ -2,6 +2,10 @@
 
 # Technology: __develop waste management strategies that prioritize recycling and upcycling of construction and demolition waste__ (PBN__Technology_1198)
 
+## Property: has_TechnologyRisk
+
+* [Demolition and construction waste management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1836.md)
+
 ## Property: has_TechnologyID
 
 * [Q180388](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q180388.md)

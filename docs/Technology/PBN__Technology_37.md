@@ -2,6 +2,14 @@
 
 # Technology: __testing technologies__ (PBN__Technology_37)
 
+## Property: has_TechnologyRisk
+
+* [Travel-related transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1034.md)
+
+## Property: has_TechnologyMitigation
+
+* [Medical Technological Development](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_949.md)
+
 ## Property: has_TechnologyID
 
 * [Q188522](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q188522.md)

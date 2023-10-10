@@ -6,11 +6,11 @@
 
 * [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
 
-## Property: has_TechnologyID
-
-* [Q72759](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q72759.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Lighting and HVAC Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_78.md)
+
+## Property: has_TechnologyID
+
+* [Q72759](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q72759.md)
 

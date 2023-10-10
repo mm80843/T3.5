@@ -2,3 +2,7 @@
 
 # Stakeholder: __civilians__ (PBN__Stakeholder_542)
 
+## Property: has_BenefitForPeople
+
+* [Improved contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1392.md)
+

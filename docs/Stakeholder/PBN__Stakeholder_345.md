@@ -2,3 +2,7 @@
 
 # Stakeholder: __construction industry stakeholders__ (PBN__Stakeholder_345)
 
+## Property: has_BenefitForPeople
+
+* [Increased productivity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_368.md)
+

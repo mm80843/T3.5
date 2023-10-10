@@ -2,3 +2,7 @@
 
 # Technology: __high voltage electrodes__ (PBN__Technology_3779)
 
+## Property: has_TechnologyMitigation
+
+* [Bipolar ionization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1307.md)
+

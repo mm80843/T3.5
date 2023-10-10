@@ -2,3 +2,7 @@
 
 # Technology: __air exhaustion__ (PBN__Technology_4252)
 
+## Property: has_TechnologyMitigation
+
+* [Control the airflows in micro spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2131.md)
+

@@ -2,3 +2,7 @@
 
 # Technology: __ventilation infrastructure__ (PBN__Technology_3896)
 
+## Property: has_TechnologyMitigation
+
+* [Improved ventilation in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1509.md)
+

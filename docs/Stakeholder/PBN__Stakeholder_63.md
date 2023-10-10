@@ -2,3 +2,7 @@
 
 # Stakeholder: __public areas__ (PBN__Stakeholder_63)
 
+## Property: has_BenefitForPeople
+
+* [Efficient screening](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_102.md)
+

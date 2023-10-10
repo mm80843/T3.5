@@ -2,6 +2,10 @@
 
 # Technology: __real-time occupancy monitoring systems__ (PBN__Technology_2010)
 
+## Property: has_TechnologyRisk
+
+* [High occupant density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2395.md)
+
 ## Property: has_TechnologyID
 
 * [Q7075748](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7075748.md)

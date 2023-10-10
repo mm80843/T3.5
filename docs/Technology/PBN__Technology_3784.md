@@ -2,3 +2,7 @@
 
 # Technology: __regular physical examination__ (PBN__Technology_3784)
 
+## Property: has_TechnologyMitigation
+
+* [Maintenance and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1313.md)
+

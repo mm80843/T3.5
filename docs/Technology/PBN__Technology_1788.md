@@ -2,3 +2,7 @@
 
 # Technology: __solar chargers__ (PBN__Technology_1788)
 
+## Property: has_TechnologyRisk
+
+* [Increased energy usage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2225.md)
+

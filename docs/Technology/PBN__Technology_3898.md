@@ -2,3 +2,7 @@
 
 # Technology: __integration programs__ (PBN__Technology_3898)
 
+## Property: has_TechnologyMitigation
+
+* [Integration policies for migrant workers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1512.md)
+

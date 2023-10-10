@@ -2,3 +2,7 @@
 
 # Technology: __disaster management center__ (PBN__Technology_4410)
 
+## Property: has_TechnologyMitigation
+
+* [National Health Command Center (NHCC)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2321.md)
+

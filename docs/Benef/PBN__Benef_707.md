@@ -2,21 +2,21 @@
 
 # Benef: __No pandemic__ (PBN__Benef_707)
 
+## Property: has_BenefDetails
+
+Normal economic conditions, no infection
+
 ## Property: has_Beneficiary
 
 * [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
-* [economy](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_91.md)
 * [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
-
-## Property: has_BenefSource
-
-* [silva_covid-abs_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_139.md)
+* [economy](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_91.md)
 
 ## Property: has_BenefReturn
 
 * [Reference scenario for comparison](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_755.md)
 
-## Property: has_BenefDetails
+## Property: has_BenefSource
 
-Normal economic conditions, no infection
+* [silva_covid-abs_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_139.md)
 

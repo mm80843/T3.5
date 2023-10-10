@@ -2,3 +2,7 @@
 
 # Technology: __crowd surveillance technology__ (PBN__Technology_2921)
 
+## Property: has_TechnologyMitigation
+
+* [Strict social distancing protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_43.md)
+

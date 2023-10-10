@@ -2,22 +2,22 @@
 
 # Mitigation: __Self-Isolation__ (PBN__Mitigation_707)
 
+## Property: has_MitigationRisk
+
+* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
+* [Transmission of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2123.md)
+
+## Property: has_MitigationPrinciple
+
+Staying at home and avoiding contact with others if suspected or confirmed to have COVID-19
+
 ## Property: has_MitigationSource
 
 * [ghosh_study_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_57.md)
 * [nicola_socio-economic_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_135.md)
 * [reinwald_urban_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_83.md)
 
-## Property: has_MitigationRisk
-
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-* [Transmission of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2123.md)
-
 ## Property: has_MitigationTechnology
 
 * [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
-
-## Property: has_MitigationPrinciple
-
-Staying at home and avoiding contact with others if suspected or confirmed to have COVID-19
 

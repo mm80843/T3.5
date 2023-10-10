@@ -6,3 +6,7 @@
 
 * [Q1199349](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1199349.md)
 
+## Property: has_BenefitForPeople
+
+* [Negative performance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1281.md)
+

@@ -2,3 +2,7 @@
 
 # Technology: __4g__ (PBN__Technology_3386)
 
+## Property: has_TechnologyMitigation
+
+* [Wireless data transmission](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_694.md)
+

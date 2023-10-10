@@ -2,6 +2,10 @@
 
 # Technology: __touchless faucets__ (PBN__Technology_1481)
 
+## Property: has_TechnologyRisk
+
+* [Inadequate sanitation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1416.md)
+
 ## Property: has_TechnologyID
 
 * [Q656656](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q656656.md)

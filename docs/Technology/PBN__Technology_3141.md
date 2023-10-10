@@ -2,3 +2,7 @@
 
 # Technology: __surface sanitization__ (PBN__Technology_3141)
 
+## Property: has_TechnologyMitigation
+
+* [Hygiene and Sanitization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_301.md)
+

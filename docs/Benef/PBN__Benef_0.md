@@ -2,6 +2,10 @@
 
 # Benef: __Early detection__ (PBN__Benef_0)
 
+## Property: has_BenefDetails
+
+Early warning system for outbreaks
+
 ## Property: has_Beneficiary
 
 * [public health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_0.md)
@@ -9,14 +13,6 @@
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
 * [health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_394.md)
 * [public health sector/government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_397.md)
-
-## Property: has_BenefSource
-
-* [westhaus_detection_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_0.md)
-* [wang_response_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_24.md)
-* [wu_current_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_118.md)
-* [bayoudhi_overview_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_204.md)
-* [poch_when_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_207.md)
 
 ## Property: has_BenefReturn
 
@@ -26,7 +22,11 @@
 * [Investing in a surveillance system improves public health outcomes and reduces healthcare costs.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1093.md)
 * [Improved public health response and containment measures](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1114.md)
 
-## Property: has_BenefDetails
+## Property: has_BenefSource
 
-Early warning system for outbreaks
+* [westhaus_detection_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_0.md)
+* [wang_response_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_24.md)
+* [wu_current_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_118.md)
+* [bayoudhi_overview_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_204.md)
+* [poch_when_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_207.md)
 

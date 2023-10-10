@@ -2,6 +2,18 @@
 
 # Blueprint: __PBN:BP_23__ (PBN__Blueprint_22)
 
+## Property: has_BPCapabilities
+
+Water quality is closely monitored in Europe and North America; therefore, there are many resources for determining a reopening procedure tailored to the needs of a particular building or GBN.
+
+## Property: has_BPPhase
+
+Operational 
+
+## Property: has_BPType
+
+Technical
+
 ## Property: has_BPDemonstrated
 
 https://www.waterboards.ca.gov/drinking_water/certlic/drinkingwater/documents/rtcr/seasonal_instructions.pdf
@@ -9,17 +21,13 @@ https://www.epa.gov/sites/default/files/2020-05/documents/final_maintaining_buil
 https://www.ontario.ca/page/procedure-disinfection-drinking-water-ontario
 https://www.epa.gov/sites/default/files/2020-05/documents/final_checklist_for_maintaining_building_water_quality_5-6-2020.pdf
 
-## Property: has_BPProblem
+## Property: has_BPValueProposition
 
-Water stagnation for weeks or even months as a result of building closures can cause the growth of microbial and chemical contaminants in water and affect the quality of drinking water.
+​BP describes a general procedure to be followed before reopening a building or GBN to ensure high quality drinking water.
 
-## Property: has_BPRestriction
+## Property: has_BPTitle
 
-If thorough quality control and disinfection of the drinking water network is required, external support may be necessary.
-
-## Property: has_BPPhase
-
-Operational 
+Drinking Water Safety - Restoring water quality in buildings after forced closure
 
 ## Property: has_BPDescription
 
@@ -33,9 +41,13 @@ This BP describes a general procedure for the quality of drinking water in build
 6) Depending on the results of the previous step, consider whether further disinfection or heat treatment is required.
 7) Consider informing building occupants of the condition of the water system and restricting access to water whose quality is unsafe. In this scenario, temporary on-demand water service providers may be considered.
 
-## Property: has_BPTransmission
+## Property: has_BPRestriction
 
-Water outlets (e.g. taps, showers, toilets, fountains...)
+If thorough quality control and disinfection of the drinking water network is required, external support may be necessary.
+
+## Property: has_BPProblem
+
+Water stagnation for weeks or even months as a result of building closures can cause the growth of microbial and chemical contaminants in water and affect the quality of drinking water.
 
 ## Property: has_BPReason
 
@@ -43,31 +55,19 @@ Safe drinking water infrastructure is essential for the proper operation of buil
 To address this potential problem, authorities recommend that building owners and managers take proactive measures to minimise water stagnation during forced closure periods and take steps to improve the building's water quality before reopening. Maintaining water quality helps to ensure that more complex remediation is not required prior to reopening.
 In most cases, this problem can be solved by implementing procedures to flush and disinfect the building's sanitary facilities before reopening.
 
-## Property: has_BPScale
+## Property: has_BPPermanent
 
-Both
+Temporary
 
 ## Property: has_BPContext
 
 This measure is to be implemented in all GBN buildings that have been closed for a longer period of time or are used seasonally.
 
-## Property: has_BPType
+## Property: has_BPScale
 
-Technical
+Both
 
-## Property: has_BPTitle
+## Property: has_BPTransmission
 
-Drinking Water Safety - Restoring water quality in buildings after forced closure
-
-## Property: has_BPCapabilities
-
-Water quality is closely monitored in Europe and North America; therefore, there are many resources for determining a reopening procedure tailored to the needs of a particular building or GBN.
-
-## Property: has_BPPermanent
-
-Temporary
-
-## Property: has_BPValueProposition
-
-​BP describes a general procedure to be followed before reopening a building or GBN to ensure high quality drinking water.
+Water outlets (e.g. taps, showers, toilets, fountains...)
 

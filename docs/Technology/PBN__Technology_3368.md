@@ -2,3 +2,7 @@
 
 # Technology: __collaboration platforms and emerging technologies__ (PBN__Technology_3368)
 
+## Property: has_TechnologyMitigation
+
+* [Hackathon](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_624.md)
+

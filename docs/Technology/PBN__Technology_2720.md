@@ -6,11 +6,11 @@
 
 * [Urban technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_14.md)
 
-## Property: has_TechnologyID
-
-* [Q4787070](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4787070.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Urban Planning and Green Spaces](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_85.md)
+
+## Property: has_TechnologyID
+
+* [Q4787070](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4787070.md)
 

@@ -2,3 +2,7 @@
 
 # Technology: __surgical techniques__ (PBN__Technology_3336)
 
+## Property: has_TechnologyMitigation
+
+* [Cytoreduction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_593.md)
+

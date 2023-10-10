@@ -2,3 +2,7 @@
 
 # Technology: __access to natural light__ (PBN__Technology_3441)
 
+## Property: has_TechnologyMitigation
+
+* [Exposure to sunlight](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_477.md)
+

@@ -2,6 +2,10 @@
 
 # Technology: __improvements in logistics__ (PBN__Technology_1631)
 
+## Property: has_TechnologyRisk
+
+* [Disruptions to global and national supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2125.md)
+
 ## Property: has_TechnologyID
 
 * [Q177777](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q177777.md)

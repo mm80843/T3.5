@@ -2,20 +2,20 @@
 
 # Benef: __Early detection of carriers__ (PBN__Benef_1400)
 
+## Property: has_BenefDetails
+
+AI-powered diagnosis applications can combine symptoms, wearable data, and travel history to identify carriers early on, enabling prompt isolation and treatment.
+
 ## Property: has_Beneficiary
 
-* [healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_32.md)
 * [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
-
-## Property: has_BenefSource
-
-* [arpaci_leveraging_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_297.md)
+* [healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_32.md)
 
 ## Property: has_BenefReturn
 
 * [Improved treatment success rates, reduced risk of virus transmission](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1589.md)
 
-## Property: has_BenefDetails
+## Property: has_BenefSource
 
-AI-powered diagnosis applications can combine symptoms, wearable data, and travel history to identify carriers early on, enabling prompt isolation and treatment.
+* [arpaci_leveraging_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_297.md)
 

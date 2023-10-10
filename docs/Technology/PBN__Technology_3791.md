@@ -2,3 +2,7 @@
 
 # Technology: __location and bluetooth data__ (PBN__Technology_3791)
 
+## Property: has_TechnologyMitigation
+
+* [Contact Tracing Applications](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1320.md)
+

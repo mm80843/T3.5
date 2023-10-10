@@ -2,7 +2,7 @@
 
 # Stakeholder: __general population in urban areas__ (PBN__Stakeholder_571)
 
-## Property: has_RiskSubject
+## Property: has_SubjectRisk
 
 * [Deprioritization of green space in urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1043.md)
 

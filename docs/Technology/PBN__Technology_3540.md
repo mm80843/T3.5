@@ -2,3 +2,7 @@
 
 # Technology: __data integration technology__ (PBN__Technology_3540)
 
+## Property: has_TechnologyMitigation
+
+* [Data Integration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_915.md)
+

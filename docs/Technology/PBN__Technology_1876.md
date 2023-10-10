@@ -2,6 +2,10 @@
 
 # Technology: __platforms and virtual__ (PBN__Technology_1876)
 
+## Property: has_TechnologyRisk
+
+* [mobility on mental](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2292.md)
+
 ## Property: has_TechnologyID
 
 * [Q582151](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q582151.md)

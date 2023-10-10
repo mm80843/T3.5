@@ -7,12 +7,12 @@
 * [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_6.md)
 * [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_15.md)
 
-## Property: has_TechnologyID
-
-* [Q170065](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q170065.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Technology and Materials for Protection](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_71.md)
 * [Risk Detection and Early Response Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_154.md)
+
+## Property: has_TechnologyID
+
+* [Q170065](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q170065.md)
 

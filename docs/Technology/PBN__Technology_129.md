@@ -2,6 +2,10 @@
 
 # Technology: __virtual payment systems__ (PBN__Technology_129)
 
+## Property: has_TechnologyRisk
+
+* [Financial instability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1082.md)
+
 ## Property: has_TechnologyID
 
 * [Q986008](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q986008.md)

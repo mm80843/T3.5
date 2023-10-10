@@ -6,3 +6,8 @@
 
 * [Q43229](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q43229.md)
 
+## Property: has_BenefitForPeople
+
+* [Financial stability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_567.md)
+* [Regulatory compliance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_717.md)
+

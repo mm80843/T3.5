@@ -2,3 +2,7 @@
 
 # Technology: __partitioning materials__ (PBN__Technology_3659)
 
+## Property: has_TechnologyMitigation
+
+* [Partitioning to make anterooms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1109.md)
+

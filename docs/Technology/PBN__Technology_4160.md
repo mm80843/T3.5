@@ -2,3 +2,7 @@
 
 # Technology: __public awareness__ (PBN__Technology_4160)
 
+## Property: has_TechnologyMitigation
+
+* [Societal issues and the human factor](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1953.md)
+

@@ -2,6 +2,10 @@
 
 # Technology: __transnational governance mechanisms and cooperative agreements__ (PBN__Technology_736)
 
+## Property: has_TechnologyRisk
+
+* [Disruption of global settlement system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1468.md)
+
 ## Property: has_TechnologyID
 
 * [Q161726](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q161726.md)

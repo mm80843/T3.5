@@ -2,7 +2,11 @@
 
 # Stakeholder: __construction workers__ (PBN__Stakeholder_197)
 
-## Property: has_RiskSubject
+## Property: has_StakeholderSubgroup
+
+* [Real Estate and Construction](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_31.md)
+
+## Property: has_SubjectRisk
 
 * [Social distancing challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_307.md)
 * [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_332.md)
@@ -30,12 +34,22 @@
 * [Lack of hygiene and cleanliness protocols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2048.md)
 * [Financial crisis](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2067.md)
 
+## Property: has_BenefitForPeople
+
+* [Reduced virus spread](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_248.md)
+* [Improved worker safety](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_412.md)
+* [Enhanced hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_413.md)
+* [Improved knowledge and compliance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_414.md)
+* [Early detection and prevention](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_415.md)
+* [Workers’ safety and health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_678.md)
+* [Improved productivity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_784.md)
+* [Improved worker well-being](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_787.md)
+* [Worker safety](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1014.md)
+* [Opportunity for unique projects](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1272.md)
+* [Positive environmental impacts](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1274.md)
+
 ## Property: has_StakeholderGroup
 
-* [Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_2.md)
 * [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
-
-## Property: has_StakeholderSubgroup
-
-* [Real Estate and Construction](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_31.md)
+* [Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_2.md)
 

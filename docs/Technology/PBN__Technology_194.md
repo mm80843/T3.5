@@ -2,6 +2,10 @@
 
 # Technology: __adaptive hvac systems__ (PBN__Technology_194)
 
+## Property: has_TechnologyRisk
+
+* [Inadequate Thermal Comfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1122.md)
+
 ## Property: has_TechnologyID
 
 * [Q1601541](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1601541.md)

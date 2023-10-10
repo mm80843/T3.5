@@ -2,7 +2,7 @@
 
 # Stakeholder: __people living in substandard housing__ (PBN__Stakeholder_713)
 
-## Property: has_RiskSubject
+## Property: has_SubjectRisk
 
 * [Housing Conditions and Health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1185.md)
 

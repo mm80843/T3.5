@@ -2,3 +2,7 @@
 
 # Technology: __community care centers__ (PBN__Technology_3415)
 
+## Property: has_TechnologyMitigation
+
+* [Care infrastructures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_735.md)
+

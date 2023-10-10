@@ -2,3 +2,7 @@
 
 # Technology: __eco-active materials__ (PBN__Technology_3274)
 
+## Property: has_TechnologyMitigation
+
+* [Indoor building and finishing materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_502.md)
+

@@ -2,3 +2,7 @@
 
 # Technology: __twitter)__ (PBN__Technology_4231)
 
+## Property: has_TechnologyMitigation
+
+* [Public health education through social media](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2112.md)
+

@@ -2,3 +2,7 @@
 
 # Technology: __availability of green spaces__ (PBN__Technology_3610)
 
+## Property: has_TechnologyMitigation
+
+* [Nature-based Activities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1064.md)
+

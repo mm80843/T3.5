@@ -2,6 +2,10 @@
 
 # Technology: __data analysis and modeling techniques__ (PBN__Technology_299)
 
+## Property: has_TechnologyRisk
+
+* [Lack of availability of mobility data for most cities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1214.md)
+
 ## Property: has_TechnologyID
 
 * [Q367664](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q367664.md)

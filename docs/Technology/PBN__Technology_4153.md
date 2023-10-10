@@ -2,3 +2,7 @@
 
 # Technology: __mmtc__ (PBN__Technology_4153)
 
+## Property: has_TechnologyMitigation
+
+* [Self-isolation and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1948.md)
+

@@ -2,3 +2,7 @@
 
 # Technology: __online survey technology__ (PBN__Technology_3725)
 
+## Property: has_TechnologyMitigation
+
+* [Data collection through online survey](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1194.md)
+

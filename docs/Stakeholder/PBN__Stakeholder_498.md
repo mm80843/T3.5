@@ -2,3 +2,7 @@
 
 # Stakeholder: __users of reusable masks and shields__ (PBN__Stakeholder_498)
 
+## Property: has_BenefitForPeople
+
+* [Low cost and recyclability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1264.md)
+

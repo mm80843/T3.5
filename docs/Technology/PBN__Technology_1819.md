@@ -2,6 +2,10 @@
 
 # Technology: __web-based platforms__ (PBN__Technology_1819)
 
+## Property: has_TechnologyRisk
+
+* [Restriction in delivery capability for PFA interventions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2244.md)
+
 ## Property: has_TechnologyID
 
 * [Q271680](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q271680.md)

@@ -2,3 +2,8 @@
 
 # Technology: __rstudio shiny framework__ (PBN__Technology_4477)
 
+## Property: has_TechnologyMitigation
+
+* [Forecasting module](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2406.md)
+* [Interactive web apps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2407.md)
+

@@ -6,3 +6,7 @@
 
 * [Q6664344](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6664344.md)
 
+## Property: has_BenefitForPeople
+
+* [Enhanced economic stability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1323.md)
+

@@ -2,3 +2,7 @@
 
 # Technology: __topical repellents__ (PBN__Technology_4458)
 
+## Property: has_TechnologyMitigation
+
+* [Topical repellents](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2391.md)
+

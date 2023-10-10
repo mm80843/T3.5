@@ -18,3 +18,10 @@
 * [Increased habitat suitability for vectors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1847.md)
 * [Urban heat island effect](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1850.md)
 
+## Property: has_BenefitForPeople
+
+* [Natural greywater treatment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1255.md)
+* [Mitigation of urban heat island effect](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1256.md)
+* [Improved air quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_192.md)
+* [Reduced noise pollution](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1257.md)
+

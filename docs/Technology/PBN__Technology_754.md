@@ -2,6 +2,10 @@
 
 # Technology: __telemedicine and mobile health clinics__ (PBN__Technology_754)
 
+## Property: has_TechnologyRisk
+
+* [Inadequate healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1488.md)
+
 ## Property: has_TechnologyID
 
 * [Q46994](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q46994.md)

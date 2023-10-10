@@ -2,3 +2,7 @@
 
 # Technology: __social and mental health services__ (PBN__Technology_3942)
 
+## Property: has_TechnologyMitigation
+
+* [Psychosocial support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1602.md)
+

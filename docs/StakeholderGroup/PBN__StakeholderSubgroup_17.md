@@ -2,3 +2,7 @@
 
 # StakeholderGroup: __Learners__ (PBN__StakeholderSubgroup_17)
 
+## Property: has_SubgroupStakeholder
+
+* [student](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1642.md)
+

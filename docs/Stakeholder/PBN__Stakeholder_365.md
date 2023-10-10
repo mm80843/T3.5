@@ -12,3 +12,7 @@
 * [Smaller and individual internal layouts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_248.md)
 * [Lack of design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2106.md)
 
+## Property: has_BenefitForPeople
+
+* [Efficient space planning](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_916.md)
+

@@ -2,21 +2,21 @@
 
 # Benef: __Online tax assistance__ (PBN__Benef_733)
 
+## Property: has_BenefDetails
+
+Virtual tax assistance simplifies tax processes for healthcare facilities
+
 ## Property: has_Beneficiary
 
-* [taxpayers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_303.md)
 * [healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_33.md)
-
-## Property: has_BenefSource
-
-* [fariniuk_smart_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_143.md)
+* [taxpayers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_303.md)
 
 ## Property: has_BenefReturn
 
 * [Improve service efficiency and reduce burden on taxpayers](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_787.md)
 * [Streamline administrative processes and improve efficiency](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_791.md)
 
-## Property: has_BenefDetails
+## Property: has_BenefSource
 
-Virtual tax assistance simplifies tax processes for healthcare facilities
+* [fariniuk_smart_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_143.md)
 

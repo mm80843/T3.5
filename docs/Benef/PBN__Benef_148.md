@@ -2,22 +2,22 @@
 
 # Benef: __Sustainable funding__ (PBN__Benef_148)
 
+## Property: has_BenefDetails
+
+Continued financial support for PCAs through domestic budgets to ensure effective conservation
+
 ## Property: has_Beneficiary
 
+* [national governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_51.md)
 * [pcas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_84.md)
 * [local communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_85.md)
-* [national governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_51.md)
 * [public sector](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_87.md)
-
-## Property: has_BenefSource
-
-* [cumming_building_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_33.md)
 
 ## Property: has_BenefReturn
 
 * [Continued funding and stability for PCAs, conservation of biodiversity and ecosystems](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_149.md)
 
-## Property: has_BenefDetails
+## Property: has_BenefSource
 
-Continued financial support for PCAs through domestic budgets to ensure effective conservation
+* [cumming_building_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_33.md)
 

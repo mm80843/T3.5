@@ -2,3 +2,7 @@
 
 # Technology: __tempfloor panels__ (PBN__Technology_4170)
 
+## Property: has_TechnologyMitigation
+
+* [Tempfloor Panels](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1962.md)
+

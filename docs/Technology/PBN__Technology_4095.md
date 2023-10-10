@@ -2,3 +2,7 @@
 
 # Technology: __carbon reduction technologies__ (PBN__Technology_4095)
 
+## Property: has_TechnologyMitigation
+
+* [Climate change mitigation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1829.md)
+

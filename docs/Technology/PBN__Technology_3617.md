@@ -2,3 +2,7 @@
 
 # Technology: __climate-smart agriculture methods__ (PBN__Technology_3617)
 
+## Property: has_TechnologyMitigation
+
+* [Resilient agricultural practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1071.md)
+

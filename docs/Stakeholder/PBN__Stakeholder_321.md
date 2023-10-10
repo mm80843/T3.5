@@ -12,3 +12,7 @@
 * [Workforce reduction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1085.md)
 * [Safety risks for workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1086.md)
 
+## Property: has_BenefitForPeople
+
+* [Resolved disputes](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_786.md)
+

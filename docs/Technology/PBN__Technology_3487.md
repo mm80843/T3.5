@@ -2,3 +2,7 @@
 
 # Technology: __electrostatic sprayer__ (PBN__Technology_3487)
 
+## Property: has_TechnologyMitigation
+
+* [Electrostatic sprayer](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_844.md)
+

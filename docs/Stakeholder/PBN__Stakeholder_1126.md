@@ -2,7 +2,7 @@
 
 # Stakeholder: __people in indoor environments__ (PBN__Stakeholder_1126)
 
-## Property: has_RiskSubject
+## Property: has_SubjectRisk
 
 * [Indoor influenza transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1705.md)
 

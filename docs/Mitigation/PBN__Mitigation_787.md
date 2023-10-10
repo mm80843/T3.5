@@ -2,19 +2,19 @@
 
 # Mitigation: __Creating more bike lanes and pedestrianized streets__ (PBN__Mitigation_787)
 
-## Property: has_MitigationSource
-
-* [honey-roses_impact_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_261.md)
-
 ## Property: has_MitigationRisk
 
 * [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 
-## Property: has_MitigationTechnology
-
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
-
 ## Property: has_MitigationPrinciple
 
 Promote active mobility, reduce pollution, and create more space for pedestrians and cyclists
+
+## Property: has_MitigationSource
+
+* [honey-roses_impact_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_261.md)
+
+## Property: has_MitigationTechnology
+
+* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 

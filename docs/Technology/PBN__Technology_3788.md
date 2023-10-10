@@ -2,3 +2,7 @@
 
 # Technology: __facial recognition software__ (PBN__Technology_3788)
 
+## Property: has_TechnologyMitigation
+
+* [Big Data](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1317.md)
+

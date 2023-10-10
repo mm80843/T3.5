@@ -2,6 +2,10 @@
 
 # Technology: __safety awareness campaigns__ (PBN__Technology_1669)
 
+## Property: has_TechnologyRisk
+
+* [Lack of awareness about campus safety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2151.md)
+
 ## Property: has_TechnologyID
 
 * [Q70348564](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q70348564.md)

@@ -6,11 +6,11 @@
 
 * [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_3.md)
 
-## Property: has_TechnologyID
-
-* [Q2072185](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2072185.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Workforce and Resource Management Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_110.md)
+
+## Property: has_TechnologyID
+
+* [Q2072185](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2072185.md)
 

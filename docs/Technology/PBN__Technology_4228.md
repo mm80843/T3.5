@@ -2,3 +2,7 @@
 
 # Technology: __5g)__ (PBN__Technology_4228)
 
+## Property: has_TechnologyMitigation
+
+* [Telemedicine consultations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2109.md)
+

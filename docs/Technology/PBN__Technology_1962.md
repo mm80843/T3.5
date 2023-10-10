@@ -2,6 +2,10 @@
 
 # Technology: __research on potential therapeutic options__ (PBN__Technology_1962)
 
+## Property: has_TechnologyRisk
+
+* [Development of drugs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_431.md)
+
 ## Property: has_TechnologyID
 
 * [Q128406](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q128406.md)

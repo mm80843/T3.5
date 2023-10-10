@@ -2,13 +2,6 @@
 
 # Mitigation: __Enhanced cleaning__ (PBN__Mitigation_753)
 
-## Property: has_MitigationSource
-
-* [hakovirta_how_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_202.md)
-* [ibrahim_assessment_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_128.md)
-* [paikan_effects_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_134.md)
-* [rogers_city_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_7.md)
-
 ## Property: has_MitigationRisk
 
 * [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
@@ -16,15 +9,22 @@
 * [Surface contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2616.md)
 * [Spread of virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2684.md)
 
-## Property: has_MitigationTechnology
-
-* [cleaning supplies and protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3427.md)
-* [cleaning equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_363.md)
-* [disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_413.md)
-* [cleaning tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3740.md)
-* [cleaning supplies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_148.md)
-
 ## Property: has_MitigationPrinciple
 
 Maintain cleanliness and hygiene in shared spaces to reduce the risk of transmission
+
+## Property: has_MitigationSource
+
+* [hakovirta_how_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_202.md)
+* [rogers_city_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_7.md)
+* [paikan_effects_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_134.md)
+* [ibrahim_assessment_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_128.md)
+
+## Property: has_MitigationTechnology
+
+* [cleaning equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_363.md)
+* [disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_413.md)
+* [cleaning supplies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_148.md)
+* [cleaning supplies and protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3427.md)
+* [cleaning tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3740.md)
 

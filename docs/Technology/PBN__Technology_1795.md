@@ -2,6 +2,10 @@
 
 # Technology: __hazard mapping tools__ (PBN__Technology_1795)
 
+## Property: has_TechnologyRisk
+
+* [Vulnerability to natural hazards](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2229.md)
+
 ## Property: has_TechnologyID
 
 * [Q1503166](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1503166.md)

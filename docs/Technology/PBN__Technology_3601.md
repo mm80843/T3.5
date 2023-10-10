@@ -2,3 +2,7 @@
 
 # Technology: __international cooperation__ (PBN__Technology_3601)
 
+## Property: has_TechnologyMitigation
+
+* [Multi-scalar governance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1057.md)
+

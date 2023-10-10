@@ -2,3 +2,7 @@
 
 # Technology: __appraising methods__ (PBN__Technology_3342)
 
+## Property: has_TechnologyMitigation
+
+* [Synthesising the best available evidence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_602.md)
+

@@ -2,6 +2,10 @@
 
 # Technology: __social nan distancing measures__ (PBN__Technology_1869)
 
+## Property: has_TechnologyRisk
+
+* [Overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_571.md)
+
 ## Property: has_TechnologyID
 
 * [Q30314010](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q30314010.md)

@@ -6,3 +6,7 @@
 
 * [Q817245](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q817245.md)
 
+## Property: has_BenefitForPeople
+
+* [Superior performance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1279.md)
+

@@ -2,19 +2,19 @@
 
 # Stakeholder: __individuals living in close proximity to neighbours during lockdown__ (PBN__Stakeholder_1059)
 
-## Property: has_RiskSubject
-
-* [Increase in neighbour noise during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1632.md)
-
-## Property: has_StakeholderGroup
-
-* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [nan](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_7.md)
 
+## Property: has_SubjectRisk
+
+* [Increase in neighbour noise during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1632.md)
+
 ## Property: has_StakeholderID
 
 * [Q3236129](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3236129.md)
+
+## Property: has_StakeholderGroup
+
+* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
 

@@ -2,3 +2,7 @@
 
 # Technology: __eagle minimal essential media__ (PBN__Technology_3496)
 
+## Property: has_TechnologyMitigation
+
+* [Eagle Minimal Essential Media (MEM)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_853.md)
+

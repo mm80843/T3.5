@@ -2,3 +2,7 @@
 
 # Stakeholder: __persons with disabilities__ (PBN__Stakeholder_450)
 
+## Property: has_BenefitForPeople
+
+* [Protection of rights and well-being](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1138.md)
+

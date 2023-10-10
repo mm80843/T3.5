@@ -7,11 +7,11 @@
 * [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_6.md)
 * [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_15.md)
 
-## Property: has_TechnologyID
-
-* [Q50430148](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q50430148.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Diagnostic and Testing Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_12.md)
+
+## Property: has_TechnologyID
+
+* [Q50430148](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q50430148.md)
 

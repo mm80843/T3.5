@@ -2,6 +2,10 @@
 
 # Technology: __online educational resources__ (PBN__Technology_629)
 
+## Property: has_TechnologyRisk
+
+* [Lack of awareness and education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1165.md)
+
 ## Property: has_TechnologyID
 
 * [Q1348645](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1348645.md)

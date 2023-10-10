@@ -2,6 +2,10 @@
 
 # Technology: __angel investor networks__ (PBN__Technology_912)
 
+## Property: has_TechnologyRisk
+
+* [Barriers to accessing funding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_560.md)
+
 ## Property: has_TechnologyID
 
 * [Q778274](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q778274.md)

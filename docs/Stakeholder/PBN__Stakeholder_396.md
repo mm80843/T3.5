@@ -2,3 +2,7 @@
 
 # Stakeholder: __-------------------------------__ (PBN__Stakeholder_396)
 
+## Property: has_BenefitForPeople
+
+* [----------------------](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1002.md)
+

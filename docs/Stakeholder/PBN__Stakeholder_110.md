@@ -2,7 +2,15 @@
 
 # Stakeholder: __low-income populations__ (PBN__Stakeholder_110)
 
-## Property: has_RiskSubject
+## Property: has_StakeholderID
+
+* [Q191159](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q191159.md)
+
+## Property: has_BenefitForPeople
+
+* [Reduced COVID-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_195.md)
+
+## Property: has_SubjectRisk
 
 * [Overcrowding in urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1022.md)
 * [Inequalities in access to resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1023.md)
@@ -15,8 +23,4 @@
 * [Health Disparities and Equity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1186.md)
 * [Access to Legal Representation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1187.md)
 * [Use of biomass fuels](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2018.md)
-
-## Property: has_StakeholderID
-
-* [Q191159](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q191159.md)
 

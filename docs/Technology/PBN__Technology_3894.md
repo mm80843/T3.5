@@ -2,3 +2,7 @@
 
 # Technology: __training resources__ (PBN__Technology_3894)
 
+## Property: has_TechnologyMitigation
+
+* [Training programs for skill development](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1506.md)
+

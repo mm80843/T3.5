@@ -2,3 +2,7 @@
 
 # Technology: __n95 masks__ (PBN__Technology_3786)
 
+## Property: has_TechnologyMitigation
+
+* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_535.md)
+

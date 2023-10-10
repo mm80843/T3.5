@@ -2,3 +2,7 @@
 
 # Technology: __urban layout planning and design__ (PBN__Technology_3212)
 
+## Property: has_TechnologyMitigation
+
+* [Revisions in density and compact design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_420.md)
+

@@ -2,6 +2,10 @@
 
 # Technology: __outdoor spaces within apartment buildings__ (PBN__Technology_1271)
 
+## Property: has_TechnologyRisk
+
+* [Limited access to nature](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1891.md)
+
 ## Property: has_TechnologyID
 
 * [Q116893334](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q116893334.md)

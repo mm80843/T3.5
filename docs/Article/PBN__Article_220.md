@@ -2,13 +2,9 @@
 
 # Article: __raoufi_identifying_2021__ (PBN__Article_220)
 
-## Property: has_ArticleYear
+## Property: has_ArticleTitle
 
-2021
-
-## Property: has_ArticleLLMSummary
-
-The COVID-19 pandemic has affected the construction industry in many ways. Construction organizations are facing challenges like a shortage of workers and uncertainty about the future. To help construction companies survive, the government is investing in projects that can start quickly. Construction companies are implementing safety measures like health checks and providing protective equipment to workers. They are also using technology, like video calls, to communicate with their teams. It is important for construction organizations to take care of their workers' health and morale, and to stay updated on the latest guidelines and regulations.
+Identifying Actions to Control and Mitigate the Effects of the COVID-19 Pandemic on Construction Organizations: Preliminary Findings
 
 ## Property: has_BenefInArticle
 
@@ -16,9 +12,13 @@ The COVID-19 pandemic has affected the construction industry in many ways. Const
 * [Minimized transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_279.md)
 * [Enhanced worker protection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1059.md)
 
-## Property: has_ArticleTitle
+## Property: has_ArticleLLMSummary
 
-Identifying Actions to Control and Mitigate the Effects of the COVID-19 Pandemic on Construction Organizations: Preliminary Findings
+The COVID-19 pandemic has affected the construction industry in many ways. Construction organizations are facing challenges like a shortage of workers and uncertainty about the future. To help construction companies survive, the government is investing in projects that can start quickly. Construction companies are implementing safety measures like health checks and providing protective equipment to workers. They are also using technology, like video calls, to communicate with their teams. It is important for construction organizations to take care of their workers' health and morale, and to stay updated on the latest guidelines and regulations.
+
+## Property: has_ArticleLLMShortSummary
+
+This study aims to develop a response plan for construction organizations to address the effects of the COVID-19 pandemic. The study identified 177 actions grouped into 16 categories that can help control and mitigate the effects of the pandemic on construction organizations. An online survey collected data from 43 construction organizations, revealing that health and public health directives were the top category of actions identified by respondents. Other top categories included workforce management, communication, and supplier and subcontractor engagement. These preliminary findings highlight the need for construction organizations to prioritize employee safety, assess the impact of the global economy, provide support for employee well-being, maintain regular communication, explore innovative modes of remote communication, monitor public health guidelines, and adapt procurement procedures. The study recommends ongoing data collection to develop timely recommendations for short-, medium-, and long-term planning during the pandemic.
 
 ## Property: has_RiskInArticle
 
@@ -28,11 +28,24 @@ Identifying Actions to Control and Mitigate the Effects of the COVID-19 Pandemic
 * [Uncertainty in Construction Market](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1956.md)
 * [Communication Challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1957.md)
 
+## Property: has_ArticleYear
+
+2021
+
 ## Property: has_ArticleDOI
 
 10.1177/1087724X20969164
 
-## Property: has_ArticleLLMShortSummary
+## Property: has_SourceMitigation
 
-This study aims to develop a response plan for construction organizations to address the effects of the COVID-19 pandemic. The study identified 177 actions grouped into 16 categories that can help control and mitigate the effects of the pandemic on construction organizations. An online survey collected data from 43 construction organizations, revealing that health and public health directives were the top category of actions identified by respondents. Other top categories included workforce management, communication, and supplier and subcontractor engagement. These preliminary findings highlight the need for construction organizations to prioritize employee safety, assess the impact of the global economy, provide support for employee well-being, maintain regular communication, explore innovative modes of remote communication, monitor public health guidelines, and adapt procurement procedures. The study recommends ongoing data collection to develop timely recommendations for short-, medium-, and long-term planning during the pandemic.
+* [Disinfecting shared tools and equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1682.md)
+* [Implementing physical distancing procedures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1684.md)
+* [Health screening of workers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1680.md)
+* [Providing additional personal protective equipment (PPE)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1681.md)
+* [Upgrading site facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1683.md)
+* [Implementing remote working](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1685.md)
+* [Regular communication and coordination among project teams](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1686.md)
+* [Using smart technologies for site access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1687.md)
+* [Assessing the possibility of late or halted deliveries of materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1688.md)
+* [Regular monitoring of public health and government announcements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1689.md)
 

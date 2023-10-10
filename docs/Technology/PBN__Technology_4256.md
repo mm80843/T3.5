@@ -2,3 +2,7 @@
 
 # Technology: __disinfection of waste before contact with people__ (PBN__Technology_4256)
 
+## Property: has_TechnologyMitigation
+
+* [Disinfection of household waste](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2136.md)
+
