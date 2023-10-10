@@ -2,13 +2,17 @@
 
 # Stakeholder: __sensor manufacturers and researchers__ (PBN__Stakeholder_913)
 
-## Property: has_StakeholderSubgroup
+## Property: has_OwnerRisk
 
-* [Wearable and IoT Devices](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_151.md)
+* [Limited sensor capability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1404.md)
 
 ## Property: has_StakeholderGroup
 
 * [Technology Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_12.md)
+
+## Property: has_StakeholderSubgroup
+
+* [Wearable and IoT Devices](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_151.md)
 
 ## Property: has_StakeholderID
 

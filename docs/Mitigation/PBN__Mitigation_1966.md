@@ -6,6 +6,10 @@
 
 * [soliman_building_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_224.md)
 
+## Property: has_MitigationRisk
+
+* [Cost](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1796.md)
+
 ## Property: has_MitigationTechnology
 
 * [smart parking technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4174.md)

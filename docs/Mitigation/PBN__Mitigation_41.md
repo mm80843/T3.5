@@ -6,6 +6,10 @@
 
 * [agade_exploring_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_114.md)
 
+## Property: has_MitigationRisk
+
+* [Healthcare overload](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2419.md)
+
 ## Property: has_MitigationTechnology
 
 * [internet of things](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2919.md)

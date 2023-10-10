@@ -2,13 +2,17 @@
 
 # Stakeholder: __individuals in charge of building maintenance and operations__ (PBN__Stakeholder_666)
 
-## Property: has_StakeholderSubgroup
+## Property: has_OwnerRisk
 
-* [Responsible or Working Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_78.md)
+* [Contagious transmission in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1140.md)
 
 ## Property: has_StakeholderGroup
 
 * [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
+
+## Property: has_StakeholderSubgroup
+
+* [Responsible or Working Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_78.md)
 
 ## Property: has_StakeholderID
 

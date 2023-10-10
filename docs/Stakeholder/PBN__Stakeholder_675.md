@@ -2,13 +2,17 @@
 
 # Stakeholder: __such as hospitals__ (PBN__Stakeholder_675)
 
-## Property: has_StakeholderSubgroup
+## Property: has_RiskSubject
 
-* [Companies and Institutions](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_23.md)
+* [Lack of proper environmental controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1142.md)
 
 ## Property: has_StakeholderGroup
 
 * [Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_2.md)
+
+## Property: has_StakeholderSubgroup
+
+* [Companies and Institutions](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_23.md)
 
 ## Property: has_StakeholderID
 

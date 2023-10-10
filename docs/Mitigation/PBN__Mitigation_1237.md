@@ -6,6 +6,10 @@
 
 * [matheri_water_2023](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_162.md)
 
+## Property: has_MitigationRisk
+
+* [Limited understanding of the spread and impact of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2985.md)
+
 ## Property: has_MitigationTechnology
 
 * [gis technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3760.md)

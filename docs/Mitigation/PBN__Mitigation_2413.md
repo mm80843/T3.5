@@ -6,6 +6,10 @@
 
 * [wu_sars-cov-2_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_251.md)
 
+## Property: has_MitigationRisk
+
+* [Variability in wastewater samples](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3448.md)
+
 ## Property: has_MitigationTechnology
 
 * [rt-qpcr](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4479.md)

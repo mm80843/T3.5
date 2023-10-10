@@ -6,6 +6,10 @@
 
 * [zhang_effective_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_188.md)
 
+## Property: has_MitigationRisk
+
+* [Concealed information, ambiguity in risk perception](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3464.md)
+
 ## Property: has_MitigationTechnology
 
 * [communication channels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_568.md)

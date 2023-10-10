@@ -2,3 +2,7 @@
 
 # Stakeholder: __occupants of buildings with contaminated surfaces__ (PBN__Stakeholder_1203)
 
+## Property: has_RiskSubject
+
+* [Contaminated surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1802.md)
+

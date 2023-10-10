@@ -2,3 +2,7 @@
 
 # Stakeholder: __particularly those with weakened immune systems__ (PBN__Stakeholder_817)
 
+## Property: has_RiskSubject
+
+* [Inadequate cleaning and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1298.md)
+

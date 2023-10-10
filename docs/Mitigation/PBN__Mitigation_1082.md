@@ -6,6 +6,10 @@
 
 * [la_rosa_first_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_37.md)
 
+## Property: has_MitigationRisk
+
+* [Safety during sample manipulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2913.md)
+
 ## Property: has_MitigationTechnology
 
 * [heat treatment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3633.md)

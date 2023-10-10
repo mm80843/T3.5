@@ -6,6 +6,10 @@
 
 * [mufid_risk_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_237.md)
 
+## Property: has_MitigationRisk
+
+* [Data accuracy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3042.md)
+
 ## Property: has_MitigationTechnology
 
 * [gis software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3828.md)

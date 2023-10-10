@@ -6,6 +6,10 @@
 
 * [araya_influence_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_157.md)
 
+## Property: has_MitigationRisk
+
+* [Safety and health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2452.md)
+
 ## Property: has_MitigationTechnology
 
 * [ppe](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1463.md)

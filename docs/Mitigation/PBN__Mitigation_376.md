@@ -7,6 +7,11 @@
 * [chen_climate_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_145.md)
 * [nembhard_ventilation_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_104.md)
 
+## Property: has_MitigationRisk
+
+* [Controlling humidity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2546.md)
+* [Inappropriate humidity levels in indoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3063.md)
+
 ## Property: has_MitigationTechnology
 
 * [humidifier](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3191.md)

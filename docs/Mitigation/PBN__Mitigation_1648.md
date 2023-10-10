@@ -6,6 +6,10 @@
 
 * [quantin_covid-19_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_136.md)
 
+## Property: has_MitigationRisk
+
+* [Lack of access to testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3191.md)
+
 ## Property: has_MitigationTechnology
 
 * [testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_610.md)

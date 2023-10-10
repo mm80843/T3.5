@@ -2,13 +2,19 @@
 
 # Stakeholder: __humans__ (PBN__Stakeholder_17)
 
-## Property: has_StakeholderSubgroup
+## Property: has_RiskSubject
 
-* [General Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_88.md)
+* [Zoonotic infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1016.md)
+* [Environmental degradation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1343.md)
+* [Baylisascaris procyonis contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1425.md)
 
 ## Property: has_StakeholderGroup
 
 * [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
+
+## Property: has_StakeholderSubgroup
+
+* [General Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_88.md)
 
 ## Property: has_StakeholderID
 

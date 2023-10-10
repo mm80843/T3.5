@@ -2,13 +2,17 @@
 
 # Stakeholder: __community residents__ (PBN__Stakeholder_527)
 
-## Property: has_StakeholderSubgroup
+## Property: has_RiskSubject
 
-* [Community Members](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_130.md)
+* [Inadequate allocation of community service facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2325.md)
 
 ## Property: has_StakeholderGroup
 
 * [Community Stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_8.md)
+
+## Property: has_StakeholderSubgroup
+
+* [Community Members](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_130.md)
 
 ## Property: has_StakeholderID
 

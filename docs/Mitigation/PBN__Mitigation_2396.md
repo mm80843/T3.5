@@ -6,6 +6,10 @@
 
 * [wu_current_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_118.md)
 
+## Property: has_MitigationRisk
+
+* [Unclear virus origin](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3439.md)
+
 ## Property: has_MitigationTechnology
 
 * [genome sequencing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1952.md)

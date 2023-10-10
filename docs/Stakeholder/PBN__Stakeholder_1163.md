@@ -2,3 +2,7 @@
 
 # Stakeholder: __particularly those in buildings with inadequate ventilation systems__ (PBN__Stakeholder_1163)
 
+## Property: has_RiskSubject
+
+* [Inefficient ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1741.md)
+

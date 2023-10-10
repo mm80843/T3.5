@@ -2,25 +2,29 @@
 
 # Risk: __Underrepresentation of Geographic Regions__ (PBN__Risk_1261)
 
+## Property: has_RiskOwner
+
+* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_83.md)
+
 ## Property: has_RiskName
 
 Unclear universal applicability of findings to different geographical regions
 
-## Property: has_RiskISO_Impact
+## Property: has_RiskType
 
-* [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_4.md)
+* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
+
+## Property: has_RiskTechnology
+
+* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 
 ## Property: has_RiskISO_Purpose
 
 * [Preservation and improvement of the environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_6.md)
 
-## Property: has_RiskOwner
+## Property: has_RiskDescription
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_83.md)
-
-## Property: has_RiskTechnology
-
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
+Studies predominantly conducted in the United States, leading to limited generalizability and representation of diverse populations
 
 ## Property: has_RiskSubject
 
@@ -31,21 +35,17 @@ Unclear universal applicability of findings to different geographical regions
 
 * [Conduct studies in diverse geographic regions to obtain more representative data](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1721.md)
 
-## Property: has_RiskDescription
+## Property: has_RiskISO_Impact
 
-Studies predominantly conducted in the United States, leading to limited generalizability and representation of diverse populations
-
-## Property: has_RiskHealth
-
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_6.md)
-
-## Property: has_RiskType
-
-* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
+* [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_4.md)
 
 ## Property: has_RiskGBN
 
 * [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Property: has_RiskHealth
+
+* [nan](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_6.md)
 
 ## Property: has_RiskSource
 

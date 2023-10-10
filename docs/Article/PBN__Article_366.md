@@ -2,13 +2,13 @@
 
 # Article: __pandey_technology_2021__ (PBN__Article_366)
 
-## Property: has_ArticleTitle
-
-Technology intervention for preventing COVID-19 outbreak
-
 ## Property: has_ArticleYear
 
 2021
+
+## Property: has_ArticleTitle
+
+Technology intervention for preventing COVID-19 outbreak
 
 ## Property: has_ArticleDOI
 

@@ -6,6 +6,10 @@
 
 * [ahmad_overview_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_170.md)
 
+## Property: has_MitigationRisk
+
+* [Performance, scalability, accuracy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2422.md)
+
 ## Property: has_MitigationTechnology
 
 * [mathematical models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2929.md)

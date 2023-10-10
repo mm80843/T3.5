@@ -2,28 +2,32 @@
 
 # Risk: __Less productivity compared to agriculture and manufacturing__ (PBN__Risk_1434)
 
-## Property: has_RiskName
-
-Decreased efficiency, increased project duration, higher costs.
-
-## Property: has_RiskISO_Impact
-
-* [Living and working environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_1.md)
-
-## Property: has_RiskISO_Purpose
-
-* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
-
 ## Property: has_RiskOwner
 
 * [project managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_906.md)
 * [industry associations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_631.md)
+
+## Property: has_RiskName
+
+Decreased efficiency, increased project duration, higher costs.
+
+## Property: has_RiskType
+
+* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_11.md)
 
 ## Property: has_RiskTechnology
 
 * [lean construction techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_693.md)
 * [training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_82.md)
 * [process optimization tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_694.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+
+## Property: has_RiskDescription
+
+Lower productivity levels in construction sector compared to other industries.
 
 ## Property: has_RiskSubject
 
@@ -34,21 +38,17 @@ Decreased efficiency, increased project duration, higher costs.
 
 * [Implement lean construction principles, enhance workforce skills and productivity, improve processes and workflow.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1945.md)
 
-## Property: has_RiskDescription
+## Property: has_RiskISO_Impact
 
-Lower productivity levels in construction sector compared to other industries.
-
-## Property: has_RiskHealth
-
-* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
-
-## Property: has_RiskType
-
-* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_11.md)
+* [Living and working environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_1.md)
 
 ## Property: has_RiskGBN
 
 * [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Property: has_RiskHealth
+
+* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
 
 ## Property: has_RiskSource
 

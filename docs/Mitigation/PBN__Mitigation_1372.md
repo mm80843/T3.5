@@ -6,6 +6,10 @@
 
 * [mufid_risk_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_237.md)
 
+## Property: has_MitigationRisk
+
+* [Inaccurate input](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3041.md)
+
 ## Property: has_MitigationTechnology
 
 * [rule-based algorithm](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3823.md)

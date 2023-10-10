@@ -6,6 +6,10 @@
 
 * [beggs_upper-room_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_163.md)
 
+## Property: has_MitigationRisk
+
+* [Harmful to humans](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2512.md)
+
 ## Property: has_MitigationTechnology
 
 * [uv-c light](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3098.md)

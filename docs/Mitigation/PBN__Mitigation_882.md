@@ -9,6 +9,11 @@
 * [muller_effects_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_30.md)
 * [ning_impacts_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_74.md)
 
+## Property: has_MitigationRisk
+
+* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
+* [Undetected infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2788.md)
+
 ## Property: has_MitigationTechnology
 
 * [diagnostic testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3512.md)

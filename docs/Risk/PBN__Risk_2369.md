@@ -2,27 +2,31 @@
 
 # Risk: __Degradation of viral signal in storage__ (PBN__Risk_2369)
 
+## Property: has_RiskOwner
+
+* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+* [laboratory technicians](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_700.md)
+
 ## Property: has_RiskName
 
 Inability to obtain reliable long-term data on viral prevalence, hindering decision-making and intervention strategies.
 
-## Property: has_RiskISO_Impact
+## Property: has_RiskType
 
-* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
-
-## Property: has_RiskISO_Purpose
-
-* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
-
-## Property: has_RiskOwner
-
-* [laboratory technicians](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_700.md)
-* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+* [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
 
 ## Property: has_RiskTechnology
 
 * [development of storage protocols for maintaining sample integrity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1976.md)
 * [monitoring techniques for rna degradation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1977.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
+
+## Property: has_RiskDescription
+
+Viral RNA in wastewater samples may degrade over time during storage, leading to potential loss of accurate data for disease surveillance.
 
 ## Property: has_RiskSubject
 
@@ -33,21 +37,17 @@ Inability to obtain reliable long-term data on viral prevalence, hindering decis
 
 * [Optimize storage conditions and protocols to minimize degradation of viral RNA, conduct regular quality control checks on stored samples.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3076.md)
 
-## Property: has_RiskDescription
+## Property: has_RiskISO_Impact
 
-Viral RNA in wastewater samples may degrade over time during storage, leading to potential loss of accurate data for disease surveillance.
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Property: has_RiskType
-
-* [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
 
 ## Property: has_RiskGBN
 
 * [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskSource
 

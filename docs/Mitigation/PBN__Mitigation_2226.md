@@ -7,6 +7,11 @@
 * [ugolini_effects_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_90.md)
 * [yodang_knowledge_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_176.md)
 
+## Property: has_MitigationRisk
+
+* [Contagion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2685.md)
+* [Poor infection control practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3457.md)
+
 ## Property: has_MitigationTechnology
 
 * [testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_610.md)

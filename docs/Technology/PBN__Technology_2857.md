@@ -8,8 +8,8 @@
 
 ## Property: has_TechnologyID
 
-* [Q6805332](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6805332.md)
 * [Q1444671](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1444671.md)
+* [Q6805332](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6805332.md)
 
 ## Property: has_StakeholderSubgroup
 

@@ -2,13 +2,17 @@
 
 # Stakeholder: __technical experts__ (PBN__Stakeholder_718)
 
-## Property: has_StakeholderSubgroup
+## Property: has_RiskSubject
 
-* [Information Technology and Technical Support](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_150.md)
+* [Lack of effective technical systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1197.md)
 
 ## Property: has_StakeholderGroup
 
 * [Technology Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_12.md)
+
+## Property: has_StakeholderSubgroup
+
+* [Information Technology and Technical Support](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_150.md)
 
 ## Property: has_StakeholderID
 

@@ -2,13 +2,13 @@
 
 # Article: __logeshwaran_contactless_2022__ (PBN__Article_357)
 
-## Property: has_ArticleTitle
-
-Contactless Door System with Temperature Detection for Covid-19
-
 ## Property: has_ArticleYear
 
 2022
+
+## Property: has_ArticleTitle
+
+Contactless Door System with Temperature Detection for Covid-19
 
 ## Property: has_ArticleDOI
 

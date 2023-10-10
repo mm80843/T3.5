@@ -2,6 +2,10 @@
 
 # Stakeholder: __homeless__ (PBN__Stakeholder_469)
 
+## Property: has_RiskSubject
+
+* [Inequities and exclusions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1467.md)
+
 ## Property: has_StakeholderID
 
 * [Q29817206](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q29817206.md)

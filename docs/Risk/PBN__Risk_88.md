@@ -2,27 +2,31 @@
 
 # Risk: __Time Risk__ (PBN__Risk_88)
 
+## Property: has_RiskOwner
+
+* [tourism industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_196.md)
+* [transportation providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1085.md)
+
 ## Property: has_RiskName
 
 Disruption of travel plans and inconvenience
 
-## Property: has_RiskISO_Impact
+## Property: has_RiskType
 
-* [Impact](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_11.md)
-
-## Property: has_RiskISO_Purpose
-
-* [Topic](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_12.md)
-
-## Property: has_RiskOwner
-
-* [transportation providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1085.md)
-* [tourism industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_196.md)
+* [economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_3.md)
 
 ## Property: has_RiskTechnology
 
 * [online travel platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_996.md)
 * [real-time travel updates](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_997.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Topic](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_12.md)
+
+## Property: has_RiskDescription
+
+Possibility of travel taking too much time or services not occurring as scheduled
 
 ## Property: has_RiskSubject
 
@@ -34,21 +38,17 @@ Disruption of travel plans and inconvenience
 * [Streamlining travel processes and minimizing delays](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_105.md)
 * [Providing accurate and up-to-date information, offering flexible travel options, and ensuring efficient transportation and service operations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2212.md)
 
-## Property: has_RiskDescription
+## Property: has_RiskISO_Impact
 
-Possibility of travel taking too much time or services not occurring as scheduled
-
-## Property: has_RiskHealth
-
-* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
-
-## Property: has_RiskType
-
-* [economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_3.md)
+* [Impact](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_11.md)
 
 ## Property: has_RiskGBN
 
 * [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Property: has_RiskHealth
+
+* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
 
 ## Property: has_RiskSource
 

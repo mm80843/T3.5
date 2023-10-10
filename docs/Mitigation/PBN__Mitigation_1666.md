@@ -6,6 +6,10 @@
 
 * [rahman_automated_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_265.md)
 
+## Property: has_MitigationRisk
+
+* [Non-compliance with mask wearing in public places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3203.md)
+
 ## Property: has_MitigationTechnology
 
 * [iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_277.md)

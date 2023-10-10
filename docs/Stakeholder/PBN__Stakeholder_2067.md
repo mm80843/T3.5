@@ -2,10 +2,6 @@
 
 # Stakeholder: __occupant__ (PBN__Stakeholder_2067)
 
-## Property: has_StakeholderSubgroup
-
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_7.md)
-
 ## Property: has_StakeholderGroup
 
 * [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
@@ -14,4 +10,8 @@
 ## Property: has_StakeholderID
 
 * [Q22947](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q22947.md)
+
+## Property: has_StakeholderSubgroup
+
+* [nan](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_7.md)
 

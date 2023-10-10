@@ -2,10 +2,6 @@
 
 # Stakeholder: __worker in the gig economy__ (PBN__Stakeholder_1720)
 
-## Property: has_StakeholderSubgroup
-
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_7.md)
-
 ## Property: has_StakeholderGroup
 
 * [Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_2.md)
@@ -14,4 +10,8 @@
 ## Property: has_StakeholderID
 
 * [Q96619693](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q96619693.md)
+
+## Property: has_StakeholderSubgroup
+
+* [nan](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_7.md)
 

@@ -2,27 +2,32 @@
 
 # Risk: __Comparison to the 1918 pandemic__ (PBN__Risk_1524)
 
+## Property: has_RiskOwner
+
+* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+* [government bodies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_976.md)
+* [historians](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_978.md)
+
 ## Property: has_RiskName
 
 Misunderstanding of historical context, overreaction
 
-## Property: has_RiskISO_Impact
+## Property: has_RiskType
 
-* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
+* [economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_3.md)
+
+## Property: has_RiskTechnology
+
+* [historical data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_809.md)
 
 ## Property: has_RiskISO_Purpose
 
 * [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
 
-## Property: has_RiskOwner
+## Property: has_RiskDescription
 
-* [historians](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_978.md)
-* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
-* [government bodies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_976.md)
-
-## Property: has_RiskTechnology
-
-* [historical data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_809.md)
+Comparisons to the 1918 influenza pandemic can be misleading and may lead to inappropriate actions
 
 ## Property: has_RiskSubject
 
@@ -33,22 +38,17 @@ Misunderstanding of historical context, overreaction
 
 * [Rely on accurate historical data and evidence-based information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2051.md)
 
-## Property: has_RiskDescription
+## Property: has_RiskISO_Impact
 
-Comparisons to the 1918 influenza pandemic can be misleading and may lead to inappropriate actions
-
-## Property: has_RiskHealth
-
-* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
-
-## Property: has_RiskType
-
-* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
-* [economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_3.md)
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
 
 ## Property: has_RiskGBN
 
 * [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Property: has_RiskHealth
+
+* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
 
 ## Property: has_RiskSource
 

@@ -6,6 +6,10 @@
 
 * [dron_data_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_208.md)
 
+## Property: has_MitigationRisk
+
+* [Health care disparities, racial biases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2635.md)
+
 ## Property: has_MitigationTechnology
 
 * [health data collection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3321.md)

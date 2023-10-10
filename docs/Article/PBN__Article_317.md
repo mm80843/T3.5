@@ -6,6 +6,14 @@
 
 2022
 
+## Property: has_ArticleTitle
+
+A Review on Building Design as a Biomedical System for Preventing COVID-19 Pandemic
+
+## Property: has_ArticleDOI
+
+10.3390/buildings12050582
+
 ## Property: has_ArticleRef
 
 * [przybylowski_mobility_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_113.md)
@@ -29,12 +37,4 @@
 * [salama_coronavirus_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_184.md)
 * [rassia_how_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_34.md)
 * [megahed_indoor_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_206.md)
-
-## Property: has_ArticleTitle
-
-A Review on Building Design as a Biomedical System for Preventing COVID-19 Pandemic
-
-## Property: has_ArticleDOI
-
-10.3390/buildings12050582
 

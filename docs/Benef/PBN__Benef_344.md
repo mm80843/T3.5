@@ -2,19 +2,19 @@
 
 # Benef: __Sanitized areas without human contact__ (PBN__Benef_344)
 
-## Property: has_BenefDetails
+## Property: has_Beneficiary
 
-Decreased risk of virus transmission through surfaces
+* [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
 
 ## Property: has_BenefSource
 
 * [tokazhanov_how_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_67.md)
 
-## Property: has_Beneficiary
-
-* [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
-
 ## Property: has_BenefReturn
 
 * [Improved health and safety of occupants, increased attractiveness of residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_367.md)
+
+## Property: has_BenefDetails
+
+Decreased risk of virus transmission through surfaces
 

@@ -2,11 +2,6 @@
 
 # Stakeholder: __People in spaces with poor air circulation and distribution__ (PBN__Stakeholder_2344)
 
-## Property: has_StakeholderSubgroup
-
-* [Building Conditions](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_67.md)
-* [Environmental Conditions and Settings](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_107.md)
-
 ## Property: has_StakeholderGroup
 
 * [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
@@ -15,4 +10,9 @@
 ## Property: has_StakeholderID
 
 * [Q272730](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q272730.md)
+
+## Property: has_StakeholderSubgroup
+
+* [Building Conditions](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_67.md)
+* [Environmental Conditions and Settings](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_107.md)
 

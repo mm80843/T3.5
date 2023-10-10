@@ -6,6 +6,10 @@
 
 * [pilati_digital_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_47.md)
 
+## Property: has_MitigationRisk
+
+* [Data privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3170.md)
+
 ## Property: has_MitigationTechnology
 
 * [cyber-physical systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3954.md)

@@ -2,3 +2,7 @@
 
 # Stakeholder: __people in shops__ (PBN__Stakeholder_1180)
 
+## Property: has_RiskSubject
+
+* [Inadequate ventilation in public buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1776.md)
+

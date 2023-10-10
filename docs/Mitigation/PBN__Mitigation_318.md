@@ -8,6 +8,12 @@
 * [pamidimukkala_impacts_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_49.md)
 * [vela_rol_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_138.md)
 
+## Property: has_MitigationRisk
+
+* [Spread of misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_396.md)
+* [Misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1033.md)
+* [Lack of information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2599.md)
+
 ## Property: has_MitigationTechnology
 
 * [internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3058.md)

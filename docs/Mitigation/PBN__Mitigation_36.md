@@ -6,6 +6,10 @@
 
 * [ads_overview_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_86.md)
 
+## Property: has_MitigationRisk
+
+* [Uncertainty](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2417.md)
+
 ## Property: has_MitigationTechnology
 
 * [travel advisories](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_26.md)

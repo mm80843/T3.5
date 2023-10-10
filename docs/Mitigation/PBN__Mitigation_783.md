@@ -6,6 +6,10 @@
 
 * [hizra_houses_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_277.md)
 
+## Property: has_MitigationRisk
+
+* [Limited access to outdoor environments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2741.md)
+
 ## Property: has_MitigationTechnology
 
 * [landscape design and integration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3453.md)

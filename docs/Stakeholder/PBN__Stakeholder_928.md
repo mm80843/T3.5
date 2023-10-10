@@ -2,13 +2,17 @@
 
 # Stakeholder: __especially in indoor spaces with poor air circulation__ (PBN__Stakeholder_928)
 
-## Property: has_StakeholderSubgroup
+## Property: has_RiskSubject
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_7.md)
+* [Lack of continuous air circulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1429.md)
 
 ## Property: has_StakeholderGroup
 
 * [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
+
+## Property: has_StakeholderSubgroup
+
+* [nan](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_7.md)
 
 ## Property: has_StakeholderID
 

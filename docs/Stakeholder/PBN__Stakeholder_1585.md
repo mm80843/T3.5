@@ -2,3 +2,7 @@
 
 # Stakeholder: __visitors to pois__ (PBN__Stakeholder_1585)
 
+## Property: has_RiskSubject
+
+* [Urban Activities and Points of Interests (POIs)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2380.md)
+

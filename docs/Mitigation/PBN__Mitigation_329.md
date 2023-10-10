@@ -8,6 +8,11 @@
 * [channa_rise_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_99.md)
 * [cheong_wearable_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_192.md)
 
+## Property: has_MitigationRisk
+
+* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
+* [Accuracy, skin irritation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2553.md)
+
 ## Property: has_MitigationTechnology
 
 * [smartwatch](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3161.md)

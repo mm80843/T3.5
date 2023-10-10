@@ -2,13 +2,13 @@
 
 # Article: __mittelmark_handbook_2022__ (PBN__Article_361)
 
-## Property: has_ArticleTitle
-
-The Handbook of Salutogenesis
-
 ## Property: has_ArticleYear
 
 2022
+
+## Property: has_ArticleTitle
+
+The Handbook of Salutogenesis
 
 ## Property: has_ArticleDOI
 

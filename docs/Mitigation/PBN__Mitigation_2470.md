@@ -6,6 +6,10 @@
 
 * [zhang_review_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_171.md)
 
+## Property: has_MitigationRisk
+
+* [Floor drain malfunction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3468.md)
+
 ## Property: has_MitigationTechnology
 
 * [regular inspection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4514.md)

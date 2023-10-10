@@ -2,26 +2,30 @@
 
 # Risk: __Toxicity of nanomaterials__ (PBN__Risk_1134)
 
+## Property: has_RiskOwner
+
+* [manufacturers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_34.md)
+* [scientists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_46.md)
+
 ## Property: has_RiskName
 
 Health risks and environmental pollution
 
-## Property: has_RiskISO_Impact
+## Property: has_RiskType
 
-* [Education and capacity building](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_7.md)
+* [environmental](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_0.md)
+
+## Property: has_RiskTechnology
+
+* [non-toxic nanomaterials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_215.md)
 
 ## Property: has_RiskISO_Purpose
 
 * [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
 
-## Property: has_RiskOwner
+## Property: has_RiskDescription
 
-* [scientists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_46.md)
-* [manufacturers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_34.md)
-
-## Property: has_RiskTechnology
-
-* [non-toxic nanomaterials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_215.md)
+Potential harmful effects of nanomaterials on human health
 
 ## Property: has_RiskSubject
 
@@ -32,21 +36,17 @@ Health risks and environmental pollution
 
 * [Develop eco-friendly and non-toxic nanomaterials](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1582.md)
 
-## Property: has_RiskDescription
+## Property: has_RiskISO_Impact
 
-Potential harmful effects of nanomaterials on human health
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Property: has_RiskType
-
-* [environmental](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_0.md)
+* [Education and capacity building](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_7.md)
 
 ## Property: has_RiskGBN
 
 * [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskSource
 

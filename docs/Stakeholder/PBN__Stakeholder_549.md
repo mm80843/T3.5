@@ -2,13 +2,17 @@
 
 # Stakeholder: __vulnerable population__ (PBN__Stakeholder_549)
 
-## Property: has_StakeholderSubgroup
+## Property: has_RiskSubject
 
-* [Vulnerable Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_82.md)
+* [Contagious disease transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1021.md)
 
 ## Property: has_StakeholderGroup
 
 * [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
+
+## Property: has_StakeholderSubgroup
+
+* [Vulnerable Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_82.md)
 
 ## Property: has_StakeholderID
 

@@ -6,6 +6,10 @@
 
 * [dalessandro_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_161.md)
 
+## Property: has_MitigationRisk
+
+* [Overcrowding, lack of green space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2591.md)
+
 ## Property: has_MitigationTechnology
 
 * [green roofs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1392.md)

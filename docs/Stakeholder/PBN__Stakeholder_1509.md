@@ -2,3 +2,7 @@
 
 # Stakeholder: __visitors to green areas__ (PBN__Stakeholder_1509)
 
+## Property: has_RiskSubject
+
+* [Lack of detailed analysis on visitors’ attributes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2248.md)
+

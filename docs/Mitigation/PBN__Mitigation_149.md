@@ -8,6 +8,12 @@
 * [mehtab_alam_role_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_267.md)
 * [saman_recently_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_79.md)
 
+## Property: has_MitigationRisk
+
+* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
+* [Integration challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2464.md)
+* [Infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2622.md)
+
 ## Property: has_MitigationTechnology
 
 * [robots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3001.md)

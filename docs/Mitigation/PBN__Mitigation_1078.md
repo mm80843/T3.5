@@ -6,6 +6,10 @@
 
 * [lawal_covid-19_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_215.md)
 
+## Property: has_MitigationRisk
+
+* [Unequal access to resources and opportunities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2910.md)
+
 ## Property: has_MitigationTechnology
 
 * [inclusive policies and programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3628.md)

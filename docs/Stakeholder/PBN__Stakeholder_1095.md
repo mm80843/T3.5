@@ -2,3 +2,7 @@
 
 # Stakeholder: __dam construction companies__ (PBN__Stakeholder_1095)
 
+## Property: has_OwnerRisk
+
+* [Increased prevalence of human schistosomiasis resulting from dam constructions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1662.md)
+

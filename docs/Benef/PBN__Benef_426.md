@@ -2,20 +2,16 @@
 
 # Benef: __Reduction in disease transmission__ (PBN__Benef_426)
 
-## Property: has_BenefDetails
-
-Augmented surveillance and prompt reporting can help identify and isolate cases, reducing the transmission of the virus in densely populated areas. Providing separate spaces for isolation and quarantine can further prevent the spread of the disease.
-
-## Property: has_BenefSource
-
-* [ads_overview_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_86.md)
-* [bauerle_e-mental_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_209.md)
-
 ## Property: has_Beneficiary
 
 * [population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_81.md)
 * [communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_4.md)
 * [communities and healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_403.md)
+
+## Property: has_BenefSource
+
+* [ads_overview_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_86.md)
+* [bauerle_e-mental_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_209.md)
 
 ## Property: has_BenefReturn
 
@@ -26,4 +22,8 @@ Augmented surveillance and prompt reporting can help identify and isolate cases,
 * [Investing in strategies to achieve herd immunity can prevent the spread of diseases, reducing healthcare costs and protecting vulnerable populations.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_463.md)
 * [Investing in NPIs can lead to a healthier population, reducing healthcare costs and improving economic productivity.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1125.md)
 * [Implementing these measures can lead to a safer living environment, reducing the risk of infection and improving the overall well-being of communities. This can attract investors seeking stable and healthy environments for their investments.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1127.md)
+
+## Property: has_BenefDetails
+
+Augmented surveillance and prompt reporting can help identify and isolate cases, reducing the transmission of the virus in densely populated areas. Providing separate spaces for isolation and quarantine can further prevent the spread of the disease.
 

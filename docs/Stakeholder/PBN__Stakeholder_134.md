@@ -2,13 +2,20 @@
 
 # Stakeholder: __faculty__ (PBN__Stakeholder_134)
 
-## Property: has_StakeholderSubgroup
+## Property: has_RiskSubject
 
-* [Academic Roles](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_11.md)
+* [Inadequate social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2146.md)
+* [Student and faculty stress](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2148.md)
+* [Lack of community engagement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2149.md)
+* [Lack of awareness about campus safety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2151.md)
 
 ## Property: has_StakeholderGroup
 
 * [Education](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_1.md)
+
+## Property: has_StakeholderSubgroup
+
+* [Academic Roles](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_11.md)
 
 ## Property: has_StakeholderID
 

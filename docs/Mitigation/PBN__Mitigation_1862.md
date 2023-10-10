@@ -6,6 +6,10 @@
 
 * [semenza_prototype_2015](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_212.md)
 
+## Property: has_MitigationRisk
+
+* [Contaminated blood supply](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3272.md)
+
 ## Property: has_MitigationTechnology
 
 * [pathogen reduction technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4117.md)

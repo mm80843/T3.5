@@ -2,3 +2,7 @@
 
 # Stakeholder: __architectural associations__ (PBN__Stakeholder_586)
 
+## Property: has_OwnerRisk
+
+* [Improper architectural designs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1060.md)
+

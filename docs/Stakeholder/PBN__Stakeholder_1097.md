@@ -2,3 +2,7 @@
 
 # Stakeholder: __people living and working near roads with planted vegetation__ (PBN__Stakeholder_1097)
 
+## Property: has_RiskSubject
+
+* [Air circulation-limiting potential of tall, planted roadside vegetation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1665.md)
+

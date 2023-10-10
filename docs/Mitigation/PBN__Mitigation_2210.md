@@ -6,6 +6,10 @@
 
 * [uchiyama_access_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_275.md)
 
+## Property: has_MitigationRisk
+
+* [Inequitable access for specific social groups](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3386.md)
+
 ## Property: has_MitigationTechnology
 
 * [targeted outreach programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1339.md)

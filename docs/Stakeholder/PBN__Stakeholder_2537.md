@@ -2,10 +2,6 @@
 
 # Stakeholder: __citizen__ (PBN__Stakeholder_2537)
 
-## Property: has_StakeholderSubgroup
-
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_7.md)
-
 ## Property: has_StakeholderGroup
 
 * [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
@@ -14,4 +10,8 @@
 
 * [Q1020994](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1020994.md)
 * [Q1368019](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1368019.md)
+
+## Property: has_StakeholderSubgroup
+
+* [nan](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_7.md)
 

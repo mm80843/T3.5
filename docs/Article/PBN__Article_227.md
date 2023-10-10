@@ -6,6 +6,35 @@
 
 2021
 
+## Property: has_ArticleLLMSummary
+
+During the COVID-19 pandemic, smart technologies have been used to help cities respond to and recover from the virus. These technologies include things like artificial intelligence, robotics, and telemedicine. Smart solutions have helped cities plan and prepare for the pandemic by providing infrastructure and tools for forecasting and prediction. They have also contributed to absorption by preventing the spread of the virus and facilitating transparent communication. In terms of recovery, smart solutions have supported healthcare staff and ensured the continuity of basic functions like work and education. Lastly, smart technologies have helped cities adapt to the pandemic by accelerating the transition to digitalization and offering lessons for optimizing city operations.
+
+## Property: has_BenefInArticle
+
+* [Enhanced response capacity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1095.md)
+* [Enhanced coordination and cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1096.md)
+* [Improved communication and dissemination of accurate information](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1097.md)
+* [Automation of healthcare services, telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1098.md)
+* [Improved supply chain management and delivery systems](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1099.md)
+* [Improved infrastructure and increased connectivity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1100.md)
+
+## Property: has_ArticleTitle
+
+Contributions of Smart City Solutions and Technologies to Resilience against the COVID-19 Pandemic: A Literature Review
+
+## Property: has_RiskInArticle
+
+* [Lack of preparedness for pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1584.md)
+* [Limited access to healthcare services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1984.md)
+* [Fragmented governance and lack of cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2063.md)
+* [Spread of misinformation and fake news](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2064.md)
+* [Privacy and data security concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2065.md)
+
+## Property: has_ArticleDOI
+
+10.3390/su13148018
+
 ## Property: has_ArticleRef
 
 * [chamola_comprehensive_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_313.md)
@@ -26,16 +55,4 @@
 ## Property: has_ArticleLLMShortSummary
 
 This study reviewed literature on the use of smart solutions and technologies during the COVID-19 pandemic to enhance resilience in cities. The findings show that smart solutions have the potential to contribute to all four resilience abilities: planning and preparation, absorption, recovery, and adaptation. Smart solutions, such as integrated management platforms and AI-enabled systems, can improve planning and preparation by facilitating collaborative and integrated planning, providing smart city infrastructure, and enabling forecasting and prediction. In terms of absorption, smart technologies can help prevent the spread of the virus and reduce transmission speed through measures like contact tracing, social distancing monitoring, and crowd detection. For recovery, smart solutions provide support to overstretched healthcare staff and ensure the continuity of basic functions through telemedicine, teleworking, and automated systems. Adaptation is facilitated by the accelerated transition towards digitalization and optimization of city operations. However, challenges related to privacy, data security, equitable access, and scalability need to be addressed. Future research should explore the linkages between different resilience abilities, examine the potential trade-offs of smart solutions, and assess their impact on sustainability. Overall, smart solutions have the potential to enhance resilience and contribute to more effective responses to future adverse events.
-
-## Property: has_ArticleTitle
-
-Contributions of Smart City Solutions and Technologies to Resilience against the COVID-19 Pandemic: A Literature Review
-
-## Property: has_ArticleLLMSummary
-
-During the COVID-19 pandemic, smart technologies have been used to help cities respond to and recover from the virus. These technologies include things like artificial intelligence, robotics, and telemedicine. Smart solutions have helped cities plan and prepare for the pandemic by providing infrastructure and tools for forecasting and prediction. They have also contributed to absorption by preventing the spread of the virus and facilitating transparent communication. In terms of recovery, smart solutions have supported healthcare staff and ensured the continuity of basic functions like work and education. Lastly, smart technologies have helped cities adapt to the pandemic by accelerating the transition to digitalization and offering lessons for optimizing city operations.
-
-## Property: has_ArticleDOI
-
-10.3390/su13148018
 

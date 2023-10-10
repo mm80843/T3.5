@@ -6,6 +6,10 @@
 
 * [hizra_houses_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_277.md)
 
+## Property: has_MitigationRisk
+
+* [Overburdened healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2740.md)
+
 ## Property: has_MitigationTechnology
 
 * [home-based healthcare technologies and methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3452.md)

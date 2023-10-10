@@ -2,10 +2,6 @@
 
 # Stakeholder: __funding organization__ (PBN__Stakeholder_2016)
 
-## Property: has_StakeholderSubgroup
-
-* [Business and Financial Services](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_58.md)
-
 ## Property: has_StakeholderGroup
 
 * [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
@@ -13,4 +9,8 @@
 ## Property: has_StakeholderID
 
 * [Q6055890](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6055890.md)
+
+## Property: has_StakeholderSubgroup
+
+* [Business and Financial Services](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_58.md)
 

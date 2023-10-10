@@ -6,6 +6,10 @@
 
 * [oecd_what_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_287.md)
 
+## Property: has_MitigationRisk
+
+* [Disrupted education during school closures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3110.md)
+
 ## Property: has_MitigationTechnology
 
 * [educational resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_574.md)

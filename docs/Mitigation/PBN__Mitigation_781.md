@@ -6,6 +6,10 @@
 
 * [hizra_houses_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_277.md)
 
+## Property: has_MitigationRisk
+
+* [Inadequate health-oriented features](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2739.md)
+
 ## Property: has_MitigationTechnology
 
 * [health-focused design considerations and standards](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3451.md)

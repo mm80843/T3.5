@@ -6,6 +6,10 @@
 
 * [bou_hatoum_analysis_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_82.md)
 
+## Property: has_MitigationRisk
+
+* [Increased Interactions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2523.md)
+
 ## Property: has_MitigationTechnology
 
 * [shift alteration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3137.md)

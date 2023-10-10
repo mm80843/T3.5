@@ -6,6 +6,10 @@
 
 * [flaxman_report_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_166.md)
 
+## Property: has_MitigationRisk
+
+* [Transmission, Detection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2679.md)
+
 ## Property: has_MitigationTechnology
 
 * [testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_403.md)

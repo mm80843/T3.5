@@ -6,6 +6,10 @@
 
 * [lodder_sars-cov-2_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_70.md)
 
+## Property: has_MitigationRisk
+
+* [Liver transplant recipients with metabolic comorbidities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2940.md)
+
 ## Property: has_MitigationTechnology
 
 * [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)

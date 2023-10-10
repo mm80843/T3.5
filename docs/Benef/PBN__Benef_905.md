@@ -2,20 +2,20 @@
 
 # Benef: __Enhanced risk monitoring__ (PBN__Benef_905)
 
-## Property: has_BenefDetails
-
-Timely identification and response to public health threats
-
-## Property: has_BenefSource
-
-* [sakellarides_viral_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_183.md)
-
 ## Property: has_Beneficiary
 
 * [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
 * [healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_32.md)
 
+## Property: has_BenefSource
+
+* [sakellarides_viral_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_183.md)
+
 ## Property: has_BenefReturn
 
 * [Improved public health outcomes, reduced healthcare costs](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_986.md)
+
+## Property: has_BenefDetails
+
+Timely identification and response to public health threats
 

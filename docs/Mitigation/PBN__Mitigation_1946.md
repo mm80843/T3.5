@@ -6,6 +6,10 @@
 
 * [siriwardhana_role_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_9.md)
 
+## Property: has_MitigationRisk
+
+* [Rapid deployment of healthcare services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3296.md)
+
 ## Property: has_MitigationTechnology
 
 * [ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_278.md)

@@ -2,3 +2,7 @@
 
 # Stakeholder: __population of destination__ (PBN__Stakeholder_1484)
 
+## Property: has_RiskSubject
+
+* [Travel transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2178.md)
+

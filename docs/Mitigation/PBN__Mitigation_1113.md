@@ -6,6 +6,10 @@
 
 * [ligsay_challenges_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_95.md)
 
+## Property: has_MitigationRisk
+
+* [Increased thermal discomfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2932.md)
+
 ## Property: has_MitigationTechnology
 
 * [green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_48.md)

@@ -6,6 +6,10 @@
 
 * [king_mechanisms_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_115.md)
 
+## Property: has_MitigationRisk
+
+* [Delay in project](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2842.md)
+
 ## Property: has_MitigationTechnology
 
 * [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)

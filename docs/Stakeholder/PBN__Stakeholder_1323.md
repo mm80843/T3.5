@@ -2,13 +2,17 @@
 
 # Stakeholder: __individuals in densely populated areas__ (PBN__Stakeholder_1323)
 
-## Property: has_StakeholderSubgroup
+## Property: has_RiskSubject
 
-* [Environmental Conditions and Settings](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_107.md)
+* [Unequal distribution of street open spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1969.md)
 
 ## Property: has_StakeholderGroup
 
 * [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
+
+## Property: has_StakeholderSubgroup
+
+* [Environmental Conditions and Settings](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_107.md)
 
 ## Property: has_StakeholderID
 

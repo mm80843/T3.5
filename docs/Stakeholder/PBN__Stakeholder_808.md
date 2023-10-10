@@ -2,13 +2,17 @@
 
 # Stakeholder: __indoor workers__ (PBN__Stakeholder_808)
 
-## Property: has_StakeholderSubgroup
+## Property: has_RiskSubject
 
-* [Indoor Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_24.md)
+* [Lack of sunlight and fresh air](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1292.md)
 
 ## Property: has_StakeholderGroup
 
 * [Building Occupants](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_11.md)
+
+## Property: has_StakeholderSubgroup
+
+* [Indoor Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_24.md)
 
 ## Property: has_StakeholderID
 

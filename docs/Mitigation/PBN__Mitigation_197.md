@@ -6,6 +6,10 @@
 
 * [ayub_graphene-based_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_187.md)
 
+## Property: has_MitigationRisk
+
+* [Personal protection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2493.md)
+
 ## Property: has_MitigationTechnology
 
 * [graphene-based nanomaterials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_212.md)

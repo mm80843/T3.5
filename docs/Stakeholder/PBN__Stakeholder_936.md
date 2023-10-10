@@ -2,3 +2,7 @@
 
 # Stakeholder: __airport workers__ (PBN__Stakeholder_936)
 
+## Property: has_RiskSubject
+
+* [Spread through Air Travel](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1441.md)
+

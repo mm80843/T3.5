@@ -2,3 +2,7 @@
 
 # Stakeholder: __communities living close to dams__ (PBN__Stakeholder_1094)
 
+## Property: has_RiskSubject
+
+* [Increased prevalence of human schistosomiasis resulting from dam constructions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1662.md)
+

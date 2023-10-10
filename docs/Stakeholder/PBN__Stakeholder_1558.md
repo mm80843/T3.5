@@ -2,3 +2,7 @@
 
 # Stakeholder: __platform developers__ (PBN__Stakeholder_1558)
 
+## Property: has_OwnerRisk
+
+* [Cybersecurity risks and privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2329.md)
+

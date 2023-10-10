@@ -2,3 +2,7 @@
 
 # Stakeholder: __surveyors__ (PBN__Stakeholder_982)
 
+## Property: has_RiskSubject
+
+* [Limited site access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1527.md)
+

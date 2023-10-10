@@ -2,13 +2,13 @@
 
 # Article: __cherkaoui_conservation_2020__ (PBN__Article_333)
 
-## Property: has_ArticleTitle
-
-Conservation Amid COVID-19 Pandemic: Ecotourism Collapse Threatens Communities and Wildlife in Morocco
-
 ## Property: has_ArticleYear
 
 2020
+
+## Property: has_ArticleTitle
+
+Conservation Amid COVID-19 Pandemic: Ecotourism Collapse Threatens Communities and Wildlife in Morocco
 
 ## Property: has_ArticleDOI
 

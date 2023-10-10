@@ -6,6 +6,10 @@
 
 * [semenza_prototype_2015](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_212.md)
 
+## Property: has_MitigationRisk
+
+* [Vector-borne diseases outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3268.md)
+
 ## Property: has_MitigationTechnology
 
 * [entomological surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4114.md)

@@ -6,6 +6,10 @@
 
 * [kraemer_effect_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_248.md)
 
+## Property: has_MitigationRisk
+
+* [Local transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1595.md)
+
 ## Property: has_MitigationTechnology
 
 * [public health measures such as social distancing and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3588.md)

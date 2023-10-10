@@ -6,6 +6,10 @@
 
 * [alabaster_global_2016](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_132.md)
 
+## Property: has_MitigationRisk
+
+* [Poor waste management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2434.md)
+
 ## Property: has_MitigationTechnology
 
 * [waste management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2962.md)

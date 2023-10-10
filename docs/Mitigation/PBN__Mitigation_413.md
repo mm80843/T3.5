@@ -6,6 +6,10 @@
 
 * [cheshmehzangi_10_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_63.md)
 
+## Property: has_MitigationRisk
+
+* [Reducing non-essential use](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2561.md)
+
 ## Property: has_MitigationTechnology
 
 * [temporary closure protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3204.md)

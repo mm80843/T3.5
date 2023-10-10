@@ -6,6 +6,10 @@
 
 * [burki_wearable_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_195.md)
 
+## Property: has_MitigationRisk
+
+* [Potential lack of coverage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2536.md)
+
 ## Property: has_MitigationTechnology
 
 * [health insurance policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3172.md)

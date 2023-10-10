@@ -2,13 +2,17 @@
 
 # Stakeholder: __international travelers__ (PBN__Stakeholder_1389)
 
-## Property: has_StakeholderSubgroup
+## Property: has_RiskSubject
 
-* [Travellers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_145.md)
+* [Globalization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2075.md)
 
 ## Property: has_StakeholderGroup
 
 * [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
+
+## Property: has_StakeholderSubgroup
+
+* [Travellers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_145.md)
 
 ## Property: has_StakeholderID
 

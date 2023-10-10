@@ -6,6 +6,10 @@
 
 * [gurney_dangerous_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_2.md)
 
+## Property: has_MitigationRisk
+
+* [Harms in the neighbourhood](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2709.md)
+
 ## Property: has_MitigationTechnology
 
 * [community care centers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3415.md)

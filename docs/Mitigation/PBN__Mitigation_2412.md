@@ -6,6 +6,10 @@
 
 * [wu_sars-cov-2_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_251.md)
 
+## Property: has_MitigationRisk
+
+* [Inactivation of virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3447.md)
+
 ## Property: has_MitigationTechnology
 
 * [heat](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3404.md)

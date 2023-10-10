@@ -2,3 +2,7 @@
 
 # Stakeholder: __international donors__ (PBN__Stakeholder_1478)
 
+## Property: has_OwnerRisk
+
+* [Decline in conservation revenue](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2174.md)
+

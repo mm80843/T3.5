@@ -2,13 +2,13 @@
 
 # Article: __assaad_guidelines_2021__ (PBN__Article_323)
 
-## Property: has_ArticleTitle
-
-Guidelines for Responding to COVID-19 Pandemic: Best Practices, Impacts, and Future Research Directions
-
 ## Property: has_ArticleYear
 
 2021
+
+## Property: has_ArticleTitle
+
+Guidelines for Responding to COVID-19 Pandemic: Best Practices, Impacts, and Future Research Directions
 
 ## Property: has_ArticleDOI
 

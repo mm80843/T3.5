@@ -6,6 +6,10 @@
 
 * [larson_urban_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_276.md)
 
+## Property: has_MitigationRisk
+
+* [Limited quality of parks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2898.md)
+
 ## Property: has_MitigationTechnology
 
 * [investment in park infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3612.md)

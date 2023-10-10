@@ -6,6 +6,10 @@
 
 * [tomalska_preparing_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_129.md)
 
+## Property: has_MitigationRisk
+
+* [Efficient distribution of resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3371.md)
+
 ## Property: has_MitigationTechnology
 
 * [coordination mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4311.md)

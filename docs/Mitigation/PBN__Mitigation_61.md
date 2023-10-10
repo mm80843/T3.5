@@ -8,6 +8,12 @@
 * [barcelo_wastewater-based_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_178.md)
 * [hart_computational_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_252.md)
 
+## Property: has_MitigationRisk
+
+* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
+* [False-positive results](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2423.md)
+* [Bias in regions without testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2718.md)
+
 ## Property: has_MitigationTechnology
 
 * [reverse transcriptase quantitative polymerase chain reaction (rt-qpcr)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2943.md)

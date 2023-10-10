@@ -2,13 +2,17 @@
 
 # Stakeholder: __users of digital tools and platforms__ (PBN__Stakeholder_881)
 
-## Property: has_StakeholderSubgroup
+## Property: has_RiskSubject
 
-* [Users](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_101.md)
+* [Privacy and data security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1370.md)
 
 ## Property: has_StakeholderGroup
 
 * [Technology Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_12.md)
+
+## Property: has_StakeholderSubgroup
+
+* [Users](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_101.md)
 
 ## Property: has_StakeholderID
 

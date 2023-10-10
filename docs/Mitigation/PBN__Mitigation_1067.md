@@ -6,6 +6,10 @@
 
 * [larson_urban_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_276.md)
 
+## Property: has_MitigationRisk
+
+* [Inequitable distribution of resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2899.md)
+
 ## Property: has_MitigationTechnology
 
 * [resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_608.md)

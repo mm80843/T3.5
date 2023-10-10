@@ -6,6 +6,10 @@
 
 * [mesa_vieira_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_236.md)
 
+## Property: has_MitigationRisk
+
+* [Mental health issues among healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3032.md)
+
 ## Property: has_MitigationTechnology
 
 * [training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_82.md)

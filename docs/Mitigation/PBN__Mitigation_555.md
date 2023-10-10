@@ -14,6 +14,18 @@
 * [sigler_socio-spatial_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_175.md)
 * [thompson_real-world_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_155.md)
 
+## Property: has_MitigationRisk
+
+* [Airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_252.md)
+* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
+* [Infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2622.md)
+* [Inadequate Protection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2671.md)
+* [Contagion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2685.md)
+* [Viral Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2817.md)
+* [Transmission of the virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2861.md)
+* [Direct Contact Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2973.md)
+* [Person-to-Person Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3281.md)
+
 ## Property: has_MitigationTechnology
 
 * [n95 respirator](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3301.md)

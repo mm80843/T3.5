@@ -2,3 +2,11 @@
 
 # Stakeholder: __finance department__ (PBN__Stakeholder_990)
 
+## Property: has_RiskSubject
+
+* [Cash flow management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1533.md)
+
+## Property: has_OwnerRisk
+
+* [Cash flow management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1533.md)
+

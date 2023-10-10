@@ -6,6 +6,10 @@
 
 * [rassia_how_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_34.md)
 
+## Property: has_MitigationRisk
+
+* [Limited access to fresh produce](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3221.md)
+
 ## Property: has_MitigationTechnology
 
 * [greenhouse technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4012.md)

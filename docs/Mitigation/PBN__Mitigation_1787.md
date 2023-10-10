@@ -6,6 +6,10 @@
 
 * [saini_comprehensive_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_281.md)
 
+## Property: has_MitigationRisk
+
+* [Mold Growth, Poor IAQ](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3254.md)
+
 ## Property: has_MitigationTechnology
 
 * [moisture management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4068.md)

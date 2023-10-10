@@ -6,6 +6,10 @@
 
 * [marinelli_emergency_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_122.md)
 
+## Property: has_MitigationRisk
+
+* [Cleaning purposes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2967.md)
+
 ## Property: has_MitigationTechnology
 
 * [hot water of at least 70°c](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3734.md)

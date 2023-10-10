@@ -2,3 +2,7 @@
 
 # Stakeholder: __public health authorities and meteorological agencies are responsible for monitoring and regulating indoor and outdoor conditions to reduce influenza seasonality__ (PBN__Stakeholder_1138)
 
+## Property: has_OwnerRisk
+
+* [Impact of indoor and outdoor conditions on influenza seasonality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1708.md)
+

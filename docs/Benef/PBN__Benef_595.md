@@ -2,19 +2,19 @@
 
 # Benef: __Susceptibility__ (PBN__Benef_595)
 
-## Property: has_BenefDetails
+## Property: has_Beneficiary
 
-Identification of risk factors for infection
+* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
 
 ## Property: has_BenefSource
 
 * [wu_current_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_118.md)
 
-## Property: has_Beneficiary
-
-* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
-
 ## Property: has_BenefReturn
 
 * [Asset value increase from improved risk assessment](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_646.md)
+
+## Property: has_BenefDetails
+
+Identification of risk factors for infection
 

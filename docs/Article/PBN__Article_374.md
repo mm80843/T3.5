@@ -2,13 +2,13 @@
 
 # Article: __wolfs_biophilic_2015__ (PBN__Article_374)
 
-## Property: has_ArticleTitle
-
-Biophilic Design and Bio-Collaboration
-
 ## Property: has_ArticleYear
 
 2015
+
+## Property: has_ArticleTitle
+
+Biophilic Design and Bio-Collaboration
 
 ## Property: has_ArticleDOI
 

@@ -9,6 +9,12 @@
 * [rokooei_perception_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_293.md)
 * [thukral_covid19_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_194.md)
 
+## Property: has_MitigationRisk
+
+* [Contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1882.md)
+* [Surface contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2616.md)
+* [Contagion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2685.md)
+
 ## Property: has_MitigationTechnology
 
 * [sanitization tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3379.md)

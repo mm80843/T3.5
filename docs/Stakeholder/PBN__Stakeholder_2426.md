@@ -2,10 +2,6 @@
 
 # Stakeholder: __country participating in gvc__ (PBN__Stakeholder_2426)
 
-## Property: has_StakeholderSubgroup
-
-* [Economic and Trade Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_122.md)
-
 ## Property: has_StakeholderGroup
 
 * [National Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_7.md)
@@ -13,4 +9,8 @@
 ## Property: has_StakeholderID
 
 * [Q17154120](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q17154120.md)
+
+## Property: has_StakeholderSubgroup
+
+* [Economic and Trade Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_122.md)
 

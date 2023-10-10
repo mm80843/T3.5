@@ -2,3 +2,7 @@
 
 # Stakeholder: __procurement departments__ (PBN__Stakeholder_953)
 
+## Property: has_OwnerRisk
+
+* [Equipping the hospital](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1473.md)
+

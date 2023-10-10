@@ -2,11 +2,6 @@
 
 # Stakeholder: __real estate managers__ (PBN__Stakeholder_2065)
 
-## Property: has_StakeholderSubgroup
-
-* [Managers/Operators](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_69.md)
-* [Real Estate and Construction](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_31.md)
-
 ## Property: has_StakeholderGroup
 
 * [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
@@ -15,4 +10,9 @@
 ## Property: has_StakeholderID
 
 * [Q58081477](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q58081477.md)
+
+## Property: has_StakeholderSubgroup
+
+* [Managers/Operators](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_69.md)
+* [Real Estate and Construction](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_31.md)
 

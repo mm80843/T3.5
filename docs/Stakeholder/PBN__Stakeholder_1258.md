@@ -2,3 +2,7 @@
 
 # Stakeholder: __legal teams__ (PBN__Stakeholder_1258)
 
+## Property: has_OwnerRisk
+
+* [Legal and contractual disputes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1865.md)
+

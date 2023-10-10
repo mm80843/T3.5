@@ -2,13 +2,13 @@
 
 # Article: __aloulou_design_2022__ (PBN__Article_314)
 
-## Property: has_ArticleTitle
-
-Design COVID-19 Ontology: A Healthcare and Safety Perspective
-
 ## Property: has_ArticleYear
 
 2022
+
+## Property: has_ArticleTitle
+
+Design COVID-19 Ontology: A Healthcare and Safety Perspective
 
 ## Property: has_ArticleDOI
 

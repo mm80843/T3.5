@@ -6,19 +6,33 @@
 
 2020
 
-## Property: has_ArticleLLMShortSummary
+## Property: has_ArticleLLMSummary
 
-This research paper assesses the impact of the Covid-19 pandemic on various categories of actively managed funds in Europe. The study analyzes the risk-adjusted performance of EU-based investment funds and examines changes in investment behavior by fund managers in response to the evolving Covid-19 situation. The sample includes funds from 15 European countries that have reported more than 10,000 infections. The study divides the Covid-19 outbreak into three phases and evaluates the performance and investment styles during each phase. The results show that social entrepreneurship funds outperformed other fund categories consistently throughout the pandemic. There were also shifts in investment strategies towards safer options, non-cyclical sectors, and countries with lower infection rates. However, the researchers note that these findings are preliminary and based on limited data, and further monitoring and analysis are needed to fully understand the impact of Covid-19 on mutual funds.
+A new virus called Covid-19 has spread around the world and it has had a big impact on the economy. Many countries have had to close businesses and people have lost their jobs. This study looks at how this virus has affected different types of investment funds in Europe. The study found that a special type of fund called social entrepreneurship funds did well, while other types of funds did not. The study also looked at how the managers of these funds changed their investment strategies during the different phases of the virus. Overall, the study showed that the virus has had a big impact on the economy and the way people invest their money.
+
+## Property: has_BenefInArticle
+
+* [Superior performance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1279.md)
+* [Negative performance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1281.md)
+* [Investment style transitions](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1280.md)
 
 ## Property: has_ArticleTitle
 
 Covid-19 and asset management in EU: a preliminary assessment of performance and investment styles
 
-## Property: has_ArticleLLMSummary
+## Property: has_RiskInArticle
 
-A new virus called Covid-19 has spread around the world and it has had a big impact on the economy. Many countries have had to close businesses and people have lost their jobs. This study looks at how this virus has affected different types of investment funds in Europe. The study found that a special type of fund called social entrepreneurship funds did well, while other types of funds did not. The study also looked at how the managers of these funds changed their investment strategies during the different phases of the virus. Overall, the study showed that the virus has had a big impact on the economy and the way people invest their money.
+* [Spread of contagious epidemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_936.md)
+* [Volatility in financial markets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1976.md)
+* [Increased default rates](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1977.md)
+* [Declining yields on treasury instruments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1978.md)
+* [Superior performance of actively managed funds](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1979.md)
 
 ## Property: has_ArticleDOI
 
 10.1057/s41260-020-00172-3
+
+## Property: has_ArticleLLMShortSummary
+
+This research paper assesses the impact of the Covid-19 pandemic on various categories of actively managed funds in Europe. The study analyzes the risk-adjusted performance of EU-based investment funds and examines changes in investment behavior by fund managers in response to the evolving Covid-19 situation. The sample includes funds from 15 European countries that have reported more than 10,000 infections. The study divides the Covid-19 outbreak into three phases and evaluates the performance and investment styles during each phase. The results show that social entrepreneurship funds outperformed other fund categories consistently throughout the pandemic. There were also shifts in investment strategies towards safer options, non-cyclical sectors, and countries with lower infection rates. However, the researchers note that these findings are preliminary and based on limited data, and further monitoring and analysis are needed to fully understand the impact of Covid-19 on mutual funds.
 

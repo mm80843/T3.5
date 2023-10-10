@@ -6,6 +6,10 @@
 
 * [robbins_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_93.md)
 
+## Property: has_MitigationRisk
+
+* [Limited access to healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3234.md)
+
 ## Property: has_MitigationTechnology
 
 * [telemedicine platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_623.md)

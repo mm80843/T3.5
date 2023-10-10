@@ -2,13 +2,17 @@
 
 # Stakeholder: __rural areas__ (PBN__Stakeholder_879)
 
-## Property: has_StakeholderSubgroup
+## Property: has_RiskSubject
 
-* [Geographical Areas](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_118.md)
+* [Digital exclusion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1369.md)
 
 ## Property: has_StakeholderGroup
 
 * [National Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_7.md)
+
+## Property: has_StakeholderSubgroup
+
+* [Geographical Areas](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_118.md)
 
 ## Property: has_StakeholderID
 

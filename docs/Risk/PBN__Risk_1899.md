@@ -2,27 +2,31 @@
 
 # Risk: __Emotional distress from quarantine and isolation__ (PBN__Risk_1899)
 
-## Property: has_RiskName
-
-Stress, depression, fear, frustration, stigma associated with quarantine
-
-## Property: has_RiskISO_Impact
-
-* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
-
-## Property: has_RiskISO_Purpose
-
-* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
-
 ## Property: has_RiskOwner
 
 * [health care providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_344.md)
 * [mental health professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_368.md)
 
+## Property: has_RiskName
+
+Stress, depression, fear, frustration, stigma associated with quarantine
+
+## Property: has_RiskType
+
+* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
+
 ## Property: has_RiskTechnology
 
 * [supportive interventions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1280.md)
 * [stress management techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1281.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+
+## Property: has_RiskDescription
+
+Home confinement and quarantine cause emotional distress
 
 ## Property: has_RiskSubject
 
@@ -32,21 +36,17 @@ Stress, depression, fear, frustration, stigma associated with quarantine
 
 * [Provide information and support, monitor mental health and stress reactions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2497.md)
 
-## Property: has_RiskDescription
+## Property: has_RiskISO_Impact
 
-Home confinement and quarantine cause emotional distress
-
-## Property: has_RiskHealth
-
-* [mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
-
-## Property: has_RiskType
-
-* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
 
 ## Property: has_RiskGBN
 
 * [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Property: has_RiskHealth
+
+* [mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
 
 ## Property: has_RiskSource
 

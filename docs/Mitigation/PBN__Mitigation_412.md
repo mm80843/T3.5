@@ -6,6 +6,10 @@
 
 * [cheshmehzangi_10_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_63.md)
 
+## Property: has_MitigationRisk
+
+* [Minimizing disease spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2560.md)
+
 ## Property: has_MitigationTechnology
 
 * [control measures for shared facilities and devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3203.md)

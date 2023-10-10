@@ -6,6 +6,10 @@
 
 * [bolivar_learning_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_177.md)
 
+## Property: has_MitigationRisk
+
+* [Risk of infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2469.md)
+
 ## Property: has_MitigationTechnology
 
 * [data analytics platforms (e.g.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3122.md)

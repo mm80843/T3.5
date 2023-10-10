@@ -6,13 +6,6 @@
 
 2020
 
-## Property: has_ArticleRef
-
-* [james_smart_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_164.md)
-* [kraemer_effect_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_248.md)
-* [tian_investigation_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_197.md)
-* [wilkinson_local_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_36.md)
-
 ## Property: has_ArticleTitle
 
 The COVID-19 pandemic: Impacts on cities and major lessons for urban planning, design, and management
@@ -20,4 +13,11 @@ The COVID-19 pandemic: Impacts on cities and major lessons for urban planning, d
 ## Property: has_ArticleDOI
 
 10.1016/j.scitotenv.2020.142391
+
+## Property: has_ArticleRef
+
+* [james_smart_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_164.md)
+* [kraemer_effect_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_248.md)
+* [tian_investigation_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_197.md)
+* [wilkinson_local_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_36.md)
 

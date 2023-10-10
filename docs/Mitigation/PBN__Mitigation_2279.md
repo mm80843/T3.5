@@ -6,6 +6,10 @@
 
 * [vela_rol_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_138.md)
 
+## Property: has_MitigationRisk
+
+* [Spread of infection in crowded spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3410.md)
+
 ## Property: has_MitigationTechnology
 
 * [e-commerce platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_696.md)

@@ -6,6 +6,10 @@
 
 * [yodang_knowledge_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_176.md)
 
+## Property: has_MitigationRisk
+
+* [Lack of knowledge and attitudes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3459.md)
+
 ## Property: has_MitigationTechnology
 
 * [internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3058.md)

@@ -6,6 +6,10 @@
 
 * [kuzemko_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_14.md)
 
+## Property: has_MitigationRisk
+
+* [Disruption of global supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2265.md)
+
 ## Property: has_MitigationTechnology
 
 * [industrial practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3599.md)

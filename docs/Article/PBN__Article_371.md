@@ -2,13 +2,13 @@
 
 # Article: __sarvari_dataset_2020__ (PBN__Article_371)
 
-## Property: has_ArticleTitle
-
-The dataset of an international survey on COVID-19 response in facilities management in 2020
-
 ## Property: has_ArticleYear
 
 2020
+
+## Property: has_ArticleTitle
+
+The dataset of an international survey on COVID-19 response in facilities management in 2020
 
 ## Property: has_ArticleDOI
 

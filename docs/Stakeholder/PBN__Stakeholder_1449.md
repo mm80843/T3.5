@@ -2,13 +2,17 @@
 
 # Stakeholder: __transportation department__ (PBN__Stakeholder_1449)
 
-## Property: has_StakeholderSubgroup
+## Property: has_OwnerRisk
 
-* [Transportation Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_1.md)
+* [Transportation protocols and precautions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2138.md)
 
 ## Property: has_StakeholderGroup
 
 * [City Officials](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_0.md)
+
+## Property: has_StakeholderSubgroup
+
+* [Transportation Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_1.md)
 
 ## Property: has_StakeholderID
 

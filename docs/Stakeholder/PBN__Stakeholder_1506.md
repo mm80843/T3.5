@@ -2,3 +2,7 @@
 
 # Stakeholder: __non-clinical staff__ (PBN__Stakeholder_1506)
 
+## Property: has_RiskSubject
+
+* [Limited human resources for occupational mental health interventions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2243.md)
+

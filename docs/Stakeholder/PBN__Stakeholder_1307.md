@@ -2,13 +2,17 @@
 
 # Stakeholder: __environmental workers__ (PBN__Stakeholder_1307)
 
-## Property: has_StakeholderSubgroup
+## Property: has_RiskSubject
 
-* [Environmental Management and Research](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_162.md)
+* [Inadequate wastewater treatment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1949.md)
 
 ## Property: has_StakeholderGroup
 
 * [Environmental Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_13.md)
+
+## Property: has_StakeholderSubgroup
+
+* [Environmental Management and Research](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_162.md)
 
 ## Property: has_StakeholderID
 

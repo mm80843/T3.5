@@ -2,13 +2,17 @@
 
 # Stakeholder: __government research institutions__ (PBN__Stakeholder_994)
 
-## Property: has_StakeholderSubgroup
+## Property: has_OwnerRisk
 
-* [Research Institutions](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_120.md)
+* [Lack of vaccines and agent-specific drugs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1540.md)
 
 ## Property: has_StakeholderGroup
 
 * [National Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_7.md)
+
+## Property: has_StakeholderSubgroup
+
+* [Research Institutions](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_120.md)
 
 ## Property: has_StakeholderID
 

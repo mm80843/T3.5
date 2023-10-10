@@ -6,6 +6,10 @@
 
 * [lee_designing_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_26.md)
 
+## Property: has_MitigationRisk
+
+* [Inaccurate or random results](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2927.md)
+
 ## Property: has_MitigationTechnology
 
 * [state-transition matrix](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3658.md)

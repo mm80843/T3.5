@@ -2,13 +2,13 @@
 
 # Article: __luka_emerging_2016__ (PBN__Article_358)
 
-## Property: has_ArticleTitle
-
-Emerging challenges of vector-borne diseases for Canadian cities
-
 ## Property: has_ArticleYear
 
 2016
+
+## Property: has_ArticleTitle
+
+Emerging challenges of vector-borne diseases for Canadian cities
 
 ## Property: has_ArticleDOI
 

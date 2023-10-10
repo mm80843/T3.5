@@ -6,6 +6,10 @@
 
 * [cheshmehzangi_10_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_63.md)
 
+## Property: has_MitigationRisk
+
+* [Facilitating essential services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2562.md)
+
 ## Property: has_MitigationTechnology
 
 * [designated community-level zones](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3205.md)

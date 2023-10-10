@@ -6,6 +6,10 @@
 
 * [buonanno_far-uvc_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_182.md)
 
+## Property: has_MitigationRisk
+
+* [health effects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2533.md)
+
 ## Property: has_MitigationTechnology
 
 * [filtered excimer lamps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3154.md)

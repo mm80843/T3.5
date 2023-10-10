@@ -2,3 +2,7 @@
 
 # Stakeholder: __particularly those who rely on accurate information and guidance__ (PBN__Stakeholder_816)
 
+## Property: has_RiskSubject
+
+* [Lack of communication and transparency](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1297.md)
+

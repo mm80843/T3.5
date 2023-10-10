@@ -6,6 +6,10 @@
 
 * [cheshmehzangi_revisiting_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_59.md)
 
+## Property: has_MitigationRisk
+
+* [Inconsistent implementation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2569.md)
+
 ## Property: has_MitigationTechnology
 
 * [interior design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3214.md)

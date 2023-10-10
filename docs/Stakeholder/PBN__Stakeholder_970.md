@@ -2,13 +2,18 @@
 
 # Stakeholder: __communication team__ (PBN__Stakeholder_970)
 
-## Property: has_StakeholderSubgroup
+## Property: has_OwnerRisk
 
-* [Communication Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_34.md)
+* [Lack of awareness and education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1165.md)
+* [Inadequate communication and awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1503.md)
 
 ## Property: has_StakeholderGroup
 
 * [Media](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_3.md)
+
+## Property: has_StakeholderSubgroup
+
+* [Communication Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_34.md)
 
 ## Property: has_StakeholderID
 

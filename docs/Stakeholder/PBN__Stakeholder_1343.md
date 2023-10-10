@@ -2,3 +2,7 @@
 
 # Stakeholder: __individuals living alone or with limited social connections__ (PBN__Stakeholder_1343)
 
+## Property: has_RiskSubject
+
+* [Lack of social support and social isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1992.md)
+

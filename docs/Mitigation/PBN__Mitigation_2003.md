@@ -6,6 +6,10 @@
 
 * [spennemann_designing_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_149.md)
 
+## Property: has_MitigationRisk
+
+* [Infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2622.md)
+
 ## Property: has_MitigationTechnology
 
 * [desk-based extraction](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4186.md)

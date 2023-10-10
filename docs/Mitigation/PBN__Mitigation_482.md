@@ -6,6 +6,10 @@
 
 * [cuerdo-vilches_mixed_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_89.md)
 
+## Property: has_MitigationRisk
+
+* [Limited space and function of rooms](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2580.md)
+
 ## Property: has_MitigationTechnology
 
 * [flexible furniture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3254.md)

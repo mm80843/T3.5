@@ -2,3 +2,7 @@
 
 # Stakeholder: __industries reliant on tourism and travel__ (PBN__Stakeholder_597)
 
+## Property: has_RiskSubject
+
+* [Economic impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_124.md)
+

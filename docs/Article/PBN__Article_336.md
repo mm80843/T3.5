@@ -2,13 +2,13 @@
 
 # Article: __cole_navigating_2020__ (PBN__Article_336)
 
-## Property: has_ArticleTitle
-
-Navigating Climate Change: Rethinking the Role of Buildings
-
 ## Property: has_ArticleYear
 
 2020
+
+## Property: has_ArticleTitle
+
+Navigating Climate Change: Rethinking the Role of Buildings
 
 ## Property: has_ArticleDOI
 

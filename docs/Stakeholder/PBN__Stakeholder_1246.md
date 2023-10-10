@@ -2,13 +2,21 @@
 
 # Stakeholder: __governments and international organizations__ (PBN__Stakeholder_1246)
 
-## Property: has_StakeholderSubgroup
+## Property: has_OwnerRisk
 
-* [International and Health Organizations](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_116.md)
+* [Propagation of shocks in GVCs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1839.md)
+
+## Property: has_RiskSubject
+
+* [Trade-offs between efficiency and stability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1841.md)
 
 ## Property: has_StakeholderGroup
 
 * [National Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_7.md)
+
+## Property: has_StakeholderSubgroup
+
+* [International and Health Organizations](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_116.md)
 
 ## Property: has_StakeholderID
 

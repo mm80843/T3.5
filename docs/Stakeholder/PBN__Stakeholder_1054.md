@@ -2,3 +2,7 @@
 
 # Stakeholder: __research staff__ (PBN__Stakeholder_1054)
 
+## Property: has_RiskSubject
+
+* [Safety of laboratory personnel and environment during sample handling and analysis](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1628.md)
+

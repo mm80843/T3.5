@@ -2,3 +2,8 @@
 
 # Stakeholder: __ethics committees__ (PBN__Stakeholder_893)
 
+## Property: has_OwnerRisk
+
+* [Ethical considerations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_163.md)
+* [Legal and ethical considerations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1988.md)
+

@@ -2,3 +2,7 @@
 
 # Stakeholder: __iaq experts__ (PBN__Stakeholder_1360)
 
+## Property: has_OwnerRisk
+
+* [Lack of IAQ monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2020.md)
+

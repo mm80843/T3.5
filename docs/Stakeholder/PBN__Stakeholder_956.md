@@ -2,3 +2,7 @@
 
 # Stakeholder: __organizations and building managers__ (PBN__Stakeholder_956)
 
+## Property: has_OwnerRisk
+
+* [Spread of contagious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_20.md)
+

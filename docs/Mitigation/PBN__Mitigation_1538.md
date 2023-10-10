@@ -6,6 +6,10 @@
 
 * [oni_implications_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_68.md)
 
+## Property: has_MitigationRisk
+
+* [Inequitable distribution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3126.md)
+
 ## Property: has_MitigationTechnology
 
 * [collaborative platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1132.md)

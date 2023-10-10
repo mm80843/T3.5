@@ -6,6 +6,10 @@
 
 * [wu_current_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_118.md)
 
+## Property: has_MitigationRisk
+
+* [Lack of long-term protection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3440.md)
+
 ## Property: has_MitigationTechnology
 
 * [attenuated/inactivated virus](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4471.md)

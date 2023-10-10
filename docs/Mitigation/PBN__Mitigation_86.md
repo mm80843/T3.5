@@ -6,6 +6,10 @@
 
 * [al-mumin_occupants_2003](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_260.md)
 
+## Property: has_MitigationRisk
+
+* [Inefficient energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2427.md)
+
 ## Property: has_MitigationTechnology
 
 * [courtyard concept](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2956.md)

@@ -6,6 +6,10 @@
 
 * [jefferson_physical_2008](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_22.md)
 
+## Property: has_MitigationRisk
+
+* [Low Compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2275.md)
+
 ## Property: has_MitigationTechnology
 
 * [information and education programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3550.md)

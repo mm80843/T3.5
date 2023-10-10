@@ -6,6 +6,10 @@
 
 * [li_association_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_32.md)
 
+## Property: has_MitigationRisk
+
+* [Spread of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_91.md)
+
 ## Property: has_MitigationTechnology
 
 * [hand sanitizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_412.md)

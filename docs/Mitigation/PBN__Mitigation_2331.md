@@ -6,6 +6,10 @@
 
 * [wang_urban_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_291.md)
 
+## Property: has_MitigationRisk
+
+* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
+
 ## Property: has_MitigationTechnology
 
 * [internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3058.md)

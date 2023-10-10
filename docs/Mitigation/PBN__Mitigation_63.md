@@ -6,6 +6,10 @@
 
 * [ahmed_first_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_205.md)
 
+## Property: has_MitigationRisk
+
+* [Low recovery of SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2425.md)
+
 ## Property: has_MitigationTechnology
 
 * [electronegative membranes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2945.md)

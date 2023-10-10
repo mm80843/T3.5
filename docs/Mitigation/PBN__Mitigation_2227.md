@@ -6,6 +6,10 @@
 
 * [ugolini_effects_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_90.md)
 
+## Property: has_MitigationRisk
+
+* [Contagion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2685.md)
+
 ## Property: has_MitigationTechnology
 
 * [education materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4344.md)

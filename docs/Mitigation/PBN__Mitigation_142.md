@@ -6,6 +6,10 @@
 
 * [ara_dilshad_shangi_adaptive_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_151.md)
 
+## Property: has_MitigationRisk
+
+* [Mental and physical health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2460.md)
+
 ## Property: has_MitigationTechnology
 
 * [open spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2990.md)

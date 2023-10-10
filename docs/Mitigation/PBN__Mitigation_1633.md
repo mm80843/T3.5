@@ -6,6 +6,10 @@
 
 * [poch_when_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_207.md)
 
+## Property: has_MitigationRisk
+
+* [Accuracy of data, Representativeness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3179.md)
+
 ## Property: has_MitigationTechnology
 
 * [wastewater testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3686.md)

@@ -6,6 +6,10 @@
 
 * [alabaster_global_2016](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_132.md)
 
+## Property: has_MitigationRisk
+
+* [Lack of understanding disease transmission pattern](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2436.md)
+
 ## Property: has_MitigationTechnology
 
 * [surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1963.md)

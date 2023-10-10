@@ -6,6 +6,10 @@
 
 * [uchiyama_access_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_275.md)
 
+## Property: has_MitigationRisk
+
+* [Overcrowding in public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3381.md)
+
 ## Property: has_MitigationTechnology
 
 * [locks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4317.md)

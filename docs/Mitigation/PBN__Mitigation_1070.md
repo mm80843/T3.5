@@ -6,6 +6,10 @@
 
 * [lawal_covid-19_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_215.md)
 
+## Property: has_MitigationRisk
+
+* [Respiratory illnesses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2902.md)
+
 ## Property: has_MitigationTechnology
 
 * [reduced fossil fuel use](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3615.md)

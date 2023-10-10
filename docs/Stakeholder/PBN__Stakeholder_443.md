@@ -2,6 +2,10 @@
 
 # Stakeholder: __indigenous populations__ (PBN__Stakeholder_443)
 
+## Property: has_RiskSubject
+
+* [Vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1764.md)
+
 ## Property: has_StakeholderID
 
 * [Q1277626](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1277626.md)

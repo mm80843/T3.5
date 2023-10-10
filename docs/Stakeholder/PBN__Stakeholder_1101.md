@@ -2,3 +2,7 @@
 
 # Stakeholder: __pet owners__ (PBN__Stakeholder_1101)
 
+## Property: has_RiskSubject
+
+* [Increased risk of zoonotic diseases from urban rats](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1668.md)
+

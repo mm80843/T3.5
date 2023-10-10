@@ -6,6 +6,10 @@
 
 * [robbins_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_93.md)
 
+## Property: has_MitigationRisk
+
+* [Disrupted educational activities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3232.md)
+
 ## Property: has_MitigationTechnology
 
 * [virtual meeting platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3925.md)

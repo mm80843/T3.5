@@ -2,3 +2,7 @@
 
 # Stakeholder: __iot device manufacturers__ (PBN__Stakeholder_790)
 
+## Property: has_OwnerRisk
+
+* [IoT device vulnerabilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1276.md)
+

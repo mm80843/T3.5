@@ -2,10 +2,6 @@
 
 # Stakeholder: __small and medium-sized busines__ (PBN__Stakeholder_2003)
 
-## Property: has_StakeholderSubgroup
-
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_7.md)
-
 ## Property: has_StakeholderGroup
 
 * [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
@@ -13,4 +9,8 @@
 ## Property: has_StakeholderID
 
 * [Q5002014](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5002014.md)
+
+## Property: has_StakeholderSubgroup
+
+* [nan](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_7.md)
 

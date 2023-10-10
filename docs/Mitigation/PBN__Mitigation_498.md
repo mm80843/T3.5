@@ -6,6 +6,10 @@
 
 * [dalessandro_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_161.md)
 
+## Property: has_MitigationRisk
+
+* [Poor thermal comfort, inadequate indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2593.md)
+
 ## Property: has_MitigationTechnology
 
 * [correct orientation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3264.md)

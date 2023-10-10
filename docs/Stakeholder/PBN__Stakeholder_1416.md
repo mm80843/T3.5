@@ -2,3 +2,7 @@
 
 # Stakeholder: __renewable energy industry__ (PBN__Stakeholder_1416)
 
+## Property: has_OwnerRisk
+
+* [Negative impact on renewable energy sector](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2113.md)
+

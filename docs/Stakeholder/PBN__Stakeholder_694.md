@@ -2,3 +2,7 @@
 
 # Stakeholder: __mental health experts__ (PBN__Stakeholder_694)
 
+## Property: has_OwnerRisk
+
+* [Mental health impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1161.md)
+

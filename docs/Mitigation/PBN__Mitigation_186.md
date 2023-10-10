@@ -6,6 +6,10 @@
 
 * [awada_ten_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_38.md)
 
+## Property: has_MitigationRisk
+
+* [Sedentary Lifestyle](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2484.md)
+
 ## Property: has_MitigationTechnology
 
 * [active workstations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3049.md)

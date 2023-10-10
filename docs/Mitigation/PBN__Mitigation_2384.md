@@ -6,6 +6,10 @@
 
 * [wilkinson_local_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_36.md)
 
+## Property: has_MitigationRisk
+
+* [Lack of data on settlements](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3437.md)
+
 ## Property: has_MitigationTechnology
 
 * [local data collection methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4449.md)

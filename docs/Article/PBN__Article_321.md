@@ -2,13 +2,13 @@
 
 # Article: __lytle_predicted_2005__ (PBN__Article_321)
 
-## Property: has_ArticleTitle
-
-Predicted Inactivation of Viruses of Relevance to Biodefense by Solar Radiation
-
 ## Property: has_ArticleYear
 
 2005
+
+## Property: has_ArticleTitle
+
+Predicted Inactivation of Viruses of Relevance to Biodefense by Solar Radiation
 
 ## Property: has_ArticleDOI
 

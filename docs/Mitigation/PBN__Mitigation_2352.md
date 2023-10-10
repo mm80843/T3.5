@@ -6,6 +6,10 @@
 
 * [webb_smart_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_294.md)
 
+## Property: has_MitigationRisk
+
+* [Personnel management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3421.md)
+
 ## Property: has_MitigationTechnology
 
 * [gps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3000.md)

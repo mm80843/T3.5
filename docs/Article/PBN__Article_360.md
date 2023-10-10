@@ -2,13 +2,13 @@
 
 # Article: __martinez_covid-19_2021__ (PBN__Article_360)
 
-## Property: has_ArticleTitle
-
-Covid-19 and civil engineering – the need for a better understanding of epidemiology
-
 ## Property: has_ArticleYear
 
 2021
+
+## Property: has_ArticleTitle
+
+Covid-19 and civil engineering – the need for a better understanding of epidemiology
 
 ## Property: has_ArticleDOI
 

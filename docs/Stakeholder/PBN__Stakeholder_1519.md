@@ -2,13 +2,17 @@
 
 # Stakeholder: __displaced workers__ (PBN__Stakeholder_1519)
 
-## Property: has_StakeholderSubgroup
+## Property: has_RiskSubject
 
-* [Workers/Professionals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_47.md)
+* [Fragmentation of employment services and training](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2270.md)
 
 ## Property: has_StakeholderGroup
 
 * [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
+
+## Property: has_StakeholderSubgroup
+
+* [Workers/Professionals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_47.md)
 
 ## Property: has_StakeholderID
 

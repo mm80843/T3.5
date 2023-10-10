@@ -6,6 +6,10 @@
 
 * [cheshmehzangi_10_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_63.md)
 
+## Property: has_MitigationRisk
+
+* [Disseminating information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2558.md)
+
 ## Property: has_MitigationTechnology
 
 * [large screens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_365.md)

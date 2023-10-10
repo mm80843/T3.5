@@ -2,3 +2,8 @@
 
 # Stakeholder: __commercial areas__ (PBN__Stakeholder_1299)
 
+## Property: has_RiskSubject
+
+* [Water use patterns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1916.md)
+* [Wastewater collection and treatment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1917.md)
+

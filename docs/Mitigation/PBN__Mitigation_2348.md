@@ -6,6 +6,10 @@
 
 * [webb_smart_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_294.md)
 
+## Property: has_MitigationRisk
+
+* [Data breaches](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3419.md)
+
 ## Property: has_MitigationTechnology
 
 * [data encryption](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_346.md)

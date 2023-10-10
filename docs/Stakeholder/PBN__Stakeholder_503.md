@@ -2,6 +2,10 @@
 
 # Stakeholder: __covid-19 patients__ (PBN__Stakeholder_503)
 
+## Property: has_RiskSubject
+
+* [Stigma and discrimination towards COVID-19 patients](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2385.md)
+
 ## Property: has_StakeholderID
 
 * [Q97189089](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q97189089.md)

@@ -6,6 +6,10 @@
 
 * [saari_effect_2006](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_223.md)
 
+## Property: has_MitigationRisk
+
+* [Decreased performance due to high temperatures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3244.md)
+
 ## Property: has_MitigationTechnology
 
 * [hvac system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3190.md)

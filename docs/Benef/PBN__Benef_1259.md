@@ -2,20 +2,20 @@
 
 # Benef: __Prevention of cross-contamination__ (PBN__Benef_1259)
 
-## Property: has_BenefDetails
-
-Reduced risk of spreading the virus from contaminated PPE to other surfaces or individuals
-
-## Property: has_BenefSource
-
-* [ong_air_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_264.md)
-
 ## Property: has_Beneficiary
 
 * [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
 * [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
 
+## Property: has_BenefSource
+
+* [ong_air_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_264.md)
+
 ## Property: has_BenefReturn
 
 * [Enhanced infection control and reduced transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1419.md)
+
+## Property: has_BenefDetails
+
+Reduced risk of spreading the virus from contaminated PPE to other surfaces or individuals
 

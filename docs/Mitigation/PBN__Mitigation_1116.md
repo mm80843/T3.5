@@ -6,6 +6,10 @@
 
 * [ligsay_challenges_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_95.md)
 
+## Property: has_MitigationRisk
+
+* [Increased exposure to mosquitoes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2934.md)
+
 ## Property: has_MitigationTechnology
 
 * [housing quality](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3665.md)

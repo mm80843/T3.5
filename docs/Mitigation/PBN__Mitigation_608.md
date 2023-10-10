@@ -6,6 +6,10 @@
 
 * [el-jardali_amplifying_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_111.md)
 
+## Property: has_MitigationRisk
+
+* [Lack of credibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2657.md)
+
 ## Property: has_MitigationTechnology
 
 * [trust](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3350.md)

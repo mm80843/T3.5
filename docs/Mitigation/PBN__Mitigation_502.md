@@ -6,6 +6,10 @@
 
 * [dalessandro_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_161.md)
 
+## Property: has_MitigationRisk
+
+* [Emissions of VOCs, risk of surface contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2597.md)
+
 ## Property: has_MitigationTechnology
 
 * [eco-active materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3274.md)

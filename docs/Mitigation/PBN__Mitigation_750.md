@@ -6,6 +6,10 @@
 
 * [g_overcoming_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_72.md)
 
+## Property: has_MitigationRisk
+
+* [Lack of transparency and clarity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2711.md)
+
 ## Property: has_MitigationTechnology
 
 * [robots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3001.md)

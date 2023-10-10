@@ -2,3 +2,7 @@
 
 # Stakeholder: __foreign nationals living or visiting saudi arabia__ (PBN__Stakeholder_1276)
 
+## Property: has_RiskSubject
+
+* [High population of foreign nationals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1885.md)
+

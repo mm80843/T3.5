@@ -6,6 +6,10 @@
 
 * [zhang_review_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_171.md)
 
+## Property: has_MitigationRisk
+
+* [Filter leakage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3465.md)
+
 ## Property: has_MitigationTechnology
 
 * [hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_674.md)

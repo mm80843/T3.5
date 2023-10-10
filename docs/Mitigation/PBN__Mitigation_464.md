@@ -10,6 +10,13 @@
 * [rodriguez-fernandez_psychological_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_126.md)
 * [rokooei_perception_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_293.md)
 
+## Property: has_MitigationRisk
+
+* [Airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_252.md)
+* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
+* [Transmission of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2123.md)
+* [Inadequate PPE, Ineffective PPE, Non-compliance with PPE guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3237.md)
+
 ## Property: has_MitigationTechnology
 
 * [face masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_342.md)

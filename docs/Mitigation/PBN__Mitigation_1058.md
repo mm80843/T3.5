@@ -6,6 +6,10 @@
 
 * [kuzemko_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_14.md)
 
+## Property: has_MitigationRisk
+
+* [Resistance to change, inequitable impacts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2892.md)
+
 ## Property: has_MitigationTechnology
 
 * [work practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3603.md)

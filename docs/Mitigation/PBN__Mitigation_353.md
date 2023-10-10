@@ -6,6 +6,10 @@
 
 * [cantarero_covid19-routes_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_201.md)
 
+## Property: has_MitigationRisk
+
+* [Transmission, Exposure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2537.md)
+
 ## Property: has_MitigationTechnology
 
 * [rule-based system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3175.md)

@@ -6,6 +6,10 @@
 
 * [chen_climate_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_145.md)
 
+## Property: has_MitigationRisk
+
+* [Exposing items or surfaces to UV radiation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2548.md)
+
 ## Property: has_MitigationTechnology
 
 * [uv lamps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3193.md)

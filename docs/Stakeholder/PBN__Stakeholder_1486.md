@@ -2,3 +2,11 @@
 
 # Stakeholder: __pharmacies__ (PBN__Stakeholder_1486)
 
+## Property: has_RiskSubject
+
+* [Inefficient medication delivery](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2188.md)
+
+## Property: has_OwnerRisk
+
+* [Inefficient medication delivery](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2188.md)
+

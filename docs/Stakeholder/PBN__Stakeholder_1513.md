@@ -2,3 +2,7 @@
 
 # Stakeholder: __disabled individuals__ (PBN__Stakeholder_1513)
 
+## Property: has_RiskSubject
+
+* [Limited access to UGS for vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2256.md)
+

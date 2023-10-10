@@ -2,13 +2,13 @@
 
 # Article: __corlett_impacts_2020__ (PBN__Article_335)
 
-## Property: has_ArticleTitle
-
-Impacts of the coronavirus pandemic on biodiversity conservation
-
 ## Property: has_ArticleYear
 
 2020
+
+## Property: has_ArticleTitle
+
+Impacts of the coronavirus pandemic on biodiversity conservation
 
 ## Property: has_ArticleDOI
 

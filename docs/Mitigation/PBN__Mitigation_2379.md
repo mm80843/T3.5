@@ -6,6 +6,10 @@
 
 * [whitelaw_applications_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_127.md)
 
+## Property: has_MitigationRisk
+
+* [Infringement on privacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3434.md)
+
 ## Property: has_MitigationTechnology
 
 * [anonymity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_98.md)

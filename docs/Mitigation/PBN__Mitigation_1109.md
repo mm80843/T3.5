@@ -6,6 +6,10 @@
 
 * [lee_rapid_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_77.md)
 
+## Property: has_MitigationRisk
+
+* [Migration of infectious particles from the isolation room into the corridor](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2928.md)
+
 ## Property: has_MitigationTechnology
 
 * [partitioning materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3659.md)

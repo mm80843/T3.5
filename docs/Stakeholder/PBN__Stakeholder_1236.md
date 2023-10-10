@@ -2,3 +2,7 @@
 
 # Stakeholder: __including residents and visitors__ (PBN__Stakeholder_1236)
 
+## Property: has_RiskSubject
+
+* [Inadequate maintenance and management of urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1826.md)
+

@@ -2,10 +2,6 @@
 
 # Stakeholder: __internet service subscribers__ (PBN__Stakeholder_2543)
 
-## Property: has_StakeholderSubgroup
-
-* [Subscribers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_149.md)
-
 ## Property: has_StakeholderGroup
 
 * [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
@@ -13,4 +9,8 @@
 ## Property: has_StakeholderID
 
 * [Q19967801](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q19967801.md)
+
+## Property: has_StakeholderSubgroup
+
+* [Subscribers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_149.md)
 

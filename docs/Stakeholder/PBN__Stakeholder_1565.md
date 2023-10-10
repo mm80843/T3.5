@@ -2,3 +2,7 @@
 
 # Stakeholder: __those with restricted access to resources__ (PBN__Stakeholder_1565)
 
+## Property: has_RiskSubject
+
+* [Privacy invasion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2343.md)
+

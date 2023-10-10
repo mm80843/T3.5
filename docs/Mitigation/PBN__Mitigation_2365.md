@@ -6,6 +6,10 @@
 
 * [westhaus_detection_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_0.md)
 
+## Property: has_MitigationRisk
+
+* [Poor removal of SARS-CoV-2 fragments in wastewater treatment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3429.md)
+
 ## Property: has_MitigationTechnology
 
 * [centrifugation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4431.md)

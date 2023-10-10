@@ -6,6 +6,10 @@
 
 * [raoufi_identifying_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_220.md)
 
+## Property: has_MitigationRisk
+
+* [Material shortages](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3218.md)
+
 ## Property: has_MitigationTechnology
 
 * [supply chain monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4010.md)

@@ -6,3 +6,7 @@
 
 * [Q7958](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7958.md)
 
+## Property: has_OwnerRisk
+
+* [--------------------------------](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1577.md)
+

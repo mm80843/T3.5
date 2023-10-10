@@ -6,6 +6,10 @@
 
 * [rahman_automated_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_265.md)
 
+## Property: has_MitigationRisk
+
+* [Non-compliance with mask wearing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3199.md)
+
 ## Property: has_MitigationTechnology
 
 * [deep learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1715.md)

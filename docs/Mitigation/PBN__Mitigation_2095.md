@@ -6,6 +6,10 @@
 
 * [thurstan_envisioning_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_221.md)
 
+## Property: has_MitigationRisk
+
+* [Limited capacity and dependence on international researchers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3343.md)
+
 ## Property: has_MitigationTechnology
 
 * [collaborative platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1132.md)

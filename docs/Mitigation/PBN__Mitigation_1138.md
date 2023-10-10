@@ -7,6 +7,11 @@
 * [lodder_sars-cov-2_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_70.md)
 * [matheri_water_2023](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_162.md)
 
+## Property: has_MitigationRisk
+
+* [Health risk, data source](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2937.md)
+* [Inadequate treatment of wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2979.md)
+
 ## Property: has_MitigationTechnology
 
 * [wastewater testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3686.md)

@@ -6,6 +6,10 @@
 
 * [siriwardhana_role_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_9.md)
 
+## Property: has_MitigationRisk
+
+* [Unauthorized access to personal data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3299.md)
+
 ## Property: has_MitigationTechnology
 
 * [privacy-by-design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1579.md)

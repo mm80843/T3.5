@@ -6,6 +6,10 @@
 
 * [chen_climate_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_145.md)
 
+## Property: has_MitigationRisk
+
+* [Heating surfaces and objects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2547.md)
+
 ## Property: has_MitigationTechnology
 
 * [heat source](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3192.md)

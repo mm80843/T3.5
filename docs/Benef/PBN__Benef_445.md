@@ -2,19 +2,19 @@
 
 # Benef: __Improved identification of asymptomatic cases__ (PBN__Benef_445)
 
-## Property: has_BenefDetails
+## Property: has_Beneficiary
 
-Contact tracing and testing can help identify and isolate asymptomatic individuals, preventing further transmission of the virus.
+* [public health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_0.md)
 
 ## Property: has_BenefSource
 
 * [mbunge_critical_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_91.md)
 
-## Property: has_Beneficiary
-
-* [public health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_0.md)
-
 ## Property: has_BenefReturn
 
 * [Investing in contact tracing and testing can help control the spread of the virus, reducing the impact on public health and economic activities.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_481.md)
+
+## Property: has_BenefDetails
+
+Contact tracing and testing can help identify and isolate asymptomatic individuals, preventing further transmission of the virus.
 

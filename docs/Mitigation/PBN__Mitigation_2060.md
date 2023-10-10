@@ -6,6 +6,10 @@
 
 * [tacconelli_challenges_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_230.md)
 
+## Property: has_MitigationRisk
+
+* [Heterogeneity in data sources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3339.md)
+
 ## Property: has_MitigationTechnology
 
 * [cdisc/cdash](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4215.md)

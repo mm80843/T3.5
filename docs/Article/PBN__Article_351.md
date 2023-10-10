@@ -2,13 +2,13 @@
 
 # Article: __kuiper_intelligent_2020__ (PBN__Article_351)
 
-## Property: has_ArticleTitle
-
-The Intelligent Lockdown: Compliance with COVID-19 Mitigation Measures in the Netherlands
-
 ## Property: has_ArticleYear
 
 2020
+
+## Property: has_ArticleTitle
+
+The Intelligent Lockdown: Compliance with COVID-19 Mitigation Measures in the Netherlands
 
 ## Property: has_ArticleDOI
 

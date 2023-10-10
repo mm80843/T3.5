@@ -2,3 +2,7 @@
 
 # Stakeholder: __customs authorities__ (PBN__Stakeholder_1027)
 
+## Property: has_OwnerRisk
+
+* [Importation of cases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1594.md)
+

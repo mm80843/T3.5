@@ -6,3 +6,7 @@
 
 * [Q15915446](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q15915446.md)
 
+## Property: has_OwnerRisk
+
+* [Disruption in supply chain](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_500.md)
+

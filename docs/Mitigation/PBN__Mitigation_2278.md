@@ -6,6 +6,10 @@
 
 * [vela_rol_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_138.md)
 
+## Property: has_MitigationRisk
+
+* [Spread of infection in the workplace](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3409.md)
+
 ## Property: has_MitigationTechnology
 
 * [communication technologies (e.g.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4386.md)

@@ -6,6 +6,10 @@
 
 * [poch_when_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_207.md)
 
+## Property: has_MitigationRisk
+
+* [Ethical dilemmas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3185.md)
+
 ## Property: has_MitigationTechnology
 
 * [multi-criteria decision analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3971.md)

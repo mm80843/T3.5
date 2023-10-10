@@ -6,6 +6,10 @@
 
 * [van_barneveld_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_124.md)
 
+## Property: has_MitigationRisk
+
+* [Job and income loss](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3400.md)
+
 ## Property: has_MitigationTechnology
 
 * [social security payments](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4378.md)

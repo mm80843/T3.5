@@ -6,6 +6,10 @@
 
 * [lohmus_making_2015](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_20.md)
 
+## Property: has_MitigationRisk
+
+* [Allergic respiratory response to pollen](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2948.md)
+
 ## Property: has_MitigationTechnology
 
 * [planting insect-pollinated plants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3700.md)

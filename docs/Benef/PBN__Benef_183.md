@@ -2,19 +2,19 @@
 
 # Benef: __Timely treatment and intervention__ (PBN__Benef_183)
 
-## Property: has_BenefDetails
+## Property: has_Beneficiary
 
-Increases chances of successful treatment and improves long-term health outcomes
+* [rural women diagnosed with ovarian cancer](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_100.md)
 
 ## Property: has_BenefSource
 
 * [dye_multilevel_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_39.md)
 
-## Property: has_Beneficiary
-
-* [rural women diagnosed with ovarian cancer](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_100.md)
-
 ## Property: has_BenefReturn
 
 * [Reduces healthcare costs and improves quality of life in rural areas](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_187.md)
+
+## Property: has_BenefDetails
+
+Increases chances of successful treatment and improves long-term health outcomes
 

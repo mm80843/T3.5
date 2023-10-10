@@ -8,6 +8,11 @@
 * [kumar_role_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_140.md)
 * [noszczyk_impact_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_203.md)
 
+## Property: has_MitigationRisk
+
+* [Lack of social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1892.md)
+* [Increased transportation and contact in workplaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2883.md)
+
 ## Property: has_MitigationTechnology
 
 * [internet access](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1211.md)

@@ -2,3 +2,7 @@
 
 # Stakeholder: __non-english speakers__ (PBN__Stakeholder_1022)
 
+## Property: has_RiskSubject
+
+* [Exclusion of non-English speaking populations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1590.md)
+

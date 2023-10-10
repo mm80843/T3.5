@@ -2,14 +2,6 @@
 
 # Benef: __Increased inclusivity and accessibility__ (PBN__Benef_1250)
 
-## Property: has_BenefDetails
-
-Improved access to public space, reduced disparities, enhanced social inclusion
-
-## Property: has_BenefSource
-
-* [honey-roses_impact_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_261.md)
-
 ## Property: has_Beneficiary
 
 * [women](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_23.md)
@@ -21,7 +13,15 @@ Improved access to public space, reduced disparities, enhanced social inclusion
 * [children](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_62.md)
 * [youth](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_491.md)
 
+## Property: has_BenefSource
+
+* [honey-roses_impact_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_261.md)
+
 ## Property: has_BenefReturn
 
 * [Improved quality of life, reduced social inequalities](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1403.md)
+
+## Property: has_BenefDetails
+
+Improved access to public space, reduced disparities, enhanced social inclusion
 

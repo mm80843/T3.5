@@ -6,6 +6,10 @@
 
 * [fariniuk_smart_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_143.md)
 
+## Property: has_MitigationRisk
+
+* [Limited innovation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2667.md)
+
 ## Property: has_MitigationTechnology
 
 * [collaboration platforms and emerging technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3368.md)

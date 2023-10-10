@@ -7,6 +7,11 @@
 * [guo_aerosol_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_263.md)
 * [mecenas_effects_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_228.md)
 
+## Property: has_MitigationRisk
+
+* [Contaminated hands](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2505.md)
+* [Poor hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3009.md)
+
 ## Property: has_MitigationTechnology
 
 * [hand sanitizer](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3258.md)

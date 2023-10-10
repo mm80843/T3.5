@@ -2,19 +2,19 @@
 
 # Benef: __Improved ventilation and air quality__ (PBN__Benef_1407)
 
-## Property: has_BenefDetails
+## Property: has_Beneficiary
 
-Designing buildings with wider corridors and doorways can enhance indoor air quality and reduce the risk of infection transmission.
+* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 
 ## Property: has_BenefSource
 
 * [megahed_antivirus-built_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_298.md)
 
-## Property: has_Beneficiary
-
-* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
-
 ## Property: has_BenefReturn
 
 * [Private investors can benefit from the increased attractiveness of buildings with improved ventilation and air quality, leading to potential value appreciation of their investments.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1597.md)
+
+## Property: has_BenefDetails
+
+Designing buildings with wider corridors and doorways can enhance indoor air quality and reduce the risk of infection transmission.
 

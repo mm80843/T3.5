@@ -2,3 +2,7 @@
 
 # Stakeholder: __individuals facing economic crisis and uncertainties__ (PBN__Stakeholder_1287)
 
+## Property: has_RiskSubject
+
+* [Suicidal ideation from economic crisis and uncertainties](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1903.md)
+

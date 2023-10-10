@@ -2,3 +2,8 @@
 
 # Stakeholder: __travellers__ (PBN__Stakeholder_553)
 
+## Property: has_RiskSubject
+
+* [Inadequate global travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1028.md)
+* [Travel-related transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1034.md)
+

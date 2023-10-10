@@ -2,3 +2,7 @@
 
 # Stakeholder: __urban__ (PBN__Stakeholder_1527)
 
+## Property: has_OwnerRisk
+
+* [Lack of access to green](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2289.md)
+

@@ -2,13 +2,17 @@
 
 # Stakeholder: __society as a whole__ (PBN__Stakeholder_437)
 
-## Property: has_StakeholderSubgroup
+## Property: has_RiskSubject
 
-* [Society](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_128.md)
+* [Ethical concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2130.md)
 
 ## Property: has_StakeholderGroup
 
 * [Community Stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_8.md)
+
+## Property: has_StakeholderSubgroup
+
+* [Society](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_128.md)
 
 ## Property: has_StakeholderID
 

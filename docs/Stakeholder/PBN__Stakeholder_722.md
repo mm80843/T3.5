@@ -2,3 +2,11 @@
 
 # Stakeholder: __site managers__ (PBN__Stakeholder_722)
 
+## Property: has_OwnerRisk
+
+* [Personnel Reporting to Work Despite Testing Positive or Being Exposed to COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1201.md)
+* [Non-compliance with Mask Mandates](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1202.md)
+* [Lack of Social Distancing Implementation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1203.md)
+* [Inadequate Hygiene Facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1204.md)
+* [Failure to Disinfect and Clean Work Areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1205.md)
+

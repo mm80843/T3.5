@@ -2,3 +2,7 @@
 
 # Stakeholder: __close contacts of asymptomatic carriers__ (PBN__Stakeholder_1442)
 
+## Property: has_RiskSubject
+
+* [Hidden transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2133.md)
+

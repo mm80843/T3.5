@@ -2,10 +2,6 @@
 
 # Stakeholder: __fundraising team__ (PBN__Stakeholder_2031)
 
-## Property: has_StakeholderSubgroup
-
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_7.md)
-
 ## Property: has_StakeholderGroup
 
 * [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
@@ -13,4 +9,8 @@
 ## Property: has_StakeholderID
 
 * [Q1161355](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1161355.md)
+
+## Property: has_StakeholderSubgroup
+
+* [nan](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_7.md)
 

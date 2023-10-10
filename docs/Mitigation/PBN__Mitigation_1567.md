@@ -6,6 +6,10 @@
 
 * [pamidimukkala_impacts_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_49.md)
 
+## Property: has_MitigationRisk
+
+* [Exposure to virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3144.md)
+
 ## Property: has_MitigationTechnology
 
 * [virtual meeting platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3925.md)

@@ -6,6 +6,10 @@
 
 * [tomalska_preparing_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_129.md)
 
+## Property: has_MitigationRisk
+
+* [Exploitation of weaknesses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3368.md)
+
 ## Property: has_MitigationTechnology
 
 * [vulnerability assessment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4308.md)

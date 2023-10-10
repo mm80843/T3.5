@@ -6,6 +6,10 @@
 
 * [daughton_wastewater_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_213.md)
 
+## Property: has_MitigationRisk
+
+* [Unknown viral shedding routes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2606.md)
+
 ## Property: has_MitigationTechnology
 
 * [biomarkers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3281.md)

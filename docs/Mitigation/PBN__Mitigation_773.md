@@ -6,6 +6,10 @@
 
 * [hizra_houses_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_277.md)
 
+## Property: has_MitigationRisk
+
+* [Manual contact with surfaces during door opening](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2731.md)
+
 ## Property: has_MitigationTechnology
 
 * [motion-sensor technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3443.md)

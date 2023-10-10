@@ -6,6 +6,10 @@
 
 * [reinwald_urban_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_83.md)
 
+## Property: has_MitigationRisk
+
+* [Urban overheating](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3226.md)
+
 ## Property: has_MitigationTechnology
 
 * [green roofs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1392.md)

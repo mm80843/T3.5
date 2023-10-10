@@ -2,26 +2,30 @@
 
 # Risk: __Wastewater collection and treatment__ (PBN__Risk_1917)
 
-## Property: has_RiskName
-
-Odors, corrosion, and damage to conveyance equipment. Increased costs for treatment.
-
-## Property: has_RiskISO_Impact
-
-* [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_8.md)
-
-## Property: has_RiskISO_Purpose
-
-* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
-
 ## Property: has_RiskOwner
 
 * [water utilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_329.md)
 * [regulatory authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1297.md)
 
+## Property: has_RiskName
+
+Odors, corrosion, and damage to conveyance equipment. Increased costs for treatment.
+
+## Property: has_RiskType
+
+* [environmental](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_0.md)
+
 ## Property: has_RiskTechnology
 
 * [none](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+
+## Property: has_RiskDescription
+
+Changes in water use patterns lead to reduced wastewater flow and concentration, potential deposition of solids, and clogging of sewer systems.
 
 ## Property: has_RiskSubject
 
@@ -33,21 +37,17 @@ Odors, corrosion, and damage to conveyance equipment. Increased costs for treatm
 
 * [Continuous monitoring and adjustment of sewer operation and treatment processes.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2520.md)
 
-## Property: has_RiskDescription
+## Property: has_RiskISO_Impact
 
-Changes in water use patterns lead to reduced wastewater flow and concentration, potential deposition of solids, and clogging of sewer systems.
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Property: has_RiskType
-
-* [environmental](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_0.md)
+* [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_8.md)
 
 ## Property: has_RiskGBN
 
 * [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Property: has_RiskSource
 

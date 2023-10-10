@@ -6,6 +6,10 @@
 
 * [kaushal_strategies_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_268.md)
 
+## Property: has_MitigationRisk
+
+* [Transmission of COVID-19 within construction sites](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2824.md)
+
 ## Property: has_MitigationTechnology
 
 * [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)

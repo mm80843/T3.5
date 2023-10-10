@@ -6,6 +6,10 @@
 
 * [oni_implications_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_68.md)
 
+## Property: has_MitigationRisk
+
+* [Potential loss of focus on health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3128.md)
+
 ## Property: has_MitigationTechnology
 
 * [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)

@@ -6,6 +6,10 @@
 
 * [conway-morris_removal_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_232.md)
 
+## Property: has_MitigationRisk
+
+* [Airborne transmission of SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1286.md)
+
 ## Property: has_MitigationTechnology
 
 * [portable air filtration devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3249.md)

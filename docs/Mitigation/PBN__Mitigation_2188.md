@@ -6,6 +6,10 @@
 
 * [tomalska_preparing_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_129.md)
 
+## Property: has_MitigationRisk
+
+* [Building resilience capabilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3375.md)
+
 ## Property: has_MitigationTechnology
 
 * [simulation and training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4315.md)

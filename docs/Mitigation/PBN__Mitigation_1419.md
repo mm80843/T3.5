@@ -6,6 +6,10 @@
 
 * [nembhard_ventilation_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_104.md)
 
+## Property: has_MitigationRisk
+
+* [High concentrations of air contaminants in specific locations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3056.md)
+
 ## Property: has_MitigationTechnology
 
 * [portable air purifiers with hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3866.md)

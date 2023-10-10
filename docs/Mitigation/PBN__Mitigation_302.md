@@ -6,6 +6,10 @@
 
 * [bou_hatoum_analysis_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_82.md)
 
+## Property: has_MitigationRisk
+
+* [Virus Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2525.md)
+
 ## Property: has_MitigationTechnology
 
 * [coordination with suppliers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3142.md)

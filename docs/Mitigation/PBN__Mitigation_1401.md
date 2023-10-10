@@ -6,6 +6,10 @@
 
 * [naseem_exploring_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_131.md)
 
+## Property: has_MitigationRisk
+
+* [Inaccurate positioning of patients](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3048.md)
+
 ## Property: has_MitigationTechnology
 
 * [artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_358.md)

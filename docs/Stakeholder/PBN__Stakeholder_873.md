@@ -2,3 +2,7 @@
 
 # Stakeholder: __care facility administrators__ (PBN__Stakeholder_873)
 
+## Property: has_OwnerRisk
+
+* [Spread of COVID-19 through institutions for care of the elderly](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1355.md)
+

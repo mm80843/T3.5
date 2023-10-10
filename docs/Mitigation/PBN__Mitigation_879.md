@@ -6,6 +6,10 @@
 
 * [ioannidis_coronavirus_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_101.md)
 
+## Property: has_MitigationRisk
+
+* [Infected individuals entering a location](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2784.md)
+
 ## Property: has_MitigationTechnology
 
 * [screening technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2922.md)

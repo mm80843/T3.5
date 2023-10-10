@@ -6,6 +6,10 @@
 
 * [benfer_eviction_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_43.md)
 
+## Property: has_MitigationRisk
+
+* [Eviction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2516.md)
+
 ## Property: has_MitigationTechnology
 
 * [legal support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3102.md)

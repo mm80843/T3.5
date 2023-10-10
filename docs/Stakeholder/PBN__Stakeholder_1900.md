@@ -2,10 +2,6 @@
 
 # Stakeholder: __apartment resident__ (PBN__Stakeholder_1900)
 
-## Property: has_StakeholderSubgroup
-
-* [Tenants](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_65.md)
-
 ## Property: has_StakeholderGroup
 
 * [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
@@ -14,4 +10,8 @@
 ## Property: has_StakeholderID
 
 * [Q188507](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q188507.md)
+
+## Property: has_StakeholderSubgroup
+
+* [Tenants](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_65.md)
 

@@ -2,6 +2,11 @@
 
 # Stakeholder: __restaurants__ (PBN__Stakeholder_243)
 
+## Property: has_RiskSubject
+
+* [Contagious transmission in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1140.md)
+* [Inadequate ventilation in public buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1776.md)
+
 ## Property: has_StakeholderID
 
 * [Q11707](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q11707.md)

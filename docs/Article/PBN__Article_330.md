@@ -6,6 +6,14 @@
 
 2021
 
+## Property: has_ArticleTitle
+
+The ventilation of buildings and other mitigating measures for COVID-19: a focus on wintertime
+
+## Property: has_ArticleDOI
+
+10.1098/rspa.2020.0855
+
 ## Property: has_ArticleRef
 
 * [morawska_how_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_121.md)
@@ -17,12 +25,4 @@
 * [beggs_upper-room_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_163.md)
 * [bolashikov_methods_2009](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_240.md)
 * [escombe_upper-room_2009](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_105.md)
-
-## Property: has_ArticleTitle
-
-The ventilation of buildings and other mitigating measures for COVID-19: a focus on wintertime
-
-## Property: has_ArticleDOI
-
-10.1098/rspa.2020.0855
 

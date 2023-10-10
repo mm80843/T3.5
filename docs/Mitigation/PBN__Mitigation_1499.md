@@ -6,6 +6,10 @@
 
 * [oecd_what_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_287.md)
 
+## Property: has_MitigationRisk
+
+* [Limited access to teleworking](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3103.md)
+
 ## Property: has_MitigationTechnology
 
 * [technology infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3891.md)

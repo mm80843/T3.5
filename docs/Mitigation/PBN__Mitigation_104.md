@@ -6,6 +6,10 @@
 
 * [allam_emergence_2019](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_15.md)
 
+## Property: has_MitigationRisk
+
+* [Privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_47.md)
+
 ## Property: has_MitigationTechnology
 
 * [video networking](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2967.md)

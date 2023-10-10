@@ -2,20 +2,20 @@
 
 # Benef: __Reduction of misinformation sharing__ (PBN__Benef_144)
 
-## Property: has_BenefDetails
+## Property: has_Beneficiary
 
-Increases the accuracy of information shared on social media platforms, reducing the spread of fake news and misinformation.
+* [social media users](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_82.md)
 
 ## Property: has_BenefSource
 
 * [laato_what_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_31.md)
 
-## Property: has_Beneficiary
-
-* [social media users](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_82.md)
-
 ## Property: has_BenefReturn
 
 * [Private investors would benefit from the improved accuracy of information, which can lead to increased trust, credibility, and user engagement with their platforms or services.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_144.md)
 * [Private investors would benefit from the improved user behavior, as it can lead to increased trust, credibility, and user engagement with their platforms or services.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_145.md)
+
+## Property: has_BenefDetails
+
+Increases the accuracy of information shared on social media platforms, reducing the spread of fake news and misinformation.
 

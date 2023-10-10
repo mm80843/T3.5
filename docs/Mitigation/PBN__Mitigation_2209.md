@@ -6,6 +6,10 @@
 
 * [uchiyama_access_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_275.md)
 
+## Property: has_MitigationRisk
+
+* [Lack of community ownership and involvement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3385.md)
+
 ## Property: has_MitigationTechnology
 
 * [community engagement platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_966.md)

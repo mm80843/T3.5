@@ -2,20 +2,20 @@
 
 # Benef: __Contractual stability__ (PBN__Benef_1013)
 
-## Property: has_BenefDetails
-
-Developing industry-specific working procedures can help mitigate contractual problems, improving stability and reducing the risk of disputes.
-
-## Property: has_BenefSource
-
-* [dan-jumbo_covid-19_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_210.md)
-
 ## Property: has_Beneficiary
 
 * [construction industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_149.md)
 * [contractors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_179.md)
 
+## Property: has_BenefSource
+
+* [dan-jumbo_covid-19_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_210.md)
+
 ## Property: has_BenefReturn
 
 * [Private investors can benefit indirectly from improved contractual stability by reducing the likelihood of costly disputes and legal expenses, leading to higher asset value and profitability.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1131.md)
+
+## Property: has_BenefDetails
+
+Developing industry-specific working procedures can help mitigate contractual problems, improving stability and reducing the risk of disputes.
 

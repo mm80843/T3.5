@@ -6,6 +6,10 @@
 
 * [awada_ten_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_38.md)
 
+## Property: has_MitigationRisk
+
+* [Noise Disturbance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2482.md)
+
 ## Property: has_MitigationTechnology
 
 * [acoustic panels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_190.md)

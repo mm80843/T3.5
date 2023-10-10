@@ -2,6 +2,10 @@
 
 # Stakeholder: __operators__ (PBN__Stakeholder_330)
 
+## Property: has_RiskSubject
+
+* [Impacts on public transit](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1463.md)
+
 ## Property: has_StakeholderID
 
 * [Q3354588](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3354588.md)

@@ -2,3 +2,7 @@
 
 # Stakeholder: __performers__ (PBN__Stakeholder_1495)
 
+## Property: has_RiskSubject
+
+* [Loss of cultural and creative industries](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2233.md)
+

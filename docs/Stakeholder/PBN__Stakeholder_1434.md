@@ -2,13 +2,17 @@
 
 # Stakeholder: __users of iot devices__ (PBN__Stakeholder_1434)
 
-## Property: has_StakeholderSubgroup
+## Property: has_RiskSubject
 
-* [Wearable and IoT Devices](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_151.md)
+* [Data integrity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2128.md)
 
 ## Property: has_StakeholderGroup
 
 * [Technology Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_12.md)
+
+## Property: has_StakeholderSubgroup
+
+* [Wearable and IoT Devices](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_151.md)
 
 ## Property: has_StakeholderID
 

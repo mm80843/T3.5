@@ -6,6 +6,10 @@
 
 * [chtourou_staying_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_181.md)
 
+## Property: has_MitigationRisk
+
+* [Increased risk of sudden cardiac death](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2577.md)
+
 ## Property: has_MitigationTechnology
 
 * [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)

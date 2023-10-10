@@ -6,6 +6,10 @@
 
 * [ogden_vector-borne_2016](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_17.md)
 
+## Property: has_MitigationRisk
+
+* [Stagnant pools in urban areas as breeding grounds](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3116.md)
+
 ## Property: has_MitigationTechnology
 
 * [drainage systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3901.md)

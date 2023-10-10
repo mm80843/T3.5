@@ -2,10 +2,6 @@
 
 # Stakeholder: __worker in workplace with air recirculation system__ (PBN__Stakeholder_1666)
 
-## Property: has_StakeholderSubgroup
-
-* [Indoor Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_24.md)
-
 ## Property: has_StakeholderGroup
 
 * [Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_2.md)
@@ -14,4 +10,8 @@
 ## Property: has_StakeholderID
 
 * [Q50429808](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q50429808.md)
+
+## Property: has_StakeholderSubgroup
+
+* [Indoor Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_24.md)
 

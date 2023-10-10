@@ -6,6 +6,34 @@
 
 2021
 
+## Property: has_ArticleLLMSummary
+
+The article discusses how the design of buildings can help prevent the spread of diseases like COVID-19. It explains that poor air quality and ventilation can increase the risk of getting sick. The article suggests that architects and engineers need to work together to create better indoor environments that have good ventilation and air filtration. It also discusses different strategies, like using UV light or plants, to clean the air inside buildings. The article emphasizes the need for collaboration between different fields and the use of technology to create healthier buildings. It concludes by saying that improving indoor air quality should be a priority in the design of buildings to protect people's health.
+
+## Property: has_BenefInArticle
+
+* [Pathogen inactivation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_998.md)
+* [Improved IAQ](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_996.md)
+* [Reduced airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_997.md)
+* [Improved IAQ and air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_999.md)
+* [Natural ventilation and air distribution](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1000.md)
+
+## Property: has_ArticleTitle
+
+Indoor Air Quality: Rethinking rules of building design strategies in post-pandemic architecture
+
+## Property: has_RiskInArticle
+
+* [Poor indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_294.md)
+* [Inefficient ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1741.md)
+* [Inadequate air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1742.md)
+* [Lack of air disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1743.md)
+* [Inadequate building design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1744.md)
+
+## Property: has_ArticleDOI
+
+10.1016/j.envres.2020.110471
+
 ## Property: has_ArticleRef
 
 * [barcelo_environmental_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_270.md)
@@ -23,16 +51,4 @@
 ## Property: has_ArticleLLMShortSummary
 
 This research paper discusses the importance of improving indoor air quality (IAQ) in the context of the COVID-19 pandemic. The paper highlights the association between COVID-19 infection and air pollution, emphasizing the role of air quality in controlling the spread of the virus. It also emphasizes the need for a holistic approach to address IAQ challenges, integrating building design strategies and engineering controls. The paper explains various engineering and construction controls that can be implemented to limit indoor infection risks, including ventilation, air filtration, air disinfection, and biofiltration technologies. It discusses the benefits and limitations of these interventions and emphasizes the importance of collaboration between architects and engineers. The paper suggests the use of computer-aided design tools and simulations to optimize ventilation systems and improve IAQ. It also discusses the role of artificial intelligence and advanced sensing technologies in monitoring IAQ and optimizing building operation and management. Overall, the paper highlights the need for constructing healthier indoor environments and suggests that future architectural designs should prioritize IAQ to protect occupants from airborne diseases.
-
-## Property: has_ArticleTitle
-
-Indoor Air Quality: Rethinking rules of building design strategies in post-pandemic architecture
-
-## Property: has_ArticleLLMSummary
-
-The article discusses how the design of buildings can help prevent the spread of diseases like COVID-19. It explains that poor air quality and ventilation can increase the risk of getting sick. The article suggests that architects and engineers need to work together to create better indoor environments that have good ventilation and air filtration. It also discusses different strategies, like using UV light or plants, to clean the air inside buildings. The article emphasizes the need for collaboration between different fields and the use of technology to create healthier buildings. It concludes by saying that improving indoor air quality should be a priority in the design of buildings to protect people's health.
-
-## Property: has_ArticleDOI
-
-10.1016/j.envres.2020.110471
 

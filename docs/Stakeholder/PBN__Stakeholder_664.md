@@ -2,3 +2,7 @@
 
 # Stakeholder: __poorly ventilated indoor environments such as offices__ (PBN__Stakeholder_664)
 
+## Property: has_RiskSubject
+
+* [Contagious transmission in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1140.md)
+

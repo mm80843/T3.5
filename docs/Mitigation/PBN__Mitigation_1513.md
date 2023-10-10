@@ -6,6 +6,10 @@
 
 * [ogden_vector-borne_2016](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_17.md)
 
+## Property: has_MitigationRisk
+
+* [Increased mosquito breeding due to heavy rainfall](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3115.md)
+
 ## Property: has_MitigationTechnology
 
 * [vegetation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3716.md)

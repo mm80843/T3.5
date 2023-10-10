@@ -2,3 +2,7 @@
 
 # Stakeholder: __translators__ (PBN__Stakeholder_1024)
 
+## Property: has_OwnerRisk
+
+* [Exclusion of non-English speaking populations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1590.md)
+

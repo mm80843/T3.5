@@ -2,3 +2,7 @@
 
 # Stakeholder: __nonprofits__ (PBN__Stakeholder_810)
 
+## Property: has_OwnerRisk
+
+* [Lack of community connections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1293.md)
+

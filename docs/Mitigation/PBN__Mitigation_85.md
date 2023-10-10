@@ -6,6 +6,10 @@
 
 * [akseer_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_222.md)
 
+## Property: has_MitigationRisk
+
+* [Interrupted education for children and adults](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_780.md)
+
 ## Property: has_MitigationTechnology
 
 * [chws](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2955.md)

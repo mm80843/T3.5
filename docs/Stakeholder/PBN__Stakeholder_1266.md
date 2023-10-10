@@ -2,3 +2,7 @@
 
 # Stakeholder: __humanitarian organizations__ (PBN__Stakeholder_1266)
 
+## Property: has_OwnerRisk
+
+* [Food insecurity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1876.md)
+

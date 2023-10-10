@@ -2,27 +2,31 @@
 
 # Risk: __Confidentiality breach in telepsychiatry consultations__ (PBN__Risk_2240)
 
-## Property: has_RiskName
-
-Loss of trust, compromised privacy, potential legal and ethical issues.
-
-## Property: has_RiskISO_Impact
-
-* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
-
-## Property: has_RiskISO_Purpose
-
-* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
-
 ## Property: has_RiskOwner
 
 * [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
 * [telepsychiatry platforms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1503.md)
 
+## Property: has_RiskName
+
+Loss of trust, compromised privacy, potential legal and ethical issues.
+
+## Property: has_RiskType
+
+* [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
+
 ## Property: has_RiskTechnology
 
 * [secure telepsychiatry platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1813.md)
 * [encryption technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1070.md)
+
+## Property: has_RiskISO_Purpose
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
+
+## Property: has_RiskDescription
+
+Observers can potentially breach confidentiality during telepsychiatry consultations, compromising privacy and trust between clients and providers.
 
 ## Property: has_RiskSubject
 
@@ -32,21 +36,17 @@ Loss of trust, compromised privacy, potential legal and ethical issues.
 
 * [Ensuring informed consent, informing clients about the potential risks, implementing secure telepsychiatry platforms.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2918.md)
 
-## Property: has_RiskDescription
+## Property: has_RiskISO_Impact
 
-Observers can potentially breach confidentiality during telepsychiatry consultations, compromising privacy and trust between clients and providers.
-
-## Property: has_RiskHealth
-
-* [mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
-
-## Property: has_RiskType
-
-* [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
 
 ## Property: has_RiskGBN
 
 * [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Property: has_RiskHealth
+
+* [mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
 
 ## Property: has_RiskSource
 

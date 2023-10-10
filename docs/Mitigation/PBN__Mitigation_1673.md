@@ -6,6 +6,10 @@
 
 * [rahman_automated_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_265.md)
 
+## Property: has_MitigationRisk
+
+* [Disruption in material supply](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3210.md)
+
 ## Property: has_MitigationTechnology
 
 * [logistics systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1539.md)

@@ -6,6 +6,10 @@
 
 * [marinelli_emergency_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_122.md)
 
+## Property: has_MitigationRisk
+
+* [Efficiently embedded in asset management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2970.md)
+
 ## Property: has_MitigationTechnology
 
 * [stakeholder requirements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3737.md)

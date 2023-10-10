@@ -6,6 +6,10 @@
 
 * [peters_how_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_279.md)
 
+## Property: has_MitigationRisk
+
+* [Lack of nature exposure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2953.md)
+
 ## Property: has_MitigationTechnology
 
 * [balconies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1009.md)

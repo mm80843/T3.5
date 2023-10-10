@@ -6,6 +6,10 @@
 
 * [jallow_impact_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_141.md)
 
+## Property: has_MitigationRisk
+
+* [Inability to conduct in-person induction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2803.md)
+
 ## Property: has_MitigationTechnology
 
 * [online platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_67.md)
