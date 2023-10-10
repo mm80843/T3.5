@@ -2,11 +2,11 @@
 
 # Technology: __data collection technologies__ (PBN__Technology_760)
 
-## Property: has_TechnologyRisk
-
-* [Uncertainty in epidemic modeling](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1493.md)
-
 ## Property: has_TechnologyID
 
 * [Q28454366](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q28454366.md)
+
+## Property: has_TechnologyRisk
+
+* [Uncertainty in epidemic modeling](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1493.md)
 

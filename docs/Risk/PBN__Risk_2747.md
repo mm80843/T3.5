@@ -2,7 +2,7 @@
 
 # Risk: __Economic recession for informal workers__ (PBN__Risk_2747)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Addressing the impact on the informal street economy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_795.md)
 

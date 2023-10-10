@@ -2,7 +2,7 @@
 
 # Risk: __Airborne transmission of SARS-CoV-2 in built environments__ (PBN__Risk_439)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Enhanced ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_607.md)
 

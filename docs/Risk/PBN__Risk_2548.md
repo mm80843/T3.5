@@ -2,7 +2,7 @@
 
 # Risk: __Exposing items or surfaces to UV radiation__ (PBN__Risk_2548)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [UV radiation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_378.md)
 

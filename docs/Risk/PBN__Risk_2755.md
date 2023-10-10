@@ -2,7 +2,7 @@
 
 # Risk: __Uneven air distribution and stagnant air__ (PBN__Risk_2755)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Balancing Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_814.md)
 

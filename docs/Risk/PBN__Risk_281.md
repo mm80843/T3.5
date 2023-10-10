@@ -2,7 +2,7 @@
 
 # Risk: __Water__ (PBN__Risk_281)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Sustainable water management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_350.md)
 

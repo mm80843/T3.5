@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-If HVAC systems can handle it, switch off heat/cold recovery from the exhaust air in the case of leaked heat exchangers
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ If HVAC systems can handle it, switch off heat/cold recovery from the exhaust ai
 ## Property: has_MitigationTechnology
 
 * [hvac systems with this capability](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4389.md)
+
+## Property: has_MitigationPrinciple
+
+If HVAC systems can handle it, switch off heat/cold recovery from the exhaust air in the case of leaked heat exchangers
 

@@ -2,7 +2,7 @@
 
 # Risk: __Lack of ontology openness and interoperability__ (PBN__Risk_38)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Adoption of OBO Foundry principles](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_55.md)
 

@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Shifting healthcare focus from individual patients to the entire population and the need for long-term pandemic planning
 
 ## Property: has_MitigationSource
 
@@ -18,4 +13,8 @@ Shifting healthcare focus from individual patients to the entire population and 
 
 * [integrated healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4074.md)
 * [community support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4075.md)
+
+## Property: has_MitigationPrinciple
+
+Shifting healthcare focus from individual patients to the entire population and the need for long-term pandemic planning
 

@@ -2,7 +2,7 @@
 
 # Risk: __Spatial variations in disease spread__ (PBN__Risk_287)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Decentralizing economic activities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_362.md)
 

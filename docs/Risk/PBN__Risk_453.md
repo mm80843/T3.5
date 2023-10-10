@@ -2,7 +2,7 @@
 
 # Risk: __COVID-19 propagation__ (PBN__Risk_453)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Implementing precautionary measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_639.md)
 * [Restricting occupancy and spacing equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_640.md)

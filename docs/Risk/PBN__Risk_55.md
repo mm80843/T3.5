@@ -2,7 +2,7 @@
 
 # Risk: __High cost of replacing steel surfaces with copper bulk parts__ (PBN__Risk_55)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Copper coating via cold-spray technique](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_69.md)
 

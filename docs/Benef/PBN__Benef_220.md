@@ -6,16 +6,16 @@
 
 Ensures protection of privacy and minimizes stigmatization of vulnerable populations, promoting ethical practices in surveillance and data collection
 
+## Property: has_BenefSource
+
+* [sims_future_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_48.md)
+
+## Description of Benefits pertaining to Beneficiaries
+
+* [Private investors investing in this mitigation measure could benefit from improved asset value by promoting social responsibility and community trust, leading to positive reputational impact and increased customer loyalty.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_226.md)
+
 ## Property: has_Beneficiary
 
 * [communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_4.md)
 * [vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_127.md)
-
-## Property: has_BenefReturn
-
-* [Private investors investing in this mitigation measure could benefit from improved asset value by promoting social responsibility and community trust, leading to positive reputational impact and increased customer loyalty.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_226.md)
-
-## Property: has_BenefSource
-
-* [sims_future_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_48.md)
 

@@ -2,7 +2,7 @@
 
 # Risk: __Impact on future workforce__ (PBN__Risk_503)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Collaboration with universities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_713.md)
 

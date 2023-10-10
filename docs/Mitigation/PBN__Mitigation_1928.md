@@ -6,10 +6,6 @@
 
 * [Data Security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2471.md)
 
-## Property: has_MitigationPrinciple
-
-Captures real-time health data from infected patients for analysis and decision-making
-
 ## Property: has_MitigationSource
 
 * [singh_internet_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_295.md)
@@ -19,4 +15,8 @@ Captures real-time health data from infected patients for analysis and decision-
 * [sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_200.md)
 * [iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_277.md)
 * [connectivity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4145.md)
+
+## Property: has_MitigationPrinciple
+
+Captures real-time health data from infected patients for analysis and decision-making
 

@@ -2,7 +2,7 @@
 
 # Risk: __Lack of monitoring of Indoor Environmental Quality (IEQ)__ (PBN__Risk_566)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [SAMBA monitoring system](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_797.md)
 

@@ -2,7 +2,7 @@
 
 # Risk: __Limited data coverage, geographical disparities__ (PBN__Risk_2628)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Commercial real-world data services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_565.md)
 

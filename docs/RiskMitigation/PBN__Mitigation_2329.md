@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Wiping surfaces of objects with chlorine-containing disinfectant regularly
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Wiping surfaces of objects with chlorine-containing disinfectant regularly
 ## Property: has_MitigationTechnology
 
 * [chlorine-containing disinfectant](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3072.md)
+
+## Property: has_MitigationPrinciple
+
+Wiping surfaces of objects with chlorine-containing disinfectant regularly
 

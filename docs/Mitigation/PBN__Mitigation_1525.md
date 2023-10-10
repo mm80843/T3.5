@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Obtaining written consent from study participants to ensure their voluntary participation in the study
 
 ## Property: has_MitigationSource
 
@@ -16,5 +11,8 @@ Obtaining written consent from study participants to ensure their voluntary part
 
 ## Property: has_MitigationTechnology
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
+
+## Property: has_MitigationPrinciple
+
+Obtaining written consent from study participants to ensure their voluntary participation in the study
 

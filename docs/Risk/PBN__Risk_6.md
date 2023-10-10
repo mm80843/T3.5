@@ -2,7 +2,7 @@
 
 # Risk: __Lack of knowledge on disease transmission mechanisms__ (PBN__Risk_6)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Universal occupant exposure model](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_9.md)
 

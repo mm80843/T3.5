@@ -2,12 +2,12 @@
 
 # Technology: __funding programs__ (PBN__Technology_469)
 
+## Property: has_TechnologyID
+
+* [Q6055890](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6055890.md)
+
 ## Property: has_TechnologyRisk
 
 * [Economic impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_124.md)
 * [Lack of research and development](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1312.md)
-
-## Property: has_TechnologyID
-
-* [Q6055890](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6055890.md)
 

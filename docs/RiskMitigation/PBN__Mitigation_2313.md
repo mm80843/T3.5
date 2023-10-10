@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Sodium hypochlorite disinfection is a technology that uses sodium hypochlorite to disinfect hospital wastewater. Sodium hypochlorite is effective in killing microorganisms and has lower toxicity compared to other chlorine-containing disinfectants.
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Sodium hypochlorite disinfection is a technology that uses sodium hypochlorite t
 ## Property: has_MitigationTechnology
 
 * [sodium hypochlorite](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_852.md)
+
+## Property: has_MitigationPrinciple
+
+Sodium hypochlorite disinfection is a technology that uses sodium hypochlorite to disinfect hospital wastewater. Sodium hypochlorite is effective in killing microorganisms and has lower toxicity compared to other chlorine-containing disinfectants.
 

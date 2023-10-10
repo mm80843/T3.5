@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Temporary suspension of public transport, including buses and subway rail, to limit the spread of the virus
 
 ## Property: has_MitigationSource
 
@@ -16,5 +11,8 @@ Temporary suspension of public transport, including buses and subway rail, to li
 
 ## Property: has_MitigationTechnology
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
+
+## Property: has_MitigationPrinciple
+
+Temporary suspension of public transport, including buses and subway rail, to limit the spread of the virus
 

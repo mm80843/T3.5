@@ -2,6 +2,14 @@
 
 # Stakeholder: __research organizations__ (PBN__Stakeholder_852)
 
+## Property: has_StakeholderSubgroup
+
+* [Education and Research](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_15.md)
+
+## Property: has_StakeholderGroup
+
+* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
+
 ## Property: has_OwnerRisk
 
 * [Suboptimal data science literacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_813.md)
@@ -10,12 +18,4 @@
 * [Loss of validity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1383.md)
 * [Confounding variables](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1384.md)
 * [Contextual factors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1386.md)
-
-## Property: has_StakeholderSubgroup
-
-* [Education and Research](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_15.md)
-
-## Property: has_StakeholderGroup
-
-* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
 

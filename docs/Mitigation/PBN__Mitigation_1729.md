@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Providing counseling and therapy services to individuals to address mental health concerns during and after the pandemic
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Providing counseling and therapy services to individuals to address mental healt
 ## Property: has_MitigationTechnology
 
 * [mental health professionals](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4034.md)
+
+## Property: has_MitigationPrinciple
+
+Providing counseling and therapy services to individuals to address mental health concerns during and after the pandemic
 

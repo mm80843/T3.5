@@ -2,15 +2,15 @@
 
 # Stakeholder: __IoT technology providers__ (PBN__Stakeholder_2623)
 
-## Property: has_StakeholderGroup
+## Property: has_StakeholderSubgroup
 
-* [Technology Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_12.md)
+* [Technology and Innovation](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_61.md)
 
 ## Property: has_StakeholderID
 
 * [Q251212](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q251212.md)
 
-## Property: has_StakeholderSubgroup
+## Property: has_StakeholderGroup
 
-* [Technology and Innovation](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_61.md)
+* [Technology Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_12.md)
 

@@ -6,10 +6,6 @@
 
 * [Comfort and privacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3359.md)
 
-## Property: has_MitigationPrinciple
-
-Allow the division of open space into smaller spaces for different purposes
-
 ## Property: has_MitigationSource
 
 * [tokazhanov_how_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_67.md)
@@ -17,4 +13,8 @@ Allow the division of open space into smaller spaces for different purposes
 ## Property: has_MitigationTechnology
 
 * [woods bagot’s ad-apt system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4284.md)
+
+## Property: has_MitigationPrinciple
+
+Allow the division of open space into smaller spaces for different purposes
 

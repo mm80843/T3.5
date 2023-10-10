@@ -7,13 +7,13 @@
 * [Unauthorized access to data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1235.md)
 * [Limited site access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1527.md)
 
-## Property: has_TechnologyID
-
-* [Q228502](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q228502.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Regulatory Bodies and Measures](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_97.md)
+
+## Property: has_TechnologyID
+
+* [Q228502](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q228502.md)
 
 ## Property: has_StakeholderGroup
 

@@ -6,10 +6,6 @@
 
 * [Health surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3426.md)
 
-## Property: has_MitigationPrinciple
-
-Monitoring individuals for high temperatures or other indicators of illness to identify potential cases and take appropriate actions to prevent the spread of the virus.
-
 ## Property: has_MitigationSource
 
 * [webb_smart_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_294.md)
@@ -18,4 +14,8 @@ Monitoring individuals for high temperatures or other indicators of illness to i
 
 * [biometrics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_99.md)
 * [temperature sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3044.md)
+
+## Property: has_MitigationPrinciple
+
+Monitoring individuals for high temperatures or other indicators of illness to identify potential cases and take appropriate actions to prevent the spread of the virus.
 

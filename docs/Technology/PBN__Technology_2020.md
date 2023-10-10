@@ -2,11 +2,11 @@
 
 # Technology: __quieter fan technology__ (PBN__Technology_2020)
 
-## Property: has_TechnologyRisk
-
-* [Noise and inconvenience of personal air-purifying shields](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2399.md)
-
 ## Property: has_TechnologyID
 
 * [Q6498398](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6498398.md)
+
+## Property: has_TechnologyRisk
+
+* [Noise and inconvenience of personal air-purifying shields](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2399.md)
 

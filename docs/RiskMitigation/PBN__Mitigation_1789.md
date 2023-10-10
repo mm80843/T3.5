@@ -6,10 +6,6 @@
 
 * [VOC Pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3249.md)
 
-## Property: has_MitigationPrinciple
-
-Use non-toxic cleaning products that do not contain volatile organic compounds (VOCs) to reduce the emission of harmful pollutants and improve indoor air quality during cleaning activities.
-
 ## Property: has_MitigationSource
 
 * [saini_comprehensive_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_281.md)
@@ -17,4 +13,8 @@ Use non-toxic cleaning products that do not contain volatile organic compounds (
 ## Property: has_MitigationTechnology
 
 * [non-toxic cleaning products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4070.md)
+
+## Property: has_MitigationPrinciple
+
+Use non-toxic cleaning products that do not contain volatile organic compounds (VOCs) to reduce the emission of harmful pollutants and improve indoor air quality during cleaning activities.
 

@@ -6,7 +6,7 @@
 
 * [Fitness and Sports](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_56.md)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Impact on sports industry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1815.md)
 

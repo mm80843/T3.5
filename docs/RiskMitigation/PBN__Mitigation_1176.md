@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Allows for quick and efficient screening of individuals for symptoms, helping to identify potential cases and prevent entry into communal spaces.
 
 ## Property: has_MitigationSource
 
@@ -18,4 +13,8 @@ Allows for quick and efficient screening of individuals for symptoms, helping to
 
 * [iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_96.md)
 * [temperature sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3044.md)
+
+## Property: has_MitigationPrinciple
+
+Allows for quick and efficient screening of individuals for symptoms, helping to identify potential cases and prevent entry into communal spaces.
 

@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Promoting community gardens as flexible spaces that support physical distancing, provide social and emotional connections, and contribute to the overall urban fabric in a neighbourhood.
 
 ## Property: has_MitigationSource
 
@@ -16,5 +11,8 @@ Promoting community gardens as flexible spaces that support physical distancing,
 
 ## Property: has_MitigationTechnology
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
+
+## Property: has_MitigationPrinciple
+
+Promoting community gardens as flexible spaces that support physical distancing, provide social and emotional connections, and contribute to the overall urban fabric in a neighbourhood.
 

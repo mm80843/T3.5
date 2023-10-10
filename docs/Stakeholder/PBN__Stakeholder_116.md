@@ -4,15 +4,18 @@
 
 ## Property: has_StakeholderSubgroup
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_7.md)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Decreased carbon emissions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1254.md)
 
 ## Property: has_StakeholderID
 
 * [Q2249676](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2249676.md)
+
+## Property: has_StakeholderGroup
+
+* [Environmental Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_13.md)
 
 ## Property: has_BenefitForPeople
 
@@ -25,8 +28,4 @@
 * [Increased accessibility and reduced transportation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_708.md)
 * [Reduction of health risks](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_936.md)
 * [Fecal coliform and pathogen destruction in wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_938.md)
-
-## Property: has_StakeholderGroup
-
-* [Environmental Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_13.md)
 

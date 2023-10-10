@@ -2,9 +2,9 @@
 
 # Article: __cheval_observed_2020__ (PBN__Article_334)
 
-## Property: has_ArticleTitle
+## Property: has_ArticleDOI
 
-Observed and Potential Impacts of the COVID-19 Pandemic on the Environment
+10.3390/ijerph17114140
 
 ## Property: has_ArticleYear
 
@@ -16,7 +16,7 @@ Observed and Potential Impacts of the COVID-19 Pandemic on the Environment
 * [van_doremalen_aerosol_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_21.md)
 * [corlett_impacts_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_335.md)
 
-## Property: has_ArticleDOI
+## Property: has_ArticleTitle
 
-10.3390/ijerph17114140
+Observed and Potential Impacts of the COVID-19 Pandemic on the Environment
 

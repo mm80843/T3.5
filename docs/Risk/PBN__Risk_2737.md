@@ -2,7 +2,7 @@
 
 # Risk: __Inadequate physical distancing__ (PBN__Risk_2737)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Wider doorways and corridors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_779.md)
 * [Outdoor Activities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_928.md)

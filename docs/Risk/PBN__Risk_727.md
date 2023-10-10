@@ -2,7 +2,7 @@
 
 # Risk: __Lack of accessibility of pharmaceutical interventions in developing countries__ (PBN__Risk_727)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Public education, social distancing, home quarantine, and travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1009.md)
 

@@ -2,7 +2,7 @@
 
 # Risk: __Ineffective use of isolation facilities__ (PBN__Risk_547)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Use of portable air filters](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_774.md)
 

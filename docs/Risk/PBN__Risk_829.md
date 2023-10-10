@@ -2,7 +2,7 @@
 
 # Risk: __Flawed communication__ (PBN__Risk_829)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Improve coordination between researchers, academia, and policymakers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1136.md)
 

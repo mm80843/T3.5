@@ -2,7 +2,7 @@
 
 # Risk: __SARS-CoV-2 transmission through wastewater__ (PBN__Risk_368)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Wastewater monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_492.md)
 

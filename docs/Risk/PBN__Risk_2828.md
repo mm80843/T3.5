@@ -2,7 +2,7 @@
 
 # Risk: __Lack of communication between citizens and decision-makers__ (PBN__Risk_2828)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Two-way dialogue between stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_957.md)
 

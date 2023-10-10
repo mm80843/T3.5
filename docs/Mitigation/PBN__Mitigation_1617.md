@@ -6,10 +6,6 @@
 
 * [Workplace closures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3164.md)
 
-## Property: has_MitigationPrinciple
-
-Establish protocols for business continuity, allow flexible work arrangements
-
 ## Property: has_MitigationSource
 
 * [phapant_covid-19_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_120.md)
@@ -17,4 +13,8 @@ Establish protocols for business continuity, allow flexible work arrangements
 ## Property: has_MitigationTechnology
 
 * [flexible working models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3949.md)
+
+## Property: has_MitigationPrinciple
+
+Establish protocols for business continuity, allow flexible work arrangements
 

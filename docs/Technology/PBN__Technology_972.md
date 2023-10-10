@@ -6,13 +6,13 @@
 
 * [Urban heat islands (UHIs)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_367.md)
 
-## Property: has_TechnologyID
-
-* [Q21161971](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q21161971.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Urban Planning and Green Spaces](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_85.md)
+
+## Property: has_TechnologyID
+
+* [Q21161971](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q21161971.md)
 
 ## Property: has_StakeholderGroup
 

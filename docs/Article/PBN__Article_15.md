@@ -2,17 +2,17 @@
 
 # Article: __allam_emergence_2019__ (PBN__Article_15)
 
-## Property: has_ArticleTitle
+## Property: has_ArticleDOI
 
-The Emergence of Anti-Privacy and Control at the Nexus between the Concepts of Safe City and Smart City
+10.3390/smartcities2010007
 
-## Property: has_BenefInArticle
+## List of risks in an article
 
-* [Data protection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_70.md)
-* [System protection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_71.md)
-* [Awareness and understanding](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_72.md)
-* [Proper data management](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_73.md)
-* [Control and governance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_74.md)
+* [Privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_47.md)
+* [Lack of awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_49.md)
+* [Security breaches](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1070.md)
+* [Propaganda](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1071.md)
+* [Lack of control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1072.md)
 
 ## Property: has_ArticleLLMSummary
 
@@ -26,26 +26,6 @@ But there are some concerns about these concepts. One big concern is privacy. Th
 
 Despite these concerns, many cities around the world are adopting these concepts because they believe it will make their cities safer and better places to live. But it's important to address the concerns about privacy and control to ensure that these concepts are used in a way that benefits everyone.
 
-## Property: has_ArticleLLMShortSummary
-
-This research abstract examines the combined adoption of the concepts of smart cities and safe cities in urban areas. It highlights the challenges faced in implementing these concepts, such as privacy concerns, control issues, and propaganda. The abstract discusses the use of technologies such as the Internet of Things (IoT), Big Data, and Blockchain in the management of smart cities and safe cities. It also emphasizes the need for public-private partnerships (PPPs) in financing these projects, but acknowledges the reservations of citizens regarding the involvement of private entities in data collection and management. The abstract concludes by emphasizing the importance of addressing privacy, security, and control concerns in order to achieve urban comfort and acceptance of these concepts.
-
-## Property: has_RiskInArticle
-
-* [Privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_47.md)
-* [Lack of awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_49.md)
-* [Security breaches](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1070.md)
-* [Propaganda](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1071.md)
-* [Lack of control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1072.md)
-
-## Property: has_ArticleYear
-
-2019
-
-## Property: has_ArticleDOI
-
-10.3390/smartcities2010007
-
 ## Property: has_SourceMitigation
 
 * [Video surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_104.md)
@@ -53,4 +33,24 @@ This research abstract examines the combined adoption of the concepts of smart c
 * [PPP restructuring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_106.md)
 * [Standardization of protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_101.md)
 * [Transparency of data usage](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_107.md)
+
+## Property: has_ArticleYear
+
+2019
+
+## Property: has_ArticleLLMShortSummary
+
+This research abstract examines the combined adoption of the concepts of smart cities and safe cities in urban areas. It highlights the challenges faced in implementing these concepts, such as privacy concerns, control issues, and propaganda. The abstract discusses the use of technologies such as the Internet of Things (IoT), Big Data, and Blockchain in the management of smart cities and safe cities. It also emphasizes the need for public-private partnerships (PPPs) in financing these projects, but acknowledges the reservations of citizens regarding the involvement of private entities in data collection and management. The abstract concludes by emphasizing the importance of addressing privacy, security, and control concerns in order to achieve urban comfort and acceptance of these concepts.
+
+## Property: has_ArticleTitle
+
+The Emergence of Anti-Privacy and Control at the Nexus between the Concepts of Safe City and Smart City
+
+## Property: has_BenefInArticle
+
+* [Data protection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_70.md)
+* [System protection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_71.md)
+* [Awareness and understanding](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_72.md)
+* [Proper data management](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_73.md)
+* [Control and governance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_74.md)
 

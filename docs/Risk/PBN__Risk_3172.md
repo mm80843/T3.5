@@ -2,7 +2,7 @@
 
 # Risk: __Risk of waning efficacy__ (PBN__Risk_3172)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Vaccination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_245.md)
 

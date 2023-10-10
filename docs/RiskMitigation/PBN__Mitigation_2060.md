@@ -6,10 +6,6 @@
 
 * [Heterogeneity in data sources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3339.md)
 
-## Property: has_MitigationPrinciple
-
-Harmonize data and metadata standards for rapid integration
-
 ## Property: has_MitigationSource
 
 * [tacconelli_challenges_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_230.md)
@@ -21,4 +17,8 @@ Harmonize data and metadata standards for rapid integration
 * [fihr](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4217.md)
 * [snomed](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4218.md)
 * [loinc](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4219.md)
+
+## Property: has_MitigationPrinciple
+
+Harmonize data and metadata standards for rapid integration
 

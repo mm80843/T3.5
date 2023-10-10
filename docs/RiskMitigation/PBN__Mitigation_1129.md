@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Estimating people flow by solving an optimization problem based on historical data.
 
 ## Property: has_MitigationSource
 
@@ -18,4 +13,8 @@ Estimating people flow by solving an optimization problem based on historical da
 
 * [historical measurement data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_989.md)
 * [optimization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3679.md)
+
+## Property: has_MitigationPrinciple
+
+Estimating people flow by solving an optimization problem based on historical data.
 

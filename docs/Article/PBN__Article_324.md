@@ -2,9 +2,9 @@
 
 # Article: __bansal_government_2021__ (PBN__Article_324)
 
-## Property: has_ArticleTitle
+## Property: has_ArticleDOI
 
-Government Strategies to Minimize the COVID-19 Fallout on MSMEs in India
+10.4018/978-1-7998-6632-9.ch009
 
 ## Property: has_ArticleYear
 
@@ -14,7 +14,7 @@ Government Strategies to Minimize the COVID-19 Fallout on MSMEs in India
 
 * [ebrahim_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_112.md)
 
-## Property: has_ArticleDOI
+## Property: has_ArticleTitle
 
-10.4018/978-1-7998-6632-9.ch009
+Government Strategies to Minimize the COVID-19 Fallout on MSMEs in India
 

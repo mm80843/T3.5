@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Encouraging online shopping and adapting frontages of houses and communities to accommodate delivery services, reducing the need for in-person interactions and minimizing the risk of transmission.
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Encouraging online shopping and adapting frontages of houses and communities to 
 ## Property: has_MitigationTechnology
 
 * [internet access](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1211.md)
+
+## Property: has_MitigationPrinciple
+
+Encouraging online shopping and adapting frontages of houses and communities to accommodate delivery services, reducing the need for in-person interactions and minimizing the risk of transmission.
 

@@ -6,11 +6,11 @@
 
 ------------------------------------------------
 
-## Property: has_Beneficiary
+## Property: has_BenefSource
 
-* [-------------------------------](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_396.md)
+* [poch_when_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_207.md)
 
-## Property: has_BenefReturn
+## Description of Benefits pertaining to Beneficiaries
 
 * [-------------------------------------](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1109.md)
 * [-----------------------------------------](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1111.md)
@@ -19,7 +19,7 @@
 * [----------------------------------------------------------------------](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1117.md)
 * [------------------------------------------------------------](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1119.md)
 
-## Property: has_BenefSource
+## Property: has_Beneficiary
 
-* [poch_when_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_207.md)
+* [-------------------------------](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_396.md)
 

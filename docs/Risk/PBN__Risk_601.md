@@ -2,7 +2,7 @@
 
 # Risk: __Infection risk of COVID-19 transmission__ (PBN__Risk_601)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Optimum occupant presence schedule](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_837.md)
 

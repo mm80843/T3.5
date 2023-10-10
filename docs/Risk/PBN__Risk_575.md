@@ -2,7 +2,7 @@
 
 # Risk: __Solid waste management__ (PBN__Risk_575)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Urban Solid Waste Management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_803.md)
 

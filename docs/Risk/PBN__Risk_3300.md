@@ -2,7 +2,7 @@
 
 # Risk: __Attacks on healthcare systems__ (PBN__Risk_3300)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Security challenges](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1950.md)
 

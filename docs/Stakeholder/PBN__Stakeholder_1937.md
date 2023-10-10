@@ -2,16 +2,16 @@
 
 # Stakeholder: __building occupant and worker__ (PBN__Stakeholder_1937)
 
-## Property: has_StakeholderGroup
+## Property: has_StakeholderSubgroup
 
-* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
-* [Building Occupants](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_11.md)
+* [Real Estate and Construction](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_31.md)
 
 ## Property: has_StakeholderID
 
 * [Q811122](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q811122.md)
 
-## Property: has_StakeholderSubgroup
+## Property: has_StakeholderGroup
 
-* [Real Estate and Construction](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_31.md)
+* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
+* [Building Occupants](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_11.md)
 

@@ -2,7 +2,7 @@
 
 # Risk: __Controlling temperature__ (PBN__Risk_2545)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Temperature control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_375.md)
 

@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Increasing public awareness about the need for personal protective measures, such as mosquito repellent and protective clothing
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Increasing public awareness about the need for personal protective measures, suc
 ## Property: has_MitigationTechnology
 
 * [communication channels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_568.md)
+
+## Property: has_MitigationPrinciple
+
+Increasing public awareness about the need for personal protective measures, such as mosquito repellent and protective clothing
 

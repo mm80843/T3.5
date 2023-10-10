@@ -2,11 +2,11 @@
 
 # Technology: __healthcare information systems__ (PBN__Technology_624)
 
-## Property: has_TechnologyRisk
-
-* [Insufficient healthcare access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1398.md)
-
 ## Property: has_TechnologyID
 
 * [Q70323677](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q70323677.md)
+
+## Property: has_TechnologyRisk
+
+* [Insufficient healthcare access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1398.md)
 

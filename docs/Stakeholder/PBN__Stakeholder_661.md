@@ -6,7 +6,7 @@
 
 * [Migrants and Minorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_111.md)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Health disparities among vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1138.md)
 

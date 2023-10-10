@@ -2,7 +2,7 @@
 
 # Risk: __Lack of effective technical systems for coordination__ (PBN__Risk_630)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Integration of emerging technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_873.md)
 

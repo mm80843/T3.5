@@ -6,10 +6,6 @@
 
 * [Environmental degradation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1343.md)
 
-## Property: has_MitigationPrinciple
-
-Promote farming practices that minimize harm to the environment and support sustainability
-
 ## Property: has_MitigationSource
 
 * [duflot_building_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_5.md)
@@ -17,4 +13,8 @@ Promote farming practices that minimize harm to the environment and support sust
 ## Property: has_MitigationTechnology
 
 * [organic farming methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3331.md)
+
+## Property: has_MitigationPrinciple
+
+Promote farming practices that minimize harm to the environment and support sustainability
 

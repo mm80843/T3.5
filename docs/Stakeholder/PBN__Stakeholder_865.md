@@ -2,7 +2,7 @@
 
 # Stakeholder: __individuals in contact with confirmed cases__ (PBN__Stakeholder_865)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Challenges with quarantining](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1351.md)
 

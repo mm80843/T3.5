@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Encourage the implementation of nature-based solutions and green infrastructure in the urban context
 
 ## Property: has_MitigationSource
 
@@ -16,5 +11,8 @@ Encourage the implementation of nature-based solutions and green infrastructure 
 
 ## Property: has_MitigationTechnology
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
+
+## Property: has_MitigationPrinciple
+
+Encourage the implementation of nature-based solutions and green infrastructure in the urban context
 

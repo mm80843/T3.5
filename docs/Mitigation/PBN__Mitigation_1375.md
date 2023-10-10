@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Stores scraped data and retrieves it for display in the application.
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Stores scraped data and retrieves it for display in the application.
 ## Property: has_MitigationTechnology
 
 * [sqlite database](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3827.md)
+
+## Property: has_MitigationPrinciple
+
+Stores scraped data and retrieves it for display in the application.
 

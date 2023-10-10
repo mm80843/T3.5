@@ -2,7 +2,7 @@
 
 # Risk: __Airborne spread__ (PBN__Risk_3011)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Improved ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_265.md)
 

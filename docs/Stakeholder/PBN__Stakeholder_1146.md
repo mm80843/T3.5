@@ -4,9 +4,8 @@
 
 ## Property: has_StakeholderSubgroup
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_7.md)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Negative impact of prolonged self-isolation on mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1714.md)
 

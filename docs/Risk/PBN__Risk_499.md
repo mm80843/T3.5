@@ -2,7 +2,7 @@
 
 # Risk: __Delay in works due to staff members at high risk__ (PBN__Risk_499)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Restructuring workforce](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_708.md)
 * [Virtual induction and training](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_709.md)

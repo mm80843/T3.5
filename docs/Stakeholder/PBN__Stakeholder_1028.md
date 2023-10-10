@@ -2,7 +2,7 @@
 
 # Stakeholder: __general population in cities and provinces in china__ (PBN__Stakeholder_1028)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Local transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1595.md)
 

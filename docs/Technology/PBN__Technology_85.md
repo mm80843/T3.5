@@ -7,14 +7,14 @@
 * [Unconscious occupant behavior](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1062.md)
 * [Cyberchondria](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1611.md)
 
-## Property: has_TechnologyID
-
-* [Q847301](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q847301.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Educational and Training Resources](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_39.md)
 * [Public Awareness Campaigns and Communication Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_49.md)
+
+## Property: has_TechnologyID
+
+* [Q847301](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q847301.md)
 
 ## Property: has_StakeholderGroup
 

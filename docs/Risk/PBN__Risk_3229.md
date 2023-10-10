@@ -2,7 +2,7 @@
 
 # Risk: __Lack of Knowledge and Awareness__ (PBN__Risk_3229)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Public Health Education and Awareness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1715.md)
 

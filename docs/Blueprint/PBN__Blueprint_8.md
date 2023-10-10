@@ -2,20 +2,6 @@
 
 # Blueprint: __PBN:BP_9__ (PBN__Blueprint_8)
 
-## Property: has_BPCapabilities
-
-Large screens and other digital signage 
-Mobile app with alerts and notifications with access to the potential DT
-Intranet and platforms alike 
-
-## Property: has_BPPhase
-
-Design
-
-## Property: has_BPType
-
-Technical & Behavioural
-
 ## Property: has_BPDemonstrated
 
 During the COVID-19 outbreak, drugstores or townhalls turned into information points for their neighbourhoods
@@ -31,14 +17,6 @@ The information points will share information on the following topics
 •	  information about specific rooms in relation to ongoing, completed or planned hygiene measures (e.g. deep cleaning in rooms with registered disease cases)
 •	  sensor-monitored occupancy levels (both for hot-desk reservation system & space usage information) and wayfinding signage to disperse the users into less occupied spaces 
 
-## Property: has_BPTitle
-
-Public places as information points
-
-## Property: has_BPDescription
-
-The idea is to turn high-traffic points into hubs of a networked system for communicating relevant information to building users/GBNs to ensure much greater visibility, easier, engaging and comprehensive communication, and immediacy of H&S analysis and messages, commitments and recommendations. This will bring a clear definition of relevant criteria and communication processes, which in turn will improve the ability to prevent critical points before reactive phases. The nature of provided information can vary from the summary of current pandemic situation, update on legislative measures to information specific to the building or GBN including its environmental parameters monitoring. 
-
 ## Property: has_BPRestriction
 
 Repetitive messages and individuals losing interest gradually  
@@ -46,27 +24,49 @@ Messages that are not suitable for all types of building users
 Outdated or misleading information
 Development of potential bottlenecks at the information points 
 
-## Property: has_BPProblem
+## Property: has_BPTransmission
 
-Provision required information to the biggest possible audience and make it accessible for those who are not using general information channels. Using information from verified channels / sources will hinder misinformation. 
+All
 
 ## Property: has_BPReason
 
 To ensure that important information reaches all relevant people. Indeed, during the COVID-19 pandemic has made society realise how important is the timely dissemination and right formulation of relevant information in combating disease outbreaks by promoting correct decision-making at both organisational and individual levels. Therefore, these information points are of great importance as they will provide much greater visibility, tailoring and compliance with the implemented regulations and recommendations.  
 
-## Property: has_BPPermanent
+## Property: has_BPCapabilities
 
-Temporary
+Large screens and other digital signage 
+Mobile app with alerts and notifications with access to the potential DT
+Intranet and platforms alike 
 
-## Property: has_BPContext
+## Property: has_BPProblem
 
-The measure is conceived for the both the- buildings’ users and general public within the GBNs. Information hubs can be physical locations such as entry and exit points, intersections, waiting areas, public transport or similar that could act as information points. This measure can be further enhanced by smartphone applications, intranet or other online information systems creating a channel to the GBN users. 
+Provision required information to the biggest possible audience and make it accessible for those who are not using general information channels. Using information from verified channels / sources will hinder misinformation. 
 
 ## Property: has_BPScale
 
 GBN 
 
-## Property: has_BPTransmission
+## Property: has_BPPhase
 
-All
+Design
+
+## Property: has_BPPermanent
+
+Temporary
+
+## Property: has_BPDescription
+
+The idea is to turn high-traffic points into hubs of a networked system for communicating relevant information to building users/GBNs to ensure much greater visibility, easier, engaging and comprehensive communication, and immediacy of H&S analysis and messages, commitments and recommendations. This will bring a clear definition of relevant criteria and communication processes, which in turn will improve the ability to prevent critical points before reactive phases. The nature of provided information can vary from the summary of current pandemic situation, update on legislative measures to information specific to the building or GBN including its environmental parameters monitoring. 
+
+## Property: has_BPContext
+
+The measure is conceived for the both the- buildings’ users and general public within the GBNs. Information hubs can be physical locations such as entry and exit points, intersections, waiting areas, public transport or similar that could act as information points. This measure can be further enhanced by smartphone applications, intranet or other online information systems creating a channel to the GBN users. 
+
+## Property: has_BPTitle
+
+Public places as information points
+
+## Property: has_BPType
+
+Technical & Behavioural
 

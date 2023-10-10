@@ -2,7 +2,7 @@
 
 # Risk: __Need for remote access and telecommuting__ (PBN__Risk_76)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Teleoperation technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_91.md)
 

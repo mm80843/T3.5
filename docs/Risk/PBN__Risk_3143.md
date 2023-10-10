@@ -2,7 +2,7 @@
 
 # Risk: __Time constraints__ (PBN__Risk_3143)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Longer project timelines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1566.md)
 

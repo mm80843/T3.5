@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Real-time data collection on the location of people to track the movement of infected individuals
 
 ## Property: has_MitigationSource
 
@@ -19,4 +14,8 @@ Real-time data collection on the location of people to track the movement of inf
 * [social media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_898.md)
 * [mobile phones](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4435.md)
 * [mobile payment applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4436.md)
+
+## Property: has_MitigationPrinciple
+
+Real-time data collection on the location of people to track the movement of infected individuals
 

@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Adoption of drive-through windows for customer service to minimize direct contact between individuals and reduce the risk of transmission in enclosed spaces.
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Adoption of drive-through windows for customer service to minimize direct contac
 ## Property: has_MitigationTechnology
 
 * [drive-through window systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4100.md)
+
+## Property: has_MitigationPrinciple
+
+Adoption of drive-through windows for customer service to minimize direct contact between individuals and reduce the risk of transmission in enclosed spaces.
 

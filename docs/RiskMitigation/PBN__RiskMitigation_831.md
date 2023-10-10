@@ -2,11 +2,11 @@
 
 # RiskMitigation: __Monitoring and support mechanisms__ (PBN__RiskMitigation_831)
 
-## Property: has_MitigationBenefit
-
-* [Improved provider well-being and performance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_834.md)
-
 ## Property: has_MitigationRisk
 
 * [Increased stress and potential overwhelm among health care providers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_594.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved provider well-being and performance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_834.md)
 

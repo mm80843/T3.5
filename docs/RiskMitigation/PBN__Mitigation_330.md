@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Used for contact tracing and notifying individuals of potential virus exposure and infection based on location data.
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Used for contact tracing and notifying individuals of potential virus exposure a
 ## Property: has_MitigationTechnology
 
 * [gps technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3164.md)
+
+## Property: has_MitigationPrinciple
+
+Used for contact tracing and notifying individuals of potential virus exposure and infection based on location data.
 

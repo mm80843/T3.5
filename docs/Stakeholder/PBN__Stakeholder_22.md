@@ -2,15 +2,7 @@
 
 # Stakeholder: __marginalized communities__ (PBN__Stakeholder_22)
 
-## Property: has_StakeholderID
-
-* [Q5853064](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5853064.md)
-
-## Property: has_BenefitForPeople
-
-* [Reduced inequalities in remote work and education opportunities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_25.md)
-
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Inequalities in access to resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1023.md)
 * [Health disparities among vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1138.md)
@@ -32,4 +24,12 @@
 * [Neoliberalism](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2262.md)
 * [Cutting public social expenditures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2263.md)
 * [Urban Inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2381.md)
+
+## Property: has_StakeholderID
+
+* [Q5853064](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5853064.md)
+
+## Property: has_BenefitForPeople
+
+* [Reduced inequalities in remote work and education opportunities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_25.md)
 

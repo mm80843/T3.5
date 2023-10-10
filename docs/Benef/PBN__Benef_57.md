@@ -6,15 +6,15 @@
 
 Remote access to mental health services can improve access and reduce barriers
 
-## Property: has_Beneficiary
-
-* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
-
-## Property: has_BenefReturn
-
-* [Improved mental well-being and increased access to care](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_56.md)
-
 ## Property: has_BenefSource
 
 * [serafini_psychological_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_12.md)
+
+## Description of Benefits pertaining to Beneficiaries
+
+* [Improved mental well-being and increased access to care](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_56.md)
+
+## Property: has_Beneficiary
+
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
 

@@ -4,9 +4,8 @@
 
 ## Property: has_StakeholderSubgroup
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_7.md)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Air pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_148.md)
 * [Increased air pollution from emissions of volatile organic compounds by urban trees](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1664.md)

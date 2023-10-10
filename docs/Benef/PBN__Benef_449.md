@@ -6,16 +6,16 @@
 
 Virtual reality technologies can provide interactive and immersive training experiences, enhancing healthcare professionals' knowledge and skills, and promoting better healthcare practices.
 
+## Property: has_BenefSource
+
+* [mbunge_critical_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_91.md)
+
+## Description of Benefits pertaining to Beneficiaries
+
+* [Investing in virtual reality technologies can lead to better-trained healthcare professionals, improving the quality of healthcare delivery and potentially reducing the burden on healthcare systems.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_485.md)
+
 ## Property: has_Beneficiary
 
 * [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
 * [healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_32.md)
-
-## Property: has_BenefReturn
-
-* [Investing in virtual reality technologies can lead to better-trained healthcare professionals, improving the quality of healthcare delivery and potentially reducing the burden on healthcare systems.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_485.md)
-
-## Property: has_BenefSource
-
-* [mbunge_critical_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_91.md)
 

@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Maintaining adequate grass cover in green spaces to support urban wildlife populations and promote mental restoration for humans.
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Maintaining adequate grass cover in green spaces to support urban wildlife popul
 ## Property: has_MitigationTechnology
 
 * [green space design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3370.md)
+
+## Property: has_MitigationPrinciple
+
+Maintaining adequate grass cover in green spaces to support urban wildlife populations and promote mental restoration for humans.
 

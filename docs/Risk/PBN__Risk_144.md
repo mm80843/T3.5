@@ -2,7 +2,7 @@
 
 # Risk: __Poor quality of green space in disadvantaged communities__ (PBN__Risk_144)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Improvement of the quality of green space](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_170.md)
 

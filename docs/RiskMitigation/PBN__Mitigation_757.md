@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Incorporating public health considerations into urban planning and design to mitigate disease spread
 
 ## Property: has_MitigationSource
 
@@ -18,4 +13,8 @@ Incorporating public health considerations into urban planning and design to mit
 
 * [urban design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3430.md)
 * [architecture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3431.md)
+
+## Property: has_MitigationPrinciple
+
+Incorporating public health considerations into urban planning and design to mitigate disease spread
 

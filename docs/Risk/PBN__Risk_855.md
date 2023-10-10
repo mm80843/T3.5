@@ -2,7 +2,7 @@
 
 # Risk: __Psychological effects__ (PBN__Risk_855)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Virtual platforms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1179.md)
 

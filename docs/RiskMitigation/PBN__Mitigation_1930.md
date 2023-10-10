@@ -6,10 +6,6 @@
 
 * [Data Security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2471.md)
 
-## Property: has_MitigationPrinciple
-
-Monitors and provides healthcare services remotely to infected patients
-
 ## Property: has_MitigationSource
 
 * [singh_internet_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_295.md)
@@ -18,4 +14,8 @@ Monitors and provides healthcare services remotely to infected patients
 
 * [iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_277.md)
 * [tele-devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4147.md)
+
+## Property: has_MitigationPrinciple
+
+Monitors and provides healthcare services remotely to infected patients
 

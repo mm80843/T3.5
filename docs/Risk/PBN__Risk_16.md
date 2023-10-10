@@ -2,7 +2,7 @@
 
 # Risk: __Urban density and crowding__ (PBN__Risk_16)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Horizontal urban development](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_20.md)
 

@@ -2,7 +2,7 @@
 
 # Risk: __Coordination problems__ (PBN__Risk_2454)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Enhanced communication and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_133.md)
 

@@ -2,7 +2,7 @@
 
 # Risk: __Inadequate PPE, Ineffective PPE, Non-compliance with PPE guidelines__ (PBN__Risk_3237)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Personal Protective Equipment (PPE)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_464.md)
 

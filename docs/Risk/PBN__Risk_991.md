@@ -2,7 +2,7 @@
 
 # Risk: __Border control__ (PBN__Risk_991)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1410.md)
 

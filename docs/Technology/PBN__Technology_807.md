@@ -6,13 +6,13 @@
 
 * [Economic and social disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1522.md)
 
-## Property: has_TechnologyID
-
-* [Q330268](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q330268.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Support Systems and Resources](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_42.md)
+
+## Property: has_TechnologyID
+
+* [Q330268](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q330268.md)
 
 ## Property: has_StakeholderGroup
 

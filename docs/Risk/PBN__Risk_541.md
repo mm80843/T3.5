@@ -2,7 +2,7 @@
 
 # Risk: __Low compliance__ (PBN__Risk_541)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Compliance Indicator](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_770.md)
 

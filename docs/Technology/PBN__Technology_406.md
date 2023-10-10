@@ -10,6 +10,17 @@
 * [Social interaction and engagement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2030.md)
 * [Reduced access to UGS during COVID-19 restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2254.md)
 
+## Property: has_StakeholderSubgroup
+
+
+## Property: has_TechnologyID
+
+* [Q238354](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q238354.md)
+
+## Property: has_StakeholderGroup
+
+* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_3.md)
+
 ## Property: has_TechnologyMitigation
 
 * [Telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_147.md)
@@ -18,16 +29,4 @@
 * [Telemedicine and remote consultation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1252.md)
 * [Facilitating remote work](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2278.md)
 * [Virtual care platforms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2377.md)
-
-## Property: has_TechnologyID
-
-* [Q238354](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q238354.md)
-
-## Property: has_StakeholderSubgroup
-
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_7.md)
-
-## Property: has_StakeholderGroup
-
-* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_3.md)
 

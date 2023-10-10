@@ -2,7 +2,7 @@
 
 # Risk: __Emotional stress__ (PBN__Risk_3334)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Patience and compassion](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2052.md)
 

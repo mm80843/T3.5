@@ -6,15 +6,15 @@
 
 Solves parameter identification issue using historical data
 
-## Property: has_Beneficiary
-
-* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
-
-## Property: has_BenefReturn
-
-* [More accurate and reliable occupancy estimation leads to better building design and operation decisions](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_133.md)
-
 ## Property: has_BenefSource
 
 * [li_building_2016](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_29.md)
+
+## Description of Benefits pertaining to Beneficiaries
+
+* [More accurate and reliable occupancy estimation leads to better building design and operation decisions](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_133.md)
+
+## Property: has_Beneficiary
+
+* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
 

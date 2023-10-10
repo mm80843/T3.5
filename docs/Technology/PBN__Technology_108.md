@@ -10,6 +10,18 @@
 * [Weak health-care systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1721.md)
 * [Insufficient preparation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2181.md)
 
+## Property: has_StakeholderSubgroup
+
+
+## Property: has_TechnologyID
+
+* [Q6657015](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6657015.md)
+
+## Property: has_StakeholderGroup
+
+* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_15.md)
+* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
+
 ## Property: has_TechnologyMitigation
 
 * [Healthcare system preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1015.md)
@@ -17,17 +29,4 @@
 * [Strengthened healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1069.md)
 * [Testing and early detection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1092.md)
 * [Healthcare Facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1742.md)
-
-## Property: has_TechnologyID
-
-* [Q6657015](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6657015.md)
-
-## Property: has_StakeholderSubgroup
-
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_7.md)
-
-## Property: has_StakeholderGroup
-
-* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_15.md)
-* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
 

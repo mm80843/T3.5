@@ -2,11 +2,6 @@
 
 # Technology: __cleaning equipment__ (PBN__Technology_363)
 
-## Property: has_TechnologyRisk
-
-* [Making social spaces safe and viable](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_266.md)
-* [Inadequate cleaning and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1298.md)
-
 ## Property: has_TechnologyMitigation
 
 * [Enhanced Cleaning and Sanitization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_462.md)
@@ -19,4 +14,9 @@
 ## Property: has_TechnologyID
 
 * [Q26270576](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q26270576.md)
+
+## Property: has_TechnologyRisk
+
+* [Making social spaces safe and viable](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_266.md)
+* [Inadequate cleaning and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1298.md)
 

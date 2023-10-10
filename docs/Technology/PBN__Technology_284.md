@@ -2,11 +2,11 @@
 
 # Technology: __open data platforms__ (PBN__Technology_284)
 
-## Property: has_TechnologyRisk
-
-* [Ineffective use of open government projects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1200.md)
-
 ## Property: has_TechnologyID
 
 * [Q16196790](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q16196790.md)
+
+## Property: has_TechnologyRisk
+
+* [Ineffective use of open government projects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1200.md)
 

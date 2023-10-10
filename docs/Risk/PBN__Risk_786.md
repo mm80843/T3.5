@@ -2,7 +2,7 @@
 
 # Risk: __Reduction in length of quarantine period__ (PBN__Risk_786)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Transformation design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1080.md)
 

@@ -2,7 +2,7 @@
 
 # Risk: __Risk of inadequate wastewater management during pandemic__ (PBN__Risk_365)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Proper wastewater treatment and management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_483.md)
 

@@ -2,7 +2,7 @@
 
 # Risk: __Inadequate monitoring and evaluation__ (PBN__Risk_398)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Monitoring and evaluating policy response](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_555.md)
 

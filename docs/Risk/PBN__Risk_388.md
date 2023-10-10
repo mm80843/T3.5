@@ -2,7 +2,7 @@
 
 # Risk: __Inadequate ventilation in existing buildings__ (PBN__Risk_388)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Retrofitting HVAC systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_545.md)
 

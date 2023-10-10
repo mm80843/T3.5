@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Using online methods for data collection, such as online surveys, to gather information from participants
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Using online methods for data collection, such as online surveys, to gather info
 ## Property: has_MitigationTechnology
 
 * [online survey platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4318.md)
+
+## Property: has_MitigationPrinciple
+
+Using online methods for data collection, such as online surveys, to gather information from participants
 

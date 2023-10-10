@@ -2,10 +2,6 @@
 
 # Technology: __logistics systems__ (PBN__Technology_1539)
 
-## Property: has_TechnologyRisk
-
-* [Inadequate supplies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2058.md)
-
 ## Property: has_TechnologyMitigation
 
 * [Continuous supply of essential materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1673.md)
@@ -13,4 +9,8 @@
 ## Property: has_TechnologyID
 
 * [Q177777](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q177777.md)
+
+## Property: has_TechnologyRisk
+
+* [Inadequate supplies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2058.md)
 

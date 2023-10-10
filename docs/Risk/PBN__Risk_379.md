@@ -2,7 +2,7 @@
 
 # Risk: __Global spread of infectious diseases__ (PBN__Risk_379)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Collaborative approach](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_524.md)
 

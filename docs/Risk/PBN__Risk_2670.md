@@ -2,7 +2,7 @@
 
 # Risk: __Inadequate Safety__ (PBN__Risk_2670)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Safe Work Practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_630.md)
 

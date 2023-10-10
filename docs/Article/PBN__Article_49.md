@@ -2,27 +2,11 @@
 
 # Article: __pamidimukkala_impacts_2021__ (PBN__Article_49)
 
-## Property: has_ArticleTitle
+## Property: has_ArticleDOI
 
-Impacts of COVID-19 on Health and Safety of Workforce in Construction Industry
+10.1061/9780784483541.039
 
-## Property: has_BenefInArticle
-
-* [Reduced risk of virus transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_177.md)
-* [Improved job security](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_221.md)
-* [Reduced stress and overwhelm](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_222.md)
-* [Improved mental health and well-being](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_223.md)
-* [Enhanced mental health support](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_224.md)
-
-## Property: has_ArticleLLMSummary
-
-The COVID-19 pandemic has caused a lot of problems all over the world, including in the construction and transportation sectors. Construction projects have been delayed or stopped because of supply chain issues and workers getting sick. This has made it hard for project managers to plan and schedule the work. The pandemic has also affected the mental health of workers, with many feeling stressed and anxious. To try and overcome these challenges, companies are implementing safety measures like social distancing and frequent health checks. They are also using technology more and giving employees flexible work schedules. By doing these things, they can help protect the workers and keep projects running smoothly.
-
-## Property: has_ArticleLLMShortSummary
-
-This research paper focuses on the challenges faced by the construction and transportation sector during the COVID-19 pandemic and the strategies that can effectively address them. The study conducted an extensive literature review to identify these challenges and management strategies. The challenges identified include physical and mental health concerns among workers, reduced workforce due to layoffs and supply shortages, increased workload and stress, isolation, and uncertainty about the future. The paper suggests various strategies to overcome these challenges, including redefining job site safety by implementing social distancing, health checks, and disinfection measures, increasing the use of technology for remote work and virtual meetings, extending project timelines, offering flexible work schedules, recognizing stress symptoms, providing employee training, and maintaining effective communication. These strategies aim to ensure the health and safety of the workforce and support their well-being during the pandemic. The findings of this study can assist project managers, contractors, and subcontractors in managing their projects successfully during these challenging times.
-
-## Property: has_RiskInArticle
+## List of risks in an article
 
 * [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_332.md)
 * [Exposure to the virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1871.md)
@@ -30,13 +14,9 @@ This research paper focuses on the challenges faced by the construction and tran
 * [Remote work challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1873.md)
 * [Uncertainty about future](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1874.md)
 
-## Property: has_ArticleYear
+## Property: has_ArticleLLMSummary
 
-2021
-
-## Property: has_ArticleDOI
-
-10.1061/9780784483541.039
+The COVID-19 pandemic has caused a lot of problems all over the world, including in the construction and transportation sectors. Construction projects have been delayed or stopped because of supply chain issues and workers getting sick. This has made it hard for project managers to plan and schedule the work. The pandemic has also affected the mental health of workers, with many feeling stressed and anxious. To try and overcome these challenges, companies are implementing safety measures like social distancing and frequent health checks. They are also using technology more and giving employees flexible work schedules. By doing these things, they can help protect the workers and keep projects running smoothly.
 
 ## Property: has_SourceMitigation
 
@@ -54,4 +34,24 @@ This research paper focuses on the challenges faced by the construction and tran
 * [Longer project timelines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1566.md)
 * [Remote work for office workers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1567.md)
 * [Employee training](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1570.md)
+
+## Property: has_ArticleYear
+
+2021
+
+## Property: has_ArticleLLMShortSummary
+
+This research paper focuses on the challenges faced by the construction and transportation sector during the COVID-19 pandemic and the strategies that can effectively address them. The study conducted an extensive literature review to identify these challenges and management strategies. The challenges identified include physical and mental health concerns among workers, reduced workforce due to layoffs and supply shortages, increased workload and stress, isolation, and uncertainty about the future. The paper suggests various strategies to overcome these challenges, including redefining job site safety by implementing social distancing, health checks, and disinfection measures, increasing the use of technology for remote work and virtual meetings, extending project timelines, offering flexible work schedules, recognizing stress symptoms, providing employee training, and maintaining effective communication. These strategies aim to ensure the health and safety of the workforce and support their well-being during the pandemic. The findings of this study can assist project managers, contractors, and subcontractors in managing their projects successfully during these challenging times.
+
+## Property: has_ArticleTitle
+
+Impacts of COVID-19 on Health and Safety of Workforce in Construction Industry
+
+## Property: has_BenefInArticle
+
+* [Reduced risk of virus transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_177.md)
+* [Improved job security](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_221.md)
+* [Reduced stress and overwhelm](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_222.md)
+* [Improved mental health and well-being](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_223.md)
+* [Enhanced mental health support](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_224.md)
 

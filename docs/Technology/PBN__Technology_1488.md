@@ -6,13 +6,13 @@
 
 * [Lack of IAQ monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2020.md)
 
-## Property: has_TechnologyID
-
-* [Q1165574](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1165574.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Monitoring Systems and Maintenance Protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_155.md)
+
+## Property: has_TechnologyID
+
+* [Q1165574](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1165574.md)
 
 ## Property: has_StakeholderGroup
 

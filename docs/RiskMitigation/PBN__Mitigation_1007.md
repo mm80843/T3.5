@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Instruct individuals to remain at home and limit interactions to reduce the spread of contagious diseases.
 
 ## Property: has_MitigationSource
 
@@ -16,5 +11,8 @@ Instruct individuals to remain at home and limit interactions to reduce the spre
 
 ## Property: has_MitigationTechnology
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
+
+## Property: has_MitigationPrinciple
+
+Instruct individuals to remain at home and limit interactions to reduce the spread of contagious diseases.
 

@@ -2,7 +2,7 @@
 
 # Risk: __Inefficiency in building systems and equipment__ (PBN__Risk_979)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Implement energy-efficient systems and equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1374.md)
 

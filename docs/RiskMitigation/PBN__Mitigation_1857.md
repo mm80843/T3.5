@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Use of smart sterilizer sensors at building entrances to detect and neutralize harmful pathogens, minimizing the risk of transmission in high-traffic areas.
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Use of smart sterilizer sensors at building entrances to detect and neutralize h
 ## Property: has_MitigationTechnology
 
 * [sensor technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3150.md)
+
+## Property: has_MitigationPrinciple
+
+Use of smart sterilizer sensors at building entrances to detect and neutralize harmful pathogens, minimizing the risk of transmission in high-traffic areas.
 

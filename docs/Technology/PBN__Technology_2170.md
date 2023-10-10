@@ -2,11 +2,6 @@
 
 # Technology: __Public announcements__ (PBN__Technology_2170)
 
-## Property: has_StakeholderGroup
-
-* [Enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_7.md)
-* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Public Health Measures and Education](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_47.md)
@@ -14,4 +9,9 @@
 ## Property: has_TechnologyID
 
 * [Q1196567](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1196567.md)
+
+## Property: has_StakeholderGroup
+
+* [Enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_7.md)
+* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
 

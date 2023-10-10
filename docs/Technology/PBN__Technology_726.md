@@ -2,11 +2,11 @@
 
 # Technology: __flexible and adaptable public space designs__ (PBN__Technology_726)
 
-## Property: has_TechnologyRisk
-
-* [Future of large public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_912.md)
-
 ## Property: has_TechnologyID
 
 * [Q294440](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q294440.md)
+
+## Property: has_TechnologyRisk
+
+* [Future of large public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_912.md)
 

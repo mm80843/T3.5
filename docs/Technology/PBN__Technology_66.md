@@ -6,14 +6,14 @@
 
 * [Lack of Facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1058.md)
 
-## Property: has_TechnologyID
-
-* [Q16001686](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q16001686.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Healthcare and Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_19.md)
 * [Biotechnological Techniques and Devices](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_29.md)
+
+## Property: has_TechnologyID
+
+* [Q16001686](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q16001686.md)
 
 ## Property: has_StakeholderGroup
 

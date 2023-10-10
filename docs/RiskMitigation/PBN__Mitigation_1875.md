@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Use smart solutions to promote teleworking, telemedicine, and online platforms, and accelerate digitalization of different sectors.
 
 ## Property: has_MitigationSource
 
@@ -21,4 +16,8 @@ Use smart solutions to promote teleworking, telemedicine, and online platforms, 
 * [ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_278.md)
 * [5g](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4121.md)
 * [teleworking](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4122.md)
+
+## Property: has_MitigationPrinciple
+
+Use smart solutions to promote teleworking, telemedicine, and online platforms, and accelerate digitalization of different sectors.
 

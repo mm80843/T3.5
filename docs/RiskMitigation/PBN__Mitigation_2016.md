@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Install separate air conditioning systems with individual filter units for each zone or room.
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Install separate air conditioning systems with individual filter units for each 
 ## Property: has_MitigationTechnology
 
 * [ducted air conditioning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4195.md)
+
+## Property: has_MitigationPrinciple
+
+Install separate air conditioning systems with individual filter units for each zone or room.
 

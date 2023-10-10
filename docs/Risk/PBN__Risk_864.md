@@ -2,7 +2,7 @@
 
 # Risk: __Low testing frequency in previously infected individuals__ (PBN__Risk_864)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Increase testing frequency](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1188.md)
 

@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-The regression method is used to analyze the survival of viruses exposed to different doses of far-UVC light and determine the UV inactivation rate constant or susceptibility factor.
 
 ## Property: has_MitigationSource
 
@@ -18,4 +13,8 @@ The regression method is used to analyze the survival of viruses exposed to diff
 
 * [iwls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3159.md)
 * [r software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3160.md)
+
+## Property: has_MitigationPrinciple
+
+The regression method is used to analyze the survival of viruses exposed to different doses of far-UVC light and determine the UV inactivation rate constant or susceptibility factor.
 

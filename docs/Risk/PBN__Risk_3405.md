@@ -2,7 +2,7 @@
 
 # Risk: __Climate change and environmental damage__ (PBN__Risk_3405)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Green New Deal](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2267.md)
 

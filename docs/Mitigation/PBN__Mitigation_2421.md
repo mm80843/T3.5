@@ -6,10 +6,6 @@
 
 * [Screening](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3451.md)
 
-## Property: has_MitigationPrinciple
-
-Efficient and widespread temperature monitoring in public areas and hospitals
-
 ## Property: has_MitigationSource
 
 * [yang_combating_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_23.md)
@@ -18,4 +14,8 @@ Efficient and widespread temperature monitoring in public areas and hospitals
 
 * [thermal sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4488.md)
 * [vision algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4489.md)
+
+## Property: has_MitigationPrinciple
+
+Efficient and widespread temperature monitoring in public areas and hospitals
 

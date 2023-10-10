@@ -2,7 +2,7 @@
 
 # Risk: __Detection of asymptomatic cases__ (PBN__Risk_636)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Wastewater-based epidemiology (WBE) surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_880.md)
 

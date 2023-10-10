@@ -2,9 +2,9 @@
 
 # Article: __elrayies_prophylactic_2022__ (PBN__Article_339)
 
-## Property: has_ArticleTitle
+## Property: has_ArticleDOI
 
-Prophylactic Architecture: Formulating the Concept of Pandemic-Resilient Homes
+10.3390/buildings12070927
 
 ## Property: has_ArticleYear
 
@@ -49,7 +49,7 @@ Prophylactic Architecture: Formulating the Concept of Pandemic-Resilient Homes
 * [tleuken_readiness_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_342.md)
 * [tokazhanov_assessment_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_51.md)
 
-## Property: has_ArticleDOI
+## Property: has_ArticleTitle
 
-10.3390/buildings12070927
+Prophylactic Architecture: Formulating the Concept of Pandemic-Resilient Homes
 

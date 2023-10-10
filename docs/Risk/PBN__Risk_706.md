@@ -2,7 +2,7 @@
 
 # Risk: __Pandemic containment__ (PBN__Risk_706)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Mandatory use of masks,](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_972.md)
 

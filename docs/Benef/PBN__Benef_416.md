@@ -6,16 +6,16 @@
 
 Urban green spaces provide aesthetic benefits, promote recreation and health, and reduce leisure traffic, leading to improved well-being and mental health.
 
+## Property: has_BenefSource
+
+* [reinwald_urban_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_83.md)
+
+## Description of Benefits pertaining to Beneficiaries
+
+* [Private investors can benefit from increased property value and demand for properties located near green spaces.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_446.md)
+
 ## Property: has_Beneficiary
 
 * [vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_115.md)
 * [urban population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_198.md)
-
-## Property: has_BenefReturn
-
-* [Private investors can benefit from increased property value and demand for properties located near green spaces.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_446.md)
-
-## Property: has_BenefSource
-
-* [reinwald_urban_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_83.md)
 

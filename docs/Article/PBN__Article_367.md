@@ -2,9 +2,9 @@
 
 # Article: __pedersen_assessment_2022__ (PBN__Article_367)
 
-## Property: has_ArticleTitle
+## Property: has_ArticleDOI
 
-Assessment of Building Automation and Control Systems in Danish Healthcare Facilities in the COVID-19 Era
+10.3390/app12010427
 
 ## Property: has_ArticleYear
 
@@ -14,7 +14,7 @@ Assessment of Building Automation and Control Systems in Danish Healthcare Facil
 
 * [ibn-mohammed_critical_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_344.md)
 
-## Property: has_ArticleDOI
+## Property: has_ArticleTitle
 
-10.3390/app12010427
+Assessment of Building Automation and Control Systems in Danish Healthcare Facilities in the COVID-19 Era
 

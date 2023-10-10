@@ -2,7 +2,7 @@
 
 # Risk: __Negative attitudes towards COVID-19 prevention__ (PBN__Risk_625)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Attitude Change Interventions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_868.md)
 

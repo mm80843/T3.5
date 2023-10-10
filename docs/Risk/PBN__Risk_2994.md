@@ -2,7 +2,7 @@
 
 # Risk: __High cost, technical expertise__ (PBN__Risk_2994)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Immersive virtual reality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1251.md)
 

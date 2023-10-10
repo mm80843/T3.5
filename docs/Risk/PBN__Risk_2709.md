@@ -2,7 +2,7 @@
 
 # Risk: __Harms in the neighbourhood__ (PBN__Risk_2709)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Policy interventions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_734.md)
 * [Care infrastructures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_735.md)

@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Implementing staggered work hours and schedules to reduce the number of people present at a given time.
 
 ## Property: has_MitigationSource
 
@@ -18,4 +13,8 @@ Implementing staggered work hours and schedules to reduce the number of people p
 
 * [communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_168.md)
 * [scheduling software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_634.md)
+
+## Property: has_MitigationPrinciple
+
+Implementing staggered work hours and schedules to reduce the number of people present at a given time.
 

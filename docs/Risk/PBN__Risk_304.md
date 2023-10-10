@@ -2,7 +2,7 @@
 
 # Risk: __Decline in housing construction__ (PBN__Risk_304)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Review and adjust contracts and service agreements](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_383.md)
 

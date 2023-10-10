@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Involving local residents in the design process fosters a sense of community and ownership of green spaces, increasing their value and usage.
 
 ## Property: has_MitigationSource
 
@@ -16,5 +11,8 @@ Involving local residents in the design process fosters a sense of community and
 
 ## Property: has_MitigationTechnology
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
+
+## Property: has_MitigationPrinciple
+
+Involving local residents in the design process fosters a sense of community and ownership of green spaces, increasing their value and usage.
 

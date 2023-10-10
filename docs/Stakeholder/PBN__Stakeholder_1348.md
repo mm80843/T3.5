@@ -6,7 +6,7 @@
 
 * [Vector-Control Organizations](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_125.md)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Lack of capacity for vector control operations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2008.md)
 

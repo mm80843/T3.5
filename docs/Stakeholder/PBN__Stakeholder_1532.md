@@ -2,7 +2,7 @@
 
 # Stakeholder: __people in proximity to uv-c radiation sources__ (PBN__Stakeholder_1532)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Health risks from UV-C radiation exposure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2297.md)
 

@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-The use of an isolation parameter based on spatial dependence allows for the representation of intervention strategies and adaptive behavior of sick individuals.
 
 ## Property: has_MitigationSource
 
@@ -16,5 +11,8 @@ The use of an isolation parameter based on spatial dependence allows for the rep
 
 ## Property: has_MitigationTechnology
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
+
+## Property: has_MitigationPrinciple
+
+The use of an isolation parameter based on spatial dependence allows for the representation of intervention strategies and adaptive behavior of sick individuals.
 

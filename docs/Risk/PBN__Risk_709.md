@@ -2,7 +2,7 @@
 
 # Risk: __Limited access to urban green spaces during the pandemic__ (PBN__Risk_709)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Increase in the number and accessibility of urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_982.md)
 

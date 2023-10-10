@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Provide an interface for professionals to visualize IEQ data, examine the running status of IBEM, and download data for further analyses
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Provide an interface for professionals to visualize IEQ data, examine the runnin
 ## Property: has_MitigationTechnology
 
 * [web platform](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3390.md)
+
+## Property: has_MitigationPrinciple
+
+Provide an interface for professionals to visualize IEQ data, examine the running status of IBEM, and download data for further analyses
 

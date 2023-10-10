@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Encouraging the use of affordable telecommunication tools like WhatsApp for social communication can help maintain mental stability and access reliable information.
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Encouraging the use of affordable telecommunication tools like WhatsApp for soci
 ## Property: has_MitigationTechnology
 
 * [telecommunication tools and web-based applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3083.md)
+
+## Property: has_MitigationPrinciple
+
+Encouraging the use of affordable telecommunication tools like WhatsApp for social communication can help maintain mental stability and access reliable information.
 

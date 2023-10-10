@@ -2,7 +2,7 @@
 
 # Risk: __Vector-borne diseases__ (PBN__Risk_273)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Vector control](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_331.md)
 * [Use of insecticide-treated bed nets](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_332.md)

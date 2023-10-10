@@ -2,7 +2,7 @@
 
 # Risk: __Stagnant water provides mosquito breeding grounds__ (PBN__Risk_3092)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Drainage management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1477.md)
 

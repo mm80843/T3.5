@@ -6,13 +6,13 @@
 
 * [Disruption of education system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2234.md)
 
-## Property: has_TechnologyID
-
-* [Q16473858](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q16473858.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Digital Learning Platforms and Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_56.md)
+
+## Property: has_TechnologyID
+
+* [Q16473858](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q16473858.md)
 
 ## Property: has_StakeholderGroup
 

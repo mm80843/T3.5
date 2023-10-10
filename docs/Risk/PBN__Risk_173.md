@@ -2,7 +2,7 @@
 
 # Risk: __Exposure to greenspace and mental health__ (PBN__Risk_173)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Increase access to greenspace for mental health benefits](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_213.md)
 

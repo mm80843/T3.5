@@ -2,7 +2,7 @@
 
 # Risk: __Different levels of risk tolerance__ (PBN__Risk_662)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Acknowledge diverse levels of risk tolerance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_926.md)
 

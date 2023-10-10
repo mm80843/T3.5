@@ -2,11 +2,6 @@
 
 # Technology: __masks__ (PBN__Technology_1053)
 
-## Property: has_TechnologyRisk
-
-* [Droplet transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_253.md)
-* [Inadequate personal protective equipment (PPE)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1283.md)
-
 ## Property: has_TechnologyMitigation
 
 * [Use of personal protective equipment (PPE)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_538.md)
@@ -23,4 +18,9 @@
 ## Property: has_TechnologyID
 
 * [Q3496615](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3496615.md)
+
+## Property: has_TechnologyRisk
+
+* [Droplet transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_253.md)
+* [Inadequate personal protective equipment (PPE)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1283.md)
 

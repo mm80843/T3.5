@@ -2,15 +2,15 @@
 
 # Stakeholder: __Building occupants__ (PBN__Stakeholder_2566)
 
-## Property: has_StakeholderGroup
+## Property: has_StakeholderSubgroup
 
-* [Building Occupants](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_11.md)
+* [Occupants](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_55.md)
 
 ## Property: has_StakeholderID
 
 * [Q11755880](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q11755880.md)
 
-## Property: has_StakeholderSubgroup
+## Property: has_StakeholderGroup
 
-* [Occupants](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_55.md)
+* [Building Occupants](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_11.md)
 

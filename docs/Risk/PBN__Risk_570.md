@@ -2,7 +2,6 @@
 
 # Risk: __Lack of incentive for building owners to invest in IEQ improvement__ (PBN__Risk_570)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_123.md)
 

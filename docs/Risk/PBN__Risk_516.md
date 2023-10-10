@@ -2,7 +2,7 @@
 
 # Risk: __Economic decline during the pandemic__ (PBN__Risk_516)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Implementation of non-pharmaceutical interventions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_723.md)
 

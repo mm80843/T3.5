@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Develop protocols for data sharing and harmonization
 
 ## Property: has_MitigationSource
 
@@ -18,4 +13,8 @@ Develop protocols for data sharing and harmonization
 
 * [maelstrom research](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4222.md)
 * [cineca](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4223.md)
+
+## Property: has_MitigationPrinciple
+
+Develop protocols for data sharing and harmonization
 

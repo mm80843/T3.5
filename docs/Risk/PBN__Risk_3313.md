@@ -2,7 +2,7 @@
 
 # Risk: __Energy poverty__ (PBN__Risk_3313)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Direct energy assistance programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1980.md)
 * [Enhancement of energy assistance programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1982.md)

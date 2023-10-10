@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-A combination of PCR and biomarker measurements can provide comprehensive and accurate monitoring of virus outbreaks in wastewater, improving detection capabilities.
 
 ## Property: has_MitigationSource
 
@@ -18,4 +13,8 @@ A combination of PCR and biomarker measurements can provide comprehensive and ac
 
 * [pcr](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3069.md)
 * [biomarker measurements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3080.md)
+
+## Property: has_MitigationPrinciple
+
+A combination of PCR and biomarker measurements can provide comprehensive and accurate monitoring of virus outbreaks in wastewater, improving detection capabilities.
 

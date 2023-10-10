@@ -6,10 +6,6 @@
 
 * [Limited testing and treatment capabilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2826.md)
 
-## Property: has_MitigationPrinciple
-
-Advancing medical technologies to improve testing, treatment, and contact tracing for construction workers in CP
-
 ## Property: has_MitigationSource
 
 * [kaushal_strategies_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_268.md)
@@ -18,4 +14,8 @@ Advancing medical technologies to improve testing, treatment, and contact tracin
 
 * [contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_404.md)
 * [testing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_37.md)
+
+## Property: has_MitigationPrinciple
+
+Advancing medical technologies to improve testing, treatment, and contact tracing for construction workers in CP
 

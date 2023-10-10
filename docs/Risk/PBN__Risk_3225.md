@@ -2,7 +2,7 @@
 
 # Risk: __Limited accessibility, security and privacy concerns__ (PBN__Risk_3225)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Telemedicine apps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1703.md)
 

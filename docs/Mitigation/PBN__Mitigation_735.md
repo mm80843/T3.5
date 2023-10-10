@@ -6,10 +6,6 @@
 
 * [Harms in the neighbourhood](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2709.md)
 
-## Property: has_MitigationPrinciple
-
-Shift and reduce harm by providing care and support infrastructures in the community to address health and social issues
-
 ## Property: has_MitigationSource
 
 * [gurney_dangerous_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_2.md)
@@ -18,4 +14,8 @@ Shift and reduce harm by providing care and support infrastructures in the commu
 
 * [community care centers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3415.md)
 * [public facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3416.md)
+
+## Property: has_MitigationPrinciple
+
+Shift and reduce harm by providing care and support infrastructures in the community to address health and social issues
 

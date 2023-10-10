@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Estimating people flows and occupancies using the Kalman filter algorithm.
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Estimating people flows and occupancies using the Kalman filter algorithm.
 ## Property: has_MitigationTechnology
 
 * [kalman filter](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3677.md)
+
+## Property: has_MitigationPrinciple
+
+Estimating people flows and occupancies using the Kalman filter algorithm.
 

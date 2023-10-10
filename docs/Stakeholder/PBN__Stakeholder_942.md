@@ -2,7 +2,7 @@
 
 # Stakeholder: __public venues__ (PBN__Stakeholder_942)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_571.md)
 * [Inadequate Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1117.md)

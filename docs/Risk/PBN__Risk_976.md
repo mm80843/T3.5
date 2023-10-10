@@ -2,7 +2,7 @@
 
 # Risk: __High energy consumption in unoccupied buildings__ (PBN__Risk_976)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Improve building design and operation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1371.md)
 

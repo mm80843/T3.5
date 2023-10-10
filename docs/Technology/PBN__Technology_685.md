@@ -6,13 +6,13 @@
 
 * [Lack of continuous air circulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1429.md)
 
-## Property: has_TechnologyID
-
-* [Q7997508](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7997508.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [HVAC and Air Quality Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_90.md)
+
+## Property: has_TechnologyID
+
+* [Q7997508](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7997508.md)
 
 ## Property: has_StakeholderGroup
 

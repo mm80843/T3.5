@@ -2,7 +2,7 @@
 
 # Risk: __Uncertainty and changes__ (PBN__Risk_2864)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Flexibility and Adaptability](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1025.md)
 

@@ -2,11 +2,11 @@
 
 # Technology: __vaccine tracking technologies__ (PBN__Technology_1301)
 
-## Property: has_TechnologyRisk
-
-* [Vaccine distribution and storage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1908.md)
-
 ## Property: has_TechnologyID
 
 * [Q2379469](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2379469.md)
+
+## Property: has_TechnologyRisk
+
+* [Vaccine distribution and storage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1908.md)
 

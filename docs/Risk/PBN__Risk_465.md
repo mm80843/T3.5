@@ -2,7 +2,7 @@
 
 # Risk: __Inadequate patient monitoring__ (PBN__Risk_465)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [AI for patient management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_655.md)
 

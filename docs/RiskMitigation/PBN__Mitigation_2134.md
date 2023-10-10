@@ -6,10 +6,6 @@
 
 * [Water contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_129.md)
 
-## Property: has_MitigationPrinciple
-
-Proper maintenance to prevent water contamination
-
 ## Property: has_MitigationSource
 
 * [tokazhanov_assessment_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_51.md)
@@ -19,4 +15,8 @@ Proper maintenance to prevent water contamination
 * [disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_835.md)
 * [filtration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1752.md)
 * [routine maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4254.md)
+
+## Property: has_MitigationPrinciple
+
+Proper maintenance to prevent water contamination
 

@@ -2,7 +2,7 @@
 
 # Risk: __Lack of coordination__ (PBN__Risk_3438)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Partnerships and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2385.md)
 

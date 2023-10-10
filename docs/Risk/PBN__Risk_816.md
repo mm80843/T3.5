@@ -2,7 +2,7 @@
 
 # Risk: __Challenges in centralized and federated approaches__ (PBN__Risk_816)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Strengthening local support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1122.md)
 

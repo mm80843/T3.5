@@ -2,7 +2,7 @@
 
 # Risk: __Limited diagnostic tests__ (PBN__Risk_2604)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Pre-targeting sub-populations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_511.md)
 

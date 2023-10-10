@@ -6,16 +6,16 @@
 
 Increased availability of affordable housing due to policy reforms and increased investment in public and social housing.
 
+## Property: has_BenefSource
+
+* [power_public_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_107.md)
+
+## Description of Benefits pertaining to Beneficiaries
+
+* [Positive impact on society with reduced homelessness and improved social stability, while also potentially generating stable rental income and long-term asset appreciation for investors.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_569.md)
+
 ## Property: has_Beneficiary
 
 * [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
 * [low-income households](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_219.md)
-
-## Property: has_BenefReturn
-
-* [Positive impact on society with reduced homelessness and improved social stability, while also potentially generating stable rental income and long-term asset appreciation for investors.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_569.md)
-
-## Property: has_BenefSource
-
-* [power_public_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_107.md)
 

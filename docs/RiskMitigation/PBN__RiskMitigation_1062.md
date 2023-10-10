@@ -2,11 +2,11 @@
 
 # RiskMitigation: __Disinfecting shared tools and equipment__ (PBN__RiskMitigation_1062)
 
-## Property: has_MitigationBenefit
-
-* [Minimized transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_279.md)
-
 ## Property: has_MitigationRisk
 
 * [Spread of COVID-19 on construction sites](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_771.md)
+
+## Property: has_MitigationBenefit
+
+* [Minimized transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_279.md)
 

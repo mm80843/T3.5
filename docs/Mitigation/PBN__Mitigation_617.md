@@ -6,10 +6,6 @@
 
 * [Misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1033.md)
 
-## Property: has_MitigationPrinciple
-
-Use of digital platforms to share accurate and timely information about the pandemic
-
 ## Property: has_MitigationSource
 
 * [fariniuk_smart_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_143.md)
@@ -17,4 +13,8 @@ Use of digital platforms to share accurate and timely information about the pand
 ## Property: has_MitigationTechnology
 
 * [digital communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_719.md)
+
+## Property: has_MitigationPrinciple
+
+Use of digital platforms to share accurate and timely information about the pandemic
 

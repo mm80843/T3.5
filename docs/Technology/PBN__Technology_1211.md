@@ -2,11 +2,6 @@
 
 # Technology: __internet access__ (PBN__Technology_1211)
 
-## Property: has_TechnologyRisk
-
-* [Education disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_234.md)
-* [Unequal impact on the educational outcomes of children of immigrants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1846.md)
-
 ## Property: has_TechnologyMitigation
 
 * [Online supervised exercise](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_72.md)
@@ -31,4 +26,9 @@
 ## Property: has_TechnologyID
 
 * [Q1472399](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1472399.md)
+
+## Property: has_TechnologyRisk
+
+* [Education disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_234.md)
+* [Unequal impact on the educational outcomes of children of immigrants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1846.md)
 

@@ -4,16 +4,11 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 * [Exposure to pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2424.md)
 * [Direct contact transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2650.md)
 * [Contagion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2685.md)
 * [Contamination and exposure to pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2712.md)
 * [Direct contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3008.md)
-
-## Property: has_MitigationPrinciple
-
-Protecting sampling personnel from exposure to pathogens including SARS-CoV-2 during wastewater sampling
 
 ## Property: has_MitigationSource
 
@@ -26,7 +21,6 @@ Protecting sampling personnel from exposure to pathogens including SARS-CoV-2 du
 
 ## Property: has_MitigationTechnology
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 * [face masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_342.md)
 * [masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1053.md)
 * [gloves](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_487.md)
@@ -34,4 +28,8 @@ Protecting sampling personnel from exposure to pathogens including SARS-CoV-2 du
 * [ppe](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1463.md)
 * [protective clothing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3337.md)
 * [etc.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3338.md)
+
+## Property: has_MitigationPrinciple
+
+Protecting sampling personnel from exposure to pathogens including SARS-CoV-2 during wastewater sampling
 

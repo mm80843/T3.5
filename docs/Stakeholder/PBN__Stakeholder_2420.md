@@ -2,15 +2,15 @@
 
 # Stakeholder: __vector-control organization__ (PBN__Stakeholder_2420)
 
-## Property: has_StakeholderGroup
+## Property: has_StakeholderSubgroup
 
-* [National Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_7.md)
+* [Vector-Control Organizations](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_125.md)
 
 ## Property: has_StakeholderID
 
 * [Q1759392](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1759392.md)
 
-## Property: has_StakeholderSubgroup
+## Property: has_StakeholderGroup
 
-* [Vector-Control Organizations](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_125.md)
+* [National Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_7.md)
 

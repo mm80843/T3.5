@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Robots can reduce interpersonal contact, assist with delivery and transportation, and perform cleaning and disinfection tasks.
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Robots can reduce interpersonal contact, assist with delivery and transportation
 ## Property: has_MitigationTechnology
 
 * [robotics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1173.md)
+
+## Property: has_MitigationPrinciple
+
+Robots can reduce interpersonal contact, assist with delivery and transportation, and perform cleaning and disinfection tasks.
 

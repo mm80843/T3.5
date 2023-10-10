@@ -2,7 +2,7 @@
 
 # Risk: __Airflow issues__ (PBN__Risk_3022)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Differential pressurization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1326.md)
 

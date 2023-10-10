@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Allows individuals to perform work tasks from home, reducing building energy use
 
 ## Property: has_MitigationSource
 
@@ -18,4 +13,8 @@ Allows individuals to perform work tasks from home, reducing building energy use
 
 * [remote collaboration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_125.md)
 * [internet connectivity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_572.md)
+
+## Property: has_MitigationPrinciple
+
+Allows individuals to perform work tasks from home, reducing building energy use
 

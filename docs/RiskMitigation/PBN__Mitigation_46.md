@@ -6,10 +6,6 @@
 
 * [Lack of reporting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2420.md)
 
-## Property: has_MitigationPrinciple
-
-Increasing the capacity and accessibility of helpline systems can encourage individuals to report intimate partner violence and seek help.
-
 ## Property: has_MitigationSource
 
 * [aguero_covid-19_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_8.md)
@@ -17,4 +13,8 @@ Increasing the capacity and accessibility of helpline systems can encourage indi
 ## Property: has_MitigationTechnology
 
 * [helpline system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2923.md)
+
+## Property: has_MitigationPrinciple
+
+Increasing the capacity and accessibility of helpline systems can encourage individuals to report intimate partner violence and seek help.
 

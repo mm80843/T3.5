@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Upgrading the level of the central air filter to effectively capture and remove particulate matter, including viral droplets, from the air
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Upgrading the level of the central air filter to effectively capture and remove 
 ## Property: has_MitigationTechnology
 
 * [hvac system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3190.md)
+
+## Property: has_MitigationPrinciple
+
+Upgrading the level of the central air filter to effectively capture and remove particulate matter, including viral droplets, from the air
 

@@ -2,7 +2,7 @@
 
 # Risk: __Increased stress for students and faculty__ (PBN__Risk_213)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Practice patience and compassion](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_255.md)
 

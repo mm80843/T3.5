@@ -2,7 +2,7 @@
 
 # Risk: __Fomite spread__ (PBN__Risk_3010)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Surface disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_246.md)
 

@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Engaging in national and international conversations can foster collaboration and consensus-building on issues such as rebuilding from humanitarian crises, addressing global inequality, and redesigning global trade and economic systems to create a more sustainable and inclusive post-pandemic world.
 
 ## Property: has_MitigationSource
 
@@ -16,5 +11,8 @@ Engaging in national and international conversations can foster collaboration an
 
 ## Property: has_MitigationTechnology
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
+
+## Property: has_MitigationPrinciple
+
+Engaging in national and international conversations can foster collaboration and consensus-building on issues such as rebuilding from humanitarian crises, addressing global inequality, and redesigning global trade and economic systems to create a more sustainable and inclusive post-pandemic world.
 

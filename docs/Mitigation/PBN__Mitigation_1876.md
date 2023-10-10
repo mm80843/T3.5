@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Learn from the pandemic experience to optimize city operations, enhance resilience, and maximize the benefits of smart solutions.
 
 ## Property: has_MitigationSource
 
@@ -19,4 +14,8 @@ Learn from the pandemic experience to optimize city operations, enhance resilien
 * [iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_277.md)
 * [ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_278.md)
 * [big data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2938.md)
+
+## Property: has_MitigationPrinciple
+
+Learn from the pandemic experience to optimize city operations, enhance resilience, and maximize the benefits of smart solutions.
 

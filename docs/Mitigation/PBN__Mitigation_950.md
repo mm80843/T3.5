@@ -6,10 +6,6 @@
 
 * [None](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2827.md)
 
-## Property: has_MitigationPrinciple
-
-By allowing individuals to work from home, the need for travel and physical presence in office buildings is reduced, leading to a lower risk of disease transmission.
-
 ## Property: has_MitigationSource
 
 * [kawka_impacts_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_97.md)
@@ -18,4 +14,8 @@ By allowing individuals to work from home, the need for travel and physical pres
 
 * [technology for remote communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3558.md)
 * [such as video conferencing software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3559.md)
+
+## Property: has_MitigationPrinciple
+
+By allowing individuals to work from home, the need for travel and physical presence in office buildings is reduced, leading to a lower risk of disease transmission.
 

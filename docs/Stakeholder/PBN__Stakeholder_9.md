@@ -6,7 +6,7 @@
 
 * [Public](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_147.md)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Spread of contagious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_20.md)
 * [Psychological impact of quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_33.md)
@@ -339,6 +339,10 @@
 
 * [Q2625603](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2625603.md)
 
+## Property: has_StakeholderGroup
+
+* [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
+
 ## Property: has_BenefitForPeople
 
 * [Improved mental health outcomes](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_11.md)
@@ -465,8 +469,4 @@
 * [Enhanced hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1387.md)
 * [Early detection of potential outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1388.md)
 * [Prevention of misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1405.md)
-
-## Property: has_StakeholderGroup
-
-* [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
 

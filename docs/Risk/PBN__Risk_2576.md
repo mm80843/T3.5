@@ -2,7 +2,7 @@
 
 # Risk: __Miscommunication__ (PBN__Risk_2576)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Misinformation Prevention](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_436.md)
 * [Enhanced Communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_680.md)

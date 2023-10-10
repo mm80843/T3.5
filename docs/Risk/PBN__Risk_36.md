@@ -2,7 +2,7 @@
 
 # Risk: __Disintegrated and non-interoperable data and knowledge__ (PBN__Risk_36)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Ontologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_53.md)
 

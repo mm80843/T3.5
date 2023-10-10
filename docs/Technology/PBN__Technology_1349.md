@@ -6,13 +6,12 @@
 
 * [Lack of data standardization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1942.md)
 
+## Property: has_StakeholderSubgroup
+
+
 ## Property: has_TechnologyID
 
 * [Q749647](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q749647.md)
-
-## Property: has_StakeholderSubgroup
-
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_7.md)
 
 ## Property: has_StakeholderGroup
 

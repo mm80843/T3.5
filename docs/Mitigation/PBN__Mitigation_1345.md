@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Dilute virus particles in the air by increasing fresh air supply, reducing the risk of infection
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Dilute virus particles in the air by increasing fresh air supply, reducing the r
 ## Property: has_MitigationTechnology
 
 * [hvac systems with increased fresh air flowrate](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3811.md)
+
+## Property: has_MitigationPrinciple
+
+Dilute virus particles in the air by increasing fresh air supply, reducing the risk of infection
 

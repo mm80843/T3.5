@@ -6,7 +6,7 @@
 
 * [Households](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_143.md)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Increased energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1252.md)
 * [Lack of willingness to pay for HEMS](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1255.md)

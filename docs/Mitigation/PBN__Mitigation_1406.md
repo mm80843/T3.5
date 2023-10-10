@@ -6,10 +6,6 @@
 
 * [Limited data collection in LMIC](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3052.md)
 
-## Property: has_MitigationPrinciple
-
-AI software can assist in remote patient monitoring and data collection in LMIC
-
 ## Property: has_MitigationSource
 
 * [naseem_exploring_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_131.md)
@@ -17,4 +13,8 @@ AI software can assist in remote patient monitoring and data collection in LMIC
 ## Property: has_MitigationTechnology
 
 * [artificial intelligence and mobile technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3848.md)
+
+## Property: has_MitigationPrinciple
+
+AI software can assist in remote patient monitoring and data collection in LMIC
 

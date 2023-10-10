@@ -2,7 +2,7 @@
 
 # Risk: __Unknown infection status__ (PBN__Risk_3005)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Widespread testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1268.md)
 * [Identification and isolation of cases](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1267.md)

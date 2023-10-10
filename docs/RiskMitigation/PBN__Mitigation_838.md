@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Wearing facemasks to reduce the spread of droplets containing the virus during coughing, sneezing, or speaking
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Wearing facemasks to reduce the spread of droplets containing the virus during c
 ## Property: has_MitigationTechnology
 
 * [face masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_342.md)
+
+## Property: has_MitigationPrinciple
+
+Wearing facemasks to reduce the spread of droplets containing the virus during coughing, sneezing, or speaking
 

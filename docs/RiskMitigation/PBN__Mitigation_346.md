@@ -4,12 +4,7 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 * [Virus transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3332.md)
-
-## Property: has_MitigationPrinciple
-
-Minimize the risk of contamination from waste
 
 ## Property: has_MitigationSource
 
@@ -18,7 +13,10 @@ Minimize the risk of contamination from waste
 
 ## Property: has_MitigationTechnology
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 * [waste separation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4289.md)
 * [recycling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4294.md)
+
+## Property: has_MitigationPrinciple
+
+Minimize the risk of contamination from waste
 

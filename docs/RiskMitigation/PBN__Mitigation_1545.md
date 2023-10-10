@@ -6,10 +6,6 @@
 
 * [Lack of data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2698.md)
 
-## Property: has_MitigationPrinciple
-
-Emphasize proper analysis of limited data to avoid over-confidence and ensure accurate decision-making.
-
 ## Property: has_MitigationSource
 
 * [orso_infodemic_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_299.md)
@@ -17,4 +13,8 @@ Emphasize proper analysis of limited data to avoid over-confidence and ensure ac
 ## Property: has_MitigationTechnology
 
 * [data analysis tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_554.md)
+
+## Property: has_MitigationPrinciple
+
+Emphasize proper analysis of limited data to avoid over-confidence and ensure accurate decision-making.
 

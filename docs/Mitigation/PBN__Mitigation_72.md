@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Utilizing online platforms and programs for supervised exercise to help improve mental health during the pandemic, especially for those who have limited access to in-person supervision and mentoring.
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Utilizing online platforms and programs for supervised exercise to help improve 
 ## Property: has_MitigationTechnology
 
 * [internet access](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1211.md)
+
+## Property: has_MitigationPrinciple
+
+Utilizing online platforms and programs for supervised exercise to help improve mental health during the pandemic, especially for those who have limited access to in-person supervision and mentoring.
 

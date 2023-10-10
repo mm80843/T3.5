@@ -2,7 +2,7 @@
 
 # Risk: __Misallocation of resources__ (PBN__Risk_2793)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_886.md)
 

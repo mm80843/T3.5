@@ -2,9 +2,9 @@
 
 # Article: __amos_enhancing_2021__ (PBN__Article_315)
 
-## Property: has_ArticleTitle
+## Property: has_ArticleDOI
 
-Enhancing the role of facilities management in the fight against the COVID-19 (SARS-CoV-2) pandemic in developing countries’ public hospitals
+10.1108/JFM-06-2020-0034
 
 ## Property: has_ArticleYear
 
@@ -18,7 +18,7 @@ Enhancing the role of facilities management in the fight against the COVID-19 (S
 * [pinheiro_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_316.md)
 * [robbins_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_93.md)
 
-## Property: has_ArticleDOI
+## Property: has_ArticleTitle
 
-10.1108/JFM-06-2020-0034
+Enhancing the role of facilities management in the fight against the COVID-19 (SARS-CoV-2) pandemic in developing countries’ public hospitals
 

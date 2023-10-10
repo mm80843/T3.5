@@ -2,7 +2,7 @@
 
 # Risk: __Recycling of contaminated air within the HVAC system__ (PBN__Risk_3069)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Avoidance of air recirculation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1431.md)
 

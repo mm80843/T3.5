@@ -2,15 +2,15 @@
 
 # Stakeholder: __quarantine facility operator__ (PBN__Stakeholder_2416)
 
-## Property: has_StakeholderGroup
+## Property: has_StakeholderSubgroup
 
-* [National Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_7.md)
+* [Quarantine Facilities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_124.md)
 
 ## Property: has_StakeholderID
 
 * [Q182899](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q182899.md)
 
-## Property: has_StakeholderSubgroup
+## Property: has_StakeholderGroup
 
-* [Quarantine Facilities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_124.md)
+* [National Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_7.md)
 

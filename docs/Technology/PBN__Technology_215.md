@@ -2,11 +2,11 @@
 
 # Technology: __non-toxic nanomaterials__ (PBN__Technology_215)
 
-## Property: has_TechnologyRisk
-
-* [Toxicity of nanomaterials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1134.md)
-
 ## Property: has_TechnologyID
 
 * [Q967847](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q967847.md)
+
+## Property: has_TechnologyRisk
+
+* [Toxicity of nanomaterials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1134.md)
 

@@ -2,7 +2,7 @@
 
 # Risk: __Reducing transmission in buildings__ (PBN__Risk_970)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Contactless technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1356.md)
 * [Modular construction](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1357.md)

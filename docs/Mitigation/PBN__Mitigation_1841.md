@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Implementation of negative-pressure ventilation systems in areas with high aerosol generation to prevent the spread of infectious particles to other areas.
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Implementation of negative-pressure ventilation systems in areas with high aeros
 ## Property: has_MitigationTechnology
 
 * [negative-pressure ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4101.md)
+
+## Property: has_MitigationPrinciple
+
+Implementation of negative-pressure ventilation systems in areas with high aerosol generation to prevent the spread of infectious particles to other areas.
 

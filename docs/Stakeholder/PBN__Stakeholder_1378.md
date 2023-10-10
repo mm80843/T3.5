@@ -2,7 +2,7 @@
 
 # Stakeholder: __blood donors__ (PBN__Stakeholder_1378)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Contamination of blood products](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2053.md)
 

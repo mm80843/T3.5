@@ -6,10 +6,6 @@
 
 * [Financial viability of clean energy sectors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3318.md)
 
-## Property: has_MitigationPrinciple
-
-Provide financial incentives and support for the manufacturing and deployment of clean energy technologies
-
 ## Property: has_MitigationSource
 
 * [sovacool_contextualizing_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_123.md)
@@ -17,4 +13,8 @@ Provide financial incentives and support for the manufacturing and deployment of
 ## Property: has_MitigationTechnology
 
 * [financial incentives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_53.md)
+
+## Property: has_MitigationPrinciple
+
+Provide financial incentives and support for the manufacturing and deployment of clean energy technologies
 

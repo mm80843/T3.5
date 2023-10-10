@@ -6,13 +6,13 @@
 
 * [Negative Emotions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2277.md)
 
-## Property: has_TechnologyID
-
-* [Q4923501](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4923501.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Online Counseling and Therapy Platforms](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_65.md)
+
+## Property: has_TechnologyID
+
+* [Q4923501](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4923501.md)
 
 ## Property: has_StakeholderGroup
 

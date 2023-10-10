@@ -6,15 +6,15 @@
 
 Economy has smoother effects, lower economic losses
 
-## Property: has_Beneficiary
-
-* [private businesses and economy](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_290.md)
-
-## Property: has_BenefReturn
-
-* [Balance between health and economy, reduces economic damage](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_753.md)
-
 ## Property: has_BenefSource
 
 * [silva_covid-abs_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_139.md)
+
+## Description of Benefits pertaining to Beneficiaries
+
+* [Balance between health and economy, reduces economic damage](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_753.md)
+
+## Property: has_Beneficiary
+
+* [private businesses and economy](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_290.md)
 

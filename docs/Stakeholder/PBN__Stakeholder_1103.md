@@ -6,7 +6,7 @@
 
 * [Individuals with Health Conditions](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_76.md)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Increased exposure to pollen from urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1671.md)
 

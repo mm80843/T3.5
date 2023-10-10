@@ -6,10 +6,6 @@
 
 * [Heat loss or gain](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2757.md)
 
-## Property: has_MitigationPrinciple
-
-Proper insulation of the building envelope can help reduce heat loss or gain, maintain indoor temperature stability, and reduce the need for frequent window opening.
-
 ## Property: has_MitigationSource
 
 * [howard-reed_effect_2002](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_235.md)
@@ -17,4 +13,8 @@ Proper insulation of the building envelope can help reduce heat loss or gain, ma
 ## Property: has_MitigationTechnology
 
 * [insulation materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_80.md)
+
+## Property: has_MitigationPrinciple
+
+Proper insulation of the building envelope can help reduce heat loss or gain, maintain indoor temperature stability, and reduce the need for frequent window opening.
 

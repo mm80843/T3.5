@@ -2,15 +2,15 @@
 
 # Stakeholder: __water management authority__ (PBN__Stakeholder_2425)
 
-## Property: has_StakeholderGroup
+## Property: has_StakeholderSubgroup
 
-* [National Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_7.md)
+* [Water Management](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_117.md)
 
 ## Property: has_StakeholderID
 
 * [Q1501619](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1501619.md)
 
-## Property: has_StakeholderSubgroup
+## Property: has_StakeholderGroup
 
-* [Water Management](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_117.md)
+* [National Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_7.md)
 

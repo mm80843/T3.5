@@ -7,10 +7,6 @@
 * [Contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1882.md)
 * [Personal comfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3355.md)
 
-## Property: has_MitigationPrinciple
-
-Maintaining physical distance from others to reduce the risk of close contact and potential transmission
-
 ## Property: has_MitigationSource
 
 * [tokazhanov_assessment_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_51.md)
@@ -18,6 +14,9 @@ Maintaining physical distance from others to reduce the risk of close contact an
 
 ## Property: has_MitigationTechnology
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 * [room to member ratio](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4264.md)
+
+## Property: has_MitigationPrinciple
+
+Maintaining physical distance from others to reduce the risk of close contact and potential transmission
 

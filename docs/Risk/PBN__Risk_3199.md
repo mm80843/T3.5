@@ -2,7 +2,7 @@
 
 # Risk: __Non-compliance with mask wearing__ (PBN__Risk_3199)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Facial Mask Detection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1664.md)
 

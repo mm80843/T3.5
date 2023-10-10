@@ -6,10 +6,6 @@
 
 * [Lack of knowledge on prevention](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2769.md)
 
-## Property: has_MitigationPrinciple
-
-Provide training and awareness programs to educate individuals on proper prevention measures
-
 ## Property: has_MitigationSource
 
 * [ibrahim_assessment_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_128.md)
@@ -17,4 +13,8 @@ Provide training and awareness programs to educate individuals on proper prevent
 ## Property: has_MitigationTechnology
 
 * [education and communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3481.md)
+
+## Property: has_MitigationPrinciple
+
+Provide training and awareness programs to educate individuals on proper prevention measures
 

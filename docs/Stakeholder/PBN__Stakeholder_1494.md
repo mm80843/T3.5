@@ -2,7 +2,7 @@
 
 # Stakeholder: __artists__ (PBN__Stakeholder_1494)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Loss of cultural and creative industries](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2233.md)
 

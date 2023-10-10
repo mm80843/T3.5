@@ -2,7 +2,7 @@
 
 # Risk: __EU3: Energy use__ (PBN__Risk_195)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Use of energy-efficient appliances](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_235.md)
 

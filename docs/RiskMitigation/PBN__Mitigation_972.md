@@ -6,10 +6,6 @@
 
 * [Circulation of fake news and misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2840.md)
 
-## Property: has_MitigationPrinciple
-
-Provide accurate and validated information to combat fake news and misinformation
-
 ## Property: has_MitigationSource
 
 * [kaya_changes_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_185.md)
@@ -18,4 +14,8 @@ Provide accurate and validated information to combat fake news and misinformatio
 
 * [social media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_47.md)
 * [internet access](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1211.md)
+
+## Property: has_MitigationPrinciple
+
+Provide accurate and validated information to combat fake news and misinformation
 

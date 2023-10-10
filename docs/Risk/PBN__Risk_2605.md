@@ -2,7 +2,7 @@
 
 # Risk: __Privacy, ethics, and legal concerns__ (PBN__Risk_2605)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Wastewater-Based Epidemiology (WBE)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_512.md)
 

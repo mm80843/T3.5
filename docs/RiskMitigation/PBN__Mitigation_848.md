@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Further extracts the viruses from the cell lysates
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Further extracts the viruses from the cell lysates
 ## Property: has_MitigationTechnology
 
 * [polyethylene glycol (mw 8000)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3491.md)
+
+## Property: has_MitigationPrinciple
+
+Further extracts the viruses from the cell lysates
 

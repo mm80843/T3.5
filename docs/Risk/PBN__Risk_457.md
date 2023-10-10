@@ -2,7 +2,7 @@
 
 # Risk: __Communication and coordination__ (PBN__Risk_457)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Establishing effective communication channels](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_647.md)
 

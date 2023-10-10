@@ -2,15 +2,15 @@
 
 # Stakeholder: __government department__ (PBN__Stakeholder_2436)
 
-## Property: has_StakeholderGroup
+## Property: has_StakeholderSubgroup
 
-* [National Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_7.md)
+* [Government Departments and Ministries](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_121.md)
 
 ## Property: has_StakeholderID
 
 * [Q327333](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q327333.md)
 
-## Property: has_StakeholderSubgroup
+## Property: has_StakeholderGroup
 
-* [Government Departments and Ministries](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_121.md)
+* [National Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_7.md)
 

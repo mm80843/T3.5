@@ -2,7 +2,7 @@
 
 # Risk: __Spread of Covid-19 in urban public spaces__ (PBN__Risk_27)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Spatial planning considerations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_35.md)
 

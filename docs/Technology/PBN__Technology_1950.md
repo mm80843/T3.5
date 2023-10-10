@@ -6,13 +6,13 @@
 
 * [Insecticide resistance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2353.md)
 
-## Property: has_TechnologyID
-
-* [Q2003646](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2003646.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Infectious Agents Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_187.md)
+
+## Property: has_TechnologyID
+
+* [Q2003646](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2003646.md)
 
 ## Property: has_StakeholderGroup
 

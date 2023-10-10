@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Allows users to access and explore outbreak data without coding, providing a user-friendly interface for data analysis and visualization
 
 ## Property: has_MitigationSource
 
@@ -18,4 +13,8 @@ Allows users to access and explore outbreak data without coding, providing a use
 
 * [rstudio shiny framework](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4477.md)
 * [web development tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4478.md)
+
+## Property: has_MitigationPrinciple
+
+Allows users to access and explore outbreak data without coding, providing a user-friendly interface for data analysis and visualization
 

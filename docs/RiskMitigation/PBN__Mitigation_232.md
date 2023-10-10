@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-CRISPR-based lateral flow assay can detect SARS-CoV-2 in less than 40 minutes, providing a fast and accurate method for virus detection in wastewaters.
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ CRISPR-based lateral flow assay can detect SARS-CoV-2 in less than 40 minutes, p
 ## Property: has_MitigationTechnology
 
 * [crispr](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3076.md)
+
+## Property: has_MitigationPrinciple
+
+CRISPR-based lateral flow assay can detect SARS-CoV-2 in less than 40 minutes, providing a fast and accurate method for virus detection in wastewaters.
 

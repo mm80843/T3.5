@@ -2,7 +2,7 @@
 
 # Risk: __Negative consequences on indoor climate__ (PBN__Risk_3243)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Adequate Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1759.md)
 

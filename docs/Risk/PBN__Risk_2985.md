@@ -2,7 +2,7 @@
 
 # Risk: __Limited understanding of the spread and impact of COVID-19__ (PBN__Risk_2985)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Geospatial analysis of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1237.md)
 

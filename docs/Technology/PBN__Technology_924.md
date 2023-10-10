@@ -7,14 +7,14 @@
 * [High population density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_620.md)
 * [Inadequate public space design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1606.md)
 
-## Property: has_TechnologyID
-
-* [Q63100](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q63100.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Urban Planning and Green Spaces](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_85.md)
 * [Green Spaces and Urban Design](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_84.md)
+
+## Property: has_TechnologyID
+
+* [Q63100](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q63100.md)
 
 ## Property: has_StakeholderGroup
 

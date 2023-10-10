@@ -2,7 +2,7 @@
 
 # Risk: __Impact on healthcare professionals__ (PBN__Risk_831)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Provide psychosocial support and resources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1138.md)
 

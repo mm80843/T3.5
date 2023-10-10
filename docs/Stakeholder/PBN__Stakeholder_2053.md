@@ -2,15 +2,15 @@
 
 # Stakeholder: __app developer__ (PBN__Stakeholder_2053)
 
-## Property: has_StakeholderGroup
+## Property: has_StakeholderSubgroup
 
-* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
+* [AI and Technology](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_54.md)
 
 ## Property: has_StakeholderID
 
 * [Q2988038](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2988038.md)
 
-## Property: has_StakeholderSubgroup
+## Property: has_StakeholderGroup
 
-* [AI and Technology](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_54.md)
+* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
 

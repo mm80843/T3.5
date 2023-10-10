@@ -2,15 +2,15 @@
 
 # Stakeholder: __Manufacturers__ (PBN__Stakeholder_1972)
 
-## Property: has_StakeholderGroup
+## Property: has_StakeholderSubgroup
 
-* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
+* [Manufacturing and Industry](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_62.md)
 
 ## Property: has_StakeholderID
 
 * [Q42855995](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q42855995.md)
 
-## Property: has_StakeholderSubgroup
+## Property: has_StakeholderGroup
 
-* [Manufacturing and Industry](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_62.md)
+* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
 

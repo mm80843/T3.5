@@ -2,7 +2,7 @@
 
 # Risk: __Virus spread in apartments__ (PBN__Risk_639)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Minimize sharing vertical shaft systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_883.md)
 

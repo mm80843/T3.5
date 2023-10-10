@@ -4,13 +4,8 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 * [Integration challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2464.md)
 * [Infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2622.md)
-
-## Property: has_MitigationPrinciple
-
-Using robots for surface disinfection, diagnosis and screening, and delivering medication to reduce the risk to healthcare workers and improve efficiency
 
 ## Property: has_MitigationSource
 
@@ -23,4 +18,8 @@ Using robots for surface disinfection, diagnosis and screening, and delivering m
 * [robots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3001.md)
 * [telehealth/telepresence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4089.md)
 * [medical robots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4090.md)
+
+## Property: has_MitigationPrinciple
+
+Using robots for surface disinfection, diagnosis and screening, and delivering medication to reduce the risk to healthcare workers and improve efficiency
 

@@ -6,10 +6,6 @@
 
 * [Neglected or poorly maintained green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3387.md)
 
-## Property: has_MitigationPrinciple
-
-Invest in the preparation, design, and maintenance of specific green areas, such as parks, agricultural lands, and gardens, to ensure their attractiveness, functionality, and usability
-
 ## Property: has_MitigationSource
 
 * [uchiyama_access_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_275.md)
@@ -18,4 +14,8 @@ Invest in the preparation, design, and maintenance of specific green areas, such
 
 * [landscaping materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4325.md)
 * [park/garden maintenance equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4326.md)
+
+## Property: has_MitigationPrinciple
+
+Invest in the preparation, design, and maintenance of specific green areas, such as parks, agricultural lands, and gardens, to ensure their attractiveness, functionality, and usability
 

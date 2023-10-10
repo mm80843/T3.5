@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Dehumidifying the air to remove harmful volatile organic compounds (VOCs) and potentially purge airborne pathogens
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Dehumidifying the air to remove harmful volatile organic compounds (VOCs) and po
 ## Property: has_MitigationTechnology
 
 * [silica gel desiccant rotor](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3109.md)
+
+## Property: has_MitigationPrinciple
+
+Dehumidifying the air to remove harmful volatile organic compounds (VOCs) and potentially purge airborne pathogens
 

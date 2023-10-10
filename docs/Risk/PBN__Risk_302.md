@@ -2,7 +2,7 @@
 
 # Risk: __COVID-19 outbreak__ (PBN__Risk_302)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Non-pharmaceutical interventions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_377.md)
 * [Knowledge acquisition](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_378.md)

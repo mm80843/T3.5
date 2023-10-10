@@ -6,13 +6,13 @@
 
 * [PVP3](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2192.md)
 
-## Property: has_TechnologyID
-
-* [Q24887418](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q24887418.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Disinfection Equipment and Supplies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_87.md)
+
+## Property: has_TechnologyID
+
+* [Q24887418](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q24887418.md)
 
 ## Property: has_StakeholderGroup
 

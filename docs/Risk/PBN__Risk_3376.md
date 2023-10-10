@@ -2,7 +2,7 @@
 
 # Risk: __Effective crisis management__ (PBN__Risk_3376)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Intelligence Services Integration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2189.md)
 

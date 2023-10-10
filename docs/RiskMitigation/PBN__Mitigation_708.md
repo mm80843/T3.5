@@ -8,10 +8,6 @@
 * [Transmission of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2123.md)
 * [Increased prevalence of respiratory diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3245.md)
 
-## Property: has_MitigationPrinciple
-
-Enhancing airflow and ventilation in buildings to reduce the concentration of the virus in the air
-
 ## Property: has_MitigationSource
 
 * [ghosh_study_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_57.md)
@@ -24,4 +20,8 @@ Enhancing airflow and ventilation in buildings to reduce the concentration of th
 * [ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_139.md)
 * [hvac system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3190.md)
 * [ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3132.md)
+
+## Property: has_MitigationPrinciple
+
+Enhancing airflow and ventilation in buildings to reduce the concentration of the virus in the air
 

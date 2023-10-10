@@ -2,11 +2,10 @@
 
 # RiskMitigation: __and distressing content__ (PBN__RiskMitigation_764)
 
-## Property: has_MitigationBenefit
-
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_145.md)
-
 ## Property: has_MitigationRisk
 
 * [about COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_535.md)
+
+## Property: has_MitigationBenefit
+
 

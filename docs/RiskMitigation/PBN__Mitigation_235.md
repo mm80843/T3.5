@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Biomarkers in sewage can be used as indicators of virus outbreaks, providing specific and accurate measurements using mass spectrometry or ELISA techniques.
 
 ## Property: has_MitigationSource
 
@@ -18,4 +13,8 @@ Biomarkers in sewage can be used as indicators of virus outbreaks, providing spe
 
 * [mass spectrometry](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2123.md)
 * [elisa](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3079.md)
+
+## Property: has_MitigationPrinciple
+
+Biomarkers in sewage can be used as indicators of virus outbreaks, providing specific and accurate measurements using mass spectrometry or ELISA techniques.
 

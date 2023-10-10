@@ -2,7 +2,7 @@
 
 # Risk: __Lack of global leadership__ (PBN__Risk_3402)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Coordinated response and global cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2264.md)
 

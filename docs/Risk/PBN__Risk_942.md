@@ -2,7 +2,7 @@
 
 # Risk: __Infectious disease transmission__ (PBN__Risk_942)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Improved ventilation and air filtration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1307.md)
 * [Improving ventilation system](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1320.md)

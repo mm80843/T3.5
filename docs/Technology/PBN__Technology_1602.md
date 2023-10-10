@@ -2,11 +2,11 @@
 
 # Technology: __expert guidance__ (PBN__Technology_1602)
 
-## Property: has_TechnologyRisk
-
-* [Forced early](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2105.md)
-
 ## Property: has_TechnologyID
 
 * [Q1630279](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1630279.md)
+
+## Property: has_TechnologyRisk
+
+* [Forced early](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2105.md)
 

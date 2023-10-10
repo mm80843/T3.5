@@ -6,16 +6,16 @@
 
 Allows for implementation of measures such as improved ventilation and sanitation
 
+## Property: has_BenefSource
+
+* [soliman_building_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_224.md)
+
+## Description of Benefits pertaining to Beneficiaries
+
+* [Reduced risk of disease transmission, increased user satisfaction](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1200.md)
+
 ## Property: has_Beneficiary
 
 * [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
 * [users](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_430.md)
-
-## Property: has_BenefReturn
-
-* [Reduced risk of disease transmission, increased user satisfaction](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1200.md)
-
-## Property: has_BenefSource
-
-* [soliman_building_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_224.md)
 

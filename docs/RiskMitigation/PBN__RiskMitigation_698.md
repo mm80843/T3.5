@@ -2,12 +2,12 @@
 
 # RiskMitigation: __Use of face masks__ (PBN__RiskMitigation_698)
 
+## Property: has_MitigationRisk
+
+* [COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_324.md)
+
 ## Property: has_MitigationBenefit
 
 * [Controlling infection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_702.md)
 * [Economic compromise](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_705.md)
-
-## Property: has_MitigationRisk
-
-* [COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_324.md)
 

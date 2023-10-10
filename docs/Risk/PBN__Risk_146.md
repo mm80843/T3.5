@@ -2,7 +2,7 @@
 
 # Risk: __Spread of COVID-19 due to air pollution__ (PBN__Risk_146)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Reduction of air pollution levels](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_172.md)
 * [Implementation of air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_173.md)

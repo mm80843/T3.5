@@ -6,10 +6,6 @@
 
 * [Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_974.md)
 
-## Property: has_MitigationPrinciple
-
-Covering larger surveillance areas for crowd monitoring
-
 ## Property: has_MitigationSource
 
 * [cantarero_covid19-routes_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_201.md)
@@ -17,4 +13,8 @@ Covering larger surveillance areas for crowd monitoring
 ## Property: has_MitigationTechnology
 
 * [drone technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3180.md)
+
+## Property: has_MitigationPrinciple
+
+Covering larger surveillance areas for crowd monitoring
 

@@ -6,10 +6,6 @@
 
 * [Limited data availability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2987.md)
 
-## Property: has_MitigationPrinciple
-
-AI models trained in one country can detect viruses in another country for automated detection
-
 ## Property: has_MitigationSource
 
 * [naseem_exploring_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_131.md)
@@ -17,4 +13,8 @@ AI models trained in one country can detect viruses in another country for autom
 ## Property: has_MitigationTechnology
 
 * [cross-population ai models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3846.md)
+
+## Property: has_MitigationPrinciple
+
+AI models trained in one country can detect viruses in another country for automated detection
 

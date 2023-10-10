@@ -6,17 +6,17 @@
 
 Access to up-to-date and reliable scientific findings, aiding in informed decision-making and policy formulation.
 
+## Property: has_BenefSource
+
+* [watson_rise_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_173.md)
+
+## Description of Benefits pertaining to Beneficiaries
+
+* [Improved public perception of science and research, increased trust in academic institutions, potential economic benefits from better-informed policies and interventions.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_935.md)
+
 ## Property: has_Beneficiary
 
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
 * [public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_52.md)
 * [policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_126.md)
-
-## Property: has_BenefReturn
-
-* [Improved public perception of science and research, increased trust in academic institutions, potential economic benefits from better-informed policies and interventions.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_935.md)
-
-## Property: has_BenefSource
-
-* [watson_rise_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_173.md)
 

@@ -2,7 +2,7 @@
 
 # Risk: __Crises__ (PBN__Risk_3277)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Crisis management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5.md)
 * [Timely warning system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1896.md)

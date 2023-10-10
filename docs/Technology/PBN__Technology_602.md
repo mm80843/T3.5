@@ -6,13 +6,13 @@
 
 * [Lack of wildlife support in green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1382.md)
 
-## Property: has_TechnologyID
-
-* [Q241741](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q241741.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Environment and Healthcare Management Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_14.md)
+
+## Property: has_TechnologyID
+
+* [Q241741](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q241741.md)
 
 ## Property: has_StakeholderGroup
 

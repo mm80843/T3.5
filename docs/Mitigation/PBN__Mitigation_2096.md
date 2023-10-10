@@ -6,10 +6,6 @@
 
 * [Insufficient local engagement and authority in conservation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3344.md)
 
-## Property: has_MitigationPrinciple
-
-Promoting local investment and leadership empowers local communities, enhances their ownership and engagement in conservation efforts, and ensures that decisions and actions are guided by local needs, knowledge, and perspectives.
-
 ## Property: has_MitigationSource
 
 * [thurstan_envisioning_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_221.md)
@@ -18,4 +14,8 @@ Promoting local investment and leadership empowers local communities, enhances t
 
 * [community engagement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_51.md)
 * [local funding sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4226.md)
+
+## Property: has_MitigationPrinciple
+
+Promoting local investment and leadership empowers local communities, enhances their ownership and engagement in conservation efforts, and ensures that decisions and actions are guided by local needs, knowledge, and perspectives.
 

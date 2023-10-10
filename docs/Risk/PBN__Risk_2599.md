@@ -2,7 +2,7 @@
 
 # Risk: __Lack of information__ (PBN__Risk_2599)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Effective communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_318.md)
 * [Better communication channels](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_505.md)

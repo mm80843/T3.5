@@ -2,11 +2,11 @@
 
 # Technology: __high-efficiency filters__ (PBN__Technology_272)
 
-## Property: has_TechnologyRisk
-
-* [Filtration of air](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1191.md)
-
 ## Property: has_TechnologyID
 
 * [Q948441](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q948441.md)
+
+## Property: has_TechnologyRisk
+
+* [Filtration of air](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1191.md)
 

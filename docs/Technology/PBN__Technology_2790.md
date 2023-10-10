@@ -2,15 +2,14 @@
 
 # Technology: __Research__ (PBN__Technology_2790)
 
-## Property: has_StakeholderGroup
-
-* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_15.md)
-
 ## Property: has_StakeholderSubgroup
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_7.md)
 
 ## Property: has_TechnologyID
 
 * [Q42240](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q42240.md)
+
+## Property: has_StakeholderGroup
+
+* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_15.md)
 

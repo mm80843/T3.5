@@ -2,7 +2,7 @@
 
 # Risk: __Lack of social cohesion and trust__ (PBN__Risk_3338)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Prioritize participatory governance structures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2058.md)
 

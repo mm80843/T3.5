@@ -16,13 +16,13 @@
 * [Expanding urbanization and international travel](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2007.md)
 * [Failure to implement preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2260.md)
 
-## Property: has_TechnologyID
-
-* [Q189603](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q189603.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Public Education and Awareness Campaigns](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_40.md)
+
+## Property: has_TechnologyID
+
+* [Q189603](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q189603.md)
 
 ## Property: has_StakeholderGroup
 

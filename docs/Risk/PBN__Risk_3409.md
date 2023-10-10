@@ -2,7 +2,7 @@
 
 # Risk: __Spread of infection in the workplace__ (PBN__Risk_3409)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Facilitating remote work](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2278.md)
 

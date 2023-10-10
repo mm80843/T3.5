@@ -2,7 +2,7 @@
 
 # Risk: __Limited data on transmission of COVID-19 in asymptomatic individuals__ (PBN__Risk_351)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Implementation of contact tracing and testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_462.md)
 

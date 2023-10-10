@@ -2,6 +2,10 @@
 
 # Technology: __information campaigns__ (PBN__Technology_437)
 
+## Property: has_TechnologyID
+
+* [Q6056746](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6056746.md)
+
 ## Property: has_TechnologyRisk
 
 * [Lack of awareness and education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1165.md)
@@ -12,8 +16,4 @@
 * [Lack of communication and awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1700.md)
 * [Noncompliance with public health directives](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1897.md)
 * [Low public knowledge and awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2009.md)
-
-## Property: has_TechnologyID
-
-* [Q6056746](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6056746.md)
 

@@ -2,7 +2,7 @@
 
 # Risk: __Contaminated Environment__ (PBN__Risk_3286)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Building Sanitization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1914.md)
 

@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Establishing data sharing mechanisms between health authorities and waste services sector to facilitate coordination and privacy protection
 
 ## Property: has_MitigationSource
 
@@ -16,5 +11,8 @@ Establishing data sharing mechanisms between health authorities and waste servic
 
 ## Property: has_MitigationTechnology
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
+
+## Property: has_MitigationPrinciple
+
+Establishing data sharing mechanisms between health authorities and waste services sector to facilitate coordination and privacy protection
 

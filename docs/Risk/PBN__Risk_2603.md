@@ -2,7 +2,7 @@
 
 # Risk: __Unknown infected populations__ (PBN__Risk_2603)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Fast analytical test methods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_509.md)
 

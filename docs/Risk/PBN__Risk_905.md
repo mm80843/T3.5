@@ -2,7 +2,7 @@
 
 # Risk: __surveillance terms__ (PBN__Risk_905)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [and bio-ontologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1247.md)
 

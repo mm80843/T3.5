@@ -11,14 +11,14 @@
 * [Importance of compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1787.md)
 * [Stigma and discrimination towards COVID-19 patients](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2385.md)
 
-## Property: has_TechnologyID
-
-* [Q12182551](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q12182551.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Public Education and Awareness Campaigns](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_40.md)
 * [Communication and Information Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_46.md)
+
+## Property: has_TechnologyID
+
+* [Q12182551](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q12182551.md)
 
 ## Property: has_StakeholderGroup
 

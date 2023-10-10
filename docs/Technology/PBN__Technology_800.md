@@ -2,11 +2,11 @@
 
 # Technology: __physical barrier installations__ (PBN__Technology_800)
 
-## Property: has_TechnologyRisk
-
-* [Inadequate implementation of environmental adjustments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1516.md)
-
 ## Property: has_TechnologyID
 
 * [Q808918](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q808918.md)
+
+## Property: has_TechnologyRisk
+
+* [Inadequate implementation of environmental adjustments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1516.md)
 

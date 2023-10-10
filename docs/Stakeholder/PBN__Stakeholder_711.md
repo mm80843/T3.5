@@ -6,7 +6,7 @@
 
 * [Homeless Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_96.md)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Transiency and Overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1183.md)
 

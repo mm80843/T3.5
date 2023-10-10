@@ -6,7 +6,7 @@
 
 * [Residents](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_72.md)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Uneven distribution of UGS](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1689.md)
 

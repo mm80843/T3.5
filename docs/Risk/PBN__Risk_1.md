@@ -2,7 +2,7 @@
 
 # Risk: __Spread of SARS-CoV-2 through sewage__ (PBN__Risk_1)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Sewage surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1.md)
 * [Improved controls for monitoring virus recovery efficiency](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2.md)

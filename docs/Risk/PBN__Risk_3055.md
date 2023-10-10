@@ -2,7 +2,7 @@
 
 # Risk: __Insufficient filtration of airborne particles__ (PBN__Risk_3055)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Filtered ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1418.md)
 

@@ -2,10 +2,6 @@
 
 # Technology: __iot devices__ (PBN__Technology_96)
 
-## Property: has_TechnologyRisk
-
-* [Fragmented information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1069.md)
-
 ## Property: has_TechnologyMitigation
 
 * [Contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_250.md)
@@ -26,4 +22,8 @@
 ## Property: has_TechnologyID
 
 * [Q251212](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q251212.md)
+
+## Property: has_TechnologyRisk
+
+* [Fragmented information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1069.md)
 

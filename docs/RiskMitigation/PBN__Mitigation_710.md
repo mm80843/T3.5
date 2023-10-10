@@ -4,15 +4,10 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 * [Transmission of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2123.md)
 * [Travel-related risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2859.md)
 * [Importation of diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3270.md)
 * [Global Disease Diffusion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3279.md)
-
-## Property: has_MitigationPrinciple
-
-Imposing restrictions on travel and movement to limit the spread of the virus
 
 ## Property: has_MitigationSource
 
@@ -26,9 +21,12 @@ Imposing restrictions on travel and movement to limit the spread of the virus
 
 ## Property: has_MitigationTechnology
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 * [travel tracking and monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3583.md)
 * [travel policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4040.md)
 * [border control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4041.md)
 * [travel regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4116.md)
+
+## Property: has_MitigationPrinciple
+
+Imposing restrictions on travel and movement to limit the spread of the virus
 

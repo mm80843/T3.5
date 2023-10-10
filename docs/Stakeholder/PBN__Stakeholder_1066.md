@@ -6,7 +6,7 @@
 
 * [Population Density and Urbanization](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_100.md)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Climate-associated diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1645.md)
 

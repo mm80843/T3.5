@@ -2,7 +2,7 @@
 
 # Risk: __Limited access to outdoor areas__ (PBN__Risk_344)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Provide or improve outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_455.md)
 

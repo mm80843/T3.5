@@ -6,10 +6,6 @@
 
 * [Disease transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_489.md)
 
-## Property: has_MitigationPrinciple
-
-Ensure good air ventilation and filtration to reduce the spread of respiratory diseases
-
 ## Property: has_MitigationSource
 
 * [sunandar_preventing_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_102.md)
@@ -18,4 +14,8 @@ Ensure good air ventilation and filtration to reduce the spread of respiratory d
 
 * [hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_185.md)
 * [air filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1111.md)
+
+## Property: has_MitigationPrinciple
+
+Ensure good air ventilation and filtration to reduce the spread of respiratory diseases
 

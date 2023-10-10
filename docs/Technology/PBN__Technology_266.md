@@ -2,11 +2,11 @@
 
 # Technology: __safe coating materials__ (PBN__Technology_266)
 
-## Property: has_TechnologyRisk
-
-* [Risk of adverse effects from anti-SARS-CoV-2 coatings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1180.md)
-
 ## Property: has_TechnologyID
 
 * [Q1570182](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1570182.md)
+
+## Property: has_TechnologyRisk
+
+* [Risk of adverse effects from anti-SARS-CoV-2 coatings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1180.md)
 

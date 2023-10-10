@@ -2,6 +2,10 @@
 
 # Stakeholder: __users of shared mobility services__ (PBN__Stakeholder_485)
 
+## Risk affecting this stakeholder
+
+* [Impact on micro-mobility and sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_915.md)
+
 ## Property: has_StakeholderID
 
 * [Q16985745](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q16985745.md)
@@ -9,8 +13,4 @@
 ## Property: has_BenefitForPeople
 
 * [Increased safety and confidence in using shared mobility](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1247.md)
-
-## Property: has_SubjectRisk
-
-* [Impact on micro-mobility and sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_915.md)
 

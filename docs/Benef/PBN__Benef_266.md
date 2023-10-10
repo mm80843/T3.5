@@ -6,17 +6,17 @@
 
 Reduces stress levels and improves well-being
 
+## Property: has_BenefSource
+
+* [sutton_reframe_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_53.md)
+
+## Description of Benefits pertaining to Beneficiaries
+
+* [Private investors investing in this measure would benefit from a positive and inclusive campus culture, leading to increased student enrollment and retention.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_278.md)
+
 ## Property: has_Beneficiary
 
 * [staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_103.md)
 * [students](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_101.md)
 * [faculty](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_134.md)
-
-## Property: has_BenefReturn
-
-* [Private investors investing in this measure would benefit from a positive and inclusive campus culture, leading to increased student enrollment and retention.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_278.md)
-
-## Property: has_BenefSource
-
-* [sutton_reframe_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_53.md)
 

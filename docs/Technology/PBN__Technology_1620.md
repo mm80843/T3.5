@@ -6,13 +6,13 @@
 
 * [Lack of natural outdoor environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2116.md)
 
-## Property: has_TechnologyID
-
-* [Q22652](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q22652.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Green and Outdoor Spaces](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_83.md)
+
+## Property: has_TechnologyID
+
+* [Q22652](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q22652.md)
 
 ## Property: has_StakeholderGroup
 

@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Establish a knowledge graph with a reference namespace to support semantic interoperability of unstructured data in the COVID-19 domain.
 
 ## Property: has_MitigationSource
 
@@ -19,4 +14,8 @@ Establish a knowledge graph with a reference namespace to support semantic inter
 * [ontologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_712.md)
 * [web portals](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2939.md)
 * [biomedical knowledge graph](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2940.md)
+
+## Property: has_MitigationPrinciple
+
+Establish a knowledge graph with a reference namespace to support semantic interoperability of unstructured data in the COVID-19 domain.
 

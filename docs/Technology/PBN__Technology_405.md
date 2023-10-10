@@ -8,13 +8,13 @@
 * [Decline in conservation efforts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1439.md)
 * [High healthcare costs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2042.md)
 
-## Property: has_TechnologyID
-
-* [Q3546700](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3546700.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Remote Monitoring and Patient Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_108.md)
+
+## Property: has_TechnologyID
+
+* [Q3546700](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3546700.md)
 
 ## Property: has_StakeholderGroup
 

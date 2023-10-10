@@ -6,14 +6,14 @@
 
 * [Limited access to private green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1970.md)
 
-## Property: has_TechnologyID
-
-* [Q5916199](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5916199.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Infrastructure and Urban Planning](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_86.md)
 * [Crowd and Occupancy Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_13.md)
+
+## Property: has_TechnologyID
+
+* [Q5916199](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5916199.md)
 
 ## Property: has_StakeholderGroup
 

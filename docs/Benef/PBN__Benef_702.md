@@ -6,16 +6,16 @@
 
 Flattened infection curve
 
-## Property: has_Beneficiary
+## Property: has_BenefSource
 
-* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+* [silva_covid-abs_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_139.md)
 
-## Property: has_BenefReturn
+## Description of Benefits pertaining to Beneficiaries
 
 * [Preserves lives, reduces healthcare burden](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_749.md)
 * [Prevents spread of disease, reduces infections](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_752.md)
 
-## Property: has_BenefSource
+## Property: has_Beneficiary
 
-* [silva_covid-abs_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_139.md)
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
 

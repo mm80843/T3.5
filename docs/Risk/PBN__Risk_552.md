@@ -2,7 +2,7 @@
 
 # Risk: __Challenges in global climate diplomacy__ (PBN__Risk_552)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Leadership by example and ambition](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_779.md)
 

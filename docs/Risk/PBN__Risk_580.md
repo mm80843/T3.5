@@ -2,7 +2,7 @@
 
 # Risk: __Lack of real-time data for policy intervention__ (PBN__Risk_580)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Developing a COVID-19 dashboard](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_813.md)
 

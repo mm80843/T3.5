@@ -4,12 +4,7 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 * [Virus transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3332.md)
-
-## Property: has_MitigationPrinciple
-
-Incorporation of antimicrobial materials in surface design and maintenance to reduce the survival and spread of infectious particles, limiting transmission.
 
 ## Property: has_MitigationSource
 
@@ -22,4 +17,8 @@ Incorporation of antimicrobial materials in surface design and maintenance to re
 * [copper](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4272.md)
 * [alloys copper](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4273.md)
 * [antimicrobial additives for indoor finishing materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4274.md)
+
+## Property: has_MitigationPrinciple
+
+Incorporation of antimicrobial materials in surface design and maintenance to reduce the survival and spread of infectious particles, limiting transmission.
 

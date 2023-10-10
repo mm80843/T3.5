@@ -6,10 +6,6 @@
 
 * [Delayed treatment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3273.md)
 
-## Property: has_MitigationPrinciple
-
-Improving access to healthcare and promoting early treatment can help interrupt the transmission cycle of contagious diseases, reducing the risk of outbreaks in healthcare settings.
-
 ## Property: has_MitigationSource
 
 * [semenza_prototype_2015](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_212.md)
@@ -17,4 +13,8 @@ Improving access to healthcare and promoting early treatment can help interrupt 
 ## Property: has_MitigationTechnology
 
 * [access to healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4119.md)
+
+## Property: has_MitigationPrinciple
+
+Improving access to healthcare and promoting early treatment can help interrupt the transmission cycle of contagious diseases, reducing the risk of outbreaks in healthcare settings.
 

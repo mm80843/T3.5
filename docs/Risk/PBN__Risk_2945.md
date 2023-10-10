@@ -2,7 +2,7 @@
 
 # Risk: __Gnawing damage, spread of diseases__ (PBN__Risk_2945)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Rat Management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1147.md)
 

@@ -2,11 +2,11 @@
 
 # RiskMitigation: __Proper handling of pandemic impact__ (PBN__RiskMitigation_1405)
 
-## Property: has_MitigationBenefit
-
-* [Decreased financial losses](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1370.md)
-
 ## Property: has_MitigationRisk
 
 * [COVID-19 impact on construction industry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_987.md)
+
+## Property: has_MitigationBenefit
+
+* [Decreased financial losses](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1370.md)
 

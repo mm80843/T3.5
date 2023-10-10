@@ -4,12 +4,7 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 * [Infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2622.md)
-
-## Property: has_MitigationPrinciple
-
-Drones can be used for transportation, monitoring, and disinfection, reducing the risk of human exposure.
 
 ## Property: has_MitigationSource
 
@@ -20,4 +15,8 @@ Drones can be used for transportation, monitoring, and disinfection, reducing th
 
 * [drones](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_864.md)
 * [robotics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1173.md)
+
+## Property: has_MitigationPrinciple
+
+Drones can be used for transportation, monitoring, and disinfection, reducing the risk of human exposure.
 

@@ -2,7 +2,7 @@
 
 # Risk: __Virus origin__ (PBN__Risk_426)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Phylogenetic analysis](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_590.md)
 * [Animal models](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_591.md)

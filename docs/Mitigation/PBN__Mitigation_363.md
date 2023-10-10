@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Gathering insights and feedback from individuals for evaluation purposes
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Gathering insights and feedback from individuals for evaluation purposes
 ## Property: has_MitigationTechnology
 
 * [web surveys](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3187.md)
+
+## Property: has_MitigationPrinciple
+
+Gathering insights and feedback from individuals for evaluation purposes
 

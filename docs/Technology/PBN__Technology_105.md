@@ -6,13 +6,13 @@
 
 * [Propaganda](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1071.md)
 
-## Property: has_TechnologyID
-
-* [Q2991722](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2991722.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Transparency and Public Awareness Measures](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_48.md)
+
+## Property: has_TechnologyID
+
+* [Q2991722](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2991722.md)
 
 ## Property: has_StakeholderGroup
 

@@ -6,13 +6,13 @@
 
 * [Increase in off-site construction and engineering](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_244.md)
 
-## Property: has_TechnologyID
-
-* [Q55648394](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q55648394.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Building Systems and Design](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_89.md)
+
+## Property: has_TechnologyID
+
+* [Q55648394](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q55648394.md)
 
 ## Property: has_StakeholderGroup
 

@@ -2,11 +2,11 @@
 
 # Technology: __mobile apps to book time slots__ (PBN__Technology_415)
 
-## Property: has_TechnologyRisk
-
-* [Limited access to green space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1289.md)
-
 ## Property: has_TechnologyID
 
 * [Q620615](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q620615.md)
+
+## Property: has_TechnologyRisk
+
+* [Limited access to green space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1289.md)
 

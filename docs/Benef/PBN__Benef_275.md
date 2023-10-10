@@ -6,16 +6,16 @@
 
 The mitigation measure reduces the presence of pathogens on surfaces in the hospital environment, decreasing the risk of transmission and improving infection control
 
+## Property: has_BenefSource
+
+* [wang_sars-cov-2_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_55.md)
+
+## Description of Benefits pertaining to Beneficiaries
+
+* [Investing in routine cleaning and disinfection measures can improve the safety and quality of medical treatment, leading to better patient outcomes and reputation for the hospital.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_287.md)
+
 ## Property: has_Beneficiary
 
 * [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
 * [healthcare staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_139.md)
-
-## Property: has_BenefReturn
-
-* [Investing in routine cleaning and disinfection measures can improve the safety and quality of medical treatment, leading to better patient outcomes and reputation for the hospital.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_287.md)
-
-## Property: has_BenefSource
-
-* [wang_sars-cov-2_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_55.md)
 

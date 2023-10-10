@@ -6,13 +6,13 @@
 
 * [Increased clinical load](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2187.md)
 
-## Property: has_TechnologyID
-
-* [Q870780](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q870780.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Artificial Intelligence and Machine Learning](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_1.md)
+
+## Property: has_TechnologyID
+
+* [Q870780](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q870780.md)
 
 ## Property: has_StakeholderGroup
 

@@ -2,7 +2,7 @@
 
 # Risk: __Spread of infections and diseases in the built environment__ (PBN__Risk_1010)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Modular construction](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1357.md)
 * [Decentralization](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1437.md)

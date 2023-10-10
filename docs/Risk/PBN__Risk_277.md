@@ -2,7 +2,7 @@
 
 # Risk: __Lack of supplemental air disinfection methods__ (PBN__Risk_277)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Portable room air cleaners](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_343.md)
 

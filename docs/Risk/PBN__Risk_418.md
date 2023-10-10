@@ -2,7 +2,7 @@
 
 # Risk: __Legal problems__ (PBN__Risk_418)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Contractual arrangements](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_581.md)
 

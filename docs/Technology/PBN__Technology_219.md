@@ -11,13 +11,12 @@
 * [Limited access to healthcare services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1984.md)
 * [Risk of mental health issues during and after a pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2121.md)
 
+## Property: has_StakeholderSubgroup
+
+
 ## Property: has_TechnologyID
 
 * [Q4923501](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4923501.md)
-
-## Property: has_StakeholderSubgroup
-
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_7.md)
 
 ## Property: has_StakeholderGroup
 

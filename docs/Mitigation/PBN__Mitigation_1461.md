@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Implementing strict infection control measures, such as cleaning and disinfecting surfaces regularly and using personal protective equipment (PPE) in healthcare settings, to prevent the spread of contagious diseases within a room or healthcare facility.
 
 ## Property: has_MitigationSource
 
@@ -16,5 +11,8 @@ Implementing strict infection control measures, such as cleaning and disinfectin
 
 ## Property: has_MitigationTechnology
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
+
+## Property: has_MitigationPrinciple
+
+Implementing strict infection control measures, such as cleaning and disinfecting surfaces regularly and using personal protective equipment (PPE) in healthcare settings, to prevent the spread of contagious diseases within a room or healthcare facility.
 

@@ -2,7 +2,7 @@
 
 # Risk: __WQ1: Water safety__ (PBN__Risk_188)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Safety measures of drinking water](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_228.md)
 

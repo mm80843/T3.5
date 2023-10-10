@@ -2,7 +2,7 @@
 
 # Risk: __PVP6: Virus propagation__ (PBN__Risk_179)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Adjustability of indoor temperature](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_219.md)
 

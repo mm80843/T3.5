@@ -2,11 +2,11 @@
 
 # RiskMitigation: __Balcony design and orientation__ (PBN__RiskMitigation_819)
 
-## Property: has_MitigationBenefit
-
-* [Natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_823.md)
-
 ## Property: has_MitigationRisk
 
 * [Contagious diseases propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_153.md)
+
+## Property: has_MitigationBenefit
+
+* [Natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_823.md)
 

@@ -2,12 +2,12 @@
 
 # Stakeholder: __---------------------------__ (PBN__Stakeholder_1524)
 
+## Risk affecting this stakeholder
+
+* [------------------------](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2286.md)
+
 ## Property: has_OwnerRisk
 
 * [------------------------](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2286.md)
 * [-------------------](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2321.md)
-
-## Property: has_SubjectRisk
-
-* [------------------------](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2286.md)
 

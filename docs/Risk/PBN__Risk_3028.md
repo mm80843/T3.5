@@ -2,7 +2,7 @@
 
 # Risk: __Transmission among attendees__ (PBN__Risk_3028)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Cancelation of mass gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1334.md)
 

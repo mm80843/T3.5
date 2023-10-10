@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Encouraging individuals to stay connected with friends, family, and communities through digital platforms to reduce feelings of isolation and loneliness
 
 ## Property: has_MitigationSource
 
@@ -18,4 +13,8 @@ Encouraging individuals to stay connected with friends, family, and communities 
 
 * [online platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_67.md)
 * [social media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_898.md)
+
+## Property: has_MitigationPrinciple
+
+Encouraging individuals to stay connected with friends, family, and communities through digital platforms to reduce feelings of isolation and loneliness
 

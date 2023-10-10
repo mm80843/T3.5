@@ -6,10 +6,6 @@
 
 * [Increased screen time, potential for addiction, social isolation, cybersecurity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3086.md)
 
-## Property: has_MitigationPrinciple
-
-Provide entertainment and social interaction through online gaming platforms
-
 ## Property: has_MitigationSource
 
 * [nicola_socio-economic_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_135.md)
@@ -17,4 +13,8 @@ Provide entertainment and social interaction through online gaming platforms
 ## Property: has_MitigationTechnology
 
 * [online gaming platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3884.md)
+
+## Property: has_MitigationPrinciple
+
+Provide entertainment and social interaction through online gaming platforms
 

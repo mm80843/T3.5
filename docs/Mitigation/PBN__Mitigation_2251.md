@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Harnessing new-generation technologies to improve response capabilities and address public health challenges
 
 ## Property: has_MitigationSource
 
@@ -21,4 +16,8 @@ Harnessing new-generation technologies to improve response capabilities and addr
 * [cloud computing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1232.md)
 * [additive manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2012.md)
 * [internet of things](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2919.md)
+
+## Property: has_MitigationPrinciple
+
+Harnessing new-generation technologies to improve response capabilities and address public health challenges
 

@@ -2,11 +2,11 @@
 
 # Technology: __research and data collection methods__ (PBN__Technology_1123)
 
-## Property: has_TechnologyRisk
-
-* [Lack of historical data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1750.md)
-
 ## Property: has_TechnologyID
 
 * [Q4929239](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4929239.md)
+
+## Property: has_TechnologyRisk
+
+* [Lack of historical data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1750.md)
 

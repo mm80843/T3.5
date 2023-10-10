@@ -2,15 +2,15 @@
 
 # Stakeholder: __city dweller__ (PBN__Stakeholder_1605)
 
-## Property: has_StakeholderGroup
+## Property: has_StakeholderSubgroup
 
-* [City Officials](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_0.md)
+* [Public Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_3.md)
 
 ## Property: has_StakeholderID
 
 * [Q22947](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q22947.md)
 
-## Property: has_StakeholderSubgroup
+## Property: has_StakeholderGroup
 
-* [Public Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_3.md)
+* [City Officials](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_0.md)
 

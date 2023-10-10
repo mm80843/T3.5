@@ -2,7 +2,7 @@
 
 # Risk: __PVP4: Virus propagation__ (PBN__Risk_177)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Proper selection of indoor materials](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_217.md)
 

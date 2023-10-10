@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Prioritizing care for individuals with multiple health conditions and promoting collaboration among different care sectors
 
 ## Property: has_MitigationSource
 
@@ -18,4 +13,8 @@ Prioritizing care for individuals with multiple health conditions and promoting 
 
 * [integrated care models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4079.md)
 * [coordinated services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4080.md)
+
+## Property: has_MitigationPrinciple
+
+Prioritizing care for individuals with multiple health conditions and promoting collaboration among different care sectors
 

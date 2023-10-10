@@ -6,21 +6,17 @@
 
 Reducing physical contact and maintaining distance helps prevent the spread of the virus, protecting the health of workers and passengers
 
-## Property: has_Beneficiary
+## Property: has_BenefSource
 
-* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
-* [population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_81.md)
-* [workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_128.md)
-* [staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_103.md)
-* [students](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_101.md)
-* [teachers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_102.md)
-* [faculty](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_134.md)
-* [building owners and occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_143.md)
-* [infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_161.md)
-* [household members](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_162.md)
-* [passengers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_499.md)
+* [mecenas_effects_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_228.md)
+* [ghosh_study_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_57.md)
+* [sutton_reframe_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_53.md)
+* [walker_impact_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_65.md)
+* [flaxman_report_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_166.md)
+* [abideen_mitigation_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_200.md)
+* [kaushal_strategies_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_268.md)
 
-## Property: has_BenefReturn
+## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors investing in this measure would benefit from improved asset value and reputation of the institution, leading to increased student enrollment and retention.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_274.md)
 * [Private investors investing in social distancing measures would benefit from a decrease in COVID-19 transmission, which would lead to economic recovery and improved public health, ultimately increasing asset values in the built environment.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_298.md)
@@ -38,13 +34,17 @@ Reducing physical contact and maintaining distance helps prevent the spread of t
 * [Private investors can benefit from implementing these policies by reducing the spread of the disease, which can lead to a decrease in the burden on healthcare systems, lower healthcare costs, and a potential increase in economic stability and productivity.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1233.md)
 * [Implementing social distancing measures reduces the risk of virus transmission, ensuring the safety of workers and passengers and maintaining public trust and confidence in the transport system.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1432.md)
 
-## Property: has_BenefSource
+## Property: has_Beneficiary
 
-* [mecenas_effects_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_228.md)
-* [ghosh_study_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_57.md)
-* [sutton_reframe_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_53.md)
-* [walker_impact_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_65.md)
-* [flaxman_report_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_166.md)
-* [abideen_mitigation_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_200.md)
-* [kaushal_strategies_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_268.md)
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+* [population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_81.md)
+* [workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_128.md)
+* [staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_103.md)
+* [students](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_101.md)
+* [teachers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_102.md)
+* [faculty](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_134.md)
+* [building owners and occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_143.md)
+* [infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_161.md)
+* [household members](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_162.md)
+* [passengers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_499.md)
 

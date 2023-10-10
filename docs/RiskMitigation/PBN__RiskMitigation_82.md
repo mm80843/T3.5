@@ -2,11 +2,11 @@
 
 # RiskMitigation: __Increased use of copper and stainless steel surfaces__ (PBN__RiskMitigation_82)
 
-## Property: has_MitigationBenefit
-
-* [Reduction in virus viability on surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_94.md)
-
 ## Property: has_MitigationRisk
 
 * [Spread of SARS-CoV-2 through contaminated surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_70.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduction in virus viability on surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_94.md)
 

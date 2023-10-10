@@ -2,7 +2,7 @@
 
 # Risk: __Quarantine, self-isolation, and lockdown__ (PBN__Risk_852)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Family-based exercise programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1176.md)
 

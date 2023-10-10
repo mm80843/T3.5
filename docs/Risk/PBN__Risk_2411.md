@@ -2,7 +2,7 @@
 
 # Risk: __Risk communication__ (PBN__Risk_2411)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Crisis-information repositories](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_27.md)
 

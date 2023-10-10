@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Optimize fresh air supply (personalized ventilation)
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Optimize fresh air supply (personalized ventilation)
 ## Property: has_MitigationTechnology
 
 * [personalized ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_273.md)
+
+## Property: has_MitigationPrinciple
+
+Optimize fresh air supply (personalized ventilation)
 

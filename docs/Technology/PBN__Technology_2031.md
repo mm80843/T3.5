@@ -2,11 +2,11 @@
 
 # Technology: __scalability in production__ (PBN__Technology_2031)
 
-## Property: has_TechnologyRisk
-
-* [Challenges in ventilator production](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2404.md)
-
 ## Property: has_TechnologyID
 
 * [Q727490](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q727490.md)
+
+## Property: has_TechnologyRisk
+
+* [Challenges in ventilator production](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2404.md)
 

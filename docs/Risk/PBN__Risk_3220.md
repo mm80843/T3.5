@@ -2,7 +2,7 @@
 
 # Risk: __Lack of access to natural light__ (PBN__Risk_3220)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Natural Lighting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1690.md)
 

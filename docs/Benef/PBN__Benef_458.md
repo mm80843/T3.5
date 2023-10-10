@@ -6,15 +6,15 @@
 
 Provides a virtual platform for Annual Review of Clinical Progression (ARCP) assessments, facilitating progression and continuity in medical training during the pandemic.
 
-## Property: has_Beneficiary
-
-* [trainees in healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_206.md)
-
-## Property: has_BenefReturn
-
-* [Ensures educational continuity, protects trainees, and maintains the advancement of healthcare professionals.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_494.md)
-
 ## Property: has_BenefSource
 
 * [robbins_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_93.md)
+
+## Description of Benefits pertaining to Beneficiaries
+
+* [Ensures educational continuity, protects trainees, and maintains the advancement of healthcare professionals.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_494.md)
+
+## Property: has_Beneficiary
+
+* [trainees in healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_206.md)
 

@@ -2,11 +2,11 @@
 
 # RiskMitigation: __Reduction in traffic volumes__ (PBN__RiskMitigation_814)
 
-## Property: has_MitigationBenefit
-
-* [Improved air quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_192.md)
-
 ## Property: has_MitigationRisk
 
 * [Environmental pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_581.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved air quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_192.md)
 

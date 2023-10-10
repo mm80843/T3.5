@@ -6,17 +6,17 @@
 
 Raising public awareness towards energy conservation can lead to changes in occupant behavior and reduction in energy consumption in residential buildings.
 
-## Property: has_Beneficiary
+## Property: has_BenefSource
 
-* [private investors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_89.md)
-* [homeowners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_480.md)
+* [al-mumin_occupants_2003](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_260.md)
 
-## Property: has_BenefReturn
+## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors can benefit from reduced energy costs for homeowners and increased demand for energy-efficient buildings.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1392.md)
 * [Private investors can benefit from increased demand for energy-efficient buildings and reduced energy costs for homeowners.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1393.md)
 
-## Property: has_BenefSource
+## Property: has_Beneficiary
 
-* [al-mumin_occupants_2003](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_260.md)
+* [private investors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_89.md)
+* [homeowners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_480.md)
 

@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Incorporate UV filter glass into building roofs to allow sunlight in, promote indoor plant growth, and generate solar power
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Incorporate UV filter glass into building roofs to allow sunlight in, promote in
 ## Property: has_MitigationTechnology
 
 * [uv filter glass](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3865.md)
+
+## Property: has_MitigationPrinciple
+
+Incorporate UV filter glass into building roofs to allow sunlight in, promote indoor plant growth, and generate solar power
 

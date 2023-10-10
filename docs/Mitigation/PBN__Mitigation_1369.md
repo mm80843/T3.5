@@ -5,12 +5,7 @@
 ## Property: has_MitigationRisk
 
 * [Airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_252.md)
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 * [Virus transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3332.md)
-
-## Property: has_MitigationPrinciple
-
-Provides outdoor air by natural means, reducing the concentration of virus-laden particles and improving indoor air quality
 
 ## Property: has_MitigationSource
 
@@ -22,6 +17,9 @@ Provides outdoor air by natural means, reducing the concentration of virus-laden
 
 ## Property: has_MitigationTechnology
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 * [air extractors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4275.md)
+
+## Property: has_MitigationPrinciple
+
+Provides outdoor air by natural means, reducing the concentration of virus-laden particles and improving indoor air quality
 

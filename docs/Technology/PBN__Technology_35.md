@@ -2,6 +2,10 @@
 
 # Technology: __none__ (PBN__Technology_35)
 
+## Property: has_TechnologyID
+
+* [Q715045](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q715045.md)
+
 ## Property: has_TechnologyRisk
 
 * [Airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_252.md)
@@ -76,8 +80,4 @@
 * [Variability and specificity of PCR assays](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2339.md)
 * [Presence of other coronaviruses in wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2340.md)
 * [Surface-to-person transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2371.md)
-
-## Property: has_TechnologyID
-
-* [Q715045](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q715045.md)
 

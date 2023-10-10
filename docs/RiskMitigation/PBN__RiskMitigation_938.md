@@ -2,11 +2,11 @@
 
 # RiskMitigation: __Implementing personal protective equipment__ (PBN__RiskMitigation_938)
 
-## Property: has_MitigationBenefit
-
-* [Reduced risk of virus transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_177.md)
-
 ## Property: has_MitigationRisk
 
 * [COVID-19 spread in the workplace](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_675.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduced risk of virus transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_177.md)
 

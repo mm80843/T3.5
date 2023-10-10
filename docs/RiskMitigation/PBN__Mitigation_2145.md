@@ -6,10 +6,6 @@
 
 * [Personal comfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3355.md)
 
-## Property: has_MitigationPrinciple
-
-Ensure proper noise insulation and acoustics for a comfortable living environment
-
 ## Property: has_MitigationSource
 
 * [tokazhanov_assessment_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_51.md)
@@ -17,4 +13,8 @@ Ensure proper noise insulation and acoustics for a comfortable living environmen
 ## Property: has_MitigationTechnology
 
 * [noise level difference](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4265.md)
+
+## Property: has_MitigationPrinciple
+
+Ensure proper noise insulation and acoustics for a comfortable living environment
 

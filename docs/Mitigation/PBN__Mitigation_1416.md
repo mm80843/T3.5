@@ -6,10 +6,6 @@
 
 * [Airborne transmission of respiratory particles](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3053.md)
 
-## Property: has_MitigationPrinciple
-
-Ventilation provides air movement that dilutes and disperses respiratory particles, reducing the concentration of particles in the air
-
 ## Property: has_MitigationSource
 
 * [nembhard_ventilation_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_104.md)
@@ -18,4 +14,8 @@ Ventilation provides air movement that dilutes and disperses respiratory particl
 
 * [hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_185.md)
 * [natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_270.md)
+
+## Property: has_MitigationPrinciple
+
+Ventilation provides air movement that dilutes and disperses respiratory particles, reducing the concentration of particles in the air
 

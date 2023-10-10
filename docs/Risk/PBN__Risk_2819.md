@@ -2,7 +2,7 @@
 
 # Risk: __Inefficient usage and risk behaviors__ (PBN__Risk_2819)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Use of Face Masks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_941.md)
 

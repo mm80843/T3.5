@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Conducting research on possible aerosol transmission of COVID-19 and considering its implications for waste and wastewater management
 
 ## Property: has_MitigationSource
 
@@ -16,5 +11,8 @@ Conducting research on possible aerosol transmission of COVID-19 and considering
 
 ## Property: has_MitigationTechnology
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
+
+## Property: has_MitigationPrinciple
+
+Conducting research on possible aerosol transmission of COVID-19 and considering its implications for waste and wastewater management
 

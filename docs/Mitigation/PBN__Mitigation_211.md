@@ -6,10 +6,6 @@
 
 * [Lack of access to education and information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2502.md)
 
-## Property: has_MitigationPrinciple
-
-Utilize virtual platforms to provide education and information about the pandemic to the general population and high-risk groups.
-
 ## Property: has_MitigationSource
 
 * [azmand_non-medical_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_243.md)
@@ -18,4 +14,8 @@ Utilize virtual platforms to provide education and information about the pandemi
 
 * [online platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_67.md)
 * [video conferences](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3059.md)
+
+## Property: has_MitigationPrinciple
+
+Utilize virtual platforms to provide education and information about the pandemic to the general population and high-risk groups.
 

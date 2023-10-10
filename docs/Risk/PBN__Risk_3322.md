@@ -2,7 +2,7 @@
 
 # Risk: __Insufficient adoption of clean energy technologies__ (PBN__Risk_3322)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Deployment of low-carbon technologies and infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1991.md)
 

@@ -2,11 +2,11 @@
 
 # Technology: __data sharing platforms and policies__ (PBN__Technology_1125)
 
-## Property: has_TechnologyRisk
-
-* [Data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1752.md)
-
 ## Property: has_TechnologyID
 
 * [Q5227350](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5227350.md)
+
+## Property: has_TechnologyRisk
+
+* [Data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1752.md)
 

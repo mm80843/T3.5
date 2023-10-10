@@ -2,7 +2,7 @@
 
 # Risk: __Unknown method of infection__ (PBN__Risk_3003)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Combining medical history with diagnosis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1264.md)
 

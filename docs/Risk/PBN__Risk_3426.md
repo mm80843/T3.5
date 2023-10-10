@@ -2,7 +2,7 @@
 
 # Risk: __Health surveillance__ (PBN__Risk_3426)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Monitoring for health indicators](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2361.md)
 

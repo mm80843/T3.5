@@ -2,7 +2,7 @@
 
 # Risk: __Inefficient use of resources in vaccination process__ (PBN__Risk_156)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Implement digital twin framework](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_199.md)
 

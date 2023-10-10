@@ -2,7 +2,7 @@
 
 # Risk: __MH3: Mental health__ (PBN__Risk_182)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Access to common building spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_222.md)
 

@@ -2,7 +2,7 @@
 
 # Risk: __Limited access to training__ (PBN__Risk_3109)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Training programs for skill development](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1506.md)
 

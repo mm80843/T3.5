@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Allow individuals to work from home or remotely to reduce the need for in-person interactions and limit the spread of contagious diseases.
 
 ## Property: has_MitigationSource
 
@@ -18,4 +13,8 @@ Allow individuals to work from home or remotely to reduce the need for in-person
 
 * [internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3058.md)
 * [technology devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3579.md)
+
+## Property: has_MitigationPrinciple
+
+Allow individuals to work from home or remotely to reduce the need for in-person interactions and limit the spread of contagious diseases.
 

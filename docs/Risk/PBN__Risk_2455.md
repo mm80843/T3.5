@@ -2,7 +2,7 @@
 
 # Risk: __Technical performance__ (PBN__Risk_2455)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Training and upskilling of construction workers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_135.md)
 

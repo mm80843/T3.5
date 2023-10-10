@@ -2,7 +2,7 @@
 
 # Risk: __Data privacy breach__ (PBN__Risk_2763)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [QR code check-in](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_828.md)
 

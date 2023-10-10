@@ -2,7 +2,7 @@
 
 # Risk: __Poor housing, lack of water__ (PBN__Risk_2432)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Enhanced urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_91.md)
 

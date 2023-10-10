@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Occupant exposure is accounted for when agents are in the same room/compartment. The number of building occupants in each room at each time-step is used to identify occupant exposure.
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Occupant exposure is accounted for when agents are in the same room/compartment.
 ## Property: has_MitigationTechnology
 
 * [number of building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4046.md)
+
+## Property: has_MitigationPrinciple
+
+Occupant exposure is accounted for when agents are in the same room/compartment. The number of building occupants in each room at each time-step is used to identify occupant exposure.
 

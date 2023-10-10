@@ -2,7 +2,7 @@
 
 # Risk: __Increased physical contact between occupants increases virus transmission risk__ (PBN__Risk_605)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Optimal occupant distribution](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_839.md)
 

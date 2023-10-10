@@ -2,7 +2,7 @@
 
 # Risk: __Spread of respiratory viruses__ (PBN__Risk_71)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Hygienic measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_85.md)
 * [Handwashing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_86.md)

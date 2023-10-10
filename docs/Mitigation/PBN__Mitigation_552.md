@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Inactivates viruses, including CoVs, in the air and on surfaces, reducing the risk of transmission.
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Inactivates viruses, including CoVs, in the air and on surfaces, reducing the ri
 ## Property: has_MitigationTechnology
 
 * [uvc and uvgi lights](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3298.md)
+
+## Property: has_MitigationPrinciple
+
+Inactivates viruses, including CoVs, in the air and on surfaces, reducing the risk of transmission.
 

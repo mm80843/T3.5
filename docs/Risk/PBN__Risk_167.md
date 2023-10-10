@@ -2,7 +2,7 @@
 
 # Risk: __Isolation and lack of human interaction__ (PBN__Risk_167)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Encouraging effective communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_207.md)
 

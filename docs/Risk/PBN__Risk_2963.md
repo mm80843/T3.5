@@ -2,7 +2,7 @@
 
 # Risk: __Increased risk of airborne transmission__ (PBN__Risk_2963)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1214.md)
 

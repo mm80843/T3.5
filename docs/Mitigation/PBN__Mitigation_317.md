@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Developing mobile apps that provide real-time information on public transportation crowding and suggest alternative routes to minimize exposure.
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Developing mobile apps that provide real-time information on public transportati
 ## Property: has_MitigationTechnology
 
 * [mobile app technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3152.md)
+
+## Property: has_MitigationPrinciple
+
+Developing mobile apps that provide real-time information on public transportation crowding and suggest alternative routes to minimize exposure.
 

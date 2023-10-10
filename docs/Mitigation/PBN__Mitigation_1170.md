@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Increasing greenery along streets to create a healthier and more pleasant environment, provide shade, and encourage active transportation modes while maintaining physical distancing.
 
 ## Property: has_MitigationSource
 
@@ -16,5 +11,8 @@ Increasing greenery along streets to create a healthier and more pleasant enviro
 
 ## Property: has_MitigationTechnology
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
+
+## Property: has_MitigationPrinciple
+
+Increasing greenery along streets to create a healthier and more pleasant environment, provide shade, and encourage active transportation modes while maintaining physical distancing.
 

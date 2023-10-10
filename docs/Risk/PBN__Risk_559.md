@@ -2,7 +2,7 @@
 
 # Risk: __Economic climate is unfavorable for innovation__ (PBN__Risk_559)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Relational capabilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_785.md)
 

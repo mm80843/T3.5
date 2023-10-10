@@ -8,10 +8,6 @@
 * [Spread of the virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2443.md)
 * [Overloading health system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2648.md)
 
-## Property: has_MitigationPrinciple
-
-Restricting movement and contact between individuals to prevent the spread of the virus within a specific area or community.
-
 ## Property: has_MitigationSource
 
 * [corley_home_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_244.md)
@@ -20,5 +16,8 @@ Restricting movement and contact between individuals to prevent the spread of th
 
 ## Property: has_MitigationTechnology
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
+
+## Property: has_MitigationPrinciple
+
+Restricting movement and contact between individuals to prevent the spread of the virus within a specific area or community.
 

@@ -2,7 +2,7 @@
 
 # Risk: __Changes in social practices__ (PBN__Risk_45)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Behavioral change](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_62.md)
 

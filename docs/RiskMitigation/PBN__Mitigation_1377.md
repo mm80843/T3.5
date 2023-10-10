@@ -5,11 +5,6 @@
 ## Property: has_MitigationRisk
 
 * [Privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_47.md)
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Identify individuals who have come into contact with an infected person to provide them with appropriate guidance and monitoring.
 
 ## Property: has_MitigationSource
 
@@ -21,4 +16,8 @@ Identify individuals who have come into contact with an infected person to provi
 * [contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_11.md)
 * [mobile apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3470.md)
 * [data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3346.md)
+
+## Property: has_MitigationPrinciple
+
+Identify individuals who have come into contact with an infected person to provide them with appropriate guidance and monitoring.
 

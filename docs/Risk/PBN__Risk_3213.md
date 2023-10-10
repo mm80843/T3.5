@@ -2,7 +2,7 @@
 
 # Risk: __Lack of protection__ (PBN__Risk_3213)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Providing additional personal protective equipment (PPE)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1681.md)
 

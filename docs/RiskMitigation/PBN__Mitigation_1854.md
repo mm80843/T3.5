@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Adoption of advanced cleaning techniques, materials, and equipment to improve cleaning efficacy and reduce the risk of transmission in building environments.
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Adoption of advanced cleaning techniques, materials, and equipment to improve cl
 ## Property: has_MitigationTechnology
 
 * [cleaning technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4110.md)
+
+## Property: has_MitigationPrinciple
+
+Adoption of advanced cleaning techniques, materials, and equipment to improve cleaning efficacy and reduce the risk of transmission in building environments.
 

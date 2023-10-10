@@ -2,7 +2,7 @@
 
 # Risk: __Increased traffic congestion__ (PBN__Risk_2564)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Decline in car-based transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_416.md)
 

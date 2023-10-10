@@ -2,10 +2,6 @@
 
 # Technology: __statistical analysis__ (PBN__Technology_359)
 
-## Property: has_TechnologyRisk
-
-* [Overfitting of Anomaly Detection Models](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1258.md)
-
 ## Property: has_TechnologyMitigation
 
 * [Correlation/association analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1195.md)
@@ -16,4 +12,8 @@
 ## Property: has_TechnologyID
 
 * [Q67369489](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q67369489.md)
+
+## Property: has_TechnologyRisk
+
+* [Overfitting of Anomaly Detection Models](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1258.md)
 

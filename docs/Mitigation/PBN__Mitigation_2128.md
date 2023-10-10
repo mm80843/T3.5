@@ -7,10 +7,6 @@
 * [Mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_611.md)
 * [Physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3347.md)
 
-## Property: has_MitigationPrinciple
-
-Provide spaces for physical activity to maintain a healthy lifestyle and improve mental health
-
 ## Property: has_MitigationSource
 
 * [tokazhanov_assessment_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_51.md)
@@ -22,4 +18,8 @@ Provide spaces for physical activity to maintain a healthy lifestyle and improve
 * [park with workout stations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4248.md)
 * [free access to gym](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4249.md)
 * [designated areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4351.md)
+
+## Property: has_MitigationPrinciple
+
+Provide spaces for physical activity to maintain a healthy lifestyle and improve mental health
 

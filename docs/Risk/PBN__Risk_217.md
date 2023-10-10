@@ -2,7 +2,7 @@
 
 # Risk: __Influenza transmission in animal models__ (PBN__Risk_217)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Carefully-designed studies on humidity effects](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_261.md)
 

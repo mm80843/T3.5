@@ -2,7 +2,7 @@
 
 # Stakeholder: __remote regions__ (PBN__Stakeholder_1567)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Socioeconomic inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2344.md)
 

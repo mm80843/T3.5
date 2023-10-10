@@ -6,10 +6,6 @@
 
 * [Data privacy breach](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2763.md)
 
-## Property: has_MitigationPrinciple
-
-Checks the QR codes of individuals to track their entry and exit from certain locations for contact tracing purposes.
-
 ## Property: has_MitigationSource
 
 * [huy-tran_design_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_285.md)
@@ -18,4 +14,8 @@ Checks the QR codes of individuals to track their entry and exit from certain lo
 
 * [database](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3389.md)
 * [qr code scanner](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3475.md)
+
+## Property: has_MitigationPrinciple
+
+Checks the QR codes of individuals to track their entry and exit from certain locations for contact tracing purposes.
 

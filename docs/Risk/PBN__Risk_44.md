@@ -2,7 +2,7 @@
 
 # Risk: __Lack of coordinated global governance__ (PBN__Risk_44)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Multi-scalar governance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_61.md)
 

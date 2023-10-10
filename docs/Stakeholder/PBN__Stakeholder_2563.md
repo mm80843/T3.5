@@ -2,15 +2,15 @@
 
 # Stakeholder: __person in building with modified internal condition__ (PBN__Stakeholder_2563)
 
-## Property: has_StakeholderGroup
+## Property: has_StakeholderSubgroup
 
-* [Building Occupants](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_11.md)
+* [People in Buildings](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_93.md)
 
 ## Property: has_StakeholderID
 
 * [Q811122](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q811122.md)
 
-## Property: has_StakeholderSubgroup
+## Property: has_StakeholderGroup
 
-* [People in Buildings](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_93.md)
+* [Building Occupants](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_11.md)
 

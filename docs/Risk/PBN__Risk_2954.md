@@ -2,7 +2,7 @@
 
 # Risk: __Virus spread during cleaning__ (PBN__Risk_2954)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Separate sanitation area](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1156.md)
 

@@ -2,7 +2,7 @@
 
 # Risk: __Contagious transmission in built environment__ (PBN__Risk_323)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Robotics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_404.md)
 * [UV-Light radiation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_402.md)

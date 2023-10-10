@@ -2,12 +2,12 @@
 
 # Technology: __air pollution monitoring systems__ (PBN__Technology_233)
 
+## Property: has_TechnologyID
+
+* [Q65007050](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q65007050.md)
+
 ## Property: has_TechnologyRisk
 
 * [High air pollution levels](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1145.md)
 * [Decreased concentrations of NO2 and PM2.5](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2386.md)
-
-## Property: has_TechnologyID
-
-* [Q65007050](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q65007050.md)
 

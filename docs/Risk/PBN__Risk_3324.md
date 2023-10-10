@@ -2,7 +2,7 @@
 
 # Risk: __Missed opportunities for green recovery__ (PBN__Risk_3324)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Investment of economic stimulus funds in low-carbon technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1993.md)
 

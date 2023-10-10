@@ -2,7 +2,7 @@
 
 # Risk: __WWM3: Waste management__ (PBN__Risk_192)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Management of increased waste](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_232.md)
 

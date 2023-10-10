@@ -2,11 +2,11 @@
 
 # Technology: __improved virus concentration methods__ (PBN__Technology_59)
 
-## Property: has_TechnologyRisk
-
-* [Inconsistent results between concentration methods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1051.md)
-
 ## Property: has_TechnologyID
 
 * [Q7933598](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7933598.md)
+
+## Property: has_TechnologyRisk
+
+* [Inconsistent results between concentration methods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1051.md)
 

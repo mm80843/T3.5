@@ -6,10 +6,6 @@
 
 * [Lack of confidence in service](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3184.md)
 
-## Property: has_MitigationPrinciple
-
-Provides objective data on water quality and treatment process, tracks public opinion, educates the public
-
 ## Property: has_MitigationSource
 
 * [poch_when_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_207.md)
@@ -18,4 +14,8 @@ Provides objective data on water quality and treatment process, tracks public op
 
 * [data transparency](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_801.md)
 * [machine learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3004.md)
+
+## Property: has_MitigationPrinciple
+
+Provides objective data on water quality and treatment process, tracks public opinion, educates the public
 

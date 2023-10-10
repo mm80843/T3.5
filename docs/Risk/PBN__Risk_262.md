@@ -2,7 +2,7 @@
 
 # Risk: __Limited diversity of sensors__ (PBN__Risk_262)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [IBEM](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_320.md)
 

@@ -6,15 +6,15 @@
 
 IoT enables effective reachability to patients, allowing for better care and monitoring during quarantine.
 
-## Property: has_Beneficiary
-
-* [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
-
-## Property: has_BenefReturn
-
-* [Improved patient care leads to better health outcomes and potentially reduced healthcare costs.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1577.md)
-
 ## Property: has_BenefSource
 
 * [singh_internet_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_295.md)
+
+## Description of Benefits pertaining to Beneficiaries
+
+* [Improved patient care leads to better health outcomes and potentially reduced healthcare costs.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1577.md)
+
+## Property: has_Beneficiary
+
+* [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
 

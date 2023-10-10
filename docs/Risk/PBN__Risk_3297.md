@@ -2,7 +2,7 @@
 
 # Risk: __Imbalance of supply chains__ (PBN__Risk_3297)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Supply chain management for healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1947.md)
 

@@ -2,7 +2,7 @@
 
 # Risk: __Lack of data in LMIC__ (PBN__Risk_463)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Cross-population AI models](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_653.md)
 

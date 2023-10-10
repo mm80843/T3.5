@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Governments can explore policies that foster competition and diversification in global value chains while preserving the benefits from specialization, helping to improve stability and resilience against shocks.
 
 ## Property: has_MitigationSource
 
@@ -16,5 +11,8 @@ Governments can explore policies that foster competition and diversification in 
 
 ## Property: has_MitigationTechnology
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
+
+## Property: has_MitigationPrinciple
+
+Governments can explore policies that foster competition and diversification in global value chains while preserving the benefits from specialization, helping to improve stability and resilience against shocks.
 

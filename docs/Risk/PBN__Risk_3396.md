@@ -2,7 +2,7 @@
 
 # Risk: __Increased energy demands__ (PBN__Risk_3396)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Backup energy sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2232.md)
 

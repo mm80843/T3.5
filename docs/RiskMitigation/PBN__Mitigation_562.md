@@ -6,10 +6,6 @@
 
 * [Non-standardized data collection, heterogeneity in data terminologies, data sharing barriers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2625.md)
 
-## Property: has_MitigationPrinciple
-
-Improve disease surveillance, evaluate treatment strategies and vaccines in real time
-
 ## Property: has_MitigationSource
 
 * [dron_data_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_208.md)
@@ -17,4 +13,8 @@ Improve disease surveillance, evaluate treatment strategies and vaccines in real
 ## Property: has_MitigationTechnology
 
 * [ehrs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3304.md)
+
+## Property: has_MitigationPrinciple
+
+Improve disease surveillance, evaluate treatment strategies and vaccines in real time
 

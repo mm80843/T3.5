@@ -2,7 +2,7 @@
 
 # Risk: __Resistance to change, inequitable impacts__ (PBN__Risk_2892)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Changes in social practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1058.md)
 

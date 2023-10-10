@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Developing specialized exercise programs for specific vulnerable groups, such as men and young people, to address their unique mental health needs and promote engagement in physical activity during the pandemic.
 
 ## Property: has_MitigationSource
 
@@ -16,5 +11,8 @@ Developing specialized exercise programs for specific vulnerable groups, such as
 
 ## Property: has_MitigationTechnology
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
+
+## Property: has_MitigationPrinciple
+
+Developing specialized exercise programs for specific vulnerable groups, such as men and young people, to address their unique mental health needs and promote engagement in physical activity during the pandemic.
 

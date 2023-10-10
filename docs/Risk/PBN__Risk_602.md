@@ -2,7 +2,7 @@
 
 # Risk: __Decreased accuracy of energy consumption simulation__ (PBN__Risk_602)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Modeling occupant presence](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_838.md)
 

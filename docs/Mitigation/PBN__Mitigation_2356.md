@@ -6,10 +6,6 @@
 
 * [Privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_47.md)
 
-## Property: has_MitigationPrinciple
-
-Utilizing surveillance data and data analytics to identify and take action against individuals engaged in anti-social activities such as hoarding during a crisis.
-
 ## Property: has_MitigationSource
 
 * [webb_smart_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_294.md)
@@ -18,4 +14,8 @@ Utilizing surveillance data and data analytics to identify and take action again
 
 * [data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1069.md)
 * [cctv cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3409.md)
+
+## Property: has_MitigationPrinciple
+
+Utilizing surveillance data and data analytics to identify and take action against individuals engaged in anti-social activities such as hoarding during a crisis.
 

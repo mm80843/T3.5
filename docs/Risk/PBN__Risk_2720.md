@@ -2,7 +2,7 @@
 
 # Risk: __Misjudging public health status__ (PBN__Risk_2720)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Temperature adjustment in WBE](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_759.md)
 

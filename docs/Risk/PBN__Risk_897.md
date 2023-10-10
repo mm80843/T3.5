@@ -2,7 +2,7 @@
 
 # Risk: __Confidentiality and risk management in telepsychiatry__ (PBN__Risk_897)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Implementation of confidentiality and risk management protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1238.md)
 

@@ -7,13 +7,12 @@
 * [Poor ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1426.md)
 * [Insufficient air circulation and ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1675.md)
 
+## Property: has_StakeholderSubgroup
+
+
 ## Property: has_TechnologyID
 
 * [Q1427418](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1427418.md)
-
-## Property: has_StakeholderSubgroup
-
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_7.md)
 
 ## Property: has_StakeholderGroup
 

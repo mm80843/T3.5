@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Seeks out patients with severe respiratory symptoms who tested negative for influenza and retests them for COVID-19
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Seeks out patients with severe respiratory symptoms who tested negative for infl
 ## Property: has_MitigationTechnology
 
 * [national health insurance (nhi) database](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4409.md)
+
+## Property: has_MitigationPrinciple
+
+Seeks out patients with severe respiratory symptoms who tested negative for influenza and retests them for COVID-19
 

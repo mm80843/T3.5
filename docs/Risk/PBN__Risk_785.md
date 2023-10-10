@@ -2,7 +2,7 @@
 
 # Risk: __Negative economic effects on businesses__ (PBN__Risk_785)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Adaptation of car parking building](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1081.md)
 

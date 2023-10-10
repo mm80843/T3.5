@@ -2,7 +2,7 @@
 
 # Risk: __Limited focus on pandemic preparedness in urban planning__ (PBN__Risk_2450)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Expansion of SDG 11 to include pandemic preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_116.md)
 

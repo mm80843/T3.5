@@ -2,7 +2,7 @@
 
 # Risk: __Increased accuracy of infection risk estimation__ (PBN__Risk_603)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Modeling occupant presence](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_838.md)
 

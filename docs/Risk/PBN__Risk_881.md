@@ -2,7 +2,7 @@
 
 # Risk: __Limited testing access__ (PBN__Risk_881)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Wastewater-based surveillance (WBS)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1205.md)
 

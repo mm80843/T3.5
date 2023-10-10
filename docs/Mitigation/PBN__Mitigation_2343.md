@@ -6,10 +6,6 @@
 
 * [Privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_47.md)
 
-## Property: has_MitigationPrinciple
-
-Using mobile phone data to track individuals and their contacts to identify potential virus transmission chains and enforce self-isolation measures.
-
 ## Property: has_MitigationSource
 
 * [webb_smart_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_294.md)
@@ -17,4 +13,8 @@ Using mobile phone data to track individuals and their contacts to identify pote
 ## Property: has_MitigationTechnology
 
 * [mobile positioning technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4422.md)
+
+## Property: has_MitigationPrinciple
+
+Using mobile phone data to track individuals and their contacts to identify potential virus transmission chains and enforce self-isolation measures.
 

@@ -6,17 +6,17 @@
 
 Advanced analytics can improve pandemic prediction and decision-making
 
+## Property: has_BenefSource
+
+* [matheri_water_2023](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_162.md)
+
+## Description of Benefits pertaining to Beneficiaries
+
+* [Better preparedness, faster response to future outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_881.md)
+
 ## Property: has_Beneficiary
 
 * [public health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_0.md)
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
 * [policy makers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3.md)
-
-## Property: has_BenefReturn
-
-* [Better preparedness, faster response to future outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_881.md)
-
-## Property: has_BenefSource
-
-* [matheri_water_2023](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_162.md)
 

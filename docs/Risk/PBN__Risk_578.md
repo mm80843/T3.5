@@ -2,7 +2,7 @@
 
 # Risk: __Economic and social costs of COVID-19__ (PBN__Risk_578)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Water digitalization and IoT](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_805.md)
 

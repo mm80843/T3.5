@@ -2,7 +2,7 @@
 
 # Risk: __Lack of reliable information__ (PBN__Risk_2838)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Use of social media for distributing official information](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_969.md)
 

@@ -6,10 +6,6 @@
 
 * [Limited food availability, distribution challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3081.md)
 
-## Property: has_MitigationPrinciple
-
-Provide free meals and food assistance to vulnerable populations
-
 ## Property: has_MitigationSource
 
 * [nicola_socio-economic_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_135.md)
@@ -17,4 +13,8 @@ Provide free meals and food assistance to vulnerable populations
 ## Property: has_MitigationTechnology
 
 * [food resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3881.md)
+
+## Property: has_MitigationPrinciple
+
+Provide free meals and food assistance to vulnerable populations
 

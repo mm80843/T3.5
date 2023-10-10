@@ -6,10 +6,6 @@
 
 * [Unequal vaccine access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2907.md)
 
-## Property: has_MitigationPrinciple
-
-Ensure equitable distribution of vaccines
-
 ## Property: has_MitigationSource
 
 * [lawal_covid-19_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_215.md)
@@ -18,4 +14,8 @@ Ensure equitable distribution of vaccines
 
 * [local vaccine manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3623.md)
 * [vaccination campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3624.md)
+
+## Property: has_MitigationPrinciple
+
+Ensure equitable distribution of vaccines
 

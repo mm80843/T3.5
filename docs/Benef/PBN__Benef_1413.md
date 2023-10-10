@@ -6,16 +6,16 @@
 
 Provides reliable and scientifically proven information, guiding medical professionals in prescribing appropriate medications.
 
+## Property: has_BenefSource
+
+* [orso_infodemic_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_299.md)
+
+## Description of Benefits pertaining to Beneficiaries
+
+* [Private investors would benefit from increased demand for evidence-based medication and potentially higher sales.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1604.md)
+
 ## Property: has_Beneficiary
 
 * [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
 * [medical professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_425.md)
-
-## Property: has_BenefReturn
-
-* [Private investors would benefit from increased demand for evidence-based medication and potentially higher sales.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1604.md)
-
-## Property: has_BenefSource
-
-* [orso_infodemic_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_299.md)
 

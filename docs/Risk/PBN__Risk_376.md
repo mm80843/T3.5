@@ -2,7 +2,7 @@
 
 # Risk: __COVID-19 exposure in offshore workplaces__ (PBN__Risk_376)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Personal Protective Equipment (PPE)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_415.md)
 * [Pre-employment and periodic medical check-ups (MCUs)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_510.md)

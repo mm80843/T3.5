@@ -2,7 +2,7 @@
 
 # Risk: __Poor IAQ__ (PBN__Risk_2478)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Improved Indoor Air Quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_180.md)
 

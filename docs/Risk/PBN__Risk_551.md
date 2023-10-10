@@ -2,7 +2,7 @@
 
 # Risk: __Rise of authoritarian powers in EU Member States__ (PBN__Risk_551)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Strengthening European democracy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_778.md)
 

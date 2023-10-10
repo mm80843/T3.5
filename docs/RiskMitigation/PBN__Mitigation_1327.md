@@ -6,10 +6,6 @@
 
 * [Energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_745.md)
 
-## Property: has_MitigationPrinciple
-
-Increases air changes per hour, removing particulates and minimizing concentration of airborne pathogens.
-
 ## Property: has_MitigationSource
 
 * [memarzadeh_applications_2010](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_61.md)
@@ -17,4 +13,8 @@ Increases air changes per hour, removing particulates and minimizing concentrati
 ## Property: has_MitigationTechnology
 
 * [hvac system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3190.md)
+
+## Property: has_MitigationPrinciple
+
+Increases air changes per hour, removing particulates and minimizing concentration of airborne pathogens.
 

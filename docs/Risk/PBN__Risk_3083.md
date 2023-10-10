@@ -2,7 +2,7 @@
 
 # Risk: __Reduction in consumer choice, impact on manufacturers__ (PBN__Risk_3083)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Limiting Product Range](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1455.md)
 

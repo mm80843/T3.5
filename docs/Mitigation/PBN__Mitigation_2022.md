@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-AI/ML/DL algorithms can assist in predicting infection rates, diagnosing diseases, and developing drugs and vaccines.
 
 ## Property: has_MitigationSource
 
@@ -19,4 +14,8 @@ AI/ML/DL algorithms can assist in predicting infection rates, diagnosing disease
 * [artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_358.md)
 * [deep learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1715.md)
 * [machine learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3004.md)
+
+## Property: has_MitigationPrinciple
+
+AI/ML/DL algorithms can assist in predicting infection rates, diagnosing diseases, and developing drugs and vaccines.
 

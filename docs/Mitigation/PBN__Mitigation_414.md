@@ -6,10 +6,6 @@
 
 * [Facilitating essential services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2562.md)
 
-## Property: has_MitigationPrinciple
-
-Creating community-level areas that serve as key public places for essential services and supplies
-
 ## Property: has_MitigationSource
 
 * [cheshmehzangi_10_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_63.md)
@@ -17,4 +13,8 @@ Creating community-level areas that serve as key public places for essential ser
 ## Property: has_MitigationTechnology
 
 * [designated community-level zones](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3205.md)
+
+## Property: has_MitigationPrinciple
+
+Creating community-level areas that serve as key public places for essential services and supplies
 

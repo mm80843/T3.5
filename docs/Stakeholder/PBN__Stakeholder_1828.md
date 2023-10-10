@@ -2,15 +2,15 @@
 
 # Stakeholder: __Medium__ (PBN__Stakeholder_1828)
 
-## Property: has_StakeholderGroup
+## Property: has_StakeholderSubgroup
 
-* [Media](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_3.md)
+* [Media and News Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_37.md)
 
 ## Property: has_StakeholderID
 
 * [Q16186120](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q16186120.md)
 
-## Property: has_StakeholderSubgroup
+## Property: has_StakeholderGroup
 
-* [Media and News Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_37.md)
+* [Media](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_3.md)
 

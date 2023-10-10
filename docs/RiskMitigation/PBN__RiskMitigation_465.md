@@ -2,11 +2,11 @@
 
 # RiskMitigation: __Integration of GIS and GPS applications__ (PBN__RiskMitigation_465)
 
-## Property: has_MitigationBenefit
-
-* [Enhanced surveillance and control of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_448.md)
-
 ## Property: has_MitigationRisk
 
 * [Weak health-care systems and limited resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_354.md)
+
+## Property: has_MitigationBenefit
+
+* [Enhanced surveillance and control of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_448.md)
 

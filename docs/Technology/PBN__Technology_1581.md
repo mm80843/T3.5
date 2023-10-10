@@ -2,11 +2,11 @@
 
 # Technology: __ml__ (PBN__Technology_1581)
 
-## Property: has_TechnologyRisk
-
-* [Security challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2094.md)
-
 ## Property: has_TechnologyID
 
 * [Q2332346](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2332346.md)
+
+## Property: has_TechnologyRisk
+
+* [Security challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2094.md)
 

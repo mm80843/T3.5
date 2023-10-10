@@ -9,14 +9,14 @@
 * [Blockchain system vulnerabilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1275.md)
 * [Risk of data privacy and security in mobile applications](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1785.md)
 
-## Property: has_TechnologyID
-
-* [Q135035](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q135035.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Encryption and Authentication Techniques](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_6.md)
 * [Encryption and Security Algorithms](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_136.md)
+
+## Property: has_TechnologyID
+
+* [Q135035](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q135035.md)
 
 ## Property: has_StakeholderGroup
 

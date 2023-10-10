@@ -2,11 +2,11 @@
 
 # RiskMitigation: __Travel Restrictions__ (PBN__RiskMitigation_1194)
 
-## Property: has_MitigationBenefit
-
-* [Reduced importation of cases](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1198.md)
-
 ## Property: has_MitigationRisk
 
 * [Spread of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_91.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduced importation of cases](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1198.md)
 

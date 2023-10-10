@@ -5,13 +5,8 @@
 ## Property: has_MitigationRisk
 
 * [Airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_252.md)
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 * [Transmission of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2123.md)
 * [Inadequate PPE, Ineffective PPE, Non-compliance with PPE guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3237.md)
-
-## Property: has_MitigationPrinciple
-
-Provide individuals with appropriate PPE to reduce the risk of exposure to the virus.
 
 ## Property: has_MitigationSource
 
@@ -28,4 +23,8 @@ Provide individuals with appropriate PPE to reduce the risk of exposure to the v
 * [gloves](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_487.md)
 * [face shields](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_486.md)
 * [goggles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3245.md)
+
+## Property: has_MitigationPrinciple
+
+Provide individuals with appropriate PPE to reduce the risk of exposure to the virus.
 

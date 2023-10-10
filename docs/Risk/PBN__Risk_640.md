@@ -2,7 +2,7 @@
 
 # Risk: __Limited space and inadequate room quality__ (PBN__Risk_640)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Provide openings for air circulation and sun exposure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_884.md)
 * [Optimize layout for north-south orientation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_885.md)

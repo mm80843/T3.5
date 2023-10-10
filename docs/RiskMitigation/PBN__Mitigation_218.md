@@ -4,14 +4,9 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 * [Contagious disease spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2027.md)
 * [Respiratory droplets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2506.md)
 * [Poor infection control practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3457.md)
-
-## Property: has_MitigationPrinciple
-
-Wearing masks reduces the release of respiratory droplets by infected individuals, reducing the risk of airborne transmission.
 
 ## Property: has_MitigationSource
 
@@ -22,9 +17,12 @@ Wearing masks reduces the release of respiratory droplets by infected individual
 
 ## Property: has_MitigationTechnology
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 * [masks or face coverings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3065.md)
 * [masks (e.g.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4503.md)
 * [cloth masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4504.md)
 * [surgical masks)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4505.md)
+
+## Property: has_MitigationPrinciple
+
+Wearing masks reduces the release of respiratory droplets by infected individuals, reducing the risk of airborne transmission.
 

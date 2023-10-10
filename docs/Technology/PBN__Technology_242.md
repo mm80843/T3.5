@@ -2,11 +2,11 @@
 
 # Technology: __telecommunication tools__ (PBN__Technology_242)
 
-## Property: has_TechnologyRisk
-
-* [Mental health impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1161.md)
-
 ## Property: has_TechnologyID
 
 * [Q1780509](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1780509.md)
+
+## Property: has_TechnologyRisk
+
+* [Mental health impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1161.md)
 

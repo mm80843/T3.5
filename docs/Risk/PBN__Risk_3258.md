@@ -2,7 +2,7 @@
 
 # Risk: __Exclusion and inequality__ (PBN__Risk_3258)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Inclusion of young people and women](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1822.md)
 

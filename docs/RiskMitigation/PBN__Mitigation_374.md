@@ -4,12 +4,7 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 * [Unreliable reporting, atypical symptoms](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2551.md)
-
-## Property: has_MitigationPrinciple
-
-Wearable devices with sensors can be used for symptom screening and tracking of common COVID-19 symptoms, such as body temperature, cough, and heart rate
 
 ## Property: has_MitigationSource
 
@@ -18,6 +13,9 @@ Wearable devices with sensors can be used for symptom screening and tracking of 
 
 ## Property: has_MitigationTechnology
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 * [wearable sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2949.md)
+
+## Property: has_MitigationPrinciple
+
+Wearable devices with sensors can be used for symptom screening and tracking of common COVID-19 symptoms, such as body temperature, cough, and heart rate
 

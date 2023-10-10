@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Understand connectivity between high-risk areas, design appropriate elimination strategies, avoid resurgence in post-elimination settings
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Understand connectivity between high-risk areas, design appropriate elimination 
 ## Property: has_MitigationTechnology
 
 * [mobile phone cdrs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4224.md)
+
+## Property: has_MitigationPrinciple
+
+Understand connectivity between high-risk areas, design appropriate elimination strategies, avoid resurgence in post-elimination settings
 

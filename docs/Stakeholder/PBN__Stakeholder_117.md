@@ -2,6 +2,11 @@
 
 # Stakeholder: __wildlife__ (PBN__Stakeholder_117)
 
+## Risk affecting this stakeholder
+
+* [Environmental Pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1869.md)
+* [Revenge Pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1870.md)
+
 ## Property: has_StakeholderID
 
 * [Q241741](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q241741.md)
@@ -10,9 +15,4 @@
 
 * [Improved well-being](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_153.md)
 * [Protection of wildlife](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_201.md)
-
-## Property: has_SubjectRisk
-
-* [Environmental Pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1869.md)
-* [Revenge Pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1870.md)
 

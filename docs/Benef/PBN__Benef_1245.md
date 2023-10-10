@@ -6,17 +6,17 @@
 
 Clearer communication and analysis of public spaces, better decision-making
 
+## Property: has_BenefSource
+
+* [honey-roses_impact_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_261.md)
+
+## Description of Benefits pertaining to Beneficiaries
+
+* [Improved urban planning, more efficient use of resources](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1398.md)
+
 ## Property: has_Beneficiary
 
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
 * [designers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_74.md)
 * [urban planners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_125.md)
-
-## Property: has_BenefReturn
-
-* [Improved urban planning, more efficient use of resources](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1398.md)
-
-## Property: has_BenefSource
-
-* [honey-roses_impact_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_261.md)
 

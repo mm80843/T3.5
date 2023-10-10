@@ -2,7 +2,7 @@
 
 # Stakeholder: __agricultural workers__ (PBN__Stakeholder_1211)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Crash in demand for agricultural commodities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1808.md)
 

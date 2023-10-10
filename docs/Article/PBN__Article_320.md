@@ -2,9 +2,9 @@
 
 # Article: __cummings_potted_2020__ (PBN__Article_320)
 
-## Property: has_ArticleTitle
+## Property: has_ArticleDOI
 
-Potted plants do not improve indoor air quality: a review and analysis of reported VOC removal efficiencies
+10.1038/s41370-019-0175-9
 
 ## Property: has_ArticleYear
 
@@ -14,7 +14,7 @@ Potted plants do not improve indoor air quality: a review and analysis of report
 
 * [wang_characterization_2011](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_71.md)
 
-## Property: has_ArticleDOI
+## Property: has_ArticleTitle
 
-10.1038/s41370-019-0175-9
+Potted plants do not improve indoor air quality: a review and analysis of reported VOC removal efficiencies
 

@@ -2,11 +2,11 @@
 
 # Technology: __conservation strategies__ (PBN__Technology_536)
 
-## Property: has_TechnologyRisk
-
-* [Environmental degradation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1343.md)
-
 ## Property: has_TechnologyID
 
 * [Q217102](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q217102.md)
+
+## Property: has_TechnologyRisk
+
+* [Environmental degradation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1343.md)
 

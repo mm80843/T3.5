@@ -2,6 +2,21 @@
 
 # Stakeholder: __building management__ (PBN__Stakeholder_1105)
 
+## Property: has_StakeholderSubgroup
+
+
+## Risk affecting this stakeholder
+
+* [Sharing systems in apartments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1673.md)
+
+## Property: has_StakeholderID
+
+* [Q4387888](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4387888.md)
+
+## Property: has_StakeholderGroup
+
+* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
+
 ## Property: has_OwnerRisk
 
 * [Sharing systems in apartments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1673.md)
@@ -39,20 +54,4 @@
 * [PC4](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2220.md)
 * [LS1](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2221.md)
 * [LS2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2222.md)
-
-## Property: has_StakeholderSubgroup
-
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_7.md)
-
-## Property: has_SubjectRisk
-
-* [Sharing systems in apartments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1673.md)
-
-## Property: has_StakeholderID
-
-* [Q4387888](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4387888.md)
-
-## Property: has_StakeholderGroup
-
-* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
 

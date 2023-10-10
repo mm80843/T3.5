@@ -2,13 +2,13 @@
 
 # Technology: __public information campaigns__ (PBN__Technology_8)
 
+## Property: has_TechnologyID
+
+* [Q847301](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q847301.md)
+
 ## Property: has_TechnologyRisk
 
 * [Manipulated media coverage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1019.md)
 * [Misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1033.md)
 * [Lack of public awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2182.md)
-
-## Property: has_TechnologyID
-
-* [Q847301](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q847301.md)
 

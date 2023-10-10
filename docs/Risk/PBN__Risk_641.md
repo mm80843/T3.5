@@ -2,7 +2,7 @@
 
 # Risk: __Contagious disease outbreak__ (PBN__Risk_641)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Implementing proper sanitation measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_888.md)
 * [Installation of air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_889.md)

@@ -2,7 +2,7 @@
 
 # Risk: __Decreased in-person exposure to surgical education__ (PBN__Risk_32)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Flipped classroom strategy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_40.md)
 * [Social media-based platform for daily practice questions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_41.md)

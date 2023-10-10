@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Real-time estimation of building occupancy for various purposes such as HVAC control, elevator dispatching, and egress management.
 
 ## Property: has_MitigationSource
 
@@ -18,4 +13,8 @@ Real-time estimation of building occupancy for various purposes such as HVAC con
 
 * [occupancy estimation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3676.md)
 * [kalman filter](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3677.md)
+
+## Property: has_MitigationPrinciple
+
+Real-time estimation of building occupancy for various purposes such as HVAC control, elevator dispatching, and egress management.
 

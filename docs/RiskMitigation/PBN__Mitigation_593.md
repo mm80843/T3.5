@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Performing cytoreduction during ovarian cancer surgery aims to remove as much tumor tissue as possible, improving treatment effectiveness and patient outcomes
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Performing cytoreduction during ovarian cancer surgery aims to remove as much tu
 ## Property: has_MitigationTechnology
 
 * [surgical techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3336.md)
+
+## Property: has_MitigationPrinciple
+
+Performing cytoreduction during ovarian cancer surgery aims to remove as much tumor tissue as possible, improving treatment effectiveness and patient outcomes
 

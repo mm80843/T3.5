@@ -6,10 +6,6 @@
 
 * [Shielding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2707.md)
 
-## Property: has_MitigationPrinciple
-
-Installing UV lamps in high-risk spaces to disinfect the air and reduce the concentration of airborne viruses
-
 ## Property: has_MitigationSource
 
 * [guo_review_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_45.md)
@@ -17,4 +13,8 @@ Installing UV lamps in high-risk spaces to disinfect the air and reduce the conc
 ## Property: has_MitigationTechnology
 
 * [ultraviolet (uv) lamps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3408.md)
+
+## Property: has_MitigationPrinciple
+
+Installing UV lamps in high-risk spaces to disinfect the air and reduce the concentration of airborne viruses
 

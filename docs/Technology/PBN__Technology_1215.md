@@ -2,11 +2,11 @@
 
 # Technology: __emergency management protocols__ (PBN__Technology_1215)
 
-## Property: has_TechnologyRisk
-
-* [Extreme weather events](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1849.md)
-
 ## Property: has_TechnologyID
 
 * [Q1460420](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1460420.md)
+
+## Property: has_TechnologyRisk
+
+* [Extreme weather events](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1849.md)
 

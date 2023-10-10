@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Allow occupants to provide subjective feedback and satisfaction ratings on IEQ parameters; collect and analyze the data for better indoor environments
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Allow occupants to provide subjective feedback and satisfaction ratings on IEQ p
 ## Property: has_MitigationTechnology
 
 * [mobile interface](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3391.md)
+
+## Property: has_MitigationPrinciple
+
+Allow occupants to provide subjective feedback and satisfaction ratings on IEQ parameters; collect and analyze the data for better indoor environments
 

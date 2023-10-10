@@ -2,7 +2,7 @@
 
 # Risk: __Comfort and privacy__ (PBN__Risk_3359)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Adjustable room layout](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2158.md)
 * [Flexible building systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2167.md)

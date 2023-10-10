@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Blockchain technology can simplify the application and approval process for loans and insurance services, ensuring faster and more efficient financial support.
 
 ## Property: has_MitigationSource
 
@@ -18,4 +13,8 @@ Blockchain technology can simplify the application and approval process for loan
 
 * [blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_211.md)
 * [smart contracts](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1234.md)
+
+## Property: has_MitigationPrinciple
+
+Blockchain technology can simplify the application and approval process for loans and insurance services, ensuring faster and more efficient financial support.
 

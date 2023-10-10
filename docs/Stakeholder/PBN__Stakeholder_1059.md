@@ -4,9 +4,8 @@
 
 ## Property: has_StakeholderSubgroup
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_7.md)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Increase in neighbour noise during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1632.md)
 

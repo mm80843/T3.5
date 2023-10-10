@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Create a buffer space between the uncontrollable external world and the internal personal universe to minimize transmission.
 
 ## Property: has_MitigationSource
 
@@ -16,5 +11,8 @@ Create a buffer space between the uncontrollable external world and the internal
 
 ## Property: has_MitigationTechnology
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
+
+## Property: has_MitigationPrinciple
+
+Create a buffer space between the uncontrollable external world and the internal personal universe to minimize transmission.
 

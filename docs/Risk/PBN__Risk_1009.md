@@ -2,7 +2,7 @@
 
 # Risk: __Mental problems of the population__ (PBN__Risk_1009)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Telemedicine and remote consultations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1434.md)
 

@@ -2,11 +2,11 @@
 
 # RiskMitigation: __Border control and travel restrictions__ (PBN__RiskMitigation_94)
 
-## Property: has_MitigationBenefit
-
-* [Reduced importation risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_107.md)
-
 ## Property: has_MitigationRisk
 
 * [Outbreak from China](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_77.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduced importation risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_107.md)
 

@@ -6,10 +6,6 @@
 
 * [Loss of productivity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3134.md)
 
-## Property: has_MitigationPrinciple
-
-Enable work to continue while reducing person-to-person contact
-
 ## Property: has_MitigationSource
 
 * [paikan_effects_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_134.md)
@@ -18,4 +14,8 @@ Enable work to continue while reducing person-to-person contact
 
 * [telecommunication technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3060.md)
 * [internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3058.md)
+
+## Property: has_MitigationPrinciple
+
+Enable work to continue while reducing person-to-person contact
 

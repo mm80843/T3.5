@@ -9,14 +9,14 @@
 * [Population Density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1880.md)
 * [Urban density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2028.md)
 
-## Property: has_TechnologyID
-
-* [Q702232](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q702232.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Urban Planning and Green Spaces](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_85.md)
 * [Green Spaces and Urban Design](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_84.md)
+
+## Property: has_TechnologyID
+
+* [Q702232](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q702232.md)
 
 ## Property: has_StakeholderGroup
 

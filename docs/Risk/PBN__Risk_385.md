@@ -2,7 +2,7 @@
 
 # Risk: __Decline of public and social housing__ (PBN__Risk_385)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Policy reforms and increased investment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_533.md)
 

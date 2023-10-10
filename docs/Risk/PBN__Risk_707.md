@@ -2,7 +2,7 @@
 
 # Risk: __Economic downfall__ (PBN__Risk_707)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Domestic-based supply chain](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_978.md)
 * [Bailouts for industries](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_979.md)

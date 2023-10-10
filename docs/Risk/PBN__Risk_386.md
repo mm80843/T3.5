@@ -2,7 +2,7 @@
 
 # Risk: __Economic impact of COVID-19__ (PBN__Risk_386)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Investment in healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_538.md)
 * [Investment in social and healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_539.md)

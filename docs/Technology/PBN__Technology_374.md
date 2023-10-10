@@ -2,11 +2,11 @@
 
 # Technology: __construction technology and software__ (PBN__Technology_374)
 
-## Property: has_TechnologyRisk
-
-* [Push for information-based construction management methods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_243.md)
-
 ## Property: has_TechnologyID
 
 * [Q2674423](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2674423.md)
+
+## Property: has_TechnologyRisk
+
+* [Push for information-based construction management methods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_243.md)
 

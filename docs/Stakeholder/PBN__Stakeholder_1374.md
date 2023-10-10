@@ -2,7 +2,7 @@
 
 # Stakeholder: __property and facilities managers__ (PBN__Stakeholder_1374)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Lack of healthcare information in property management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2046.md)
 

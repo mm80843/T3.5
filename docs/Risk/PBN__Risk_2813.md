@@ -2,7 +2,7 @@
 
 # Risk: __Increased risk of obesity__ (PBN__Risk_2813)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Physical Activity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_929.md)
 

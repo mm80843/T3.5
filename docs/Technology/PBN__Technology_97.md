@@ -13,20 +13,20 @@
 * [Security risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2127.md)
 * [Cybersecurity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2282.md)
 
-## Property: has_TechnologyMitigation
-
-* [Blockchain for data privacy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_153.md)
-
-## Property: has_TechnologyID
-
-* [Q141090](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q141090.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Encryption and Security Algorithms](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_136.md)
 * [Privacy and Anonymity Techniques](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_139.md)
 
+## Property: has_TechnologyID
+
+* [Q141090](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q141090.md)
+
 ## Property: has_StakeholderGroup
 
 * [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_5.md)
+
+## Property: has_TechnologyMitigation
+
+* [Blockchain for data privacy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_153.md)
 

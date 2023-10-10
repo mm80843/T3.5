@@ -2,10 +2,6 @@
 
 # Stakeholder: __municipalities__ (PBN__Stakeholder_493)
 
-## Property: has_StakeholderID
-
-* [Q15284](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q15284.md)
-
 ## Property: has_OwnerRisk
 
 * [Detection of SARS-CoV-2 in wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1446.md)
@@ -17,6 +13,10 @@
 * [Lack of awareness and knowledge about green roofs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1688.md)
 * [Increased habitat suitability for vectors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1847.md)
 * [Urban heat island effect](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1850.md)
+
+## Property: has_StakeholderID
+
+* [Q15284](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q15284.md)
 
 ## Property: has_BenefitForPeople
 

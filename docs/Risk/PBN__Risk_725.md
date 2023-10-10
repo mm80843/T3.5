@@ -2,7 +2,7 @@
 
 # Risk: __Data gaps and heterogeneity__ (PBN__Risk_725)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Standardizing data collection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1007.md)
 

@@ -2,7 +2,7 @@
 
 # Risk: __Stress on individual providers and general operations__ (PBN__Risk_3157)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Monitoring reactions and performance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1604.md)
 * [Altering assignments and schedules](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1605.md)

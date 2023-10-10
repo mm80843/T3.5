@@ -2,7 +2,7 @@
 
 # Risk: __Tick-borne diseases in urban areas__ (PBN__Risk_65)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Increase number of aquatic predators](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_77.md)
 

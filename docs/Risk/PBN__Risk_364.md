@@ -2,7 +2,7 @@
 
 # Risk: __Risk of COVID-19 transmission in buildings__ (PBN__Risk_364)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Improved ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_476.md)
 * [Installation of barriers or partitions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_477.md)

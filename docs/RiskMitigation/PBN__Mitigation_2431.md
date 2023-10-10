@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Enhancing ventilation and access to sunlight in buildings can reduce the spread of infectious diseases.
 
 ## Property: has_MitigationSource
 
@@ -18,4 +13,8 @@ Enhancing ventilation and access to sunlight in buildings can reduce the spread 
 
 * [ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_139.md)
 * [architectural design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3564.md)
+
+## Property: has_MitigationPrinciple
+
+Enhancing ventilation and access to sunlight in buildings can reduce the spread of infectious diseases.
 

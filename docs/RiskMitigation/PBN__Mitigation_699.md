@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Integrate multiple sensors into a single device to monitor various IEQ parameters simultaneously
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Integrate multiple sensors into a single device to monitor various IEQ parameter
 ## Property: has_MitigationTechnology
 
 * [sensor integration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_644.md)
+
+## Property: has_MitigationPrinciple
+
+Integrate multiple sensors into a single device to monitor various IEQ parameters simultaneously
 

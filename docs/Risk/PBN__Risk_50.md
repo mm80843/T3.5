@@ -2,7 +2,7 @@
 
 # Risk: __Misuse of data__ (PBN__Risk_50)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Clear data usage policies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_67.md)
 

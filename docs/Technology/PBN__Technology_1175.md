@@ -6,13 +6,13 @@
 
 * [Lack of official communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1820.md)
 
-## Property: has_TechnologyID
-
-* [Q6090654](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6090654.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Public Awareness Campaigns and Communication Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_49.md)
+
+## Property: has_TechnologyID
+
+* [Q6090654](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6090654.md)
 
 ## Property: has_StakeholderGroup
 

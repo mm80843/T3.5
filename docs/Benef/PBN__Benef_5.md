@@ -6,16 +6,16 @@
 
 Monitoring the virus in sewage can serve as an early warning system for the (re-)emergence of COVID-19, allowing for timely public health interventions
 
+## Property: has_BenefSource
+
+* [medema_presence_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_1.md)
+
+## Description of Benefits pertaining to Beneficiaries
+
+* [Private investors in sewage surveillance can benefit by providing a valuable service to communities and public health authorities, leading to potential future contracts and partnerships.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_5.md)
+
 ## Property: has_Beneficiary
 
 * [public health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_0.md)
 * [communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_4.md)
-
-## Property: has_BenefReturn
-
-* [Private investors in sewage surveillance can benefit by providing a valuable service to communities and public health authorities, leading to potential future contracts and partnerships.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_5.md)
-
-## Property: has_BenefSource
-
-* [medema_presence_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_1.md)
 

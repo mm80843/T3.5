@@ -2,7 +2,7 @@
 
 # Risk: __Concerns about job security__ (PBN__Risk_165)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Promoting remote work for office workers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_205.md)
 

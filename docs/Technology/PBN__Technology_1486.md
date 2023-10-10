@@ -6,14 +6,14 @@
 
 * [Chemical pollutants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2019.md)
 
-## Property: has_TechnologyID
-
-* [Q104885559](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q104885559.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Sanitation and Hygiene Practices](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_129.md)
 * [Biological and Chemical Methods](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_130.md)
+
+## Property: has_TechnologyID
+
+* [Q104885559](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q104885559.md)
 
 ## Property: has_StakeholderGroup
 

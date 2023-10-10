@@ -4,12 +4,7 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 * [Transmission of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2123.md)
-
-## Property: has_MitigationPrinciple
-
-Staying at home and avoiding contact with others if suspected or confirmed to have COVID-19
 
 ## Property: has_MitigationSource
 
@@ -19,5 +14,8 @@ Staying at home and avoiding contact with others if suspected or confirmed to ha
 
 ## Property: has_MitigationTechnology
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
+
+## Property: has_MitigationPrinciple
+
+Staying at home and avoiding contact with others if suspected or confirmed to have COVID-19
 

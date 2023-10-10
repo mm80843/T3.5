@@ -2,7 +2,7 @@
 
 # Risk: __Malaria transmission__ (PBN__Risk_308)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Risk maps through CDRs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_387.md)
 

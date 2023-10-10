@@ -2,7 +2,7 @@
 
 # Risk: __Non-compliance with COVID-19 mitigation measures__ (PBN__Risk_885)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Strengthen moral support for the measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1210.md)
 * [Increase perceived threat](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1211.md)

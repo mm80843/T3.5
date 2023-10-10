@@ -2,7 +2,7 @@
 
 # Risk: __Lack of infrastructure__ (PBN__Risk_2467)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Prevention applications](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_154.md)
 

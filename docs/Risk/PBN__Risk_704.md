@@ -2,7 +2,7 @@
 
 # Risk: __Difficulty in confinement of COVID-19 patients__ (PBN__Risk_704)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Offshore medical rigs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_969.md)
 

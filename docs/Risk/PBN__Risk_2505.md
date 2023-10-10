@@ -2,7 +2,7 @@
 
 # Risk: __Contaminated hands__ (PBN__Risk_2505)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_217.md)
 * [Proper hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_536.md)

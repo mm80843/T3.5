@@ -2,7 +2,7 @@
 
 # Risk: __Lack of understanding and collaboration between stakeholders__ (PBN__Risk_2476)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Collaboration and interdisciplinary approach](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_177.md)
 

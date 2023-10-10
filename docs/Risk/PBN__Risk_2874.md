@@ -2,7 +2,7 @@
 
 # Risk: __Lack of resources and support__ (PBN__Risk_2874)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Availability of Resources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1039.md)
 

@@ -4,12 +4,7 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 * [Disease spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2651.md)
-
-## Property: has_MitigationPrinciple
-
-Identifying and testing individuals who may have come into contact with an infected person to control the spread
 
 ## Property: has_MitigationSource
 
@@ -21,4 +16,8 @@ Identifying and testing individuals who may have come into contact with an infec
 * [contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_11.md)
 * [testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_610.md)
 * [contact tracing technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_29.md)
+
+## Property: has_MitigationPrinciple
+
+Identifying and testing individuals who may have come into contact with an infected person to control the spread
 

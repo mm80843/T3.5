@@ -2,7 +2,7 @@
 
 # Risk: __Temporary public panic from cruise ship docking__ (PBN__Risk_79)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Effective response to cruise ship case](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_96.md)
 

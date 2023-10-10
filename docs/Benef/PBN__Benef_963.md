@@ -6,17 +6,17 @@
 
 Banning public gatherings was associated with fewer cases during the first week of outbreaks
 
-## Property: has_Beneficiary
+## Property: has_BenefSource
 
-* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
+* [tian_investigation_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_197.md)
 
-## Property: has_BenefReturn
+## Description of Benefits pertaining to Beneficiaries
 
 * [Implementing transport suspensions helps to limit the spread of the virus within cities and reduces the number of new cases.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1058.md)
 * [Closing entertainment venues helps to limit social gatherings and reduce the risk of transmission, leading to fewer new cases.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1059.md)
 * [Banning public gatherings reduces the risk of large-scale transmission and helps to control the spread of the virus, leading to fewer new cases.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1060.md)
 
-## Property: has_BenefSource
+## Property: has_Beneficiary
 
-* [tian_investigation_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_197.md)
+* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
 

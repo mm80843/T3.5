@@ -2,10 +2,6 @@
 
 # Technology: __floor markings__ (PBN__Technology_360)
 
-## Property: has_TechnologyRisk
-
-* [Establish a one-way mobility circulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_264.md)
-
 ## Property: has_TechnologyMitigation
 
 * [Social Distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_35.md)
@@ -16,4 +12,8 @@
 ## Property: has_TechnologyID
 
 * [Q831691](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q831691.md)
+
+## Property: has_TechnologyRisk
+
+* [Establish a one-way mobility circulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_264.md)
 

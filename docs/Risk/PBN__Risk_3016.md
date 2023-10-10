@@ -2,7 +2,7 @@
 
 # Risk: __Ozone emissions__ (PBN__Risk_3016)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Bipolar ionization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1307.md)
 

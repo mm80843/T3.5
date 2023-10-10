@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Utilizing blockchain technology to ensure timely and accurate delivery of medications to patients' doorsteps, minimizing physical contact and reducing the risk of transmission.
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Utilizing blockchain technology to ensure timely and accurate delivery of medica
 ## Property: has_MitigationTechnology
 
 * [blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_211.md)
+
+## Property: has_MitigationPrinciple
+
+Utilizing blockchain technology to ensure timely and accurate delivery of medications to patients' doorsteps, minimizing physical contact and reducing the risk of transmission.
 

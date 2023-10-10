@@ -2,7 +2,7 @@
 
 # Risk: __Increase in vector-borne diseases due to suburban landscape design__ (PBN__Risk_60)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Suburban landscape design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_71.md)
 

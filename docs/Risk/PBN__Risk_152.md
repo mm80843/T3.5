@@ -2,7 +2,7 @@
 
 # Risk: __SARS-CoV-2 transmission in buildings__ (PBN__Risk_152)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Increase outdoor air in ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_187.md)
 * [Improve central air filters](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_188.md)

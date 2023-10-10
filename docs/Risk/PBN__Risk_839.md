@@ -2,7 +2,7 @@
 
 # Risk: __Risk of misdiagnosis or false results__ (PBN__Risk_839)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Testing and validation of the expert system’s performance and accuracy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1146.md)
 

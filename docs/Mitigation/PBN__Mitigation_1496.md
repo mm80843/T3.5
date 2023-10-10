@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Governments can promote international coordination on border health protocols and mutual recognition agreements to facilitate trade and ensure the smooth flow of essential goods during disruptions.
 
 ## Property: has_MitigationSource
 
@@ -16,5 +11,8 @@ Governments can promote international coordination on border health protocols an
 
 ## Property: has_MitigationTechnology
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
+
+## Property: has_MitigationPrinciple
+
+Governments can promote international coordination on border health protocols and mutual recognition agreements to facilitate trade and ensure the smooth flow of essential goods during disruptions.
 

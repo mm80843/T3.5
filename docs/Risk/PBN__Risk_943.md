@@ -2,7 +2,7 @@
 
 # Risk: __Transmission of infectious diseases in indoor spaces__ (PBN__Risk_943)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Enhanced ventilation rates](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1308.md)
 * [Regular cleaning and sanitization procedures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1309.md)

@@ -2,7 +2,7 @@
 
 # Risk: __Perception of climate change as distant__ (PBN__Risk_2686)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Immediate Consequences Messaging](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_683.md)
 

@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Cultivating a sense of trust and cooperation among community members to effectively respond to the crisis
 
 ## Property: has_MitigationSource
 
@@ -18,4 +13,8 @@ Cultivating a sense of trust and cooperation among community members to effectiv
 
 * [building social capital](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4072.md)
 * [fostering community](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4073.md)
+
+## Property: has_MitigationPrinciple
+
+Cultivating a sense of trust and cooperation among community members to effectively respond to the crisis
 

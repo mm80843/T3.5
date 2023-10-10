@@ -6,7 +6,7 @@
 
 * [Residential Defined Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_83.md)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Health inequalities resulting from urban design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1215.md)
 

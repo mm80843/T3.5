@@ -6,10 +6,6 @@
 
 * [Lack of longitudinal view](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2924.md)
 
-## Property: has_MitigationPrinciple
-
-Provide an analysis of space occupancy and virus transmission from a longitudinal perspective, considering the spatial and temporal dynamics of human interactions and their impact on virus spread
-
 ## Property: has_MitigationSource
 
 * [lee_designing_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_26.md)
@@ -17,4 +13,8 @@ Provide an analysis of space occupancy and virus transmission from a longitudina
 ## Property: has_MitigationTechnology
 
 * [situated visualization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3653.md)
+
+## Property: has_MitigationPrinciple
+
+Provide an analysis of space occupancy and virus transmission from a longitudinal perspective, considering the spatial and temporal dynamics of human interactions and their impact on virus spread
 

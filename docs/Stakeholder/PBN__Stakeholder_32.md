@@ -2,19 +2,11 @@
 
 # Stakeholder: __healthcare professionals__ (PBN__Stakeholder_32)
 
-## Property: has_OwnerRisk
-
-* [Scalability and performance limitations of model-based solutions for pandemic data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1046.md)
-* [Poor Health Conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1057.md)
-* [Inadequate TB infection control measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1363.md)
-* [Aspecific and uncontrolled fears related to infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2054.md)
-* [Misdiagnosis and equipment malfunction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2345.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Healthcare Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_45.md)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Suboptimal data science literacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_813.md)
 * [Lack of interoperability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_901.md)
@@ -55,6 +47,18 @@
 
 * [Q11974939](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q11974939.md)
 
+## Property: has_StakeholderGroup
+
+* [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
+
+## Property: has_OwnerRisk
+
+* [Scalability and performance limitations of model-based solutions for pandemic data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1046.md)
+* [Poor Health Conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1057.md)
+* [Inadequate TB infection control measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1363.md)
+* [Aspecific and uncontrolled fears related to infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2054.md)
+* [Misdiagnosis and equipment malfunction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2345.md)
+
 ## Property: has_BenefitForPeople
 
 * [Enhanced healthcare delivery](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_36.md)
@@ -90,8 +94,4 @@
 * [Improved cross-disciplinary protocols](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1322.md)
 * [Early detection of carriers](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1400.md)
 * [Early detection and personalized treatment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1404.md)
-
-## Property: has_StakeholderGroup
-
-* [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
 

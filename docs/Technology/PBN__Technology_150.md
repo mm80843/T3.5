@@ -8,13 +8,13 @@
 * [Privacy and data protection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1274.md)
 * [Privacy and security of data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1754.md)
 
-## Property: has_TechnologyID
-
-* [Q228502](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q228502.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Authentication and Access Control](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_140.md)
+
+## Property: has_TechnologyID
+
+* [Q228502](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q228502.md)
 
 ## Property: has_StakeholderGroup
 

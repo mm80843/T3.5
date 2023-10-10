@@ -6,10 +6,6 @@
 
 * [Overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_571.md)
 
-## Property: has_MitigationPrinciple
-
-Providing accessible green open spaces in urban areas allows individuals to practice social distancing and enjoy outdoor activities while reducing the risk of transmission.
-
 ## Property: has_MitigationSource
 
 * [reinwald_urban_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_83.md)
@@ -18,4 +14,8 @@ Providing accessible green open spaces in urban areas allows individuals to prac
 
 * [urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_922.md)
 * [landscaping](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_965.md)
+
+## Property: has_MitigationPrinciple
+
+Providing accessible green open spaces in urban areas allows individuals to practice social distancing and enjoy outdoor activities while reducing the risk of transmission.
 

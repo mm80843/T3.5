@@ -2,10 +2,6 @@
 
 # Technology: __proper cleaning procedures__ (PBN__Technology_1727)
 
-## Property: has_TechnologyRisk
-
-* [PVP3](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2192.md)
-
 ## Property: has_TechnologyMitigation
 
 * [Removal of wet or contaminated insulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1430.md)
@@ -13,4 +9,8 @@
 ## Property: has_TechnologyID
 
 * [Q12773274](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q12773274.md)
+
+## Property: has_TechnologyRisk
+
+* [PVP3](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2192.md)
 

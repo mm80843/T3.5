@@ -2,7 +2,7 @@
 
 # Risk: __Inadequate vaccination coverage__ (PBN__Risk_3239)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Vaccination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_245.md)
 

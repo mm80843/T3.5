@@ -6,13 +6,13 @@
 
 * [Management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1581.md)
 
-## Property: has_TechnologyID
-
-* [Q33121724](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q33121724.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Crowd Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_152.md)
+
+## Property: has_TechnologyID
+
+* [Q33121724](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q33121724.md)
 
 ## Property: has_StakeholderGroup
 

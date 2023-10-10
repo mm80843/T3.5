@@ -6,15 +6,14 @@
 
 * [Traditional materials attract mosquitoes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3091.md)
 
-## Property: has_MitigationPrinciple
-
-Research ways to modify traditional materials to reduce mosquito attraction
-
 ## Property: has_MitigationSource
 
 * [obonyo_decision_2018](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_272.md)
 
 ## Property: has_MitigationTechnology
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
+
+## Property: has_MitigationPrinciple
+
+Research ways to modify traditional materials to reduce mosquito attraction
 

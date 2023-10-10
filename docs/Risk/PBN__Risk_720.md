@@ -2,7 +2,7 @@
 
 # Risk: __Workforce management__ (PBN__Risk_720)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Remote monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1003.md)
 

@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Provide accurate and timely information to the public about the risks and prevention strategies of contagious diseases to promote awareness and behavior change.
 
 ## Property: has_MitigationSource
 
@@ -18,4 +13,8 @@ Provide accurate and timely information to the public about the risks and preven
 
 * [digital media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3581.md)
 * [print media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3582.md)
+
+## Property: has_MitigationPrinciple
+
+Provide accurate and timely information to the public about the risks and prevention strategies of contagious diseases to promote awareness and behavior change.
 

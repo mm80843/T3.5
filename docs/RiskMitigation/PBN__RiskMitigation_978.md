@@ -2,11 +2,11 @@
 
 # RiskMitigation: __Domestic-based supply chain__ (PBN__RiskMitigation_978)
 
-## Property: has_MitigationBenefit
-
-* [Cost reduction](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_983.md)
-
 ## Property: has_MitigationRisk
 
 * [Economic downfall](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_707.md)
+
+## Property: has_MitigationBenefit
+
+* [Cost reduction](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_983.md)
 

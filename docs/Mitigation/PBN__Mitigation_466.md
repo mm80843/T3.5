@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Conduct temperature checks to identify individuals with elevated body temperatures, which may indicate possible infection.
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Conduct temperature checks to identify individuals with elevated body temperatur
 ## Property: has_MitigationTechnology
 
 * [infrared thermometers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3246.md)
+
+## Property: has_MitigationPrinciple
+
+Conduct temperature checks to identify individuals with elevated body temperatures, which may indicate possible infection.
 

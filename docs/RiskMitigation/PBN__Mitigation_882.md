@@ -4,12 +4,7 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 * [Undetected infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2788.md)
-
-## Property: has_MitigationPrinciple
-
-Conducting diagnostic testing to identify and detect cases of contagious diseases, including those that may be undetected, to better understand the spread and prevalence of the disease and inform appropriate mitigation measures.
 
 ## Property: has_MitigationSource
 
@@ -22,8 +17,11 @@ Conducting diagnostic testing to identify and detect cases of contagious disease
 
 * [testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_610.md)
 * [diagnostic testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_345.md)
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 * [diagnostic testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3512.md)
 * [laboratory facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3513.md)
 * [laboratory equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3829.md)
+
+## Property: has_MitigationPrinciple
+
+Conducting diagnostic testing to identify and detect cases of contagious diseases, including those that may be undetected, to better understand the spread and prevalence of the disease and inform appropriate mitigation measures.
 

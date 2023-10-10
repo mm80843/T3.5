@@ -2,7 +2,7 @@
 
 # Risk: __Close contact with infected individuals__ (PBN__Risk_3025)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Spatial distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1331.md)
 

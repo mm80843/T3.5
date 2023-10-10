@@ -2,7 +2,7 @@
 
 # Risk: __Virus Transmission through close contact__ (PBN__Risk_507)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Hand hygiene and respiratory etiquette](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_717.md)
 

@@ -2,7 +2,7 @@
 
 # Risk: __Inefficient integration and analysis__ (PBN__Risk_2726)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Bioinformatics Tools](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_766.md)
 

@@ -6,13 +6,13 @@
 
 * [Similar stability to SARS-CoV-1](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2274.md)
 
-## Property: has_TechnologyID
-
-* [Q1674502](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1674502.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Physical Distancing Tools and Measures](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_70.md)
+
+## Property: has_TechnologyID
+
+* [Q1674502](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1674502.md)
 
 ## Property: has_StakeholderGroup
 

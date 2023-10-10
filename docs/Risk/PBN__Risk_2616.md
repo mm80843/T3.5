@@ -2,7 +2,7 @@
 
 # Risk: __Surface contamination__ (PBN__Risk_2616)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Surface disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_246.md)
 * [Enhanced cleaning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_753.md)

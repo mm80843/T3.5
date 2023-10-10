@@ -2,7 +2,7 @@
 
 # Stakeholder: __people in the built environment__ (PBN__Stakeholder_1122)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Influenza virus survival](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1704.md)
 

@@ -2,7 +2,7 @@
 
 # Risk: __Material shortage__ (PBN__Risk_555)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Supplier diversification](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_782.md)
 

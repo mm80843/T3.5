@@ -2,10 +2,6 @@
 
 # Stakeholder: __social service agencies__ (PBN__Stakeholder_1344)
 
-## Property: has_OwnerRisk
-
-* [Lack of social support and social isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1992.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Social Services](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_40.md)
@@ -18,4 +14,8 @@
 ## Property: has_StakeholderGroup
 
 * [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
+
+## Property: has_OwnerRisk
+
+* [Lack of social support and social isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1992.md)
 

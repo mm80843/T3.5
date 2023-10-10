@@ -2,7 +2,7 @@
 
 # Risk: __Harmful indoor air pollutants__ (PBN__Risk_969)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1355.md)
 

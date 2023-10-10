@@ -2,7 +2,7 @@
 
 # Risk: __Lack of protective suits and resources__ (PBN__Risk_420)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Adoption of emerging technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_583.md)
 

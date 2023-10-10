@@ -2,11 +2,11 @@
 
 # RiskMitigation: __Development of medical infrastructure__ (PBN__RiskMitigation_755)
 
-## Property: has_MitigationBenefit
-
-* [Increased healthcare access](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_763.md)
-
 ## Property: has_MitigationRisk
 
 * [Spread of contagious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_20.md)
+
+## Property: has_MitigationBenefit
+
+* [Increased healthcare access](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_763.md)
 

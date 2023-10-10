@@ -2,7 +2,7 @@
 
 # Risk: __Outbreak from China__ (PBN__Risk_77)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Enhanced case finding](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_92.md)
 * [Quarantine for high-risk individuals](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_93.md)

@@ -2,7 +2,7 @@
 
 # Stakeholder: __minority groups__ (PBN__Stakeholder_1590)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Lack of cultural sensitivity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2392.md)
 

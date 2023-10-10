@@ -2,7 +2,7 @@
 
 # Risk: __Fraudulent Claims__ (PBN__Risk_3293)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Fraud Detection in Healthcare Insurance Claims](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1936.md)
 

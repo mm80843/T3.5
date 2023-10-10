@@ -2,7 +2,7 @@
 
 # Risk: __Homogeneous mixing assumptions in large-scale epidemiological models__ (PBN__Risk_288)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Introducing neighborhood-level processes in large-scale models](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_363.md)
 

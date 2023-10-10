@@ -2,15 +2,15 @@
 
 # Stakeholder: __tourism board__ (PBN__Stakeholder_1604)
 
-## Property: has_StakeholderGroup
+## Property: has_StakeholderSubgroup
 
-* [City Officials](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_0.md)
+* [Tourism Boards](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_6.md)
 
 ## Property: has_StakeholderID
 
 * [Q3689421](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3689421.md)
 
-## Property: has_StakeholderSubgroup
+## Property: has_StakeholderGroup
 
-* [Tourism Boards](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_6.md)
+* [City Officials](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_0.md)
 

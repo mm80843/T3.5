@@ -2,7 +2,7 @@
 
 # Stakeholder: __iot devices__ (PBN__Stakeholder_1396)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Lack of interoperability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_901.md)
 * [Connectivity issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2084.md)

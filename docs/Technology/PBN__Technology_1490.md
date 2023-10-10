@@ -6,13 +6,12 @@
 
 * [Fragmented healthcare system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2024.md)
 
+## Property: has_StakeholderSubgroup
+
+
 ## Property: has_TechnologyID
 
 * [Q878041](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q878041.md)
-
-## Property: has_StakeholderSubgroup
-
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_7.md)
 
 ## Property: has_StakeholderGroup
 

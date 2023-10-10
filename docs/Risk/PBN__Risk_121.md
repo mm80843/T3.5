@@ -2,7 +2,7 @@
 
 # Risk: __Loss of livelihoods__ (PBN__Risk_121)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Support for people who cannot stop working and provide essential services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_146.md)
 

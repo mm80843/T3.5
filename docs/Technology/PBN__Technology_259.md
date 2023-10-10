@@ -7,13 +7,13 @@
 * [Inadequate ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_713.md)
 * [Limited effectiveness of upper-room UVGI if room air is not well mixed](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1174.md)
 
-## Property: has_TechnologyID
-
-* [Q2615451](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2615451.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [HVAC and Air Quality Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_90.md)
+
+## Property: has_TechnologyID
+
+* [Q2615451](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2615451.md)
 
 ## Property: has_StakeholderGroup
 

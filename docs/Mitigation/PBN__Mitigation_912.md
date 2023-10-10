@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Tracking and analyzing environmental indicators to understand the impact of policy interventions on the environment
 
 ## Property: has_MitigationSource
 
@@ -18,4 +13,8 @@ Tracking and analyzing environmental indicators to understand the impact of poli
 
 * [iot sensing infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3534.md)
 * [environmental sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3537.md)
+
+## Property: has_MitigationPrinciple
+
+Tracking and analyzing environmental indicators to understand the impact of policy interventions on the environment
 

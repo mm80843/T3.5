@@ -2,7 +2,7 @@
 
 # Stakeholder: __communities relying on tube wells for drinking water__ (PBN__Stakeholder_1096)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Arsenic exposure in Bangladesh resulting from the construction of tube wells](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1663.md)
 

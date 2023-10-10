@@ -2,7 +2,7 @@
 
 # Risk: __High concentrations of air contaminants in specific locations__ (PBN__Risk_3056)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Portable room air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1419.md)
 

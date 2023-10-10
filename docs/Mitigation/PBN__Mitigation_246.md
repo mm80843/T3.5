@@ -4,7 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 * [Fomite transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_609.md)
 * [Contamination of surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1332.md)
 * [Surface contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2616.md)
@@ -12,10 +11,6 @@
 * [Contamination of surfaces with pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2715.md)
 * [Recontamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2778.md)
 * [Fomite spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3010.md)
-
-## Property: has_MitigationPrinciple
-
-Regular disinfection of surfaces, using appropriate disinfectants or UV-C irradiation, helps eliminate pathogens and reduces the risk of surface contamination.
 
 ## Property: has_MitigationSource
 
@@ -30,10 +25,13 @@ Regular disinfection of surfaces, using appropriate disinfectants or UV-C irradi
 
 ## Property: has_MitigationTechnology
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 * [disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_413.md)
 * [sanitizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_770.md)
 * [cleaning agents](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3292.md)
 * [uv-c irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3088.md)
 * [liquid disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3482.md)
+
+## Property: has_MitigationPrinciple
+
+Regular disinfection of surfaces, using appropriate disinfectants or UV-C irradiation, helps eliminate pathogens and reduces the risk of surface contamination.
 

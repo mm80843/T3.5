@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Utilizing remote supervision as an alternative to face-to-face supervision for home-based exercise during the pandemic, enabling individuals to receive guidance and optimize their physical activity routines.
 
 ## Property: has_MitigationSource
 
@@ -16,5 +11,8 @@ Utilizing remote supervision as an alternative to face-to-face supervision for h
 
 ## Property: has_MitigationTechnology
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
+
+## Property: has_MitigationPrinciple
+
+Utilizing remote supervision as an alternative to face-to-face supervision for home-based exercise during the pandemic, enabling individuals to receive guidance and optimize their physical activity routines.
 

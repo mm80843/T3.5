@@ -6,15 +6,15 @@
 
 Access to outdoor spaces can positively impact mental health and reduce mental stress
 
-## Property: has_Beneficiary
-
-* [residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
-
-## Property: has_BenefReturn
-
-* [Having outdoor spaces can increase the property’s value and attract tenants seeking a better quality of life.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_244.md)
-
 ## Property: has_BenefSource
 
 * [tokazhanov_assessment_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_51.md)
+
+## Description of Benefits pertaining to Beneficiaries
+
+* [Having outdoor spaces can increase the property’s value and attract tenants seeking a better quality of life.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_244.md)
+
+## Property: has_Beneficiary
+
+* [residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
 

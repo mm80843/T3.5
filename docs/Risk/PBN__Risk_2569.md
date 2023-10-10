@@ -2,7 +2,7 @@
 
 # Risk: __Inconsistent implementation__ (PBN__Risk_2569)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Smaller and individual internal layouts](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_422.md)
 

@@ -7,13 +7,13 @@
 * [Reliance on digital platforms](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1371.md)
 * [Data security breaches](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2101.md)
 
-## Property: has_TechnologyID
-
-* [Q1254335](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1254335.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Cybersecurity and Security Protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_135.md)
+
+## Property: has_TechnologyID
+
+* [Q1254335](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1254335.md)
 
 ## Property: has_StakeholderGroup
 

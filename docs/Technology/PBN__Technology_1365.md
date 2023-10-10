@@ -2,11 +2,11 @@
 
 # Technology: __including mobile testing units and at-home testing kits__ (PBN__Technology_1365)
 
-## Property: has_TechnologyRisk
-
-* [Incomplete coverage of mild or asymptomatic cases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1952.md)
-
 ## Property: has_TechnologyID
 
 * [Q2115486](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2115486.md)
+
+## Property: has_TechnologyRisk
+
+* [Incomplete coverage of mild or asymptomatic cases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1952.md)
 

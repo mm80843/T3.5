@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Ensuring sufficient green spaces in urban areas provides opportunities for outdoor activities and reduces population density in confined spaces.
 
 ## Property: has_MitigationSource
 
@@ -18,4 +13,8 @@ Ensuring sufficient green spaces in urban areas provides opportunities for outdo
 
 * [urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_922.md)
 * [park design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4500.md)
+
+## Property: has_MitigationPrinciple
+
+Ensuring sufficient green spaces in urban areas provides opportunities for outdoor activities and reduces population density in confined spaces.
 

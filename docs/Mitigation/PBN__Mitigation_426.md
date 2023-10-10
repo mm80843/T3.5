@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Minimizing the number of participants in the "classroom" and allowing for more interaction at the appropriate level by having separate tracks for junior and senior residents.
 
 ## Property: has_MitigationSource
 
@@ -16,5 +11,8 @@ Minimizing the number of participants in the "classroom" and allowing for more i
 
 ## Property: has_MitigationTechnology
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
+
+## Property: has_MitigationPrinciple
+
+Minimizing the number of participants in the "classroom" and allowing for more interaction at the appropriate level by having separate tracks for junior and senior residents.
 

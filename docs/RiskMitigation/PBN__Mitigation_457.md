@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Adjusting the intensity and volume of exercises based on individual fitness levels and progression.
 
 ## Property: has_MitigationSource
 
@@ -18,4 +13,8 @@ Adjusting the intensity and volume of exercises based on individual fitness leve
 
 * [wearable sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2949.md)
 * [fitness apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3239.md)
+
+## Property: has_MitigationPrinciple
+
+Adjusting the intensity and volume of exercises based on individual fitness levels and progression.
 

@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Helps in managing psychological disturbances
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Helps in managing psychological disturbances
 ## Property: has_MitigationTechnology
 
 * [virtual reality](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1233.md)
+
+## Property: has_MitigationPrinciple
+
+Helps in managing psychological disturbances
 

@@ -10,6 +10,10 @@
 
 * [Q4145472](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4145472.md)
 
+## Property: has_StakeholderGroup
+
+* [Community Stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_8.md)
+
 ## Property: has_BenefitForPeople
 
 * [Improved emotional health and well-being](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_416.md)
@@ -19,8 +23,4 @@
 * [Improved urban equality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_423.md)
 * [Reduced transport-related emissions](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_424.md)
 * [Enhanced digital change](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_425.md)
-
-## Property: has_StakeholderGroup
-
-* [Community Stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_8.md)
 

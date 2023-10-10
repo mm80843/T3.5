@@ -2,7 +2,7 @@
 
 # Stakeholder: __gig economy workers__ (PBN__Stakeholder_1517)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Exclusion and vulnerability of migrants and gig workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2266.md)
 

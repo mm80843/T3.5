@@ -2,7 +2,7 @@
 
 # Risk: __Limited acceptance of measures__ (PBN__Risk_2693)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Enforce Lockdown Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_690.md)
 

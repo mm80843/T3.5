@@ -2,15 +2,15 @@
 
 # Stakeholder: __research institution__ (PBN__Stakeholder_1854)
 
-## Property: has_StakeholderGroup
+## Property: has_StakeholderSubgroup
 
-* [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
+* [Scientific Research](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_39.md)
 
 ## Property: has_StakeholderID
 
 * [Q31855](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q31855.md)
 
-## Property: has_StakeholderSubgroup
+## Property: has_StakeholderGroup
 
-* [Scientific Research](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_39.md)
+* [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
 

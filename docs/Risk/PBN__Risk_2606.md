@@ -2,7 +2,7 @@
 
 # Risk: __Unknown viral shedding routes__ (PBN__Risk_2606)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Biomarker testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_513.md)
 

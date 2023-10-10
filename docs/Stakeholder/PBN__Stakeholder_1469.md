@@ -6,7 +6,7 @@
 
 * [Data Management and Security](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_152.md)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Centralized vs. federated approaches to data infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2157.md)
 

@@ -2,9 +2,9 @@
 
 # Article: __madurai_elavarasan_restructured_2020__ (PBN__Article_359)
 
-## Property: has_ArticleTitle
+## Property: has_ArticleDOI
 
-Restructured society and environment: A review on potential technological strategies to control the COVID-19 pandemic
+10.1016/j.scitotenv.2020.138858
 
 ## Property: has_ArticleYear
 
@@ -14,7 +14,7 @@ Restructured society and environment: A review on potential technological strate
 
 * [zhang_effective_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_188.md)
 
-## Property: has_ArticleDOI
+## Property: has_ArticleTitle
 
-10.1016/j.scitotenv.2020.138858
+Restructured society and environment: A review on potential technological strategies to control the COVID-19 pandemic
 

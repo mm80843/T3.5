@@ -2,7 +2,7 @@
 
 # Risk: __Limited sample size in observational studies__ (PBN__Risk_814)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Data collection and harmonization](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1120.md)
 

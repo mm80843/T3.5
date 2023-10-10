@@ -7,7 +7,6 @@
 * [COVID-19 spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_63.md)
 * [Economic impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_124.md)
 * [COVID-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_133.md)
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 * [Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_974.md)
 * [Importation of cases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1594.md)
 * [Global mobility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2073.md)
@@ -16,10 +15,6 @@
 * [Contagion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2685.md)
 * [Contagious disease propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2915.md)
 * [Transmission of the disease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3308.md)
-
-## Property: has_MitigationPrinciple
-
-Restrict and control travel to and from areas with high infection rates to minimize the spread of infectious diseases
 
 ## Property: has_MitigationSource
 
@@ -40,10 +35,13 @@ Restrict and control travel to and from areas with high infection rates to minim
 
 ## Property: has_MitigationTechnology
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 * [travel bans](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_702.md)
 * [travel management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2899.md)
 * [border controls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3092.md)
 * [border control measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3642.md)
 * [travel monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4042.md)
+
+## Property: has_MitigationPrinciple
+
+Restrict and control travel to and from areas with high infection rates to minimize the spread of infectious diseases
 

@@ -2,11 +2,11 @@
 
 # RiskMitigation: __Recognizing stress symptoms__ (PBN__RiskMitigation_208)
 
-## Property: has_MitigationBenefit
-
-* [Enhanced mental health support](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_224.md)
-
 ## Property: has_MitigationRisk
 
 * [Uncertainty about job status](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_168.md)
+
+## Property: has_MitigationBenefit
+
+* [Enhanced mental health support](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_224.md)
 

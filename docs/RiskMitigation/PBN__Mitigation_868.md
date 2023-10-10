@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Implementing multiple IPC measures from different categories to provide layered protection and reduce the risk of COVID-19 transmission in the workplace.
 
 ## Property: has_MitigationSource
 
@@ -16,5 +11,8 @@ Implementing multiple IPC measures from different categories to provide layered 
 
 ## Property: has_MitigationTechnology
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
+
+## Property: has_MitigationPrinciple
+
+Implementing multiple IPC measures from different categories to provide layered protection and reduce the risk of COVID-19 transmission in the workplace.
 

@@ -6,16 +6,16 @@
 
 Prioritizing patients based on severity during admissions logistics
 
+## Property: has_BenefSource
+
+* [webb_smart_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_294.md)
+
+## Description of Benefits pertaining to Beneficiaries
+
+* [Optimal use of hospital resources, improved patient outcomes](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1568.md)
+
 ## Property: has_Beneficiary
 
 * [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
 * [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
-
-## Property: has_BenefReturn
-
-* [Optimal use of hospital resources, improved patient outcomes](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1568.md)
-
-## Property: has_BenefSource
-
-* [webb_smart_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_294.md)
 

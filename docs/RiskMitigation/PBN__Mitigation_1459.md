@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Staying at home and avoiding contact with others when experiencing symptoms of a contagious disease or when advised by health authorities to prevent the spread of the disease.
 
 ## Property: has_MitigationSource
 
@@ -16,5 +11,8 @@ Staying at home and avoiding contact with others when experiencing symptoms of a
 
 ## Property: has_MitigationTechnology
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
+
+## Property: has_MitigationPrinciple
+
+Staying at home and avoiding contact with others when experiencing symptoms of a contagious disease or when advised by health authorities to prevent the spread of the disease.
 

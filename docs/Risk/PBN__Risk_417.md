@@ -2,7 +2,7 @@
 
 # Risk: __Process problems__ (PBN__Risk_417)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Material supply chain](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_579.md)
 * [Labor shortage](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_580.md)

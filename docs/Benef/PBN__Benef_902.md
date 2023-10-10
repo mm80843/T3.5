@@ -6,16 +6,16 @@
 
 Better management of healthcare needs, improved quality of care
 
+## Property: has_BenefSource
+
+* [sakellarides_viral_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_183.md)
+
+## Description of Benefits pertaining to Beneficiaries
+
+* [Better health outcomes, reduced healthcare costs](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_988.md)
+
 ## Property: has_Beneficiary
 
 * [elderly](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_336.md)
 * [people with multimorbidity](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_359.md)
-
-## Property: has_BenefReturn
-
-* [Better health outcomes, reduced healthcare costs](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_988.md)
-
-## Property: has_BenefSource
-
-* [sakellarides_viral_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_183.md)
 

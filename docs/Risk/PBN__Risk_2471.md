@@ -2,7 +2,7 @@
 
 # Risk: __Data Security__ (PBN__Risk_2471)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Local Data Processing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_168.md)
 * [Real-time Health Data Capture](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1928.md)

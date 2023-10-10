@@ -2,7 +2,7 @@
 
 # Risk: __Financial viability of suppliers__ (PBN__Risk_3316)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Creation of funds and other support measures to suppliers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1985.md)
 

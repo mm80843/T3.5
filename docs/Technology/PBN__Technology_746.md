@@ -2,11 +2,11 @@
 
 # Technology: __contactless payment systems__ (PBN__Technology_746)
 
-## Property: has_TechnologyRisk
-
-* [Risk of transmission in public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1480.md)
-
 ## Property: has_TechnologyID
 
 * [Q625903](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q625903.md)
+
+## Property: has_TechnologyRisk
+
+* [Risk of transmission in public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1480.md)
 

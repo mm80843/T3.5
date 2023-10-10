@@ -6,16 +6,16 @@
 
 HEMS can provide CO2 emission information, promoting more environmentally-conscious behavior and contributing to decarbonization efforts.
 
+## Property: has_BenefSource
+
+* [chen_coronavirus_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_119.md)
+
+## Description of Benefits pertaining to Beneficiaries
+
+* [Private investors in HEMS technologies would benefit from increased demand as more individuals and businesses seek to reduce their carbon footprint and address climate change concerns.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_650.md)
+
 ## Property: has_Beneficiary
 
 * [society](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_53.md)
 * [climate](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_251.md)
-
-## Property: has_BenefReturn
-
-* [Private investors in HEMS technologies would benefit from increased demand as more individuals and businesses seek to reduce their carbon footprint and address climate change concerns.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_650.md)
-
-## Property: has_BenefSource
-
-* [chen_coronavirus_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_119.md)
 

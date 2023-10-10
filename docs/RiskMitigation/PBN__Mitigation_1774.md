@@ -6,10 +6,6 @@
 
 * [Poor Indoor Air Quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1121.md)
 
-## Property: has_MitigationPrinciple
-
-Use energy-efficient heating and cooling systems in buildings to maintain a comfortable indoor environment while minimizing the impact on indoor air quality.
-
 ## Property: has_MitigationSource
 
 * [saini_comprehensive_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_281.md)
@@ -17,4 +13,8 @@ Use energy-efficient heating and cooling systems in buildings to maintain a comf
 ## Property: has_MitigationTechnology
 
 * [energy-efficient hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_750.md)
+
+## Property: has_MitigationPrinciple
+
+Use energy-efficient heating and cooling systems in buildings to maintain a comfortable indoor environment while minimizing the impact on indoor air quality.
 

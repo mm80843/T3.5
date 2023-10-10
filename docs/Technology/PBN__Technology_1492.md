@@ -6,13 +6,13 @@
 
 * [Inadequate working conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2025.md)
 
-## Property: has_TechnologyID
-
-* [Q30298603](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q30298603.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Workforce and Resource Management Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_110.md)
+
+## Property: has_TechnologyID
+
+* [Q30298603](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q30298603.md)
 
 ## Property: has_StakeholderGroup
 

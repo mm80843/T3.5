@@ -2,15 +2,15 @@
 
 # Stakeholder: __resident with limited knowledge or skill in using digital technology__ (PBN__Stakeholder_2465)
 
-## Property: has_StakeholderGroup
+## Property: has_StakeholderSubgroup
 
-* [Community Stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_8.md)
+* [Residents](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_72.md)
 
 ## Property: has_StakeholderID
 
 * [Q1068473](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1068473.md)
 
-## Property: has_StakeholderSubgroup
+## Property: has_StakeholderGroup
 
-* [Residents](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_72.md)
+* [Community Stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_8.md)
 

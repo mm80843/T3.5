@@ -2,11 +2,11 @@
 
 # Technology: __covering high-touch surfaces with antimicrobial material__ (PBN__Technology_1730)
 
-## Property: has_TechnologyRisk
-
-* [PVP4](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2193.md)
-
 ## Property: has_TechnologyID
 
 * [Q41568378](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q41568378.md)
+
+## Property: has_TechnologyRisk
+
+* [PVP4](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2193.md)
 

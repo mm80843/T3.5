@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Implementing monitoring or control measures in the upstream collection network to prevent the spread of COVID-19 in the wastewater handling and treatment process
 
 ## Property: has_MitigationSource
 
@@ -16,5 +11,8 @@ Implementing monitoring or control measures in the upstream collection network t
 
 ## Property: has_MitigationTechnology
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
+
+## Property: has_MitigationPrinciple
+
+Implementing monitoring or control measures in the upstream collection network to prevent the spread of COVID-19 in the wastewater handling and treatment process
 

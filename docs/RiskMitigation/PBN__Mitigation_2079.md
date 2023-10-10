@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Credit guarantee schemes reduce credit risk and unlock finance for SMEs, allowing banks to be more willing to lend to SMEs
 
 ## Property: has_MitigationSource
 
@@ -16,5 +11,8 @@ Credit guarantee schemes reduce credit risk and unlock finance for SMEs, allowin
 
 ## Property: has_MitigationTechnology
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
+
+## Property: has_MitigationPrinciple
+
+Credit guarantee schemes reduce credit risk and unlock finance for SMEs, allowing banks to be more willing to lend to SMEs
 

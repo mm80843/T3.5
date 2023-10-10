@@ -2,15 +2,14 @@
 
 # Stakeholder: __technical expert__ (PBN__Stakeholder_2638)
 
-## Property: has_StakeholderGroup
+## Property: has_StakeholderSubgroup
 
-* [Technology Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_12.md)
 
 ## Property: has_StakeholderID
 
 * [Q569612](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q569612.md)
 
-## Property: has_StakeholderSubgroup
+## Property: has_StakeholderGroup
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_7.md)
+* [Technology Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_12.md)
 

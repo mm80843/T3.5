@@ -2,7 +2,7 @@
 
 # Risk: __Microbial community variation among offices__ (PBN__Risk_210)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Implementing mechanically ventilated offices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_249.md)
 

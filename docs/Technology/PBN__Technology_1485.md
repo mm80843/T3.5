@@ -6,14 +6,14 @@
 
 * [Use of biomass fuels](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2018.md)
 
-## Property: has_TechnologyID
-
-* [Q1522115](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1522115.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Energy Systems and Sustainability](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_116.md)
 * [Indoor Environmental Quality](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_79.md)
+
+## Property: has_TechnologyID
+
+* [Q1522115](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1522115.md)
 
 ## Property: has_StakeholderGroup
 

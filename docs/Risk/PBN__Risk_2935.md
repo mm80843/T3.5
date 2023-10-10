@@ -2,7 +2,7 @@
 
 # Risk: __Ineffective resource allocation__ (PBN__Risk_2935)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Inter-sectoral collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1117.md)
 

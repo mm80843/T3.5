@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Inactivates the virus quickly, can be coated on many solids, and retains virucidal potency during consumer use
 
 ## Property: has_MitigationSource
 
@@ -18,4 +13,8 @@ Inactivates the virus quickly, can be coated on many solids, and retains virucid
 
 * [cu2o](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3100.md)
 * [polyurethane](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3101.md)
+
+## Property: has_MitigationPrinciple
+
+Inactivates the virus quickly, can be coated on many solids, and retains virucidal potency during consumer use
 

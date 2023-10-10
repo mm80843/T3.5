@@ -2,7 +2,7 @@
 
 # Stakeholder: __surgical residents__ (PBN__Stakeholder_779)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Limited Rotations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1263.md)
 

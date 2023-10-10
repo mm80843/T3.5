@@ -6,15 +6,15 @@
 
 Using modular construction techniques can create flexible and adaptable buildings that can easily be transformed or expanded for different purposes.
 
-## Property: has_Beneficiary
-
-* [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
-
-## Property: has_BenefReturn
-
-* [Private investors can benefit from the cost-effectiveness and time efficiency of modular construction, leading to potential value appreciation of their investments.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1598.md)
-
 ## Property: has_BenefSource
 
 * [megahed_antivirus-built_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_298.md)
+
+## Description of Benefits pertaining to Beneficiaries
+
+* [Private investors can benefit from the cost-effectiveness and time efficiency of modular construction, leading to potential value appreciation of their investments.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1598.md)
+
+## Property: has_Beneficiary
+
+* [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
 

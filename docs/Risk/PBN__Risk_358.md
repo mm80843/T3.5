@@ -2,7 +2,7 @@
 
 # Risk: __Psychological problems among nurses__ (PBN__Risk_358)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Emotional support and motivation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_469.md)
 

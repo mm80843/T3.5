@@ -2,7 +2,7 @@
 
 # Risk: __Loss of productivity__ (PBN__Risk_3134)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Remote work/telecommuting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1551.md)
 

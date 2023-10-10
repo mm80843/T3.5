@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Store IEQ data in a cloud database for easy access, tracking, visualization, and analysis
 
 ## Property: has_MitigationSource
 
@@ -18,4 +13,8 @@ Store IEQ data in a cloud database for easy access, tracking, visualization, and
 
 * [cloud service](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3388.md)
 * [database](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3389.md)
+
+## Property: has_MitigationPrinciple
+
+Store IEQ data in a cloud database for easy access, tracking, visualization, and analysis
 

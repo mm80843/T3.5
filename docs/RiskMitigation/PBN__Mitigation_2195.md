@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Planting more trees and greenery in urban areas can improve the aesthetics, air quality, and overall health of the community. Increased street greenery can also provide shade and reduce the impact of environmental hazards such as air and noise pollution.
 
 ## Property: has_MitigationSource
 
@@ -16,5 +11,8 @@ Planting more trees and greenery in urban areas can improve the aesthetics, air 
 
 ## Property: has_MitigationTechnology
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
+
+## Property: has_MitigationPrinciple
+
+Planting more trees and greenery in urban areas can improve the aesthetics, air quality, and overall health of the community. Increased street greenery can also provide shade and reduce the impact of environmental hazards such as air and noise pollution.
 

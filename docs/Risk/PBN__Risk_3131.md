@@ -2,7 +2,7 @@
 
 # Risk: __Spreading inaccurate news__ (PBN__Risk_3131)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Limit misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1544.md)
 

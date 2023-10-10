@@ -2,7 +2,7 @@
 
 # Risk: __Dissemination of false information__ (PBN__Risk_493)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Monitoring social media](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_694.md)
 

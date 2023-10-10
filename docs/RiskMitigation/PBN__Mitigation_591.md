@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Using multivariable adjusted logistic regression can assess the impact of rurality on receiving surgical care from a gynecologic oncologist specialist and identify disparities in access
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Using multivariable adjusted logistic regression can assess the impact of rurali
 ## Property: has_MitigationTechnology
 
 * [statistical analysis software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3333.md)
+
+## Property: has_MitigationPrinciple
+
+Using multivariable adjusted logistic regression can assess the impact of rurality on receiving surgical care from a gynecologic oncologist specialist and identify disparities in access
 

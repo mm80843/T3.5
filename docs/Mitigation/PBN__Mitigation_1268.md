@@ -4,12 +4,7 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 * [Unknown infection status](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3005.md)
-
-## Property: has_MitigationPrinciple
-
-Conducting widespread testing to identify potential COVID-19 positive individuals, including asymptomatic cases, to reduce transmission
 
 ## Property: has_MitigationSource
 
@@ -18,6 +13,9 @@ Conducting widespread testing to identify potential COVID-19 positive individual
 
 ## Property: has_MitigationTechnology
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 * [mobile technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2902.md)
+
+## Property: has_MitigationPrinciple
+
+Conducting widespread testing to identify potential COVID-19 positive individuals, including asymptomatic cases, to reduce transmission
 

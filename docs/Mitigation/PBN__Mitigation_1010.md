@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Limit or restrict access to buildings and facilities to minimize the number of people entering and interacting in the space.
 
 ## Property: has_MitigationSource
 
@@ -16,5 +11,8 @@ Limit or restrict access to buildings and facilities to minimize the number of p
 
 ## Property: has_MitigationTechnology
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
+
+## Property: has_MitigationPrinciple
+
+Limit or restrict access to buildings and facilities to minimize the number of people entering and interacting in the space.
 

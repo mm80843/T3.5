@@ -2,7 +2,7 @@
 
 # Risk: __Domestic violence and intimate partner violence__ (PBN__Risk_2)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Increased surveillance and support services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_6.md)
 

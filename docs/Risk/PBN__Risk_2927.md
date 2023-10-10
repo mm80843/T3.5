@@ -2,7 +2,7 @@
 
 # Risk: __Inaccurate or random results__ (PBN__Risk_2927)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Autonomous Human Behaviour](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1107.md)
 

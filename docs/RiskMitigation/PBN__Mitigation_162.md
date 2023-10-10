@@ -6,10 +6,6 @@
 
 * [Incomplete Detection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2470.md)
 
-## Property: has_MitigationPrinciple
-
-Analysis of heart rate, steps, and sleep data to detect pre-symptomatic cases of COVID-19
-
 ## Property: has_MitigationSource
 
 * [ates_wearable_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_296.md)
@@ -19,4 +15,8 @@ Analysis of heart rate, steps, and sleep data to detect pre-symptomatic cases of
 * [smartwatches](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3013.md)
 * [fitbits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3014.md)
 * [apple watches](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3015.md)
+
+## Property: has_MitigationPrinciple
+
+Analysis of heart rate, steps, and sleep data to detect pre-symptomatic cases of COVID-19
 

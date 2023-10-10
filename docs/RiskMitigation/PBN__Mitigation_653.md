@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Implementing measures to reduce noise levels from traffic and other anthropogenic sources in green spaces to enhance mental restoration and minimize disturbance to wildlife populations.
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Implementing measures to reduce noise levels from traffic and other anthropogeni
 ## Property: has_MitigationTechnology
 
 * [acoustic technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3371.md)
+
+## Property: has_MitigationPrinciple
+
+Implementing measures to reduce noise levels from traffic and other anthropogenic sources in green spaces to enhance mental restoration and minimize disturbance to wildlife populations.
 

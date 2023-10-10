@@ -6,13 +6,13 @@
 
 * [Climate-associated diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1645.md)
 
-## Property: has_TechnologyID
-
-* [Q3555250](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3555250.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Surveillance and Monitoring Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_147.md)
+
+## Property: has_TechnologyID
+
+* [Q3555250](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3555250.md)
 
 ## Property: has_StakeholderGroup
 

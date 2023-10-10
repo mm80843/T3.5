@@ -2,6 +2,10 @@
 
 # Stakeholder: __local governments__ (PBN__Stakeholder_568)
 
+## Risk affecting this stakeholder
+
+* [Limited coordination across sub-populations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2010.md)
+
 ## Property: has_OwnerRisk
 
 * [Privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_47.md)
@@ -64,8 +68,4 @@
 * [Transmission Vulnerability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2349.md)
 * [Health System Vulnerability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2350.md)
 * [Systemic Vulnerabilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2352.md)
-
-## Property: has_SubjectRisk
-
-* [Limited coordination across sub-populations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2010.md)
 

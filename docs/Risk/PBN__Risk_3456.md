@@ -2,7 +2,7 @@
 
 # Risk: __Hazardous tasks__ (PBN__Risk_3456)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Robotics in industrial applications](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2427.md)
 

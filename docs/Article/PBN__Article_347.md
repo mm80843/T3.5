@@ -2,9 +2,9 @@
 
 # Article: __hartley_public_2020__ (PBN__Article_347)
 
-## Property: has_ArticleTitle
+## Property: has_ArticleDOI
 
-Public Health Interventions for COVID-19
+10.1001/jama.2020.5910
 
 ## Property: has_ArticleYear
 
@@ -14,7 +14,7 @@ Public Health Interventions for COVID-19
 
 * [tian_investigation_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_197.md)
 
-## Property: has_ArticleDOI
+## Property: has_ArticleTitle
 
-10.1001/jama.2020.5910
+Public Health Interventions for COVID-19
 

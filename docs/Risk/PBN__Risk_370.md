@@ -2,7 +2,7 @@
 
 # Risk: __Automation Disruption__ (PBN__Risk_370)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Targeted Support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_493.md)
 * [Revamp Education and Training](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_494.md)

@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Ensure that individuals have access to mental health care services to promote well-being and prevent mental illness.
 
 ## Property: has_MitigationSource
 
@@ -18,4 +13,8 @@ Ensure that individuals have access to mental health care services to promote we
 
 * [telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_73.md)
 * [improved healthcare infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1204.md)
+
+## Property: has_MitigationPrinciple
+
+Ensure that individuals have access to mental health care services to promote well-being and prevent mental illness.
 

@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Utilizes IoT technology to monitor individuals after recovery, tracking their health status and providing necessary support for a smooth transition back to normalcy.
 
 ## Property: has_MitigationSource
 
@@ -19,4 +14,8 @@ Utilizes IoT technology to monitor individuals after recovery, tracking their he
 * [iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_96.md)
 * [sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_200.md)
 * [wearables](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3410.md)
+
+## Property: has_MitigationPrinciple
+
+Utilizes IoT technology to monitor individuals after recovery, tracking their health status and providing necessary support for a smooth transition back to normalcy.
 

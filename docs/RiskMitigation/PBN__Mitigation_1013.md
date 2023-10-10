@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Administer vaccines to individuals to build immunity and protect against the transmission of contagious diseases.
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Administer vaccines to individuals to build immunity and protect against the tra
 ## Property: has_MitigationTechnology
 
 * [vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_828.md)
+
+## Property: has_MitigationPrinciple
+
+Administer vaccines to individuals to build immunity and protect against the transmission of contagious diseases.
 

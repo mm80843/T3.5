@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Taking measures to reduce inequality and poverty can address the social and economic disparities highlighted by the pandemic, ensuring that vulnerable populations have access to essential resources and reducing the risk of further health and social crises.
 
 ## Property: has_MitigationSource
 
@@ -16,5 +11,8 @@ Taking measures to reduce inequality and poverty can address the social and econ
 
 ## Property: has_MitigationTechnology
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
+
+## Property: has_MitigationPrinciple
+
+Taking measures to reduce inequality and poverty can address the social and economic disparities highlighted by the pandemic, ensuring that vulnerable populations have access to essential resources and reducing the risk of further health and social crises.
 

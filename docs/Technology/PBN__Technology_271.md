@@ -2,11 +2,6 @@
 
 # Technology: __mechanical ventilation__ (PBN__Technology_271)
 
-## Property: has_TechnologyRisk
-
-* [Dilution of room air](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1190.md)
-* [Protection by ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1194.md)
-
 ## Property: has_TechnologyMitigation
 
 * [Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_170.md)
@@ -17,4 +12,9 @@
 ## Property: has_TechnologyID
 
 * [Q3766250](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3766250.md)
+
+## Property: has_TechnologyRisk
+
+* [Dilution of room air](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1190.md)
+* [Protection by ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1194.md)
 

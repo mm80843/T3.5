@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Having views of green spaces or natural scenery from the windows of indoor spaces can enhance mental health, reduce stress, and improve overall well-being.
 
 ## Property: has_MitigationSource
 
@@ -16,5 +11,8 @@ Having views of green spaces or natural scenery from the windows of indoor space
 
 ## Property: has_MitigationTechnology
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
+
+## Property: has_MitigationPrinciple
+
+Having views of green spaces or natural scenery from the windows of indoor spaces can enhance mental health, reduce stress, and improve overall well-being.
 

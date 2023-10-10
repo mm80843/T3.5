@@ -2,7 +2,7 @@
 
 # Risk: __Reallocation of funds from PCAs__ (PBN__Risk_2584)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Ensuring domestic budgets support PCAs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_489.md)
 

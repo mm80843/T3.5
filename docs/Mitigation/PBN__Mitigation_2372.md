@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Rapid detection of individuals with a fever through capturing thermal images in real time
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Rapid detection of individuals with a fever through capturing thermal images in 
 ## Property: has_MitigationTechnology
 
 * [high-performance infrared thermal cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4441.md)
+
+## Property: has_MitigationPrinciple
+
+Rapid detection of individuals with a fever through capturing thermal images in real time
 

@@ -6,10 +6,6 @@
 
 * [Increased waste](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_842.md)
 
-## Property: has_MitigationPrinciple
-
-Increases organic and inorganic waste due to increased demand for online shopping
-
 ## Property: has_MitigationSource
 
 * [zambrano-monserrate_indirect_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_238.md)
@@ -17,4 +13,8 @@ Increases organic and inorganic waste due to increased demand for online shoppin
 ## Property: has_MitigationTechnology
 
 * [internet access](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1211.md)
+
+## Property: has_MitigationPrinciple
+
+Increases organic and inorganic waste due to increased demand for online shopping
 

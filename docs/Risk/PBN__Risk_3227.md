@@ -2,7 +2,7 @@
 
 # Risk: __Spread of Contagious Disease__ (PBN__Risk_3227)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_7.md)
 * [Social Distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_35.md)

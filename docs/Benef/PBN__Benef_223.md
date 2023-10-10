@@ -6,18 +6,18 @@
 
 Reduced stress, anxiety, and depression during lockdowns
 
-## Property: has_Beneficiary
-
-* [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
-* [all workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_131.md)
-
-## Property: has_BenefReturn
-
-* [Boosted employee engagement and motivation](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_230.md)
-* [Improved mental health and well-being of occupants](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_368.md)
-
 ## Property: has_BenefSource
 
 * [pamidimukkala_impacts_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_49.md)
 * [tokazhanov_how_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_67.md)
+
+## Description of Benefits pertaining to Beneficiaries
+
+* [Boosted employee engagement and motivation](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_230.md)
+* [Improved mental health and well-being of occupants](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_368.md)
+
+## Property: has_Beneficiary
+
+* [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
+* [all workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_131.md)
 

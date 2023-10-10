@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Integrating green infrastructure into urban planning to provide livable, healthy, and biodiversity-friendly cities.
 
 ## Property: has_MitigationSource
 
@@ -19,4 +14,8 @@ Integrating green infrastructure into urban planning to provide livable, healthy
 
 * [green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_48.md)
 * [nature-based solutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3723.md)
+
+## Property: has_MitigationPrinciple
+
+Integrating green infrastructure into urban planning to provide livable, healthy, and biodiversity-friendly cities.
 

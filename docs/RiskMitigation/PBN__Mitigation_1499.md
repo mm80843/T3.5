@@ -6,10 +6,6 @@
 
 * [Limited access to teleworking](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3103.md)
 
-## Property: has_MitigationPrinciple
-
-Providing immigrants with the necessary technology and infrastructure for teleworking can reduce their exposure to the virus in crowded workplaces.
-
 ## Property: has_MitigationSource
 
 * [oecd_what_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_287.md)
@@ -18,4 +14,8 @@ Providing immigrants with the necessary technology and infrastructure for telewo
 
 * [internet access](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1211.md)
 * [technology infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3891.md)
+
+## Property: has_MitigationPrinciple
+
+Providing immigrants with the necessary technology and infrastructure for teleworking can reduce their exposure to the virus in crowded workplaces.
 

@@ -2,7 +2,7 @@
 
 # Stakeholder: __general population in areas with limited testing capacity__ (PBN__Stakeholder_1029)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Lack of testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_543.md)
 

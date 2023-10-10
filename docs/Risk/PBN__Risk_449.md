@@ -2,7 +2,7 @@
 
 # Risk: __Gender inequalities__ (PBN__Risk_449)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Promote gender equality in recovery plans](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_624.md)
 

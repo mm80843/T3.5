@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Proper integration of ventilation systems in the design of buildings is necessary to ensure adequate indoor air quality and climate
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Proper integration of ventilation systems in the design of buildings is necessar
 ## Property: has_MitigationTechnology
 
 * [hvac system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3190.md)
+
+## Property: has_MitigationPrinciple
+
+Proper integration of ventilation systems in the design of buildings is necessary to ensure adequate indoor air quality and climate
 

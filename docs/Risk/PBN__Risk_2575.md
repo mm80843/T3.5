@@ -2,7 +2,7 @@
 
 # Risk: __Varied content and quality of available video libraries__ (PBN__Risk_2575)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Viewing Surgical Videos](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_431.md)
 

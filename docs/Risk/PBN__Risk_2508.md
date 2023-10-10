@@ -2,7 +2,7 @@
 
 # Risk: __Poor air circulation__ (PBN__Risk_2508)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Adequate control of air conditioning and ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_220.md)
 * [Mechanical ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_222.md)

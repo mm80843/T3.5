@@ -2,11 +2,11 @@
 
 # Technology: __targeted investment in underserved neighborhoods__ (PBN__Technology_1183)
 
-## Property: has_TechnologyRisk
-
-* [Lack of equitable distribution of urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1825.md)
-
 ## Property: has_TechnologyID
 
 * [Q67814994](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q67814994.md)
+
+## Property: has_TechnologyRisk
+
+* [Lack of equitable distribution of urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1825.md)
 

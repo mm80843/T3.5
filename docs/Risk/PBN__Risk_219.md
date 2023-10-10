@@ -2,7 +2,7 @@
 
 # Risk: __Mechanisms__ (PBN__Risk_219)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Investigating droplet physics and chemistry](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_263.md)
 

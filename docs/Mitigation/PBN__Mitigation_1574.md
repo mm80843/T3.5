@@ -6,10 +6,6 @@
 
 * [Misinformation and lack of awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3147.md)
 
-## Property: has_MitigationPrinciple
-
-Providing accurate information and education about contagious diseases to facilitate prevention and control efforts
-
 ## Property: has_MitigationSource
 
 * [panneer_health_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_144.md)
@@ -17,4 +13,8 @@ Providing accurate information and education about contagious diseases to facili
 ## Property: has_MitigationTechnology
 
 * [communication channels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_568.md)
+
+## Property: has_MitigationPrinciple
+
+Providing accurate information and education about contagious diseases to facilitate prevention and control efforts
 

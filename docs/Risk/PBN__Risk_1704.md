@@ -2,37 +2,29 @@
 
 # Risk: __Influenza virus survival__ (PBN__Risk_1704)
 
-## Property: has_RiskISO_Purpose
+## Property: has_RiskHealth
 
-* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
-## Property: has_RiskName
-
-If AH and RH are not regulated, it can lead to increased survival and transmission of influenza viruses.
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
-## Property: has_RiskDescription
-
-AH and RH both play a role in influenza virus survival.
-
-## Property: has_RiskISO_Impact
-
-* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
-
-## Property: has_RiskSource
-
-* [marr_mechanistic_2019](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_54.md)
-
-## Property: has_RiskOwner
+## List of stakeholders linked to the risk
 
 * [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
 * [facility managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_166.md)
 * [public health authorities are responsible for regulating ah and rh levels](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1125.md)
 
-## Property: has_RiskSubject
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
+## Articles mentionning the risk
+
+* [marr_mechanistic_2019](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_54.md)
+
+## Property: has_RiskDescription
+
+AH and RH both play a role in influenza virus survival.
+
+## People affected by this risk
 
 * [visitors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_118.md)
 * [workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_128.md)
@@ -40,15 +32,7 @@ AH and RH both play a role in influenza virus survival.
 * [including residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1123.md)
 * [are at risk](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1124.md)
 
-## Property: has_RiskMitigation
-
-* [Regulate and control AH and RH levels in the built environment to reduce virus survival and transmission.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2267.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Property: has_RiskTechnology
+## Technologies linked to the risk
 
 * [environmental control systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1058.md)
 * [such as hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1059.md)
@@ -57,4 +41,20 @@ AH and RH both play a role in influenza virus survival.
 ## Property: has_RiskType
 
 * [environmental](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_0.md)
+
+## Property: has_RiskISO_Impact
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+
+## Name of the risk
+
+If AH and RH are not regulated, it can lead to increased survival and transmission of influenza viruses.
+
+## Mitigations of this risk
+
+* [Regulate and control AH and RH levels in the built environment to reduce virus survival and transmission.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2267.md)
+
+## Property: has_RiskGBN
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 

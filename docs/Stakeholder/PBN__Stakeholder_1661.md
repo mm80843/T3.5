@@ -2,15 +2,15 @@
 
 # Stakeholder: __worker in high-risk industry__ (PBN__Stakeholder_1661)
 
-## Property: has_StakeholderGroup
+## Property: has_StakeholderSubgroup
 
-* [Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_2.md)
+* [Types of Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_22.md)
 
 ## Property: has_StakeholderID
 
 * [Q1391083](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1391083.md)
 
-## Property: has_StakeholderSubgroup
+## Property: has_StakeholderGroup
 
-* [Types of Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_22.md)
+* [Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_2.md)
 

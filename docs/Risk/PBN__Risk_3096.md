@@ -2,7 +2,7 @@
 
 # Risk: __Construction and demolition waste provides breeding sites__ (PBN__Risk_3096)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Waste management in demolition](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1481.md)
 

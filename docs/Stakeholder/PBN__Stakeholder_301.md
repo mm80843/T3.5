@@ -6,11 +6,11 @@
 
 * [Technology and Innovation](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_61.md)
 
-## Property: has_BenefitForPeople
-
-* [Hackathon](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_731.md)
-
 ## Property: has_StakeholderGroup
 
 * [Technology Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_12.md)
+
+## Property: has_BenefitForPeople
+
+* [Hackathon](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_731.md)
 

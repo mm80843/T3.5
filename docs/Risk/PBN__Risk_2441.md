@@ -2,7 +2,7 @@
 
 # Risk: __Lack of trust__ (PBN__Risk_2441)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Trust and transparency](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_102.md)
 * [Transparency of data usage](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_107.md)

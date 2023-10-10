@@ -2,11 +2,11 @@
 
 # Technology: __access control protocols__ (PBN__Technology_827)
 
-## Property: has_TechnologyRisk
-
-* [Data security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1536.md)
-
 ## Property: has_TechnologyID
 
 * [Q228502](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q228502.md)
+
+## Property: has_TechnologyRisk
+
+* [Data security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1536.md)
 

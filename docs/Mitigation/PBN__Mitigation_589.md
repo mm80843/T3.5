@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Assessing the presence and nature of HIV prevalence spatial autocorrelation using the Local Moran's I statistic can identify clustering patterns and guide spatially targeted interventions
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Assessing the presence and nature of HIV prevalence spatial autocorrelation usin
 ## Property: has_MitigationTechnology
 
 * [statistical analysis software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3333.md)
+
+## Property: has_MitigationPrinciple
+
+Assessing the presence and nature of HIV prevalence spatial autocorrelation using the Local Moran's I statistic can identify clustering patterns and guide spatially targeted interventions
 

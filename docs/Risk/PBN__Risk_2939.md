@@ -2,7 +2,7 @@
 
 # Risk: __Poor sanitation areas__ (PBN__Risk_2939)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Improved sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1141.md)
 

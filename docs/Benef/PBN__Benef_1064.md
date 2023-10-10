@@ -6,17 +6,17 @@
 
 Systemic change addresses inherent vulnerabilities and promotes sustainable practices.
 
+## Property: has_BenefSource
+
+* [thurstan_envisioning_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_221.md)
+
+## Description of Benefits pertaining to Beneficiaries
+
+* [This leads to more resilient and equitable conservation efforts.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1189.md)
+
 ## Property: has_Beneficiary
 
 * [governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
 * [local communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_85.md)
 * [conservation organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_428.md)
-
-## Property: has_BenefReturn
-
-* [This leads to more resilient and equitable conservation efforts.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1189.md)
-
-## Property: has_BenefSource
-
-* [thurstan_envisioning_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_221.md)
 

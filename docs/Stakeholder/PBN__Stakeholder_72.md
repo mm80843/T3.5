@@ -6,7 +6,7 @@
 
 * [Travellers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_145.md)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Health Risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_83.md)
 * [Psychological Risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_84.md)
@@ -19,6 +19,10 @@
 * [Safety as an important factor](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1209.md)
 * [Risk perception](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1210.md)
 * [Clean beaches](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2387.md)
+
+## Property: has_StakeholderGroup
+
+* [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
 
 ## Property: has_BenefitForPeople
 
@@ -33,8 +37,4 @@
 * [Reduction of perceived risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_407.md)
 * [Reduction of travel anxiety](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_410.md)
 * [Clean beaches](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1145.md)
-
-## Property: has_StakeholderGroup
-
-* [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
 

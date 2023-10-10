@@ -2,7 +2,7 @@
 
 # Risk: __Lack of data__ (PBN__Risk_2698)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Continuous Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_716.md)
 * [Increase data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1545.md)

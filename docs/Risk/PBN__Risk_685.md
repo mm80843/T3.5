@@ -2,7 +2,7 @@
 
 # Risk: __Personalized health management through pacing__ (PBN__Risk_685)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Using wearables to manage symptoms and identify overexertion in individuals with long COVID](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_949.md)
 

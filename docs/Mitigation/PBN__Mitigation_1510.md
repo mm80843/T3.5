@@ -6,10 +6,6 @@
 
 * [Higher incidence of frontline jobs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3113.md)
 
-## Property: has_MitigationPrinciple
-
-Implementing occupational safety measures, such as providing personal protective equipment and following sanitation protocols, can protect immigrants working in frontline jobs from COVID-19 exposure.
-
 ## Property: has_MitigationSource
 
 * [oecd_what_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_287.md)
@@ -18,4 +14,8 @@ Implementing occupational safety measures, such as providing personal protective
 
 * [personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_136.md)
 * [sanitation protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1497.md)
+
+## Property: has_MitigationPrinciple
+
+Implementing occupational safety measures, such as providing personal protective equipment and following sanitation protocols, can protect immigrants working in frontline jobs from COVID-19 exposure.
 

@@ -2,7 +2,7 @@
 
 # Risk: __Inherent vulnerabilities in__ (PBN__Risk_775)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Systemic change](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1069.md)
 

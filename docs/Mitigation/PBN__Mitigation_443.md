@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Performing exercises to strengthen muscles and maintain physical fitness.
 
 ## Property: has_MitigationSource
 
@@ -18,4 +13,8 @@ Performing exercises to strengthen muscles and maintain physical fitness.
 
 * [exercise equipment (dumbbells](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3230.md)
 * [resistance bands)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3231.md)
+
+## Property: has_MitigationPrinciple
+
+Performing exercises to strengthen muscles and maintain physical fitness.
 

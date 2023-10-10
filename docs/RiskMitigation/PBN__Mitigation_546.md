@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Eliminates viral particles on surfaces, reducing the risk of transmission.
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Eliminates viral particles on surfaces, reducing the risk of transmission.
 ## Property: has_MitigationTechnology
 
 * [62-71% ethanol solution](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3294.md)
+
+## Property: has_MitigationPrinciple
+
+Eliminates viral particles on surfaces, reducing the risk of transmission.
 

@@ -2,16 +2,6 @@
 
 # Technology: __testing kits__ (PBN__Technology_610)
 
-## Property: has_TechnologyRisk
-
-* [Spread of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_91.md)
-* [Under-ascertainment of infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1391.md)
-* [Uncertainty in estimating reproduction number](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1394.md)
-* [Spread of COVID-19 in healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1980.md)
-* [Lack of treatment and resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2070.md)
-* [Hidden transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2133.md)
-* [Infection propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2259.md)
-
 ## Property: has_TechnologyMitigation
 
 * [Testing and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_267.md)
@@ -30,4 +20,14 @@
 ## Property: has_TechnologyID
 
 * [Q50430148](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q50430148.md)
+
+## Property: has_TechnologyRisk
+
+* [Spread of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_91.md)
+* [Under-ascertainment of infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1391.md)
+* [Uncertainty in estimating reproduction number](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1394.md)
+* [Spread of COVID-19 in healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1980.md)
+* [Lack of treatment and resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2070.md)
+* [Hidden transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2133.md)
+* [Infection propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2259.md)
 

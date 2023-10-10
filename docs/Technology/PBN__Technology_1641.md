@@ -2,11 +2,11 @@
 
 # Technology: __ai ethics boards__ (PBN__Technology_1641)
 
-## Property: has_TechnologyRisk
-
-* [Ethical concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2130.md)
-
 ## Property: has_TechnologyID
 
 * [Q59057226](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q59057226.md)
+
+## Property: has_TechnologyRisk
+
+* [Ethical concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2130.md)
 

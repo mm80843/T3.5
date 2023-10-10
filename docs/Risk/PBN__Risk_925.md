@@ -2,7 +2,7 @@
 
 # Risk: __Slow testing process__ (PBN__Risk_925)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Rapid diagnostic tests](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1282.md)
 

@@ -2,11 +2,11 @@
 
 # RiskMitigation: __Psychosocial support__ (PBN__RiskMitigation_828)
 
-## Property: has_MitigationBenefit
-
-* [Improved mental health outcomes](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_11.md)
-
 ## Property: has_MitigationRisk
 
 * [Negative emotional reactions and noncompliance with public health directives](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_591.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved mental health outcomes](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_11.md)
 

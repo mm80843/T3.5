@@ -2,7 +2,7 @@
 
 # Risk: __Inadequate cleaning policies and procedures for office spaces__ (PBN__Risk_436)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Implement improved cleaning and disinfection protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_604.md)
 

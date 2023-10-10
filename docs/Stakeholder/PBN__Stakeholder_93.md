@@ -2,11 +2,7 @@
 
 # Stakeholder: __medical staff__ (PBN__Stakeholder_93)
 
-## Property: has_OwnerRisk
-
-* [Contamination of masks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1422.md)
-
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Aerosol transmission of SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_922.md)
 * [Contamination of floor surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1420.md)
@@ -26,6 +22,10 @@
 ## Property: has_StakeholderID
 
 * [Q69948433](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q69948433.md)
+
+## Property: has_OwnerRisk
+
+* [Contamination of masks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1422.md)
 
 ## Property: has_BenefitForPeople
 

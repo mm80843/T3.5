@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Regular cleaning and disinfection of surfaces in isolation wards to remove visible contaminants
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Regular cleaning and disinfection of surfaces in isolation wards to remove visib
 ## Property: has_MitigationTechnology
 
 * [disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_413.md)
+
+## Property: has_MitigationPrinciple
+
+Regular cleaning and disinfection of surfaces in isolation wards to remove visible contaminants
 

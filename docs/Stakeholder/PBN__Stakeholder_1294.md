@@ -2,13 +2,8 @@
 
 # Stakeholder: __vaccine manufacturers__ (PBN__Stakeholder_1294)
 
-## Property: has_OwnerRisk
-
-* [Inadequate vaccine efficacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1911.md)
-
 ## Property: has_StakeholderSubgroup
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_7.md)
 
 ## Property: has_StakeholderID
 
@@ -17,4 +12,8 @@
 ## Property: has_StakeholderGroup
 
 * [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
+
+## Property: has_OwnerRisk
+
+* [Inadequate vaccine efficacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1911.md)
 

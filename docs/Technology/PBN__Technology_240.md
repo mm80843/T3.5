@@ -6,13 +6,13 @@
 
 * [Complex wastewater matrix as a challenge for biosensor detection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1153.md)
 
-## Property: has_TechnologyID
-
-* [Q1172378](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1172378.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Mass Production Techniques](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_188.md)
+
+## Property: has_TechnologyID
+
+* [Q1172378](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1172378.md)
 
 ## Property: has_StakeholderGroup
 

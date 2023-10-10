@@ -8,13 +8,13 @@
 * [Online information trust](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1613.md)
 * [Misinformation on COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2382.md)
 
-## Property: has_TechnologyID
-
-* [Q1507246](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1507246.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Educational and Training Resources](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_39.md)
+
+## Property: has_TechnologyID
+
+* [Q1507246](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1507246.md)
 
 ## Property: has_StakeholderGroup
 

@@ -6,13 +6,13 @@
 
 * [Spread through Air Travel](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1441.md)
 
-## Property: has_TechnologyID
-
-* [Q909741](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q909741.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Contact Tracing and Control](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_69.md)
+
+## Property: has_TechnologyID
+
+* [Q909741](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q909741.md)
 
 ## Property: has_StakeholderGroup
 

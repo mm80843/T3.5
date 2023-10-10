@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Collaborate with other research groups and adopt convergence research approaches to generate new insights and improve research practice
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Collaborate with other research groups and adopt convergence research approaches
 ## Property: has_MitigationTechnology
 
 * [collaboration with other groups](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3375.md)
+
+## Property: has_MitigationPrinciple
+
+Collaborate with other research groups and adopt convergence research approaches to generate new insights and improve research practice
 

@@ -2,7 +2,7 @@
 
 # Risk: __Virus Transmission through hidden carriers__ (PBN__Risk_510)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Widespread testing and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_720.md)
 

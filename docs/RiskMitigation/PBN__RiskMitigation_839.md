@@ -2,14 +2,14 @@
 
 # RiskMitigation: __Optimal occupant distribution__ (PBN__RiskMitigation_839)
 
-## Property: has_MitigationBenefit
-
-* [Reduced infection risk, fewer infected people](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_842.md)
-* [Enhanced thermal comfort](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_843.md)
-
 ## Property: has_MitigationRisk
 
 * [High population density increases virus transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_604.md)
 * [Increased physical contact between occupants increases virus transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_605.md)
 * [Improved thermal comfort of occupants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_606.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduced infection risk, fewer infected people](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_842.md)
+* [Enhanced thermal comfort](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_843.md)
 

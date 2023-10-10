@@ -6,10 +6,6 @@
 
 * [Mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_611.md)
 
-## Property: has_MitigationPrinciple
-
-Provide outdoor spaces for residents to use and socialize within social distancing rules
-
 ## Property: has_MitigationSource
 
 * [tokazhanov_assessment_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_51.md)
@@ -19,4 +15,8 @@ Provide outdoor spaces for residents to use and socialize within social distanci
 * [roof spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1738.md)
 * [open spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2990.md)
 * [private balcony](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4245.md)
+
+## Property: has_MitigationPrinciple
+
+Provide outdoor spaces for residents to use and socialize within social distancing rules
 

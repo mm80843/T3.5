@@ -6,10 +6,6 @@
 
 * [Controlling human circulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2555.md)
 
-## Property: has_MitigationPrinciple
-
-Restricting access to public places by closing secondary access points or designated areas, while maintaining visible and easily manageable primary access nodes
-
 ## Property: has_MitigationSource
 
 * [cheshmehzangi_10_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_63.md)
@@ -18,4 +14,8 @@ Restricting access to public places by closing secondary access points or design
 
 * [access control systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_164.md)
 * [surveillance cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_165.md)
+
+## Property: has_MitigationPrinciple
+
+Restricting access to public places by closing secondary access points or designated areas, while maintaining visible and easily manageable primary access nodes
 

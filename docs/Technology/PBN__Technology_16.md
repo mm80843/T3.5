@@ -6,13 +6,13 @@
 
 * [Inequalities in access to resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1023.md)
 
-## Property: has_TechnologyID
-
-* [Q287472](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q287472.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Data Analytics and Modeling](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_2.md)
+
+## Property: has_TechnologyID
+
+* [Q287472](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q287472.md)
 
 ## Property: has_StakeholderGroup
 

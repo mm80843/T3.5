@@ -2,11 +2,11 @@
 
 # Technology: __light shelves__ (PBN__Technology_1167)
 
-## Property: has_TechnologyRisk
-
-* [Lack of natural light](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1804.md)
-
 ## Property: has_TechnologyID
 
 * [Q45242859](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q45242859.md)
+
+## Property: has_TechnologyRisk
+
+* [Lack of natural light](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1804.md)
 

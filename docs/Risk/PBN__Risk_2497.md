@@ -2,7 +2,7 @@
 
 # Risk: __Business viability__ (PBN__Risk_2497)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Subsidizing and capital injection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_202.md)
 

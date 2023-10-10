@@ -2,7 +2,7 @@
 
 # Risk: __Uncertainty and changing demands in healthcare infrastructure__ (PBN__Risk_442)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Design flexibility](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_612.md)
 

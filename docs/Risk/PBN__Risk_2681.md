@@ -2,7 +2,7 @@
 
 # Risk: __Higher COVID-19 infection rate__ (PBN__Risk_2681)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Density reduction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_675.md)
 

@@ -2,15 +2,15 @@
 
 # Stakeholder: __wastewater worker__ (PBN__Stakeholder_2680)
 
-## Property: has_StakeholderGroup
+## Property: has_StakeholderSubgroup
 
-* [Environmental Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_13.md)
+* [Waste and Wastewater Management](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_161.md)
 
 ## Property: has_StakeholderID
 
 * [Q1391360](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1391360.md)
 
-## Property: has_StakeholderSubgroup
+## Property: has_StakeholderGroup
 
-* [Waste and Wastewater Management](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_161.md)
+* [Environmental Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_13.md)
 

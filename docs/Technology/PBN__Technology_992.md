@@ -6,13 +6,13 @@
 
 * [Health Risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_83.md)
 
-## Property: has_TechnologyID
-
-* [Q191618](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q191618.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Physical Health Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_59.md)
+
+## Property: has_TechnologyID
+
+* [Q191618](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q191618.md)
 
 ## Property: has_StakeholderGroup
 

@@ -6,10 +6,6 @@
 
 * [Limited access to spatial data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2989.md)
 
-## Property: has_MitigationPrinciple
-
-Track and map the spread of COVID-19 to inform decision-making and interventions
-
 ## Property: has_MitigationSource
 
 * [mbunge_critical_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_91.md)
@@ -19,4 +15,8 @@ Track and map the spread of COVID-19 to inform decision-making and interventions
 * [big data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_276.md)
 * [gps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3000.md)
 * [gis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3765.md)
+
+## Property: has_MitigationPrinciple
+
+Track and map the spread of COVID-19 to inform decision-making and interventions
 

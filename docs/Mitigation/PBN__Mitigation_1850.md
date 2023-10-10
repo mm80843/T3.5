@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Incorporating social distancing principles in workplace design and process reengineering to minimize close contact and reduce the risk of transmission in workplaces.
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Incorporating social distancing principles in workplace design and process reeng
 ## Property: has_MitigationTechnology
 
 * [workplace design guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4106.md)
+
+## Property: has_MitigationPrinciple
+
+Incorporating social distancing principles in workplace design and process reengineering to minimize close contact and reduce the risk of transmission in workplaces.
 

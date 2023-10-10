@@ -2,16 +2,15 @@
 
 # Stakeholder: __merchant__ (PBN__Stakeholder_1991)
 
-## Property: has_StakeholderGroup
+## Property: has_StakeholderSubgroup
 
-* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
 
 ## Property: has_StakeholderID
 
 * [Q16577973](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q16577973.md)
 * [Q215536](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q215536.md)
 
-## Property: has_StakeholderSubgroup
+## Property: has_StakeholderGroup
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_7.md)
+* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
 

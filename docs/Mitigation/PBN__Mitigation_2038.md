@@ -6,10 +6,6 @@
 
 * [Disease transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_489.md)
 
-## Property: has_MitigationPrinciple
-
-Trace and monitor close contacts of confirmed COVID-19 cases
-
 ## Property: has_MitigationSource
 
 * [sunandar_preventing_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_102.md)
@@ -18,4 +14,8 @@ Trace and monitor close contacts of confirmed COVID-19 cases
 
 * [interviews](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_901.md)
 * [cctv footage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4203.md)
+
+## Property: has_MitigationPrinciple
+
+Trace and monitor close contacts of confirmed COVID-19 cases
 

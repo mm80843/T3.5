@@ -2,7 +2,7 @@
 
 # Risk: __Infectious diseases__ (PBN__Risk_711)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Vaccines development](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_984.md)
 * [Hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_985.md)

@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Chlorine dioxide disinfection is a technology that uses chlorine dioxide to disinfect hospital wastewater. Chlorine dioxide has a high oxidizing capacity and can kill bacteria, viruses, and other microorganisms.
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Chlorine dioxide disinfection is a technology that uses chlorine dioxide to disi
 ## Property: has_MitigationTechnology
 
 * [chlorine dioxide](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1906.md)
+
+## Property: has_MitigationPrinciple
+
+Chlorine dioxide disinfection is a technology that uses chlorine dioxide to disinfect hospital wastewater. Chlorine dioxide has a high oxidizing capacity and can kill bacteria, viruses, and other microorganisms.
 

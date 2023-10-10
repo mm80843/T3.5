@@ -6,15 +6,15 @@
 
 Enables remote onboarding and training of new staff members
 
-## Property: has_Beneficiary
-
-* [new staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_295.md)
-
-## Property: has_BenefReturn
-
-* [Reduction in recruitment and induction costs](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_764.md)
-
 ## Property: has_BenefSource
 
 * [jallow_impact_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_141.md)
+
+## Description of Benefits pertaining to Beneficiaries
+
+* [Reduction in recruitment and induction costs](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_764.md)
+
+## Property: has_Beneficiary
+
+* [new staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_295.md)
 

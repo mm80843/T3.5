@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Use materials certified as low-pollutant-emitting to improve indoor air quality and reduce health risks
 
 ## Property: has_MitigationSource
 
@@ -18,4 +13,8 @@ Use materials certified as low-pollutant-emitting to improve indoor air quality 
 
 * [green building materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3858.md)
 * [low-pollutant-emitting products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3859.md)
+
+## Property: has_MitigationPrinciple
+
+Use materials certified as low-pollutant-emitting to improve indoor air quality and reduce health risks
 

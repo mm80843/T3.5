@@ -2,7 +2,7 @@
 
 # Risk: __Inadequate disinfection methods and side effects of chemical disinfectants__ (PBN__Risk_655)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Use of nanomaterials and graphene-based coatings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_919.md)
 

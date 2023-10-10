@@ -2,7 +2,7 @@
 
 # Stakeholder: __disadvantaged communities__ (PBN__Stakeholder_1143)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Lack of equitable access to healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1712.md)
 

@@ -2,11 +2,11 @@
 
 # RiskMitigation: __Improved water systems__ (PBN__RiskMitigation_153)
 
-## Property: has_MitigationBenefit
-
-* [Reduced risk of disease outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_173.md)
-
 ## Property: has_MitigationRisk
 
 * [Water contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_129.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduced risk of disease outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_173.md)
 

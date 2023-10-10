@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Isolating infected individuals in rooms with negative air pressure to prevent the spread of airborne particles from the room
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Isolating infected individuals in rooms with negative air pressure to prevent th
 ## Property: has_MitigationTechnology
 
 * [negative pressure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1746.md)
+
+## Property: has_MitigationPrinciple
+
+Isolating infected individuals in rooms with negative air pressure to prevent the spread of airborne particles from the room
 

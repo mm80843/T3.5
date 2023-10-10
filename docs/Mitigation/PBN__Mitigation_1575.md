@@ -6,10 +6,6 @@
 
 * [Overwhelmed healthcare system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1007.md)
 
-## Property: has_MitigationPrinciple
-
-Strengthening healthcare systems to handle and respond effectively to outbreaks of contagious diseases
-
 ## Property: has_MitigationSource
 
 * [panneer_health_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_144.md)
@@ -18,4 +14,8 @@ Strengthening healthcare systems to handle and respond effectively to outbreaks 
 
 * [healthcare infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3.md)
 * [resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3643.md)
+
+## Property: has_MitigationPrinciple
+
+Strengthening healthcare systems to handle and respond effectively to outbreaks of contagious diseases
 

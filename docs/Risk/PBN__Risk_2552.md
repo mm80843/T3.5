@@ -2,7 +2,7 @@
 
 # Risk: __Insufficient user uptake, navigation issues__ (PBN__Risk_2552)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_250.md)
 

@@ -5,11 +5,6 @@
 ## Property: has_MitigationRisk
 
 * [COVID-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_133.md)
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Isolate individuals who may have been exposed to the virus to prevent further spread
 
 ## Property: has_MitigationSource
 
@@ -18,5 +13,8 @@ Isolate individuals who may have been exposed to the virus to prevent further sp
 
 ## Property: has_MitigationTechnology
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
+
+## Property: has_MitigationPrinciple
+
+Isolate individuals who may have been exposed to the virus to prevent further spread
 

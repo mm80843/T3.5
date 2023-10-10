@@ -2,7 +2,7 @@
 
 # Stakeholder: __healthcare facilities)__ (PBN__Stakeholder_1037)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Poor indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_294.md)
 

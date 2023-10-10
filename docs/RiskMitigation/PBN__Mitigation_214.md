@@ -5,13 +5,8 @@
 ## Property: has_MitigationRisk
 
 * [Poor indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_294.md)
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 * [Cross-infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3012.md)
 * [Poor filtration efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3023.md)
-
-## Property: has_MitigationPrinciple
-
-High-efficiency particle filtration reduces the airborne load of infectious particles, improving indoor air quality.
 
 ## Property: has_MitigationSource
 
@@ -29,4 +24,8 @@ High-efficiency particle filtration reduces the airborne load of infectious part
 * [antimicrobial filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3773.md)
 * [nanoparticle filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3774.md)
 * [filters (merv 7 and merv 14)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3796.md)
+
+## Property: has_MitigationPrinciple
+
+High-efficiency particle filtration reduces the airborne load of infectious particles, improving indoor air quality.
 

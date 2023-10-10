@@ -6,13 +6,13 @@
 
 * [Loss of monitoring and research activities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2175.md)
 
-## Property: has_TechnologyID
-
-* [Q11900959](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q11900959.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Educational and Training Resources](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_39.md)
+
+## Property: has_TechnologyID
+
+* [Q11900959](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q11900959.md)
 
 ## Property: has_StakeholderGroup
 

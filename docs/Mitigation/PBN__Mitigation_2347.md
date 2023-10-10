@@ -6,10 +6,6 @@
 
 * [Privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_47.md)
 
-## Property: has_MitigationPrinciple
-
-Tracking and analyzing movement patterns during major events or gatherings to better understand crowd behavior and plan accordingly for improved safety measures.
-
 ## Property: has_MitigationSource
 
 * [webb_smart_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_294.md)
@@ -18,4 +14,8 @@ Tracking and analyzing movement patterns during major events or gatherings to be
 
 * [gps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3000.md)
 * [event data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4424.md)
+
+## Property: has_MitigationPrinciple
+
+Tracking and analyzing movement patterns during major events or gatherings to better understand crowd behavior and plan accordingly for improved safety measures.
 

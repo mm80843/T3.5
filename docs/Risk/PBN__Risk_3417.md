@@ -2,7 +2,7 @@
 
 # Risk: __Questionable__ (PBN__Risk_3417)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Full data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2337.md)
 * [Publishing registered reports](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2338.md)

@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Eliminate pathogens in the environment
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Eliminate pathogens in the environment
 ## Property: has_MitigationTechnology
 
 * [uv-c light technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1649.md)
+
+## Property: has_MitigationPrinciple
+
+Eliminate pathogens in the environment
 

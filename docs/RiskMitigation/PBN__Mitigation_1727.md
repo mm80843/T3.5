@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Encouraging individuals to seek information from trustworthy sources to avoid misinformation and reduce anxiety
 
 ## Property: has_MitigationSource
 
@@ -18,4 +13,8 @@ Encouraging individuals to seek information from trustworthy sources to avoid mi
 
 * [official health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4032.md)
 * [government agencies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4033.md)
+
+## Property: has_MitigationPrinciple
+
+Encouraging individuals to seek information from trustworthy sources to avoid misinformation and reduce anxiety
 

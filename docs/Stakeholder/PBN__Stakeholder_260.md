@@ -2,11 +2,11 @@
 
 # Stakeholder: __unemployed workers__ (PBN__Stakeholder_260)
 
+## Risk affecting this stakeholder
+
+* [Jobless recovery](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2013.md)
+
 ## Property: has_BenefitForPeople
 
 * [Improved labour market outcomes](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_632.md)
-
-## Property: has_SubjectRisk
-
-* [Jobless recovery](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2013.md)
 

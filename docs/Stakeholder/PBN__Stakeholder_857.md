@@ -2,7 +2,7 @@
 
 # Stakeholder: __men in south africa__ (PBN__Stakeholder_857)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [High HIV prevalence in men](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1346.md)
 

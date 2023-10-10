@@ -6,10 +6,6 @@
 
 * [Sample transfer](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3454.md)
 
-## Property: has_MitigationPrinciple
-
-Safe and efficient transport of samples and delivery of medicines
-
 ## Property: has_MitigationSource
 
 * [yang_combating_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_23.md)
@@ -18,4 +14,8 @@ Safe and efficient transport of samples and delivery of medicines
 
 * [drones](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_864.md)
 * [ground vehicles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4493.md)
+
+## Property: has_MitigationPrinciple
+
+Safe and efficient transport of samples and delivery of medicines
 

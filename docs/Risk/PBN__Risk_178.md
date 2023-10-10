@@ -2,7 +2,7 @@
 
 # Risk: __PVP5: Virus propagation__ (PBN__Risk_178)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Natural light](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_218.md)
 

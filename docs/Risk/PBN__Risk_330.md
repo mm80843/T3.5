@@ -2,7 +2,7 @@
 
 # Risk: __Uncontrolled SARS-CoV-2 transmission__ (PBN__Risk_330)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Lockdown](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_427.md)
 * [Isolate and Test with School Closure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_425.md)

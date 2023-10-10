@@ -2,7 +2,7 @@
 
 # Risk: __Compliance with regulatory changes__ (PBN__Risk_505)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Monitoring regulatory environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_715.md)
 

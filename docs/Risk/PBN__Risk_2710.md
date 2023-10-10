@@ -2,7 +2,7 @@
 
 # Risk: __Increased cost and workload__ (PBN__Risk_2710)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Facility Management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_747.md)
 

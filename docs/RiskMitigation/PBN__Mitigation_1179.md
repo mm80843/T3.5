@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Enables real-time tracking of infected individuals within a specific area, aiding in targeted interventions and resource allocation.
 
 ## Property: has_MitigationSource
 
@@ -18,4 +13,8 @@ Enables real-time tracking of infected individuals within a specific area, aidin
 
 * [iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_96.md)
 * [gps technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3164.md)
+
+## Property: has_MitigationPrinciple
+
+Enables real-time tracking of infected individuals within a specific area, aiding in targeted interventions and resource allocation.
 

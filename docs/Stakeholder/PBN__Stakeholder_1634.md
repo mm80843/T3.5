@@ -2,15 +2,15 @@
 
 # Stakeholder: __education department__ (PBN__Stakeholder_1634)
 
-## Property: has_StakeholderGroup
+## Property: has_StakeholderSubgroup
 
-* [Education](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_1.md)
+* [Educational Authorities and Departments](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_13.md)
 
 ## Property: has_StakeholderID
 
 * [Q98091106](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q98091106.md)
 
-## Property: has_StakeholderSubgroup
+## Property: has_StakeholderGroup
 
-* [Educational Authorities and Departments](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_13.md)
+* [Education](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_1.md)
 

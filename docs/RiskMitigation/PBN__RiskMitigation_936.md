@@ -2,11 +2,11 @@
 
 # RiskMitigation: __Workplace redesign__ (PBN__RiskMitigation_936)
 
-## Property: has_MitigationBenefit
-
-* [Increased workplace efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_946.md)
-
 ## Property: has_MitigationRisk
 
 * [COVID-19 spread in the workplace](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_675.md)
+
+## Property: has_MitigationBenefit
+
+* [Increased workplace efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_946.md)
 

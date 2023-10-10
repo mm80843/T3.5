@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Installing temporary floor panels to create softer floor surfaces for educational spaces.
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Installing temporary floor panels to create softer floor surfaces for educationa
 ## Property: has_MitigationTechnology
 
 * [tempfloor panels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4170.md)
+
+## Property: has_MitigationPrinciple
+
+Installing temporary floor panels to create softer floor surfaces for educational spaces.
 

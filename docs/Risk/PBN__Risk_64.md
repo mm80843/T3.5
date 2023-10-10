@@ -2,7 +2,7 @@
 
 # Risk: __Unintended urban biodiversity__ (PBN__Risk_64)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Increase biodiversity of urban environments](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_76.md)
 

@@ -2,7 +2,7 @@
 
 # Risk: __Crowding during funerals__ (PBN__Risk_2646)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [New guidelines for funerals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_597.md)
 

@@ -6,7 +6,7 @@
 
 * [Tenants](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_65.md)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Inadequate window views](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_951.md)
 * [Limited space in apartments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1672.md)
@@ -26,6 +26,11 @@
 
 * [Q188507](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q188507.md)
 
+## Property: has_StakeholderGroup
+
+* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
+* [Housing And Property](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_10.md)
+
 ## Property: has_BenefitForPeople
 
 * [Reduced risk of virus transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_177.md)
@@ -33,9 +38,4 @@
 * [Improved thermal comfort and energy efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_888.md)
 * [Improved mental and physical health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_889.md)
 * [Improved hygiene and cleanliness](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_890.md)
-
-## Property: has_StakeholderGroup
-
-* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
-* [Housing And Property](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_10.md)
 

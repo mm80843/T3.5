@@ -4,7 +4,10 @@
 
 ## Property: has_StakeholderSubgroup
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_7.md)
+
+## Property: has_StakeholderGroup
+
+* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
 
 ## Property: has_BenefitForPeople
 
@@ -13,8 +16,4 @@
 * [Harmonized messaging](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1411.md)
 * [Increased signal-to-noise ratio](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1412.md)
 * [Improved treatment guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1413.md)
-
-## Property: has_StakeholderGroup
-
-* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
 

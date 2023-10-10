@@ -2,7 +2,7 @@
 
 # Risk: __Social media use during COVID-19 affects decision-makers’ decisions__ (PBN__Risk_651)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Two-way dialogue between decision-makers and the public on social media](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_911.md)
 

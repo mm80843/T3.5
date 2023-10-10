@@ -6,10 +6,6 @@
 
 * [Lack of capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3240.md)
 
-## Property: has_MitigationPrinciple
-
-Enacting coordinated vector control efforts at the community level to mitigate the risk of mosquito-borne disease outbreaks
-
 ## Property: has_MitigationSource
 
 * [roosa_general_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_217.md)
@@ -17,4 +13,8 @@ Enacting coordinated vector control efforts at the community level to mitigate t
 ## Property: has_MitigationTechnology
 
 * [mosquito control operations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4049.md)
+
+## Property: has_MitigationPrinciple
+
+Enacting coordinated vector control efforts at the community level to mitigate the risk of mosquito-borne disease outbreaks
 

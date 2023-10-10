@@ -2,7 +2,7 @@
 
 # Risk: __Lack of environmental management and green infrastructure__ (PBN__Risk_946)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Implement green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1315.md)
 

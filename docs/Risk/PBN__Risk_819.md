@@ -2,7 +2,7 @@
 
 # Risk: __Classical format of research funding__ (PBN__Risk_819)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Alternative funding formats](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1125.md)
 

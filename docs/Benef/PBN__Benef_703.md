@@ -6,15 +6,15 @@
 
 Same results as doing nothing
 
-## Property: has_Beneficiary
-
-* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
-
-## Property: has_BenefReturn
-
-* [Ineffective in controlling the spread](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_750.md)
-
 ## Property: has_BenefSource
 
 * [silva_covid-abs_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_139.md)
+
+## Description of Benefits pertaining to Beneficiaries
+
+* [Ineffective in controlling the spread](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_750.md)
+
+## Property: has_Beneficiary
+
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
 

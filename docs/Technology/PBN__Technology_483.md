@@ -2,11 +2,11 @@
 
 # Technology: __employee training__ (PBN__Technology_483)
 
-## Property: has_TechnologyRisk
-
-* [Ineffective administrative controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1323.md)
-
 ## Property: has_TechnologyID
 
 * [Q828748](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q828748.md)
+
+## Property: has_TechnologyRisk
+
+* [Ineffective administrative controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1323.md)
 

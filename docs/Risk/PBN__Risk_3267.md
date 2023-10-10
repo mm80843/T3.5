@@ -2,7 +2,7 @@
 
 # Risk: __Habitat encroachment__ (PBN__Risk_3267)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Land-use Planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1859.md)
 

@@ -2,7 +2,7 @@
 
 # Risk: __Mental and physical health__ (PBN__Risk_2460)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Increased Outdoor Spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_142.md)
 

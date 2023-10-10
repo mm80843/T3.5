@@ -2,7 +2,7 @@
 
 # Risk: __Computational expensive optimization__ (PBN__Risk_94)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Simulation-based people flow modeling](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_116.md)
 

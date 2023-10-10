@@ -6,10 +6,6 @@
 
 * [High population density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_620.md)
 
-## Property: has_MitigationPrinciple
-
-Creating medium density environments that balance population density and built density to minimize virus transmission
-
 ## Property: has_MitigationSource
 
 * [kumar_role_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_140.md)
@@ -18,4 +14,8 @@ Creating medium density environments that balance population density and built d
 
 * [urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_922.md)
 * [architectural design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3564.md)
+
+## Property: has_MitigationPrinciple
+
+Creating medium density environments that balance population density and built density to minimize virus transmission
 

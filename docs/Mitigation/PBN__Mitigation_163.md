@@ -6,10 +6,6 @@
 
 * [Incomplete Detection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2470.md)
 
-## Property: has_MitigationPrinciple
-
-Combination of self-reported symptoms and smartwatch data to detect COVID-19 cases
-
 ## Property: has_MitigationSource
 
 * [ates_wearable_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_296.md)
@@ -18,4 +14,8 @@ Combination of self-reported symptoms and smartwatch data to detect COVID-19 cas
 
 * [self-reported symptoms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3016.md)
 * [smartwatch data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3017.md)
+
+## Property: has_MitigationPrinciple
+
+Combination of self-reported symptoms and smartwatch data to detect COVID-19 cases
 

@@ -2,7 +2,7 @@
 
 # Risk: __Airborne transmission of respiratory animal viral aerosols__ (PBN__Risk_337)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [UV air disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_448.md)
 

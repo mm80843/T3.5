@@ -2,7 +2,7 @@
 
 # Risk: __Virus transmission in the built environment__ (PBN__Risk_89)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Multi-agent occupancy simulation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_106.md)
 

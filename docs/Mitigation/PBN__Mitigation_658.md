@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Include additional measures that may gain relevance in the context of the pandemic to enhance validity and commensurability
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Include additional measures that may gain relevance in the context of the pandem
 ## Property: has_MitigationTechnology
 
 * [standardized approaches](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3374.md)
+
+## Property: has_MitigationPrinciple
+
+Include additional measures that may gain relevance in the context of the pandemic to enhance validity and commensurability
 

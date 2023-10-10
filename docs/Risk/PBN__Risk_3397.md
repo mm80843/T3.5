@@ -2,7 +2,7 @@
 
 # Risk: __Increased water consumption__ (PBN__Risk_3397)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Water-efficient appliances](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2234.md)
 

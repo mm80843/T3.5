@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Using mobile applications to track and trace contacts, provide health information, and facilitate self-assessment for COVID-19 symptoms
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Using mobile applications to track and trace contacts, provide health informatio
 ## Property: has_MitigationTechnology
 
 * [mobile technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2902.md)
+
+## Property: has_MitigationPrinciple
+
+Using mobile applications to track and trace contacts, provide health information, and facilitate self-assessment for COVID-19 symptoms
 

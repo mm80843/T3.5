@@ -2,7 +2,7 @@
 
 # Risk: __Labour shortages, low productivity__ (PBN__Risk_2598)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Offsite construction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_504.md)
 

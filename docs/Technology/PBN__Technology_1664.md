@@ -2,11 +2,11 @@
 
 # Technology: __enhanced cleaning and disinfecting protocols__ (PBN__Technology_1664)
 
-## Property: has_TechnologyRisk
-
-* [Contamination of shared spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2147.md)
-
 ## Property: has_TechnologyID
 
 * [Q24887418](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q24887418.md)
+
+## Property: has_TechnologyRisk
+
+* [Contamination of shared spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2147.md)
 

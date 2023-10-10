@@ -2,7 +2,6 @@
 
 # Risk: __Increased residential energy consumption during the COVID-19 pandemic__ (PBN__Risk_369)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_123.md)
 

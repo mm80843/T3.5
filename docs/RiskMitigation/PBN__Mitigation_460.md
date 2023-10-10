@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Reduce the number of people entering the building, minimizing the risk of transmission from visitors.
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Reduce the number of people entering the building, minimizing the risk of transm
 ## Property: has_MitigationTechnology
 
 * [access control systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_164.md)
+
+## Property: has_MitigationPrinciple
+
+Reduce the number of people entering the building, minimizing the risk of transmission from visitors.
 

@@ -10,14 +10,14 @@
 * [Survival of the virus outside the host](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1249.md)
 * [Contagious Spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1878.md)
 
-## Property: has_TechnologyID
-
-* [Q24887418](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q24887418.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Disinfection and Cleaning Techniques](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_15.md)
 * [Disinfection and Cleaning Protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_73.md)
+
+## Property: has_TechnologyID
+
+* [Q24887418](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q24887418.md)
 
 ## Property: has_StakeholderGroup
 

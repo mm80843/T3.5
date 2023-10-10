@@ -2,7 +2,7 @@
 
 # Risk: __Increased risk__ (PBN__Risk_2956)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Compact design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1159.md)
 * [Decentralization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1160.md)

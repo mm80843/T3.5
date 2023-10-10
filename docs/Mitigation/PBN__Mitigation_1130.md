@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Simulating people behaviors and flow in buildings to improve occupancy estimation accuracy.
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Simulating people behaviors and flow in buildings to improve occupancy estimatio
 ## Property: has_MitigationTechnology
 
 * [anylogic](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3680.md)
+
+## Property: has_MitigationPrinciple
+
+Simulating people behaviors and flow in buildings to improve occupancy estimation accuracy.
 

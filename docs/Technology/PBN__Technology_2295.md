@@ -2,15 +2,14 @@
 
 # Technology: __Access to testing facilities__ (PBN__Technology_2295)
 
-## Property: has_StakeholderGroup
-
-* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_3.md)
-
 ## Property: has_StakeholderSubgroup
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_7.md)
 
 ## Property: has_TechnologyID
 
 * [Q2115486](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2115486.md)
+
+## Property: has_StakeholderGroup
+
+* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_3.md)
 

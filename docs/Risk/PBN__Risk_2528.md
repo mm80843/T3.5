@@ -2,7 +2,7 @@
 
 # Risk: __COVID-19 infection__ (PBN__Risk_2528)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Vaccination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_245.md)
 

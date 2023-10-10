@@ -2,7 +2,7 @@
 
 # Risk: __Inadequate maintenance and operation of HVAC systems and components__ (PBN__Risk_3066)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Regular inspection and maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1428.md)
 

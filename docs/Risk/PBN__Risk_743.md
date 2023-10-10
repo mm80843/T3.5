@@ -2,7 +2,7 @@
 
 # Risk: __Incomplete knowledge and research gaps__ (PBN__Risk_743)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [International coordination and collaboration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1025.md)
 

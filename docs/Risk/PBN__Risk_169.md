@@ -2,7 +2,7 @@
 
 # Risk: __Lack of access to greenspace__ (PBN__Risk_169)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Increase greenspace availability](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_209.md)
 

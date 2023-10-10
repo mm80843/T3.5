@@ -2,7 +2,7 @@
 
 # Risk: __Emerging infectious pathogens__ (PBN__Risk_3444)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Broad-spectrum antiviral drugs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2401.md)
 

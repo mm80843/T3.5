@@ -5,7 +5,6 @@
 ## Property: has_MitigationRisk
 
 * [COVID-19 spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_63.md)
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 * [Fomite transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_609.md)
 * [Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_974.md)
 * [Contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1882.md)
@@ -17,10 +16,6 @@
 * [Transmission of pathogens through touch](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2713.md)
 * [Contagious disease propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2915.md)
 * [Potential medium of transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3120.md)
-
-## Property: has_MitigationPrinciple
-
-Regular handwashing with soap and water or the use of hand sanitizers reduces the risk of transmission through contaminated hands.
 
 ## Property: has_MitigationSource
 
@@ -43,10 +38,13 @@ Regular handwashing with soap and water or the use of hand sanitizers reduces th
 
 ## Property: has_MitigationTechnology
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 * [hand sanitizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_412.md)
 * [soap and water](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3064.md)
 * [soap](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3086.md)
 * [water](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3087.md)
 * [hand sanitizer](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3258.md)
+
+## Property: has_MitigationPrinciple
+
+Regular handwashing with soap and water or the use of hand sanitizers reduces the risk of transmission through contaminated hands.
 

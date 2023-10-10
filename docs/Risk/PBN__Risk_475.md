@@ -2,7 +2,7 @@
 
 # Risk: __Investments in improving water storage, sanitation, drainage, and housing__ (PBN__Risk_475)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Infrastructure improvements](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_665.md)
 

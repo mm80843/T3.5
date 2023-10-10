@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Neutralizes the test material and extracts infectious viruses from the test surface
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Neutralizes the test material and extracts infectious viruses from the test surf
 ## Property: has_MitigationTechnology
 
 * [letheen broth base](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3494.md)
+
+## Property: has_MitigationPrinciple
+
+Neutralizes the test material and extracts infectious viruses from the test surface
 

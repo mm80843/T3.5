@@ -2,7 +2,7 @@
 
 # Risk: __Delays due to lack of materials__ (PBN__Risk_2846)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Resume material supply chain](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_988.md)
 

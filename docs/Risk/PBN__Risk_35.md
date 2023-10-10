@@ -2,7 +2,7 @@
 
 # Risk: __Psychological impact of fear and anxiety__ (PBN__Risk_35)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Implement community-based strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_50.md)
 * [Targeted, tailored messages](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_51.md)

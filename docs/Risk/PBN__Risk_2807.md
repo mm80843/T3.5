@@ -2,7 +2,7 @@
 
 # Risk: __Cash flow issues and financial instability__ (PBN__Risk_2807)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Short-term cash flow management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_904.md)
 

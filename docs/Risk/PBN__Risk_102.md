@@ -2,7 +2,7 @@
 
 # Risk: __Negative economic effects (unemployment, inequity, poverty)__ (PBN__Risk_102)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Implementation of NPIs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_119.md)
 

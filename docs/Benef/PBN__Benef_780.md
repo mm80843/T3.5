@@ -6,17 +6,17 @@
 
 Greater financial resources for countries in economic crisis, reduced economic disparities among Member States
 
+## Property: has_BenefSource
+
+* [klein_borders_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_156.md)
+
+## Description of Benefits pertaining to Beneficiaries
+
+* [Economic recovery, increased stability, reduced risk of economic collapse](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_849.md)
+
 ## Property: has_Beneficiary
 
 * [individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_20.md)
 * [businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_147.md)
 * [member states](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_315.md)
-
-## Property: has_BenefReturn
-
-* [Economic recovery, increased stability, reduced risk of economic collapse](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_849.md)
-
-## Property: has_BenefSource
-
-* [klein_borders_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_156.md)
 

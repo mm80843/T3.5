@@ -2,15 +2,15 @@
 
 # Stakeholder: __hospital patient__ (PBN__Stakeholder_1877)
 
-## Property: has_StakeholderGroup
+## Property: has_StakeholderSubgroup
 
-* [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
+* [Hospital Patients](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_53.md)
 
 ## Property: has_StakeholderID
 
 * [Q181600](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q181600.md)
 
-## Property: has_StakeholderSubgroup
+## Property: has_StakeholderGroup
 
-* [Hospital Patients](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_53.md)
+* [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
 

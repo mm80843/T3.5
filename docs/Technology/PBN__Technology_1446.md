@@ -2,11 +2,11 @@
 
 # Technology: __telehealth platforms and software for virtual therapy and counseling__ (PBN__Technology_1446)
 
-## Property: has_TechnologyRisk
-
-* [Lack of access to mental health services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1993.md)
-
 ## Property: has_TechnologyID
 
 * [Q2549364](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2549364.md)
+
+## Property: has_TechnologyRisk
+
+* [Lack of access to mental health services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1993.md)
 

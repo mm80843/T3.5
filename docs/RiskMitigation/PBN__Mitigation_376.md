@@ -7,10 +7,6 @@
 * [Controlling humidity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2546.md)
 * [Inappropriate humidity levels in indoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3063.md)
 
-## Property: has_MitigationPrinciple
-
-Controlling the humidity levels in indoor spaces to reduce the survival and transmission of the virus
-
 ## Property: has_MitigationSource
 
 * [nembhard_ventilation_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_104.md)
@@ -21,4 +17,8 @@ Controlling the humidity levels in indoor spaces to reduce the survival and tran
 * [hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_185.md)
 * [humidifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_925.md)
 * [humidifier](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3191.md)
+
+## Property: has_MitigationPrinciple
+
+Controlling the humidity levels in indoor spaces to reduce the survival and transmission of the virus
 

@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Lightweight blockchain designs can optimize data verification and transaction communication in healthcare, enhancing blockchain performance.
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Lightweight blockchain designs can optimize data verification and transaction co
 ## Property: has_MitigationTechnology
 
 * [blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_211.md)
+
+## Property: has_MitigationPrinciple
+
+Lightweight blockchain designs can optimize data verification and transaction communication in healthcare, enhancing blockchain performance.
 

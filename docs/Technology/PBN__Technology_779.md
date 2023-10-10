@@ -6,13 +6,13 @@
 
 * [Late adoption of NPHIs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1504.md)
 
-## Property: has_TechnologyID
-
-* [Q7300787](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7300787.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Data Collection and Analysis](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_162.md)
+
+## Property: has_TechnologyID
+
+* [Q7300787](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7300787.md)
 
 ## Property: has_StakeholderGroup
 

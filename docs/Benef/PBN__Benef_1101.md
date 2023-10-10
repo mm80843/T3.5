@@ -6,16 +6,16 @@
 
 Increasing the number of medical staff and hospitals can improve healthcare services and capacity, allowing for better management of COVID-19 cases and reducing the strain on healthcare systems.
 
+## Property: has_BenefSource
+
+* [mecenas_effects_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_228.md)
+
+## Description of Benefits pertaining to Beneficiaries
+
+* [Private investors investing in healthcare infrastructure can benefit from improved healthcare services, increased demand for medical facilities, and potential financial returns from healthcare operations.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1231.md)
+
 ## Property: has_Beneficiary
 
 * [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
 * [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
-
-## Property: has_BenefReturn
-
-* [Private investors investing in healthcare infrastructure can benefit from improved healthcare services, increased demand for medical facilities, and potential financial returns from healthcare operations.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1231.md)
-
-## Property: has_BenefSource
-
-* [mecenas_effects_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_228.md)
 

@@ -6,10 +6,6 @@
 
 * [Difficulties in collaboration and communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2802.md)
 
-## Property: has_MitigationPrinciple
-
-Facilitates remote collaboration and communication between team members
-
 ## Property: has_MitigationSource
 
 * [jallow_impact_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_141.md)
@@ -17,4 +13,8 @@ Facilitates remote collaboration and communication between team members
 ## Property: has_MitigationTechnology
 
 * [digital tools and technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3528.md)
+
+## Property: has_MitigationPrinciple
+
+Facilitates remote collaboration and communication between team members
 

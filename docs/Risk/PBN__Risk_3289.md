@@ -2,7 +2,7 @@
 
 # Risk: __Data Accuracy__ (PBN__Risk_3289)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Predictive Analytics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1931.md)
 * [Innovative Solution Identification](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1934.md)

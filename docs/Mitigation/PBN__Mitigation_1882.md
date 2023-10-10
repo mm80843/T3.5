@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Blockchain technology can track the movement of healthcare instruments, ensuring safe and secure transfers between locations.
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Blockchain technology can track the movement of healthcare instruments, ensuring
 ## Property: has_MitigationTechnology
 
 * [blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_211.md)
+
+## Property: has_MitigationPrinciple
+
+Blockchain technology can track the movement of healthcare instruments, ensuring safe and secure transfers between locations.
 

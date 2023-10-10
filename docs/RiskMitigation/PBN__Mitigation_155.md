@@ -6,10 +6,6 @@
 
 * [Lack of expertise](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2468.md)
 
-## Property: has_MitigationPrinciple
-
-Creating a dynamic and efficient healthcare system by integrating various digital transformation technologies, improving efficiency and effectiveness of diagnosis, treatment, and prevention processes
-
 ## Property: has_MitigationSource
 
 * [arpaci_leveraging_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_297.md)
@@ -22,4 +18,8 @@ Creating a dynamic and efficient healthcare system by integrating various digita
 * [cloud computing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1232.md)
 * [mobile computing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2998.md)
 * [robots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3001.md)
+
+## Property: has_MitigationPrinciple
+
+Creating a dynamic and efficient healthcare system by integrating various digital transformation technologies, improving efficiency and effectiveness of diagnosis, treatment, and prevention processes
 

@@ -6,13 +6,13 @@
 
 * [Inefficient navigation routes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1238.md)
 
-## Property: has_TechnologyID
-
-* [Q350882](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q350882.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Resource and Project Management Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_4.md)
+
+## Property: has_TechnologyID
+
+* [Q350882](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q350882.md)
 
 ## Property: has_StakeholderGroup
 

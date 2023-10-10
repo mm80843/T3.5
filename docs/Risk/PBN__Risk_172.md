@@ -2,7 +2,7 @@
 
 # Risk: __Exposure to greenspace and physical activity__ (PBN__Risk_172)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Promote physical activity in greenspaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_212.md)
 

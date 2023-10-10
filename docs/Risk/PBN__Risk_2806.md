@@ -2,7 +2,7 @@
 
 # Risk: __Lack of effective crisis management__ (PBN__Risk_2806)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Crisis response leadership programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_902.md)
 

@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Governments can calibrate stockpiles of essential goods to ensure resilience against supply shocks, balancing the costs and benefits of maintaining these stockpiles.
 
 ## Property: has_MitigationSource
 
@@ -16,5 +11,8 @@ Governments can calibrate stockpiles of essential goods to ensure resilience aga
 
 ## Property: has_MitigationTechnology
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
+
+## Property: has_MitigationPrinciple
+
+Governments can calibrate stockpiles of essential goods to ensure resilience against supply shocks, balancing the costs and benefits of maintaining these stockpiles.
 

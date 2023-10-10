@@ -2,7 +2,7 @@
 
 # Risk: __Decline in tourism revenue__ (PBN__Risk_2586)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Strengthening revenue generation from tourism](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_491.md)
 

@@ -2,15 +2,14 @@
 
 # Stakeholder: __individuals in need of mental health support; individuals with pre-existing mental health conditions; marginalized communities with limited access to mental health services__ (PBN__Stakeholder_2349)
 
-## Property: has_StakeholderGroup
+## Property: has_StakeholderSubgroup
 
-* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
 
 ## Property: has_StakeholderID
 
 * [Q6817416](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6817416.md)
 
-## Property: has_StakeholderSubgroup
+## Property: has_StakeholderGroup
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_7.md)
+* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
 

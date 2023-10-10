@@ -6,13 +6,13 @@
 
 * [Increased risk of contagion in crowded UGS](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2255.md)
 
-## Property: has_TechnologyID
-
-* [Q1780543](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1780543.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Crowd Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_152.md)
+
+## Property: has_TechnologyID
+
+* [Q1780543](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1780543.md)
 
 ## Property: has_StakeholderGroup
 

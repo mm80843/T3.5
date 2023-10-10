@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Controlling humidity levels indoors can impact virus survival and transmission. Proper humidity levels can prevent excessive drying of respiratory droplets, reducing transmission potential.
 
 ## Property: has_MitigationSource
 
@@ -18,4 +13,8 @@ Controlling humidity levels indoors can impact virus survival and transmission. 
 
 * [humidifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_925.md)
 * [dehumidifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3743.md)
+
+## Property: has_MitigationPrinciple
+
+Controlling humidity levels indoors can impact virus survival and transmission. Proper humidity levels can prevent excessive drying of respiratory droplets, reducing transmission potential.
 

@@ -2,7 +2,7 @@
 
 # Risk: __Limited accessibility to green spaces during lockdowns__ (PBN__Risk_328)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Green retrofit of buildings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_423.md)
 

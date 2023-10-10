@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Installation of automatic doors in buildings to minimize the need for individuals to touch door handles, reducing the risk of contamination and transmission.
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Installation of automatic doors in buildings to minimize the need for individual
 ## Property: has_MitigationTechnology
 
 * [automatic door systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4113.md)
+
+## Property: has_MitigationPrinciple
+
+Installation of automatic doors in buildings to minimize the need for individuals to touch door handles, reducing the risk of contamination and transmission.
 

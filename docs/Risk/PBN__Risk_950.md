@@ -2,7 +2,7 @@
 
 # Risk: __Decline in urban park visitation during COVID-19__ (PBN__Risk_950)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Increase park access](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1319.md)
 

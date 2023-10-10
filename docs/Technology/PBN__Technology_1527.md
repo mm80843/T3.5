@@ -2,11 +2,11 @@
 
 # Technology: __smart controls for ventilation and airflow management__ (PBN__Technology_1527)
 
-## Property: has_TechnologyRisk
-
-* [Inadequate ventilation and airflow management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2047.md)
-
 ## Property: has_TechnologyID
 
 * [Q5255013](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5255013.md)
+
+## Property: has_TechnologyRisk
+
+* [Inadequate ventilation and airflow management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2047.md)
 

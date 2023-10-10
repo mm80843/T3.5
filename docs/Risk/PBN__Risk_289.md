@@ -2,7 +2,7 @@
 
 # Risk: __Spread of SARS-CoV-2 through wastewater__ (PBN__Risk_289)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Wastewater surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_149.md)
 * [Wastewater-based epidemiology (WBE)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_988.md)

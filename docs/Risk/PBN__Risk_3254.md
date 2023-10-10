@@ -2,7 +2,7 @@
 
 # Risk: __Mold Growth, Poor IAQ__ (PBN__Risk_3254)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Control of Moisture and Humidity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1787.md)
 

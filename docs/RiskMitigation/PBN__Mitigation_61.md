@@ -4,13 +4,8 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 * [False-positive results](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2423.md)
 * [Bias in regions without testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2718.md)
-
-## Property: has_MitigationPrinciple
-
-Monitoring the prevalence of viruses in wastewater to provide early warning of disease outbreaks and assess the efficacy of public health interventions
 
 ## Property: has_MitigationSource
 
@@ -25,4 +20,8 @@ Monitoring the prevalence of viruses in wastewater to provide early warning of d
 * [pcr assay](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3073.md)
 * [wastewater sampling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3432.md)
 * [qrt pcr testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3433.md)
+
+## Property: has_MitigationPrinciple
+
+Monitoring the prevalence of viruses in wastewater to provide early warning of disease outbreaks and assess the efficacy of public health interventions
 

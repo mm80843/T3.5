@@ -2,7 +2,7 @@
 
 # Risk: __Community transmission__ (PBN__Risk_2462)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Neighbourhood Hygiene Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_144.md)
 

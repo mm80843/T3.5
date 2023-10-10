@@ -6,16 +6,16 @@
 
 Education and awareness campaigns improve public health literacy, leading to better understanding and compliance with preventive measures, reducing the spread of contagious diseases.
 
+## Property: has_BenefSource
+
+* [lawal_covid-19_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_215.md)
+
+## Description of Benefits pertaining to Beneficiaries
+
+* [Private investors in education and communication sectors can benefit from increased demand for public health education and communication services.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1151.md)
+
 ## Property: has_Beneficiary
 
 * [communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_4.md)
 * [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
-
-## Property: has_BenefReturn
-
-* [Private investors in education and communication sectors can benefit from increased demand for public health education and communication services.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1151.md)
-
-## Property: has_BenefSource
-
-* [lawal_covid-19_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_215.md)
 

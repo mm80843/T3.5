@@ -2,11 +2,11 @@
 
 # Technology: __triage protocols__ (PBN__Technology_1120)
 
-## Property: has_TechnologyRisk
-
-* [Overburdened healthcare system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1749.md)
-
 ## Property: has_TechnologyID
 
 * [Q780067](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q780067.md)
+
+## Property: has_TechnologyRisk
+
+* [Overburdened healthcare system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1749.md)
 

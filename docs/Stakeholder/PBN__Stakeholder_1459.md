@@ -2,7 +2,7 @@
 
 # Stakeholder: __communities near wildlife habitats__ (PBN__Stakeholder_1459)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Zoonotic disease emergence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_488.md)
 

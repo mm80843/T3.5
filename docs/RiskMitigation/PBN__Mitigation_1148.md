@@ -6,10 +6,6 @@
 
 * [Mosquito-borne diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2946.md)
 
-## Property: has_MitigationPrinciple
-
-Increasing water movement and introducing aquatic predators can help control mosquito populations in urban water bodies
-
 ## Property: has_MitigationSource
 
 * [lohmus_making_2015](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_20.md)
@@ -20,4 +16,8 @@ Increasing water movement and introducing aquatic predators can help control mos
 * [waterfalls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3694.md)
 * [fountains](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3695.md)
 * [aerators](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3696.md)
+
+## Property: has_MitigationPrinciple
+
+Increasing water movement and introducing aquatic predators can help control mosquito populations in urban water bodies
 

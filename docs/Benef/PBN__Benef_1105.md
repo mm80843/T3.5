@@ -6,15 +6,15 @@
 
 Federated data analysis enables analysis of sensitive data without directly sharing individual-level information.
 
-## Property: has_Beneficiary
-
-* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
-
-## Property: has_BenefReturn
-
-* [Improved accuracy and efficiency in analyzing data, leading to more robust research outcomes.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1237.md)
-
 ## Property: has_BenefSource
 
 * [tacconelli_challenges_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_230.md)
+
+## Description of Benefits pertaining to Beneficiaries
+
+* [Improved accuracy and efficiency in analyzing data, leading to more robust research outcomes.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1237.md)
+
+## Property: has_Beneficiary
+
+* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
 

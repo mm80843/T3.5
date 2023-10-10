@@ -2,7 +2,7 @@
 
 # Risk: __Water demand__ (PBN__Risk_716)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Smart metering](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_999.md)
 

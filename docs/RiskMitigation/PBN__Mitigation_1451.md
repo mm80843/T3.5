@@ -6,10 +6,6 @@
 
 * [Economic impact on government budgets, inequitable distribution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3079.md)
 
-## Property: has_MitigationPrinciple
-
-Provide financial support to the tourism industry to mitigate losses
-
 ## Property: has_MitigationSource
 
 * [nicola_socio-economic_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_135.md)
@@ -17,4 +13,8 @@ Provide financial support to the tourism industry to mitigate losses
 ## Property: has_MitigationTechnology
 
 * [financial resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3637.md)
+
+## Property: has_MitigationPrinciple
+
+Provide financial support to the tourism industry to mitigate losses
 

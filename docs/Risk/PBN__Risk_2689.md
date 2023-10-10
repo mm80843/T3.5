@@ -2,7 +2,7 @@
 
 # Risk: __Perception of climate change measures as temporary__ (PBN__Risk_2689)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Permanent Transformations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_686.md)
 

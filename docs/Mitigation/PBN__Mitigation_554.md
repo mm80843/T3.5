@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Encourages individuals to practice proper hand hygiene, reducing the spread of pathogens.
 
 ## Property: has_MitigationSource
 
@@ -19,4 +14,8 @@ Encourages individuals to practice proper hand hygiene, reducing the spread of p
 * [signage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_230.md)
 * [soap dispensers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1023.md)
 * [alcohol-based hand sanitizer](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3300.md)
+
+## Property: has_MitigationPrinciple
+
+Encourages individuals to practice proper hand hygiene, reducing the spread of pathogens.
 

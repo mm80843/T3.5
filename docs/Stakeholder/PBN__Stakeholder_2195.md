@@ -2,15 +2,15 @@
 
 # Stakeholder: __individual with mild or asymptomatic infection__ (PBN__Stakeholder_2195)
 
-## Property: has_StakeholderGroup
+## Property: has_StakeholderSubgroup
 
-* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
+* [Individuals with Health Conditions](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_76.md)
 
 ## Property: has_StakeholderID
 
 * [Q2326546](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2326546.md)
 
-## Property: has_StakeholderSubgroup
+## Property: has_StakeholderGroup
 
-* [Individuals with Health Conditions](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_76.md)
+* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
 

@@ -2,7 +2,7 @@
 
 # Risk: __Limited ownership and citizen participation in green area management__ (PBN__Risk_947)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Facilitate citizen participation in green area management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1316.md)
 

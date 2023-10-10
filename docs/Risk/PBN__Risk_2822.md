@@ -2,7 +2,7 @@
 
 # Risk: __Decreased demand for public transportation__ (PBN__Risk_2822)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Sustainable Design and Construction of Projects](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_944.md)
 

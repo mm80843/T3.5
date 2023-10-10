@@ -6,7 +6,7 @@
 
 * [Residents](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_72.md)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Lack of community connections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1293.md)
 
@@ -14,11 +14,11 @@
 
 * [Q33829](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q33829.md)
 
-## Property: has_BenefitForPeople
-
-* [Community development](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_45.md)
-
 ## Property: has_StakeholderGroup
 
 * [Community Stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_8.md)
+
+## Property: has_BenefitForPeople
+
+* [Community development](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_45.md)
 

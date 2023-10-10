@@ -2,7 +2,7 @@
 
 # Risk: __Impact on peace, justice, and institutions__ (PBN__Risk_241)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Strengthening partnerships and collaboration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_290.md)
 

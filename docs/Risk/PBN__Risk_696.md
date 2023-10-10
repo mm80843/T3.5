@@ -2,7 +2,7 @@
 
 # Risk: __Underestimation of UGS in urban design and environmental management__ (PBN__Risk_696)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Incorporation of sustainability criteria for urban design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_962.md)
 

@@ -2,11 +2,11 @@
 
 # RiskMitigation: __Partial isolation__ (PBN__RiskMitigation_697)
 
-## Property: has_MitigationBenefit
-
-* [Partial control](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_704.md)
-
 ## Property: has_MitigationRisk
 
 * [COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_324.md)
+
+## Property: has_MitigationBenefit
+
+* [Partial control](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_704.md)
 

@@ -2,7 +2,7 @@
 
 # Risk: __Lack of credibility as a source of evidence__ (PBN__Risk_400)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Position the KT platform as a credible source](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_557.md)
 

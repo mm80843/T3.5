@@ -2,7 +2,7 @@
 
 # Risk: __Decline in tax and fee revenue__ (PBN__Risk_929)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Adequate planning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1289.md)
 

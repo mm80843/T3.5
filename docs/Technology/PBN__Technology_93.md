@@ -2,11 +2,11 @@
 
 # Technology: __vector surveillance and control technologies__ (PBN__Technology_93)
 
-## Property: has_TechnologyRisk
-
-* [Lack of surveillance and control measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1068.md)
-
 ## Property: has_TechnologyID
 
 * [Q2161551](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2161551.md)
+
+## Property: has_TechnologyRisk
+
+* [Lack of surveillance and control measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1068.md)
 

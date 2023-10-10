@@ -2,7 +2,7 @@
 
 # Risk: __Environmental degradation and social inequalities__ (PBN__Risk_15)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Direct recovery funds towards sustainable development](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_19.md)
 

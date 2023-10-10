@@ -2,7 +2,7 @@
 
 # Risk: __Disparities in economic, political, and cultural contexts__ (PBN__Risk_2690)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Tailored Policies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_687.md)
 

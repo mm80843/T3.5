@@ -2,7 +2,7 @@
 
 # Risk: __Clear communication with stakeholders__ (PBN__Risk_506)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Communication plan](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_716.md)
 

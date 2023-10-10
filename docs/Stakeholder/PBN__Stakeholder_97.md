@@ -2,20 +2,12 @@
 
 # Stakeholder: __building occupants__ (PBN__Stakeholder_97)
 
-## Property: has_OwnerRisk
-
-* [Poor Indoor Air Quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1121.md)
-* [Inadequate Thermal Comfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1122.md)
-* [Poor Lighting and Glare](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1123.md)
-* [Inadequate Acoustics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1124.md)
-* [Poor Indoor Environmental Quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1125.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Real Estate and Construction](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_31.md)
 * [Occupants](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_55.md)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Smaller and individual internal layouts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_248.md)
 * [New opportunities for non-centralized building systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_250.md)
@@ -145,6 +137,19 @@
 
 * [Q11755880](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q11755880.md)
 
+## Property: has_StakeholderGroup
+
+* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
+* [Building Occupants](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_11.md)
+
+## Property: has_OwnerRisk
+
+* [Poor Indoor Air Quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1121.md)
+* [Inadequate Thermal Comfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1122.md)
+* [Poor Lighting and Glare](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1123.md)
+* [Inadequate Acoustics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1124.md)
+* [Poor Indoor Environmental Quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1125.md)
+
 ## Property: has_BenefitForPeople
 
 * [Improved indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_169.md)
@@ -228,9 +233,4 @@
 * [Improved ventilation and air quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1407.md)
 * [Sanitation and cleanliness](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1409.md)
 * [Contactless interaction](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1410.md)
-
-## Property: has_StakeholderGroup
-
-* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
-* [Building Occupants](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_11.md)
 

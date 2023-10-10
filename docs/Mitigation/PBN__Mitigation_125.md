@@ -5,11 +5,6 @@
 ## Property: has_MitigationRisk
 
 * [Mental health harms](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3.md)
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Ensuring access to green spaces in the neighbourhood can promote mental health and well-being by providing opportunities for outdoor activities, relaxation, and connection with nature.
 
 ## Property: has_MitigationSource
 
@@ -18,7 +13,10 @@ Ensuring access to green spaces in the neighbourhood can promote mental health a
 
 ## Property: has_MitigationTechnology
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 * [green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_146.md)
 * [parks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1740.md)
+
+## Property: has_MitigationPrinciple
+
+Ensuring access to green spaces in the neighbourhood can promote mental health and well-being by providing opportunities for outdoor activities, relaxation, and connection with nature.
 

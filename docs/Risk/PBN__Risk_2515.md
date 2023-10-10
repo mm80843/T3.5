@@ -2,7 +2,7 @@
 
 # Risk: __Rent burden__ (PBN__Risk_2515)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Rental assistance programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_270.md)
 

@@ -2,7 +2,7 @@
 
 # Risk: __Poor compliance, concern over data misuse__ (PBN__Risk_2637)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Enforcing data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_574.md)
 

@@ -2,7 +2,7 @@
 
 # Stakeholder: __informal settlements__ (PBN__Stakeholder_920)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Inadequate sanitation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1416.md)
 

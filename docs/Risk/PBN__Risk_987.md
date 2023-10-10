@@ -2,7 +2,7 @@
 
 # Risk: __COVID-19 impact on construction industry__ (PBN__Risk_987)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Adoption of proper software and hardware](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1401.md)
 * [Increase in preparedness level](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1402.md)

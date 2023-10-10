@@ -6,16 +6,16 @@
 
 Optimizing occupant distribution reduces the number of infected people
 
+## Property: has_BenefSource
+
+* [mokhtari_effect_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_169.md)
+
+## Description of Benefits pertaining to Beneficiaries
+
+* [Improved public health, containment of COVID-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_916.md)
+
 ## Property: has_Beneficiary
 
 * [public health](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_58.md)
 * [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
-
-## Property: has_BenefReturn
-
-* [Improved public health, containment of COVID-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_916.md)
-
-## Property: has_BenefSource
-
-* [mokhtari_effect_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_169.md)
 

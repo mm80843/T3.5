@@ -2,7 +2,7 @@
 
 # Risk: __Economic impact, mental health issues__ (PBN__Risk_2772)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_577.md)
 

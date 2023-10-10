@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Reduces close interactions between individuals, minimizing the potential for viral transmission.
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Reduces close interactions between individuals, minimizing the potential for vir
 ## Property: has_MitigationTechnology
 
 * [building layout and design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3299.md)
+
+## Property: has_MitigationPrinciple
+
+Reduces close interactions between individuals, minimizing the potential for viral transmission.
 

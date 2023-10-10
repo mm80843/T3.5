@@ -2,7 +2,7 @@
 
 # Risk: __Airborne transmission of diseases__ (PBN__Risk_2787)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Facemasks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_881.md)
 

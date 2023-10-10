@@ -6,10 +6,6 @@
 
 * [Overwhelming Healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2538.md)
 
-## Property: has_MitigationPrinciple
-
-Setting up temporary medical facilities to increase healthcare capacity
-
 ## Property: has_MitigationSource
 
 * [cantarero_covid19-routes_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_201.md)
@@ -17,4 +13,8 @@ Setting up temporary medical facilities to increase healthcare capacity
 ## Property: has_MitigationTechnology
 
 * [medical resource management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3186.md)
+
+## Property: has_MitigationPrinciple
+
+Setting up temporary medical facilities to increase healthcare capacity
 

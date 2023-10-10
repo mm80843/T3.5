@@ -2,7 +2,7 @@
 
 # Risk: __COVID-19 pandemic__ (PBN__Risk_324)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Communication strategy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_410.md)
 * [Adaptation of tourism offerings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_411.md)

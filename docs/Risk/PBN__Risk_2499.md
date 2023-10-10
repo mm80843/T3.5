@@ -2,7 +2,7 @@
 
 # Risk: __Increased domestic violence__ (PBN__Risk_2499)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Supporting domestic violence victims](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_205.md)
 

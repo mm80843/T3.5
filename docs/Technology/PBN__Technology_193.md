@@ -6,13 +6,13 @@
 
 * [Poor Indoor Air Quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1121.md)
 
-## Property: has_TechnologyID
-
-* [Q3766250](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3766250.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Air Quality and Filtration Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_76.md)
+
+## Property: has_TechnologyID
+
+* [Q3766250](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3766250.md)
 
 ## Property: has_StakeholderGroup
 

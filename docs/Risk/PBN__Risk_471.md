@@ -2,7 +2,7 @@
 
 # Risk: __Poor surface water drainage and waste management__ (PBN__Risk_471)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Enhancing drainage systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_661.md)
 

@@ -6,10 +6,6 @@
 
 * [Inadequate maintenance and operation of HVAC systems and components](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3066.md)
 
-## Property: has_MitigationPrinciple
-
-Regular inspection and maintenance of HVAC systems ensures proper functioning and identifies any issues that may impact indoor air quality and transmission risk
-
 ## Property: has_MitigationSource
 
 * [nembhard_ventilation_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_104.md)
@@ -18,4 +14,8 @@ Regular inspection and maintenance of HVAC systems ensures proper functioning an
 
 * [qualified hvac professionals](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3871.md)
 * [industry standards and guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3872.md)
+
+## Property: has_MitigationPrinciple
+
+Regular inspection and maintenance of HVAC systems ensures proper functioning and identifies any issues that may impact indoor air quality and transmission risk
 

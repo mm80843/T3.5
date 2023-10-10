@@ -2,7 +2,7 @@
 
 # Risk: __Challenges in adopting a digital culture__ (PBN__Risk_318)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Fast-moving digital-oriented continuity plans](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_397.md)
 

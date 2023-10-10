@@ -2,11 +2,11 @@
 
 # Technology: __Public health authorities__ (PBN__Technology_2511)
 
-## Property: has_StakeholderGroup
-
-* [Enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_7.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Public Health and Safety Measures](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_52.md)
+
+## Property: has_StakeholderGroup
+
+* [Enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_7.md)
 

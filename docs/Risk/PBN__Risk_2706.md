@@ -2,7 +2,7 @@
 
 # Risk: __Survival and contamination of Baylisascaris procyonis roundworm eggs__ (PBN__Risk_2706)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Effective disinfection techniques for roundworms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_725.md)
 

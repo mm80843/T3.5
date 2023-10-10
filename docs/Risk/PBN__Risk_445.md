@@ -2,7 +2,7 @@
 
 # Risk: __Lack of communication and surveillance capabilities in makeshift hospitals__ (PBN__Risk_445)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Integration of information and technology solutions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_615.md)
 

@@ -2,7 +2,7 @@
 
 # Risk: __Pandemic modelling__ (PBN__Risk_607)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Mathematical models](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_841.md)
 

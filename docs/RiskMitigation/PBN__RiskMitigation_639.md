@@ -2,11 +2,11 @@
 
 # RiskMitigation: __Implementing precautionary measures__ (PBN__RiskMitigation_639)
 
-## Property: has_MitigationBenefit
-
-* [Compliance with regulations](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_643.md)
-
 ## Property: has_MitigationRisk
 
 * [COVID-19 propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_453.md)
+
+## Property: has_MitigationBenefit
+
+* [Compliance with regulations](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_643.md)
 

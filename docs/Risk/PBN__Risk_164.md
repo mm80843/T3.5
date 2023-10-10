@@ -2,7 +2,7 @@
 
 # Risk: __Exposure to virus at work__ (PBN__Risk_164)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Maintaining physical distance between workers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_204.md)
 

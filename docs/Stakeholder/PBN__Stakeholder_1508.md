@@ -2,7 +2,7 @@
 
 # Stakeholder: __low education level individuals__ (PBN__Stakeholder_1508)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Limited accessibility due to education level](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2246.md)
 

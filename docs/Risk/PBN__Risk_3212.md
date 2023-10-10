@@ -2,7 +2,7 @@
 
 # Risk: __Worker infection__ (PBN__Risk_3212)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Health screening of workers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1680.md)
 

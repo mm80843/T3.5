@@ -2,7 +2,7 @@
 
 # Risk: __Airborne transmission of infectious microorganisms indoors__ (PBN__Risk_336)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Use of 254 nm UVGI](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_447.md)
 

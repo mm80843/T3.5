@@ -2,7 +2,7 @@
 
 # Risk: __Rural disparities in receiving surgical care from gynecologic oncologists__ (PBN__Risk_137)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Referral system improvement](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_162.md)
 * [Reduced time from diagnosis to surgery](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_163.md)

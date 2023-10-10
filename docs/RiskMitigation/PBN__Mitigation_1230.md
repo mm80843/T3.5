@@ -6,10 +6,6 @@
 
 * [Inactivation of SARS-CoV-2 in water](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2980.md)
 
-## Property: has_MitigationPrinciple
-
-Use proper disinfection methods to ensure safe water supply
-
 ## Property: has_MitigationSource
 
 * [matheri_water_2023](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_162.md)
@@ -20,4 +16,8 @@ Use proper disinfection methods to ensure safe water supply
 * [chlorine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3752.md)
 * [uv radiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3753.md)
 * [chloramine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3754.md)
+
+## Property: has_MitigationPrinciple
+
+Use proper disinfection methods to ensure safe water supply
 

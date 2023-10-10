@@ -6,13 +6,13 @@
 
 * [Decreased Exposure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1262.md)
 
-## Property: has_TechnologyID
-
-* [Q1630941](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1630941.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Education and Training](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_32.md)
+
+## Property: has_TechnologyID
+
+* [Q1630941](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1630941.md)
 
 ## Property: has_StakeholderGroup
 

@@ -7,13 +7,13 @@
 * [Technological limitations and dependencies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2100.md)
 * [Misdiagnosis and equipment malfunction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2345.md)
 
-## Property: has_TechnologyID
-
-* [Q366580](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q366580.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Data Management and Communication Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_18.md)
+
+## Property: has_TechnologyID
+
+* [Q366580](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q366580.md)
 
 ## Property: has_StakeholderGroup
 

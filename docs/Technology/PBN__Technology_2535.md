@@ -2,11 +2,6 @@
 
 # Technology: __Digital communication tools__ (PBN__Technology_2535)
 
-## Property: has_StakeholderGroup
-
-* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_11.md)
-* [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_8.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Digital Learning Platforms and Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_56.md)
@@ -16,4 +11,9 @@
 ## Property: has_TechnologyID
 
 * [Q10481248](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q10481248.md)
+
+## Property: has_StakeholderGroup
+
+* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_11.md)
+* [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_8.md)
 

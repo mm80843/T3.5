@@ -2,7 +2,7 @@
 
 # Risk: __Inadequate response and preparedness__ (PBN__Risk_2912)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Investing in disaster risk reduction and preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1080.md)
 

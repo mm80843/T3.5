@@ -7,13 +7,13 @@
 * [Privacy and data security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1370.md)
 * [Risk of data privacy and security in mobile applications](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1785.md)
 
-## Property: has_TechnologyID
-
-* [Q899388](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q899388.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Data Storage and Backup Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_138.md)
+
+## Property: has_TechnologyID
+
+* [Q899388](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q899388.md)
 
 ## Property: has_StakeholderGroup
 

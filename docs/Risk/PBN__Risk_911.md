@@ -2,7 +2,7 @@
 
 # Risk: __New designs, uses, and practices for green spaces__ (PBN__Risk_911)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Creating smaller, local green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1257.md)
 

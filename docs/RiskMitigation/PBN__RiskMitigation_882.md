@@ -2,14 +2,13 @@
 
 # RiskMitigation: __Development of biosensors and LOC/POC systems for wastewater analysis__ (PBN__RiskMitigation_882)
 
+## Property: has_MitigationRisk
+
+* [Limited availability of biosensors and LOC/POC technologies for wastewater analysis](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_638.md)
+
 ## Property: has_MitigationBenefit
 
 * [Improved detection capabilities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_884.md)
 * [Simplified and user-friendly analysis](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_885.md)
 * [Cost-effective and portable technology](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_886.md)
-
-## Property: has_MitigationRisk
-
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-* [Limited availability of biosensors and LOC/POC technologies for wastewater analysis](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_638.md)
 

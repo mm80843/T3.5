@@ -2,7 +2,7 @@
 
 # Risk: __Uncomfortable temperature__ (PBN__Risk_2473)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Thermal conditions control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_172.md)
 

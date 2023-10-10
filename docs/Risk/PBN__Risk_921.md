@@ -2,7 +2,7 @@
 
 # Risk: __Contamination of object surfaces__ (PBN__Risk_921)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Disinfecting shoe soles](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1267.md)
 * [Performing hand hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1268.md)

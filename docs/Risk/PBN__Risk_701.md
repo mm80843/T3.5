@@ -2,7 +2,7 @@
 
 # Risk: __Economic and social impact of pandemics__ (PBN__Risk_701)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Fiscal policy measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_967.md)
 

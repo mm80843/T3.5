@@ -4,15 +4,10 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 * [Exposure to SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2614.md)
 * [Infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2622.md)
 * [Spread of virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2684.md)
 * [Contagion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2685.md)
-
-## Property: has_MitigationPrinciple
-
-Integral part of the control strategy, workers in all risk groups should use appropriate PPE based on their job tasks and risk levels, proper selection, inspection, maintenance, and use of PPE for adequate protection.
 
 ## Property: has_MitigationSource
 
@@ -24,7 +19,6 @@ Integral part of the control strategy, workers in all risk groups should use app
 
 ## Property: has_MitigationTechnology
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 * [masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1053.md)
 * [gloves](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_487.md)
 * [face shields](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_486.md)
@@ -34,4 +28,8 @@ Integral part of the control strategy, workers in all risk groups should use app
 * [facemasks or respirators](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3291.md)
 * [n95 masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3786.md)
 * [eye protection gear](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3787.md)
+
+## Property: has_MitigationPrinciple
+
+Integral part of the control strategy, workers in all risk groups should use appropriate PPE based on their job tasks and risk levels, proper selection, inspection, maintenance, and use of PPE for adequate protection.
 

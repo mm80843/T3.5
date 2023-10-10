@@ -6,16 +6,16 @@
 
 Proper hand hygiene can prevent the transfer of the virus from contaminated surfaces to hands
 
-## Property: has_Beneficiary
+## Property: has_BenefSource
 
-* [public and healthcare settings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_440.md)
+* [kampf_persistence_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_233.md)
 
-## Property: has_BenefReturn
+## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors investing in surface disinfectants would benefit from improved asset value (e.g. increased demand for disinfectant products)](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1255.md)
 * [Private investors investing in hand hygiene products (e.g. alcohol-based hand rubs) would benefit from improved asset value (e.g. increased demand for hand hygiene products)](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1256.md)
 
-## Property: has_BenefSource
+## Property: has_Beneficiary
 
-* [kampf_persistence_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_233.md)
+* [public and healthcare settings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_440.md)
 

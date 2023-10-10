@@ -2,7 +2,7 @@
 
 # Risk: __PVP3: Virus propagation__ (PBN__Risk_176)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Self-cleaning spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_216.md)
 

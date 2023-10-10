@@ -2,7 +2,7 @@
 
 # Risk: __Respiratory transmission__ (PBN__Risk_2510)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Mask-wearing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_247.md)
 

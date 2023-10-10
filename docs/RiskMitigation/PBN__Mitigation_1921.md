@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Comprehensive and objective data, real-time results, monitoring multiple diseases, cost-effective, low resource settings, environmental monitoring
 
 ## Property: has_MitigationSource
 
@@ -19,4 +14,8 @@ Comprehensive and objective data, real-time results, monitoring multiple disease
 * [biomarker extraction techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4136.md)
 * [advanced mass spectrometry](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4137.md)
 * [pcr techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4138.md)
+
+## Property: has_MitigationPrinciple
+
+Comprehensive and objective data, real-time results, monitoring multiple diseases, cost-effective, low resource settings, environmental monitoring
 

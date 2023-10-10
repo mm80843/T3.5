@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Monitors and ensures uniform coating of surfaces
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Monitors and ensures uniform coating of surfaces
 ## Property: has_MitigationTechnology
 
 * [x-ray fluorescence spectroscopy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3486.md)
+
+## Property: has_MitigationPrinciple
+
+Monitors and ensures uniform coating of surfaces
 

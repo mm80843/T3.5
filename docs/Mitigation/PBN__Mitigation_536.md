@@ -4,13 +4,8 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 * [Contaminated hands](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2505.md)
 * [Poor infection control practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3457.md)
-
-## Property: has_MitigationPrinciple
-
-Regularly washing hands with soap and water or using hand sanitizers can prevent the transmission of infectious diseases.
 
 ## Property: has_MitigationSource
 
@@ -20,7 +15,10 @@ Regularly washing hands with soap and water or using hand sanitizers can prevent
 
 ## Property: has_MitigationTechnology
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 * [soap and water](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3064.md)
 * [hand sanitizer](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3258.md)
+
+## Property: has_MitigationPrinciple
+
+Regularly washing hands with soap and water or using hand sanitizers can prevent the transmission of infectious diseases.
 

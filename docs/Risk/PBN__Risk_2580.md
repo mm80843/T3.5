@@ -2,7 +2,7 @@
 
 # Risk: __Limited space and function of rooms__ (PBN__Risk_2580)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Creating flexible and adaptable spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_482.md)
 

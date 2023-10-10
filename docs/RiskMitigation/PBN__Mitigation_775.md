@@ -7,10 +7,6 @@
 * [Poor ventilation and air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2733.md)
 * [Virus transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3332.md)
 
-## Property: has_MitigationPrinciple
-
-Enhance indoor air quality through proper ventilation systems and air purification methods to minimize the concentration of airborne contaminants and improve respiratory health
-
 ## Property: has_MitigationSource
 
 * [tokazhanov_how_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_67.md)
@@ -21,4 +17,8 @@ Enhance indoor air quality through proper ventilation systems and air purificati
 * [hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_185.md)
 * [natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_270.md)
 * [air conditioning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3666.md)
+
+## Property: has_MitigationPrinciple
+
+Enhance indoor air quality through proper ventilation systems and air purification methods to minimize the concentration of airborne contaminants and improve respiratory health
 

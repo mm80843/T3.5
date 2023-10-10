@@ -2,7 +2,7 @@
 
 # Risk: __Mixed-use neighborhoods__ (PBN__Risk_497)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Encouraging mixed-use developments](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_705.md)
 

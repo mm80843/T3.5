@@ -6,10 +6,6 @@
 
 * [Lack of awareness and safe distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3205.md)
 
-## Property: has_MitigationPrinciple
-
-Alert nearby individuals with alarms and display violator's face on LED screens to maintain a safe distance from the person not wearing a mask
-
 ## Property: has_MitigationSource
 
 * [rahman_automated_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_265.md)
@@ -18,4 +14,8 @@ Alert nearby individuals with alarms and display violator's face on LED screens 
 
 * [alarms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3995.md)
 * [led screens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3996.md)
+
+## Property: has_MitigationPrinciple
+
+Alert nearby individuals with alarms and display violator's face on LED screens to maintain a safe distance from the person not wearing a mask
 

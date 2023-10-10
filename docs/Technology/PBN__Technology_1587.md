@@ -2,11 +2,11 @@
 
 # Technology: __purpose-built iot devices__ (PBN__Technology_1587)
 
-## Property: has_TechnologyRisk
-
-* [Limited connectivity challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2096.md)
-
 ## Property: has_TechnologyID
 
 * [Q251212](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q251212.md)
+
+## Property: has_TechnologyRisk
+
+* [Limited connectivity challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2096.md)
 

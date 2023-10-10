@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Using nucleic acid testing to detect and quantify SARS-CoV-2 in environmental samples, such as wastewater
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Using nucleic acid testing to detect and quantify SARS-CoV-2 in environmental sa
 ## Property: has_MitigationTechnology
 
 * [real-time polymerase chain reaction (rt-pcr)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3876.md)
+
+## Property: has_MitigationPrinciple
+
+Using nucleic acid testing to detect and quantify SARS-CoV-2 in environmental samples, such as wastewater
 

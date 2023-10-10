@@ -2,7 +2,7 @@
 
 # Risk: __Integration of telemedicine with wearables__ (PBN__Risk_688)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Combining telemedicine with wearable technology for remote monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_952.md)
 

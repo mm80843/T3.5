@@ -2,11 +2,11 @@
 
 # Technology: __upgraded hvac systems__ (PBN__Technology_670)
 
-## Property: has_TechnologyRisk
-
-* [Inadequate infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1419.md)
-
 ## Property: has_TechnologyID
 
 * [Q1798773](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1798773.md)
+
+## Property: has_TechnologyRisk
+
+* [Inadequate infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1419.md)
 

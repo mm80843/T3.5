@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Installing portable exterior partitions with minimum thermal transmittance values to control heat exchange and maintain temperature in the adapted spaces.
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Installing portable exterior partitions with minimum thermal transmittance value
 ## Property: has_MitigationTechnology
 
 * [portable awnings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4171.md)
+
+## Property: has_MitigationPrinciple
+
+Installing portable exterior partitions with minimum thermal transmittance values to control heat exchange and maintain temperature in the adapted spaces.
 

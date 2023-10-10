@@ -2,7 +2,7 @@
 
 # Risk: __Virus inactivation__ (PBN__Risk_2492)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Graphene-Metal Composites](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_195.md)
 

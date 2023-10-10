@@ -10,11 +10,11 @@
 
 * [Q814610](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q814610.md)
 
-## Property: has_BenefitForPeople
-
-* [Efficient crisis response](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1389.md)
-
 ## Property: has_StakeholderGroup
 
 * [Crisis Management](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_14.md)
+
+## Property: has_BenefitForPeople
+
+* [Efficient crisis response](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1389.md)
 

@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Tracking the movement and contact of infected individuals to identify potential transmission pathways and hotspots
 
 ## Property: has_MitigationSource
 
@@ -18,4 +13,8 @@ Tracking the movement and contact of infected individuals to identify potential 
 
 * [internet of things](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2919.md)
 * [smartphone apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4368.md)
+
+## Property: has_MitigationPrinciple
+
+Tracking the movement and contact of infected individuals to identify potential transmission pathways and hotspots
 

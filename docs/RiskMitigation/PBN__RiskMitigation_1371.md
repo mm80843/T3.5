@@ -2,11 +2,11 @@
 
 # RiskMitigation: __Improve building design and operation__ (PBN__RiskMitigation_1371)
 
-## Property: has_MitigationBenefit
-
-* [Reduction in energy waste](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1345.md)
-
 ## Property: has_MitigationRisk
 
 * [High energy consumption in unoccupied buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_976.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduction in energy waste](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1345.md)
 

@@ -8,13 +8,13 @@
 * [Overcrowding in Urban Areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1443.md)
 * [Urbanization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2074.md)
 
-## Property: has_TechnologyID
-
-* [Q1231558](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1231558.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Hardware and Devices](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_117.md)
+
+## Property: has_TechnologyID
+
+* [Q1231558](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1231558.md)
 
 ## Property: has_StakeholderGroup
 

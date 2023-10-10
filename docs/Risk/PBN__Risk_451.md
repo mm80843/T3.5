@@ -2,7 +2,7 @@
 
 # Risk: __Labour market challenges__ (PBN__Risk_451)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Employment retraining and redeployment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_626.md)
 

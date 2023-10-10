@@ -2,7 +2,7 @@
 
 # Risk: __COVID-19 spread in the workplace__ (PBN__Risk_675)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Workplace modification activities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_935.md)
 * [Workplace redesign](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_936.md)

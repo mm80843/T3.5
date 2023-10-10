@@ -2,15 +2,15 @@
 
 # Stakeholder: __taiwanese citizen__ (PBN__Stakeholder_2412)
 
-## Property: has_StakeholderGroup
+## Property: has_StakeholderSubgroup
 
-* [National Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_7.md)
+* [Taiwanese Citizens and Communities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_119.md)
 
 ## Property: has_StakeholderID
 
 * [Q865](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q865.md)
 
-## Property: has_StakeholderSubgroup
+## Property: has_StakeholderGroup
 
-* [Taiwanese Citizens and Communities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_119.md)
+* [National Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_7.md)
 

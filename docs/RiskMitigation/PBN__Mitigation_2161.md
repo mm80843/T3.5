@@ -6,10 +6,6 @@
 
 * [Virus transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3332.md)
 
-## Property: has_MitigationPrinciple
-
-Prevent entry of aerosolized wastewater into plumbing or ventilation systems
-
 ## Property: has_MitigationSource
 
 * [tokazhanov_how_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_67.md)
@@ -18,4 +14,8 @@ Prevent entry of aerosolized wastewater into plumbing or ventilation systems
 
 * [sealed bathroom catchments](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4277.md)
 * [backflow valves](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4287.md)
+
+## Property: has_MitigationPrinciple
+
+Prevent entry of aerosolized wastewater into plumbing or ventilation systems
 

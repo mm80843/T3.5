@@ -5,11 +5,6 @@
 ## Property: has_MitigationRisk
 
 * [Lack of awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_49.md)
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Promoting knowledge sharing among supply chain stakeholders to enhance awareness and understanding of disruptions
 
 ## Property: has_MitigationSource
 
@@ -21,4 +16,8 @@ Promoting knowledge sharing among supply chain stakeholders to enhance awareness
 * [collaborative platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1132.md)
 * [knowledge sharing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3457.md)
 * [information sharing tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4076.md)
+
+## Property: has_MitigationPrinciple
+
+Promoting knowledge sharing among supply chain stakeholders to enhance awareness and understanding of disruptions
 

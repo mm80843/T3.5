@@ -2,7 +2,7 @@
 
 # Risk: __High indoor temperatures__ (PBN__Risk_783)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Implement cooling systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1079.md)
 

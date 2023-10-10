@@ -2,7 +2,7 @@
 
 # Risk: __Water and wastewater management__ (PBN__Risk_574)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Water consumption and wastewater management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_802.md)
 

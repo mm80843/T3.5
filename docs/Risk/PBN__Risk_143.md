@@ -2,7 +2,7 @@
 
 # Risk: __Inadequate provision of public parks without government intervention__ (PBN__Risk_143)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Government intervention in providing public parks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_169.md)
 

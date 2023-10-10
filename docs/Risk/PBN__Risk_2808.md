@@ -2,7 +2,7 @@
 
 # Risk: __Uncertainty and lack of direction__ (PBN__Risk_2808)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Business return plan](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_905.md)
 

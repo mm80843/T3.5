@@ -2,7 +2,7 @@
 
 # Risk: __Lack of green space in urban areas__ (PBN__Risk_141)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Including green space in urban planning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_167.md)
 

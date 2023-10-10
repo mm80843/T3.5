@@ -6,10 +6,6 @@
 
 * [Limited time for project delivery](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2959.md)
 
-## Property: has_MitigationPrinciple
-
-Rapidly convert public venues into hospitals with adaptable infrastructure to meet the needs of emergency healthcare
-
 ## Property: has_MitigationSource
 
 * [marinelli_emergency_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_122.md)
@@ -19,4 +15,8 @@ Rapidly convert public venues into hospitals with adaptable infrastructure to me
 * [flexible mechanical](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3727.md)
 * [electrical](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3728.md)
 * [and plumbing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3729.md)
+
+## Property: has_MitigationPrinciple
+
+Rapidly convert public venues into hospitals with adaptable infrastructure to meet the needs of emergency healthcare
 

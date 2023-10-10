@@ -2,7 +2,7 @@
 
 # Risk: __Shortcomings in peer review process__ (PBN__Risk_619)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Transparency and accountability in peer review](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_857.md)
 

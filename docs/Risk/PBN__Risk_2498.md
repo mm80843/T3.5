@@ -2,7 +2,7 @@
 
 # Risk: __Financial loss__ (PBN__Risk_2498)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Guaranteeing reimbursement of loans](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_204.md)
 * [Capacity Limitation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1646.md)

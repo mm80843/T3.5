@@ -2,7 +2,7 @@
 
 # Risk: __Economic barrier__ (PBN__Risk_2958)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Promotion of green roofs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1188.md)
 

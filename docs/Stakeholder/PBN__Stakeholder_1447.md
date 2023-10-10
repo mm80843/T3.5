@@ -2,7 +2,7 @@
 
 # Stakeholder: __offshore facility staff__ (PBN__Stakeholder_1447)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Self-health evaluation before boarding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2137.md)
 * [Close contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2140.md)

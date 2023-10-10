@@ -6,10 +6,6 @@
 
 * [Limited acceptance of measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2693.md)
 
-## Property: has_MitigationPrinciple
-
-Implement measures to monitor and enforce compliance with lockdown measures to ensure their effectiveness and promote public health
-
 ## Property: has_MitigationSource
 
 * [gemenne_what_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_257.md)
@@ -17,4 +13,8 @@ Implement measures to monitor and enforce compliance with lockdown measures to e
 ## Property: has_MitigationTechnology
 
 * [compliance monitoring technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3382.md)
+
+## Property: has_MitigationPrinciple
+
+Implement measures to monitor and enforce compliance with lockdown measures to ensure their effectiveness and promote public health
 

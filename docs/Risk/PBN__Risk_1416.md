@@ -2,32 +2,11 @@
 
 # Risk: __Inadequate sanitation facilities__ (PBN__Risk_1416)
 
-## Property: has_RiskISO_Purpose
+## Property: has_RiskHealth
 
-* [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_0.md)
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
-## Property: has_RiskName
-
-Increased risk of gastrointestinal illnesses and poor hygiene practices.
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
-## Property: has_RiskDescription
-
-Insufficient availability and maintenance of sanitation facilities in the built environment, leading to poor hygiene and increased risk of disease transmission.
-
-## Property: has_RiskISO_Impact
-
-* [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_5.md)
-
-## Property: has_RiskSource
-
-* [ghosh_study_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_57.md)
-* [saari_effect_2006](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_223.md)
-
-## Property: has_RiskOwner
+## List of stakeholders linked to the risk
 
 * [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
 * [ngos](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_234.md)
@@ -35,7 +14,20 @@ Insufficient availability and maintenance of sanitation facilities in the built 
 * [public health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_222.md)
 * [city governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_354.md)
 
-## Property: has_RiskSubject
+## Property: has_RiskISO_Purpose
+
+* [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_0.md)
+
+## Articles mentionning the risk
+
+* [ghosh_study_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_57.md)
+* [saari_effect_2006](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_223.md)
+
+## Property: has_RiskDescription
+
+Insufficient availability and maintenance of sanitation facilities in the built environment, leading to poor hygiene and increased risk of disease transmission.
+
+## People affected by this risk
 
 * [employees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_220.md)
 * [visitors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_118.md)
@@ -44,16 +36,7 @@ Insufficient availability and maintenance of sanitation facilities in the built 
 * [marginalized populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_275.md)
 * [informal settlements](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_920.md)
 
-## Property: has_RiskMitigation
-
-* [Improve sanitation infrastructure, provide access to clean water, promote good hygiene practices.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1924.md)
-* [Ensure the availability of clean and well-maintained restroom facilities. Implement hygiene promotion campaigns.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2637.md)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Property: has_RiskTechnology
+## Technologies linked to the risk
 
 * [sanitation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_246.md)
 * [water treatment facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_666.md)
@@ -66,4 +49,21 @@ Insufficient availability and maintenance of sanitation facilities in the built 
 
 * [environmental](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_0.md)
 * [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
+
+## Property: has_RiskISO_Impact
+
+* [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_5.md)
+
+## Name of the risk
+
+Increased risk of gastrointestinal illnesses and poor hygiene practices.
+
+## Mitigations of this risk
+
+* [Improve sanitation infrastructure, provide access to clean water, promote good hygiene practices.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1924.md)
+* [Ensure the availability of clean and well-maintained restroom facilities. Implement hygiene promotion campaigns.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2637.md)
+
+## Property: has_RiskGBN
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 

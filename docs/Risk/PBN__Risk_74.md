@@ -2,7 +2,7 @@
 
 # Risk: __Lack of qualified staff for sample collection__ (PBN__Risk_74)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Automated sample collection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_89.md)
 

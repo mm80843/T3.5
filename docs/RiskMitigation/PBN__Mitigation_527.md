@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Removing unsanitary and overcrowded living conditions to prevent the spread of disease.
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Removing unsanitary and overcrowded living conditions to prevent the spread of d
 ## Property: has_MitigationTechnology
 
 * [clearing and rebuilding of informal settlements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3285.md)
+
+## Property: has_MitigationPrinciple
+
+Removing unsanitary and overcrowded living conditions to prevent the spread of disease.
 

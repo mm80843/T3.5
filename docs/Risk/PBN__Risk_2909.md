@@ -2,7 +2,7 @@
 
 # Risk: __Disruption in global supply chains__ (PBN__Risk_2909)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Diversified and localized production systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1077.md)
 

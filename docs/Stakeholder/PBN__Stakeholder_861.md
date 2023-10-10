@@ -2,7 +2,7 @@
 
 # Stakeholder: __attendees of mass gatherings__ (PBN__Stakeholder_861)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Transmission at mass gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1350.md)
 

@@ -6,13 +6,13 @@
 
 * [Reduction in official development aid and philanthropy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1299.md)
 
-## Property: has_TechnologyID
-
-* [Q545727](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q545727.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Financial Support and Funding](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_35.md)
+
+## Property: has_TechnologyID
+
+* [Q545727](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q545727.md)
 
 ## Property: has_StakeholderGroup
 

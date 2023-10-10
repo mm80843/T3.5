@@ -2,9 +2,9 @@
 
 # Article: __sharifi_covid-19_2020__ (PBN__Article_318)
 
-## Property: has_ArticleTitle
+## Property: has_ArticleDOI
 
-The COVID-19 pandemic: Impacts on cities and major lessons for urban planning, design, and management
+10.1016/j.scitotenv.2020.142391
 
 ## Property: has_ArticleYear
 
@@ -17,7 +17,7 @@ The COVID-19 pandemic: Impacts on cities and major lessons for urban planning, d
 * [tian_investigation_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_197.md)
 * [wilkinson_local_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_36.md)
 
-## Property: has_ArticleDOI
+## Property: has_ArticleTitle
 
-10.1016/j.scitotenv.2020.142391
+The COVID-19 pandemic: Impacts on cities and major lessons for urban planning, design, and management
 

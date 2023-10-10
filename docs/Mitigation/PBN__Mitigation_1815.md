@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Face recognition technology can be used to track individuals who may be infected with COVID-19. By integrating with other technologies like AI and machine learning, facial recognition systems can identify and track potential cases, determine their contacts, and manage their movements. This helps in contact tracing, enforcing social distancing, and ensuring compliance with mask-wearing measures. It also allows for targeted interventions and containment strategies to limit the spread of the virus.
 
 ## Property: has_MitigationSource
 
@@ -18,4 +13,8 @@ Face recognition technology can be used to track individuals who may be infected
 
 * [ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_278.md)
 * [facial recognition systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1357.md)
+
+## Property: has_MitigationPrinciple
+
+Face recognition technology can be used to track individuals who may be infected with COVID-19. By integrating with other technologies like AI and machine learning, facial recognition systems can identify and track potential cases, determine their contacts, and manage their movements. This helps in contact tracing, enforcing social distancing, and ensuring compliance with mask-wearing measures. It also allows for targeted interventions and containment strategies to limit the spread of the virus.
 

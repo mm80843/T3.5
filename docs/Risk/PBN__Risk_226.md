@@ -2,7 +2,7 @@
 
 # Risk: __Transmission of COVID-19 through surfaces__ (PBN__Risk_226)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Installation of UV-C cupboards for external clothing and footwear](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_270.md)
 

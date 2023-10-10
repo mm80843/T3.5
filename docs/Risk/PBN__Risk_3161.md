@@ -2,7 +2,7 @@
 
 # Risk: __Non-compliance with protocols__ (PBN__Risk_3161)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Workplace Safety Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1614.md)
 

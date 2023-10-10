@@ -6,10 +6,6 @@
 
 * [Virus transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3332.md)
 
-## Property: has_MitigationPrinciple
-
-Decrease contact with contaminated surfaces
-
 ## Property: has_MitigationSource
 
 * [tokazhanov_how_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_67.md)
@@ -17,4 +13,8 @@ Decrease contact with contaminated surfaces
 ## Property: has_MitigationTechnology
 
 * [voice and face recognition](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4293.md)
+
+## Property: has_MitigationPrinciple
+
+Decrease contact with contaminated surfaces
 

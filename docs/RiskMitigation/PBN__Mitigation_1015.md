@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Ensure healthcare facilities are equipped with necessary resources and capacity to handle and treat individuals with contagious diseases.
 
 ## Property: has_MitigationSource
 
@@ -18,4 +13,8 @@ Ensure healthcare facilities are equipped with necessary resources and capacity 
 
 * [medical equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_108.md)
 * [supplies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3459.md)
+
+## Property: has_MitigationPrinciple
+
+Ensure healthcare facilities are equipped with necessary resources and capacity to handle and treat individuals with contagious diseases.
 

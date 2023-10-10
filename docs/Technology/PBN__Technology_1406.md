@@ -2,12 +2,12 @@
 
 # Technology: __flexible scheduling__ (PBN__Technology_1406)
 
+## Property: has_TechnologyID
+
+* [Q2271896](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2271896.md)
+
 ## Property: has_TechnologyRisk
 
 * [Blurring of work-life boundaries](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1974.md)
 * [Staff sickness and self-isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1982.md)
-
-## Property: has_TechnologyID
-
-* [Q2271896](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2271896.md)
 

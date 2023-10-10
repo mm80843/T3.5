@@ -2,11 +2,11 @@
 
 # Stakeholder: __it department__ (PBN__Stakeholder_748)
 
-## Property: has_OwnerRisk
+## Risk affecting this stakeholder
 
 * [Loss of data transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1234.md)
 
-## Property: has_SubjectRisk
+## Property: has_OwnerRisk
 
 * [Loss of data transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1234.md)
 

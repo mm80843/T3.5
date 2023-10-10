@@ -2,7 +2,7 @@
 
 # Risk: __Data privacy__ (PBN__Risk_2439)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Digital contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_148.md)
 * [Data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_99.md)

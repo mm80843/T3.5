@@ -2,7 +2,7 @@
 
 # Risk: __Limited capital and resources__ (PBN__Risk_2868)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Access to Financial Capital](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1030.md)
 

@@ -6,15 +6,15 @@
 
 * [Respiratory viruses strain health services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1538.md)
 
-## Property: has_TechnologyID
-
-* [Q5282877](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5282877.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Preventive Measures and Public Health Initiatives](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_24.md)
 * [Hygiene and Sanitation Practices and Protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_60.md)
 * [Cleaning Supplies and Hygiene Practices](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_61.md)
+
+## Property: has_TechnologyID
+
+* [Q5282877](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5282877.md)
 
 ## Property: has_StakeholderGroup
 

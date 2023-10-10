@@ -2,7 +2,7 @@
 
 # Risk: __MH4: Mental health__ (PBN__Risk_183)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Household-level activity/sports spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_223.md)
 

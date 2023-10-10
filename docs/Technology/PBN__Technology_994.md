@@ -6,13 +6,12 @@
 
 * [Performance Risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_86.md)
 
+## Property: has_StakeholderSubgroup
+
+
 ## Property: has_TechnologyID
 
 * [Q183635](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q183635.md)
-
-## Property: has_StakeholderSubgroup
-
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_7.md)
 
 ## Property: has_StakeholderGroup
 

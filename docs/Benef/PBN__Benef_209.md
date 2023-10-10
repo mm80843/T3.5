@@ -6,16 +6,16 @@
 
 Reduced contact and proximity among individuals, minimizing the risk of disease transmission.
 
+## Property: has_BenefSource
+
+* [de_araujo_platform_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_46.md)
+
+## Description of Benefits pertaining to Beneficiaries
+
+* [Increased demand for spaces with physical barriers, resulting in higher rental rates and increased property value.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_216.md)
+
 ## Property: has_Beneficiary
 
 * [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 * [staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_103.md)
-
-## Property: has_BenefReturn
-
-* [Increased demand for spaces with physical barriers, resulting in higher rental rates and increased property value.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_216.md)
-
-## Property: has_BenefSource
-
-* [de_araujo_platform_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_46.md)
 

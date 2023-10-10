@@ -6,14 +6,14 @@
 
 * [Access to Videos](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1268.md)
 
-## Property: has_TechnologyID
-
-* [Q16281722](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q16281722.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Education and Training](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_32.md)
 * [Workforce and Resource Management Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_110.md)
+
+## Property: has_TechnologyID
+
+* [Q16281722](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q16281722.md)
 
 ## Property: has_StakeholderGroup
 

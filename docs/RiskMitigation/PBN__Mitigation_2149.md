@@ -6,10 +6,6 @@
 
 * [Mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_611.md)
 
-## Property: has_MitigationPrinciple
-
-Enhance mental health, reduce stress and promote relaxation
-
 ## Property: has_MitigationSource
 
 * [tokazhanov_how_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_67.md)
@@ -18,4 +14,8 @@ Enhance mental health, reduce stress and promote relaxation
 
 * [green roofs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1392.md)
 * [gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1736.md)
+
+## Property: has_MitigationPrinciple
+
+Enhance mental health, reduce stress and promote relaxation
 

@@ -2,7 +2,7 @@
 
 # Risk: __Health inequity, heat islands__ (PBN__Risk_2882)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Green space design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1048.md)
 

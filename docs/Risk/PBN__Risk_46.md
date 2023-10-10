@@ -2,7 +2,7 @@
 
 # Risk: __Link between human activity and health__ (PBN__Risk_46)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Clean air](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_63.md)
 

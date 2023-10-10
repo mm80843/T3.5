@@ -2,7 +2,7 @@
 
 # Risk: __Stress, fatigue, poor mental well-being__ (PBN__Risk_2474)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Biophilic design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_175.md)
 

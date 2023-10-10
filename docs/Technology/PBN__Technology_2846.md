@@ -2,10 +2,6 @@
 
 # Technology: __RFID technology__ (PBN__Technology_2846)
 
-## Property: has_StakeholderGroup
-
-* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Hardware and Devices](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_117.md)
@@ -13,4 +9,8 @@
 ## Property: has_TechnologyID
 
 * [Q104954](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q104954.md)
+
+## Property: has_StakeholderGroup
+
+* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
 

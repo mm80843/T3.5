@@ -2,7 +2,7 @@
 
 # Risk: __Distribution__ (PBN__Risk_2453)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Use of local suppliers and warehouse stock](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_132.md)
 

@@ -2,7 +2,7 @@
 
 # Risk: __Data Sharing__ (PBN__Risk_3019)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Data Sharing Initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1323.md)
 

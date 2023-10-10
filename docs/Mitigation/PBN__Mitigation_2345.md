@@ -6,10 +6,6 @@
 
 * [Privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_47.md)
 
-## Property: has_MitigationPrinciple
-
-Identifying individuals without mobile phones through CCTV surveillance to help reduce crime in the neighbourhood.
-
 ## Property: has_MitigationSource
 
 * [webb_smart_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_294.md)
@@ -18,4 +14,8 @@ Identifying individuals without mobile phones through CCTV surveillance to help 
 
 * [cctv cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3409.md)
 * [mobile positioning technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4422.md)
+
+## Property: has_MitigationPrinciple
+
+Identifying individuals without mobile phones through CCTV surveillance to help reduce crime in the neighbourhood.
 

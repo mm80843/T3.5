@@ -2,7 +2,7 @@
 
 # Risk: __Safeguard equipment and aid communication__ (PBN__Risk_2966)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Video and audio devices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1217.md)
 

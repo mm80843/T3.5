@@ -2,7 +2,7 @@
 
 # Risk: __Malaria__ (PBN__Risk_938)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Selection of project sites away from breeding sites](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1300.md)
 * [Modification of building envelopes to reduce mosquito accessibility](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1301.md)

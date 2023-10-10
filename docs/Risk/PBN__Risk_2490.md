@@ -2,7 +2,7 @@
 
 # Risk: __Contamination, transmission through close contact__ (PBN__Risk_2490)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_192.md)
 

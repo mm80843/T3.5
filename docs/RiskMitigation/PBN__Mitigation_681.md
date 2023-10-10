@@ -6,10 +6,6 @@
 
 * [Spread of virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2684.md)
 
-## Property: has_MitigationPrinciple
-
-Limits the number of people gathering in a room, reducing the risk of virus transmission
-
 ## Property: has_MitigationSource
 
 * [gamil_impact_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_168.md)
@@ -17,4 +13,8 @@ Limits the number of people gathering in a room, reducing the risk of virus tran
 ## Property: has_MitigationTechnology
 
 * [access control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1578.md)
+
+## Property: has_MitigationPrinciple
+
+Limits the number of people gathering in a room, reducing the risk of virus transmission
 

@@ -6,13 +6,13 @@
 
 * [Global mobility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2073.md)
 
-## Property: has_TechnologyID
-
-* [Q67367587](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q67367587.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Authentication and Access Control](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_140.md)
+
+## Property: has_TechnologyID
+
+* [Q67367587](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q67367587.md)
 
 ## Property: has_StakeholderGroup
 

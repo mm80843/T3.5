@@ -2,7 +2,7 @@
 
 # Risk: __Wildlife support__ (PBN__Risk_2672)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Avoidance of intense management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_642.md)
 * [Native plant species diversity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_644.md)

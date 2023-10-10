@@ -2,9 +2,9 @@
 
 # Article: __muthu_healthy_2021__ (PBN__Article_362)
 
-## Property: has_ArticleTitle
+## Property: has_ArticleDOI
 
-Healthy Sustainable Cities and the COVID-19 Pandemic: A Sustainable Development Goals Perspective
+10.1007/978-981-16-3860-2_6
 
 ## Property: has_ArticleYear
 
@@ -15,7 +15,7 @@ Healthy Sustainable Cities and the COVID-19 Pandemic: A Sustainable Development 
 * [sharifi_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_318.md)
 * [ugolini_effects_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_90.md)
 
-## Property: has_ArticleDOI
+## Property: has_ArticleTitle
 
-10.1007/978-981-16-3860-2_6
+Healthy Sustainable Cities and the COVID-19 Pandemic: A Sustainable Development Goals Perspective
 

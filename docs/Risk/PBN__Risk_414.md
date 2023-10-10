@@ -2,7 +2,7 @@
 
 # Risk: __Impact on restaurants and hospitality industry__ (PBN__Risk_414)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Topic modelling](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_573.md)
 

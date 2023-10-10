@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Preparation and provide infrastructure to facilitate better response. Repurpose existing infrastructure for pandemic control.
 
 ## Property: has_MitigationSource
 
@@ -21,4 +16,8 @@ Preparation and provide infrastructure to facilitate better response. Repurpose 
 * [ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_278.md)
 * [machine learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3004.md)
 * [5g](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4121.md)
+
+## Property: has_MitigationPrinciple
+
+Preparation and provide infrastructure to facilitate better response. Repurpose existing infrastructure for pandemic control.
 

@@ -2,7 +2,7 @@
 
 # Risk: __Lack of reliable energy access__ (PBN__Risk_3321)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Deployment of microgrids](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1990.md)
 

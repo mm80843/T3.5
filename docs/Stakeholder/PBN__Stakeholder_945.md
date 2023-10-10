@@ -2,7 +2,7 @@
 
 # Stakeholder: __cultural and social groups__ (PBN__Stakeholder_945)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Future of large public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_912.md)
 

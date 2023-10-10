@@ -2,7 +2,7 @@
 
 # Risk: __Lack of access to testing__ (PBN__Risk_3191)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Testing and Diagnosis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1648.md)
 

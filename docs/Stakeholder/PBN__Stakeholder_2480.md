@@ -2,15 +2,14 @@
 
 # Stakeholder: __community engagementorganization__ (PBN__Stakeholder_2480)
 
-## Property: has_StakeholderGroup
+## Property: has_StakeholderSubgroup
 
-* [Community Stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_8.md)
 
 ## Property: has_StakeholderID
 
 * [Q5154950](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5154950.md)
 
-## Property: has_StakeholderSubgroup
+## Property: has_StakeholderGroup
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_7.md)
+* [Community Stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_8.md)
 

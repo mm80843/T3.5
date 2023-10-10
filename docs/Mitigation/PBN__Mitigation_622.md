@@ -6,10 +6,6 @@
 
 * [Service interruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2665.md)
 
-## Property: has_MitigationPrinciple
-
-Migration of municipal services and protocols to virtual platforms for continued operation
-
 ## Property: has_MitigationSource
 
 * [fariniuk_smart_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_143.md)
@@ -17,4 +13,8 @@ Migration of municipal services and protocols to virtual platforms for continued
 ## Property: has_MitigationTechnology
 
 * [virtual communication and workflow tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3366.md)
+
+## Property: has_MitigationPrinciple
+
+Migration of municipal services and protocols to virtual platforms for continued operation
 

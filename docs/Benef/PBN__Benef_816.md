@@ -6,16 +6,16 @@
 
 Biosensors can quickly detect waterborne pathogens, monitor disease outbreaks
 
+## Property: has_BenefSource
+
+* [matheri_water_2023](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_162.md)
+
+## Description of Benefits pertaining to Beneficiaries
+
+* [Improved disease surveillance, faster response to outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_884.md)
+
 ## Property: has_Beneficiary
 
 * [public health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_0.md)
 * [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
-
-## Property: has_BenefReturn
-
-* [Improved disease surveillance, faster response to outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_884.md)
-
-## Property: has_BenefSource
-
-* [matheri_water_2023](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_162.md)
 

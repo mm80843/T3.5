@@ -2,10 +2,6 @@
 
 # Technology: __Data recording systems__ (PBN__Technology_2450)
 
-## Property: has_StakeholderGroup
-
-* [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_6.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Data Management and Recording Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_148.md)
@@ -13,4 +9,8 @@
 ## Property: has_TechnologyID
 
 * [Q2473736](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2473736.md)
+
+## Property: has_StakeholderGroup
+
+* [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_6.md)
 

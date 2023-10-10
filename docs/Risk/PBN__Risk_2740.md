@@ -2,7 +2,7 @@
 
 # Risk: __Overburdened healthcare systems__ (PBN__Risk_2740)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_147.md)
 * [Implementation of home treatments](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_782.md)

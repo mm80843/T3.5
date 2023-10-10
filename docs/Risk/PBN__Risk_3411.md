@@ -2,7 +2,7 @@
 
 # Risk: __Limited data__ (PBN__Risk_3411)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [UVGI](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1325.md)
 * [Upper room UVGI](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2291.md)

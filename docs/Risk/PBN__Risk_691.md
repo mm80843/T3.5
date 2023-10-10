@@ -2,7 +2,7 @@
 
 # Risk: __Spread of Covid-19 through faecal-oral route__ (PBN__Risk_691)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Improved hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_954.md)
 

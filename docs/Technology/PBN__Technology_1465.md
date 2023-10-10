@@ -2,11 +2,11 @@
 
 # Technology: __microscopic crowd models__ (PBN__Technology_1465)
 
-## Property: has_TechnologyRisk
-
-* [Lack of microscale representation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2004.md)
-
 ## Property: has_TechnologyID
 
 * [Q1093434](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1093434.md)
+
+## Property: has_TechnologyRisk
+
+* [Lack of microscale representation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2004.md)
 

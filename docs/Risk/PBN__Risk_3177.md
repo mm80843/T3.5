@@ -2,7 +2,7 @@
 
 # Risk: __Increased DBP, chemical costs__ (PBN__Risk_3177)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Increase chlorine dose in drinking water](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1629.md)
 

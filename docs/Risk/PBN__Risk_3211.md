@@ -2,7 +2,7 @@
 
 # Risk: __Lack of monitoring capabilities__ (PBN__Risk_3211)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Driverless vehicles](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1674.md)
 

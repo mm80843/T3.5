@@ -2,7 +2,7 @@
 
 # Risk: __Contractual issues__ (PBN__Risk_556)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Force majeure clause](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_783.md)
 

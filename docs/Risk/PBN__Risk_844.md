@@ -2,7 +2,7 @@
 
 # Risk: __Geographical spread of virus__ (PBN__Risk_844)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Mobile technology applications](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1149.md)
 * [Internet-based applications](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1150.md)

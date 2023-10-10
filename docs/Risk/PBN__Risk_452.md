@@ -2,7 +2,7 @@
 
 # Risk: __Mental health disturbances due to social distancing and home confinement__ (PBN__Risk_452)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Improve access to reliable information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_628.md)
 * [Increase social support for vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_629.md)

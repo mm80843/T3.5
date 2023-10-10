@@ -2,7 +2,7 @@
 
 # Risk: __COVID-19 analytics__ (PBN__Risk_608)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Ontological reasoning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_842.md)
 * [Big data analytics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_843.md)

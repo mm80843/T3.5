@@ -2,7 +2,7 @@
 
 # Risk: __Lack of understanding and data on virus spread__ (PBN__Risk_2825)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Virus Quantification](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_948.md)
 

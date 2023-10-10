@@ -2,7 +2,7 @@
 
 # Risk: __Urban inequality__ (PBN__Risk_19)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Affordable housing with resilient design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_23.md)
 * [Job proximity and active transportation support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_24.md)

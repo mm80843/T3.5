@@ -6,10 +6,6 @@
 
 * [Limited data accessibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2722.md)
 
-## Property: has_MitigationPrinciple
-
-Real-time release of wastewater data through online dashboards to inform the public, emergency response teams, and policy makers about recent virus detections.
-
 ## Property: has_MitigationSource
 
 * [hart_computational_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_252.md)
@@ -17,4 +13,8 @@ Real-time release of wastewater data through online dashboards to inform the pub
 ## Property: has_MitigationTechnology
 
 * [data visualization platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3435.md)
+
+## Property: has_MitigationPrinciple
+
+Real-time release of wastewater data through online dashboards to inform the public, emergency response teams, and policy makers about recent virus detections.
 

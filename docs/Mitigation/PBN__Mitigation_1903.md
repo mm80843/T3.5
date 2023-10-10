@@ -6,10 +6,6 @@
 
 * [Financial crisis](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2067.md)
 
-## Property: has_MitigationPrinciple
-
-Reviewing contracts and service agreements for potential protection issues to mitigate financial risks.
-
 ## Property: has_MitigationSource
 
 * [shibani_effects_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_75.md)
@@ -17,4 +13,8 @@ Reviewing contracts and service agreements for potential protection issues to mi
 ## Property: has_MitigationTechnology
 
 * [contract review systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4126.md)
+
+## Property: has_MitigationPrinciple
+
+Reviewing contracts and service agreements for potential protection issues to mitigate financial risks.
 

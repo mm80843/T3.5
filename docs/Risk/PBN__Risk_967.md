@@ -2,7 +2,7 @@
 
 # Risk: __Airborne transmission of COVID-19__ (PBN__Risk_967)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Improved ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_476.md)
 * [HVAC system modifications](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1350.md)

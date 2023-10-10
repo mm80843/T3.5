@@ -2,7 +2,7 @@
 
 # Risk: __Technical failure__ (PBN__Risk_2764)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Digital signage player](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_829.md)
 

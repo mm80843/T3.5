@@ -2,7 +2,7 @@
 
 # Risk: __Resistance to digital adoption__ (PBN__Risk_3171)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Digital twin](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1622.md)
 

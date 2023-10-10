@@ -2,7 +2,7 @@
 
 # Risk: __Difficulty in contact tracing and cluster identification__ (PBN__Risk_1000)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Implementation of smartphone-based apps](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1422.md)
 

@@ -6,14 +6,14 @@
 
 * [Lack of occupant awareness and behavior](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1412.md)
 
-## Property: has_TechnologyID
-
-* [Q4880697](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4880697.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Training and Education](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_62.md)
 * [Energy and Resource Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_118.md)
+
+## Property: has_TechnologyID
+
+* [Q4880697](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4880697.md)
 
 ## Property: has_StakeholderGroup
 

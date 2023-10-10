@@ -6,10 +6,6 @@
 
 * [Contagion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2685.md)
 
-## Property: has_MitigationPrinciple
-
-Provide accurate and timely information to the public to raise awareness about contagious diseases and preventive measures.
-
 ## Property: has_MitigationSource
 
 * [ugolini_effects_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_90.md)
@@ -18,4 +14,8 @@ Provide accurate and timely information to the public to raise awareness about c
 
 * [education materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4344.md)
 * [media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4345.md)
+
+## Property: has_MitigationPrinciple
+
+Provide accurate and timely information to the public to raise awareness about contagious diseases and preventive measures.
 

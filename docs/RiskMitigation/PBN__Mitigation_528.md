@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Upgrading infrastructure to provide clean water and adequate sanitation, reducing the risk of waterborne diseases.
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Upgrading infrastructure to provide clean water and adequate sanitation, reducin
 ## Property: has_MitigationTechnology
 
 * [investments in water and sanitation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3286.md)
+
+## Property: has_MitigationPrinciple
+
+Upgrading infrastructure to provide clean water and adequate sanitation, reducing the risk of waterborne diseases.
 

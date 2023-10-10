@@ -6,10 +6,6 @@
 
 * [None](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2827.md)
 
-## Property: has_MitigationPrinciple
-
-Redesigning urban spaces to prioritize walking, cycling, and open spaces promotes sustainable and safe mobility
-
 ## Property: has_MitigationSource
 
 * [przybylowski_mobility_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_113.md)
@@ -17,4 +13,8 @@ Redesigning urban spaces to prioritize walking, cycling, and open spaces promote
 ## Property: has_MitigationTechnology
 
 * [urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_922.md)
+
+## Property: has_MitigationPrinciple
+
+Redesigning urban spaces to prioritize walking, cycling, and open spaces promotes sustainable and safe mobility
 

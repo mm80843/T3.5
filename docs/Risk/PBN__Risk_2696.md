@@ -2,7 +2,7 @@
 
 # Risk: __Higher energy consumption__ (PBN__Risk_2696)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Retrofits](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_713.md)
 

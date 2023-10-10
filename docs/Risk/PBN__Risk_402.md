@@ -2,7 +2,7 @@
 
 # Risk: __Limited evidence available__ (PBN__Risk_402)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Search for evidence beyond ’conventional’ sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_559.md)
 

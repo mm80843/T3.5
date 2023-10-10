@@ -6,10 +6,6 @@
 
 * [Poor removal of SARS-CoV-2 fragments in wastewater treatment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3429.md)
 
-## Property: has_MitigationPrinciple
-
-Reduces the concentration of viral RNA in the solid phase of wastewater
-
 ## Property: has_MitigationSource
 
 * [westhaus_detection_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_0.md)
@@ -18,4 +14,8 @@ Reduces the concentration of viral RNA in the solid phase of wastewater
 
 * [centrifugation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4431.md)
 * [ultrafiltration units](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4432.md)
+
+## Property: has_MitigationPrinciple
+
+Reduces the concentration of viral RNA in the solid phase of wastewater
 

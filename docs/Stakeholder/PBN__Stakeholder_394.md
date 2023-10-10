@@ -2,6 +2,22 @@
 
 # Stakeholder: __health authorities__ (PBN__Stakeholder_394)
 
+## Property: has_StakeholderSubgroup
+
+* [Public Health Agencies](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_43.md)
+
+## Risk affecting this stakeholder
+
+* [Insufficient healthcare preparation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2183.md)
+
+## Property: has_StakeholderID
+
+* [Q63122029](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q63122029.md)
+
+## Property: has_StakeholderGroup
+
+* [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
+
 ## Property: has_OwnerRisk
 
 * [Spread of misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_396.md)
@@ -28,23 +44,7 @@
 * [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2061.md)
 * [Insufficient healthcare preparation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2183.md)
 
-## Property: has_StakeholderSubgroup
-
-* [Public Health Agencies](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_43.md)
-
-## Property: has_SubjectRisk
-
-* [Insufficient healthcare preparation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2183.md)
-
-## Property: has_StakeholderID
-
-* [Q63122029](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q63122029.md)
-
 ## Property: has_BenefitForPeople
 
 * [Early detection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_0.md)
-
-## Property: has_StakeholderGroup
-
-* [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
 

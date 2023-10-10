@@ -2,7 +2,7 @@
 
 # Risk: __Low accessibility and affordability worsen malaria risk__ (PBN__Risk_3099)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Healthcare access and affordability](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1484.md)
 

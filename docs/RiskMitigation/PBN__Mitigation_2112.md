@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Utilizing social media platforms to provide real-time updates, clarify uncertainties, and educate the public about COVID-19.
 
 ## Property: has_MitigationSource
 
@@ -19,4 +14,8 @@ Utilizing social media platforms to provide real-time updates, clarify uncertain
 * [social media platforms (e.g.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4229.md)
 * [facebook](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4230.md)
 * [twitter)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4231.md)
+
+## Property: has_MitigationPrinciple
+
+Utilizing social media platforms to provide real-time updates, clarify uncertainties, and educate the public about COVID-19.
 

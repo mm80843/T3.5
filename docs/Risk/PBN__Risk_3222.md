@@ -2,7 +2,7 @@
 
 # Risk: __Sedentary lifestyle__ (PBN__Risk_3222)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Active Design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1692.md)
 

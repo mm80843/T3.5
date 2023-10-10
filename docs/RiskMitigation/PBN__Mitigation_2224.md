@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Using Unity 3D to visualize the optimal physical space layouts and generate 3D scenes
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Using Unity 3D to visualize the optimal physical space layouts and generate 3D s
 ## Property: has_MitigationTechnology
 
 * [unity 3d](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4342.md)
+
+## Property: has_MitigationPrinciple
+
+Using Unity 3D to visualize the optimal physical space layouts and generate 3D scenes
 

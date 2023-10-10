@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Using active video games that involve physical activity through interaction with motion and motion sensors to maintain and/or improve physical and mental health during the pandemic.
 
 ## Property: has_MitigationSource
 
@@ -20,4 +15,8 @@ Using active video games that involve physical activity through interaction with
 * [electronic products for human-computer interaction](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2948.md)
 * [motion sensor controls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3232.md)
 * [video game consoles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3233.md)
+
+## Property: has_MitigationPrinciple
+
+Using active video games that involve physical activity through interaction with motion and motion sensors to maintain and/or improve physical and mental health during the pandemic.
 

@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Integrates IoT technology into hospital facilities, allowing for automated monitoring, control, and management of various systems to optimize safety and efficiency.
 
 ## Property: has_MitigationSource
 
@@ -18,4 +13,8 @@ Integrates IoT technology into hospital facilities, allowing for automated monit
 
 * [iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_96.md)
 * [smart infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3709.md)
+
+## Property: has_MitigationPrinciple
+
+Integrates IoT technology into hospital facilities, allowing for automated monitoring, control, and management of various systems to optimize safety and efficiency.
 

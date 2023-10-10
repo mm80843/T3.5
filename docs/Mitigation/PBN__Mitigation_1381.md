@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Close schools and workplaces to reduce the potential for large gatherings and limit the spread of the disease within these settings.
 
 ## Property: has_MitigationSource
 
@@ -16,5 +11,8 @@ Close schools and workplaces to reduce the potential for large gatherings and li
 
 ## Property: has_MitigationTechnology
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
+
+## Property: has_MitigationPrinciple
+
+Close schools and workplaces to reduce the potential for large gatherings and limit the spread of the disease within these settings.
 

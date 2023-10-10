@@ -2,7 +2,7 @@
 
 # Risk: __Inequality in education access__ (PBN__Risk_2904)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Enhanced education access and equity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1072.md)
 

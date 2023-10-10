@@ -6,14 +6,14 @@
 
 * [Gender-based violence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1877.md)
 
-## Property: has_TechnologyID
-
-* [Q168210](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q168210.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Online Counseling and Therapy Platforms](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_65.md)
 * [Mental Health Resources and Support](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_68.md)
+
+## Property: has_TechnologyID
+
+* [Q168210](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q168210.md)
 
 ## Property: has_StakeholderGroup
 

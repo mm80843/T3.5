@@ -2,7 +2,7 @@
 
 # Risk: __Extreme events__ (PBN__Risk_132)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Building resilience measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_156.md)
 

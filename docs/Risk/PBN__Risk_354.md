@@ -2,7 +2,7 @@
 
 # Risk: __Weak health-care systems and limited resources__ (PBN__Risk_354)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Integration of GIS and GPS applications](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_465.md)
 

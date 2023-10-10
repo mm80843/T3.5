@@ -2,7 +2,7 @@
 
 # Risk: __Integration challenges__ (PBN__Risk_2464)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Robotics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_149.md)
 

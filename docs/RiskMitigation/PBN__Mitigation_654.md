@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Designing urban areas with connected networks of green spaces to promote wildlife habitat connectivity and resources exchange while also providing opportunities for recreational activities for humans.
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Designing urban areas with connected networks of green spaces to promote wildlif
 ## Property: has_MitigationTechnology
 
 * [connectivity technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3373.md)
+
+## Property: has_MitigationPrinciple
+
+Designing urban areas with connected networks of green spaces to promote wildlife habitat connectivity and resources exchange while also providing opportunities for recreational activities for humans.
 

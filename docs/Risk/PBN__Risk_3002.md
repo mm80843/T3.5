@@ -2,7 +2,7 @@
 
 # Risk: __Airborne or close contact__ (PBN__Risk_3002)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Wearing face masks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1263.md)
 

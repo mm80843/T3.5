@@ -4,14 +4,9 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 * [Contamination of shared spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2147.md)
 * [Surface contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2616.md)
 * [Spread of virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2684.md)
-
-## Property: has_MitigationPrinciple
-
-Maintain cleanliness and hygiene in shared spaces to reduce the risk of transmission
 
 ## Property: has_MitigationSource
 
@@ -27,4 +22,8 @@ Maintain cleanliness and hygiene in shared spaces to reduce the risk of transmis
 * [cleaning supplies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_148.md)
 * [cleaning supplies and protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3427.md)
 * [cleaning tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3740.md)
+
+## Property: has_MitigationPrinciple
+
+Maintain cleanliness and hygiene in shared spaces to reduce the risk of transmission
 

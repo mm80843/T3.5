@@ -2,12 +2,6 @@
 
 # Technology: __ai__ (PBN__Technology_278)
 
-## Property: has_TechnologyRisk
-
-* [Lack of effective technical systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1197.md)
-* [Impact on information technology, media, and research & development](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1816.md)
-* [Security challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2094.md)
-
 ## Property: has_TechnologyMitigation
 
 * [Telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_147.md)
@@ -39,4 +33,10 @@
 ## Property: has_TechnologyID
 
 * [Q69906](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q69906.md)
+
+## Property: has_TechnologyRisk
+
+* [Lack of effective technical systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1197.md)
+* [Impact on information technology, media, and research & development](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1816.md)
+* [Security challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2094.md)
 

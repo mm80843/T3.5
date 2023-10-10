@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Analyzing data to understand and highlight changes in social behavior during the lockdown
 
 ## Property: has_MitigationSource
 
@@ -18,4 +13,8 @@ Analyzing data to understand and highlight changes in social behavior during the
 
 * [iot sensing infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3534.md)
 * [social behavior analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3544.md)
+
+## Property: has_MitigationPrinciple
+
+Analyzing data to understand and highlight changes in social behavior during the lockdown
 

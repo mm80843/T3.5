@@ -6,13 +6,13 @@
 
 * [Artificially lit and ventilated spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1959.md)
 
-## Property: has_TechnologyID
-
-* [Q1145644](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1145644.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Design Strategies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_104.md)
+
+## Property: has_TechnologyID
+
+* [Q1145644](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1145644.md)
 
 ## Property: has_StakeholderGroup
 

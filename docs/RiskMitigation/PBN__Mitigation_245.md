@@ -5,7 +5,6 @@
 ## Property: has_MitigationRisk
 
 * [Spread of contagious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_20.md)
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 * [Spread of infectious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_744.md)
 * [COVID-19 infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2528.md)
 * [Infection and disease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2618.md)
@@ -18,10 +17,6 @@
 * [Risk of waning efficacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3172.md)
 * [Lack of access to vaccination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3192.md)
 * [Inadequate vaccination coverage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3239.md)
-
-## Property: has_MitigationPrinciple
-
-Vaccination provides immunity to individuals and reduces the spread of infectious diseases by preventing transmission from infected individuals to susceptible ones.
 
 ## Property: has_MitigationSource
 
@@ -44,8 +39,11 @@ Vaccination provides immunity to individuals and reduces the spread of infectiou
 
 ## Property: has_MitigationTechnology
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 * [vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_828.md)
 * [vaccine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3085.md)
 * [vaccination clinics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3897.md)
+
+## Property: has_MitigationPrinciple
+
+Vaccination provides immunity to individuals and reduces the spread of infectious diseases by preventing transmission from infected individuals to susceptible ones.
 

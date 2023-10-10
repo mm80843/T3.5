@@ -2,11 +2,11 @@
 
 # Technology: __------------------------------------__ (PBN__Technology_1911)
 
-## Property: has_TechnologyRisk
-
-* [-------------------](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2321.md)
-
 ## Property: has_TechnologyID
 
 * [Q195284](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q195284.md)
+
+## Property: has_TechnologyRisk
+
+* [-------------------](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2321.md)
 

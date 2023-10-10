@@ -2,7 +2,7 @@
 
 # Stakeholder: __individuals in areas with high virus prevalence__ (PBN__Stakeholder_1576)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Emerging local hot spots](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2368.md)
 

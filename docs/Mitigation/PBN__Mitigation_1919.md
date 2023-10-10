@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Combine the usage of face masks with partial social isolation, where 50% of the population fulfills the isolation requirements while the other 50% does not.
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Combine the usage of face masks with partial social isolation, where 50% of the 
 ## Property: has_MitigationTechnology
 
 * [face masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_342.md)
+
+## Property: has_MitigationPrinciple
+
+Combine the usage of face masks with partial social isolation, where 50% of the population fulfills the isolation requirements while the other 50% does not.
 

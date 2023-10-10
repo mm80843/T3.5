@@ -2,7 +2,7 @@
 
 # Risk: __Impact of interventions on deaths__ (PBN__Risk_588)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Comparison of deaths averted with and without interventions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_825.md)
 

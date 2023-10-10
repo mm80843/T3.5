@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Facilitate the representation of epidemiological quantitative data for sharing and analysis
 
 ## Property: has_MitigationSource
 
@@ -18,4 +13,8 @@ Facilitate the representation of epidemiological quantitative data for sharing a
 
 * [upper-level ontologies (gfo](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3983.md)
 * [sio)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3984.md)
+
+## Property: has_MitigationPrinciple
+
+Facilitate the representation of epidemiological quantitative data for sharing and analysis
 

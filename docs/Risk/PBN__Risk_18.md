@@ -2,7 +2,7 @@
 
 # Risk: __Urban activities__ (PBN__Risk_18)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Balanced allocation of POIs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_22.md)
 

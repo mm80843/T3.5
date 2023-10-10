@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Provision of appropriate personal protective equipment (PPE) to individuals according to scenario-based calculations to minimize the risk of exposure and transmission.
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Provision of appropriate personal protective equipment (PPE) to individuals acco
 ## Property: has_MitigationTechnology
 
 * [ppe supply](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4107.md)
+
+## Property: has_MitigationPrinciple
+
+Provision of appropriate personal protective equipment (PPE) to individuals according to scenario-based calculations to minimize the risk of exposure and transmission.
 

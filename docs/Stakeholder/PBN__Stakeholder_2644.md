@@ -2,15 +2,15 @@
 
 # Stakeholder: __IoT device manufacturers and service providers__ (PBN__Stakeholder_2644)
 
-## Property: has_StakeholderGroup
+## Property: has_StakeholderSubgroup
 
-* [Technology Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_12.md)
+* [Wearable and IoT Devices](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_151.md)
 
 ## Property: has_StakeholderID
 
 * [Q42855995](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q42855995.md)
 
-## Property: has_StakeholderSubgroup
+## Property: has_StakeholderGroup
 
-* [Wearable and IoT Devices](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_151.md)
+* [Technology Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_12.md)
 

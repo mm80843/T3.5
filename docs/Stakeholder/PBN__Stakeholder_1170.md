@@ -2,7 +2,7 @@
 
 # Stakeholder: __indoor environments__ (PBN__Stakeholder_1170)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Effectiveness of UVGI decreases as humidity increases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1756.md)
 

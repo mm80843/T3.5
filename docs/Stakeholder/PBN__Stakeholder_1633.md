@@ -2,15 +2,15 @@
 
 # Stakeholder: __educator__ (PBN__Stakeholder_1633)
 
-## Property: has_StakeholderGroup
+## Property: has_StakeholderSubgroup
 
-* [Education](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_1.md)
+* [Academic Roles](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_11.md)
 
 ## Property: has_StakeholderID
 
 * [Q974144](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q974144.md)
 
-## Property: has_StakeholderSubgroup
+## Property: has_StakeholderGroup
 
-* [Academic Roles](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_11.md)
+* [Education](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_1.md)
 

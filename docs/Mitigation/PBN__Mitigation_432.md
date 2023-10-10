@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Empowers a more human-centered mode of operation, enabling decentralized and interconnected decision-making based on digital data
 
 ## Property: has_MitigationSource
 
@@ -22,4 +17,8 @@ Empowers a more human-centered mode of operation, enabling decentralized and int
 * [internet of things](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2919.md)
 * [digital technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2920.md)
 * [digitalization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3227.md)
+
+## Property: has_MitigationPrinciple
+
+Empowers a more human-centered mode of operation, enabling decentralized and interconnected decision-making based on digital data
 

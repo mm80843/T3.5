@@ -2,7 +2,7 @@
 
 # Risk: __Virus Spread__ (PBN__Risk_2522)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Engineering Controls](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_298.md)
 

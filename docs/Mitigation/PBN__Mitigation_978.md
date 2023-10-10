@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Implementing regular surface cleaning and disinfection protocols to reduce the microbial load on surfaces
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Implementing regular surface cleaning and disinfection protocols to reduce the m
 ## Property: has_MitigationTechnology
 
 * [cleaning and disinfection technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3568.md)
+
+## Property: has_MitigationPrinciple
+
+Implementing regular surface cleaning and disinfection protocols to reduce the microbial load on surfaces
 

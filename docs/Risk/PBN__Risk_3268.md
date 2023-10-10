@@ -2,7 +2,7 @@
 
 # Risk: __Vector-borne diseases outbreaks__ (PBN__Risk_3268)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Vector Surveillance and Control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1860.md)
 

@@ -2,7 +2,7 @@
 
 # Risk: __Airborne pathogen__ (PBN__Risk_845)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Filtration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_312.md)
 * [UVGI](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_315.md)

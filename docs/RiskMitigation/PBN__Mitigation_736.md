@@ -6,10 +6,6 @@
 
 * [Health harming behaviors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2708.md)
 
-## Property: has_MitigationPrinciple
-
-Reduce harm by introducing measures such as rent controls that alleviate housing stress and contribute to better health behaviors
-
 ## Property: has_MitigationSource
 
 * [gurney_dangerous_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_2.md)
@@ -17,4 +13,8 @@ Reduce harm by introducing measures such as rent controls that alleviate housing
 ## Property: has_MitigationTechnology
 
 * [regulatory policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3417.md)
+
+## Property: has_MitigationPrinciple
+
+Reduce harm by introducing measures such as rent controls that alleviate housing stress and contribute to better health behaviors
 

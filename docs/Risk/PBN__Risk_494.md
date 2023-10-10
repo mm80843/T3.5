@@ -2,7 +2,7 @@
 
 # Risk: __Green areas__ (PBN__Risk_494)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Design of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_702.md)
 

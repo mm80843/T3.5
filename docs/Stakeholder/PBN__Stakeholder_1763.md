@@ -2,15 +2,15 @@
 
 # Stakeholder: __Procurement teams__ (PBN__Stakeholder_1763)
 
-## Property: has_StakeholderGroup
+## Property: has_StakeholderSubgroup
 
-* [Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_2.md)
+* [Departments and Teams](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_26.md)
 
 ## Property: has_StakeholderID
 
 * [Q829492](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q829492.md)
 
-## Property: has_StakeholderSubgroup
+## Property: has_StakeholderGroup
 
-* [Departments and Teams](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_26.md)
+* [Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_2.md)
 

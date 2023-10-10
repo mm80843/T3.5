@@ -4,9 +4,8 @@
 
 ## Property: has_StakeholderSubgroup
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_7.md)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Vaccine distribution and storage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1908.md)
 
@@ -14,11 +13,11 @@
 
 * [Q2379469](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2379469.md)
 
-## Property: has_BenefitForPeople
-
-* [Optimized storage capacity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_211.md)
-
 ## Property: has_StakeholderGroup
 
 * [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
+
+## Property: has_BenefitForPeople
+
+* [Optimized storage capacity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_211.md)
 

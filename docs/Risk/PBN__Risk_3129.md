@@ -2,7 +2,7 @@
 
 # Risk: __Worsening infection__ (PBN__Risk_3129)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Use of Paracetamol](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1542.md)
 

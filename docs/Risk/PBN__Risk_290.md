@@ -2,7 +2,7 @@
 
 # Risk: __Potential enteric transmission of COVID-19__ (PBN__Risk_290)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Provision of safe water, sanitation, and hygienic conditions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_364.md)
 

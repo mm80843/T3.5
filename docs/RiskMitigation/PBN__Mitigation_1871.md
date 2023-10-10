@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Trace infected individuals, identify their close contacts, enforce quarantine measures, and prevent the spread of the virus.
 
 ## Property: has_MitigationSource
 
@@ -20,4 +15,8 @@ Trace infected individuals, identify their close contacts, enforce quarantine me
 * [iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_277.md)
 * [ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_278.md)
 * [mobile technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2902.md)
+
+## Property: has_MitigationPrinciple
+
+Trace infected individuals, identify their close contacts, enforce quarantine measures, and prevent the spread of the virus.
 

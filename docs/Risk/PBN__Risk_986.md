@@ -2,7 +2,7 @@
 
 # Risk: __-------------------------------------__ (PBN__Risk_986)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [---------------------------------](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1400.md)
 

@@ -2,7 +2,7 @@
 
 # Risk: __Underestimation risk__ (PBN__Risk_2860)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Improved Testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1017.md)
 

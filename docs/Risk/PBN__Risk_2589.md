@@ -2,7 +2,7 @@
 
 # Risk: __Lack of private sector investment__ (PBN__Risk_2589)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Engaging the finance sector and attracting private capital](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_494.md)
 

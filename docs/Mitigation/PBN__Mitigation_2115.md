@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Developing AI algorithms to triage patients with COVID-19 into different risk groups based on disease severity, helping allocate resources more effectively.
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Developing AI algorithms to triage patients with COVID-19 into different risk gr
 ## Property: has_MitigationTechnology
 
 * [artificial intelligence (ai)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1714.md)
+
+## Property: has_MitigationPrinciple
+
+Developing AI algorithms to triage patients with COVID-19 into different risk groups based on disease severity, helping allocate resources more effectively.
 

@@ -6,16 +6,16 @@
 
 Geolocation data enable monitoring of healthcare resources and allocation
 
-## Property: has_Beneficiary
+## Property: has_BenefSource
 
-* [government authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_302.md)
+* [fariniuk_smart_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_143.md)
 
-## Property: has_BenefReturn
+## Description of Benefits pertaining to Beneficiaries
 
 * [Ensure compliance with social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_786.md)
 * [Optimize healthcare resource allocation and emergency response](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_789.md)
 
-## Property: has_BenefSource
+## Property: has_Beneficiary
 
-* [fariniuk_smart_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_143.md)
+* [government authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_302.md)
 

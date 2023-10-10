@@ -6,14 +6,14 @@
 
 * [Inadequate reporting and method quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1542.md)
 
-## Property: has_TechnologyID
-
-* [Q185698](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q185698.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Research and Scientific Studies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_163.md)
 * [Data Collection and Reporting Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_175.md)
+
+## Property: has_TechnologyID
+
+* [Q185698](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q185698.md)
 
 ## Property: has_StakeholderGroup
 

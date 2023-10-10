@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Providing accurate and reliable information about the situation to build trust and cooperation
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Providing accurate and reliable information about the situation to build trust a
 ## Property: has_MitigationTechnology
 
 * [transparent communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_104.md)
+
+## Property: has_MitigationPrinciple
+
+Providing accurate and reliable information about the situation to build trust and cooperation
 

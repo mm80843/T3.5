@@ -2,7 +2,7 @@
 
 # Risk: __Spread of COVID-19 in public housing__ (PBN__Risk_383)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Improved sanitation and cleaning protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_529.md)
 * [Provision of language-appropriate resources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_530.md)

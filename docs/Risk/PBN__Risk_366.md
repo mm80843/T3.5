@@ -2,7 +2,7 @@
 
 # Risk: __Risk of inadequate ventilation and air quality__ (PBN__Risk_366)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Increased natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_484.md)
 

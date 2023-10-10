@@ -2,7 +2,7 @@
 
 # Risk: __Falling investment in fossil fuels__ (PBN__Risk_43)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Divestment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_60.md)
 

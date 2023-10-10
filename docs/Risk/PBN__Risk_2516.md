@@ -2,7 +2,7 @@
 
 # Risk: __Eviction__ (PBN__Risk_2516)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Eviction diversion programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_271.md)
 * [Civil right to counsel](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_272.md)

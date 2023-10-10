@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Collects and transmits real-time health data, enabling remote monitoring and quick response to health events
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Collects and transmits real-time health data, enabling remote monitoring and qui
 ## Property: has_MitigationTechnology
 
 * [iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_96.md)
+
+## Property: has_MitigationPrinciple
+
+Collects and transmits real-time health data, enabling remote monitoring and quick response to health events
 

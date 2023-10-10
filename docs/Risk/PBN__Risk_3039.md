@@ -2,7 +2,7 @@
 
 # Risk: __Production disruption__ (PBN__Risk_3039)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Flexible manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1360.md)
 

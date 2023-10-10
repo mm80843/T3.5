@@ -2,7 +2,7 @@
 
 # Risk: __Inefficient testing for COVID-19__ (PBN__Risk_462)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [AI for testing optimization](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_652.md)
 

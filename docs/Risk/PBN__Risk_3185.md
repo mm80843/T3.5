@@ -2,7 +2,7 @@
 
 # Risk: __Ethical dilemmas__ (PBN__Risk_3185)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Value-based decision-making](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1639.md)
 

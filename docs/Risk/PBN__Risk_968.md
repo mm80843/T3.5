@@ -2,7 +2,7 @@
 
 # Risk: __Pathogen transmission via surfaces__ (PBN__Risk_968)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Antimicrobial surfaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1352.md)
 * [UV radiation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1353.md)

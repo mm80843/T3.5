@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Promote walking, cycling, and other forms of active transportation to reduce reliance on mass public transportation that can contribute to the spread of diseases.
 
 ## Property: has_MitigationSource
 
@@ -16,5 +11,8 @@ Promote walking, cycling, and other forms of active transportation to reduce rel
 
 ## Property: has_MitigationTechnology
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
+
+## Property: has_MitigationPrinciple
+
+Promote walking, cycling, and other forms of active transportation to reduce reliance on mass public transportation that can contribute to the spread of diseases.
 

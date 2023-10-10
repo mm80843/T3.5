@@ -2,7 +2,7 @@
 
 # Risk: __Increased eviction__ (PBN__Risk_2514)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Eviction moratoria](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_269.md)
 

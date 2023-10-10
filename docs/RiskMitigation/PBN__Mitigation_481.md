@@ -6,10 +6,6 @@
 
 * [Dimly lit spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2579.md)
 
-## Property: has_MitigationPrinciple
-
-Natural light has been shown to improve mood and well-being, creating a more comfortable and pleasant indoor environment.
-
 ## Property: has_MitigationSource
 
 * [cuerdo-vilches_mixed_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_89.md)
@@ -18,4 +14,8 @@ Natural light has been shown to improve mood and well-being, creating a more com
 
 * [skylights](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_141.md)
 * [window design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3253.md)
+
+## Property: has_MitigationPrinciple
+
+Natural light has been shown to improve mood and well-being, creating a more comfortable and pleasant indoor environment.
 

@@ -6,16 +6,16 @@
 
 Green roofs act as sound barriers, reducing noise pollution and creating a quieter urban environment.
 
+## Property: has_BenefSource
+
+* [manso_role_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_262.md)
+
+## Description of Benefits pertaining to Beneficiaries
+
+* [Private investors in green roofs can contribute to a better quality of life by reducing noise pollution for urban residents, benefiting municipalities.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1413.md)
+
 ## Property: has_Beneficiary
 
 * [urban residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_209.md)
 * [municipalities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_493.md)
-
-## Property: has_BenefReturn
-
-* [Private investors in green roofs can contribute to a better quality of life by reducing noise pollution for urban residents, benefiting municipalities.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1413.md)
-
-## Property: has_BenefSource
-
-* [manso_role_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_262.md)
 

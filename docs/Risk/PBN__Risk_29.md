@@ -2,7 +2,7 @@
 
 # Risk: __Impact of Covid-19 on neighborhoods__ (PBN__Risk_29)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Neighborhood-oriented development](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_37.md)
 

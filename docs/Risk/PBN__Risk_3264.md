@@ -2,7 +2,7 @@
 
 # Risk: __Impact of climate change__ (PBN__Risk_3264)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Climate change mitigation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1829.md)
 

@@ -2,7 +2,7 @@
 
 # Stakeholder: __construction project planners__ (PBN__Stakeholder_1241)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Site selection near open water bodies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1832.md)
 

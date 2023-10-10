@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Reducing vector populations through the use of chemicals to control mosquito larvae and adult mosquitoes
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Reducing vector populations through the use of chemicals to control mosquito lar
 ## Property: has_MitigationTechnology
 
 * [pesticides](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4048.md)
+
+## Property: has_MitigationPrinciple
+
+Reducing vector populations through the use of chemicals to control mosquito larvae and adult mosquitoes
 

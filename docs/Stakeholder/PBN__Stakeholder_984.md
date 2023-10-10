@@ -2,7 +2,7 @@
 
 # Stakeholder: __hiring managers__ (PBN__Stakeholder_984)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Recruitment challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1528.md)
 

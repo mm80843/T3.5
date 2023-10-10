@@ -2,7 +2,7 @@
 
 # Risk: __Declining funding flows__ (PBN__Risk_2585)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Increasing international development finance and philanthropy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_490.md)
 

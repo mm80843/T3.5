@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Engaging in yoga practice to improve mental health and well-being.
 
 ## Property: has_MitigationSource
 
@@ -18,4 +13,8 @@ Engaging in yoga practice to improve mental health and well-being.
 
 * [yoga mats](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3236.md)
 * [online yoga classes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3237.md)
+
+## Property: has_MitigationPrinciple
+
+Engaging in yoga practice to improve mental health and well-being.
 

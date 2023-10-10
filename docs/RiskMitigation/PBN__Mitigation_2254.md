@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Strengthening the UN and WHO's leadership and resources can enhance global coordination and response to pandemics, ensuring effective global health governance and the ability to provide critical medical personnel and supplies to all countries in need.
 
 ## Property: has_MitigationSource
 
@@ -16,5 +11,8 @@ Strengthening the UN and WHO's leadership and resources can enhance global coord
 
 ## Property: has_MitigationTechnology
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
+
+## Property: has_MitigationPrinciple
+
+Strengthening the UN and WHO's leadership and resources can enhance global coordination and response to pandemics, ensuring effective global health governance and the ability to provide critical medical personnel and supplies to all countries in need.
 

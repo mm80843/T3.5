@@ -2,7 +2,7 @@
 
 # Risk: __Limited EU mandate on public health__ (PBN__Risk_548)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Strengthen EU-level institutions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_775.md)
 

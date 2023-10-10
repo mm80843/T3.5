@@ -6,10 +6,6 @@
 
 * [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_332.md)
 
-## Property: has_MitigationPrinciple
-
-Use of smartphone data and cameras to monitor and enforce social distancing measures
-
 ## Property: has_MitigationSource
 
 * [fariniuk_smart_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_143.md)
@@ -17,4 +13,8 @@ Use of smartphone data and cameras to monitor and enforce social distancing meas
 ## Property: has_MitigationTechnology
 
 * [geolocation data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3365.md)
+
+## Property: has_MitigationPrinciple
+
+Use of smartphone data and cameras to monitor and enforce social distancing measures
 

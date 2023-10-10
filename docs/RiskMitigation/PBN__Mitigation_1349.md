@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Increase air exchange rate to remove virus particles from the air, reducing the risk of infection
 
 ## Property: has_MitigationSource
 
@@ -16,5 +11,8 @@ Increase air exchange rate to remove virus particles from the air, reducing the 
 
 ## Property: has_MitigationTechnology
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
+
+## Property: has_MitigationPrinciple
+
+Increase air exchange rate to remove virus particles from the air, reducing the risk of infection
 

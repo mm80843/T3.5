@@ -6,16 +6,16 @@
 
 The schema design and knowledge extraction processes enable the integration and sharing of knowledge about COVID-19 from multiple sources, improving collaboration and facilitating research and decision-making.
 
+## Property: has_BenefSource
+
+* [wang_construction_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_28.md)
+
+## Description of Benefits pertaining to Beneficiaries
+
+* [Private investors would benefit from improved access to comprehensive and diverse knowledge, leading to more informed decision-making and potentially improved outcomes.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_129.md)
+
 ## Property: has_Beneficiary
 
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
 * [healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_32.md)
-
-## Property: has_BenefReturn
-
-* [Private investors would benefit from improved access to comprehensive and diverse knowledge, leading to more informed decision-making and potentially improved outcomes.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_129.md)
-
-## Property: has_BenefSource
-
-* [wang_construction_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_28.md)
 

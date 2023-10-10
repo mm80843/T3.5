@@ -2,7 +2,7 @@
 
 # Risk: __Exposure to chemical and biological contaminants on stainless steel surfaces__ (PBN__Risk_53)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Copper coating via cold-spray technique](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_69.md)
 

@@ -2,7 +2,7 @@
 
 # Risk: __Exposure to virus__ (PBN__Risk_3144)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Remote work for office workers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1567.md)
 

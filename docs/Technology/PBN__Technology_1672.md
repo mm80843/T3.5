@@ -6,14 +6,14 @@
 
 * [Zoonotic disease emergence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_488.md)
 
-## Property: has_TechnologyID
-
-* [Q1749732](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1749732.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Environmental and Outdoor Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_91.md)
 * [Technologies for Monitoring and Mitigation](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_64.md)
+
+## Property: has_TechnologyID
+
+* [Q1749732](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1749732.md)
 
 ## Property: has_StakeholderGroup
 

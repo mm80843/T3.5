@@ -2,7 +2,7 @@
 
 # Risk: __Increased levels of domestic violence__ (PBN__Risk_483)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Increased support services for domestic abuse victims](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_680.md)
 

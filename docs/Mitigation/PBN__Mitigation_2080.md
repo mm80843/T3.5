@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Categorizing banks based on their financial soundness allows for the determination of different credit guarantee ratios for each group of banks
 
 ## Property: has_MitigationSource
 
@@ -16,5 +11,8 @@ Categorizing banks based on their financial soundness allows for the determinati
 
 ## Property: has_MitigationTechnology
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
+
+## Property: has_MitigationPrinciple
+
+Categorizing banks based on their financial soundness allows for the determination of different credit guarantee ratios for each group of banks
 

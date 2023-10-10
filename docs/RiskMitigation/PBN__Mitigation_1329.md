@@ -6,10 +6,6 @@
 
 * [Contamination from respiratory droplets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3024.md)
 
-## Property: has_MitigationPrinciple
-
-To prevent the spread of respiratory droplets that may contain the virus
-
 ## Property: has_MitigationSource
 
 * [mesa_vieira_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_236.md)
@@ -17,4 +13,8 @@ To prevent the spread of respiratory droplets that may contain the virus
 ## Property: has_MitigationTechnology
 
 * [personal protective equipment (e.g. masks)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3797.md)
+
+## Property: has_MitigationPrinciple
+
+To prevent the spread of respiratory droplets that may contain the virus
 

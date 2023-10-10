@@ -6,16 +6,16 @@
 
 Branded signs reflect the retailer's identity and image, reinforcing brand recognition and loyalty
 
+## Property: has_BenefSource
+
+* [mcneish_retail_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_159.md)
+
+## Description of Benefits pertaining to Beneficiaries
+
+* [Reinforcing brand image can lead to increased customer trust and preference, resulting in improved customer engagement and potential increase in sales.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_867.md)
+
 ## Property: has_Beneficiary
 
 * [customers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_221.md)
 * [retailers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_323.md)
-
-## Property: has_BenefReturn
-
-* [Reinforcing brand image can lead to increased customer trust and preference, resulting in improved customer engagement and potential increase in sales.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_867.md)
-
-## Property: has_BenefSource
-
-* [mcneish_retail_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_159.md)
 

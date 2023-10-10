@@ -2,11 +2,11 @@
 
 # Technology: __energy-efficient lighting systems__ (PBN__Technology_1256)
 
-## Property: has_TechnologyRisk
-
-* [Inadequate lighting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1884.md)
-
 ## Property: has_TechnologyID
 
 * [Q3577509](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3577509.md)
+
+## Property: has_TechnologyRisk
+
+* [Inadequate lighting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1884.md)
 

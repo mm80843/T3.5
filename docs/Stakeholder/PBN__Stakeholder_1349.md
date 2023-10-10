@@ -2,7 +2,7 @@
 
 # Stakeholder: __communities at high risk__ (PBN__Stakeholder_1349)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Low public knowledge and awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2009.md)
 

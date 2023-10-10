@@ -2,11 +2,11 @@
 
 # RiskMitigation: __Increase number of aquatic predators__ (PBN__RiskMitigation_77)
 
-## Property: has_MitigationBenefit
-
-* [Reduction in tick populations](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_90.md)
-
 ## Property: has_MitigationRisk
 
 * [Tick-borne diseases in urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_65.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduction in tick populations](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_90.md)
 

@@ -2,7 +2,7 @@
 
 # Stakeholder: __gated and non-gated community residents__ (PBN__Stakeholder_636)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_571.md)
 * [Lack of adherence to preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1107.md)

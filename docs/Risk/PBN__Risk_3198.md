@@ -2,7 +2,7 @@
 
 # Risk: __Lack of private space__ (PBN__Risk_3198)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Privacy considerations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1661.md)
 

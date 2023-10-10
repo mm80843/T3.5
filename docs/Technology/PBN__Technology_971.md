@@ -6,13 +6,13 @@
 
 * [Inadequate door-lock device](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1643.md)
 
-## Property: has_TechnologyID
-
-* [Q24644118](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q24644118.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Housing and Building Design](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_157.md)
+
+## Property: has_TechnologyID
+
+* [Q24644118](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q24644118.md)
 
 ## Property: has_StakeholderGroup
 

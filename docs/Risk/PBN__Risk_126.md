@@ -2,7 +2,7 @@
 
 # Risk: __Thermal discomfort__ (PBN__Risk_126)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Optimal thermal environments](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_150.md)
 

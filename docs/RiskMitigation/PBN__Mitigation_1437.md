@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Using wastewater monitoring to obtain information on SARS-CoV-2 incidence within populations and inform public health policy responses
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Using wastewater monitoring to obtain information on SARS-CoV-2 incidence within
 ## Property: has_MitigationTechnology
 
 * [analytical genomic approaches](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3877.md)
+
+## Property: has_MitigationPrinciple
+
+Using wastewater monitoring to obtain information on SARS-CoV-2 incidence within populations and inform public health policy responses
 

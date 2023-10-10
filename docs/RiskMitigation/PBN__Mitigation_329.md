@@ -4,12 +4,7 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 * [Accuracy, skin irritation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2553.md)
-
-## Property: has_MitigationPrinciple
-
-Continuous monitoring and analysis of vital signs and changes in the body to detect and predict the onset of infection or disease. Allows for personalized baseline and alerts for potential infection.
 
 ## Property: has_MitigationSource
 
@@ -27,4 +22,8 @@ Continuous monitoring and analysis of vital signs and changes in the body to det
 * [smartwatch](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3161.md)
 * [fitness tracker](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3162.md)
 * [wearable device](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3163.md)
+
+## Property: has_MitigationPrinciple
+
+Continuous monitoring and analysis of vital signs and changes in the body to detect and predict the onset of infection or disease. Allows for personalized baseline and alerts for potential infection.
 

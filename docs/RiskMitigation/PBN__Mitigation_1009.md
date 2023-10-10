@@ -4,12 +4,7 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 * [Contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1882.md)
-
-## Property: has_MitigationPrinciple
-
-Regularly clean and disinfect surfaces and objects in the built environment to remove or kill infectious pathogens.
 
 ## Property: has_MitigationSource
 
@@ -21,4 +16,8 @@ Regularly clean and disinfect surfaces and objects in the built environment to r
 * [disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_413.md)
 * [cleaning and disinfection products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_227.md)
 * [cleaning agents](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3292.md)
+
+## Property: has_MitigationPrinciple
+
+Regularly clean and disinfect surfaces and objects in the built environment to remove or kill infectious pathogens.
 

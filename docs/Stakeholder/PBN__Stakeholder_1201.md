@@ -2,7 +2,7 @@
 
 # Stakeholder: __occupants of crowded and poorly ventilated buildings__ (PBN__Stakeholder_1201)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_252.md)
 

@@ -2,7 +2,7 @@
 
 # Risk: __Physical and Mental Health Concerns__ (PBN__Risk_2526)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Physical and Mental Health](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_303.md)
 

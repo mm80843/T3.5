@@ -2,9 +2,9 @@
 
 # Article: __collin_using_2021__ (PBN__Article_337)
 
-## Property: has_ArticleTitle
+## Property: has_ArticleDOI
 
-Using a population-based Kalman estimator to model the COVID-19 epidemic in France: estimating associations between disease transmission and non-pharmaceutical interventions
+10.1101/2021.07.09.21260259
 
 ## Property: has_ArticleYear
 
@@ -15,7 +15,7 @@ Using a population-based Kalman estimator to model the COVID-19 epidemic in Fran
 * [hsiang_effect_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_103.md)
 * [kraemer_effect_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_248.md)
 
-## Property: has_ArticleDOI
+## Property: has_ArticleTitle
 
-10.1101/2021.07.09.21260259
+Using a population-based Kalman estimator to model the COVID-19 epidemic in France: estimating associations between disease transmission and non-pharmaceutical interventions
 

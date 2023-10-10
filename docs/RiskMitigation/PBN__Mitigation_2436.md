@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Ensuring equitable distribution of essential services and facilities reduces disparities and vulnerabilities in different communities.
 
 ## Property: has_MitigationSource
 
@@ -18,4 +13,8 @@ Ensuring equitable distribution of essential services and facilities reduces dis
 
 * [resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_608.md)
 * [urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_922.md)
+
+## Property: has_MitigationPrinciple
+
+Ensuring equitable distribution of essential services and facilities reduces disparities and vulnerabilities in different communities.
 

@@ -4,12 +4,7 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 * [Lack of awareness, misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2918.md)
-
-## Property: has_MitigationPrinciple
-
-Educates the public about the virus, transmission risks, and mitigation measures
 
 ## Property: has_MitigationSource
 
@@ -22,4 +17,8 @@ Educates the public about the virus, transmission risks, and mitigation measures
 * [information dissemination](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3093.md)
 * [media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3640.md)
 * [advertising](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3641.md)
+
+## Property: has_MitigationPrinciple
+
+Educates the public about the virus, transmission risks, and mitigation measures
 

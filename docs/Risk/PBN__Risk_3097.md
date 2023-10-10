@@ -2,7 +2,7 @@
 
 # Risk: __Lack of knowledge and inhibitions__ (PBN__Risk_3097)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Public awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1482.md)
 

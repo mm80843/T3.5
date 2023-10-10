@@ -2,7 +2,7 @@
 
 # Risk: __Respiratory pandemics__ (PBN__Risk_476)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Non-Pharmaceutical Interventions (NPIs)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_666.md)
 * [Urban planning and design interventions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_667.md)

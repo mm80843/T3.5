@@ -2,15 +2,15 @@
 
 # Stakeholder: __Particularly children__ (PBN__Stakeholder_2132)
 
-## Property: has_StakeholderGroup
+## Property: has_StakeholderSubgroup
 
-* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
+* [Age Defined Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_77.md)
 
 ## Property: has_StakeholderID
 
 * [Q21075684](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q21075684.md)
 
-## Property: has_StakeholderSubgroup
+## Property: has_StakeholderGroup
 
-* [Age Defined Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_77.md)
+* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
 

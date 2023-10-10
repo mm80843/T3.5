@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Maintaining a comfortable temperature and humidity level in indoor spaces can contribute to a sense of well-being and prevent physical and mental health issues.
 
 ## Property: has_MitigationSource
 
@@ -16,5 +11,8 @@ Maintaining a comfortable temperature and humidity level in indoor spaces can co
 
 ## Property: has_MitigationTechnology
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
+
+## Property: has_MitigationPrinciple
+
+Maintaining a comfortable temperature and humidity level in indoor spaces can contribute to a sense of well-being and prevent physical and mental health issues.
 

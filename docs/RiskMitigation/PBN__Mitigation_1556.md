@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Researchers are working on developing vaccines against COVID-19. This measure aims to provide long-term immunity and protection against the virus, reducing the risk of infection and transmission.
 
 ## Property: has_MitigationSource
 
@@ -16,5 +11,8 @@ Researchers are working on developing vaccines against COVID-19. This measure ai
 
 ## Property: has_MitigationTechnology
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
+
+## Property: has_MitigationPrinciple
+
+Researchers are working on developing vaccines against COVID-19. This measure aims to provide long-term immunity and protection against the virus, reducing the risk of infection and transmission.
 

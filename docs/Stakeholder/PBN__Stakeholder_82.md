@@ -6,7 +6,7 @@
 
 * [Social Media Users](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_132.md)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1033.md)
 * [Misinformation and fake news](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1372.md)
@@ -19,11 +19,11 @@
 
 * [Q3220391](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3220391.md)
 
-## Property: has_BenefitForPeople
-
-* [Reduction of misinformation sharing](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_144.md)
-
 ## Property: has_StakeholderGroup
 
 * [Community Stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_8.md)
+
+## Property: has_BenefitForPeople
+
+* [Reduction of misinformation sharing](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_144.md)
 

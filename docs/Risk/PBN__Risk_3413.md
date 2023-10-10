@@ -2,7 +2,7 @@
 
 # Risk: __Low recall in manual labeling__ (PBN__Risk_3413)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Knowledge extraction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2306.md)
 

@@ -2,7 +2,7 @@
 
 # Risk: __Contamination of insulation in ductwork__ (PBN__Risk_3059)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Proper insulation maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1422.md)
 

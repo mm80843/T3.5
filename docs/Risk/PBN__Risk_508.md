@@ -2,7 +2,7 @@
 
 # Risk: __Virus Transmission through touch__ (PBN__Risk_508)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Regular cleaning and disinfection of surfaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_718.md)
 

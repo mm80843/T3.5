@@ -2,7 +2,7 @@
 
 # Risk: __Handling uncertain risk__ (PBN__Risk_661)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Account for the uncertainty inherent in risk](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_925.md)
 

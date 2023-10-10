@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Encourage individuals to engage in regular physical activity and exercise to improve well-being and prevent illness.
 
 ## Property: has_MitigationSource
 
@@ -16,5 +11,8 @@ Encourage individuals to engage in regular physical activity and exercise to imp
 
 ## Property: has_MitigationTechnology
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
+
+## Property: has_MitigationPrinciple
+
+Encourage individuals to engage in regular physical activity and exercise to improve well-being and prevent illness.
 

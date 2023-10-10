@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Using standardized questionnaires ensures consistency in data collection, allowing for meaningful comparisons and analysis of HIV prevalence across different regions and populations
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Using standardized questionnaires ensures consistency in data collection, allowi
 ## Property: has_MitigationTechnology
 
 * [questionnaire design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3335.md)
+
+## Property: has_MitigationPrinciple
+
+Using standardized questionnaires ensures consistency in data collection, allowing for meaningful comparisons and analysis of HIV prevalence across different regions and populations
 

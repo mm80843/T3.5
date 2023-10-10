@@ -2,7 +2,7 @@
 
 # Risk: __Social and gender disparities__ (PBN__Risk_2641)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Remote work](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_310.md)
 

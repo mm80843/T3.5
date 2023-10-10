@@ -2,7 +2,7 @@
 
 # Risk: __Variation in lighting standards__ (PBN__Risk_791)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Incorporation of adaptable lighting solutions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1085.md)
 

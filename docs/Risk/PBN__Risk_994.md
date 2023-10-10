@@ -2,7 +2,7 @@
 
 # Risk: __Anti-social activities__ (PBN__Risk_994)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1410.md)
 

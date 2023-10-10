@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Increases outside air fraction and total air change rate, reducing the concentration of viral particles in indoor spaces.
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Increases outside air fraction and total air change rate, reducing the concentra
 ## Property: has_MitigationTechnology
 
 * [windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_140.md)
+
+## Property: has_MitigationPrinciple
+
+Increases outside air fraction and total air change rate, reducing the concentration of viral particles in indoor spaces.
 

@@ -6,10 +6,6 @@
 
 * [Lack of trust](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2441.md)
 
-## Property: has_MitigationPrinciple
-
-Increased transparency in data usage and clear policies can address concerns and improve trust in the way data is utilized.
-
 ## Property: has_MitigationSource
 
 * [allam_emergence_2019](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_15.md)
@@ -18,4 +14,8 @@ Increased transparency in data usage and clear policies can address concerns and
 
 * [data policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2970.md)
 * [control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2971.md)
+
+## Property: has_MitigationPrinciple
+
+Increased transparency in data usage and clear policies can address concerns and improve trust in the way data is utilized.
 

@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Ensuring proper natural and mechanical ventilation in buildings to improve indoor air quality and reduce the concentration of infectious particles.
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Ensuring proper natural and mechanical ventilation in buildings to improve indoo
 ## Property: has_MitigationTechnology
 
 * [ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_139.md)
+
+## Property: has_MitigationPrinciple
+
+Ensuring proper natural and mechanical ventilation in buildings to improve indoor air quality and reduce the concentration of infectious particles.
 

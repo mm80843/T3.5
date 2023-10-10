@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Performing exercises at home to maintain physical fitness and improve mental health.
 
 ## Property: has_MitigationSource
 
@@ -18,4 +13,8 @@ Performing exercises at home to maintain physical fitness and improve mental hea
 
 * [exercise equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3238.md)
 * [fitness apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3239.md)
+
+## Property: has_MitigationPrinciple
+
+Performing exercises at home to maintain physical fitness and improve mental health.
 

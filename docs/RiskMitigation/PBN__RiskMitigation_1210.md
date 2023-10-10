@@ -2,11 +2,11 @@
 
 # RiskMitigation: __Strengthen moral support for the measures__ (PBN__RiskMitigation_1210)
 
-## Property: has_MitigationBenefit
-
-* [Increased compliance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1214.md)
-
 ## Property: has_MitigationRisk
 
 * [Non-compliance with COVID-19 mitigation measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_885.md)
+
+## Property: has_MitigationBenefit
+
+* [Increased compliance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1214.md)
 

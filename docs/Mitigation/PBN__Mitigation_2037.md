@@ -6,10 +6,6 @@
 
 * [Disease transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_489.md)
 
-## Property: has_MitigationPrinciple
-
-Provide temporary isolation and quarantine facilities for infected workers and close contacts
-
 ## Property: has_MitigationSource
 
 * [sunandar_preventing_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_102.md)
@@ -18,4 +14,8 @@ Provide temporary isolation and quarantine facilities for infected workers and c
 
 * [medical supplies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1252.md)
 * [rooms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4202.md)
+
+## Property: has_MitigationPrinciple
+
+Provide temporary isolation and quarantine facilities for infected workers and close contacts
 

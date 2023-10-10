@@ -2,7 +2,7 @@
 
 # Risk: __Overreliance on artificial lighting and ventilation__ (PBN__Risk_112)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Design for natural lighting and ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_136.md)
 

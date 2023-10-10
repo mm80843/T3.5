@@ -7,14 +7,14 @@
 * [Emotional distress and psychiatric illness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1896.md)
 * [Psychopathology in vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1898.md)
 
-## Property: has_TechnologyID
-
-* [Q55645123](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q55645123.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Online Counseling and Therapy Platforms](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_65.md)
 * [Mental Health Support](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_63.md)
+
+## Property: has_TechnologyID
+
+* [Q55645123](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q55645123.md)
 
 ## Property: has_StakeholderGroup
 

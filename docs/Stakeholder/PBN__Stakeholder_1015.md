@@ -2,7 +2,7 @@
 
 # Stakeholder: __inhabitants__ (PBN__Stakeholder_1015)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Lack of awareness and education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1165.md)
 * [Contamination from microorganisms in the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1574.md)

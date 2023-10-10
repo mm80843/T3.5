@@ -2,7 +2,7 @@
 
 # Risk: __Lack of standardisation, data format limitations__ (PBN__Risk_2633)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Open research publishing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_570.md)
 

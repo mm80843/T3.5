@@ -2,7 +2,7 @@
 
 # Risk: __Improper system configuration and settings__ (PBN__Risk_3064)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Proper system configuration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1426.md)
 

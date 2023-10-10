@@ -2,7 +2,7 @@
 
 # Stakeholder: __------------------------------__ (PBN__Stakeholder_1548)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [-------------------](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2321.md)
 

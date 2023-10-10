@@ -2,7 +2,7 @@
 
 # Risk: __Loss of healthcare workforce__ (PBN__Risk_408)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Application of antimicrobial coatings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_574.md)
 

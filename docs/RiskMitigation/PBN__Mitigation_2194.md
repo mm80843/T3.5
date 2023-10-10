@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Enhancing the quality of parks can encourage more people, especially those from lower-income neighborhoods, to use them. This can lead to increased physical activity, social interaction, and overall health and well-being.
 
 ## Property: has_MitigationSource
 
@@ -16,5 +11,8 @@ Enhancing the quality of parks can encourage more people, especially those from 
 
 ## Property: has_MitigationTechnology
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
+
+## Property: has_MitigationPrinciple
+
+Enhancing the quality of parks can encourage more people, especially those from lower-income neighborhoods, to use them. This can lead to increased physical activity, social interaction, and overall health and well-being.
 

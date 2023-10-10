@@ -6,13 +6,13 @@
 
 * [Lack of occupant interest in energy conservation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1063.md)
 
-## Property: has_TechnologyID
-
-* [Q52389](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q52389.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Contract and Financial Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_176.md)
+
+## Property: has_TechnologyID
+
+* [Q52389](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q52389.md)
 
 ## Property: has_StakeholderGroup
 

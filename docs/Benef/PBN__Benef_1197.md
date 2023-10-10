@@ -6,15 +6,14 @@
 
 dwellings and reduced
 
-## Property: has_Beneficiary
-
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_83.md)
-
-## Property: has_BenefReturn
-
-* [measures can lead to improved](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1335.md)
-
 ## Property: has_BenefSource
 
 * [lee_attitudes_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_247.md)
+
+## Description of Benefits pertaining to Beneficiaries
+
+* [measures can lead to improved](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1335.md)
+
+## Property: has_Beneficiary
+
 

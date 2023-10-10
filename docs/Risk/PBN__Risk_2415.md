@@ -2,7 +2,7 @@
 
 # Risk: __Teleworking__ (PBN__Risk_2415)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Digital change](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_32.md)
 

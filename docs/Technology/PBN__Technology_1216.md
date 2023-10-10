@@ -6,13 +6,13 @@
 
 * [Urban heat island effect](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1850.md)
 
-## Property: has_TechnologyID
-
-* [Q63100](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q63100.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Infrastructure and Urban Planning](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_86.md)
+
+## Property: has_TechnologyID
+
+* [Q63100](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q63100.md)
 
 ## Property: has_StakeholderGroup
 

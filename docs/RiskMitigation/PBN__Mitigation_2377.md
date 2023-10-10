@@ -6,10 +6,6 @@
 
 * [Misdiagnoses, privacy breaches, equipment malfunction, costs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3432.md)
 
-## Property: has_MitigationPrinciple
-
-Remote delivery of healthcare services to reduce exposure to the virus
-
 ## Property: has_MitigationSource
 
 * [whitelaw_applications_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_127.md)
@@ -18,4 +14,8 @@ Remote delivery of healthcare services to reduce exposure to the virus
 
 * [video conferencing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_406.md)
 * [digital monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4445.md)
+
+## Property: has_MitigationPrinciple
+
+Remote delivery of healthcare services to reduce exposure to the virus
 

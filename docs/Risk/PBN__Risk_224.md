@@ -2,7 +2,7 @@
 
 # Risk: __Transmission of SARS-CoV-2 through droplet secretions__ (PBN__Risk_224)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Patient respiratory and stool specimens testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_268.md)
 

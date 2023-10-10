@@ -2,7 +2,7 @@
 
 # Stakeholder: __activities__ (PBN__Stakeholder_1083)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Performance Risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_86.md)
 

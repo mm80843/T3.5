@@ -2,7 +2,7 @@
 
 # Stakeholder: __occupants of commercial and healthcare facilities__ (PBN__Stakeholder_972)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Recontamination of surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_865.md)
 * [Contamination of fomites](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1509.md)

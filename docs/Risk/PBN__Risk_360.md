@@ -2,7 +2,7 @@
 
 # Risk: __Hospital preparation__ (PBN__Risk_360)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Equipping hospitals and infection control](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_471.md)
 * [Equipping the hospital](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_801.md)

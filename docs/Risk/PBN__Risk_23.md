@@ -2,7 +2,7 @@
 
 # Risk: __Negative impact on supply chains__ (PBN__Risk_23)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Supply chain management for healthcare](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_29.md)
 

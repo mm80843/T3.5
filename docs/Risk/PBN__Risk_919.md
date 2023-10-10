@@ -2,7 +2,7 @@
 
 # Risk: __Impact on informal street economy__ (PBN__Risk_919)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Integrating informal street vendors and workers into public space design and regulations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1265.md)
 

@@ -2,11 +2,11 @@
 
 # RiskMitigation: __Decentralizing economic activities__ (PBN__RiskMitigation_362)
 
-## Property: has_MitigationBenefit
-
-* [Reduction in epidemic growth](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_356.md)
-
 ## Property: has_MitigationRisk
 
 * [Spatial variations in disease spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_287.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduction in epidemic growth](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_356.md)
 

@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Access to reliable communication technologies allows for effective dissemination of information and guidelines.
 
 ## Property: has_MitigationSource
 
@@ -18,4 +13,8 @@ Access to reliable communication technologies allows for effective dissemination
 
 * [internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3058.md)
 * [mobile devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4026.md)
+
+## Property: has_MitigationPrinciple
+
+Access to reliable communication technologies allows for effective dissemination of information and guidelines.
 

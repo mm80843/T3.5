@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Integrate automation and touchless technologies in buildings to minimize physical contact and reduce the risk of infection transmission.
 
 ## Property: has_MitigationSource
 
@@ -18,4 +13,8 @@ Integrate automation and touchless technologies in buildings to minimize physica
 
 * [touchless technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_206.md)
 * [ai technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3771.md)
+
+## Property: has_MitigationPrinciple
+
+Integrate automation and touchless technologies in buildings to minimize physical contact and reduce the risk of infection transmission.
 

@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Gathering real-time data to provide timely insights into policy decisions
 
 ## Property: has_MitigationSource
 
@@ -18,4 +13,8 @@ Gathering real-time data to provide timely insights into policy decisions
 
 * [iot sensing infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3534.md)
 * [data capture infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3539.md)
+
+## Property: has_MitigationPrinciple
+
+Gathering real-time data to provide timely insights into policy decisions
 

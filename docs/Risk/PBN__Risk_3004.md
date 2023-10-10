@@ -2,7 +2,7 @@
 
 # Risk: __Increased travel__ (PBN__Risk_3004)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Improved travel limitations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1266.md)
 

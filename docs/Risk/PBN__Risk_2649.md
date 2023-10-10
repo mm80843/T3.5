@@ -2,7 +2,7 @@
 
 # Risk: __Lack of herd immunity__ (PBN__Risk_2649)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Vaccination campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_599.md)
 

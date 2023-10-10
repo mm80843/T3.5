@@ -2,7 +2,7 @@
 
 # Risk: __Technical skills and training__ (PBN__Risk_2543)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Smart learning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_373.md)
 

@@ -2,7 +2,7 @@
 
 # Risk: __Limited access to parks__ (PBN__Risk_2897)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Nature-based Activities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1064.md)
 

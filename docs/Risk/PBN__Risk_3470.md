@@ -2,7 +2,7 @@
 
 # Risk: __False-negative results__ (PBN__Risk_3470)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Rapid Testing Methods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2477.md)
 

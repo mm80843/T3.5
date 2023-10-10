@@ -6,10 +6,6 @@
 
 * [Risk of infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2469.md)
 
-## Property: has_MitigationPrinciple
-
-Use spatial mapping to identify areas with high COVID-19 cases, allowing for targeted prevention measures such as lockdowns or distribution of masks and sanitizers.
-
 ## Property: has_MitigationSource
 
 * [bolivar_learning_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_177.md)
@@ -17,4 +13,8 @@ Use spatial mapping to identify areas with high COVID-19 cases, allowing for tar
 ## Property: has_MitigationTechnology
 
 * [geographical information systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3116.md)
+
+## Property: has_MitigationPrinciple
+
+Use spatial mapping to identify areas with high COVID-19 cases, allowing for targeted prevention measures such as lockdowns or distribution of masks and sanitizers.
 

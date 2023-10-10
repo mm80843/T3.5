@@ -4,12 +4,7 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 * [Misallocation of resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2793.md)
-
-## Property: has_MitigationPrinciple
-
-Implementing efficient strategies for resource allocation, considering the prioritization of investments in areas that can have a significant impact on public health, such as enhancing influenza vaccination uptake, rather than allocating resources primarily to extreme containment measures that may not have strong evidence of effectiveness.
 
 ## Property: has_MitigationSource
 
@@ -23,4 +18,8 @@ Implementing efficient strategies for resource allocation, considering the prior
 * [cloud computing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1232.md)
 * [efficient allocation strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3517.md)
 * [government funds and military personnel](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4412.md)
+
+## Property: has_MitigationPrinciple
+
+Implementing efficient strategies for resource allocation, considering the prioritization of investments in areas that can have a significant impact on public health, such as enhancing influenza vaccination uptake, rather than allocating resources primarily to extreme containment measures that may not have strong evidence of effectiveness.
 

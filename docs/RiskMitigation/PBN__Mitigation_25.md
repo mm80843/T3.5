@@ -6,10 +6,6 @@
 
 * [Spread of infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2408.md)
 
-## Property: has_MitigationPrinciple
-
-Ensuring access to adequate sanitation facilities is essential to prevent the transmission of infectious diseases within communities.
-
 ## Property: has_MitigationSource
 
 * [acuto_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_85.md)
@@ -17,4 +13,8 @@ Ensuring access to adequate sanitation facilities is essential to prevent the tr
 ## Property: has_MitigationTechnology
 
 * [sanitation infrastructure and services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2906.md)
+
+## Property: has_MitigationPrinciple
+
+Ensuring access to adequate sanitation facilities is essential to prevent the transmission of infectious diseases within communities.
 

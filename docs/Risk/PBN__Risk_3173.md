@@ -2,7 +2,7 @@
 
 # Risk: __Incomplete vaccination data__ (PBN__Risk_3173)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Data completion](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1623.md)
 

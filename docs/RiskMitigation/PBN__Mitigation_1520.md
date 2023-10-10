@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Sampling of the PPE used by healthcare workers to determine if they have been exposed to the pathogen
 
 ## Property: has_MitigationSource
 
@@ -16,5 +11,8 @@ Sampling of the PPE used by healthcare workers to determine if they have been ex
 
 ## Property: has_MitigationTechnology
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
+
+## Property: has_MitigationPrinciple
+
+Sampling of the PPE used by healthcare workers to determine if they have been exposed to the pathogen
 

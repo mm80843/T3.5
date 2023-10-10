@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Collect data on citizens' preferences and WTP for green roofs in a more direct manner
 
 ## Property: has_MitigationSource
 
@@ -18,4 +13,8 @@ Collect data on citizens' preferences and WTP for green roofs in a more direct m
 
 * [surveys](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_900.md)
 * [personal interaction](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3726.md)
+
+## Property: has_MitigationPrinciple
+
+Collect data on citizens' preferences and WTP for green roofs in a more direct manner
 

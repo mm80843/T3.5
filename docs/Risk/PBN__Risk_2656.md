@@ -2,7 +2,7 @@
 
 # Risk: __Time limitation__ (PBN__Risk_2656)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Activate rapid response services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_607.md)
 

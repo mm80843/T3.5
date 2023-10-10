@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Risk communication strategies should be developed to address the concerns of diverse communities, promote prevention and response to pandemics, and ensure trust and transparency.
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Risk communication strategies should be developed to address the concerns of div
 ## Property: has_MitigationTechnology
 
 * [comprehensive risk communication strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3081.md)
+
+## Property: has_MitigationPrinciple
+
+Risk communication strategies should be developed to address the concerns of diverse communities, promote prevention and response to pandemics, and ensure trust and transparency.
 

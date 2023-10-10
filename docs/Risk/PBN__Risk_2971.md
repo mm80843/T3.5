@@ -2,7 +2,7 @@
 
 # Risk: __Efficient design changes and management__ (PBN__Risk_2971)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Building Information Model (BIM)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1222.md)
 

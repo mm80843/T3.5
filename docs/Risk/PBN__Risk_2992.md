@@ -2,7 +2,7 @@
 
 # Risk: __Data sharing ethics, accuracy__ (PBN__Risk_2992)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Big data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1249.md)
 

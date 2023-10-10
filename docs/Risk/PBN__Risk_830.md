@@ -2,7 +2,7 @@
 
 # Risk: __Precarious situation of vulnerable populations__ (PBN__Risk_830)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Provide adequate healthcare services and support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1137.md)
 

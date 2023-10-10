@@ -2,7 +2,7 @@
 
 # Risk: __Ineffective dissemination of evidence__ (PBN__Risk_395)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Contextualising and disseminating actionable evidence](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_552.md)
 

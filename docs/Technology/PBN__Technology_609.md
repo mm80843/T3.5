@@ -9,14 +9,14 @@
 * [Impact on mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1597.md)
 * [Negative impact of prolonged self-isolation on mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1714.md)
 
-## Property: has_TechnologyID
-
-* [Q4923501](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4923501.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Online Counseling and Therapy Platforms](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_65.md)
 * [Mental Health Support](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_63.md)
+
+## Property: has_TechnologyID
+
+* [Q4923501](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4923501.md)
 
 ## Property: has_StakeholderGroup
 

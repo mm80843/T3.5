@@ -2,15 +2,15 @@
 
 # Stakeholder: __individual seeking health information online__ (PBN__Stakeholder_2388)
 
-## Property: has_StakeholderGroup
+## Property: has_StakeholderSubgroup
 
-* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
+* [Digital and Information Access](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_105.md)
 
 ## Property: has_StakeholderID
 
 * [Q4930](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4930.md)
 
-## Property: has_StakeholderSubgroup
+## Property: has_StakeholderGroup
 
-* [Digital and Information Access](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_105.md)
+* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
 

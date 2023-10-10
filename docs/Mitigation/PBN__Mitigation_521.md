@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Implementing physical distance between individuals to reduce the transmission of contagious diseases.
 
 ## Property: has_MitigationSource
 
@@ -17,7 +12,10 @@ Implementing physical distance between individuals to reduce the transmission of
 
 ## Property: has_MitigationTechnology
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 * [signage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_230.md)
 * [crowd control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3429.md)
+
+## Property: has_MitigationPrinciple
+
+Implementing physical distance between individuals to reduce the transmission of contagious diseases.
 

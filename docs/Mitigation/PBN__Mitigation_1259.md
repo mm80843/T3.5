@@ -6,10 +6,6 @@
 
 * [Contagious Diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3000.md)
 
-## Property: has_MitigationPrinciple
-
-Professionally produced signs to convey clear and consistent information; Laminated or coated, printed on heavier stock, and designed to withstand wear and tear
-
 ## Property: has_MitigationSource
 
 * [mcneish_retail_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_159.md)
@@ -17,4 +13,8 @@ Professionally produced signs to convey clear and consistent information; Lamina
 ## Property: has_MitigationTechnology
 
 * [printing company services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3769.md)
+
+## Property: has_MitigationPrinciple
+
+Professionally produced signs to convey clear and consistent information; Laminated or coated, printed on heavier stock, and designed to withstand wear and tear
 

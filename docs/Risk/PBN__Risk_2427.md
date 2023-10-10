@@ -2,7 +2,7 @@
 
 # Risk: __Inefficient energy consumption__ (PBN__Risk_2427)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Climatically compatible house designs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_86.md)
 

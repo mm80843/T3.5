@@ -2,7 +2,7 @@
 
 # Risk: __Urban mobility__ (PBN__Risk_17)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Promote active transportation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_21.md)
 

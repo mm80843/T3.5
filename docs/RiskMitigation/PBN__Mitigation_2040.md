@@ -6,10 +6,6 @@
 
 * [Risk of infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2469.md)
 
-## Property: has_MitigationPrinciple
-
-Determine the cumulative probability of droplet transmission based on the distance between individuals, taking into account droplet size and evaporation effect.
-
 ## Property: has_MitigationSource
 
 * [sun_efficacy_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_125.md)
@@ -17,4 +13,8 @@ Determine the cumulative probability of droplet transmission based on the distan
 ## Property: has_MitigationTechnology
 
 * [analysis of droplet distribution and transmission](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4205.md)
+
+## Property: has_MitigationPrinciple
+
+Determine the cumulative probability of droplet transmission based on the distance between individuals, taking into account droplet size and evaporation effect.
 

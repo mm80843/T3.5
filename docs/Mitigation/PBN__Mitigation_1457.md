@@ -6,10 +6,6 @@
 
 * [Limited capacity of domestic violence services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3085.md)
 
-## Property: has_MitigationPrinciple
-
-Provide resources and coordination to support victims of domestic violence
-
 ## Property: has_MitigationSource
 
 * [nicola_socio-economic_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_135.md)
@@ -18,4 +14,8 @@ Provide resources and coordination to support victims of domestic violence
 
 * [financial resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3637.md)
 * [coordination](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3883.md)
+
+## Property: has_MitigationPrinciple
+
+Provide resources and coordination to support victims of domestic violence
 

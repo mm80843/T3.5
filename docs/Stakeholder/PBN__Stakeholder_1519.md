@@ -6,7 +6,7 @@
 
 * [Workers/Professionals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_47.md)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Fragmentation of employment services and training](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2270.md)
 

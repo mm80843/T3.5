@@ -2,7 +2,7 @@
 
 # Risk: __Infection__ (PBN__Risk_2622)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_217.md)
 * [Personal Protective Equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_555.md)

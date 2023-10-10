@@ -6,10 +6,6 @@
 
 * [Poor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_712.md)
 
-## Property: has_MitigationPrinciple
-
-Installing HEPA filters in indoor spaces to capture and remove airborne particles, including infectious agents
-
 ## Property: has_MitigationSource
 
 * [rodriguez-fernandez_psychological_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_126.md)
@@ -17,4 +13,8 @@ Installing HEPA filters in indoor spaces to capture and remove airborne particle
 ## Property: has_MitigationTechnology
 
 * [hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_674.md)
+
+## Property: has_MitigationPrinciple
+
+Installing HEPA filters in indoor spaces to capture and remove airborne particles, including infectious agents
 

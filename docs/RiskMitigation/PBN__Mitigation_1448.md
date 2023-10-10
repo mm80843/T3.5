@@ -6,15 +6,14 @@
 
 * [Risk of loan defaults](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3076.md)
 
-## Property: has_MitigationPrinciple
-
-Provide financial support and access to loans for businesses in financial difficulty
-
 ## Property: has_MitigationSource
 
 * [nicola_socio-economic_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_135.md)
 
 ## Property: has_MitigationTechnology
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
+
+## Property: has_MitigationPrinciple
+
+Provide financial support and access to loans for businesses in financial difficulty
 

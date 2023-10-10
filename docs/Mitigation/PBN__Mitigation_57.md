@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Systematically collect, annotate, and analyze data on various anti-coronavirus drugs to understand their impacts for COVID-19 medicine.
 
 ## Property: has_MitigationSource
 
@@ -19,4 +14,8 @@ Systematically collect, annotate, and analyze data on various anti-coronavirus d
 * [biomedical literature](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2933.md)
 * [controlled experiments](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2934.md)
 * [existing ontologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2935.md)
+
+## Property: has_MitigationPrinciple
+
+Systematically collect, annotate, and analyze data on various anti-coronavirus drugs to understand their impacts for COVID-19 medicine.
 

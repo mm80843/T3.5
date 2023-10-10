@@ -2,11 +2,11 @@
 
 # Technology: __urban planning and design strategies for green spaces__ (PBN__Technology_455)
 
-## Property: has_TechnologyRisk
-
-* [Lack of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1302.md)
-
 ## Property: has_TechnologyID
 
 * [Q22652](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q22652.md)
+
+## Property: has_TechnologyRisk
+
+* [Lack of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1302.md)
 

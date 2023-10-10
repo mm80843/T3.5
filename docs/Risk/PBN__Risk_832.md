@@ -2,7 +2,7 @@
 
 # Risk: __Impact on elderly and individuals with psychiatric disorders__ (PBN__Risk_832)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Strengthen psychosocial support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1139.md)
 

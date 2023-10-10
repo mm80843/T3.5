@@ -6,10 +6,6 @@
 
 * [Disease transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_489.md)
 
-## Property: has_MitigationPrinciple
-
-Direct worker movement in a single direction to minimize close contact and maintain physical distancing
-
 ## Property: has_MitigationSource
 
 * [sunandar_preventing_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_102.md)
@@ -17,4 +13,8 @@ Direct worker movement in a single direction to minimize close contact and maint
 ## Property: has_MitigationTechnology
 
 * [signage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_230.md)
+
+## Property: has_MitigationPrinciple
+
+Direct worker movement in a single direction to minimize close contact and maintain physical distancing
 

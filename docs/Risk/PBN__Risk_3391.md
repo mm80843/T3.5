@@ -2,7 +2,7 @@
 
 # Risk: __Airborne diseases__ (PBN__Risk_3391)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Optimal architectural design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2216.md)
 * [Air ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2217.md)

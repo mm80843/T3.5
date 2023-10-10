@@ -6,7 +6,7 @@
 
 * [Residents](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_72.md)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Neglected green space quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_533.md)
 * [Limited access to green space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1289.md)
@@ -46,6 +46,10 @@
 
 * [Q33829](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q33829.md)
 
+## Property: has_StakeholderGroup
+
+* [Community Stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_8.md)
+
 ## Property: has_BenefitForPeople
 
 * [Mitigation of urban heat island effect](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1256.md)
@@ -61,8 +65,4 @@
 * [Increased social cohesion](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1299.md)
 * [Improved community resilience](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1300.md)
 * [Positive environmental externalities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1301.md)
-
-## Property: has_StakeholderGroup
-
-* [Community Stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_8.md)
 

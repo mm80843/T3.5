@@ -2,7 +2,7 @@
 
 # Risk: __Lack of flexibility__ (PBN__Risk_2699)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Multi-functional Buildings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_717.md)
 

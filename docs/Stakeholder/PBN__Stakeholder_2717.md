@@ -2,15 +2,15 @@
 
 # Stakeholder: __crisis management__ (PBN__Stakeholder_2717)
 
-## Property: has_StakeholderGroup
+## Property: has_StakeholderSubgroup
 
-* [Crisis Management](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_14.md)
+* [Crisis and Disaster Management](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_168.md)
 
 ## Property: has_StakeholderID
 
 * [Q1141276](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1141276.md)
 
-## Property: has_StakeholderSubgroup
+## Property: has_StakeholderGroup
 
-* [Crisis and Disaster Management](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_168.md)
+* [Crisis Management](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_14.md)
 

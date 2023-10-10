@@ -2,7 +2,7 @@
 
 # Risk: __Management problems__ (PBN__Risk_416)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Planning and coordination](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_578.md)
 

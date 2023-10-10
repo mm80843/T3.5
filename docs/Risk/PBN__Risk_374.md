@@ -2,7 +2,7 @@
 
 # Risk: __Exaggerated pandemic estimates__ (PBN__Risk_374)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Containment measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_507.md)
 * [Vaccination uptake](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_508.md)

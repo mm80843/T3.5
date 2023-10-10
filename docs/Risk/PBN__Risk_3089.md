@@ -2,7 +2,7 @@
 
 # Risk: __Increased disease prevalence near bodies of water__ (PBN__Risk_3089)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Site selection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1474.md)
 

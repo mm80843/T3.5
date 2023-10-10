@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Predict the probability of each category of the dependent variable
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Predict the probability of each category of the dependent variable
 ## Property: has_MitigationTechnology
 
 * [statistical analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_359.md)
+
+## Property: has_MitigationPrinciple
+
+Predict the probability of each category of the dependent variable
 

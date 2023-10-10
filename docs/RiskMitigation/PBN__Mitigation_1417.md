@@ -6,10 +6,6 @@
 
 * [Insufficient outdoor air exchange](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3054.md)
 
-## Property: has_MitigationPrinciple
-
-Opening outdoor air dampers or windows allows for increased exchange of outdoor air, diluting indoor air contaminants
-
 ## Property: has_MitigationSource
 
 * [nembhard_ventilation_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_104.md)
@@ -18,4 +14,8 @@ Opening outdoor air dampers or windows allows for increased exchange of outdoor 
 
 * [hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_185.md)
 * [natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_270.md)
+
+## Property: has_MitigationPrinciple
+
+Opening outdoor air dampers or windows allows for increased exchange of outdoor air, diluting indoor air contaminants
 

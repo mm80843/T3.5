@@ -6,15 +6,14 @@
 
 * [Privacy risks, stigmatization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3287.md)
 
-## Property: has_MitigationPrinciple
-
-Manage privacy issues, consider population size for sampling, adapt ethics guidelines based on location and biomarkers being monitored
-
 ## Property: has_MitigationSource
 
 * [sims_future_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_48.md)
 
 ## Property: has_MitigationTechnology
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
+
+## Property: has_MitigationPrinciple
+
+Manage privacy issues, consider population size for sampling, adapt ethics guidelines based on location and biomarkers being monitored
 

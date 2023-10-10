@@ -2,9 +2,9 @@
 
 # Article: __bojovic_towards_2022__ (PBN__Article_327)
 
-## Property: has_ArticleTitle
+## Property: has_ArticleDOI
 
-Towards Resilient Residential Buildings and Neighborhoods in Light of COVID-19 Pandemic—The Scenario of Podgorica, Montenegro
+10.3390/su14031302
 
 ## Property: has_ArticleYear
 
@@ -15,7 +15,7 @@ Towards Resilient Residential Buildings and Neighborhoods in Light of COVID-19 P
 * [tokazhanov_how_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_67.md)
 * [power_public_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_107.md)
 
-## Property: has_ArticleDOI
+## Property: has_ArticleTitle
 
-10.3390/su14031302
+Towards Resilient Residential Buildings and Neighborhoods in Light of COVID-19 Pandemic—The Scenario of Podgorica, Montenegro
 

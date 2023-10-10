@@ -2,7 +2,7 @@
 
 # Risk: __Health care, surveillance and monitoring gaps__ (PBN__Risk_749)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Improve surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1031.md)
 * [Strengthen health care system](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1032.md)

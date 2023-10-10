@@ -2,15 +2,14 @@
 
 # Technology: __Video conferencing tools__ (PBN__Technology_2140)
 
-## Property: has_StakeholderGroup
-
-* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_1.md)
-
 ## Property: has_StakeholderSubgroup
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_7.md)
 
 ## Property: has_TechnologyID
 
 * [Q238354](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q238354.md)
+
+## Property: has_StakeholderGroup
+
+* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_1.md)
 

@@ -6,15 +6,15 @@
 
 Upper-room UVGI can effectively disinfect aerosolized viral particles in the air, reducing the transmission of COVID-19 in buildings.
 
-## Property: has_Beneficiary
-
-* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
-
-## Property: has_BenefReturn
-
-* [Implementing upper-room UVGI can increase the safety of building occupants, enhancing the value of the building and attracting tenants/occupants.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_886.md)
-
 ## Property: has_BenefSource
 
 * [beggs_upper-room_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_163.md)
+
+## Description of Benefits pertaining to Beneficiaries
+
+* [Implementing upper-room UVGI can increase the safety of building occupants, enhancing the value of the building and attracting tenants/occupants.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_886.md)
+
+## Property: has_Beneficiary
+
+* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 

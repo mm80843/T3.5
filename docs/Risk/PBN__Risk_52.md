@@ -2,7 +2,7 @@
 
 # Risk: __Spread of COVID-19 through respiratory droplets__ (PBN__Risk_52)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Copper coating via cold-spray technique](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_69.md)
 

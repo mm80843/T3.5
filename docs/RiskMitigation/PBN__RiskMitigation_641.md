@@ -2,11 +2,11 @@
 
 # RiskMitigation: __Enhanced cleaning and sanitation practices__ (PBN__RiskMitigation_641)
 
-## Property: has_MitigationBenefit
-
-* [Improved hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_468.md)
-
 ## Property: has_MitigationRisk
 
 * [COVID-19 propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_453.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_468.md)
 

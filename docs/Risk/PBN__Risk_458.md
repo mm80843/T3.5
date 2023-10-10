@@ -2,7 +2,7 @@
 
 # Risk: __Vulnerability assessment__ (PBN__Risk_458)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Identifying and addressing vulnerabilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_648.md)
 

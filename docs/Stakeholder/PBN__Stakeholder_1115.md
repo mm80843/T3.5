@@ -7,7 +7,7 @@
 * [Residents/Visitors](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_109.md)
 * [Residential Characteristics](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_110.md)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Lack of UGS density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1690.md)
 * [Lack of UGS during pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1692.md)

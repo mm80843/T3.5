@@ -2,7 +2,7 @@
 
 # Risk: __Undetected infections__ (PBN__Risk_2788)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_882.md)
 

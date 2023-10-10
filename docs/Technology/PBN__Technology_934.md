@@ -2,11 +2,11 @@
 
 # Technology: __online mental health platforms__ (PBN__Technology_934)
 
-## Property: has_TechnologyRisk
-
-* [Cyberchondria](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1611.md)
-
 ## Property: has_TechnologyID
 
 * [Q30290602](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q30290602.md)
+
+## Property: has_TechnologyRisk
+
+* [Cyberchondria](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1611.md)
 

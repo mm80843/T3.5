@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Extracts viruses from cell lysates for testing
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Extracts viruses from cell lysates for testing
 ## Property: has_MitigationTechnology
 
 * [sodium chloride](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3490.md)
+
+## Property: has_MitigationPrinciple
+
+Extracts viruses from cell lysates for testing
 

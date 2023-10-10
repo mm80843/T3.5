@@ -6,14 +6,14 @@
 
 * [Insufficient healthcare capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1025.md)
 
-## Property: has_TechnologyID
-
-* [Q7312165](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7312165.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Mobile and Remote Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_107.md)
 * [Remote Monitoring and Patient Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_108.md)
+
+## Property: has_TechnologyID
+
+* [Q7312165](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7312165.md)
 
 ## Property: has_StakeholderGroup
 

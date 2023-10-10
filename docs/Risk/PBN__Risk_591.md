@@ -2,7 +2,7 @@
 
 # Risk: __Negative emotional reactions and noncompliance with public health directives__ (PBN__Risk_591)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Psychosocial support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_828.md)
 

@@ -2,7 +2,7 @@
 
 # Risk: __Research needs__ (PBN__Risk_257)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Research](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_318.md)
 

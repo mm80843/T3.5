@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Proliferation of network-addressable devices embedded in everyday objects for invisible interaction and cooperation.
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Proliferation of network-addressable devices embedded in everyday objects for in
 ## Property: has_MitigationTechnology
 
 * [internet of things](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2919.md)
+
+## Property: has_MitigationPrinciple
+
+Proliferation of network-addressable devices embedded in everyday objects for invisible interaction and cooperation.
 

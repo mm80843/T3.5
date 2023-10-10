@@ -2,11 +2,11 @@
 
 # Technology: __laboratory standardization__ (PBN__Technology_1320)
 
-## Property: has_TechnologyRisk
-
-* [Data quality and accuracy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1923.md)
-
 ## Property: has_TechnologyID
 
 * [Q110955432](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q110955432.md)
+
+## Property: has_TechnologyRisk
+
+* [Data quality and accuracy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1923.md)
 

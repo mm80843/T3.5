@@ -2,15 +2,14 @@
 
 # Stakeholder: __healthcare authority__ (PBN__Stakeholder_1867)
 
-## Property: has_StakeholderGroup
+## Property: has_StakeholderSubgroup
 
-* [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
 
 ## Property: has_StakeholderID
 
 * [Q63122029](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q63122029.md)
 
-## Property: has_StakeholderSubgroup
+## Property: has_StakeholderGroup
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_7.md)
+* [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
 

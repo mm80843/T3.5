@@ -2,7 +2,7 @@
 
 # Risk: __Reduction in transmission of SAR-CoV-2__ (PBN__Risk_888)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Accessible open green space and adherence to social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1227.md)
 

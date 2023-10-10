@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Visual display of disease burden and infection trends across different variables
 
 ## Property: has_MitigationSource
 
@@ -19,4 +14,8 @@ Visual display of disease burden and infection trends across different variables
 * [upcode](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4438.md)
 * [johns hopkins university coronavirus dashboard](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4439.md)
 * [healthmap](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4440.md)
+
+## Property: has_MitigationPrinciple
+
+Visual display of disease burden and infection trends across different variables
 

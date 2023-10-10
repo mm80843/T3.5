@@ -6,10 +6,6 @@
 
 * [Lack of coordination and communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2908.md)
 
-## Property: has_MitigationPrinciple
-
-Improve preparedness and response to emergencies
-
 ## Property: has_MitigationSource
 
 * [lawal_covid-19_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_215.md)
@@ -18,4 +14,8 @@ Improve preparedness and response to emergencies
 
 * [cross-sector collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3529.md)
 * [data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3625.md)
+
+## Property: has_MitigationPrinciple
+
+Improve preparedness and response to emergencies
 

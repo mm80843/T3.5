@@ -6,10 +6,6 @@
 
 * [Water consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3357.md)
 
-## Property: has_MitigationPrinciple
-
-Decrease the amount of water used for showering
-
 ## Property: has_MitigationSource
 
 * [tokazhanov_how_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_67.md)
@@ -17,4 +13,8 @@ Decrease the amount of water used for showering
 ## Property: has_MitigationTechnology
 
 * [water-saving technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4280.md)
+
+## Property: has_MitigationPrinciple
+
+Decrease the amount of water used for showering
 

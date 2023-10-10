@@ -2,7 +2,7 @@
 
 # Stakeholder: __job-seekers__ (PBN__Stakeholder_1368)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Unemployment and underemployment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2038.md)
 

@@ -6,13 +6,13 @@
 
 * [Transmission Vulnerability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2349.md)
 
-## Property: has_TechnologyID
-
-* [Q949149](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q949149.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Water Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_120.md)
+
+## Property: has_TechnologyID
+
+* [Q949149](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q949149.md)
 
 ## Property: has_StakeholderGroup
 

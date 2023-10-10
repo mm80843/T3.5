@@ -9,13 +9,13 @@
 * [Inadequate public transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1652.md)
 * [Insufficient distance between people](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2250.md)
 
-## Property: has_TechnologyID
-
-* [Q1872073](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1872073.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Crowd Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_152.md)
+
+## Property: has_TechnologyID
+
+* [Q1872073](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1872073.md)
 
 ## Property: has_StakeholderGroup
 

@@ -2,7 +2,7 @@
 
 # Stakeholder: __close contacts__ (PBN__Stakeholder_974)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Insufficient outbreak investigation and response](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1514.md)
 * [Spread of SARS-COV-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1728.md)

@@ -6,15 +6,15 @@
 
 Improved disease surveillance and evidence for public-health decisions through better data
 
-## Property: has_Beneficiary
-
-* [research groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_172.md)
-
-## Property: has_BenefReturn
-
-* [Improved decision-making and more accurate research findings for public-health policies](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1121.md)
-
 ## Property: has_BenefSource
 
 * [dron_data_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_208.md)
+
+## Description of Benefits pertaining to Beneficiaries
+
+* [Improved decision-making and more accurate research findings for public-health policies](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1121.md)
+
+## Property: has_Beneficiary
+
+* [research groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_172.md)
 

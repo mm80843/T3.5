@@ -2,7 +2,7 @@
 
 # Risk: __High prevalence of obesity__ (PBN__Risk_622)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Access to green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_747.md)
 * [Walkable urban design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_860.md)

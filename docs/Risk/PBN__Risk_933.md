@@ -2,7 +2,7 @@
 
 # Risk: __Air pollution and COVID-19 infections__ (PBN__Risk_933)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Improvement of air quality](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1294.md)
 

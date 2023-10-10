@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Governments and firms should work together to identify potential threats to essential activities, map players in essential supply chains, collect and share information on bottlenecks, and develop stress tests for supply chains.
 
 ## Property: has_MitigationSource
 
@@ -16,5 +11,8 @@ Governments and firms should work together to identify potential threats to esse
 
 ## Property: has_MitigationTechnology
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
+
+## Property: has_MitigationPrinciple
+
+Governments and firms should work together to identify potential threats to essential activities, map players in essential supply chains, collect and share information on bottlenecks, and develop stress tests for supply chains.
 

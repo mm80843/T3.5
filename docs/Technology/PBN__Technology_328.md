@@ -2,11 +2,11 @@
 
 # Technology: __redundancy measures__ (PBN__Technology_328)
 
-## Property: has_TechnologyRisk
-
-* [Loss of data transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1234.md)
-
 ## Property: has_TechnologyID
 
 * [Q1204361](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1204361.md)
+
+## Property: has_TechnologyRisk
+
+* [Loss of data transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1234.md)
 

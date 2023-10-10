@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Using air filtration systems can remove respiratory droplets and infectious particles from the air, reducing the potential for transmission.
 
 ## Property: has_MitigationSource
 
@@ -18,4 +13,8 @@ Using air filtration systems can remove respiratory droplets and infectious part
 
 * [air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_138.md)
 * [hvac filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3744.md)
+
+## Property: has_MitigationPrinciple
+
+Using air filtration systems can remove respiratory droplets and infectious particles from the air, reducing the potential for transmission.
 

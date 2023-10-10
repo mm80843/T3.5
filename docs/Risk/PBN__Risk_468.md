@@ -2,7 +2,7 @@
 
 # Risk: __Insufficient preparedness for outbreaks__ (PBN__Risk_468)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [AI for outbreak prediction](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_658.md)
 

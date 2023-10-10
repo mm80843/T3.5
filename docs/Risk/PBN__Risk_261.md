@@ -2,7 +2,7 @@
 
 # Risk: __Information asymmetry between occupants and indoor environment__ (PBN__Risk_261)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [IBEM](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_320.md)
 

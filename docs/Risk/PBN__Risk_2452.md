@@ -2,7 +2,7 @@
 
 # Risk: __Safety and health__ (PBN__Risk_2452)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Implementation of safety protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_130.md)
 

@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Regularly cleaning and disinfecting frequently touched objects and surfaces to reduce the risk of transmission through fomites
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Regularly cleaning and disinfecting frequently touched objects and surfaces to r
 ## Property: has_MitigationTechnology
 
 * [disinfectant wipes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_673.md)
+
+## Property: has_MitigationPrinciple
+
+Regularly cleaning and disinfecting frequently touched objects and surfaces to reduce the risk of transmission through fomites
 

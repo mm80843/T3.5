@@ -6,10 +6,6 @@
 
 * [Contagious disease transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1021.md)
 
-## Property: has_MitigationPrinciple
-
-Ensuring social distancing guidelines are followed in public spaces
-
 ## Property: has_MitigationSource
 
 * [agade_exploring_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_114.md)
@@ -17,4 +13,8 @@ Ensuring social distancing guidelines are followed in public spaces
 ## Property: has_MitigationTechnology
 
 * [crowd surveillance technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2921.md)
+
+## Property: has_MitigationPrinciple
+
+Ensuring social distancing guidelines are followed in public spaces
 

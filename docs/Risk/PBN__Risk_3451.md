@@ -2,7 +2,7 @@
 
 # Risk: __Screening__ (PBN__Risk_3451)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Mobile robots for temperature measurement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2421.md)
 

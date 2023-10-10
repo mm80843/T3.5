@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Proper hand hygiene can help reduce the risk of transmission by killing or removing the virus from hands.
 
 ## Property: has_MitigationSource
 
@@ -18,4 +13,8 @@ Proper hand hygiene can help reduce the risk of transmission by killing or remov
 
 * [hand sanitizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_412.md)
 * [soap and water](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3064.md)
+
+## Property: has_MitigationPrinciple
+
+Proper hand hygiene can help reduce the risk of transmission by killing or removing the virus from hands.
 

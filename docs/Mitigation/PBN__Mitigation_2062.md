@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Provide resources for federated analysis and data sharing
 
 ## Property: has_MitigationSource
 
@@ -18,4 +13,8 @@ Provide resources for federated analysis and data sharing
 
 * [it resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4220.md)
 * [server infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4221.md)
+
+## Property: has_MitigationPrinciple
+
+Provide resources for federated analysis and data sharing
 

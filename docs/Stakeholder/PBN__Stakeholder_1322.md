@@ -2,7 +2,7 @@
 
 # Stakeholder: __people with pre-existing medical conditions__ (PBN__Stakeholder_1322)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Urban heat island effect and heat waves](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1968.md)
 

@@ -2,7 +2,7 @@
 
 # Risk: __Increased stress and potential overwhelm among health care providers__ (PBN__Risk_594)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Monitoring and support mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_831.md)
 

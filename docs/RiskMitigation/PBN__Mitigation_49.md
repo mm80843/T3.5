@@ -6,10 +6,6 @@
 
 * [Lack of safe spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2421.md)
 
-## Property: has_MitigationPrinciple
-
-Providing safe shelters can offer temporary refuge for victims of intimate partner violence, allowing them to escape dangerous situations.
-
 ## Property: has_MitigationSource
 
 * [aguero_covid-19_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_8.md)
@@ -17,4 +13,8 @@ Providing safe shelters can offer temporary refuge for victims of intimate partn
 ## Property: has_MitigationTechnology
 
 * [shelter facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2926.md)
+
+## Property: has_MitigationPrinciple
+
+Providing safe shelters can offer temporary refuge for victims of intimate partner violence, allowing them to escape dangerous situations.
 

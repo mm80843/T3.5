@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Placing hand sanitizer dispensers on public transportation to encourage regular hand hygiene and reduce the risk of disease transmission.
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Placing hand sanitizer dispensers on public transportation to encourage regular 
 ## Property: has_MitigationTechnology
 
 * [hand sanitizer technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3151.md)
+
+## Property: has_MitigationPrinciple
+
+Placing hand sanitizer dispensers on public transportation to encourage regular hand hygiene and reduce the risk of disease transmission.
 

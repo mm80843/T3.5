@@ -2,7 +2,7 @@
 
 # Risk: __Unknown parameter values__ (PBN__Risk_95)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [People flow model identification method](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_117.md)
 

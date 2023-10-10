@@ -12,13 +12,13 @@
 * [Inequities in disease vulnerability and access to care](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1860.md)
 * [Population characteristics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2076.md)
 
-## Property: has_TechnologyID
-
-* [Q4923501](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4923501.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Telemedicine and Telehealth Services](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_28.md)
+
+## Property: has_TechnologyID
+
+* [Q4923501](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4923501.md)
 
 ## Property: has_StakeholderGroup
 

@@ -2,7 +2,7 @@
 
 # Risk: __Poor acoustics__ (PBN__Risk_128)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Improved acoustic design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_152.md)
 

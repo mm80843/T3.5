@@ -6,14 +6,14 @@
 
 * [Vital loads and lighting for safety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1411.md)
 
-## Property: has_TechnologyID
-
-* [Q815738](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q815738.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Building Systems and Design](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_89.md)
 * [Lighting and HVAC Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_78.md)
+
+## Property: has_TechnologyID
+
+* [Q815738](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q815738.md)
 
 ## Property: has_StakeholderGroup
 

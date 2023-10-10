@@ -2,7 +2,7 @@
 
 # Risk: __Limited mandate on public health__ (PBN__Risk_2850)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Improved coordination at federal level](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_994.md)
 * [Central control of medical countermeasures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_995.md)

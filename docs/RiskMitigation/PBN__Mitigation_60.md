@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Utilize ontologies to manage COVID-19 specific knowledge for applications such as orchestrating sensors and monitoring health symptoms.
 
 ## Property: has_MitigationSource
 
@@ -18,4 +13,8 @@ Utilize ontologies to manage COVID-19 specific knowledge for applications such a
 
 * [iots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2941.md)
 * [interconnected devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2942.md)
+
+## Property: has_MitigationPrinciple
+
+Utilize ontologies to manage COVID-19 specific knowledge for applications such as orchestrating sensors and monitoring health symptoms.
 

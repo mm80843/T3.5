@@ -2,7 +2,7 @@
 
 # Risk: __Emergence of tick-borne diseases__ (PBN__Risk_56)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Urban planning and design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_70.md)
 

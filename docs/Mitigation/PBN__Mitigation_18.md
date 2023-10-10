@@ -4,12 +4,7 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 * [Spread of infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2408.md)
-
-## Property: has_MitigationPrinciple
-
-Isolating individuals who may be infected helps to prevent the spread of the disease to others.
 
 ## Property: has_MitigationSource
 
@@ -18,5 +13,8 @@ Isolating individuals who may be infected helps to prevent the spread of the dis
 
 ## Property: has_MitigationTechnology
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
+
+## Property: has_MitigationPrinciple
+
+Isolating individuals who may be infected helps to prevent the spread of the disease to others.
 

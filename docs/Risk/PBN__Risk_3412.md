@@ -2,7 +2,7 @@
 
 # Risk: __Unknown__ (PBN__Risk_3412)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [UV susceptibility of viral aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2294.md)
 * [UV susceptibility of bacterial aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2295.md)

@@ -2,7 +2,7 @@
 
 # Risk: __Lack of patient education for COVID-19__ (PBN__Risk_821)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Virtual reality patient education](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1127.md)
 

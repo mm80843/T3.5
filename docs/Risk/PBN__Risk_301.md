@@ -2,7 +2,7 @@
 
 # Risk: __COVID-19 transmission in crowded occupational environments__ (PBN__Risk_301)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Ventilation improvement](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_372.md)
 * [Use of high-efficiency air filters](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_373.md)

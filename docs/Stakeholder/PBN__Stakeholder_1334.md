@@ -2,7 +2,7 @@
 
 # Stakeholder: __trainees__ (PBN__Stakeholder_1334)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Inadequate education and training](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1983.md)
 

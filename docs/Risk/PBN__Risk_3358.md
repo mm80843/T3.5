@@ -2,7 +2,7 @@
 
 # Risk: __Comfort and efficiency__ (PBN__Risk_3358)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Remote workspaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2157.md)
 * [Smart home automation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2159.md)

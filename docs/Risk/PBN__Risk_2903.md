@@ -2,7 +2,7 @@
 
 # Risk: __Crop and livestock losses__ (PBN__Risk_2903)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Resilient agricultural practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1071.md)
 

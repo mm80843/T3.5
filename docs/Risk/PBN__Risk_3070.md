@@ -2,7 +2,7 @@
 
 # Risk: __Risk of false negatives or false positives__ (PBN__Risk_3070)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Deployment of Viral Testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1442.md)
 

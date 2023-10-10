@@ -2,6 +2,13 @@
 
 # Stakeholder: __designers__ (PBN__Stakeholder_74)
 
+## Risk affecting this stakeholder
+
+* [Lack of design flexibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1694.md)
+* [UVGI systems require careful design and installation to ensure proper efficacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1760.md)
+* [Site selection near open water bodies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1832.md)
+* [Material selection for buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1834.md)
+
 ## Property: has_OwnerRisk
 
 * [Lack of connection with nature](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_114.md)
@@ -45,11 +52,4 @@
 * [Consistency in parking standards](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1076.md)
 * [Adaptive design approach](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1083.md)
 * [Improved understanding and analysis of public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1245.md)
-
-## Property: has_SubjectRisk
-
-* [Lack of design flexibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1694.md)
-* [UVGI systems require careful design and installation to ensure proper efficacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1760.md)
-* [Site selection near open water bodies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1832.md)
-* [Material selection for buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1834.md)
 

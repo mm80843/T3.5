@@ -2,7 +2,7 @@
 
 # Risk: __Microbiological contaminants__ (PBN__Risk_3160)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Water and Sanitary System Safety](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1613.md)
 

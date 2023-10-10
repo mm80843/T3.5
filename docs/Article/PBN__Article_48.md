@@ -2,21 +2,35 @@
 
 # Article: __sims_future_2020__ (PBN__Article_48)
 
-## Property: has_ArticleTitle
+## Property: has_ArticleDOI
 
-Future perspectives of wastewater-based epidemiology: Monitoring infectious disease spread and resistance to the community level
+10.1016/j.envint.2020.105689
 
-## Property: has_BenefInArticle
+## List of risks in an article
 
-* [Real-time disease monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_216.md)
-* [Tracking antimicrobial usage](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_217.md)
-* [Early detection and response](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_218.md)
-* [Comprehensive and objective data](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_219.md)
-* [Protection of privacy and vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_220.md)
+* [Emerging infectious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_159.md)
+* [Antimicrobial resistance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_160.md)
+* [Hesitation to vaccinate](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2080.md)
+* [Globalization and travel](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2081.md)
+* [Lack of resources in disease surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2082.md)
 
 ## Property: has_ArticleLLMSummary
 
 There are many diseases that can make a lot of people sick. Some of these diseases are new and have never been seen before. They can spread quickly and cause outbreaks all over the world. There are different ways that people try to keep track of these diseases and stop them from spreading. One new way is called Wastewater-Based Epidemiology (WBE). WBE is a technique that looks at the water we use and can tell us if there are any harmful germs or chemicals in it. By studying the water, scientists can learn about the health of a whole community and if there are any diseases going around. This can help them respond faster and keep people safe. But there are still some challenges that scientists need to figure out, like how to extract the germs or chemicals from the water and how to measure the population size accurately. With more research, WBE could be a really helpful tool in fighting infectious diseases.
+
+## Property: has_SourceMitigation
+
+* [Sentinel Surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1920.md)
+* [Wastewater-Based Epidemiology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1921.md)
+* [Pathogenic DNA/RNA Residues Detection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1922.md)
+* [Protein-based Inflammation Biomarkers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1923.md)
+* [Monitoring of Pharmaceuticals and Metabolites](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1924.md)
+* [Antimicrobial Resistance Gene Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1925.md)
+* [Ethical Considerations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1926.md)
+
+## Property: has_ArticleYear
+
+2020
 
 ## Property: has_ArticleLLMShortSummary
 
@@ -28,29 +42,15 @@ The study suggests that WBE can be expanded to monitor infectious diseases by an
 
 The study concludes that WBE has the potential to complement current surveillance systems and provide population-wide surveillance data in real-time. Advancements in extraction techniques, analytical tools, and biomarker discovery are needed to overcome the challenges associated with WBE. The research abstract emphasizes the significance of effective surveillance systems for the early intervention and control of infectious disease outbreaks.
 
-## Property: has_RiskInArticle
+## Property: has_ArticleTitle
 
-* [Emerging infectious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_159.md)
-* [Antimicrobial resistance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_160.md)
-* [Hesitation to vaccinate](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2080.md)
-* [Globalization and travel](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2081.md)
-* [Lack of resources in disease surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2082.md)
+Future perspectives of wastewater-based epidemiology: Monitoring infectious disease spread and resistance to the community level
 
-## Property: has_ArticleYear
+## Property: has_BenefInArticle
 
-2020
-
-## Property: has_ArticleDOI
-
-10.1016/j.envint.2020.105689
-
-## Property: has_SourceMitigation
-
-* [Sentinel Surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1920.md)
-* [Wastewater-Based Epidemiology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1921.md)
-* [Pathogenic DNA/RNA Residues Detection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1922.md)
-* [Protein-based Inflammation Biomarkers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1923.md)
-* [Monitoring of Pharmaceuticals and Metabolites](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1924.md)
-* [Antimicrobial Resistance Gene Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1925.md)
-* [Ethical Considerations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1926.md)
+* [Real-time disease monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_216.md)
+* [Tracking antimicrobial usage](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_217.md)
+* [Early detection and response](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_218.md)
+* [Comprehensive and objective data](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_219.md)
+* [Protection of privacy and vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_220.md)
 

@@ -6,15 +6,14 @@
 
 * [Stress on individual providers and general operations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3157.md)
 
-## Property: has_MitigationPrinciple
-
-Establish channels for accessing resources and support for mental health and well-being
-
 ## Property: has_MitigationSource
 
 * [pfefferbaum_mental_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_167.md)
 
 ## Property: has_MitigationTechnology
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
+
+## Property: has_MitigationPrinciple
+
+Establish channels for accessing resources and support for mental health and well-being
 

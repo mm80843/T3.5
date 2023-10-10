@@ -2,10 +2,6 @@
 
 # Technology: __Health-focused design principles and guidelines__ (PBN__Technology_2744)
 
-## Property: has_StakeholderGroup
-
-* [Urban technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_14.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Public Health and Community Engagement](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_57.md)
@@ -13,4 +9,8 @@
 ## Property: has_TechnologyID
 
 * [Q1519843](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1519843.md)
+
+## Property: has_StakeholderGroup
+
+* [Urban technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_14.md)
 

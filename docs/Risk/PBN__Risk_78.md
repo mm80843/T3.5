@@ -2,7 +2,7 @@
 
 # Risk: __Limited communication in different languages__ (PBN__Risk_78)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Communication in multiple languages](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_95.md)
 

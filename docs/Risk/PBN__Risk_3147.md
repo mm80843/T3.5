@@ -2,7 +2,7 @@
 
 # Risk: __Misinformation and lack of awareness__ (PBN__Risk_3147)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Health education and communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1574.md)
 

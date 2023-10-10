@@ -2,11 +2,11 @@
 
 # Technology: __contingency planning__ (PBN__Technology_635)
 
-## Property: has_TechnologyRisk
-
-* [Time overrun](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_597.md)
-
 ## Property: has_TechnologyID
 
 * [Q2340208](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2340208.md)
+
+## Property: has_TechnologyRisk
+
+* [Time overrun](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_597.md)
 

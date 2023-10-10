@@ -2,7 +2,7 @@
 
 # Risk: __Increased contact with disease vectors__ (PBN__Risk_3117)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Outdoor space design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1515.md)
 

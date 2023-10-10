@@ -2,7 +2,7 @@
 
 # Risk: __Pathogen contamination in hospital environment__ (PBN__Risk_220)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Routine cleaning and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_264.md)
 

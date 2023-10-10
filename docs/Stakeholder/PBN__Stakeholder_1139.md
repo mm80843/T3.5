@@ -2,7 +2,7 @@
 
 # Stakeholder: __communities near wastewater treatment plants__ (PBN__Stakeholder_1139)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Spread of COVID-19 through wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_576.md)
 

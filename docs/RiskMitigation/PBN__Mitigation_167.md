@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Continuous monitoring of important parameters via exhaled breath for the detection of respiratory diseases like COVID-19
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Continuous monitoring of important parameters via exhaled breath for the detecti
 ## Property: has_MitigationTechnology
 
 * [face masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_342.md)
+
+## Property: has_MitigationPrinciple
+
+Continuous monitoring of important parameters via exhaled breath for the detection of respiratory diseases like COVID-19
 

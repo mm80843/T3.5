@@ -2,11 +2,11 @@
 
 # RiskMitigation: __Use of new smart/innovative technologies__ (PBN__RiskMitigation_214)
 
-## Property: has_MitigationBenefit
-
-* [Enhanced ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_230.md)
-
 ## Property: has_MitigationRisk
 
 * [PVP1: Virus propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_174.md)
+
+## Property: has_MitigationBenefit
+
+* [Enhanced ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_230.md)
 

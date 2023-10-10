@@ -2,7 +2,7 @@
 
 # Risk: __Lack of bioinformatics tools for data integration and analysis__ (PBN__Risk_37)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Development of bioinformatics tools](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_54.md)
 

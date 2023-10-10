@@ -6,7 +6,7 @@
 
 * [Vulnerable Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_82.md)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Impact on developing countries](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_450.md)
 * [Unhealthy household environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_781.md)
@@ -20,11 +20,11 @@
 
 * [Q3376054](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3376054.md)
 
-## Property: has_BenefitForPeople
-
-* [Lower vulnerability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_32.md)
-
 ## Property: has_StakeholderGroup
 
 * [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
+
+## Property: has_BenefitForPeople
+
+* [Lower vulnerability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_32.md)
 

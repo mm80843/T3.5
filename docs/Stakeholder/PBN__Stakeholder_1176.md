@@ -2,7 +2,7 @@
 
 # Stakeholder: __prisoners__ (PBN__Stakeholder_1176)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1764.md)
 

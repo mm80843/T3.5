@@ -6,15 +6,14 @@
 
 * [Labor shortage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2845.md)
 
-## Property: has_MitigationPrinciple
-
-Ensure that there is an adequate supply of labor to prevent delays in construction projects caused by labor shortages
-
 ## Property: has_MitigationSource
 
 * [king_mechanisms_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_115.md)
 
 ## Property: has_MitigationTechnology
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
+
+## Property: has_MitigationPrinciple
+
+Ensure that there is an adequate supply of labor to prevent delays in construction projects caused by labor shortages
 

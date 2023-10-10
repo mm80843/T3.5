@@ -2,7 +2,7 @@
 
 # Risk: __Workers’ vulnerability to COVID-19__ (PBN__Risk_2821)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Social Equity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_943.md)
 

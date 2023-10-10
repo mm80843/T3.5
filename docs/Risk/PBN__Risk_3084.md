@@ -2,7 +2,7 @@
 
 # Risk: __Increased demand, logistical challenges__ (PBN__Risk_3084)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Online Grocery Delivery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1456.md)
 

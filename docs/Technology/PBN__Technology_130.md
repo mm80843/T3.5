@@ -15,13 +15,13 @@
 * [Uncertainty in Construction Market](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1956.md)
 * [Concerns about project time, cost, and scope](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1999.md)
 
-## Property: has_TechnologyID
-
-* [Q167035](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q167035.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Data Management and Communication Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_18.md)
+
+## Property: has_TechnologyID
+
+* [Q167035](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q167035.md)
 
 ## Property: has_StakeholderGroup
 

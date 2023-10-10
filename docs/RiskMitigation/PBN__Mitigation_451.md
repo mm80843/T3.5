@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Joining online fitness classes to stay physically active while at home.
 
 ## Property: has_MitigationSource
 
@@ -18,4 +13,8 @@ Joining online fitness classes to stay physically active while at home.
 
 * [internet access](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1211.md)
 * [video communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3229.md)
+
+## Property: has_MitigationPrinciple
+
+Joining online fitness classes to stay physically active while at home.
 

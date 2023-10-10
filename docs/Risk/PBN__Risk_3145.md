@@ -2,7 +2,7 @@
 
 # Risk: __Knowledge gap__ (PBN__Risk_3145)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Employee training](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1570.md)
 

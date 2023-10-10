@@ -2,7 +2,7 @@
 
 # Stakeholder: __political actors__ (PBN__Stakeholder_716)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Conflicting interests and governance models](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1196.md)
 

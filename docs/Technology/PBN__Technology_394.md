@@ -6,14 +6,14 @@
 
 * [Access to Videos](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1268.md)
 
-## Property: has_TechnologyID
-
-* [Q69014552](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q69014552.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Education and Training](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_32.md)
 * [Video Recording and Conferencing Platforms](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_114.md)
+
+## Property: has_TechnologyID
+
+* [Q69014552](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q69014552.md)
 
 ## Property: has_StakeholderGroup
 

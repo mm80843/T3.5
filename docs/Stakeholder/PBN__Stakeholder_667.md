@@ -6,7 +6,7 @@
 
 * [Work and Living Environment](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_103.md)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Persistence of SARS-CoV-2 on surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1141.md)
 

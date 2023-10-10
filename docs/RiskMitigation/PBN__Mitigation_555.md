@@ -5,7 +5,6 @@
 ## Property: has_MitigationRisk
 
 * [Airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_252.md)
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 * [Infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2622.md)
 * [Inadequate Protection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2671.md)
 * [Contagion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2685.md)
@@ -13,10 +12,6 @@
 * [Transmission of the virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2861.md)
 * [Direct Contact Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2973.md)
 * [Person-to-Person Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3281.md)
-
-## Property: has_MitigationPrinciple
-
-Protecting individuals from inhaling or coming into contact with contaminated droplets and aerosols
 
 ## Property: has_MitigationSource
 
@@ -32,7 +27,6 @@ Protecting individuals from inhaling or coming into contact with contaminated dr
 
 ## Property: has_MitigationTechnology
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 * [masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1053.md)
 * [gloves](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_487.md)
 * [face shields](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_486.md)
@@ -40,4 +34,8 @@ Protecting individuals from inhaling or coming into contact with contaminated dr
 * [protective clothing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3337.md)
 * [n95 respirator](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3301.md)
 * [n95/ffp3 masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3369.md)
+
+## Property: has_MitigationPrinciple
+
+Protecting individuals from inhaling or coming into contact with contaminated droplets and aerosols
 

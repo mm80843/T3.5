@@ -6,13 +6,13 @@
 
 * [Social Distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1059.md)
 
-## Property: has_TechnologyID
-
-* [Q2016457](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2016457.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Healthcare and Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_19.md)
+
+## Property: has_TechnologyID
+
+* [Q2016457](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2016457.md)
 
 ## Property: has_StakeholderGroup
 

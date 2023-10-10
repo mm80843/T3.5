@@ -2,7 +2,7 @@
 
 # Risk: __Decline in commercial spaces__ (PBN__Risk_3378)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Manage placemaking paths](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2192.md)
 

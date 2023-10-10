@@ -2,7 +2,7 @@
 
 # Risk: __Disruption of transport operations__ (PBN__Risk_927)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_275.md)
 

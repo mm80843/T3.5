@@ -4,12 +4,7 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 * [Ambient pollutants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2816.md)
-
-## Property: has_MitigationPrinciple
-
-Improve air quality in cities to reduce the probability of COVID-19 infections, especially in areas with poor air quality
 
 ## Property: has_MitigationSource
 
@@ -18,6 +13,9 @@ Improve air quality in cities to reduce the probability of COVID-19 infections, 
 
 ## Property: has_MitigationTechnology
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 * [presence of forest and trees](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3552.md)
+
+## Property: has_MitigationPrinciple
+
+Improve air quality in cities to reduce the probability of COVID-19 infections, especially in areas with poor air quality
 

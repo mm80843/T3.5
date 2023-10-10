@@ -6,13 +6,13 @@
 
 * [Insufficient evidence of UV-C effectiveness against SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1172.md)
 
-## Property: has_TechnologyID
-
-* [Q42240](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q42240.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Research and Scientific Studies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_163.md)
+
+## Property: has_TechnologyID
+
+* [Q42240](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q42240.md)
 
 ## Property: has_StakeholderGroup
 

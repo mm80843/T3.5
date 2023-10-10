@@ -6,10 +6,6 @@
 
 * [Varying legal frameworks, sociopolitical barriers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2632.md)
 
-## Property: has_MitigationPrinciple
-
-Improve research responsiveness, facilitate data sharing agreements
-
 ## Property: has_MitigationSource
 
 * [dron_data_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_208.md)
@@ -18,4 +14,8 @@ Improve research responsiveness, facilitate data sharing agreements
 
 * [data sharing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_152.md)
 * [legal frameworks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1431.md)
+
+## Property: has_MitigationPrinciple
+
+Improve research responsiveness, facilitate data sharing agreements
 

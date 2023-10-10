@@ -2,7 +2,7 @@
 
 # Stakeholder: __local organizations__ (PBN__Stakeholder_1463)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Insufficient social adaptive capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2155.md)
 

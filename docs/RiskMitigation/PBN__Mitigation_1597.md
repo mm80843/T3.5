@@ -6,10 +6,6 @@
 
 * [Loneliness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3152.md)
 
-## Property: has_MitigationPrinciple
-
-Designing shared spaces that promote physical distancing, social interactions, and restoration for improved mental health and well-being
-
 ## Property: has_MitigationSource
 
 * [peters_how_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_279.md)
@@ -17,4 +13,8 @@ Designing shared spaces that promote physical distancing, social interactions, a
 ## Property: has_MitigationTechnology
 
 * [communal spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3939.md)
+
+## Property: has_MitigationPrinciple
+
+Designing shared spaces that promote physical distancing, social interactions, and restoration for improved mental health and well-being
 

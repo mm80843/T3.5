@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Allocating scarce urban land to new open green spaces that promote physical exercise and mobility to enhance public health and well-being.
 
 ## Property: has_MitigationSource
 
@@ -16,5 +11,8 @@ Allocating scarce urban land to new open green spaces that promote physical exer
 
 ## Property: has_MitigationTechnology
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
+
+## Property: has_MitigationPrinciple
+
+Allocating scarce urban land to new open green spaces that promote physical exercise and mobility to enhance public health and well-being.
 

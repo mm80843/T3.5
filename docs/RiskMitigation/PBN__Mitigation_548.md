@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Dilutes indoor contaminants and reduces the concentration of viral particles in the air.
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Dilutes indoor contaminants and reduces the concentration of viral particles in 
 ## Property: has_MitigationTechnology
 
 * [hvac systems with outside air dampers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3296.md)
+
+## Property: has_MitigationPrinciple
+
+Dilutes indoor contaminants and reduces the concentration of viral particles in the air.
 

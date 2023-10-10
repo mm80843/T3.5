@@ -2,7 +2,7 @@
 
 # Risk: __Inadequate unit sizes and layouts for physical distancing__ (PBN__Risk_958)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Appropriate unit sizes and layouts](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1339.md)
 

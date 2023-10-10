@@ -2,11 +2,11 @@
 
 # Technology: __signage and communication tools__ (PBN__Technology_1181)
 
-## Property: has_TechnologyRisk
-
-* [Fear of infection in urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1823.md)
-
 ## Property: has_TechnologyID
 
 * [Q1211272](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1211272.md)
+
+## Property: has_TechnologyRisk
+
+* [Fear of infection in urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1823.md)
 

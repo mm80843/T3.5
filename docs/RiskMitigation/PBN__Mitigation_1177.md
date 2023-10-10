@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Provides continuous monitoring of quarantined individuals, ensuring compliance with isolation measures and early detection of worsening symptoms.
 
 ## Property: has_MitigationSource
 
@@ -19,4 +14,8 @@ Provides continuous monitoring of quarantined individuals, ensuring compliance w
 * [iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_96.md)
 * [sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_200.md)
 * [wearables](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3410.md)
+
+## Property: has_MitigationPrinciple
+
+Provides continuous monitoring of quarantined individuals, ensuring compliance with isolation measures and early detection of worsening symptoms.
 

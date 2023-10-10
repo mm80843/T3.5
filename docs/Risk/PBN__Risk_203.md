@@ -2,7 +2,7 @@
 
 # Risk: __PC3: Personal comfort__ (PBN__Risk_203)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Personal space](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_242.md)
 

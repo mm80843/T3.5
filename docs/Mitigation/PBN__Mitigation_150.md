@@ -6,10 +6,6 @@
 
 * [Limited historical data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2465.md)
 
-## Property: has_MitigationPrinciple
-
-Utilizing data analysis and prediction models to forecast new COVID-19 cases and predict outcomes such as mortality risk, length of hospital stay, and the necessity of intensive care
-
 ## Property: has_MitigationSource
 
 * [arpaci_leveraging_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_297.md)
@@ -17,4 +13,8 @@ Utilizing data analysis and prediction models to forecast new COVID-19 cases and
 ## Property: has_MitigationTechnology
 
 * [data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1069.md)
+
+## Property: has_MitigationPrinciple
+
+Utilizing data analysis and prediction models to forecast new COVID-19 cases and predict outcomes such as mortality risk, length of hospital stay, and the necessity of intensive care
 

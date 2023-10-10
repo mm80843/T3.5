@@ -2,7 +2,7 @@
 
 # Risk: __Public health monitoring__ (PBN__Risk_718)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Sewage epidemiology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1001.md)
 

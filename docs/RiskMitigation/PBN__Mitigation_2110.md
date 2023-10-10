@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Using real-time data collected from multiple sources to track and monitor the spread of COVID-19 globally.
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Using real-time data collected from multiple sources to track and monitor the sp
 ## Property: has_MitigationTechnology
 
 * [big data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2938.md)
+
+## Property: has_MitigationPrinciple
+
+Using real-time data collected from multiple sources to track and monitor the spread of COVID-19 globally.
 

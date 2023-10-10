@@ -6,7 +6,7 @@
 
 * [Residential Defined Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_83.md)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Transmission via droplets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1280.md)
 

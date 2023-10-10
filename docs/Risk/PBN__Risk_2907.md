@@ -2,7 +2,7 @@
 
 # Risk: __Unequal vaccine access__ (PBN__Risk_2907)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Vaccine production and distribution improvement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1075.md)
 

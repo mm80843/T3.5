@@ -2,11 +2,11 @@
 
 # Technology: __project updates__ (PBN__Technology_818)
 
-## Property: has_TechnologyRisk
-
-* [Client confidence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1530.md)
-
 ## Property: has_TechnologyID
 
 * [Q245962](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q245962.md)
+
+## Property: has_TechnologyRisk
+
+* [Client confidence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1530.md)
 

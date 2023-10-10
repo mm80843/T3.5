@@ -6,13 +6,13 @@
 
 * [Economic strain](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1987.md)
 
-## Property: has_TechnologyID
-
-* [Q63974733](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q63974733.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Financial Support and Funding](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_35.md)
+
+## Property: has_TechnologyID
+
+* [Q63974733](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q63974733.md)
 
 ## Property: has_StakeholderGroup
 

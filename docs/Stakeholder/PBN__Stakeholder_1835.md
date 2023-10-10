@@ -2,15 +2,15 @@
 
 # Stakeholder: __social medium company__ (PBN__Stakeholder_1835)
 
-## Property: has_StakeholderGroup
+## Property: has_StakeholderSubgroup
 
-* [Media](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_3.md)
+* [Social Media](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_38.md)
 
 ## Property: has_StakeholderID
 
 * [Q1071015](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1071015.md)
 
-## Property: has_StakeholderSubgroup
+## Property: has_StakeholderGroup
 
-* [Social Media](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_38.md)
+* [Media](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_3.md)
 

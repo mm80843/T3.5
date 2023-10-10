@@ -6,15 +6,14 @@
 
 * [Contagious Diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3000.md)
 
-## Property: has_MitigationPrinciple
-
-Used to create awareness, educate about, and reinforce social distancing behavior; Convey information related to social distancing measures and guidelines
-
 ## Property: has_MitigationSource
 
 * [mcneish_retail_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_159.md)
 
 ## Property: has_MitigationTechnology
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
+
+## Property: has_MitigationPrinciple
+
+Used to create awareness, educate about, and reinforce social distancing behavior; Convey information related to social distancing measures and guidelines
 

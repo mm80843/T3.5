@@ -2,7 +2,7 @@
 
 # Risk: __Inability to physically distance__ (PBN__Risk_3153)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Appropriate unit sizes and layouts that support physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1600.md)
 

@@ -6,13 +6,13 @@
 
 * [Price volatility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1608.md)
 
-## Property: has_TechnologyID
-
-* [Q778043](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q778043.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Energy Systems and Sustainability](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_116.md)
+
+## Property: has_TechnologyID
+
+* [Q778043](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q778043.md)
 
 ## Property: has_StakeholderGroup
 

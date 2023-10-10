@@ -6,15 +6,15 @@
 
 Creating separate entrance spaces with sealed doors and rapid air exchange in private dwellings and communal spaces reduces the risk of transmission between individuals and spaces.
 
-## Property: has_Beneficiary
-
-* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
-
-## Property: has_BenefReturn
-
-* [Private investors benefit from reduced transmission rates, improved safety and security, and a healthier and more confident population.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_818.md)
-
 ## Property: has_BenefSource
 
 * [spennemann_designing_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_149.md)
+
+## Description of Benefits pertaining to Beneficiaries
+
+* [Private investors benefit from reduced transmission rates, improved safety and security, and a healthier and more confident population.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_818.md)
+
+## Property: has_Beneficiary
+
+* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 

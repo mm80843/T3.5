@@ -7,10 +7,6 @@
 * [Virus transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3332.md)
 * [Infection of cleaning staff](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3345.md)
 
-## Property: has_MitigationPrinciple
-
-Implement self-cleaning spaces to avoid risk of infection
-
 ## Property: has_MitigationSource
 
 * [tokazhanov_assessment_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_51.md)
@@ -24,4 +20,8 @@ Implement self-cleaning spaces to avoid risk of infection
 * [control systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4235.md)
 * [cleaning frequency](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4236.md)
 * [spraying-down disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4271.md)
+
+## Property: has_MitigationPrinciple
+
+Implement self-cleaning spaces to avoid risk of infection
 

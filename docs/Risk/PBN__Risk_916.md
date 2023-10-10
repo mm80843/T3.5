@@ -2,7 +2,7 @@
 
 # Risk: __Impact on public transit__ (PBN__Risk_916)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Restructuring public transit operations to comply with health and safety guidelines](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1262.md)
 

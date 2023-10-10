@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Incineration is a technology that uses high temperatures to burn hospital wastes, reducing them to ash. This process effectively kills microorganisms and reduces the volume of solid wastes.
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Incineration is a technology that uses high temperatures to burn hospital wastes
 ## Property: has_MitigationTechnology
 
 * [incinerator](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4404.md)
+
+## Property: has_MitigationPrinciple
+
+Incineration is a technology that uses high temperatures to burn hospital wastes, reducing them to ash. This process effectively kills microorganisms and reduces the volume of solid wastes.
 

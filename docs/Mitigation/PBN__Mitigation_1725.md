@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Providing accurate and up-to-date information to individuals to reduce anxiety and stress associated with misinformation
 
 ## Property: has_MitigationSource
 
@@ -18,4 +13,8 @@ Providing accurate and up-to-date information to individuals to reduce anxiety a
 
 * [internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3058.md)
 * [media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3640.md)
+
+## Property: has_MitigationPrinciple
+
+Providing accurate and up-to-date information to individuals to reduce anxiety and stress associated with misinformation
 

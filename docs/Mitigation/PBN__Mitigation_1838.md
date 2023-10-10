@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Installation of high-efficiency air filters in the built environment to reduce exposure to hazards and minimize the risk of infectious diseases transmission.
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Installation of high-efficiency air filters in the built environment to reduce e
 ## Property: has_MitigationTechnology
 
 * [high-efficiency air filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1115.md)
+
+## Property: has_MitigationPrinciple
+
+Installation of high-efficiency air filters in the built environment to reduce exposure to hazards and minimize the risk of infectious diseases transmission.
 

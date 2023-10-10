@@ -2,7 +2,7 @@
 
 # Risk: __Lack of access to clean water__ (PBN__Risk_238)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Improving access to safe drinking water](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_287.md)
 

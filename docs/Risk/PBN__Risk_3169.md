@@ -2,7 +2,7 @@
 
 # Risk: __Temperature fluctuations, Lack of infrastructure__ (PBN__Risk_3169)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Cold chain logistics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1620.md)
 

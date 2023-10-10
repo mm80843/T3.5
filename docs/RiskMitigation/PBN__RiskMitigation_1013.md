@@ -2,11 +2,11 @@
 
 # RiskMitigation: __Financial interventions__ (PBN__RiskMitigation_1013)
 
-## Property: has_MitigationBenefit
-
-* [Business support](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1012.md)
-
 ## Property: has_MitigationRisk
 
 * [Economic impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_124.md)
+
+## Property: has_MitigationBenefit
+
+* [Business support](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1012.md)
 

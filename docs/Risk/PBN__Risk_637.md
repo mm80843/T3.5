@@ -2,7 +2,7 @@
 
 # Risk: __Need for improved detection methods__ (PBN__Risk_637)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Integration of new technologies (digital PCR, CSRPP, LOC/POC, biosensors)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_878.md)
 

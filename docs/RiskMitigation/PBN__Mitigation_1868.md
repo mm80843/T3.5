@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Facilitate cooperation between different sectors and levels of governance for a timely and integrated response.
 
 ## Property: has_MitigationSource
 
@@ -20,4 +15,8 @@ Facilitate cooperation between different sectors and levels of governance for a 
 * [ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_278.md)
 * [big data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2938.md)
 * [machine learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3004.md)
+
+## Property: has_MitigationPrinciple
+
+Facilitate cooperation between different sectors and levels of governance for a timely and integrated response.
 

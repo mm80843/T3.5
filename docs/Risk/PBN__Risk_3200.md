@@ -2,7 +2,7 @@
 
 # Risk: __Non-compliance with social distancing__ (PBN__Risk_3200)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Social Distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_35.md)
 

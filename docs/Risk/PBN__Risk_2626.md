@@ -2,7 +2,7 @@
 
 # Risk: __Lack of standardization, concerns over ethics__ (PBN__Risk_2626)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Data sharing for secondary use](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_563.md)
 

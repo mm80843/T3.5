@@ -2,11 +2,11 @@
 
 # Technology: __soundproofing technology__ (PBN__Technology_1834)
 
-## Property: has_TechnologyRisk
-
-* [Excessive noise levels](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2252.md)
-
 ## Property: has_TechnologyID
 
 * [Q589260](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q589260.md)
+
+## Property: has_TechnologyRisk
+
+* [Excessive noise levels](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2252.md)
 

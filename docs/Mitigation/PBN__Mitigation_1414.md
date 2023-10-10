@@ -4,12 +4,7 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 * [Flexibility and speed](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3361.md)
-
-## Property: has_MitigationPrinciple
-
-Utilize pre-fabricated modules to enable faster construction and adaptability in response to pandemics or natural disasters
 
 ## Property: has_MitigationSource
 
@@ -20,4 +15,8 @@ Utilize pre-fabricated modules to enable faster construction and adaptability in
 
 * [modular construction techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3772.md)
 * [prefabricated components](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4300.md)
+
+## Property: has_MitigationPrinciple
+
+Utilize pre-fabricated modules to enable faster construction and adaptability in response to pandemics or natural disasters
 

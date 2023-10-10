@@ -2,7 +2,7 @@
 
 # Risk: __Vulnerable groups__ (PBN__Risk_2413)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Mutual aid groups](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_29.md)
 

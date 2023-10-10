@@ -2,32 +2,11 @@
 
 # Risk: __Ethical considerations__ (PBN__Risk_163)
 
-## Property: has_RiskISO_Purpose
+## Property: has_RiskHealth
 
-* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
 
-## Property: has_RiskName
-
-Potential privacy breaches, additional burden on participants, ethical concerns.
-
-## Property: has_RiskGBN
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
-
-## Property: has_RiskDescription
-
-Researchers must be mindful of the ethical implications of their research, especially when collecting sensitive data related to physical or mental health.
-
-## Property: has_RiskISO_Impact
-
-* [Governance, empowerment and engagement](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_6.md)
-
-## Property: has_RiskSource
-
-* [burki_wearable_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_195.md)
-* [fell_validity_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_289.md)
-
-## Property: has_RiskOwner
+## List of stakeholders linked to the risk
 
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
 * [wearable device manufacturers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_744.md)
@@ -36,7 +15,20 @@ Researchers must be mindful of the ethical implications of their research, espec
 * [data collectors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_892.md)
 * [ethics committees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_893.md)
 
-## Property: has_RiskSubject
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
+## Articles mentionning the risk
+
+* [burki_wearable_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_195.md)
+* [fell_validity_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_289.md)
+
+## Property: has_RiskDescription
+
+Researchers must be mindful of the ethical implications of their research, especially when collecting sensitive data related to physical or mental health.
+
+## People affected by this risk
 
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
 * [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
@@ -44,19 +36,8 @@ Researchers must be mindful of the ethical implications of their research, espec
 * [regulatory bodies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_708.md)
 * [data collectors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_892.md)
 
-## Property: has_RiskMitigation
+## Technologies linked to the risk
 
-* [Ethical guidelines for WBE](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_203.md)
-* [Clear guidelines and regulations on data usage, decentralization of data ownership.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1685.md)
-* [Ensure data privacy and confidentiality when collecting sensitive data, justify the need for collecting such data and consider participant burden.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1884.md)
-
-## Property: has_RiskHealth
-
-* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
-
-## Property: has_RiskTechnology
-
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 * [ethical frameworks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_320.md)
 * [governance mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_321.md)
 
@@ -64,4 +45,22 @@ Researchers must be mindful of the ethical implications of their research, espec
 
 * [ethical](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_8.md)
 * [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
+
+## Property: has_RiskISO_Impact
+
+* [Governance, empowerment and engagement](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_6.md)
+
+## Name of the risk
+
+Potential privacy breaches, additional burden on participants, ethical concerns.
+
+## Mitigations of this risk
+
+* [Ethical guidelines for WBE](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_203.md)
+* [Clear guidelines and regulations on data usage, decentralization of data ownership.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1685.md)
+* [Ensure data privacy and confidentiality when collecting sensitive data, justify the need for collecting such data and consider participant burden.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1884.md)
+
+## Property: has_RiskGBN
+
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 

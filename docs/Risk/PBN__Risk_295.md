@@ -2,41 +2,42 @@
 
 # Risk: __nan__ (PBN__Risk_295)
 
+## Property: has_RiskHealth
+
+
+## List of stakeholders linked to the risk
+
+
 ## Property: has_RiskISO_Purpose
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_13.md)
 
-## Property: has_RiskName
-
-nan
-
-## Property: has_RiskGBN
-
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_2.md)
-
-## Property: has_RiskDescription
-
-nan
-
-## Property: has_RiskISO_Impact
-
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_3.md)
-
-## Property: has_RiskSource
+## Articles mentionning the risk
 
 * [yang_urban_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_6.md)
 * [syal_learning_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_137.md)
 * [ting_digital_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_278.md)
 
-## Property: has_RiskOwner
+## Property: has_RiskDescription
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_83.md)
+nan
 
-## Property: has_RiskSubject
+## People affected by this risk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_83.md)
 
-## Property: has_RiskMitigation
+## Technologies linked to the risk
+
+
+## Property: has_RiskType
+
+
+## Property: has_RiskISO_Impact
+
+
+## Name of the risk
+
+nan
+
+## Mitigations of this risk
 
 * [Access to green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_125.md)
 * [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2.md)
@@ -49,7 +50,6 @@ nan
 * [Travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_11.md)
 * [Hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_217.md)
 * [Social Distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_35.md)
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_123.md)
 * [Lockdowns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_821.md)
 * [Physical Distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_351.md)
 * [Quarantine measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1133.md)
@@ -324,7 +324,6 @@ nan
 * [Cytoreduction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_593.md)
 * [Upper-room UV lights](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_613.md)
 * [Negative air ionization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_614.md)
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_625.md)
 * [Transmission Chain Disruption](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_626.md)
 * [Negative Pressure AIIRs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_628.md)
 * [Integration of green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_631.md)
@@ -1024,15 +1023,6 @@ nan
 * [Ratification of environmental commitments](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2457.md)
 * [Urgent and essential waste management as a service](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2459.md)
 
-## Property: has_RiskHealth
+## Property: has_RiskGBN
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_6.md)
-
-## Property: has_RiskTechnology
-
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
-
-## Property: has_RiskType
-
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_14.md)
 

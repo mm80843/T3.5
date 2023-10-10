@@ -6,17 +6,17 @@
 
 Cardboard has higher virus viability, reducing its use can help reduce the risk of transmission through contact with contaminated surfaces
 
-## Property: has_Beneficiary
+## Property: has_BenefSource
 
-* [building owners/occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_61.md)
+* [van_doremalen_aerosol_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_21.md)
 
-## Property: has_BenefReturn
+## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors can benefit from increased asset value and demand for spaces that are perceived as safe and low risk.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_91.md)
 * [Private investors can benefit from increased asset value and demand for spaces with copper and stainless steel surfaces, as they are perceived as safer and lower risk.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_92.md)
 * [Private investors can benefit from increased asset value and demand for spaces with reduced use of cardboard surfaces, as they are perceived as safer and lower risk.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_93.md)
 
-## Property: has_BenefSource
+## Property: has_Beneficiary
 
-* [van_doremalen_aerosol_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_21.md)
+* [building owners/occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_61.md)
 

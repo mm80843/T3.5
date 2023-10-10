@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-IoT buttons can generate warnings about cleaning and maintenance issues, improving hygiene in public areas.
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ IoT buttons can generate warnings about cleaning and maintenance issues, improvi
 ## Property: has_MitigationTechnology
 
 * [iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_277.md)
+
+## Property: has_MitigationPrinciple
+
+IoT buttons can generate warnings about cleaning and maintenance issues, improving hygiene in public areas.
 

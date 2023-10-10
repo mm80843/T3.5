@@ -2,7 +2,7 @@
 
 # Risk: __PC1: Personal comfort__ (PBN__Risk_201)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Emphasis on ICT infrastructure access](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_240.md)
 

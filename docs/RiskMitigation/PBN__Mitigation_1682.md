@@ -6,10 +6,6 @@
 
 * [Contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1882.md)
 
-## Property: has_MitigationPrinciple
-
-Keeping tools and equipment clean and free of the virus to prevent transmission among workers
-
 ## Property: has_MitigationSource
 
 * [raoufi_identifying_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_220.md)
@@ -17,4 +13,8 @@ Keeping tools and equipment clean and free of the virus to prevent transmission 
 ## Property: has_MitigationTechnology
 
 * [cleaning supplies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_148.md)
+
+## Property: has_MitigationPrinciple
+
+Keeping tools and equipment clean and free of the virus to prevent transmission among workers
 

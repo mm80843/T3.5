@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Public engagement, based on factual information, is essential to bring about behavior change and implement desired public health actions.
 
 ## Property: has_MitigationSource
 
@@ -17,5 +12,8 @@ Public engagement, based on factual information, is essential to bring about beh
 
 ## Property: has_MitigationTechnology
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
+
+## Property: has_MitigationPrinciple
+
+Public engagement, based on factual information, is essential to bring about behavior change and implement desired public health actions.
 

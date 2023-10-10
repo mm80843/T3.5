@@ -2,7 +2,7 @@
 
 # Risk: __Gastrointestinal symptoms in COVID-19 patients__ (PBN__Risk_2941)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Enteric involvement studies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1143.md)
 

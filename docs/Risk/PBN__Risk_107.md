@@ -2,7 +2,7 @@
 
 # Risk: __Reduction in official development aid__ (PBN__Risk_107)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Increasing international support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_131.md)
 

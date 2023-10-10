@@ -2,7 +2,7 @@
 
 # Risk: __Allergic respiratory response to pollen__ (PBN__Risk_2948)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Pollen Allergy Prevention](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1150.md)
 

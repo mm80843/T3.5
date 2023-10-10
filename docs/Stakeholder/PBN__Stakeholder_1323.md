@@ -6,7 +6,7 @@
 
 * [Environmental Conditions and Settings](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_107.md)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Unequal distribution of street open spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1969.md)
 

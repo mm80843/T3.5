@@ -6,13 +6,13 @@
 
 * [Inadequate healthcare infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1129.md)
 
-## Property: has_TechnologyID
-
-* [Q5690644](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5690644.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Workforce and Resource Management Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_110.md)
+
+## Property: has_TechnologyID
+
+* [Q5690644](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5690644.md)
 
 ## Property: has_StakeholderGroup
 

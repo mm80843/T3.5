@@ -4,7 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 * [Surface transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1905.md)
 * [Transmission of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2123.md)
 * [Viral Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2817.md)
@@ -12,10 +11,6 @@
 * [Poor Hand Hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2975.md)
 * [Lack of proper hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3201.md)
 * [Contaminated Hands](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3285.md)
-
-## Property: has_MitigationPrinciple
-
-Encourage individuals to practice proper hand hygiene to prevent the spread of the virus through hand contact.
 
 ## Property: has_MitigationSource
 
@@ -33,7 +28,6 @@ Encourage individuals to practice proper hand hygiene to prevent the spread of t
 
 ## Property: has_MitigationTechnology
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 * [hand sanitizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_412.md)
 * [soap](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3086.md)
 * [water](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3087.md)
@@ -41,4 +35,8 @@ Encourage individuals to practice proper hand hygiene to prevent the spread of t
 * [alcohol-based hand rubs (80% ethanol](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3554.md)
 * [75% 2-propanol)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3555.md)
 * [hand washing stations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3741.md)
+
+## Property: has_MitigationPrinciple
+
+Encourage individuals to practice proper hand hygiene to prevent the spread of the virus through hand contact.
 

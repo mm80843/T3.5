@@ -2,7 +2,7 @@
 
 # Risk: __Economic impacts on vulnerable groups__ (PBN__Risk_448)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Enhanced social security measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_623.md)
 

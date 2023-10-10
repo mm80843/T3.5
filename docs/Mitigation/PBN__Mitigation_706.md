@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Encourages individuals to adopt energy-saving behaviors
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Encourages individuals to adopt energy-saving behaviors
 ## Property: has_MitigationTechnology
 
 * [education and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_748.md)
+
+## Property: has_MitigationPrinciple
+
+Encourages individuals to adopt energy-saving behaviors
 

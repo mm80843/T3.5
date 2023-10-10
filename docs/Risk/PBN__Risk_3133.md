@@ -2,7 +2,7 @@
 
 # Risk: __Unreliable information__ (PBN__Risk_3133)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Social media filters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1547.md)
 

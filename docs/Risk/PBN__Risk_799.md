@@ -2,7 +2,7 @@
 
 # Risk: __Airborne transmission via aerosols__ (PBN__Risk_799)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Using appropriate protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1093.md)
 

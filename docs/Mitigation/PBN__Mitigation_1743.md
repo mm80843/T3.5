@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Quarantining whole or parts of cities helped contain the spread of the virus and minimize its impact on communities within the cities.
 
 ## Property: has_MitigationSource
 
@@ -16,5 +11,8 @@ Quarantining whole or parts of cities helped contain the spread of the virus and
 
 ## Property: has_MitigationTechnology
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
+
+## Property: has_MitigationPrinciple
+
+Quarantining whole or parts of cities helped contain the spread of the virus and minimize its impact on communities within the cities.
 

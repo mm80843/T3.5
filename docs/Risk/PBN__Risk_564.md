@@ -2,7 +2,7 @@
 
 # Risk: __Policy measures to support startups__ (PBN__Risk_564)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Enhanced availability of financial capital](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_790.md)
 

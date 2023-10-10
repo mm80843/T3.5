@@ -2,7 +2,7 @@
 
 # Risk: __Limited availability of biosensors and LOC/POC technologies for wastewater analysis__ (PBN__Risk_638)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Development of biosensors and LOC/POC systems for wastewater analysis](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_882.md)
 

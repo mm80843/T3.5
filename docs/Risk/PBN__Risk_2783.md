@@ -2,7 +2,7 @@
 
 # Risk: __Disease transmission through personal contact__ (PBN__Risk_2783)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Hygienic measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_878.md)
 

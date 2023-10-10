@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Providing separate collection services to COVID-19 infected households and quarantine facilities to protect frontline waste workers
 
 ## Property: has_MitigationSource
 
@@ -16,5 +11,8 @@ Providing separate collection services to COVID-19 infected households and quara
 
 ## Property: has_MitigationTechnology
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
+
+## Property: has_MitigationPrinciple
+
+Providing separate collection services to COVID-19 infected households and quarantine facilities to protect frontline waste workers
 

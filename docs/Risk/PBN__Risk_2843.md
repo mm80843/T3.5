@@ -2,7 +2,7 @@
 
 # Risk: __Unclear instructions__ (PBN__Risk_2843)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Clear SOP guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_985.md)
 

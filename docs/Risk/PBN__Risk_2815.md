@@ -2,7 +2,7 @@
 
 # Risk: __Impulsiveness and aggressiveness__ (PBN__Risk_2815)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Social Cohesion](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_931.md)
 

@@ -6,10 +6,6 @@
 
 * [Remote work](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3455.md)
 
-## Property: has_MitigationPrinciple
-
-Remote provision of healthcare and work, reducing disease transmission risk
-
 ## Property: has_MitigationSource
 
 * [yang_combating_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_23.md)
@@ -18,4 +14,8 @@ Remote provision of healthcare and work, reducing disease transmission risk
 
 * [teleoperation technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4495.md)
 * [high-speed communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4496.md)
+
+## Property: has_MitigationPrinciple
+
+Remote provision of healthcare and work, reducing disease transmission risk
 

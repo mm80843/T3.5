@@ -2,7 +2,7 @@
 
 # Risk: __Fear of infection in public transport__ (PBN__Risk_407)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Increase frequency and capacity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_568.md)
 * [Implement hygiene measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_571.md)

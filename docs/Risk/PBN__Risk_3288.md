@@ -2,7 +2,7 @@
 
 # Risk: __Privacy of Data__ (PBN__Risk_3288)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Quarantine Monitoring System](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1927.md)
 * [Contact Tracing Application](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1929.md)

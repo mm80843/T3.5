@@ -2,7 +2,7 @@
 
 # Risk: __Impact of Covid-19 on streets__ (PBN__Risk_30)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Widening trails and walkways](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_38.md)
 

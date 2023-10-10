@@ -11,15 +11,15 @@
 * [Inaccurate information on social media](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1827.md)
 * [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2061.md)
 
-## Property: has_TechnologyID
-
-* [Q6056746](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6056746.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Educational and Training Resources](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_39.md)
 * [Public Education and Awareness Campaigns](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_40.md)
 * [Health Education and Community Outreach](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_41.md)
+
+## Property: has_TechnologyID
+
+* [Q6056746](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6056746.md)
 
 ## Property: has_StakeholderGroup
 

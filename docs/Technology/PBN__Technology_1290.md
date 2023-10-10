@@ -2,11 +2,11 @@
 
 # Technology: __regular cleaning and disinfection technologies__ (PBN__Technology_1290)
 
-## Property: has_TechnologyRisk
-
-* [Surface transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1905.md)
-
 ## Property: has_TechnologyID
 
 * [Q24887418](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q24887418.md)
+
+## Property: has_TechnologyRisk
+
+* [Surface transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1905.md)
 

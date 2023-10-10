@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-PCR is used for confirmation of COVID-19 patients by detecting viral RNA in feces, even in the absence of gastrointestinal symptoms or diarrhea.
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ PCR is used for confirmation of COVID-19 patients by detecting viral RNA in fece
 ## Property: has_MitigationTechnology
 
 * [pcr assay](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3073.md)
+
+## Property: has_MitigationPrinciple
+
+PCR is used for confirmation of COVID-19 patients by detecting viral RNA in feces, even in the absence of gastrointestinal symptoms or diarrhea.
 

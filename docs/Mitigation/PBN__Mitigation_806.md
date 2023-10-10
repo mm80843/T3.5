@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Identifying infected individuals quickly and tracing their contacts to prevent further spread of the disease.
 
 ## Property: has_MitigationSource
 
@@ -18,4 +13,8 @@ Identifying infected individuals quickly and tracing their contacts to prevent f
 
 * [contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_11.md)
 * [testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_610.md)
+
+## Property: has_MitigationPrinciple
+
+Identifying infected individuals quickly and tracing their contacts to prevent further spread of the disease.
 

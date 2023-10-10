@@ -6,13 +6,13 @@
 
 * [Inadequate mixing of room air](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1365.md)
 
-## Property: has_TechnologyID
-
-* [Q6884054](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6884054.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Sanitation and Waste Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_121.md)
+
+## Property: has_TechnologyID
+
+* [Q6884054](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6884054.md)
 
 ## Property: has_StakeholderGroup
 

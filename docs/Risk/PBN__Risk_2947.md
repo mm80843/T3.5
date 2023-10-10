@@ -2,7 +2,7 @@
 
 # Risk: __Algal blooms, release of toxins__ (PBN__Risk_2947)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Algae Control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1149.md)
 

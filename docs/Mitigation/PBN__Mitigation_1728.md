@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Ensuring individuals have stable financial security to reduce stress and anxiety associated with loss of income
 
 ## Property: has_MitigationSource
 
@@ -16,5 +11,8 @@ Ensuring individuals have stable financial security to reduce stress and anxiety
 
 ## Property: has_MitigationTechnology
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
+
+## Property: has_MitigationPrinciple
+
+Ensuring individuals have stable financial security to reduce stress and anxiety associated with loss of income
 

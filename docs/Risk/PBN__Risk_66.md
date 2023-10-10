@@ -2,7 +2,7 @@
 
 # Risk: __Urban pests and disease vectors__ (PBN__Risk_66)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Implement rodent management program](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_78.md)
 

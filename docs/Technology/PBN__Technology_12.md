@@ -8,14 +8,14 @@
 * [Limited care and restricted health services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_779.md)
 * [Contagious disease transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1021.md)
 
-## Property: has_TechnologyID
-
-* [Q7312165](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7312165.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Mobile and Remote Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_107.md)
 * [Telemedicine and Telehealth Services](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_28.md)
+
+## Property: has_TechnologyID
+
+* [Q7312165](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7312165.md)
 
 ## Property: has_StakeholderGroup
 

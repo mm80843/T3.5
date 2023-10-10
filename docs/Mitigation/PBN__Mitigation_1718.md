@@ -6,10 +6,6 @@
 
 * [Lack of information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2599.md)
 
-## Property: has_MitigationPrinciple
-
-Develop digital communication strategies to share information, collaborate, and discuss digital health solutions
-
 ## Property: has_MitigationSource
 
 * [robbins_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_93.md)
@@ -18,4 +14,8 @@ Develop digital communication strategies to share information, collaborate, and 
 
 * [digital communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_897.md)
 * [online forums](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4028.md)
+
+## Property: has_MitigationPrinciple
+
+Develop digital communication strategies to share information, collaborate, and discuss digital health solutions
 

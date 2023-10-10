@@ -2,7 +2,7 @@
 
 # Risk: __Inequalities in health driven by urban design__ (PBN__Risk_286)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Redistributing housing, schools, and businesses to decrease agglomeration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_361.md)
 

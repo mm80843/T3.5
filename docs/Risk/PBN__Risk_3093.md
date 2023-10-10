@@ -2,7 +2,7 @@
 
 # Risk: __Openings allow mosquito access__ (PBN__Risk_3093)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Window and vent design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1478.md)
 

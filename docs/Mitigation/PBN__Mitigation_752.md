@@ -4,13 +4,8 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 * [Transmission of pathogens within a confined space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2716.md)
 * [Transmission of Infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2812.md)
-
-## Property: has_MitigationPrinciple
-
-Prevent the spread of contagious diseases by isolating individuals exhibiting symptoms
 
 ## Property: has_MitigationSource
 
@@ -23,4 +18,8 @@ Prevent the spread of contagious diseases by isolating individuals exhibiting sy
 * [separate rooms or designated areas for contagion control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3426.md)
 * [dedicated isolation rooms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3548.md)
 * [dedicated isolation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3830.md)
+
+## Property: has_MitigationPrinciple
+
+Prevent the spread of contagious diseases by isolating individuals exhibiting symptoms
 

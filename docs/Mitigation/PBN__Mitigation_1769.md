@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Balancing the ventilation system is necessary to ensure that the ventilation rates meet the requirements of different areas, such as meeting rooms and office rooms, as specified by building codes
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Balancing the ventilation system is necessary to ensure that the ventilation rat
 ## Property: has_MitigationTechnology
 
 * [hvac system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3190.md)
+
+## Property: has_MitigationPrinciple
+
+Balancing the ventilation system is necessary to ensure that the ventilation rates meet the requirements of different areas, such as meeting rooms and office rooms, as specified by building codes
 

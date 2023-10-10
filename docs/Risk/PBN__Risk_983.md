@@ -2,7 +2,7 @@
 
 # Risk: __Validity concerns in energy social science research during the COVID-19 pandemic__ (PBN__Risk_983)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Capture and report on extra relevant data](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1387.md)
 * [Consider implications for design, conduct, and interpretation of research](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1388.md)

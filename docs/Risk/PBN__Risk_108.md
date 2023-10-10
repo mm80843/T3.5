@@ -2,7 +2,7 @@
 
 # Risk: __Increase in local opportunity cost__ (PBN__Risk_108)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Supporting local communities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_132.md)
 

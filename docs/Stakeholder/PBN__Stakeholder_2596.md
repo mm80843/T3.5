@@ -2,15 +2,15 @@
 
 # Stakeholder: __Occupants of buildings with contaminated surfaces__ (PBN__Stakeholder_2596)
 
-## Property: has_StakeholderGroup
+## Property: has_StakeholderSubgroup
 
-* [Building Occupants](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_11.md)
+* [Building Conditions](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_67.md)
 
 ## Property: has_StakeholderID
 
 * [Q5164914](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5164914.md)
 
-## Property: has_StakeholderSubgroup
+## Property: has_StakeholderGroup
 
-* [Building Conditions](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_67.md)
+* [Building Occupants](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_11.md)
 

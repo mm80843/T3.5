@@ -2,7 +2,7 @@
 
 # Risk: __Inaccurate or sensationalized information__ (PBN__Risk_2797)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Accurate evidence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_891.md)
 

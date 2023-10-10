@@ -4,14 +4,9 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 * [Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_974.md)
 * [Social and gender disparities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2641.md)
 * [Decreased productivity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2750.md)
-
-## Property: has_MitigationPrinciple
-
-Encouraging individuals to work from home to minimize the need for commuting and reduce the risk of disease transmission in office environments.
 
 ## Property: has_MitigationSource
 
@@ -27,4 +22,8 @@ Encouraging individuals to work from home to minimize the need for commuting and
 * [communication technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_546.md)
 * [digital communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_719.md)
 * [internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3058.md)
+
+## Property: has_MitigationPrinciple
+
+Encouraging individuals to work from home to minimize the need for commuting and reduce the risk of disease transmission in office environments.
 

@@ -6,16 +6,16 @@
 
 Provides real-time data capture, monitoring, and analysis for effective response and decision-making
 
+## Property: has_BenefSource
+
+* [raza_mobile_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_239.md)
+
+## Description of Benefits pertaining to Beneficiaries
+
+* [Improves data-driven public health response, leading to more targeted interventions and resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1288.md)
+
 ## Property: has_Beneficiary
 
 * [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
 * [healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_33.md)
-
-## Property: has_BenefReturn
-
-* [Improves data-driven public health response, leading to more targeted interventions and resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1288.md)
-
-## Property: has_BenefSource
-
-* [raza_mobile_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_239.md)
 

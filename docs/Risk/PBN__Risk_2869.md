@@ -2,7 +2,7 @@
 
 # Risk: __Lack of support and resources__ (PBN__Risk_2869)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Strengthening Entrepreneurial Ecosystems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1031.md)
 * [External Assistance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1032.md)

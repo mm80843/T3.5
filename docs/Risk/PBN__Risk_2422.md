@@ -2,7 +2,7 @@
 
 # Risk: __Performance, scalability, accuracy__ (PBN__Risk_2422)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Disease modelling](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_56.md)
 

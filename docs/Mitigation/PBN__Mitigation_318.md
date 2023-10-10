@@ -8,10 +8,6 @@
 * [Misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1033.md)
 * [Lack of information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2599.md)
 
-## Property: has_MitigationPrinciple
-
-Utilizing digital platforms and effective communication strategies to raise awareness and promote adherence to public health strategies
-
 ## Property: has_MitigationSource
 
 * [buneviciene_covid-19_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_153.md)
@@ -24,4 +20,8 @@ Utilizing digital platforms and effective communication strategies to raise awar
 * [digital communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_897.md)
 * [communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_135.md)
 * [internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3058.md)
+
+## Property: has_MitigationPrinciple
+
+Utilizing digital platforms and effective communication strategies to raise awareness and promote adherence to public health strategies
 

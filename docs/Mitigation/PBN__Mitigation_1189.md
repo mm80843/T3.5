@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Determine the amount citizens are willing to invest in green roofs
 
 ## Property: has_MitigationSource
 
@@ -18,4 +13,8 @@ Determine the amount citizens are willing to invest in green roofs
 
 * [surveys](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_900.md)
 * [marketing research](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3721.md)
+
+## Property: has_MitigationPrinciple
+
+Determine the amount citizens are willing to invest in green roofs
 

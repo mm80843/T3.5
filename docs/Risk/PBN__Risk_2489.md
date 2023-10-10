@@ -2,7 +2,7 @@
 
 # Risk: __Contamination, transmission through air__ (PBN__Risk_2489)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_170.md)
 

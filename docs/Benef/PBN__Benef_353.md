@@ -6,15 +6,15 @@
 
 Ensuring equitable distribution of nutritious food improves dietary behaviors and decreases food insecurity
 
-## Property: has_Beneficiary
-
-* [urban poor](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_170.md)
-
-## Property: has_BenefReturn
-
-* [Improved nutrition, reduced disease burden, increased economic productivity](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_376.md)
-
 ## Property: has_BenefSource
 
 * [oni_implications_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_68.md)
+
+## Description of Benefits pertaining to Beneficiaries
+
+* [Improved nutrition, reduced disease burden, increased economic productivity](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_376.md)
+
+## Property: has_Beneficiary
+
+* [urban poor](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_170.md)
 

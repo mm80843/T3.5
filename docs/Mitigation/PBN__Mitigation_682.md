@@ -8,10 +8,6 @@
 * [Surface contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2616.md)
 * [Contagion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2685.md)
 
-## Property: has_MitigationPrinciple
-
-Regularly cleans and disinfects rooms and buildings to eliminate viruses and reduce the risk of transmission
-
 ## Property: has_MitigationSource
 
 * [thukral_covid19_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_194.md)
@@ -27,4 +23,8 @@ Regularly cleans and disinfects rooms and buildings to eliminate viruses and red
 * [sanitizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_770.md)
 * [sanitization tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3379.md)
 * [sanitizing products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4225.md)
+
+## Property: has_MitigationPrinciple
+
+Regularly cleans and disinfects rooms and buildings to eliminate viruses and reduce the risk of transmission
 

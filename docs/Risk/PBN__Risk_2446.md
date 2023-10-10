@@ -2,7 +2,7 @@
 
 # Risk: __Overwhelmed medical facilities and disruption of normal functioning__ (PBN__Risk_2446)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Urban restructuring for emergency preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_112.md)
 

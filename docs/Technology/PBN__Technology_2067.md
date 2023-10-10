@@ -2,11 +2,10 @@
 
 # Technology: __Translation services__ (PBN__Technology_2067)
 
+## Property: has_StakeholderSubgroup
+
+
 ## Property: has_StakeholderGroup
 
 * [AI tools](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_0.md)
-
-## Property: has_StakeholderSubgroup
-
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_7.md)
 

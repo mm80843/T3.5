@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Transforming the indoor environment to improve health and well-being of occupants
 
 ## Property: has_MitigationSource
 
@@ -23,4 +18,8 @@ Transforming the indoor environment to improve health and well-being of occupant
 * [green sustainable materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4484.md)
 * [sustainable site management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4485.md)
 * [commissioning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4486.md)
+
+## Property: has_MitigationPrinciple
+
+Transforming the indoor environment to improve health and well-being of occupants
 

@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Used as carriers to test the efficacy of coatings against the virus
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Used as carriers to test the efficacy of coatings against the virus
 ## Property: has_MitigationTechnology
 
 * [stainless steel](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3500.md)
+
+## Property: has_MitigationPrinciple
+
+Used as carriers to test the efficacy of coatings against the virus
 

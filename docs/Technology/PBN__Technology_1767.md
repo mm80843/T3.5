@@ -6,13 +6,13 @@
 
 * [WM1](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2212.md)
 
-## Property: has_TechnologyID
-
-* [Q4915134](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4915134.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Sanitation and Waste Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_121.md)
+
+## Property: has_TechnologyID
+
+* [Q4915134](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4915134.md)
 
 ## Property: has_StakeholderGroup
 

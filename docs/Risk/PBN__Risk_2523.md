@@ -2,7 +2,7 @@
 
 # Risk: __Increased Interactions__ (PBN__Risk_2523)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Human Interactions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_300.md)
 

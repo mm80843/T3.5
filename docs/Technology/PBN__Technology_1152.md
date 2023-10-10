@@ -7,14 +7,14 @@
 * [Ineffectiveness of mitigation measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1788.md)
 * [Lack of awareness and compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1906.md)
 
-## Property: has_TechnologyID
-
-* [Q4202277](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4202277.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Enforcement and Regulation Measures](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_158.md)
 * [Monitoring Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_31.md)
+
+## Property: has_TechnologyID
+
+* [Q4202277](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4202277.md)
 
 ## Property: has_StakeholderGroup
 

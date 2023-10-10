@@ -6,16 +6,16 @@
 
 Transposition of services to digital platforms improves access to healthcare information
 
-## Property: has_Beneficiary
+## Property: has_BenefSource
 
-* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
+* [fariniuk_smart_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_143.md)
 
-## Property: has_BenefReturn
+## Description of Benefits pertaining to Beneficiaries
 
 * [Improve service delivery and enhance citizen experience](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_784.md)
 * [Enhance public awareness and provide timely information](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_790.md)
 
-## Property: has_BenefSource
+## Property: has_Beneficiary
 
-* [fariniuk_smart_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_143.md)
+* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
 

@@ -6,15 +6,15 @@
 
 Use of digital techniques and information-based management methods streamline construction processes, improve efficiency, and reduce costs.
 
-## Property: has_Beneficiary
-
-* [construction industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_149.md)
-
-## Property: has_BenefReturn
-
-* [Improved project management leads to better construction outcomes, increased profitability, and enhanced asset value.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_313.md)
-
 ## Property: has_BenefSource
 
 * [cheshmehzangi_revisiting_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_59.md)
+
+## Description of Benefits pertaining to Beneficiaries
+
+* [Improved project management leads to better construction outcomes, increased profitability, and enhanced asset value.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_313.md)
+
+## Property: has_Beneficiary
+
+* [construction industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_149.md)
 

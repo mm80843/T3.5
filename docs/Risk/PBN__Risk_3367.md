@@ -2,7 +2,7 @@
 
 # Risk: __Time of recovery__ (PBN__Risk_3367)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Rapidity of Critical Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2180.md)
 

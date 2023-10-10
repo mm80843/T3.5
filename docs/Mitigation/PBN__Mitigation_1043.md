@@ -6,15 +6,14 @@
 
 * [Addressing fundamental problems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2878.md)
 
-## Property: has_MitigationPrinciple
-
-Focuses on long-term measures and strategies to resolve deeper, underlying issues and challenges within the startup ecosystem and economy, ensuring a sustainable recovery and growth in the post-crisis period.
-
 ## Property: has_MitigationSource
 
 * [kuckertz_startups_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_158.md)
 
 ## Property: has_MitigationTechnology
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
+
+## Property: has_MitigationPrinciple
+
+Focuses on long-term measures and strategies to resolve deeper, underlying issues and challenges within the startup ecosystem and economy, ensuring a sustainable recovery and growth in the post-crisis period.
 

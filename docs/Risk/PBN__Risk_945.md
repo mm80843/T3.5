@@ -2,7 +2,7 @@
 
 # Risk: __High entrance/membership fees for green areas__ (PBN__Risk_945)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Reduce entrance/membership fees for green areas](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1314.md)
 

@@ -2,7 +2,7 @@
 
 # Stakeholder: __communities without access to clean water and sanitation__ (PBN__Stakeholder_1366)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Water and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2037.md)
 

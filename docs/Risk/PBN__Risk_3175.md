@@ -2,7 +2,7 @@
 
 # Risk: __Missed reinfections__ (PBN__Risk_3175)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Lower testing frequency](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1625.md)
 

@@ -2,7 +2,7 @@
 
 # Risk: __Epidemiology__ (PBN__Risk_218)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Indoor humidity measurements](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_262.md)
 

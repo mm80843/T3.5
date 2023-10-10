@@ -2,7 +2,7 @@
 
 # Risk: __Healthcare inequalities in LMIC__ (PBN__Risk_467)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [AI for health equity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_657.md)
 

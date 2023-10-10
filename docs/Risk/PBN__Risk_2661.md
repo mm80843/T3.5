@@ -2,7 +2,7 @@
 
 # Risk: __Ineffective dissemination__ (PBN__Risk_2661)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Leverage multiple dissemination channels](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_612.md)
 

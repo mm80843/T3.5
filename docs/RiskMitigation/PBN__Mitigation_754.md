@@ -4,12 +4,7 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 * [Individual exposure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3271.md)
-
-## Property: has_MitigationPrinciple
-
-Use of personal protective equipment such as masks and hand sanitizers to prevent disease transmission
 
 ## Property: has_MitigationSource
 
@@ -21,4 +16,8 @@ Use of personal protective equipment such as masks and hand sanitizers to preven
 * [masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1053.md)
 * [hand sanitizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_412.md)
 * [personal protective equipment (e.g. masks)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3797.md)
+
+## Property: has_MitigationPrinciple
+
+Use of personal protective equipment such as masks and hand sanitizers to prevent disease transmission
 

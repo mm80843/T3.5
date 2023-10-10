@@ -6,15 +6,15 @@
 
 Adequate natural light reduces transmission risk of COVID-19 and improves physical and mental well-being of occupants.
 
-## Property: has_Beneficiary
-
-* [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
-
-## Property: has_BenefReturn
-
-* [Private investors investing in adaptive design measures can create more desirable and healthier built environments, increasing asset value.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_827.md)
-
 ## Property: has_BenefSource
 
 * [ara_dilshad_shangi_adaptive_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_151.md)
+
+## Description of Benefits pertaining to Beneficiaries
+
+* [Private investors investing in adaptive design measures can create more desirable and healthier built environments, increasing asset value.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_827.md)
+
+## Property: has_Beneficiary
+
+* [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
 

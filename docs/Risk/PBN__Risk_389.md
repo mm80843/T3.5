@@ -2,7 +2,7 @@
 
 # Risk: __Impact of extended stays in indoor environments on human health__ (PBN__Risk_389)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Designing personalized indoor controls at room and patient levels](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_546.md)
 

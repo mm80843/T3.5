@@ -6,13 +6,13 @@
 
 * [Job losses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2173.md)
 
-## Property: has_TechnologyID
-
-* [Q11900959](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q11900959.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Digital Learning Platforms and Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_56.md)
+
+## Property: has_TechnologyID
+
+* [Q11900959](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q11900959.md)
 
 ## Property: has_StakeholderGroup
 

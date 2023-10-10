@@ -6,10 +6,6 @@
 
 * [Virus propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1032.md)
 
-## Property: has_MitigationPrinciple
-
-Ensure a good level of sealing of pipes to limit virus propagation at the household level
-
 ## Property: has_MitigationSource
 
 * [ujikawa_how_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_172.md)
@@ -17,4 +13,8 @@ Ensure a good level of sealing of pipes to limit virus propagation at the househ
 ## Property: has_MitigationTechnology
 
 * [sealing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4352.md)
+
+## Property: has_MitigationPrinciple
+
+Ensure a good level of sealing of pipes to limit virus propagation at the household level
 

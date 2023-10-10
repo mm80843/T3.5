@@ -2,10 +2,6 @@
 
 # Technology: __Disease surveillance__ (PBN__Technology_2479)
 
-## Property: has_StakeholderGroup
-
-* [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_6.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Surveillance and Monitoring Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_147.md)
@@ -13,4 +9,8 @@
 ## Property: has_TechnologyID
 
 * [Q3555250](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3555250.md)
+
+## Property: has_StakeholderGroup
+
+* [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_6.md)
 

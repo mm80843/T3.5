@@ -2,7 +2,7 @@
 
 # Risk: __Respiratory illnesses__ (PBN__Risk_2902)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Improved air quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1070.md)
 

@@ -2,7 +2,7 @@
 
 # Stakeholder: __visitors to social spaces__ (PBN__Stakeholder_769)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Making social spaces safe and viable](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_266.md)
 

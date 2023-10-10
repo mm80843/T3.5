@@ -2,7 +2,7 @@
 
 # Risk: __Environmental contamination__ (PBN__Risk_923)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Strict adherence to environmental and hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1273.md)
 * [Regular cleaning and disinfection of high-touch areas](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1274.md)

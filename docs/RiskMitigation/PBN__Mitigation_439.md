@@ -4,13 +4,8 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 * [COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_538.md)
 * [Infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2622.md)
-
-## Property: has_MitigationPrinciple
-
-Isolation of confirmed diagnosed cases and reduction in human-to-human interactions.
 
 ## Property: has_MitigationSource
 
@@ -21,5 +16,8 @@ Isolation of confirmed diagnosed cases and reduction in human-to-human interacti
 
 ## Property: has_MitigationTechnology
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
+
+## Property: has_MitigationPrinciple
+
+Isolation of confirmed diagnosed cases and reduction in human-to-human interactions.
 

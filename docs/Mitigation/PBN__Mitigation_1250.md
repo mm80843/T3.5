@@ -6,10 +6,6 @@
 
 * [Limited infrastructure, cost](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2993.md)
 
-## Property: has_MitigationPrinciple
-
-Enable high-speed communication and data transfer for real-time monitoring and response
-
 ## Property: has_MitigationSource
 
 * [mbunge_critical_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_91.md)
@@ -17,4 +13,8 @@ Enable high-speed communication and data transfer for real-time monitoring and r
 ## Property: has_MitigationTechnology
 
 * [5g technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3767.md)
+
+## Property: has_MitigationPrinciple
+
+Enable high-speed communication and data transfer for real-time monitoring and response
 

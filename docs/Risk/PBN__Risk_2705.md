@@ -2,7 +2,7 @@
 
 # Risk: __Lack of personal protective equipment and professional training in family members__ (PBN__Risk_2705)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Limiting familial cluster infections](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_724.md)
 

@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Regular cleaning of the patient's room, particularly high-touch areas, using a disinfectant to reduce the level of environmental contamination
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Regular cleaning of the patient's room, particularly high-touch areas, using a d
 ## Property: has_MitigationTechnology
 
 * [sodium dichloroisocyanurate](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3909.md)
+
+## Property: has_MitigationPrinciple
+
+Regular cleaning of the patient's room, particularly high-touch areas, using a disinfectant to reduce the level of environmental contamination
 

@@ -2,7 +2,7 @@
 
 # Stakeholder: __low-income communities in urban areas__ (PBN__Stakeholder_588)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Poor housing conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1065.md)
 

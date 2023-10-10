@@ -2,7 +2,7 @@
 
 # Stakeholder: __low-income workers__ (PBN__Stakeholder_1262)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Economic crisis](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_231.md)
 

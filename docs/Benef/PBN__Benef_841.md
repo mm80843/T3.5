@@ -6,16 +6,16 @@
 
 Incorporating occupant presence data in risk estimation improves accuracy
 
+## Property: has_BenefSource
+
+* [mokhtari_effect_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_169.md)
+
+## Description of Benefits pertaining to Beneficiaries
+
+* [Better assessment of COVID-19 transmission risk, effective mitigation strategies](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_915.md)
+
 ## Property: has_Beneficiary
 
 * [public health](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_58.md)
 * [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
-
-## Property: has_BenefReturn
-
-* [Better assessment of COVID-19 transmission risk, effective mitigation strategies](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_915.md)
-
-## Property: has_BenefSource
-
-* [mokhtari_effect_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_169.md)
 

@@ -2,7 +2,7 @@
 
 # Risk: __Unemployment__ (PBN__Risk_857)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Employment protections](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1181.md)
 

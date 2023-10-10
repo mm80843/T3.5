@@ -8,7 +8,7 @@
 * [Occupants](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_55.md)
 * [Building Conditions](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_67.md)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Improper use of heat recovery systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1430.md)
 

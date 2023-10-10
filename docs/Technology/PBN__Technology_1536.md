@@ -2,11 +2,11 @@
 
 # Technology: __improved screening and testing methods__ (PBN__Technology_1536)
 
-## Property: has_TechnologyRisk
-
-* [Contamination of blood products](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2053.md)
-
 ## Property: has_TechnologyID
 
 * [Q1163564](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1163564.md)
+
+## Property: has_TechnologyRisk
+
+* [Contamination of blood products](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2053.md)
 

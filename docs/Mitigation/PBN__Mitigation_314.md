@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Installing sensors on public transportation doors to minimize contact and reduce the risk of disease transmission.
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Installing sensors on public transportation doors to minimize contact and reduce
 ## Property: has_MitigationTechnology
 
 * [sensor technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3150.md)
+
+## Property: has_MitigationPrinciple
+
+Installing sensors on public transportation doors to minimize contact and reduce the risk of disease transmission.
 

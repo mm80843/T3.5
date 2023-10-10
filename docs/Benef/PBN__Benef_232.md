@@ -6,16 +6,17 @@
 
 Opening windows can increase outside air fraction and total air change rate, reducing the concentration of airborne viral particles and the risk of transmission.
 
-## Property: has_Beneficiary
+## Property: has_BenefSource
 
-* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
-* [individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_20.md)
-* [residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
-* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
-* [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
-* [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
+* [tokazhanov_assessment_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_51.md)
+* [ebrahim_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_112.md)
+* [dietz_2019_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_288.md)
+* [rahim_impact_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_94.md)
+* [ferguson_report_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_80.md)
+* [quantin_covid-19_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_136.md)
+* [salama_coronavirus_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_184.md)
 
-## Property: has_BenefReturn
+## Description of Benefits pertaining to Beneficiaries
 
 * [Adjustability of indoor temperature can improve tenant satisfaction and attract health-conscious individuals.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_242.md)
 * [Private investors could benefit by investing in measures that reduce transmission as it would lead to a decrease in healthcare demand and potentially fewer deaths, resulting in a healthier population and a more stable economy.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_431.md)
@@ -31,13 +32,12 @@ Opening windows can increase outside air fraction and total air change rate, red
 * [Private investors benefit by investing in UV germicidal irradiation systems that enhance indoor air quality and reduce the risk of infection, thus enhancing occupant satisfaction and potentially attracting more tenants or customers.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1532.md)
 * [Private investors benefit by promoting window ventilation, which improves indoor air quality and reduces the risk of infection, thus enhancing occupant satisfaction and potentially attracting more tenants or customers.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1533.md)
 
-## Property: has_BenefSource
+## Property: has_Beneficiary
 
-* [tokazhanov_assessment_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_51.md)
-* [ebrahim_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_112.md)
-* [dietz_2019_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_288.md)
-* [rahim_impact_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_94.md)
-* [ferguson_report_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_80.md)
-* [quantin_covid-19_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_136.md)
-* [salama_coronavirus_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_184.md)
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+* [individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_20.md)
+* [residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
+* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
+* [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
+* [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
 

@@ -2,7 +2,7 @@
 
 # Stakeholder: __event attendees__ (PBN__Stakeholder_844)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_571.md)
 * [Crowded public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1325.md)

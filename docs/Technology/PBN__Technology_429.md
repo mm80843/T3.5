@@ -2,11 +2,11 @@
 
 # Technology: __financial aid apps__ (PBN__Technology_429)
 
-## Property: has_TechnologyRisk
-
-* [Financial constraints](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1294.md)
-
 ## Property: has_TechnologyID
 
 * [Q70471322](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q70471322.md)
+
+## Property: has_TechnologyRisk
+
+* [Financial constraints](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1294.md)
 

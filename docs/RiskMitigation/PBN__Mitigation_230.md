@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Concentration methods are used to concentrate the virus in wastewater samples for detection.
 
 ## Property: has_MitigationSource
 
@@ -18,4 +13,8 @@ Concentration methods are used to concentrate the virus in wastewater samples fo
 
 * [ultrafiltration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3074.md)
 * [adsorption-elution](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3075.md)
+
+## Property: has_MitigationPrinciple
+
+Concentration methods are used to concentrate the virus in wastewater samples for detection.
 

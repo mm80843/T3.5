@@ -6,10 +6,6 @@
 
 * [Limited resources in LMIC](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_464.md)
 
-## Property: has_MitigationPrinciple
-
-AI can assist in biomedical research and remote monitoring to improve healthcare in LMIC
-
 ## Property: has_MitigationSource
 
 * [naseem_exploring_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_131.md)
@@ -17,4 +13,8 @@ AI can assist in biomedical research and remote monitoring to improve healthcare
 ## Property: has_MitigationTechnology
 
 * [artificial intelligence and health data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3849.md)
+
+## Property: has_MitigationPrinciple
+
+AI can assist in biomedical research and remote monitoring to improve healthcare in LMIC
 

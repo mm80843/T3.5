@@ -2,7 +2,7 @@
 
 # Risk: __Misinterpretation of health recommendations__ (PBN__Risk_3033)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Clear and inclusive communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1341.md)
 

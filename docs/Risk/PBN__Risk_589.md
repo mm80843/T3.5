@@ -2,7 +2,7 @@
 
 # Risk: __Impact of interventions on transmission__ (PBN__Risk_589)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Reduction in transmission as measured by changes in reproduction number](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_826.md)
 

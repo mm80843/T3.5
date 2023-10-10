@@ -2,7 +2,7 @@
 
 # Risk: __Airborne transmission of pathogens__ (PBN__Risk_2714)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_170.md)
 

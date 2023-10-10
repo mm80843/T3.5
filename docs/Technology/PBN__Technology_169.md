@@ -2,11 +2,11 @@
 
 # Technology: __local infrastructure development__ (PBN__Technology_169)
 
-## Property: has_TechnologyRisk
-
-* [Limited access to essential services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1108.md)
-
 ## Property: has_TechnologyID
 
 * [Q2475641](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2475641.md)
+
+## Property: has_TechnologyRisk
+
+* [Limited access to essential services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1108.md)
 

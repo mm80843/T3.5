@@ -2,7 +2,7 @@
 
 # Risk: __Lack of understanding of disease spread and patterns__ (PBN__Risk_3146)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Effective public health surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1573.md)
 

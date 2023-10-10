@@ -6,10 +6,6 @@
 
 * [Disruption of Work and Education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3228.md)
 
-## Property: has_MitigationPrinciple
-
-Encouraging remote work and distance learning can help reduce the density of people in shared spaces, lowering the risk of disease transmission while maintaining productivity and education.
-
 ## Property: has_MitigationSource
 
 * [rizvi_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_271.md)
@@ -18,4 +14,8 @@ Encouraging remote work and distance learning can help reduce the density of peo
 
 * [internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3058.md)
 * [teleconferencing tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4025.md)
+
+## Property: has_MitigationPrinciple
+
+Encouraging remote work and distance learning can help reduce the density of people in shared spaces, lowering the risk of disease transmission while maintaining productivity and education.
 

@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Identifies and quarantines suspicious cases using travel history, QR code scanning, and online reporting of symptoms
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Identifies and quarantines suspicious cases using travel history, QR code scanni
 ## Property: has_MitigationTechnology
 
 * [new data and technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4411.md)
+
+## Property: has_MitigationPrinciple
+
+Identifies and quarantines suspicious cases using travel history, QR code scanning, and online reporting of symptoms
 

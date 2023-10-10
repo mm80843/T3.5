@@ -6,13 +6,13 @@
 
 * [Limited access to physical activity environments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1857.md)
 
-## Property: has_TechnologyID
-
-* [Q5198662](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5198662.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Urban Planning and Green Spaces](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_85.md)
+
+## Property: has_TechnologyID
+
+* [Q5198662](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5198662.md)
 
 ## Property: has_StakeholderGroup
 

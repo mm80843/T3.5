@@ -2,7 +2,7 @@
 
 # Risk: __Transmission in the community__ (PBN__Risk_3029)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Stay-at-home recommendations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1337.md)
 

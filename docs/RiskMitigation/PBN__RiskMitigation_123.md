@@ -2,9 +2,20 @@
 
 # RiskMitigation: __nan__ (PBN__RiskMitigation_123)
 
+## Property: has_MitigationRisk
+
+* [Misinformation propagation during pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_104.md)
+* [Increased residential energy consumption during the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_369.md)
+* [about COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_535.md)
+* [Lack of incentive for building owners to invest in IEQ improvement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_570.md)
+* [and capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_773.md)
+* [social and economic models](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_776.md)
+* [time spent at home during](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_871.md)
+* [the lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_872.md)
+* [infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2324.md)
+
 ## Property: has_MitigationBenefit
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_145.md)
 * [Energy saving](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_363.md)
 * [Reduced emissions](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_364.md)
 * [Improved aesthetics](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_365.md)
@@ -34,17 +45,4 @@
 * [in indoor air](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1329.md)
 * [on contact surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1331.md)
 * [buildings](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1336.md)
-
-## Property: has_MitigationRisk
-
-* [Misinformation propagation during pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_104.md)
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-* [Increased residential energy consumption during the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_369.md)
-* [about COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_535.md)
-* [Lack of incentive for building owners to invest in IEQ improvement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_570.md)
-* [and capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_773.md)
-* [social and economic models](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_776.md)
-* [time spent at home during](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_871.md)
-* [the lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_872.md)
-* [infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2324.md)
 

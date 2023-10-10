@@ -2,10 +2,6 @@
 
 # Technology: __AI and machine learning for modeling and simulations__ (PBN__Technology_2060)
 
-## Property: has_StakeholderGroup
-
-* [AI tools](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_0.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Artificial Intelligence and Machine Learning](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_1.md)
@@ -13,4 +9,8 @@
 ## Property: has_TechnologyID
 
 * [Q6888384](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6888384.md)
+
+## Property: has_StakeholderGroup
+
+* [AI tools](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_0.md)
 

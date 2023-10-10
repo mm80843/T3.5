@@ -2,7 +2,7 @@
 
 # Risk: __Health harming behaviors__ (PBN__Risk_2708)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Building regulations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_733.md)
 * [Rent controls](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_736.md)

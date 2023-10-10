@@ -2,7 +2,7 @@
 
 # Risk: __Lack of evidence-informed decision-making__ (PBN__Risk_393)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Engaging decision-makers and stakeholders in setting priorities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_550.md)
 

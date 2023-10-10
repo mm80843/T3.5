@@ -2,7 +2,7 @@
 
 # Risk: __Uncertainty__ (PBN__Risk_2417)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Global Containment Strategy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_36.md)
 * [Engaging decision-makers in setting priorities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_601.md)

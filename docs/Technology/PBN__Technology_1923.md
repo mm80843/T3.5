@@ -6,13 +6,13 @@
 
 * [Influence of preprints on public health decisions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2330.md)
 
-## Property: has_TechnologyID
-
-* [Q580922](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q580922.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Research and Data Analysis](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_186.md)
+
+## Property: has_TechnologyID
+
+* [Q580922](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q580922.md)
 
 ## Property: has_StakeholderGroup
 

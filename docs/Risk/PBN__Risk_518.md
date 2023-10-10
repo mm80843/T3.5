@@ -2,7 +2,7 @@
 
 # Risk: __Limited access to healthcare during the pandemic__ (PBN__Risk_518)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Strengthening healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_725.md)
 

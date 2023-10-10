@@ -2,7 +2,7 @@
 
 # Risk: __LC2: Local services__ (PBN__Risk_206)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Urban/community farming](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_245.md)
 

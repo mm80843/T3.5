@@ -2,7 +2,7 @@
 
 # Risk: __Infection and transmission to healthcare workers__ (PBN__Risk_3275)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Protective Facilities for Healthcare Workers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1866.md)
 

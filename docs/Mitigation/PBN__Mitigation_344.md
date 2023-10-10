@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Reduce the risk of contagion through contact surfaces
 
 ## Property: has_MitigationSource
 
@@ -18,4 +13,8 @@ Reduce the risk of contagion through contact surfaces
 
 * [sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_200.md)
 * [iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_277.md)
+
+## Property: has_MitigationPrinciple
+
+Reduce the risk of contagion through contact surfaces
 

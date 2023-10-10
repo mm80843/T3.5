@@ -6,10 +6,6 @@
 
 * [Safety concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1795.md)
 
-## Property: has_MitigationPrinciple
-
-Balancing dense vegetation to provide suitable habitats for urban wildlife while addressing safety concerns and providing visibility for humans.
-
 ## Property: has_MitigationSource
 
 * [felappi_green_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_150.md)
@@ -17,4 +13,8 @@ Balancing dense vegetation to provide suitable habitats for urban wildlife while
 ## Property: has_MitigationTechnology
 
 * [green space design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3370.md)
+
+## Property: has_MitigationPrinciple
+
+Balancing dense vegetation to provide suitable habitats for urban wildlife while addressing safety concerns and providing visibility for humans.
 

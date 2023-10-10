@@ -2,9 +2,9 @@
 
 # Article: __ziafati_bafarasat_meta-synthesis_2021__ (PBN__Article_375)
 
-## Property: has_ArticleTitle
+## Property: has_ArticleDOI
 
-Meta-synthesis of COVID-19 lessons: charting sustainable management of future pandemics
+10.1080/12265934.2021.1936136
 
 ## Property: has_ArticleYear
 
@@ -21,7 +21,7 @@ Meta-synthesis of COVID-19 lessons: charting sustainable management of future pa
 * [walker_impact_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_65.md)
 * [wilkinson_local_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_36.md)
 
-## Property: has_ArticleDOI
+## Property: has_ArticleTitle
 
-10.1080/12265934.2021.1936136
+Meta-synthesis of COVID-19 lessons: charting sustainable management of future pandemics
 

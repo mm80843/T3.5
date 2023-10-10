@@ -2,7 +2,7 @@
 
 # Risk: __Financial viability of businesses__ (PBN__Risk_3315)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Support measures for commercial and small industrial activities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1984.md)
 

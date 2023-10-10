@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Monitoring and quantifying the reduction in pedestrian flow to understand the efficacy of policy interventions
 
 ## Property: has_MitigationSource
 
@@ -18,4 +13,8 @@ Monitoring and quantifying the reduction in pedestrian flow to understand the ef
 
 * [iot sensing infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3534.md)
 * [pedestrian sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3536.md)
+
+## Property: has_MitigationPrinciple
+
+Monitoring and quantifying the reduction in pedestrian flow to understand the efficacy of policy interventions
 

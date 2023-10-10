@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Use UV irradiation and vaporized hydrogen peroxide for disinfection in hospitals and other indoor facilities
 
 ## Property: has_MitigationSource
 
@@ -18,4 +13,8 @@ Use UV irradiation and vaporized hydrogen peroxide for disinfection in hospitals
 
 * [vaporized hydrogen peroxide](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_234.md)
 * [uv irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_235.md)
+
+## Property: has_MitigationPrinciple
+
+Use UV irradiation and vaporized hydrogen peroxide for disinfection in hospitals and other indoor facilities
 

@@ -6,13 +6,13 @@
 
 * [Insufficient Contact Information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1725.md)
 
-## Property: has_TechnologyID
-
-* [Q9158](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q9158.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Communication Technologies and Channels](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_27.md)
+
+## Property: has_TechnologyID
+
+* [Q9158](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q9158.md)
 
 ## Property: has_StakeholderGroup
 

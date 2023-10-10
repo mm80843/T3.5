@@ -2,7 +2,7 @@
 
 # Stakeholder: __immunocompromised individuals__ (PBN__Stakeholder_1157)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Host immunity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1731.md)
 

@@ -2,7 +2,7 @@
 
 # Risk: __Financial vulnerability of SMEs__ (PBN__Risk_678)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Government financial programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_943.md)
 

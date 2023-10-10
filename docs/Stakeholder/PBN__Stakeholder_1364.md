@@ -6,7 +6,7 @@
 
 * [Gender Defined Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_84.md)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Gender inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_237.md)
 

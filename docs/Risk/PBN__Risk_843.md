@@ -2,7 +2,7 @@
 
 # Risk: __Waste recycling__ (PBN__Risk_843)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Recycling programs reinstatement](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1148.md)
 

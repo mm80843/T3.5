@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Utilizing descriptive statistics can provide a clear overview of HIV prevalence in different provinces, aiding in identifying regional disparities and targeting interventions accordingly
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Utilizing descriptive statistics can provide a clear overview of HIV prevalence 
 ## Property: has_MitigationTechnology
 
 * [statistical analysis software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3333.md)
+
+## Property: has_MitigationPrinciple
+
+Utilizing descriptive statistics can provide a clear overview of HIV prevalence in different provinces, aiding in identifying regional disparities and targeting interventions accordingly
 

@@ -2,7 +2,7 @@
 
 # Risk: __Carbon emissions__ (PBN__Risk_149)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Reduction in CO2 emissions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_184.md)
 

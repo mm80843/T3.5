@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Explore various drug options for the treatment of COVID-19, including antivirals, anti-malaria drugs, and anti-inflammatory drugs
 
 ## Property: has_MitigationSource
 
@@ -19,4 +14,8 @@ Explore various drug options for the treatment of COVID-19, including antivirals
 * [antiviral drugs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_236.md)
 * [anti-malaria drugs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_237.md)
 * [anti-inflammatory drugs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_238.md)
+
+## Property: has_MitigationPrinciple
+
+Explore various drug options for the treatment of COVID-19, including antivirals, anti-malaria drugs, and anti-inflammatory drugs
 

@@ -6,15 +6,15 @@
 
 Filtration removes airborne particles
 
-## Property: has_Beneficiary
-
-* [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
-
-## Property: has_BenefReturn
-
-* [Improved indoor air quality and occupant health](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_332.md)
-
 ## Property: has_BenefSource
 
 * [memarzadeh_applications_2010](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_61.md)
+
+## Description of Benefits pertaining to Beneficiaries
+
+* [Improved indoor air quality and occupant health](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_332.md)
+
+## Property: has_Beneficiary
+
+* [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
 

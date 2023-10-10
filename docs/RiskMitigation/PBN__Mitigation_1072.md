@@ -6,10 +6,6 @@
 
 * [Inequality in education access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2904.md)
 
-## Property: has_MitigationPrinciple
-
-Ensure equal access to quality education for all
-
 ## Property: has_MitigationSource
 
 * [lawal_covid-19_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_215.md)
@@ -19,4 +15,8 @@ Ensure equal access to quality education for all
 * [internet access](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1211.md)
 * [digital devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_573.md)
 * [educational programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_839.md)
+
+## Property: has_MitigationPrinciple
+
+Ensure equal access to quality education for all
 

@@ -2,9 +2,9 @@
 
 # Article: __amran_review_2022__ (PBN__Article_317)
 
-## Property: has_ArticleTitle
+## Property: has_ArticleDOI
 
-A Review on Building Design as a Biomedical System for Preventing COVID-19 Pandemic
+10.3390/buildings12050582
 
 ## Property: has_ArticleYear
 
@@ -34,7 +34,7 @@ A Review on Building Design as a Biomedical System for Preventing COVID-19 Pande
 * [rassia_how_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_34.md)
 * [megahed_indoor_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_206.md)
 
-## Property: has_ArticleDOI
+## Property: has_ArticleTitle
 
-10.3390/buildings12050582
+A Review on Building Design as a Biomedical System for Preventing COVID-19 Pandemic
 

@@ -2,7 +2,7 @@
 
 # Risk: __Limited availability and effectiveness of antiviral treatments__ (PBN__Risk_654)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Development of graphene-based antiviral coatings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_918.md)
 

@@ -2,7 +2,7 @@
 
 # Risk: __Lack of coordination, geopolitical tensions__ (PBN__Risk_2891)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Multi-scalar governance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1057.md)
 

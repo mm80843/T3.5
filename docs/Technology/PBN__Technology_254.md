@@ -2,11 +2,11 @@
 
 # Technology: __improved healthcare facilities__ (PBN__Technology_254)
 
-## Property: has_TechnologyRisk
-
-* [Insufficient healthcare infrastructure and resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1166.md)
-
 ## Property: has_TechnologyID
 
 * [Q4260475](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4260475.md)
+
+## Property: has_TechnologyRisk
+
+* [Insufficient healthcare infrastructure and resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1166.md)
 

@@ -2,7 +2,7 @@
 
 # Risk: __Impact of control measures on diet and physical activity__ (PBN__Risk_283)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Provision of guidelines on safe physical activity outdoors](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_354.md)
 * [Mapping access to nutritious food and equitable distribution](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_355.md)

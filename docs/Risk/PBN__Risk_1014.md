@@ -2,7 +2,7 @@
 
 # Risk: __Unverified claims on medication use for COVID-19__ (PBN__Risk_1014)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Evidence-based research](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1445.md)
 

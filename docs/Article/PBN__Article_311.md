@@ -2,9 +2,9 @@
 
 # Article: __alareeni_combating_2022__ (PBN__Article_311)
 
-## Property: has_ArticleTitle
+## Property: has_ArticleDOI
 
-Combating COVID-19 in Indonesia: Local Government Use of Smart City System Support
+10.1007/978-3-031-08087-6_15
 
 ## Property: has_ArticleYear
 
@@ -14,7 +14,7 @@ Combating COVID-19 in Indonesia: Local Government Use of Smart City System Suppo
 
 * [sakellarides_viral_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_183.md)
 
-## Property: has_ArticleDOI
+## Property: has_ArticleTitle
 
-10.1007/978-3-031-08087-6_15
+Combating COVID-19 in Indonesia: Local Government Use of Smart City System Support
 

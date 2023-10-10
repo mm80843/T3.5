@@ -2,7 +2,7 @@
 
 # Risk: __Epidemic control measures__ (PBN__Risk_585)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Non-pharmaceutical interventions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_377.md)
 

@@ -6,10 +6,6 @@
 
 * [Job displacement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2011.md)
 
-## Property: has_MitigationPrinciple
-
-Replaces human workers with machines to minimize human interaction and reduce the spread of contagious diseases
-
 ## Property: has_MitigationSource
 
 * [saadi-sedik_pandemics_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_98.md)
@@ -18,4 +14,8 @@ Replaces human workers with machines to minimize human interaction and reduce th
 
 * [artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_358.md)
 * [robotics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1173.md)
+
+## Property: has_MitigationPrinciple
+
+Replaces human workers with machines to minimize human interaction and reduce the spread of contagious diseases
 

@@ -2,11 +2,11 @@
 
 # RiskMitigation: __Developing immunity in a population__ (PBN__RiskMitigation_439)
 
-## Property: has_MitigationBenefit
-
-* [Reduction in disease transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_426.md)
-
 ## Property: has_MitigationRisk
 
 * [Herd immunity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_334.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduction in disease transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_426.md)
 

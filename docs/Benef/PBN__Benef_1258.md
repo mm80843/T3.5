@@ -6,19 +6,19 @@
 
 Improved safety practices in COVID-19 wards can reduce the risk of contamination and transmission of SARS-CoV-2
 
-## Property: has_Beneficiary
+## Property: has_BenefSource
 
-* [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
-* [medical staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_93.md)
-* [waste management staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_495.md)
+* [guo_aerosol_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_263.md)
 
-## Property: has_BenefReturn
+## Description of Benefits pertaining to Beneficiaries
 
 * [Implementing this measure would protect the health and safety of medical staff and patients, reducing the likelihood of outbreaks and improving the reputation and trustworthiness of the healthcare facility.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1414.md)
 * [Implementing this measure would protect the health and safety of medical staff, reducing sick leave and improving productivity.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1415.md)
 * [Implementing this measure would protect the health and safety of medical staff and waste management staff, reducing the likelihood of outbreaks and improving public perception of the healthcare facility.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1416.md)
 
-## Property: has_BenefSource
+## Property: has_Beneficiary
 
-* [guo_aerosol_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_263.md)
+* [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
+* [medical staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_93.md)
+* [waste management staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_495.md)
 

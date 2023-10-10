@@ -2,11 +2,11 @@
 
 # Technology: __investment in education__ (PBN__Technology_942)
 
-## Property: has_TechnologyRisk
-
-* [Societal and socio-economic gaps](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_750.md)
-
 ## Property: has_TechnologyID
 
 * [Q59243211](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q59243211.md)
+
+## Property: has_TechnologyRisk
+
+* [Societal and socio-economic gaps](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_750.md)
 

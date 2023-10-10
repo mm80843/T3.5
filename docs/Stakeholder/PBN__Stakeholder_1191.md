@@ -2,10 +2,6 @@
 
 # Stakeholder: __federal government__ (PBN__Stakeholder_1191)
 
-## Property: has_OwnerRisk
-
-* [Heterogeneity of state policies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1786.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Government and Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_8.md)
@@ -18,4 +14,8 @@
 ## Property: has_StakeholderGroup
 
 * [National Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_7.md)
+
+## Property: has_OwnerRisk
+
+* [Heterogeneity of state policies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1786.md)
 

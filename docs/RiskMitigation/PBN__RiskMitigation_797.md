@@ -2,15 +2,15 @@
 
 # RiskMitigation: __SAMBA monitoring system__ (PBN__RiskMitigation_797)
 
-## Property: has_MitigationBenefit
-
-* [Improved building performance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_800.md)
-* [Streamlined measurement protocol](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_801.md)
-* [Differentiation and market advantage](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_803.md)
-
 ## Property: has_MitigationRisk
 
 * [Lack of monitoring of Indoor Environmental Quality (IEQ)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_566.md)
 * [Lack of standardised measurement protocol for IEQ](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_567.md)
 * [Slow adoption of new technologies in buildings sector](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_569.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved building performance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_800.md)
+* [Streamlined measurement protocol](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_801.md)
+* [Differentiation and market advantage](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_803.md)
 

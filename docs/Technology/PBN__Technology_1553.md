@@ -6,13 +6,13 @@
 
 * [Population characteristics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2076.md)
 
-## Property: has_TechnologyID
-
-* [Q2072214](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2072214.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Bioinformatics and Genomic Analysis](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_30.md)
+
+## Property: has_TechnologyID
+
+* [Q2072214](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2072214.md)
 
 ## Property: has_StakeholderGroup
 

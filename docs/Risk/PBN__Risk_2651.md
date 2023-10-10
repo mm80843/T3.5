@@ -2,7 +2,7 @@
 
 # Risk: __Disease spread__ (PBN__Risk_2651)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Testing and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_267.md)
 * [Social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_894.md)

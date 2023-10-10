@@ -6,10 +6,6 @@
 
 * [Virus propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1032.md)
 
-## Property: has_MitigationPrinciple
-
-Application of technologies to hinder virus spread
-
 ## Property: has_MitigationSource
 
 * [tokazhanov_assessment_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_51.md)
@@ -21,4 +17,8 @@ Application of technologies to hinder virus spread
 * [rollout mats](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1719.md)
 * [thermo-visors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1721.md)
 * [tracking technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1722.md)
+
+## Property: has_MitigationPrinciple
+
+Application of technologies to hinder virus spread
 

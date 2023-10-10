@@ -6,15 +6,14 @@
 
 * [Collapse of health services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3001.md)
 
-## Property: has_MitigationPrinciple
-
-Increase the number of medical staff and hospitals to cope with the increased demand for healthcare services caused by the outbreak
-
 ## Property: has_MitigationSource
 
 * [mecenas_effects_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_228.md)
 
 ## Property: has_MitigationTechnology
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
+
+## Property: has_MitigationPrinciple
+
+Increase the number of medical staff and hospitals to cope with the increased demand for healthcare services caused by the outbreak
 

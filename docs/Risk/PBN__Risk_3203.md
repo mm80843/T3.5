@@ -2,7 +2,7 @@
 
 # Risk: __Non-compliance with mask wearing in public places__ (PBN__Risk_3203)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Smart CCTV cameras](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1666.md)
 

@@ -2,11 +2,11 @@
 
 # RiskMitigation: __Use of blockchain technology__ (PBN__RiskMitigation_1053)
 
-## Property: has_MitigationBenefit
-
-* [Data security and privacy](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1051.md)
-
 ## Property: has_MitigationRisk
 
 * [Lack of trustable data on COVID-19 spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_763.md)
+
+## Property: has_MitigationBenefit
+
+* [Data security and privacy](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1051.md)
 

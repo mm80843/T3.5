@@ -2,7 +2,7 @@
 
 # Risk: __Inadequate ventilation in makeshift hospitals__ (PBN__Risk_443)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Adequate ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_613.md)
 

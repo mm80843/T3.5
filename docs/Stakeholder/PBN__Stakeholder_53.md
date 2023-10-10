@@ -2,15 +2,11 @@
 
 # Stakeholder: __society__ (PBN__Stakeholder_53)
 
-## Property: has_OwnerRisk
-
-* [Cyber-attacks and disinformation campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2228.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Society](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_128.md)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_745.md)
 * [Decreased carbon emissions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1254.md)
@@ -21,6 +17,14 @@
 
 * [Q2111379](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2111379.md)
 * [Q8425](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q8425.md)
+
+## Property: has_StakeholderGroup
+
+* [Community Stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_8.md)
+
+## Property: has_OwnerRisk
+
+* [Cyber-attacks and disinformation campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2228.md)
 
 ## Property: has_BenefitForPeople
 
@@ -40,8 +44,4 @@
 * [Environmental sustainability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_677.md)
 * [Potential return on investment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_928.md)
 * [Economic growth and sustainable development](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_929.md)
-
-## Property: has_StakeholderGroup
-
-* [Community Stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_8.md)
 

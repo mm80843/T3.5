@@ -2,6 +2,19 @@
 
 # Stakeholder: __research institutions__ (PBN__Stakeholder_413)
 
+## Property: has_StakeholderSubgroup
+
+* [Scientific Research](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_39.md)
+
+## Risk affecting this stakeholder
+
+* [Inconsistent results between concentration methods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1051.md)
+* [High variability in input parameters](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1052.md)
+
+## Property: has_StakeholderGroup
+
+* [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
+
 ## Property: has_OwnerRisk
 
 * [UV susceptibility of viral aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_338.md)
@@ -47,20 +60,7 @@
 * [Healthcare-](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2322.md)
 * [Inadequate surveillance and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2355.md)
 
-## Property: has_StakeholderSubgroup
-
-* [Scientific Research](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_39.md)
-
-## Property: has_SubjectRisk
-
-* [Inconsistent results between concentration methods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1051.md)
-* [High variability in input parameters](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1052.md)
-
 ## Property: has_BenefitForPeople
 
 * [Enhanced innovation and technological capacity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1039.md)
-
-## Property: has_StakeholderGroup
-
-* [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
 

@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Enhancing the capacity and accessibility of healthcare services to effectively respond to infectious diseases.
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Enhancing the capacity and accessibility of healthcare services to effectively r
 ## Property: has_MitigationTechnology
 
 * [investments in healthcare facilities and infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3283.md)
+
+## Property: has_MitigationPrinciple
+
+Enhancing the capacity and accessibility of healthcare services to effectively respond to infectious diseases.
 

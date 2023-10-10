@@ -9,13 +9,13 @@
 * [Disruption of education system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2234.md)
 * [Limited Capacity to Comply](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2279.md)
 
-## Property: has_TechnologyID
-
-* [Q212805](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q212805.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Digital Learning Platforms and Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_56.md)
+
+## Property: has_TechnologyID
+
+* [Q212805](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q212805.md)
 
 ## Property: has_StakeholderGroup
 

@@ -2,7 +2,7 @@
 
 # Stakeholder: __people in indoor buildings and spaces__ (PBN__Stakeholder_1529)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Transmission of SARS-CoV-2 through indoor air](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2294.md)
 * [Spread of other airborne pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2298.md)

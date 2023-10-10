@@ -2,7 +2,7 @@
 
 # Risk: __Eviction increases the risk of COVID-19 acquisition and transmission__ (PBN__Risk_147)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Eviction moratoria](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_177.md)
 * [Rental assistance programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_178.md)

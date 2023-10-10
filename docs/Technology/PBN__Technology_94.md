@@ -11,6 +11,19 @@
 * [Privacy and data security concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2065.md)
 * [Security challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2094.md)
 
+## Property: has_StakeholderSubgroup
+
+* [Blockchain and Quantum Cryptography](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_145.md)
+
+## Property: has_TechnologyID
+
+* [Q20514253](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q20514253.md)
+
+## Property: has_StakeholderGroup
+
+* [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_5.md)
+* [Blockchain and cryptography](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_10.md)
+
 ## Property: has_TechnologyMitigation
 
 * [Blockchain Technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_433.md)
@@ -30,17 +43,4 @@
 * [Supply chain management for healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1947.md)
 * [Security challenges](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1950.md)
 * [Blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2026.md)
-
-## Property: has_TechnologyID
-
-* [Q20514253](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q20514253.md)
-
-## Property: has_StakeholderSubgroup
-
-* [Blockchain and Quantum Cryptography](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_145.md)
-
-## Property: has_StakeholderGroup
-
-* [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_5.md)
-* [Blockchain and cryptography](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_10.md)
 

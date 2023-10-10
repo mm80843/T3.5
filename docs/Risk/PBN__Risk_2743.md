@@ -2,7 +2,7 @@
 
 # Risk: __Lack of consideration for social and environmental factors__ (PBN__Risk_2743)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Value-driven design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_785.md)
 

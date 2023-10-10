@@ -2,11 +2,11 @@
 
 # Technology: __cybersecurity training programs__ (PBN__Technology_1306)
 
-## Property: has_TechnologyRisk
-
-* [Cybersecurity threats](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1910.md)
-
 ## Property: has_TechnologyID
 
 * [Q3510521](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3510521.md)
+
+## Property: has_TechnologyRisk
+
+* [Cybersecurity threats](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1910.md)
 

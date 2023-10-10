@@ -4,14 +4,9 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 * [Contaminated surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1802.md)
 * [Contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1882.md)
 * [Cross-infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3012.md)
-
-## Property: has_MitigationPrinciple
-
-Killing or inactivating viruses or bacteria on surfaces to prevent transmission
 
 ## Property: has_MitigationSource
 
@@ -24,11 +19,14 @@ Killing or inactivating viruses or bacteria on surfaces to prevent transmission
 
 ## Property: has_MitigationTechnology
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 * [disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_413.md)
 * [uv disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_204.md)
 * [uv light](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3055.md)
 * [cleaning agents](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3292.md)
 * [disinfectant products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3063.md)
 * [cleaning and disinfecting agents](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4343.md)
+
+## Property: has_MitigationPrinciple
+
+Killing or inactivating viruses or bacteria on surfaces to prevent transmission
 

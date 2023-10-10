@@ -6,10 +6,6 @@
 
 * [Lack of evidence-based policies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3261.md)
 
-## Property: has_MitigationPrinciple
-
-Incorporate scientific advice in decision-making processes
-
 ## Property: has_MitigationSource
 
 * [samout_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_58.md)
@@ -18,4 +14,8 @@ Incorporate scientific advice in decision-making processes
 
 * [research](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_261.md)
 * [data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3346.md)
+
+## Property: has_MitigationPrinciple
+
+Incorporate scientific advice in decision-making processes
 

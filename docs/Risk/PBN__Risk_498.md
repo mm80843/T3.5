@@ -2,7 +2,7 @@
 
 # Risk: __Delay in works due to lockdown__ (PBN__Risk_498)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Working from home](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_706.md)
 * [Use of digital technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_707.md)

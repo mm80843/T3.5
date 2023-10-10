@@ -2,11 +2,11 @@
 
 # RiskMitigation: __Increase healthcare capacity__ (PBN__RiskMitigation_1112)
 
-## Property: has_MitigationBenefit
-
-* [Improved healthcare services](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1101.md)
-
 ## Property: has_MitigationRisk
 
 * [Spread of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_91.md)
+
+## Property: has_MitigationBenefit
+
+* [Improved healthcare services](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1101.md)
 

@@ -2,7 +2,7 @@
 
 # Risk: __Lack of coordination and integration__ (PBN__Risk_403)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Harness the strength of complementary evidence networks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_560.md)
 

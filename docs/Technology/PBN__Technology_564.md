@@ -2,11 +2,11 @@
 
 # Technology: __implementation of targeted public health interventions based on regional characteristics__ (PBN__Technology_564)
 
-## Property: has_TechnologyRisk
-
-* [Socio-economic factors and regional characteristics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1357.md)
-
 ## Property: has_TechnologyID
 
 * [Q1814351](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1814351.md)
+
+## Property: has_TechnologyRisk
+
+* [Socio-economic factors and regional characteristics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1357.md)
 

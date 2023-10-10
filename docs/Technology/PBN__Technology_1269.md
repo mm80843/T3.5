@@ -2,11 +2,11 @@
 
 # Technology: __provide balconies__ (PBN__Technology_1269)
 
-## Property: has_TechnologyRisk
-
-* [Limited access to nature](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1891.md)
-
 ## Property: has_TechnologyID
 
 * [Q66545545](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q66545545.md)
+
+## Property: has_TechnologyRisk
+
+* [Limited access to nature](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1891.md)
 

@@ -4,15 +4,10 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 * [Poor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_712.md)
 * [Transmission in closed spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1943.md)
 * [Spread of virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2684.md)
 * [Airborne spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3011.md)
-
-## Property: has_MitigationPrinciple
-
-Increasing fresh air circulation and removing indoor contaminants, including viruses, through proper ventilation
 
 ## Property: has_MitigationSource
 
@@ -32,4 +27,8 @@ Increasing fresh air circulation and removing indoor contaminants, including vir
 * [windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_140.md)
 * [mechanical ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_271.md)
 * [hvac system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3190.md)
+
+## Property: has_MitigationPrinciple
+
+Increasing fresh air circulation and removing indoor contaminants, including viruses, through proper ventilation
 

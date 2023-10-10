@@ -2,12 +2,12 @@
 
 # Technology: __supply chain management tools__ (PBN__Technology_132)
 
+## Property: has_TechnologyID
+
+* [Q492886](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q492886.md)
+
 ## Property: has_TechnologyRisk
 
 * [Shortage of construction materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1084.md)
 * [Healthcare system strain](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1875.md)
-
-## Property: has_TechnologyID
-
-* [Q492886](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q492886.md)
 

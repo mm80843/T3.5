@@ -2,15 +2,11 @@
 
 # Stakeholder: __wearable device users__ (PBN__Stakeholder_641)
 
-## Property: has_OwnerRisk
-
-* [Dependency on technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1233.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Wearable and IoT Devices](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_151.md)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_47.md)
 * [Ethical considerations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_163.md)
@@ -26,4 +22,8 @@
 ## Property: has_StakeholderGroup
 
 * [Technology Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_12.md)
+
+## Property: has_OwnerRisk
+
+* [Dependency on technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1233.md)
 

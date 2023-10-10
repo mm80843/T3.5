@@ -6,10 +6,6 @@
 
 * [Accumulation of dirt, debris, and microbial growth in HVAC systems and ductwork](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3058.md)
 
-## Property: has_MitigationPrinciple
-
-Regular maintenance and cleaning of HVAC systems and ductwork can prevent the buildup of contaminants and maintain good indoor air quality
-
 ## Property: has_MitigationSource
 
 * [nembhard_ventilation_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_104.md)
@@ -17,4 +13,8 @@ Regular maintenance and cleaning of HVAC systems and ductwork can prevent the bu
 ## Property: has_MitigationTechnology
 
 * [proper cleaning equipment and procedures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3867.md)
+
+## Property: has_MitigationPrinciple
+
+Regular maintenance and cleaning of HVAC systems and ductwork can prevent the buildup of contaminants and maintain good indoor air quality
 

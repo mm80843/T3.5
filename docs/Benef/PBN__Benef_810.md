@@ -6,19 +6,19 @@
 
 Knowledge management and BIM can enhance decision-making and planning
 
+## Property: has_BenefSource
+
+* [matheri_water_2023](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_162.md)
+
+## Description of Benefits pertaining to Beneficiaries
+
+* [Increased efficiency, cost savings, improved resource management](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_880.md)
+* [Improved resource management, cost savings](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_885.md)
+
 ## Property: has_Beneficiary
 
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
 * [policy makers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3.md)
 * [businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_147.md)
 * [water utilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_329.md)
-
-## Property: has_BenefReturn
-
-* [Increased efficiency, cost savings, improved resource management](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_880.md)
-* [Improved resource management, cost savings](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_885.md)
-
-## Property: has_BenefSource
-
-* [matheri_water_2023](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_162.md)
 

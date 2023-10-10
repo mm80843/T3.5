@@ -2,7 +2,7 @@
 
 # Risk: __Population mobility__ (PBN__Risk_705)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Safe pedestrian navigation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_970.md)
 

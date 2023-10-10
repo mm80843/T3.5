@@ -2,7 +2,7 @@
 
 # Risk: __Decreased interest__ (PBN__Risk_2529)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Optimizing communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_319.md)
 

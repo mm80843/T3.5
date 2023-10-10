@@ -2,15 +2,14 @@
 
 # Stakeholder: __Network and system administrators__ (PBN__Stakeholder_1769)
 
-## Property: has_StakeholderGroup
+## Property: has_StakeholderSubgroup
 
-* [Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_2.md)
 
 ## Property: has_StakeholderID
 
 * [Q680296](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q680296.md)
 
-## Property: has_StakeholderSubgroup
+## Property: has_StakeholderGroup
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_7.md)
+* [Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_2.md)
 

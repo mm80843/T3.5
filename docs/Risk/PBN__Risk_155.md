@@ -2,7 +2,7 @@
 
 # Risk: __High patient demand for vaccinations__ (PBN__Risk_155)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Design and implement mass vaccination clinics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_198.md)
 

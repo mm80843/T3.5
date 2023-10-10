@@ -2,7 +2,7 @@
 
 # Risk: __Neighbour annoyance__ (PBN__Risk_2921)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Sound insulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1098.md)
 

@@ -2,7 +2,7 @@
 
 # Risk: __WQ2: Water safety__ (PBN__Risk_189)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Maintenance and decontamination](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_229.md)
 

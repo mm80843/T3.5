@@ -2,7 +2,7 @@
 
 # Risk: __Need for standardized representation of coronavirus knowledge__ (PBN__Risk_39)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Development of CIDO ontology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_56.md)
 

@@ -2,7 +2,7 @@
 
 # Risk: __Inadequate water storage, poor sanitation__ (PBN__Risk_2433)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Improved water storage and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_92.md)
 

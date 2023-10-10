@@ -2,11 +2,11 @@
 
 # Technology: __flexible work policies__ (PBN__Technology_126)
 
-## Property: has_TechnologyRisk
-
-* [Impact on Working Performance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1081.md)
-
 ## Property: has_TechnologyID
 
 * [Q1135326](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1135326.md)
+
+## Property: has_TechnologyRisk
+
+* [Impact on Working Performance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1081.md)
 

@@ -2,7 +2,7 @@
 
 # Risk: __Emerging variants__ (PBN__Risk_432)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Viral surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_600.md)
 

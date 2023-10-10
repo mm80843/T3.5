@@ -2,15 +2,15 @@
 
 # Stakeholder: __individual coming into contact with contaminated water source__ (PBN__Stakeholder_2512)
 
-## Property: has_StakeholderGroup
+## Property: has_StakeholderSubgroup
 
-* [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
+* [Individuals with Specific Conditions](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_86.md)
 
 ## Property: has_StakeholderID
 
 * [Q5164914](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5164914.md)
 
-## Property: has_StakeholderSubgroup
+## Property: has_StakeholderGroup
 
-* [Individuals with Specific Conditions](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_86.md)
+* [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
 

@@ -6,10 +6,6 @@
 
 * [Lack of immunity in the population](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2725.md)
 
-## Property: has_MitigationPrinciple
-
-Vaccinating individuals to prevent the spread and severity of contagious diseases
-
 ## Property: has_MitigationSource
 
 * [he_cido_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_13.md)
@@ -17,4 +13,8 @@ Vaccinating individuals to prevent the spread and severity of contagious disease
 ## Property: has_MitigationTechnology
 
 * [vaccine development and distribution](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1604.md)
+
+## Property: has_MitigationPrinciple
+
+Vaccinating individuals to prevent the spread and severity of contagious diseases
 

@@ -2,7 +2,7 @@
 
 # Risk: __Increased transportation and contact in workplaces__ (PBN__Risk_2883)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Teleworking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_479.md)
 

@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Encourages individuals to spend time outdoors in open spaces, where the risk of virus transmission is lower compared to indoor spaces.
 
 ## Property: has_MitigationSource
 
@@ -16,5 +11,8 @@ Encourages individuals to spend time outdoors in open spaces, where the risk of 
 
 ## Property: has_MitigationTechnology
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
+
+## Property: has_MitigationPrinciple
+
+Encourages individuals to spend time outdoors in open spaces, where the risk of virus transmission is lower compared to indoor spaces.
 

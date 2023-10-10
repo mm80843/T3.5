@@ -2,16 +2,16 @@
 
 # Stakeholder: __publisher__ (PBN__Stakeholder_1825)
 
-## Property: has_StakeholderGroup
+## Property: has_StakeholderSubgroup
 
-* [Media](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_3.md)
+* [Publishing](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_36.md)
 
 ## Property: has_StakeholderID
 
 * [Q7121072](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7121072.md)
 * [Q2085381](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2085381.md)
 
-## Property: has_StakeholderSubgroup
+## Property: has_StakeholderGroup
 
-* [Publishing](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_36.md)
+* [Media](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_3.md)
 

@@ -2,15 +2,15 @@
 
 # Stakeholder: __urban planning authority__ (PBN__Stakeholder_1611)
 
-## Property: has_StakeholderGroup
+## Property: has_StakeholderSubgroup
 
-* [City Officials](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_0.md)
+* [Urban Planning Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_0.md)
 
 ## Property: has_StakeholderID
 
 * [Q69883](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q69883.md)
 
-## Property: has_StakeholderSubgroup
+## Property: has_StakeholderGroup
 
-* [Urban Planning Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_0.md)
+* [City Officials](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_0.md)
 

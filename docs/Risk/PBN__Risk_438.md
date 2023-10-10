@@ -2,7 +2,7 @@
 
 # Risk: __Inadequate ventilation systems in workplaces__ (PBN__Risk_438)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Improve ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_606.md)
 

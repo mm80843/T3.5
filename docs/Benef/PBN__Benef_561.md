@@ -6,17 +6,17 @@
 
 Inactivation of the virus on high-touch surfaces and reduced risk of infection for workers
 
-## Property: has_Beneficiary
+## Property: has_BenefSource
 
-* [food industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_237.md)
-* [employees in retail sectors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_238.md)
+* [agade_exploring_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_114.md)
 
-## Property: has_BenefReturn
+## Description of Benefits pertaining to Beneficiaries
 
 * [Improved safety and wellbeing of employees, reduced healthcare costs for infected workers](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_613.md)
 * [Improved safety and continuity of food supply chain, reduced risk of product contamination](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_616.md)
 
-## Property: has_BenefSource
+## Property: has_Beneficiary
 
-* [agade_exploring_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_114.md)
+* [food industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_237.md)
+* [employees in retail sectors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_238.md)
 

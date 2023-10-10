@@ -7,10 +7,6 @@
 * [Spread of infections through surface touch](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2475.md)
 * [Surface contamination transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3197.md)
 
-## Property: has_MitigationPrinciple
-
-Reduce the need for physical contact with surfaces by utilizing touch-free systems and automation technology.
-
 ## Property: has_MitigationSource
 
 * [awada_occupant_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_273.md)
@@ -24,4 +20,8 @@ Reduce the need for physical contact with surfaces by utilizing touch-free syste
 * [hands-free light nan switches](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3989.md)
 * [nan nan antibacterial fabrics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3990.md)
 * [nan nan nan sound-activated nan nan nan nan elevator design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3991.md)
+
+## Property: has_MitigationPrinciple
+
+Reduce the need for physical contact with surfaces by utilizing touch-free systems and automation technology.
 

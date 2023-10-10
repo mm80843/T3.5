@@ -2,7 +2,7 @@
 
 # Risk: __Increased workload for medical staff__ (PBN__Risk_998)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Implementation of IoT](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1421.md)
 

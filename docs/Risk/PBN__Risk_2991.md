@@ -2,7 +2,7 @@
 
 # Risk: __Limited awareness, interoperability__ (PBN__Risk_2991)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [IoMT applications](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1248.md)
 

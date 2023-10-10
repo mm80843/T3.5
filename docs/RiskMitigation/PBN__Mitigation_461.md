@@ -4,13 +4,8 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 * [Viral Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2817.md)
 * [International Spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3282.md)
-
-## Property: has_MitigationPrinciple
-
-Isolate individuals who have been in contact with confirmed cases to prevent further spread of the virus.
 
 ## Property: has_MitigationSource
 
@@ -20,5 +15,8 @@ Isolate individuals who have been in contact with confirmed cases to prevent fur
 
 ## Property: has_MitigationTechnology
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
+
+## Property: has_MitigationPrinciple
+
+Isolate individuals who have been in contact with confirmed cases to prevent further spread of the virus.
 

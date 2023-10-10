@@ -2,7 +2,7 @@
 
 # Risk: __Supporting essential sectors__ (PBN__Risk_2559)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Flexible public places](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_411.md)
 

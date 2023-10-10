@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Physical disinfection technologies such as microwave disinfection and high temperature steam disinfection use heat or electromagnetic waves to kill microorganisms in hospital wastes.
 
 ## Property: has_MitigationSource
 
@@ -18,4 +13,8 @@ Physical disinfection technologies such as microwave disinfection and high tempe
 
 * [microwave](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4406.md)
 * [high temperature steam](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4407.md)
+
+## Property: has_MitigationPrinciple
+
+Physical disinfection technologies such as microwave disinfection and high temperature steam disinfection use heat or electromagnetic waves to kill microorganisms in hospital wastes.
 

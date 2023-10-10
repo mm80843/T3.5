@@ -2,11 +2,11 @@
 
 # RiskMitigation: __Developing collaborative partnerships__ (PBN__RiskMitigation_11)
 
-## Property: has_MitigationBenefit
-
-* [Enhanced supply chain agility](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_19.md)
-
 ## Property: has_MitigationRisk
 
 * [Supply chain disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_10.md)
+
+## Property: has_MitigationBenefit
+
+* [Enhanced supply chain agility](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_19.md)
 

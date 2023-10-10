@@ -2,9 +2,9 @@
 
 # Article: __pinheiro_covid-19_2020__ (PBN__Article_316)
 
-## Property: has_ArticleTitle
+## Property: has_ArticleDOI
 
-COVID-19 Could Leverage a Sustainable Built Environment
+10.3390/su12145863
 
 ## Property: has_ArticleYear
 
@@ -23,7 +23,7 @@ COVID-19 Could Leverage a Sustainable Built Environment
 * [kampf_persistence_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_233.md)
 * [nghiem_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_229.md)
 
-## Property: has_ArticleDOI
+## Property: has_ArticleTitle
 
-10.3390/su12145863
+COVID-19 Could Leverage a Sustainable Built Environment
 

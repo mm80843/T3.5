@@ -6,14 +6,14 @@
 
 * [Negative impact on mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2305.md)
 
-## Property: has_TechnologyID
-
-* [Q6817416](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6817416.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Online Counseling and Therapy Platforms](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_65.md)
 * [Mental Health Resources and Support](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_68.md)
+
+## Property: has_TechnologyID
+
+* [Q6817416](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6817416.md)
 
 ## Property: has_StakeholderGroup
 

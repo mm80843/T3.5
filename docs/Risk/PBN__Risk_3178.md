@@ -2,7 +2,7 @@
 
 # Risk: __Need to clearly define criteria__ (PBN__Risk_3178)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Use of simulation for policy-making](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1632.md)
 

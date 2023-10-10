@@ -2,11 +2,11 @@
 
 # Technology: __job support programs__ (PBN__Technology_1511)
 
-## Property: has_TechnologyRisk
-
-* [Unemployment and underemployment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2038.md)
-
 ## Property: has_TechnologyID
 
 * [Q2499074](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2499074.md)
+
+## Property: has_TechnologyRisk
+
+* [Unemployment and underemployment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2038.md)
 

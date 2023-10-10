@@ -2,7 +2,7 @@
 
 # Risk: __Negative perception of public and social housing residents__ (PBN__Risk_384)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Positive media representation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_532.md)
 

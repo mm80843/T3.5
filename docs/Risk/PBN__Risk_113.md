@@ -2,7 +2,7 @@
 
 # Risk: __Increase in chronic diseases from sedentary lifestyles__ (PBN__Risk_113)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Incorporating exercise opportunities in design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_137.md)
 

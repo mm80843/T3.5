@@ -2,7 +2,7 @@
 
 # Risk: __Security threats__ (PBN__Risk_2442)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Standardization of protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_101.md)
 

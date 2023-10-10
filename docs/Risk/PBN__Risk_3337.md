@@ -2,7 +2,7 @@
 
 # Risk: __Shortage of critical supplies__ (PBN__Risk_3337)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Facilitate response diversity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2057.md)
 

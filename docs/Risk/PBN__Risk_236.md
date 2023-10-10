@@ -2,7 +2,7 @@
 
 # Risk: __Food and nutrition security threat__ (PBN__Risk_236)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Ensuring supply and availability of food](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_285.md)
 

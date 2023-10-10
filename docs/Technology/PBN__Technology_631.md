@@ -2,11 +2,11 @@
 
 # Technology: __financial support mechanisms__ (PBN__Technology_631)
 
-## Property: has_TechnologyRisk
-
-* [Labour impact and job loss](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_596.md)
-
 ## Property: has_TechnologyID
 
 * [Q70471322](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q70471322.md)
+
+## Property: has_TechnologyRisk
+
+* [Labour impact and job loss](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_596.md)
 

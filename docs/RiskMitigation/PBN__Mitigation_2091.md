@@ -6,10 +6,6 @@
 
 * [Contagion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2685.md)
 
-## Property: has_MitigationPrinciple
-
-Identifying and isolating infected individuals and their contacts to prevent further spread of contagious diseases.
-
 ## Property: has_MitigationSource
 
 * [thukral_covid19_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_194.md)
@@ -18,4 +14,8 @@ Identifying and isolating infected individuals and their contacts to prevent fur
 
 * [contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_11.md)
 * [testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_610.md)
+
+## Property: has_MitigationPrinciple
+
+Identifying and isolating infected individuals and their contacts to prevent further spread of contagious diseases.
 

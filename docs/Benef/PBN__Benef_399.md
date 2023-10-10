@@ -6,19 +6,19 @@
 
 UV radiation destroys pathogens on surfaces
 
+## Property: has_BenefSource
+
+* [navaratnam_designing_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_282.md)
+* [saman_recently_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_79.md)
+
+## Description of Benefits pertaining to Beneficiaries
+
+* [Investment in UV-Light technology for disinfection can enhance cleanliness and reduce the risk of disease transmission, improving the reputation and asset value of medical facilities and public transportation.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_427.md)
+* [Improved health and reduced risk of transmission](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1502.md)
+
 ## Property: has_Beneficiary
 
 * [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
 * [medical facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_187.md)
 * [public transportation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_188.md)
-
-## Property: has_BenefReturn
-
-* [Investment in UV-Light technology for disinfection can enhance cleanliness and reduce the risk of disease transmission, improving the reputation and asset value of medical facilities and public transportation.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_427.md)
-* [Improved health and reduced risk of transmission](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1502.md)
-
-## Property: has_BenefSource
-
-* [navaratnam_designing_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_282.md)
-* [saman_recently_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_79.md)
 

@@ -2,7 +2,7 @@
 
 # Risk: __Water contamination__ (PBN__Risk_129)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Improved water systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_153.md)
 * [Safety measures of drinking water](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2133.md)

@@ -2,7 +2,7 @@
 
 # Risk: __Transmission via contaminated surfaces__ (PBN__Risk_72)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Robot-controlled surface disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_87.md)
 

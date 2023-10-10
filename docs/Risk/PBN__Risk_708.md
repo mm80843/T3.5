@@ -2,7 +2,7 @@
 
 # Risk: __Social issues__ (PBN__Risk_708)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Telecommuting](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_534.md)
 * [Online learning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_981.md)

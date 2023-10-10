@@ -2,10 +2,6 @@
 
 # Technology: __energy-efficient technologies__ (PBN__Technology_2312)
 
-## Property: has_StakeholderGroup
-
-* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Energy Systems and Sustainability](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_116.md)
@@ -13,4 +9,8 @@
 ## Property: has_TechnologyID
 
 * [Q924713](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q924713.md)
+
+## Property: has_StakeholderGroup
+
+* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
 

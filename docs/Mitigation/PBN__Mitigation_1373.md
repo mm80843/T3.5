@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Supports the web scraping process and data retrieval from websites.
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Supports the web scraping process and data retrieval from websites.
 ## Property: has_MitigationTechnology
 
 * [java programming language](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3825.md)
+
+## Property: has_MitigationPrinciple
+
+Supports the web scraping process and data retrieval from websites.
 

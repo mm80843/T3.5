@@ -2,11 +2,11 @@
 
 # Technology: __provide guidelines and resources for residents to engage in both virtual and physical community activities__ (PBN__Technology_1915)
 
-## Property: has_TechnologyRisk
-
-* [Dependence on non-contact interaction activities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2327.md)
-
 ## Property: has_TechnologyID
 
 * [Q18587469](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q18587469.md)
+
+## Property: has_TechnologyRisk
+
+* [Dependence on non-contact interaction activities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2327.md)
 

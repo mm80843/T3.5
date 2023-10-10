@@ -2,11 +2,11 @@
 
 # Technology: __equitable distribution of resources__ (PBN__Technology_669)
 
-## Property: has_TechnologyRisk
-
-* [Social equity disparities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1418.md)
-
 ## Property: has_TechnologyID
 
 * [Q7315823](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7315823.md)
+
+## Property: has_TechnologyRisk
+
+* [Social equity disparities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1418.md)
 

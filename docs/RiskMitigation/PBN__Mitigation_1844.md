@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Posting of educational hygiene signage, such as handwashing signage, in buildings to remind individuals to practice proper hygiene and reduce the risk of transmission.
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Posting of educational hygiene signage, such as handwashing signage, in building
 ## Property: has_MitigationTechnology
 
 * [signage materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4103.md)
+
+## Property: has_MitigationPrinciple
+
+Posting of educational hygiene signage, such as handwashing signage, in buildings to remind individuals to practice proper hygiene and reduce the risk of transmission.
 

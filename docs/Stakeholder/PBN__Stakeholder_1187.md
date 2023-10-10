@@ -2,7 +2,7 @@
 
 # Stakeholder: __occupants in crowded__ (PBN__Stakeholder_1187)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Use of air cleaning and disinfection devices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1780.md)
 

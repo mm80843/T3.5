@@ -2,7 +2,7 @@
 
 # Risk: __Global consequences of local decisions__ (PBN__Risk_2748)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Considering the global interconnected settlement system in urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_796.md)
 

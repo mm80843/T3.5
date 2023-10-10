@@ -2,7 +2,7 @@
 
 # Risk: __Privacy interference__ (PBN__Risk_3223)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Bluetooth-based contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1695.md)
 

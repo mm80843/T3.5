@@ -6,10 +6,6 @@
 
 * [Data breaches, scalability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2990.md)
 
-## Property: has_MitigationPrinciple
-
-Securely store and share COVID-19 data while protecting privacy and preventing tampering
-
 ## Property: has_MitigationSource
 
 * [mbunge_critical_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_91.md)
@@ -17,4 +13,8 @@ Securely store and share COVID-19 data while protecting privacy and preventing t
 ## Property: has_MitigationTechnology
 
 * [blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_211.md)
+
+## Property: has_MitigationPrinciple
+
+Securely store and share COVID-19 data while protecting privacy and preventing tampering
 

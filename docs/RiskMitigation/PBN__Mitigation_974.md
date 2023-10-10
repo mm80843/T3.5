@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Controlling environmental conditions such as temperature, relative humidity, and light levels to influence the microbiome
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Controlling environmental conditions such as temperature, relative humidity, and
 ## Property: has_MitigationTechnology
 
 * [environmental monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3565.md)
+
+## Property: has_MitigationPrinciple
+
+Controlling environmental conditions such as temperature, relative humidity, and light levels to influence the microbiome
 

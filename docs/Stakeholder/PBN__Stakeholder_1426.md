@@ -2,7 +2,7 @@
 
 # Stakeholder: __returnees__ (PBN__Stakeholder_1426)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Risk of external seeding events and uncontrolled quarantines](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2122.md)
 

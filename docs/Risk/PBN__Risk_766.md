@@ -2,7 +2,7 @@
 
 # Risk: __Challenges in contact tracing__ (PBN__Risk_766)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Blockchain technology for contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1056.md)
 

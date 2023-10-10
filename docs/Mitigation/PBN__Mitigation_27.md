@@ -6,10 +6,6 @@
 
 * [Risk communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2411.md)
 
-## Property: has_MitigationPrinciple
-
-Establishing repositories of up-to-date crisis information helps to disseminate accurate information and enhance risk literacy among urban citizens.
-
 ## Property: has_MitigationSource
 
 * [acuto_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_85.md)
@@ -17,4 +13,8 @@ Establishing repositories of up-to-date crisis information helps to disseminate 
 ## Property: has_MitigationTechnology
 
 * [information technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2900.md)
+
+## Property: has_MitigationPrinciple
+
+Establishing repositories of up-to-date crisis information helps to disseminate accurate information and enhance risk literacy among urban citizens.
 

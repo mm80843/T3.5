@@ -2,7 +2,7 @@
 
 # Risk: __Privacy and security concerns with IoT data__ (PBN__Risk_1001)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Addressing security and privacy issues](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1423.md)
 

@@ -2,7 +2,7 @@
 
 # Risk: __Indoor air pollution__ (PBN__Risk_939)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Improved ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_476.md)
 

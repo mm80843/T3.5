@@ -2,7 +2,7 @@
 
 # Risk: __None__ (PBN__Risk_2827)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Social Distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_35.md)
 * [Improved ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_342.md)

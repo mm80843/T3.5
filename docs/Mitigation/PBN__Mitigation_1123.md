@@ -6,10 +6,6 @@
 
 * [Spread of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_91.md)
 
-## Property: has_MitigationPrinciple
-
-Improving the connectivity and efficiency of transportation networks can help facilitate the movement of individuals and goods while minimizing congestion and the potential for viral transmission.
-
 ## Property: has_MitigationSource
 
 * [li_association_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_32.md)
@@ -17,4 +13,8 @@ Improving the connectivity and efficiency of transportation networks can help fa
 ## Property: has_MitigationTechnology
 
 * [road network infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3675.md)
+
+## Property: has_MitigationPrinciple
+
+Improving the connectivity and efficiency of transportation networks can help facilitate the movement of individuals and goods while minimizing congestion and the potential for viral transmission.
 

@@ -2,7 +2,7 @@
 
 # Risk: __Spread of SARS-CoV-2 infection__ (PBN__Risk_459)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Preserving and developing forests and other green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_649.md)
 

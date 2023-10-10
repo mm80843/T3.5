@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Use robots for medical tasks, adopt telemedicine for remote consultation, and provide support to healthcare professionals.
 
 ## Property: has_MitigationSource
 
@@ -20,4 +15,8 @@ Use robots for medical tasks, adopt telemedicine for remote consultation, and pr
 * [iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_277.md)
 * [ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_278.md)
 * [robotics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1173.md)
+
+## Property: has_MitigationPrinciple
+
+Use robots for medical tasks, adopt telemedicine for remote consultation, and provide support to healthcare professionals.
 

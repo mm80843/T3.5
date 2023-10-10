@@ -2,10 +2,6 @@
 
 # Stakeholder: __car-sharing companies__ (PBN__Stakeholder_736)
 
-## Property: has_OwnerRisk
-
-* [Lack of access to private car](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1219.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Transportation](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_63.md)
@@ -17,4 +13,8 @@
 ## Property: has_StakeholderGroup
 
 * [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
+
+## Property: has_OwnerRisk
+
+* [Lack of access to private car](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1219.md)
 

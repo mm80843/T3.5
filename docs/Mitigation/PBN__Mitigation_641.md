@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Implementing management practices that preserve natural vegetation cover, such as leaf litter and woody debris, to support wildlife and natural ecological processes in green spaces.
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Implementing management practices that preserve natural vegetation cover, such a
 ## Property: has_MitigationTechnology
 
 * [green space design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3370.md)
+
+## Property: has_MitigationPrinciple
+
+Implementing management practices that preserve natural vegetation cover, such as leaf litter and woody debris, to support wildlife and natural ecological processes in green spaces.
 

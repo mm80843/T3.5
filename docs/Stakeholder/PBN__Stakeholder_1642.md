@@ -2,17 +2,17 @@
 
 # Stakeholder: __student__ (PBN__Stakeholder_1642)
 
-## Property: has_StakeholderGroup
+## Property: has_StakeholderSubgroup
 
-* [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
-* [Education](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_1.md)
+* [Learners](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_17.md)
 
 ## Property: has_StakeholderID
 
 * [Q48282](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q48282.md)
 * [Q334375](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q334375.md)
 
-## Property: has_StakeholderSubgroup
+## Property: has_StakeholderGroup
 
-* [Learners](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_17.md)
+* [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
+* [Education](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_1.md)
 

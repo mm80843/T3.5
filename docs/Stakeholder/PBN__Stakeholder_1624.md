@@ -2,15 +2,15 @@
 
 # Stakeholder: __transport authority__ (PBN__Stakeholder_1624)
 
-## Property: has_StakeholderGroup
+## Property: has_StakeholderSubgroup
 
-* [City Officials](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_0.md)
+* [Transportation Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_1.md)
 
 ## Property: has_StakeholderID
 
 * [Q7835189](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7835189.md)
 
-## Property: has_StakeholderSubgroup
+## Property: has_StakeholderGroup
 
-* [Transportation Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_1.md)
+* [City Officials](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_0.md)
 

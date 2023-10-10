@@ -2,7 +2,7 @@
 
 # Risk: __Limited functionality and reliability of wearable devices__ (PBN__Risk_1004)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Development of next-generation wearable devices with sufficient reliability and robustness](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1426.md)
 

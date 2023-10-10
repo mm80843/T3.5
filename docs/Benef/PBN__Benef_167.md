@@ -6,15 +6,15 @@
 
 Wastewater surveillance can provide data on the number of individuals excreting the virus.
 
-## Property: has_Beneficiary
-
-* [public health](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_58.md)
-
-## Property: has_BenefReturn
-
-* [Investing in wastewater surveillance can help in understanding the virus circulation.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_169.md)
-
 ## Property: has_BenefSource
 
 * [la_rosa_first_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_37.md)
+
+## Description of Benefits pertaining to Beneficiaries
+
+* [Investing in wastewater surveillance can help in understanding the virus circulation.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_169.md)
+
+## Property: has_Beneficiary
+
+* [public health](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_58.md)
 

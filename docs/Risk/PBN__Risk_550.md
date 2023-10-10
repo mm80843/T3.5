@@ -2,7 +2,7 @@
 
 # Risk: __Economic divisions in the EU due to COVID-19__ (PBN__Risk_550)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Mutualized debt through corona bonds](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_777.md)
 

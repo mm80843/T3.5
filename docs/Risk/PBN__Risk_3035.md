@@ -2,7 +2,7 @@
 
 # Risk: __Supply disruption__ (PBN__Risk_3035)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Collaborative networks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1352.md)
 * [Inventory optimization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1359.md)

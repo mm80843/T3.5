@@ -2,11 +2,11 @@
 
 # Technology: __sensor-activated faucets and soap dispensers__ (PBN__Technology_751)
 
-## Property: has_TechnologyRisk
-
-* [Lack of hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1485.md)
-
 ## Property: has_TechnologyID
 
 * [Q377647](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q377647.md)
+
+## Property: has_TechnologyRisk
+
+* [Lack of hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1485.md)
 

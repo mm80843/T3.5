@@ -2,11 +2,11 @@
 
 # Technology: __vaccine development and manufacturing__ (PBN__Technology_1885)
 
-## Property: has_TechnologyRisk
-
-* [Lack of COVID-19 vaccine](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2303.md)
-
 ## Property: has_TechnologyID
 
 * [Q27133094](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q27133094.md)
+
+## Property: has_TechnologyRisk
+
+* [Lack of COVID-19 vaccine](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2303.md)
 

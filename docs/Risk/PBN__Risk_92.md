@@ -2,7 +2,7 @@
 
 # Risk: __Limited availability of up-to-date information on COVID-19__ (PBN__Risk_92)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Search and browse interfaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_113.md)
 * [SPARQL endpoint](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_114.md)

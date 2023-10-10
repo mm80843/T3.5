@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Apply surfaces that have antimicrobial properties to reduce the spread of germs and viruses
 
 ## Property: has_MitigationSource
 
@@ -21,4 +16,8 @@ Apply surfaces that have antimicrobial properties to reduce the spread of germs 
 * [silver nanocoating](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3854.md)
 * [titanium-based coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3855.md)
 * [carbon-based coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3856.md)
+
+## Property: has_MitigationPrinciple
+
+Apply surfaces that have antimicrobial properties to reduce the spread of germs and viruses
 

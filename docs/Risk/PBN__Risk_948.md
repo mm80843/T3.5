@@ -2,7 +2,7 @@
 
 # Risk: __Limited understanding of the value and meaning of green areas__ (PBN__Risk_948)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Increase awareness of the value of green areas](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1317.md)
 

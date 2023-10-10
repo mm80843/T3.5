@@ -4,12 +4,7 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 * [Infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2622.md)
-
-## Property: has_MitigationPrinciple
-
-Big data and facial recognition can be used for monitoring and tracking individuals, ensuring compliance.
 
 ## Property: has_MitigationSource
 
@@ -20,4 +15,8 @@ Big data and facial recognition can be used for monitoring and tracking individu
 
 * [data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1069.md)
 * [facial recognition software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3788.md)
+
+## Property: has_MitigationPrinciple
+
+Big data and facial recognition can be used for monitoring and tracking individuals, ensuring compliance.
 

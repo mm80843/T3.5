@@ -2,7 +2,7 @@
 
 # Risk: __Lack of facilities and time constraints__ (PBN__Risk_851)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Remote exercise monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1175.md)
 

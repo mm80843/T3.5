@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Limit travel between regions to prevent the introduction and spread of the disease from high-risk areas.
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Limit travel between regions to prevent the introduction and spread of the disea
 ## Property: has_MitigationTechnology
 
 * [travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_36.md)
+
+## Property: has_MitigationPrinciple
+
+Limit travel between regions to prevent the introduction and spread of the disease from high-risk areas.
 

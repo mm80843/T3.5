@@ -2,7 +2,7 @@
 
 # Risk: __Lack of recovery support__ (PBN__Risk_2877)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Regional Recovery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1042.md)
 

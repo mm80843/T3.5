@@ -4,13 +4,8 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 * [Transmission via hands](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2758.md)
 * [Transmission of Infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2812.md)
-
-## Property: has_MitigationPrinciple
-
-Regular handwashing with soap and water reduces the risk of transmission by removing pathogens from hands.
 
 ## Property: has_MitigationSource
 
@@ -20,7 +15,10 @@ Regular handwashing with soap and water reduces the risk of transmission by remo
 
 ## Property: has_MitigationTechnology
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 * [soap](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3086.md)
 * [water](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3087.md)
+
+## Property: has_MitigationPrinciple
+
+Regular handwashing with soap and water reduces the risk of transmission by removing pathogens from hands.
 

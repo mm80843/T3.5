@@ -2,7 +2,7 @@
 
 # Risk: __Wildlife conservation__ (PBN__Risk_151)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Reduced human interference](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_186.md)
 

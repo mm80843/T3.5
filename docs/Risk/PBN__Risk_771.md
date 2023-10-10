@@ -2,7 +2,7 @@
 
 # Risk: __Spread of COVID-19 on construction sites__ (PBN__Risk_771)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Health screening of workers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1060.md)
 * [Providing additional personal protective equipment (PPE) to workers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1061.md)

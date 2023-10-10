@@ -6,13 +6,13 @@
 
 * [Lack of Public Awareness and Education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1445.md)
 
-## Property: has_TechnologyID
-
-* [Q4353774](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4353774.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Communication Technologies and Channels](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_27.md)
+
+## Property: has_TechnologyID
+
+* [Q4353774](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4353774.md)
 
 ## Property: has_StakeholderGroup
 

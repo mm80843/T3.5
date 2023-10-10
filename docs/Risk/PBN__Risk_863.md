@@ -2,7 +2,7 @@
 
 # Risk: __Variability in disease severity in reinfected patients__ (PBN__Risk_863)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Evaluate efficacy differences based on symptoms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1187.md)
 

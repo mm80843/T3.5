@@ -2,7 +2,7 @@
 
 # Risk: __Psychological distress in healthcare providers__ (PBN__Risk_896)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Ultrabrief psychological interventions (UBPI)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1237.md)
 

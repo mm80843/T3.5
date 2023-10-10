@@ -2,7 +2,7 @@
 
 # Risk: __Decline in public transport usage__ (PBN__Risk_406)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Increase frequency and capacity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_568.md)
 * [Implement safety measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_569.md)

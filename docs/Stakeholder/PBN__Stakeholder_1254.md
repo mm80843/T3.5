@@ -2,14 +2,6 @@
 
 # Stakeholder: __healthcare facility__ (PBN__Stakeholder_1254)
 
-## Property: has_OwnerRisk
-
-* [Transmission via respiratory droplets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1733.md)
-* [Nosocomial outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1852.md)
-* [Fecal shedding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1853.md)
-* [Inadequate decontamination measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1854.md)
-* [Contaminated personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1855.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Healthcare](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_48.md)
@@ -22,4 +14,12 @@
 
 * [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
 * [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
+
+## Property: has_OwnerRisk
+
+* [Transmission via respiratory droplets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1733.md)
+* [Nosocomial outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1852.md)
+* [Fecal shedding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1853.md)
+* [Inadequate decontamination measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1854.md)
+* [Contaminated personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1855.md)
 

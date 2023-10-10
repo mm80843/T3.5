@@ -2,7 +2,7 @@
 
 # Stakeholder: __patients in aiirs__ (PBN__Stakeholder_1063)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Insufficient negative pressure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_315.md)
 * [Lack of anterooms](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1641.md)

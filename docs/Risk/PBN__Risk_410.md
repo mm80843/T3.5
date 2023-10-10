@@ -2,7 +2,7 @@
 
 # Risk: __Disruption in automobile sales__ (PBN__Risk_410)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Prioritizing new vehicle models over existing ones](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_576.md)
 

@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Decreases pollution levels, improving air quality and reducing the risk of respiratory infections
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Decreases pollution levels, improving air quality and reducing the risk of respi
 ## Property: has_MitigationTechnology
 
 * [pollution control measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3832.md)
+
+## Property: has_MitigationPrinciple
+
+Decreases pollution levels, improving air quality and reducing the risk of respiratory infections
 

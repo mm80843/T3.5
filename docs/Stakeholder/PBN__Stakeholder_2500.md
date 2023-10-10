@@ -2,15 +2,15 @@
 
 # Stakeholder: __housing authority__ (PBN__Stakeholder_2500)
 
-## Property: has_StakeholderGroup
+## Property: has_StakeholderSubgroup
 
-* [Community Stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_8.md)
+* [Housing Authorities/Agencies](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_73.md)
 
 ## Property: has_StakeholderID
 
 * [Q8207109](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q8207109.md)
 
-## Property: has_StakeholderSubgroup
+## Property: has_StakeholderGroup
 
-* [Housing Authorities/Agencies](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_73.md)
+* [Community Stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_8.md)
 

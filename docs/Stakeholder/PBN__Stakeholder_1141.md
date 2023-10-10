@@ -6,7 +6,7 @@
 
 * [AI and Technology](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_54.md)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Privacy and security concerns in contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1711.md)
 

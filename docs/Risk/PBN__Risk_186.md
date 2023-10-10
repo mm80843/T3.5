@@ -2,7 +2,7 @@
 
 # Risk: __AQ3: Airflows control__ (PBN__Risk_186)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Control the airflows in micro spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_226.md)
 

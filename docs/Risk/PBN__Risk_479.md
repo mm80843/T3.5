@@ -2,7 +2,7 @@
 
 # Risk: __Shortages in ICU beds and ventilators__ (PBN__Risk_479)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Increased production of ventilators](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_676.md)
 

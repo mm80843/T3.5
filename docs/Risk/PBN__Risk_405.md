@@ -2,7 +2,7 @@
 
 # Risk: __Community mitigation__ (PBN__Risk_405)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_564.md)
 * [Clear communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_562.md)

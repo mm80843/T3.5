@@ -2,7 +2,7 @@
 
 # Risk: __Limited access to outdoor space in urban centres__ (PBN__Risk_920)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Installation of green roofs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1266.md)
 

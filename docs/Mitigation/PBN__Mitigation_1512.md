@@ -6,10 +6,6 @@
 
 * [Labour market vulnerabilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3114.md)
 
-## Property: has_MitigationPrinciple
-
-Implementing integration policies and providing social support can help improve the labour market outcomes of immigrant workers and reduce their vulnerability during economic crises.
-
 ## Property: has_MitigationSource
 
 * [oecd_what_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_287.md)
@@ -18,4 +14,8 @@ Implementing integration policies and providing social support can help improve 
 
 * [integration programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3898.md)
 * [social support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3899.md)
+
+## Property: has_MitigationPrinciple
+
+Implementing integration policies and providing social support can help improve the labour market outcomes of immigrant workers and reduce their vulnerability during economic crises.
 

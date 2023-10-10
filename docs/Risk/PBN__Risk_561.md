@@ -2,7 +2,7 @@
 
 # Risk: __Abrupt adjustment of organizational infrastructure__ (PBN__Risk_561)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Organizational adaptability](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_787.md)
 

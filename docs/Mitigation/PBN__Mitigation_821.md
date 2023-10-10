@@ -5,12 +5,7 @@
 ## Property: has_MitigationRisk
 
 * [COVID-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_133.md)
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 * [Spread of Contagious Disease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3227.md)
-
-## Property: has_MitigationPrinciple
-
-Implementing strict measures to restrict movement and contain the spread of the virus
 
 ## Property: has_MitigationSource
 
@@ -22,5 +17,8 @@ Implementing strict measures to restrict movement and contain the spread of the 
 
 ## Property: has_MitigationTechnology
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
+
+## Property: has_MitigationPrinciple
+
+Implementing strict measures to restrict movement and contain the spread of the virus
 

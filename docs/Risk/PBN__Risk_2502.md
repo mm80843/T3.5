@@ -2,7 +2,7 @@
 
 # Risk: __Lack of access to education and information__ (PBN__Risk_2502)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Virtual ways of educating the general population and high-risk groups](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_211.md)
 

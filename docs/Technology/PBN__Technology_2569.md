@@ -2,11 +2,10 @@
 
 # Technology: __Cleaning products__ (PBN__Technology_2569)
 
+## Property: has_StakeholderSubgroup
+
+
 ## Property: has_StakeholderGroup
 
 * [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_9.md)
-
-## Property: has_StakeholderSubgroup
-
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_7.md)
 

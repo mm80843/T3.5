@@ -2,7 +2,7 @@
 
 # Risk: __Lack of community-level vector control capacity__ (PBN__Risk_759)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Improving capacity for essential vector control operations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1049.md)
 

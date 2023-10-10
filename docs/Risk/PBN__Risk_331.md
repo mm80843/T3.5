@@ -2,7 +2,7 @@
 
 # Risk: __Public-health emergencies__ (PBN__Risk_331)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Forced experimentation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_431.md)
 

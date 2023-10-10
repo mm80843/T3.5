@@ -2,7 +2,7 @@
 
 # Risk: __Psychological impact of COVID-19 infection__ (PBN__Risk_34)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Enhance health education using online platforms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_48.md)
 * [Implement telemedicine services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_49.md)

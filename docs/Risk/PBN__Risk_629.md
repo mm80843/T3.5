@@ -2,7 +2,7 @@
 
 # Risk: __Inconsistent information disclosure__ (PBN__Risk_629)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Implementation of Open Government projects](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_872.md)
 

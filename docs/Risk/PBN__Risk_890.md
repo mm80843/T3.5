@@ -2,7 +2,7 @@
 
 # Risk: __Preference for greenviews during lockdown__ (PBN__Risk_890)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Green trail segments with greater tree cover and vegetation greenness values](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1229.md)
 

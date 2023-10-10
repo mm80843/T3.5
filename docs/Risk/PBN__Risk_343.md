@@ -2,7 +2,7 @@
 
 # Risk: __Lack of space and poor spatial organization__ (PBN__Risk_343)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Optimize space and improve spatial layout](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_454.md)
 

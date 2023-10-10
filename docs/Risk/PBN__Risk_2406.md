@@ -2,7 +2,7 @@
 
 # Risk: __Outbreak__ (PBN__Risk_2406)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Infectious disease monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4.md)
 * [Crisis management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5.md)

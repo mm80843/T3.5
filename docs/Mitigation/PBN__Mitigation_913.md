@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Assessing changes in mobility patterns to inform urban governance policies
 
 ## Property: has_MitigationSource
 
@@ -18,4 +13,8 @@ Assessing changes in mobility patterns to inform urban governance policies
 
 * [iot sensing infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3534.md)
 * [mobility data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3538.md)
+
+## Property: has_MitigationPrinciple
+
+Assessing changes in mobility patterns to inform urban governance policies
 

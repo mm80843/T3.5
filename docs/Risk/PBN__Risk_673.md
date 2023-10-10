@@ -2,7 +2,7 @@
 
 # Risk: __Long turnaround time for RT-PCR testing__ (PBN__Risk_673)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Development of wearable technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_934.md)
 

@@ -2,7 +2,7 @@
 
 # Risk: __Overexposure to COVID-19, healthcare strain__ (PBN__Risk_3255)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Medical student support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1819.md)
 

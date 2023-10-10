@@ -2,7 +2,7 @@
 
 # Risk: __Air control__ (PBN__Risk_496)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Ventilation, filtration, and humidification](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_704.md)
 

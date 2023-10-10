@@ -6,16 +6,16 @@
 
 Proper segregation of medical waste reduces the risk of disease transmission within the building.
 
-## Property: has_Beneficiary
+## Property: has_BenefSource
 
-* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
+* [ujikawa_how_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_172.md)
 
-## Property: has_BenefReturn
+## Description of Benefits pertaining to Beneficiaries
 
 * [Investing in touchless technologies can improve the safety and health of building occupants, increasing the value of the property.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_925.md)
 * [Private investors can benefit from improved waste management practices by attracting residents who prioritize hygiene and health.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_930.md)
 
-## Property: has_BenefSource
+## Property: has_Beneficiary
 
-* [ujikawa_how_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_172.md)
+* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 

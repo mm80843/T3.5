@@ -2,12 +2,12 @@
 
 # Technology: __decision support systems__ (PBN__Technology_1317)
 
+## Property: has_TechnologyID
+
+* [Q330268](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q330268.md)
+
 ## Property: has_TechnologyRisk
 
 * [Delayed decision making](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_659.md)
 * [Value-based decision-making and policy support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1922.md)
-
-## Property: has_TechnologyID
-
-* [Q330268](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q330268.md)
 

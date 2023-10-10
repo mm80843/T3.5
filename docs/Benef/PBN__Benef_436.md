@@ -6,16 +6,16 @@
 
 Studying the effect of RH on UV susceptibility of pathogenic viral aerosols is important for designing effective UV disinfection systems and optimizing environmental conditions for viral inactivation.
 
+## Property: has_BenefSource
+
+* [walker_effect_2007](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_88.md)
+
+## Description of Benefits pertaining to Beneficiaries
+
+* [Improved design and optimization of UV disinfection systems, increased effectiveness in inactivating viral aerosols, and improved public health outcomes.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_469.md)
+
 ## Property: has_Beneficiary
 
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
 * [engineers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_202.md)
-
-## Property: has_BenefReturn
-
-* [Improved design and optimization of UV disinfection systems, increased effectiveness in inactivating viral aerosols, and improved public health outcomes.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_469.md)
-
-## Property: has_BenefSource
-
-* [walker_effect_2007](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_88.md)
 

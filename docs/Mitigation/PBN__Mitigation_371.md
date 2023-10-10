@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Remote monitoring of patients using wearable devices can help track symptoms, such as body temperature, heart rate, and respiratory rate, and provide timely healthcare interventions
 
 ## Property: has_MitigationSource
 
@@ -20,4 +15,8 @@ Remote monitoring of patients using wearable devices can help track symptoms, su
 * [sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_200.md)
 * [wearable sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2949.md)
 * [building management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3395.md)
+
+## Property: has_MitigationPrinciple
+
+Remote monitoring of patients using wearable devices can help track symptoms, such as body temperature, heart rate, and respiratory rate, and provide timely healthcare interventions
 

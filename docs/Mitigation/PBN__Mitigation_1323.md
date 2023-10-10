@@ -6,10 +6,6 @@
 
 * [Data Sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3019.md)
 
-## Property: has_MitigationPrinciple
-
-Facilitates the exchange of research and therapeutic data among governments, public health agencies, and private organizations to accelerate the development of effective strategies and therapies.
-
 ## Property: has_MitigationSource
 
 * [mehta_pandemic_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_106.md)
@@ -18,4 +14,8 @@ Facilitates the exchange of research and therapeutic data among governments, pub
 
 * [integrated platform models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3793.md)
 * [open-source structures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3794.md)
+
+## Property: has_MitigationPrinciple
+
+Facilitates the exchange of research and therapeutic data among governments, public health agencies, and private organizations to accelerate the development of effective strategies and therapies.
 

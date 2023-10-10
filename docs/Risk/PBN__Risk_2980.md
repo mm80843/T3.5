@@ -2,7 +2,7 @@
 
 # Risk: __Inactivation of SARS-CoV-2 in water__ (PBN__Risk_2980)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Disinfection of water](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1230.md)
 

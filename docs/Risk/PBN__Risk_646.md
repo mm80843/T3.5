@@ -2,7 +2,7 @@
 
 # Risk: __Person-to-person transmission of pathogens__ (PBN__Risk_646)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Use of far-UVC light](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_897.md)
 

@@ -2,7 +2,7 @@
 
 # Risk: __Gaps in capacity and resilience across industries and organizations__ (PBN__Risk_752)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Enhance local production capacity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1040.md)
 * [Strengthen supply chain resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1041.md)

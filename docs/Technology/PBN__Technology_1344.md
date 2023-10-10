@@ -7,13 +7,13 @@
 * [Lack of interoperability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_901.md)
 * [Logical inconsistencies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1940.md)
 
-## Property: has_TechnologyID
-
-* [Q1027508](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1027508.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Ontologies and Semantic Web](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_16.md)
+
+## Property: has_TechnologyID
+
+* [Q1027508](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1027508.md)
 
 ## Property: has_StakeholderGroup
 

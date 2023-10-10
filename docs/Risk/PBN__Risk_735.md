@@ -2,7 +2,7 @@
 
 # Risk: __Lack of contact with nature__ (PBN__Risk_735)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Biophilic design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1017.md)
 

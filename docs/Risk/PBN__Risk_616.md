@@ -2,7 +2,7 @@
 
 # Risk: __Misinformation from preprints__ (PBN__Risk_616)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Transparent and responsible preprint publishing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_854.md)
 

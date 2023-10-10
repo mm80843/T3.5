@@ -2,7 +2,7 @@
 
 # Risk: __Overloaded healthcare facilities__ (PBN__Risk_807)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Providing support to overstretched staff](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1108.md)
 

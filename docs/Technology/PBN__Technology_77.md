@@ -2,11 +2,11 @@
 
 # Technology: __community mobilization__ (PBN__Technology_77)
 
-## Property: has_TechnologyRisk
-
-* [Unhealthy household environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_781.md)
-
 ## Property: has_TechnologyID
 
 * [Q5154987](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5154987.md)
+
+## Property: has_TechnologyRisk
+
+* [Unhealthy household environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_781.md)
 

@@ -2,11 +2,11 @@
 
 # Technology: __sustainable tourism initiatives__ (PBN__Technology_1703)
 
-## Property: has_TechnologyRisk
-
-* [Reduction in tourism revenue](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2176.md)
-
 ## Property: has_TechnologyID
 
 * [Q1344240](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1344240.md)
+
+## Property: has_TechnologyRisk
+
+* [Reduction in tourism revenue](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2176.md)
 

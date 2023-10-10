@@ -2,11 +2,11 @@
 
 # Technology: __enhanced hvac systems__ (PBN__Technology_1519)
 
-## Property: has_TechnologyRisk
-
-* [Risk of COVID-19 transmission in the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2045.md)
-
 ## Property: has_TechnologyID
 
 * [Q1601541](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1601541.md)
+
+## Property: has_TechnologyRisk
+
+* [Risk of COVID-19 transmission in the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2045.md)
 

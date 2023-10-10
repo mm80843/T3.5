@@ -2,7 +2,7 @@
 
 # Risk: __Overcrowding and agglomerations in cities__ (PBN__Risk_514)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Digital tools](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_722.md)
 

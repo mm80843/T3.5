@@ -8,13 +8,13 @@
 * [Globalization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2075.md)
 * [Vulnerability to natural hazards](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2229.md)
 
-## Property: has_TechnologyID
-
-* [Q7336285](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7336285.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Environment and Healthcare Management Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_14.md)
+
+## Property: has_TechnologyID
+
+* [Q7336285](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7336285.md)
 
 ## Property: has_StakeholderGroup
 

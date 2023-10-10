@@ -2,7 +2,7 @@
 
 # Risk: __Inequitable distribution__ (PBN__Risk_3126)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Multisectoral action to reduce inequalities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1538.md)
 

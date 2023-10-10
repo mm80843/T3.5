@@ -8,7 +8,6 @@
 * [Privacy and security concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_25.md)
 * [Privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_47.md)
 * [COVID-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_133.md)
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 * [Chain of transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2511.md)
 * [Insufficient user uptake, navigation issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2552.md)
 * [Outbreak spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2759.md)
@@ -18,10 +17,6 @@
 * [Concealment of mobility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3209.md)
 * [Data security and privacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3276.md)
 * [Privacy breach](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3305.md)
-
-## Property: has_MitigationPrinciple
-
-Contact tracing identifies individuals who have been in close contact with infected individuals, enabling early identification and interruption of transmission chains.
 
 ## Property: has_MitigationSource
 
@@ -48,7 +43,6 @@ Contact tracing identifies individuals who have been in close contact with infec
 
 * [blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_211.md)
 * [contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_11.md)
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 * [mobile applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1146.md)
 * [iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_96.md)
 * [digital contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_795.md)
@@ -70,4 +64,8 @@ Contact tracing identifies individuals who have been in close contact with infec
 * [cell phone data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3998.md)
 * [bluetooth low energy (ble) technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4123.md)
 * [smartphone app](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4163.md)
+
+## Property: has_MitigationPrinciple
+
+Contact tracing identifies individuals who have been in close contact with infected individuals, enabling early identification and interruption of transmission chains.
 

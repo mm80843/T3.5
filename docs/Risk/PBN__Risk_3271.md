@@ -2,7 +2,7 @@
 
 # Risk: __Individual exposure__ (PBN__Risk_3271)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Personal Protective Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_754.md)
 

@@ -2,7 +2,7 @@
 
 # Risk: __Lack of timely information__ (PBN__Risk_2900)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Enhanced surveillance and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1068.md)
 * [Automated SMS alerts](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1667.md)

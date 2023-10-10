@@ -2,7 +2,7 @@
 
 # Risk: __Affordability of healthy foods__ (PBN__Risk_3123)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Loss of jobs and livelihoods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1534.md)
 

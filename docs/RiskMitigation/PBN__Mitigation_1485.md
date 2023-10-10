@@ -6,15 +6,14 @@
 
 * [Limited access to health information and beliefs hindering adoption of preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3100.md)
 
-## Property: has_MitigationPrinciple
-
-Provide education and engage with communities to promote understanding and acceptance of malaria prevention strategies
-
 ## Property: has_MitigationSource
 
 * [obonyo_decision_2018](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_272.md)
 
 ## Property: has_MitigationTechnology
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
+
+## Property: has_MitigationPrinciple
+
+Provide education and engage with communities to promote understanding and acceptance of malaria prevention strategies
 

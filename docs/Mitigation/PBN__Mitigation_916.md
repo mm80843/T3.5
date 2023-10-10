@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Presenting data in a visual form to enable easy interpretation and analysis
 
 ## Property: has_MitigationSource
 
@@ -18,4 +13,8 @@ Presenting data in a visual form to enable easy interpretation and analysis
 
 * [data visualization technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3542.md)
 * [graphical representation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3543.md)
+
+## Property: has_MitigationPrinciple
+
+Presenting data in a visual form to enable easy interpretation and analysis
 

@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Utilize data-driven ontology-based intelligence for semi-autonomous systems to assist in COVID-19 scenarios, such as telehealth care.
 
 ## Property: has_MitigationSource
 
@@ -19,4 +14,8 @@ Utilize data-driven ontology-based intelligence for semi-autonomous systems to a
 * [ontologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_712.md)
 * [knowledge base](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2927.md)
 * [telehealth system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2928.md)
+
+## Property: has_MitigationPrinciple
+
+Utilize data-driven ontology-based intelligence for semi-autonomous systems to assist in COVID-19 scenarios, such as telehealth care.
 

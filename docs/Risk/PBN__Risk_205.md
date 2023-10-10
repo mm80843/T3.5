@@ -2,7 +2,7 @@
 
 # Risk: __LC1: Local services__ (PBN__Risk_205)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Availability of self-dependent services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_244.md)
 

@@ -6,7 +6,7 @@
 
 * [Individuals in Specific Settings](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_87.md)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Ineffective air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1321.md)
 

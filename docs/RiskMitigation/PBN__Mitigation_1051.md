@@ -6,10 +6,6 @@
 
 * [Increased commuting and social disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2886.md)
 
-## Property: has_MitigationPrinciple
-
-Designing neighborhoods that combine residential, commercial, and recreational spaces to reduce the need for commuting and encourage walking and cycling
-
 ## Property: has_MitigationSource
 
 * [kumar_role_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_140.md)
@@ -18,4 +14,8 @@ Designing neighborhoods that combine residential, commercial, and recreational s
 
 * [urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_922.md)
 * [architectural design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3564.md)
+
+## Property: has_MitigationPrinciple
+
+Designing neighborhoods that combine residential, commercial, and recreational spaces to reduce the need for commuting and encourage walking and cycling
 

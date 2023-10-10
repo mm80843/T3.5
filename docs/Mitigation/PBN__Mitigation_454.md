@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Performing aerobic exercises using exercise equipment to improve cardiovascular fitness.
 
 ## Property: has_MitigationSource
 
@@ -19,4 +14,8 @@ Performing aerobic exercises using exercise equipment to improve cardiovascular 
 * [treadmills](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3241.md)
 * [stationary bikes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3242.md)
 * [heart rate monitors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3243.md)
+
+## Property: has_MitigationPrinciple
+
+Performing aerobic exercises using exercise equipment to improve cardiovascular fitness.
 

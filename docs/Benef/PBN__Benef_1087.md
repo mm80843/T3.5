@@ -6,15 +6,15 @@
 
 Reduces the risk of transmission from infected patients
 
-## Property: has_Beneficiary
-
-* [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
-
-## Property: has_BenefReturn
-
-* [Improved safety and reduced risk for healthcare worker](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1215.md)
-
 ## Property: has_BenefSource
 
 * [karia_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_225.md)
+
+## Description of Benefits pertaining to Beneficiaries
+
+* [Improved safety and reduced risk for healthcare worker](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1215.md)
+
+## Property: has_Beneficiary
+
+* [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
 

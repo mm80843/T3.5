@@ -6,16 +6,16 @@
 
 Allows for continued house viewings while adhering to social distancing guidelines, reduces the risk of exposure to the virus
 
+## Property: has_BenefSource
+
+* [nicola_socio-economic_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_135.md)
+
+## Description of Benefits pertaining to Beneficiaries
+
+* [Continued business operations, reduced risk for real estate professionals and clients](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_733.md)
+
 ## Property: has_Beneficiary
 
 * [real estate agents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_284.md)
 * [home buyers/sellers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_285.md)
-
-## Property: has_BenefReturn
-
-* [Continued business operations, reduced risk for real estate professionals and clients](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_733.md)
-
-## Property: has_BenefSource
-
-* [nicola_socio-economic_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_135.md)
 

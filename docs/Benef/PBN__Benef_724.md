@@ -6,17 +6,17 @@
 
 Teleconsultations, virtual visits, and mapping of cases improve access to healthcare
 
-## Property: has_Beneficiary
+## Property: has_BenefSource
 
-* [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
-* [healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_32.md)
+* [fariniuk_smart_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_143.md)
 
-## Property: has_BenefReturn
+## Description of Benefits pertaining to Beneficiaries
 
 * [Enhance healthcare delivery and reduce spread of disease](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_778.md)
 * [Enhance healthcare delivery and improve patient outcomes](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_788.md)
 
-## Property: has_BenefSource
+## Property: has_Beneficiary
 
-* [fariniuk_smart_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_143.md)
+* [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
+* [healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_32.md)
 

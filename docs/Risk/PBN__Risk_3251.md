@@ -2,7 +2,7 @@
 
 # Risk: __Energy Efficiency__ (PBN__Risk_3251)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Improved Building Insulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1782.md)
 

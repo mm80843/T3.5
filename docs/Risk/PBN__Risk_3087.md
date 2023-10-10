@@ -2,7 +2,7 @@
 
 # Risk: __Increased mental and physical health problems__ (PBN__Risk_3087)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Closure of Public Spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1467.md)
 

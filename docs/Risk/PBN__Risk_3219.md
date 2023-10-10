@@ -2,7 +2,7 @@
 
 # Risk: __Compliance__ (PBN__Risk_3219)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Regular monitoring of public health and government announcements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1689.md)
 

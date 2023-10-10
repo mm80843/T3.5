@@ -2,7 +2,7 @@
 
 # Risk: __Environmental impacts of the pandemic__ (PBN__Risk_931)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Sustainable design and construction](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1291.md)
 

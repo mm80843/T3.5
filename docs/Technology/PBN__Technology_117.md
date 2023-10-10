@@ -16,14 +16,14 @@
 * [Inadequate mental health resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2044.md)
 * [Negative Emotions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2277.md)
 
-## Property: has_TechnologyID
-
-* [Q67076049](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q67076049.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Apps and Mobile Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_22.md)
 * [Mobile Health Apps and Services](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_34.md)
+
+## Property: has_TechnologyID
+
+* [Q67076049](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q67076049.md)
 
 ## Property: has_StakeholderGroup
 

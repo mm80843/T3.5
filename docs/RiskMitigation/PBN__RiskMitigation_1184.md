@@ -2,6 +2,10 @@
 
 # RiskMitigation: __Spending time in domestic gardens__ (PBN__RiskMitigation_1184)
 
+## Property: has_MitigationRisk
+
+* [Lack of access to green spaces during COVID-19 lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_860.md)
+
 ## Property: has_MitigationBenefit
 
 * [Improved physical health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_174.md)
@@ -9,8 +13,4 @@
 * [Improved sleep quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1184.md)
 * [Improved overall wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1185.md)
 * [Better social ties and community engagement](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1186.md)
-
-## Property: has_MitigationRisk
-
-* [Lack of access to green spaces during COVID-19 lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_860.md)
 

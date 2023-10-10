@@ -2,11 +2,11 @@
 
 # Technology: __manufacturing and supply chain of ppe__ (PBN__Technology_797)
 
-## Property: has_TechnologyRisk
-
-* [Lack of proper PPE usage and availability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1515.md)
-
 ## Property: has_TechnologyID
 
 * [Q1824206](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1824206.md)
+
+## Property: has_TechnologyRisk
+
+* [Lack of proper PPE usage and availability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1515.md)
 

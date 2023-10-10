@@ -2,7 +2,7 @@
 
 # Risk: __Inadequate airflow in apartment buildings__ (PBN__Risk_229)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Addition of external communication corridors and emphasis on stair usage](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_273.md)
 

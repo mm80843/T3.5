@@ -6,13 +6,13 @@
 
 * [Decreased Physical Activity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1056.md)
 
-## Property: has_TechnologyID
-
-* [Q219067](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q219067.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Healthcare and Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_19.md)
+
+## Property: has_TechnologyID
+
+* [Q219067](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q219067.md)
 
 ## Property: has_StakeholderGroup
 

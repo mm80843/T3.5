@@ -2,7 +2,7 @@
 
 # Risk: __Efficient distribution of resources__ (PBN__Risk_3371)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Government Coordination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2184.md)
 

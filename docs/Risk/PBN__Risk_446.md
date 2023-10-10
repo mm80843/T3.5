@@ -2,7 +2,7 @@
 
 # Risk: __Pandemic__ (PBN__Risk_446)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Mandatory lockdowns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_616.md)
 * [Government stimulus packages](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_617.md)

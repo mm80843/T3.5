@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Adopting different living arrangements based on adaptability and criteria such as proximity and distancing
 
 ## Property: has_MitigationSource
 
@@ -18,4 +13,8 @@ Adopting different living arrangements based on adaptability and criteria such a
 
 * [flexible living arrangements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4077.md)
 * [adaptive criteria](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4078.md)
+
+## Property: has_MitigationPrinciple
+
+Adopting different living arrangements based on adaptability and criteria such as proximity and distancing
 

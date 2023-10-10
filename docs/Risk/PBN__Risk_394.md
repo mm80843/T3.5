@@ -2,7 +2,7 @@
 
 # Risk: __Lack of evidence synthesis and filtering__ (PBN__Risk_394)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Synthesising the best available evidence](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_551.md)
 

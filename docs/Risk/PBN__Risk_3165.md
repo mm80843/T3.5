@@ -2,7 +2,7 @@
 
 # Risk: __Lack of employee awareness__ (PBN__Risk_3165)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Education and Communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1618.md)
 

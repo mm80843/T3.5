@@ -2,7 +2,7 @@
 
 # Risk: __Shortage of experienced healthcare personnel__ (PBN__Risk_317)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Relocation of healthcare personnel](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_396.md)
 

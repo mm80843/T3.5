@@ -2,7 +2,7 @@
 
 # Risk: __Spread of COVID-19 in workplace settings__ (PBN__Risk_434)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Implement workplace regulations and directives](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_602.md)
 

@@ -2,7 +2,7 @@
 
 # Risk: __Spread of hospital acquired infections__ (PBN__Risk_866)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Continuously active antimicrobial coating](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1190.md)
 

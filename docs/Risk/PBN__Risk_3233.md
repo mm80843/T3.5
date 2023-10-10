@@ -2,7 +2,7 @@
 
 # Risk: __Lack of educational resources__ (PBN__Risk_3233)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [E-learning packages](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1720.md)
 

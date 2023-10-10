@@ -6,10 +6,6 @@
 
 * [Lack of validation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2926.md)
 
-## Property: has_MitigationPrinciple
-
-Simulate virus transmission through air-based and surface-based interactions, considering the contamination levels and diffusion rates of virus particles in the built environment
-
 ## Property: has_MitigationSource
 
 * [lee_designing_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_26.md)
@@ -18,4 +14,8 @@ Simulate virus transmission through air-based and surface-based interactions, co
 
 * [contamination values](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3656.md)
 * [diffusion models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3657.md)
+
+## Property: has_MitigationPrinciple
+
+Simulate virus transmission through air-based and surface-based interactions, considering the contamination levels and diffusion rates of virus particles in the built environment
 

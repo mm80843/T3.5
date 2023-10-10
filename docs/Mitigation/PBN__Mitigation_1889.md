@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Blockchain-powered UAVs and robots can automate surveillance and contactless delivery in high-transmission zones, minimizing human intervention.
 
 ## Property: has_MitigationSource
 
@@ -19,4 +14,8 @@ Blockchain-powered UAVs and robots can automate surveillance and contactless del
 * [blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_211.md)
 * [robots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3001.md)
 * [uavs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4124.md)
+
+## Property: has_MitigationPrinciple
+
+Blockchain-powered UAVs and robots can automate surveillance and contactless delivery in high-transmission zones, minimizing human intervention.
 

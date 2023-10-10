@@ -7,10 +7,6 @@
 * [Inadequate housing, sanitation, and waste management increase malaria risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3101.md)
 * [Unsustainable and unsafe cities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3263.md)
 
-## Property: has_MitigationPrinciple
-
-Implement sustainable urban planning practices to provide equitable access to infrastructure
-
 ## Property: has_MitigationSource
 
 * [samout_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_58.md)
@@ -18,6 +14,9 @@ Implement sustainable urban planning practices to provide equitable access to in
 
 ## Property: has_MitigationTechnology
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 * [urban planning tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1841.md)
+
+## Property: has_MitigationPrinciple
+
+Implement sustainable urban planning practices to provide equitable access to infrastructure
 

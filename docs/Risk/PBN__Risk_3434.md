@@ -2,7 +2,7 @@
 
 # Risk: __Infringement on privacy__ (PBN__Risk_3434)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2379.md)
 

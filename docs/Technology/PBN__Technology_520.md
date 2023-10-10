@@ -6,13 +6,13 @@
 
 * [Health inequities in data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1339.md)
 
-## Property: has_TechnologyID
-
-* [Q4381439](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4381439.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Data Governance and Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_142.md)
+
+## Property: has_TechnologyID
+
+* [Q4381439](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4381439.md)
 
 ## Property: has_StakeholderGroup
 

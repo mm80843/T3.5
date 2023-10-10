@@ -2,11 +2,11 @@
 
 # RiskMitigation: __Promoting trust and countering misinformation__ (PBN__RiskMitigation_553)
 
-## Property: has_MitigationBenefit
-
-* [Providing trustworthy evidence](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_541.md)
-
 ## Property: has_MitigationRisk
 
 * [Spread of misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_396.md)
+
+## Property: has_MitigationBenefit
+
+* [Providing trustworthy evidence](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_541.md)
 

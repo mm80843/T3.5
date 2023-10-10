@@ -2,7 +2,7 @@
 
 # Risk: __Future "black swan" events__ (PBN__Risk_3373)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Resilient Approach](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2186.md)
 

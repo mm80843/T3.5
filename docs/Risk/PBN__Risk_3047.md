@@ -2,7 +2,7 @@
 
 # Risk: __Lack of resources in LMIC__ (PBN__Risk_3047)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [AI-based tools for resource-limited settings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1399.md)
 

@@ -2,7 +2,7 @@
 
 # Risk: __Data sharing barriers, legal frameworks__ (PBN__Risk_2627)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Open and trustworthy international research partnership](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_564.md)
 

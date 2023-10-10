@@ -6,15 +6,15 @@
 
 * [Unequal distribution of street open spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1969.md)
 
-## Property: has_TechnologyID
-
-* [Q2516403](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2516403.md)
-* [Q112245645](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q112245645.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Infrastructure and Urban Planning](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_86.md)
 * [Crowd and Occupancy Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_13.md)
+
+## Property: has_TechnologyID
+
+* [Q2516403](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2516403.md)
+* [Q112245645](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q112245645.md)
 
 ## Property: has_StakeholderGroup
 

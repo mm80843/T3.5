@@ -2,11 +2,11 @@
 
 # Technology: __in hvac systems__ (PBN__Technology_683)
 
-## Property: has_TechnologyRisk
-
-* [Insufficient filtration](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1428.md)
-
 ## Property: has_TechnologyID
 
 * [Q1798773](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1798773.md)
+
+## Property: has_TechnologyRisk
+
+* [Insufficient filtration](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1428.md)
 

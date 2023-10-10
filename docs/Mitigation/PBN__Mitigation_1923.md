@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Indicate inflammation and physiological response, non-invasive testing, potential early indicators of disease
 
 ## Property: has_MitigationSource
 
@@ -18,4 +13,8 @@ Indicate inflammation and physiological response, non-invasive testing, potentia
 
 * [mass spectrometry](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2123.md)
 * [urine proteomics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4142.md)
+
+## Property: has_MitigationPrinciple
+
+Indicate inflammation and physiological response, non-invasive testing, potential early indicators of disease
 

@@ -7,10 +7,6 @@
 * [Lack of social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1892.md)
 * [Increased transportation and contact in workplaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2883.md)
 
-## Property: has_MitigationPrinciple
-
-Reduce the need for individuals to leave their homes, minimizing the risk of virus transmission.
-
 ## Property: has_MitigationSource
 
 * [noszczyk_impact_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_203.md)
@@ -24,4 +20,8 @@ Reduce the need for individuals to leave their homes, minimizing the risk of vir
 * [digital devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_573.md)
 * [telecommunication technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3060.md)
 * [internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3058.md)
+
+## Property: has_MitigationPrinciple
+
+Reduce the need for individuals to leave their homes, minimizing the risk of virus transmission.
 

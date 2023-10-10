@@ -6,15 +6,15 @@
 
 --------------------------------------------------------------
 
-## Property: has_Beneficiary
-
-* [-------------------](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_314.md)
-
-## Property: has_BenefReturn
-
-* [--------------------------------------------------------------------](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1551.md)
-
 ## Property: has_BenefSource
 
 * [taghizadeh-hesary_covid-19_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_292.md)
+
+## Description of Benefits pertaining to Beneficiaries
+
+* [--------------------------------------------------------------------](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1551.md)
+
+## Property: has_Beneficiary
+
+* [-------------------](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_314.md)
 

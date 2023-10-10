@@ -2,7 +2,7 @@
 
 # Risk: __Reduction in innovation and experimentation__ (PBN__Risk_2872)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Innovation and Creativity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1036.md)
 

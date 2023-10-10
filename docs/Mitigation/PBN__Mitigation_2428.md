@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Promote a more horizontally distributed urban development to decrease epidemic risk.
 
 ## Property: has_MitigationSource
 
@@ -18,4 +13,8 @@ Promote a more horizontally distributed urban development to decrease epidemic r
 
 * [urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_922.md)
 * [land use regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4498.md)
+
+## Property: has_MitigationPrinciple
+
+Promote a more horizontally distributed urban development to decrease epidemic risk.
 

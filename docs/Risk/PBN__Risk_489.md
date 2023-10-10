@@ -2,7 +2,7 @@
 
 # Risk: __Disease transmission__ (PBN__Risk_489)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Universal access to critical infrastructures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_690.md)
 * [Quarantine and isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_541.md)

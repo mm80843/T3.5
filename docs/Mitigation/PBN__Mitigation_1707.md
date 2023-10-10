@@ -6,10 +6,6 @@
 
 * [Urban overheating](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3226.md)
 
-## Property: has_MitigationPrinciple
-
-Incorporating green infrastructure in buildings helps mitigate urban heat island effect and provides cooling effects through evapotranspiration, enhancing the resilience of cities.
-
 ## Property: has_MitigationSource
 
 * [reinwald_urban_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_83.md)
@@ -18,4 +14,8 @@ Incorporating green infrastructure in buildings helps mitigate urban heat island
 
 * [green roofs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1392.md)
 * [green facades](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1393.md)
+
+## Property: has_MitigationPrinciple
+
+Incorporating green infrastructure in buildings helps mitigate urban heat island effect and provides cooling effects through evapotranspiration, enhancing the resilience of cities.
 

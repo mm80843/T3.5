@@ -2,7 +2,7 @@
 
 # Stakeholder: __people in developing countries__ (PBN__Stakeholder_1265)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Food insecurity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1876.md)
 

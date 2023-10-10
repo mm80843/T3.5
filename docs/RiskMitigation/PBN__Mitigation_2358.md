@@ -6,10 +6,6 @@
 
 * [Overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_571.md)
 
-## Property: has_MitigationPrinciple
-
-Implementing measures to restrict overcrowding on public transport, such as running more trains or buses, promoting alternative modes of mobility like cycling, based on data analytics.
-
 ## Property: has_MitigationSource
 
 * [webb_smart_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_294.md)
@@ -18,4 +14,8 @@ Implementing measures to restrict overcrowding on public transport, such as runn
 
 * [data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1069.md)
 * [sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_200.md)
+
+## Property: has_MitigationPrinciple
+
+Implementing measures to restrict overcrowding on public transport, such as running more trains or buses, promoting alternative modes of mobility like cycling, based on data analytics.
 

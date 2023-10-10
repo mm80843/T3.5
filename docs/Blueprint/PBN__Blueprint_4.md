@@ -2,19 +2,6 @@
 
 # Blueprint: __PBN:BP_5__ (PBN__Blueprint_4)
 
-## Property: has_BPCapabilities
-
-DESIGN PHASE: Mobility models for operators and customers can be a useful tool for predicting people flows. If possible, larger corridors that allow traffic in both directions are preferred. 
-OPERATION PHASE: Information on one-way paths implemented (large informative screens, markings on the ground, maps with zoning criteria) is crucial. Intelligent entrances and exits (e.g. doors that only open when people are moving in the right direction) or badge controls are efficient measures to avoid unwanted flows of people in closed areas such as buildings;
-
-## Property: has_BPPhase
-
-Operational
-
-## Property: has_BPType
-
-Behavioural
-
 ## Property: has_BPDemonstrated
 
 Sonae’s Campus (Porto)
@@ -22,14 +9,6 @@ Sonae’s Campus (Porto)
 ## Property: has_BPValueProposition
 
 One-way pedestrian regulation is a measure that allows you to better control how people move around, thus controlling congestion and minimising unexpected encounters. It can also be applied in the planning phase as well as in operation and is cost-effective. This measure is particularly suitable for pandemic outbreaks where immediate and effective action needs to be taken. 
-
-## Property: has_BPTitle
-
-Managing user flows in building and infrastructure 
-
-## Property: has_BPDescription
-
-The transmission of most contagious diseases involves a variety of aspects, the number of people encountered and how it happens while walking or running being one of them. In this sense, it is well known that appropriate user traffic control measures can drastically reduce the number of encounters and thus the contribution of person-to-person contagion to the spread of disease in a pandemic scenario. One-way pedestrian control is a straightforward and effective measure that can be applied both indoors and outdoors and is suitable for the planning phase of public spaces as well as for daily operations. It essentially consists of assigning fixed entry and exit nodes in public places, and predefined routes between them as a means of regulating how people circulate.
 
 ## Property: has_BPRestriction
 
@@ -43,27 +22,48 @@ A number of limitations and constraints were identified for this specific measur
 •	 generates confusion among users
 •	 increases difficulty in evacuating the building in an emergency situation
 
-## Property: has_BPProblem
+## Property: has_BPTransmission
 
-This blueprint offers an easy-to-implement measure to organise the flow of people in public places (indoors and outdoors), reduce social mixing and avoid overcrowding. Staff can be trained to ensure the success of this measure.
+Airborne & Respiratory & Direct Contact
 
 ## Property: has_BPReason
 
 Person-to-person transmission is one of the main ways diseases spread. Therefore, in a pandemic scenario, better management of highly populated public places is needed to control propagation factors: ensuring minimum indoor air quality, ensuring safe and comfortable occupancy, and minimising the possibility of person-to-person contact.
 
-## Property: has_BPPermanent
+## Property: has_BPCapabilities
 
-Temporary
+DESIGN PHASE: Mobility models for operators and customers can be a useful tool for predicting people flows. If possible, larger corridors that allow traffic in both directions are preferred. 
+OPERATION PHASE: Information on one-way paths implemented (large informative screens, markings on the ground, maps with zoning criteria) is crucial. Intelligent entrances and exits (e.g. doors that only open when people are moving in the right direction) or badge controls are efficient measures to avoid unwanted flows of people in closed areas such as buildings;
 
-## Property: has_BPContext
+## Property: has_BPProblem
 
-Measures to encourage one-way user flows should be considered at the design stage where possible, although they are also appropriate for existing places. The main points where this measure should be applied are entrances and exits from public places and corridors. One-way mobility should be implemented taking into account the design of strategic routes so that people's (customers') freedom of movement is ensured, at least to some extent, and the provision of public services is not affected.
+This blueprint offers an easy-to-implement measure to organise the flow of people in public places (indoors and outdoors), reduce social mixing and avoid overcrowding. Staff can be trained to ensure the success of this measure.
 
 ## Property: has_BPScale
 
 Both
 
-## Property: has_BPTransmission
+## Property: has_BPPhase
 
-Airborne & Respiratory & Direct Contact
+Operational
+
+## Property: has_BPPermanent
+
+Temporary
+
+## Property: has_BPDescription
+
+The transmission of most contagious diseases involves a variety of aspects, the number of people encountered and how it happens while walking or running being one of them. In this sense, it is well known that appropriate user traffic control measures can drastically reduce the number of encounters and thus the contribution of person-to-person contagion to the spread of disease in a pandemic scenario. One-way pedestrian control is a straightforward and effective measure that can be applied both indoors and outdoors and is suitable for the planning phase of public spaces as well as for daily operations. It essentially consists of assigning fixed entry and exit nodes in public places, and predefined routes between them as a means of regulating how people circulate.
+
+## Property: has_BPContext
+
+Measures to encourage one-way user flows should be considered at the design stage where possible, although they are also appropriate for existing places. The main points where this measure should be applied are entrances and exits from public places and corridors. One-way mobility should be implemented taking into account the design of strategic routes so that people's (customers') freedom of movement is ensured, at least to some extent, and the provision of public services is not affected.
+
+## Property: has_BPTitle
+
+Managing user flows in building and infrastructure 
+
+## Property: has_BPType
+
+Behavioural
 

@@ -2,7 +2,7 @@
 
 # Risk: __Impact on international relations and trade deals__ (PBN__Risk_413)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Topic modelling](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_573.md)
 

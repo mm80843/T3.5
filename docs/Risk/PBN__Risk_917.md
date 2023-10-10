@@ -2,7 +2,7 @@
 
 # Risk: __Changes in use and regulation of interior public spaces__ (PBN__Risk_917)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Redesigning and reorganizing interior spaces to accommodate for social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1263.md)
 

@@ -2,7 +2,7 @@
 
 # Risk: __Spread of infection__ (PBN__Risk_2408)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Quarantines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_18.md)
 * [Testing facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_21.md)

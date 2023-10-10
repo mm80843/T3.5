@@ -2,7 +2,7 @@
 
 # Risk: __Shortage__ (PBN__Risk_3418)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Ensuring basic supplies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2342.md)
 

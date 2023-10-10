@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Quality of green space is just as important as the amount of space available, with high-quality space having more positive impacts on health and well-being.
 
 ## Property: has_MitigationSource
 
@@ -16,5 +11,8 @@ Quality of green space is just as important as the amount of space available, wi
 
 ## Property: has_MitigationTechnology
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
+
+## Property: has_MitigationPrinciple
+
+Quality of green space is just as important as the amount of space available, with high-quality space having more positive impacts on health and well-being.
 

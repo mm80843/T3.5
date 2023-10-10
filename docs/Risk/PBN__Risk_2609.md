@@ -2,7 +2,7 @@
 
 # Risk: __Lack of coordination and duplicative efforts__ (PBN__Risk_2609)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Global coordination and cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_516.md)
 

@@ -2,11 +2,11 @@
 
 # Technology: __rigorous testing__ (PBN__Technology_2033)
 
-## Property: has_TechnologyRisk
-
-* [Safety concerns with alternative ventilator designs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2405.md)
-
 ## Property: has_TechnologyID
 
 * [Q1003030](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1003030.md)
+
+## Property: has_TechnologyRisk
+
+* [Safety concerns with alternative ventilator designs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2405.md)
 

@@ -2,15 +2,14 @@
 
 # Stakeholder: __Worker in outdoor environment__ (PBN__Stakeholder_1730)
 
-## Property: has_StakeholderGroup
+## Property: has_StakeholderSubgroup
 
-* [Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_2.md)
 
 ## Property: has_StakeholderID
 
 * [Q758780](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q758780.md)
 
-## Property: has_StakeholderSubgroup
+## Property: has_StakeholderGroup
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_7.md)
+* [Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_2.md)
 

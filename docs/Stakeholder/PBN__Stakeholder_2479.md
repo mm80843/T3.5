@@ -2,15 +2,15 @@
 
 # Stakeholder: __urban population in area where invasive mosquito species are spreading__ (PBN__Stakeholder_2479)
 
-## Property: has_StakeholderGroup
+## Property: has_StakeholderSubgroup
 
-* [Community Stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_8.md)
+* [Residents](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_72.md)
 
 ## Property: has_StakeholderID
 
 * [Q446911](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q446911.md)
 
-## Property: has_StakeholderSubgroup
+## Property: has_StakeholderGroup
 
-* [Residents](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_72.md)
+* [Community Stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_8.md)
 

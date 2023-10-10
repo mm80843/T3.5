@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Testing a large number of individuals to identify and isolate infected cases
 
 ## Property: has_MitigationSource
 
@@ -18,4 +13,8 @@ Testing a large number of individuals to identify and isolate infected cases
 
 * [testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_610.md)
 * [laboratory facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3513.md)
+
+## Property: has_MitigationPrinciple
+
+Testing a large number of individuals to identify and isolate infected cases
 

@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Measuring people flow using video cameras and beam sensors.
 
 ## Property: has_MitigationSource
 
@@ -18,4 +13,8 @@ Measuring people flow using video cameras and beam sensors.
 
 * [video cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3681.md)
 * [beam sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3682.md)
+
+## Property: has_MitigationPrinciple
+
+Measuring people flow using video cameras and beam sensors.
 

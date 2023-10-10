@@ -2,11 +2,11 @@
 
 # Technology: __enhanced surveillance and monitoring systems__ (PBN__Technology_606)
 
-## Property: has_TechnologyRisk
-
-* [Rebound in transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1388.md)
-
 ## Property: has_TechnologyID
 
 * [Q2161551](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2161551.md)
+
+## Property: has_TechnologyRisk
+
+* [Rebound in transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1388.md)
 

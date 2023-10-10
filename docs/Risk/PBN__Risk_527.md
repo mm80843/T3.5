@@ -2,7 +2,7 @@
 
 # Risk: __Lack of disaster management protocols for pandemics__ (PBN__Risk_527)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Adoption of pandemic preparedness protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_738.md)
 

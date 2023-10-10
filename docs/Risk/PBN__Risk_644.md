@@ -2,7 +2,7 @@
 
 # Risk: __Negative physical effects of quarantine and social distancing__ (PBN__Risk_644)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Home-based exercises and physical activity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_894.md)
 

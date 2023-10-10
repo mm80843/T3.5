@@ -2,11 +2,11 @@
 
 # RiskMitigation: __Implementing proper sanitation measures__ (PBN__RiskMitigation_888)
 
-## Property: has_MitigationBenefit
-
-* [Reduced transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_207.md)
-
 ## Property: has_MitigationRisk
 
 * [Contagious disease outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_641.md)
+
+## Property: has_MitigationBenefit
+
+* [Reduced transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_207.md)
 

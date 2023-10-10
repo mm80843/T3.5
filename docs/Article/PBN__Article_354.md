@@ -2,9 +2,9 @@
 
 # Article: __li_how_2022__ (PBN__Article_354)
 
-## Property: has_ArticleTitle
+## Property: has_ArticleDOI
 
-How the 5G Enabled the COVID-19 Pandemic Prevention and Control: Materiality, Affordance, and (De-)Spatialization
+10.3390/ijerph19158965
 
 ## Property: has_ArticleYear
 
@@ -16,7 +16,7 @@ How the 5G Enabled the COVID-19 Pandemic Prevention and Control: Materiality, Af
 * [chamola_comprehensive_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_313.md)
 * [siriwardhana_role_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_9.md)
 
-## Property: has_ArticleDOI
+## Property: has_ArticleTitle
 
-10.3390/ijerph19158965
+How the 5G Enabled the COVID-19 Pandemic Prevention and Control: Materiality, Affordance, and (De-)Spatialization
 

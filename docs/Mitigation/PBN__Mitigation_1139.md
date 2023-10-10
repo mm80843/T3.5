@@ -6,15 +6,14 @@
 
 * [Infectious disease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2938.md)
 
-## Property: has_MitigationPrinciple
-
-Provides protection from any infectious disease, including COVID-19
-
 ## Property: has_MitigationSource
 
 * [lodder_sars-cov-2_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_70.md)
 
 ## Property: has_MitigationTechnology
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
+
+## Property: has_MitigationPrinciple
+
+Provides protection from any infectious disease, including COVID-19
 

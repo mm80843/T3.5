@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Facilitates access to exercise programs through television and social media platforms, encouraging individuals to engage in physical activity while staying at home
 
 ## Property: has_MitigationSource
 
@@ -18,4 +13,8 @@ Facilitates access to exercise programs through television and social media plat
 
 * [internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3058.md)
 * [television](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3912.md)
+
+## Property: has_MitigationPrinciple
+
+Facilitates access to exercise programs through television and social media platforms, encouraging individuals to engage in physical activity while staying at home
 

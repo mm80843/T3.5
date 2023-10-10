@@ -2,7 +2,7 @@
 
 # Risk: __Financial impacts__ (PBN__Risk_553)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Financial support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_780.md)
 

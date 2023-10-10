@@ -6,13 +6,13 @@
 
 * [Faecal-oral transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1333.md)
 
-## Property: has_TechnologyID
-
-* [Q268534](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q268534.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Hygiene and Sanitation Practices and Protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_60.md)
+
+## Property: has_TechnologyID
+
+* [Q268534](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q268534.md)
 
 ## Property: has_StakeholderGroup
 

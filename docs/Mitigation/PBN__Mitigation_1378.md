@@ -4,12 +4,7 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 * [Spread of Contagious Disease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3227.md)
-
-## Property: has_MitigationPrinciple
-
-Reduce the spread of respiratory droplets from infected individuals to others, especially in situations where physical distancing is challenging.
 
 ## Property: has_MitigationSource
 
@@ -19,6 +14,9 @@ Reduce the spread of respiratory droplets from infected individuals to others, e
 
 ## Property: has_MitigationTechnology
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 * [face masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_342.md)
+
+## Property: has_MitigationPrinciple
+
+Reduce the spread of respiratory droplets from infected individuals to others, especially in situations where physical distancing is challenging.
 

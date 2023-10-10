@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Enables virtual consultations and diagnoses, reducing the need for in-person visits and minimizing the risk of exposure.
 
 ## Property: has_MitigationSource
 
@@ -18,4 +13,8 @@ Enables virtual consultations and diagnoses, reducing the need for in-person vis
 
 * [iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_96.md)
 * [telecommunication technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3060.md)
+
+## Property: has_MitigationPrinciple
+
+Enables virtual consultations and diagnoses, reducing the need for in-person visits and minimizing the risk of exposure.
 

@@ -2,7 +2,7 @@
 
 # Stakeholder: __individuals traveling during pandemic__ (PBN__Stakeholder_1080)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Social Risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_85.md)
 

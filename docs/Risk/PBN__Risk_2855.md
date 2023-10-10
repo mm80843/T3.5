@@ -2,7 +2,7 @@
 
 # Risk: __Challenges in promoting low-carbon policies in Member States__ (PBN__Risk_2855)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Instituting changes to state aid laws to promote low-carbon strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1003.md)
 

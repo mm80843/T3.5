@@ -2,15 +2,14 @@
 
 # Technology: __Crisis management protocols__ (PBN__Technology_2509)
 
-## Property: has_StakeholderGroup
-
-* [Enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_7.md)
-
 ## Property: has_StakeholderSubgroup
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_7.md)
 
 ## Property: has_TechnologyID
 
 * [Q1141276](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1141276.md)
+
+## Property: has_StakeholderGroup
+
+* [Enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_7.md)
 

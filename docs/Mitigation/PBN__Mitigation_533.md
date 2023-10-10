@@ -5,11 +5,6 @@
 ## Property: has_MitigationRisk
 
 * [Droplet transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_253.md)
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Maintain social distance and decrease droplet transmission by limiting human-to-human interactions, especially in small businesses.
 
 ## Property: has_MitigationSource
 
@@ -23,4 +18,8 @@ Maintain social distance and decrease droplet transmission by limiting human-to-
 * [barriers such as plexiglass](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3288.md)
 * [shields](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3505.md)
 * [physical barrier materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4099.md)
+
+## Property: has_MitigationPrinciple
+
+Maintain social distance and decrease droplet transmission by limiting human-to-human interactions, especially in small businesses.
 

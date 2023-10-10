@@ -2,16 +2,16 @@
 
 # Stakeholder: __healthcare worker__ (PBN__Stakeholder_1855)
 
-## Property: has_StakeholderGroup
+## Property: has_StakeholderSubgroup
 
-* [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
+* [Healthcare Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_45.md)
 
 ## Property: has_StakeholderID
 
 * [Q11974939](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q11974939.md)
 * [Q59283400](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q59283400.md)
 
-## Property: has_StakeholderSubgroup
+## Property: has_StakeholderGroup
 
-* [Healthcare Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_45.md)
+* [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
 

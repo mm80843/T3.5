@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Maintaining optimal indoor temperatures to create a comfortable and healthy environment that supports immune system function and reduces the risk of transmission.
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Maintaining optimal indoor temperatures to create a comfortable and healthy envi
 ## Property: has_MitigationTechnology
 
 * [hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_185.md)
+
+## Property: has_MitigationPrinciple
+
+Maintaining optimal indoor temperatures to create a comfortable and healthy environment that supports immune system function and reduces the risk of transmission.
 

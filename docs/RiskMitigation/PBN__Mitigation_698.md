@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Deploy a continuous IEQ monitoring system using wireless sensors for comprehensive understanding of indoor environment performance
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Deploy a continuous IEQ monitoring system using wireless sensors for comprehensi
 ## Property: has_MitigationTechnology
 
 * [continuous monitoring system based on wireless sensor network](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3392.md)
+
+## Property: has_MitigationPrinciple
+
+Deploy a continuous IEQ monitoring system using wireless sensors for comprehensive understanding of indoor environment performance
 

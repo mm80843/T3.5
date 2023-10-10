@@ -6,13 +6,13 @@
 
 * [Misinformation and ’infodemic’](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1990.md)
 
-## Property: has_TechnologyID
-
-* [Q1401274](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1401274.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Advocacy and Lobbying Efforts](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_43.md)
+
+## Property: has_TechnologyID
+
+* [Q1401274](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1401274.md)
 
 ## Property: has_StakeholderGroup
 

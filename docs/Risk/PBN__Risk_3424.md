@@ -2,7 +2,7 @@
 
 # Risk: __Workplace transformation__ (PBN__Risk_3424)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Adaptation to remote work technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2359.md)
 

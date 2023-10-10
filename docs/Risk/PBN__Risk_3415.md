@@ -2,7 +2,7 @@
 
 # Risk: __Low precision__ (PBN__Risk_3415)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Entity alignment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2308.md)
 

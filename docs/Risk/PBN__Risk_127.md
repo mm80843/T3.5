@@ -2,7 +2,7 @@
 
 # Risk: __Poor lighting__ (PBN__Risk_127)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Enhanced lighting design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_151.md)
 

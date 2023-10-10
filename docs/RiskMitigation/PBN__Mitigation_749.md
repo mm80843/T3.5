@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Visualize and assess the alternative designs and lifecycle cost of building components
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Visualize and assess the alternative designs and lifecycle cost of building comp
 ## Property: has_MitigationTechnology
 
 * [bim software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3425.md)
+
+## Property: has_MitigationPrinciple
+
+Visualize and assess the alternative designs and lifecycle cost of building components
 

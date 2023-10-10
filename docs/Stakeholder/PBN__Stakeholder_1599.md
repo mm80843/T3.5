@@ -6,7 +6,7 @@
 
 * [Environmental and Living Conditions](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_98.md)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Noise and inconvenience of personal air-purifying shields](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2399.md)
 

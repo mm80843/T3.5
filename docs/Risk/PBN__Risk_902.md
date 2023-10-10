@@ -2,7 +2,7 @@
 
 # Risk: __Challenges of new__ (PBN__Risk_902)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Use SIO design pattern](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1244.md)
 

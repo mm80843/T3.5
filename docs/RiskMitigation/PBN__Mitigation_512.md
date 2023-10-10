@@ -6,10 +6,6 @@
 
 * [Privacy, ethics, and legal concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2605.md)
 
-## Property: has_MitigationPrinciple
-
-Monitor and analyze sewage to measure the collective activities and health status of entire populations
-
 ## Property: has_MitigationSource
 
 * [daughton_wastewater_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_213.md)
@@ -18,4 +14,8 @@ Monitor and analyze sewage to measure the collective activities and health statu
 
 * [sewage monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3279.md)
 * [analytical chemistry](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3280.md)
+
+## Property: has_MitigationPrinciple
+
+Monitor and analyze sewage to measure the collective activities and health status of entire populations
 

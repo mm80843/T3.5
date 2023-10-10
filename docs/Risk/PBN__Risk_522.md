@@ -2,7 +2,7 @@
 
 # Risk: __Limited access to public green spaces__ (PBN__Risk_522)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Presence of indoor plants](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_729.md)
 * [Sunlight in the home](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_730.md)

@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Purification of indoor air in isolation wards using air disinfectors based on plasma technology
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Purification of indoor air in isolation wards using air disinfectors based on pl
 ## Property: has_MitigationTechnology
 
 * [air disinfector based on plasma](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4415.md)
+
+## Property: has_MitigationPrinciple
+
+Purification of indoor air in isolation wards using air disinfectors based on plasma technology
 

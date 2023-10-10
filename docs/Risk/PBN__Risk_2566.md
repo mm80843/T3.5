@@ -2,7 +2,7 @@
 
 # Risk: __Resistance to change__ (PBN__Risk_2566)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Increase in off-site construction and engineering](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_418.md)
 * [Revisions in density and compact design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_420.md)

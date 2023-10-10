@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Working remotely minimizes interpersonal contact and reduces the risk of transmission in workplaces.
 
 ## Property: has_MitigationSource
 
@@ -18,4 +13,8 @@ Working remotely minimizes interpersonal contact and reduces the risk of transmi
 
 * [telecommunication technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3060.md)
 * [internet connection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4022.md)
+
+## Property: has_MitigationPrinciple
+
+Working remotely minimizes interpersonal contact and reduces the risk of transmission in workplaces.
 

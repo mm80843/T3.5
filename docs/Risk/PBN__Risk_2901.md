@@ -2,7 +2,7 @@
 
 # Risk: __Inadequate healthcare capacity__ (PBN__Risk_2901)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Strengthened healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1069.md)
 

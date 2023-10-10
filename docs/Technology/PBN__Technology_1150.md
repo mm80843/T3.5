@@ -6,13 +6,13 @@
 
 * [High positivity rate](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_540.md)
 
-## Property: has_TechnologyID
-
-* [Q4202277](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4202277.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Enforcement and Regulation Measures](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_158.md)
+
+## Property: has_TechnologyID
+
+* [Q4202277](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4202277.md)
 
 ## Property: has_StakeholderGroup
 

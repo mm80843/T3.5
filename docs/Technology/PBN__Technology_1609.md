@@ -2,11 +2,11 @@
 
 # Technology: __policy support__ (PBN__Technology_1609)
 
-## Property: has_TechnologyRisk
-
-* [Negative impact on renewable energy sector](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2113.md)
-
 ## Property: has_TechnologyID
 
 * [Q7209689](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7209689.md)
+
+## Property: has_TechnologyRisk
+
+* [Negative impact on renewable energy sector](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2113.md)
 

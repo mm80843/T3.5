@@ -2,7 +2,7 @@
 
 # Risk: __Requires continuous monitoring__ (PBN__Risk_3446)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Monitoring data sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2408.md)
 

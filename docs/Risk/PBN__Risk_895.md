@@ -2,7 +2,7 @@
 
 # Risk: __Psychological distress in general population__ (PBN__Risk_895)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Ultrabrief psychological interventions (UBPI)](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1237.md)
 

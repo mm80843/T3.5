@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Applying multilevel logistic regression models can help identify associations and variations in HIV prevalence among different demographic groups and geographic regions
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Applying multilevel logistic regression models can help identify associations an
 ## Property: has_MitigationTechnology
 
 * [statistical analysis software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3333.md)
+
+## Property: has_MitigationPrinciple
+
+Applying multilevel logistic regression models can help identify associations and variations in HIV prevalence among different demographic groups and geographic regions
 

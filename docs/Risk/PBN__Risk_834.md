@@ -2,7 +2,7 @@
 
 # Risk: __Impact on persons with disabilities__ (PBN__Risk_834)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Ensure access to information and support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1141.md)
 

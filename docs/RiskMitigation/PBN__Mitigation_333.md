@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Detects the presence of airborne viruses to provide early warning and protection against infection.
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Detects the presence of airborne viruses to provide early warning and protection
 ## Property: has_MitigationTechnology
 
 * [smart facemask technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3167.md)
+
+## Property: has_MitigationPrinciple
+
+Detects the presence of airborne viruses to provide early warning and protection against infection.
 

@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Utilize existing ontologies to build upon established knowledge
 
 ## Property: has_MitigationSource
 
@@ -18,4 +13,8 @@ Utilize existing ontologies to build upon established knowledge
 
 * [ontology lookup service (ols)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3981.md)
 * [open biological and biomedical ontology (obo) foundry](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3982.md)
+
+## Property: has_MitigationPrinciple
+
+Utilize existing ontologies to build upon established knowledge
 

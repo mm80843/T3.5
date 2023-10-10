@@ -6,13 +6,13 @@
 
 * [and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2288.md)
 
-## Property: has_TechnologyID
-
-* [Q162297](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q162297.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Cleaning Supplies and Hygiene Practices](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_61.md)
+
+## Property: has_TechnologyID
+
+* [Q162297](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q162297.md)
 
 ## Property: has_StakeholderGroup
 

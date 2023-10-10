@@ -6,10 +6,6 @@
 
 * [Lack of standardisation, data format limitations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2633.md)
 
-## Property: has_MitigationPrinciple
-
-Facilitate peer review, data deposition, and sharing, promote reproducibility
-
 ## Property: has_MitigationSource
 
 * [dron_data_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_208.md)
@@ -17,4 +13,8 @@ Facilitate peer review, data deposition, and sharing, promote reproducibility
 ## Property: has_MitigationTechnology
 
 * [open research platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3318.md)
+
+## Property: has_MitigationPrinciple
+
+Facilitate peer review, data deposition, and sharing, promote reproducibility
 

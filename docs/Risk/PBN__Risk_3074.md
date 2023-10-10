@@ -2,7 +2,7 @@
 
 # Risk: __Technological limitations, lack of access to technology__ (PBN__Risk_3074)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Online Education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1446.md)
 

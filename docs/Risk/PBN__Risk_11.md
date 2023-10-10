@@ -2,7 +2,7 @@
 
 # Risk: __Deterioration of biodiversity__ (PBN__Risk_11)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Prevent tropical deforestation and limit wildlife trade](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_15.md)
 

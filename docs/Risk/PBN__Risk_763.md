@@ -2,7 +2,7 @@
 
 # Risk: __Lack of trustable data on COVID-19 spread__ (PBN__Risk_763)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Use of blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1053.md)
 

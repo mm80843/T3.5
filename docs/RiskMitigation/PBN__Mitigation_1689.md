@@ -6,10 +6,6 @@
 
 * [Compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3219.md)
 
-## Property: has_MitigationPrinciple
-
-Staying informed about the latest regulations and guidelines to ensure adherence and adapt mitigation measures accordingly
-
 ## Property: has_MitigationSource
 
 * [raoufi_identifying_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_220.md)
@@ -17,4 +13,8 @@ Staying informed about the latest regulations and guidelines to ensure adherence
 ## Property: has_MitigationTechnology
 
 * [news and information sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4011.md)
+
+## Property: has_MitigationPrinciple
+
+Staying informed about the latest regulations and guidelines to ensure adherence and adapt mitigation measures accordingly
 

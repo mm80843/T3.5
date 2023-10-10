@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Biosensors are cost-effective sensing systems that can provide rapid and accurate detection of viruses in wastewater using various detection methods.
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Biosensors are cost-effective sensing systems that can provide rapid and accurat
 ## Property: has_MitigationTechnology
 
 * [electrochemical reactions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3078.md)
+
+## Property: has_MitigationPrinciple
+
+Biosensors are cost-effective sensing systems that can provide rapid and accurate detection of viruses in wastewater using various detection methods.
 

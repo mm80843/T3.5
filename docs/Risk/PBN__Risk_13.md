@@ -2,7 +2,7 @@
 
 # Risk: __Social inequalities exacerbated by lockdowns__ (PBN__Risk_13)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Ensure equitable access to remote work and education](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_17.md)
 

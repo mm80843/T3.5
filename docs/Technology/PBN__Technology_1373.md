@@ -2,11 +2,11 @@
 
 # Technology: __use energy-efficient lighting and ventilation systems__ (PBN__Technology_1373)
 
-## Property: has_TechnologyRisk
-
-* [Artificially lit and ventilated spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1959.md)
-
 ## Property: has_TechnologyID
 
 * [Q584049](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q584049.md)
+
+## Property: has_TechnologyRisk
+
+* [Artificially lit and ventilated spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1959.md)
 

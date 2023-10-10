@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Real-time data collection on clusters of febrile illness for early detection of COVID-19 outbreaks
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Real-time data collection on clusters of febrile illness for early detection of 
 ## Property: has_MitigationTechnology
 
 * [digital thermometers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4442.md)
+
+## Property: has_MitigationPrinciple
+
+Real-time data collection on clusters of febrile illness for early detection of COVID-19 outbreaks
 

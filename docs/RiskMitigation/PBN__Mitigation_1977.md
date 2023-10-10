@@ -6,10 +6,6 @@
 
 * [Disruption of activities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3311.md)
 
-## Property: has_MitigationPrinciple
-
-Restrict access to public spaces and buildings to limit the potential for transmission
-
 ## Property: has_MitigationSource
 
 * [sovacool_contextualizing_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_123.md)
@@ -17,4 +13,8 @@ Restrict access to public spaces and buildings to limit the potential for transm
 ## Property: has_MitigationTechnology
 
 * [access control technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4178.md)
+
+## Property: has_MitigationPrinciple
+
+Restrict access to public spaces and buildings to limit the potential for transmission
 

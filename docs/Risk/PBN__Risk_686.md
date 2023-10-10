@@ -2,7 +2,7 @@
 
 # Risk: __Security and ownership of wearable data__ (PBN__Risk_686)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Decentralizing data ownership and establishing secure transmission of biometric data](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_950.md)
 

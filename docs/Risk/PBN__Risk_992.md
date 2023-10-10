@@ -2,7 +2,7 @@
 
 # Risk: __Smart healthcare__ (PBN__Risk_992)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Patient tracking](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1411.md)
 * [Logistical tracking](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1412.md)

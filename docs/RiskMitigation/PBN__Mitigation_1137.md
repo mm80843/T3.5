@@ -6,10 +6,6 @@
 
 * [Misinformation, panic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2936.md)
 
-## Property: has_MitigationPrinciple
-
-Provide accurate and timely information to the public to promote understanding and prevent panic
-
 ## Property: has_MitigationSource
 
 * [li_seeing_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_25.md)
@@ -18,4 +14,8 @@ Provide accurate and timely information to the public to promote understanding a
 
 * [public awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_102.md)
 * [media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3640.md)
+
+## Property: has_MitigationPrinciple
+
+Provide accurate and timely information to the public to promote understanding and prevent panic
 

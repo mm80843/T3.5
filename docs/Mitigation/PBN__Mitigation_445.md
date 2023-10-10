@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Participating in dance activities to increase physical activity and improve emotional well-being.
 
 ## Property: has_MitigationSource
 
@@ -18,4 +13,8 @@ Participating in dance activities to increase physical activity and improve emot
 
 * [music](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3234.md)
 * [online dance classes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3235.md)
+
+## Property: has_MitigationPrinciple
+
+Participating in dance activities to increase physical activity and improve emotional well-being.
 

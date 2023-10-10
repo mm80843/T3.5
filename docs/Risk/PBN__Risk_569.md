@@ -2,7 +2,7 @@
 
 # Risk: __Slow adoption of new technologies in buildings sector__ (PBN__Risk_569)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [SAMBA monitoring system](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_797.md)
 

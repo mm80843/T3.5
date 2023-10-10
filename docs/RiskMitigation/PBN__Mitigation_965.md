@@ -6,10 +6,6 @@
 
 * [Spread of false information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_848.md)
 
-## Property: has_MitigationPrinciple
-
-Stop the spread of false information and improve public trust in reliable sources
-
 ## Property: has_MitigationSource
 
 * [kaya_changes_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_185.md)
@@ -17,4 +13,8 @@ Stop the spread of false information and improve public trust in reliable source
 ## Property: has_MitigationTechnology
 
 * [social media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_47.md)
+
+## Property: has_MitigationPrinciple
+
+Stop the spread of false information and improve public trust in reliable sources
 

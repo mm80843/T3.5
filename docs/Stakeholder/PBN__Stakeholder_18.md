@@ -2,6 +2,11 @@
 
 # Stakeholder: __animals__ (PBN__Stakeholder_18)
 
+## Risk affecting this stakeholder
+
+* [Zoonotic infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1016.md)
+* [Environmental degradation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1343.md)
+
 ## Property: has_StakeholderID
 
 * [Q729](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q729.md)
@@ -9,9 +14,4 @@
 ## Property: has_BenefitForPeople
 
 * [Reduced risk of future zoonotic outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_23.md)
-
-## Property: has_SubjectRisk
-
-* [Zoonotic infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1016.md)
-* [Environmental degradation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1343.md)
 

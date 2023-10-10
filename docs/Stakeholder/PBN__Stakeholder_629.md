@@ -2,29 +2,7 @@
 
 # Stakeholder: __none__ (PBN__Stakeholder_629)
 
-## Property: has_OwnerRisk
-
-* [Reduction in tourism revenue for PCAs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_105.md)
-* [Emerging infectious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_159.md)
-* [Privacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1097.md)
-* [Increase in local opportunity cost for PCA-adjacent communities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1300.md)
-* [Lack of effective pharmaceutical response](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1602.md)
-* [Lack of international strategy including built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1604.md)
-* [Shift in public priorities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1609.md)
-* [Interoperability and access to real-time data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1751.md)
-* [Privacy and security of data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1754.md)
-* [Vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1764.md)
-* [Domestic violence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1766.md)
-* [Air recirculation in ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1777.md)
-* [Cybersecurity threats](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1910.md)
-* [Limited access to software and hardware](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1997.md)
-* [Globalization and travel](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2081.md)
-* [Cybersecurity risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2087.md)
-* [associated](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2323.md)
-* [Variability and specificity of PCR assays](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2339.md)
-* [Presence of other coronaviruses in wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2340.md)
-
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Privacy and security concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_25.md)
 * [Reduction in tourism revenue for PCAs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_105.md)
@@ -46,4 +24,26 @@
 * [Increase in default risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2159.md)
 * [Lack of financial inclusion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2160.md)
 * [Impact of COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2161.md)
+
+## Property: has_OwnerRisk
+
+* [Reduction in tourism revenue for PCAs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_105.md)
+* [Emerging infectious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_159.md)
+* [Privacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1097.md)
+* [Increase in local opportunity cost for PCA-adjacent communities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1300.md)
+* [Lack of effective pharmaceutical response](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1602.md)
+* [Lack of international strategy including built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1604.md)
+* [Shift in public priorities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1609.md)
+* [Interoperability and access to real-time data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1751.md)
+* [Privacy and security of data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1754.md)
+* [Vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1764.md)
+* [Domestic violence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1766.md)
+* [Air recirculation in ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1777.md)
+* [Cybersecurity threats](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1910.md)
+* [Limited access to software and hardware](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1997.md)
+* [Globalization and travel](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2081.md)
+* [Cybersecurity risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2087.md)
+* [associated](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2323.md)
+* [Variability and specificity of PCR assays](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2339.md)
+* [Presence of other coronaviruses in wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2340.md)
 

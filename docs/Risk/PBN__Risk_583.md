@@ -2,7 +2,7 @@
 
 # Risk: __Limited understanding of human behavior__ (PBN__Risk_583)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Analysis of root causes of behavior change](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_816.md)
 

@@ -6,10 +6,6 @@
 
 * [Pathogen propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3348.md)
 
-## Property: has_MitigationPrinciple
-
-Proper air filtration to eliminate suspended viruses
-
 ## Property: has_MitigationSource
 
 * [tokazhanov_assessment_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_51.md)
@@ -19,4 +15,8 @@ Proper air filtration to eliminate suspended viruses
 * [hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_674.md)
 * [uv germicidal irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_225.md)
 * [photocatalytic oxidation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1744.md)
+
+## Property: has_MitigationPrinciple
+
+Proper air filtration to eliminate suspended viruses
 

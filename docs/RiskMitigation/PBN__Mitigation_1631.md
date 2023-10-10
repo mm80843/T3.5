@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Enables real-time remote control and predictive maintenance of water processes
 
 ## Property: has_MitigationSource
 
@@ -18,4 +13,8 @@ Enables real-time remote control and predictive maintenance of water processes
 
 * [ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_278.md)
 * [digital twins](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3960.md)
+
+## Property: has_MitigationPrinciple
+
+Enables real-time remote control and predictive maintenance of water processes
 

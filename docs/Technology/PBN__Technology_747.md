@@ -2,11 +2,11 @@
 
 # Technology: __touchless entry systems__ (PBN__Technology_747)
 
-## Property: has_TechnologyRisk
-
-* [Risk of transmission in public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1480.md)
-
 ## Property: has_TechnologyID
 
 * [Q6887300](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6887300.md)
+
+## Property: has_TechnologyRisk
+
+* [Risk of transmission in public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1480.md)
 

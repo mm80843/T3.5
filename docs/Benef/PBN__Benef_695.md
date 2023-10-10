@@ -6,16 +6,16 @@
 
 Addressing socioeconomic factors during the pandemic helps mitigate income disparities
 
+## Property: has_BenefSource
+
+* [quantin_covid-19_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_136.md)
+
+## Description of Benefits pertaining to Beneficiaries
+
+* [Improved social cohesion, reduced societal inequalities](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_744.md)
+
 ## Property: has_Beneficiary
 
 * [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
 * [societal population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_289.md)
-
-## Property: has_BenefReturn
-
-* [Improved social cohesion, reduced societal inequalities](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_744.md)
-
-## Property: has_BenefSource
-
-* [quantin_covid-19_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_136.md)
 

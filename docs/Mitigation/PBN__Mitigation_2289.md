@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Maintain a suitable pressure difference between spaces to prevent the transfer of contamination
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Maintain a suitable pressure difference between spaces to prevent the transfer o
 ## Property: has_MitigationTechnology
 
 * [building design and ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4390.md)
+
+## Property: has_MitigationPrinciple
+
+Maintain a suitable pressure difference between spaces to prevent the transfer of contamination
 

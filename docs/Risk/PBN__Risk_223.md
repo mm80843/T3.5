@@ -2,7 +2,7 @@
 
 # Risk: __Transmission of SARS-CoV-2 through respiratory droplets__ (PBN__Risk_223)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Staff respiratory specimens testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_267.md)
 

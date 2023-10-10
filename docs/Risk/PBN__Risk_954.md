@@ -2,7 +2,7 @@
 
 # Risk: __Inadequate circadian regulation in bedrooms__ (PBN__Risk_954)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Bedrooms designed for sleep](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1335.md)
 

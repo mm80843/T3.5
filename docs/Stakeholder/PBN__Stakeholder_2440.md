@@ -2,15 +2,14 @@
 
 # Stakeholder: __Ministry of Hajj and Umrah__ (PBN__Stakeholder_2440)
 
-## Property: has_StakeholderGroup
+## Property: has_StakeholderSubgroup
 
-* [National Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_7.md)
 
 ## Property: has_StakeholderID
 
 * [Q12250954](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q12250954.md)
 
-## Property: has_StakeholderSubgroup
+## Property: has_StakeholderGroup
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_7.md)
+* [National Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_7.md)
 

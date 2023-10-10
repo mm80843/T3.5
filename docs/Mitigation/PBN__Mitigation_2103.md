@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Health checks conducted on migrants (referred to as the "floating population") to identify potential COVID-19 cases and prevent their spread
 
 ## Property: has_MitigationSource
 
@@ -16,5 +11,8 @@ Health checks conducted on migrants (referred to as the "floating population") t
 
 ## Property: has_MitigationTechnology
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
+
+## Property: has_MitigationPrinciple
+
+Health checks conducted on migrants (referred to as the "floating population") to identify potential COVID-19 cases and prevent their spread
 

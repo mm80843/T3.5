@@ -2,7 +2,7 @@
 
 # Risk: __Lack of capacity in traditional hospitals during a pandemic__ (PBN__Risk_441)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Conversion of public venues into makeshift hospitals](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_611.md)
 

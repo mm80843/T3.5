@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Widespread vaccination can reduce the overall prevalence of contagious diseases in a community, reducing the potential for transmission.
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Widespread vaccination can reduce the overall prevalence of contagious diseases 
 ## Property: has_MitigationTechnology
 
 * [vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_828.md)
+
+## Property: has_MitigationPrinciple
+
+Widespread vaccination can reduce the overall prevalence of contagious diseases in a community, reducing the potential for transmission.
 

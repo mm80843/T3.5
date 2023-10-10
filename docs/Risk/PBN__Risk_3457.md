@@ -2,7 +2,7 @@
 
 # Risk: __Poor infection control practices__ (PBN__Risk_3457)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_192.md)
 * [Wearing masks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_218.md)

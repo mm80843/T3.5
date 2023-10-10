@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Minimize physical contact and ensure social distancing. Use surveillance systems to detect and alert non-compliance.
 
 ## Property: has_MitigationSource
 
@@ -20,4 +15,8 @@ Minimize physical contact and ensure social distancing. Use surveillance systems
 * [ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_278.md)
 * [drones](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_864.md)
 * [machine learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3004.md)
+
+## Property: has_MitigationPrinciple
+
+Minimize physical contact and ensure social distancing. Use surveillance systems to detect and alert non-compliance.
 

@@ -6,10 +6,6 @@
 
 * [Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_974.md)
 
-## Property: has_MitigationPrinciple
-
-Use facial recognition and thermal screening technology to detect individuals with symptoms of infectious diseases
-
 ## Property: has_MitigationSource
 
 * [abideen_mitigation_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_200.md)
@@ -17,4 +13,8 @@ Use facial recognition and thermal screening technology to detect individuals wi
 ## Property: has_MitigationTechnology
 
 * [artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_358.md)
+
+## Property: has_MitigationPrinciple
+
+Use facial recognition and thermal screening technology to detect individuals with symptoms of infectious diseases
 

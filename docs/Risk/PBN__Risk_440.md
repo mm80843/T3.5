@@ -2,7 +2,7 @@
 
 # Risk: __Minimization of the number of people in indoor environments__ (PBN__Risk_440)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Reduced occupancy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_610.md)
 

@@ -2,7 +2,7 @@
 
 # Stakeholder: __researchers in wastewater analysis__ (PBN__Stakeholder_691)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Complexity of wastewater matrix](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_634.md)
 * [Discrepancies in PCR results among laboratories](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1148.md)

@@ -2,7 +2,7 @@
 
 # Risk: __Limited pre-event preparations__ (PBN__Risk_804)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Preparing and providing smart city infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1105.md)
 

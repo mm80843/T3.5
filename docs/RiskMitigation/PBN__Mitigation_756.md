@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Implementing travel restrictions and quarantine measures to limit the spread of contagious diseases
 
 ## Property: has_MitigationSource
 
@@ -18,4 +13,8 @@ Implementing travel restrictions and quarantine measures to limit the spread of 
 
 * [travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_36.md)
 * [quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2914.md)
+
+## Property: has_MitigationPrinciple
+
+Implementing travel restrictions and quarantine measures to limit the spread of contagious diseases
 

@@ -2,7 +2,7 @@
 
 # Risk: __Secondhand Smoke Exposure__ (PBN__Risk_3250)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Active Smoke-Free Policies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1780.md)
 

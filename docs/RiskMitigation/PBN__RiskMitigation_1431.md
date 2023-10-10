@@ -2,11 +2,10 @@
 
 # RiskMitigation: __AI-powered diagnosis applications__ (PBN__RiskMitigation_1431)
 
+## Property: has_MitigationRisk
+
+
 ## Property: has_MitigationBenefit
 
 * [Early detection of carriers](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1400.md)
-
-## Property: has_MitigationRisk
-
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 

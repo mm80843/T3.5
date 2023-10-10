@@ -2,7 +2,7 @@
 
 # Risk: __Gatherings__ (PBN__Risk_3215)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Implementing remote working](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1685.md)
 

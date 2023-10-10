@@ -2,7 +2,7 @@
 
 # Risk: __Disjointed insights and privacy concerns__ (PBN__Risk_2449)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Standardization of protocols for seamless communication and privacy protection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_115.md)
 

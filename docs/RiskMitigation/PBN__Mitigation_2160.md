@@ -6,10 +6,6 @@
 
 * [Comfort and efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3358.md)
 
-## Property: has_MitigationPrinciple
-
-Enable better communication, access to services, and remote therapies
-
 ## Property: has_MitigationSource
 
 * [tokazhanov_how_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_67.md)
@@ -18,4 +14,8 @@ Enable better communication, access to services, and remote therapies
 
 * [high-speed internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4282.md)
 * [remote service platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4286.md)
+
+## Property: has_MitigationPrinciple
+
+Enable better communication, access to services, and remote therapies
 

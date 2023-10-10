@@ -2,7 +2,7 @@
 
 # Risk: __Lack of awareness, misinformation__ (PBN__Risk_2918)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1091.md)
 

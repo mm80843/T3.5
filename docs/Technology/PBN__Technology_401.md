@@ -2,11 +2,11 @@
 
 # Technology: __iot device manufacturers__ (PBN__Technology_401)
 
-## Property: has_TechnologyRisk
-
-* [IoT device vulnerabilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1276.md)
-
 ## Property: has_TechnologyID
 
 * [Q251212](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q251212.md)
+
+## Property: has_TechnologyRisk
+
+* [IoT device vulnerabilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1276.md)
 

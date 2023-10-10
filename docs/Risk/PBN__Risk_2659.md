@@ -2,7 +2,7 @@
 
 # Risk: __Scarcity of research__ (PBN__Risk_2659)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Search for evidence beyond conventional types](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_610.md)
 

@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Ensuring optimal indoor humidity levels to reduce the survival and transmission of infectious particles, mitigating the risk of disease transmission.
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Ensuring optimal indoor humidity levels to reduce the survival and transmission 
 ## Property: has_MitigationTechnology
 
 * [humidity control systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1165.md)
+
+## Property: has_MitigationPrinciple
+
+Ensuring optimal indoor humidity levels to reduce the survival and transmission of infectious particles, mitigating the risk of disease transmission.
 

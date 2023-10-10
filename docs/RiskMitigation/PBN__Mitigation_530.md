@@ -6,10 +6,6 @@
 
 * [Airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_252.md)
 
-## Property: has_MitigationPrinciple
-
-Increase air exchanges by expanding the operation time of the ventilation system, disable demand-controlled ventilation, stop air recirculation, increase the use of outdoor air, and use high-efficiency air filters.
-
 ## Property: has_MitigationSource
 
 * [dehghani_hierarchy_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_73.md)
@@ -17,4 +13,8 @@ Increase air exchanges by expanding the operation time of the ventilation system
 ## Property: has_MitigationTechnology
 
 * [ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_139.md)
+
+## Property: has_MitigationPrinciple
+
+Increase air exchanges by expanding the operation time of the ventilation system, disable demand-controlled ventilation, stop air recirculation, increase the use of outdoor air, and use high-efficiency air filters.
 

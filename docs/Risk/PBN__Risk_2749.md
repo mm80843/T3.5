@@ -2,7 +2,7 @@
 
 # Risk: __Development of a crisis plan__ (PBN__Risk_2749)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [COVID-19 crisis management plan](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_797.md)
 

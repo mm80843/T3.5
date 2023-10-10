@@ -2,7 +2,7 @@
 
 # Risk: __COVID-19 outbreaks in workplace settings__ (PBN__Risk_887)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Universal asymptomatic RT-PCR testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1222.md)
 * [Surveillance measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1223.md)

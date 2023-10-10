@@ -2,7 +2,7 @@
 
 # Risk: __Close proximity__ (PBN__Risk_3140)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Practical PPE rules](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1563.md)
 

@@ -6,13 +6,13 @@
 
 * [Image Risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_87.md)
 
-## Property: has_TechnologyID
-
-* [Q3689421](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3689421.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Digital and Online Marketing](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_44.md)
+
+## Property: has_TechnologyID
+
+* [Q3689421](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3689421.md)
 
 ## Property: has_StakeholderGroup
 

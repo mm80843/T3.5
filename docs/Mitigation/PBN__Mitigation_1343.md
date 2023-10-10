@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Adjust the attendance of occupants effectively based on climatic conditions to minimize energy consumption of HVAC systems
 
 ## Property: has_MitigationSource
 
@@ -19,4 +14,8 @@ Adjust the attendance of occupants effectively based on climatic conditions to m
 * [optimization algorithms (nsga-ii](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3808.md)
 * [mopso](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3809.md)
 * [spea2)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3810.md)
+
+## Property: has_MitigationPrinciple
+
+Adjust the attendance of occupants effectively based on climatic conditions to minimize energy consumption of HVAC systems
 

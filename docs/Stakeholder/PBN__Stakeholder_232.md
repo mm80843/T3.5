@@ -2,6 +2,11 @@
 
 # Stakeholder: __civil society organizations__ (PBN__Stakeholder_232)
 
+## Risk affecting this stakeholder
+
+* [Inadequate collaboration and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1361.md)
+* [Lack of public participation and citizen empowerment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2102.md)
+
 ## Property: has_OwnerRisk
 
 * [Surveillance and privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_877.md)
@@ -15,9 +20,4 @@
 * [Facilitating coordination and multidisciplinary approach](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_542.md)
 * [Better crisis management](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1200.md)
 * [Efficient resource utilization](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1203.md)
-
-## Property: has_SubjectRisk
-
-* [Inadequate collaboration and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1361.md)
-* [Lack of public participation and citizen empowerment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2102.md)
 

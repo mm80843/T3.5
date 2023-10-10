@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Facilitating social support and connection during quarantine can mitigate the negative psychological effects by reducing feelings of isolation and providing emotional support.
 
 ## Property: has_MitigationSource
 
@@ -16,5 +11,8 @@ Facilitating social support and connection during quarantine can mitigate the ne
 
 ## Property: has_MitigationTechnology
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
+
+## Property: has_MitigationPrinciple
+
+Facilitating social support and connection during quarantine can mitigate the negative psychological effects by reducing feelings of isolation and providing emotional support.
 

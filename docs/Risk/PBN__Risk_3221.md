@@ -2,7 +2,7 @@
 
 # Risk: __Limited access to fresh produce__ (PBN__Risk_3221)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Urban Farming](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1691.md)
 

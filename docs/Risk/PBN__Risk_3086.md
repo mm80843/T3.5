@@ -2,7 +2,7 @@
 
 # Risk: __Increased screen time, potential for addiction, social isolation, cybersecurity__ (PBN__Risk_3086)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Virtual Gaming](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1458.md)
 

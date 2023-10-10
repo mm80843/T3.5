@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Analyzes large quantities of data from wearables to identify physiological signals and predict infections or diseases. Can be combined with self-reported symptoms for more accurate predictions.
 
 ## Property: has_MitigationSource
 
@@ -19,4 +14,8 @@ Analyzes large quantities of data from wearables to identify physiological signa
 
 * [artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_358.md)
 * [machine learning algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3165.md)
+
+## Property: has_MitigationPrinciple
+
+Analyzes large quantities of data from wearables to identify physiological signals and predict infections or diseases. Can be combined with self-reported symptoms for more accurate predictions.
 

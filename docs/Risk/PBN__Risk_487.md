@@ -2,7 +2,7 @@
 
 # Risk: __Social inequalities and income disparities__ (PBN__Risk_487)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Addressing socioeconomic factors](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_687.md)
 

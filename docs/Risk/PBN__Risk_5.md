@@ -2,7 +2,7 @@
 
 # Risk: __Inconsistent social distancing recommendations__ (PBN__Risk_5)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Universal occupant exposure model](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_9.md)
 

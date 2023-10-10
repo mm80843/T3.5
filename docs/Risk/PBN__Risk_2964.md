@@ -2,7 +2,7 @@
 
 # Risk: __Support life-saving equipment__ (PBN__Risk_2964)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Electrical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1215.md)
 

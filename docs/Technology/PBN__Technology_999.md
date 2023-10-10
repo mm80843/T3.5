@@ -6,13 +6,13 @@
 
 * [SARS-CoV-2 in wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1659.md)
 
-## Property: has_TechnologyID
-
-* [Q336191](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q336191.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Testing and Surveillance](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_25.md)
+
+## Property: has_TechnologyID
+
+* [Q336191](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q336191.md)
 
 ## Property: has_StakeholderGroup
 

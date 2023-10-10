@@ -2,7 +2,7 @@
 
 # Risk: __Vulnerable populations facing poverty and hunger__ (PBN__Risk_517)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Establishing social welfare services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_724.md)
 

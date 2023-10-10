@@ -2,7 +2,7 @@
 
 # Risk: __Future city planning__ (PBN__Risk_996)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Restriction on crowding](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1417.md)
 * [Increased sanitation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1418.md)

@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Creating an environment that allows for effective non-verbal communication, while maintaining a safe physical distance
 
 ## Property: has_MitigationSource
 
@@ -20,4 +15,8 @@ Creating an environment that allows for effective non-verbal communication, whil
 * [neutral background](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4331.md)
 * [absence of noise](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4332.md)
 * [short distance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4333.md)
+
+## Property: has_MitigationPrinciple
+
+Creating an environment that allows for effective non-verbal communication, while maintaining a safe physical distance
 

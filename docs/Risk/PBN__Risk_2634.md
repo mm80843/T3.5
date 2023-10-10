@@ -2,7 +2,7 @@
 
 # Risk: __Incomplete infrastructure, coordination challenges__ (PBN__Risk_2634)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Pragmatic clinical trials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_571.md)
 

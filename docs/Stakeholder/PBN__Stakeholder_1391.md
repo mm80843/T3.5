@@ -2,7 +2,7 @@
 
 # Stakeholder: __large households__ (PBN__Stakeholder_1391)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Population characteristics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2076.md)
 

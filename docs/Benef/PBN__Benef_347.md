@@ -6,15 +6,15 @@
 
 Reduced risk of virus spread through waste
 
-## Property: has_Beneficiary
-
-* [occupants and waste management services](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_168.md)
-
-## Property: has_BenefReturn
-
-* [Improved health and safety of occupants and waste management efficiency](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_370.md)
-
 ## Property: has_BenefSource
 
 * [tokazhanov_how_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_67.md)
+
+## Description of Benefits pertaining to Beneficiaries
+
+* [Improved health and safety of occupants and waste management efficiency](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_370.md)
+
+## Property: has_Beneficiary
+
+* [occupants and waste management services](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_168.md)
 

@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Larviciding involves the use of chemical larvicides to kill mosquito larvae in their breeding habitats. This can be done through the application of larvicides to water bodies or through the use of biological larvicides like predator species. The goal is to reduce or eliminate the immature mosquito stages and prevent adult mosquito emergence.
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Larviciding involves the use of chemical larvicides to kill mosquito larvae in t
 ## Property: has_MitigationTechnology
 
 * [chemical larvicides](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4454.md)
+
+## Property: has_MitigationPrinciple
+
+Larviciding involves the use of chemical larvicides to kill mosquito larvae in their breeding habitats. This can be done through the application of larvicides to water bodies or through the use of biological larvicides like predator species. The goal is to reduce or eliminate the immature mosquito stages and prevent adult mosquito emergence.
 

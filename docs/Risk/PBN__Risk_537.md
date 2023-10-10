@@ -2,7 +2,7 @@
 
 # Risk: __Avoidance of news about__ (PBN__Risk_537)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Provide accurate](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_761.md)
 

@@ -2,7 +2,7 @@
 
 # Risk: __Tissue tropism__ (PBN__Risk_428)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [ACE2 and TMPRSS2 inhibitors](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_595.md)
 * [Thrombotomodulin](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_596.md)

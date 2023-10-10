@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Individuals should follow all government norms including washing hands, not touching their faces, adopting respiratory practices, maintaining physical distance, and self-isolating.
 
 ## Property: has_MitigationSource
 
@@ -16,5 +11,8 @@ Individuals should follow all government norms including washing hands, not touc
 
 ## Property: has_MitigationTechnology
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
+
+## Property: has_MitigationPrinciple
+
+Individuals should follow all government norms including washing hands, not touching their faces, adopting respiratory practices, maintaining physical distance, and self-isolating.
 

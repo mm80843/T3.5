@@ -2,7 +2,7 @@
 
 # Risk: __Lack of communication and information sharing among stakeholders__ (PBN__Risk_3102)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Regional and global information exchange](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1487.md)
 

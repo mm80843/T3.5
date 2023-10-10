@@ -7,10 +7,6 @@
 * [Spread of infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2408.md)
 * [Community spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2409.md)
 
-## Property: has_MitigationPrinciple
-
-Quarantine or isolation of infected individuals helps prevent the spread of infection to others and reduces the transmission of pathogens within the community.
-
 ## Property: has_MitigationSource
 
 * [bayoudhi_overview_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_204.md)
@@ -18,6 +14,9 @@ Quarantine or isolation of infected individuals helps prevent the spread of infe
 
 ## Property: has_MitigationTechnology
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 * [separation of infected individuals from others](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3090.md)
+
+## Property: has_MitigationPrinciple
+
+Quarantine or isolation of infected individuals helps prevent the spread of infection to others and reduces the transmission of pathogens within the community.
 

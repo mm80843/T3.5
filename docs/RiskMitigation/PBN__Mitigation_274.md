@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Supplying clean air to the room to decrease the risk of infections and reduce the concentration of contaminants through increased air change rates
 
 ## Property: has_MitigationSource
 
@@ -19,4 +14,8 @@ Supplying clean air to the room to decrease the risk of infections and reduce th
 * [natural](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3104.md)
 * [mechanical](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3105.md)
 * [and hybrid ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3106.md)
+
+## Property: has_MitigationPrinciple
+
+Supplying clean air to the room to decrease the risk of infections and reduce the concentration of contaminants through increased air change rates
 

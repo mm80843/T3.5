@@ -2,7 +2,7 @@
 
 # Risk: __Higher COVID-19 mortality rate__ (PBN__Risk_2682)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Active transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_677.md)
 * [Increase in green space](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_676.md)

@@ -2,16 +2,11 @@
 
 # Stakeholder: __general public__ (PBN__Stakeholder_29)
 
-## Property: has_OwnerRisk
-
-* [Indirect transmission via contaminated surfaces (fomites)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1243.md)
-* [Individual responsibility for sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1863.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Public](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_147.md)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Spread of contagious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_20.md)
 * [Lack of awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_49.md)
@@ -161,6 +156,15 @@
 
 * [Q2388316](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2388316.md)
 
+## Property: has_StakeholderGroup
+
+* [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
+
+## Property: has_OwnerRisk
+
+* [Indirect transmission via contaminated surfaces (fomites)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1243.md)
+* [Individual responsibility for sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1863.md)
+
 ## Property: has_BenefitForPeople
 
 * [Reduced infection risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_29.md)
@@ -273,8 +277,4 @@
 * [Food security and sustainability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1406.md)
 * [Harmonized messaging](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1411.md)
 * [Reduced misinformation dissemination](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1414.md)
-
-## Property: has_StakeholderGroup
-
-* [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
 

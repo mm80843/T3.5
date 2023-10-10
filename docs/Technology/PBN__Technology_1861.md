@@ -2,11 +2,11 @@
 
 # Technology: __artificial intelligence for content filtering__ (PBN__Technology_1861)
 
-## Property: has_TechnologyRisk
-
-* [Spread of rumors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2280.md)
-
 ## Property: has_TechnologyID
 
 * [Q6031077](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6031077.md)
+
+## Property: has_TechnologyRisk
+
+* [Spread of rumors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2280.md)
 

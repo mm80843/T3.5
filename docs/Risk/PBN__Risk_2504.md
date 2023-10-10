@@ -2,7 +2,7 @@
 
 # Risk: __Poor air and surface disinfection__ (PBN__Risk_2504)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Ultraviolet germicidal irradiation (UVGI)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_215.md)
 

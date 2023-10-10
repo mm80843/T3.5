@@ -6,10 +6,6 @@
 
 * [None](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2827.md)
 
-## Property: has_MitigationPrinciple
-
-Developing scalable and innovative ventilators to address the high demand and improve patient care.
-
 ## Property: has_MitigationSource
 
 * [zhao_supporting_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_266.md)
@@ -17,4 +13,8 @@ Developing scalable and innovative ventilators to address the high demand and im
 ## Property: has_MitigationTechnology
 
 * [automation technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4522.md)
+
+## Property: has_MitigationPrinciple
+
+Developing scalable and innovative ventilators to address the high demand and improve patient care.
 

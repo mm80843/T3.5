@@ -2,7 +2,7 @@
 
 # Risk: __Insufficient local engagement and authority in conservation__ (PBN__Risk_3344)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Promote local investment and leadership](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2096.md)
 

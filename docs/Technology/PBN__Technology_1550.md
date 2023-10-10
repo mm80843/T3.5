@@ -6,14 +6,14 @@
 
 * [Urbanization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2074.md)
 
-## Property: has_TechnologyID
-
-* [Q2161551](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2161551.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Surveillance and Monitoring Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_147.md)
 * [Smart City and Home Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_106.md)
+
+## Property: has_TechnologyID
+
+* [Q2161551](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2161551.md)
 
 ## Property: has_StakeholderGroup
 

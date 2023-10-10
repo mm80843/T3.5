@@ -2,7 +2,7 @@
 
 # Risk: __Shocks in global value chains__ (PBN__Risk_251)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Improve risk preparedness](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_300.md)
 * [Prioritizing shipments of essential goods](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_301.md)

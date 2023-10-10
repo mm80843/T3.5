@@ -6,13 +6,13 @@
 
 * [Risk of mental health issues during and after a pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2121.md)
 
-## Property: has_TechnologyID
-
-* [Q3555418](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3555418.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Online Counseling and Therapy Platforms](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_65.md)
+
+## Property: has_TechnologyID
+
+* [Q3555418](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3555418.md)
 
 ## Property: has_StakeholderGroup
 

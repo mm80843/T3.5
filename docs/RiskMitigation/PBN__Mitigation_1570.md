@@ -6,10 +6,6 @@
 
 * [Knowledge gap](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3145.md)
 
-## Property: has_MitigationPrinciple
-
-Provide training on COVID-19 signs and symptoms, social distancing, hygiene practices, and PPE usage
-
 ## Property: has_MitigationSource
 
 * [pamidimukkala_impacts_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_49.md)
@@ -17,4 +13,8 @@ Provide training on COVID-19 signs and symptoms, social distancing, hygiene prac
 ## Property: has_MitigationTechnology
 
 * [training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_82.md)
+
+## Property: has_MitigationPrinciple
+
+Provide training on COVID-19 signs and symptoms, social distancing, hygiene practices, and PPE usage
 

@@ -6,10 +6,6 @@
 
 * [Personal comfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3355.md)
 
-## Property: has_MitigationPrinciple
-
-Regulate noise insulation and acoustics in the building to enhance personal comfort
-
 ## Property: has_MitigationSource
 
 * [ujikawa_how_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_172.md)
@@ -18,4 +14,8 @@ Regulate noise insulation and acoustics in the building to enhance personal comf
 
 * [soundproof materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4358.md)
 * [acoustic design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4359.md)
+
+## Property: has_MitigationPrinciple
+
+Regulate noise insulation and acoustics in the building to enhance personal comfort
 

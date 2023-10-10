@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Incorporating green areas into building design helps to provide access to nature and ecosystemic services within urban areas.
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Incorporating green areas into building design helps to provide access to nature
 ## Property: has_MitigationTechnology
 
 * [urban design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3430.md)
+
+## Property: has_MitigationPrinciple
+
+Incorporating green areas into building design helps to provide access to nature and ecosystemic services within urban areas.
 

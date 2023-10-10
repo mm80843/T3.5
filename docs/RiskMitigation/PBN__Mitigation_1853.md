@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Providing special access and spaces for vulnerable individuals to minimize their exposure to potential sources of infection and ensure their safety and well-being.
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Providing special access and spaces for vulnerable individuals to minimize their
 ## Property: has_MitigationTechnology
 
 * [accessibility measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4109.md)
+
+## Property: has_MitigationPrinciple
+
+Providing special access and spaces for vulnerable individuals to minimize their exposure to potential sources of infection and ensure their safety and well-being.
 

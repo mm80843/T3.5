@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Covering mouth and nose with a tissue or the inside of the elbow when coughing or sneezing to prevent respiratory droplets from spreading
 
 ## Property: has_MitigationSource
 
@@ -16,5 +11,8 @@ Covering mouth and nose with a tissue or the inside of the elbow when coughing o
 
 ## Property: has_MitigationTechnology
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
+
+## Property: has_MitigationPrinciple
+
+Covering mouth and nose with a tissue or the inside of the elbow when coughing or sneezing to prevent respiratory droplets from spreading
 

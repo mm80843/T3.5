@@ -2,7 +2,7 @@
 
 # Risk: __Inter-city variations in influenza-like outbreaks__ (PBN__Risk_285)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Designing cities with evenly distributed activity hubs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_360.md)
 

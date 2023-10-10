@@ -4,12 +4,7 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 * [Contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1882.md)
-
-## Property: has_MitigationPrinciple
-
-Removing or killing viruses on frequently touched surfaces to reduce the risk of transmission
 
 ## Property: has_MitigationSource
 
@@ -21,4 +16,8 @@ Removing or killing viruses on frequently touched surfaces to reduce the risk of
 * [disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_413.md)
 * [cleaning agents](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3292.md)
 * [sodium dichloroisocyanurate solution containing 500 mg/l chlorine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3302.md)
+
+## Property: has_MitigationPrinciple
+
+Removing or killing viruses on frequently touched surfaces to reduce the risk of transmission
 

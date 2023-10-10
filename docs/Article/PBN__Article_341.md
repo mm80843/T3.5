@@ -2,9 +2,9 @@
 
 # Article: __umair_impact_2021__ (PBN__Article_341)
 
-## Property: has_ArticleTitle
+## Property: has_ArticleDOI
 
-Impact of COVID-19 on IoT Adoption in Healthcare, Smart Homes, Smart Buildings, Smart Cities, Transportation and Industrial IoT
+10.3390/s21113838
 
 ## Property: has_ArticleYear
 
@@ -24,7 +24,7 @@ Impact of COVID-19 on IoT Adoption in Healthcare, Smart Homes, Smart Buildings, 
 * [guo_review_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_45.md)
 * [buonanno_far-uvc_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_182.md)
 
-## Property: has_ArticleDOI
+## Property: has_ArticleTitle
 
-10.3390/s21113838
+Impact of COVID-19 on IoT Adoption in Healthcare, Smart Homes, Smart Buildings, Smart Cities, Transportation and Industrial IoT
 

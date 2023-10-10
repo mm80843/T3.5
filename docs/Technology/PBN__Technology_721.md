@@ -7,13 +7,13 @@
 * [Inadequate sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1399.md)
 * [Insufficient Sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1456.md)
 
-## Property: has_TechnologyID
-
-* [Q10863071](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q10863071.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Touchless and Barrier Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_166.md)
+
+## Property: has_TechnologyID
+
+* [Q10863071](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q10863071.md)
 
 ## Property: has_StakeholderGroup
 

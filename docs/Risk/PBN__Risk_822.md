@@ -2,7 +2,7 @@
 
 # Risk: __Psychological and mental health challenges during COVID-19__ (PBN__Risk_822)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Virtual reality psychological treatment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1128.md)
 

@@ -2,7 +2,7 @@
 
 # Risk: __Disruption of Work and Education__ (PBN__Risk_3228)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Remote Work and Distance Learning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1714.md)
 

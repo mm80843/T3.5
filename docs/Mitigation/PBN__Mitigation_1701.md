@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Spreads awareness and disseminates reliable information related to COVID-19 in the state of Kerala, India.
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Spreads awareness and disseminates reliable information related to COVID-19 in t
 ## Property: has_MitigationTechnology
 
 * [mobile app](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3748.md)
+
+## Property: has_MitigationPrinciple
+
+Spreads awareness and disseminates reliable information related to COVID-19 in the state of Kerala, India.
 

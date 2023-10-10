@@ -2,7 +2,7 @@
 
 # Risk: __Limitations of current crowd models in representing disease transmission mechanisms__ (PBN__Risk_9)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Universal occupant exposure model](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_9.md)
 

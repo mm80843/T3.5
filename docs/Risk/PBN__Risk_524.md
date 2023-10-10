@@ -2,7 +2,7 @@
 
 # Risk: __Disruption of supply chain__ (PBN__Risk_524)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Standardization of protocols and networks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_735.md)
 * [Diversifying suppliers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_941.md)

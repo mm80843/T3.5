@@ -2,7 +2,7 @@
 
 # Risk: __Risk of loan defaults__ (PBN__Risk_3076)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Emergency Loan Guarantees](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1448.md)
 

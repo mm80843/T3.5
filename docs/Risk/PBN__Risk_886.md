@@ -2,7 +2,7 @@
 
 # Risk: __Lockdown Impact on Mental Health__ (PBN__Risk_886)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Housing design strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1217.md)
 * [Enhance indoor qualities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1218.md)

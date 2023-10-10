@@ -6,15 +6,15 @@
 
 Effective drainage and waste management reduce the risk of water stagnation and the breeding of disease-carrying vectors
 
-## Property: has_Beneficiary
-
-* [poor urban communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_276.md)
-
-## Property: has_BenefReturn
-
-* [Private investors investing in drainage systems can benefit from increased property values and reduced risks of water damage.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_714.md)
-
 ## Property: has_BenefSource
 
 * [alabaster_global_2016](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_132.md)
+
+## Description of Benefits pertaining to Beneficiaries
+
+* [Private investors investing in drainage systems can benefit from increased property values and reduced risks of water damage.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_714.md)
+
+## Property: has_Beneficiary
+
+* [poor urban communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_276.md)
 

@@ -2,11 +2,6 @@
 
 # Technology: __communication technology__ (PBN__Technology_546)
 
-## Property: has_TechnologyRisk
-
-* [Spread of misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_396.md)
-* [Lack of awareness and education on disease prevention](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1653.md)
-
 ## Property: has_TechnologyMitigation
 
 * [Remote work](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_310.md)
@@ -17,4 +12,9 @@
 ## Property: has_TechnologyID
 
 * [Q1780543](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1780543.md)
+
+## Property: has_TechnologyRisk
+
+* [Spread of misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_396.md)
+* [Lack of awareness and education on disease prevention](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1653.md)
 

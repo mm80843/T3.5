@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Damaging the DNA/RNA of pathogens with UVGI light, making them unable to reproduce and thus reducing the risk of infection in indoor spaces
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Damaging the DNA/RNA of pathogens with UVGI light, making them unable to reprodu
 ## Property: has_MitigationTechnology
 
 * [uvgi lamps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3107.md)
+
+## Property: has_MitigationPrinciple
+
+Damaging the DNA/RNA of pathogens with UVGI light, making them unable to reproduce and thus reducing the risk of infection in indoor spaces
 

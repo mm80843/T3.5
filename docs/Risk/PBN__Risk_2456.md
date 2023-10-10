@@ -2,7 +2,7 @@
 
 # Risk: __Transmission of germs__ (PBN__Risk_2456)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Proper Handwashing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_136.md)
 

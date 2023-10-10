@@ -2,10 +2,6 @@
 
 # Technology: __big data__ (PBN__Technology_276)
 
-## Property: has_TechnologyRisk
-
-* [Lack of effective technical systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1197.md)
-
 ## Property: has_TechnologyMitigation
 
 * [Digital Transformation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_432.md)
@@ -22,4 +18,8 @@
 ## Property: has_TechnologyID
 
 * [Q858810](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q858810.md)
+
+## Property: has_TechnologyRisk
+
+* [Lack of effective technical systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1197.md)
 

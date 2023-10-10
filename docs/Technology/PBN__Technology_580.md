@@ -6,13 +6,13 @@
 
 * [Reliance on digital platforms](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1371.md)
 
-## Property: has_TechnologyID
-
-* [Q733553](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q733553.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Communication and Data Sharing](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_3.md)
+
+## Property: has_TechnologyID
+
+* [Q733553](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q733553.md)
 
 ## Property: has_StakeholderGroup
 

@@ -2,7 +2,7 @@
 
 # Risk: __Inaccessible built environment__ (PBN__Risk_3125)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Creation of space for walking and cycling](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1536.md)
 

@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Increasing the physical distance between spaces to reduce the transmission of contagious diseases
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Increasing the physical distance between spaces to reduce the transmission of co
 ## Property: has_MitigationTechnology
 
 * [spatial layout and design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3567.md)
+
+## Property: has_MitigationPrinciple
+
+Increasing the physical distance between spaces to reduce the transmission of contagious diseases
 

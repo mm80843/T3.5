@@ -2,7 +2,7 @@
 
 # Risk: __Lack of reliable information on COVID-19 transmission__ (PBN__Risk_352)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Implementation of AI technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_463.md)
 

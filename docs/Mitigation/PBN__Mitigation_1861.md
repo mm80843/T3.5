@@ -6,10 +6,6 @@
 
 * [Emerging disease threats](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3269.md)
 
-## Property: has_MitigationPrinciple
-
-Using early warning systems that monitor environmental and climatic conditions can help predict and respond to emerging disease threats in specific areas.
-
 ## Property: has_MitigationSource
 
 * [semenza_prototype_2015](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_212.md)
@@ -18,4 +14,8 @@ Using early warning systems that monitor environmental and climatic conditions c
 
 * [monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_201.md)
 * [data analysis tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_554.md)
+
+## Property: has_MitigationPrinciple
+
+Using early warning systems that monitor environmental and climatic conditions can help predict and respond to emerging disease threats in specific areas.
 

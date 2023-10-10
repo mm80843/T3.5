@@ -2,7 +2,7 @@
 
 # Risk: __Transmission via close contact__ (PBN__Risk_73)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Robot-assisted temperature measurement](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_88.md)
 

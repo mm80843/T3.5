@@ -2,7 +2,7 @@
 
 # Risk: __Contaminated Surfaces__ (PBN__Risk_3284)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Disinfection and Sanitization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1912.md)
 

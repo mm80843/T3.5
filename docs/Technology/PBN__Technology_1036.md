@@ -2,11 +2,11 @@
 
 # Technology: __accessible paths__ (PBN__Technology_1036)
 
-## Property: has_TechnologyRisk
-
-* [Limited accessibility to UGS](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1691.md)
-
 ## Property: has_TechnologyID
 
 * [Q7248414](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7248414.md)
+
+## Property: has_TechnologyRisk
+
+* [Limited accessibility to UGS](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1691.md)
 

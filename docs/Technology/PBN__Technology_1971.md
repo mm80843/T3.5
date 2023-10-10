@@ -6,13 +6,13 @@
 
 * [Limited access to testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2366.md)
 
-## Property: has_TechnologyID
-
-* [Q6752328](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6752328.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Diagnostic and Testing Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_12.md)
+
+## Property: has_TechnologyID
+
+* [Q6752328](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6752328.md)
 
 ## Property: has_StakeholderGroup
 

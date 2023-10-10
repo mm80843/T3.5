@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Engaging in a variety of exercises (aerobic, balance, resistance, etc.) to improve physical and mental health.
 
 ## Property: has_MitigationSource
 
@@ -19,4 +14,8 @@ Engaging in a variety of exercises (aerobic, balance, resistance, etc.) to impro
 * [exercise equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3238.md)
 * [fitness apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3239.md)
 * [online fitness programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3240.md)
+
+## Property: has_MitigationPrinciple
+
+Engaging in a variety of exercises (aerobic, balance, resistance, etc.) to improve physical and mental health.
 

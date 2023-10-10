@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Ensures proper collection and disposal of hazardous waste created during the COVID-19 pandemic
 
 ## Property: has_MitigationSource
 
@@ -16,5 +11,8 @@ Ensures proper collection and disposal of hazardous waste created during the COV
 
 ## Property: has_MitigationTechnology
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
+
+## Property: has_MitigationPrinciple
+
+Ensures proper collection and disposal of hazardous waste created during the COVID-19 pandemic
 

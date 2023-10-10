@@ -2,7 +2,7 @@
 
 # Risk: __EU1: Energy use__ (PBN__Risk_193)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Access to backup energy sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_233.md)
 

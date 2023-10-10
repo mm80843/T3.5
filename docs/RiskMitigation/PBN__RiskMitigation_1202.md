@@ -2,11 +2,11 @@
 
 # RiskMitigation: __Community action networks__ (PBN__RiskMitigation_1202)
 
-## Property: has_MitigationBenefit
-
-* [Support for vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1202.md)
-
 ## Property: has_MitigationRisk
 
 * [Inadequate support for vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_878.md)
+
+## Property: has_MitigationBenefit
+
+* [Support for vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1202.md)
 

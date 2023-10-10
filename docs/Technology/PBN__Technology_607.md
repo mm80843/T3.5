@@ -2,10 +2,6 @@
 
 # Technology: __financial support__ (PBN__Technology_607)
 
-## Property: has_TechnologyRisk
-
-* [Negative impact of interventions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1389.md)
-
 ## Property: has_TechnologyMitigation
 
 * [Rental assistance programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_270.md)
@@ -16,4 +12,8 @@
 ## Property: has_TechnologyID
 
 * [Q70471322](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q70471322.md)
+
+## Property: has_TechnologyRisk
+
+* [Negative impact of interventions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1389.md)
 

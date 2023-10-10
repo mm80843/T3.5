@@ -2,7 +2,7 @@
 
 # Stakeholder: __visitors to ugs__ (PBN__Stakeholder_1118)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Inadequate maintenance of UGS](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1693.md)
 

@@ -4,14 +4,9 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 * [Disease spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2651.md)
 * [Difficulty in collaboration and communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2799.md)
 * [None](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2827.md)
-
-## Property: has_MitigationPrinciple
-
-Ensures individuals maintain a safe distance from each other to reduce the risk of virus transmission
 
 ## Property: has_MitigationSource
 
@@ -22,7 +17,10 @@ Ensures individuals maintain a safe distance from each other to reduce the risk 
 
 ## Property: has_MitigationTechnology
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 * [physical barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_343.md)
 * [floor markings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_360.md)
+
+## Property: has_MitigationPrinciple
+
+Ensures individuals maintain a safe distance from each other to reduce the risk of virus transmission
 

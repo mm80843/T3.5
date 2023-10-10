@@ -2,11 +2,11 @@
 
 # Technology: __income support measures__ (PBN__Technology_1512)
 
-## Property: has_TechnologyRisk
-
-* [Unemployment and underemployment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2038.md)
-
 ## Property: has_TechnologyID
 
 * [Q70471322](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q70471322.md)
+
+## Property: has_TechnologyRisk
+
+* [Unemployment and underemployment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2038.md)
 

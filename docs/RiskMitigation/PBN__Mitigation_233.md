@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-LOC technologies enable the development of portable and user-friendly devices for virus detection, making it possible to detect viruses in wastewater.
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ LOC technologies enable the development of portable and user-friendly devices fo
 ## Property: has_MitigationTechnology
 
 * [loc](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3077.md)
+
+## Property: has_MitigationPrinciple
+
+LOC technologies enable the development of portable and user-friendly devices for virus detection, making it possible to detect viruses in wastewater.
 

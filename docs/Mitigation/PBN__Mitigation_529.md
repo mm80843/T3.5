@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Promoting hygienic behaviors such as proper hand hygiene and respiratory etiquette to prevent disease transmission.
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Promoting hygienic behaviors such as proper hand hygiene and respiratory etiquet
 ## Property: has_MitigationTechnology
 
 * [education and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_748.md)
+
+## Property: has_MitigationPrinciple
+
+Promoting hygienic behaviors such as proper hand hygiene and respiratory etiquette to prevent disease transmission.
 

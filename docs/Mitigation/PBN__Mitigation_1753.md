@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Monitoring vector populations and disease incidence to prepare for and mitigate the risk of mosquito-borne disease outbreaks
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Monitoring vector populations and disease incidence to prepare for and mitigate 
 ## Property: has_MitigationTechnology
 
 * [monitoring equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3662.md)
+
+## Property: has_MitigationPrinciple
+
+Monitoring vector populations and disease incidence to prepare for and mitigate the risk of mosquito-borne disease outbreaks
 

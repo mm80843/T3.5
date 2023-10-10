@@ -8,13 +8,13 @@
 * [Inadequate patient-centered care](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2021.md)
 * [Fragmented healthcare system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2024.md)
 
-## Property: has_TechnologyID
-
-* [Q10871684](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q10871684.md)
-
 ## Property: has_StakeholderSubgroup
 
 * [Electronic Health Records and Data Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_8.md)
+
+## Property: has_TechnologyID
+
+* [Q10871684](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q10871684.md)
 
 ## Property: has_StakeholderGroup
 

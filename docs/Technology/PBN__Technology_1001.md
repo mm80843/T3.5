@@ -2,11 +2,11 @@
 
 # Technology: __gastrointestinal monitoring tools__ (PBN__Technology_1001)
 
-## Property: has_TechnologyRisk
-
-* [Enteric involvement in COVID-19 patients](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_292.md)
-
 ## Property: has_TechnologyID
 
 * [Q73218639](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q73218639.md)
+
+## Property: has_TechnologyRisk
+
+* [Enteric involvement in COVID-19 patients](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_292.md)
 

@@ -2,7 +2,7 @@
 
 # Stakeholder: __oil companies__ (PBN__Stakeholder_1213)
 
-## Property: has_SubjectRisk
+## Risk affecting this stakeholder
 
 * [Disruption in petroleum and oil industry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1809.md)
 

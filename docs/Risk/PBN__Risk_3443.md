@@ -2,7 +2,7 @@
 
 # Risk: __Future threats of new pathogens__ (PBN__Risk_3443)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Global virus surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2400.md)
 

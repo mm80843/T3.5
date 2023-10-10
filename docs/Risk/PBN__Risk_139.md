@@ -2,7 +2,7 @@
 
 # Risk: __COVID-19 spread in nursing homes__ (PBN__Risk_139)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Implementation of stricter infection control measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_165.md)
 

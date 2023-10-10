@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Disrupts traditional finance models with decentralized and transparent transaction systems
 
 ## Property: has_MitigationSource
 
@@ -17,4 +12,8 @@ Disrupts traditional finance models with decentralized and transparent transacti
 ## Property: has_MitigationTechnology
 
 * [blockchain](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_94.md)
+
+## Property: has_MitigationPrinciple
+
+Disrupts traditional finance models with decentralized and transparent transaction systems
 

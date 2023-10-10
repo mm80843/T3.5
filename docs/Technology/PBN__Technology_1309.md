@@ -2,11 +2,11 @@
 
 # Technology: __diagnostic testing technologies__ (PBN__Technology_1309)
 
-## Property: has_TechnologyRisk
-
-* [Underreporting of infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_586.md)
-
 ## Property: has_TechnologyID
 
 * [Q50430148](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q50430148.md)
+
+## Property: has_TechnologyRisk
+
+* [Underreporting of infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_586.md)
 

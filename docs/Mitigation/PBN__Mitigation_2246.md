@@ -4,11 +4,6 @@
 
 ## Property: has_MitigationRisk
 
-* [nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
-
-## Property: has_MitigationPrinciple
-
-Expediting the development and production of vaccines to prevent the spread of the disease
 
 ## Property: has_MitigationSource
 
@@ -18,4 +13,8 @@ Expediting the development and production of vaccines to prevent the spread of t
 
 * [molecular technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4369.md)
 * [supercomputing facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4370.md)
+
+## Property: has_MitigationPrinciple
+
+Expediting the development and production of vaccines to prevent the spread of the disease
 

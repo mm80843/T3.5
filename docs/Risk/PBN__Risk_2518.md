@@ -2,7 +2,7 @@
 
 # Risk: __Spread of Virus__ (PBN__Risk_2518)
 
-## Property: has_RiskMitigation
+## Mitigations of this risk
 
 * [Controlling Access Points](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_294.md)
 
