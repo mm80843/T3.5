@@ -1,12 +1,12 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_1461 
 
-# Technology: __temperature screening devices__ (PBN__Technology_1461)
+# __temperature screening devices__
 
-## Property: has_TechnologyID
-
-* [Q107194400](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q107194400.md)
-
-## Property: has_TechnologyRisk
+## Risks linked to this technology
 
 * [Concerns about health and safety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2000.md)
+
+## This Technology is identified by the following QID
+
+* [Q107194400](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q107194400.md)
 

@@ -1,8 +1,8 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [StakeholderSubgroup](https://github.com/mm80843/T3.5/tree/main/docs/StakeholderSubgroup/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [StakeholderSubgroup](https://github.com/mm80843/T3.5/tree/main/docs/StakeholderSubgroup/index.md) >> Individual ID:PBN__StakeholderSubgroup_127 
 
-# StakeholderSubgroup: __Community Leaders/Organizers__ (PBN__StakeholderSubgroup_127)
+# __Community Leaders/Organizers__
 
-## Property: has_SubgroupStakeholder
+## Stakeholders in this stakeholder subgroup
 
 * [community leaders](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_606.md)
 * [community organizers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1555.md)

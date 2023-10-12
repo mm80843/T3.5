@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_298 
 
-# Benef: __Improved public health and quality of life__ (PBN__Benef_298)
+# __Improved public health and quality of life__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Lower population densities reduce the spread of contagious diseases and enhance the livability of cities with more open spaces and less congestion.
+* [Revisiting the built environment: 10 potential development changes and paradigm shifts due to COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_59.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [cheshmehzangi_revisiting_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_59.md)
+* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Enhanced public health and quality of life attract residents and businesses, leading to increased demand for real estate and higher property values.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_316.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
+Lower population densities reduce the spread of contagious diseases and enhance the livability of cities with more open spaces and less congestion.
 

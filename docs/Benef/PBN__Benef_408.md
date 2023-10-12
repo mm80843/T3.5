@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_408 
 
-# Benef: __Preparation for changed vacation behavior__ (PBN__Benef_408)
+# __Preparation for changed vacation behavior__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Offering smaller, isolated accommodation units and more outdoor experiences can attract tourists who prioritize low-risk vacation choices and sustainability
+* [Should I Stay or Should I Go? Tourists’ COVID-19 Risk Perception and Vacation Behavior Shift](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_81.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [bratic_should_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_81.md)
+* [tourism providers and destinations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_195.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors can benefit by investing in adapting tourism offerings to meet the changing demands and preferences of tourists, leading to increased bookings and revenue.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_437.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [tourism providers and destinations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_195.md)
+Offering smaller, isolated accommodation units and more outdoor experiences can attract tourists who prioritize low-risk vacation choices and sustainability
 

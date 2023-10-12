@@ -1,15 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_184 
 
-# Benef: __Reduction in infection risk__ (PBN__Benef_184)
+# __Reduction in infection risk__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Upper-room UVGI systems effectively inactivate viruses in the air, reducing the risk of infection for building occupants.
+* [The socio-economic determinants of COVID-19: A spatial analysis of German county level data](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_40.md)
+* [A review of facilities management interventions to mitigate respiratory infections in existing buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_171.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [ehlert_socio-economic_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_40.md)
-* [zhang_review_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_171.md)
+* [residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
+* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
+* [staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_103.md)
+* [students](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_101.md)
+* [teachers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_102.md)
+* [parents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_104.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
@@ -18,12 +23,7 @@ Upper-room UVGI systems effectively inactivate viruses in the air, reducing the 
 * [Private investors would benefit from increased asset value and marketability of buildings that prioritize infection control measures.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_923.md)
 * [Private investors would benefit from increased asset value and marketability of buildings that prioritize infection control measures. They can also attract more tenants and occupants concerned about their health.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_924.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
-* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
-* [staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_103.md)
-* [students](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_101.md)
-* [teachers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_102.md)
-* [parents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_104.md)
+Upper-room UVGI systems effectively inactivate viruses in the air, reducing the risk of infection for building occupants.
 

@@ -1,8 +1,8 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__RiskMitigation_1904 
 
-# RiskMitigation: __Seek financial assistance or stimulus packages, explore cost-saving measures, diversify revenue streams.__ (PBN__RiskMitigation_1904)
+# __Seek financial assistance or stimulus packages, explore cost-saving measures, diversify revenue streams.__
 
-## Property: has_MitigationRisk
+## Risks possibly mitigated by this Mitigation
 
 * [Financial impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_599.md)
 

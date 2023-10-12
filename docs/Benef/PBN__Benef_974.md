@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_974 
 
-# Benef: __Enhanced crisis management__ (PBN__Benef_974)
+# __Enhanced crisis management__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Strengthening public health systems and crisis management can enhance the response to pandemics, leading to better preparedness, faster detection and containment, and more effective communication, thereby reducing the impact of pandemics on healthcare systems.
+* [Mitigation strategies to fight the COVID-19 pandemic—present, future and beyond](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_200.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [abideen_mitigation_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_200.md)
+* [healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_193.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Investing in strengthening public health systems and crisis management can improve the resilience of healthcare systems, reduce healthcare costs, and protect the reputation and value of healthcare institutions.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1071.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_193.md)
+Strengthening public health systems and crisis management can enhance the response to pandemics, leading to better preparedness, faster detection and containment, and more effective communication, thereby reducing the impact of pandemics on healthcare systems.
 

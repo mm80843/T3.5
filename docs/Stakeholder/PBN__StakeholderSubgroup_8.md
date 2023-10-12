@@ -1,8 +1,8 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__StakeholderSubgroup_8 
 
-# Stakeholder: __Government and Authorities__ (PBN__StakeholderSubgroup_8)
+# __Government and Authorities__
 
-## Property: has_SubgroupStakeholder
+## Stakeholders in this stakeholder subgroup
 
 * [governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
 * [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)

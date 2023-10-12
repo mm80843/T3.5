@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_1365 
 
-# Benef: __--------------------__ (PBN__Benef_1365)
+# __--------------------__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
---------------------------------------------------------------
+* [COVID-19 and regional solutions for mitigating the risk of SME finance in selected ASEAN member states](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_292.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [taghizadeh-hesary_covid-19_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_292.md)
+* [-------------------](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_314.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [--------------------------------------------------------------------](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1551.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [-------------------](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_314.md)
+--------------------------------------------------------------
 

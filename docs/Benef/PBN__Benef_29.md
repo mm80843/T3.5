@@ -1,17 +1,21 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_29 
 
-# Benef: __Reduced infection risk__ (PBN__Benef_29)
+# __Reduced infection risk__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Compact development creates physical distance between individuals, reducing the risk of infection transmission.
+* [Urban design attributes and resilience: COVID-19 evidence from New York City](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_6.md)
+* [Assessment method for new sustainability indicators providing pandemic resilience for residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_51.md)
+* [The efficacy of social distance and ventilation effectiveness in preventing COVID-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_125.md)
+* [Treating two pandemics for the price of one: Chronic and infectious disease impacts of the built and natural environment](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_174.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [yang_urban_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_6.md)
-* [tokazhanov_assessment_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_51.md)
-* [sun_efficacy_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_125.md)
-* [frank_treating_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_174.md)
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+* [urban dwellers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_26.md)
+* [residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
+* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
+* [occupants of confined spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_261.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
@@ -21,11 +25,7 @@ Compact development creates physical distance between individuals, reducing the 
 * [Private investors investing in ventilation systems would benefit from the increased safety and reduced risk of their investments being affected by outbreaks of COVID-19.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_677.md)
 * [Investing in compact development can lead to a healthier population, reducing healthcare costs and improving overall well-being.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_939.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
-* [urban dwellers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_26.md)
-* [residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
-* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
-* [occupants of confined spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_261.md)
+Compact development creates physical distance between individuals, reducing the risk of infection transmission.
 

@@ -1,8 +1,8 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_4134 
 
-# Technology: __contact tracing app__ (PBN__Technology_4134)
+# __contact tracing app__
 
-## Property: has_TechnologyMitigation
+## This Technology enables the following mitigations
 
 * [Testing and Contact Tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1736.md)
 

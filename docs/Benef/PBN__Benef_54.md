@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_54 
 
-# Benef: __Reduction of anxiety__ (PBN__Benef_54)
+# __Reduction of anxiety__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Clear information and guidelines can reduce anxiety and provide reassurance
+* [The psychological impact of COVID-19 on the mental health in the general population](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_12.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [serafini_psychological_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_12.md)
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved mental well-being and reduced stress levels](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_54.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+Clear information and guidelines can reduce anxiety and provide reassurance
 

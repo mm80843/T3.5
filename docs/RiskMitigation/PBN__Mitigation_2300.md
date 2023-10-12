@@ -1,18 +1,18 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__Mitigation_2300 
 
-# RiskMitigation: __Closure of schools and universities__ (PBN__Mitigation_2300)
-
-## Property: has_MitigationRisk
-
-
-## Property: has_MitigationSource
-
-* [walker_impact_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_65.md)
-
-## Property: has_MitigationTechnology
-
+# __Closure of schools and universities__
 
 ## Property: has_MitigationPrinciple
 
 Closing schools and universities to reduce transmission among students and staff.
+
+## Property: has_MitigationSource
+
+* [The impact of COVID-19 and strategies for mitigation and suppression in low- and middle-income countries](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_65.md)
+
+## Risks possibly mitigated by this Mitigation
+
+
+## This Mitigation is enabled by the following technologies
+
 

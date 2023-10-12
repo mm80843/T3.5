@@ -1,8 +1,8 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [StakeholderGroup](https://github.com/mm80843/T3.5/tree/main/docs/StakeholderGroup/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [StakeholderGroup](https://github.com/mm80843/T3.5/tree/main/docs/StakeholderGroup/index.md) >> Individual ID:PBN__StakeholderGroup_3 
 
-# StakeholderGroup: __Media__ (PBN__StakeholderGroup_3)
+# __Media__
 
-## Property: has_GroupStakeholder
+## Stakeholders in this stakeholder group
 
 * [media](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_231.md)
 * [communication experts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_831.md)

@@ -1,6 +1,6 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_2765 
 
-# Risk: __Transmission of disease__ (PBN__Risk_2765)
+# __Transmission of disease__
 
 ## Mitigations of this risk
 

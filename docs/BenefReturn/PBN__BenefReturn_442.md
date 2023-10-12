@@ -1,4 +1,4 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [BenefReturn](https://github.com/mm80843/T3.5/tree/main/docs/BenefReturn/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [BenefReturn](https://github.com/mm80843/T3.5/tree/main/docs/BenefReturn/index.md) >> Individual ID:PBN__BenefReturn_442 
 
-# BenefReturn: __Investing in social distancing measures helps to prevent COVID-19 outbreaks on construction sites, ensuring business continuity and protecting public health.__ (PBN__BenefReturn_442)
+# __Investing in social distancing measures helps to prevent COVID-19 outbreaks on construction sites, ensuring business continuity and protecting public health.__
 

@@ -1,6 +1,6 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_501 
 
-# Risk: __Client confidence in project completion__ (PBN__Risk_501)
+# __Client confidence in project completion__
 
 ## Mitigations of this risk
 

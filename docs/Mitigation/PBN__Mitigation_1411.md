@@ -1,19 +1,19 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1411 
 
-# Mitigation: __Disinfectant fogging systems__ (PBN__Mitigation_1411)
-
-## Property: has_MitigationRisk
-
-
-## Property: has_MitigationSource
-
-* [navaratnam_designing_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_282.md)
-
-## Property: has_MitigationTechnology
-
-* [fogging technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3857.md)
+# __Disinfectant fogging systems__
 
 ## Property: has_MitigationPrinciple
 
 Disperse fine particles of liquid disinfectant to decontaminate surfaces and air in a room or building
+
+## Property: has_MitigationSource
+
+* [Designing Post COVID-19 Buildings: Approaches for Achieving Healthy Buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_282.md)
+
+## Risks possibly mitigated by this Mitigation
+
+
+## This Mitigation is enabled by the following technologies
+
+* [fogging technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3857.md)
 

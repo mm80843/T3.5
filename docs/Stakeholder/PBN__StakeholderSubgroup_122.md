@@ -1,8 +1,8 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__StakeholderSubgroup_122 
 
-# Stakeholder: __Economic and Trade Entities__ (PBN__StakeholderSubgroup_122)
+# __Economic and Trade Entities__
 
-## Property: has_SubgroupStakeholder
+## Stakeholders in this stakeholder subgroup
 
 * [economic policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_895.md)
 * [countries and industries reliant on gvcs for foreign inputs and exports](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1244.md)

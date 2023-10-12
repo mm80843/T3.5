@@ -1,21 +1,21 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_1400 
 
-# Benef: __Early detection of carriers__ (PBN__Benef_1400)
+# __Early detection of carriers__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-AI-powered diagnosis applications can combine symptoms, wearable data, and travel history to identify carriers early on, enabling prompt isolation and treatment.
+* [Leveraging Digital Transformation Technologies to Tackle COVID-19: Proposing a Privacy-First Holistic Framework](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_297.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [arpaci_leveraging_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_297.md)
+* [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
+* [healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_32.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved treatment success rates, reduced risk of virus transmission](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1589.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
-* [healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_32.md)
+AI-powered diagnosis applications can combine symptoms, wearable data, and travel history to identify carriers early on, enabling prompt isolation and treatment.
 

@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_556 
 
-# Benef: __Reduced congestion and pollution__ (PBN__Benef_556)
+# __Reduced congestion and pollution__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Decreased traffic congestion, improved air quality
+* [Mobility Behaviour in View of the Impact of the COVID-19 Pandemic—Public Transport Users in Gdansk Case Study](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_113.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [przybylowski_mobility_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_113.md)
+* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved health and quality of life, positive impact on environment and sustainability](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_610.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
+Decreased traffic congestion, improved air quality
 

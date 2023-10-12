@@ -1,21 +1,21 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_371 
 
-# Benef: __Reduction of airborne virus transmission__ (PBN__Benef_371)
+# __Reduction of airborne virus transmission__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-High-efficiency air filters, such as HEPA filters, can effectively capture and remove small particles, including viruses, from the air, reducing the risk of transmission.
+* [The hierarchy of preventive measures to protect workers against the COVID-19 pandemic: A review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_73.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [dehghani_hierarchy_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_73.md)
+* [workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_128.md)
+* [employers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_180.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Implementing high-efficiency air filters can provide a safer work environment, preventing the spread of COVID-19 among workers. This can contribute to improved employee health, increased productivity, and potentially reduced healthcare costs for employers.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_398.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_128.md)
-* [employers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_180.md)
+High-efficiency air filters, such as HEPA filters, can effectively capture and remove small particles, including viruses, from the air, reducing the risk of transmission.
 

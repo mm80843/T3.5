@@ -1,22 +1,22 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_1277 
 
-# Benef: __Enhanced disinfection in hospitals__ (PBN__Benef_1277)
+# __Enhanced disinfection in hospitals__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-The use of environmental-friendly sustainable disinfection technologies can effectively disinfect hospitals, reducing the risk of healthcare workers and patients getting infected with COVID-19.
+* [An environmental and health perspective for COVID-19 outbreak: Meteorology and air quality influence, sewage epidemiology indicator, hospitals disinfection, drug therapies and recommendations](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_270.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [barcelo_environmental_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_270.md)
+* [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
+* [medical doctors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_501.md)
+* [hospital personnel](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_502.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors can benefit from investing in sustainable disinfection technologies as it can contribute to the safety of hospitals, reducing the risk of infection and improving the value of healthcare facilities.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1440.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
-* [medical doctors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_501.md)
-* [hospital personnel](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_502.md)
+The use of environmental-friendly sustainable disinfection technologies can effectively disinfect hospitals, reducing the risk of healthcare workers and patients getting infected with COVID-19.
 

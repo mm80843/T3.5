@@ -1,16 +1,19 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_43 
 
-# Benef: __Decreased transmission risk__ (PBN__Benef_43)
+# __Decreased transmission risk__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Implementing guidelines on funerals reduces the risk of viral transmission
+* [Public housing and COVID-19: contestation, challenge and change](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_107.md)
+* [Impact of Covid-19 on the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_10.md)
+* [Covid-19 and community mitigation strategies in a pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_112.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [power_public_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_107.md)
-* [mahima_impact_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_10.md)
-* [ebrahim_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_112.md)
+* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
+* [public and users of public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_37.md)
+* [public housing residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_217.md)
+* [funeral attendees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_235.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
@@ -18,10 +21,7 @@ Implementing guidelines on funerals reduces the risk of viral transmission
 * [Enhanced safety and well-being of residents, leading to increased asset value and improved reputation for investors.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_565.md)
 * [Decreased transmission risk leads to lower infection rates and improved public health](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_606.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
-* [public and users of public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_37.md)
-* [public housing residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_217.md)
-* [funeral attendees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_235.md)
+Implementing guidelines on funerals reduces the risk of viral transmission
 

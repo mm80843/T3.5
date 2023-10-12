@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_653 
 
-# Benef: __Physical activity promotion__ (PBN__Benef_653)
+# __Physical activity promotion__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Green spaces can promote physical activities, improving overall health and immune function
+* [Green spaces, especially forest, linked to lower SARS-CoV-2 infection rates: A one-year nationwide study](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_130.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [jiang_green_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_130.md)
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors in green spaces would benefit from increased demand for properties near green spaces, leading to higher property values.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_702.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+Green spaces can promote physical activities, improving overall health and immune function
 

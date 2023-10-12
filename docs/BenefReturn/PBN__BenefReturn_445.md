@@ -1,4 +1,4 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [BenefReturn](https://github.com/mm80843/T3.5/tree/main/docs/BenefReturn/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [BenefReturn](https://github.com/mm80843/T3.5/tree/main/docs/BenefReturn/index.md) >> Individual ID:PBN__BenefReturn_445 
 
-# BenefReturn: __Investing in worker health monitoring reduces the risk of COVID-19 outbreaks, minimizes project disruptions, and improves overall project performance and completion time.__ (PBN__BenefReturn_445)
+# __Investing in worker health monitoring reduces the risk of COVID-19 outbreaks, minimizes project disruptions, and improves overall project performance and completion time.__
 

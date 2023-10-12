@@ -1,8 +1,8 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [TechGroup](https://github.com/mm80843/T3.5/tree/main/docs/TechGroup/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [TechGroup](https://github.com/mm80843/T3.5/tree/main/docs/TechGroup/index.md) >> Individual ID:PBN__TechSubgroup_152 
 
-# TechGroup: __Crowd Management__ (PBN__TechSubgroup_152)
+# __Crowd Management__
 
-## Property: has_SubgroupStakeholder
+## This Technology belongs to this TechnologySubgroup
 
 * [crowd management technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_547.md)
 * [officer assistance at project sites](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_885.md)

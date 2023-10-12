@@ -1,21 +1,21 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_327 
 
-# Article: __bojovic_towards_2022__ (PBN__Article_327)
+# __Towards Resilient Residential Buildings and Neighborhoods in Light of COVID-19 Pandemic—The Scenario of Podgorica, Montenegro__
 
-## Property: has_ArticleDOI
+## Title of the article
+
+Towards Resilient Residential Buildings and Neighborhoods in Light of COVID-19 Pandemic—The Scenario of Podgorica, Montenegro
+
+## DOI of the article
 
 10.3390/su14031302
 
-## Property: has_ArticleYear
+## Year of publication
 
 2022
 
-## Property: has_ArticleRef
+## Referenced by other articles
 
-* [tokazhanov_how_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_67.md)
-* [power_public_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_107.md)
-
-## Property: has_ArticleTitle
-
-Towards Resilient Residential Buildings and Neighborhoods in Light of COVID-19 Pandemic—The Scenario of Podgorica, Montenegro
+* [How is COVID-19 Experience Transforming Sustainability Requirements of Residential Buildings? A Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_67.md)
+* [Public housing and COVID-19: contestation, challenge and change](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_107.md)
 

@@ -1,8 +1,8 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [TechGroup](https://github.com/mm80843/T3.5/tree/main/docs/TechGroup/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [TechGroup](https://github.com/mm80843/T3.5/tree/main/docs/TechGroup/index.md) >> Individual ID:PBN__TechSubgroup_107 
 
-# TechGroup: __Mobile and Remote Monitoring__ (PBN__TechSubgroup_107)
+# __Mobile and Remote Monitoring__
 
-## Property: has_SubgroupStakeholder
+## This Technology belongs to this TechnologySubgroup
 
 * [remote healthcare services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_12.md)
 * [remote monitoring of patients](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_21.md)

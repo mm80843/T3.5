@@ -1,8 +1,8 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [StakeholderGroup](https://github.com/mm80843/T3.5/tree/main/docs/StakeholderGroup/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [StakeholderGroup](https://github.com/mm80843/T3.5/tree/main/docs/StakeholderGroup/index.md) >> Individual ID:PBN__StakeholderGroup_14 
 
-# StakeholderGroup: __Crisis Management__ (PBN__StakeholderGroup_14)
+# __Crisis Management__
 
-## Property: has_GroupStakeholder
+## Stakeholders in this stakeholder group
 
 * [emergency response agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_558.md)
 * [emergency responders](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_484.md)

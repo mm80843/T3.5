@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_116 
 
-# Benef: __Reduction in performance risks__ (PBN__Benef_116)
+# __Reduction in performance risks__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Ensuring the quality and reliability of services, despite the challenging circumstances, can mitigate the risk of unexpected disappointments for tourists.
+* [Seeing the invisible hand: Underlying effects of COVID-19 on tourists’ behavioral patterns](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_25.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [li_seeing_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_25.md)
+* [tourists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_72.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Investors who prioritize consistent and reliable service delivery can build trust with customers, increase customer satisfaction, and enhance the reputation of their establishments, leading to higher occupancy rates and profits.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_115.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [tourists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_72.md)
+Ensuring the quality and reliability of services, despite the challenging circumstances, can mitigate the risk of unexpected disappointments for tourists.
 

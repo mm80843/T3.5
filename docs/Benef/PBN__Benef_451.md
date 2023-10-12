@@ -1,21 +1,21 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_451 
 
-# Benef: __Addressing nursing staff shortage__ (PBN__Benef_451)
+# __Addressing nursing staff shortage__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-The exchange process allows hospitals to better distribute their nursing staff, ensuring coverage and addressing shortages within the hospitals' network
+* [Management of the COVID-19 pandemic: challenges, practices, and organizational support](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_92.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [hossny_management_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_92.md)
+* [hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_64.md)
+* [nursing managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_203.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Investing in the exchange process increases flexibility and resilience in managing staffing shortages, improves patient care, and preserves the hospitals’ reputation, leading to potential financial returns for private investors.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_487.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_64.md)
-* [nursing managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_203.md)
+The exchange process allows hospitals to better distribute their nursing staff, ensuring coverage and addressing shortages within the hospitals' network
 

@@ -1,21 +1,21 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_836 
 
-# Benef: __Faster project completion__ (PBN__Benef_836)
+# __Faster project completion__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Implementing alternative planning strategies can help reduce construction time, resulting in faster project completion.
+* [The Impact of Pandemic Crisis on the Survival of Construction Industry: A Case of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_168.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [gamil_impact_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_168.md)
+* [construction companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_181.md)
+* [project owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_346.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors would benefit from earlier completion of projects, enabling earlier generation of revenue and returns on investment.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_909.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [construction companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_181.md)
-* [project owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_346.md)
+Implementing alternative planning strategies can help reduce construction time, resulting in faster project completion.
 

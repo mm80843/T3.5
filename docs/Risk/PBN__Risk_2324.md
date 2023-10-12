@@ -1,45 +1,45 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_2324 
 
-# Risk: __infections__ (PBN__Risk_2324)
-
-## Property: has_RiskHealth
-
-
-## List of stakeholders linked to the risk
-
+# __infections__
 
 ## Property: has_RiskISO_Purpose
 
 * [Preservaion and improvement of the environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_16.md)
 
-## Articles mentionning the risk
+## Property: has_RiskType
 
-* [wang_sars-cov-2_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_55.md)
 
-## Property: has_RiskDescription
+## Stakeholders who can mitigate this risk
+
+
+## Property: has_RiskHealth
+
+
+## Description of the risk
 
 (PPE)
 
-## People affected by this risk
+## Articles mentionning the risk
 
+* [SARS-CoV-2 RNA detection of hospital isolation wards hygiene monitoring during the Coronavirus Disease 2019 outbreak in a Chinese hospital](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_55.md)
 
 ## Technologies linked to the risk
 
 
-## Property: has_RiskType
+## People affected by this risk
 
 
 ## Property: has_RiskISO_Impact
 
 * [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_4.md)
 
-## Name of the risk
-
-nan
-
 ## Mitigations of this risk
 
 
 ## Property: has_RiskGBN
 
+
+## Name of the risk
+
+nan
 

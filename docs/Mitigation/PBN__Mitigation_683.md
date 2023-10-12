@@ -1,19 +1,19 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_683 
 
-# Mitigation: __Immediate Consequences Messaging__ (PBN__Mitigation_683)
-
-## Property: has_MitigationRisk
-
-* [Perception of climate change as distant](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2686.md)
-
-## Property: has_MitigationSource
-
-* [gemenne_what_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_257.md)
-
-## Property: has_MitigationTechnology
-
+# __Immediate Consequences Messaging__
 
 ## Property: has_MitigationPrinciple
 
 Emphasize the immediate impacts of climate change on individuals to increase awareness and perception of personal risk
+
+## Property: has_MitigationSource
+
+* [What our response to the COVID-19 pandemic tells us of our capacity to respond to climate change](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_257.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Perception of climate change as distant](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2686.md)
+
+## This Mitigation is enabled by the following technologies
+
 

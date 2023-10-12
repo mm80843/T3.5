@@ -1,19 +1,19 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__Mitigation_2314 
 
-# RiskMitigation: __Incineration__ (PBN__Mitigation_2314)
-
-## Property: has_MitigationRisk
-
-
-## Property: has_MitigationSource
-
-* [wang_disinfection_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_191.md)
-
-## Property: has_MitigationTechnology
-
-* [incinerator](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4404.md)
+# __Incineration__
 
 ## Property: has_MitigationPrinciple
 
 Incineration is a technology that uses high temperatures to burn hospital wastes, reducing them to ash. This process effectively kills microorganisms and reduces the volume of solid wastes.
+
+## Property: has_MitigationSource
+
+* [Disinfection technology of hospital wastes and wastewater: Suggestions for disinfection strategy during coronavirus Disease 2019 (COVID-19) pandemic in China](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_191.md)
+
+## Risks possibly mitigated by this Mitigation
+
+
+## This Mitigation is enabled by the following technologies
+
+* [incinerator](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4404.md)
 

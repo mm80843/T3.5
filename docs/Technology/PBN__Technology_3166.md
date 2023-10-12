@@ -1,8 +1,8 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3166 
 
-# Technology: __self-reporting functionality in wearables__ (PBN__Technology_3166)
+# __self-reporting functionality in wearables__
 
-## Property: has_TechnologyMitigation
+## This Technology enables the following mitigations
 
 * [Self-reported symptoms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_332.md)
 

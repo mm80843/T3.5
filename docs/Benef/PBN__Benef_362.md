@@ -1,22 +1,22 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_362 
 
-# Benef: __Informative data in areas with scarce data__ (PBN__Benef_362)
+# __Informative data in areas with scarce data__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Wastewater surveillance can provide valuable data on the presence and circulation of SARS-CoV-2 in areas with limited diagnostic capacity, aiding in understanding the epidemiology of the virus and guiding public health interventions.
+* [SARS-CoV-2 in wastewater: potential health risk, but also data source](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_70.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [lodder_sars-cov-2_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_70.md)
+* [public health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_0.md)
+* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+* [communities with poor sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_176.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors can benefit indirectly by supporting the implementation of wastewater surveillance systems in areas with poor sanitation, contributing to improved public health outcomes and stability in those regions.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_389.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [public health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_0.md)
-* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
-* [communities with poor sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_176.md)
+Wastewater surveillance can provide valuable data on the presence and circulation of SARS-CoV-2 in areas with limited diagnostic capacity, aiding in understanding the epidemiology of the virus and guiding public health interventions.
 

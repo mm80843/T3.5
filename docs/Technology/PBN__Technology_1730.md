@@ -1,12 +1,12 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_1730 
 
-# Technology: __covering high-touch surfaces with antimicrobial material__ (PBN__Technology_1730)
+# __covering high-touch surfaces with antimicrobial material__
 
-## Property: has_TechnologyID
-
-* [Q41568378](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q41568378.md)
-
-## Property: has_TechnologyRisk
+## Risks linked to this technology
 
 * [PVP4](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2193.md)
+
+## This Technology is identified by the following QID
+
+* [Q41568378](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q41568378.md)
 

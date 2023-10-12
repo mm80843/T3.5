@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2246 
 
-# Mitigation: __Vaccine development__ (PBN__Mitigation_2246)
-
-## Property: has_MitigationRisk
-
-
-## Property: has_MitigationSource
-
-* [vaishya_emerging_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_116.md)
-
-## Property: has_MitigationTechnology
-
-* [molecular technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4369.md)
-* [supercomputing facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4370.md)
+# __Vaccine development__
 
 ## Property: has_MitigationPrinciple
 
 Expediting the development and production of vaccines to prevent the spread of the disease
+
+## Property: has_MitigationSource
+
+* [Emerging Technologies to Combat the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_116.md)
+
+## Risks possibly mitigated by this Mitigation
+
+
+## This Mitigation is enabled by the following technologies
+
+* [molecular technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4369.md)
+* [supercomputing facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4370.md)
 

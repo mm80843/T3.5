@@ -1,8 +1,8 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_603 
 
-# Stakeholder: __law enforcement agencies__ (PBN__Stakeholder_603)
+# __law enforcement agencies__
 
-## Property: has_OwnerRisk
+## Risks that can be mitigated by this stakeholder
 
 * [Hoarding of essential commodities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1074.md)
 * [Gender-based violence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1877.md)

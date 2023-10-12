@@ -1,46 +1,42 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_2159 
 
-# Risk: __Increase in default risk__ (PBN__Risk_2159)
-
-## Property: has_RiskHealth
-
-
-## List of stakeholders linked to the risk
-
-* [financial institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_405.md)
-* [banks](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_528.md)
+# __Increase in default risk__
 
 ## Property: has_RiskISO_Purpose
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
 
-## Articles mentionning the risk
+## Property: has_RiskType
 
-* [taghizadeh-hesary_covid-19_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_292.md)
+* [economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_3.md)
 
-## Property: has_RiskDescription
+## Stakeholders who can mitigate this risk
+
+* [financial institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_405.md)
+* [banks](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_528.md)
+
+## Property: has_RiskHealth
+
+
+## Description of the risk
 
 Default risk of SME loans increases, leading to financial disruption and potential bankruptcy of SMEs
 
-## People affected by this risk
+## Articles mentionning the risk
 
-* [none](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_629.md)
+* [COVID-19 and regional solutions for mitigating the risk of SME finance in selected ASEAN member states](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_292.md)
 
 ## Technologies linked to the risk
 
 * [risk assessment and credit scoring technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1679.md)
 
-## Property: has_RiskType
+## People affected by this risk
 
-* [economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_3.md)
+* [none](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_629.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
-
-## Name of the risk
-
-Loss of confidence in SME lending, potential collapse of SMEs
 
 ## Mitigations of this risk
 
@@ -49,4 +45,8 @@ Loss of confidence in SME lending, potential collapse of SMEs
 ## Property: has_RiskGBN
 
 * [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Name of the risk
+
+Loss of confidence in SME lending, potential collapse of SMEs
 

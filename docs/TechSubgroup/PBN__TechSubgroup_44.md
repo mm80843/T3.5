@@ -1,8 +1,8 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [TechSubgroup](https://github.com/mm80843/T3.5/tree/main/docs/TechSubgroup/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [TechSubgroup](https://github.com/mm80843/T3.5/tree/main/docs/TechSubgroup/index.md) >> Individual ID:PBN__TechSubgroup_44 
 
-# TechSubgroup: __Digital and Online Marketing__ (PBN__TechSubgroup_44)
+# __Digital and Online Marketing__
 
-## Property: has_SubgroupStakeholder
+## This Technology belongs to this TechnologySubgroup
 
 * [online booking platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_993.md)
 * [destination marketing campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_995.md)

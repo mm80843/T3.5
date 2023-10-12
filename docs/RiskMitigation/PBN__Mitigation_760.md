@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__Mitigation_760 
 
-# RiskMitigation: __Increased sampling of wastewater treatment plants__ (PBN__Mitigation_760)
-
-## Property: has_MitigationRisk
-
-* [Limited testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2721.md)
-
-## Property: has_MitigationSource
-
-* [hart_computational_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_252.md)
-
-## Property: has_MitigationTechnology
-
-* [wastewater sampling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3432.md)
+# __Increased sampling of wastewater treatment plants__
 
 ## Property: has_MitigationPrinciple
 
 Sampling and analysis of wastewater from multiple treatment plants to monitor virus occurrence and spread in a population more efficiently than individual testing.
+
+## Property: has_MitigationSource
+
+* [Computational analysis of SARS-CoV-2/COVID-19 surveillance by wastewater-based epidemiology locally and globally: Feasibility, economy, opportunities and challenges](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_252.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Limited testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2721.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [wastewater sampling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3432.md)
 

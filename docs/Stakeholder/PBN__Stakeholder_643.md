@@ -1,23 +1,16 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_643 
 
-# Stakeholder: __hvac technicians__ (PBN__Stakeholder_643)
+# __hvac technicians__
 
-## Property: has_StakeholderSubgroup
+## This Stakeholder is identified by the following QID
 
+* [Q1798773](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1798773.md)
 
 ## Risk affecting this stakeholder
 
 * [HVAC characteristics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1484.md)
 
-## Property: has_StakeholderID
-
-* [Q1798773](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1798773.md)
-
-## Property: has_StakeholderGroup
-
-* [Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_2.md)
-
-## Property: has_OwnerRisk
+## Risks that can be mitigated by this stakeholder
 
 * [Inadequate ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_713.md)
 * [Indoor Air Pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1116.md)
@@ -29,4 +22,11 @@
 * [Lack of proper ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1575.md)
 * [Virus transmission via air circulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1637.md)
 * [Inadequate ventilation and airflow management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2047.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_2.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
 

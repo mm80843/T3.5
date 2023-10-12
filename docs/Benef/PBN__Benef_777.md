@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_777 
 
-# Benef: __Provides alternative solution when isolation facilities are full__ (PBN__Benef_777)
+# __Provides alternative solution when isolation facilities are full__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Portable air filters can be used in hospitals as an attractive solution when isolation facilities are full, ensuring proper ventilation and reducing the risk of transmission.
+* [Real-world data show that filters clean COVID-causing virus from air](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_155.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [thompson_real-world_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_155.md)
+* [hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_64.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors investing in portable air filters can contribute to creating a more resilient healthcare system, increasing asset value and reputation of healthcare facilities.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_846.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_64.md)
+Portable air filters can be used in hospitals as an attractive solution when isolation facilities are full, ensuring proper ventilation and reducing the risk of transmission.
 

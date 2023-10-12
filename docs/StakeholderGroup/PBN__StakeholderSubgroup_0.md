@@ -1,8 +1,8 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [StakeholderGroup](https://github.com/mm80843/T3.5/tree/main/docs/StakeholderGroup/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [StakeholderGroup](https://github.com/mm80843/T3.5/tree/main/docs/StakeholderGroup/index.md) >> Individual ID:PBN__StakeholderSubgroup_0 
 
-# StakeholderGroup: __Urban Planning Entities__ (PBN__StakeholderSubgroup_0)
+# __Urban Planning Entities__
 
-## Property: has_SubgroupStakeholder
+## Stakeholders in this stakeholder subgroup
 
 * [urban planners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_125.md)
 * [urban planning departments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_777.md)

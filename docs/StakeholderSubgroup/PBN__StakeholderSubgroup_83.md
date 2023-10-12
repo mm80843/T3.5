@@ -1,8 +1,8 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [StakeholderSubgroup](https://github.com/mm80843/T3.5/tree/main/docs/StakeholderSubgroup/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [StakeholderSubgroup](https://github.com/mm80843/T3.5/tree/main/docs/StakeholderSubgroup/index.md) >> Individual ID:PBN__StakeholderSubgroup_83 
 
-# StakeholderSubgroup: __Residential Defined Individuals__ (PBN__StakeholderSubgroup_83)
+# __Residential Defined Individuals__
 
-## Property: has_SubgroupStakeholder
+## Stakeholders in this stakeholder subgroup
 
 * [individuals in close proximity to infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_741.md)
 * [residents of underserved areas and areas with high disease transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_731.md)

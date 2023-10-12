@@ -1,19 +1,19 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__Mitigation_2310 
 
-# RiskMitigation: __Ultraviolet irradiation__ (PBN__Mitigation_2310)
-
-## Property: has_MitigationRisk
-
-
-## Property: has_MitigationSource
-
-* [wang_disinfection_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_191.md)
-
-## Property: has_MitigationTechnology
-
-* [ultraviolet light](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4402.md)
+# __Ultraviolet irradiation__
 
 ## Property: has_MitigationPrinciple
 
 Ultraviolet irradiation is a technology that uses ultraviolet light to disinfect hospital wastewater. Ultraviolet light damages the DNA and RNA of microorganisms, inhibiting their protein synthesis and killing them.
+
+## Property: has_MitigationSource
+
+* [Disinfection technology of hospital wastes and wastewater: Suggestions for disinfection strategy during coronavirus Disease 2019 (COVID-19) pandemic in China](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_191.md)
+
+## Risks possibly mitigated by this Mitigation
+
+
+## This Mitigation is enabled by the following technologies
+
+* [ultraviolet light](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4402.md)
 

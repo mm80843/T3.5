@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_830 
 
-# Benef: __Control of the epidemic__ (PBN__Benef_830)
+# __Control of the epidemic__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-The reduction in transmission achieved by interventions, as measured by changes in the reproduction number, leads to control of the epidemic and a decrease in the incidence of new infections.
+* [Report 13: Estimating the number of infections and the impact of non-pharmaceutical interventions on COVID-19 in 11 European countries](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_166.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [flaxman_report_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_166.md)
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Investing in interventions that reduce transmission can lead to a more stabilized and controlled epidemic, supporting economic recovery and preserving the well-being of the population.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_901.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+The reduction in transmission achieved by interventions, as measured by changes in the reproduction number, leads to control of the epidemic and a decrease in the incidence of new infections.
 

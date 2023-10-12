@@ -1,8 +1,8 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_194 
 
-# Stakeholder: __elderly and at-risk individuals__ (PBN__Stakeholder_194)
+# __elderly and at-risk individuals__
 
-## Property: has_BenefitForPeople
+## This Stakeholder can get these Benefits from mitigation measures
 
 * [Reduced morbidity and mortality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_405.md)
 

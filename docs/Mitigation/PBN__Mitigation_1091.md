@@ -1,24 +1,24 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1091 
 
-# Mitigation: __Public health campaigns__ (PBN__Mitigation_1091)
+# __Public health campaigns__
 
-## Property: has_MitigationRisk
+## Property: has_MitigationPrinciple
 
-* [Lack of awareness, misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2918.md)
+Educates the public about the virus, transmission risks, and mitigation measures
 
 ## Property: has_MitigationSource
 
-* [leal_filho_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_109.md)
-* [roosa_general_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_217.md)
+* [COVID-19 and the UN Sustainable Development Goals: Threat to Solidarity or an Opportunity?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_109.md)
+* [A general modeling framework for exploring the impact of individual concern and personal protection on vector-borne disease dynamics](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_217.md)
 
-## Property: has_MitigationTechnology
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of awareness, misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2918.md)
+
+## This Mitigation is enabled by the following technologies
 
 * [educational materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_495.md)
 * [information dissemination](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3093.md)
 * [media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3640.md)
 * [advertising](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3641.md)
-
-## Property: has_MitigationPrinciple
-
-Educates the public about the virus, transmission risks, and mitigation measures
 

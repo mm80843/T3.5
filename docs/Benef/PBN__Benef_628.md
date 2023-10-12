@@ -1,21 +1,21 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_628 
 
-# Benef: __Resilient and sustainable supply chains__ (PBN__Benef_628)
+# __Resilient and sustainable supply chains__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Localised manufacturing reduces dependence on global supply chains, enhances supply chain resilience, ensures availability of essential goods during crises, and creates more sustainable jobs.
+* [The COVID-19 pandemic: Lessons on building more equal and sustainable societies](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_124.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [van_barneveld_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_124.md)
+* [consumers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_146.md)
+* [businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_147.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors can benefit from investment opportunities in domestic manufacturing and supply chain development, as well as from increased consumer demand for locally-produced goods.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_671.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [consumers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_146.md)
-* [businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_147.md)
+Localised manufacturing reduces dependence on global supply chains, enhances supply chain resilience, ensures availability of essential goods during crises, and creates more sustainable jobs.
 

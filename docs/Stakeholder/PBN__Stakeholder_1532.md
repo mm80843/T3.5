@@ -1,6 +1,6 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_1532 
 
-# Stakeholder: __people in proximity to uv-c radiation sources__ (PBN__Stakeholder_1532)
+# __people in proximity to uv-c radiation sources__
 
 ## Risk affecting this stakeholder
 

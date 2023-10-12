@@ -1,12 +1,4 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [BP_Intervention](https://github.com/mm80843/T3.5/tree/main/docs/BP_Intervention/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [BP_Intervention](https://github.com/mm80843/T3.5/tree/main/docs/BP_Intervention/index.md) >> Individual ID:PBN__BP_Intervention_4 
 
-# BP_Intervention: __intervention_PA5__ (PBN__BP_Intervention_4)
-
-## Property: has_BP_InterventionTitle
-
-Control airflows in spaces & Avoid air recirculation
-
-## Property: has_BP_InterventionKey
-
-PA5
+# __intervention_PA5__
 

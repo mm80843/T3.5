@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__Mitigation_1924 
 
-# RiskMitigation: __Monitoring of Pharmaceuticals and Metabolites__ (PBN__Mitigation_1924)
-
-## Property: has_MitigationRisk
-
-
-## Property: has_MitigationSource
-
-* [sims_future_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_48.md)
-
-## Property: has_MitigationTechnology
-
-* [analytical tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4143.md)
-* [pharmacokinetics data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4144.md)
+# __Monitoring of Pharmaceuticals and Metabolites__
 
 ## Property: has_MitigationPrinciple
 
 Monitor drug compliance, distinguish between prescription and consumption, provide population-wide usage data
+
+## Property: has_MitigationSource
+
+* [Future perspectives of wastewater-based epidemiology: Monitoring infectious disease spread and resistance to the community level](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_48.md)
+
+## Risks possibly mitigated by this Mitigation
+
+
+## This Mitigation is enabled by the following technologies
+
+* [analytical tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4143.md)
+* [pharmacokinetics data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4144.md)
 

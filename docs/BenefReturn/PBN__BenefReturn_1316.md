@@ -1,4 +1,4 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [BenefReturn](https://github.com/mm80843/T3.5/tree/main/docs/BenefReturn/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [BenefReturn](https://github.com/mm80843/T3.5/tree/main/docs/BenefReturn/index.md) >> Individual ID:PBN__BenefReturn_1316 
 
-# BenefReturn: __Increases social equity and improves social cohesion, leading to stable and inclusive communities__ (PBN__BenefReturn_1316)
+# __Increases social equity and improves social cohesion, leading to stable and inclusive communities__
 

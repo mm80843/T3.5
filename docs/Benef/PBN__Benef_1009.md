@@ -1,21 +1,21 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_1009 
 
-# Benef: __Increased collaboration__ (PBN__Benef_1009)
+# __Increased collaboration__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Facilitate international scientific endeavours and collaborative research
+* [Data capture and sharing in the COVID-19 pandemic: a cause for concern](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_208.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [dron_data_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_208.md)
+* [research groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_172.md)
+* [scientific community](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_348.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Access to a wider range of expertise and resources, leading to more impactful research](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1123.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [research groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_172.md)
-* [scientific community](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_348.md)
+Facilitate international scientific endeavours and collaborative research
 

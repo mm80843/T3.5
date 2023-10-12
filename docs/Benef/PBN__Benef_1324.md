@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_1324 
 
-# Benef: __Reduced exposure to harmful pollutants__ (PBN__Benef_1324)
+# __Reduced exposure to harmful pollutants__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Improved cooking systems reduce the concentration of harmful pollutants such as CO and PM2.5, resulting in better indoor air quality and reduced health risks.
+* [A comprehensive review on indoor air quality monitoring systems for enhanced public health](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_281.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [saini_comprehensive_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_281.md)
+* [women and young children](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_521.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Investment in improved cooking systems can lead to improved health outcomes for women and children, reducing healthcare costs and improving overall well-being.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1496.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [women and young children](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_521.md)
+Improved cooking systems reduce the concentration of harmful pollutants such as CO and PM2.5, resulting in better indoor air quality and reduced health risks.
 

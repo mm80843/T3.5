@@ -1,16 +1,16 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_1906 
 
-# Stakeholder: __engineer__ (PBN__Stakeholder_1906)
+# __engineer__
 
-## Property: has_StakeholderSubgroup
+## This Stakeholder is identified by the following QID
 
-
-## Property: has_StakeholderID
-
-* [Q56363390](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q56363390.md)
 * [Q81096](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q81096.md)
+* [Q56363390](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q56363390.md)
 
-## Property: has_StakeholderGroup
+## This Stakeholder belongs to this StakeholderGroup
 
 * [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
 

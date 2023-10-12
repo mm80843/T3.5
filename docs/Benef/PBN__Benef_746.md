@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_746 
 
-# Benef: __Reduced congestion__ (PBN__Benef_746)
+# __Reduced congestion__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Improving public transport options encourages modal shift from private cars, leading to reduced traffic congestion and shorter travel times.
+* [Responsible Transport: A post-COVID agenda for transport policy and practice](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_148.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [budd_responsible_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_148.md)
+* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors in public transport infrastructure can benefit from increased ridership, fare revenue, and improved operational efficiency.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_811.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
+Improving public transport options encourages modal shift from private cars, leading to reduced traffic congestion and shorter travel times.
 

@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_621 
 
-# Mitigation: __Monitoring of agglomerations__ (PBN__Mitigation_621)
-
-## Property: has_MitigationRisk
-
-* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_332.md)
-
-## Property: has_MitigationSource
-
-* [fariniuk_smart_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_143.md)
-
-## Property: has_MitigationTechnology
-
-* [geolocation data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3365.md)
+# __Monitoring of agglomerations__
 
 ## Property: has_MitigationPrinciple
 
 Use of smartphone data and cameras to monitor and enforce social distancing measures
+
+## Property: has_MitigationSource
+
+* [Smart cities and the pandemic: digital technologies on the urban management of Brazilian cities](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_143.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_332.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [geolocation data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3365.md)
 

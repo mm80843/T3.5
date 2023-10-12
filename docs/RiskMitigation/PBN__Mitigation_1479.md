@@ -1,19 +1,19 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__Mitigation_1479 
 
-# RiskMitigation: __Construction dewatering strategies__ (PBN__Mitigation_1479)
-
-## Property: has_MitigationRisk
-
-* [Pools of stagnant water in construction areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3094.md)
-
-## Property: has_MitigationSource
-
-* [obonyo_decision_2018](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_272.md)
-
-## Property: has_MitigationTechnology
-
+# __Construction dewatering strategies__
 
 ## Property: has_MitigationPrinciple
 
 Develop strategies for promptly draining stagnant water during construction
+
+## Property: has_MitigationSource
+
+* [Decision Making within the Built Environment as a Strategy for Mitigating the Risk of Malaria and Other Vector-Borne Diseases](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_272.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Pools of stagnant water in construction areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3094.md)
+
+## This Mitigation is enabled by the following technologies
+
 

@@ -1,8 +1,8 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [StakeholderGroup](https://github.com/mm80843/T3.5/tree/main/docs/StakeholderGroup/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [StakeholderGroup](https://github.com/mm80843/T3.5/tree/main/docs/StakeholderGroup/index.md) >> Individual ID:PBN__StakeholderSubgroup_101 
 
-# StakeholderGroup: __Users__ (PBN__StakeholderSubgroup_101)
+# __Users__
 
-## Property: has_SubgroupStakeholder
+## Stakeholders in this stakeholder subgroup
 
 * [users of digital tools and platforms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_881.md)
 * [all individuals using mobile applications](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1311.md)

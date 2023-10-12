@@ -1,8 +1,8 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [StakeholderSubgroup](https://github.com/mm80843/T3.5/tree/main/docs/StakeholderSubgroup/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [StakeholderSubgroup](https://github.com/mm80843/T3.5/tree/main/docs/StakeholderSubgroup/index.md) >> Individual ID:PBN__StakeholderSubgroup_72 
 
-# StakeholderSubgroup: __Residents__ (PBN__StakeholderSubgroup_72)
+# __Residents__
 
-## Property: has_SubgroupStakeholder
+## Stakeholders in this stakeholder subgroup
 
 * [urban dwellers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_26.md)
 * [residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)

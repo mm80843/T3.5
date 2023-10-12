@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_1278 
 
-# Benef: __Treatment options for COVID-19__ (PBN__Benef_1278)
+# __Treatment options for COVID-19__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-The development of drug therapies can provide treatment options for COVID-19 patients, improving their chances of recovery and reducing the severity of the disease.
+* [An environmental and health perspective for COVID-19 outbreak: Meteorology and air quality influence, sewage epidemiology indicator, hospitals disinfection, drug therapies and recommendations](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_270.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [barcelo_environmental_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_270.md)
+* [covid-19 patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_503.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors can benefit from investing in the development of drug therapies as it can contribute to the improvement of patient outcomes, reducing the economic and healthcare burden of the disease and improving the value of pharmaceutical companies.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1441.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [covid-19 patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_503.md)
+The development of drug therapies can provide treatment options for COVID-19 patients, improving their chances of recovery and reducing the severity of the disease.
 

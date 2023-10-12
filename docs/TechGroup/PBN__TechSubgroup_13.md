@@ -1,8 +1,8 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [TechGroup](https://github.com/mm80843/T3.5/tree/main/docs/TechGroup/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [TechGroup](https://github.com/mm80843/T3.5/tree/main/docs/TechGroup/index.md) >> Individual ID:PBN__TechSubgroup_13 
 
-# TechGroup: __Crowd and Occupancy Management__ (PBN__TechSubgroup_13)
+# __Crowd and Occupancy Management__
 
-## Property: has_SubgroupStakeholder
+## This Technology belongs to this TechnologySubgroup
 
 * [urban planners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_379.md)
 * [crowd management strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_434.md)

@@ -1,21 +1,21 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_734 
 
-# Benef: __Economic stability__ (PBN__Benef_734)
+# __Economic stability__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Non-pharmaceutical interventions stabilize the economy by reducing the spread of the virus and allowing businesses to operate more normally.
+* [Health, Economic and Social Development Challenges of the COVID-19 Pandemic: Strategies for Multiple and Interconnected Issues](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_144.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [panneer_health_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_144.md)
+* [private investors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_89.md)
+* [businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_147.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors benefit from a stable economic environment, which increases the value of their assets and investments.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_792.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [private investors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_89.md)
-* [businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_147.md)
+Non-pharmaceutical interventions stabilize the economy by reducing the spread of the virus and allowing businesses to operate more normally.
 

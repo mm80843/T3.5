@@ -1,16 +1,16 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_358 
 
-# Article: __luka_emerging_2016__ (PBN__Article_358)
+# __Emerging challenges of vector-borne diseases for Canadian cities__
 
-## Property: has_ArticleDOI
+## DOI of the article
 
 10.14745/ccdr.v42i10a12
 
-## Property: has_ArticleYear
+## Year of publication
 
 2016
 
-## Property: has_ArticleTitle
+## Title of the article
 
 Emerging challenges of vector-borne diseases for Canadian cities
 

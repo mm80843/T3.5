@@ -1,8 +1,8 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [StakeholderSubgroup](https://github.com/mm80843/T3.5/tree/main/docs/StakeholderSubgroup/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [StakeholderSubgroup](https://github.com/mm80843/T3.5/tree/main/docs/StakeholderSubgroup/index.md) >> Individual ID:PBN__StakeholderSubgroup_87 
 
-# StakeholderSubgroup: __Individuals in Specific Settings__ (PBN__StakeholderSubgroup_87)
+# __Individuals in Specific Settings__
 
-## Property: has_SubgroupStakeholder
+## Stakeholders in this stakeholder subgroup
 
 * [individuals in indoor environments with poor environmental controls](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_674.md)
 * [individuals in public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_757.md)

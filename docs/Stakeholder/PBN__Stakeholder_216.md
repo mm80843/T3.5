@@ -1,10 +1,19 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_216 
 
-# Stakeholder: __healthcare organizations__ (PBN__Stakeholder_216)
+# __healthcare organizations__
 
-## Property: has_StakeholderSubgroup
+## This Stakeholder is identified by the following QID
 
-* [Healthcare](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_48.md)
+* [Q4287745](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4287745.md)
+
+## This Stakeholder can get these Benefits from mitigation measures
+
+* [Early detection and response](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_218.md)
+* [Efficient resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_497.md)
+* [Enhanced data availability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_514.md)
+* [Enhanced accuracy of predictive models](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_515.md)
+* [Confidentiality of personal health information](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_516.md)
+* [Secure data storage and analysis](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1092.md)
 
 ## Risk affecting this stakeholder
 
@@ -33,15 +42,7 @@
 * [Limited connectivity challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2096.md)
 * [Legal and regulatory dimension](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2098.md)
 
-## Property: has_StakeholderID
-
-* [Q4287745](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4287745.md)
-
-## Property: has_StakeholderGroup
-
-* [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
-
-## Property: has_OwnerRisk
+## Risks that can be mitigated by this stakeholder
 
 * [Spread of contagious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_20.md)
 * [Privacy and security concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_25.md)
@@ -142,12 +143,11 @@
 * [Shortages of Personal Protective Equipment (PPE)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2396.md)
 * [Challenges in ventilator production](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2404.md)
 
-## Property: has_BenefitForPeople
+## This Stakeholder belongs to this StakeholderGroup
 
-* [Early detection and response](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_218.md)
-* [Efficient resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_497.md)
-* [Enhanced data availability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_514.md)
-* [Enhanced accuracy of predictive models](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_515.md)
-* [Confidentiality of personal health information](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_516.md)
-* [Secure data storage and analysis](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1092.md)
+* [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Healthcare](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_48.md)
 

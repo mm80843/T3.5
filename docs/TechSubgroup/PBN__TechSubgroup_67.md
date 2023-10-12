@@ -1,8 +1,8 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [TechSubgroup](https://github.com/mm80843/T3.5/tree/main/docs/TechSubgroup/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [TechSubgroup](https://github.com/mm80843/T3.5/tree/main/docs/TechSubgroup/index.md) >> Individual ID:PBN__TechSubgroup_67 
 
-# TechSubgroup: __Emergency Support and Safety__ (PBN__TechSubgroup_67)
+# __Emergency Support and Safety__
 
-## Property: has_SubgroupStakeholder
+## This Technology belongs to this TechnologySubgroup
 
 * [Easily accessible safety resources and contacts](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2189.md)
 * [Community outreach programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2190.md)

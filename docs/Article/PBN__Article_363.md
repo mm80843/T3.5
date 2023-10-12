@@ -1,16 +1,16 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_363 
 
-# Article: __naor_impact_2022__ (PBN__Article_363)
+# __The impact of COVID-19 on office space utilization and real-estate: a case study about teleworking in Israel as new normal__
 
-## Property: has_ArticleDOI
+## DOI of the article
 
 10.1108/JFM-12-2020-0096
 
-## Property: has_ArticleYear
+## Year of publication
 
 2022
 
-## Property: has_ArticleTitle
+## Title of the article
 
 The impact of COVID-19 on office space utilization and real-estate: a case study about teleworking in Israel as new normal
 

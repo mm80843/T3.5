@@ -1,18 +1,18 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__Mitigation_2102 
 
-# RiskMitigation: __Ban on public gatherings__ (PBN__Mitigation_2102)
-
-## Property: has_MitigationRisk
-
-
-## Property: has_MitigationSource
-
-* [tian_investigation_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_197.md)
-
-## Property: has_MitigationTechnology
-
+# __Ban on public gatherings__
 
 ## Property: has_MitigationPrinciple
 
 Prohibition of public gatherings to limit the spread of the virus
+
+## Property: has_MitigationSource
+
+* [An investigation of transmission control measures during the first 50 days of the COVID-19 epidemic in China](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_197.md)
+
+## Risks possibly mitigated by this Mitigation
+
+
+## This Mitigation is enabled by the following technologies
+
 

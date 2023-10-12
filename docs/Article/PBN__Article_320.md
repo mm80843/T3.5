@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_320 
 
-# Article: __cummings_potted_2020__ (PBN__Article_320)
+# __Potted plants do not improve indoor air quality: a review and analysis of reported VOC removal efficiencies__
 
-## Property: has_ArticleDOI
+## Title of the article
+
+Potted plants do not improve indoor air quality: a review and analysis of reported VOC removal efficiencies
+
+## DOI of the article
 
 10.1038/s41370-019-0175-9
 
-## Property: has_ArticleYear
+## Year of publication
 
 2020
 
-## Property: has_ArticleRef
+## Referenced by other articles
 
-* [wang_characterization_2011](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_71.md)
-
-## Property: has_ArticleTitle
-
-Potted plants do not improve indoor air quality: a review and analysis of reported VOC removal efficiencies
+* [Characterization and performance evaluation of a full-scale activated carbon-based dynamic botanical air filtration system for improving indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_71.md)
 

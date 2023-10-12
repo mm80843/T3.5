@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_118 
 
-# Benef: __Reduction in time-related risks__ (PBN__Benef_118)
+# __Reduction in time-related risks__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Streamlining travel processes, such as online booking and contactless services, can minimize waiting times and reduce the risk of delays and inconveniences for tourists.
+* [Seeing the invisible hand: Underlying effects of COVID-19 on tourists’ behavioral patterns](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_25.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [li_seeing_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_25.md)
+* [tourists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_72.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Investors who prioritize efficiency and convenience can enhance the customer experience, increase customer satisfaction, and attract more tourists, leading to higher occupancy rates and profits.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_117.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [tourists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_72.md)
+Streamlining travel processes, such as online booking and contactless services, can minimize waiting times and reduce the risk of delays and inconveniences for tourists.
 

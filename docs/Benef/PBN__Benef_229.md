@@ -1,17 +1,22 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_229 
 
-# Benef: __Improved mental well-being__ (PBN__Benef_229)
+# __Improved mental well-being__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Visits to urban green spaces during the pandemic had a positive impact on the reduction of stress levels and improvement of general well-being.
+* [Psychological Effects of Home Confinement and Social Distancing Derived from COVID-19 in the General Population—A Systematic Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_126.md)
+* [How to Make Green Building Certification \& Rating Systems More Pandemic-Sustainable?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_172.md)
+* [The impact of the COVID-19 pandemic on the importance of urban green spaces to the public](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_203.md)
+* [The health benefits of the great outdoors: A systematic review and meta-analysis of greenspace exposure and health outcomes](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_50.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [rodriguez-fernandez_psychological_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_126.md)
-* [ujikawa_how_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_172.md)
-* [noszczyk_impact_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_203.md)
-* [twohig-bennett_health_2018](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_50.md)
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
+* [residents of kraków](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_392.md)
+* [vulnerable groups (e.g. women](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_263.md)
+* [young people](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_264.md)
+* [unemployed individuals)](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_265.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
@@ -20,12 +25,7 @@ Visits to urban green spaces during the pandemic had a positive impact on the re
 * [Investing in outdoor spaces can enhance the quality of life for residents, attracting more potential buyers and tenants.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_927.md)
 * [Private investors can benefit from investing in the development of urban green spaces as it can enhance the mental well-being of residents, thereby increasing the desirability and value of properties.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1088.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
-* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
-* [residents of kraków](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_392.md)
-* [vulnerable groups (e.g. women](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_263.md)
-* [young people](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_264.md)
-* [unemployed individuals)](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_265.md)
+Visits to urban green spaces during the pandemic had a positive impact on the reduction of stress levels and improvement of general well-being.
 

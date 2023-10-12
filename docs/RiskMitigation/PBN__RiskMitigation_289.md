@@ -1,12 +1,12 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__RiskMitigation_289 
 
-# RiskMitigation: __Taking steps to reduce inequality__ (PBN__RiskMitigation_289)
-
-## Property: has_MitigationRisk
-
-* [Increase in inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_240.md)
+# __Taking steps to reduce inequality__
 
 ## Property: has_MitigationBenefit
 
 * [Reduced inequality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_293.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Increase in inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_240.md)
 

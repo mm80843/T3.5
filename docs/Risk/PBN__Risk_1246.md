@@ -1,48 +1,44 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_1246 
 
-# Risk: __Technical limitations of wearables__ (PBN__Risk_1246)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## List of stakeholders linked to the risk
-
-* [wearable manufacturers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_761.md)
-* [technology developers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_763.md)
+# __Technical limitations of wearables__
 
 ## Property: has_RiskISO_Purpose
 
 * [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
 
-## Articles mentionning the risk
+## Property: has_RiskType
 
-* [channa_rise_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_99.md)
+* [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
 
-## Property: has_RiskDescription
+## Stakeholders who can mitigate this risk
+
+* [wearable manufacturers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_761.md)
+* [technology developers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_763.md)
+
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Description of the risk
 
 Wearable devices may have technical limitations in terms of accuracy, battery life, and compatibility with different platforms
 
-## People affected by this risk
+## Articles mentionning the risk
 
-* [wearable users](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_374.md)
-* [individuals monitoring health conditions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_762.md)
+* [The Rise of Wearable Devices during the COVID-19 Pandemic: A Systematic Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_99.md)
 
 ## Technologies linked to the risk
 
 * [sensor calibration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_348.md)
 * [battery optimization techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_349.md)
 
-## Property: has_RiskType
+## People affected by this risk
 
-* [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
+* [wearable users](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_374.md)
+* [individuals monitoring health conditions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_762.md)
 
 ## Property: has_RiskISO_Impact
 
-
-## Name of the risk
-
-Inaccurate readings, compromised reliability of data, and limited functionality of the wearables
 
 ## Mitigations of this risk
 
@@ -51,4 +47,8 @@ Inaccurate readings, compromised reliability of data, and limited functionality 
 ## Property: has_RiskGBN
 
 * [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Name of the risk
+
+Inaccurate readings, compromised reliability of data, and limited functionality of the wearables
 

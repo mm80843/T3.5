@@ -1,12 +1,12 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_45 
 
-# Stakeholder: __pandemic areas__ (PBN__Stakeholder_45)
+# __pandemic areas__
 
-## Property: has_StakeholderID
+## This Stakeholder is identified by the following QID
 
 * [Q531592](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q531592.md)
 
-## Property: has_BenefitForPeople
+## This Stakeholder can get these Benefits from mitigation measures
 
 * [Facilitated re-adaptation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_59.md)
 

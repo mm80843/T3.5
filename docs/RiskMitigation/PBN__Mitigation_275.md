@@ -1,19 +1,19 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__Mitigation_275 
 
-# RiskMitigation: __Ultraviolet Germicidal Irradiation (UVGI)__ (PBN__Mitigation_275)
-
-## Property: has_MitigationRisk
-
-
-## Property: has_MitigationSource
-
-* [bolashikov_methods_2009](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_240.md)
-
-## Property: has_MitigationTechnology
-
-* [uvgi lamps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3107.md)
+# __Ultraviolet Germicidal Irradiation (UVGI)__
 
 ## Property: has_MitigationPrinciple
 
 Damaging the DNA/RNA of pathogens with UVGI light, making them unable to reproduce and thus reducing the risk of infection in indoor spaces
+
+## Property: has_MitigationSource
+
+* [Methods for air cleaning and protection of building occupants from airborne pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_240.md)
+
+## Risks possibly mitigated by this Mitigation
+
+
+## This Mitigation is enabled by the following technologies
+
+* [uvgi lamps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3107.md)
 

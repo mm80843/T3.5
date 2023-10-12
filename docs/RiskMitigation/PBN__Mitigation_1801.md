@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__Mitigation_1801 
 
-# RiskMitigation: __Enhanced health literacy__ (PBN__Mitigation_1801)
-
-## Property: has_MitigationRisk
-
-
-## Property: has_MitigationSource
-
-* [sakellarides_viral_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_183.md)
-
-## Property: has_MitigationTechnology
-
-* [health education](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_322.md)
-* [information resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4081.md)
+# __Enhanced health literacy__
 
 ## Property: has_MitigationPrinciple
 
 Improving individuals' ability to access and understand health-related information for informed decision making
+
+## Property: has_MitigationSource
+
+* [From Viral City to Smart City: Learning from Pandemic Experiences](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_183.md)
+
+## Risks possibly mitigated by this Mitigation
+
+
+## This Mitigation is enabled by the following technologies
+
+* [health education](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_322.md)
+* [information resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4081.md)
 

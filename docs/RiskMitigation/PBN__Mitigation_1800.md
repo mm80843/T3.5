@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__Mitigation_1800 
 
-# RiskMitigation: __Person-centered integrated care__ (PBN__Mitigation_1800)
-
-## Property: has_MitigationRisk
-
-
-## Property: has_MitigationSource
-
-* [sakellarides_viral_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_183.md)
-
-## Property: has_MitigationTechnology
-
-* [integrated care models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4079.md)
-* [coordinated services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4080.md)
+# __Person-centered integrated care__
 
 ## Property: has_MitigationPrinciple
 
 Prioritizing care for individuals with multiple health conditions and promoting collaboration among different care sectors
+
+## Property: has_MitigationSource
+
+* [From Viral City to Smart City: Learning from Pandemic Experiences](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_183.md)
+
+## Risks possibly mitigated by this Mitigation
+
+
+## This Mitigation is enabled by the following technologies
+
+* [integrated care models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4079.md)
+* [coordinated services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4080.md)
 

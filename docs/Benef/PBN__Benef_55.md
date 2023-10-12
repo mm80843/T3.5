@@ -1,22 +1,22 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_55 
 
-# Benef: __Increased social support__ (PBN__Benef_55)
+# __Increased social support__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Tailored messages can provide support and connection for those in need
+* [The psychological impact of COVID-19 on the mental health in the general population](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_12.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [serafini_psychological_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_12.md)
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+* [at-risk populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_44.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Enhanced mental well-being and improved coping mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_55.md)
 * [Improved mental well-being and reduced feelings of loneliness and isolation](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_58.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
-* [at-risk populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_44.md)
+Tailored messages can provide support and connection for those in need
 

@@ -1,21 +1,21 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_1062 
 
-# Benef: __Improved collaboration and cooperation__ (PBN__Benef_1062)
+# __Improved collaboration and cooperation__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Strengthening partnerships enhances collective response and promotes shared goals.
+* [Envisioning a resilient future for biodiversity conservation in the wake of the COVID‐19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_221.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [thurstan_envisioning_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_221.md)
+* [local communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_85.md)
+* [conservation organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_428.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [This increases efficiency and effectiveness of conservation actions.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1187.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [local communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_85.md)
-* [conservation organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_428.md)
+Strengthening partnerships enhances collective response and promotes shared goals.
 

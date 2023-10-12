@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_1189 
 
-# Benef: __Tailored protection for symptomatic and asymptomatic patients__ (PBN__Benef_1189)
+# __Tailored protection for symptomatic and asymptomatic patients__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Evaluating differences in efficacy based on symptoms allows for tailored protection strategies, ensuring appropriate measures are taken for each group
+* [Contributions to the mitigation of the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_245.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [pilz_contributions_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_245.md)
+* [reinfected patients with and without symptoms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_464.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors can invest in research to develop targeted protection measures, potentially leading to the development of new therapeutics or improved vaccine strategies.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1325.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [reinfected patients with and without symptoms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_464.md)
+Evaluating differences in efficacy based on symptoms allows for tailored protection strategies, ensuring appropriate measures are taken for each group
 

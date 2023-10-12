@@ -1,8 +1,8 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [TechSubgroup](https://github.com/mm80843/T3.5/tree/main/docs/TechSubgroup/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [TechSubgroup](https://github.com/mm80843/T3.5/tree/main/docs/TechSubgroup/index.md) >> Individual ID:PBN__TechSubgroup_159 
 
-# TechSubgroup: __Travel Restrictions and Monitoring__ (PBN__TechSubgroup_159)
+# __Travel Restrictions and Monitoring__
 
-## Property: has_SubgroupStakeholder
+## This Technology belongs to this TechnologySubgroup
 
 * [border control technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1549.md)
 * [mobile phone tracking](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1685.md)

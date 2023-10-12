@@ -1,12 +1,12 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_1804 
 
-# Technology: __support for entrepreneurship__ (PBN__Technology_1804)
+# __support for entrepreneurship__
 
-## Property: has_TechnologyID
-
-* [Q3908516](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3908516.md)
-
-## Property: has_TechnologyRisk
+## Risks linked to this technology
 
 * [Desertification of urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2232.md)
+
+## This Technology is identified by the following QID
+
+* [Q3908516](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3908516.md)
 

@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_1287 
 
-# Benef: __Improved mood and well-being__ (PBN__Benef_1287)
+# __Improved mood and well-being__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Enhanced mood, happiness, and overall well-being
+* [Occupant health in buildings: Impact of the COVID-19 pandemic on the opinions of building professionals and implications on research](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_273.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [awada_occupant_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_273.md)
+* [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved mental well-being leads to increased satisfaction, productivity, and reduced absenteeism, improving the asset value of the property.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1452.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
+Enhanced mood, happiness, and overall well-being
 

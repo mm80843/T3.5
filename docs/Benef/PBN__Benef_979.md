@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_979 
 
-# Benef: __improvement__ (PBN__Benef_979)
+# __improvement__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-and congestion
+* [COVID19-Routes: A Safe Pedestrian Navigation Service](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_201.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [cantarero_covid19-routes_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_201.md)
+* [investors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_49.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [attractiveness of properties](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1078.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [investors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_49.md)
+and congestion
 

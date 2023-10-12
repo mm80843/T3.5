@@ -1,21 +1,21 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_944 
 
-# Benef: __Objective symptom monitoring__ (PBN__Benef_944)
+# __Objective symptom monitoring__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Wearable technology can accurately monitor symptoms, reducing reliance on self-reporting
+* [Wearable technology for early detection of COVID-19: A systematic scoping review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_192.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [cheong_wearable_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_192.md)
+* [individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_20.md)
+* [healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_32.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved accuracy in identifying symptomatic individuals, better disease control](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1034.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_20.md)
-* [healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_32.md)
+Wearable technology can accurately monitor symptoms, reducing reliance on self-reporting
 

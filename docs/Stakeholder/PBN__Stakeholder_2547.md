@@ -1,16 +1,16 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_2547 
 
-# Stakeholder: __commuter__ (PBN__Stakeholder_2547)
+# __commuter__
 
-## Property: has_StakeholderSubgroup
-
-* [Commuters/Cyclists](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_144.md)
-
-## Property: has_StakeholderID
+## This Stakeholder is identified by the following QID
 
 * [Q5155093](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5155093.md)
 
-## Property: has_StakeholderGroup
+## This Stakeholder belongs to this StakeholderGroup
 
 * [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Commuters/Cyclists](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_144.md)
 

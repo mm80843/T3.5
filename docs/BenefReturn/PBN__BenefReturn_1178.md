@@ -1,4 +1,4 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [BenefReturn](https://github.com/mm80843/T3.5/tree/main/docs/BenefReturn/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [BenefReturn](https://github.com/mm80843/T3.5/tree/main/docs/BenefReturn/index.md) >> Individual ID:PBN__BenefReturn_1178 
 
-# BenefReturn: __Private investors investing in blockchain-based online education platforms would benefit from improved security and privacy, enhancing the value of their investment.__ (PBN__BenefReturn_1178)
+# __Private investors investing in blockchain-based online education platforms would benefit from improved security and privacy, enhancing the value of their investment.__
 

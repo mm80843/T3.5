@@ -1,14 +1,16 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_571 
 
-# Risk: __Overcrowding__ (PBN__Risk_571)
+# __Overcrowding__
 
-## Property: has_RiskHealth
+## Property: has_RiskISO_Purpose
 
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-* [mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
-* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
+* [Preservation and improvement of the environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_6.md)
 
-## List of stakeholders linked to the risk
+## Property: has_RiskType
+
+* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
+
+## Stakeholders who can mitigate this risk
 
 * [governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
 * [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
@@ -28,24 +30,44 @@
 * [event organizers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_862.md)
 * [venue owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_845.md)
 
-## Property: has_RiskISO_Purpose
+## Property: has_RiskHealth
 
-* [Preservation and improvement of the environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_6.md)
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+* [mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
+* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
+
+## Description of the risk
+
+Increased density of individuals in confined spaces
 
 ## Articles mentionning the risk
 
-* [malliga_comprehensive_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_35.md)
-* [hizra_houses_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_277.md)
-* [dalessandro_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_161.md)
-* [asfour_housing_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_87.md)
-* [cuerdo-vilches_mixed_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_89.md)
-* [ibrahim_assessment_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_128.md)
-* [saari_effect_2006](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_223.md)
+* [A Comprehensive Review of Applications of Internet of Things for Covid-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_35.md)
+* [Houses amid COVID-19: Environmental challenges and design adaptation](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_277.md)
+* [COVID-19 and Living space challenge. Well-being and Public Health recommendations for a healthy, safe, and sustainable housing.](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_161.md)
+* [Housing Experience in Gated Communities in the Time of Pandemics: Lessons Learned from COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_87.md)
+* [A Mixed Approach on Resilience of Spanish Dwellings and Households during COVID-19 Lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_89.md)
+* [Assessment of COVID-19 precautionary measures in sports facilities: A case study on a health club in Saudi Arabia](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_128.md)
+* [The effect of a redesigned floor plan, occupant density and the quality of indoor climate on the cost of space, productivity and sick leave in an office building–A case study](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_223.md)
 * [venter_urban_2020 venter_urban_2020 nan venter_urban_2020 nan nan venter_urban_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_303.md)
 
-## Property: has_RiskDescription
+## Technologies linked to the risk
 
-Increased density of individuals in confined spaces
+* [digital signage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_366.md)
+* [urban planning regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_52.md)
+* [design guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_166.md)
+* [occupancy monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_433.md)
+* [crowd management strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_434.md)
+* [housing design and construction standards](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_456.md)
+* [remote working](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_718.md)
+* [digital communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_719.md)
+* [occupancy tracking systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_775.md)
+* [reservation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_776.md)
+* [crowd control measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_777.md)
+* [occupancy sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_649.md)
+* [crowd management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1261.md)
+* [crowd-management technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1868.md)
+* [social nan distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1869.md)
 
 ## People affected by this risk
 
@@ -69,35 +91,9 @@ Increased density of individuals in confined spaces
 * [individuals attending nan events](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1525.md)
 * [public transport](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1182.md)
 
-## Technologies linked to the risk
-
-* [digital signage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_366.md)
-* [urban planning regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_52.md)
-* [design guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_166.md)
-* [occupancy monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_433.md)
-* [crowd management strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_434.md)
-* [housing design and construction standards](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_456.md)
-* [remote working](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_718.md)
-* [digital communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_719.md)
-* [occupancy tracking systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_775.md)
-* [reservation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_776.md)
-* [crowd control measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_777.md)
-* [occupancy sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_649.md)
-* [crowd management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1261.md)
-* [crowd-management technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1868.md)
-* [social nan distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1869.md)
-
-## Property: has_RiskType
-
-* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
-
 ## Property: has_RiskISO_Impact
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
-
-## Name of the risk
-
-Increased risk of disease transmission and spread
 
 ## Mitigations of this risk
 
@@ -118,4 +114,8 @@ Increased risk of disease transmission and spread
 
 * [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 * [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Name of the risk
+
+Increased risk of disease transmission and spread
 

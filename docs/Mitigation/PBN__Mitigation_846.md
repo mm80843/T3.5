@@ -1,19 +1,19 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_846 
 
-# Mitigation: __Autoclaving__ (PBN__Mitigation_846)
-
-## Property: has_MitigationRisk
-
-
-## Property: has_MitigationSource
-
-* [ikner_continuously_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_246.md)
-
-## Property: has_MitigationTechnology
-
-* [autoclave](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3489.md)
+# __Autoclaving__
 
 ## Property: has_MitigationPrinciple
 
 Sterilizes stainless steel surfaces before coating application
+
+## Property: has_MitigationSource
+
+* [A Continuously Active Antimicrobial Coating effective against Human Coronavirus 229E](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_246.md)
+
+## Risks possibly mitigated by this Mitigation
+
+
+## This Mitigation is enabled by the following technologies
+
+* [autoclave](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3489.md)
 

@@ -1,10 +1,6 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [BP_Theme](https://github.com/mm80843/T3.5/tree/main/docs/BP_Theme/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [BP_Theme](https://github.com/mm80843/T3.5/tree/main/docs/BP_Theme/index.md) >> Individual ID:PBN__BP_Theme_9 
 
-# BP_Theme: __theme_Information_management__ (PBN__BP_Theme_9)
-
-## Property: has_BP_ThemeTitle
-
-Information management
+# __theme_Information_management__
 
 ## Property: has_BP_Intervention
 

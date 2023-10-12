@@ -1,8 +1,8 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__TechSubgroup_169 
 
-# Technology: __Blockchain and Cryptography__ (PBN__TechSubgroup_169)
+# __Blockchain and Cryptography__
 
-## Property: has_SubgroupStakeholder
+## This Technology belongs to this TechnologySubgroup
 
 * [smart contracts](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1234.md)
 * [Blockchain and cryptography](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2604.md)

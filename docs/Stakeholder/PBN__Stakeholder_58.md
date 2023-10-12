@@ -1,12 +1,12 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_58 
 
-# Stakeholder: __public health__ (PBN__Stakeholder_58)
+# __public health__
 
-## Property: has_StakeholderID
+## This Stakeholder is identified by the following QID
 
 * [Q30299491](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q30299491.md)
 
-## Property: has_BenefitForPeople
+## This Stakeholder can get these Benefits from mitigation measures
 
 * [Reduced disease transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_79.md)
 * [Reduced epidemic risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_80.md)

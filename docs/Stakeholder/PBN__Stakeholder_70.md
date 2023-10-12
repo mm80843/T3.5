@@ -1,23 +1,12 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_70 
 
-# Stakeholder: __healthcare system__ (PBN__Stakeholder_70)
+# __healthcare system__
 
-## Property: has_StakeholderSubgroup
-
-
-## Risk affecting this stakeholder
-
-* [Antimicrobial resistance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_160.md)
-
-## Property: has_StakeholderID
+## This Stakeholder is identified by the following QID
 
 * [Q11000047](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q11000047.md)
 
-## Property: has_StakeholderGroup
-
-* [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
-
-## Property: has_BenefitForPeople
+## This Stakeholder can get these Benefits from mitigation measures
 
 * [Reduced importation risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_107.md)
 * [Prevention of mass gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_111.md)
@@ -30,4 +19,15 @@
 * [Improved public health outcomes](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_691.md)
 * [Enhanced resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_693.md)
 * [Lower healthcare costs](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_926.md)
+
+## Risk affecting this stakeholder
+
+* [Antimicrobial resistance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_160.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
 

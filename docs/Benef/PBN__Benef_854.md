@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_854 
 
-# Benef: __Improved water quality__ (PBN__Benef_854)
+# __Improved water quality__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Safety measures for drinking water ensure high-quality water, reducing the risk of waterborne illnesses.
+* [How to Make Green Building Certification \& Rating Systems More Pandemic-Sustainable?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_172.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [ujikawa_how_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_172.md)
+* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Investing in water safety measures can attract health-conscious residents, potentially increasing the property’s desirability and value.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_929.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
+Safety measures for drinking water ensure high-quality water, reducing the risk of waterborne illnesses.
 

@@ -1,21 +1,21 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_160 
 
-# Benef: __Efficient management of Covid-19 crisis__ (PBN__Benef_160)
+# __Efficient management of Covid-19 crisis__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Enables telemedicine services, prediction of outbreak, surveillance, and control of the virus
+* [A Comprehensive Review of Applications of Internet of Things for Covid-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_35.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [malliga_comprehensive_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_35.md)
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+* [healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_32.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Effective response to the pandemic, reduced transmission, and improved healthcare services](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_162.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
-* [healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_32.md)
+Enables telemedicine services, prediction of outbreak, surveillance, and control of the virus
 

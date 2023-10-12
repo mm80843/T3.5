@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_462 
 
-# Benef: __Remote multidisciplinary team meetings__ (PBN__Benef_462)
+# __Remote multidisciplinary team meetings__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Allows healthcare professionals to conduct complex care decisions without physical gatherings, utilizing platforms such as Zoom.
+* [COVID-19: A new digital dawn?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_93.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [robbins_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_93.md)
+* [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Enhances communication, collaboration, and decision-making among healthcare teams while minimizing the risk of transmission.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_498.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
+Allows healthcare professionals to conduct complex care decisions without physical gatherings, utilizing platforms such as Zoom.
 

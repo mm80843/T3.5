@@ -1,21 +1,21 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_847 
 
-# Benef: __Real-time statistics__ (PBN__Benef_847)
+# __Real-time statistics__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Big data analytics techniques can extract significant information from multiple sources, generating real-time statistics for monitoring COVID-19
+* [An Overview of Ontologies and Tool Support for COVID-19 Analytics](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_170.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [ahmad_overview_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_170.md)
+* [public health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_0.md)
+* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors can benefit from investing in big data analytics as it provides timely and accurate insights for effective pandemic management, reducing potential economic losses.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_921.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [public health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_0.md)
-* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+Big data analytics techniques can extract significant information from multiple sources, generating real-time statistics for monitoring COVID-19
 

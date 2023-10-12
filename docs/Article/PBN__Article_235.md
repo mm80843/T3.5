@@ -1,10 +1,14 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_235 
 
-# Article: __howard-reed_effect_2002__ (PBN__Article_235)
+# __The Effect of Opening Windows on Air Change Rates in Two Homes__
 
-## Property: has_ArticleDOI
+## Summary of the article
 
-10.1080/10473289.2002.10470775
+Opening windows in homes can greatly increase the amount of fresh air coming in and the rate at which indoor air is refreshed. This is important because the air we breathe indoors can have pollutants from both indoor and outdoor sources. The study looked at air change rates in two different homes and found that opening windows had the biggest impact on increasing air change rates. The study also found that the more windows that were opened, the greater the increase in air change rates. This information is important for understanding how our behavior, like opening windows, can affect the air quality in our homes.
+
+## Title of the article
+
+The Effect of Opening Windows on Air Change Rates in Two Homes
 
 ## List of risks in an article
 
@@ -13,32 +17,28 @@
 * [Home structure differences](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1483.md)
 * [HVAC characteristics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1484.md)
 
-## Property: has_ArticleLLMSummary
-
-Opening windows in homes can greatly increase the amount of fresh air coming in and the rate at which indoor air is refreshed. This is important because the air we breathe indoors can have pollutants from both indoor and outdoor sources. The study looked at air change rates in two different homes and found that opening windows had the biggest impact on increasing air change rates. The study also found that the more windows that were opened, the greater the increase in air change rates. This information is important for understanding how our behavior, like opening windows, can affect the air quality in our homes.
-
-## Property: has_SourceMitigation
+## This article points to following mitigation
 
 * [Multiple window opening](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_812.md)
 * [Proper insulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_816.md)
 
-## Property: has_ArticleYear
-
-2002
-
-## Property: has_ArticleLLMShortSummary
-
-This study aimed to understand the influence of occupant behavior, specifically window-opening, on air change rates in homes. The researchers measured air change rates in two occupied homes, one in California and one in Virginia, using a tracer gas decay method. They found that opening windows significantly increased air change rates in both homes. The increase in air change rates was found to be dependent on the width of the window opening. The study also demonstrated that opening multiple windows or doors further increased air change rates. The findings suggest that window-opening behavior is an important factor to consider in estimating residential exposure to air pollutants. The researchers recommended that models for predicting air change rates and indoor concentrations should account for occupant window-opening behavior.
-
-## Property: has_ArticleTitle
-
-The Effect of Opening Windows on Air Change Rates in Two Homes
-
-## Property: has_BenefInArticle
+## Benefits listed in this article
 
 * [Improved thermal comfort](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_320.md)
 * [Increased air change rate](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1128.md)
 * [Increased dilution of pollutants](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1129.md)
 * [Improved distribution of pollutants](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1130.md)
 * [Increased ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1131.md)
+
+## Short summary of the article
+
+This study aimed to understand the influence of occupant behavior, specifically window-opening, on air change rates in homes. The researchers measured air change rates in two occupied homes, one in California and one in Virginia, using a tracer gas decay method. They found that opening windows significantly increased air change rates in both homes. The increase in air change rates was found to be dependent on the width of the window opening. The study also demonstrated that opening multiple windows or doors further increased air change rates. The findings suggest that window-opening behavior is an important factor to consider in estimating residential exposure to air pollutants. The researchers recommended that models for predicting air change rates and indoor concentrations should account for occupant window-opening behavior.
+
+## DOI of the article
+
+10.1080/10473289.2002.10470775
+
+## Year of publication
+
+2002
 

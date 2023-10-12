@@ -1,8 +1,8 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__RiskMitigation_3074 
 
-# RiskMitigation: __Develop and promote non-invasive testing methods, such as saliva or wastewater-based surveillance, to increase testing uptake.__ (PBN__RiskMitigation_3074)
+# __Develop and promote non-invasive testing methods, such as saliva or wastewater-based surveillance, to increase testing uptake.__
 
-## Property: has_MitigationRisk
+## Risks possibly mitigated by this Mitigation
 
 * [Invasive individual testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2367.md)
 

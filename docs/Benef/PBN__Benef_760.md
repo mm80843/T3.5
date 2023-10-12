@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_760 
 
-# Benef: __Isolation spaces in built environment__ (PBN__Benef_760)
+# __Isolation spaces in built environment__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Provision of isolation spaces in built environment helps to control transmission of COVID-19 and protect occupants.
+* [Adaptive Design of the Built Environment to Mitigate the Transmission Risk of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_151.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [ara_dilshad_shangi_adaptive_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_151.md)
+* [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors investing in adaptive design measures can attract tenants and occupants who prioritize health and safety, increasing occupancy rates and asset value.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_828.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
+Provision of isolation spaces in built environment helps to control transmission of COVID-19 and protect occupants.
 

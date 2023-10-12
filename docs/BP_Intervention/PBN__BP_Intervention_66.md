@@ -1,8 +1,12 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [BP_Intervention](https://github.com/mm80843/T3.5/tree/main/docs/BP_Intervention/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [BP_Intervention](https://github.com/mm80843/T3.5/tree/main/docs/BP_Intervention/index.md) >> Individual ID:PBN__BP_Intervention_66 
 
-# BP_Intervention: __enabler_027__ (PBN__BP_Intervention_66)
+# __Social activities / facilitatie social interactions__
 
-## Property: has_BP_EnablerTitle
+## Property: has_BP_InterventionKey
 
-Antimicrobial coating
+HM3
+
+## Property: has_BP_InterventionTitle
+
+Social activities / facilitatie social interactions
 

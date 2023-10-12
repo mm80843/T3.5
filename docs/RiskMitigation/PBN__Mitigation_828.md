@@ -1,21 +1,21 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__Mitigation_828 
 
-# RiskMitigation: __QR code check-in__ (PBN__Mitigation_828)
-
-## Property: has_MitigationRisk
-
-* [Data privacy breach](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2763.md)
-
-## Property: has_MitigationSource
-
-* [huy-tran_design_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_285.md)
-
-## Property: has_MitigationTechnology
-
-* [database](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3389.md)
-* [qr code scanner](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3475.md)
+# __QR code check-in__
 
 ## Property: has_MitigationPrinciple
 
 Checks the QR codes of individuals to track their entry and exit from certain locations for contact tracing purposes.
+
+## Property: has_MitigationSource
+
+* [Design and Implementation of Entry-level COVID-19 Digital Signage Player supporting Fever Detection, Face Mask Wearing Detection and KI-pass QR Code Checking](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_285.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Data privacy breach](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2763.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [database](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3389.md)
+* [qr code scanner](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3475.md)
 

@@ -1,26 +1,26 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_369 
 
-# Stakeholder: __hospital staff__ (PBN__Stakeholder_369)
+# __hospital staff__
 
-## Property: has_StakeholderSubgroup
-
-
-## Property: has_StakeholderID
+## This Stakeholder is identified by the following QID
 
 * [Q69947087](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q69947087.md)
 
-## Property: has_StakeholderGroup
+## This Stakeholder can get these Benefits from mitigation measures
 
-* [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
+* [Reduction of health risks](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_936.md)
+* [Reduction of disease spread and contamination](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_937.md)
 
-## Property: has_OwnerRisk
+## Risks that can be mitigated by this stakeholder
 
 * [Contamination of surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1332.md)
 * [Environmental](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1582.md)
 * [Healthcare-](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2322.md)
 
-## Property: has_BenefitForPeople
+## This Stakeholder belongs to this StakeholderGroup
 
-* [Reduction of health risks](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_936.md)
-* [Reduction of disease spread and contamination](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_937.md)
+* [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
 

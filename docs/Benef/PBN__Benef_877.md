@@ -1,21 +1,21 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_877 
 
-# Benef: __Resilient and sustainable cities__ (PBN__Benef_877)
+# __Resilient and sustainable cities__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Integrated and holistic strategic planning considers the complexity of urban challenges and involves collaboration and alignment among different actors, leading to long-term resilience and sustainability in cities.
+* [Learning from the COVID-19 pandemic in governing smart cities](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_177.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [bolivar_learning_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_177.md)
+* [citizens](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_54.md)
+* [city governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_354.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved socio-economic recovery, increased city resilience and sustainability, enhanced quality of life for citizens.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_958.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [citizens](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_54.md)
-* [city governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_354.md)
+Integrated and holistic strategic planning considers the complexity of urban challenges and involves collaboration and alignment among different actors, leading to long-term resilience and sustainability in cities.
 

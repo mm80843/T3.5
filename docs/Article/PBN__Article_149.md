@@ -1,14 +1,14 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_149 
 
-# Article: __spennemann_designing_2022__ (PBN__Article_149)
+# __Designing for COVID-2x: Reflecting on Future-Proofing Human Habitation for the Inevitable Next Pandemic__
 
-## Property: has_ArticleDOI
+## Summary of the article
 
-10.3390/buildings12070976
+The COVID-19 pandemic has affected the whole world and caused many changes in our daily lives. Governments have taken measures like staying at home and wearing masks to slow down the spread of the virus. But some places, like hospitals and crowded neighborhoods, were more at risk of infections. The design of buildings and spaces played a role in how the virus spread. For example, open-plan offices and classrooms made it easier for the virus to spread. And in places where people lived close together, like apartment buildings, it was harder to avoid getting sick. In the future, architects and planners need to think about ways to design buildings that can protect us from diseases. This could include better ventilation systems and separate spaces for different activities. It is also important for individuals and governments to be prepared for future pandemics and be willing to make changes to keep everyone safe.
 
-## Property: has_ArticleLLMShortSummary
+## Title of the article
 
-This research abstract discusses the impact of the COVID-19 pandemic on human habitation and explores potential strategies for future-proofing against future pandemics. The pandemic has highlighted the fragility of the built environment and the need to reassess current patterns of living, studying, working, and commuting. The abstract covers various aspects of human behavior and the built environment during the pandemic, including the effects of stay-at-home orders, social distancing rules, and ventilation systems in residential, office, and healthcare facilities. It also discusses the importance of early detection systems, such as wastewater testing, and proposes conceptual frameworks for future-proofing urban design, transport planning, and architecture. The conclusions emphasize the need for rigorous planning, policy changes, and individual agency in implementing design solutions that minimize the impact of future pandemics. The abstract acknowledges the challenges and inertia in the system but highlights the importance of actively engaging in discussions and embracing necessary adjustments to ensure human resilience against future epidemics and pandemics.
+Designing for COVID-2x: Reflecting on Future-Proofing Human Habitation for the Inevitable Next Pandemic
 
 ## List of risks in an article
 
@@ -18,11 +18,7 @@ This research abstract discusses the impact of the COVID-19 pandemic on human ha
 * [Risk of mental health issues during and after a pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2121.md)
 * [Risk of external seeding events and uncontrolled quarantines](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2122.md)
 
-## Property: has_ArticleLLMSummary
-
-The COVID-19 pandemic has affected the whole world and caused many changes in our daily lives. Governments have taken measures like staying at home and wearing masks to slow down the spread of the virus. But some places, like hospitals and crowded neighborhoods, were more at risk of infections. The design of buildings and spaces played a role in how the virus spread. For example, open-plan offices and classrooms made it easier for the virus to spread. And in places where people lived close together, like apartment buildings, it was harder to avoid getting sick. In the future, architects and planners need to think about ways to design buildings that can protect us from diseases. This could include better ventilation systems and separate spaces for different activities. It is also important for individuals and governments to be prepared for future pandemics and be willing to make changes to keep everyone safe.
-
-## Property: has_SourceMitigation
+## This article points to following mitigation
 
 * [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2.md)
 * [Public engagement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_244.md)
@@ -41,23 +37,7 @@ The COVID-19 pandemic has affected the whole world and caused many changes in ou
 * [Testing urological wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2002.md)
 * [Hybrid work models](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2010.md)
 
-## Property: has_ArticleYear
-
-2022
-
-## Property: has_ArticleRef
-
-* [spennemann_residential_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_56.md)
-* [geary_call_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_343.md)
-* [uchiyama_access_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_275.md)
-* [kaklauskas_covid-19_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_322.md)
-* [megahed_indoor_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_206.md)
-
-## Property: has_ArticleTitle
-
-Designing for COVID-2x: Reflecting on Future-Proofing Human Habitation for the Inevitable Next Pandemic
-
-## Property: has_BenefInArticle
+## Benefits listed in this article
 
 * [Reduction in aerosol transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_752.md)
 * [Early detection of virus circulation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_358.md)
@@ -69,4 +49,24 @@ Designing for COVID-2x: Reflecting on Future-Proofing Human Habitation for the I
 * [Adjustment for social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_754.md)
 * [Conversion to infection and isolation wards](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_755.md)
 * [Virtual delivery of services](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_756.md)
+
+## Short summary of the article
+
+This research abstract discusses the impact of the COVID-19 pandemic on human habitation and explores potential strategies for future-proofing against future pandemics. The pandemic has highlighted the fragility of the built environment and the need to reassess current patterns of living, studying, working, and commuting. The abstract covers various aspects of human behavior and the built environment during the pandemic, including the effects of stay-at-home orders, social distancing rules, and ventilation systems in residential, office, and healthcare facilities. It also discusses the importance of early detection systems, such as wastewater testing, and proposes conceptual frameworks for future-proofing urban design, transport planning, and architecture. The conclusions emphasize the need for rigorous planning, policy changes, and individual agency in implementing design solutions that minimize the impact of future pandemics. The abstract acknowledges the challenges and inertia in the system but highlights the importance of actively engaging in discussions and embracing necessary adjustments to ensure human resilience against future epidemics and pandemics.
+
+## DOI of the article
+
+10.3390/buildings12070976
+
+## Year of publication
+
+2022
+
+## Referenced by other articles
+
+* [RESIDENTIAL ARCHITECTURE IN A POST-PANDEMIC WORLD: IMPLICATIONS OF COVID-19 FOR NEW CONSTRUCTION AND FOR ADAPTING HERITAGE BUILDINGS](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_56.md)
+* [A call to action: Improving urban green spaces to reduce health inequalities exacerbated by COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_343.md)
+* [Access and Use of Green Areas during the COVID-19 Pandemic: Green Infrastructure Management in the “New Normal”](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_275.md)
+* [COVID-19 and Green Housing: A Review of Relevant Literature](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_322.md)
+* [Indoor Air Quality: Rethinking rules of building design strategies in post-pandemic architecture](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_206.md)
 

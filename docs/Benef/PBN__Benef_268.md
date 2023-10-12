@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_268 
 
-# Benef: __Improved virus survival__ (PBN__Benef_268)
+# __Improved virus survival__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Temperature and RH affect virus stability, leading to improved survival in the environment.
+* [Mechanistic insights into the effect of humidity on airborne influenza virus survival, transmission and incidence](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_54.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [marr_mechanistic_2019](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_54.md)
+* [public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_52.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Investing in maintaining optimal temperature and humidity can help reduce transmission and protect public health, potentially leading to economic benefits from reduced healthcare costs and increased productivity.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_280.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_52.md)
+Temperature and RH affect virus stability, leading to improved survival in the environment.
 

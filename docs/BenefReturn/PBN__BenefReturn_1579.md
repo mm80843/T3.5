@@ -1,4 +1,4 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [BenefReturn](https://github.com/mm80843/T3.5/tree/main/docs/BenefReturn/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [BenefReturn](https://github.com/mm80843/T3.5/tree/main/docs/BenefReturn/index.md) >> Individual ID:PBN__BenefReturn_1579 
 
-# BenefReturn: __Remote monitoring ensures timely medical intervention and potentially reduces hospitalizations and complications.__ (PBN__BenefReturn_1579)
+# __Remote monitoring ensures timely medical intervention and potentially reduces hospitalizations and complications.__
 

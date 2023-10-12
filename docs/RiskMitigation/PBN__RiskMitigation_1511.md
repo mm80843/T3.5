@@ -1,8 +1,8 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__RiskMitigation_1511 
 
-# RiskMitigation: __Implement proactive measures to control outbreak spread and minimize economic disruptions.__ (PBN__RiskMitigation_1511)
+# __Implement proactive measures to control outbreak spread and minimize economic disruptions.__
 
-## Property: has_MitigationRisk
+## Risks possibly mitigated by this Mitigation
 
 * [Economic impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_124.md)
 

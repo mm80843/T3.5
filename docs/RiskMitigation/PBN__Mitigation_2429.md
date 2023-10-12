@@ -1,18 +1,18 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__Mitigation_2429 
 
-# RiskMitigation: __Adherence to physical distancing__ (PBN__Mitigation_2429)
-
-## Property: has_MitigationRisk
-
-
-## Property: has_MitigationSource
-
-* [yang_urban_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_6.md)
-
-## Property: has_MitigationTechnology
-
+# __Adherence to physical distancing__
 
 ## Property: has_MitigationPrinciple
 
 Following physical distancing guidelines reduces the risk of transmission.
+
+## Property: has_MitigationSource
+
+* [Urban design attributes and resilience: COVID-19 evidence from New York City](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_6.md)
+
+## Risks possibly mitigated by this Mitigation
+
+
+## This Mitigation is enabled by the following technologies
+
 

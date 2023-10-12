@@ -1,33 +1,32 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_1291 
 
-# Risk: __Isolation and loneliness__ (PBN__Risk_1291)
-
-## Property: has_RiskHealth
-
-* [mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
-
-## List of stakeholders linked to the risk
-
-* [mental health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_605.md)
-* [community organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_150.md)
-* [volunteers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_807.md)
+# __Isolation and loneliness__
 
 ## Property: has_RiskISO_Purpose
 
 * [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
 
-## Articles mentionning the risk
+## Property: has_RiskType
 
-* [corley_home_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_244.md)
+* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
 
-## Property: has_RiskDescription
+## Stakeholders who can mitigate this risk
+
+* [mental health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_605.md)
+* [community organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_150.md)
+* [volunteers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_807.md)
+
+## Property: has_RiskHealth
+
+* [mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
+
+## Description of the risk
 
 Limited social interactions and increased isolation due to lockdown measures
 
-## People affected by this risk
+## Articles mentionning the risk
 
-* [elderly individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_806.md)
-* [individuals living alone](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_614.md)
+* [Home garden use during COVID-19: Associations with physical and mental wellbeing in older adults](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_244.md)
 
 ## Technologies linked to the risk
 
@@ -35,17 +34,14 @@ Limited social interactions and increased isolation due to lockdown measures
 * [social media groups](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_422.md)
 * [helplines and hotlines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_423.md)
 
-## Property: has_RiskType
+## People affected by this risk
 
-* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
+* [elderly individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_806.md)
+* [individuals living alone](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_614.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Innovation, Creativity and research](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_2.md)
-
-## Name of the risk
-
-Negative impact on mental health, increased feelings of loneliness and depression
 
 ## Mitigations of this risk
 
@@ -54,4 +50,8 @@ Negative impact on mental health, increased feelings of loneliness and depressio
 ## Property: has_RiskGBN
 
 * [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Name of the risk
+
+Negative impact on mental health, increased feelings of loneliness and depression
 

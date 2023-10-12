@@ -1,33 +1,32 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_2309 
 
-# Risk: __Low data quality__ (PBN__Risk_2309)
-
-## Property: has_RiskHealth
-
-
-## List of stakeholders linked to the risk
-
-* [data providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_850.md)
-* [openkg community](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1538.md)
-* [domain experts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1539.md)
+# __Low data quality__
 
 ## Property: has_RiskISO_Purpose
 
 * [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
 
-## Articles mentionning the risk
+## Property: has_RiskType
 
-* [wang_construction_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_28.md)
+* [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
+* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
 
-## Property: has_RiskDescription
+## Stakeholders who can mitigate this risk
+
+* [data providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_850.md)
+* [openkg community](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1538.md)
+* [domain experts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1539.md)
+
+## Property: has_RiskHealth
+
+
+## Description of the risk
 
 Inaccurate or incomplete data in the KG may lead to incorrect conclusions or decisions based on the information
 
-## People affected by this risk
+## Articles mentionning the risk
 
-* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
-* [healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_32.md)
-* [policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_126.md)
+* [Construction of a Linked Data Set of COVID-19 Knowledge Graphs: Development and Applications](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_28.md)
 
 ## Technologies linked to the risk
 
@@ -35,18 +34,15 @@ Inaccurate or incomplete data in the KG may lead to incorrect conclusions or dec
 * [data validation tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1896.md)
 * [expert review platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1897.md)
 
-## Property: has_RiskType
+## People affected by this risk
 
-* [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
-* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
+* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+* [healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_32.md)
+* [policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_126.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_8.md)
-
-## Name of the risk
-
-Misinterpretation, ineffective decision-making, compromised trust in the KG
 
 ## Mitigations of this risk
 
@@ -55,4 +51,8 @@ Misinterpretation, ineffective decision-making, compromised trust in the KG
 ## Property: has_RiskGBN
 
 * [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Name of the risk
+
+Misinterpretation, ineffective decision-making, compromised trust in the KG
 

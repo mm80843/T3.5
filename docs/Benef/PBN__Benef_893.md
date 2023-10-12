@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_893 
 
-# Benef: __Improved hygiene practices__ (PBN__Benef_893)
+# __Improved hygiene practices__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Increased awareness and compliance with hygiene measures, reducing disease transmission risk
+* [Assessing the health and hygiene performance of apartment buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_180.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [ho_assessing_2004](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_180.md)
+* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors can reduce operational costs by minimizing absenteeism and enhancing workforce productivity](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_976.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
+Increased awareness and compliance with hygiene measures, reducing disease transmission risk
 

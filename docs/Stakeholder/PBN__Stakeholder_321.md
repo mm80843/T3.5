@@ -1,18 +1,18 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_321 
 
-# Stakeholder: __project administration team__ (PBN__Stakeholder_321)
+# __project administration team__
 
-## Property: has_OwnerRisk
+## This Stakeholder is identified by the following QID
+
+* [Q1454317](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1454317.md)
+
+## This Stakeholder can get these Benefits from mitigation measures
+
+* [Resolved disputes](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_786.md)
+
+## Risks that can be mitigated by this stakeholder
 
 * [Delays in construction projects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1083.md)
 * [Workforce reduction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1085.md)
 * [Safety risks for workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1086.md)
-
-## Property: has_StakeholderID
-
-* [Q1454317](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1454317.md)
-
-## Property: has_BenefitForPeople
-
-* [Resolved disputes](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_786.md)
 

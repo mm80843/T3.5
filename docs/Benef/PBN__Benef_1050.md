@@ -1,22 +1,22 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_1050 
 
-# Benef: __Access to real-time data__ (PBN__Benef_1050)
+# __Access to real-time data__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Enables researchers and officials to obtain comprehensive, up-to-date data on the outbreak
+* [Open-source analytics tools for studying the COVID-19 coronavirus outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_218.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [wu_open-source_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_218.md)
+* [public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_52.md)
+* [scientists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_46.md)
+* [public health officials](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_310.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved decision making and response measures based on real-time information, leading to better control and management of the outbreak, reduced transmission, and potentially saving lives](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1171.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_52.md)
-* [scientists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_46.md)
-* [public health officials](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_310.md)
+Enables researchers and officials to obtain comprehensive, up-to-date data on the outbreak
 

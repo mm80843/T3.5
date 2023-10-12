@@ -1,21 +1,21 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_940 
 
-# Benef: __Early detection of infections__ (PBN__Benef_940)
+# __Early detection of infections__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Early detection allows for prompt isolation and treatment, reducing transmission
+* [Wearable technology for early detection of COVID-19: A systematic scoping review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_192.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [cheong_wearable_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_192.md)
+* [individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_20.md)
+* [healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_32.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Increase in individual and population health, reduced burden on healthcare system](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1030.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_20.md)
-* [healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_32.md)
+Early detection allows for prompt isolation and treatment, reducing transmission
 

@@ -1,8 +1,8 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [StakeholderGroup](https://github.com/mm80843/T3.5/tree/main/docs/StakeholderGroup/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [StakeholderGroup](https://github.com/mm80843/T3.5/tree/main/docs/StakeholderGroup/index.md) >> Individual ID:PBN__StakeholderSubgroup_41 
 
-# StakeholderGroup: __Nonprofit and Social Services__ (PBN__StakeholderSubgroup_41)
+# __Nonprofit and Social Services__
 
-## Property: has_SubgroupStakeholder
+## Stakeholders in this stakeholder subgroup
 
 * [nonprofit organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_812.md)
 * [social welfare organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_833.md)

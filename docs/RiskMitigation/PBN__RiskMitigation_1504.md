@@ -1,8 +1,8 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__RiskMitigation_1504 
 
-# RiskMitigation: __Investment in improving housing conditions and infrastructure__ (PBN__RiskMitigation_1504)
+# __Investment in improving housing conditions and infrastructure__
 
-## Property: has_MitigationRisk
+## Risks possibly mitigated by this Mitigation
 
 * [Poor housing conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1065.md)
 

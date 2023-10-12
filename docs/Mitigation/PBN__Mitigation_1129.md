@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1129 
 
-# Mitigation: __Optimization-based people flow__ (PBN__Mitigation_1129)
-
-## Property: has_MitigationRisk
-
-
-## Property: has_MitigationSource
-
-* [li_building_2016](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_29.md)
-
-## Property: has_MitigationTechnology
-
-* [historical measurement data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_989.md)
-* [optimization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3679.md)
+# __Optimization-based people flow__
 
 ## Property: has_MitigationPrinciple
 
 Estimating people flow by solving an optimization problem based on historical data.
+
+## Property: has_MitigationSource
+
+* [Building occupancy estimation with people flow modeling in AnyLogic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_29.md)
+
+## Risks possibly mitigated by this Mitigation
+
+
+## This Mitigation is enabled by the following technologies
+
+* [historical measurement data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_989.md)
+* [optimization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3679.md)
 

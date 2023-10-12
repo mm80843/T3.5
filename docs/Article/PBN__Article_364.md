@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_364 
 
-# Article: __olivier_infrastructures_2022__ (PBN__Article_364)
+# __Infrastructures of Care for Public Housing Residents During COVID-19 Detention: Failures, Glitches and Possibilities to Care With__
 
-## Property: has_ArticleDOI
+## Title of the article
+
+Infrastructures of Care for Public Housing Residents During COVID-19 Detention: Failures, Glitches and Possibilities to Care With
+
+## DOI of the article
 
 10.1080/08111146.2022.2123317
 
-## Property: has_ArticleYear
+## Year of publication
 
 2022
 
-## Property: has_ArticleRef
+## Referenced by other articles
 
-* [power_public_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_107.md)
-
-## Property: has_ArticleTitle
-
-Infrastructures of Care for Public Housing Residents During COVID-19 Detention: Failures, Glitches and Possibilities to Care With
+* [Public housing and COVID-19: contestation, challenge and change](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_107.md)
 

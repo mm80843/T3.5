@@ -1,22 +1,22 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_966 
 
-# Benef: __Enhanced access to integrated UGS__ (PBN__Benef_966)
+# __Enhanced access to integrated UGS__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Integrated UGS that provide opportunities for both social interaction and secluded relaxation can ensure that citizens have equitable access to the benefits of UGS, promoting social cohesion and community well-being.
+* [Green in times of COVID-19: urban green space relevance during the COVID-19 pandemic in Buenos Aires City](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_198.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [marconi_green_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_198.md)
+* [citizens in areas with extreme population densities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_377.md)
+* [networks of overpopulated streets](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_378.md)
+* [and mono-functional neighborhoods](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_379.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors investing in the development of integrated UGS can benefit from increased demand for properties in these areas, as they provide a unique combination of social interaction and relaxation spaces, improving the overall desirability and value of the properties.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1063.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [citizens in areas with extreme population densities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_377.md)
-* [networks of overpopulated streets](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_378.md)
-* [and mono-functional neighborhoods](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_379.md)
+Integrated UGS that provide opportunities for both social interaction and secluded relaxation can ensure that citizens have equitable access to the benefits of UGS, promoting social cohesion and community well-being.
 

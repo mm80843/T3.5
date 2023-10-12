@@ -1,12 +1,12 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_1588 
 
-# Technology: __user-friendly interfaces__ (PBN__Technology_1588)
+# __user-friendly interfaces__
 
-## Property: has_TechnologyID
-
-* [Q47146](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q47146.md)
-
-## Property: has_TechnologyRisk
+## Risks linked to this technology
 
 * [Societal issues and the human factor](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2097.md)
+
+## This Technology is identified by the following QID
+
+* [Q47146](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q47146.md)
 

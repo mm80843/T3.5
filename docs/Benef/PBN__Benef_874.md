@@ -1,21 +1,21 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_874 
 
-# Benef: __Enhanced coordination__ (PBN__Benef_874)
+# __Enhanced coordination__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Emerging technologies can strengthen the government's problem-solving capacity by involving different stakeholders and improving coordination in disaster management.
+* [Learning from the COVID-19 pandemic in governing smart cities](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_177.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [bolivar_learning_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_177.md)
+* [citizens](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_54.md)
+* [public administrations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_353.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved efficiency and effectiveness in disaster management.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_955.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [citizens](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_54.md)
-* [public administrations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_353.md)
+Emerging technologies can strengthen the government's problem-solving capacity by involving different stakeholders and improving coordination in disaster management.
 

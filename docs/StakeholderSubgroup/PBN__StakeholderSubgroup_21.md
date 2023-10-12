@@ -1,8 +1,8 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [StakeholderSubgroup](https://github.com/mm80843/T3.5/tree/main/docs/StakeholderSubgroup/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [StakeholderSubgroup](https://github.com/mm80843/T3.5/tree/main/docs/StakeholderSubgroup/index.md) >> Individual ID:PBN__StakeholderSubgroup_21 
 
-# StakeholderSubgroup: __Specific Roles and Job Titles__ (PBN__StakeholderSubgroup_21)
+# __Specific Roles and Job Titles__
 
-## Property: has_SubgroupStakeholder
+## Stakeholders in this stakeholder subgroup
 
 * [cleaning staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_656.md)
 * [hvac specialists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_623.md)

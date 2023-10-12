@@ -1,21 +1,21 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_943 
 
-# Benef: __Quick, non-invasive testing__ (PBN__Benef_943)
+# __Quick, non-invasive testing__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Wearable technology provides rapid and convenient testing, reducing waiting time and the need for trained personnel
+* [Wearable technology for early detection of COVID-19: A systematic scoping review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_192.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [cheong_wearable_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_192.md)
+* [individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_20.md)
+* [healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_32.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved testing efficiency, increased accessibility to testing](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1033.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_20.md)
-* [healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_32.md)
+Wearable technology provides rapid and convenient testing, reducing waiting time and the need for trained personnel
 

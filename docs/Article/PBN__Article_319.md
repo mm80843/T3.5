@@ -1,16 +1,16 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_319 
 
-# Article: __d_ross_brown_vancouver_2020__ (PBN__Article_319)
+# __Vancouver Convention Health Centre (COVID-19 Response): Planning, implementation, and four lessons learned__
 
-## Property: has_ArticleDOI
+## DOI of the article
 
 10.5055/ajdm.2020.0365
 
-## Property: has_ArticleYear
+## Year of publication
 
 2020
 
-## Property: has_ArticleTitle
+## Title of the article
 
 Vancouver Convention Health Centre (COVID-19 Response): Planning, implementation, and four lessons learned
 

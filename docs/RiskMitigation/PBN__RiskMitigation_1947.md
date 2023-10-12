@@ -1,8 +1,8 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__RiskMitigation_1947 
 
-# RiskMitigation: __Implement health and safety measures, adapt project plans to pandemic restrictions, provide support to affected workers.__ (PBN__RiskMitigation_1947)
+# __Implement health and safety measures, adapt project plans to pandemic restrictions, provide support to affected workers.__
 
-## Property: has_MitigationRisk
+## Risks possibly mitigated by this Mitigation
 
 * [COVID-19 outbreak impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1436.md)
 

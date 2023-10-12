@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_433 
 
-# Benef: __Inactivation of respiratory animal viral aerosols__ (PBN__Benef_433)
+# __Inactivation of respiratory animal viral aerosols__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-UV air disinfection can effectively inactivate respiratory animal viral aerosols, reducing the risk of transmission and improving indoor air quality.
+* [Effect of Ultraviolet Germicidal Irradiation on Viral Aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_88.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [walker_effect_2007](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_88.md)
+* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved health and well-being of building occupants, reduced transmission of respiratory viral diseases, and reduced healthcare costs.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_468.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
+UV air disinfection can effectively inactivate respiratory animal viral aerosols, reducing the risk of transmission and improving indoor air quality.
 

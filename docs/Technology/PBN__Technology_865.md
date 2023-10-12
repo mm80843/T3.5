@@ -1,12 +1,12 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_865 
 
-# Technology: __sensors for contactless inspections__ (PBN__Technology_865)
+# __sensors for contactless inspections__
 
-## Property: has_TechnologyID
-
-* [Q26839924](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q26839924.md)
-
-## Property: has_TechnologyRisk
+## Risks linked to this technology
 
 * [Health and safety of construction workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1561.md)
+
+## This Technology is identified by the following QID
+
+* [Q26839924](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q26839924.md)
 

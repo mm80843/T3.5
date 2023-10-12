@@ -1,21 +1,21 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_1387 
 
-# Benef: __Enhanced hygiene practices__ (PBN__Benef_1387)
+# __Enhanced hygiene practices__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Monitoring and ensuring proper sanitation practices are followed
+* [The Smart City and Covid‐19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_294.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [webb_smart_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_294.md)
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+* [cleaning services](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_538.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved public health and safety, decreased risk of infection](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1574.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
-* [cleaning services](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_538.md)
+Monitoring and ensuring proper sanitation practices are followed
 

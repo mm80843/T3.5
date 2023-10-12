@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_159 
 
-# Benef: __Resolving medical facility issues for orthopaedic patients__ (PBN__Benef_159)
+# __Resolving medical facility issues for orthopaedic patients__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Extends medical facilities to remote locations and improves access to healthcare services
+* [A Comprehensive Review of Applications of Internet of Things for Covid-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_35.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [malliga_comprehensive_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_35.md)
+* [orthopaedic patients in remote areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_94.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved health outcomes and patient satisfaction in remote areas](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_161.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [orthopaedic patients in remote areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_94.md)
+Extends medical facilities to remote locations and improves access to healthcare services
 

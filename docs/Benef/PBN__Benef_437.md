@@ -1,16 +1,18 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_437 
 
-# Benef: __Improved health and well-being__ (PBN__Benef_437)
+# __Improved health and well-being__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Biophilic design promotes contact with nature which has been proven to improve physical and mental health and well-being of building occupants.
+* [The Role of Architecture and Urbanism in Preventing Pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_140.md)
+* [A Mixed Approach on Resilience of Spanish Dwellings and Households during COVID-19 Lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_89.md)
+* [Biophilic design in architecture and its contributions to health, well-being, and sustainability: A critical review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_211.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [kumar_role_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_140.md)
-* [cuerdo-vilches_mixed_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_89.md)
-* [zhong_biophilic_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_211.md)
+* [public health](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_58.md)
+* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
+* [household members](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_162.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
@@ -18,9 +20,7 @@ Biophilic design promotes contact with nature which has been proven to improve p
 * [Private investors investing in the design and development of green spaces can benefit from increased property values, as well as attracting more potential tenants or buyers who value access to green areas.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_757.md)
 * [Private investors can benefit from increased tenant satisfaction and rental value due to improved occupants’ health and well-being.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1135.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [public health](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_58.md)
-* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
-* [household members](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_162.md)
+Biophilic design promotes contact with nature which has been proven to improve physical and mental health and well-being of building occupants.
 

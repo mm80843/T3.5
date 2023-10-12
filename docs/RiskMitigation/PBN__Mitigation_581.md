@@ -1,19 +1,19 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__Mitigation_581 
 
-# RiskMitigation: __Universal healthcare__ (PBN__Mitigation_581)
-
-## Property: has_MitigationRisk
-
-* [Overwhelmed healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1629.md)
-
-## Property: has_MitigationSource
-
-* [duflot_building_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_5.md)
-
-## Property: has_MitigationTechnology
-
+# __Universal healthcare__
 
 ## Property: has_MitigationPrinciple
 
 Ensure access to healthcare services for all individuals, reducing the burden on healthcare systems
+
+## Property: has_MitigationSource
+
+* [Building up an ecologically sustainable and socially desirable post-COVID-19 future](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_5.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Overwhelmed healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1629.md)
+
+## This Mitigation is enabled by the following technologies
+
 

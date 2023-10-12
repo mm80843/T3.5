@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_1376 
 
-# Benef: __Enhanced health monitoring__ (PBN__Benef_1376)
+# __Enhanced health monitoring__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Correlating movement, temperature, and health records to better understand health issues
+* [The Smart City and Covid‐19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_294.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [webb_smart_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_294.md)
+* [public health officials](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_310.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Early detection of health issues, improved public health and safety](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1563.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [public health officials](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_310.md)
+Correlating movement, temperature, and health records to better understand health issues
 

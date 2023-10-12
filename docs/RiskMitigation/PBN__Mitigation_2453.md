@@ -1,19 +1,19 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__Mitigation_2453 
 
-# RiskMitigation: __Restriction of waste management__ (PBN__Mitigation_2453)
-
-## Property: has_MitigationRisk
-
-* [Increased waste, reduced waste recycling](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3460.md)
-
-## Property: has_MitigationSource
-
-* [zambrano-monserrate_indirect_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_238.md)
-
-## Property: has_MitigationTechnology
-
+# __Restriction of waste management__
 
 ## Property: has_MitigationPrinciple
 
 Impedes the proper sorting and disposal of waste in affected countries
+
+## Property: has_MitigationSource
+
+* [Indirect effects of COVID-19 on the environment](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_238.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Increased waste, reduced waste recycling](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3460.md)
+
+## This Mitigation is enabled by the following technologies
+
 

@@ -1,4 +1,4 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [BenefReturn](https://github.com/mm80843/T3.5/tree/main/docs/BenefReturn/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [BenefReturn](https://github.com/mm80843/T3.5/tree/main/docs/BenefReturn/index.md) >> Individual ID:PBN__BenefReturn_127 
 
-# BenefReturn: __Implementing special access measures enhances building inclusivity, social responsibility, and tenant satisfaction.__ (PBN__BenefReturn_127)
+# __Implementing special access measures enhances building inclusivity, social responsibility, and tenant satisfaction.__
 

@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_114 
 
-# Benef: __Reduction in psychological risks__ (PBN__Benef_114)
+# __Reduction in psychological risks__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Providing accurate and timely information about safety protocols, travel restrictions, and the local situation can alleviate anxiety and uncertainty for tourists.
+* [Seeing the invisible hand: Underlying effects of COVID-19 on tourists’ behavioral patterns](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_25.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [li_seeing_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_25.md)
+* [tourists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_72.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Investors who prioritize clear and transparent communication can build trust with customers, enhance their reputation, and establish long-term relationships, leading to increased customer loyalty and repeat business.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_113.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [tourists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_72.md)
+Providing accurate and timely information about safety protocols, travel restrictions, and the local situation can alleviate anxiety and uncertainty for tourists.
 

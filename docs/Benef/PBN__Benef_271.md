@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_271 
 
-# Benef: __Better interpretation of epidemiological studies__ (PBN__Benef_271)
+# __Better interpretation of epidemiological studies__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Understanding the relationship between indoor and outdoor temperature and humidity can enhance the interpretation of epidemiological studies on influenza incidence and seasonality.
+* [Mechanistic insights into the effect of humidity on airborne influenza virus survival, transmission and incidence](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_54.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [marr_mechanistic_2019](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_54.md)
+* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Investing in research to improve the understanding of indoor and outdoor environmental parameters can contribute to more accurate public health interventions and policy recommendations.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_283.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+Understanding the relationship between indoor and outdoor temperature and humidity can enhance the interpretation of epidemiological studies on influenza incidence and seasonality.
 

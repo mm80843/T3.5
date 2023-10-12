@@ -1,8 +1,8 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__TechSubgroup_153 
 
-# Technology: __Sensor and Remote Sensing Technologies__ (PBN__TechSubgroup_153)
+# __Sensor and Remote Sensing Technologies__
 
-## Property: has_SubgroupStakeholder
+## This Technology belongs to this TechnologySubgroup
 
 * [Remote sensing technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2438.md)
 * [Improved sensor technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2451.md)

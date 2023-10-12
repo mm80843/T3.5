@@ -1,8 +1,8 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [TechSubgroup](https://github.com/mm80843/T3.5/tree/main/docs/TechSubgroup/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [TechSubgroup](https://github.com/mm80843/T3.5/tree/main/docs/TechSubgroup/index.md) >> Individual ID:PBN__TechSubgroup_43 
 
-# TechSubgroup: __Advocacy and Lobbying Efforts__ (PBN__TechSubgroup_43)
+# __Advocacy and Lobbying Efforts__
 
-## Property: has_SubgroupStakeholder
+## This Technology belongs to this TechnologySubgroup
 
 * [collaborations with social media platforms to combat misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1439.md)
 * [Lobbying and advocacy efforts](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2157.md)

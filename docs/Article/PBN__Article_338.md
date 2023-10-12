@@ -1,16 +1,16 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_338 
 
-# Article: __soga_gardening_2017__ (PBN__Article_338)
+# __Gardening is beneficial for health: A meta-analysis__
 
-## Property: has_ArticleDOI
+## DOI of the article
 
 10.1016/j.pmedr.2016.11.007
 
-## Property: has_ArticleYear
+## Year of publication
 
 2017
 
-## Property: has_ArticleTitle
+## Title of the article
 
 Gardening is beneficial for health: A meta-analysis
 

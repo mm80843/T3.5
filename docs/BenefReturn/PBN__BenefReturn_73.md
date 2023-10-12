@@ -1,4 +1,4 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [BenefReturn](https://github.com/mm80843/T3.5/tree/main/docs/BenefReturn/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [BenefReturn](https://github.com/mm80843/T3.5/tree/main/docs/BenefReturn/index.md) >> Individual ID:PBN__BenefReturn_73 
 
-# BenefReturn: __Promotes positive perception and acceptance of the concepts, leading to greater participation and support from the public__ (PBN__BenefReturn_73)
+# __Promotes positive perception and acceptance of the concepts, leading to greater participation and support from the public__
 

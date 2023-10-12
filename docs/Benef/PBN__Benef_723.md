@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_723 
 
-# Benef: __Distance learning/training__ (PBN__Benef_723)
+# __Distance learning/training__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Maintaining education continuity while ensuring social isolation
+* [Smart cities and the pandemic: digital technologies on the urban management of Brazilian cities](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_143.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [fariniuk_smart_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_143.md)
+* [students](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_101.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improve education outcomes and student well-being](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_777.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [students](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_101.md)
+Maintaining education continuity while ensuring social isolation
 

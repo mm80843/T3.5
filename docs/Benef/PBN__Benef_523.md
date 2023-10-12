@@ -1,21 +1,21 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_523 
 
-# Benef: __Environmental benefits__ (PBN__Benef_523)
+# __Environmental benefits__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Telecommuting reduces the need for daily commuting, resulting in reduced greenhouse gas emissions and air pollution.
+* [El impacto del teletrabajo en tiempos del COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_108.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [restrepo_betancur_impacto_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_108.md)
+* [society](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_53.md)
+* [environment](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_116.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Implementing telecommuting can contribute to a cleaner environment and mitigate the impact of contagious diseases on public health.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_573.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [society](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_53.md)
-* [environment](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_116.md)
+Telecommuting reduces the need for daily commuting, resulting in reduced greenhouse gas emissions and air pollution.
 

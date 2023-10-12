@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_212 
 
-# Benef: __Increased vaccination capacity__ (PBN__Benef_212)
+# __Increased vaccination capacity__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Ability to vaccinate a large number of people efficiently, reducing wait times and increasing access to vaccinations.
+* [Digital Twin of COVID-19 Mass Vaccination Centers](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_47.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [pilati_digital_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_47.md)
+* [healthcare providers and patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_120.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved patient satisfaction and public health outcomes.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_219.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [healthcare providers and patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_120.md)
+Ability to vaccinate a large number of people efficiently, reducing wait times and increasing access to vaccinations.
 

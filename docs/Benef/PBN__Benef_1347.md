@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_1347 
 
-# Benef: __More accurate energy billing__ (PBN__Benef_1347)
+# __More accurate energy billing__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Adjusting energy contracts based on actual energy demand can lead to cost savings and more accurate billing, avoiding the payment of unnecessary demand charges.
+* [Addressing the impact of COVID-19 lockdown on energy use in municipal buildings: A case study in Florianópolis, Brazil](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_286.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [geraldi_addressing_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_286.md)
+* [building owners and operators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_525.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors would benefit from reduced energy expenses and improved financial management.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1520.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [building owners and operators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_525.md)
+Adjusting energy contracts based on actual energy demand can lead to cost savings and more accurate billing, avoiding the payment of unnecessary demand charges.
 

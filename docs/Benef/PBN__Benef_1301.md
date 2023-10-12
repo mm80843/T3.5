@@ -1,21 +1,21 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_1301 
 
-# Benef: __Positive environmental externalities__ (PBN__Benef_1301)
+# __Positive environmental externalities__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Parks provide green spaces and contribute to the overall environmental quality of urban areas, improving air and water quality, mitigating urban heat island effects, and supporting biodiversity.
+* [Urban Park Use During the COVID-19 Pandemic: Are Socially Vulnerable Communities Disproportionately Impacted?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_276.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [larson_urban_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_276.md)
+* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
+* [urban residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_209.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Positive environmental externalities can lead to improved quality of life, increased property values, and enhanced reputation for private investors in the area.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1470.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
-* [urban residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_209.md)
+Parks provide green spaces and contribute to the overall environmental quality of urban areas, improving air and water quality, mitigating urban heat island effects, and supporting biodiversity.
 

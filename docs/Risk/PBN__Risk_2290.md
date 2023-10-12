@@ -1,45 +1,41 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_2290 
 
-# Risk: __spaces during lockdown__ (PBN__Risk_2290)
-
-## Property: has_RiskHealth
-
-
-## List of stakeholders linked to the risk
-
-* [planners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_624.md)
+# __spaces during lockdown__
 
 ## Property: has_RiskISO_Purpose
 
 * [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
 
-## Articles mentionning the risk
+## Property: has_RiskType
 
-* [venter_urban_2020 venter_urban_2020 nan venter_urban_2020 nan nan venter_urban_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_303.md)
 
-## Property: has_RiskDescription
+## Stakeholders who can mitigate this risk
+
+* [planners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_624.md)
+
+## Property: has_RiskHealth
+
+
+## Description of the risk
 
 green spaces during lockdown
 
-## People affected by this risk
+## Articles mentionning the risk
 
-* [vulnerable individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_750.md)
+* [venter_urban_2020 venter_urban_2020 nan venter_urban_2020 nan nan venter_urban_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_303.md)
 
 ## Technologies linked to the risk
 
 * [creation of green spaces and green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1873.md)
 * [nan promotion of outdoor nan nan activities during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1874.md)
 
-## Property: has_RiskType
+## People affected by this risk
 
+* [vulnerable individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_750.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
-
-## Name of the risk
-
-physical well-being, increased stress levels
 
 ## Mitigations of this risk
 
@@ -47,4 +43,8 @@ physical well-being, increased stress levels
 
 ## Property: has_RiskGBN
 
+
+## Name of the risk
+
+physical well-being, increased stress levels
 

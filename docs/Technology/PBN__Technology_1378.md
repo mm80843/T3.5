@@ -1,12 +1,12 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_1378 
 
-# Technology: __incorporate biophilic design principles__ (PBN__Technology_1378)
+# __incorporate biophilic design principles__
 
-## Property: has_TechnologyID
-
-* [Q1145644](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1145644.md)
-
-## Property: has_TechnologyRisk
+## Risks linked to this technology
 
 * [Lack of connection with nature](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_114.md)
+
+## This Technology is identified by the following QID
+
+* [Q1145644](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1145644.md)
 

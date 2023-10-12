@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_1190 
 
-# Benef: __Enhanced surveillance and detection__ (PBN__Benef_1190)
+# __Enhanced surveillance and detection__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Increasing testing frequency ensures enhanced surveillance and detection, allowing for early identification of reinfections and appropriate interventions
+* [Contributions to the mitigation of the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_245.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [pilz_contributions_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_245.md)
+* [previously infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_465.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors can invest in testing infrastructure and technology, providing valuable data for public health agencies and potential partnerships.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1326.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [previously infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_465.md)
+Increasing testing frequency ensures enhanced surveillance and detection, allowing for early identification of reinfections and appropriate interventions
 

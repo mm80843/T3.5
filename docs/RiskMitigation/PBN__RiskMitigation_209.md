@@ -1,12 +1,12 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__RiskMitigation_209 
 
-# RiskMitigation: __Increase greenspace availability__ (PBN__RiskMitigation_209)
-
-## Property: has_MitigationRisk
-
-* [Lack of access to greenspace](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_169.md)
+# __Increase greenspace availability__
 
 ## Property: has_MitigationBenefit
 
 * [Improved cardiovascular health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_225.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of access to greenspace](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_169.md)
 

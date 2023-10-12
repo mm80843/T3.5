@@ -1,6 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_118 
 
-# Stakeholder: __visitors__ (PBN__Stakeholder_118)
+# __visitors__
+
+## This Stakeholder is identified by the following QID
+
+* [Q2528360](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2528360.md)
+
+## This Stakeholder can get these Benefits from mitigation measures
+
+* [Improved air quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_192.md)
+* [Reduced risk of virus transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_177.md)
+* [Reduced transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_207.md)
+* [Reduced contact with surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_210.md)
+* [Enhanced sense of safety](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_267.md)
+* [Reduced airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_997.md)
+* [Reduced surface contamination](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1199.md)
 
 ## Risk affecting this stakeholder
 
@@ -56,18 +70,4 @@
 * [associated](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2323.md)
 * [Surface-to-person transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2371.md)
 * [Person-to-person transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2372.md)
-
-## Property: has_StakeholderID
-
-* [Q2528360](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2528360.md)
-
-## Property: has_BenefitForPeople
-
-* [Improved air quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_192.md)
-* [Reduced risk of virus transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_177.md)
-* [Reduced transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_207.md)
-* [Reduced contact with surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_210.md)
-* [Enhanced sense of safety](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_267.md)
-* [Reduced airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_997.md)
-* [Reduced surface contamination](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1199.md)
 

@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_1253 
 
-# Benef: __Increased in-service life of buildings__ (PBN__Benef_1253)
+# __Increased in-service life of buildings__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Green roofs protect the building envelope from extreme weather conditions, increasing its durability and lifespan.
+* [The role of green roofs in post COVID-19 confinement: An analysis of willingness to pay](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_262.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [manso_role_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_262.md)
+* [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Building owners investing in green roofs can save maintenance and repair costs and increase the value of their properties.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1408.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
+Green roofs protect the building envelope from extreme weather conditions, increasing its durability and lifespan.
 

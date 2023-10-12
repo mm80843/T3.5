@@ -1,21 +1,21 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_66 
 
-# Benef: __Economic recovery__ (PBN__Benef_66)
+# __Economic recovery__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Green investments stimulate economic recovery and create jobs.
+* [Covid-19 and the politics of sustainable energy transitions](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_14.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [kuzemko_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_14.md)
+* [governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
+* [sustainable energy companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_48.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Investing in green stimulus measures can lead to economic growth and job creation in the sustainable energy sector.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_66.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
-* [sustainable energy companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_48.md)
+Green investments stimulate economic recovery and create jobs.
 

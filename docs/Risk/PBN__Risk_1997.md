@@ -1,30 +1,30 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_1997 
 
-# Risk: __Limited access to software and hardware__ (PBN__Risk_1997)
-
-## Property: has_RiskHealth
-
-* [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_5.md)
-
-## List of stakeholders linked to the risk
-
-* [none](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_629.md)
+# __Limited access to software and hardware__
 
 ## Property: has_RiskISO_Purpose
 
 * [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
 
-## Articles mentionning the risk
+## Property: has_RiskType
 
-* [rokooei_perception_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_293.md)
+* [economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_3.md)
 
-## Property: has_RiskDescription
+## Stakeholders who can mitigate this risk
+
+* [none](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_629.md)
+
+## Property: has_RiskHealth
+
+* [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_5.md)
+
+## Description of the risk
 
 Participants reported limited access to software and hardware necessary for remote work during the pandemic.
 
-## People affected by this risk
+## Articles mentionning the risk
 
-* [construction professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_529.md)
+* [Perception of COVID-19 impacts on the construction industry over time](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_293.md)
 
 ## Technologies linked to the risk
 
@@ -32,17 +32,13 @@ Participants reported limited access to software and hardware necessary for remo
 * [cloud-based systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1455.md)
 * [hardware resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1456.md)
 
-## Property: has_RiskType
+## People affected by this risk
 
-* [economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_3.md)
+* [construction professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_529.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
-
-## Name of the risk
-
-Hindered ability to perform job tasks effectively and efficiently.
 
 ## Mitigations of this risk
 
@@ -51,4 +47,8 @@ Hindered ability to perform job tasks effectively and efficiently.
 ## Property: has_RiskGBN
 
 * [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Name of the risk
+
+Hindered ability to perform job tasks effectively and efficiently.
 

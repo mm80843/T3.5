@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_82 
 
-# Benef: __Decreased vector-human contact__ (PBN__Benef_82)
+# __Decreased vector-human contact__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Strategic landscaping in suburban areas can reduce contact between disease vectors and humans, decreasing the risk of vector-borne diseases.
+* [Vector-borne disease, climate change and urban design](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_17.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [ogden_vector-borne_2016](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_17.md)
+* [public health](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_58.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors in suburban landscape design would benefit from improved public health and the associated economic benefits of reduced healthcare costs.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_81.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [public health](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_58.md)
+Strategic landscaping in suburban areas can reduce contact between disease vectors and humans, decreasing the risk of vector-borne diseases.
 

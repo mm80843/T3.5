@@ -1,12 +1,12 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_854 
 
-# Technology: __hydrogen peroxide__ (PBN__Technology_854)
+# __hydrogen peroxide__
 
-## Property: has_TechnologyID
-
-* [Q171877](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q171877.md)
-
-## Property: has_TechnologyRisk
+## Risks linked to this technology
 
 * [Inactivation of coronaviruses by biocidal agents in suspension tests](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1549.md)
+
+## This Technology is identified by the following QID
+
+* [Q171877](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q171877.md)
 

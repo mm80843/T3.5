@@ -1,8 +1,8 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_346 
 
-# Stakeholder: __project owners__ (PBN__Stakeholder_346)
+# __project owners__
 
-## Property: has_BenefitForPeople
+## This Stakeholder can get these Benefits from mitigation measures
 
 * [Faster project completion](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_836.md)
 * [Improved financial performance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_837.md)

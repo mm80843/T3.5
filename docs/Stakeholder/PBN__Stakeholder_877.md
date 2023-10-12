@@ -1,8 +1,8 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_877 
 
-# Stakeholder: __organizations supporting evidence-informed policy-making__ (PBN__Stakeholder_877)
+# __organizations supporting evidence-informed policy-making__
 
-## Property: has_OwnerRisk
+## Risks that can be mitigated by this stakeholder
 
 * [Inconsistent use of research evidence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1358.md)
 

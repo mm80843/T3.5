@@ -1,6 +1,6 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_583 
 
-# Stakeholder: __occupants of residential buildings in kuwait__ (PBN__Stakeholder_583)
+# __occupants of residential buildings in kuwait__
 
 ## Risk affecting this stakeholder
 

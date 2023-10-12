@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_985 
 
-# Benef: __Access to education__ (PBN__Benef_985)
+# __Access to education__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Online learning provides access to education for students, especially those who may not have access to traditional education systems
+* [How COVID-19 Redefines the Concept of Sustainability](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_202.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [hakovirta_how_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_202.md)
+* [students](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_101.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors in education technology would benefit from increased demand for online learning platforms and services](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1087.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [students](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_101.md)
+Online learning provides access to education for students, especially those who may not have access to traditional education systems
 

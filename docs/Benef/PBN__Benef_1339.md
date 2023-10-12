@@ -1,21 +1,21 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_1339 
 
-# Benef: __Improved Accuracy__ (PBN__Benef_1339)
+# __Improved Accuracy__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Utilizing updated guidelines and scientific research can help improve the accuracy of information on coronavirus prevention.
+* [COVID-19 misinformation: Accuracy of articles about coronavirus prevention mostly shared on social media](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_283.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [obiala_covid-19_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_283.md)
+* [public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_52.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors can benefit from implementing accurate content evaluation by improving the reputation and credibility of their platforms, attracting more users and advertisers.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1506.md)
 * [Private investors can benefit from implementing improved guidelines and scientific research by attracting more users and advertisers who seek up-to-date and accurate information.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1509.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_52.md)
+Utilizing updated guidelines and scientific research can help improve the accuracy of information on coronavirus prevention.
 

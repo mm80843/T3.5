@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_676 
 
-# Benef: __Resilient transport infrastructure to prevent virus spread__ (PBN__Benef_676)
+# __Resilient transport infrastructure to prevent virus spread__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Developing and planning resilient transport infrastructure can limit the spread of respiratory viruses in urban areas, reducing the risk of pandemics.
+* [Respiratory pandemics, urban planning and design: A multidisciplinary rapid review of the literature](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_133.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [harris_respiratory_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_133.md)
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors would benefit from investing in these infrastructure projects as they would enhance the connectivity and accessibility of their properties, improving their market value and attracting businesses and residents.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_723.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+Developing and planning resilient transport infrastructure can limit the spread of respiratory viruses in urban areas, reducing the risk of pandemics.
 

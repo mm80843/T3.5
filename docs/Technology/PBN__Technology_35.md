@@ -1,12 +1,8 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_35 
 
-# Technology: __none__ (PBN__Technology_35)
+# __none__
 
-## Property: has_TechnologyID
-
-* [Q715045](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q715045.md)
-
-## Property: has_TechnologyRisk
+## Risks linked to this technology
 
 * [Airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_252.md)
 * [UV susceptibility of viral aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_338.md)
@@ -80,4 +76,8 @@
 * [Variability and specificity of PCR assays](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2339.md)
 * [Presence of other coronaviruses in wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2340.md)
 * [Surface-to-person transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2371.md)
+
+## This Technology is identified by the following QID
+
+* [Q715045](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q715045.md)
 

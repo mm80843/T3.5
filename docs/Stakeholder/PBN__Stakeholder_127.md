@@ -1,10 +1,21 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_127 
 
-# Stakeholder: __vulnerable populations__ (PBN__Stakeholder_127)
+# __vulnerable populations__
 
-## Property: has_StakeholderSubgroup
+## This Stakeholder is identified by the following QID
 
-* [Vulnerable Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_82.md)
+* [Q3376054](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3376054.md)
+
+## This Stakeholder can get these Benefits from mitigation measures
+
+* [Protection of privacy and vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_220.md)
+* [Poverty reduction](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_288.md)
+* [Reduced inequality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_293.md)
+* [Improved access to food](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_686.md)
+* [Enhanced resilience and well-being](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1034.md)
+* [Improved food availability and quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1065.md)
+* [Improved access to clean water and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1068.md)
+* [Extended reach of WBE](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1213.md)
 
 ## Risk affecting this stakeholder
 
@@ -38,22 +49,11 @@
 * [False and misleading information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2126.md)
 * [Limited Capacity to Comply](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2279.md)
 
-## Property: has_StakeholderID
-
-* [Q3376054](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3376054.md)
-
-## Property: has_StakeholderGroup
+## This Stakeholder belongs to this StakeholderGroup
 
 * [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
 
-## Property: has_BenefitForPeople
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Protection of privacy and vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_220.md)
-* [Poverty reduction](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_288.md)
-* [Reduced inequality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_293.md)
-* [Improved access to food](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_686.md)
-* [Enhanced resilience and well-being](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1034.md)
-* [Improved food availability and quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1065.md)
-* [Improved access to clean water and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1068.md)
-* [Extended reach of WBE](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1213.md)
+* [Vulnerable Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_82.md)
 

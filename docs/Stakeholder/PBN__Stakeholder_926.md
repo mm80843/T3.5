@@ -1,19 +1,19 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_926 
 
-# Stakeholder: __especially in close proximity to potential infectors__ (PBN__Stakeholder_926)
+# __especially in close proximity to potential infectors__
 
-## Property: has_StakeholderSubgroup
+## This Stakeholder is identified by the following QID
 
+* [Q1662346](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1662346.md)
 
 ## Risk affecting this stakeholder
 
 * [Bad use of air-conditioning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1427.md)
 
-## Property: has_StakeholderID
-
-* [Q1662346](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1662346.md)
-
-## Property: has_StakeholderGroup
+## This Stakeholder belongs to this StakeholderGroup
 
 * [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
 

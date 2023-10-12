@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_324 
 
-# Benef: __Diverse sensor integration__ (PBN__Benef_324)
+# __Diverse sensor integration__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-IBEM integrates multiple sensors for air temperature, relative humidity, CO2, PM2.5, and illuminance, providing a more comprehensive understanding of IEQ.
+* [An Intelligent IEQ Monitoring and Feedback System: Development and Applications](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_62.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [geng_intelligent_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_62.md)
+* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Enhanced research capabilities, ability to study correlations between different IEQ parameters.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_341.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+IBEM integrates multiple sensors for air temperature, relative humidity, CO2, PM2.5, and illuminance, providing a more comprehensive understanding of IEQ.
 

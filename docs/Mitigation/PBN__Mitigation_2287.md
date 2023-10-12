@@ -1,19 +1,19 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2287 
 
-# Mitigation: __Switch off heat/cold recovery__ (PBN__Mitigation_2287)
-
-## Property: has_MitigationRisk
-
-
-## Property: has_MitigationSource
-
-* [vranay_adaptation_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_214.md)
-
-## Property: has_MitigationTechnology
-
-* [hvac systems with this capability](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4389.md)
+# __Switch off heat/cold recovery__
 
 ## Property: has_MitigationPrinciple
 
 If HVAC systems can handle it, switch off heat/cold recovery from the exhaust air in the case of leaked heat exchangers
+
+## Property: has_MitigationSource
+
+* [Adaptation of HVAC Systems to Reduce the Spread of COVID-19 in Buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_214.md)
+
+## Risks possibly mitigated by this Mitigation
+
+
+## This Mitigation is enabled by the following technologies
+
+* [hvac systems with this capability](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4389.md)
 

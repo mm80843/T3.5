@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_714 
 
-# Benef: __Client satisfaction__ (PBN__Benef_714)
+# __Client satisfaction__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Ensures the safety of workforce and minimizes project risks
+* [The impact of COVID-19 outbreak on United Kingdom infrastructure sector](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_141.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [jallow_impact_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_141.md)
+* [clients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_297.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Enhances client trust and project success](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_766.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [clients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_297.md)
+Ensures the safety of workforce and minimizes project risks
 

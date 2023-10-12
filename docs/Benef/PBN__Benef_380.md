@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_380 
 
-# Benef: __Improved protection against potential issues__ (PBN__Benef_380)
+# __Improved protection against potential issues__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Reviewing and adjusting contracts and service agreements can help construction companies address potential protection issues and mitigate risks related to the decline in housing construction
+* [The Effects of Pandemic on Construction Industry in the UK](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_75.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [shibani_effects_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_75.md)
+* [construction companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_181.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [By protecting themselves against potential issues and risks, construction companies can safeguard their financial stability, improve project outcomes, and secure future business opportunities](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_408.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [construction companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_181.md)
+Reviewing and adjusting contracts and service agreements can help construction companies address potential protection issues and mitigate risks related to the decline in housing construction
 

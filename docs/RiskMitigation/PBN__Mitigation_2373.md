@@ -1,19 +1,19 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__Mitigation_2373 
 
-# RiskMitigation: __Mobile temperature measurement__ (PBN__Mitigation_2373)
-
-## Property: has_MitigationRisk
-
-
-## Property: has_MitigationSource
-
-* [whitelaw_applications_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_127.md)
-
-## Property: has_MitigationTechnology
-
-* [thermometers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3922.md)
+# __Mobile temperature measurement__
 
 ## Property: has_MitigationPrinciple
 
 Measurement of individuals' temperature at the entry points of workplaces, schools, and public transport
+
+## Property: has_MitigationSource
+
+* [Applications of digital technology in COVID-19 pandemic planning and response](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_127.md)
+
+## Risks possibly mitigated by this Mitigation
+
+
+## This Mitigation is enabled by the following technologies
+
+* [thermometers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3922.md)
 

@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_407 
 
-# Benef: __Reduction of perceived risk__ (PBN__Benef_407)
+# __Reduction of perceived risk__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Providing transparent and credible information reduces tourists' perception of risk and increases their confidence in the safety of destinations and tourism services
+* [Should I Stay or Should I Go? Tourists’ COVID-19 Risk Perception and Vacation Behavior Shift](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_81.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [bratic_should_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_81.md)
+* [tourists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_72.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors can benefit by investing in communication strategies that help restore tourists’ confidence in travel safety, leading to an increase in tourism demand.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_436.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [tourists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_72.md)
+Providing transparent and credible information reduces tourists' perception of risk and increases their confidence in the safety of destinations and tourism services
 

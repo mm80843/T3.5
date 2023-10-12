@@ -1,22 +1,22 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_1042 
 
-# Benef: __Strengthening of local economies and employment opportunities__ (PBN__Benef_1042)
+# __Strengthening of local economies and employment opportunities__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Supporting proximity-based trade and entrepreneurship can stimulate local economies, create jobs, and foster innovation and creativity in urban areas.
+* [Proximity and post-COVID-19 urban development: Reflections from Milan, Italy](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_216.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [tricarico_proximity_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_216.md)
+* [workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_128.md)
+* [entrepreneurs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_417.md)
+* [small and medium-sized businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_416.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors can benefit by investing in projects that support proximity-based trade and entrepreneurship, as it can lead to increased business opportunities, job creation, and economic growth in urban areas.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1163.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_128.md)
-* [entrepreneurs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_417.md)
-* [small and medium-sized businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_416.md)
+Supporting proximity-based trade and entrepreneurship can stimulate local economies, create jobs, and foster innovation and creativity in urban areas.
 

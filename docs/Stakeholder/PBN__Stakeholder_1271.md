@@ -1,19 +1,19 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_1271 
 
-# Stakeholder: __high-density urban areas__ (PBN__Stakeholder_1271)
+# __high-density urban areas__
 
-## Property: has_StakeholderSubgroup
+## This Stakeholder is identified by the following QID
 
+* [Q2069949](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2069949.md)
 
 ## Risk affecting this stakeholder
 
 * [Population Density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1880.md)
 
-## Property: has_StakeholderID
-
-* [Q2069949](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2069949.md)
-
-## Property: has_StakeholderGroup
+## This Stakeholder belongs to this StakeholderGroup
 
 * [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
 

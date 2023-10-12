@@ -1,21 +1,21 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_1351 
 
-# Benef: __Increased skill levels__ (PBN__Benef_1351)
+# __Increased skill levels__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Improved access to training and upskilling programs for immigrants
+* [What has been the impact of the COVID-19 pandemic on immigrants? An update on recent evidence](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_287.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [oecd_what_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_287.md)
+* [employers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_180.md)
+* [immigrants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_489.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Increased employability and career advancement opportunities for immigrants](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1526.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [employers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_180.md)
-* [immigrants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_489.md)
+Improved access to training and upskilling programs for immigrants
 

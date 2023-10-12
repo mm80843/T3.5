@@ -1,10 +1,21 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_62 
 
-# Stakeholder: __children__ (PBN__Stakeholder_62)
+# __children__
 
-## Property: has_StakeholderSubgroup
+## This Stakeholder is identified by the following QID
 
-* [Age Defined Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_77.md)
+* [Q21075684](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q21075684.md)
+* [Q520537](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q520537.md)
+
+## This Stakeholder can get these Benefits from mitigation measures
+
+* [Decreased respiratory illness in children](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_96.md)
+* [Lower incidence of pneumonia in children](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_97.md)
+* [Increased accessibility to green space](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_187.md)
+* [Continued access to education](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_287.md)
+* [Improved access to routine health services](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1067.md)
+* [Reduction in domestic violence and family conflict](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1137.md)
+* [Increased inclusivity and accessibility](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1250.md)
 
 ## Risk affecting this stakeholder
 
@@ -19,22 +30,11 @@
 * [Gender-based violence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1877.md)
 * [Limited access to natural spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2114.md)
 
-## Property: has_StakeholderID
-
-* [Q21075684](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q21075684.md)
-* [Q520537](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q520537.md)
-
-## Property: has_StakeholderGroup
+## This Stakeholder belongs to this StakeholderGroup
 
 * [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
 
-## Property: has_BenefitForPeople
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Decreased respiratory illness in children](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_96.md)
-* [Lower incidence of pneumonia in children](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_97.md)
-* [Increased accessibility to green space](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_187.md)
-* [Continued access to education](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_287.md)
-* [Improved access to routine health services](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1067.md)
-* [Reduction in domestic violence and family conflict](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1137.md)
-* [Increased inclusivity and accessibility](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1250.md)
+* [Age Defined Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_77.md)
 

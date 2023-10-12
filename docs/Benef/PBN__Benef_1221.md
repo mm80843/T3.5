@@ -1,21 +1,21 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_1221 
 
-# Benef: __Lower positivity rates following combined measures__ (PBN__Benef_1221)
+# __Lower positivity rates following combined measures__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Combined interventions, including PPE, testing, social distancing, and education, result in lower employee COVID-19 positivity
+* [COVID-19 Prevention and Control Measures in Workplace Settings: A Rapid Review and Meta-Analysis](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_255.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [ingram_covid-19_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_255.md)
+* [employees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_220.md)
+* [employers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_180.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Decreased workplace transmission, protection of employees’ health and well-being](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1368.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [employees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_220.md)
-* [employers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_180.md)
+Combined interventions, including PPE, testing, social distancing, and education, result in lower employee COVID-19 positivity
 

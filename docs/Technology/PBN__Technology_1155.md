@@ -1,19 +1,19 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_1155 
 
-# Technology: __active transportation infrastructure__ (PBN__Technology_1155)
+# __active transportation infrastructure__
 
-## Property: has_TechnologyRisk
+## Risks linked to this technology
 
 * [Positive health effects of NPIs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1792.md)
 
-## Property: has_StakeholderSubgroup
-
-
-## Property: has_TechnologyID
+## This Technology is identified by the following QID
 
 * [Q376799](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q376799.md)
 
-## Property: has_StakeholderGroup
+## This Technology belongs to this TechGroup
 
 * [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
+
+## This Technology belongs to this TechSubgroup
+
 

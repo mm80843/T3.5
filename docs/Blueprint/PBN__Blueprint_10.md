@@ -1,22 +1,6 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Blueprint](https://github.com/mm80843/T3.5/tree/main/docs/Blueprint/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/main/docs/Blueprint/index.md) >> Individual ID:PBN__Blueprint_10 
 
-# Blueprint: __PBN:BP_11__ (PBN__Blueprint_10)
-
-## Property: has_BPDemonstrated
-
-Chicago’s Loyola University Medical Center
-
-## Property: has_BPValueProposition
-
-UV-C light sources can kill viruses and other microorganisms, allowing air to circulate in a building without major changes to existing facilities, creating a safe indoor environment for occupants.
-
-## Property: has_BPRestriction
-
-UV-C can attack certain materials, particularly plastics used in ventilation systems, so a shielding solution may be required. For maintenance personnel, UV-C radiation can be harmful to eyes and skin.  The installation of UV lamps in the ventilation ducts is expensive and requires regular maintenance, especially because of dust deposits that render the lamps ineffective. This measure is no substitute for the highly efficient air philtres in the ventilation networks, as the particles remain in the air.
-
-## Property: has_BPTransmission
-
-Airborne
+# __PBN:BP_11__
 
 ## Property: has_BPReason
 
@@ -28,21 +12,37 @@ The correct adjustment of the UV-C radiation variables (intensity, wavelength an
 According to existing literature, it is possible to inactivate 90-99.9% of microorganisms (including the SARS-CoV virus) by installing UV-C lamps.
 UV-C irradiation is very flexible and depends on the strategy for controlling microorganisms. Various analogue systems can be found on the market: In-channel systems, upper room decontamination systems and mobile systems on rollers.
 
-## Property: has_BPProblem
+## Property: has_BPPermanent
 
-Since infectious diseases are often airborne, HVAC systems can have a major impact on the transmission of disease from one place to another. Installing UV-C light in ventilation ducts allows microorganisms to be inactivated without seriously affecting the operation of HVAC systems.
+Permanent
+
+## Property: has_BPValueProposition
+
+UV-C light sources can kill viruses and other microorganisms, allowing air to circulate in a building without major changes to existing facilities, creating a safe indoor environment for occupants.
 
 ## Property: has_BPScale
 
 Building
 
+## Property: has_BPProblem
+
+Since infectious diseases are often airborne, HVAC systems can have a major impact on the transmission of disease from one place to another. Installing UV-C light in ventilation ducts allows microorganisms to be inactivated without seriously affecting the operation of HVAC systems.
+
+## Property: has_BPRestriction
+
+UV-C can attack certain materials, particularly plastics used in ventilation systems, so a shielding solution may be required. For maintenance personnel, UV-C radiation can be harmful to eyes and skin.  The installation of UV lamps in the ventilation ducts is expensive and requires regular maintenance, especially because of dust deposits that render the lamps ineffective. This measure is no substitute for the highly efficient air philtres in the ventilation networks, as the particles remain in the air.
+
 ## Property: has_BPPhase
 
 Design & Construction
 
-## Property: has_BPPermanent
+## Property: has_BPDemonstrated
 
-Permanent
+Chicago’s Loyola University Medical Center
+
+## Property: has_BPTransmission
+
+Airborne
 
 ## Property: has_BPDescription
 
@@ -52,11 +52,11 @@ UV is one of the most common environmental control measures for elimination of m
 
 UV-C lamps are used in unoccupied spaces (either in ducts or in a room) to purify air streams that enter occupied spaces (e.g., health care facilities, offices, schools, public buildings, etc.)
 
-## Property: has_BPTitle
-
-Installing UV in ductwork
-
 ## Property: has_BPType
 
 Technical
+
+## Property: has_BPTitle
+
+Installing UV in ductwork
 

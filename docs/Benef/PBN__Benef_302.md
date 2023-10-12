@@ -1,21 +1,21 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_302 
 
-# Benef: __Improved indoor air quality and health__ (PBN__Benef_302)
+# __Improved indoor air quality and health__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Non-centralized building systems with enhanced air distribution and purification reduce the spread of airborne contaminants and improve indoor air quality.
+* [Revisiting the built environment: 10 potential development changes and paradigm shifts due to COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_59.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [cheshmehzangi_revisiting_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_59.md)
+* [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
+* [construction industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_149.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved indoor air quality and health lead to healthier occupants, increased tenant satisfaction and productivity, and higher property value.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_320.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
-* [construction industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_149.md)
+Non-centralized building systems with enhanced air distribution and purification reduce the spread of airborne contaminants and improve indoor air quality.
 

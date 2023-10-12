@@ -1,8 +1,8 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__RiskMitigation_2807 
 
-# RiskMitigation: __Raise awareness through education campaigns, provide accurate and accessible information__ (PBN__RiskMitigation_2807)
+# __Raise awareness through education campaigns, provide accurate and accessible information__
 
-## Property: has_MitigationRisk
+## Risks possibly mitigated by this Mitigation
 
 * [Lack of awareness and education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1165.md)
 

@@ -1,8 +1,8 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_309 
 
-# Stakeholder: __hospital patients and staff__ (PBN__Stakeholder_309)
+# __hospital patients and staff__
 
-## Property: has_BenefitForPeople
+## This Stakeholder can get these Benefits from mitigation measures
 
 * [Conversion to infection and isolation wards](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_755.md)
 

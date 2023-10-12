@@ -1,19 +1,19 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__Mitigation_1824 
 
-# RiskMitigation: __Soap and water access__ (PBN__Mitigation_1824)
-
-## Property: has_MitigationRisk
-
-* [Lack of sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3259.md)
-
-## Property: has_MitigationSource
-
-* [samout_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_58.md)
-
-## Property: has_MitigationTechnology
-
+# __Soap and water access__
 
 ## Property: has_MitigationPrinciple
 
 Ensure access to clean water and sanitation facilities
+
+## Property: has_MitigationSource
+
+* [COVID-19: IMPACT OF THE PANDEMIC ON THE SUSTAINABLE DEVELOPMENT GOALS](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_58.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3259.md)
+
+## This Mitigation is enabled by the following technologies
+
 

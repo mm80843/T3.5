@@ -1,21 +1,21 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_577 
 
-# Benef: __Enhanced protection for healthcare workers__ (PBN__Benef_577)
+# __Enhanced protection for healthcare workers__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Reduced risk of infection for healthcare workers
+* [Emerging Technologies to Combat the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_116.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [vaishya_emerging_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_116.md)
+* [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
+* [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors can benefit from investing in emerging technologies by improving the safety of healthcare workers, attracting skilled professionals, and reducing healthcare costs.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_630.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
-* [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
+Reduced risk of infection for healthcare workers
 

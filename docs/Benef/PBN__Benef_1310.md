@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_1310 
 
-# Benef: __Continuity of clinical care__ (PBN__Benef_1310)
+# __Continuity of clinical care__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Remote consultations and imaging analysis to maintain standard care
+* [Digital technology and COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_278.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [ting_digital_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_278.md)
+* [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Reduced physical crowding and dissemination of innovative care delivery](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1480.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
+Remote consultations and imaging analysis to maintain standard care
 

@@ -1,21 +1,21 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_1170 
 
-# Benef: __Improved efficiency of data transfer__ (PBN__Benef_1170)
+# __Improved efficiency of data transfer__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Instantaneous reporting without passing through intermediaries improves response time and reduces the omission of reports.
+* [How Can Blockchain Help People in the Event of Pandemics Such as the COVID-19?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_241.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [chang_how_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_241.md)
+* [public health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_222.md)
+* [healthcare authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_452.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved response to infectious diseases, better outbreak management, increased public trust in reporting systems.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1304.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [public health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_222.md)
-* [healthcare authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_452.md)
+Instantaneous reporting without passing through intermediaries improves response time and reduces the omission of reports.
 

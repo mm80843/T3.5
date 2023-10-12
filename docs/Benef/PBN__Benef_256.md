@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_256 
 
-# Benef: __Local food production__ (PBN__Benef_256)
+# __Local food production__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Urban/community farming promotes local food production, self-sufficiency, and a healthier diet
+* [Assessment method for new sustainability indicators providing pandemic resilience for residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_51.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [tokazhanov_assessment_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_51.md)
+* [residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Incorporating urban/community farming can enhance the property’s value and create a more sustainable living environment.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_268.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
+Urban/community farming promotes local food production, self-sufficiency, and a healthier diet
 

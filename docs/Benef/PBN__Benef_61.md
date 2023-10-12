@@ -1,21 +1,21 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_61 
 
-# Benef: __Data analysis efficiency__ (PBN__Benef_61)
+# __Data analysis efficiency__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Development of efficient bioinformatics tools enables the integration and analysis of heterogeneous data, improving effectiveness in discovering effective measures against coronaviruses.
+* [CIDO, a community-based ontology for coronavirus disease knowledge and data integration, sharing, and analysis](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_13.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [he_cido_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_13.md)
+* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+* [scientists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_46.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors can benefit from the improved efficiency in data analysis, leading to faster and more accurate identification of effective measures against coronaviruses, potentially resulting in valuable products or treatments.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_61.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
-* [scientists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_46.md)
+Development of efficient bioinformatics tools enables the integration and analysis of heterogeneous data, improving effectiveness in discovering effective measures against coronaviruses.
 

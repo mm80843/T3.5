@@ -1,18 +1,18 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__Mitigation_2066 
 
-# RiskMitigation: __Harmonisation guidelines__ (PBN__Mitigation_2066)
-
-## Property: has_MitigationRisk
-
-
-## Property: has_MitigationSource
-
-* [tacconelli_challenges_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_230.md)
-
-## Property: has_MitigationTechnology
-
+# __Harmonisation guidelines__
 
 ## Property: has_MitigationPrinciple
 
 Develop guidelines for harmonising and integrating data
+
+## Property: has_MitigationSource
+
+* [Challenges of data sharing in European Covid-19 projects: A learning opportunity for advancing pandemic preparedness and response](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_230.md)
+
+## Risks possibly mitigated by this Mitigation
+
+
+## This Mitigation is enabled by the following technologies
+
 

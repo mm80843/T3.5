@@ -1,21 +1,21 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_731 
 
-# Benef: __Hackathon__ (PBN__Benef_731)
+# __Hackathon__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Innovative solutions and collaborations stimulate economic growth and problem-solving
+* [Smart cities and the pandemic: digital technologies on the urban management of Brazilian cities](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_143.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [fariniuk_smart_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_143.md)
+* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
+* [innovators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_301.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Foster innovation and attract investment](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_785.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
-* [innovators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_301.md)
+Innovative solutions and collaborations stimulate economic growth and problem-solving
 

@@ -1,21 +1,21 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_1237 
 
-# Benef: __Enriched ontology__ (PBN__Benef_1237)
+# __Enriched ontology__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Fills the gap in epidemiological surveillance terms
+* [The COVID-19 epidemiology and monitoring ontology](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_259.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [queralt-rosinach_covid-19_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_259.md)
+* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+* [epidemiologists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_6.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Advancement in epidemiological research and analysis](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1387.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
-* [epidemiologists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_6.md)
+Fills the gap in epidemiological surveillance terms
 

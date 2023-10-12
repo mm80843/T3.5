@@ -1,21 +1,21 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_605 
 
-# Benef: __Minimize infection spreading propensity and create a safe working environment__ (PBN__Benef_605)
+# __Minimize infection spreading propensity and create a safe working environment__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Modifying office building design and layout can minimize infection spreading propensity, create a safe working environment, and reduce the risk of COVID-19 transmission among workers.
+* [COVID-19 Experience Transforming the Protective Environment of Office Buildings and Spaces](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_120.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [phapant_covid-19_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_120.md)
+* [workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_128.md)
+* [employers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_180.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors investing in modifying office building design and layout can benefit from improved worker safety, reduced absenteeism, and increased productivity, leading to higher employee satisfaction, business continuity, and potential financial gains.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_653.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_128.md)
-* [employers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_180.md)
+Modifying office building design and layout can minimize infection spreading propensity, create a safe working environment, and reduce the risk of COVID-19 transmission among workers.
 

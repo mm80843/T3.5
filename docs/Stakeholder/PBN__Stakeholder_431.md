@@ -1,6 +1,16 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_431 
 
-# Stakeholder: __architects__ (PBN__Stakeholder_431)
+# __architects__
+
+## This Stakeholder is identified by the following QID
+
+* [Q4787002](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4787002.md)
+
+## This Stakeholder can get these Benefits from mitigation measures
+
+* [Improved design quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1075.md)
+* [Consistency in parking standards](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1076.md)
+* [Adaptive design approach](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1083.md)
 
 ## Risk affecting this stakeholder
 
@@ -12,11 +22,7 @@
 * [Placement and size of openings in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1833.md)
 * [Lack of design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2106.md)
 
-## Property: has_StakeholderID
-
-* [Q4787002](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4787002.md)
-
-## Property: has_OwnerRisk
+## Risks that can be mitigated by this stakeholder
 
 * [Lack of connection with nature](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_114.md)
 * [Airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_252.md)
@@ -70,10 +76,4 @@
 * [Urban density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2028.md)
 * [Excessive noise levels](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2252.md)
 * [Inefficient space utilization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2253.md)
-
-## Property: has_BenefitForPeople
-
-* [Improved design quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1075.md)
-* [Consistency in parking standards](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1076.md)
-* [Adaptive design approach](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1083.md)
 

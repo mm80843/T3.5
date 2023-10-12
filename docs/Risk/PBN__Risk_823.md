@@ -1,6 +1,6 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_823 
 
-# Risk: __Management of pain and physical therapy during COVID-19__ (PBN__Risk_823)
+# __Management of pain and physical therapy during COVID-19__
 
 ## Mitigations of this risk
 

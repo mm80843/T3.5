@@ -1,12 +1,12 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_1200 
 
-# Technology: __risk assessment and management technologies__ (PBN__Technology_1200)
+# __risk assessment and management technologies__
 
-## Property: has_TechnologyID
-
-* [Q1058438](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1058438.md)
-
-## Property: has_TechnologyRisk
+## Risks linked to this technology
 
 * [Exposure to foreign shocks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1838.md)
+
+## This Technology is identified by the following QID
+
+* [Q1058438](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1058438.md)
 

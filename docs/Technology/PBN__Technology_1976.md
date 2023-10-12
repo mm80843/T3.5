@@ -1,12 +1,12 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_1976 
 
-# Technology: __development of storage protocols for maintaining sample integrity__ (PBN__Technology_1976)
+# __development of storage protocols for maintaining sample integrity__
 
-## Property: has_TechnologyID
-
-* [Q461671](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q461671.md)
-
-## Property: has_TechnologyRisk
+## Risks linked to this technology
 
 * [Degradation of viral signal in storage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2369.md)
+
+## This Technology is identified by the following QID
+
+* [Q461671](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q461671.md)
 

@@ -1,16 +1,16 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_912 
 
-# Benef: __Increased public awareness__ (PBN__Benef_912)
+# __Increased public awareness__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Provides accurate information on medication use, reducing the spread of misinformation and potential harm.
+* [Infodemic and the spread of fake news in the COVID-19-era](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_299.md)
+* [The changes in the effects of social media use of Cypriots due to COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_185.md)
+* [What our response to the COVID-19 pandemic tells us of our capacity to respond to climate change](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_257.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [orso_infodemic_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_299.md)
-* [kaya_changes_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_185.md)
-* [gemenne_what_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_257.md)
+* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
@@ -18,7 +18,7 @@ Provides accurate information on medication use, reducing the spread of misinfor
 * [Private investors benefit from increased demand for climate-friendly investments and improved long-term asset value.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1373.md)
 * [Private investors would benefit from improved public health outcomes and reduced healthcare costs associated with misinformation-induced complications.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1601.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
+Provides accurate information on medication use, reducing the spread of misinformation and potential harm.
 

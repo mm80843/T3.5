@@ -1,21 +1,21 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_861 
 
-# Benef: __Enhanced quality control of scientific research__ (PBN__Benef_861)
+# __Enhanced quality control of scientific research__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Improvement in research quality and reliability, minimizing the publication of flawed studies.
+* [Rise of the preprint: how rapid data sharing during COVID-19 has changed science forever](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_173.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [watson_rise_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_173.md)
+* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+* [scientific community](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_348.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Increased investments in research, improved reputation of research institutions and researchers, potential collaborations and funding opportunities.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_938.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
-* [scientific community](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_348.md)
+Improvement in research quality and reliability, minimizing the publication of flawed studies.
 

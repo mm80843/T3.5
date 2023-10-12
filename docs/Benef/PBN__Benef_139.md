@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_139 
 
-# Benef: __Feasible solution for mega-tall buildings__ (PBN__Benef_139)
+# __Feasible solution for mega-tall buildings__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Simulates people flow in mega-tall buildings where real measurements are difficult
+* [Building occupancy estimation with people flow modeling in AnyLogic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_29.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [li_building_2016](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_29.md)
+* [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Enables accurate occupancy estimation in mega-tall buildings, resulting in better building design and operation decisions](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_138.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
+Simulates people flow in mega-tall buildings where real measurements are difficult
 

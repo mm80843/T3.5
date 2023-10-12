@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_1555 
 
-# Stakeholder: __community organizers__ (PBN__Stakeholder_1555)
+# __community organizers__
 
-## Property: has_StakeholderSubgroup
-
-* [Community Leaders/Organizers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_127.md)
-
-## Property: has_StakeholderID
+## This Stakeholder is identified by the following QID
 
 * [Q3269648](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3269648.md)
 
-## Property: has_StakeholderGroup
+## Risks that can be mitigated by this stakeholder
+
+* [Dependence on non-contact interaction activities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2327.md)
+
+## This Stakeholder belongs to this StakeholderGroup
 
 * [Community Stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_8.md)
 
-## Property: has_OwnerRisk
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Dependence on non-contact interaction activities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2327.md)
+* [Community Leaders/Organizers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_127.md)
 

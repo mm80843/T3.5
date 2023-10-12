@@ -1,18 +1,18 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_53 
 
-# Mitigation: __Planning and design interventions__ (PBN__Mitigation_53)
-
-## Property: has_MitigationRisk
-
-
-## Property: has_MitigationSource
-
-* [ahmadpoor_urban_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_41.md)
-
-## Property: has_MitigationTechnology
-
+# __Planning and design interventions__
 
 ## Property: has_MitigationPrinciple
 
 Urban planning and design interventions can include the development of green spaces to improve the health and well-being of communities.
+
+## Property: has_MitigationSource
+
+* [Urban form: Realising the value of green space: a planners’ perspective on the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_41.md)
+
+## Risks possibly mitigated by this Mitigation
+
+
+## This Mitigation is enabled by the following technologies
+
 

@@ -1,12 +1,12 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__RiskMitigation_24 
 
-# RiskMitigation: __Job proximity and active transportation support__ (PBN__RiskMitigation_24)
-
-## Property: has_MitigationRisk
-
-* [Urban inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_19.md)
+# __Job proximity and active transportation support__
 
 ## Property: has_MitigationBenefit
 
 * [Lower vulnerability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_32.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Urban inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_19.md)
 

@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_314 
 
-# Benef: __Removal of particles__ (PBN__Benef_314)
+# __Removal of particles__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Filtration removes airborne particles
+* [Applications of ultraviolet germicidal irradiation disinfection in health care facilities: Effective adjunct, but not stand-alone technology](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_61.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [memarzadeh_applications_2010](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_61.md)
+* [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved indoor air quality and occupant health](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_332.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
+Filtration removes airborne particles
 

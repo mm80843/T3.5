@@ -1,12 +1,12 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_357 
 
-# Technology: __-__ (PBN__Technology_357)
+# __-__
 
-## Property: has_TechnologyID
-
-* [Q180309](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q180309.md)
-
-## Property: has_TechnologyRisk
+## Risks linked to this technology
 
 * [Metropolitan area-specific study](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1256.md)
+
+## This Technology is identified by the following QID
+
+* [Q180309](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q180309.md)
 

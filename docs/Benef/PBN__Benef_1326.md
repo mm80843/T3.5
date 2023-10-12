@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_1326 
 
-# Benef: __Enhanced indoor environmental quality__ (PBN__Benef_1326)
+# __Enhanced indoor environmental quality__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Modern heating and cooling systems can provide better control over indoor temperature, humidity, and air quality, creating a more comfortable and healthier indoor environment.
+* [A comprehensive review on indoor air quality monitoring systems for enhanced public health](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_281.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [saini_comprehensive_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_281.md)
+* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Investment in improved indoor heating and cooling systems can improve the comfort and well-being of building occupants, potentially increasing property value and attracting tenants or buyers.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1499.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
+Modern heating and cooling systems can provide better control over indoor temperature, humidity, and air quality, creating a more comfortable and healthier indoor environment.
 

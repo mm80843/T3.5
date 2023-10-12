@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_946 
 
-# Benef: __Increased workplace efficiency__ (PBN__Benef_946)
+# __Increased workplace efficiency__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Redesigning the workplace to accommodate social distancing measures can increase workplace efficiency by optimizing the use of space and improving workflow.
+* [A study on office workplace modification during the COVID-19 pandemic in The Netherlands](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_193.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [hou_study_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_193.md)
+* [employers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_180.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors would benefit from investing in workplace redesign as it would lead to increased productivity and efficiency, resulting in higher profits and asset value.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1036.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [employers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_180.md)
+Redesigning the workplace to accommodate social distancing measures can increase workplace efficiency by optimizing the use of space and improving workflow.
 

@@ -1,21 +1,21 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_798 
 
-# Benef: __Brand image reinforcement__ (PBN__Benef_798)
+# __Brand image reinforcement__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Branded signs reflect the retailer's identity and image, reinforcing brand recognition and loyalty
+* [Retail Signage During the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_159.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [mcneish_retail_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_159.md)
+* [customers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_221.md)
+* [retailers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_323.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Reinforcing brand image can lead to increased customer trust and preference, resulting in improved customer engagement and potential increase in sales.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_867.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [customers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_221.md)
-* [retailers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_323.md)
+Branded signs reflect the retailer's identity and image, reinforcing brand recognition and loyalty
 

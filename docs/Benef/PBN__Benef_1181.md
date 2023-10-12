@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_1181 
 
-# Benef: __Equality__ (PBN__Benef_1181)
+# __Equality__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Reduces disparities, provides equal access to resources and support
+* [Non-medical Interventions to Reduce the Burden of Psychosocial and Economic Impacts of COVID-19 Pandemic: A Scope Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_243.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [azmand_non-medical_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_243.md)
+* [vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_115.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Increases social equity and improves social cohesion, leading to stable and inclusive communities](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1316.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_115.md)
+Reduces disparities, provides equal access to resources and support
 

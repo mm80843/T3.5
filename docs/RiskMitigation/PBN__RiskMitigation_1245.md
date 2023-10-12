@@ -1,11 +1,11 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__RiskMitigation_1245 
 
-# RiskMitigation: __for measurements__ (PBN__RiskMitigation_1245)
-
-## Property: has_MitigationRisk
-
-* [variants of the virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_903.md)
+# __for measurements__
 
 ## Property: has_MitigationBenefit
 
+
+## Risks possibly mitigated by this Mitigation
+
+* [variants of the virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_903.md)
 

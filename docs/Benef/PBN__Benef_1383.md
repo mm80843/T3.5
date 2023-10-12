@@ -1,21 +1,21 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_1383 
 
-# Benef: __Efficient supply chain operations__ (PBN__Benef_1383)
+# __Efficient supply chain operations__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Prioritizing access for delivery to ensure availability of goods in short supply
+* [The Smart City and Covid‐19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_294.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [webb_smart_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_294.md)
+* [retail businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_418.md)
+* [logistics providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_537.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Smooth flow of goods, reduced disruptions in supply chains](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1570.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [retail businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_418.md)
-* [logistics providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_537.md)
+Prioritizing access for delivery to ensure availability of goods in short supply
 

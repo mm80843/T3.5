@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_1130 
 
-# Benef: __Improved distribution of pollutants__ (PBN__Benef_1130)
+# __Improved distribution of pollutants__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Opening windows can help to remove odors and smoke from specific rooms, improving air quality in those areas.
+* [The Effect of Opening Windows on Air Change Rates in Two Homes](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_235.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [howard-reed_effect_2002](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_235.md)
+* [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved indoor air quality, which can lead to improved health outcomes and increased comfort for occupants.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1262.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
+Opening windows can help to remove odors and smoke from specific rooms, improving air quality in those areas.
 

@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_478 
 
-# Benef: __Protecting lives and livelihoods__ (PBN__Benef_478)
+# __Protecting lives and livelihoods__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Better and smarter targeting of limited fiscal support provides greater protection for workers and firms, leading to improved asset values and overall economic stability.
+* [Pandemics and Automation: Will the Lost Jobs Come Back?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_98.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [saadi-sedik_pandemics_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_98.md)
+* [workers and firms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_211.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors benefit from increased asset values and reduced risk in their investments.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_521.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [workers and firms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_211.md)
+Better and smarter targeting of limited fiscal support provides greater protection for workers and firms, leading to improved asset values and overall economic stability.
 

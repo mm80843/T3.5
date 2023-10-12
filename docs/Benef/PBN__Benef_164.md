@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_164 
 
-# Benef: __Improved access to healthcare services__ (PBN__Benef_164)
+# __Improved access to healthcare services__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Increased availability and accessibility of healthcare services in informal settlements
+* [Local response in health emergencies: key considerations for addressing the COVID-19 pandemic in informal urban settlements](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_36.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [wilkinson_local_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_36.md)
+* [residents of informal settlements](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_95.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved health outcomes, reduced healthcare costs for residents](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_166.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [residents of informal settlements](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_95.md)
+Increased availability and accessibility of healthcare services in informal settlements
 

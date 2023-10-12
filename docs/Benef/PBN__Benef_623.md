@@ -1,21 +1,21 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_623 
 
-# Benef: __Enhanced energy infrastructure__ (PBN__Benef_623)
+# __Enhanced energy infrastructure__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Government stimulus packages that target energy infrastructure can lead to the development and deployment of renewable energy technologies, improving energy efficiency and grid resilience
+* [Contextualizing the Covid-19 pandemic for a carbon-constrained world: Insights for sustainability transitions, energy justice, and research methodology](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_123.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [sovacool_contextualizing_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_123.md)
+* [society](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_53.md)
+* [energy firms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_253.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors can benefit from increased market demand for renewable energy technologies, leading to business growth and investment opportunities.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_666.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [society](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_53.md)
-* [energy firms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_253.md)
+Government stimulus packages that target energy infrastructure can lead to the development and deployment of renewable energy technologies, improving energy efficiency and grid resilience
 

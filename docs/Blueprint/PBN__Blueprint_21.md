@@ -1,22 +1,6 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Blueprint](https://github.com/mm80843/T3.5/tree/main/docs/Blueprint/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/main/docs/Blueprint/index.md) >> Individual ID:PBN__Blueprint_21 
 
-# Blueprint: __PBN:BP_22__ (PBN__Blueprint_21)
-
-## Property: has_BPDemonstrated
-
-https://pubmed.ncbi.nlm.nih.gov/12701901/
-
-## Property: has_BPValueProposition
-
-In general, BP can be used to monitor the attachment of biofilms, which provides meaningful information for optimising the parameters of distribution systems. On the other hand, activated carbon philtres remove all kinds of impurities that may still be present in tap water.
-
-## Property: has_BPRestriction
-
-Monitoring biofilm growth in water distribution systems is not a simple, time-consuming or costly procedure. The cost of installing and setting up such a monitoring system is not just a one-off cost. Continuous monitoring requires maintenance and handling costs that may limit the implementation of this measure.
-
-## Property: has_BPTransmission
-
-Direct contact & Fomite
+# __PBN:BP_22__
 
 ## Property: has_BPReason
 
@@ -28,21 +12,37 @@ Continuous monitoring of biofilm growth in distribution systems is the only way 
 
 This BP is essentially based on continuous monitoring of biofilm growth in distribution networks. Today, there are several devices that can be installed either directly in the river or in a bypass line to assess this problem. Examples of these devices are optical biofilm sensors and electrochemical sensors. This measure again requires activated carbon filtres to eliminate the risk of contamination of household water.
 
-## Property: has_BPProblem
+## Property: has_BPPermanent
 
-Currently, the most widely used method to combat the growth of biofilms in distribution networks is the use of chlorine. This compound is usually dosed in excess, which has a negative impact on the chemical and aesthetic quality of the drinking water. This approach, on the other hand, allows for the timely application of other, more effective control measures (cleaning measures), as well as the response to unforeseen changes in operating conditions that could promote biofilm growth.
+Permanent
+
+## Property: has_BPValueProposition
+
+In general, BP can be used to monitor the attachment of biofilms, which provides meaningful information for optimising the parameters of distribution systems. On the other hand, activated carbon philtres remove all kinds of impurities that may still be present in tap water.
 
 ## Property: has_BPScale
 
 Both
 
+## Property: has_BPProblem
+
+Currently, the most widely used method to combat the growth of biofilms in distribution networks is the use of chlorine. This compound is usually dosed in excess, which has a negative impact on the chemical and aesthetic quality of the drinking water. This approach, on the other hand, allows for the timely application of other, more effective control measures (cleaning measures), as well as the response to unforeseen changes in operating conditions that could promote biofilm growth.
+
+## Property: has_BPRestriction
+
+Monitoring biofilm growth in water distribution systems is not a simple, time-consuming or costly procedure. The cost of installing and setting up such a monitoring system is not just a one-off cost. Continuous monitoring requires maintenance and handling costs that may limit the implementation of this measure.
+
 ## Property: has_BPPhase
 
 Operational
 
-## Property: has_BPPermanent
+## Property: has_BPDemonstrated
 
-Permanent
+https://pubmed.ncbi.nlm.nih.gov/12701901/
+
+## Property: has_BPTransmission
+
+Direct contact & Fomite
 
 ## Property: has_BPDescription
 
@@ -53,11 +53,11 @@ Considering that during the pandemic many public facilities remained closed for 
 
 This measure is to be implemented in all buildings of the GBNs. The sensors are to be installed at various locations along the distribution lines of each GBN.
 
-## Property: has_BPTitle
-
-Drinking Water Safety - Biofilm formation
-
 ## Property: has_BPType
 
 Technical
+
+## Property: has_BPTitle
+
+Drinking Water Safety - Biofilm formation
 

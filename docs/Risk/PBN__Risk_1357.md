@@ -1,49 +1,45 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_1357 
 
-# Risk: __Socio-economic factors and regional characteristics__ (PBN__Risk_1357)
-
-## Property: has_RiskHealth
-
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## List of stakeholders linked to the risk
-
-* [government agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_55.md)
-* [non-profit organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_804.md)
+# __Socio-economic factors and regional characteristics__
 
 ## Property: has_RiskISO_Purpose
 
 * [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
-
-## Articles mentionning the risk
-
-* [ehlert_socio-economic_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_40.md)
-
-## Property: has_RiskDescription
-
-Socio-economic and demographic factors, such as income, education, employment, and population density, can influence the spread of COVID-19 at an ecological level
-
-## People affected by this risk
-
-* [communities and populations with socio-economic disparities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_876.md)
-
-## Technologies linked to the risk
-
-* [use of data analytics to identify high-risk areas and populations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_563.md)
-* [implementation of targeted public health interventions based on regional characteristics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_564.md)
 
 ## Property: has_RiskType
 
 * [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
 * [economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_3.md)
 
+## Stakeholders who can mitigate this risk
+
+* [government agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_55.md)
+* [non-profit organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_804.md)
+
+## Property: has_RiskHealth
+
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Description of the risk
+
+Socio-economic and demographic factors, such as income, education, employment, and population density, can influence the spread of COVID-19 at an ecological level
+
+## Articles mentionning the risk
+
+* [The socio-economic determinants of COVID-19: A spatial analysis of German county level data](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_40.md)
+
+## Technologies linked to the risk
+
+* [use of data analytics to identify high-risk areas and populations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_563.md)
+* [implementation of targeted public health interventions based on regional characteristics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_564.md)
+
+## People affected by this risk
+
+* [communities and populations with socio-economic disparities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_876.md)
+
 ## Property: has_RiskISO_Impact
 
 * [Living and working environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_1.md)
-
-## Name of the risk
-
-Impact on the distribution and severity of infections within regions and communities
 
 ## Mitigations of this risk
 
@@ -52,4 +48,8 @@ Impact on the distribution and severity of infections within regions and communi
 ## Property: has_RiskGBN
 
 * [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Name of the risk
+
+Impact on the distribution and severity of infections within regions and communities
 

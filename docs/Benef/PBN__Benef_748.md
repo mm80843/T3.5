@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_748 
 
-# Benef: __Positive environmental and social outcomes__ (PBN__Benef_748)
+# __Positive environmental and social outcomes__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Empowering individuals to make responsible travel choices can lead to reduced congestion, improved air quality, and a sense of personal satisfaction for contributing to a sustainable future.
+* [Responsible Transport: A post-COVID agenda for transport policy and practice](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_148.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [budd_responsible_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_148.md)
+* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors in responsible travel initiatives can benefit from improved public perception, increased customer loyalty, and potential collaborations with government and non-profit organizations.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_813.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
+Empowering individuals to make responsible travel choices can lead to reduced congestion, improved air quality, and a sense of personal satisfaction for contributing to a sustainable future.
 

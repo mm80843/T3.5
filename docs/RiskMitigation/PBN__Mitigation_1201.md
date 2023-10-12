@@ -1,18 +1,18 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__Mitigation_1201 
 
-# RiskMitigation: __Economic analysis__ (PBN__Mitigation_1201)
-
-## Property: has_MitigationRisk
-
-
-## Property: has_MitigationSource
-
-* [manso_role_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_262.md)
-
-## Property: has_MitigationTechnology
-
+# __Economic analysis__
 
 ## Property: has_MitigationPrinciple
 
 Consider the economic value of green roofs in urban green infrastructure incentive policies
+
+## Property: has_MitigationSource
+
+* [The role of green roofs in post COVID-19 confinement: An analysis of willingness to pay](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_262.md)
+
+## Risks possibly mitigated by this Mitigation
+
+
+## This Mitigation is enabled by the following technologies
+
 

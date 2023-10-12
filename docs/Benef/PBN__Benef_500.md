@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_500 
 
-# Benef: __Identification and isolation of potential cases__ (PBN__Benef_500)
+# __Identification and isolation of potential cases__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Tracing close contacts of confirmed cases allows for early identification and isolation of potential cases, preventing further spread of the virus
+* [Preventing and Controlling COVID-19: A Practical-Based Review in Offshore Workplace](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_102.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [sunandar_preventing_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_102.md)
+* [workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_128.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Investing in close contact tracing reduces the risk of COVID-19 outbreaks in the offshore workplace, protecting workers and ensuring business continuity.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_544.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_128.md)
+Tracing close contacts of confirmed cases allows for early identification and isolation of potential cases, preventing further spread of the virus
 

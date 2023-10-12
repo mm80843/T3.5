@@ -1,21 +1,21 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_1392 
 
-# Benef: __Improved contact tracing__ (PBN__Benef_1392)
+# __Improved contact tracing__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Smartphone apps enable effective contact tracing and identification of clusters, aiding in virus containment.
+* [Internet of things (IoT) applications to fight against COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_295.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [singh_internet_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_295.md)
+* [public health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_0.md)
+* [civilians](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_542.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved contact tracing helps control the spread of the virus and potentially reduces the duration of lockdown measures.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1580.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [public health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_0.md)
-* [civilians](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_542.md)
+Smartphone apps enable effective contact tracing and identification of clusters, aiding in virus containment.
 

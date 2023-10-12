@@ -1,22 +1,22 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_858 
 
-# Benef: __Accurate and reliable information dissemination__ (PBN__Benef_858)
+# __Accurate and reliable information dissemination__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Access to up-to-date and reliable scientific findings, aiding in informed decision-making and policy formulation.
+* [Rise of the preprint: how rapid data sharing during COVID-19 has changed science forever](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_173.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [watson_rise_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_173.md)
+* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+* [public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_52.md)
+* [policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_126.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved public perception of science and research, increased trust in academic institutions, potential economic benefits from better-informed policies and interventions.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_935.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
-* [public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_52.md)
-* [policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_126.md)
+Access to up-to-date and reliable scientific findings, aiding in informed decision-making and policy formulation.
 

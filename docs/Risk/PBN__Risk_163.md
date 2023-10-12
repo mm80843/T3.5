@@ -1,12 +1,17 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_163 
 
-# Risk: __Ethical considerations__ (PBN__Risk_163)
+# __Ethical considerations__
 
-## Property: has_RiskHealth
+## Property: has_RiskISO_Purpose
 
-* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
 
-## List of stakeholders linked to the risk
+## Property: has_RiskType
+
+* [ethical](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_8.md)
+* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
+
+## Stakeholders who can mitigate this risk
 
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
 * [wearable device manufacturers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_744.md)
@@ -15,18 +20,23 @@
 * [data collectors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_892.md)
 * [ethics committees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_893.md)
 
-## Property: has_RiskISO_Purpose
+## Property: has_RiskHealth
 
-* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
+
+## Description of the risk
+
+Researchers must be mindful of the ethical implications of their research, especially when collecting sensitive data related to physical or mental health.
 
 ## Articles mentionning the risk
 
-* [burki_wearable_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_195.md)
-* [fell_validity_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_289.md)
+* [Wearable technology and COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_195.md)
+* [Validity of energy social research during and after COVID-19: challenges, considerations, and responses](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_289.md)
 
-## Property: has_RiskDescription
+## Technologies linked to the risk
 
-Researchers must be mindful of the ethical implications of their research, especially when collecting sensitive data related to physical or mental health.
+* [ethical frameworks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_320.md)
+* [governance mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_321.md)
 
 ## People affected by this risk
 
@@ -36,23 +46,9 @@ Researchers must be mindful of the ethical implications of their research, espec
 * [regulatory bodies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_708.md)
 * [data collectors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_892.md)
 
-## Technologies linked to the risk
-
-* [ethical frameworks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_320.md)
-* [governance mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_321.md)
-
-## Property: has_RiskType
-
-* [ethical](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_8.md)
-* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
-
 ## Property: has_RiskISO_Impact
 
 * [Governance, empowerment and engagement](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_6.md)
-
-## Name of the risk
-
-Potential privacy breaches, additional burden on participants, ethical concerns.
 
 ## Mitigations of this risk
 
@@ -63,4 +59,8 @@ Potential privacy breaches, additional burden on participants, ethical concerns.
 ## Property: has_RiskGBN
 
 * [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Name of the risk
+
+Potential privacy breaches, additional burden on participants, ethical concerns.
 

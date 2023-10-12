@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_785 
 
-# Benef: __Increased supply stability__ (PBN__Benef_785)
+# __Increased supply stability__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Diversifying suppliers reduces the risk of material shortage, ensuring a stable supply chain and minimizing project delays.
+* [Influence between COVID-19 Impacts and Project Stakeholders in Chilean Construction Projects](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_157.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [araya_influence_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_157.md)
+* [suppliers and subcontractors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_320.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors would benefit from improved project timelines and reduced costs.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_853.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [suppliers and subcontractors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_320.md)
+Diversifying suppliers reduces the risk of material shortage, ensuring a stable supply chain and minimizing project delays.
 

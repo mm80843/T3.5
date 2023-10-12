@@ -1,32 +1,32 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_2329 
 
-# Risk: __Cybersecurity risks and privacy concerns__ (PBN__Risk_2329)
-
-## Property: has_RiskHealth
-
-* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
-
-## List of stakeholders linked to the risk
-
-* [cybersecurity experts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_789.md)
-* [internet service providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1553.md)
-* [platform developers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1558.md)
+# __Cybersecurity risks and privacy concerns__
 
 ## Property: has_RiskISO_Purpose
 
 * [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
 
-## Articles mentionning the risk
+## Property: has_RiskType
 
-* [wang_urban_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_291.md)
+* [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
 
-## Property: has_RiskDescription
+## Stakeholders who can mitigate this risk
+
+* [cybersecurity experts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_789.md)
+* [internet service providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1553.md)
+* [platform developers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1558.md)
+
+## Property: has_RiskHealth
+
+* [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
+
+## Description of the risk
 
 Increased reliance on digital platforms and non-contact interaction activities may expose residents to cybersecurity risks and potential privacy breaches.
 
-## People affected by this risk
+## Articles mentionning the risk
 
-* [residents who engage in online activities and share personal information](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1557.md)
+* [Urban Community Sustainable Development Patterns under the Influence of COVID-19: A Case Study Based on the Non-Contact Interaction Perspective of Hangzhou City](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_291.md)
 
 ## Technologies linked to the risk
 
@@ -34,17 +34,13 @@ Increased reliance on digital platforms and non-contact interaction activities m
 * [antivirus software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1920.md)
 * [encryption protocols to safeguard digital platforms and protect residents’ data and privacy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1921.md)
 
-## Property: has_RiskType
+## People affected by this risk
 
-* [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
+* [residents who engage in online activities and share personal information](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1557.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
-
-## Name of the risk
-
-Identity theft, data breaches, and invasion of privacy, leading to financial loss and reputational damage.
 
 ## Mitigations of this risk
 
@@ -53,4 +49,8 @@ Identity theft, data breaches, and invasion of privacy, leading to financial los
 ## Property: has_RiskGBN
 
 * [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Name of the risk
+
+Identity theft, data breaches, and invasion of privacy, leading to financial loss and reputational damage.
 

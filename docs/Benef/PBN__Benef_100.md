@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_100 
 
-# Benef: __Reduction in transmission of respiratory syncytical virus__ (PBN__Benef_100)
+# __Reduction in transmission of respiratory syncytical virus__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Hygienic measures have shown good effectiveness in reducing the transmission of respiratory syncytical virus and similar viruses, leading to improved health outcomes and reduced healthcare costs.
+* [Physical interventions to interrupt or reduce the spread of respiratory viruses: systematic review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_22.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [jefferson_physical_2008](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_22.md)
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Investing in hygienic measures can reduce the transmission of respiratory viruses, prevent epidemics, and minimize social and economic consequences, leading to improved public health outcomes and potentially increased asset value for healthcare facilities and public spaces.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_97.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+Hygienic measures have shown good effectiveness in reducing the transmission of respiratory syncytical virus and similar viruses, leading to improved health outcomes and reduced healthcare costs.
 

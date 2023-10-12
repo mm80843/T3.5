@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_530 
 
-# Benef: __Gender equality in the workforce__ (PBN__Benef_530)
+# __Gender equality in the workforce__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Equal access to employment, equal pay, and career advancement opportunities
+* [COVID-19 and the UN Sustainable Development Goals: Threat to Solidarity or an Opportunity?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_109.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [leal_filho_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_109.md)
+* [women](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_23.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Gender equality leads to greater economic empowerment of women, increased productivity, and positive impacts on economic growth.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_581.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [women](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_23.md)
+Equal access to employment, equal pay, and career advancement opportunities
 

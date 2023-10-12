@@ -1,21 +1,21 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_1399 
 
-# Benef: __Decreased workload for healthcare staff__ (PBN__Benef_1399)
+# __Decreased workload for healthcare staff__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Remote testing and telemedicine reduce the workload and stress levels of healthcare staff, allowing them to focus on critical cases.
+* [Leveraging Digital Transformation Technologies to Tackle COVID-19: Proposing a Privacy-First Holistic Framework](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_297.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [arpaci_leveraging_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_297.md)
+* [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
+* [hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_64.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved efficiency and quality of care, reduced risk of virus transmission](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1587.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
-* [hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_64.md)
+Remote testing and telemedicine reduce the workload and stress levels of healthcare staff, allowing them to focus on critical cases.
 

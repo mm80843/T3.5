@@ -1,21 +1,21 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_620 
 
-# Benef: __Improved infection control__ (PBN__Benef_620)
+# __Improved infection control__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Adequate ventilation systems in makeshift hospitals reduce the risk of airborne transmission of infectious diseases, improving infection control and protecting the health of patients and healthcare providers.
+* [Emergency Healthcare Facilities: Managing Design in a Post Covid-19 World](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_122.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [marinelli_emergency_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_122.md)
+* [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
+* [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors can benefit from investing in adequate ventilation systems by creating safer healthcare environments, attracting more patients and healthcare providers, and potentially reducing the risk of legal liabilities.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_662.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
-* [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
+Adequate ventilation systems in makeshift hospitals reduce the risk of airborne transmission of infectious diseases, improving infection control and protecting the health of patients and healthcare providers.
 

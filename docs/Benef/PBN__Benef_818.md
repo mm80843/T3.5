@@ -1,21 +1,21 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_818 
 
-# Benef: __Real-time feedback on policy intervention__ (PBN__Benef_818)
+# __Real-time feedback on policy intervention__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Provides insight into the changing social behavior of urban residents and allows for adaptation of urban governance policies
+* [Smart cities and a data-driven response to COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_164.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [james_smart_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_164.md)
+* [policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_126.md)
+* [local and national](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_331.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors could benefit from improved decision-making and more effective policy interventions to mitigate risks and control the spread of diseases.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_887.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_126.md)
-* [local and national](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_331.md)
+Provides insight into the changing social behavior of urban residents and allows for adaptation of urban governance policies
 

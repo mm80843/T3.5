@@ -1,12 +1,12 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_539 
 
-# Technology: __open communication__ (PBN__Technology_539)
+# __open communication__
 
-## Property: has_TechnologyID
-
-* [Q11024](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q11024.md)
-
-## Property: has_TechnologyRisk
+## Risks linked to this technology
 
 * [Inadequate governance and leadership](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1344.md)
+
+## This Technology is identified by the following QID
+
+* [Q11024](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q11024.md)
 

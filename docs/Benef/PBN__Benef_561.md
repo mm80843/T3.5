@@ -1,22 +1,22 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_561 
 
-# Benef: __Reduction in transmission of SARS-CoV-2__ (PBN__Benef_561)
+# __Reduction in transmission of SARS-CoV-2__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Inactivation of the virus on high-touch surfaces and reduced risk of infection for workers
+* [Exploring the Non-Medical impacts of Covid-19 using Natural Language Processing](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_114.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [agade_exploring_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_114.md)
+* [food industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_237.md)
+* [employees in retail sectors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_238.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved safety and wellbeing of employees, reduced healthcare costs for infected workers](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_613.md)
 * [Improved safety and continuity of food supply chain, reduced risk of product contamination](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_616.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [food industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_237.md)
-* [employees in retail sectors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_238.md)
+Inactivation of the virus on high-touch surfaces and reduced risk of infection for workers
 

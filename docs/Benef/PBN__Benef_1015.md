@@ -1,21 +1,21 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_1015 
 
-# Benef: __Early detection of disease outbreaks__ (PBN__Benef_1015)
+# __Early detection of disease outbreaks__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Anticipating and forecasting disease outbreaks can help initiate swift public health responses and reduce the impact of epidemics.
+* [Prototype Early Warning Systems for Vector-Borne Diseases in Europe](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_212.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [semenza_prototype_2015](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_212.md)
+* [policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_126.md)
+* [public health practitioners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_404.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved public health outcomes and reduced economic costs from disease outbreaks.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1136.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_126.md)
-* [public health practitioners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_404.md)
+Anticipating and forecasting disease outbreaks can help initiate swift public health responses and reduce the impact of epidemics.
 

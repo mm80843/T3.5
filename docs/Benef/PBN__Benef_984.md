@@ -1,21 +1,21 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_984 
 
-# Benef: __Environmental protection__ (PBN__Benef_984)
+# __Environmental protection__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Increased funding for conservation efforts would help protect endangered species and ecosystems
+* [How COVID-19 Redefines the Concept of Sustainability](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_202.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [hakovirta_how_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_202.md)
+* [conservation efforts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_390.md)
+* [endangered species](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_391.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors in conservation organizations would benefit from increased funding opportunities and potential long-term ecological and economic returns](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1085.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [conservation efforts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_390.md)
-* [endangered species](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_391.md)
+Increased funding for conservation efforts would help protect endangered species and ecosystems
 

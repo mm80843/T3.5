@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__Mitigation_2143 
 
-# RiskMitigation: __Proper management of ICT infrastructure__ (PBN__Mitigation_2143)
-
-## Property: has_MitigationRisk
-
-* [ICT service disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3354.md)
-
-## Property: has_MitigationSource
-
-* [tokazhanov_assessment_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_51.md)
-
-## Property: has_MitigationTechnology
-
-* [reliable and constant ict connection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4263.md)
+# __Proper management of ICT infrastructure__
 
 ## Property: has_MitigationPrinciple
 
 Ensure access to stable and reliable ICT infrastructure
+
+## Property: has_MitigationSource
+
+* [Assessment method for new sustainability indicators providing pandemic resilience for residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_51.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [ICT service disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3354.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [reliable and constant ict connection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4263.md)
 

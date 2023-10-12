@@ -1,21 +1,21 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_1345 
 
-# Benef: __Reduction in energy waste__ (PBN__Benef_1345)
+# __Reduction in energy waste__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Upgrading to energy-efficient systems and equipment can lead to significant energy savings and improved environmental performance.
+* [Addressing the impact of COVID-19 lockdown on energy use in municipal buildings: A case study in Florianópolis, Brazil](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_286.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [geraldi_addressing_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_286.md)
+* [building owners and occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_143.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors would benefit from improved asset value and reduced operating costs, leading to higher return on investment.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1518.md)
 * [Private investors would benefit from reduced energy expenses and improved asset value, as well as potential incentives or tax benefits for implementing energy-efficient measures.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1521.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [building owners and occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_143.md)
+Upgrading to energy-efficient systems and equipment can lead to significant energy savings and improved environmental performance.
 

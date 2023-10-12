@@ -1,25 +1,26 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_145 
 
-# Benef: __nan__ (PBN__Benef_145)
+# __nan__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-nan
+* [COVID19-Routes: A Safe Pedestrian Navigation Service](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_201.md)
+* [What drives unverified information sharing and cyberchondria during the COVID-19 pandemic?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_31.md)
+* [Impacts of COVID-19 on residential building energy use and performance](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_97.md)
+* [COVID-19 media fatigue: predictors of decreasing interest and avoidance of COVID-19–related news](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_153.md)
+* [Continuous IEQ monitoring system: Context and development](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_160.md)
+* [A Surface Coating that Rapidly Inactivates SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_199.md)
+* [Envisioning a resilient future for biodiversity conservation in the wake of the COVID‐19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_221.md)
+* [Contributions to the mitigation of the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_245.md)
+* [Attitudes towards outdoor and neighbour noise during the COVID-19 lockdown: A case study in London](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_247.md)
+* [The COVID-19 epidemiology and monitoring ontology](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_259.md)
+* [Designing Post COVID-19 Buildings: Approaches for Achieving Healthy Buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_282.md)
+* [COVID-19 and regional solutions for mitigating the risk of SME finance in selected ASEAN member states](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_292.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [cantarero_covid19-routes_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_201.md)
-* [laato_what_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_31.md)
-* [kawka_impacts_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_97.md)
-* [buneviciene_covid-19_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_153.md)
-* [parkinson_continuous_2019](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_160.md)
-* [behzadinasab_surface_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_199.md)
-* [thurstan_envisioning_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_221.md)
-* [pilz_contributions_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_245.md)
-* [lee_attitudes_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_247.md)
-* [queralt-rosinach_covid-19_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_259.md)
-* [navaratnam_designing_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_282.md)
-* [taghizadeh-hesary_covid-19_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_292.md)
+* [communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_4.md)
+* [transportation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_387.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
@@ -34,8 +35,7 @@ nan
 * [and monitoring of new virus variants.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1386.md)
 * [for better public health response](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1388.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_4.md)
-* [transportation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_387.md)
+nan
 

@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_878 
 
-# Benef: __Improved comparability and accuracy__ (PBN__Benef_878)
+# __Improved comparability and accuracy__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Standardized protocols and platforms will ensure consistent and reliable results, making it easier to compare data from different laboratories and countries.
+* [Wastewater-Based Epidemiology to monitor COVID-19 outbreak: Present and future diagnostic methods to be in your radar](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_178.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [barcelo_wastewater-based_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_178.md)
+* [scientists and researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_355.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved accuracy and reliability of data will increase the value of research findings and attract more funding and collaboration opportunities.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_959.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [scientists and researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_355.md)
+Standardized protocols and platforms will ensure consistent and reliable results, making it easier to compare data from different laboratories and countries.
 

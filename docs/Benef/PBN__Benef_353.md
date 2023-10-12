@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_353 
 
-# Benef: __Improved access to healthy diets__ (PBN__Benef_353)
+# __Improved access to healthy diets__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Ensuring equitable distribution of nutritious food improves dietary behaviors and decreases food insecurity
+* [Implications of COVID-19 control measures for diet and physical activity, and lessons for addressing other pandemics facing rapidly urbanising countries](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_68.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [oni_implications_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_68.md)
+* [urban poor](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_170.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved nutrition, reduced disease burden, increased economic productivity](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_376.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [urban poor](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_170.md)
+Ensuring equitable distribution of nutritious food improves dietary behaviors and decreases food insecurity
 

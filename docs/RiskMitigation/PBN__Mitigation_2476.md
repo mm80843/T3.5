@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__Mitigation_2476 
 
-# RiskMitigation: __3D-Printed Isolation Wards__ (PBN__Mitigation_2476)
-
-## Property: has_MitigationRisk
-
-* [None](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2827.md)
-
-## Property: has_MitigationSource
-
-* [zhao_supporting_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_266.md)
-
-## Property: has_MitigationTechnology
-
-* [3d printing technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4517.md)
+# __3D-Printed Isolation Wards__
 
 ## Property: has_MitigationPrinciple
 
 Creating easily transportable and ecologically protective isolation wards for efficient response to outbreaks.
+
+## Property: has_MitigationSource
+
+* [Supporting Technologies for COVID-19 Prevention: Systemized Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_266.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [None](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2827.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [3d printing technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4517.md)
 

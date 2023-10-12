@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_10 
 
-# Benef: __Increased reporting of domestic violence__ (PBN__Benef_10)
+# __Increased reporting of domestic violence__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Enhanced safety for victims of domestic violence through increased reporting and intervention
+* [Dangerous liaisons? Applying the social harm perspective to the social inequality, housing and health trifecta during the Covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_2.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [gurney_dangerous_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_2.md)
+* [victims of domestic violence](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_7.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved well-being and protection for victims and potential reduction in harm](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_10.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [victims of domestic violence](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_7.md)
+Enhanced safety for victims of domestic violence through increased reporting and intervention
 

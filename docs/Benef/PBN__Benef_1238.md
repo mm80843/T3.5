@@ -1,21 +1,21 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_1238 
 
-# Benef: __Improved logical__ (PBN__Benef_1238)
+# __Improved logical__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Enhances consistency and validity of data analysis
+* [The COVID-19 epidemiology and monitoring ontology](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_259.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [queralt-rosinach_covid-19_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_259.md)
+* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+* [data analysts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_479.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Increases reliability of research findings and data](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1389.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
-* [data analysts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_479.md)
+Enhances consistency and validity of data analysis
 

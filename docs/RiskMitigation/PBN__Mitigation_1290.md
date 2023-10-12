@@ -1,18 +1,18 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__Mitigation_1290 
 
-# RiskMitigation: __Walking, Cycling, and Public Transportation__ (PBN__Mitigation_1290)
-
-## Property: has_MitigationRisk
-
-
-## Property: has_MitigationSource
-
-* [megahed_antivirus-built_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_298.md)
-
-## Property: has_MitigationTechnology
-
+# __Walking, Cycling, and Public Transportation__
 
 ## Property: has_MitigationPrinciple
 
 Promote walking, cycling, and other forms of active transportation to reduce reliance on mass public transportation that can contribute to the spread of diseases.
+
+## Property: has_MitigationSource
+
+* [Antivirus-built environment: Lessons learned from Covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_298.md)
+
+## Risks possibly mitigated by this Mitigation
+
+
+## This Mitigation is enabled by the following technologies
+
 

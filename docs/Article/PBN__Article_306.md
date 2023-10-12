@@ -1,6 +1,6 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_306 
 
-# Article: __wang_sars-cov-2_2020 wang_sars-cov-2_2020__ (PBN__Article_306)
+# __wang_sars-cov-2_2020 wang_sars-cov-2_2020__
 
 ## List of risks in an article
 

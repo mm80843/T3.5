@@ -1,28 +1,28 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_330 
 
-# Article: __burridge_ventilation_2021__ (PBN__Article_330)
+# __The ventilation of buildings and other mitigating measures for COVID-19: a focus on wintertime__
 
-## Property: has_ArticleDOI
+## Title of the article
+
+The ventilation of buildings and other mitigating measures for COVID-19: a focus on wintertime
+
+## DOI of the article
 
 10.1098/rspa.2020.0855
 
-## Property: has_ArticleYear
+## Year of publication
 
 2021
 
-## Property: has_ArticleRef
+## Referenced by other articles
 
-* [morawska_how_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_121.md)
-* [marr_mechanistic_2019](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_54.md)
-* [dietz_2019_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_288.md)
-* [bedell_efficacy_2016](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_269.md)
-* [van_doremalen_aerosol_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_21.md)
-* [kampf_persistence_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_233.md)
-* [beggs_upper-room_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_163.md)
-* [bolashikov_methods_2009](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_240.md)
-* [escombe_upper-room_2009](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_105.md)
-
-## Property: has_ArticleTitle
-
-The ventilation of buildings and other mitigating measures for COVID-19: a focus on wintertime
+* [How can airborne transmission of COVID-19 indoors be minimised?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_121.md)
+* [Mechanistic insights into the effect of humidity on airborne influenza virus survival, transmission and incidence](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_54.md)
+* [2019 Novel Coronavirus (COVID-19) Pandemic: Built Environment Considerations To Reduce Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_288.md)
+* [Efficacy of an Automated Multiple Emitter Whole-Room Ultraviolet-C Disinfection System Against Coronaviruses MHV and MERS-CoV](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_269.md)
+* [Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_21.md)
+* [Persistence of coronaviruses on inanimate surfaces and their inactivation with biocidal agents](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_233.md)
+* [Upper-room ultraviolet air disinfection might help to reduce COVID-19 transmission in buildings: a feasibility study](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_163.md)
+* [Methods for air cleaning and protection of building occupants from airborne pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_240.md)
+* [Upper-Room Ultraviolet Light and Negative Air Ionization to Prevent Tuberculosis Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_105.md)
 

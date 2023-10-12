@@ -1,10 +1,56 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_20 
 
-# Stakeholder: __individuals__ (PBN__Stakeholder_20)
+# __individuals__
 
-## Property: has_StakeholderSubgroup
+## This Stakeholder is identified by the following QID
 
-* [General Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_88.md)
+* [Q795052](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q795052.md)
+
+## This Stakeholder can get these Benefits from mitigation measures
+
+* [Enhanced access to healthcare for all](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_24.md)
+* [Achieve Sustainable Development Goals (SDGs)](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_27.md)
+* [Improved psychological well-being](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_84.md)
+* [Reduced transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_207.md)
+* [Reduced transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_232.md)
+* [Early detection of infection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_278.md)
+* [Clean water and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_291.md)
+* [Real-time disease detection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_483.md)
+* [Contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_484.md)
+* [Confidentiality of personal health information](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_516.md)
+* [Automated generation of non-intrusive alerts](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_586.md)
+* [Social and lifestyle benefits](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_603.md)
+* [Risk mitigation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_680.md)
+* [Reduced risk of surface contamination](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_719.md)
+* [Reduced risk of aerosol transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_720.md)
+* [Early identification and isolation of cases](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_721.md)
+* [Reduction in surface contamination](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_722.md)
+* [Enhanced economic support and stability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_780.md)
+* [Lower healthcare costs](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_926.md)
+* [Lower sickness benefit transfers](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_927.md)
+* [Identification of coping strategies](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_932.md)
+* [Early detection of infections](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_940.md)
+* [Monitoring vaccine efficacy](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_941.md)
+* [Early detection of reinfections](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_942.md)
+* [Quick, non-invasive testing](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_943.md)
+* [Objective symptom monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_944.md)
+* [Early detection of SARS-CoV-2 infection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_952.md)
+* [Individualized dosing](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_953.md)
+* [Mapping disease progression and identifying long COVID cases](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_954.md)
+* [Protection of personal data](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_956.md)
+* [Broader healthcare applications](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_959.md)
+* [Security and privacy of user data](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1054.md)
+* [Contact tracing and remote monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1093.md)
+* [Self-monitoring and assessment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1160.md)
+* [Remote counseling services](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1163.md)
+* [Improvement in mental health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1174.md)
+* [Increased motivation and adherence to exercise](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1175.md)
+* [Reduction of transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1342.md)
+* [Protection of individuals](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1343.md)
+* [Early detection of asymptomatic and pre-symptomatic cases](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1394.md)
+* [Improved diagnostic performance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1395.md)
+* [Enhanced functionality and reliability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1396.md)
+* [Prevention of economic shrinkage](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1401.md)
 
 ## Risk affecting this stakeholder
 
@@ -19,15 +65,7 @@
 * [High Costs of Compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2276.md)
 * [Cybersecurity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2282.md)
 
-## Property: has_StakeholderID
-
-* [Q795052](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q795052.md)
-
-## Property: has_StakeholderGroup
-
-* [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
-
-## Property: has_OwnerRisk
+## Risks that can be mitigated by this stakeholder
 
 * [Spread of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_91.md)
 * [COVID-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_133.md)
@@ -91,49 +129,11 @@
 * [Lack of hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2287.md)
 * [Person-to-person transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2372.md)
 
-## Property: has_BenefitForPeople
+## This Stakeholder belongs to this StakeholderGroup
 
-* [Enhanced access to healthcare for all](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_24.md)
-* [Achieve Sustainable Development Goals (SDGs)](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_27.md)
-* [Improved psychological well-being](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_84.md)
-* [Reduced transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_207.md)
-* [Reduced transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_232.md)
-* [Early detection of infection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_278.md)
-* [Clean water and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_291.md)
-* [Real-time disease detection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_483.md)
-* [Contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_484.md)
-* [Confidentiality of personal health information](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_516.md)
-* [Automated generation of non-intrusive alerts](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_586.md)
-* [Social and lifestyle benefits](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_603.md)
-* [Risk mitigation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_680.md)
-* [Reduced risk of surface contamination](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_719.md)
-* [Reduced risk of aerosol transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_720.md)
-* [Early identification and isolation of cases](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_721.md)
-* [Reduction in surface contamination](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_722.md)
-* [Enhanced economic support and stability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_780.md)
-* [Lower healthcare costs](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_926.md)
-* [Lower sickness benefit transfers](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_927.md)
-* [Identification of coping strategies](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_932.md)
-* [Early detection of infections](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_940.md)
-* [Monitoring vaccine efficacy](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_941.md)
-* [Early detection of reinfections](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_942.md)
-* [Quick, non-invasive testing](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_943.md)
-* [Objective symptom monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_944.md)
-* [Early detection of SARS-CoV-2 infection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_952.md)
-* [Individualized dosing](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_953.md)
-* [Mapping disease progression and identifying long COVID cases](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_954.md)
-* [Protection of personal data](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_956.md)
-* [Broader healthcare applications](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_959.md)
-* [Security and privacy of user data](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1054.md)
-* [Contact tracing and remote monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1093.md)
-* [Self-monitoring and assessment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1160.md)
-* [Remote counseling services](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1163.md)
-* [Improvement in mental health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1174.md)
-* [Increased motivation and adherence to exercise](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1175.md)
-* [Reduction of transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1342.md)
-* [Protection of individuals](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1343.md)
-* [Early detection of asymptomatic and pre-symptomatic cases](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1394.md)
-* [Improved diagnostic performance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1395.md)
-* [Enhanced functionality and reliability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1396.md)
-* [Prevention of economic shrinkage](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1401.md)
+* [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [General Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_88.md)
 

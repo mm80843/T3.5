@@ -1,29 +1,6 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Blueprint](https://github.com/mm80843/T3.5/tree/main/docs/Blueprint/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/main/docs/Blueprint/index.md) >> Individual ID:PBN__Blueprint_0 
 
-# Blueprint: __PBN:BP_1__ (PBN__Blueprint_0)
-
-## Property: has_BPDemonstrated
-
-https://doi.org/10.1371/journal.pcbi.1009264
-
-## Property: has_BPValueProposition
-
-IThe implementation of this measure will allow control over occupancy, while maintaining the quality of services and productivity at the usual level and providing flexibility to the end users of these services.
-
-## Property: has_BPRestriction
-
-A number of limitations and constraints were identified for this specific measure:
-•	 non-acceptance by users 
-•	 change of behavioural patterns
-•	 risk of duplication of resources - inefficiencies in the organisation could result in higher costs to end users to mitigate financial impact
-•	 better planning needed, including testing for users
-•	 misinformation
-•	 slow response time
-•	 number of users
-
-## Property: has_BPTransmission
-
-Airborne & Respiratory & Direct Contact
+# __PBN:BP_1__
 
 ## Property: has_BPReason
 
@@ -36,21 +13,44 @@ The good functioning of the rotational shift system is based on three main pilla
 • education of users through information campaigns about the logic of this measure 
 • a robust testing and shift coverage plan for a quick response time in case of infection in one of the groups
 
-## Property: has_BPProblem
+## Property: has_BPPermanent
 
-Reduced possibility of disease transmission due to less crowded areas, less social mixing between staff groups, and reduced disruption of services due to unavailable labour.
+Temporary
+
+## Property: has_BPValueProposition
+
+IThe implementation of this measure will allow control over occupancy, while maintaining the quality of services and productivity at the usual level and providing flexibility to the end users of these services.
 
 ## Property: has_BPScale
 
 Building
 
+## Property: has_BPProblem
+
+Reduced possibility of disease transmission due to less crowded areas, less social mixing between staff groups, and reduced disruption of services due to unavailable labour.
+
+## Property: has_BPRestriction
+
+A number of limitations and constraints were identified for this specific measure:
+•	 non-acceptance by users 
+•	 change of behavioural patterns
+•	 risk of duplication of resources - inefficiencies in the organisation could result in higher costs to end users to mitigate financial impact
+•	 better planning needed, including testing for users
+•	 misinformation
+•	 slow response time
+•	 number of users
+
 ## Property: has_BPPhase
 
 Operational
 
-## Property: has_BPPermanent
+## Property: has_BPDemonstrated
 
-Temporary
+https://doi.org/10.1371/journal.pcbi.1009264
+
+## Property: has_BPTransmission
+
+Airborne & Respiratory & Direct Contact
 
 ## Property: has_BPDescription
 
@@ -60,11 +60,11 @@ During the COVID-19 pandemic, large organisations, as well as many educational p
 
 This measure should be used applied in enclosed and busy areas such as offices (during working hours) or large retail outlets during morning and evening rush hours and at weekends. For this measure to work, greater flexibility is envisaged on the part of the main actors - the workers - who should be willing to accept the restriction of their access.
 
-## Property: has_BPTitle
-
-Rotating shift schedule
-
 ## Property: has_BPType
 
 Behavioural
+
+## Property: has_BPTitle
+
+Rotating shift schedule
 

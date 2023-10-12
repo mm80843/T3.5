@@ -1,4 +1,4 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [BenefReturn](https://github.com/mm80843/T3.5/tree/main/docs/BenefReturn/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [BenefReturn](https://github.com/mm80843/T3.5/tree/main/docs/BenefReturn/index.md) >> Individual ID:PBN__BenefReturn_435 
 
-# BenefReturn: __Private investors could benefit by investing in a comprehensive approach to reduce transmission as it would contribute to a healthier population, decreased healthcare demand, and potentially provide economic stability by preventing a prolonged epidemic and the associated economic disruptions.__ (PBN__BenefReturn_435)
+# __Private investors could benefit by investing in a comprehensive approach to reduce transmission as it would contribute to a healthier population, decreased healthcare demand, and potentially provide economic stability by preventing a prolonged epidemic and the associated economic disruptions.__
 

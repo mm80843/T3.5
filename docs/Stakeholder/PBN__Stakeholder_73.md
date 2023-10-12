@@ -1,11 +1,65 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_73 
 
-# Stakeholder: __government__ (PBN__Stakeholder_73)
+# __government__
 
-## Property: has_StakeholderSubgroup
+## This Stakeholder is identified by the following QID
 
-* [Government and Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_8.md)
-* [Governmental Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_5.md)
+* [Q665565](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q665565.md)
+* [Q7188](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7188.md)
+
+## This Stakeholder can get these Benefits from mitigation measures
+
+* [Sustainable control](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_110.md)
+* [Early detection and response](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_218.md)
+* [Identification of non-medical impacts](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_560.md)
+* [Identification of impacted sectors](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_564.md)
+* [Identification of impacted areas](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_565.md)
+* [Improved healthcare infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_576.md)
+* [Enhanced protection for healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_577.md)
+* [Effective pandemic response](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_578.md)
+* [Efficient relief and rehabilitation efforts](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_579.md)
+* [Improved response to public health challenges](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_581.md)
+* [Improved epidemic monitoring and control](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_582.md)
+* [Real-time video data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_587.md)
+* [Real-time monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_638.md)
+* [Identification of infected individuals and their contacts](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_640.md)
+* [Targeted quarantine and movement control](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_641.md)
+* [Improved resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_690.md)
+* [Improved public health outcomes](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_691.md)
+* [Enhanced resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_693.md)
+* [Reduced income inequalities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_695.md)
+* [No pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_707.md)
+* [Enhanced surveillance and social monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_744.md)
+* [Cost savings](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_835.md)
+* [Improved information transparency](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_921.md)
+* [Timely decision making](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_922.md)
+* [Increased credibility](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_923.md)
+* [Lower sickness benefit transfers](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_927.md)
+* [Potential return on investment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_928.md)
+* [Economic growth and sustainable development](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_929.md)
+* [Enhanced early detection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1028.md)
+* [Improved health care capacity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1029.md)
+* [Enhanced response and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1031.md)
+* [Reduced vulnerability and poverty](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1032.md)
+* [Improved educational opportunities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1033.md)
+* [Enhanced resilience and well-being](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1034.md)
+* [Improved access to information and communication](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1035.md)
+* [Increased self-sufficiency and resilience](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1037.md)
+* [Enhanced innovation and technological capacity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1039.md)
+* [Precise monitoring of hotspots](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1149.md)
+* [Efficient screening of population](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1150.md)
+* [Communication between public and government](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1151.md)
+* [Real-time display of epidemic data](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1153.md)
+* [Track and trace infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1154.md)
+* [Monitoring and tracking patients](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1155.md)
+* [Surveillance and data administration](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1156.md)
+* [Monitoring and managing quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1164.md)
+* [Contact tracing and notification](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1165.md)
+* [Rapid reporting and response](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1167.md)
+* [Population prevalence estimation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1205.md)
+* [Improved testing access](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1206.md)
+* [Efficacy of interventions](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1209.md)
+* [Enhanced monitoring and surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1269.md)
 
 ## Risk affecting this stakeholder
 
@@ -19,17 +73,7 @@
 * [Cyber-attacks and disinformation campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2228.md)
 * [Vulnerability to natural hazards](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2229.md)
 
-## Property: has_StakeholderID
-
-* [Q665565](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q665565.md)
-* [Q7188](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7188.md)
-
-## Property: has_StakeholderGroup
-
-* [National Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_7.md)
-* [City Officials](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_0.md)
-
-## Property: has_OwnerRisk
+## Risks that can be mitigated by this stakeholder
 
 * [Spread of contagious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_20.md)
 * [Psychological impact of quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_33.md)
@@ -280,57 +324,13 @@
 * [Reduction of environmental noise level](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2388.md)
 * [Reduction in waste recycling](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2389.md)
 
-## Property: has_BenefitForPeople
+## This Stakeholder belongs to this StakeholderGroup
 
-* [Sustainable control](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_110.md)
-* [Early detection and response](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_218.md)
-* [Identification of non-medical impacts](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_560.md)
-* [Identification of impacted sectors](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_564.md)
-* [Identification of impacted areas](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_565.md)
-* [Improved healthcare infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_576.md)
-* [Enhanced protection for healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_577.md)
-* [Effective pandemic response](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_578.md)
-* [Efficient relief and rehabilitation efforts](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_579.md)
-* [Improved response to public health challenges](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_581.md)
-* [Improved epidemic monitoring and control](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_582.md)
-* [Real-time video data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_587.md)
-* [Real-time monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_638.md)
-* [Identification of infected individuals and their contacts](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_640.md)
-* [Targeted quarantine and movement control](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_641.md)
-* [Improved resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_690.md)
-* [Improved public health outcomes](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_691.md)
-* [Enhanced resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_693.md)
-* [Reduced income inequalities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_695.md)
-* [No pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_707.md)
-* [Enhanced surveillance and social monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_744.md)
-* [Cost savings](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_835.md)
-* [Improved information transparency](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_921.md)
-* [Timely decision making](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_922.md)
-* [Increased credibility](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_923.md)
-* [Lower sickness benefit transfers](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_927.md)
-* [Potential return on investment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_928.md)
-* [Economic growth and sustainable development](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_929.md)
-* [Enhanced early detection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1028.md)
-* [Improved health care capacity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1029.md)
-* [Enhanced response and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1031.md)
-* [Reduced vulnerability and poverty](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1032.md)
-* [Improved educational opportunities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1033.md)
-* [Enhanced resilience and well-being](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1034.md)
-* [Improved access to information and communication](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1035.md)
-* [Increased self-sufficiency and resilience](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1037.md)
-* [Enhanced innovation and technological capacity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1039.md)
-* [Precise monitoring of hotspots](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1149.md)
-* [Efficient screening of population](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1150.md)
-* [Communication between public and government](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1151.md)
-* [Real-time display of epidemic data](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1153.md)
-* [Track and trace infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1154.md)
-* [Monitoring and tracking patients](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1155.md)
-* [Surveillance and data administration](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1156.md)
-* [Monitoring and managing quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1164.md)
-* [Contact tracing and notification](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1165.md)
-* [Rapid reporting and response](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1167.md)
-* [Population prevalence estimation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1205.md)
-* [Improved testing access](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1206.md)
-* [Efficacy of interventions](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1209.md)
-* [Enhanced monitoring and surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1269.md)
+* [National Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_7.md)
+* [City Officials](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_0.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Government and Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_8.md)
+* [Governmental Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_5.md)
 

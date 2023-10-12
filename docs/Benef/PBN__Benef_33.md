@@ -1,16 +1,17 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_33 
 
-# Benef: __Reduction in transmission rate__ (PBN__Benef_33)
+# __Reduction in transmission rate__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Quarantine and social distancing measures have been shown to effectively reduce the spread of SARS-CoV-2, leading to a decrease in the number of cases and a lower burden on healthcare systems.
+* [The City Under COVID‐19: Podcasting As Digital Methodology](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_7.md)
+* [Mitigation strategies and compliance in the COVID-19 fight; how much compliance is enough?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_154.md)
+* [Staying Physically Active During the Quarantine and Self-Isolation Period for Controlling and Mitigating the COVID-19 Pandemic: A Systematic Overview of the Literature](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_181.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [rogers_city_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_7.md)
-* [mukerjee_mitigation_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_154.md)
-* [chtourou_staying_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_181.md)
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
@@ -18,8 +19,7 @@ Quarantine and social distancing measures have been shown to effectively reduce 
 * [Private investors investing in effective mitigation measures can contribute to reducing the transmission rate of the disease, protecting their investments in the built environment from the impact of the pandemic.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_842.md)
 * [Implementing quarantine and social distancing measures can protect public health and reduce the strain on healthcare resources, which can lead to greater stability in the economy and improved asset values.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_977.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
-* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
+Quarantine and social distancing measures have been shown to effectively reduce the spread of SARS-CoV-2, leading to a decrease in the number of cases and a lower burden on healthcare systems.
 

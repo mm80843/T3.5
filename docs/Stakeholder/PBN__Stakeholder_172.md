@@ -1,12 +1,12 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_172 
 
-# Stakeholder: __research groups__ (PBN__Stakeholder_172)
+# __research groups__
 
-## Property: has_StakeholderID
+## This Stakeholder is identified by the following QID
 
 * [Q7836899](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7836899.md)
 
-## Property: has_BenefitForPeople
+## This Stakeholder can get these Benefits from mitigation measures
 
 * [Improved accuracy of model results](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_357.md)
 * [Increased collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1009.md)

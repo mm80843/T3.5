@@ -1,12 +1,12 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_450 
 
-# Technology: __livelihood support programs__ (PBN__Technology_450)
+# __livelihood support programs__
 
-## Property: has_TechnologyID
-
-* [Q6658164](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6658164.md)
-
-## Property: has_TechnologyRisk
+## Risks linked to this technology
 
 * [Increase in local opportunity cost for PCA-adjacent communities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1300.md)
+
+## This Technology is identified by the following QID
+
+* [Q6658164](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6658164.md)
 

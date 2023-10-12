@@ -1,21 +1,21 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_424 
 
-# Benef: __Reduced transport-related emissions__ (PBN__Benef_424)
+# __Reduced transport-related emissions__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Implementing mobility limitations and promoting teleworking can lead to a reduction in transport-related emissions, contributing to improved air quality and environmental sustainability in urban areas.
+* [COVID-19: Lessons for an Urban(izing) World](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_85.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [acuto_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_85.md)
+* [environment](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_116.md)
+* [urban population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_198.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors in renewable energy and sustainability solutions can benefit from increased demand and adoption, potentially leading to increased revenue and profitability.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_455.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [environment](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_116.md)
-* [urban population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_198.md)
+Implementing mobility limitations and promoting teleworking can lead to a reduction in transport-related emissions, contributing to improved air quality and environmental sustainability in urban areas.
 

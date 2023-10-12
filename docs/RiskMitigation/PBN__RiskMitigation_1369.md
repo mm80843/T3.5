@@ -1,12 +1,12 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__RiskMitigation_1369 
 
-# RiskMitigation: __Environmental measures__ (PBN__RiskMitigation_1369)
-
-## Property: has_MitigationRisk
-
-* [Prevention and Protection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_975.md)
+# __Environmental measures__
 
 ## Property: has_MitigationBenefit
 
 * [Risk mitigation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_680.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Prevention and Protection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_975.md)
 

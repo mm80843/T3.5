@@ -1,21 +1,21 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2227 
 
-# Mitigation: __Public health education__ (PBN__Mitigation_2227)
-
-## Property: has_MitigationRisk
-
-* [Contagion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2685.md)
-
-## Property: has_MitigationSource
-
-* [ugolini_effects_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_90.md)
-
-## Property: has_MitigationTechnology
-
-* [education materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4344.md)
-* [media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4345.md)
+# __Public health education__
 
 ## Property: has_MitigationPrinciple
 
 Provide accurate and timely information to the public to raise awareness about contagious diseases and preventive measures.
+
+## Property: has_MitigationSource
+
+* [Effects of the COVID-19 pandemic on the use and perceptions of urban green space: An international exploratory study](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_90.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Contagion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2685.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [education materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4344.md)
+* [media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4345.md)
 

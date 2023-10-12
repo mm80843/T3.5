@@ -1,16 +1,16 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_565 
 
-# Technology: __knowledge translation platforms__ (PBN__Technology_565)
+# __knowledge translation platforms__
 
-## Property: has_TechnologyID
-
-* [Q66104672](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q66104672.md)
-
-## Property: has_TechnologyRisk
+## Risks linked to this technology
 
 * [Inconsistent use of research evidence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1358.md)
 * [Information overload and misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1359.md)
 * [Lack of trust in evidence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1360.md)
 * [Inadequate collaboration and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1361.md)
 * [Limited access to actionable evidence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1362.md)
+
+## This Technology is identified by the following QID
+
+* [Q66104672](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q66104672.md)
 

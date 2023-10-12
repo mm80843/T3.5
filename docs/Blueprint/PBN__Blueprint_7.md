@@ -1,30 +1,6 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Blueprint](https://github.com/mm80843/T3.5/tree/main/docs/Blueprint/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/main/docs/Blueprint/index.md) >> Individual ID:PBN__Blueprint_7 
 
-# Blueprint: __PBN:BP_8__ (PBN__Blueprint_7)
-
-## Property: has_BPDemonstrated
-
-Access limitation was experienced during the COVID-19 pandemic
-
-## Property: has_BPValueProposition
-
-By imposing stricter social-distancing rules, individuals are less likely to be infected, and even more so those who are particularly vulnerable. The ability to send employees home will also ensure business continuity.
-
-## Property: has_BPRestriction
-
-Various adverse cost are linked to this measure: 
-•	 restricting access is above all depriving individuals of freedom of movement. 
-•	 legislative issues due to the restriction of free movement  
-•	 essential services cannot be limited and therefore those employed within those sectors face much bigger danger
-•	 emergencies can be complicated to manage: unforeseen situations that require immediate attention
-•	 alternative solutions need to be found in order to keep business-as-usual
-•	 potentially high cost of operating infrastructure to restrict access
-•	 lower levels of work morale due to the introduction of remote working
-•	 increased surveillance could lead to social consequences
-
-## Property: has_BPTransmission
-
-Airborne & Respiratory & Direct Contact
+# __PBN:BP_8__
 
 ## Property: has_BPReason
 
@@ -38,21 +14,45 @@ Thanks to technology and the DT, the possibilities for controlling access and th
 •	 teleworking 
 •	 appointment scheduling system
 
-## Property: has_BPProblem
+## Property: has_BPPermanent
 
-The measure limits the contact between individuals and avoids overcrowding if limitations are localised. 
+Temporary
+
+## Property: has_BPValueProposition
+
+By imposing stricter social-distancing rules, individuals are less likely to be infected, and even more so those who are particularly vulnerable. The ability to send employees home will also ensure business continuity.
 
 ## Property: has_BPScale
 
 Building
 
+## Property: has_BPProblem
+
+The measure limits the contact between individuals and avoids overcrowding if limitations are localised. 
+
+## Property: has_BPRestriction
+
+Various adverse cost are linked to this measure: 
+•	 restricting access is above all depriving individuals of freedom of movement. 
+•	 legislative issues due to the restriction of free movement  
+•	 essential services cannot be limited and therefore those employed within those sectors face much bigger danger
+•	 emergencies can be complicated to manage: unforeseen situations that require immediate attention
+•	 alternative solutions need to be found in order to keep business-as-usual
+•	 potentially high cost of operating infrastructure to restrict access
+•	 lower levels of work morale due to the introduction of remote working
+•	 increased surveillance could lead to social consequences
+
 ## Property: has_BPPhase
 
 Design & Operational
 
-## Property: has_BPPermanent
+## Property: has_BPDemonstrated
 
-Temporary
+Access limitation was experienced during the COVID-19 pandemic
+
+## Property: has_BPTransmission
+
+Airborne & Respiratory & Direct Contact
 
 ## Property: has_BPDescription
 
@@ -62,11 +62,11 @@ One of the most drastic measures to prevent the spread of COVID -19 during the s
 
 As mentioned above, the context varies depending on the severity of the actual pandemic situation, as different interpretations and levels of action may be applied. It has been shown that during the largest outbreaks, most non-essential activities were carried out from home, resulting in lower transmission rates.
 
-## Property: has_BPTitle
-
-Access control, limitation, or lockdown 
-
 ## Property: has_BPType
 
 Technical & Behavioural
+
+## Property: has_BPTitle
+
+Access control, limitation, or lockdown 
 

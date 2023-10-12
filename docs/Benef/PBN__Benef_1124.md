@@ -1,21 +1,21 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_1124 
 
-# Benef: __Prevention of viral transmission__ (PBN__Benef_1124)
+# __Prevention of viral transmission__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Proper hand hygiene can prevent the transfer of the virus from contaminated surfaces to hands
+* [Persistence of coronaviruses on inanimate surfaces and their inactivation with biocidal agents](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_233.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [kampf_persistence_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_233.md)
+* [public and healthcare settings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_440.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors investing in surface disinfectants would benefit from improved asset value (e.g. increased demand for disinfectant products)](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1255.md)
 * [Private investors investing in hand hygiene products (e.g. alcohol-based hand rubs) would benefit from improved asset value (e.g. increased demand for hand hygiene products)](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1256.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [public and healthcare settings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_440.md)
+Proper hand hygiene can prevent the transfer of the virus from contaminated surfaces to hands
 

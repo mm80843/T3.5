@@ -1,19 +1,19 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_1197 
 
-# Benef: __annoyance__ (PBN__Benef_1197)
+# __annoyance__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-dwellings and reduced
+* [Attitudes towards outdoor and neighbour noise during the COVID-19 lockdown: A case study in London](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_247.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [lee_attitudes_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_247.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [measures can lead to improved](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1335.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
+dwellings and reduced
 

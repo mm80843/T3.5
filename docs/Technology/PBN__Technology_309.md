@@ -1,12 +1,12 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_309 
 
-# Technology: __implement emission monitoring systems__ (PBN__Technology_309)
+# __implement emission monitoring systems__
 
-## Property: has_TechnologyID
-
-* [Q989364](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q989364.md)
-
-## Property: has_TechnologyRisk
+## Risks linked to this technology
 
 * [Transport-related greenhouse gas emissions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1220.md)
+
+## This Technology is identified by the following QID
+
+* [Q989364](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q989364.md)
 

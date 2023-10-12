@@ -1,16 +1,16 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_234 
 
-# Technology: __vaporized hydrogen peroxide__ (PBN__Technology_234)
+# __vaporized hydrogen peroxide__
 
-## Property: has_TechnologyMitigation
+## Risks linked to this technology
 
-* [UV Irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_226.md)
+* [Inadequate disinfection technologies in hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_934.md)
 
-## Property: has_TechnologyID
+## This Technology is identified by the following QID
 
 * [Q7915338](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7915338.md)
 
-## Property: has_TechnologyRisk
+## This Technology enables the following mitigations
 
-* [Inadequate disinfection technologies in hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_934.md)
+* [UV Irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_226.md)
 

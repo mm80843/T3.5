@@ -1,14 +1,31 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Blueprint](https://github.com/mm80843/T3.5/tree/main/docs/Blueprint/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/main/docs/Blueprint/index.md) >> Individual ID:PBN__Blueprint_4 
 
-# Blueprint: __PBN:BP_5__ (PBN__Blueprint_4)
+# __PBN:BP_5__
 
-## Property: has_BPDemonstrated
+## Property: has_BPReason
 
-Sonae’s Campus (Porto)
+Person-to-person transmission is one of the main ways diseases spread. Therefore, in a pandemic scenario, better management of highly populated public places is needed to control propagation factors: ensuring minimum indoor air quality, ensuring safe and comfortable occupancy, and minimising the possibility of person-to-person contact.
+
+## Property: has_BPCapabilities
+
+DESIGN PHASE: Mobility models for operators and customers can be a useful tool for predicting people flows. If possible, larger corridors that allow traffic in both directions are preferred. 
+OPERATION PHASE: Information on one-way paths implemented (large informative screens, markings on the ground, maps with zoning criteria) is crucial. Intelligent entrances and exits (e.g. doors that only open when people are moving in the right direction) or badge controls are efficient measures to avoid unwanted flows of people in closed areas such as buildings;
+
+## Property: has_BPPermanent
+
+Temporary
 
 ## Property: has_BPValueProposition
 
 One-way pedestrian regulation is a measure that allows you to better control how people move around, thus controlling congestion and minimising unexpected encounters. It can also be applied in the planning phase as well as in operation and is cost-effective. This measure is particularly suitable for pandemic outbreaks where immediate and effective action needs to be taken. 
+
+## Property: has_BPScale
+
+Both
+
+## Property: has_BPProblem
+
+This blueprint offers an easy-to-implement measure to organise the flow of people in public places (indoors and outdoors), reduce social mixing and avoid overcrowding. Staff can be trained to ensure the success of this measure.
 
 ## Property: has_BPRestriction
 
@@ -22,34 +39,17 @@ A number of limitations and constraints were identified for this specific measur
 •	 generates confusion among users
 •	 increases difficulty in evacuating the building in an emergency situation
 
-## Property: has_BPTransmission
-
-Airborne & Respiratory & Direct Contact
-
-## Property: has_BPReason
-
-Person-to-person transmission is one of the main ways diseases spread. Therefore, in a pandemic scenario, better management of highly populated public places is needed to control propagation factors: ensuring minimum indoor air quality, ensuring safe and comfortable occupancy, and minimising the possibility of person-to-person contact.
-
-## Property: has_BPCapabilities
-
-DESIGN PHASE: Mobility models for operators and customers can be a useful tool for predicting people flows. If possible, larger corridors that allow traffic in both directions are preferred. 
-OPERATION PHASE: Information on one-way paths implemented (large informative screens, markings on the ground, maps with zoning criteria) is crucial. Intelligent entrances and exits (e.g. doors that only open when people are moving in the right direction) or badge controls are efficient measures to avoid unwanted flows of people in closed areas such as buildings;
-
-## Property: has_BPProblem
-
-This blueprint offers an easy-to-implement measure to organise the flow of people in public places (indoors and outdoors), reduce social mixing and avoid overcrowding. Staff can be trained to ensure the success of this measure.
-
-## Property: has_BPScale
-
-Both
-
 ## Property: has_BPPhase
 
 Operational
 
-## Property: has_BPPermanent
+## Property: has_BPDemonstrated
 
-Temporary
+Sonae’s Campus (Porto)
+
+## Property: has_BPTransmission
+
+Airborne & Respiratory & Direct Contact
 
 ## Property: has_BPDescription
 
@@ -59,11 +59,11 @@ The transmission of most contagious diseases involves a variety of aspects, the 
 
 Measures to encourage one-way user flows should be considered at the design stage where possible, although they are also appropriate for existing places. The main points where this measure should be applied are entrances and exits from public places and corridors. One-way mobility should be implemented taking into account the design of strategic routes so that people's (customers') freedom of movement is ensured, at least to some extent, and the provision of public services is not affected.
 
-## Property: has_BPTitle
-
-Managing user flows in building and infrastructure 
-
 ## Property: has_BPType
 
 Behavioural
+
+## Property: has_BPTitle
+
+Managing user flows in building and infrastructure 
 

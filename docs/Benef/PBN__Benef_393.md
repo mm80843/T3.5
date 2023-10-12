@@ -1,21 +1,21 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_393 
 
-# Benef: __Expanded Workforce__ (PBN__Benef_393)
+# __Expanded Workforce__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Relocating experienced healthcare personnel to AIIRs can improve patient care, as they can share their expertise and knowledge in managing critical care and medical devices.
+* [Rapid expansion of temporary, reliable airborne-infection isolation rooms with negative air machines for critical COVID-19 patients](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_77.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [lee_rapid_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_77.md)
+* [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
+* [healthcare personnel](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_185.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Investing in recruitment and relocation of healthcare personnel can enhance the hospital’s capabilities, improve patient outcomes, and potentially attract more patients.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_421.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
-* [healthcare personnel](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_185.md)
+Relocating experienced healthcare personnel to AIIRs can improve patient care, as they can share their expertise and knowledge in managing critical care and medical devices.
 

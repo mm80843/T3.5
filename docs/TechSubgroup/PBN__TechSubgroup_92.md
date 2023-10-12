@@ -1,8 +1,8 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [TechSubgroup](https://github.com/mm80843/T3.5/tree/main/docs/TechSubgroup/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [TechSubgroup](https://github.com/mm80843/T3.5/tree/main/docs/TechSubgroup/index.md) >> Individual ID:PBN__TechSubgroup_92 
 
-# TechSubgroup: __Public Health Measures and Regulations__ (PBN__TechSubgroup_92)
+# __Public Health Measures and Regulations__
 
-## Property: has_SubgroupStakeholder
+## This Technology belongs to this TechnologySubgroup
 
 * [sensor redundancy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_332.md)
 * [remote diagnostics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_333.md)

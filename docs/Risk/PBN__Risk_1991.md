@@ -1,35 +1,35 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_1991 
 
-# Risk: __Loss of income and economic instability__ (PBN__Risk_1991)
+# __Loss of income and economic instability__
 
-## Property: has_RiskHealth
+## Property: has_RiskISO_Purpose
 
-* [mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
-* [economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_3.md)
+* [Social cohesion](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_5.md)
 
-## List of stakeholders linked to the risk
+## Property: has_RiskType
+
+* [economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_3.md)
+* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
+
+## Stakeholders who can mitigate this risk
 
 * [governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
 * [financial institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_405.md)
 * [employers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_180.md)
 * [community organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_150.md)
 
-## Property: has_RiskISO_Purpose
+## Property: has_RiskHealth
 
-* [Social cohesion](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_5.md)
+* [mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
+* [economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_3.md)
 
-## Articles mentionning the risk
-
-* [rodriguez-fernandez_psychological_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_126.md)
-
-## Property: has_RiskDescription
+## Description of the risk
 
 The economic impact of the pandemic, including loss of income and job insecurity, can contribute to financial stress, anxiety, and depression among individuals and households.
 
-## People affected by this risk
+## Articles mentionning the risk
 
-* [individuals and households facing job loss or economic instability](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1341.md)
-* [small businesses and self-employed individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1342.md)
+* [Psychological Effects of Home Confinement and Social Distancing Derived from COVID-19 in the General Population—A Systematic Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_126.md)
 
 ## Technologies linked to the risk
 
@@ -37,18 +37,14 @@ The economic impact of the pandemic, including loss of income and job insecurity
 * [job retention and creation initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1441.md)
 * [financial education resources and counseling services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1442.md)
 
-## Property: has_RiskType
+## People affected by this risk
 
-* [economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_3.md)
-* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
+* [individuals and households facing job loss or economic instability](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1341.md)
+* [small businesses and self-employed individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1342.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Community infrastructures](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_9.md)
-
-## Name of the risk
-
-Increased financial stress; anxiety and depression related to economic uncertainty; decreased overall mental well-being.
 
 ## Mitigations of this risk
 
@@ -57,4 +53,8 @@ Increased financial stress; anxiety and depression related to economic uncertain
 ## Property: has_RiskGBN
 
 * [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Name of the risk
+
+Increased financial stress; anxiety and depression related to economic uncertainty; decreased overall mental well-being.
 

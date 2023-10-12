@@ -1,4 +1,4 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [BenefReturn](https://github.com/mm80843/T3.5/tree/main/docs/BenefReturn/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [BenefReturn](https://github.com/mm80843/T3.5/tree/main/docs/BenefReturn/index.md) >> Individual ID:PBN__BenefReturn_525 
 
-# BenefReturn: __Private investors benefit from a more equitable society, reducing social unrest and creating a conducive environment for business operations.__ (PBN__BenefReturn_525)
+# __Private investors benefit from a more equitable society, reducing social unrest and creating a conducive environment for business operations.__
 

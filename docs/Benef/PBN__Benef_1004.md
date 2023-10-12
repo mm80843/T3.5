@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_1004 
 
-# Benef: __Prevention of clogs__ (PBN__Benef_1004)
+# __Prevention of clogs__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Reduced maintenance costs
+* [When the fourth water and digital revolution encountered COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_207.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [poch_when_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_207.md)
+* [water utilities/consumers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_395.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Enhanced system reliability and efficiency](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1112.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [water utilities/consumers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_395.md)
+Reduced maintenance costs
 

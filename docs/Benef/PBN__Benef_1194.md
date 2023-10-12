@@ -1,22 +1,22 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_1194 
 
-# Benef: __Efficacy against coronavirus__ (PBN__Benef_1194)
+# __Efficacy against coronavirus__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Continuously active antimicrobial coating shows efficacy against coronavirus, reducing its spread
+* [A Continuously Active Antimicrobial Coating effective against Human Coronavirus 229E](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_246.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [ikner_continuously_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_246.md)
+* [residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
+* [healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_33.md)
+* [commercial facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_466.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Reduced business disruptions, improved public health, increased asset value through reputation and tenant retention](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1329.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
-* [healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_33.md)
-* [commercial facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_466.md)
+Continuously active antimicrobial coating shows efficacy against coronavirus, reducing its spread
 

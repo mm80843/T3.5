@@ -1,21 +1,21 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_1171 
 
-# Benef: __Transparency of donation process__ (PBN__Benef_1171)
+# __Transparency of donation process__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Donors can verify the transfer process and recipients can confirm receipt, reducing corruption and improving social trust.
+* [How Can Blockchain Help People in the Event of Pandemics Such as the COVID-19?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_241.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [chang_how_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_241.md)
+* [donors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_453.md)
+* [beneficiaries](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_454.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Increased transparency in donation processes, reduced corruption, improved aid delivery.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1305.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [donors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_453.md)
-* [beneficiaries](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_454.md)
+Donors can verify the transfer process and recipients can confirm receipt, reducing corruption and improving social trust.
 

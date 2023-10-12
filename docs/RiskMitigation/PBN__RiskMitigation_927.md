@@ -1,10 +1,6 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__RiskMitigation_927 
 
-# RiskMitigation: __Promoting mental health and well-being__ (PBN__RiskMitigation_927)
-
-## Property: has_MitigationRisk
-
-* [Elevated healthcare expenditure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_663.md)
+# __Promoting mental health and well-being__
 
 ## Property: has_MitigationBenefit
 
@@ -13,4 +9,8 @@
 * [Potential return on investment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_928.md)
 * [Economic growth and sustainable development](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_929.md)
 * [Asset value improvement](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_930.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Elevated healthcare expenditure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_663.md)
 

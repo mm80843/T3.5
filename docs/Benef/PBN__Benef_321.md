@@ -1,16 +1,19 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_321 
 
-# Benef: __Enhanced indoor air quality__ (PBN__Benef_321)
+# __Enhanced indoor air quality__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Good ventilation can reduce the spread of infectious diseases in enclosed spaces and improve the overall health of residents.
+* [An Intelligent IEQ Monitoring and Feedback System: Development and Applications](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_62.md)
+* [Building Transformation for Precautionary Measures against COVID-19 Pandemic: Case of Off-Street Car Parking of Campuses](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_224.md)
+* [Houses amid COVID-19: Environmental challenges and design adaptation](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_277.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [geng_intelligent_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_62.md)
-* [soliman_building_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_224.md)
-* [hizra_houses_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_277.md)
+* [residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
+* [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
+* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
+* [users](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_430.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
@@ -18,10 +21,7 @@ Good ventilation can reduce the spread of infectious diseases in enclosed spaces
 * [Improved air circulation, reduced risk of airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1205.md)
 * [Private investors can benefit from increased property value and demand for buildings with improved indoor air quality, which can attract tenants and buyers.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1471.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
-* [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
-* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
-* [users](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_430.md)
+Good ventilation can reduce the spread of infectious diseases in enclosed spaces and improve the overall health of residents.
 

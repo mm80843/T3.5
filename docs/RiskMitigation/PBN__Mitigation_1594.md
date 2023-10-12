@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__Mitigation_1594 
 
-# RiskMitigation: __Window views, spatial variety and privacy__ (PBN__Mitigation_1594)
-
-## Property: has_MitigationRisk
-
-
-## Property: has_MitigationSource
-
-* [peters_how_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_279.md)
-
-## Property: has_MitigationTechnology
-
-* [windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_140.md)
-* [views](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3934.md)
+# __Window views, spatial variety and privacy__
 
 ## Property: has_MitigationPrinciple
 
 Providing unobstructed views of the sky and nature to enhance well-being, promote physiological calming, improve focus, and aid in recovery from illness
+
+## Property: has_MitigationSource
+
+* [How our homes impact our health: using a COVID-19 informed approach to examine urban apartment housing](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_279.md)
+
+## Risks possibly mitigated by this Mitigation
+
+
+## This Mitigation is enabled by the following technologies
+
+* [windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_140.md)
+* [views](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3934.md)
 

@@ -1,12 +1,12 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_444 
 
-# Stakeholder: __homeless people__ (PBN__Stakeholder_444)
+# __homeless people__
 
-## Property: has_StakeholderID
+## This Stakeholder is identified by the following QID
 
 * [Q29325697](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q29325697.md)
 
-## Property: has_BenefitForPeople
+## This Stakeholder can get these Benefits from mitigation measures
 
 * [Reduction in health inequalities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_226.md)
 

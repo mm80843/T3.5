@@ -1,25 +1,25 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_533 
 
-# Mitigation: __Physical barriers__ (PBN__Mitigation_533)
+# __Physical barriers__
 
-## Property: has_MitigationRisk
+## Property: has_MitigationPrinciple
 
-* [Droplet transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_253.md)
+Maintain social distance and decrease droplet transmission by limiting human-to-human interactions, especially in small businesses.
 
 ## Property: has_MitigationSource
 
-* [sarvari_global_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_27.md)
-* [dehghani_hierarchy_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_73.md)
-* [koh_how_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_190.md)
+* [A Global Survey of Infection Control and Mitigation Measures for Combating the Transmission of COVID-19 Pandemic in Buildings Under Facilities Management Services](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_27.md)
+* [The hierarchy of preventive measures to protect workers against the COVID-19 pandemic: A review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_73.md)
+* [How loneliness is talked about in social media during COVID-19 pandemic: Text mining of 4,492 Twitter feeds](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_190.md)
 
-## Property: has_MitigationTechnology
+## Risks possibly mitigated by this Mitigation
+
+* [Droplet transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_253.md)
+
+## This Mitigation is enabled by the following technologies
 
 * [partitions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_199.md)
 * [barriers such as plexiglass](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3288.md)
 * [shields](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3505.md)
 * [physical barrier materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4099.md)
-
-## Property: has_MitigationPrinciple
-
-Maintain social distance and decrease droplet transmission by limiting human-to-human interactions, especially in small businesses.
 

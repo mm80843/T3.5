@@ -1,10 +1,14 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_48 
 
-# Article: __sims_future_2020__ (PBN__Article_48)
+# __Future perspectives of wastewater-based epidemiology: Monitoring infectious disease spread and resistance to the community level__
 
-## Property: has_ArticleDOI
+## Summary of the article
 
-10.1016/j.envint.2020.105689
+There are many diseases that can make a lot of people sick. Some of these diseases are new and have never been seen before. They can spread quickly and cause outbreaks all over the world. There are different ways that people try to keep track of these diseases and stop them from spreading. One new way is called Wastewater-Based Epidemiology (WBE). WBE is a technique that looks at the water we use and can tell us if there are any harmful germs or chemicals in it. By studying the water, scientists can learn about the health of a whole community and if there are any diseases going around. This can help them respond faster and keep people safe. But there are still some challenges that scientists need to figure out, like how to extract the germs or chemicals from the water and how to measure the population size accurately. With more research, WBE could be a really helpful tool in fighting infectious diseases.
+
+## Title of the article
+
+Future perspectives of wastewater-based epidemiology: Monitoring infectious disease spread and resistance to the community level
 
 ## List of risks in an article
 
@@ -14,11 +18,7 @@
 * [Globalization and travel](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2081.md)
 * [Lack of resources in disease surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2082.md)
 
-## Property: has_ArticleLLMSummary
-
-There are many diseases that can make a lot of people sick. Some of these diseases are new and have never been seen before. They can spread quickly and cause outbreaks all over the world. There are different ways that people try to keep track of these diseases and stop them from spreading. One new way is called Wastewater-Based Epidemiology (WBE). WBE is a technique that looks at the water we use and can tell us if there are any harmful germs or chemicals in it. By studying the water, scientists can learn about the health of a whole community and if there are any diseases going around. This can help them respond faster and keep people safe. But there are still some challenges that scientists need to figure out, like how to extract the germs or chemicals from the water and how to measure the population size accurately. With more research, WBE could be a really helpful tool in fighting infectious diseases.
-
-## Property: has_SourceMitigation
+## This article points to following mitigation
 
 * [Sentinel Surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1920.md)
 * [Wastewater-Based Epidemiology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1921.md)
@@ -28,11 +28,15 @@ There are many diseases that can make a lot of people sick. Some of these diseas
 * [Antimicrobial Resistance Gene Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1925.md)
 * [Ethical Considerations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1926.md)
 
-## Property: has_ArticleYear
+## Benefits listed in this article
 
-2020
+* [Real-time disease monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_216.md)
+* [Tracking antimicrobial usage](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_217.md)
+* [Early detection and response](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_218.md)
+* [Comprehensive and objective data](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_219.md)
+* [Protection of privacy and vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_220.md)
 
-## Property: has_ArticleLLMShortSummary
+## Short summary of the article
 
 This research abstract summarizes a study on wastewater-based epidemiology (WBE) as a surveillance technique for monitoring infectious diseases. The study highlights the importance of infectious disease surveillance due to the continued risks posed by communicable diseases, including emerging infectious diseases and antimicrobial resistance. The drivers of disease emergence include climate change, population increases, and global trade and travel. Current surveillance techniques suffer from limitations such as bias and cost.
 
@@ -42,15 +46,11 @@ The study suggests that WBE can be expanded to monitor infectious diseases by an
 
 The study concludes that WBE has the potential to complement current surveillance systems and provide population-wide surveillance data in real-time. Advancements in extraction techniques, analytical tools, and biomarker discovery are needed to overcome the challenges associated with WBE. The research abstract emphasizes the significance of effective surveillance systems for the early intervention and control of infectious disease outbreaks.
 
-## Property: has_ArticleTitle
+## DOI of the article
 
-Future perspectives of wastewater-based epidemiology: Monitoring infectious disease spread and resistance to the community level
+10.1016/j.envint.2020.105689
 
-## Property: has_BenefInArticle
+## Year of publication
 
-* [Real-time disease monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_216.md)
-* [Tracking antimicrobial usage](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_217.md)
-* [Early detection and response](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_218.md)
-* [Comprehensive and objective data](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_219.md)
-* [Protection of privacy and vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_220.md)
+2020
 

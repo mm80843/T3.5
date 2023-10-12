@@ -1,8 +1,8 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3827 
 
-# Technology: __sqlite database__ (PBN__Technology_3827)
+# __sqlite database__
 
-## Property: has_TechnologyMitigation
+## This Technology enables the following mitigations
 
 * [SQLite database](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1375.md)
 

@@ -1,21 +1,21 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_1411 
 
-# Benef: __Harmonized messaging__ (PBN__Benef_1411)
+# __Harmonized messaging__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Ensures consistent and reliable information, reducing confusion and conflicting interpretations of expert opinions.
+* [Infodemic and the spread of fake news in the COVID-19-era](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_299.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [orso_infodemic_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_299.md)
+* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
+* [medical professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_425.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors would benefit from improved public trust in healthcare authorities and reduced societal unrest, promoting stability and confidence in the market.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1602.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
-* [medical professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_425.md)
+Ensures consistent and reliable information, reducing confusion and conflicting interpretations of expert opinions.
 

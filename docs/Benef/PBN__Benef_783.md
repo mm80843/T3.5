@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_783 
 
-# Benef: __Improved liquidity__ (PBN__Benef_783)
+# __Improved liquidity__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Financial support helps improve the liquidity of construction companies, allowing them to meet their financial obligations and continue their operations.
+* [Influence between COVID-19 Impacts and Project Stakeholders in Chilean Construction Projects](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_157.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [araya_influence_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_157.md)
+* [construction companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_181.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors would benefit from improved asset value and return on their investment in construction companies.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_852.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [construction companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_181.md)
+Financial support helps improve the liquidity of construction companies, allowing them to meet their financial obligations and continue their operations.
 

@@ -1,21 +1,21 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_1384 
 
-# Benef: __Deterrence of anti-social behavior__ (PBN__Benef_1384)
+# __Deterrence of anti-social behavior__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Using surveillance data to identify and discourage activities such as hoarding
+* [The Smart City and Covid‐19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_294.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [webb_smart_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_294.md)
+* [city authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_536.md)
+* [law enforcement](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_534.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Public order maintenance, discouragement of undesirable behavior](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1571.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [city authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_536.md)
-* [law enforcement](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_534.md)
+Using surveillance data to identify and discourage activities such as hoarding
 

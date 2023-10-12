@@ -1,21 +1,21 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_939 
 
-# Benef: __Disease transmission prevention__ (PBN__Benef_939)
+# __Disease transmission prevention__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Proper classification and disinfection of hospital wastes reduces the risk of disease transmission, protecting public health and improving sanitation
+* [Disinfection technology of hospital wastes and wastewater: Suggestions for disinfection strategy during coronavirus Disease 2019 (COVID-19) pandemic in China](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_191.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [wang_disinfection_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_191.md)
+* [healthcare institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_269.md)
+* [public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_52.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors in hospital waste management would benefit from increased demand for these services, as well as reduced liability for potential disease transmission](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1029.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [healthcare institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_269.md)
-* [public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_52.md)
+Proper classification and disinfection of hospital wastes reduces the risk of disease transmission, protecting public health and improving sanitation
 

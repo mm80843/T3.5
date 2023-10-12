@@ -1,4 +1,4 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [BenefReturn](https://github.com/mm80843/T3.5/tree/main/docs/BenefReturn/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [BenefReturn](https://github.com/mm80843/T3.5/tree/main/docs/BenefReturn/index.md) >> Individual ID:PBN__BenefReturn_515 
 
-# BenefReturn: __Private investors can benefit from cost savings and improved property values by investing in energy-efficient technologies and renewable energy sources.__ (PBN__BenefReturn_515)
+# __Private investors can benefit from cost savings and improved property values by investing in energy-efficient technologies and renewable energy sources.__
 

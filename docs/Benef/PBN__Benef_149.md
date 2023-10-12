@@ -1,22 +1,22 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_149 
 
-# Benef: __Additional funding__ (PBN__Benef_149)
+# __Additional funding__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Increased financial support for PCAs through international funding
+* [Building sustainable finance for resilient protected and conserved areas: lessons from COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_33.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [cumming_building_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_33.md)
+* [national governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_51.md)
+* [pcas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_84.md)
+* [development agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_88.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Additional funding for PCAs, enhanced conservation efforts](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_150.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [national governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_51.md)
-* [pcas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_84.md)
-* [development agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_88.md)
+Increased financial support for PCAs through international funding
 

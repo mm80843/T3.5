@@ -1,4 +1,4 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [BenefReturn](https://github.com/mm80843/T3.5/tree/main/docs/BenefReturn/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [BenefReturn](https://github.com/mm80843/T3.5/tree/main/docs/BenefReturn/index.md) >> Individual ID:PBN__BenefReturn_1242 
 
-# BenefReturn: __Facilitates collaboration, accelerates scientific progress, and generates more comprehensive evidence.__ (PBN__BenefReturn_1242)
+# __Facilitates collaboration, accelerates scientific progress, and generates more comprehensive evidence.__
 

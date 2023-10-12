@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_1261 
 
-# Benef: __Limit spread of virus__ (PBN__Benef_1261)
+# __Limit spread of virus__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Identifies people not wearing masks, helps enforce proper regulations
+* [An Automated System to Limit COVID-19 Using Facial Mask Detection in Smart City Network](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_265.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [rahman_automated_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_265.md)
+* [public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_52.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Increased compliance leads to reduced transmission and improved public health, which in turn can lead to economic recovery.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1421.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_52.md)
+Identifies people not wearing masks, helps enforce proper regulations
 

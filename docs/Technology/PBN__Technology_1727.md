@@ -1,16 +1,16 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_1727 
 
-# Technology: __proper cleaning procedures__ (PBN__Technology_1727)
+# __proper cleaning procedures__
 
-## Property: has_TechnologyMitigation
+## Risks linked to this technology
 
-* [Removal of wet or contaminated insulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1430.md)
+* [PVP3](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2192.md)
 
-## Property: has_TechnologyID
+## This Technology is identified by the following QID
 
 * [Q12773274](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q12773274.md)
 
-## Property: has_TechnologyRisk
+## This Technology enables the following mitigations
 
-* [PVP3](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2192.md)
+* [Removal of wet or contaminated insulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1430.md)
 

@@ -1,19 +1,19 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_991 
 
-# Mitigation: __Efficient workforce management__ (PBN__Mitigation_991)
-
-## Property: has_MitigationRisk
-
-* [Difficulties in labor control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2849.md)
-
-## Property: has_MitigationSource
-
-* [king_mechanisms_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_115.md)
-
-## Property: has_MitigationTechnology
-
+# __Efficient workforce management__
 
 ## Property: has_MitigationPrinciple
 
 Improve coordination and administration of workforce at construction sites to ensure compliance with SOP and efficient project management
+
+## Property: has_MitigationSource
+
+* [Mechanisms for addressing the impact of COVID-19 on infrastructure projects](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_115.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Difficulties in labor control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2849.md)
+
+## This Mitigation is enabled by the following technologies
+
 

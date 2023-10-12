@@ -1,24 +1,24 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_765 
 
-# Benef: __Prevention of disease spread__ (PBN__Benef_765)
+# __Prevention of disease spread__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Implementing measures such as droplet and contact transmission control, as well as appropriate disinfection, reduces the transmission of diseases and prevents the spread of infections
+* [Epidemics, Planning and the City: A Special Issue of Planning Perspectives](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_152.md)
+* [Disinfection technology of hospital wastes and wastewater: Suggestions for disinfection strategy during coronavirus Disease 2019 (COVID-19) pandemic in China](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_191.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [davis_epidemics_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_152.md)
-* [wang_disinfection_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_191.md)
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+* [healthcare institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_269.md)
+* [public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_52.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors investing in containment strategies can benefit from reduced economic disruptions and increased stability in affected areas.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_835.md)
 * [Private investors in healthcare institutions would benefit from improved public trust, increased patient demand, and reduced financial burden from potential outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1026.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
-* [healthcare institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_269.md)
-* [public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_52.md)
+Implementing measures such as droplet and contact transmission control, as well as appropriate disinfection, reduces the transmission of diseases and prevents the spread of infections
 

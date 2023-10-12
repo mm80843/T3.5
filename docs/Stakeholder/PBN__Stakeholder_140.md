@@ -1,8 +1,8 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_140 
 
-# Stakeholder: __occupants of the building__ (PBN__Stakeholder_140)
+# __occupants of the building__
 
-## Property: has_BenefitForPeople
+## This Stakeholder can get these Benefits from mitigation measures
 
 * [Minimized transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_279.md)
 * [Enhanced cleanliness and reduced risk of transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_280.md)

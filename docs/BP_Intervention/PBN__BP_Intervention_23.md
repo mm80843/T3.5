@@ -1,12 +1,4 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [BP_Intervention](https://github.com/mm80843/T3.5/tree/main/docs/BP_Intervention/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [BP_Intervention](https://github.com/mm80843/T3.5/tree/main/docs/BP_Intervention/index.md) >> Individual ID:PBN__BP_Intervention_23 
 
-# BP_Intervention: __intervention_HU4__ (PBN__BP_Intervention_23)
-
-## Property: has_BP_InterventionTitle
-
-Ensure use of personal protection equipment
-
-## Property: has_BP_InterventionKey
-
-HU4
+# __intervention_HU4__
 

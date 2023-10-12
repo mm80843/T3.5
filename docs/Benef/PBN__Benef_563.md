@@ -1,21 +1,21 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_563 
 
-# Benef: __Continued production and sales__ (PBN__Benef_563)
+# __Continued production and sales__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Compliance with social distancing guidelines while maintaining production and sales
+* [Exploring the Non-Medical impacts of Covid-19 using Natural Language Processing](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_114.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [agade_exploring_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_114.md)
+* [general motors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_240.md)
+* [automobile industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_241.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Limited disruption to sales and revenue, reduced risk of workforce infection](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_615.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [general motors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_240.md)
-* [automobile industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_241.md)
+Compliance with social distancing guidelines while maintaining production and sales
 

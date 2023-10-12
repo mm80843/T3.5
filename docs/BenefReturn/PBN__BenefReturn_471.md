@@ -1,4 +1,4 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [BenefReturn](https://github.com/mm80843/T3.5/tree/main/docs/BenefReturn/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [BenefReturn](https://github.com/mm80843/T3.5/tree/main/docs/BenefReturn/index.md) >> Individual ID:PBN__BenefReturn_471 
 
-# BenefReturn: __Private investors benefit from creating healthier living environments that can attract tenants and increase property value.__ (PBN__BenefReturn_471)
+# __Private investors benefit from creating healthier living environments that can attract tenants and increase property value.__
 

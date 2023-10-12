@@ -1,21 +1,21 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_956 
 
-# Benef: __Protection of personal data__ (PBN__Benef_956)
+# __Protection of personal data__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Decentralizing data ownership and establishing secure transmission of biometric data can protect personal data and ensure privacy in the use of wearables.
+* [Wearable technology and COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_195.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [burki_wearable_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_195.md)
+* [individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_20.md)
+* [wearable users](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_374.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors can benefit from the increased demand for secure data transfer technologies and privacy-enhancing features in wearables.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1051.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_20.md)
-* [wearable users](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_374.md)
+Decentralizing data ownership and establishing secure transmission of biometric data can protect personal data and ensure privacy in the use of wearables.
 

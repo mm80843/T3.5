@@ -1,12 +1,12 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__RiskMitigation_248 
 
-# RiskMitigation: __Designing restrooms with low network centrality__ (PBN__RiskMitigation_248)
-
-## Property: has_MitigationRisk
-
-* [Impact of space type and architectural characteristics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_209.md)
+# __Designing restrooms with low network centrality__
 
 ## Property: has_MitigationBenefit
 
 * [Reduction of microbial transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_259.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Impact of space type and architectural characteristics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_209.md)
 

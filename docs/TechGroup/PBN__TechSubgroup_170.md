@@ -1,8 +1,8 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [TechGroup](https://github.com/mm80843/T3.5/tree/main/docs/TechGroup/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [TechGroup](https://github.com/mm80843/T3.5/tree/main/docs/TechGroup/index.md) >> Individual ID:PBN__TechSubgroup_170 
 
-# TechGroup: __Vaccine Development and Tracking Technologies__ (PBN__TechSubgroup_170)
+# __Vaccine Development and Tracking Technologies__
 
-## Property: has_SubgroupStakeholder
+## This Technology belongs to this TechnologySubgroup
 
 * [Vaccine development and improvement technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2608.md)
 * [Data completion and vaccination tracking technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2609.md)

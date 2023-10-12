@@ -1,21 +1,21 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_102 
 
-# Benef: __Efficient screening__ (PBN__Benef_102)
+# __Efficient screening__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Increased efficiency and coverage of temperature screening, linked to hospital information systems for monitoring
+* [Combating COVID-19—The role of robotics in managing public health and infectious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_23.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [yang_combating_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_23.md)
+* [public areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_63.md)
+* [hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_64.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved public health and reduced transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_100.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [public areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_63.md)
-* [hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_64.md)
+Increased efficiency and coverage of temperature screening, linked to hospital information systems for monitoring
 

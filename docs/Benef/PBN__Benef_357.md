@@ -1,21 +1,21 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_357 
 
-# Benef: __Improved accuracy of model results__ (PBN__Benef_357)
+# __Improved accuracy of model results__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Incorporating neighborhood-level processes in large-scale models can improve the accuracy of model results, leading to better predictions of disease dynamics and more informed decision-making.
+* [Understanding the role of urban design in disease spreading](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_69.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [brizuela_understanding_2019](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_69.md)
+* [research groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_172.md)
+* [public health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_173.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved accuracy of model results can enhance public health interventions, optimize resource allocation, and ultimately lead to better health outcomes, creating value for research groups and public health organizations.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_384.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [research groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_172.md)
-* [public health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_173.md)
+Incorporating neighborhood-level processes in large-scale models can improve the accuracy of model results, leading to better predictions of disease dynamics and more informed decision-making.
 

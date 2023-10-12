@@ -1,4 +1,4 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [BenefReturn](https://github.com/mm80843/T3.5/tree/main/docs/BenefReturn/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [BenefReturn](https://github.com/mm80843/T3.5/tree/main/docs/BenefReturn/index.md) >> Individual ID:PBN__BenefReturn_1153 
 
-# BenefReturn: __Private investors in social welfare programs and services can benefit from increased demand and improved financial stability of low-income individuals and families.__ (PBN__BenefReturn_1153)
+# __Private investors in social welfare programs and services can benefit from increased demand and improved financial stability of low-income individuals and families.__
 

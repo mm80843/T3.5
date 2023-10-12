@@ -1,19 +1,16 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_452 
 
-# Stakeholder: __healthcare authorities__ (PBN__Stakeholder_452)
+# __healthcare authorities__
 
-## Property: has_StakeholderSubgroup
-
-
-## Property: has_StakeholderID
+## This Stakeholder is identified by the following QID
 
 * [Q63122029](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q63122029.md)
 
-## Property: has_StakeholderGroup
+## This Stakeholder can get these Benefits from mitigation measures
 
-* [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
+* [Improved efficiency of data transfer](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1170.md)
 
-## Property: has_OwnerRisk
+## Risks that can be mitigated by this stakeholder
 
 * [Lack of testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_543.md)
 * [Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_974.md)
@@ -26,7 +23,10 @@
 * [Risk of rapid spread and cross-sectorial impact of contagious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2118.md)
 * [Inadequate public health systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2264.md)
 
-## Property: has_BenefitForPeople
+## This Stakeholder belongs to this StakeholderGroup
 
-* [Improved efficiency of data transfer](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1170.md)
+* [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
 

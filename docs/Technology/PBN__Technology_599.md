@@ -1,12 +1,12 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_599 
 
-# Technology: __mental health assessments__ (PBN__Technology_599)
+# __mental health assessments__
 
-## Property: has_TechnologyID
-
-* [Q3510807](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3510807.md)
-
-## Property: has_TechnologyRisk
+## Risks linked to this technology
 
 * [Neglected mental health impacts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1380.md)
+
+## This Technology is identified by the following QID
+
+* [Q3510807](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3510807.md)
 

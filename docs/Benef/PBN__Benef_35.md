@@ -1,16 +1,18 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_35 
 
-# Benef: __Improved access to healthcare__ (PBN__Benef_35)
+# __Improved access to healthcare__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Strengthened health systems lead to better access to healthcare services, improving overall public health.
+* [The role of 5G for digital healthcare against COVID-19 pandemic: Opportunities and challenges](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_9.md)
+* [Effects of non-pharmaceutical interventions against COVID-19 on the incidence of other diseases](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_30.md)
+* [COVID-19: IMPACT OF THE PANDEMIC ON THE SUSTAINABLE DEVELOPMENT GOALS](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_58.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [siriwardhana_role_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_9.md)
-* [muller_effects_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_30.md)
-* [samout_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_58.md)
+* [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
+* [population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_81.md)
+* [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
@@ -18,9 +20,7 @@ Strengthened health systems lead to better access to healthcare services, improv
 * [Private investors can see an increase in the value of healthcare facilities due to increased demand and utilization.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_139.md)
 * [Private investors benefit from a healthier population, reducing healthcare costs and improving market conditions for healthcare-related investments.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_305.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
-* [population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_81.md)
-* [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
+Strengthened health systems lead to better access to healthcare services, improving overall public health.
 

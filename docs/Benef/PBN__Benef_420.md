@@ -1,21 +1,21 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_420 
 
-# Benef: __Transmission reduction__ (PBN__Benef_420)
+# __Transmission reduction__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-The relaxation of NPIs in Phase III resulted in a reduction in SARS-CoV-2 transmission.
+* [Effect of non-pharmaceutical interventions in the early phase of the COVID-19 epidemic in Saudi Arabia](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_84.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [perez-saez_effect_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_84.md)
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors would benefit from implementing this measure as it would help reduce the spread of the virus, leading to a safer and healthier community and potentially preventing lockdowns or business closures, which could protect economic stability and property values.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_450.md)
 * [Private investors would benefit from implementing this measure as it would help prevent a resurgence in cases, leading to a more stable and resilient economy and potentially protecting property values.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_451.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+The relaxation of NPIs in Phase III resulted in a reduction in SARS-CoV-2 transmission.
 

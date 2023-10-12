@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_1025 
 
-# Benef: __System longevity__ (PBN__Benef_1025)
+# __System longevity__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Proper maintenance and cleaning of germicidal irradiation systems leads to increased efficiency and prolonged service life of HVAC systems.
+* [Adaptation of HVAC Systems to Reduce the Spread of COVID-19 in Buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_214.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [vranay_adaptation_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_214.md)
+* [building owners/operators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_406.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Reduced replacement and repair costs, enhancing return on investment.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1146.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [building owners/operators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_406.md)
+Proper maintenance and cleaning of germicidal irradiation systems leads to increased efficiency and prolonged service life of HVAC systems.
 

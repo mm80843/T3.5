@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_688 
 
-# Benef: __Increased revenue for video-gaming companies__ (PBN__Benef_688)
+# __Increased revenue for video-gaming companies__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Increased demand and engagement with video games, leading to higher revenue for the industry
+* [The socio-economic implications of the coronavirus pandemic (COVID-19): A review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_135.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [nicola_socio-economic_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_135.md)
+* [video-gaming companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_287.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Financial growth and stability for video-gaming companies, job security for employees.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_736.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [video-gaming companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_287.md)
+Increased demand and engagement with video games, leading to higher revenue for the industry
 

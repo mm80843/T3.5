@@ -1,16 +1,16 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_26 
 
-# Technology: __travel advisories__ (PBN__Technology_26)
+# __travel advisories__
 
-## Property: has_TechnologyMitigation
+## Risks linked to this technology
 
-* [Global Containment Strategy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_36.md)
+* [Inadequate global travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1028.md)
 
-## Property: has_TechnologyID
+## This Technology is identified by the following QID
 
 * [Q217107](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q217107.md)
 
-## Property: has_TechnologyRisk
+## This Technology enables the following mitigations
 
-* [Inadequate global travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1028.md)
+* [Global Containment Strategy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_36.md)
 

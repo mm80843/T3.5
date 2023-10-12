@@ -1,10 +1,26 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_179 
 
-# Stakeholder: __contractors__ (PBN__Stakeholder_179)
+# __contractors__
 
-## Property: has_StakeholderSubgroup
+## This Stakeholder can get these Benefits from mitigation measures
 
-* [Real Estate and Construction](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_31.md)
+* [Increased value](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_367.md)
+* [Increased productivity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_368.md)
+* [Enhanced collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_369.md)
+* [Increased project resilience](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_370.md)
+* [Financial stability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_567.md)
+* [Income opportunities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_568.md)
+* [Government intervention](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_569.md)
+* [Well-planned SOP](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_570.md)
+* [Government assistance for SOP management](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_571.md)
+* [Resuming material supply](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_572.md)
+* [Ensuring sufficient site labor](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_573.md)
+* [Revision of contract](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_574.md)
+* [Extension of Time (EOT) entitlements](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_575.md)
+* [Improved decision-making](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_661.md)
+* [Business continuity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_679.md)
+* [Risk mitigation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_680.md)
+* [Contractual stability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1013.md)
 
 ## Risk affecting this stakeholder
 
@@ -30,11 +46,7 @@
 * [Management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1581.md)
 * [Legal and contractual disputes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1865.md)
 
-## Property: has_StakeholderGroup
-
-* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
-
-## Property: has_OwnerRisk
+## Risks that can be mitigated by this stakeholder
 
 * [Suspension of projects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_595.md)
 * [Poor construction techniques and low-quality building materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1061.md)
@@ -42,23 +54,11 @@
 * [Client confidence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1530.md)
 * [Lack of hygienic building materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1739.md)
 
-## Property: has_BenefitForPeople
+## This Stakeholder belongs to this StakeholderGroup
 
-* [Increased value](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_367.md)
-* [Increased productivity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_368.md)
-* [Enhanced collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_369.md)
-* [Increased project resilience](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_370.md)
-* [Financial stability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_567.md)
-* [Income opportunities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_568.md)
-* [Government intervention](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_569.md)
-* [Well-planned SOP](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_570.md)
-* [Government assistance for SOP management](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_571.md)
-* [Resuming material supply](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_572.md)
-* [Ensuring sufficient site labor](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_573.md)
-* [Revision of contract](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_574.md)
-* [Extension of Time (EOT) entitlements](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_575.md)
-* [Improved decision-making](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_661.md)
-* [Business continuity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_679.md)
-* [Risk mitigation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_680.md)
-* [Contractual stability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1013.md)
+* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Real Estate and Construction](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_31.md)
 

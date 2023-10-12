@@ -1,18 +1,18 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_393 
 
-# Mitigation: __Perceived Usefulness__ (PBN__Mitigation_393)
-
-## Property: has_MitigationRisk
-
-
-## Property: has_MitigationSource
-
-* [chen_coronavirus_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_119.md)
-
-## Property: has_MitigationTechnology
-
+# __Perceived Usefulness__
 
 ## Property: has_MitigationPrinciple
 
 Influence adoption intention through the perceived usefulness of the technology
+
+## Property: has_MitigationSource
+
+* [Coronavirus comes home? Energy use, home energy management, and the social-psychological factors of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_119.md)
+
+## Risks possibly mitigated by this Mitigation
+
+
+## This Mitigation is enabled by the following technologies
+
 

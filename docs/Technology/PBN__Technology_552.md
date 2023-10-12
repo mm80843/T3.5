@@ -1,12 +1,12 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_552 
 
-# Technology: __cultural sensitivity training__ (PBN__Technology_552)
+# __cultural sensitivity training__
 
-## Property: has_TechnologyID
-
-* [Q5188097](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5188097.md)
-
-## Property: has_TechnologyRisk
+## Risks linked to this technology
 
 * [Guidelines for funerals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1352.md)
+
+## This Technology is identified by the following QID
+
+* [Q5188097](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5188097.md)
 

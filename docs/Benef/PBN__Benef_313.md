@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_313 
 
-# Benef: __Reduction of infection__ (PBN__Benef_313)
+# __Reduction of infection__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-UVGI inactivates airborne viruses and bacteria
+* [Applications of ultraviolet germicidal irradiation disinfection in health care facilities: Effective adjunct, but not stand-alone technology](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_61.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [memarzadeh_applications_2010](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_61.md)
+* [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Increased occupant health and reduced healthcare costs](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_331.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
+UVGI inactivates airborne viruses and bacteria
 

@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_506 
 
-# Benef: __Improved public perception and confidence__ (PBN__Benef_506)
+# __Improved public perception and confidence__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-The implementation of anti-contagion policies demonstrates the commitment of governments and authorities to prioritize public health and safety, which can improve public perception and confidence.
+* [The effect of large-scale anti-contagion policies on the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_103.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [hsiang_effect_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_103.md)
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors can benefit from increased consumer confidence and spending, as well as improved business stability and growth potential.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_551.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+The implementation of anti-contagion policies demonstrates the commitment of governments and authorities to prioritize public health and safety, which can improve public perception and confidence.
 

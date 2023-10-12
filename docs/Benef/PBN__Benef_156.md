@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_156 
 
-# Benef: __Sense of belonging and security__ (PBN__Benef_156)
+# __Sense of belonging and security__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Integrating natural elements, such as plots of soil for small house gardening, can create a sense of belonging and security for occupants, fostering a stronger connection with nature.
+* [How Architecture Fails in Conditions of Crisis: a Discussion on the Value of Interior Design over the COVID-19 Outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_34.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [rassia_how_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_34.md)
+* [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors can benefit from increased demand for spaces that offer a sense of belonging and security, leading to higher occupancy rates and tenant satisfaction.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_157.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
+Integrating natural elements, such as plots of soil for small house gardening, can create a sense of belonging and security for occupants, fostering a stronger connection with nature.
 

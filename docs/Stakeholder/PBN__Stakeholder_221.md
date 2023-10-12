@@ -1,9 +1,22 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_221 
 
-# Stakeholder: __customers__ (PBN__Stakeholder_221)
+# __customers__
 
-## Property: has_StakeholderSubgroup
+## This Stakeholder is identified by the following QID
 
+* [Q2979031](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2979031.md)
+
+## This Stakeholder can get these Benefits from mitigation measures
+
+* [Indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_525.md)
+* [Risk reduction](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_474.md)
+* [Health and safety](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_524.md)
+* [Enhanced communication](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_710.md)
+* [Consistent messaging](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_796.md)
+* [Improved readability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_797.md)
+* [Brand image reinforcement](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_798.md)
+* [Attract attention](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_799.md)
+* [Enhanced safety](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_914.md)
 
 ## Risk affecting this stakeholder
 
@@ -23,27 +36,14 @@
 * [Poor lighting conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2251.md)
 * [Excessive noise levels](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2252.md)
 
-## Property: has_StakeholderID
-
-* [Q2979031](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2979031.md)
-
-## Property: has_StakeholderGroup
-
-* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
-
-## Property: has_OwnerRisk
+## Risks that can be mitigated by this stakeholder
 
 * [Supply chain disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_10.md)
 
-## Property: has_BenefitForPeople
+## This Stakeholder belongs to this StakeholderGroup
 
-* [Indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_525.md)
-* [Risk reduction](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_474.md)
-* [Health and safety](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_524.md)
-* [Enhanced communication](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_710.md)
-* [Consistent messaging](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_796.md)
-* [Improved readability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_797.md)
-* [Brand image reinforcement](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_798.md)
-* [Attract attention](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_799.md)
-* [Enhanced safety](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_914.md)
+* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
 

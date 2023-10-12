@@ -1,27 +1,36 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_1934 
 
-# Risk: __Inequitable access to transportation options__ (PBN__Risk_1934)
-
-## Property: has_RiskHealth
-
-
-## List of stakeholders linked to the risk
-
-* [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
-* [community organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_150.md)
-* [transportation agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_734.md)
+# __Inequitable access to transportation options__
 
 ## Property: has_RiskISO_Purpose
 
 * [Governance, empowerment and engagement](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_17.md)
 
-## Articles mentionning the risk
+## Property: has_RiskType
 
-* [przybylowski_mobility_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_113.md)
+* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
 
-## Property: has_RiskDescription
+## Stakeholders who can mitigate this risk
+
+* [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
+* [community organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_150.md)
+* [transportation agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_734.md)
+
+## Property: has_RiskHealth
+
+
+## Description of the risk
 
 Unequal distribution of transportation options during the pandemic, leading to limited mobility for certain groups
+
+## Articles mentionning the risk
+
+* [Mobility Behaviour in View of the Impact of the COVID-19 Pandemic—Public Transport Users in Gdansk Case Study](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_113.md)
+
+## Technologies linked to the risk
+
+* [demand-responsive transport systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1333.md)
+* [shared mobility services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1334.md)
 
 ## People affected by this risk
 
@@ -29,22 +38,9 @@ Unequal distribution of transportation options during the pandemic, leading to l
 * [vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_127.md)
 * [marginalized groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_880.md)
 
-## Technologies linked to the risk
-
-* [demand-responsive transport systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1333.md)
-* [shared mobility services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1334.md)
-
-## Property: has_RiskType
-
-* [social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
-
 ## Property: has_RiskISO_Impact
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
-
-## Name of the risk
-
-Limited access to essential services and opportunities, increased social and economic disparities
 
 ## Mitigations of this risk
 
@@ -53,4 +49,8 @@ Limited access to essential services and opportunities, increased social and eco
 ## Property: has_RiskGBN
 
 * [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Name of the risk
+
+Limited access to essential services and opportunities, increased social and economic disparities
 

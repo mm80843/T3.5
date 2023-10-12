@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_673 
 
-# Benef: __Improved air quality in buildings and public spaces__ (PBN__Benef_673)
+# __Improved air quality in buildings and public spaces__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Proper ventilation and design interventions in buildings and outdoor spaces can improve air quality, reducing the risk of respiratory infections.
+* [Respiratory pandemics, urban planning and design: A multidisciplinary rapid review of the literature](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_133.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [harris_respiratory_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_133.md)
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors would benefit from investing in these interventions as they would enhance the desirability and value of their properties, attracting tenants or buyers who prioritize health and well-being.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_720.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+Proper ventilation and design interventions in buildings and outdoor spaces can improve air quality, reducing the risk of respiratory infections.
 

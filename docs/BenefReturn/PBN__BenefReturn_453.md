@@ -1,4 +1,4 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [BenefReturn](https://github.com/mm80843/T3.5/tree/main/docs/BenefReturn/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [BenefReturn](https://github.com/mm80843/T3.5/tree/main/docs/BenefReturn/index.md) >> Individual ID:PBN__BenefReturn_453 
 
-# BenefReturn: __Private investors in community building initiatives can benefit from improved social stability and reduced social inequality, potentially leading to improved asset values and financial returns.__ (PBN__BenefReturn_453)
+# __Private investors in community building initiatives can benefit from improved social stability and reduced social inequality, potentially leading to improved asset values and financial returns.__
 

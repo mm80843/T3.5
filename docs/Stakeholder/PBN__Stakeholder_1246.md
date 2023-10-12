@@ -1,24 +1,24 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_1246 
 
-# Stakeholder: __governments and international organizations__ (PBN__Stakeholder_1246)
+# __governments and international organizations__
 
-## Property: has_StakeholderSubgroup
+## This Stakeholder is identified by the following QID
 
-* [International and Health Organizations](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_116.md)
+* [Q245065](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q245065.md)
 
 ## Risk affecting this stakeholder
 
 * [Trade-offs between efficiency and stability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1841.md)
 
-## Property: has_StakeholderID
+## Risks that can be mitigated by this stakeholder
 
-* [Q245065](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q245065.md)
+* [Propagation of shocks in GVCs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1839.md)
 
-## Property: has_StakeholderGroup
+## This Stakeholder belongs to this StakeholderGroup
 
 * [National Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_7.md)
 
-## Property: has_OwnerRisk
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Propagation of shocks in GVCs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1839.md)
+* [International and Health Organizations](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_116.md)
 

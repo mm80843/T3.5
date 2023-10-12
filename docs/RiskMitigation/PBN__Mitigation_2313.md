@@ -1,19 +1,19 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__Mitigation_2313 
 
-# RiskMitigation: __Sodium hypochlorite__ (PBN__Mitigation_2313)
-
-## Property: has_MitigationRisk
-
-
-## Property: has_MitigationSource
-
-* [wang_disinfection_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_191.md)
-
-## Property: has_MitigationTechnology
-
-* [sodium hypochlorite](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_852.md)
+# __Sodium hypochlorite__
 
 ## Property: has_MitigationPrinciple
 
 Sodium hypochlorite disinfection is a technology that uses sodium hypochlorite to disinfect hospital wastewater. Sodium hypochlorite is effective in killing microorganisms and has lower toxicity compared to other chlorine-containing disinfectants.
+
+## Property: has_MitigationSource
+
+* [Disinfection technology of hospital wastes and wastewater: Suggestions for disinfection strategy during coronavirus Disease 2019 (COVID-19) pandemic in China](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_191.md)
+
+## Risks possibly mitigated by this Mitigation
+
+
+## This Mitigation is enabled by the following technologies
+
+* [sodium hypochlorite](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_852.md)
 

@@ -1,8 +1,8 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__RiskMitigation_2530 
 
-# RiskMitigation: __Raise awareness, promote inclusivity and diversity__ (PBN__RiskMitigation_2530)
+# __Raise awareness, promote inclusivity and diversity__
 
-## Property: has_MitigationRisk
+## Risks possibly mitigated by this Mitigation
 
 * [Stigmatisation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1926.md)
 

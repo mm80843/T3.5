@@ -1,23 +1,23 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_185 
 
-# Stakeholder: __healthcare personnel__ (PBN__Stakeholder_185)
+# __healthcare personnel__
 
-## Property: has_StakeholderSubgroup
+## This Stakeholder is identified by the following QID
 
+* [Q11974939](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q11974939.md)
+
+## This Stakeholder can get these Benefits from mitigation measures
+
+* [Expanded Workforce](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_393.md)
 
 ## Risk affecting this stakeholder
 
 * [Limited Rotations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1263.md)
 
-## Property: has_StakeholderID
-
-* [Q11974939](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q11974939.md)
-
-## Property: has_StakeholderGroup
+## This Stakeholder belongs to this StakeholderGroup
 
 * [Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_2.md)
 
-## Property: has_BenefitForPeople
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Expanded Workforce](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_393.md)
 

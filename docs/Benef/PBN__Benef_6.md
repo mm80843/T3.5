@@ -1,21 +1,21 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_6 
 
-# Benef: __Enhanced accuracy of quantification__ (PBN__Benef_6)
+# __Enhanced accuracy of quantification__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Developing better controls can improve the accuracy of quantifying SARS-CoV-2 in sewage samples, providing more reliable data for epidemiological surveillance
+* [Presence of SARS-Coronavirus-2 RNA in Sewage and Correlation with Reported COVID-19 Prevalence in the Early Stage of the Epidemic in The Netherlands](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_1.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [medema_presence_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_1.md)
+* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+* [laboratories](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_5.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors in control development can benefit from increased demand for control materials and technologies.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_6.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
-* [laboratories](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_5.md)
+Developing better controls can improve the accuracy of quantifying SARS-CoV-2 in sewage samples, providing more reliable data for epidemiological surveillance
 

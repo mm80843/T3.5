@@ -1,12 +1,12 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_43 
 
-# Technology: __helpline services__ (PBN__Technology_43)
+# __helpline services__
 
-## Property: has_TechnologyID
-
-* [Q1482145](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1482145.md)
-
-## Property: has_TechnologyRisk
+## Risks linked to this technology
 
 * [Limited access to support services for victims of intimate partner violence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1037.md)
+
+## This Technology is identified by the following QID
+
+* [Q1482145](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1482145.md)
 

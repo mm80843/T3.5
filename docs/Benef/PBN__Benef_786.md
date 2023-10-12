@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_786 
 
-# Benef: __Resolved disputes__ (PBN__Benef_786)
+# __Resolved disputes__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-The use of force majeure clauses helps resolve disputes and claims related to COVID-19, minimizing legal challenges and delays in project execution.
+* [Influence between COVID-19 Impacts and Project Stakeholders in Chilean Construction Projects](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_157.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [araya_influence_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_157.md)
+* [project administration team](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_321.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors would benefit from reduced legal costs and improved project timelines.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_854.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [project administration team](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_321.md)
+The use of force majeure clauses helps resolve disputes and claims related to COVID-19, minimizing legal challenges and delays in project execution.
 

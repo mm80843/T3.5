@@ -1,18 +1,18 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__Mitigation_103 
 
-# RiskMitigation: __Regulatory practices__ (PBN__Mitigation_103)
-
-## Property: has_MitigationRisk
-
-
-## Property: has_MitigationSource
-
-* [allam_coronavirus_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_280.md)
-
-## Property: has_MitigationTechnology
-
+# __Regulatory practices__
 
 ## Property: has_MitigationPrinciple
 
 Adhere to international healthcare guidelines and regulatory practices to reduce health risks and their consequences
+
+## Property: has_MitigationSource
+
+* [On the Coronavirus (COVID-19) Outbreak and the Smart City Network: Universal Data Sharing Standards Coupled with Artificial Intelligence (AI) to Benefit Urban Health Monitoring and Management](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_280.md)
+
+## Risks possibly mitigated by this Mitigation
+
+
+## This Mitigation is enabled by the following technologies
+
 

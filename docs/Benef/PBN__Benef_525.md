@@ -1,21 +1,21 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_525 
 
-# Benef: __Indoor air quality__ (PBN__Benef_525)
+# __Indoor air quality__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Improved ventilation systems in buildings contribute to better indoor air quality, reducing the risk of airborne transmission of contagious diseases.
+* [El impacto del teletrabajo en tiempos del COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_108.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [restrepo_betancur_impacto_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_108.md)
+* [customers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_221.md)
+* [employees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_220.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Implementing improved ventilation systems can enhance the overall health and well-being of employees and customers, resulting in increased productivity and customer satisfaction.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_576.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [customers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_221.md)
-* [employees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_220.md)
+Improved ventilation systems in buildings contribute to better indoor air quality, reducing the risk of airborne transmission of contagious diseases.
 

@@ -1,22 +1,22 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_548 
 
-# Benef: __Coordinating and integrating research, data, and expertise__ (PBN__Benef_548)
+# __Coordinating and integrating research, data, and expertise__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Bridging entities and facilitating collaboration improve efficiency and effectiveness of pandemic response
+* [Amplifying the role of knowledge translation platforms in the COVID-19 pandemic response](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_111.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [el-jardali_amplifying_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_111.md)
+* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+* [policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_126.md)
+* [public health specialists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_233.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Comprehensive response, better use of resources, and improved decision-making](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_600.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
-* [policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_126.md)
-* [public health specialists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_233.md)
+Bridging entities and facilitating collaboration improve efficiency and effectiveness of pandemic response
 

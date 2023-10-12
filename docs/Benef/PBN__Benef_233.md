@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_233 
 
-# Benef: __Improved mental state__ (PBN__Benef_233)
+# __Improved mental state__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Access to outdoor spaces can positively impact mental health and reduce mental stress
+* [Assessment method for new sustainability indicators providing pandemic resilience for residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_51.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [tokazhanov_assessment_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_51.md)
+* [residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Having outdoor spaces can increase the property’s value and attract tenants seeking a better quality of life.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_244.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
+Access to outdoor spaces can positively impact mental health and reduce mental stress
 

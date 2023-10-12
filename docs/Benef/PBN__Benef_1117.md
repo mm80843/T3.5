@@ -1,21 +1,21 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_1117 
 
-# Benef: __Enhanced psychological treatment effectiveness__ (PBN__Benef_1117)
+# __Enhanced psychological treatment effectiveness__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-VR can help patients with psychosomatic disturbances by providing a powerful tool for therapy
+* [Significant applications of virtual reality for COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_231.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [singh_significant_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_231.md)
+* [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
+* [mental health professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_368.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved mental health outcomes for patients, leading to reduced psychological distress and improved quality of life.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1249.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
-* [mental health professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_368.md)
+VR can help patients with psychosomatic disturbances by providing a powerful tool for therapy
 

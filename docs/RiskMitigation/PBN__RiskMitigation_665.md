@@ -1,12 +1,12 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__RiskMitigation_665 
 
-# RiskMitigation: __Infrastructure improvements__ (PBN__RiskMitigation_665)
-
-## Property: has_MitigationRisk
-
-* [Investments in improving water storage, sanitation, drainage, and housing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_475.md)
+# __Infrastructure improvements__
 
 ## Property: has_MitigationBenefit
 
 * [Reduced vulnerability and improved living conditions](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_671.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Investments in improving water storage, sanitation, drainage, and housing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_475.md)
 

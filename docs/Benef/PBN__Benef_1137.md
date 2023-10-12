@@ -1,22 +1,22 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_1137 
 
-# Benef: __Reduction in domestic violence and family conflict__ (PBN__Benef_1137)
+# __Reduction in domestic violence and family conflict__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Measures to prevent conflict and domestic violence within households can protect vulnerable individuals, especially children and women, from harm and improve overall family well-being.
+* [COVID-19: The forgotten priorities of the pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_236.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [mesa_vieira_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_236.md)
+* [women](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_23.md)
+* [children](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_62.md)
+* [large families](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_449.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors investing in measures to reduce domestic violence can benefit from improved social stability, reduced strain on healthcare and social support systems, and potential economic growth through promoting safer communities.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1270.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [women](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_23.md)
-* [children](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_62.md)
-* [large families](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_449.md)
+Measures to prevent conflict and domestic violence within households can protect vulnerable individuals, especially children and women, from harm and improve overall family well-being.
 

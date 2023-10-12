@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_189 
 
-# Benef: __Enhanced benefits from green space__ (PBN__Benef_189)
+# __Enhanced benefits from green space__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Quality, rather than quantity, of green space is crucial for delivering the positives associated with it
+* [Urban form: Realising the value of green space: a planners’ perspective on the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_41.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [ahmadpoor_urban_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_41.md)
+* [communities with lower socio-economic status](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_109.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved quality of green space can lead to better health outcomes and overall wellbeing for disadvantaged communities](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_194.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [communities with lower socio-economic status](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_109.md)
+Quality, rather than quantity, of green space is crucial for delivering the positives associated with it
 

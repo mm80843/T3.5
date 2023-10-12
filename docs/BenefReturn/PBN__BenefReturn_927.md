@@ -1,4 +1,4 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [BenefReturn](https://github.com/mm80843/T3.5/tree/main/docs/BenefReturn/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [BenefReturn](https://github.com/mm80843/T3.5/tree/main/docs/BenefReturn/index.md) >> Individual ID:PBN__BenefReturn_927 
 
-# BenefReturn: __Investing in outdoor spaces can enhance the quality of life for residents, attracting more potential buyers and tenants.__ (PBN__BenefReturn_927)
+# __Investing in outdoor spaces can enhance the quality of life for residents, attracting more potential buyers and tenants.__
 

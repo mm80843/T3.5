@@ -1,18 +1,18 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1832 
 
-# Mitigation: __Strengthen Social Capital and Community Coherence__ (PBN__Mitigation_1832)
-
-## Property: has_MitigationRisk
-
-
-## Property: has_MitigationSource
-
-* [santini_mental_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_189.md)
-
-## Property: has_MitigationTechnology
-
+# __Strengthen Social Capital and Community Coherence__
 
 ## Property: has_MitigationPrinciple
 
 Promote community cohesion and social capital to enhance well-being and reduce healthcare costs.
+
+## Property: has_MitigationSource
+
+* [Mental health economics: A prospective study on psychological flourishing and associations with healthcare costs and sickness benefit transfers in Denmark](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_189.md)
+
+## Risks possibly mitigated by this Mitigation
+
+
+## This Mitigation is enabled by the following technologies
+
 

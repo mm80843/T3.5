@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_440 
 
-# Benef: __Increased access to nature and outdoor activities__ (PBN__Benef_440)
+# __Increased access to nature and outdoor activities__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Access to outdoor spaces allows residents to engage in outdoor activities, connect with nature, and improve overall well-being.
+* [A Mixed Approach on Resilience of Spanish Dwellings and Households during COVID-19 Lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_89.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [cuerdo-vilches_mixed_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_89.md)
+* [household members](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_162.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors benefit from attractive outdoor spaces that can enhance property value and attract tenants.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_474.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [household members](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_162.md)
+Access to outdoor spaces allows residents to engage in outdoor activities, connect with nature, and improve overall well-being.
 

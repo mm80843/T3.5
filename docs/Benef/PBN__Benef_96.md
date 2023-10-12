@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_96 
 
-# Benef: __Decreased respiratory illness in children__ (PBN__Benef_96)
+# __Decreased respiratory illness in children__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Significant decrease in respiratory illness in children up to age 24 months, leading to improved health and well-being.
+* [Physical interventions to interrupt or reduce the spread of respiratory viruses: systematic review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_22.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [jefferson_physical_2008](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_22.md)
+* [children](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_62.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Investing in hygienic measures can improve the health of children and reduce healthcare costs for parents, leading to potential savings and improved asset value for childcare facilities.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_95.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [children](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_62.md)
+Significant decrease in respiratory illness in children up to age 24 months, leading to improved health and well-being.
 

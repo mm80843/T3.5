@@ -1,8 +1,8 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3370 
 
-# Technology: __green space design__ (PBN__Technology_3370)
+# __green space design__
 
-## Property: has_TechnologyMitigation
+## This Technology enables the following mitigations
 
 * [Plant species diversity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_634.md)
 * [Habitat diversity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_635.md)

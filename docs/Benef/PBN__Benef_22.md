@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_22 
 
-# Benef: __Enhanced supply chain performance and risk management__ (PBN__Benef_22)
+# __Enhanced supply chain performance and risk management__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Data-driven decision-making processes can improve supply chain performance and risk management, enabling better identification and mitigation of disruptions.
+* [Mapping research in logistics and supply chain management during COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_4.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [montoya-torres_mapping_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_4.md)
+* [supply chain professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_16.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors can benefit from improved operational efficiency, reduced costs, and enhanced risk management, leading to increased asset value and profitability.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_22.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [supply chain professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_16.md)
+Data-driven decision-making processes can improve supply chain performance and risk management, enabling better identification and mitigation of disruptions.
 

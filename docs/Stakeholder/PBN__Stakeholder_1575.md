@@ -1,6 +1,6 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_1575 
 
-# Stakeholder: __individuals with symptoms or high-risk exposures__ (PBN__Stakeholder_1575)
+# __individuals with symptoms or high-risk exposures__
 
 ## Risk affecting this stakeholder
 

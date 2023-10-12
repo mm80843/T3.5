@@ -1,16 +1,16 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_37 
 
-# Technology: __testing technologies__ (PBN__Technology_37)
+# __testing technologies__
 
-## Property: has_TechnologyMitigation
+## Risks linked to this technology
 
-* [Medical Technological Development](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_949.md)
+* [Travel-related transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1034.md)
 
-## Property: has_TechnologyID
+## This Technology is identified by the following QID
 
 * [Q188522](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q188522.md)
 
-## Property: has_TechnologyRisk
+## This Technology enables the following mitigations
 
-* [Travel-related transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1034.md)
+* [Medical Technological Development](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_949.md)
 

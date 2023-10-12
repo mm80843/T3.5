@@ -1,10 +1,6 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__RiskMitigation_1319 
 
-# RiskMitigation: __Increase park access__ (PBN__RiskMitigation_1319)
-
-## Property: has_MitigationRisk
-
-* [Decline in urban park visitation during COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_950.md)
+# __Increase park access__
 
 ## Property: has_MitigationBenefit
 
@@ -13,4 +9,8 @@
 * [Increased social cohesion](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1299.md)
 * [Improved community resilience](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1300.md)
 * [Positive environmental externalities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1301.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Decline in urban park visitation during COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_950.md)
 

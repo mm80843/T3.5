@@ -1,11 +1,11 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_129 
 
-# Stakeholder: __office workers__ (PBN__Stakeholder_129)
+# __office workers__
 
-## Property: has_StakeholderSubgroup
+## This Stakeholder can get these Benefits from mitigation measures
 
-* [Indoor Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_24.md)
-* [Types of Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_22.md)
+* [Improved job security](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_221.md)
+* [Reduction in transmission among co-workers](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_750.md)
 
 ## Risk affecting this stakeholder
 
@@ -13,13 +13,13 @@
 * [Lack of indoor green features](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2115.md)
 * [Risk of transmission in enclosed and communal spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2120.md)
 
-## Property: has_StakeholderGroup
+## This Stakeholder belongs to this StakeholderGroup
 
 * [Building Occupants](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_11.md)
 * [Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_2.md)
 
-## Property: has_BenefitForPeople
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Improved job security](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_221.md)
-* [Reduction in transmission among co-workers](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_750.md)
+* [Indoor Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_24.md)
+* [Types of Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_22.md)
 

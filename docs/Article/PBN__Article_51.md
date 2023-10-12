@@ -1,14 +1,14 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_51 
 
-# Article: __tokazhanov_assessment_2021__ (PBN__Article_51)
+# __Assessment method for new sustainability indicators providing pandemic resilience for residential buildings__
 
-## Property: has_ArticleDOI
+## Summary of the article
 
-10.1016/j.mex.2021.101577
+During a pandemic, it's important to make sure that our homes are safe and healthy. This means taking steps to prevent the spread of viruses. One way to do this is by using new smart technologies, like shoe cleaning systems and enhanced ventilation. Another way is by using touchless technologies, like motion sensors and keycard swiping, to avoid touching infected surfaces. We can also create self-cleaning spaces to avoid getting infected from high-touch surfaces. It's also important to choose indoor materials that can kill pathogens, like copper, and to let natural light in, which can help kill germs. Lastly, we should be able to control the temperature and humidity inside our homes, as high temperature and humidity can help stop viruses from spreading.
 
-## Property: has_ArticleLLMShortSummary
+## Title of the article
 
-This research abstract summarizes a study that addresses the need for new assessment tools to evaluate the sustainability of residential buildings under pandemic conditions. The study finds that existing green building certification systems do not cover the necessary indicators for pandemic resilience. As a result, the study proposes a new methodology that includes specific measures for health and safety, mental health, air quality, water quality, environmental resource consumption, and comfort. These measures aim to prevent virus propagation, promote well-being, and ensure the efficient use of resources during a pandemic. The proposed methodology provides a comprehensive framework for assessing and improving the sustainability of residential buildings in the face of future pandemics. The findings of this study can be valuable for engineers, architects, and construction designers in developing more resilient and sustainable building solutions.
+Assessment method for new sustainability indicators providing pandemic resilience for residential buildings
 
 ## List of risks in an article
 
@@ -46,11 +46,7 @@ This research abstract summarizes a study that addresses the need for new assess
 * [LS1](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2221.md)
 * [LS2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2222.md)
 
-## Property: has_ArticleLLMSummary
-
-During a pandemic, it's important to make sure that our homes are safe and healthy. This means taking steps to prevent the spread of viruses. One way to do this is by using new smart technologies, like shoe cleaning systems and enhanced ventilation. Another way is by using touchless technologies, like motion sensors and keycard swiping, to avoid touching infected surfaces. We can also create self-cleaning spaces to avoid getting infected from high-touch surfaces. It's also important to choose indoor materials that can kill pathogens, like copper, and to let natural light in, which can help kill germs. Lastly, we should be able to control the temperature and humidity inside our homes, as high temperature and humidity can help stop viruses from spreading.
-
-## Property: has_SourceMitigation
+## This article points to following mitigation
 
 * [Safety measures of drinking water](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2133.md)
 * [Maintenance and/or decontamination of water](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2134.md)
@@ -83,27 +79,7 @@ During a pandemic, it's important to make sure that our homes are safe and healt
 * [Design level adjustments on noise insulation and acoustics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2145.md)
 * [Urban/community farming](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2147.md)
 
-## Property: has_ArticleYear
-
-2021
-
-## Property: has_ArticleRef
-
-* [tokazhanov_how_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_67.md)
-* [tleuken_readiness_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_342.md)
-* [megahed_antivirus-built_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_298.md)
-* [van_doremalen_aerosol_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_21.md)
-* [lytle_predicted_2005](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_321.md)
-* [amerio_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_254.md)
-* [wang_sars-cov-2_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_55.md)
-* [zambrano-monserrate_indirect_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_238.md)
-* [soga_gardening_2017](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_338.md)
-
-## Property: has_ArticleTitle
-
-Assessment method for new sustainability indicators providing pandemic resilience for residential buildings
-
-## Property: has_BenefInArticle
+## Benefits listed in this article
 
 * [Reduced infection risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_29.md)
 * [Antimicrobial surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_127.md)
@@ -136,4 +112,28 @@ Assessment method for new sustainability indicators providing pandemic resilienc
 * [Noise reduction](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_254.md)
 * [Local food supply](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_255.md)
 * [Local food production](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_256.md)
+
+## Short summary of the article
+
+This research abstract summarizes a study that addresses the need for new assessment tools to evaluate the sustainability of residential buildings under pandemic conditions. The study finds that existing green building certification systems do not cover the necessary indicators for pandemic resilience. As a result, the study proposes a new methodology that includes specific measures for health and safety, mental health, air quality, water quality, environmental resource consumption, and comfort. These measures aim to prevent virus propagation, promote well-being, and ensure the efficient use of resources during a pandemic. The proposed methodology provides a comprehensive framework for assessing and improving the sustainability of residential buildings in the face of future pandemics. The findings of this study can be valuable for engineers, architects, and construction designers in developing more resilient and sustainable building solutions.
+
+## DOI of the article
+
+10.1016/j.mex.2021.101577
+
+## Year of publication
+
+2021
+
+## Referenced by other articles
+
+* [How is COVID-19 Experience Transforming Sustainability Requirements of Residential Buildings? A Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_67.md)
+* [Readiness Assessment of Green Building Certification Systems for Residential Buildings during Pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_342.md)
+* [Antivirus-built environment: Lessons learned from Covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_298.md)
+* [Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_21.md)
+* [Predicted Inactivation of Viruses of Relevance to Biodefense by Solar Radiation](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_321.md)
+* [COVID-19 Lockdown: Housing Built Environment’s Effects on Mental Health](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_254.md)
+* [SARS-CoV-2 RNA detection of hospital isolation wards hygiene monitoring during the Coronavirus Disease 2019 outbreak in a Chinese hospital](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_55.md)
+* [Indirect effects of COVID-19 on the environment](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_238.md)
+* [Gardening is beneficial for health: A meta-analysis](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_338.md)
 

@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_774 
 
-# Benef: __Accurate assessment of situation__ (PBN__Benef_774)
+# __Accurate assessment of situation__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Improving the quality of data and addressing under-reporting of cases enables more accurate assessment of the situation, facilitating more effective decision making and response strategies.
+* [Mitigation strategies and compliance in the COVID-19 fight; how much compliance is enough?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_154.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [mukerjee_mitigation_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_154.md)
+* [public health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_0.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors investing in data quality improvement can contribute to more informed decision making, ultimately protecting the value of their investments in the built environment.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_844.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [public health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_0.md)
+Improving the quality of data and addressing under-reporting of cases enables more accurate assessment of the situation, facilitating more effective decision making and response strategies.
 

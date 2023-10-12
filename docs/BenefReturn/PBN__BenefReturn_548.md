@@ -1,4 +1,4 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [BenefReturn](https://github.com/mm80843/T3.5/tree/main/docs/BenefReturn/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [BenefReturn](https://github.com/mm80843/T3.5/tree/main/docs/BenefReturn/index.md) >> Individual ID:PBN__BenefReturn_548 
 
-# BenefReturn: __Private investors could benefit from implementing these policies as it reduces the risk of widespread outbreaks and allows for a more stable and functioning economy.__ (PBN__BenefReturn_548)
+# __Private investors could benefit from implementing these policies as it reduces the risk of widespread outbreaks and allows for a more stable and functioning economy.__
 

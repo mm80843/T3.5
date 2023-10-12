@@ -1,21 +1,21 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_291 
 
-# Benef: __Clean water and sanitation__ (PBN__Benef_291)
+# __Clean water and sanitation__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Improving access to safe drinking water ensures better overall health and well-being of communities.
+* [COVID-19: IMPACT OF THE PANDEMIC ON THE SUSTAINABLE DEVELOPMENT GOALS](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_58.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [samout_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_58.md)
+* [communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_4.md)
+* [individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_20.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors benefit from the development and implementation of water purification and sanitation technologies, creating market opportunities for sustainable water solutions.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_310.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_4.md)
-* [individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_20.md)
+Improving access to safe drinking water ensures better overall health and well-being of communities.
 

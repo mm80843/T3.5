@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_1357 
 
-# Benef: __Improved safety and sustainability__ (PBN__Benef_1357)
+# __Improved safety and sustainability__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Retrofitting existing buildings with green features, such as advanced ventilation systems, enhances safety and sustainability in the post-COVID era.
+* [Green Buildings: A Post COVID-19 Analysis of Preventive Measures of Spreading the Virus](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_290.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [yakubu_aminu_dodo_green_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_290.md)
+* [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors can attract tenants and improve the market competitiveness of their buildings through green retrofitting, ultimately boosting the asset value.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1540.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
+Retrofitting existing buildings with green features, such as advanced ventilation systems, enhances safety and sustainability in the post-COVID era.
 

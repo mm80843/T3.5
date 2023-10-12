@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_667 
 
-# Benef: __Improved access to clean water__ (PBN__Benef_667)
+# __Improved access to clean water__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Access to clean water reduces the risk of waterborne diseases and improves health outcomes
+* [Global policy challenges for urban vector-borne disease risks](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_132.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [alabaster_global_2016](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_132.md)
+* [poor urban communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_276.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors investing in water infrastructure can benefit from increased demand and value for properties with access to clean water sources.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_713.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [poor urban communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_276.md)
+Access to clean water reduces the risk of waterborne diseases and improves health outcomes
 

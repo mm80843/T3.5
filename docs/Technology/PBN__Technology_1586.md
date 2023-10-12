@@ -1,16 +1,16 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_1586 
 
-# Technology: __l5go networks__ (PBN__Technology_1586)
+# __l5go networks__
 
-## Property: has_TechnologyMitigation
+## Risks linked to this technology
 
-* [5G deployment and limited connectivity challenges](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1952.md)
+* [Limited connectivity challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2096.md)
 
-## Property: has_TechnologyID
+## This Technology is identified by the following QID
 
 * [Q29724718](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q29724718.md)
 
-## Property: has_TechnologyRisk
+## This Technology enables the following mitigations
 
-* [Limited connectivity challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2096.md)
+* [5G deployment and limited connectivity challenges](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1952.md)
 

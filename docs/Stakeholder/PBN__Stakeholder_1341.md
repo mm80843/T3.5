@@ -1,6 +1,6 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_1341 
 
-# Stakeholder: __individuals and households facing job loss or economic instability__ (PBN__Stakeholder_1341)
+# __individuals and households facing job loss or economic instability__
 
 ## Risk affecting this stakeholder
 

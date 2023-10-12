@@ -1,30 +1,40 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_901 
 
-# Risk: __Lack of interoperability__ (PBN__Risk_901)
+# __Lack of interoperability__
 
-## Property: has_RiskHealth
+## Property: has_RiskISO_Purpose
 
-* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
 
-## List of stakeholders linked to the risk
+## Property: has_RiskType
+
+* [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
+
+## Stakeholders who can mitigate this risk
 
 * [manufacturers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_34.md)
 * [ontology developers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1305.md)
 * [data curators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1306.md)
 * [standardization bodies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1401.md)
 
-## Property: has_RiskISO_Purpose
+## Property: has_RiskHealth
 
-* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+* [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Description of the risk
+
+Incompatibility and inconsistency nan between different nan nan IoT devices and nan nan nan platforms
 
 ## Articles mentionning the risk
 
-* [queralt-rosinach_covid-19_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_259.md)
+* [The COVID-19 epidemiology and monitoring ontology](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_259.md)
 * [singh_internet_2020 singh_internet_2020 nan singh_internet_2020 nan nan singh_internet_2020 nan nan nan singh_internet_2020 nan nan nan nan singh_internet_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_302.md)
 
-## Property: has_RiskDescription
+## Technologies linked to the risk
 
-Incompatibility and inconsistency nan between different nan nan IoT devices and nan nan nan platforms
+* [semantic web technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1343.md)
+* [ontology engineering best practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1344.md)
+* [standardization of protocols and nan standards](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1574.md)
 
 ## People affected by this risk
 
@@ -35,23 +45,9 @@ Incompatibility and inconsistency nan between different nan nan IoT devices and 
 * [iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1396.md)
 * [iot industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1400.md)
 
-## Technologies linked to the risk
-
-* [semantic web technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1343.md)
-* [ontology engineering best practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1344.md)
-* [standardization of protocols and nan standards](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1574.md)
-
-## Property: has_RiskType
-
-* [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
-
 ## Property: has_RiskISO_Impact
 
 * [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_5.md)
-
-## Name of the risk
-
-Inefficient data exchange and nan communication nan nan between different nan nan nan IoT devices and nan nan nan nan platforms
 
 ## Mitigations of this risk
 
@@ -62,4 +58,8 @@ Inefficient data exchange and nan communication nan nan between different nan na
 ## Property: has_RiskGBN
 
 * [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Name of the risk
+
+Inefficient data exchange and nan communication nan nan between different nan nan nan IoT devices and nan nan nan nan platforms
 

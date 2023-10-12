@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_711 
 
-# Benef: __Employee safety__ (PBN__Benef_711)
+# __Employee safety__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Reduces the risk of infection for vulnerable employees
+* [The impact of COVID-19 outbreak on United Kingdom infrastructure sector](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_141.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [jallow_impact_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_141.md)
+* [existing workforce](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_294.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved employee well-being and retention](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_763.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [existing workforce](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_294.md)
+Reduces the risk of infection for vulnerable employees
 

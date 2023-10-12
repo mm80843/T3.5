@@ -1,18 +1,22 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_0 
 
-# Benef: __Early detection__ (PBN__Benef_0)
+# __Early detection__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Early warning system for outbreaks
+* [Detection of SARS-CoV-2 in raw and treated wastewater in Germany – Suitability for COVID-19 surveillance and potential transmission risks](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_0.md)
+* [Response to COVID-19 in Taiwan: Big Data Analytics, New Technology, and Proactive Testing](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_24.md)
+* [Current knowledge of COVID-19: Advances, challenges and future perspectives](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_118.md)
+* [An Overview of Biomedical Ontologies for Pandemics and Infectious Diseases Representation](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_204.md)
+* [When the fourth water and digital revolution encountered COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_207.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [westhaus_detection_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_0.md)
-* [wang_response_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_24.md)
-* [wu_current_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_118.md)
-* [bayoudhi_overview_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_204.md)
-* [poch_when_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_207.md)
+* [public health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_0.md)
+* [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
+* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+* [health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_394.md)
+* [public health sector/government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_397.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
@@ -22,11 +26,7 @@ Early warning system for outbreaks
 * [Investing in a surveillance system improves public health outcomes and reduces healthcare costs.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1093.md)
 * [Improved public health response and containment measures](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1114.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [public health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_0.md)
-* [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
-* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
-* [health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_394.md)
-* [public health sector/government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_397.md)
+Early warning system for outbreaks
 

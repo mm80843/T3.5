@@ -1,16 +1,18 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_79 
 
-# Benef: __Reduced disease transmission__ (PBN__Benef_79)
+# __Reduced disease transmission__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Improves hygiene and reduces the risk of disease transmission through better sanitation practices
+* [Epidemics, Planning and the City: A Special Issue of Planning Perspectives](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_152.md)
+* [Vector-borne disease, climate change and urban design](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_17.md)
+* [Global policy challenges for urban vector-borne disease risks](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_132.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [davis_epidemics_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_152.md)
-* [ogden_vector-borne_2016](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_17.md)
-* [alabaster_global_2016](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_132.md)
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+* [public health](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_58.md)
+* [urban and periurban areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_279.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
@@ -18,9 +20,7 @@ Improves hygiene and reduces the risk of disease transmission through better san
 * [Private investors benefit from a healthier and safer environment, leading to increased property values and demand for housing.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_717.md)
 * [Private investors investing in sanitation infrastructure can benefit from increased property values in areas with improved sanitation facilities.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_834.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
-* [public health](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_58.md)
-* [urban and periurban areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_279.md)
+Improves hygiene and reduces the risk of disease transmission through better sanitation practices
 

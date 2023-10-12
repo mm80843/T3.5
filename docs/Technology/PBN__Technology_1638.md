@@ -1,12 +1,12 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_1638 
 
-# Technology: __calibration protocols__ (PBN__Technology_1638)
+# __calibration protocols__
 
-## Property: has_TechnologyID
-
-* [Q736777](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q736777.md)
-
-## Property: has_TechnologyRisk
+## Risks linked to this technology
 
 * [Data integrity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2128.md)
+
+## This Technology is identified by the following QID
+
+* [Q736777](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q736777.md)
 

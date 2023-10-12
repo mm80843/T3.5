@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_700 
 
-# Benef: __Redundancy in supply chains__ (PBN__Benef_700)
+# __Redundancy in supply chains__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Building redundancies in supply chains reduces the risk of shortages during crises, improving business continuity
+* [Learning from pandemics: Applying resilience thinking to identify priorities for planning urban settlements](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_137.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [syal_learning_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_137.md)
+* [businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_147.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Higher asset value due to improved business continuity and reduced financial losses](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_746.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_147.md)
+Building redundancies in supply chains reduces the risk of shortages during crises, improving business continuity
 

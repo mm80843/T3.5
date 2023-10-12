@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_1188 
 
-# Benef: __Reduced risk of reinfection__ (PBN__Benef_1188)
+# __Reduced risk of reinfection__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Increasing vaccination coverage reduces the risk of reinfection, contributing to overall public health and preventing strain on healthcare systems
+* [Contributions to the mitigation of the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_245.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [pilz_contributions_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_245.md)
+* [unvaccinated individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_463.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors can invest in vaccination campaigns to increase coverage, leading to improved public health outcomes and potential government partnerships.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1324.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [unvaccinated individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_463.md)
+Increasing vaccination coverage reduces the risk of reinfection, contributing to overall public health and preventing strain on healthcare systems
 

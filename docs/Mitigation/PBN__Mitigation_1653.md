@@ -1,18 +1,18 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1653 
 
-# Mitigation: __Knowledge-engineering best practices__ (PBN__Mitigation_1653)
-
-## Property: has_MitigationRisk
-
-
-## Property: has_MitigationSource
-
-* [queralt-rosinach_covid-19_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_259.md)
-
-## Property: has_MitigationTechnology
-
+# __Knowledge-engineering best practices__
 
 ## Property: has_MitigationPrinciple
 
 Apply principles and guidelines for well-formed ontological models
+
+## Property: has_MitigationSource
+
+* [The COVID-19 epidemiology and monitoring ontology](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_259.md)
+
+## Risks possibly mitigated by this Mitigation
+
+
+## This Mitigation is enabled by the following technologies
+
 

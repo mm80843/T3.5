@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_865 
 
-# Benef: __Early detection and containment of cases__ (PBN__Benef_865)
+# __Early detection and containment of cases__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Increased testing and contact tracing efforts identify cases early and enable targeted containment measures
+* [The Socio-Spatial Determinants of COVID-19 Diffusion: The Impact of Globalisation, Settlement Characteristics and Population](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_175.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [sigler_socio-spatial_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_175.md)
+* [local population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_349.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors in healthcare and medical testing would benefit from increased demand for testing supplies and services](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_946.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [local population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_349.md)
+Increased testing and contact tracing efforts identify cases early and enable targeted containment measures
 

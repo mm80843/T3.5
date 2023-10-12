@@ -1,19 +1,19 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__Mitigation_1961 
 
-# RiskMitigation: __Portable Acoustic Partitions__ (PBN__Mitigation_1961)
-
-## Property: has_MitigationRisk
-
-
-## Property: has_MitigationSource
-
-* [soliman_building_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_224.md)
-
-## Property: has_MitigationTechnology
-
-* [portable partitions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4169.md)
+# __Portable Acoustic Partitions__
 
 ## Property: has_MitigationPrinciple
 
 Using portable acoustic partitions to divide the space and create separate areas for different purposes within the building.
+
+## Property: has_MitigationSource
+
+* [Building Transformation for Precautionary Measures against COVID-19 Pandemic: Case of Off-Street Car Parking of Campuses](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_224.md)
+
+## Risks possibly mitigated by this Mitigation
+
+
+## This Mitigation is enabled by the following technologies
+
+* [portable partitions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4169.md)
 

@@ -1,4 +1,4 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [BenefReturn](https://github.com/mm80843/T3.5/tree/main/docs/BenefReturn/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [BenefReturn](https://github.com/mm80843/T3.5/tree/main/docs/BenefReturn/index.md) >> Individual ID:PBN__BenefReturn_1304 
 
-# BenefReturn: __Improved response to infectious diseases, better outbreak management, increased public trust in reporting systems.__ (PBN__BenefReturn_1304)
+# __Improved response to infectious diseases, better outbreak management, increased public trust in reporting systems.__
 

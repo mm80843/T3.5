@@ -1,4 +1,4 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [BenefReturn](https://github.com/mm80843/T3.5/tree/main/docs/BenefReturn/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [BenefReturn](https://github.com/mm80843/T3.5/tree/main/docs/BenefReturn/index.md) >> Individual ID:PBN__BenefReturn_1491 
 
-# BenefReturn: __Improved early detection of virus outbreaks leads to faster containment and reduced economic and social impacts, benefiting healthcare systems and the general population.__ (PBN__BenefReturn_1491)
+# __Improved early detection of virus outbreaks leads to faster containment and reduced economic and social impacts, benefiting healthcare systems and the general population.__
 

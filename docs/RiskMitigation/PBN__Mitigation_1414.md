@@ -1,22 +1,22 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__Mitigation_1414 
 
-# RiskMitigation: __Modular construction__ (PBN__Mitigation_1414)
-
-## Property: has_MitigationRisk
-
-* [Flexibility and speed](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3361.md)
-
-## Property: has_MitigationSource
-
-* [navaratnam_designing_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_282.md)
-* [tokazhanov_how_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_67.md)
-
-## Property: has_MitigationTechnology
-
-* [modular construction techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3772.md)
-* [prefabricated components](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4300.md)
+# __Modular construction__
 
 ## Property: has_MitigationPrinciple
 
 Utilize pre-fabricated modules to enable faster construction and adaptability in response to pandemics or natural disasters
+
+## Property: has_MitigationSource
+
+* [Designing Post COVID-19 Buildings: Approaches for Achieving Healthy Buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_282.md)
+* [How is COVID-19 Experience Transforming Sustainability Requirements of Residential Buildings? A Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_67.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Flexibility and speed](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3361.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [modular construction techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3772.md)
+* [prefabricated components](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4300.md)
 

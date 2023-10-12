@@ -1,11 +1,11 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2701 
 
-# Technology: __Ventilation Systems__ (PBN__Technology_2701)
+# __Ventilation Systems__
 
-## Property: has_StakeholderSubgroup
-
-
-## Property: has_StakeholderGroup
+## This Technology belongs to this TechGroup
 
 * [Indoor air technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_13.md)
+
+## This Technology belongs to this TechSubgroup
+
 

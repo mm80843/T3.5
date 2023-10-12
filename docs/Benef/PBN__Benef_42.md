@@ -1,21 +1,21 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_42 
 
-# Benef: __Expanded 5G coverage and connectivity__ (PBN__Benef_42)
+# __Expanded 5G coverage and connectivity__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Accelerating 5G deployment, encouraging L5GO networks, promoting purpose-built IoT devices, and facilitating spectrum sharing can improve 5G coverage and connectivity, benefiting the general population and healthcare facilities.
+* [The role of 5G for digital healthcare against COVID-19 pandemic: Opportunities and challenges](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_9.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [siriwardhana_role_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_9.md)
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+* [healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_33.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors can invest in 5G infrastructure, IoT device manufacturing, and spectrum sharing initiatives, contributing to expanded 5G coverage and connectivity.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_42.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
-* [healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_33.md)
+Accelerating 5G deployment, encouraging L5GO networks, promoting purpose-built IoT devices, and facilitating spectrum sharing can improve 5G coverage and connectivity, benefiting the general population and healthcare facilities.
 

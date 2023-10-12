@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_1309 
 
-# Benef: __Efficient patient triage__ (PBN__Benef_1309)
+# __Efficient patient triage__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Triage patients into risk groups for appropriate care
+* [Digital technology and COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_278.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [ting_digital_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_278.md)
+* [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Reduced burden on healthcare system and improved patient outcomes](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1479.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
+Triage patients into risk groups for appropriate care
 

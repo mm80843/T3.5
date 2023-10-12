@@ -1,23 +1,23 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_148 
 
-# Benef: __Sustainable funding__ (PBN__Benef_148)
+# __Sustainable funding__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Continued financial support for PCAs through domestic budgets to ensure effective conservation
+* [Building sustainable finance for resilient protected and conserved areas: lessons from COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_33.md)
 
-## Property: has_BenefSource
-
-* [cumming_building_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_33.md)
-
-## Description of Benefits pertaining to Beneficiaries
-
-* [Continued funding and stability for PCAs, conservation of biodiversity and ecosystems](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_149.md)
-
-## Property: has_Beneficiary
+## Stakeholders benefitting from this Benefit
 
 * [national governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_51.md)
 * [pcas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_84.md)
 * [local communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_85.md)
 * [public sector](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_87.md)
+
+## Description of Benefits pertaining to Beneficiaries
+
+* [Continued funding and stability for PCAs, conservation of biodiversity and ecosystems](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_149.md)
+
+## Name of the Benefit
+
+Continued financial support for PCAs through domestic budgets to ensure effective conservation
 

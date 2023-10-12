@@ -1,12 +1,12 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__RiskMitigation_132 
 
-# RiskMitigation: __Supporting local communities__ (PBN__RiskMitigation_132)
-
-## Property: has_MitigationRisk
-
-* [Increase in local opportunity cost](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_108.md)
+# __Supporting local communities__
 
 ## Property: has_MitigationBenefit
 
 * [Sustainable livelihoods](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_150.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Increase in local opportunity cost](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_108.md)
 

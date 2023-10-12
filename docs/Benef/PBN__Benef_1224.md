@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_1224 
 
-# Benef: __Social distancing__ (PBN__Benef_1224)
+# __Social distancing__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Increases in recreational use were greater on trails that are more remote because of social distancing advisories.
+* [Urban nature in a time of crisis: recreational use of green space increases during the COVID-19 outbreak in Oslo, Norway](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_256.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [venter_urban_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_256.md)
+* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Reduced risk of disease transmission and improved public health by allowing individuals to maintain distance from others while engaging in recreational activities.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1371.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
+Increases in recreational use were greater on trails that are more remote because of social distancing advisories.
 

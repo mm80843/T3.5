@@ -1,21 +1,21 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2091 
 
-# Mitigation: __Testing and tracing__ (PBN__Mitigation_2091)
-
-## Property: has_MitigationRisk
-
-* [Contagion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2685.md)
-
-## Property: has_MitigationSource
-
-* [thukral_covid19_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_194.md)
-
-## Property: has_MitigationTechnology
-
-* [contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_11.md)
-* [testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_610.md)
+# __Testing and tracing__
 
 ## Property: has_MitigationPrinciple
 
 Identifying and isolating infected individuals and their contacts to prevent further spread of contagious diseases.
+
+## Property: has_MitigationSource
+
+* [COVID19: Small and medium enterprises challenges and responses with creativity, innovation, and entrepreneurship](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_194.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Contagion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2685.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_11.md)
+* [testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_610.md)
 

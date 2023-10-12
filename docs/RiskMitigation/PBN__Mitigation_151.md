@@ -1,23 +1,23 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__Mitigation_151 
 
-# RiskMitigation: __Virtual clinics__ (PBN__Mitigation_151)
+# __Virtual clinics__
 
-## Property: has_MitigationRisk
+## Property: has_MitigationPrinciple
 
+Conducting virtual consultations to screen patients before they arrive in hospitals, reducing the need for physical presence at clinics and allowing for efficient triage and patient evaluation
 
 ## Property: has_MitigationSource
 
-* [arpaci_leveraging_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_297.md)
-* [ting_digital_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_278.md)
+* [Leveraging Digital Transformation Technologies to Tackle COVID-19: Proposing a Privacy-First Holistic Framework](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_297.md)
+* [Digital technology and COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_278.md)
 
-## Property: has_MitigationTechnology
+## Risks possibly mitigated by this Mitigation
+
+
+## This Mitigation is enabled by the following technologies
 
 * [telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_73.md)
 * [smartphones](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3002.md)
 * [webcam-enabled computers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3003.md)
 * [digital imaging](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4233.md)
-
-## Property: has_MitigationPrinciple
-
-Conducting virtual consultations to screen patients before they arrive in hospitals, reducing the need for physical presence at clinics and allowing for efficient triage and patient evaluation
 

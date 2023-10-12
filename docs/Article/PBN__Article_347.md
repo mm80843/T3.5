@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_347 
 
-# Article: __hartley_public_2020__ (PBN__Article_347)
+# __Public Health Interventions for COVID-19__
 
-## Property: has_ArticleDOI
+## Title of the article
+
+Public Health Interventions for COVID-19
+
+## DOI of the article
 
 10.1001/jama.2020.5910
 
-## Property: has_ArticleYear
+## Year of publication
 
 2020
 
-## Property: has_ArticleRef
+## Referenced by other articles
 
-* [tian_investigation_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_197.md)
-
-## Property: has_ArticleTitle
-
-Public Health Interventions for COVID-19
+* [An investigation of transmission control measures during the first 50 days of the COVID-19 epidemic in China](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_197.md)
 

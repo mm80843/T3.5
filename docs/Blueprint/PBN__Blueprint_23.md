@@ -1,26 +1,6 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Blueprint](https://github.com/mm80843/T3.5/tree/main/docs/Blueprint/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/main/docs/Blueprint/index.md) >> Individual ID:PBN__Blueprint_23 
 
-# Blueprint: __PBN:BP_24__ (PBN__Blueprint_23)
-
-## Property: has_BPDemonstrated
-
-https://www.frontiersin.org/articles/10.3389/fpsyg.2021.759987/full#B11
-
-https://www.cell.com/heliyon/fulltext/S2405-8440(20)31159-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2405844020311592%3Fshowall%3Dtrue
-
-https://www.frontiersin.org/articles/10.3389/fpsyg.2020.01708/full
-
-## Property: has_BPValueProposition
-
-This action aims to maintain or improve the mental health of GBN users, and therefore their general health and wellbeing. it is not intended as a mean to stop or reduce the spread of disease.
-
-## Property: has_BPRestriction
-
-An official restriction in times of epidemics or pandemics could limit the use of facilities, so that physical activities do not become a source of contamination by themselves. Investment in building and operation can be high in most cases. 
-
-## Property: has_BPTransmission
-
-Not relevant
+# __PBN:BP_24__
 
 ## Property: has_BPReason
 
@@ -30,21 +10,41 @@ People who stay active physically, mentally, socially and spiritually have bette
 
 Physical activity has a number of known health benefits in addition to its positive effects on mental health. Improving physical activity can be done in a number of ways. The most common is the provision of gyms or other facilities for physical activity and related activities, but there are also other elements that promote physical activity and active travel, such as showers, changing rooms, bicycle racks or attractive staircases.
 
-## Property: has_BPProblem
+## Property: has_BPPermanent
 
-Improving or maintaining the mental health of GBN users so to positively impact their wellbeing and health.
+Permanent
+
+## Property: has_BPValueProposition
+
+This action aims to maintain or improve the mental health of GBN users, and therefore their general health and wellbeing. it is not intended as a mean to stop or reduce the spread of disease.
 
 ## Property: has_BPScale
 
 Both
 
+## Property: has_BPProblem
+
+Improving or maintaining the mental health of GBN users so to positively impact their wellbeing and health.
+
+## Property: has_BPRestriction
+
+An official restriction in times of epidemics or pandemics could limit the use of facilities, so that physical activities do not become a source of contamination by themselves. Investment in building and operation can be high in most cases. 
+
 ## Property: has_BPPhase
 
 Design and Operational
 
-## Property: has_BPPermanent
+## Property: has_BPDemonstrated
 
-Permanent
+https://www.frontiersin.org/articles/10.3389/fpsyg.2021.759987/full#B11
+
+https://www.cell.com/heliyon/fulltext/S2405-8440(20)31159-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2405844020311592%3Fshowall%3Dtrue
+
+https://www.frontiersin.org/articles/10.3389/fpsyg.2020.01708/full
+
+## Property: has_BPTransmission
+
+Not relevant
 
 ## Property: has_BPDescription
 
@@ -54,11 +54,11 @@ It is well known that physical activity or exercise is essential for improving a
 
 Studies shows that nearly all types of physical activity are helpful and both physical exercise training and relaxation training can buffer the negative effects of stress on general health and mental health. This is important to implement in daily rutines.
 
-## Property: has_BPTitle
-
-Enhancing physical activity
-
 ## Property: has_BPType
 
 Technical & Behavioural
+
+## Property: has_BPTitle
+
+Enhancing physical activity
 

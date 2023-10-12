@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_1066 
 
-# Benef: __Financial stability and poverty reduction__ (PBN__Benef_1066)
+# __Financial stability and poverty reduction__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Access to financial resources and reduced risk of food insecurity
+* [COVID-19 pandemic and mitigation strategies: implications for maternal and child health and nutrition](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_222.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [akseer_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_222.md)
+* [vulnerable households](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_254.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved financial well-being, reduced risk of undernutrition](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1191.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [vulnerable households](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_254.md)
+Access to financial resources and reduced risk of food insecurity
 

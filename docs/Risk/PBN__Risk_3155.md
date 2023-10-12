@@ -1,6 +1,6 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_3155 
 
-# Risk: __Emotional distress, unhealthy behaviors, noncompliance with public health directives__ (PBN__Risk_3155)
+# __Emotional distress, unhealthy behaviors, noncompliance with public health directives__
 
 ## Mitigations of this risk
 

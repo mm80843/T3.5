@@ -1,41 +1,37 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_295 
 
-# Risk: __nan__ (PBN__Risk_295)
-
-## Property: has_RiskHealth
-
-
-## List of stakeholders linked to the risk
-
+# __nan__
 
 ## Property: has_RiskISO_Purpose
-
-
-## Articles mentionning the risk
-
-* [yang_urban_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_6.md)
-* [syal_learning_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_137.md)
-* [ting_digital_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_278.md)
-
-## Property: has_RiskDescription
-
-nan
-
-## People affected by this risk
-
-
-## Technologies linked to the risk
 
 
 ## Property: has_RiskType
 
 
-## Property: has_RiskISO_Impact
+## Stakeholders who can mitigate this risk
 
 
-## Name of the risk
+## Property: has_RiskHealth
+
+
+## Description of the risk
 
 nan
+
+## Articles mentionning the risk
+
+* [Urban design attributes and resilience: COVID-19 evidence from New York City](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_6.md)
+* [Learning from pandemics: Applying resilience thinking to identify priorities for planning urban settlements](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_137.md)
+* [Digital technology and COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_278.md)
+
+## Technologies linked to the risk
+
+
+## People affected by this risk
+
+
+## Property: has_RiskISO_Impact
+
 
 ## Mitigations of this risk
 
@@ -1025,4 +1021,8 @@ nan
 
 ## Property: has_RiskGBN
 
+
+## Name of the risk
+
+nan
 

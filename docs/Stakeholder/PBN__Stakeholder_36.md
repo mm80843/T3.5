@@ -1,8 +1,8 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_36 
 
-# Stakeholder: __users of healthcare technologies__ (PBN__Stakeholder_36)
+# __users of healthcare technologies__
 
-## Property: has_BenefitForPeople
+## This Stakeholder can get these Benefits from mitigation measures
 
 * [Enhanced privacy protection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_39.md)
 * [Improved cybersecurity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_40.md)

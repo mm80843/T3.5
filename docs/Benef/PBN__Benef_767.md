@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_767 
 
-# Benef: __------------------------------__ (PBN__Benef_767)
+# __------------------------------__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-----------------------------------------------------------------
+* [COVID-19 media fatigue: predictors of decreasing interest and avoidance of COVID-19–related news](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_153.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [buneviciene_covid-19_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_153.md)
+* [-------------------](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_314.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [-------------------------------------------------------------------------](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_837.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [-------------------](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_314.md)
+----------------------------------------------------------------
 

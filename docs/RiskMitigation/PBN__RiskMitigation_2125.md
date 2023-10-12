@@ -1,8 +1,8 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__RiskMitigation_2125 
 
-# RiskMitigation: __Continuously monitor and analyze social media data to identify trends and changes in prevalence of loneliness themes__ (PBN__RiskMitigation_2125)
+# __Continuously monitor and analyze social media data to identify trends and changes in prevalence of loneliness themes__
 
-## Property: has_MitigationRisk
+## Risks possibly mitigated by this Mitigation
 
 * [Variations in prevalence of loneliness themes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1592.md)
 

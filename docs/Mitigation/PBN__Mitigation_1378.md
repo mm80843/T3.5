@@ -1,22 +1,22 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1378 
 
-# Mitigation: __Wearing Face Masks__ (PBN__Mitigation_1378)
-
-## Property: has_MitigationRisk
-
-* [Spread of Contagious Disease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3227.md)
-
-## Property: has_MitigationSource
-
-* [mukerjee_mitigation_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_154.md)
-* [ning_impacts_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_74.md)
-* [rizvi_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_271.md)
-
-## Property: has_MitigationTechnology
-
-* [face masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_342.md)
+# __Wearing Face Masks__
 
 ## Property: has_MitigationPrinciple
 
 Reduce the spread of respiratory droplets from infected individuals to others, especially in situations where physical distancing is challenging.
+
+## Property: has_MitigationSource
+
+* [Mitigation strategies and compliance in the COVID-19 fight; how much compliance is enough?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_154.md)
+* [The impacts of knowledge, risk perception, emotion and information on citizens’ protective behaviors during the outbreak of COVID-19: a cross-sectional study in China](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_74.md)
+* [Covid-19 and asset management in EU: a preliminary assessment of performance and investment styles](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_271.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Spread of Contagious Disease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3227.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [face masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_342.md)
 

@@ -1,10 +1,14 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_7 
 
-# Stakeholder: __victims of domestic violence__ (PBN__Stakeholder_7)
+# __victims of domestic violence__
 
-## Property: has_StakeholderSubgroup
+## This Stakeholder is identified by the following QID
 
-* [Personal Safety and Security](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_113.md)
+* [Q156537](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q156537.md)
+
+## This Stakeholder can get these Benefits from mitigation measures
+
+* [Increased reporting of domestic violence](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_10.md)
 
 ## Risk affecting this stakeholder
 
@@ -12,15 +16,11 @@
 * [Increase in domestic violence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1438.md)
 * [Impact on family dynamics: domestic violence & home video-gaming](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1817.md)
 
-## Property: has_StakeholderID
-
-* [Q156537](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q156537.md)
-
-## Property: has_StakeholderGroup
+## This Stakeholder belongs to this StakeholderGroup
 
 * [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
 
-## Property: has_BenefitForPeople
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Increased reporting of domestic violence](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_10.md)
+* [Personal Safety and Security](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_113.md)
 

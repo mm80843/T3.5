@@ -1,19 +1,19 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2460 
 
-# Mitigation: __Information transparency__ (PBN__Mitigation_2460)
-
-## Property: has_MitigationRisk
-
-* [Lack of information transparency](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_658.md)
-
-## Property: has_MitigationSource
-
-* [zhang_effective_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_188.md)
-
-## Property: has_MitigationTechnology
-
+# __Information transparency__
 
 ## Property: has_MitigationPrinciple
 
 Enhancing information disclosure and openness to build trust and facilitate effective risk communication
+
+## Property: has_MitigationSource
+
+* [Effective Risk Communication for Public Health Emergency: Reflection on the COVID-19 (2019-nCoV) Outbreak in Wuhan, China](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_188.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of information transparency](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_658.md)
+
+## This Mitigation is enabled by the following technologies
+
 

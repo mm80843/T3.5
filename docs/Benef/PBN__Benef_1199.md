@@ -1,23 +1,23 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_1199 
 
-# Benef: __Reduced surface contamination__ (PBN__Benef_1199)
+# __Reduced surface contamination__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Using materials with low virus survivability reduces the persistence of SARS-CoV-2 on surfaces, decreasing the risk of fomite transmission
+* [Environmental factors involved in SARS-CoV-2 transmission: effect and role of indoor environmental quality in the strategy for COVID-19 infection control](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_249.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [azuma_environmental_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_249.md)
+* [visitors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_118.md)
+* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
+* [staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_103.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors can attract tenants and customers by implementing copper surfaces, ensuring a lower risk of surface contamination and improving the overall perception of cleanliness and hygiene.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1340.md)
 * [Private investors can attract tenants and customers by implementing materials with low virus survivability, ensuring a lower risk of surface contamination and improving the overall perception of cleanliness and hygiene.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1341.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [visitors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_118.md)
-* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
-* [staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_103.md)
+Using materials with low virus survivability reduces the persistence of SARS-CoV-2 on surfaces, decreasing the risk of fomite transmission
 

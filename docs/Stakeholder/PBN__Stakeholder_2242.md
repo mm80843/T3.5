@@ -1,15 +1,15 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_2242 
 
-# Stakeholder: __especially those living in noisy area__ (PBN__Stakeholder_2242)
+# __especially those living in noisy area__
 
-## Property: has_StakeholderSubgroup
-
-
-## Property: has_StakeholderID
+## This Stakeholder is identified by the following QID
 
 * [Q92251](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q92251.md)
 
-## Property: has_StakeholderGroup
+## This Stakeholder belongs to this StakeholderGroup
 
 * [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
 

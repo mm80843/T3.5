@@ -1,6 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_93 
 
-# Stakeholder: __medical staff__ (PBN__Stakeholder_93)
+# __medical staff__
+
+## This Stakeholder is identified by the following QID
+
+* [Q69948433](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q69948433.md)
+
+## This Stakeholder can get these Benefits from mitigation measures
+
+* [Efficient tracking of high-risk patients](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_157.md)
+* [Reduction of infections](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_317.md)
+* [Reduces risk of contracting SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_775.md)
+* [Reduces risk of spreading other infections](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_776.md)
+* [Enhanced training effectiveness](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1115.md)
+* [Reduction in transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1258.md)
+* [Increased efficiency of medical staff](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1391.md)
 
 ## Risk affecting this stakeholder
 
@@ -19,21 +33,7 @@
 * [Healthcare-](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2322.md)
 * [Lack of qualified staff for testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2374.md)
 
-## Property: has_StakeholderID
-
-* [Q69948433](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q69948433.md)
-
-## Property: has_OwnerRisk
+## Risks that can be mitigated by this stakeholder
 
 * [Contamination of masks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1422.md)
-
-## Property: has_BenefitForPeople
-
-* [Efficient tracking of high-risk patients](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_157.md)
-* [Reduction of infections](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_317.md)
-* [Reduces risk of contracting SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_775.md)
-* [Reduces risk of spreading other infections](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_776.md)
-* [Enhanced training effectiveness](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1115.md)
-* [Reduction in transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1258.md)
-* [Increased efficiency of medical staff](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1391.md)
 

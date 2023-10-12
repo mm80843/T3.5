@@ -1,26 +1,34 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_1452 
 
-# Risk: __Lack of bioinformatics tools__ (PBN__Risk_1452)
-
-## Property: has_RiskHealth
-
-
-## List of stakeholders linked to the risk
-
-* [developers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_637.md)
-* [bioinformaticians](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_940.md)
+# __Lack of bioinformatics tools__
 
 ## Property: has_RiskISO_Purpose
 
 * [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
 
-## Articles mentionning the risk
+## Property: has_RiskType
 
-* [he_cido_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_13.md)
+* [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
 
-## Property: has_RiskDescription
+## Stakeholders who can mitigate this risk
+
+* [developers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_637.md)
+* [bioinformaticians](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_940.md)
+
+## Property: has_RiskHealth
+
+
+## Description of the risk
 
 No efficient and robust tools available for integrating and analyzing heterogeneous data and knowledge in coronavirus research.
+
+## Articles mentionning the risk
+
+* [CIDO, a community-based ontology for coronavirus disease knowledge and data integration, sharing, and analysis](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_13.md)
+
+## Technologies linked to the risk
+
+* [bioinformatics tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_713.md)
 
 ## People affected by this risk
 
@@ -28,21 +36,9 @@ No efficient and robust tools available for integrating and analyzing heterogene
 * [healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_32.md)
 * [scientists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_46.md)
 
-## Technologies linked to the risk
-
-* [bioinformatics tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_713.md)
-
-## Property: has_RiskType
-
-* [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
-
 ## Property: has_RiskISO_Impact
 
 * [Education and capacity building](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_7.md)
-
-## Name of the risk
-
-Slows down the discovery of effective measures against coronaviruses.
 
 ## Mitigations of this risk
 
@@ -51,4 +47,8 @@ Slows down the discovery of effective measures against coronaviruses.
 ## Property: has_RiskGBN
 
 * [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
+
+## Name of the risk
+
+Slows down the discovery of effective measures against coronaviruses.
 

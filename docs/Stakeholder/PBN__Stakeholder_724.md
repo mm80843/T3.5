@@ -1,8 +1,8 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_724 
 
-# Stakeholder: __tourism providers__ (PBN__Stakeholder_724)
+# __tourism providers__
 
-## Property: has_OwnerRisk
+## Risks that can be mitigated by this stakeholder
 
 * [COVID-19 risk perception](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1206.md)
 * [COVID-19 travel anxiety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1207.md)

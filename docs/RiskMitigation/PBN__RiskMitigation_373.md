@@ -1,12 +1,12 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__RiskMitigation_373 
 
-# RiskMitigation: __Use of high-efficiency air filters__ (PBN__RiskMitigation_373)
-
-## Property: has_MitigationRisk
-
-* [COVID-19 transmission in crowded occupational environments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_301.md)
+# __Use of high-efficiency air filters__
 
 ## Property: has_MitigationBenefit
 
 * [Reduction of airborne virus transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_371.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [COVID-19 transmission in crowded occupational environments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_301.md)
 

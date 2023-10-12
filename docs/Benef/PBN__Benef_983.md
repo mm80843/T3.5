@@ -1,21 +1,21 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_983 
 
-# Benef: __Cost reduction__ (PBN__Benef_983)
+# __Cost reduction__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Switching to a domestic supply chain would reduce costs for corporations and consumers
+* [How COVID-19 Redefines the Concept of Sustainability](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_202.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [hakovirta_how_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_202.md)
+* [consumers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_146.md)
+* [corporations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_388.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors would benefit from cost savings and increased competitiveness in the market](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1083.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [consumers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_146.md)
-* [corporations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_388.md)
+Switching to a domestic supply chain would reduce costs for corporations and consumers
 

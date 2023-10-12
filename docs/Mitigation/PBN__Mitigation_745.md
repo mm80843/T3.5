@@ -1,18 +1,18 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_745 
 
-# Mitigation: __Risk Management__ (PBN__Mitigation_745)
-
-## Property: has_MitigationRisk
-
-
-## Property: has_MitigationSource
-
-* [g_overcoming_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_72.md)
-
-## Property: has_MitigationTechnology
-
+# __Risk Management__
 
 ## Property: has_MitigationPrinciple
 
 Identify and assess risks associated with value engineering and other project management processes
+
+## Property: has_MitigationSource
+
+* [Overcoming the Impact of COVID-19 Using Integrated Project Delivery Model](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_72.md)
+
+## Risks possibly mitigated by this Mitigation
+
+
+## This Mitigation is enabled by the following technologies
+
 

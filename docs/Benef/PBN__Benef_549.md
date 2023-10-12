@@ -1,23 +1,23 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_549 
 
-# Benef: __Disseminating evidence through various mediums__ (PBN__Benef_549)
+# __Disseminating evidence through various mediums__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Innovating and utilizing multiple channels such as social media, interviews, and webinars improves dissemination and reach of evidence
+* [Amplifying the role of knowledge translation platforms in the COVID-19 pandemic response](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_111.md)
 
-## Property: has_BenefSource
-
-* [el-jardali_amplifying_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_111.md)
-
-## Description of Benefits pertaining to Beneficiaries
-
-* [Increased awareness, engagement, and uptake of evidence by target audiences](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_601.md)
-
-## Property: has_Beneficiary
+## Stakeholders benefitting from this Benefit
 
 * [healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_32.md)
 * [public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_52.md)
 * [ngos](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_234.md)
 * [policy-makers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_229.md)
+
+## Description of Benefits pertaining to Beneficiaries
+
+* [Increased awareness, engagement, and uptake of evidence by target audiences](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_601.md)
+
+## Name of the Benefit
+
+Innovating and utilizing multiple channels such as social media, interviews, and webinars improves dissemination and reach of evidence
 

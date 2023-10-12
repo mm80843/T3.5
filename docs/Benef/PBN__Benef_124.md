@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_124 
 
-# Benef: __Improved knowledge and awareness__ (PBN__Benef_124)
+# __Improved knowledge and awareness__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Proper training and guidance on hygiene practices reduce the risk of infection transmission
+* [A Global Survey of Infection Control and Mitigation Measures for Combating the Transmission of COVID-19 Pandemic in Buildings Under Facilities Management Services](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_27.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [sarvari_global_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_27.md)
+* [building occupants and management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_78.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Implementing training protocols increases occupant safety, reduces absenteeism, and maintains business continuity.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_123.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [building occupants and management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_78.md)
+Proper training and guidance on hygiene practices reduce the risk of infection transmission
 

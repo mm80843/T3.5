@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_1001 
 
-# Benef: __Enhanced treatment__ (PBN__Benef_1001)
+# __Enhanced treatment__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Improved water quality
+* [When the fourth water and digital revolution encountered COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_207.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [poch_when_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_207.md)
+* [water utilities/consumers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_395.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Enhanced public health](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1108.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [water utilities/consumers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_395.md)
+Improved water quality
 

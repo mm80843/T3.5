@@ -1,21 +1,21 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_781 
 
-# Benef: __Protection of democratic values and human rights__ (PBN__Benef_781)
+# __Protection of democratic values and human rights__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Safeguarding of democratic processes, prevention of abuse of power, preservation of individual rights and freedoms
+* [Borders and Catastrophe: lessons from COVID-19 for the European Green Deal](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_156.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [klein_borders_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_156.md)
+* [citizens](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_54.md)
+* [democratically elected leaders](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_317.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Upholding democratic principles, ensuring political stability, maintaining public trust in institutions](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_850.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [citizens](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_54.md)
-* [democratically elected leaders](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_317.md)
+Safeguarding of democratic processes, prevention of abuse of power, preservation of individual rights and freedoms
 

@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_1390 
 
-# Benef: __Improved patient care__ (PBN__Benef_1390)
+# __Improved patient care__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-IoT enables effective reachability to patients, allowing for better care and monitoring during quarantine.
+* [Internet of things (IoT) applications to fight against COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_295.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [singh_internet_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_295.md)
+* [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved patient care leads to better health outcomes and potentially reduced healthcare costs.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1577.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
+IoT enables effective reachability to patients, allowing for better care and monitoring during quarantine.
 

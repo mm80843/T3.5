@@ -1,4 +1,4 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [BenefReturn](https://github.com/mm80843/T3.5/tree/main/docs/BenefReturn/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [BenefReturn](https://github.com/mm80843/T3.5/tree/main/docs/BenefReturn/index.md) >> Individual ID:PBN__BenefReturn_1217 
 
-# BenefReturn: __Investing in IoT for real-time monitoring can lead to better patient outcomes, reduced healthcare costs, and improved hospital efficiency.__ (PBN__BenefReturn_1217)
+# __Investing in IoT for real-time monitoring can lead to better patient outcomes, reduced healthcare costs, and improved hospital efficiency.__
 

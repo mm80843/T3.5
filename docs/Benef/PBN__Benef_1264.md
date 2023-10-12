@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_1264 
 
-# Benef: __Low cost and recyclability__ (PBN__Benef_1264)
+# __Low cost and recyclability__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Reusable masks and shields made from recycled materials are inexpensive, easily washable, and can be mass-produced, reducing costs and waste disposal.
+* [Supporting Technologies for COVID-19 Prevention: Systemized Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_266.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [zhao_supporting_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_266.md)
+* [users of reusable masks and shields](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_498.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Investing in the production and distribution of reusable PPE can contribute to environmental sustainability, reduce costs, and improve public health, increasing asset value for investors.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1424.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [users of reusable masks and shields](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_498.md)
+Reusable masks and shields made from recycled materials are inexpensive, easily washable, and can be mass-produced, reducing costs and waste disposal.
 

@@ -1,24 +1,6 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Blueprint](https://github.com/mm80843/T3.5/tree/main/docs/Blueprint/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/main/docs/Blueprint/index.md) >> Individual ID:PBN__Blueprint_17 
 
-# Blueprint: __PBN:BP_18__ (PBN__Blueprint_17)
-
-## Property: has_BPDemonstrated
-
-(i)https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7245320/
-(ii)https://pubs.acs.org/doi/10.1021/acs.estlett.0c00357
-(iii)https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7566278/
-
-## Property: has_BPValueProposition
-
-In general terms, this blueprint provides a cheap, rapid and robust tool of tracking diseases. The ability of this measure to rapidly monitor the spread of disease is key for prevention, intervention and control.
-
-## Property: has_BPRestriction
-
-Although no data is collected on specific individuals, several ethical aspects of this measure can be discussed. It is generally accepted that a population size of more than > 10,000 is sufficient to ensure anonymity and not pose a risk. This number is far from the number of people who might live in a neighbourhood. As a result, some people might be stigmatised by the measure. On the other hand, a smaller number of people may also have an impact on the sensitivity of the system (lower concentrations of pathogens). Moreover, the data gathered through wastewater monitoring cannot replace the data that is gathered by clinical surveillance but might overcome some of its limitations such as the size of the sample. It is also not very representative in case of low levels of disease spread and does not take into account any changes in the presence of individuals (seasonal such as holidays or occasional due to bad weather for instance). Last, standardized method is required for the data to be interpreted in the same manner across various areas. Moreover, high cost of equipement and need for regular maintenance on site might discourage implementation of this measure.  
-
-## Property: has_BPTransmission
-
-None
+# __PBN:BP_18__
 
 ## Property: has_BPReason
 
@@ -32,21 +14,39 @@ For this measure to be most useful, it is important to select a broad panel of m
 •	 markers for intervention (drugs) 
 •	 markers for antimicrobial resistance
 
-## Property: has_BPProblem
+## Property: has_BPPermanent
 
-Surveillance and monitoring of pathogens in wastewater complements current infectious disease surveillance systems and serves as an early warning system for disease outbreaks across entire communities and can provide useful information on the presence of viruses and on the intensity and geographical spread of the virus. Moreover, this will also include the data from asymptomatic individuals who would not be traced by the usual means. 
+Permanent 
+
+## Property: has_BPValueProposition
+
+In general terms, this blueprint provides a cheap, rapid and robust tool of tracking diseases. The ability of this measure to rapidly monitor the spread of disease is key for prevention, intervention and control.
 
 ## Property: has_BPScale
 
 GBN 
 
+## Property: has_BPProblem
+
+Surveillance and monitoring of pathogens in wastewater complements current infectious disease surveillance systems and serves as an early warning system for disease outbreaks across entire communities and can provide useful information on the presence of viruses and on the intensity and geographical spread of the virus. Moreover, this will also include the data from asymptomatic individuals who would not be traced by the usual means. 
+
+## Property: has_BPRestriction
+
+Although no data is collected on specific individuals, several ethical aspects of this measure can be discussed. It is generally accepted that a population size of more than > 10,000 is sufficient to ensure anonymity and not pose a risk. This number is far from the number of people who might live in a neighbourhood. As a result, some people might be stigmatised by the measure. On the other hand, a smaller number of people may also have an impact on the sensitivity of the system (lower concentrations of pathogens). Moreover, the data gathered through wastewater monitoring cannot replace the data that is gathered by clinical surveillance but might overcome some of its limitations such as the size of the sample. It is also not very representative in case of low levels of disease spread and does not take into account any changes in the presence of individuals (seasonal such as holidays or occasional due to bad weather for instance). Last, standardized method is required for the data to be interpreted in the same manner across various areas. Moreover, high cost of equipement and need for regular maintenance on site might discourage implementation of this measure.  
+
 ## Property: has_BPPhase
 
 Operational 
 
-## Property: has_BPPermanent
+## Property: has_BPDemonstrated
 
-Permanent 
+(i)https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7245320/
+(ii)https://pubs.acs.org/doi/10.1021/acs.estlett.0c00357
+(iii)https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7566278/
+
+## Property: has_BPTransmission
+
+None
 
 ## Property: has_BPDescription
 
@@ -56,11 +56,11 @@ Already a year ago, the European Commission recommended that EU member states se
 
 This measure is effective as long as the residential area is in operation and the monitoring team includes epidemiologists as well as environmentalists.  
 
-## Property: has_BPTitle
-
-Wastewater monitoring   
-
 ## Property: has_BPType
 
 Technical
+
+## Property: has_BPTitle
+
+Wastewater monitoring   
 

@@ -1,12 +1,4 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [BP_Intervention](https://github.com/mm80843/T3.5/tree/main/docs/BP_Intervention/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [BP_Intervention](https://github.com/mm80843/T3.5/tree/main/docs/BP_Intervention/index.md) >> Individual ID:PBN__BP_Intervention_28 
 
-# BP_Intervention: __intervention_HS1__ (PBN__BP_Intervention_28)
-
-## Property: has_BP_InterventionTitle
-
-Introduce "multi-use" / modular designs
-
-## Property: has_BP_InterventionKey
-
-HS1
+# __intervention_HS1__
 

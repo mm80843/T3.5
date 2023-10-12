@@ -1,22 +1,22 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_1043 
 
-# Benef: __Improved performance and customer experience in retail and neighborhood services__ (PBN__Benef_1043)
+# __Improved performance and customer experience in retail and neighborhood services__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Implementing digital and ICT tools can enhance performance, efficiency, and customer experience in retail and neighborhood services, leading to increased customer satisfaction and loyalty.
+* [Proximity and post-COVID-19 urban development: Reflections from Milan, Italy](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_216.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [tricarico_proximity_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_216.md)
+* [consumers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_146.md)
+* [entrepreneurs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_417.md)
+* [retail businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_418.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors can benefit by investing in projects that implement digital and ICT tools for retail and neighborhood services, as it can lead to improved profitability and competitiveness in the retail sector.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1164.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [consumers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_146.md)
-* [entrepreneurs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_417.md)
-* [retail businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_418.md)
+Implementing digital and ICT tools can enhance performance, efficiency, and customer experience in retail and neighborhood services, leading to increased customer satisfaction and loyalty.
 

@@ -1,4 +1,4 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [BenefReturn](https://github.com/mm80843/T3.5/tree/main/docs/BenefReturn/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [BenefReturn](https://github.com/mm80843/T3.5/tree/main/docs/BenefReturn/index.md) >> Individual ID:PBN__BenefReturn_1278 
 
-# BenefReturn: __Private investors investing in residential and commercial properties in quieter areas can benefit from increased property values and improved quality of life for residents and tenants.__ (PBN__BenefReturn_1278)
+# __Private investors investing in residential and commercial properties in quieter areas can benefit from increased property values and improved quality of life for residents and tenants.__
 

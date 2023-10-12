@@ -1,21 +1,21 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_606 
 
-# Benef: __Reduce the risk of infection and transmission in office spaces__ (PBN__Benef_606)
+# __Reduce the risk of infection and transmission in office spaces__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Implementing improved cleaning and disinfection protocols can reduce the risk of COVID-19 infection and transmission in office spaces, ensuring a safer work environment for workers.
+* [COVID-19 Experience Transforming the Protective Environment of Office Buildings and Spaces](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_120.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [phapant_covid-19_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_120.md)
+* [workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_128.md)
+* [employers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_180.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors can benefit from investing in improved cleaning and disinfection protocols as it can enhance worker safety, reduce the risk of outbreaks, and maintain business continuity, leading to improved productivity and financial stability for companies.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_654.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_128.md)
-* [employers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_180.md)
+Implementing improved cleaning and disinfection protocols can reduce the risk of COVID-19 infection and transmission in office spaces, ensuring a safer work environment for workers.
 

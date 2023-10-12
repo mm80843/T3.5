@@ -1,21 +1,21 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_391 
 
-# Benef: __Maintaining Pressure Differentials__ (PBN__Benef_391)
+# __Maintaining Pressure Differentials__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Maintaining negative pressure in AIIRs helps prevent the spread of infectious particles to other areas of the hospital, reducing the risk of transmission.
+* [Rapid expansion of temporary, reliable airborne-infection isolation rooms with negative air machines for critical COVID-19 patients](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_77.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [lee_rapid_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_77.md)
+* [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
+* [medical personnel](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_184.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Investing in negative air machines and maintaining pressure differentials can improve infection control, protect patients and medical personnel from exposure, and enhance the hospital’s reputation.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_419.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
-* [medical personnel](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_184.md)
+Maintaining negative pressure in AIIRs helps prevent the spread of infectious particles to other areas of the hospital, reducing the risk of transmission.
 

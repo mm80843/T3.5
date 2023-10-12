@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_348 
 
-# Benef: __Efficient water use and treatment of wastewater__ (PBN__Benef_348)
+# __Efficient water use and treatment of wastewater__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Water conservation and reduced virus transmission through wastewater
+* [How is COVID-19 Experience Transforming Sustainability Requirements of Residential Buildings? A Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_67.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [tokazhanov_how_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_67.md)
+* [occupants and water management services](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_169.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved sustainability and reduced water shortages](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_371.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [occupants and water management services](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_169.md)
+Water conservation and reduced virus transmission through wastewater
 

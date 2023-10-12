@@ -1,12 +1,12 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_491 
 
-# Technology: __hvac technologies__ (PBN__Technology_491)
+# __hvac technologies__
 
-## Property: has_TechnologyID
-
-* [Q1798773](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1798773.md)
-
-## Property: has_TechnologyRisk
+## Risks linked to this technology
 
 * [Inadequate ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_713.md)
+
+## This Technology is identified by the following QID
+
+* [Q1798773](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1798773.md)
 

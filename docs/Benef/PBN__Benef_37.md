@@ -1,21 +1,21 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_37 
 
-# Benef: __Improved supply chain efficiency__ (PBN__Benef_37)
+# __Improved supply chain efficiency__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Utilizing 5G and IoT devices in supply chain management can increase transparency, efficiency, and real-time tracking of goods, ensuring timely delivery of essential supplies to healthcare facilities.
+* [The role of 5G for digital healthcare against COVID-19 pandemic: Opportunities and challenges](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_9.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [siriwardhana_role_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_9.md)
+* [manufacturers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_34.md)
+* [healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_33.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors can develop and implement 5G-based supply chain management solutions, increasing the value of their investment as healthcare facilities and manufacturers benefit from improved efficiency.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_37.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [manufacturers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_34.md)
-* [healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_33.md)
+Utilizing 5G and IoT devices in supply chain management can increase transparency, efficiency, and real-time tracking of goods, ensuring timely delivery of essential supplies to healthcare facilities.
 

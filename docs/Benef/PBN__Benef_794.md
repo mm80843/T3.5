@@ -1,17 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_794 
 
-# Benef: __Financial support__ (PBN__Benef_794)
+# __Financial support__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Provides immediate relief and stability, prevents further economic decline
+* [How COVID-19 Redefines the Concept of Sustainability](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_202.md)
+* [Mitigation strategies to fight the COVID-19 pandemic—present, future and beyond](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_200.md)
+* [Startups in times of crisis – A rapid response to the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_158.md)
+* [Non-medical Interventions to Reduce the Burden of Psychosocial and Economic Impacts of COVID-19 Pandemic: A Scope Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_243.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [hakovirta_how_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_202.md)
-* [abideen_mitigation_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_200.md)
-* [kuckertz_startups_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_158.md)
-* [azmand_non-medical_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_243.md)
+* [startups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_322.md)
+* [businesses and individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_383.md)
+* [industries](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_389.md)
+* [impoverished households](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_460.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
@@ -20,10 +23,7 @@ Provides immediate relief and stability, prevents further economic decline
 * [Private investors would benefit from the financial stability of industries and potential increase in stock value](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1084.md)
 * [Stabilizes households, prevents poverty, stimulates the economy](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1314.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [startups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_322.md)
-* [businesses and individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_383.md)
-* [industries](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_389.md)
-* [impoverished households](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_460.md)
+Provides immediate relief and stability, prevents further economic decline
 

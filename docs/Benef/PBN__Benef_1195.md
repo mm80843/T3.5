@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_1195 
 
-# Benef: __Reduced noise levels__ (PBN__Benef_1195)
+# __Reduced noise levels__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Significant reduction in
+* [Attitudes towards outdoor and neighbour noise during the COVID-19 lockdown: A case study in London](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_247.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [lee_attitudes_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_247.md)
+* [residents,](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_467.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Investing in traffic](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1330.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [residents,](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_467.md)
+Significant reduction in
 

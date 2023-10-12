@@ -1,22 +1,22 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_733 
 
-# Benef: __Online tax assistance__ (PBN__Benef_733)
+# __Online tax assistance__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Virtual tax assistance simplifies tax processes for healthcare facilities
+* [Smart cities and the pandemic: digital technologies on the urban management of Brazilian cities](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_143.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [fariniuk_smart_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_143.md)
+* [healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_33.md)
+* [taxpayers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_303.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improve service efficiency and reduce burden on taxpayers](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_787.md)
 * [Streamline administrative processes and improve efficiency](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_791.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_33.md)
-* [taxpayers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_303.md)
+Virtual tax assistance simplifies tax processes for healthcare facilities
 

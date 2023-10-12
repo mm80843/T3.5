@@ -1,23 +1,23 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_223 
 
-# Benef: __Improved mental health and well-being__ (PBN__Benef_223)
+# __Improved mental health and well-being__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Reduced stress, anxiety, and depression during lockdowns
+* [Impacts of COVID-19 on Health and Safety of Workforce in Construction Industry](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_49.md)
+* [How is COVID-19 Experience Transforming Sustainability Requirements of Residential Buildings? A Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_67.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [pamidimukkala_impacts_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_49.md)
-* [tokazhanov_how_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_67.md)
+* [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
+* [all workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_131.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Boosted employee engagement and motivation](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_230.md)
 * [Improved mental health and well-being of occupants](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_368.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
-* [all workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_131.md)
+Reduced stress, anxiety, and depression during lockdowns
 

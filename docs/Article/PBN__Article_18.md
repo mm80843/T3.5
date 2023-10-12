@@ -1,10 +1,14 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_18 
 
-# Article: __maugeri_impact_2020__ (PBN__Article_18)
+# __The impact of physical activity on psychological health during Covid-19 pandemic in Italy__
 
-## Property: has_ArticleDOI
+## Summary of the article
 
-10.1016/j.heliyon.2020.e04315
+During the COVID-19 pandemic, people in Italy had to stay at home to stay safe. This meant that they couldn't go to school, play outside, or do their normal activities. A study was done to see how this affected their physical activity and how they felt mentally. The results showed that people were doing less physical activity while at home compared to before the pandemic. This is because they couldn't go to the gym or play sports outside. The study also found that people's mental well-being was worse when they were doing less physical activity. This means that exercising and staying active is important for our mental health as well as our physical health, even during difficult times like a pandemic.
+
+## Title of the article
+
+The impact of physical activity on psychological health during Covid-19 pandemic in Italy
 
 ## List of risks in an article
 
@@ -14,11 +18,7 @@
 * [Lack of access to regular sporting or exercise routines](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1716.md)
 * [Loss of family or friends and economic well-being due to COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1717.md)
 
-## Property: has_ArticleLLMSummary
-
-During the COVID-19 pandemic, people in Italy had to stay at home to stay safe. This meant that they couldn't go to school, play outside, or do their normal activities. A study was done to see how this affected their physical activity and how they felt mentally. The results showed that people were doing less physical activity while at home compared to before the pandemic. This is because they couldn't go to the gym or play sports outside. The study also found that people's mental well-being was worse when they were doing less physical activity. This means that exercising and staying active is important for our mental health as well as our physical health, even during difficult times like a pandemic.
-
-## Property: has_SourceMitigation
+## This article points to following mitigation
 
 * [Lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_577.md)
 * [Social Distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_35.md)
@@ -26,19 +26,19 @@ During the COVID-19 pandemic, people in Italy had to stay at home to stay safe. 
 * [Regular Physical Activity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1239.md)
 * [Regular Exercise](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1240.md)
 
-## Property: has_ArticleYear
+## Benefits listed in this article
 
-2020
+* [Improved psychological well-being](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_84.md)
 
-## Property: has_ArticleLLMShortSummary
+## Short summary of the article
 
 This study aimed to examine the changes in physical activity levels and the correlation between physical activity and well-being during the COVID-19 quarantine in Italy. A total of 2,524 Italian participants completed an online questionnaire about their physical activity levels and psychological well-being. The results showed a significant decrease in physical activity levels, particularly in vigorous activity and walking, during the quarantine compared to before. The percentage of individuals classified as low active increased, while the percentage of moderate and high active individuals decreased. Furthermore, there was a positive correlation between the reduction in physical activity and worse psychological well-being, especially in females. The study highlights the negative impact of the quarantine on physical activity and psychological well-being, emphasizing the importance of maintaining regular physical activity for physical and mental health during such periods of forced rest.
 
-## Property: has_ArticleTitle
+## DOI of the article
 
-The impact of physical activity on psychological health during Covid-19 pandemic in Italy
+10.1016/j.heliyon.2020.e04315
 
-## Property: has_BenefInArticle
+## Year of publication
 
-* [Improved psychological well-being](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_84.md)
+2020
 

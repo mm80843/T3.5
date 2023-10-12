@@ -1,21 +1,21 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__Mitigation_319 
 
-# RiskMitigation: __Optimizing communication__ (PBN__Mitigation_319)
-
-## Property: has_MitigationRisk
-
-* [Decreased interest](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2529.md)
-
-## Property: has_MitigationSource
-
-* [buneviciene_covid-19_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_153.md)
-
-## Property: has_MitigationTechnology
-
-* [digital communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_897.md)
-* [internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3058.md)
+# __Optimizing communication__
 
 ## Property: has_MitigationPrinciple
 
 Identifying factors associated with decreased interest in COVID-19 news to improve communication strategies and adherence to public health recommendations
+
+## Property: has_MitigationSource
+
+* [COVID-19 media fatigue: predictors of decreasing interest and avoidance of COVID-19–related news](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_153.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Decreased interest](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2529.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [digital communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_897.md)
+* [internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3058.md)
 

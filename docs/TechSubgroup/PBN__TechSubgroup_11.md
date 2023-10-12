@@ -1,8 +1,8 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [TechSubgroup](https://github.com/mm80843/T3.5/tree/main/docs/TechSubgroup/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [TechSubgroup](https://github.com/mm80843/T3.5/tree/main/docs/TechSubgroup/index.md) >> Individual ID:PBN__TechSubgroup_11 
 
-# TechSubgroup: __Wastewater Management__ (PBN__TechSubgroup_11)
+# __Wastewater Management__
 
-## Property: has_SubgroupStakeholder
+## This Technology belongs to this TechnologySubgroup
 
 * [WBE technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2064.md)
 * [WBE sampling and analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2799.md)

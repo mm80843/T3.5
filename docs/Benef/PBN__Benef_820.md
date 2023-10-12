@@ -1,21 +1,21 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_820 
 
-# Benef: __Deeper understanding of urban science developments__ (PBN__Benef_820)
+# __Deeper understanding of urban science developments__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Offers a lasting legacy and deeper understanding of urban science developments by integrating quantitative data with analysis of behavior change
+* [Smart cities and a data-driven response to COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_164.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [james_smart_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_164.md)
+* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+* [policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_126.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Investing in research and analysis of behavior change can contribute to advancements in urban science and inform future policy interventions.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_890.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
-* [policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_126.md)
+Offers a lasting legacy and deeper understanding of urban science developments by integrating quantitative data with analysis of behavior change
 

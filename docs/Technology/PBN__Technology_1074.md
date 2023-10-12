@@ -1,12 +1,12 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_1074 
 
-# Technology: __mobile fitness applications__ (PBN__Technology_1074)
+# __mobile fitness applications__
 
-## Property: has_TechnologyID
-
-* [Q16001686](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q16001686.md)
-
-## Property: has_TechnologyRisk
+## Risks linked to this technology
 
 * [Reduction of physical activity during quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1713.md)
+
+## This Technology is identified by the following QID
+
+* [Q16001686](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q16001686.md)
 

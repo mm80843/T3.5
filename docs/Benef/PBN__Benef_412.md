@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_412 
 
-# Benef: __Improved worker safety__ (PBN__Benef_412)
+# __Improved worker safety__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Providing PPE such as masks, gloves, and face shields reduces the risk of virus transmission and ensures the safety of workers.
+* [Analysis of COVID-19 Concerns Raised by the Construction Workforce and Development of Mitigation Practices](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_82.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [bou_hatoum_analysis_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_82.md)
+* [construction workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_197.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Investing in PPE improves worker health and reduces the likelihood of COVID-19 outbreaks on construction sites, leading to reduced project delays and costs.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_441.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [construction workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_197.md)
+Providing PPE such as masks, gloves, and face shields reduces the risk of virus transmission and ensures the safety of workers.
 

@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_991 
 
-# Benef: __Early warning of disease outbreaks__ (PBN__Benef_991)
+# __Early warning of disease outbreaks__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Allows for early detection of infections in the community through monitoring wastewater, enabling prompt public health interventions
+* [First confirmed detection of SARS-CoV-2 in untreated wastewater in Australia: A proof of concept for the wastewater surveillance of COVID-19 in the community](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_205.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [ahmed_first_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_205.md)
+* [public health officials](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_310.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved public health response, reduced transmission, better control of outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1098.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [public health officials](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_310.md)
+Allows for early detection of infections in the community through monitoring wastewater, enabling prompt public health interventions
 

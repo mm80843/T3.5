@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_72 
 
-# Benef: __Awareness and understanding__ (PBN__Benef_72)
+# __Awareness and understanding__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Increases awareness and understanding of the purpose and benefits of the smart and safe city concepts, addressing concerns and misconceptions
+* [The Emergence of Anti-Privacy and Control at the Nexus between the Concepts of Safe City and Smart City](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_15.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [allam_emergence_2019](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_15.md)
+* [citizens](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_54.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Promotes positive perception and acceptance of the concepts, leading to greater participation and support from the public](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_73.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [citizens](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_54.md)
+Increases awareness and understanding of the purpose and benefits of the smart and safe city concepts, addressing concerns and misconceptions
 

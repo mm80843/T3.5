@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_1214 
 
-# Benef: __Increased compliance__ (PBN__Benef_1214)
+# __Increased compliance__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-People who have fewer opportunities to violate the measures are more likely to comply with them, leading to increased adherence to the mitigation measures
+* [Compliance with COVID-19 Mitigation Measures in the United States](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_253.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [van_rooij_compliance_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_253.md)
+* [public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_52.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors investing in this measure would benefit from reduced transmission of the virus and potential improvements in healthcare capacity, leading to a stabilization of the economy and increased asset values.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1358.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_52.md)
+People who have fewer opportunities to violate the measures are more likely to comply with them, leading to increased adherence to the mitigation measures
 

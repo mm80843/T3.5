@@ -1,24 +1,24 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_474 
 
-# Benef: __Risk reduction__ (PBN__Benef_474)
+# __Risk reduction__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Physical distancing measures, such as maintaining distance between individuals and limiting occupancy in shared spaces, reduce the risk of contagion and promote a safer environment.
+* [SARS-CoV-2 RNA in wastewater anticipated COVID-19 occurrence in a low prevalence area](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_96.md)
+* [El impacto del teletrabajo en tiempos del COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_108.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [randazzo_sars-cov-2_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_96.md)
-* [restrepo_betancur_impacto_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_108.md)
+* [customers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_221.md)
+* [employees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_220.md)
+* [private investors in wastewater treatment plants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_210.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Investing in wastewater monitoring can ensure the efficient operation of wastewater treatment plants and help prevent disruptions in economic activities due to lockdowns.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_517.md)
 * [Implementing physical distancing measures can help minimize the spread of contagious diseases and create a safe environment for employees and customers.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_575.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [customers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_221.md)
-* [employees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_220.md)
-* [private investors in wastewater treatment plants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_210.md)
+Physical distancing measures, such as maintaining distance between individuals and limiting occupancy in shared spaces, reduce the risk of contagion and promote a safer environment.
 

@@ -1,12 +1,12 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_940 
 
-# Technology: __improved healthcare technology__ (PBN__Technology_940)
+# __improved healthcare technology__
 
-## Property: has_TechnologyID
-
-* [Q1519843](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1519843.md)
-
-## Property: has_TechnologyRisk
+## Risks linked to this technology
 
 * [Health care, surveillance, and monitoring gaps](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1621.md)
+
+## This Technology is identified by the following QID
+
+* [Q1519843](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1519843.md)
 

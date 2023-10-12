@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_128 
 
-# Benef: __Special access for vulnerable people__ (PBN__Benef_128)
+# __Special access for vulnerable people__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Providing accessible entrances and spaces for vulnerable populations ensures their safety and reduces their risk of infection
+* [A Global Survey of Infection Control and Mitigation Measures for Combating the Transmission of COVID-19 Pandemic in Buildings Under Facilities Management Services](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_27.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [sarvari_global_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_27.md)
+* [vulnerable populations and building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_79.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Implementing special access measures enhances building inclusivity, social responsibility, and tenant satisfaction.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_127.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [vulnerable populations and building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_79.md)
+Providing accessible entrances and spaces for vulnerable populations ensures their safety and reduces their risk of infection
 

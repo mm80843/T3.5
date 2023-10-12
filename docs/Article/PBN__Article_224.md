@@ -1,14 +1,14 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_224 
 
-# Article: __soliman_building_2022__ (PBN__Article_224)
+# __Building Transformation for Precautionary Measures against COVID-19 Pandemic: Case of Off-Street Car Parking of Campuses__
 
-## Property: has_ArticleDOI
+## Summary of the article
 
-10.3390/su14106010
+During the COVID-19 pandemic, many buildings were not being used because people were staying at home. Some countries tried to reopen faster to help the economy, but that led to more cases of the virus. One type of building that could be transformed and used differently during the pandemic is off-street car parking. They could be turned into spaces for education or other activities. However, there are challenges in making this transformation, such as making sure the building is safe and has the right facilities. It is important for building designers to think about flexibility and adaptability in their designs in case there are future crises.
 
-## Property: has_ArticleLLMShortSummary
+## Title of the article
 
-This research paper discusses the challenges and principles of transforming off-street car parking buildings into educational spaces during the COVID-19 pandemic. The authors conducted secondary research to collect data on design guidelines for off-street car parking in multiple countries, including Bahrain, Egypt, the USA, Canada, Australia, and the UK. They analyzed the standards for car parking dimensions, building envelope, illumination, ventilation, and technical installations. The research also included a case study of the car parking building at KU in Bahrain, examining its spaces, dimensions, capacity, and architectural features. The authors proposed adaptations for the car parking building to be used as educational spaces based on the alert levels of the traffic light system implemented by the National Medical Taskforce for Combatting the Coronavirus (COVID-19) in Bahrain. The study emphasized the importance of flexible design and the need to update building codes and standards to accommodate building transformations during pandemics. The authors recommended further research in designing smart rotary car parking to optimize space usage in traditional off-street car parking buildings.
+Building Transformation for Precautionary Measures against COVID-19 Pandemic: Case of Off-Street Car Parking of Campuses
 
 ## List of risks in an article
 
@@ -18,11 +18,7 @@ This research paper discusses the challenges and principles of transforming off-
 * [Lack of design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2106.md)
 * [Environmental-based](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2107.md)
 
-## Property: has_ArticleLLMSummary
-
-During the COVID-19 pandemic, many buildings were not being used because people were staying at home. Some countries tried to reopen faster to help the economy, but that led to more cases of the virus. One type of building that could be transformed and used differently during the pandemic is off-street car parking. They could be turned into spaces for education or other activities. However, there are challenges in making this transformation, such as making sure the building is safe and has the right facilities. It is important for building designers to think about flexibility and adaptability in their designs in case there are future crises.
-
-## Property: has_SourceMitigation
+## This article points to following mitigation
 
 * [Vaccination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_245.md)
 * [Social Distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_35.md)
@@ -41,20 +37,7 @@ During the COVID-19 pandemic, many buildings were not being used because people 
 * [Stay Home when Sick](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1971.md)
 * [Smart Rotary Car Parking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1966.md)
 
-## Property: has_ArticleYear
-
-2022
-
-## Property: has_ArticleRef
-
-* [navaratnam_designing_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_282.md)
-* [tokazhanov_how_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_67.md)
-
-## Property: has_ArticleTitle
-
-Building Transformation for Precautionary Measures against COVID-19 Pandemic: Case of Off-Street Car Parking of Campuses
-
-## Property: has_BenefInArticle
+## Benefits listed in this article
 
 * [Enhanced indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_321.md)
 * [Enhanced safety](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_914.md)
@@ -71,4 +54,21 @@ Building Transformation for Precautionary Measures against COVID-19 Pandemic: Ca
 * [Improved guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1082.md)
 * [Adaptive design approach](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1083.md)
 * [Efficient use of space](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1084.md)
+
+## Short summary of the article
+
+This research paper discusses the challenges and principles of transforming off-street car parking buildings into educational spaces during the COVID-19 pandemic. The authors conducted secondary research to collect data on design guidelines for off-street car parking in multiple countries, including Bahrain, Egypt, the USA, Canada, Australia, and the UK. They analyzed the standards for car parking dimensions, building envelope, illumination, ventilation, and technical installations. The research also included a case study of the car parking building at KU in Bahrain, examining its spaces, dimensions, capacity, and architectural features. The authors proposed adaptations for the car parking building to be used as educational spaces based on the alert levels of the traffic light system implemented by the National Medical Taskforce for Combatting the Coronavirus (COVID-19) in Bahrain. The study emphasized the importance of flexible design and the need to update building codes and standards to accommodate building transformations during pandemics. The authors recommended further research in designing smart rotary car parking to optimize space usage in traditional off-street car parking buildings.
+
+## DOI of the article
+
+10.3390/su14106010
+
+## Year of publication
+
+2022
+
+## Referenced by other articles
+
+* [Designing Post COVID-19 Buildings: Approaches for Achieving Healthy Buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_282.md)
+* [How is COVID-19 Experience Transforming Sustainability Requirements of Residential Buildings? A Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_67.md)
 

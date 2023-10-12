@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_705 
 
-# Benef: __Economic compromise__ (PBN__Benef_705)
+# __Economic compromise__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Economy has smoother effects, lower economic losses
+* [COVID-ABS: An agent-based model of COVID-19 epidemic to simulate health and economic effects of social distancing interventions](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_139.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [silva_covid-abs_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_139.md)
+* [private businesses and economy](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_290.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Balance between health and economy, reduces economic damage](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_753.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [private businesses and economy](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_290.md)
+Economy has smoother effects, lower economic losses
 

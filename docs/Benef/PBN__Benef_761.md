@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_761 
 
-# Benef: __Open relaxation spaces in built environment__ (PBN__Benef_761)
+# __Open relaxation spaces in built environment__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Open relaxation spaces in built environment promote physical and mental well-being, reducing transmission risk of COVID-19.
+* [Adaptive Design of the Built Environment to Mitigate the Transmission Risk of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_151.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [ara_dilshad_shangi_adaptive_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_151.md)
+* [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors investing in adaptive design measures can attract tenants and occupants who value access to open spaces, improving occupancy rates and asset value.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_829.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
+Open relaxation spaces in built environment promote physical and mental well-being, reducing transmission risk of COVID-19.
 

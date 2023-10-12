@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__Mitigation_93 
 
-# RiskMitigation: __Effective waste management__ (PBN__Mitigation_93)
-
-## Property: has_MitigationRisk
-
-* [Poor waste management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2434.md)
-
-## Property: has_MitigationSource
-
-* [alabaster_global_2016](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_132.md)
-
-## Property: has_MitigationTechnology
-
-* [waste management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2962.md)
+# __Effective waste management__
 
 ## Property: has_MitigationPrinciple
 
 Improve waste management practices to reduce disease transmission
+
+## Property: has_MitigationSource
+
+* [Global policy challenges for urban vector-borne disease risks](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_132.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Poor waste management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2434.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [waste management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2962.md)
 

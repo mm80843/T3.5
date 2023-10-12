@@ -1,12 +1,12 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_1365 
 
-# Technology: __including mobile testing units and at-home testing kits__ (PBN__Technology_1365)
+# __including mobile testing units and at-home testing kits__
 
-## Property: has_TechnologyID
-
-* [Q2115486](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2115486.md)
-
-## Property: has_TechnologyRisk
+## Risks linked to this technology
 
 * [Incomplete coverage of mild or asymptomatic cases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1952.md)
+
+## This Technology is identified by the following QID
+
+* [Q2115486](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2115486.md)
 

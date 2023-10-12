@@ -1,16 +1,16 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_41 
 
-# Stakeholder: __visitors of green spaces__ (PBN__Stakeholder_41)
+# __visitors of green spaces__
+
+## This Stakeholder is identified by the following QID
+
+* [Q187449](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q187449.md)
+
+## This Stakeholder can get these Benefits from mitigation measures
+
+* [Improved public health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_47.md)
 
 ## Risk affecting this stakeholder
 
 * [Inadequate maintenance of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1545.md)
-
-## Property: has_StakeholderID
-
-* [Q187449](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q187449.md)
-
-## Property: has_BenefitForPeople
-
-* [Improved public health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_47.md)
 

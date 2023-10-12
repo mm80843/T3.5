@@ -1,19 +1,19 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_333 
 
-# Mitigation: __Smart facemasks__ (PBN__Mitigation_333)
-
-## Property: has_MitigationRisk
-
-
-## Property: has_MitigationSource
-
-* [burki_wearable_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_195.md)
-
-## Property: has_MitigationTechnology
-
-* [smart facemask technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3167.md)
+# __Smart facemasks__
 
 ## Property: has_MitigationPrinciple
 
 Detects the presence of airborne viruses to provide early warning and protection against infection.
+
+## Property: has_MitigationSource
+
+* [Wearable technology and COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_195.md)
+
+## Risks possibly mitigated by this Mitigation
+
+
+## This Mitigation is enabled by the following technologies
+
+* [smart facemask technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3167.md)
 

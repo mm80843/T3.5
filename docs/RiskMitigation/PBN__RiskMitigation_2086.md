@@ -1,8 +1,8 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__RiskMitigation_2086 
 
-# RiskMitigation: __Use of eye protection and proper hygiene practices__ (PBN__RiskMitigation_2086)
+# __Use of eye protection and proper hygiene practices__
 
-## Property: has_MitigationRisk
+## Risks possibly mitigated by this Mitigation
 
 * [Transmission through tears](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1557.md)
 

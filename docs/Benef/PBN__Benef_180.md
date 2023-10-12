@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_180 
 
-# Benef: __Identification of high prevalence areas__ (PBN__Benef_180)
+# __Identification of high prevalence areas__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Helps target preventive and control measures in areas with high HIV prevalence
+* [Multilevel Analysis of Personal, Non-Medical COVID-19-Related Impact Worldwide](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_39.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [dye_multilevel_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_39.md)
+* [public health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_0.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improves public health outcomes and reduces healthcare costs](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_184.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [public health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_0.md)
+Helps target preventive and control measures in areas with high HIV prevalence
 

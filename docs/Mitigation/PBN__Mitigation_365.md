@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_365 
 
-# Mitigation: __Transparent donation process__ (PBN__Mitigation_365)
-
-## Property: has_MitigationRisk
-
-* [Corruption in donations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2540.md)
-
-## Property: has_MitigationSource
-
-* [chang_how_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_241.md)
-
-## Property: has_MitigationTechnology
-
-* [blockchain](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_94.md)
+# __Transparent donation process__
 
 ## Property: has_MitigationPrinciple
 
 Donors can verify the transfer process and receipt of donations through blockchain
+
+## Property: has_MitigationSource
+
+* [How Can Blockchain Help People in the Event of Pandemics Such as the COVID-19?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_241.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Corruption in donations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2540.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [blockchain](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_94.md)
 

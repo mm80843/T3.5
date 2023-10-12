@@ -1,23 +1,23 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1325 
 
-# Mitigation: __UVGI__ (PBN__Mitigation_1325)
-
-## Property: has_MitigationRisk
-
-* [Human health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3021.md)
-* [Limited data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3411.md)
-
-## Property: has_MitigationSource
-
-* [memarzadeh_applications_2010](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_61.md)
-* [walker_effect_2007](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_88.md)
-
-## Property: has_MitigationTechnology
-
-* [uv lamps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3193.md)
-* [254 nm uv lamps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4392.md)
+# __UVGI__
 
 ## Property: has_MitigationPrinciple
 
 Uses UV radiation to inactivate microorganisms in the air, preventing their replication and reducing the risk of transmission.
+
+## Property: has_MitigationSource
+
+* [Applications of ultraviolet germicidal irradiation disinfection in health care facilities: Effective adjunct, but not stand-alone technology](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_61.md)
+* [Effect of Ultraviolet Germicidal Irradiation on Viral Aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_88.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Human health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3021.md)
+* [Limited data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3411.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [uv lamps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3193.md)
+* [254 nm uv lamps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4392.md)
 

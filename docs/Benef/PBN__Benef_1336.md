@@ -1,19 +1,19 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_1336 
 
-# Benef: __buildings__ (PBN__Benef_1336)
+# __buildings__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-construction of emergency buildings
+* [Designing Post COVID-19 Buildings: Approaches for Achieving Healthy Buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_282.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [navaratnam_designing_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_282.md)
+* [emergency workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_523.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [emergency workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_523.md)
+construction of emergency buildings
 

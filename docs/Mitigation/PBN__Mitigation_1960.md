@@ -1,18 +1,18 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1960 
 
-# Mitigation: __Rescheduling Space Planning__ (PBN__Mitigation_1960)
-
-## Property: has_MitigationRisk
-
-
-## Property: has_MitigationSource
-
-* [soliman_building_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_224.md)
-
-## Property: has_MitigationTechnology
-
+# __Rescheduling Space Planning__
 
 ## Property: has_MitigationPrinciple
 
 Transforming car parking spaces into educational spaces through rescheduling space planning.
+
+## Property: has_MitigationSource
+
+* [Building Transformation for Precautionary Measures against COVID-19 Pandemic: Case of Off-Street Car Parking of Campuses](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_224.md)
+
+## Risks possibly mitigated by this Mitigation
+
+
+## This Mitigation is enabled by the following technologies
+
 

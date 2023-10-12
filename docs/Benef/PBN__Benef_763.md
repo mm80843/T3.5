@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_763 
 
-# Benef: __Increased healthcare access__ (PBN__Benef_763)
+# __Increased healthcare access__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Provides better access to medical facilities for testing, vaccination, and treatment, leading to improved overall health outcomes
+* [Epidemics, Planning and the City: A Special Issue of Planning Perspectives](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_152.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [davis_epidemics_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_152.md)
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors investing in medical infrastructure can benefit from increased demand for healthcare-related properties and services.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_832.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+Provides better access to medical facilities for testing, vaccination, and treatment, leading to improved overall health outcomes
 

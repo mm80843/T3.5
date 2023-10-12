@@ -1,6 +1,6 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_100 
 
-# Risk: __Decreased hospital admissions for heart diseases__ (PBN__Risk_100)
+# __Decreased hospital admissions for heart diseases__
 
 ## Mitigations of this risk
 

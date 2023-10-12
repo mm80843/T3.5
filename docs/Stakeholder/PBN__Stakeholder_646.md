@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_646 
 
-# Stakeholder: __especially those in poorly lit areas or those performing visually demanding tasks__ (PBN__Stakeholder_646)
+# __especially those in poorly lit areas or those performing visually demanding tasks__
 
-## Property: has_StakeholderSubgroup
+## This Stakeholder is identified by the following QID
 
-* [Noise and Light Conditions](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_99.md)
+* [Q16649002](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q16649002.md)
 
 ## Risk affecting this stakeholder
 
 * [Inadequate Lighting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1119.md)
 
-## Property: has_StakeholderID
-
-* [Q16649002](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q16649002.md)
-
-## Property: has_StakeholderGroup
+## This Stakeholder belongs to this StakeholderGroup
 
 * [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Noise and Light Conditions](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_99.md)
 

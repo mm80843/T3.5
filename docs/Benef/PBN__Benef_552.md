@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_552 
 
-# Benef: __Reduced stress on healthcare system__ (PBN__Benef_552)
+# __Reduced stress on healthcare system__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Voluntary home quarantine reduces the burden on emergency healthcare system
+* [Covid-19 and community mitigation strategies in a pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_112.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [ebrahim_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_112.md)
+* [healthcare system](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_70.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Decreased stress on the system allows for better care for infected patients and reduces strain on resources](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_605.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [healthcare system](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_70.md)
+Voluntary home quarantine reduces the burden on emergency healthcare system
 

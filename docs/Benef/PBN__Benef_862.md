@@ -1,14 +1,14 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_862 
 
-# Benef: __Lower COVID-19 mortality__ (PBN__Benef_862)
+# __Lower COVID-19 mortality__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Access to shops and services promotes physical activity and reduces obesity, which is associated with lower COVID-19 mortality rates.
+* [Treating two pandemics for the price of one: Chronic and infectious disease impacts of the built and natural environment](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_174.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [frank_treating_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_174.md)
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
@@ -17,7 +17,7 @@ Access to shops and services promotes physical activity and reduces obesity, whi
 * [Investing in the creation and maintenance of green spaces can lead to reduced obesity rates and improved health outcomes, driving economic value through reduced healthcare costs.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_942.md)
 * [Investing in the development of accessible shops and services can lead to increased physical activity and reduced obesity rates, improving overall health outcomes and driving economic value.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_943.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+Access to shops and services promotes physical activity and reduces obesity, which is associated with lower COVID-19 mortality rates.
 

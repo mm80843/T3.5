@@ -1,8 +1,8 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [StakeholderGroup](https://github.com/mm80843/T3.5/tree/main/docs/StakeholderGroup/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [StakeholderGroup](https://github.com/mm80843/T3.5/tree/main/docs/StakeholderGroup/index.md) >> Individual ID:PBN__StakeholderSubgroup_75 
 
-# StakeholderGroup: __Traveling Individuals__ (PBN__StakeholderSubgroup_75)
+# __Traveling Individuals__
 
-## Property: has_SubgroupStakeholder
+## Stakeholders in this stakeholder subgroup
 
 * [individuals traveling from Wuhan to other locations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2099.md)
 * [individuals traveling during a pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2108.md)

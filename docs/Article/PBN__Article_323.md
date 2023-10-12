@@ -1,16 +1,16 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_323 
 
-# Article: __assaad_guidelines_2021__ (PBN__Article_323)
+# __Guidelines for Responding to COVID-19 Pandemic: Best Practices, Impacts, and Future Research Directions__
 
-## Property: has_ArticleDOI
+## DOI of the article
 
 10.1061/(ASCE)ME.1943-5479.0000906
 
-## Property: has_ArticleYear
+## Year of publication
 
 2021
 
-## Property: has_ArticleTitle
+## Title of the article
 
 Guidelines for Responding to COVID-19 Pandemic: Best Practices, Impacts, and Future Research Directions
 

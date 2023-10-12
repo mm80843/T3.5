@@ -1,23 +1,6 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Blueprint](https://github.com/mm80843/T3.5/tree/main/docs/Blueprint/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/main/docs/Blueprint/index.md) >> Individual ID:PBN__Blueprint_14 
 
-# Blueprint: __PBN:BP_15__ (PBN__Blueprint_14)
-
-## Property: has_BPDemonstrated
-
-The practice was were widely demonstrated through the COVID-19 pandemic.
-
-## Property: has_BPValueProposition
-
-Implementing measures to ensure high hand hygiene is a low-tech measure to reduce infection risks. These measures are easy to implement and easy to withdraw, which gives them a short response time and high flexibility, also with regard to later relocation in the building.
-Implementation and operating costs are relatively low compared to more technically complex and comprehensive measures.
-
-## Property: has_BPRestriction
-
-Changing user behaviour can be challenging, but once a positive behaviour is established, it is easier to maintain. During the COVID-19 pandemic, shortages of hand sanitizers occurred regularly due to rapidly increasing demand. In addition, frequent use of soap or hand sanitizers may cause dry and irritated skin.
-
-## Property: has_BPTransmission
-
-Direct contact & Fomite
+# __PBN:BP_15__
 
 ## Property: has_BPReason
 
@@ -28,21 +11,38 @@ Good hand hygiene has long been fundamental to patient safety in hospitals and i
 For effective implementation of this measure, it is important to assess the primary user group(s) of the building and the impact of their characteristics on the measures to be implemented.  For example, the measures in a kindergarten would be very different from those on a university campus.  Therefore, it is important to assess this so that the information and active measures are targeted to the current user group to achieve the greatest impact 
 Hand hygiene can be monitored directly through user observation or self-reporting, or indirectly by monitoring the consumption of disinfectants (soap and hand sanitizer).
 
-## Property: has_BPProblem
+## Property: has_BPPermanent
 
-The aim of this design is to reduce the transmission of diseases through direct hand-to-hand contact between users or the transmission of diseases through surfaces (fomites).
+Permanent & Temporary
+
+## Property: has_BPValueProposition
+
+Implementing measures to ensure high hand hygiene is a low-tech measure to reduce infection risks. These measures are easy to implement and easy to withdraw, which gives them a short response time and high flexibility, also with regard to later relocation in the building.
+Implementation and operating costs are relatively low compared to more technically complex and comprehensive measures.
 
 ## Property: has_BPScale
 
 Building
 
+## Property: has_BPProblem
+
+The aim of this design is to reduce the transmission of diseases through direct hand-to-hand contact between users or the transmission of diseases through surfaces (fomites).
+
+## Property: has_BPRestriction
+
+Changing user behaviour can be challenging, but once a positive behaviour is established, it is easier to maintain. During the COVID-19 pandemic, shortages of hand sanitizers occurred regularly due to rapidly increasing demand. In addition, frequent use of soap or hand sanitizers may cause dry and irritated skin.
+
 ## Property: has_BPPhase
 
 Operational
 
-## Property: has_BPPermanent
+## Property: has_BPDemonstrated
 
-Permanent & Temporary
+The practice was were widely demonstrated through the COVID-19 pandemic.
+
+## Property: has_BPTransmission
+
+Direct contact & Fomite
 
 ## Property: has_BPDescription
 
@@ -52,11 +52,11 @@ A high level of hand hygiene is a well-known and proven measure to prevent the t
 
 Hand sanitizers should be available at all key points in the building. This could be at the entrances to the building/premises/populated space, at the entrances and exits of stairwells, in canteen areas, at high use areas such as coffee and vending machines, etc Information and instructions for users, e.g. signs at toilets indicating good hand hygiene, reminders to use hand sanitizers at strategic locations, etc.
 
-## Property: has_BPTitle
-
-Good hand hygiene practice
-
 ## Property: has_BPType
 
 Behavioural
+
+## Property: has_BPTitle
+
+Good hand hygiene practice
 

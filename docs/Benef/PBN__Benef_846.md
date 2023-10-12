@@ -1,21 +1,21 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_846 
 
-# Benef: __Semantic representation of data__ (PBN__Benef_846)
+# __Semantic representation of data__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Ontologies enable structural representation and semantics of COVID-19 data, facilitating predictive analytics for pandemic spread
+* [An Overview of Ontologies and Tool Support for COVID-19 Analytics](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_170.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [ahmad_overview_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_170.md)
+* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+* [policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_126.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors can benefit from investing in ontological reasoning as it improves data representation and analysis, enhancing decision-making and resource allocation.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_920.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
-* [policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_126.md)
+Ontologies enable structural representation and semantics of COVID-19 data, facilitating predictive analytics for pandemic spread
 

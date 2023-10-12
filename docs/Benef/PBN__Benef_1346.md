@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_1346 
 
-# Benef: __Identification of energy consumption drivers__ (PBN__Benef_1346)
+# __Identification of energy consumption drivers__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Identifying the factors that contribute to energy waste in buildings can help develop targeted energy efficiency strategies and reduce unnecessary energy consumption.
+* [Addressing the impact of COVID-19 lockdown on energy use in municipal buildings: A case study in Florianópolis, Brazil](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_286.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [geraldi_addressing_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_286.md)
+* [building owners and managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_524.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors would benefit from improved energy performance, reduced operating costs, and improved asset value.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1519.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [building owners and managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_524.md)
+Identifying the factors that contribute to energy waste in buildings can help develop targeted energy efficiency strategies and reduce unnecessary energy consumption.
 

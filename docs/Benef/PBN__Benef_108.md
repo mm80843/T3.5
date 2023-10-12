@@ -1,21 +1,21 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_108 
 
-# Benef: __Improved information dissemination__ (PBN__Benef_108)
+# __Improved information dissemination__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Increased access to accurate and timely information for non-Taiwanese citizens
+* [Response to COVID-19 in Taiwan: Big Data Analytics, New Technology, and Proactive Testing](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_24.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [wang_response_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_24.md)
+* [non-taiwanese citizens](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_71.md)
+* [tourists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_72.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Investment in multilingual communication can improve public understanding, enhance trust, and facilitate compliance with public health measures.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_107.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [non-taiwanese citizens](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_71.md)
-* [tourists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_72.md)
+Increased access to accurate and timely information for non-Taiwanese citizens
 

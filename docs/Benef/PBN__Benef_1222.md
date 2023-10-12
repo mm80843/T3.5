@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_1222 
 
-# Benef: __Increased mental and physical health__ (PBN__Benef_1222)
+# __Increased mental and physical health__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Recreational activities in green spaces such as parks and forests have substantial health benefits, reducing the risk of cardiovascular disease and all-cause mortality.
+* [Urban nature in a time of crisis: recreational use of green space increases during the COVID-19 outbreak in Oslo, Norway](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_256.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [venter_urban_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_256.md)
+* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved health and well-being of individuals, potentially leading to reduced healthcare costs and increased productivity.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1369.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
+Recreational activities in green spaces such as parks and forests have substantial health benefits, reducing the risk of cardiovascular disease and all-cause mortality.
 

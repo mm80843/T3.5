@@ -1,23 +1,23 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_202 
 
-# Stakeholder: __engineers__ (PBN__Stakeholder_202)
+# __engineers__
 
-## Property: has_StakeholderSubgroup
+## This Stakeholder is identified by the following QID
 
+* [Q2341215](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2341215.md)
+
+## This Stakeholder can get these Benefits from mitigation measures
+
+* [Understanding UV susceptibility of viral aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_434.md)
+* [Understanding the effect of RH on UV susceptibility of bacterial aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_435.md)
+* [Understanding the effect of RH on UV susceptibility of pathogenic viral aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_436.md)
+* [Simulation and prediction](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_812.md)
 
 ## Risk affecting this stakeholder
 
 * [Placement and size of openings in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1833.md)
 
-## Property: has_StakeholderID
-
-* [Q2341215](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2341215.md)
-
-## Property: has_StakeholderGroup
-
-* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
-
-## Property: has_OwnerRisk
+## Risks that can be mitigated by this stakeholder
 
 * [Airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_252.md)
 * [Inadequate ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_713.md)
@@ -26,10 +26,10 @@
 * [Poor ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1426.md)
 * [Placement and size of openings in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1833.md)
 
-## Property: has_BenefitForPeople
+## This Stakeholder belongs to this StakeholderGroup
 
-* [Understanding UV susceptibility of viral aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_434.md)
-* [Understanding the effect of RH on UV susceptibility of bacterial aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_435.md)
-* [Understanding the effect of RH on UV susceptibility of pathogenic viral aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_436.md)
-* [Simulation and prediction](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_812.md)
+* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
 

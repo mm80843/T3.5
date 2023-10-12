@@ -1,21 +1,21 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_323 
 
-# Benef: __Objective and subjective data collection__ (PBN__Benef_323)
+# __Objective and subjective data collection__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-IBEM allows for simultaneous collection of objective IEQ data and occupant opinions, bridging the gap in information.
+* [An Intelligent IEQ Monitoring and Feedback System: Development and Applications](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_62.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [geng_intelligent_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_62.md)
+* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved correlation between IEQ parameters and occupant satisfaction, better understanding of occupant needs and preferences, ability to create a better indoor environment.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_340.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
-* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
+IBEM allows for simultaneous collection of objective IEQ data and occupant opinions, bridging the gap in information.
 

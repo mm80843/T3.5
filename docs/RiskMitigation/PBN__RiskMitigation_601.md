@@ -1,10 +1,6 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__RiskMitigation_601 
 
-# RiskMitigation: __Home Energy Management Systems (HEMS)__ (PBN__RiskMitigation_601)
-
-## Property: has_MitigationRisk
-
-* [Increase in electricity usage during pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_433.md)
+# __Home Energy Management Systems (HEMS)__
 
 ## Property: has_MitigationBenefit
 
@@ -13,4 +9,8 @@
 * [Demand response automation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_601.md)
 * [Environmental consciousness](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_602.md)
 * [Social and lifestyle benefits](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_603.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Increase in electricity usage during pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_433.md)
 

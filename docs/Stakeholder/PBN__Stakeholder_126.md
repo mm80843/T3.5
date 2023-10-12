@@ -1,6 +1,34 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_126 
 
-# Stakeholder: __policymakers__ (PBN__Stakeholder_126)
+# __policymakers__
+
+## This Stakeholder is identified by the following QID
+
+* [Q4175034](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4175034.md)
+
+## This Stakeholder can get these Benefits from mitigation measures
+
+* [Comprehensive and objective data](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_219.md)
+* [Coordinating and integrating research, data, and expertise](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_548.md)
+* [Improved decision-making](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_661.md)
+* [Early outbreak prediction](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_665.md)
+* [Real-time feedback on policy intervention](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_818.md)
+* [Deeper understanding of urban science developments](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_820.md)
+* [Evidence-based insights for authorities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_821.md)
+* [Quantification of deaths averted](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_829.md)
+* [Semantic representation of data](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_846.md)
+* [Data integration and retrieval](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_848.md)
+* [Accurate and reliable information dissemination](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_858.md)
+* [Real-time sentiment analysis](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_931.md)
+* [Identification of coping strategies](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_932.md)
+* [Identification of high-risk individuals](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_933.md)
+* [Increased recognition of UGS importance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_968.md)
+* [Early detection of disease outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1015.md)
+* [Early warning system for emerging risks](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1016.md)
+* [Bolstering European early warning for disease events](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1017.md)
+* [Effective decision-making and implementation of preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1134.md)
+* [Enhanced urban management decisions](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1320.md)
+* [Improved cross-disciplinary protocols](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1322.md)
 
 ## Risk affecting this stakeholder
 
@@ -43,11 +71,7 @@
 * [Influence of preprints on public health decisions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2330.md)
 * [Peer-review failures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2332.md)
 
-## Property: has_StakeholderID
-
-* [Q4175034](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4175034.md)
-
-## Property: has_OwnerRisk
+## Risks that can be mitigated by this stakeholder
 
 * [Antimicrobial resistance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_160.md)
 * [Ethical considerations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_163.md)
@@ -101,28 +125,4 @@
 * [Urban Mobility and Commute Patterns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2379.md)
 * [Urban Activities and Points of Interests (POIs)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2380.md)
 * [Urban Inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2381.md)
-
-## Property: has_BenefitForPeople
-
-* [Comprehensive and objective data](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_219.md)
-* [Coordinating and integrating research, data, and expertise](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_548.md)
-* [Improved decision-making](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_661.md)
-* [Early outbreak prediction](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_665.md)
-* [Real-time feedback on policy intervention](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_818.md)
-* [Deeper understanding of urban science developments](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_820.md)
-* [Evidence-based insights for authorities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_821.md)
-* [Quantification of deaths averted](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_829.md)
-* [Semantic representation of data](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_846.md)
-* [Data integration and retrieval](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_848.md)
-* [Accurate and reliable information dissemination](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_858.md)
-* [Real-time sentiment analysis](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_931.md)
-* [Identification of coping strategies](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_932.md)
-* [Identification of high-risk individuals](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_933.md)
-* [Increased recognition of UGS importance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_968.md)
-* [Early detection of disease outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1015.md)
-* [Early warning system for emerging risks](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1016.md)
-* [Bolstering European early warning for disease events](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1017.md)
-* [Effective decision-making and implementation of preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1134.md)
-* [Enhanced urban management decisions](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1320.md)
-* [Improved cross-disciplinary protocols](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1322.md)
 

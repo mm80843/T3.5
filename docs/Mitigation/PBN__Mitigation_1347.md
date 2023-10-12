@@ -1,18 +1,18 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1347 
 
-# Mitigation: __Shortening class durations__ (PBN__Mitigation_1347)
-
-## Property: has_MitigationRisk
-
-
-## Property: has_MitigationSource
-
-* [mokhtari_effect_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_169.md)
-
-## Property: has_MitigationTechnology
-
+# __Shortening class durations__
 
 ## Property: has_MitigationPrinciple
 
 Decrease the exposure time of individuals, reducing the risk of virus transmission
+
+## Property: has_MitigationSource
+
+* [The effect of occupant distribution on energy consumption and COVID-19 infection in buildings: A case study of university building](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_169.md)
+
+## Risks possibly mitigated by this Mitigation
+
+
+## This Mitigation is enabled by the following technologies
+
 

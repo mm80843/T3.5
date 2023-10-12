@@ -1,18 +1,18 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__Mitigation_2085 
 
-# RiskMitigation: __Risk mapping__ (PBN__Mitigation_2085)
-
-## Property: has_MitigationRisk
-
-
-## Property: has_MitigationSource
-
-* [tatem_integrating_2014](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_76.md)
-
-## Property: has_MitigationTechnology
-
+# __Risk mapping__
 
 ## Property: has_MitigationPrinciple
 
 Understand epidemiology of disease, proactively deploy control measures, identify and treat parasite reservoirs
+
+## Property: has_MitigationSource
+
+* [Integrating rapid risk mapping and mobile phone call record data for strategic malaria elimination planning](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_76.md)
+
+## Risks possibly mitigated by this Mitigation
+
+
+## This Mitigation is enabled by the following technologies
+
 

@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_544 
 
-# Benef: __Delivering relevant and high-quality evidence in short periods__ (PBN__Benef_544)
+# __Delivering relevant and high-quality evidence in short periods__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Timely provision of evidence supports urgent decision-making and informs policies and systems
+* [Amplifying the role of knowledge translation platforms in the COVID-19 pandemic response](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_111.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [el-jardali_amplifying_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_111.md)
+* [decision-makers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_227.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Quick decision-making, improved response, and increased capability demonstration](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_596.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [decision-makers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_227.md)
+Timely provision of evidence supports urgent decision-making and informs policies and systems
 

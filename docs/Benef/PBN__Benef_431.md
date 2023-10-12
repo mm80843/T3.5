@@ -1,16 +1,19 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_431 
 
-# Benef: __Reduced risk of infection__ (PBN__Benef_431)
+# __Reduced risk of infection__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Personalized ventilation supplies clean air directly to the breathing zone of each occupant, reducing the risk of infection from airborne pathogens.
+* [Methods for air cleaning and protection of building occupants from airborne pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_240.md)
+* [The COVID-19 pandemic: Considerations for the waste and wastewater services sector](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_229.md)
+* [Housing Experience in Gated Communities in the Time of Pandemics: Lessons Learned from COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_87.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [bolashikov_methods_2009](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_240.md)
-* [nghiem_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_229.md)
-* [asfour_housing_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_87.md)
+* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
+* [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
+* [gated community residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_201.md)
+* [waste collection workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_438.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
@@ -18,10 +21,7 @@ Personalized ventilation supplies clean air directly to the breathing zone of ea
 * [Implementing this revised waste collection protocol can protect the health and safety of waste collection workers and the general public, improving public perception and maintaining the operational efficiency of waste management systems.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1235.md)
 * [Investment in personalized ventilation systems can result in healthier occupants, reduced risk of infection, and improved comfort and satisfaction.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1301.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
-* [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
-* [gated community residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_201.md)
-* [waste collection workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_438.md)
+Personalized ventilation supplies clean air directly to the breathing zone of each occupant, reducing the risk of infection from airborne pathogens.
 

@@ -1,21 +1,21 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_954 
 
-# Benef: __Mapping disease progression and identifying long COVID cases__ (PBN__Benef_954)
+# __Mapping disease progression and identifying long COVID cases__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Wearables can track the time it takes for heart rate to return to baseline after SARS-CoV-2 infection, helping map the course of disease and identify cases of long COVID.
+* [Wearable technology and COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_195.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [burki_wearable_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_195.md)
+* [individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_20.md)
+* [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors can benefit from the increased demand for wearables and data analysis services for disease mapping and identifying long COVID cases.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1048.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_20.md)
-* [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
+Wearables can track the time it takes for heart rate to return to baseline after SARS-CoV-2 infection, helping map the course of disease and identify cases of long COVID.
 

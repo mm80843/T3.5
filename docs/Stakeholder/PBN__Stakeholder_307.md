@@ -1,8 +1,16 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_307 
 
-# Stakeholder: __local government__ (PBN__Stakeholder_307)
+# __local government__
 
-## Property: has_OwnerRisk
+## This Stakeholder is identified by the following QID
+
+* [Q6501447](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6501447.md)
+
+## This Stakeholder can get these Benefits from mitigation measures
+
+* [Economic stability and recovery](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_743.md)
+
+## Risks that can be mitigated by this stakeholder
 
 * [Urban heat islands (UHIs)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_367.md)
 * [Overcrowding in living spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1128.md)
@@ -16,12 +24,4 @@
 * [Spread of invasive mosquito spp](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1646.md)
 * [Inadequate mosquito control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1647.md)
 * [Urban density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2028.md)
-
-## Property: has_StakeholderID
-
-* [Q6501447](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6501447.md)
-
-## Property: has_BenefitForPeople
-
-* [Economic stability and recovery](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_743.md)
 

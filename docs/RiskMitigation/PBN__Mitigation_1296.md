@@ -1,18 +1,18 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__Mitigation_1296 
 
-# RiskMitigation: __Shelter and Safety__ (PBN__Mitigation_1296)
-
-## Property: has_MitigationRisk
-
-
-## Property: has_MitigationSource
-
-* [megahed_antivirus-built_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_298.md)
-
-## Property: has_MitigationTechnology
-
+# __Shelter and Safety__
 
 ## Property: has_MitigationPrinciple
 
 Design buildings that prioritize safety and provide shelter during pandemics or emergencies.
+
+## Property: has_MitigationSource
+
+* [Antivirus-built environment: Lessons learned from Covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_298.md)
+
+## Risks possibly mitigated by this Mitigation
+
+
+## This Mitigation is enabled by the following technologies
+
 

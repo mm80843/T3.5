@@ -1,6 +1,6 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_3101 
 
-# Risk: __Inadequate housing, sanitation, and waste management increase malaria risk__ (PBN__Risk_3101)
+# __Inadequate housing, sanitation, and waste management increase malaria risk__
 
 ## Mitigations of this risk
 

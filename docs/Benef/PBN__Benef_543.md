@@ -1,21 +1,21 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_543 
 
-# Benef: __Assessing effectiveness and impact of measures__ (PBN__Benef_543)
+# __Assessing effectiveness and impact of measures__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Evaluation of prevention and mitigation measures guides response effort, assesses impact on different groups, and informs transition to post-pandemic phase
+* [Amplifying the role of knowledge translation platforms in the COVID-19 pandemic response](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_111.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [el-jardali_amplifying_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_111.md)
+* [decision-makers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_227.md)
+* [practitioners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_228.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Learn from experience, improve response, and enhance preparedness for future pandemics](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_595.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [decision-makers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_227.md)
-* [practitioners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_228.md)
+Evaluation of prevention and mitigation measures guides response effort, assesses impact on different groups, and informs transition to post-pandemic phase
 

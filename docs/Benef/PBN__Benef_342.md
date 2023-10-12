@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_342 
 
-# Benef: __Dilution and removal of infectious particles in room air__ (PBN__Benef_342)
+# __Dilution and removal of infectious particles in room air__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Mechanical ventilation systems can effectively dilute and remove infectious particles in room air, reducing the risk of transmission and improving indoor air quality.
+* [Air Disinfection for Airborne Infection Control with a Focus on COVID-19: Why Germicidal UV is Essential†](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_66.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [nardell_air_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_66.md)
+* [occupants in the room](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_164.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors can attract tenants and enhance the value of their properties by providing a healthy and safe indoor environment with efficient mechanical ventilation systems.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_363.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [occupants in the room](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_164.md)
+Mechanical ventilation systems can effectively dilute and remove infectious particles in room air, reducing the risk of transmission and improving indoor air quality.
 

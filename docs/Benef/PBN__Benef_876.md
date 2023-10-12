@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_876 
 
-# Benef: __Integrated planning and delivery__ (PBN__Benef_876)
+# __Integrated planning and delivery__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Strategic alignment processes promote compatibility and shared priorities among different levels and departments of city governments, leading to more effective urban planning and service delivery.
+* [Learning from the COVID-19 pandemic in governing smart cities](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_177.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [bolivar_learning_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_177.md)
+* [city governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_354.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved performance and efficiency in urban governance, enhanced city resilience.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_957.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [city governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_354.md)
+Strategic alignment processes promote compatibility and shared priorities among different levels and departments of city governments, leading to more effective urban planning and service delivery.
 

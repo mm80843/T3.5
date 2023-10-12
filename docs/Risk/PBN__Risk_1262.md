@@ -1,30 +1,30 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_1262 
 
-# Risk: __Decreased Exposure__ (PBN__Risk_1262)
-
-## Property: has_RiskHealth
-
-* [both](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_8.md)
-
-## List of stakeholders linked to the risk
-
-* [surgical educators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_778.md)
+# __Decreased Exposure__
 
 ## Property: has_RiskISO_Purpose
 
 * [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
 
-## Articles mentionning the risk
+## Property: has_RiskType
 
-* [chick_using_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_11.md)
+* [economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_3.md)
 
-## Property: has_RiskDescription
+## Stakeholders who can mitigate this risk
+
+* [surgical educators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_778.md)
+
+## Property: has_RiskHealth
+
+* [both](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_8.md)
+
+## Description of the risk
 
 Surgical trainees will have a dramatic drop in their in-person exposure to surgical education due to restrictions on gatherings and rotations, resulting in a decrease in case volume and hands-on learning opportunities.
 
-## People affected by this risk
+## Articles mentionning the risk
 
-* [surgical trainees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_42.md)
+* [Using Technology to Maintain the Education of Residents During the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_11.md)
 
 ## Technologies linked to the risk
 
@@ -32,17 +32,13 @@ Surgical trainees will have a dramatic drop in their in-person exposure to surgi
 * [video lectures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_387.md)
 * [teleconferencing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_388.md)
 
-## Property: has_RiskType
+## People affected by this risk
 
-* [economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_3.md)
+* [surgical trainees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_42.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
-
-## Name of the risk
-
-Decreased knowledge acquisition and skill development.
 
 ## Mitigations of this risk
 
@@ -51,4 +47,8 @@ Decreased knowledge acquisition and skill development.
 ## Property: has_RiskGBN
 
 * [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
+
+## Name of the risk
+
+Decreased knowledge acquisition and skill development.
 

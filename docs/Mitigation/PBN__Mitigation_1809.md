@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1809 
 
-# Mitigation: __Working from home, where possible with regulations__ (PBN__Mitigation_1809)
-
-## Property: has_MitigationRisk
-
-* [Disease spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2651.md)
-
-## Property: has_MitigationSource
-
-* [salama_coronavirus_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_184.md)
-
-## Property: has_MitigationTechnology
-
-* [telecommunication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4084.md)
+# __Working from home, where possible with regulations__
 
 ## Property: has_MitigationPrinciple
 
 Enable remote work to reduce contact and transmission
+
+## Property: has_MitigationSource
+
+* [Coronavirus questions that will not go away: interrogating urban and socio-spatial implications of COVID-19 measures](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_184.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Disease spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2651.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [telecommunication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4084.md)
 

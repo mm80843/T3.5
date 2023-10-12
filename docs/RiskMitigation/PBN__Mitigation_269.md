@@ -1,19 +1,19 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__Mitigation_269 
 
-# RiskMitigation: __Eviction moratoria__ (PBN__Mitigation_269)
-
-## Property: has_MitigationRisk
-
-* [Increased eviction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2514.md)
-
-## Property: has_MitigationSource
-
-* [benfer_eviction_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_43.md)
-
-## Property: has_MitigationTechnology
-
+# __Eviction moratoria__
 
 ## Property: has_MitigationPrinciple
 
 Preventing eviction filings during the pandemic can slow the spread of COVID-19 and protect renters
+
+## Property: has_MitigationSource
+
+* [Eviction, Health Inequity, and the Spread of COVID-19: Housing Policy as a Primary Pandemic Mitigation Strategy](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_43.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Increased eviction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2514.md)
+
+## This Mitigation is enabled by the following technologies
+
 

@@ -1,18 +1,18 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_791 
 
-# Mitigation: __Reconsidering regulations and designs of interior spaces to accommodate for social distancing__ (PBN__Mitigation_791)
-
-## Property: has_MitigationRisk
-
-
-## Property: has_MitigationSource
-
-* [honey-roses_impact_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_261.md)
-
-## Property: has_MitigationTechnology
-
+# __Reconsidering regulations and designs of interior spaces to accommodate for social distancing__
 
 ## Property: has_MitigationPrinciple
 
 Adapt regulations and designs to ensure safer and healthier indoor environments
+
+## Property: has_MitigationSource
+
+* [The Impact of COVID-19 on Public Space: A Review of the Emerging Questions](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_261.md)
+
+## Risks possibly mitigated by this Mitigation
+
+
+## This Mitigation is enabled by the following technologies
+
 

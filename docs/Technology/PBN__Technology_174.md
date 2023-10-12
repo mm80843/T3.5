@@ -1,16 +1,16 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_174 
 
-# Technology: __outreach programs__ (PBN__Technology_174)
+# __outreach programs__
 
-## Property: has_TechnologyMitigation
+## Risks linked to this technology
 
-* [Targeted outreach and communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1508.md)
+* [Sample bias in wearable device studies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1111.md)
 
-## Property: has_TechnologyID
+## This Technology is identified by the following QID
 
 * [Q11640](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q11640.md)
 
-## Property: has_TechnologyRisk
+## This Technology enables the following mitigations
 
-* [Sample bias in wearable device studies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1111.md)
+* [Targeted outreach and communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1508.md)
 

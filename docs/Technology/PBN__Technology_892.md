@@ -1,13 +1,13 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_892 
 
-# Technology: __fact-checking platforms__ (PBN__Technology_892)
+# __fact-checking platforms__
 
-## Property: has_TechnologyID
-
-* [Q59555084](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q59555084.md)
-
-## Property: has_TechnologyRisk
+## Risks linked to this technology
 
 * [Disinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1272.md)
 * [Politicization of public health measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1586.md)
+
+## This Technology is identified by the following QID
+
+* [Q59555084](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q59555084.md)
 

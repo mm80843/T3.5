@@ -1,10 +1,18 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_46 
 
-# Stakeholder: __scientists__ (PBN__Stakeholder_46)
+# __scientists__
 
-## Property: has_StakeholderSubgroup
+## This Stakeholder can get these Benefits from mitigation measures
 
-* [Scientific Research](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_39.md)
+* [Data integration](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_60.md)
+* [Data analysis efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_61.md)
+* [Data sharing and integration](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_62.md)
+* [Standardized knowledge representation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_63.md)
+* [Thorough study of anti-coronavirus drugs](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_64.md)
+* [Vaccine design and analysis](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_65.md)
+* [Enhanced credibility and reputation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1020.md)
+* [Knowledge sharing and research development](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1022.md)
+* [Access to real-time data](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1050.md)
 
 ## Risk affecting this stakeholder
 
@@ -26,11 +34,7 @@
 * [Effects of nebulization and impingement on viral survival](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2301.md)
 * [Cell entry of SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2359.md)
 
-## Property: has_StakeholderGroup
-
-* [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
-
-## Property: has_OwnerRisk
+## Risks that can be mitigated by this stakeholder
 
 * [UV susceptibility of viral aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_338.md)
 * [Expectations for vaccine](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_430.md)
@@ -59,15 +63,11 @@
 * [Key factors of COVID-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2361.md)
 * [Knowledge gaps and future threats](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2362.md)
 
-## Property: has_BenefitForPeople
+## This Stakeholder belongs to this StakeholderGroup
 
-* [Data integration](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_60.md)
-* [Data analysis efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_61.md)
-* [Data sharing and integration](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_62.md)
-* [Standardized knowledge representation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_63.md)
-* [Thorough study of anti-coronavirus drugs](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_64.md)
-* [Vaccine design and analysis](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_65.md)
-* [Enhanced credibility and reputation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1020.md)
-* [Knowledge sharing and research development](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1022.md)
-* [Access to real-time data](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1050.md)
+* [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Scientific Research](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_39.md)
 

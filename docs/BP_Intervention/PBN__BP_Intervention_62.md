@@ -1,8 +1,12 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [BP_Intervention](https://github.com/mm80843/T3.5/tree/main/docs/BP_Intervention/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [BP_Intervention](https://github.com/mm80843/T3.5/tree/main/docs/BP_Intervention/index.md) >> Individual ID:PBN__BP_Intervention_62 
 
-# BP_Intervention: __enabler_023__ (PBN__BP_Intervention_62)
+# __Staff training / upskilling__
 
-## Property: has_BP_EnablerTitle
+## Property: has_BP_InterventionKey
 
-Augmented / Virtual Reality
+HU3
+
+## Property: has_BP_InterventionTitle
+
+Staff training / upskilling
 

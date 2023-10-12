@@ -1,18 +1,18 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__Mitigation_79 
 
-# RiskMitigation: __Exercise programs for specific groups__ (PBN__Mitigation_79)
-
-## Property: has_MitigationRisk
-
-
-## Property: has_MitigationSource
-
-* [ai_mental_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_242.md)
-
-## Property: has_MitigationTechnology
-
+# __Exercise programs for specific groups__
 
 ## Property: has_MitigationPrinciple
 
 Developing specialized exercise programs for specific vulnerable groups, such as men and young people, to address their unique mental health needs and promote engagement in physical activity during the pandemic.
+
+## Property: has_MitigationSource
+
+* [Mental Health and the Role of Physical Activity During the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_242.md)
+
+## Risks possibly mitigated by this Mitigation
+
+
+## This Mitigation is enabled by the following technologies
+
 

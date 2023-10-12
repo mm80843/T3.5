@@ -1,18 +1,18 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1557 
 
-# Mitigation: __High throughput in silico screening__ (PBN__Mitigation_1557)
-
-## Property: has_MitigationRisk
-
-
-## Property: has_MitigationSource
-
-* [paital_nurture_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_44.md)
-
-## Property: has_MitigationTechnology
-
+# __High throughput in silico screening__
 
 ## Property: has_MitigationPrinciple
 
 In silico screening methods are used to identify potential inhibitors against viral proteins, such as enzymes. This approach helps in the discovery and development of specific drugs or therapies for the treatment of COVID-19, targeting the virus at a molecular level.
+
+## Property: has_MitigationSource
+
+* [Nurture to nature via COVID-19, a self-regenerating environmental strategy of environment in global context](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_44.md)
+
+## Risks possibly mitigated by this Mitigation
+
+
+## This Mitigation is enabled by the following technologies
+
 

@@ -1,12 +1,12 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_1491 
 
-# Technology: __workforce management tools__ (PBN__Technology_1491)
+# __workforce management tools__
 
-## Property: has_TechnologyID
-
-* [Q2072185](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2072185.md)
-
-## Property: has_TechnologyRisk
+## Risks linked to this technology
 
 * [Inadequate working conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2025.md)
+
+## This Technology is identified by the following QID
+
+* [Q2072185](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2072185.md)
 

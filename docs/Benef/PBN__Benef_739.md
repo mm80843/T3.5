@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_739 
 
-# Benef: __Reduction in epidemic resurgence__ (PBN__Benef_739)
+# __Reduction in epidemic resurgence__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Increasing temperatures and longer sunlight exposure during summer may boost the impact of public health policies and actions to control the spread of COVID-19.
+* [Climate and the spread of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_145.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [chen_climate_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_145.md)
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors in various sectors of the economy can benefit from reduced economic disruption and financial losses associated with epidemic resurgence during winter.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_798.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+Increasing temperatures and longer sunlight exposure during summer may boost the impact of public health policies and actions to control the spread of COVID-19.
 

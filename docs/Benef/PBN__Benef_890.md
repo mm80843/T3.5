@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_890 
 
-# Benef: __Improved hygiene and cleanliness__ (PBN__Benef_890)
+# __Improved hygiene and cleanliness__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Separating wet and living spaces can improve hygiene and cleanliness, reducing the risk of cross-contamination and improving overall sanitation.
+* [Biophilic Design to Enhance Residence Comfort in Covid Era](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_179.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [maharani_biophilic_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_179.md)
+* [apartment residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_356.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors would benefit from higher tenant satisfaction, reduced maintenance costs due to improved hygiene, and potential premium rental rates for units with separate wet and living spaces.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_971.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [apartment residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_356.md)
+Separating wet and living spaces can improve hygiene and cleanliness, reducing the risk of cross-contamination and improving overall sanitation.
 

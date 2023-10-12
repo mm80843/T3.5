@@ -1,21 +1,21 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_839 
 
-# Benef: __Reduced number of infected people__ (PBN__Benef_839)
+# __Reduced number of infected people__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-By adjusting occupant presence, the risk of viral transmission can be minimized
+* [The effect of occupant distribution on energy consumption and COVID-19 infection in buildings: A case study of university building](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_169.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [mokhtari_effect_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_169.md)
+* [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
+* [public health](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_58.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved public health, reduced spread of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_913.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
-* [public health](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_58.md)
+By adjusting occupant presence, the risk of viral transmission can be minimized
 

@@ -1,12 +1,12 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_1694 
 
-# Technology: __job placement platforms__ (PBN__Technology_1694)
+# __job placement platforms__
 
-## Property: has_TechnologyID
-
-* [Q629194](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q629194.md)
-
-## Property: has_TechnologyRisk
+## Risks linked to this technology
 
 * [Job losses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2173.md)
+
+## This Technology is identified by the following QID
+
+* [Q629194](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q629194.md)
 

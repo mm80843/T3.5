@@ -1,18 +1,18 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1439 
 
-# Mitigation: __Strengthening wastewater treatment__ (PBN__Mitigation_1439)
-
-## Property: has_MitigationRisk
-
-
-## Property: has_MitigationSource
-
-* [nghiem_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_229.md)
-
-## Property: has_MitigationTechnology
-
+# __Strengthening wastewater treatment__
 
 ## Property: has_MitigationPrinciple
 
 Implementing monitoring or control measures in the upstream collection network to prevent the spread of COVID-19 in the wastewater handling and treatment process
+
+## Property: has_MitigationSource
+
+* [The COVID-19 pandemic: Considerations for the waste and wastewater services sector](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_229.md)
+
+## Risks possibly mitigated by this Mitigation
+
+
+## This Mitigation is enabled by the following technologies
+
 

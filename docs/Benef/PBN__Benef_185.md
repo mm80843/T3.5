@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_185 
 
-# Benef: __Containment of infection spread__ (PBN__Benef_185)
+# __Containment of infection spread__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Regional containment measures can limit the spread of COVID-19 to neighboring regions, reducing the overall number of infections.
+* [The socio-economic determinants of COVID-19: A spatial analysis of German county level data](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_40.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [ehlert_socio-economic_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_40.md)
+* [neighboring regions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_105.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors in businesses and industries in neighboring regions would benefit from the implementation of regional containment measures as it would help prevent the spread of the virus and minimize the disruption to economic activities, leading to potential economic stability and growth.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_190.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [neighboring regions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_105.md)
+Regional containment measures can limit the spread of COVID-19 to neighboring regions, reducing the overall number of infections.
 

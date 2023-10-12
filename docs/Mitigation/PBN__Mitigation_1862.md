@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1862 
 
-# Mitigation: __Improved Blood Safety Practices__ (PBN__Mitigation_1862)
-
-## Property: has_MitigationRisk
-
-* [Contaminated blood supply](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3272.md)
-
-## Property: has_MitigationSource
-
-* [semenza_prototype_2015](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_212.md)
-
-## Property: has_MitigationTechnology
-
-* [pathogen reduction technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4117.md)
+# __Improved Blood Safety Practices__
 
 ## Property: has_MitigationPrinciple
 
 Implementing improved blood safety practices and pathogen reduction technologies can reduce the risk of contamination and transmission of infectious diseases through blood transfusions.
+
+## Property: has_MitigationSource
+
+* [Prototype Early Warning Systems for Vector-Borne Diseases in Europe](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_212.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Contaminated blood supply](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3272.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [pathogen reduction technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4117.md)
 

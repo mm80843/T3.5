@@ -1,21 +1,21 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_1098 
 
-# Benef: __Automation of healthcare services, telemedicine__ (PBN__Benef_1098)
+# __Automation of healthcare services, telemedicine__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Use of smart robots, AI-enabled diagnostic systems, telemedicine platforms for remote consultations and monitoring
+* [Contributions of Smart City Solutions and Technologies to Resilience against the COVID-19 Pandemic: A Literature Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_227.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [sharifi_contributions_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_227.md)
+* [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
+* [healthcare sector](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_246.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Higher healthcare capacity, reduced waiting times, improved patient care, reduced exposure to infections](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1227.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
-* [healthcare sector](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_246.md)
+Use of smart robots, AI-enabled diagnostic systems, telemedicine platforms for remote consultations and monitoring
 

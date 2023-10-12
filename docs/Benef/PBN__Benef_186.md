@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_186 
 
-# Benef: __Improved health and wellbeing__ (PBN__Benef_186)
+# __Improved health and wellbeing__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Access to green space positively affects physical activity, healthier habits and behaviours, and improved health outcomes
+* [Urban form: Realising the value of green space: a planners’ perspective on the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_41.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [ahmadpoor_urban_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_41.md)
+* [individuals and communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_106.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved health outcomes can lead to reduced healthcare costs and increased property values in communities](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_191.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [individuals and communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_106.md)
+Access to green space positively affects physical activity, healthier habits and behaviours, and improved health outcomes
 

@@ -1,18 +1,18 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__Mitigation_1488 
 
-# RiskMitigation: __Improved risk preparedness__ (PBN__Mitigation_1488)
-
-## Property: has_MitigationRisk
-
-
-## Property: has_MitigationSource
-
-* [oecd_global_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_60.md)
-
-## Property: has_MitigationTechnology
-
+# __Improved risk preparedness__
 
 ## Property: has_MitigationPrinciple
 
 Governments and firms should work together to identify potential threats to essential activities, map players in essential supply chains, collect and share information on bottlenecks, and develop stress tests for supply chains.
+
+## Property: has_MitigationSource
+
+* [Global value chains: Efficiency and risks in the context of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_60.md)
+
+## Risks possibly mitigated by this Mitigation
+
+
+## This Mitigation is enabled by the following technologies
+
 

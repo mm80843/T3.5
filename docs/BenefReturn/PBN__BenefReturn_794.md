@@ -1,4 +1,4 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [BenefReturn](https://github.com/mm80843/T3.5/tree/main/docs/BenefReturn/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [BenefReturn](https://github.com/mm80843/T3.5/tree/main/docs/BenefReturn/index.md) >> Individual ID:PBN__BenefReturn_794 
 
-# BenefReturn: __Private investors benefit from a healthier population, which can lead to increased productivity and reduced healthcare costs.__ (PBN__BenefReturn_794)
+# __Private investors benefit from a healthier population, which can lead to increased productivity and reduced healthcare costs.__
 

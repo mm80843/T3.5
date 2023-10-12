@@ -1,4 +1,4 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [BenefReturn](https://github.com/mm80843/T3.5/tree/main/docs/BenefReturn/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [BenefReturn](https://github.com/mm80843/T3.5/tree/main/docs/BenefReturn/index.md) >> Individual ID:PBN__BenefReturn_1292 
 
-# BenefReturn: __Empowers individuals to take proactive measures, reduces transmission risk, and promotes early intervention__ (PBN__BenefReturn_1292)
+# __Empowers individuals to take proactive measures, reduces transmission risk, and promotes early intervention__
 

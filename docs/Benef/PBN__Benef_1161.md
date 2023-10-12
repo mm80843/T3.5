@@ -1,21 +1,21 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_1161 
 
-# Benef: __Online learning and virtual classes__ (PBN__Benef_1161)
+# __Online learning and virtual classes__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Facilitates remote learning and educational activities during lockdowns and social distancing measures
+* [Mobile Technology Solution for COVID-19: Surveillance and Prevention](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_239.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [raza_mobile_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_239.md)
+* [educators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_43.md)
+* [students](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_101.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Ensures continuity of education, reduces learning disruptions, and promotes skill development](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1293.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [educators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_43.md)
-* [students](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_101.md)
+Facilitates remote learning and educational activities during lockdowns and social distancing measures
 

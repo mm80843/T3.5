@@ -1,22 +1,22 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1827 
 
-# Mitigation: __Renewable energy__ (PBN__Mitigation_1827)
-
-## Property: has_MitigationRisk
-
-* [Reliance on fossil fuels](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3262.md)
-
-## Property: has_MitigationSource
-
-* [samout_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_58.md)
-
-## Property: has_MitigationTechnology
-
-* [solar](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4092.md)
-* [wind](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4093.md)
-* [hydro power](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4094.md)
+# __Renewable energy__
 
 ## Property: has_MitigationPrinciple
 
 Promote the use of sustainable and clean energy sources
+
+## Property: has_MitigationSource
+
+* [COVID-19: IMPACT OF THE PANDEMIC ON THE SUSTAINABLE DEVELOPMENT GOALS](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_58.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Reliance on fossil fuels](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3262.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [solar](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4092.md)
+* [wind](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4093.md)
+* [hydro power](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4094.md)
 

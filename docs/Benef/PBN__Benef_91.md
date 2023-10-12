@@ -1,21 +1,21 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_91 
 
-# Benef: __Reduced rat populations__ (PBN__Benef_91)
+# __Reduced rat populations__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Effective rodent control methods can decrease rat populations, reducing the spread of zoonotic diseases carried by rats
+* [Making green infrastructure healthier infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_20.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [lohmus_making_2015](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_20.md)
+* [residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
+* [public health](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_58.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Investing in rodent management can improve public health outcomes and reduce healthcare costs related to rat-borne diseases.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_88.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
-* [public health](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_58.md)
+Effective rodent control methods can decrease rat populations, reducing the spread of zoonotic diseases carried by rats
 

@@ -1,21 +1,21 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_1375 
 
-# Benef: __Reduction in crime rates__ (PBN__Benef_1375)
+# __Reduction in crime rates__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Identifying individuals without mobile phones through CCTV to reduce crime
+* [The Smart City and Covid‐19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_294.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [webb_smart_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_294.md)
+* [police](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_533.md)
+* [law enforcement](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_534.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Safer cities, decreased criminal activities](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1562.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [police](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_533.md)
-* [law enforcement](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_534.md)
+Identifying individuals without mobile phones through CCTV to reduce crime
 

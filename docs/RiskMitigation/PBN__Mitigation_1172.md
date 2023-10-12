@@ -1,18 +1,18 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__Mitigation_1172 
 
-# RiskMitigation: __Community gardens__ (PBN__Mitigation_1172)
-
-## Property: has_MitigationRisk
-
-
-## Property: has_MitigationSource
-
-* [mahima_impact_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_10.md)
-
-## Property: has_MitigationTechnology
-
+# __Community gardens__
 
 ## Property: has_MitigationPrinciple
 
 Promoting community gardens as flexible spaces that support physical distancing, provide social and emotional connections, and contribute to the overall urban fabric in a neighbourhood.
+
+## Property: has_MitigationSource
+
+* [Impact of Covid-19 on the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_10.md)
+
+## Risks possibly mitigated by this Mitigation
+
+
+## This Mitigation is enabled by the following technologies
+
 

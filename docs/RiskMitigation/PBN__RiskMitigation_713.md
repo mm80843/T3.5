@@ -1,12 +1,12 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__RiskMitigation_713 
 
-# RiskMitigation: __Collaboration with universities__ (PBN__RiskMitigation_713)
-
-## Property: has_MitigationRisk
-
-* [Impact on future workforce](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_503.md)
+# __Collaboration with universities__
 
 ## Property: has_MitigationBenefit
 
 * [Skill development](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_715.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Impact on future workforce](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_503.md)
 

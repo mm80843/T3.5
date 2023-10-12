@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_803 
 
-# Benef: __Differentiation and market advantage__ (PBN__Benef_803)
+# __Differentiation and market advantage__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Implementing the SAMBA system demonstrates commitment to sustainability and improved IEQ, differentiating the property from competitors and attracting tenants seeking high-quality spaces
+* [Continuous IEQ monitoring system: Context and development](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_160.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [parkinson_continuous_2019](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_160.md)
+* [commercial property owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_326.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Investing in the SAMBA system enhances the reputation of the property and attracts high-quality tenants, increasing property value and rental income.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_872.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [commercial property owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_326.md)
+Implementing the SAMBA system demonstrates commitment to sustainability and improved IEQ, differentiating the property from competitors and attracting tenants seeking high-quality spaces
 

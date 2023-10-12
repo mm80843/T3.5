@@ -1,21 +1,21 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__Mitigation_2477 
 
-# RiskMitigation: __Rapid Testing Methods__ (PBN__Mitigation_2477)
-
-## Property: has_MitigationRisk
-
-* [False-negative results](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3470.md)
-
-## Property: has_MitigationSource
-
-* [zhao_supporting_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_266.md)
-
-## Property: has_MitigationTechnology
-
-* [rapid testing technology (e.g.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4520.md)
-* [id now test)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4521.md)
+# __Rapid Testing Methods__
 
 ## Property: has_MitigationPrinciple
 
 Accelerating the testing process to provide same-day results and increase the volume of tests conducted.
+
+## Property: has_MitigationSource
+
+* [Supporting Technologies for COVID-19 Prevention: Systemized Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_266.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [False-negative results](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3470.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [rapid testing technology (e.g.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4520.md)
+* [id now test)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4521.md)
 

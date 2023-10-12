@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_892 
 
-# Benef: __Reduced occupancy density__ (PBN__Benef_892)
+# __Reduced occupancy density__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Lower risk of exposure due to reduced number of people in the building
+* [Assessing the health and hygiene performance of apartment buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_180.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [ho_assessing_2004](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_180.md)
+* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors can attract tenants by offering safer working environments, increasing leasing demand and rental income](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_975.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
+Lower risk of exposure due to reduced number of people in the building
 

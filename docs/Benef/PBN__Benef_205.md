@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_205 
 
-# Benef: __Enhanced air cleaning in specific areas__ (PBN__Benef_205)
+# __Enhanced air cleaning in specific areas__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Portable air cleaners with HEPA filters can effectively remove virus particles from the air, reducing the concentration and risk of transmission in specific areas within the building.
+* [Review and comparison of HVAC operation guidelines in different countries during the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_45.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [guo_review_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_45.md)
+* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors can benefit from implementing this measure by providing additional protection in high-risk areas, increasing tenant confidence and satisfaction, and reducing the risk of outbreaks or closures due to infections.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_211.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
+Portable air cleaners with HEPA filters can effectively remove virus particles from the air, reducing the concentration and risk of transmission in specific areas within the building.
 

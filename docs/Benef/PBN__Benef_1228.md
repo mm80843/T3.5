@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_1228 
 
-# Benef: __Public health improvement__ (PBN__Benef_1228)
+# __Public health improvement__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Recognizing the health consequences of climate change enhances the perception of urgency and motivates action to mitigate climate change.
+* [What our response to the COVID-19 pandemic tells us of our capacity to respond to climate change](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_257.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [gemenne_what_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_257.md)
+* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors benefit from healthier populations, reduced healthcare costs, and increased economic stability.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1374.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
+Recognizing the health consequences of climate change enhances the perception of urgency and motivates action to mitigate climate change.
 

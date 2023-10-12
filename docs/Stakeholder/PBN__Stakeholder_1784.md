@@ -1,15 +1,15 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_1784 
 
-# Stakeholder: __Network operator__ (PBN__Stakeholder_1784)
+# __Network operator__
 
-## Property: has_StakeholderSubgroup
-
-
-## Property: has_StakeholderID
+## This Stakeholder is identified by the following QID
 
 * [Q1941618](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1941618.md)
 
-## Property: has_StakeholderGroup
+## This Stakeholder belongs to this StakeholderGroup
 
 * [Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_2.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
 

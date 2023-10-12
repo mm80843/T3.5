@@ -1,12 +1,12 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_215 
 
-# Technology: __non-toxic nanomaterials__ (PBN__Technology_215)
+# __non-toxic nanomaterials__
 
-## Property: has_TechnologyID
-
-* [Q967847](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q967847.md)
-
-## Property: has_TechnologyRisk
+## Risks linked to this technology
 
 * [Toxicity of nanomaterials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1134.md)
+
+## This Technology is identified by the following QID
+
+* [Q967847](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q967847.md)
 

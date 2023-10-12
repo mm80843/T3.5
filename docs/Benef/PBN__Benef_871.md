@@ -1,21 +1,21 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_871 
 
-# Benef: __Gender Equality__ (PBN__Benef_871)
+# __Gender Equality__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Addressing gender disparities in knowledge, attitudes, and practices related to COVID-19
+* [Knowledge, attitudes, and practices of Indonesian residents regarding COVID-19: A national cross-sectional survey](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_176.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [yodang_knowledge_2021](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_176.md)
+* [indonesian residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_350.md)
+* [specifically men](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_351.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors could benefit from investing in gender-specific interventions through improved asset value of properties in areas where men have equal knowledge, attitudes, and practices as women, as this contributes to overall community health and safety.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_952.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [indonesian residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_350.md)
-* [specifically men](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_351.md)
+Addressing gender disparities in knowledge, attitudes, and practices related to COVID-19
 

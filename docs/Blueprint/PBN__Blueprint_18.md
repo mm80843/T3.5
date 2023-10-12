@@ -1,26 +1,6 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Blueprint](https://github.com/mm80843/T3.5/tree/main/docs/Blueprint/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/main/docs/Blueprint/index.md) >> Individual ID:PBN__Blueprint_18 
 
-# Blueprint: __PBN:BP_19__ (PBN__Blueprint_18)
-
-## Property: has_BPDemonstrated
-
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6964823/
-https://food.ec.europa.eu/plants/pesticides/sustainable-use-pesticides/integrated-pest-management-ipm_en
-https://www.epa.gov/sites/default/files/2015-11/documents/ipm_in_buildings.pdf
-
-
-
-## Property: has_BPValueProposition
-
-The implementation of IMP or other integrating measures that opt for rather non-toxic and innovative solutions will not only reduce the risk of disease spread among building occupants, but will also lead to a more sustainable and environmentally friendly transformation. Pest control will also lead to significant cost savings, as even a small infestation can lead to high investments.
-
-## Property: has_BPRestriction
-
-The main obstacle to effective prevention and control of animal vectors is the inability or even lack of knowledge exchange between trained professionals, as well as the lack of expertise in non-traditional methods, which are still widely used in many EU countries. Furthermore, innovation in this particular sector cannot be considered rapid and there are currently not many alternatives to traditional methods. Moreover, training of personnel migh be costly and use of toxic pesticides and insecticides can harm the environment. 
-
-## Property: has_BPTransmission
-
-Direct contact & Fomite
+# __PBN:BP_19__
 
 ## Property: has_BPReason
 
@@ -30,21 +10,41 @@ In areas where mosquito-borne diseases are endemic (e.g. dengue fever, malaria, 
 
 A sound and comprehensive management plan to control animal vectors is as important as training for building occupants and technical staff, including pest prevention and control professionals.
 
-## Property: has_BPProblem
+## Property: has_BPPermanent
 
-Continuous control of animal vectors prevents infestations and thus reduces the risk of spreading diseases and other health risks such as severe allergic reactions or asthma attacks. In addition, the risk of property damage will be much lower.
+Permanent & Temporary
+
+## Property: has_BPValueProposition
+
+The implementation of IMP or other integrating measures that opt for rather non-toxic and innovative solutions will not only reduce the risk of disease spread among building occupants, but will also lead to a more sustainable and environmentally friendly transformation. Pest control will also lead to significant cost savings, as even a small infestation can lead to high investments.
 
 ## Property: has_BPScale
 
 Both
 
+## Property: has_BPProblem
+
+Continuous control of animal vectors prevents infestations and thus reduces the risk of spreading diseases and other health risks such as severe allergic reactions or asthma attacks. In addition, the risk of property damage will be much lower.
+
+## Property: has_BPRestriction
+
+The main obstacle to effective prevention and control of animal vectors is the inability or even lack of knowledge exchange between trained professionals, as well as the lack of expertise in non-traditional methods, which are still widely used in many EU countries. Furthermore, innovation in this particular sector cannot be considered rapid and there are currently not many alternatives to traditional methods. Moreover, training of personnel migh be costly and use of toxic pesticides and insecticides can harm the environment. 
+
 ## Property: has_BPPhase
 
 Design & Operational
 
-## Property: has_BPPermanent
+## Property: has_BPDemonstrated
 
-Permanent & Temporary
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6964823/
+https://food.ec.europa.eu/plants/pesticides/sustainable-use-pesticides/integrated-pest-management-ipm_en
+https://www.epa.gov/sites/default/files/2015-11/documents/ipm_in_buildings.pdf
+
+
+
+## Property: has_BPTransmission
+
+Direct contact & Fomite
 
 ## Property: has_BPDescription
 
@@ -67,11 +67,11 @@ In addition, rodents such as mice and rats can carry diseases such as hantavirus
 •	 storing food in thick plastic or metal containers with tight-fitting lids
 •	 sealing cracks or holes in external walls
 
-## Property: has_BPTitle
-
-Animal vectors control  measures
-
 ## Property: has_BPType
 
 Technical & Behavioural
+
+## Property: has_BPTitle
+
+Animal vectors control  measures
 

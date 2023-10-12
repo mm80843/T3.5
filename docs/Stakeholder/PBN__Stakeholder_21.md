@@ -1,6 +1,14 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_21 
 
-# Stakeholder: __low-income individuals__ (PBN__Stakeholder_21)
+# __low-income individuals__
+
+## This Stakeholder is identified by the following QID
+
+* [Q191159](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q191159.md)
+
+## This Stakeholder can get these Benefits from mitigation measures
+
+* [Reduced inequalities in remote work and education opportunities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_25.md)
 
 ## Risk affecting this stakeholder
 
@@ -17,12 +25,4 @@
 * [Inequality in access to green areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2249.md)
 * [Limited Capacity to Comply](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2279.md)
 * [Urban Inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2381.md)
-
-## Property: has_StakeholderID
-
-* [Q191159](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q191159.md)
-
-## Property: has_BenefitForPeople
-
-* [Reduced inequalities in remote work and education opportunities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_25.md)
 

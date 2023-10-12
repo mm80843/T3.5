@@ -1,18 +1,18 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_660 
 
-# Mitigation: __Replicating previous research__ (PBN__Mitigation_660)
-
-## Property: has_MitigationRisk
-
-
-## Property: has_MitigationSource
-
-* [fell_validity_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_289.md)
-
-## Property: has_MitigationTechnology
-
+# __Replicating previous research__
 
 ## Property: has_MitigationPrinciple
 
 Attempt to reproduce previous research findings to calibrate the impact of the pandemic on research validity
+
+## Property: has_MitigationSource
+
+* [Validity of energy social research during and after COVID-19: challenges, considerations, and responses](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_289.md)
+
+## Risks possibly mitigated by this Mitigation
+
+
+## This Mitigation is enabled by the following technologies
+
 

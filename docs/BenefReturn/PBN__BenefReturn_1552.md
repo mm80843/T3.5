@@ -1,4 +1,4 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [BenefReturn](https://github.com/mm80843/T3.5/tree/main/docs/BenefReturn/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [BenefReturn](https://github.com/mm80843/T3.5/tree/main/docs/BenefReturn/index.md) >> Individual ID:PBN__BenefReturn_1552 
 
-# BenefReturn: __Investing in credit guarantee schemes can lead to reduced credit risks and potential losses for banks, improving their financial stability and profitability.__ (PBN__BenefReturn_1552)
+# __Investing in credit guarantee schemes can lead to reduced credit risks and potential losses for banks, improving their financial stability and profitability.__
 

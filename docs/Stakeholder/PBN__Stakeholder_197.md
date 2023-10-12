@@ -1,10 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_197 
 
-# Stakeholder: __construction workers__ (PBN__Stakeholder_197)
+# __construction workers__
 
-## Property: has_StakeholderSubgroup
+## This Stakeholder can get these Benefits from mitigation measures
 
-* [Real Estate and Construction](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_31.md)
+* [Reduced virus spread](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_248.md)
+* [Improved worker safety](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_412.md)
+* [Enhanced hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_413.md)
+* [Improved knowledge and compliance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_414.md)
+* [Early detection and prevention](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_415.md)
+* [Workers’ safety and health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_678.md)
+* [Improved productivity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_784.md)
+* [Improved worker well-being](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_787.md)
+* [Worker safety](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1014.md)
+* [Opportunity for unique projects](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1272.md)
+* [Positive environmental impacts](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1274.md)
 
 ## Risk affecting this stakeholder
 
@@ -34,22 +44,12 @@
 * [Lack of hygiene and cleanliness protocols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2048.md)
 * [Financial crisis](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2067.md)
 
-## Property: has_StakeholderGroup
+## This Stakeholder belongs to this StakeholderGroup
 
 * [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
 * [Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_2.md)
 
-## Property: has_BenefitForPeople
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Reduced virus spread](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_248.md)
-* [Improved worker safety](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_412.md)
-* [Enhanced hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_413.md)
-* [Improved knowledge and compliance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_414.md)
-* [Early detection and prevention](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_415.md)
-* [Workers’ safety and health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_678.md)
-* [Improved productivity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_784.md)
-* [Improved worker well-being](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_787.md)
-* [Worker safety](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1014.md)
-* [Opportunity for unique projects](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1272.md)
-* [Positive environmental impacts](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1274.md)
+* [Real Estate and Construction](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_31.md)
 

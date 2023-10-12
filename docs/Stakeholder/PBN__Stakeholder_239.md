@@ -1,20 +1,16 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_239 
 
-# Stakeholder: __hospital management__ (PBN__Stakeholder_239)
+# __hospital management__
 
-## Property: has_StakeholderSubgroup
-
-* [Healthcare Administration](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_49.md)
-
-## Property: has_StakeholderID
+## This Stakeholder is identified by the following QID
 
 * [Q5657858](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5657858.md)
 
-## Property: has_StakeholderGroup
+## This Stakeholder can get these Benefits from mitigation measures
 
-* [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
+* [Improved financial management](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_562.md)
 
-## Property: has_OwnerRisk
+## Risks that can be mitigated by this stakeholder
 
 * [Airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_252.md)
 * [Inadequate disinfection of hospital wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_668.md)
@@ -25,7 +21,11 @@
 * [Improper disposal of pharmaceutical wastes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2315.md)
 * [Improper disposal of chemical wastes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2316.md)
 
-## Property: has_BenefitForPeople
+## This Stakeholder belongs to this StakeholderGroup
 
-* [Improved financial management](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_562.md)
+* [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Healthcare Administration](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_49.md)
 

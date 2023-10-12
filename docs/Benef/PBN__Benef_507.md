@@ -1,21 +1,21 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_507 
 
-# Benef: __Avoidance of strict lockdown measures__ (PBN__Benef_507)
+# __Avoidance of strict lockdown measures__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-The implementation of anti-contagion policies has helped avoid the need for strict lockdown measures, which can have severe economic and social impacts.
+* [The effect of large-scale anti-contagion policies on the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_103.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [hsiang_effect_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_103.md)
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+* [businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_147.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors can benefit from a more resilient and stable economy, reduced business disruptions, and improved asset values.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_552.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
-* [businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_147.md)
+The implementation of anti-contagion policies has helped avoid the need for strict lockdown measures, which can have severe economic and social impacts.
 

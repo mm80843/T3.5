@@ -1,20 +1,20 @@
-[Source](https://github.com/mm80843/T3.5/blob/main/docs/index.md) -- [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) 
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_750 
 
-# Benef: __Reduction in transmission among co-workers__ (PBN__Benef_750)
+# __Reduction in transmission among co-workers__
 
-## Property: has_BenefDetails
+## Articles mentionning this Benefit
 
-Implementing social distancing measures in open-plan offices reduces the risk of COVID-19 transmission among co-workers.
+* [Designing for COVID-2x: Reflecting on Future-Proofing Human Habitation for the Inevitable Next Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_149.md)
 
-## Property: has_BenefSource
+## Stakeholders benefitting from this Benefit
 
-* [spennemann_designing_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_149.md)
+* [office workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_129.md)
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors benefit from reduced transmission rates, a healthier workforce, and improved productivity.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_815.md)
 
-## Property: has_Beneficiary
+## Name of the Benefit
 
-* [office workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_129.md)
+Implementing social distancing measures in open-plan offices reduces the risk of COVID-19 transmission among co-workers.
 
