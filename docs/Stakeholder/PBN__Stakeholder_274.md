@@ -7,6 +7,13 @@
 * [Automated patient monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_662.md)
 * [Improved accuracy of meta-analyses](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_860.md)
 
+## This Stakeholder belongs to this StakeholderSubgroup
+
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
+
 ## Risk affecting this stakeholder
 
 * [Lack of axioms and definition patterns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1941.md)
@@ -16,11 +23,4 @@
 
 * [Lack of axioms and definition patterns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1941.md)
 * [Amplification of flawed data through meta-analyses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2333.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
 

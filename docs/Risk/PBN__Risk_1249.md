@@ -2,9 +2,22 @@
 
 # __Survival of the virus outside the host__
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_0.md)
+* [Regular cleaning and disinfection, wearing masks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1709.md)
+
+## People affected by this risk
+
+* [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
+* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
+
+## Name of the risk
+
+Increased risk of transmission through contact or inhalation
+
+## Description of the risk
+
+SARS-CoV-2 can survive on surfaces and in the air
 
 ## Property: has_RiskType
 
@@ -15,41 +28,28 @@
 * [public health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_0.md)
 * [facility managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_166.md)
 
+## Property: has_RiskISO_Purpose
+
+* [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_0.md)
+
 ## Property: has_RiskHealth
 
 * [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Description of the risk
-
-SARS-CoV-2 can survive on surfaces and in the air
-
-## Articles mentionning the risk
-
-* [Climate and the spread of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_145.md)
-
-## Technologies linked to the risk
-
-* [disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_350.md)
-* [air purification systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_244.md)
-
-## People affected by this risk
-
-* [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
-* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
 
-## Mitigations of this risk
+## Articles mentionning the risk
 
-* [Regular cleaning and disinfection, wearing masks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1709.md)
+* [Climate and the spread of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_145.md)
 
 ## Property: has_RiskGBN
 
 * [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
-## Name of the risk
+## Technologies linked to the risk
 
-Increased risk of transmission through contact or inhalation
+* [disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_350.md)
+* [air purification systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_244.md)
 

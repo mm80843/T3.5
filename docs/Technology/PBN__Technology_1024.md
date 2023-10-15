@@ -2,11 +2,11 @@
 
 # __trash bins__
 
-## Risks linked to this technology
-
-* [Inadequate sanitation and hygiene facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1680.md)
-
 ## This Technology is identified by the following QID
 
 * [Q216530](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q216530.md)
+
+## Risks linked to this technology
+
+* [Inadequate sanitation and hygiene facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1680.md)
 

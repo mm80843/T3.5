@@ -10,12 +10,12 @@ Establish a knowledge graph with a reference namespace to support semantic inter
 
 * [An Overview of Ontologies and Tool Support for COVID-19 Analytics](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_170.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
 
 * [ontologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_712.md)
 * [web portals](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2939.md)
 * [biomedical knowledge graph](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2940.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

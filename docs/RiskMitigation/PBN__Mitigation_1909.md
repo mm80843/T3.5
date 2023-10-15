@@ -10,11 +10,11 @@ Use AI and IoT technologies to develop solutions for enforcing social distancing
 
 * [Towards the sustainable development of smart cities through mass video surveillance: A response to the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_117.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
 
 * [artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_358.md)
 * [internet of things](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2919.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

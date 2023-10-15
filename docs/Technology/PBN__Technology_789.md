@@ -2,6 +2,14 @@
 
 # __antimicrobial coatings__
 
+## This Technology belongs to this TechGroup
+
+* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_15.md)
+
+## This Technology enables the following mitigations
+
+* [Applying antimicrobial coatings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_40.md)
+
 ## Risks linked to this technology
 
 * [Recontamination of surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_865.md)
@@ -12,15 +20,7 @@
 
 * [Q41568378](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q41568378.md)
 
-## This Technology belongs to this TechGroup
-
-* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_15.md)
-
 ## This Technology belongs to this TechSubgroup
 
 * [Disinfection and Cleaning Techniques](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_15.md)
-
-## This Technology enables the following mitigations
-
-* [Applying antimicrobial coatings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_40.md)
 

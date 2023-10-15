@@ -10,14 +10,14 @@ Improve buildings energy efficiency, acoustic performance, in-service life of th
 
 * [The role of green roofs in post COVID-19 confinement: An analysis of willingness to pay](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_262.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Higher installation and maintenance costs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2957.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [vegetation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3716.md)
 * [layers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3717.md)
 * [substrate](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3718.md)
 * [maintenance needs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3719.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Higher installation and maintenance costs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2957.md)
 

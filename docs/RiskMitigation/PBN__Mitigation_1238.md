@@ -10,9 +10,9 @@ Staying at home to prevent exposure to the virus and reduce the risk of transmis
 
 * [The impact of physical activity on psychological health during Covid-19 pandemic in Italy](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_18.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
+
+
+## Risks possibly mitigated by this Mitigation
 
 

@@ -2,6 +2,10 @@
 
 # __temperature screenings__
 
+## This Technology belongs to this TechGroup
+
+* [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_9.md)
+
 ## Risks linked to this technology
 
 * [Spread through Air Travel](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1441.md)
@@ -9,10 +13,6 @@
 ## This Technology is identified by the following QID
 
 * [Q909741](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q909741.md)
-
-## This Technology belongs to this TechGroup
-
-* [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_9.md)
 
 ## This Technology belongs to this TechSubgroup
 

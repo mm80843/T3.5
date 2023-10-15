@@ -2,19 +2,19 @@
 
 # __Improved patient care__
 
-## Articles mentionning this Benefit
-
-* [Internet of things (IoT) applications to fight against COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_295.md)
-
 ## Stakeholders benefitting from this Benefit
 
 * [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
+
+## Name of the Benefit
+
+IoT enables effective reachability to patients, allowing for better care and monitoring during quarantine.
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved patient care leads to better health outcomes and potentially reduced healthcare costs.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1577.md)
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-IoT enables effective reachability to patients, allowing for better care and monitoring during quarantine.
+* [Internet of things (IoT) applications to fight against COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_295.md)
 

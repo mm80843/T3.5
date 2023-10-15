@@ -2,11 +2,11 @@
 
 # __travel tracking systems__
 
-## Risks linked to this technology
-
-* [Travel-related transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1034.md)
-
 ## This Technology is identified by the following QID
 
 * [Q2699839](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2699839.md)
+
+## Risks linked to this technology
+
+* [Travel-related transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1034.md)
 

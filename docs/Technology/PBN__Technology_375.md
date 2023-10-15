@@ -2,10 +2,6 @@
 
 # __off-site construction methods__
 
-## Risks linked to this technology
-
-* [Increase in off-site construction and engineering](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_244.md)
-
 ## This Technology is identified by the following QID
 
 * [Q811936](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q811936.md)
@@ -13,4 +9,8 @@
 ## This Technology enables the following mitigations
 
 * [Increase in off-site construction and engineering](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_418.md)
+
+## Risks linked to this technology
+
+* [Increase in off-site construction and engineering](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_244.md)
 

@@ -2,11 +2,11 @@
 
 # __angel investor networks__
 
-## Risks linked to this technology
-
-* [Barriers to accessing funding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_560.md)
-
 ## This Technology is identified by the following QID
 
 * [Q778274](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q778274.md)
+
+## Risks linked to this technology
+
+* [Barriers to accessing funding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_560.md)
 

@@ -10,9 +10,9 @@ Upgrading intensive care units (ICUs) to have the features of negative pressure 
 
 * [COVID-19: Risk assessment and mitigation measures in healthcare and non-healthcare workplaces](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_100.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
+
+
+## Risks possibly mitigated by this Mitigation
 
 

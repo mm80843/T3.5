@@ -2,11 +2,11 @@
 
 # __fact-checking mechanisms__
 
-## Risks linked to this technology
-
-* [Misinformation and fake news](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1372.md)
-
 ## This Technology is identified by the following QID
 
 * [Q59555084](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q59555084.md)
+
+## Risks linked to this technology
+
+* [Misinformation and fake news](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1372.md)
 

@@ -2,6 +2,10 @@
 
 # __air circulation systems__
 
+## This Technology belongs to this TechGroup
+
+* [Urban technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_14.md)
+
 ## Risks linked to this technology
 
 * [Inadequate ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_713.md)
@@ -10,10 +14,6 @@
 ## This Technology is identified by the following QID
 
 * [Q2615451](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2615451.md)
-
-## This Technology belongs to this TechGroup
-
-* [Urban technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_14.md)
 
 ## This Technology belongs to this TechSubgroup
 

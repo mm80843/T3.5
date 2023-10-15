@@ -2,6 +2,11 @@
 
 # __hand hygiene stations__
 
+## This Technology belongs to this TechGroup
+
+* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
+* [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_9.md)
+
 ## Risks linked to this technology
 
 * [Inadequate sanitation and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1163.md)
@@ -10,11 +15,6 @@
 ## This Technology is identified by the following QID
 
 * [Q552461](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q552461.md)
-
-## This Technology belongs to this TechGroup
-
-* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
-* [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_9.md)
 
 ## This Technology belongs to this TechSubgroup
 

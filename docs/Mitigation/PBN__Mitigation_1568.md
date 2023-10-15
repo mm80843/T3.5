@@ -10,10 +10,10 @@ Stagger work shifts and breaks, limit elevator usage, and adjust work sites to p
 
 * [Impacts of COVID-19 on Health and Safety of Workforce in Construction Industry](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_49.md)
 
+## This Mitigation is enabled by the following technologies
+
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_332.md)
-
-## This Mitigation is enabled by the following technologies
-
 

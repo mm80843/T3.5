@@ -2,11 +2,11 @@
 
 # __ecosystem restoration__
 
-## Risks linked to this technology
-
-* [Environmental degradation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1343.md)
-
 ## This Technology is identified by the following QID
 
 * [Q2428433](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2428433.md)
+
+## Risks linked to this technology
+
+* [Environmental degradation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1343.md)
 

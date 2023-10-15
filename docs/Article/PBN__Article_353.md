@@ -2,6 +2,10 @@
 
 # __Self-reported well-being and the importance of green spaces – A comparison of garden owners and non-garden owners in times of COVID-19__
 
+## Year of publication
+
+2021
+
 ## Title of the article
 
 Self-reported well-being and the importance of green spaces – A comparison of garden owners and non-garden owners in times of COVID-19
@@ -9,10 +13,6 @@ Self-reported well-being and the importance of green spaces – A comparison of 
 ## DOI of the article
 
 10.1016/j.landurbplan.2021.104108
-
-## Year of publication
-
-2021
 
 ## Referenced by other articles
 

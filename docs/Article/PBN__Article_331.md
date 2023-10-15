@@ -2,6 +2,10 @@
 
 # __Making and unmaking home in the COVID-19 pandemic: a qualitative research study of the experience of private rental tenants in Ireland__
 
+## Year of publication
+
+2022
+
 ## Title of the article
 
 Making and unmaking home in the COVID-19 pandemic: a qualitative research study of the experience of private rental tenants in Ireland
@@ -9,10 +13,6 @@ Making and unmaking home in the COVID-19 pandemic: a qualitative research study 
 ## DOI of the article
 
 10.1080/19491247.2022.2037176
-
-## Year of publication
-
-2022
 
 ## Referenced by other articles
 

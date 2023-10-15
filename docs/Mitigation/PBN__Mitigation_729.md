@@ -10,10 +10,10 @@ Employing portable air cleaners with high-efficiency particulate air (HEPA) filt
 
 * [Review and comparison of HVAC operation guidelines in different countries during the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_45.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
 
 * [air cleaner](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3407.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

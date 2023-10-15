@@ -2,6 +2,10 @@
 
 # __crowd monitoring systems__
 
+## This Technology belongs to this TechGroup
+
+* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
+
 ## Risks linked to this technology
 
 * [Crowded public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1325.md)
@@ -12,10 +16,6 @@
 ## This Technology is identified by the following QID
 
 * [Q5189194](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5189194.md)
-
-## This Technology belongs to this TechGroup
-
-* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
 
 ## This Technology belongs to this TechSubgroup
 

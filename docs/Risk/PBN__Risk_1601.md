@@ -2,9 +2,22 @@
 
 # __Shift in customer needs__
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+* [Identify and address new customer needs, pivot business strategies.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2136.md)
+
+## People affected by this risk
+
+* [customers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_221.md)
+* [startup founders](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1033.md)
+
+## Name of the risk
+
+Decreased demand for existing products or services.
+
+## Description of the risk
+
+Customer needs and preferences change due to the COVID-19 crisis.
 
 ## Property: has_RiskType
 
@@ -15,41 +28,28 @@
 * [startups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_322.md)
 * [entrepreneurs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_417.md)
 
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
 ## Property: has_RiskHealth
 
 * [economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_3.md)
-
-## Description of the risk
-
-Customer needs and preferences change due to the COVID-19 crisis.
-
-## Articles mentionning the risk
-
-* [Startups in times of crisis – A rapid response to the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_158.md)
-
-## Technologies linked to the risk
-
-* [market research tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_915.md)
-* [customer feedback platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_916.md)
-
-## People affected by this risk
-
-* [customers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_221.md)
-* [startup founders](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1033.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
 
-## Mitigations of this risk
+## Articles mentionning the risk
 
-* [Identify and address new customer needs, pivot business strategies.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2136.md)
+* [Startups in times of crisis – A rapid response to the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_158.md)
 
 ## Property: has_RiskGBN
 
 * [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Name of the risk
+## Technologies linked to the risk
 
-Decreased demand for existing products or services.
+* [market research tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_915.md)
+* [customer feedback platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_916.md)
 

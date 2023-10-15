@@ -10,11 +10,11 @@ Society should be actively engaged in the process of building critical infrastru
 
 * [Preparing critical infrastructure for the future: Lessons learnt from the Covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_129.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Support and information sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3374.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [public engagement strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4314.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Support and information sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3374.md)
 

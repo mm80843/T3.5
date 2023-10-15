@@ -2,6 +2,26 @@
 
 # __contact tracing apps__
 
+## This Technology belongs to this TechGroup
+
+* [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_6.md)
+* [AI tools](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_0.md)
+* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_1.md)
+* [Enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_7.md)
+* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_3.md)
+* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_15.md)
+
+## This Technology enables the following mitigations
+
+* [Contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_250.md)
+* [Contact Tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1377.md)
+* [Testing and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_267.md)
+* [Rapid Testing and Contact Tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_806.md)
+* [Testing and Contact Tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1736.md)
+* [Increased Testing and Contact Tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_711.md)
+* [Testing and tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2091.md)
+* [Contact tracing and testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2226.md)
+
 ## Risks linked to this technology
 
 * [Spread of contagious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_20.md)
@@ -36,15 +56,6 @@
 
 * [Q1128437](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1128437.md)
 
-## This Technology belongs to this TechGroup
-
-* [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_6.md)
-* [AI tools](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_0.md)
-* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_1.md)
-* [Enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_7.md)
-* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_3.md)
-* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_15.md)
-
 ## This Technology belongs to this TechSubgroup
 
 * [Contact Tracing](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_20.md)
@@ -52,15 +63,4 @@
 * [Apps and Mobile Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_22.md)
 * [Contact Tracing Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_23.md)
 * [Preventive Measures and Public Health Initiatives](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_24.md)
-
-## This Technology enables the following mitigations
-
-* [Contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_250.md)
-* [Contact Tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1377.md)
-* [Testing and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_267.md)
-* [Rapid Testing and Contact Tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_806.md)
-* [Testing and Contact Tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1736.md)
-* [Increased Testing and Contact Tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_711.md)
-* [Testing and tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2091.md)
-* [Contact tracing and testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2226.md)
 

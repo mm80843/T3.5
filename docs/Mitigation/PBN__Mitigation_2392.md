@@ -10,11 +10,11 @@ Genetic manipulation of mosquitoes involves using genetic modification technolog
 
 * [The importance of vector control for the control and elimination of vector-borne diseases](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_64.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
 
 * [genetic modification technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4462.md)
 * [such as crispr/cas9](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4463.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

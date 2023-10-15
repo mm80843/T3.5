@@ -2,11 +2,11 @@
 
 # __demand-responsive transport systems__
 
-## Risks linked to this technology
-
-* [Inequitable access to transportation options](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1934.md)
-
 ## This Technology is identified by the following QID
 
 * [Q924286](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q924286.md)
+
+## Risks linked to this technology
+
+* [Inequitable access to transportation options](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1934.md)
 

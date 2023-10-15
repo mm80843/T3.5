@@ -2,9 +2,13 @@
 
 # __The effect of a redesigned floor plan, occupant density and the quality of indoor climate on the cost of space, productivity and sick leave in an office building–A case study__
 
-## Summary of the article
+## Short summary of the article
 
-This study looked at how office spaces can be used more efficiently. They found that by making changes to the layout of the office, they were able to fit more workstations in the same amount of space. However, they also found that when the space is used more efficiently, it can lead to problems with the air quality and temperature in the office. This can affect the health and productivity of the people working there. The study showed that it is worth investing in making the indoor climate better, as it can increase productivity and save money in the long run.
+This research study analyzes the costs and benefits of improving the efficiency of office space and the quality of indoor climate. The study focuses on a case building located in Finland and explores different space arrangements and indoor climate improvements. The results show that improving the efficiency of space can significantly increase the number of workstations, with the open-plan office arrangement being the most efficient. However, it is important to ensure that the quality of indoor climate is maintained as increased efficiency can lead to higher levels of contamination and heat loads. The study highlights the economic benefits of improving indoor climate, including reduced refurbishment costs, operation and maintenance costs, and improved productivity. The findings also indicate that the cost-effectiveness of improving indoor climate depends on the nature of work and the value of labor. Overall, the study concludes that proper planning and design can improve the efficiency of office space while maintaining a high-quality indoor climate.
+
+## Year of publication
+
+2006
 
 ## Title of the article
 
@@ -17,6 +21,16 @@ The effect of a redesigned floor plan, occupant density and the quality of indoo
 * [Inadequate sanitation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1416.md)
 * [Contaminated surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1802.md)
 * [Lack of communication and education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2016.md)
+
+## DOI of the article
+
+10.1016/j.buildenv.2005.07.012
+
+## Benefits listed in this article
+
+* [Improved indoor climate](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1069.md)
+* [Reduced sick leave](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1070.md)
+* [Reduced performance decrement](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1071.md)
 
 ## This article points to following mitigation
 
@@ -35,21 +49,7 @@ The effect of a redesigned floor plan, occupant density and the quality of indoo
 * [Control of Indoor Temperatures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1760.md)
 * [Occupant Density Control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1761.md)
 
-## Benefits listed in this article
+## Summary of the article
 
-* [Improved indoor climate](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1069.md)
-* [Reduced sick leave](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1070.md)
-* [Reduced performance decrement](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1071.md)
-
-## Short summary of the article
-
-This research study analyzes the costs and benefits of improving the efficiency of office space and the quality of indoor climate. The study focuses on a case building located in Finland and explores different space arrangements and indoor climate improvements. The results show that improving the efficiency of space can significantly increase the number of workstations, with the open-plan office arrangement being the most efficient. However, it is important to ensure that the quality of indoor climate is maintained as increased efficiency can lead to higher levels of contamination and heat loads. The study highlights the economic benefits of improving indoor climate, including reduced refurbishment costs, operation and maintenance costs, and improved productivity. The findings also indicate that the cost-effectiveness of improving indoor climate depends on the nature of work and the value of labor. Overall, the study concludes that proper planning and design can improve the efficiency of office space while maintaining a high-quality indoor climate.
-
-## DOI of the article
-
-10.1016/j.buildenv.2005.07.012
-
-## Year of publication
-
-2006
+This study looked at how office spaces can be used more efficiently. They found that by making changes to the layout of the office, they were able to fit more workstations in the same amount of space. However, they also found that when the space is used more efficiently, it can lead to problems with the air quality and temperature in the office. This can affect the health and productivity of the people working there. The study showed that it is worth investing in making the indoor climate better, as it can increase productivity and save money in the long run.
 

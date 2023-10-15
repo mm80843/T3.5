@@ -2,9 +2,22 @@
 
 # __Lack of novel treatment options__
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+* [Utilize AI algorithms for drug discovery and development of novel treatments.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2860.md)
+
+## People affected by this risk
+
+* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+* [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
+
+## Name of the risk
+
+Limited treatment options and increased mortality rates.
+
+## Description of the risk
+
+Limited availability of effective drugs for treating COVID-19.
 
 ## Property: has_RiskType
 
@@ -15,40 +28,27 @@
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
 * [pharmaceutical companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_124.md)
 
+## Property: has_RiskISO_Purpose
+
+* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+
 ## Property: has_RiskHealth
 
 * [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Description of the risk
-
-Limited availability of effective drugs for treating COVID-19.
-
-## Articles mentionning the risk
-
-* [Digital technology and COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_278.md)
-
-## Technologies linked to the risk
-
-* [artificial intelligence (ai)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1714.md)
-
-## People affected by this risk
-
-* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
-* [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
 
-## Mitigations of this risk
+## Articles mentionning the risk
 
-* [Utilize AI algorithms for drug discovery and development of novel treatments.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2860.md)
+* [Digital technology and COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_278.md)
 
 ## Property: has_RiskGBN
 
 * [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
-## Name of the risk
+## Technologies linked to the risk
 
-Limited treatment options and increased mortality rates.
+* [artificial intelligence (ai)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1714.md)
 

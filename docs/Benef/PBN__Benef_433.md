@@ -2,19 +2,19 @@
 
 # __Inactivation of respiratory animal viral aerosols__
 
-## Articles mentionning this Benefit
-
-* [Effect of Ultraviolet Germicidal Irradiation on Viral Aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_88.md)
-
 ## Stakeholders benefitting from this Benefit
 
 * [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
+
+## Name of the Benefit
+
+UV air disinfection can effectively inactivate respiratory animal viral aerosols, reducing the risk of transmission and improving indoor air quality.
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved health and well-being of building occupants, reduced transmission of respiratory viral diseases, and reduced healthcare costs.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_468.md)
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-UV air disinfection can effectively inactivate respiratory animal viral aerosols, reducing the risk of transmission and improving indoor air quality.
+* [Effect of Ultraviolet Germicidal Irradiation on Viral Aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_88.md)
 

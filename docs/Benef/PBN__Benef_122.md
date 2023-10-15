@@ -2,10 +2,6 @@
 
 # __Analysis of large-scale and longitudinal aspects__
 
-## Articles mentionning this Benefit
-
-* [Designing a Multi-Agent Occupant Simulation System to Support Facility Planning and Analysis for COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_26.md)
-
 ## Stakeholders benefitting from this Benefit
 
 * [designers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_74.md)
@@ -13,11 +9,15 @@
 * [small business owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_76.md)
 * [public health experts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_77.md)
 
+## Name of the Benefit
+
+The simulation system enables users to analyze virus transmission within the built environment from a longitudinal perspective, considering the spatial and temporal dynamics of human behaviors and their impact on transmission.
+
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Investing in the simulation system allows for a comprehensive understanding of virus transmission patterns and risks, guiding decision-making processes to minimize transmission, improve safety, and optimize building design and operations.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_121.md)
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-The simulation system enables users to analyze virus transmission within the built environment from a longitudinal perspective, considering the spatial and temporal dynamics of human behaviors and their impact on transmission.
+* [Designing a Multi-Agent Occupant Simulation System to Support Facility Planning and Analysis for COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_26.md)
 

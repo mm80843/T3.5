@@ -10,9 +10,6 @@ Integration of new wearable sensors to collect physical and biochemical signals 
 
 * [Wearable devices for the detection of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_296.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
 
 * [face masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_342.md)
@@ -21,4 +18,7 @@ Integration of new wearable sensors to collect physical and biochemical signals 
 * [textiles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3020.md)
 * [wristbands](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3021.md)
 * [patches](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3022.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

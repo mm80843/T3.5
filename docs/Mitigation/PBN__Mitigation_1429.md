@@ -10,12 +10,12 @@ Following recognized cleaning protocols and utilizing trained cleaning personnel
 
 * [Ventilation use in nonmedical settings during COVID-19: Cleaning protocol, maintenance, and recommendations](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_104.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Inadequate cleaning of HVAC ductwork and components](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3067.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [trained cleaning personnel](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3873.md)
 * [recognized cleaning practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3874.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Inadequate cleaning of HVAC ductwork and components](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3067.md)
 

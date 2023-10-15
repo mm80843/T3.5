@@ -2,11 +2,11 @@
 
 # __data standardization tools__
 
-## Risks linked to this technology
-
-* [Lack of reliable AI forecasting models](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1720.md)
-
 ## This Technology is identified by the following QID
 
 * [Q1328899](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1328899.md)
+
+## Risks linked to this technology
+
+* [Lack of reliable AI forecasting models](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1720.md)
 

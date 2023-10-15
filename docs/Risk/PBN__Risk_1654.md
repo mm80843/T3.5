@@ -2,9 +2,22 @@
 
 # __Model identification__
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+* [Simulation-based parameter identification](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2202.md)
+
+## People affected by this risk
+
+* [building managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_10.md)
+* [risk experts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1077.md)
+
+## Name of the risk
+
+Inaccurate occupancy estimation
+
+## Description of the risk
+
+Challenges in identifying people movement model parameters due to lack of data
 
 ## Property: has_RiskType
 
@@ -15,39 +28,26 @@
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
 * [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
 
+## Property: has_RiskISO_Purpose
+
+* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+
 ## Property: has_RiskHealth
 
-
-## Description of the risk
-
-Challenges in identifying people movement model parameters due to lack of data
-
-## Articles mentionning the risk
-
-* [Building occupancy estimation with people flow modeling in AnyLogic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_29.md)
-
-## Technologies linked to the risk
-
-* [anylogic simulation software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_987.md)
-
-## People affected by this risk
-
-* [building managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_10.md)
-* [risk experts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1077.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
 
-## Mitigations of this risk
+## Articles mentionning the risk
 
-* [Simulation-based parameter identification](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2202.md)
+* [Building occupancy estimation with people flow modeling in AnyLogic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_29.md)
 
 ## Property: has_RiskGBN
 
 * [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Name of the risk
+## Technologies linked to the risk
 
-Inaccurate occupancy estimation
+* [anylogic simulation software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_987.md)
 

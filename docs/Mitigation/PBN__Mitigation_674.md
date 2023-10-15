@@ -10,10 +10,10 @@ Cancel or prohibit large gatherings to reduce the risk of transmission in crowde
 
 * [Report 13: Estimating the number of infections and the impact of non-pharmaceutical interventions on COVID-19 in 11 European countries](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_166.md)
 
+## This Mitigation is enabled by the following technologies
+
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Transmission, Gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2680.md)
-
-## This Mitigation is enabled by the following technologies
-
 

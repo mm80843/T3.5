@@ -6,15 +6,15 @@
 
 * [Q475018](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q475018.md)
 
-## Risk affecting this stakeholder
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Poor indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_294.md)
+* [General Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_88.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## Risk affecting this stakeholder
 
-* [General Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_88.md)
+* [Poor indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_294.md)
 

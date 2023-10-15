@@ -2,9 +2,21 @@
 
 # __Lack of detailed analysis on visitors’ attributes__
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+* [Conduct more detailed surveys and analysis to gather data on visitors’ attributes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2926.md)
+
+## People affected by this risk
+
+* [visitors to green areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1509.md)
+
+## Name of the risk
+
+Lack of understanding of which specific groups of individuals are visiting green areas and their specific needs and preferences
+
+## Description of the risk
+
+Existing studies have limited data on the socio-demographic attributes of visitors to green areas
 
 ## Property: has_RiskType
 
@@ -15,39 +27,27 @@
 * [local governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_568.md)
 * [research institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_413.md)
 
+## Property: has_RiskISO_Purpose
+
+* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+
 ## Property: has_RiskHealth
 
-
-## Description of the risk
-
-Existing studies have limited data on the socio-demographic attributes of visitors to green areas
-
-## Articles mentionning the risk
-
-* [Access and Use of Green Areas during the COVID-19 Pandemic: Green Infrastructure Management in the “New Normal”](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_275.md)
-
-## Technologies linked to the risk
-
-* [electronic surveys](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1826.md)
-* [mobile apps for data collection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1827.md)
-
-## People affected by this risk
-
-* [visitors to green areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1509.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
 
-## Mitigations of this risk
+## Articles mentionning the risk
 
-* [Conduct more detailed surveys and analysis to gather data on visitors’ attributes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2926.md)
+* [Access and Use of Green Areas during the COVID-19 Pandemic: Green Infrastructure Management in the “New Normal”](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_275.md)
 
 ## Property: has_RiskGBN
 
 * [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Name of the risk
+## Technologies linked to the risk
 
-Lack of understanding of which specific groups of individuals are visiting green areas and their specific needs and preferences
+* [electronic surveys](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1826.md)
+* [mobile apps for data collection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1827.md)
 

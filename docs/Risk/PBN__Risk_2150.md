@@ -2,9 +2,23 @@
 
 # __Failure to prioritize team safety__
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+* [Provide regular safety training and updates, enforce universal precautions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2812.md)
+
+## People affected by this risk
+
+* [staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_103.md)
+* [campus police officers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_135.md)
+* [university community](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1458.md)
+
+## Name of the risk
+
+Increased risk of exposure to contagious diseases and other safety hazards
+
+## Description of the risk
+
+Neglecting the safety and well-being of the campus police team
 
 ## Property: has_RiskType
 
@@ -14,43 +28,29 @@
 
 * [university](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1457.md)
 
+## Property: has_RiskISO_Purpose
+
+* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+
 ## Property: has_RiskHealth
 
 * [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
-## Description of the risk
+## Property: has_RiskISO_Impact
 
-Neglecting the safety and well-being of the campus police team
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
 
 ## Articles mentionning the risk
 
 * [Reframe how to serve your community in the midst of a pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_53.md)
+
+## Property: has_RiskGBN
+
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
 ## Technologies linked to the risk
 
 * [personal protective equipment (ppe)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_819.md)
 * [safety training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1667.md)
 * [regular communication and updates on safety protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1668.md)
-
-## People affected by this risk
-
-* [staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_103.md)
-* [campus police officers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_135.md)
-* [university community](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1458.md)
-
-## Property: has_RiskISO_Impact
-
-* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
-
-## Mitigations of this risk
-
-* [Provide regular safety training and updates, enforce universal precautions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2812.md)
-
-## Property: has_RiskGBN
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
-
-## Name of the risk
-
-Increased risk of exposure to contagious diseases and other safety hazards
 

@@ -2,9 +2,22 @@
 
 # __Transportation protocols and precautions__
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+* [Use individual or limited capacity transportation with partitions/barriers, enforce mask-wearing and no talking, disinfect vehicles after each use](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2797.md)
+
+## People affected by this risk
+
+* [workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_128.md)
+* [transportation staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1448.md)
+
+## Name of the risk
+
+Minimizing the chances of COVID-19 transmission during transportation
+
+## Description of the risk
+
+Implementing strict protocols and precautions during worker transportation to reduce the risk of COVID-19 transmission
 
 ## Property: has_RiskType
 
@@ -15,41 +28,28 @@
 * [company](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1444.md)
 * [transportation department](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1449.md)
 
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
 ## Property: has_RiskHealth
 
 * [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Description of the risk
-
-Implementing strict protocols and precautions during worker transportation to reduce the risk of COVID-19 transmission
-
-## Articles mentionning the risk
-
-* [Preventing and Controlling COVID-19: A Practical-Based Review in Offshore Workplace](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_102.md)
-
-## Technologies linked to the risk
-
-* [disinfection equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1356.md)
-* [partition barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1656.md)
-
-## People affected by this risk
-
-* [workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_128.md)
-* [transportation staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1448.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Mobility](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_14.md)
 
-## Mitigations of this risk
+## Articles mentionning the risk
 
-* [Use individual or limited capacity transportation with partitions/barriers, enforce mask-wearing and no talking, disinfect vehicles after each use](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2797.md)
+* [Preventing and Controlling COVID-19: A Practical-Based Review in Offshore Workplace](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_102.md)
 
 ## Property: has_RiskGBN
 
 * [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Name of the risk
+## Technologies linked to the risk
 
-Minimizing the chances of COVID-19 transmission during transportation
+* [disinfection equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1356.md)
+* [partition barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1656.md)
 

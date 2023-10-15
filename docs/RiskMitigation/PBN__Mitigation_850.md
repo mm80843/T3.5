@@ -10,10 +10,10 @@ Determines viral titers in the test virus suspension
 
 * [A Continuously Active Antimicrobial Coating effective against Human Coronavirus 229E](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_246.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
 
 * [tcid50 technique](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3493.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

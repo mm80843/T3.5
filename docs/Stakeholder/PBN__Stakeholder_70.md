@@ -20,14 +20,14 @@
 * [Enhanced resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_693.md)
 * [Lower healthcare costs](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_926.md)
 
-## Risk affecting this stakeholder
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Antimicrobial resistance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_160.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## Risk affecting this stakeholder
 
+* [Antimicrobial resistance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_160.md)
 

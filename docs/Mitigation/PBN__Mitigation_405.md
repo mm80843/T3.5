@@ -10,10 +10,10 @@ Proper placement of wearable technology devices on the body to improve accuracy 
 
 * [Wearable technology for early detection of COVID-19: A systematic scoping review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_192.md)
 
+## This Mitigation is enabled by the following technologies
+
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Motion artefacts, poor contact with skin](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2554.md)
-
-## This Mitigation is enabled by the following technologies
-
 

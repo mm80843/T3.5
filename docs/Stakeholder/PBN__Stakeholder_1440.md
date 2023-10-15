@@ -6,16 +6,16 @@
 
 * [Q5510680](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5510680.md)
 
-## Risk affecting this stakeholder
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Environmental](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1582.md)
-* [Loss of UGS due to urban development](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2257.md)
+* [General Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_88.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## Risk affecting this stakeholder
 
-* [General Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_88.md)
+* [Environmental](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1582.md)
+* [Loss of UGS due to urban development](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2257.md)
 

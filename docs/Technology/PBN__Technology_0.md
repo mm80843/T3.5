@@ -2,6 +2,20 @@
 
 # __surveillance systems__
 
+## This Technology belongs to this TechGroup
+
+* [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_6.md)
+
+## This Technology enables the following mitigations
+
+* [Cancer surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_592.md)
+* [Early alert systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1799.md)
+* [Enhanced Surveillance and Reporting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1863.md)
+* [Infectious disease monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4.md)
+* [Enhanced surveillance and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1068.md)
+* [Workplace Safety Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1614.md)
+* [Emergency Plan Development](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1616.md)
+
 ## Risks linked to this technology
 
 * [Zoonotic infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1016.md)
@@ -19,21 +33,7 @@
 
 * [Q334401](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q334401.md)
 
-## This Technology belongs to this TechGroup
-
-* [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_6.md)
-
 ## This Technology belongs to this TechSubgroup
 
 * [Surveillance and Monitoring Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_147.md)
-
-## This Technology enables the following mitigations
-
-* [Cancer surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_592.md)
-* [Early alert systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1799.md)
-* [Enhanced Surveillance and Reporting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1863.md)
-* [Infectious disease monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4.md)
-* [Enhanced surveillance and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1068.md)
-* [Workplace Safety Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1614.md)
-* [Emergency Plan Development](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1616.md)
 

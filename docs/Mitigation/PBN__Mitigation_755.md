@@ -10,11 +10,11 @@ Implementation of ventilation systems and sanitation practices to reduce the spr
 
 * [Respiratory pandemics, urban planning and design: A multidisciplinary rapid review of the literature](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_133.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
 
 * [sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1218.md)
 * [ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3132.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

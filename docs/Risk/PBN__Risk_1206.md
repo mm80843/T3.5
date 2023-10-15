@@ -2,9 +2,21 @@
 
 # __COVID-19 risk perception__
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
+* [Provide transparent and credible information to reduce risk perception](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1658.md)
+
+## People affected by this risk
+
+* [tourists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_72.md)
+
+## Name of the risk
+
+Alters vacation plans, decreases international travel, reduces length of vacations
+
+## Description of the risk
+
+Perception of COVID-19 as a travel risk
 
 ## Property: has_RiskType
 
@@ -16,38 +28,26 @@
 * [destination](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_723.md)
 * [tourism providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_724.md)
 
+## Property: has_RiskISO_Purpose
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
+
 ## Property: has_RiskHealth
 
 * [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
-
-## Description of the risk
-
-Perception of COVID-19 as a travel risk
-
-## Articles mentionning the risk
-
-* [Should I Stay or Should I Go? Tourists’ COVID-19 Risk Perception and Vacation Behavior Shift](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_81.md)
-
-## Technologies linked to the risk
-
-
-## People affected by this risk
-
-* [tourists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_72.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
 
-## Mitigations of this risk
+## Articles mentionning the risk
 
-* [Provide transparent and credible information to reduce risk perception](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1658.md)
+* [Should I Stay or Should I Go? Tourists’ COVID-19 Risk Perception and Vacation Behavior Shift](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_81.md)
 
 ## Property: has_RiskGBN
 
 * [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Name of the risk
+## Technologies linked to the risk
 
-Alters vacation plans, decreases international travel, reduces length of vacations
 

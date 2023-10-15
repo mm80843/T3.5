@@ -2,6 +2,15 @@
 
 # __diagnostic tools__
 
+## This Technology belongs to this TechGroup
+
+* [AI tools](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_0.md)
+* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_15.md)
+
+## This Technology enables the following mitigations
+
+* [IoT-based solutions for early diagnosis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1182.md)
+
 ## Risks linked to this technology
 
 * [Under-ascertainment of infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1391.md)
@@ -11,16 +20,7 @@
 
 * [Q67170247](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q67170247.md)
 
-## This Technology belongs to this TechGroup
-
-* [AI tools](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_0.md)
-* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_15.md)
-
 ## This Technology belongs to this TechSubgroup
 
 * [Diagnostic and Testing Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_12.md)
-
-## This Technology enables the following mitigations
-
-* [IoT-based solutions for early diagnosis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1182.md)
 

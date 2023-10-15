@@ -2,11 +2,11 @@
 
 # __inclusive data sharing initiatives__
 
-## Risks linked to this technology
-
-* [Health inequities in data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1339.md)
-
 ## This Technology is identified by the following QID
 
 * [Q5227350](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5227350.md)
+
+## Risks linked to this technology
+
+* [Health inequities in data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1339.md)
 

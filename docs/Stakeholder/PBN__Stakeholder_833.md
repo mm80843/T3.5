@@ -6,17 +6,17 @@
 
 * [Q336473](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q336473.md)
 
-## Risks that can be mitigated by this stakeholder
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Inequitable access to healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1317.md)
-* [Inequalities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1341.md)
-* [Inequality gap widening](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1440.md)
+* [Nonprofit and Social Services](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_41.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## Risks that can be mitigated by this stakeholder
 
-* [Nonprofit and Social Services](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_41.md)
+* [Inequitable access to healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1317.md)
+* [Inequalities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1341.md)
+* [Inequality gap widening](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1440.md)
 

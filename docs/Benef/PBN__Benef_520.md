@@ -2,20 +2,20 @@
 
 # __Improved supply and affordability__
 
-## Articles mentionning this Benefit
-
-* [Public housing and COVID-19: contestation, challenge and change](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_107.md)
-
 ## Stakeholders benefitting from this Benefit
 
 * [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
 * [low-income households](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_219.md)
 
+## Name of the Benefit
+
+Increased availability of affordable housing due to policy reforms and increased investment in public and social housing.
+
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Positive impact on society with reduced homelessness and improved social stability, while also potentially generating stable rental income and long-term asset appreciation for investors.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_569.md)
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Increased availability of affordable housing due to policy reforms and increased investment in public and social housing.
+* [Public housing and COVID-19: contestation, challenge and change](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_107.md)
 

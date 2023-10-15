@@ -2,11 +2,11 @@
 
 # __advanced wastewater treatment technologies such as uv disinfection or ozonation__
 
-## Risks linked to this technology
-
-* [Inadequate wastewater treatment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1949.md)
-
 ## This Technology is identified by the following QID
 
 * [Q20127660](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q20127660.md)
+
+## Risks linked to this technology
+
+* [Inadequate wastewater treatment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1949.md)
 

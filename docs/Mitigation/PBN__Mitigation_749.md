@@ -10,10 +10,10 @@ Visualize and assess the alternative designs and lifecycle cost of building comp
 
 * [Overcoming the Impact of COVID-19 Using Integrated Project Delivery Model](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_72.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
 
 * [bim software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3425.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

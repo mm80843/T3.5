@@ -2,11 +2,11 @@
 
 # __bioinformaticians__
 
-## Risks that can be mitigated by this stakeholder
-
-* [Lack of bioinformatics tools](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1452.md)
-
 ## Risk affecting this stakeholder
 
 * [Lack of ontology interoperability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1453.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Lack of bioinformatics tools](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1452.md)
 

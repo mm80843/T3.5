@@ -2,11 +2,11 @@
 
 # __urban planning and design strategies to create and enhance green spaces in residential areas__
 
-## Risks linked to this technology
-
-* [No access to green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1543.md)
-
 ## This Technology is identified by the following QID
 
 * [Q22652](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q22652.md)
+
+## Risks linked to this technology
+
+* [No access to green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1543.md)
 

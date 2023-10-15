@@ -2,9 +2,22 @@
 
 # __Presence of COVID-19 in sewage__
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+* [Develop standardized protocols for detecting and quantifying the virus in wastewater, use waste-based epidemiology method for early warning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1598.md)
+
+## People affected by this risk
+
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+* [wastewater treatment workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_688.md)
+
+## Name of the risk
+
+Indicates the scale of COVID-19 outbreak, potential for further transmission
+
+## Description of the risk
+
+COVID-19 virus can be detected in untreated wastewater, indicating its presence in the population
 
 ## Property: has_RiskType
 
@@ -15,40 +28,27 @@
 * [public health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_0.md)
 * [wastewater treatment facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_689.md)
 
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
 ## Property: has_RiskHealth
 
 * [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Description of the risk
-
-COVID-19 virus can be detected in untreated wastewater, indicating its presence in the population
-
-## Articles mentionning the risk
-
-* [An environmental and health perspective for COVID-19 outbreak: Meteorology and air quality influence, sewage epidemiology indicator, hospitals disinfection, drug therapies and recommendations](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_270.md)
-
-## Technologies linked to the risk
-
-* [none](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
-
-## People affected by this risk
-
-* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
-* [wastewater treatment workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_688.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
 
-## Mitigations of this risk
+## Articles mentionning the risk
 
-* [Develop standardized protocols for detecting and quantifying the virus in wastewater, use waste-based epidemiology method for early warning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1598.md)
+* [An environmental and health perspective for COVID-19 outbreak: Meteorology and air quality influence, sewage epidemiology indicator, hospitals disinfection, drug therapies and recommendations](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_270.md)
 
 ## Property: has_RiskGBN
 
 * [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
-## Name of the risk
+## Technologies linked to the risk
 
-Indicates the scale of COVID-19 outbreak, potential for further transmission
+* [none](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
 

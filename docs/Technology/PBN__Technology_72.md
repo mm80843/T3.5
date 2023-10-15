@@ -2,12 +2,12 @@
 
 # __social welfare programs__
 
+## This Technology is identified by the following QID
+
+* [Q3249071](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3249071.md)
+
 ## Risks linked to this technology
 
 * [Reduced income and limited financial resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_778.md)
 * [Increased inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2012.md)
-
-## This Technology is identified by the following QID
-
-* [Q3249071](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3249071.md)
 

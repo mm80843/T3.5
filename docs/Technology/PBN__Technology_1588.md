@@ -2,11 +2,11 @@
 
 # __user-friendly interfaces__
 
-## Risks linked to this technology
-
-* [Societal issues and the human factor](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2097.md)
-
 ## This Technology is identified by the following QID
 
 * [Q47146](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q47146.md)
+
+## Risks linked to this technology
+
+* [Societal issues and the human factor](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2097.md)
 

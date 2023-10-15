@@ -2,13 +2,13 @@
 
 # __Heat reduction__
 
-## Articles mentionning this Benefit
-
-* [Challenges to Mitigating the Urban Health Burden of Mosquito-Borne Diseases in the Face of Climate Change](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_95.md)
-
 ## Stakeholders benefitting from this Benefit
 
 * [urban residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_209.md)
+
+## Name of the Benefit
+
+Implementing energy-efficient technologies and renewable energy sources can reduce heat emissions and improve air quality.
 
 ## Description of Benefits pertaining to Beneficiaries
 
@@ -16,7 +16,7 @@
 * [Private investors can benefit from improved property values by investing in sustainable transportation systems, attracting environmentally-conscious residents.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_514.md)
 * [Private investors can benefit from cost savings and improved property values by investing in energy-efficient technologies and renewable energy sources.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_515.md)
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Implementing energy-efficient technologies and renewable energy sources can reduce heat emissions and improve air quality.
+* [Challenges to Mitigating the Urban Health Burden of Mosquito-Borne Diseases in the Face of Climate Change](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_95.md)
 

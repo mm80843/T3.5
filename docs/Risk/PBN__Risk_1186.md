@@ -2,9 +2,22 @@
 
 # __Health Disparities and Equity__
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_0.md)
+* [Improve access to healthcare, address health disparities, implement equity-focused policies.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1638.md)
+
+## People affected by this risk
+
+* [low-income populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_110.md)
+* [people of color](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_111.md)
+
+## Name of the risk
+
+Increased risk of severe illness and mortality from COVID-19.
+
+## Description of the risk
+
+People facing eviction, particularly people of color, are more likely to have comorbidities that increase their vulnerability to severe cases of COVID-19.
 
 ## Property: has_RiskType
 
@@ -16,40 +29,27 @@
 * [healthcare organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_216.md)
 * [policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_126.md)
 
+## Property: has_RiskISO_Purpose
+
+* [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_0.md)
+
 ## Property: has_RiskHealth
 
 * [mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
 * [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
-## Description of the risk
+## Property: has_RiskISO_Impact
 
-People facing eviction, particularly people of color, are more likely to have comorbidities that increase their vulnerability to severe cases of COVID-19.
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
 
 ## Articles mentionning the risk
 
 * [Eviction, Health Inequity, and the Spread of COVID-19: Housing Policy as a Primary Pandemic Mitigation Strategy](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_43.md)
 
-## Technologies linked to the risk
-
-
-## People affected by this risk
-
-* [low-income populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_110.md)
-* [people of color](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_111.md)
-
-## Property: has_RiskISO_Impact
-
-* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
-
-## Mitigations of this risk
-
-* [Improve access to healthcare, address health disparities, implement equity-focused policies.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1638.md)
-
 ## Property: has_RiskGBN
 
 * [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
-## Name of the risk
+## Technologies linked to the risk
 
-Increased risk of severe illness and mortality from COVID-19.
 

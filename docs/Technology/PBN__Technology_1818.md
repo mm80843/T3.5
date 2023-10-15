@@ -2,11 +2,11 @@
 
 # __task-shifting strategies__
 
-## Risks linked to this technology
-
-* [Limited human resources for occupational mental health interventions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2243.md)
-
 ## This Technology is identified by the following QID
 
 * [Q849826](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q849826.md)
+
+## Risks linked to this technology
+
+* [Limited human resources for occupational mental health interventions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2243.md)
 

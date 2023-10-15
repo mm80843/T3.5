@@ -10,13 +10,13 @@ Allow for social distancing and reduce congestion in supermarkets during a pande
 
 * [Designing for COVID-2x: Reflecting on Future-Proofing Human Habitation for the Inevitable Next Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_149.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2622.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [widened aisles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4188.md)
 * [half aisles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4189.md)
 * [flexible shelving](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4190.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2622.md)
 

@@ -6,6 +6,13 @@
 
 * [Transparency in donation process](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1052.md)
 
+## This Stakeholder belongs to this StakeholderSubgroup
+
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
+
 ## Risks that can be mitigated by this stakeholder
 
 * [Lack of knowledge on COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_624.md)
@@ -19,11 +26,4 @@
 * [Lack of data support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2002.md)
 * [Incomplete macroscopic models](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2003.md)
 * [Insufficient health literacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2023.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
 

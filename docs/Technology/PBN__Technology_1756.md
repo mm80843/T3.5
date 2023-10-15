@@ -2,6 +2,10 @@
 
 # __separate toilets in every apartment__
 
+## This Technology belongs to this TechGroup
+
+* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
+
 ## Risks linked to this technology
 
 * [WWM2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2207.md)
@@ -9,10 +13,6 @@
 ## This Technology is identified by the following QID
 
 * [Q7857](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7857.md)
-
-## This Technology belongs to this TechGroup
-
-* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
 
 ## This Technology belongs to this TechSubgroup
 

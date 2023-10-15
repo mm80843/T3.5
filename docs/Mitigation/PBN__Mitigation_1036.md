@@ -10,10 +10,10 @@ Encourages innovative startups to continue seeking opportunities, developing new
 
 * [Startups in times of crisis – A rapid response to the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_158.md)
 
+## This Mitigation is enabled by the following technologies
+
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Reduction in innovation and experimentation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2872.md)
-
-## This Mitigation is enabled by the following technologies
-
 

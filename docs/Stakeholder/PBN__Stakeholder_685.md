@@ -6,6 +6,14 @@
 
 * [Q12327237](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q12327237.md)
 
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Environmental Management and Research](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_162.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Environmental Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_13.md)
+
 ## Risk affecting this stakeholder
 
 * [Inadequate disinfection of hospital wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_668.md)
@@ -25,12 +33,4 @@
 * [Improper disposal of pharmaceutical wastes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2315.md)
 * [Improper disposal of chemical wastes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2316.md)
 * [Fluctuations in sewage flow rate](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2370.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Environmental Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_13.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Environmental Management and Research](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_162.md)
 

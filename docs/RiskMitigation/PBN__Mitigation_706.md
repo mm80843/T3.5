@@ -10,10 +10,10 @@ Encourages individuals to adopt energy-saving behaviors
 
 * [Addressing the impact of COVID-19 lockdown on energy use in municipal buildings: A case study in Florianópolis, Brazil](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_286.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
 
 * [education and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_748.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

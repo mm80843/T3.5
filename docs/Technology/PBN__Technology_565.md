@@ -2,6 +2,10 @@
 
 # __knowledge translation platforms__
 
+## This Technology is identified by the following QID
+
+* [Q66104672](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q66104672.md)
+
 ## Risks linked to this technology
 
 * [Inconsistent use of research evidence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1358.md)
@@ -9,8 +13,4 @@
 * [Lack of trust in evidence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1360.md)
 * [Inadequate collaboration and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1361.md)
 * [Limited access to actionable evidence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1362.md)
-
-## This Technology is identified by the following QID
-
-* [Q66104672](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q66104672.md)
 

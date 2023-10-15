@@ -2,13 +2,13 @@
 
 # __Digital platforms and online resources for reporting and seeking help__
 
-## This Technology is identified by the following QID
-
-* [Q7314108](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7314108.md)
-
 ## This Technology belongs to this TechGroup
 
 * [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_11.md)
+
+## This Technology is identified by the following QID
+
+* [Q7314108](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7314108.md)
 
 ## This Technology belongs to this TechSubgroup
 

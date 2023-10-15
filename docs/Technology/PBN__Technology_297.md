@@ -2,11 +2,11 @@
 
 # __economic and business development strategies__
 
-## Risks linked to this technology
-
-* [Centralization of economic activities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1212.md)
-
 ## This Technology is identified by the following QID
 
 * [Q1017569](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1017569.md)
+
+## Risks linked to this technology
+
+* [Centralization of economic activities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1212.md)
 

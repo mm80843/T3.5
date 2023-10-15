@@ -10,11 +10,11 @@ Regular maintenance and cleaning of HVAC systems and ductwork can prevent the bu
 
 * [Ventilation use in nonmedical settings during COVID-19: Cleaning protocol, maintenance, and recommendations](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_104.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Accumulation of dirt, debris, and microbial growth in HVAC systems and ductwork](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3058.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [proper cleaning equipment and procedures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3867.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Accumulation of dirt, debris, and microbial growth in HVAC systems and ductwork](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3058.md)
 

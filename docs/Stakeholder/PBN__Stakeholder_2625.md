@@ -6,11 +6,11 @@
 
 * [Q5482740](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5482740.md)
 
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Technology Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_12.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Blockchain](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_157.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Technology Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_12.md)
 

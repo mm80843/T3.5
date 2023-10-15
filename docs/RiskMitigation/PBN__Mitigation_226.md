@@ -10,11 +10,11 @@ Use UV irradiation and vaporized hydrogen peroxide for disinfection in hospitals
 
 * [An environmental and health perspective for COVID-19 outbreak: Meteorology and air quality influence, sewage epidemiology indicator, hospitals disinfection, drug therapies and recommendations](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_270.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
 
 * [vaporized hydrogen peroxide](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_234.md)
 * [uv irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_235.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

@@ -10,10 +10,10 @@ Enhancing the capacity and accessibility of healthcare services to effectively r
 
 * [Epidemics, Planning and the City: A Special Issue of Planning Perspectives](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_152.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
 
 * [investments in healthcare facilities and infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3283.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

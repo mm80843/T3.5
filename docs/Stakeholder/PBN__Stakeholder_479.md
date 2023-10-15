@@ -13,6 +13,14 @@
 * [Consistent modeling](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1236.md)
 * [Improved logical](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1238.md)
 
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Data Management and Security](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_152.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Technology Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_12.md)
+
 ## Risk affecting this stakeholder
 
 * [Decreased access to traditional research methodologies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1588.md)
@@ -28,12 +36,4 @@
 * [Inconsistent data sources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2363.md)
 * [Data unavailability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2364.md)
 * [Inaccurate forecasting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2365.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Technology Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_12.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Data Management and Security](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_152.md)
 

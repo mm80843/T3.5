@@ -2,16 +2,16 @@
 
 # __tech companies__
 
-## Risks that can be mitigated by this stakeholder
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Inefficient contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1500.md)
-* [Increased clinical load](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2187.md)
+* [Technology and Innovation](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_61.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Technology Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_12.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## Risks that can be mitigated by this stakeholder
 
-* [Technology and Innovation](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_61.md)
+* [Inefficient contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1500.md)
+* [Increased clinical load](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2187.md)
 

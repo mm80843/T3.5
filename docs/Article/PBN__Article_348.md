@@ -6,11 +6,11 @@
 
 10.1016/j.ress.2015.08.006
 
-## Year of publication
-
-2016
-
 ## Title of the article
 
 A review of definitions and measures of system resilience
+
+## Year of publication
+
+2016
 

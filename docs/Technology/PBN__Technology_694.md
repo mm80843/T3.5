@@ -2,11 +2,11 @@
 
 # __process optimization tools__
 
-## Risks linked to this technology
-
-* [Less productivity compared to agriculture and manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1434.md)
-
 ## This Technology is identified by the following QID
 
 * [Q1156793](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1156793.md)
+
+## Risks linked to this technology
+
+* [Less productivity compared to agriculture and manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1434.md)
 

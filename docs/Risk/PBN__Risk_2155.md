@@ -2,9 +2,22 @@
 
 # __Insufficient social adaptive capacity__
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+* [Foster social capital, trust, and participatory governance structures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2818.md)
+
+## People affected by this risk
+
+* [communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_4.md)
+* [local organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1463.md)
+
+## Name of the risk
+
+Inadequate preparedness and response to disease outbreaks
+
+## Description of the risk
+
+Lack of social capital, cohesion, and adaptive governance hinder effective response to shocks
 
 ## Property: has_RiskType
 
@@ -15,39 +28,26 @@
 * [government agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_55.md)
 * [community leaders](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_606.md)
 
+## Property: has_RiskISO_Purpose
+
+* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+
 ## Property: has_RiskHealth
 
-
-## Description of the risk
-
-Lack of social capital, cohesion, and adaptive governance hinder effective response to shocks
-
-## Articles mentionning the risk
-
-* [Learning from pandemics: Applying resilience thinking to identify priorities for planning urban settlements](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_137.md)
-
-## Technologies linked to the risk
-
-* [community engagement platforms and participatory decision-making tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1675.md)
-
-## People affected by this risk
-
-* [communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_4.md)
-* [local organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1463.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Community infrastructures](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_9.md)
 
-## Mitigations of this risk
+## Articles mentionning the risk
 
-* [Foster social capital, trust, and participatory governance structures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2818.md)
+* [Learning from pandemics: Applying resilience thinking to identify priorities for planning urban settlements](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_137.md)
 
 ## Property: has_RiskGBN
 
 * [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
-## Name of the risk
+## Technologies linked to the risk
 
-Inadequate preparedness and response to disease outbreaks
+* [community engagement platforms and participatory decision-making tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1675.md)
 

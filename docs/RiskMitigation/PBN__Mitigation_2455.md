@@ -10,10 +10,10 @@ Leads to more waste generated from packaging materials
 
 * [Indirect effects of COVID-19 on the environment](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_238.md)
 
+## This Mitigation is enabled by the following technologies
+
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Increased waste](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_842.md)
-
-## This Mitigation is enabled by the following technologies
-
 

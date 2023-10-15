@@ -10,10 +10,10 @@ Occupant exposure is accounted for when agents are in the same building. The num
 
 * [EXPOSED: An occupant exposure model for confined spaces to retrofit crowd models during a pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_3.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
 
 * [number of people in the building](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4047.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

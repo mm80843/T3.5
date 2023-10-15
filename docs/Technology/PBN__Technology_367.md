@@ -2,11 +2,11 @@
 
 # __adaptation of existing infrastructure for new uses__
 
-## Risks linked to this technology
-
-* [Flexible public places to support essential sectors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_268.md)
-
 ## This Technology is identified by the following QID
 
 * [Q121359](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q121359.md)
+
+## Risks linked to this technology
+
+* [Flexible public places to support essential sectors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_268.md)
 

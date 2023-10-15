@@ -10,9 +10,9 @@ Standardized protocols are needed to ensure comparability and sensitivity of PCR
 
 * [Wastewater-Based Epidemiology to monitor COVID-19 outbreak: Present and future diagnostic methods to be in your radar](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_178.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
+
+
+## Risks possibly mitigated by this Mitigation
 
 

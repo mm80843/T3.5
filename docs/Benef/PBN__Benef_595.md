@@ -2,19 +2,19 @@
 
 # __Susceptibility__
 
-## Articles mentionning this Benefit
-
-* [Current knowledge of COVID-19: Advances, challenges and future perspectives](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_118.md)
-
 ## Stakeholders benefitting from this Benefit
 
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+
+## Name of the Benefit
+
+Identification of risk factors for infection
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Asset value increase from improved risk assessment](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_646.md)
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Identification of risk factors for infection
+* [Current knowledge of COVID-19: Advances, challenges and future perspectives](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_118.md)
 

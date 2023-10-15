@@ -2,9 +2,22 @@
 
 # __Cell entry of SARS-CoV-2__
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+* [Conduct research to determine the mechanisms of cell entry and membrane fusion of SARS-CoV-2.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3061.md)
+
+## People affected by this risk
+
+* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+* [scientists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_46.md)
+
+## Name of the risk
+
+Impaired understanding of the infection mechanism and potential targets for antiviral intervention.
+
+## Description of the risk
+
+The mechanisms of cell entry and membrane fusion of SARS-CoV-2 are not fully understood.
 
 ## Property: has_RiskType
 
@@ -15,41 +28,28 @@
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
 * [scientists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_46.md)
 
+## Property: has_RiskISO_Purpose
+
+* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+
 ## Property: has_RiskHealth
 
 * [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
-
-## Description of the risk
-
-The mechanisms of cell entry and membrane fusion of SARS-CoV-2 are not fully understood.
-
-## Articles mentionning the risk
-
-* [Current knowledge of COVID-19: Advances, challenges and future perspectives](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_118.md)
-
-## Technologies linked to the risk
-
-* [research on viral cell entry mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1953.md)
-* [identification of receptor molecules](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1954.md)
-
-## People affected by this risk
-
-* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
-* [scientists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_46.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
 
-## Mitigations of this risk
+## Articles mentionning the risk
 
-* [Conduct research to determine the mechanisms of cell entry and membrane fusion of SARS-CoV-2.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3061.md)
+* [Current knowledge of COVID-19: Advances, challenges and future perspectives](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_118.md)
 
 ## Property: has_RiskGBN
 
 * [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Name of the risk
+## Technologies linked to the risk
 
-Impaired understanding of the infection mechanism and potential targets for antiviral intervention.
+* [research on viral cell entry mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1953.md)
+* [identification of receptor molecules](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1954.md)
 

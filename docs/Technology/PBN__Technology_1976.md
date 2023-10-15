@@ -2,11 +2,11 @@
 
 # __development of storage protocols for maintaining sample integrity__
 
-## Risks linked to this technology
-
-* [Degradation of viral signal in storage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2369.md)
-
 ## This Technology is identified by the following QID
 
 * [Q461671](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q461671.md)
+
+## Risks linked to this technology
+
+* [Degradation of viral signal in storage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2369.md)
 

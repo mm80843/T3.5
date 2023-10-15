@@ -13,15 +13,15 @@
 * [Increased safety](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1362.md)
 * [Improved service efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1361.md)
 
-## Risk affecting this stakeholder
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Inadequate allocation of community service facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2325.md)
+* [Community Members](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_130.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Community Stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_8.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## Risk affecting this stakeholder
 
-* [Community Members](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_130.md)
+* [Inadequate allocation of community service facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2325.md)
 

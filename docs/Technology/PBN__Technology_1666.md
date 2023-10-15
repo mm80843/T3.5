@@ -2,11 +2,11 @@
 
 # __regular interactions with students and faculty__
 
-## Risks linked to this technology
-
-* [Lack of community engagement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2149.md)
-
 ## This Technology is identified by the following QID
 
 * [Q48282](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q48282.md)
+
+## Risks linked to this technology
+
+* [Lack of community engagement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2149.md)
 

@@ -2,19 +2,19 @@
 
 # __Distance learning/training__
 
-## Articles mentionning this Benefit
-
-* [Smart cities and the pandemic: digital technologies on the urban management of Brazilian cities](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_143.md)
-
 ## Stakeholders benefitting from this Benefit
 
 * [students](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_101.md)
+
+## Name of the Benefit
+
+Maintaining education continuity while ensuring social isolation
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improve education outcomes and student well-being](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_777.md)
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Maintaining education continuity while ensuring social isolation
+* [Smart cities and the pandemic: digital technologies on the urban management of Brazilian cities](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_143.md)
 

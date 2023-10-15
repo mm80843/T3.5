@@ -10,11 +10,11 @@ The assay measures virus infectivity by assessing cytopathic effects in host cel
 
 * [Far-UVC light (222 nm) efficiently and safely inactivates airborne human coronaviruses](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_182.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
 
 * [human host cells](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3155.md)
 * [infection medium](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3156.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

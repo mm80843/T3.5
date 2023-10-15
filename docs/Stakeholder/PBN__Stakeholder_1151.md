@@ -6,6 +6,14 @@
 
 * [Q183888](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q183888.md)
 
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [AI and Technology](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_54.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
+
 ## Risk affecting this stakeholder
 
 * [Limited access to COVID-19 data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1719.md)
@@ -15,12 +23,4 @@
 
 * [Inefficient disease identification](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1797.md)
 * [Lack of data for AI models](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1798.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [AI and Technology](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_54.md)
 

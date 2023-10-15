@@ -2,9 +2,13 @@
 
 # __2019 Novel Coronavirus (COVID-19) Pandemic: Built Environment Considerations To Reduce Transmission__
 
-## Summary of the article
+## Short summary of the article
 
-There have been several outbreaks of diseases caused by coronaviruses in the past. One of them was called SARS and another one was called MERS. These diseases have a high mortality rate and can spread from animals to humans. In December 2019, a new coronavirus called SARS-CoV-2 was discovered, which causes the disease COVID-19. This virus spreads mainly from person to person. The virus can survive on surfaces for a few hours to a few days, so it's important to clean and disinfect frequently touched objects and surfaces. Good hand hygiene and social distancing are also important measures to prevent the spread of the virus. In healthcare settings, special precautions need to be taken to protect both patients and healthcare workers. The use of filtration systems and proper ventilation can help reduce the spread of the virus in buildings.
+This research abstract summarizes a comprehensive review of the literature on the spread and transmission dynamics of SARS-CoV-2, the virus responsible for COVID-19, within the built environment (BE). The review highlights the potential for the virus to be transmitted through both direct and indirect contact with contaminated surfaces (fomites), as well as through close interactions between individuals. It emphasizes the importance of understanding the role of human behavior, spatial dynamics, and building operational factors in promoting or mitigating the spread of the virus. The abstract also discusses the potential for airborne transmission of the virus and the role of ventilation systems in reducing transmission risks. It suggests several strategies for controlling and mitigating the spread of COVID-19 within the built environment, including proper hand hygiene, social distancing measures, cleaning and disinfection protocols, and enhanced HVAC operational practices. The abstract concludes by emphasizing the importance of these measures in reducing the potential for transmission of SARS-CoV-2 within the built environment and the need for continued research and implementation of effective infection control strategies.
+
+## Year of publication
+
+2020
 
 ## Title of the article
 
@@ -17,6 +21,14 @@ There have been several outbreaks of diseases caused by coronaviruses in the pas
 * [Contamination of fomites in the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1329.md)
 * [Airborne transmission in the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1330.md)
 * [Lack of environmental precautions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1331.md)
+
+## DOI of the article
+
+10.1128/mSystems.00245-20
+
+## Benefits listed in this article
+
+* [Reduced transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_232.md)
 
 ## This article points to following mitigation
 
@@ -34,21 +46,9 @@ There have been several outbreaks of diseases caused by coronaviruses in the pas
 * [Spatial configuration promoting social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_553.md)
 * [Proper handwashing hygiene promotion](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_554.md)
 
-## Benefits listed in this article
+## Summary of the article
 
-* [Reduced transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_232.md)
-
-## Short summary of the article
-
-This research abstract summarizes a comprehensive review of the literature on the spread and transmission dynamics of SARS-CoV-2, the virus responsible for COVID-19, within the built environment (BE). The review highlights the potential for the virus to be transmitted through both direct and indirect contact with contaminated surfaces (fomites), as well as through close interactions between individuals. It emphasizes the importance of understanding the role of human behavior, spatial dynamics, and building operational factors in promoting or mitigating the spread of the virus. The abstract also discusses the potential for airborne transmission of the virus and the role of ventilation systems in reducing transmission risks. It suggests several strategies for controlling and mitigating the spread of COVID-19 within the built environment, including proper hand hygiene, social distancing measures, cleaning and disinfection protocols, and enhanced HVAC operational practices. The abstract concludes by emphasizing the importance of these measures in reducing the potential for transmission of SARS-CoV-2 within the built environment and the need for continued research and implementation of effective infection control strategies.
-
-## DOI of the article
-
-10.1128/mSystems.00245-20
-
-## Year of publication
-
-2020
+There have been several outbreaks of diseases caused by coronaviruses in the past. One of them was called SARS and another one was called MERS. These diseases have a high mortality rate and can spread from animals to humans. In December 2019, a new coronavirus called SARS-CoV-2 was discovered, which causes the disease COVID-19. This virus spreads mainly from person to person. The virus can survive on surfaces for a few hours to a few days, so it's important to clean and disinfect frequently touched objects and surfaces. Good hand hygiene and social distancing are also important measures to prevent the spread of the virus. In healthcare settings, special precautions need to be taken to protect both patients and healthcare workers. The use of filtration systems and proper ventilation can help reduce the spread of the virus in buildings.
 
 ## Referenced by other articles
 

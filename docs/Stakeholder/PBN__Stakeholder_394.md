@@ -10,6 +10,14 @@
 
 * [Early detection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_0.md)
 
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Public Health Agencies](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_43.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
+
 ## Risk affecting this stakeholder
 
 * [Insufficient healthcare preparation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2183.md)
@@ -39,12 +47,4 @@
 * [Inadequate information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2059.md)
 * [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2061.md)
 * [Insufficient healthcare preparation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2183.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Public Health Agencies](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_43.md)
 

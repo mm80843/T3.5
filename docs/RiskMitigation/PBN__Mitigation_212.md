@@ -10,11 +10,11 @@ Enable remote delivery of healthcare services, including mental health support, 
 
 * [Non-medical Interventions to Reduce the Burden of Psychosocial and Economic Impacts of COVID-19 Pandemic: A Scope Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_243.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Lack of access to healthcare services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2503.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [telecommunication technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3060.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of access to healthcare services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2503.md)
 

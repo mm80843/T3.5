@@ -2,6 +2,10 @@
 
 # __Analysis and Evaluation of Non-Pharmaceutical Interventions on Prevention and Control of COVID-19: A Case Study of Wuhan City__
 
+## Year of publication
+
+2021
+
 ## Title of the article
 
 Analysis and Evaluation of Non-Pharmaceutical Interventions on Prevention and Control of COVID-19: A Case Study of Wuhan City
@@ -9,10 +13,6 @@ Analysis and Evaluation of Non-Pharmaceutical Interventions on Prevention and Co
 ## DOI of the article
 
 10.3390/ijgi10070480
-
-## Year of publication
-
-2021
 
 ## Referenced by other articles
 

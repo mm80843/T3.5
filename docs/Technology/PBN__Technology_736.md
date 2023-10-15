@@ -2,11 +2,11 @@
 
 # __transnational governance mechanisms and cooperative agreements__
 
-## Risks linked to this technology
-
-* [Disruption of global settlement system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1468.md)
-
 ## This Technology is identified by the following QID
 
 * [Q161726](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q161726.md)
+
+## Risks linked to this technology
+
+* [Disruption of global settlement system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1468.md)
 

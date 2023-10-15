@@ -2,19 +2,19 @@
 
 # __Containment of COVID-19 spread__
 
-## Articles mentionning this Benefit
-
-* [Water and wastewater digital surveillance for monitoring and early detection of the COVID-19 hotspot: industry 4.0](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_162.md)
-
 ## Stakeholders benefitting from this Benefit
 
 * [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
+
+## Name of the Benefit
+
+Digital contact tracing can help identify and isolate infected individuals
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Faster containment of outbreaks, reduced spread of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_883.md)
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Digital contact tracing can help identify and isolate infected individuals
+* [Water and wastewater digital surveillance for monitoring and early detection of the COVID-19 hotspot: industry 4.0](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_162.md)
 

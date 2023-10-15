@@ -10,10 +10,10 @@ Limit the use of ACE inhibitors to minimize the risk of aggravating potential CO
 
 * [Infodemic and the spread of fake news in the COVID-19-era](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_299.md)
 
+## This Mitigation is enabled by the following technologies
+
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Aggravating COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3130.md)
-
-## This Mitigation is enabled by the following technologies
-
 

@@ -2,9 +2,23 @@
 
 # __Reduced sales and fixed costs__
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+* [Develop alternative revenue streams, reduce costs, seek government support.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2132.md)
+
+## People affected by this risk
+
+* [employees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_220.md)
+* [investors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_49.md)
+* [startup founders](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1033.md)
+
+## Name of the risk
+
+Financial instability, potential bankruptcy.
+
+## Description of the risk
+
+Reduced sales combined with fixed costs can threaten startups' liquidity and long-term survival.
 
 ## Property: has_RiskType
 
@@ -16,43 +30,29 @@
 * [investors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_49.md)
 * [startups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_322.md)
 
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
 ## Property: has_RiskHealth
 
 * [economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_3.md)
 
-## Description of the risk
+## Property: has_RiskISO_Impact
 
-Reduced sales combined with fixed costs can threaten startups' liquidity and long-term survival.
+* [Living and working environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_1.md)
 
 ## Articles mentionning the risk
 
 * [Startups in times of crisis – A rapid response to the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_158.md)
+
+## Property: has_RiskGBN
+
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
 ## Technologies linked to the risk
 
 * [online platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_67.md)
 * [remote work technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_134.md)
 * [digital marketing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_908.md)
-
-## People affected by this risk
-
-* [employees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_220.md)
-* [investors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_49.md)
-* [startup founders](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1033.md)
-
-## Property: has_RiskISO_Impact
-
-* [Living and working environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_1.md)
-
-## Mitigations of this risk
-
-* [Develop alternative revenue streams, reduce costs, seek government support.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2132.md)
-
-## Property: has_RiskGBN
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
-
-## Name of the risk
-
-Financial instability, potential bankruptcy.
 

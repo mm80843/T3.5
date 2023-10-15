@@ -2,11 +2,11 @@
 
 # __other air cleaning technologies__
 
-## Risks linked to this technology
-
-* [Poor indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_294.md)
-
 ## This Technology is identified by the following QID
 
 * [Q1196206](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1196206.md)
+
+## Risks linked to this technology
+
+* [Poor indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_294.md)
 

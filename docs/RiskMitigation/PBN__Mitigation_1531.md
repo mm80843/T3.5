@@ -10,10 +10,10 @@ Restricts the organization of large events or gatherings where individuals can e
 
 * [Implications of COVID-19 control measures for diet and physical activity, and lessons for addressing other pandemics facing rapidly urbanising countries](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_68.md)
 
+## This Mitigation is enabled by the following technologies
+
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Transmission in gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3121.md)
-
-## This Mitigation is enabled by the following technologies
-
 

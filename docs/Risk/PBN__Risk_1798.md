@@ -2,9 +2,21 @@
 
 # __Lack of data for AI models__
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
+* [Utilize cross-population train/test-based models](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2376.md)
+
+## People affected by this risk
+
+* [none](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_629.md)
+
+## Name of the risk
+
+Reduced accuracy and effectiveness of AI tools
+
+## Description of the risk
+
+Insufficient data to train AI models for optimal performance
 
 ## Property: has_RiskType
 
@@ -15,39 +27,27 @@
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
 * [ai developers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1151.md)
 
+## Property: has_RiskISO_Purpose
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
+
 ## Property: has_RiskHealth
 
 * [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Description of the risk
-
-Insufficient data to train AI models for optimal performance
-
-## Articles mentionning the risk
-
-* [Exploring the Potential of Artificial Intelligence and Machine Learning to Combat COVID-19 and Existing Opportunities for LMIC: A Scoping Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_131.md)
-
-## Technologies linked to the risk
-
-* [none](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
-
-## People affected by this risk
-
-* [none](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_629.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
 
-## Mitigations of this risk
+## Articles mentionning the risk
 
-* [Utilize cross-population train/test-based models](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2376.md)
+* [Exploring the Potential of Artificial Intelligence and Machine Learning to Combat COVID-19 and Existing Opportunities for LMIC: A Scoping Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_131.md)
 
 ## Property: has_RiskGBN
 
 * [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Name of the risk
+## Technologies linked to the risk
 
-Reduced accuracy and effectiveness of AI tools
+* [none](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
 

@@ -7,6 +7,13 @@
 * [Energy efficiency improvement](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1024.md)
 * [Increased adoption of germicidal UV](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_343.md)
 
+## This Stakeholder belongs to this StakeholderSubgroup
+
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
+
 ## Risk affecting this stakeholder
 
 * [Energy waste](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_826.md)
@@ -166,11 +173,4 @@
 * [Contaminated drainage systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2393.md)
 * [Ineffective cleaning practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2394.md)
 * [High occupant density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2395.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
 

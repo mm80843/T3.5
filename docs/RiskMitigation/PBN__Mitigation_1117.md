@@ -10,11 +10,11 @@ Multi-sectoral collaboration is crucial for designing and implementing effective
 
 * [Challenges to Mitigating the Urban Health Burden of Mosquito-Borne Diseases in the Face of Climate Change](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_95.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Ineffective resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2935.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [collaboration across sectors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3668.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Ineffective resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2935.md)
 

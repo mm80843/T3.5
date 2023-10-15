@@ -10,10 +10,10 @@ Promotes air movement and ensures that larger aerosol particles receive the requ
 
 * [Upper-room ultraviolet air disinfection might help to reduce COVID-19 transmission in buildings: a feasibility study](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_163.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
 
 * [ceiling mounted fans](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_258.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

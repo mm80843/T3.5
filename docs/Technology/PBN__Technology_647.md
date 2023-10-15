@@ -2,11 +2,11 @@
 
 # __upgrading hvac systems and improving thermal insulation__
 
-## Risks linked to this technology
-
-* [Inadequate thermal environment control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1407.md)
-
 ## This Technology is identified by the following QID
 
 * [Q918306](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q918306.md)
+
+## Risks linked to this technology
+
+* [Inadequate thermal environment control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1407.md)
 

@@ -10,9 +10,9 @@ Increase space for pedestrians to meet social distancing recommendations and imp
 
 * [The Impact of COVID-19 on Public Space: A Review of the Emerging Questions](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_261.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
+
+
+## Risks possibly mitigated by this Mitigation
 
 

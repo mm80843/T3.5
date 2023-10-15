@@ -2,11 +2,11 @@
 
 # __data completion and vaccination tracking technologies__
 
-## Risks linked to this technology
-
-* [Missing vaccination data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1912.md)
-
 ## This Technology is identified by the following QID
 
 * [Q70477194](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q70477194.md)
+
+## Risks linked to this technology
+
+* [Missing vaccination data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1912.md)
 

@@ -10,14 +10,14 @@
 
 * [Optimized storage capacity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_211.md)
 
-## Risk affecting this stakeholder
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Vaccine distribution and storage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1908.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## Risk affecting this stakeholder
 
+* [Vaccine distribution and storage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1908.md)
 

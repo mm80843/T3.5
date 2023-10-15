@@ -2,11 +2,11 @@
 
 # __kalman filter algorithm__
 
-## Risks linked to this technology
-
-* [Error accumulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1658.md)
-
 ## This Technology is identified by the following QID
 
 * [Q846780](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q846780.md)
+
+## Risks linked to this technology
+
+* [Error accumulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1658.md)
 

@@ -2,11 +2,11 @@
 
 # __quieter fan technology__
 
-## Risks linked to this technology
-
-* [Noise and inconvenience of personal air-purifying shields](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2399.md)
-
 ## This Technology is identified by the following QID
 
 * [Q6498398](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6498398.md)
+
+## Risks linked to this technology
+
+* [Noise and inconvenience of personal air-purifying shields](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2399.md)
 

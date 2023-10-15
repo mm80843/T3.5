@@ -2,11 +2,11 @@
 
 # __training and certification programs__
 
-## Risks linked to this technology
-
-* [Technical expertise](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1794.md)
-
 ## This Technology is identified by the following QID
 
 * [Q374814](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q374814.md)
+
+## Risks linked to this technology
+
+* [Technical expertise](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1794.md)
 

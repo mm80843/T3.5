@@ -2,9 +2,22 @@
 
 # __HVAC characteristics__
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+* [Regular maintenance and calibration of HVAC systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2003.md)
+
+## People affected by this risk
+
+* [facility managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_166.md)
+* [hvac technicians](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_643.md)
+
+## Name of the risk
+
+Variation in air change rates
+
+## Description of the risk
+
+Characteristics of heating, ventilation, and air-conditioning systems
 
 ## Property: has_RiskType
 
@@ -14,40 +27,27 @@
 
 * [facility managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_166.md)
 
+## Property: has_RiskISO_Purpose
+
+* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+
 ## Property: has_RiskHealth
 
 * [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Description of the risk
-
-Characteristics of heating, ventilation, and air-conditioning systems
-
-## Articles mentionning the risk
-
-* [The Effect of Opening Windows on Air Change Rates in Two Homes](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_235.md)
-
-## Technologies linked to the risk
-
-* [none](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
-
-## People affected by this risk
-
-* [facility managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_166.md)
-* [hvac technicians](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_643.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Living and working environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_1.md)
 
-## Mitigations of this risk
+## Articles mentionning the risk
 
-* [Regular maintenance and calibration of HVAC systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2003.md)
+* [The Effect of Opening Windows on Air Change Rates in Two Homes](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_235.md)
 
 ## Property: has_RiskGBN
 
 * [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
-## Name of the risk
+## Technologies linked to the risk
 
-Variation in air change rates
+* [none](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
 

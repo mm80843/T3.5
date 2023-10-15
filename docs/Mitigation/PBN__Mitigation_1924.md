@@ -10,11 +10,11 @@ Monitor drug compliance, distinguish between prescription and consumption, provi
 
 * [Future perspectives of wastewater-based epidemiology: Monitoring infectious disease spread and resistance to the community level](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_48.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
 
 * [analytical tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4143.md)
 * [pharmacokinetics data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4144.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

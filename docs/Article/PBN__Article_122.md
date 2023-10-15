@@ -2,9 +2,13 @@
 
 # __Emergency Healthcare Facilities: Managing Design in a Post Covid-19 World__
 
-## Summary of the article
+## Short summary of the article
 
-During the COVID-19 pandemic, makeshift hospitals were created by converting public places like stadiums and exhibition centers into medical facilities. These emergency hospitals were built very quickly to help take care of patients with the new coronavirus. The design of these hospitals had to be adaptable, which means they could easily change to fit the needs of the patients. They needed to have big spaces for patient wards, good ventilation systems, and access to important medical equipment. Designers used flexible strategies and technology to make sure the makeshift hospitals could be safe and effective. This way, they could quickly respond to the needs of the pandemic and help more people.
+This research abstract discusses the critical design parameters of makeshift hospitals created in response to the COVID-19 pandemic, and outlines the required design delivery paradigm for effectively futureproofing design development in the context of emergency healthcare needs. The abstract highlights the dramatic changes brought about by COVID-19, including a significant decline in global production and manufacturing output, a predicted fall in global merchandise trade, and a shocking loss of employment. It also describes how China, the U.S., and the U.K. rapidly converted public venues into temporary healthcare facilities. The abstract emphasizes the importance of adaptability, convertibility, and expandability in the design of makeshift hospitals. It discusses various design aspects, such as ventilation systems, mechanical and electrical infrastructure, video and audio devices, and biosecurity measures. The use of value management and building information modeling (BIM) is proposed as a design delivery paradigm for efficiently incorporating flexibility in the design planning of future facilities. Overall, the abstract provides insights into the critical aspects of designing makeshift hospitals and futureproofing healthcare infrastructure.
+
+## Year of publication
+
+2020
 
 ## Title of the article
 
@@ -17,6 +21,18 @@ Emergency Healthcare Facilities: Managing Design in a Post Covid-19 World
 * [Inadequate infrastructure systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1696.md)
 * [Limited space for healthcare operations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1697.md)
 * [Lack of biosecurity measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1698.md)
+
+## DOI of the article
+
+10.1109/EMR.2020.3029850
+
+## Benefits listed in this article
+
+* [Increased healthcare capacity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_618.md)
+* [Adaptability of building to meet shifting demands](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_619.md)
+* [Improved infection control](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_620.md)
+* [Support for life-saving equipment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_621.md)
+* [Enhanced communication and surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_622.md)
 
 ## This article points to following mitigation
 
@@ -34,25 +50,9 @@ Emergency Healthcare Facilities: Managing Design in a Post Covid-19 World
 * [Value management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1221.md)
 * [Building Information Model (BIM)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1222.md)
 
-## Benefits listed in this article
+## Summary of the article
 
-* [Increased healthcare capacity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_618.md)
-* [Adaptability of building to meet shifting demands](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_619.md)
-* [Improved infection control](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_620.md)
-* [Support for life-saving equipment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_621.md)
-* [Enhanced communication and surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_622.md)
-
-## Short summary of the article
-
-This research abstract discusses the critical design parameters of makeshift hospitals created in response to the COVID-19 pandemic, and outlines the required design delivery paradigm for effectively futureproofing design development in the context of emergency healthcare needs. The abstract highlights the dramatic changes brought about by COVID-19, including a significant decline in global production and manufacturing output, a predicted fall in global merchandise trade, and a shocking loss of employment. It also describes how China, the U.S., and the U.K. rapidly converted public venues into temporary healthcare facilities. The abstract emphasizes the importance of adaptability, convertibility, and expandability in the design of makeshift hospitals. It discusses various design aspects, such as ventilation systems, mechanical and electrical infrastructure, video and audio devices, and biosecurity measures. The use of value management and building information modeling (BIM) is proposed as a design delivery paradigm for efficiently incorporating flexibility in the design planning of future facilities. Overall, the abstract provides insights into the critical aspects of designing makeshift hospitals and futureproofing healthcare infrastructure.
-
-## DOI of the article
-
-10.1109/EMR.2020.3029850
-
-## Year of publication
-
-2020
+During the COVID-19 pandemic, makeshift hospitals were created by converting public places like stadiums and exhibition centers into medical facilities. These emergency hospitals were built very quickly to help take care of patients with the new coronavirus. The design of these hospitals had to be adaptable, which means they could easily change to fit the needs of the patients. They needed to have big spaces for patient wards, good ventilation systems, and access to important medical equipment. Designers used flexible strategies and technology to make sure the makeshift hospitals could be safe and effective. This way, they could quickly respond to the needs of the pandemic and help more people.
 
 ## Referenced by other articles
 

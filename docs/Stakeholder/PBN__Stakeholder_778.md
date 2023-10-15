@@ -2,6 +2,11 @@
 
 # __surgical educators__
 
+## Risk affecting this stakeholder
+
+* [Access to Videos](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1268.md)
+* [Faculty Engagement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1271.md)
+
 ## Risks that can be mitigated by this stakeholder
 
 * [Decreased Exposure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1262.md)
@@ -13,10 +18,5 @@
 * [Access to Videos](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1268.md)
 * [Limited Operative](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1269.md)
 * [Regionalization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1270.md)
-* [Faculty Engagement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1271.md)
-
-## Risk affecting this stakeholder
-
-* [Access to Videos](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1268.md)
 * [Faculty Engagement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1271.md)
 

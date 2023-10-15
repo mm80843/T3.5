@@ -10,9 +10,9 @@ Providing accessible large open green spaces in combination with adherence to so
 
 * [Urban nature in a time of crisis: recreational use of green space increases during the COVID-19 outbreak in Oslo, Norway](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_256.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
+
+
+## Risks possibly mitigated by this Mitigation
 
 

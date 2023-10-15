@@ -2,6 +2,10 @@
 
 # __COVID-19 and Green Housing: A Review of Relevant Literature__
 
+## Year of publication
+
+2021
+
 ## Title of the article
 
 COVID-19 and Green Housing: A Review of Relevant Literature
@@ -9,10 +13,6 @@ COVID-19 and Green Housing: A Review of Relevant Literature
 ## DOI of the article
 
 10.3390/en14082072
-
-## Year of publication
-
-2021
 
 ## Referenced by other articles
 

@@ -2,11 +2,11 @@
 
 # __subsidized access to wearable devices__
 
-## Risks linked to this technology
-
-* [Sample bias in wearable device studies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1111.md)
-
 ## This Technology is identified by the following QID
 
 * [Q4845080](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4845080.md)
+
+## Risks linked to this technology
+
+* [Sample bias in wearable device studies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1111.md)
 

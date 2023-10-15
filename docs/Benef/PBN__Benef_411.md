@@ -2,19 +2,19 @@
 
 # __Restoration of international tourism demand__
 
-## Articles mentionning this Benefit
-
-* [Should I Stay or Should I Go? Tourists’ COVID-19 Risk Perception and Vacation Behavior Shift](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_81.md)
-
 ## Stakeholders benefitting from this Benefit
 
 * [tourism industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_196.md)
+
+## Name of the Benefit
+
+Lifting border closures, restoring international aviation, and reducing travel anxiety can help restore international tourism demand
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors can benefit by investing in measures that facilitate the restoration of international travel, such as supporting the aviation industry and promoting international travel safety, leading to increased revenue in the tourism sector.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_440.md)
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Lifting border closures, restoring international aviation, and reducing travel anxiety can help restore international tourism demand
+* [Should I Stay or Should I Go? Tourists’ COVID-19 Risk Perception and Vacation Behavior Shift](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_81.md)
 

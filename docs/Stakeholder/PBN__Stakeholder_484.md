@@ -10,15 +10,15 @@
 
 * [Increased resilience and flexibility](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1244.md)
 
-## Risk affecting this stakeholder
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Inadequate crisis preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1961.md)
+* [Emergency Services and Management](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_166.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Crisis Management](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_14.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## Risk affecting this stakeholder
 
-* [Emergency Services and Management](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_166.md)
+* [Inadequate crisis preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1961.md)
 

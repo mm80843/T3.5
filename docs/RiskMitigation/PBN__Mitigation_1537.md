@@ -10,11 +10,11 @@ Facilitates access to exercise programs through television and social media plat
 
 * [Implications of COVID-19 control measures for diet and physical activity, and lessons for addressing other pandemics facing rapidly urbanising countries](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_68.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
 
 * [internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3058.md)
 * [television](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3912.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

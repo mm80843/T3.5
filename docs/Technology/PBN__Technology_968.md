@@ -2,6 +2,11 @@
 
 # __physical distancing markers__
 
+## This Technology belongs to this TechGroup
+
+* [Enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_7.md)
+* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
+
 ## Risks linked to this technology
 
 * [Crowding and congestion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1638.md)
@@ -9,11 +14,6 @@
 ## This Technology is identified by the following QID
 
 * [Q30314010](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q30314010.md)
-
-## This Technology belongs to this TechGroup
-
-* [Enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_7.md)
-* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
 
 ## This Technology belongs to this TechSubgroup
 

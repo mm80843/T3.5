@@ -1,35 +1,47 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/main/docs/Blueprint/index.md) >> Individual ID:PBN__Blueprint_6 
 
-# __PBN:BP_7__
+# __Controls at key checkpoints__
 
-## Property: has_BPReason
+## Problem of the blueprint
 
-The blueprints aims at facilitating the management of inhabited places, both in terms of occupancy and maintaining a high level of health among users. The measure reduces the risk of contagion among workers and possibly lead to greater client confidence.
+Restricting access based on occupancy rates and personal health measures would allow for better social distance and possibly reduce the density of infection in the building to prevent different types of virus transmission. User registration and notification in the event of a local outbreak could help prevent the spread of the virus.
 
-## Property: has_BPCapabilities
+## Demonstration of the blueprint
+
+Checkpoint at the entrance of common buildings
+
+## Title of the blueprint
+
+PBN:BP_7
+
+## Description of the blueprint
+
+This aims at establishing checkpoints at high-traffic locations or key nodes in either buildings or GBNs to restrict further access. Checkpoints aim to monitor relevant parameters related either to the space, such as indoor air quality or occupancy rates, or to the personal health of users (body temperature, display of test results, registration of personal presence, etc.). Based on the results, user access can be restricted or prohibited to ensure either satisfactory occupancy levels, or user compliance with health protection measures, and users can be notified of new developments when in the building.
+
+## GBN Phase of the blueprint
+
+Design
+
+## Capabilities of the blueprint
 
 It would be important to analyse and identify the main points of interest for the establishment of one or more control points. In addition, the parameters to be monitored would need to be carefully selected to ensure that monitoring and subsequent measures such as access restrictions are relevant to the situation and adapted to the current nature of the transmission hazard:
 •	 sensors at entry and exit points
 •	 personnel at entry and exit points.
 •	 temperature sensing of the user
 
-## Property: has_BPPermanent
+## Mode of transmission covered by the blueprint
 
-Permanent & Temporary
+Airborne & Respiratory 
 
-## Property: has_BPValueProposition
+## Reason of the blueprint
+
+The blueprints aims at facilitating the management of inhabited places, both in terms of occupancy and maintaining a high level of health among users. The measure reduces the risk of contagion among workers and possibly lead to greater client confidence.
+
+## Value proposition of the blueprint
 
 The people who are in the building are healthy and comply with the health protection measures taken. Indoor air quality is always adequate to prevent the transmission of viruses. Occupancy can be limited to satisfactory levels, if necessary, to allow social distances and reduce the risk of transmission.
 
-## Property: has_BPScale
-
-Both
-
-## Property: has_BPProblem
-
-Restricting access based on occupancy rates and personal health measures would allow for better social distance and possibly reduce the density of infection in the building to prevent different types of virus transmission. User registration and notification in the event of a local outbreak could help prevent the spread of the virus.
-
-## Property: has_BPRestriction
+## Restrictions of the blueprint
 
 There are various limitations to this measure:
 •	  implementing and operating one or more control points would be expensive 
@@ -38,31 +50,35 @@ There are various limitations to this measure:
 •	 non-acceptance of increased personal monitoring by the user, for example for privacy considerations reasons
 • high operation costs
 
-## Property: has_BPPhase
+## Interventions of the blueprint
 
-Design
+* [Occupancy control (eg separating at/risk contaminated population)](https://github.com/mm80843/T3.5/blob/main/docs/Intervention/PBN__Intervention_1.md)
+* [Optimize users flows to prevent contamination](https://github.com/mm80843/T3.5/blob/main/docs/Intervention/PBN__Intervention_14.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Intervention/PBN__Intervention_15.md)
 
-## Property: has_BPDemonstrated
+## Scale of the of the blueprint
 
-Checkpoint at the entrance of common buildings
+Both
 
-## Property: has_BPTransmission
+## Enalbers of the blueprint
 
-Airborne & Respiratory 
+* [5G](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_0.md)
+* [Data Analytics](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_2.md)
+* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_5.md)
+* [AI/ML](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_8.md)
+* [GPS](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_10.md)
+* [Automation](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_16.md)
+* [Smartphones](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_33.md)
 
-## Property: has_BPDescription
-
-This aims at establishing checkpoints at high-traffic locations or key nodes in either buildings or GBNs to restrict further access. Checkpoints aim to monitor relevant parameters related either to the space, such as indoor air quality or occupancy rates, or to the personal health of users (body temperature, display of test results, registration of personal presence, etc.). Based on the results, user access can be restricted or prohibited to ensure either satisfactory occupancy levels, or user compliance with health protection measures, and users can be notified of new developments when in the building.
-
-## Property: has_BPContext
+## Context of the blueprint
 
 This measure can be integrated into the early design phase of a new building, as well as applied in an existing building or area, if conditions permit, when there is a potential risk of epidemics. The measure should be applied in high traffic areas where key nodes lead to access to further areas, so that checkpoints can be established to potentially restrict access by users.
 
-## Property: has_BPType
+## Type of deployment of the blueprint
+
+Permanent & Temporary
+
+## Type of the blueprint
 
 Technical & Behavioural
-
-## Property: has_BPTitle
-
-Controls at key checkpoints  
 

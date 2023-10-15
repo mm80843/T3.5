@@ -2,20 +2,20 @@
 
 # __Objective symptom monitoring__
 
-## Articles mentionning this Benefit
-
-* [Wearable technology for early detection of COVID-19: A systematic scoping review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_192.md)
-
 ## Stakeholders benefitting from this Benefit
 
 * [individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_20.md)
 * [healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_32.md)
 
+## Name of the Benefit
+
+Wearable technology can accurately monitor symptoms, reducing reliance on self-reporting
+
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved accuracy in identifying symptomatic individuals, better disease control](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1034.md)
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Wearable technology can accurately monitor symptoms, reducing reliance on self-reporting
+* [Wearable technology for early detection of COVID-19: A systematic scoping review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_192.md)
 

@@ -2,11 +2,11 @@
 
 # __urban planning and transportation systems__
 
-## Risks linked to this technology
-
-* [Decline in car-based transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_242.md)
-
 ## This Technology is identified by the following QID
 
 * [Q1034047](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1034047.md)
+
+## Risks linked to this technology
+
+* [Decline in car-based transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_242.md)
 

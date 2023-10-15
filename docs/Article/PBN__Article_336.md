@@ -6,11 +6,11 @@
 
 10.3390/su12229527
 
-## Year of publication
-
-2020
-
 ## Title of the article
 
 Navigating Climate Change: Rethinking the Role of Buildings
+
+## Year of publication
+
+2020
 

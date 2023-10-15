@@ -2,6 +2,10 @@
 
 # __Observed and Potential Impacts of the COVID-19 Pandemic on the Environment__
 
+## Year of publication
+
+2020
+
 ## Title of the article
 
 Observed and Potential Impacts of the COVID-19 Pandemic on the Environment
@@ -9,10 +13,6 @@ Observed and Potential Impacts of the COVID-19 Pandemic on the Environment
 ## DOI of the article
 
 10.3390/ijerph17114140
-
-## Year of publication
-
-2020
 
 ## Referenced by other articles
 

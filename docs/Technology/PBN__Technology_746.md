@@ -2,11 +2,11 @@
 
 # __contactless payment systems__
 
-## Risks linked to this technology
-
-* [Risk of transmission in public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1480.md)
-
 ## This Technology is identified by the following QID
 
 * [Q625903](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q625903.md)
+
+## Risks linked to this technology
+
+* [Risk of transmission in public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1480.md)
 

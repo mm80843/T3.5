@@ -2,11 +2,11 @@
 
 # __data access platforms and applications__
 
-## Risks linked to this technology
-
-* [Limited access to data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_723.md)
-
 ## This Technology is identified by the following QID
 
 * [Q17624049](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q17624049.md)
+
+## Risks linked to this technology
+
+* [Limited access to data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_723.md)
 

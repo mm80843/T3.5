@@ -2,11 +2,11 @@
 
 # __glutardialdehyde__
 
-## Risks linked to this technology
-
-* [Inactivation of coronaviruses by biocidal agents in carrier tests](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1550.md)
-
 ## This Technology is identified by the following QID
 
 * [Q416475](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q416475.md)
+
+## Risks linked to this technology
+
+* [Inactivation of coronaviruses by biocidal agents in carrier tests](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1550.md)
 

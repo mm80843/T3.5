@@ -10,10 +10,10 @@ Reduces the survival of SARS-CoV-2 and other viruses, while minimizing the risk 
 
 * [2019 Novel Coronavirus (COVID-19) Pandemic: Built Environment Considerations To Reduce Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_288.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
 
 * [humidification systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3297.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

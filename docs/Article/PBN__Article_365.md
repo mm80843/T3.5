@@ -2,6 +2,10 @@
 
 # __The Participation of Biophilic Design in the Design of the Post-Pandemic Living Space:__
 
+## Year of publication
+
+2022
+
 ## Title of the article
 
 The Participation of Biophilic Design in the Design of the Post-Pandemic Living Space:
@@ -9,10 +13,6 @@ The Participation of Biophilic Design in the Design of the Post-Pandemic Living 
 ## DOI of the article
 
 10.4018/978-1-7998-6725-8.ch004
-
-## Year of publication
-
-2022
 
 ## Referenced by other articles
 

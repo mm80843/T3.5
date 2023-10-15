@@ -2,12 +2,12 @@
 
 # __hazardous waste treatment__
 
+## This Technology is identified by the following QID
+
+* [Q1069369](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1069369.md)
+
 ## Risks linked to this technology
 
 * [Improper disposal of pharmaceutical wastes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2315.md)
 * [Improper disposal of chemical wastes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2316.md)
-
-## This Technology is identified by the following QID
-
-* [Q1069369](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1069369.md)
 

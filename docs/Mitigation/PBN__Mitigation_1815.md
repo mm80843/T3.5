@@ -10,11 +10,11 @@ Face recognition technology can be used to track individuals who may be infected
 
 * [Recently employed engineering techniques to reduce the spread of COVID-19 (corona virus disease 2019): a review study](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_79.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
 
 * [ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_278.md)
 * [facial recognition systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1357.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

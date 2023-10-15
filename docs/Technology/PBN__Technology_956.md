@@ -2,11 +2,11 @@
 
 # __mobile banking__
 
-## Risks linked to this technology
-
-* [Increase in poverty](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_235.md)
-
 ## This Technology is identified by the following QID
 
 * [Q1941439](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1941439.md)
+
+## Risks linked to this technology
+
+* [Increase in poverty](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_235.md)
 

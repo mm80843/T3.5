@@ -2,9 +2,21 @@
 
 # __Transportation challenges for construction workers__
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Attractiveness](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_9.md)
+* [Developing alternative transportation options and ensuring safe access to construction sites.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2093.md)
+
+## People affected by this risk
+
+* [construction workers in cp](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1005.md)
+
+## Name of the risk
+
+Limited access to essential services and infrastructure, potential job losses for construction workers.
+
+## Description of the risk
+
+Decreased demand for public transportation and reduced travel have affected construction workers' ability to access construction sites.
 
 ## Property: has_RiskType
 
@@ -18,38 +30,26 @@
 * [government bodies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_976.md)
 * [transportation agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_734.md)
 
+## Property: has_RiskISO_Purpose
+
+* [Attractiveness](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_9.md)
+
 ## Property: has_RiskHealth
 
-
-## Description of the risk
-
-Decreased demand for public transportation and reduced travel have affected construction workers' ability to access construction sites.
-
-## Articles mentionning the risk
-
-* [Strategies to Mitigate COVID-19 Pandemic Impacts on Health and Safety of Workers in Construction Projects](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_268.md)
-
-## Technologies linked to the risk
-
-* [none](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
-
-## People affected by this risk
-
-* [construction workers in cp](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1005.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_8.md)
 
-## Mitigations of this risk
+## Articles mentionning the risk
 
-* [Developing alternative transportation options and ensuring safe access to construction sites.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2093.md)
+* [Strategies to Mitigate COVID-19 Pandemic Impacts on Health and Safety of Workers in Construction Projects](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_268.md)
 
 ## Property: has_RiskGBN
 
 * [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
-## Name of the risk
+## Technologies linked to the risk
 
-Limited access to essential services and infrastructure, potential job losses for construction workers.
+* [none](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
 

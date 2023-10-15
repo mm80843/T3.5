@@ -2,11 +2,11 @@
 
 # __governance mechanisms__
 
-## Risks linked to this technology
-
-* [Ethical considerations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_163.md)
-
 ## This Technology is identified by the following QID
 
 * [Q1553864](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1553864.md)
+
+## Risks linked to this technology
+
+* [Ethical considerations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_163.md)
 

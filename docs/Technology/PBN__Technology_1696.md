@@ -2,11 +2,11 @@
 
 # __digital fundraising tools__
 
-## Risks linked to this technology
-
-* [Decline in conservation revenue](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2174.md)
-
 ## This Technology is identified by the following QID
 
 * [Q1161355](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1161355.md)
+
+## Risks linked to this technology
+
+* [Decline in conservation revenue](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2174.md)
 

@@ -2,6 +2,10 @@
 
 # __improved evaluation and synthesis of preprint data__
 
+## This Technology belongs to this TechGroup
+
+* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_15.md)
+
 ## Risks linked to this technology
 
 * [Influence of preprints on public health decisions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2330.md)
@@ -9,10 +13,6 @@
 ## This Technology is identified by the following QID
 
 * [Q580922](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q580922.md)
-
-## This Technology belongs to this TechGroup
-
-* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_15.md)
 
 ## This Technology belongs to this TechSubgroup
 

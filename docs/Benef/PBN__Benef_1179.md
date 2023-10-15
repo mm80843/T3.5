@@ -2,19 +2,19 @@
 
 # __Increased social connections__
 
-## Articles mentionning this Benefit
-
-* [Non-medical Interventions to Reduce the Burden of Psychosocial and Economic Impacts of COVID-19 Pandemic: A Scope Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_243.md)
-
 ## Stakeholders benefitting from this Benefit
 
 * [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+
+## Name of the Benefit
+
+Increased social support and wellbeing through virtual communication
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improves mental health and social cohesion, leading to increased productivity and well-being](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1313.md)
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Increased social support and wellbeing through virtual communication
+* [Non-medical Interventions to Reduce the Burden of Psychosocial and Economic Impacts of COVID-19 Pandemic: A Scope Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_243.md)
 

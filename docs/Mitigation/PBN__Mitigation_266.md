@@ -10,9 +10,9 @@ Isolating infected individuals or those who have been exposed to the virus to pr
 
 * [A Surface Coating that Rapidly Inactivates SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_199.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
+
+
+## Risks possibly mitigated by this Mitigation
 
 

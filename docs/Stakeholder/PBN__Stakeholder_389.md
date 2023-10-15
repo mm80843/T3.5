@@ -12,6 +12,13 @@
 * [Enhanced business continuity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1038.md)
 * [Enhanced innovation and technological capacity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1039.md)
 
+## This Stakeholder belongs to this StakeholderSubgroup
+
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
+
 ## Risk affecting this stakeholder
 
 * [Disruption of supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1130.md)
@@ -25,11 +32,4 @@
 * [Concentration of suppliers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1837.md)
 * [Exposure to foreign shocks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1838.md)
 * [Air Pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1879.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
 

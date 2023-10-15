@@ -10,11 +10,11 @@ Installing high-efficiency air filtration systems helps to remove airborne parti
 
 * [Mobility Behaviour in View of the Impact of the COVID-19 Pandemic—Public Transport Users in Gdansk Case Study](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_113.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Increased energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1252.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_203.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Increased energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1252.md)
 

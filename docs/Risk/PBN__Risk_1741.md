@@ -2,9 +2,22 @@
 
 # __Inefficient ventilation systems__
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+* [Regular maintenance and inspection of ventilation systems, proper design and installation of ventilation systems, and use of high-efficiency air filters.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2309.md)
+
+## People affected by this risk
+
+* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
+* [particularly those in buildings with inadequate ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1163.md)
+
+## Name of the risk
+
+Increased risk of airborne transmission of diseases and respiratory health issues among occupants.
+
+## Description of the risk
+
+Poorly designed or maintained ventilation systems can lead to inadequate air circulation and compromised indoor air quality.
 
 ## Property: has_RiskType
 
@@ -17,41 +30,28 @@
 * [facility managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_166.md)
 * [hvac professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1164.md)
 
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
 ## Property: has_RiskHealth
 
 * [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Description of the risk
-
-Poorly designed or maintained ventilation systems can lead to inadequate air circulation and compromised indoor air quality.
-
-## Articles mentionning the risk
-
-* [Indoor Air Quality: Rethinking rules of building design strategies in post-pandemic architecture](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_206.md)
-
-## Technologies linked to the risk
-
-* [regular maintenance and inspection of ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1113.md)
-* [use of energy-efficient and properly sized ventilation equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1114.md)
-
-## People affected by this risk
-
-* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
-* [particularly those in buildings with inadequate ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1163.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Living and working environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_1.md)
 
-## Mitigations of this risk
+## Articles mentionning the risk
 
-* [Regular maintenance and inspection of ventilation systems, proper design and installation of ventilation systems, and use of high-efficiency air filters.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2309.md)
+* [Indoor Air Quality: Rethinking rules of building design strategies in post-pandemic architecture](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_206.md)
 
 ## Property: has_RiskGBN
 
 * [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
-## Name of the risk
+## Technologies linked to the risk
 
-Increased risk of airborne transmission of diseases and respiratory health issues among occupants.
+* [regular maintenance and inspection of ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1113.md)
+* [use of energy-efficient and properly sized ventilation equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1114.md)
 

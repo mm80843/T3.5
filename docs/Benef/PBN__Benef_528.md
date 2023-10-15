@@ -2,19 +2,19 @@
 
 # __Reduced poverty__
 
-## Articles mentionning this Benefit
-
-* [COVID-19 and the UN Sustainable Development Goals: Threat to Solidarity or an Opportunity?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_109.md)
-
 ## Stakeholders benefitting from this Benefit
 
 * [developing countries](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_223.md)
+
+## Name of the Benefit
+
+Reduced poverty levels and improved living conditions
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Reduction in poverty can lead to increased economic activity and social stability, benefiting both local communities and foreign investors.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_579.md)
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Reduced poverty levels and improved living conditions
+* [COVID-19 and the UN Sustainable Development Goals: Threat to Solidarity or an Opportunity?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_109.md)
 

@@ -2,11 +2,11 @@
 
 # __health screening technology__
 
-## Risks linked to this technology
-
-* [Population flow between cities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1651.md)
-
 ## This Technology is identified by the following QID
 
 * [Q1163564](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1163564.md)
+
+## Risks linked to this technology
+
+* [Population flow between cities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1651.md)
 

@@ -10,11 +10,11 @@ Critical infrastructure should have backup capabilities and systems that can tak
 
 * [Preparing critical infrastructure for the future: Lessons learnt from the Covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_129.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Disruption of main system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3365.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [backup systems and capabilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4305.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Disruption of main system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3365.md)
 

@@ -2,12 +2,12 @@
 
 # __contract management software__
 
+## This Technology is identified by the following QID
+
+* [Q831677](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q831677.md)
+
 ## Risks linked to this technology
 
 * [Contractual problems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_731.md)
 * [Legal and contractual disputes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1865.md)
-
-## This Technology is identified by the following QID
-
-* [Q831677](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q831677.md)
 

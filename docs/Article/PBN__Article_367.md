@@ -2,6 +2,10 @@
 
 # __Assessment of Building Automation and Control Systems in Danish Healthcare Facilities in the COVID-19 Era__
 
+## Year of publication
+
+2022
+
 ## Title of the article
 
 Assessment of Building Automation and Control Systems in Danish Healthcare Facilities in the COVID-19 Era
@@ -9,10 +13,6 @@ Assessment of Building Automation and Control Systems in Danish Healthcare Facil
 ## DOI of the article
 
 10.3390/app12010427
-
-## Year of publication
-
-2022
 
 ## Referenced by other articles
 

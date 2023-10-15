@@ -2,11 +2,11 @@
 
 # __urban planning and design strategies for green spaces__
 
-## Risks linked to this technology
-
-* [Lack of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1302.md)
-
 ## This Technology is identified by the following QID
 
 * [Q22652](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q22652.md)
+
+## Risks linked to this technology
+
+* [Lack of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1302.md)
 

@@ -2,9 +2,23 @@
 
 # __Inequalities in access to resources__
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
+* [Implement policies to address inequalities in access to resources, provide support to vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1454.md)
+
+## People affected by this risk
+
+* [marginalized communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_22.md)
+* [low-income populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_110.md)
+* [homeless individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_551.md)
+
+## Name of the risk
+
+Disparities in health outcomes, limited access to essential services
+
+## Description of the risk
+
+Unequal distribution of resources such as healthcare, sanitation, and housing in urban areas
 
 ## Property: has_RiskType
 
@@ -16,42 +30,28 @@
 * [ngos](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_234.md)
 * [community organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_150.md)
 
+## Property: has_RiskISO_Purpose
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
+
 ## Property: has_RiskHealth
 
 * [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Description of the risk
-
-Unequal distribution of resources such as healthcare, sanitation, and housing in urban areas
-
-## Articles mentionning the risk
-
-* [COVID-19: Lessons for an Urban(izing) World](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_85.md)
-
-## Technologies linked to the risk
-
-* [digital platforms for resource allocation and distribution](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_15.md)
-* [data-driven decision making](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_16.md)
-
-## People affected by this risk
-
-* [marginalized communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_22.md)
-* [low-income populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_110.md)
-* [homeless individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_551.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_4.md)
 
-## Mitigations of this risk
+## Articles mentionning the risk
 
-* [Implement policies to address inequalities in access to resources, provide support to vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1454.md)
+* [COVID-19: Lessons for an Urban(izing) World](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_85.md)
 
 ## Property: has_RiskGBN
 
 * [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
-## Name of the risk
+## Technologies linked to the risk
 
-Disparities in health outcomes, limited access to essential services
+* [digital platforms for resource allocation and distribution](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_15.md)
+* [data-driven decision making](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_16.md)
 

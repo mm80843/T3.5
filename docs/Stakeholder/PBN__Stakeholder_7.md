@@ -10,17 +10,17 @@
 
 * [Increased reporting of domestic violence](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_10.md)
 
-## Risk affecting this stakeholder
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Domestic violence increase](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1139.md)
-* [Increase in domestic violence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1438.md)
-* [Impact on family dynamics: domestic violence & home video-gaming](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1817.md)
+* [Personal Safety and Security](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_113.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## Risk affecting this stakeholder
 
-* [Personal Safety and Security](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_113.md)
+* [Domestic violence increase](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1139.md)
+* [Increase in domestic violence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1438.md)
+* [Impact on family dynamics: domestic violence & home video-gaming](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1817.md)
 

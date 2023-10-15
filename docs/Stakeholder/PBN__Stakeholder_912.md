@@ -6,18 +6,18 @@
 
 * [Q11755880](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q11755880.md)
 
-## Risk affecting this stakeholder
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Limited sensor capability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1404.md)
-* [Information asymmetry between occupants and indoor environmental data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1406.md)
+* [Occupants](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_55.md)
+* [Public and Municipal Services](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_9.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
 * [Building Occupants](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_11.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## Risk affecting this stakeholder
 
-* [Occupants](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_55.md)
-* [Public and Municipal Services](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_9.md)
+* [Limited sensor capability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1404.md)
+* [Information asymmetry between occupants and indoor environmental data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1406.md)
 

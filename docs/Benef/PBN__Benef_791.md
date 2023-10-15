@@ -2,19 +2,19 @@
 
 # __Improved flexibility and agility__
 
-## Articles mentionning this Benefit
-
-* [Startups in times of crisis – A rapid response to the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_158.md)
-
 ## Stakeholders benefitting from this Benefit
 
 * [startups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_322.md)
+
+## Name of the Benefit
+
+Adapting organizational structures and processes to navigate disruption
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Enhanced ability to respond to changing circumstances and seize opportunities](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_859.md)
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Adapting organizational structures and processes to navigate disruption
+* [Startups in times of crisis – A rapid response to the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_158.md)
 

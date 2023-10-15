@@ -14,6 +14,14 @@
 * [Knowledge sharing and research development](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1022.md)
 * [Access to real-time data](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1050.md)
 
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Scientific Research](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_39.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
+
 ## Risk affecting this stakeholder
 
 * [Spread of fraudulent studies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_615.md)
@@ -62,12 +70,4 @@
 * [Tissue tropism and pathogenesis of SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2360.md)
 * [Key factors of COVID-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2361.md)
 * [Knowledge gaps and future threats](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2362.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Scientific Research](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_39.md)
 

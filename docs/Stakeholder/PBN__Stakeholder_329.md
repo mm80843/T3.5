@@ -9,6 +9,14 @@
 * [Simulation and prediction](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_812.md)
 * [Reduction in leaks](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1003.md)
 
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Water Utilities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_163.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Environmental Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_13.md)
+
 ## Risk affecting this stakeholder
 
 * [Water quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_714.md)
@@ -34,12 +42,4 @@
 * [Value-based decision-making and policy support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1922.md)
 * [Data quality and accuracy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1923.md)
 * [Climate change adaptation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1924.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Environmental Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_13.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Water Utilities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_163.md)
 

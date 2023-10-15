@@ -10,12 +10,12 @@ Standardize protocols for seamless sharing of urban health data to monitor and a
 
 * [On the Coronavirus (COVID-19) Outbreak and the Smart City Network: Universal Data Sharing Standards Coupled with Artificial Intelligence (AI) to Benefit Urban Health Monitoring and Management](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_280.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2439.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [quantum cryptography](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_95.md)
 * [blockchain technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2966.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2439.md)
 

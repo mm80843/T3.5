@@ -10,9 +10,9 @@ Selecting rooms that are large enough and equipped with necessary devices to acc
 
 * [Rapid expansion of temporary, reliable airborne-infection isolation rooms with negative air machines for critical COVID-19 patients](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_77.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
+
+
+## Risks possibly mitigated by this Mitigation
 
 

@@ -2,12 +2,6 @@
 
 # __artificial intelligence (ai)__
 
-## Risks linked to this technology
-
-* [Limited diagnostic and screening tests](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2185.md)
-* [Increased clinical load](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2187.md)
-* [Lack of novel treatment options](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2189.md)
-
 ## This Technology is identified by the following QID
 
 * [Q11660](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q11660.md)
@@ -19,4 +13,10 @@
 * [AI algorithms for triage](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2115.md)
 * [AI-based triage systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2117.md)
 * [Machine learning and artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_287.md)
+
+## Risks linked to this technology
+
+* [Limited diagnostic and screening tests](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2185.md)
+* [Increased clinical load](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2187.md)
+* [Lack of novel treatment options](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2189.md)
 

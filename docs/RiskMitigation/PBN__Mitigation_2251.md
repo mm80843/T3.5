@@ -10,9 +10,6 @@ Harnessing new-generation technologies to improve response capabilities and addr
 
 * [Emerging Technologies to Combat the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_116.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
 
 * [blockchain](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_94.md)
@@ -20,4 +17,7 @@ Harnessing new-generation technologies to improve response capabilities and addr
 * [cloud computing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1232.md)
 * [additive manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2012.md)
 * [internet of things](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2919.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

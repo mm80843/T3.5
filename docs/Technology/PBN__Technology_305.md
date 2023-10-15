@@ -2,11 +2,11 @@
 
 # __pre-booking of seats__
 
-## Risks linked to this technology
-
-* [Fear of using public transport](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1218.md)
-
 ## This Technology is identified by the following QID
 
 * [Q1122556](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1122556.md)
+
+## Risks linked to this technology
+
+* [Fear of using public transport](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1218.md)
 

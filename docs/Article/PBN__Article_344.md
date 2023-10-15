@@ -2,6 +2,10 @@
 
 # __A critical analysis of the impacts of COVID-19 on the global economy and ecosystems and opportunities for circular economy strategies__
 
+## Year of publication
+
+2021
+
 ## Title of the article
 
 A critical analysis of the impacts of COVID-19 on the global economy and ecosystems and opportunities for circular economy strategies
@@ -9,10 +13,6 @@ A critical analysis of the impacts of COVID-19 on the global economy and ecosyst
 ## DOI of the article
 
 10.1016/j.resconrec.2020.105169
-
-## Year of publication
-
-2021
 
 ## Referenced by other articles
 

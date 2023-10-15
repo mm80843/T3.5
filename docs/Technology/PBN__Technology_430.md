@@ -2,11 +2,11 @@
 
 # __job search platforms__
 
-## Risks linked to this technology
-
-* [Financial constraints](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1294.md)
-
 ## This Technology is identified by the following QID
 
 * [Q629194](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q629194.md)
+
+## Risks linked to this technology
+
+* [Financial constraints](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1294.md)
 

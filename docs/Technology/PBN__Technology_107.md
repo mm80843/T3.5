@@ -2,6 +2,10 @@
 
 # __limits on data use__
 
+## This Technology belongs to this TechGroup
+
+* [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_5.md)
+
 ## Risks linked to this technology
 
 * [Lack of control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1072.md)
@@ -9,10 +13,6 @@
 ## This Technology is identified by the following QID
 
 * [Q23647168](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q23647168.md)
-
-## This Technology belongs to this TechGroup
-
-* [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_5.md)
 
 ## This Technology belongs to this TechSubgroup
 

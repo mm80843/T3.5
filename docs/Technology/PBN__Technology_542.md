@@ -2,11 +2,11 @@
 
 # __spatial analysis tools__
 
-## Risks linked to this technology
-
-* [Spatial variation in HIV prevalence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1347.md)
-
 ## This Technology is identified by the following QID
 
 * [Q1938983](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1938983.md)
+
+## Risks linked to this technology
+
+* [Spatial variation in HIV prevalence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1347.md)
 

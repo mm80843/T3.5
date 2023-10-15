@@ -2,9 +2,24 @@
 
 # __Persistence of SARS-CoV-2 on surfaces__
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
+* [Implement regular cleaning and disinfection protocols, promote good hand hygiene, and encourage the use of protective barriers and personal protective equipment.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1590.md)
+
+## People affected by this risk
+
+* [customers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_221.md)
+* [individuals who come into contact with contaminated surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_667.md)
+* [such as employees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_668.md)
+* [visitors in various indoor settings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_669.md)
+
+## Name of the risk
+
+Extended survival of the virus on surfaces, leading to potential transmission and infection.
+
+## Description of the risk
+
+SARS-CoV-2 can persist on fomites such as plastic, metal, and fabrics for several days, increasing the risk of transmission through contact with contaminated surfaces.
 
 ## Property: has_RiskType
 
@@ -17,44 +32,29 @@
 * [cleaning staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_656.md)
 * [individuals responsible for maintaining cleanliness and hygiene in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_670.md)
 
+## Property: has_RiskISO_Purpose
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
+
 ## Property: has_RiskHealth
 
 * [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
-## Description of the risk
+## Property: has_RiskISO_Impact
 
-SARS-CoV-2 can persist on fomites such as plastic, metal, and fabrics for several days, increasing the risk of transmission through contact with contaminated surfaces.
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
 
 ## Articles mentionning the risk
 
 * [Environmental factors involved in SARS-CoV-2 transmission: effect and role of indoor environmental quality in the strategy for COVID-19 infection control](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_249.md)
+
+## Property: has_RiskGBN
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
 ## Technologies linked to the risk
 
 * [cleaning and disinfection products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_227.md)
 * [antimicrobial surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_228.md)
 * [protective barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_229.md)
-
-## People affected by this risk
-
-* [customers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_221.md)
-* [individuals who come into contact with contaminated surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_667.md)
-* [such as employees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_668.md)
-* [visitors in various indoor settings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_669.md)
-
-## Property: has_RiskISO_Impact
-
-* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
-
-## Mitigations of this risk
-
-* [Implement regular cleaning and disinfection protocols, promote good hand hygiene, and encourage the use of protective barriers and personal protective equipment.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1590.md)
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
-## Name of the risk
-
-Extended survival of the virus on surfaces, leading to potential transmission and infection.
 

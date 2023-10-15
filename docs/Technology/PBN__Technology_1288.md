@@ -2,11 +2,11 @@
 
 # __mental health interventions__
 
-## Risks linked to this technology
-
-* [Suicidal ideation from economic crisis and uncertainties](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1903.md)
-
 ## This Technology is identified by the following QID
 
 * [Q5097917](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5097917.md)
+
+## Risks linked to this technology
+
+* [Suicidal ideation from economic crisis and uncertainties](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1903.md)
 

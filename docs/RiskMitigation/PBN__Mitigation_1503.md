@@ -10,11 +10,11 @@ Improving public transportation infrastructure and services can reduce immigrant
 
 * [What has been the impact of the COVID-19 pandemic on immigrants? An update on recent evidence](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_287.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Higher dependency on public transport](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3106.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2911.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Higher dependency on public transport](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3106.md)
 

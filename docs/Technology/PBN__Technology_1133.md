@@ -2,11 +2,11 @@
 
 # __demand forecasting and planning software__
 
-## Risks linked to this technology
-
-* [Changes in demand patterns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1772.md)
-
 ## This Technology is identified by the following QID
 
 * [Q3409300](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3409300.md)
+
+## Risks linked to this technology
+
+* [Changes in demand patterns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1772.md)
 

@@ -2,11 +2,11 @@
 
 # __communal rooftops__
 
-## Risks linked to this technology
-
-* [Limited access to nature](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1891.md)
-
 ## This Technology is identified by the following QID
 
 * [Q1156696](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1156696.md)
+
+## Risks linked to this technology
+
+* [Limited access to nature](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1891.md)
 

@@ -2,11 +2,11 @@
 
 # __research and testing__
 
-## Risks linked to this technology
-
-* [Safety concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1795.md)
-
 ## This Technology is identified by the following QID
 
 * [Q42240](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q42240.md)
+
+## Risks linked to this technology
+
+* [Safety concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1795.md)
 

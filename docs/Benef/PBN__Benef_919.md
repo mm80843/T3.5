@@ -2,10 +2,6 @@
 
 # __Safer and more effective disinfection__
 
-## Articles mentionning this Benefit
-
-* [Graphene-based nanomaterials as antimicrobial surface coatings: A parallel approach to restrain the expansion of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_187.md)
-
 ## Stakeholders benefitting from this Benefit
 
 * [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
@@ -13,11 +9,15 @@
 * [schools](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_366.md)
 * [public places](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_367.md)
 
+## Name of the Benefit
+
+Graphene-based coatings can provide long-lasting disinfection with low toxicity, reducing the need for harmful chemical disinfectants and minimizing side effects.
+
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors can benefit from the increased demand for and sales of graphene-based coatings as a safer and more effective alternative to traditional disinfection methods.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1008.md)
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Graphene-based coatings can provide long-lasting disinfection with low toxicity, reducing the need for harmful chemical disinfectants and minimizing side effects.
+* [Graphene-based nanomaterials as antimicrobial surface coatings: A parallel approach to restrain the expansion of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_187.md)
 

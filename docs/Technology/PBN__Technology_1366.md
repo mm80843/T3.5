@@ -2,11 +2,11 @@
 
 # __remote monitoring and tracking technologies__
 
-## Risks linked to this technology
-
-* [Workforce Distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1953.md)
-
 ## This Technology is identified by the following QID
 
 * [Q3546700](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3546700.md)
+
+## Risks linked to this technology
+
+* [Workforce Distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1953.md)
 

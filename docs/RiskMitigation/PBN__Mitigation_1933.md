@@ -10,12 +10,12 @@ Uses smart connected devices for rapid and accurate screening of COVID-19
 
 * [Internet of things (IoT) applications to fight against COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_295.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Diagnostic Accuracy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3291.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_277.md)
 * [diagnostic devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4148.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Diagnostic Accuracy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3291.md)
 

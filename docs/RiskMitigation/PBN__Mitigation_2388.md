@@ -10,10 +10,10 @@ ITNs are bed nets that are treated with insecticides, usually pyrethroids, to re
 
 * [The importance of vector control for the control and elimination of vector-borne diseases](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_64.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
 
 * [insecticide-treated bed nets](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4455.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

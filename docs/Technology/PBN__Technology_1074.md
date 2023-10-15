@@ -2,11 +2,11 @@
 
 # __mobile fitness applications__
 
-## Risks linked to this technology
-
-* [Reduction of physical activity during quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1713.md)
-
 ## This Technology is identified by the following QID
 
 * [Q16001686](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q16001686.md)
+
+## Risks linked to this technology
+
+* [Reduction of physical activity during quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1713.md)
 

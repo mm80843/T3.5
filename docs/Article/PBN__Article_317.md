@@ -2,6 +2,10 @@
 
 # __A Review on Building Design as a Biomedical System for Preventing COVID-19 Pandemic__
 
+## Year of publication
+
+2022
+
 ## Title of the article
 
 A Review on Building Design as a Biomedical System for Preventing COVID-19 Pandemic
@@ -9,10 +13,6 @@ A Review on Building Design as a Biomedical System for Preventing COVID-19 Pande
 ## DOI of the article
 
 10.3390/buildings12050582
-
-## Year of publication
-
-2022
 
 ## Referenced by other articles
 

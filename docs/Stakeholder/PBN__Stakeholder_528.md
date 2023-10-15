@@ -11,6 +11,14 @@
 
 * [Risk mitigation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_680.md)
 
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Business and Financial Services](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_58.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
+
 ## Risk affecting this stakeholder
 
 * [Varying credit guarantee ratios](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2162.md)
@@ -18,12 +26,4 @@
 ## Risks that can be mitigated by this stakeholder
 
 * [Increase in default risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2159.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Business and Financial Services](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_58.md)
 

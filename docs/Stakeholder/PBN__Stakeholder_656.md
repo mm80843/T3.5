@@ -6,6 +6,14 @@
 
 * [Q2590801](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2590801.md)
 
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Specific Roles and Job Titles](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_21.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_2.md)
+
 ## Risk affecting this stakeholder
 
 * [Neglecting standard cleaning practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1170.md)
@@ -45,12 +53,4 @@
 * [Lack of hygiene and cleanliness protocols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2048.md)
 * [Surface stability of SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2271.md)
 * [Variability of virus stability on different surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2272.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_2.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Specific Roles and Job Titles](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_21.md)
 

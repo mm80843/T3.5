@@ -10,12 +10,12 @@ To avoid high humidity and virus accumulation, openings such as windows should b
 
 * [Biophilic Design to Enhance Residence Comfort in Covid Era](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_179.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [High humidity in room, virus accumulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2949.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_140.md)
 * [openings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3702.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [High humidity in room, virus accumulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2949.md)
 

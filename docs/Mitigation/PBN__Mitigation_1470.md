@@ -10,11 +10,11 @@ Accurate information on the importance of hand washing for prevention of coronav
 
 * [COVID-19 misinformation: Accuracy of articles about coronavirus prevention mostly shared on social media](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_283.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
 
 * [soap](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3086.md)
 * [water](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3087.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

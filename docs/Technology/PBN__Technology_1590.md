@@ -2,11 +2,11 @@
 
 # __standardization and regulation__
 
-## Risks linked to this technology
-
-* [Legal and regulatory dimension](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2098.md)
-
 ## This Technology is identified by the following QID
 
 * [Q369577](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q369577.md)
+
+## Risks linked to this technology
+
+* [Legal and regulatory dimension](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2098.md)
 

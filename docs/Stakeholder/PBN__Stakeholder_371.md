@@ -13,16 +13,16 @@
 * [New business opportunities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_948.md)
 * [Business liquidity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_949.md)
 
-## Risk affecting this stakeholder
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Economic recession](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1008.md)
-* [Decline in retail sales](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2231.md)
+* [Business and Financial Services](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_58.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## Risk affecting this stakeholder
 
-* [Business and Financial Services](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_58.md)
+* [Economic recession](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1008.md)
+* [Decline in retail sales](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2231.md)
 

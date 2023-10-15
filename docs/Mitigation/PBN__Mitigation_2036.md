@@ -10,13 +10,13 @@ Use appropriate PPE to protect against COVID-19 transmission
 
 * [Preventing and Controlling COVID-19: A Practical-Based Review in Offshore Workplace](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_102.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Disease transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_489.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1053.md)
 * [face shields](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_486.md)
 * [respirators](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_485.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Disease transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_489.md)
 

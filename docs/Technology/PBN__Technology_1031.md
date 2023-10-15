@@ -2,11 +2,11 @@
 
 # __technology for disease surveillance and contact tracing__
 
-## Risks linked to this technology
-
-* [Spread of contagious diseases in densely populated areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1685.md)
-
 ## This Technology is identified by the following QID
 
 * [Q3555250](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3555250.md)
+
+## Risks linked to this technology
+
+* [Spread of contagious diseases in densely populated areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1685.md)
 

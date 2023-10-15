@@ -2,11 +2,11 @@
 
 # __advanced antiviral technologies__
 
-## Risks linked to this technology
-
-* [Limited efficacy against specific viruses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1512.md)
-
 ## This Technology is identified by the following QID
 
 * [Q40207875](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q40207875.md)
+
+## Risks linked to this technology
+
+* [Limited efficacy against specific viruses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1512.md)
 

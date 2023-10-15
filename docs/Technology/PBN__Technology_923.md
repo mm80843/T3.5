@@ -2,6 +2,11 @@
 
 # __landscaping techniques__
 
+## This Technology belongs to this TechGroup
+
+* [Urban technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_14.md)
+* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
+
 ## Risks linked to this technology
 
 * [Lack of access to green areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1605.md)
@@ -9,11 +14,6 @@
 ## This Technology is identified by the following QID
 
 * [Q8070591](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q8070591.md)
-
-## This Technology belongs to this TechGroup
-
-* [Urban technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_14.md)
-* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
 
 ## This Technology belongs to this TechSubgroup
 

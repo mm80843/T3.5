@@ -2,6 +2,10 @@
 
 # __A Comprehensive Review of the COVID-19 Pandemic and the Role of IoT, Drones, AI, Blockchain, and 5G in Managing its Impact__
 
+## Year of publication
+
+2020
+
 ## Title of the article
 
 A Comprehensive Review of the COVID-19 Pandemic and the Role of IoT, Drones, AI, Blockchain, and 5G in Managing its Impact
@@ -9,10 +13,6 @@ A Comprehensive Review of the COVID-19 Pandemic and the Role of IoT, Drones, AI,
 ## DOI of the article
 
 10.1109/ACCESS.2020.2992341
-
-## Year of publication
-
-2020
 
 ## Referenced by other articles
 

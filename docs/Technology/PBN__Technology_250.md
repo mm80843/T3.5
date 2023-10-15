@@ -2,11 +2,11 @@
 
 # __outdoor gathering spaces__
 
-## Risks linked to this technology
-
-* [Overcrowding and lack of ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1164.md)
-
 ## This Technology is identified by the following QID
 
 * [Q116893334](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q116893334.md)
+
+## Risks linked to this technology
+
+* [Overcrowding and lack of ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1164.md)
 

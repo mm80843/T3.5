@@ -2,11 +2,11 @@
 
 # __forecasting software and algorithms__
 
-## Risks linked to this technology
-
-* [Inaccurate forecasting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2365.md)
-
 ## This Technology is identified by the following QID
 
 * [Q7216332](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7216332.md)
+
+## Risks linked to this technology
+
+* [Inaccurate forecasting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2365.md)
 

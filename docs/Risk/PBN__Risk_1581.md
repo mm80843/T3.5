@@ -2,8 +2,21 @@
 
 # __Management__
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
+* [Provide clear SOP guidelines and assist with management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2113.md)
+
+## People affected by this risk
+
+* [contractors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_179.md)
+
+## Name of the risk
+
+Uncertainty in operations and increased costs for contractors
+
+## Description of the risk
+
+Difficulty in managing workforce and compliance with SOP guidelines
 
 ## Property: has_RiskType
 
@@ -14,39 +27,26 @@
 * [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
 * [contracting clients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1018.md)
 
+## Property: has_RiskISO_Purpose
+
+
 ## Property: has_RiskHealth
 
 * [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
 
-## Description of the risk
+## Property: has_RiskISO_Impact
 
-Difficulty in managing workforce and compliance with SOP guidelines
 
 ## Articles mentionning the risk
 
 * [Mechanisms for addressing the impact of COVID-19 on infrastructure projects](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_115.md)
 
-## Technologies linked to the risk
-
-* [access control systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_164.md)
-* [officer assistance at project sites](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_885.md)
-
-## People affected by this risk
-
-* [contractors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_179.md)
-
-## Property: has_RiskISO_Impact
-
-
-## Mitigations of this risk
-
-* [Provide clear SOP guidelines and assist with management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2113.md)
-
 ## Property: has_RiskGBN
 
 * [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Name of the risk
+## Technologies linked to the risk
 
-Uncertainty in operations and increased costs for contractors
+* [access control systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_164.md)
+* [officer assistance at project sites](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_885.md)
 

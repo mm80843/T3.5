@@ -2,9 +2,22 @@
 
 # __Disease severity in re-infected patients__
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
+* [Conduct comparative studies on disease severity between re-infected and initially infected patients.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2515.md)
+
+## People affected by this risk
+
+* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+* [re-infected patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1295.md)
+
+## Name of the risk
+
+Difficulty in assessing the impact of re-infections on disease severity.
+
+## Description of the risk
+
+Unclear difference in disease severity between re-infected patients and patients with initial infection.
 
 ## Property: has_RiskType
 
@@ -15,40 +28,27 @@
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
 * [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
 
+## Property: has_RiskISO_Purpose
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
+
 ## Property: has_RiskHealth
 
 * [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Description of the risk
-
-Unclear difference in disease severity between re-infected patients and patients with initial infection.
-
-## Articles mentionning the risk
-
-* [Contributions to the mitigation of the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_245.md)
-
-## Technologies linked to the risk
-
-* [comparative studies and data analysis technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1311.md)
-
-## People affected by this risk
-
-* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
-* [re-infected patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1295.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
 
-## Mitigations of this risk
+## Articles mentionning the risk
 
-* [Conduct comparative studies on disease severity between re-infected and initially infected patients.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2515.md)
+* [Contributions to the mitigation of the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_245.md)
 
 ## Property: has_RiskGBN
 
 * [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
-## Name of the risk
+## Technologies linked to the risk
 
-Difficulty in assessing the impact of re-infections on disease severity.
+* [comparative studies and data analysis technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1311.md)
 

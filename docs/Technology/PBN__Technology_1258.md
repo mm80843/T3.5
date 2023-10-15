@@ -2,11 +2,11 @@
 
 # __multilingual communication platforms__
 
-## Risks linked to this technology
-
-* [High population of foreign nationals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1885.md)
-
 ## This Technology is identified by the following QID
 
 * [Q20923490](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q20923490.md)
+
+## Risks linked to this technology
+
+* [High population of foreign nationals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1885.md)
 

@@ -2,11 +2,11 @@
 
 # __public communication campaigns__
 
-## Risks linked to this technology
-
-* [Unclear risk messages](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2391.md)
-
 ## This Technology is identified by the following QID
 
 * [Q847301](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q847301.md)
+
+## Risks linked to this technology
+
+* [Unclear risk messages](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2391.md)
 

@@ -2,10 +2,6 @@
 
 # __transparency__
 
-## Risks linked to this technology
-
-* [Peer-review failures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2332.md)
-
 ## This Technology is identified by the following QID
 
 * [Q487623](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q487623.md)
@@ -13,4 +9,8 @@
 ## This Technology enables the following mitigations
 
 * [Position the KT platform as a credible source](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_608.md)
+
+## Risks linked to this technology
+
+* [Peer-review failures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2332.md)
 

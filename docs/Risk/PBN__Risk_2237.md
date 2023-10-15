@@ -2,9 +2,21 @@
 
 # __Quality__
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+* [Improve quality and maintenance of greenspaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2916.md)
+
+## People affected by this risk
+
+* [residents of low-income neighborhoods](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_132.md)
+
+## Name of the risk
+
+Limited access to high-quality greenspaces
+
+## Description of the risk
+
+Low-income neighborhoods have lower quality and frequency of parks
 
 ## Property: has_RiskType
 
@@ -16,37 +28,25 @@
 * [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
 * [park maintenance organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1499.md)
 
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
 ## Property: has_RiskHealth
 
-
-## Description of the risk
-
-Low-income neighborhoods have lower quality and frequency of parks
-
-## Articles mentionning the risk
-
-* [The health benefits of the great outdoors: A systematic review and meta-analysis of greenspace exposure and health outcomes](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_50.md)
-
-## Technologies linked to the risk
-
-
-## People affected by this risk
-
-* [residents of low-income neighborhoods](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_132.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_5.md)
 
-## Mitigations of this risk
+## Articles mentionning the risk
 
-* [Improve quality and maintenance of greenspaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2916.md)
+* [The health benefits of the great outdoors: A systematic review and meta-analysis of greenspace exposure and health outcomes](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_50.md)
 
 ## Property: has_RiskGBN
 
 * [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
-## Name of the risk
+## Technologies linked to the risk
 
-Limited access to high-quality greenspaces
 

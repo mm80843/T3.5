@@ -2,11 +2,11 @@
 
 # __advanced data analysis and modeling techniques can be used to study the relationship between ah__
 
-## Risks linked to this technology
-
-* [Relationship between AH, RH, and temperature](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1706.md)
-
 ## This Technology is identified by the following QID
 
 * [Q367664](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q367664.md)
+
+## Risks linked to this technology
+
+* [Relationship between AH, RH, and temperature](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1706.md)
 

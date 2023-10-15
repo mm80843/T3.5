@@ -2,6 +2,10 @@
 
 # __tracking systems__
 
+## This Technology belongs to this TechGroup
+
+* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
+
 ## Risks linked to this technology
 
 * [Delay in delivery of construction materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2068.md)
@@ -9,10 +13,6 @@
 ## This Technology is identified by the following QID
 
 * [Q2699839](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2699839.md)
-
-## This Technology belongs to this TechGroup
-
-* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
 
 ## This Technology belongs to this TechSubgroup
 

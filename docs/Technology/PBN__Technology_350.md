@@ -2,6 +2,11 @@
 
 # __disinfection technologies__
 
+## This Technology belongs to this TechGroup
+
+* [Enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_7.md)
+* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_15.md)
+
 ## Risks linked to this technology
 
 * [Spread of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_91.md)
@@ -13,11 +18,6 @@
 ## This Technology is identified by the following QID
 
 * [Q24887418](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q24887418.md)
-
-## This Technology belongs to this TechGroup
-
-* [Enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_7.md)
-* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_15.md)
 
 ## This Technology belongs to this TechSubgroup
 

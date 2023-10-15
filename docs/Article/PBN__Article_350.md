@@ -6,11 +6,11 @@
 
 10.1016/B978-0-12-818886-6.00016-2
 
-## Year of publication
-
-2021
-
 ## Title of the article
 
 Smart cities beyond COVID-19
+
+## Year of publication
+
+2021
 

@@ -10,11 +10,11 @@ Enable individuals to receive necessary healthcare and treatment at home, reduci
 
 * [Houses amid COVID-19: Environmental challenges and design adaptation](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_277.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Overburdened healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2740.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [home-based healthcare technologies and methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3452.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Overburdened healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2740.md)
 

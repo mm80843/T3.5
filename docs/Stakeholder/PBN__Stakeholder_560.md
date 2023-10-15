@@ -7,6 +7,14 @@
 * [Q22813352](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q22813352.md)
 * [Q4791903](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4791903.md)
 
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Travellers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_145.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
+
 ## Risk affecting this stakeholder
 
 * [Health Risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_83.md)
@@ -22,12 +30,4 @@
 * [Global mobility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2073.md)
 * [Globalization and travel](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2081.md)
 * [Travel transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2178.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Travellers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_145.md)
 

@@ -2,11 +2,11 @@
 
 # __public space design with social distancing in mind__
 
-## Risks linked to this technology
-
-* [Social interaction and engagement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2030.md)
-
 ## This Technology is identified by the following QID
 
 * [Q294440](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q294440.md)
+
+## Risks linked to this technology
+
+* [Social interaction and engagement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2030.md)
 

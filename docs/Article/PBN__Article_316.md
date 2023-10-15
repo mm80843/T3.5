@@ -2,6 +2,10 @@
 
 # __COVID-19 Could Leverage a Sustainable Built Environment__
 
+## Year of publication
+
+2020
+
 ## Title of the article
 
 COVID-19 Could Leverage a Sustainable Built Environment
@@ -9,10 +13,6 @@ COVID-19 Could Leverage a Sustainable Built Environment
 ## DOI of the article
 
 10.3390/su12145863
-
-## Year of publication
-
-2020
 
 ## Referenced by other articles
 

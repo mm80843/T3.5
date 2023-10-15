@@ -2,11 +2,11 @@
 
 # __performance tracking tools__
 
-## Risks linked to this technology
-
-* [Superior performance of actively managed funds](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1979.md)
-
 ## This Technology is identified by the following QID
 
 * [Q860554](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q860554.md)
+
+## Risks linked to this technology
+
+* [Superior performance of actively managed funds](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1979.md)
 

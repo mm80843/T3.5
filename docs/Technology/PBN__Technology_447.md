@@ -2,11 +2,11 @@
 
 # __partnership agreements__
 
-## Risks linked to this technology
-
-* [Reduction in official development aid and philanthropy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1299.md)
-
 ## This Technology is identified by the following QID
 
 * [Q728646](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q728646.md)
+
+## Risks linked to this technology
+
+* [Reduction in official development aid and philanthropy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1299.md)
 

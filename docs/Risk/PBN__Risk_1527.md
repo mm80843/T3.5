@@ -2,9 +2,23 @@
 
 # __Limited site access__
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+* [Implement safety protocols, limit number of workers on site](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2054.md)
+
+## People affected by this risk
+
+* [operations team](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_293.md)
+* [site engineers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_981.md)
+* [surveyors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_982.md)
+
+## Name of the risk
+
+Construction delays, productivity decrease
+
+## Description of the risk
+
+Restrictions on physical access to construction sites
 
 ## Property: has_RiskType
 
@@ -16,42 +30,28 @@
 * [clients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_297.md)
 * [construction managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_983.md)
 
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
 ## Property: has_RiskHealth
 
 * [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Description of the risk
-
-Restrictions on physical access to construction sites
-
-## Articles mentionning the risk
-
-* [The impact of COVID-19 outbreak on United Kingdom infrastructure sector](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_141.md)
-
-## Technologies linked to the risk
-
-* [access control measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_329.md)
-* [safety protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_812.md)
-
-## People affected by this risk
-
-* [operations team](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_293.md)
-* [site engineers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_981.md)
-* [surveyors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_982.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Innovation, Creativity and research](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_2.md)
 
-## Mitigations of this risk
+## Articles mentionning the risk
 
-* [Implement safety protocols, limit number of workers on site](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2054.md)
+* [The impact of COVID-19 outbreak on United Kingdom infrastructure sector](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_141.md)
 
 ## Property: has_RiskGBN
 
 * [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
-## Name of the risk
+## Technologies linked to the risk
 
-Construction delays, productivity decrease
+* [access control measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_329.md)
+* [safety protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_812.md)
 

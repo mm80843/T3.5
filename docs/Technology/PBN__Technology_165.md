@@ -2,6 +2,10 @@
 
 # __surveillance cameras__
 
+## This Technology enables the following mitigations
+
+* [Limited access nodes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_406.md)
+
 ## Risks linked to this technology
 
 * [Limited access nodes for better management of Public Places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_263.md)
@@ -13,8 +17,4 @@
 * [Failure to detect non-compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1947.md)
 * [Contagious disease transmission in built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2069.md)
 * [Lack of social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2071.md)
-
-## This Technology enables the following mitigations
-
-* [Limited access nodes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_406.md)
 

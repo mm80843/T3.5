@@ -2,14 +2,14 @@
 
 # __IoT protocols__
 
-## This Technology is identified by the following QID
-
-* [Q251212](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q251212.md)
-
 ## This Technology belongs to this TechGroup
 
 * [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
 * [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_5.md)
+
+## This Technology is identified by the following QID
+
+* [Q251212](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q251212.md)
 
 ## This Technology belongs to this TechSubgroup
 

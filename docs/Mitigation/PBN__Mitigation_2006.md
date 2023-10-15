@@ -10,12 +10,12 @@ Provide safe and socially distanced outdoor spaces in apartment complexes and ot
 
 * [Designing for COVID-2x: Reflecting on Future-Proofing Human Habitation for the Inevitable Next Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_149.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2463.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [social pods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4193.md)
 * [covered spaces with soft walls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4194.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2463.md)
 

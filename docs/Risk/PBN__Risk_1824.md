@@ -2,9 +2,22 @@
 
 # __Lack of knowledge about the benefits of urban green spaces__
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Preservation and improvement of the environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_6.md)
+* [Increase public awareness and education about the benefits of urban green spaces through targeted campaigns and community outreach](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2410.md)
+
+## People affected by this risk
+
+* [residents of urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1227.md)
+* [especially those in underserved communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1232.md)
+
+## Name of the risk
+
+Missed opportunities for improving well-being and health outcomes
+
+## Description of the risk
+
+Limited awareness and understanding of the mental and physical health benefits of urban green spaces
 
 ## Property: has_RiskType
 
@@ -17,42 +30,29 @@
 * [community organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_150.md)
 * [health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_422.md)
 
+## Property: has_RiskISO_Purpose
+
+* [Preservation and improvement of the environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_6.md)
+
 ## Property: has_RiskHealth
 
 * [physical and mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_7.md)
 
-## Description of the risk
+## Property: has_RiskISO_Impact
 
-Limited awareness and understanding of the mental and physical health benefits of urban green spaces
+* [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_4.md)
 
 ## Articles mentionning the risk
 
 * [The impact of the COVID-19 pandemic on the importance of urban green spaces to the public](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_203.md)
+
+## Property: has_RiskGBN
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
 ## Technologies linked to the risk
 
 * [online resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_224.md)
 * [educational campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_251.md)
 * [community workshops](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1182.md)
-
-## People affected by this risk
-
-* [residents of urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1227.md)
-* [especially those in underserved communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1232.md)
-
-## Property: has_RiskISO_Impact
-
-* [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_4.md)
-
-## Mitigations of this risk
-
-* [Increase public awareness and education about the benefits of urban green spaces through targeted campaigns and community outreach](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2410.md)
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
-## Name of the risk
-
-Missed opportunities for improving well-being and health outcomes
 

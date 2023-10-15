@@ -2,11 +2,11 @@
 
 # __reliable communication protocols__
 
-## Risks linked to this technology
-
-* [Loss of data transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1234.md)
-
 ## This Technology is identified by the following QID
 
 * [Q47470685](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q47470685.md)
+
+## Risks linked to this technology
+
+* [Loss of data transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1234.md)
 

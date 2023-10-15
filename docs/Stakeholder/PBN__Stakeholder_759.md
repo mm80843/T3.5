@@ -6,17 +6,17 @@
 
 * [Q1128437](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1128437.md)
 
-## Risk affecting this stakeholder
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Asymptomatic transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1244.md)
+* [Workers/Professionals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_47.md)
+* [Contact Tracing Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_42.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
 * [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## Risk affecting this stakeholder
 
-* [Workers/Professionals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_47.md)
-* [Contact Tracing Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_42.md)
+* [Asymptomatic transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1244.md)
 

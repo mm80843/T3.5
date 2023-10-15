@@ -10,11 +10,11 @@ Regular maintenance of lifts to ensure proper functioning and reduce the risk of
 
 * [Public housing and COVID-19: contestation, challenge and change](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_107.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Crowding in lifts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3187.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [lift maintenance technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3972.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Crowding in lifts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3187.md)
 

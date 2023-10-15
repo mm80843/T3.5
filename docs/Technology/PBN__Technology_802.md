@@ -2,11 +2,11 @@
 
 # __strengthen peer review process__
 
-## Risks linked to this technology
-
-* [Misleading peer-reviewed publications](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1518.md)
-
 ## This Technology is identified by the following QID
 
 * [Q7096397](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7096397.md)
+
+## Risks linked to this technology
+
+* [Misleading peer-reviewed publications](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1518.md)
 

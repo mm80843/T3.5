@@ -2,20 +2,20 @@
 
 # __Improved resilience to supply shocks__
 
-## Articles mentionning this Benefit
-
-* [Global value chains: Efficiency and risks in the context of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_60.md)
-
 ## Stakeholders benefitting from this Benefit
 
 * [governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
 * [businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_147.md)
 
+## Name of the Benefit
+
+Appropriate balance between benefits and costs of stockpiling essential goods
+
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Greater resilience to supply shocks, reduced reliance on emergency refills](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_325.md)
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Appropriate balance between benefits and costs of stockpiling essential goods
+* [Global value chains: Efficiency and risks in the context of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_60.md)
 

@@ -2,6 +2,10 @@
 
 # __Urban green spaces management during the \textlessspan style="font-variant:small-caps;"\textgreaterCOVID\textless/span\textgreater ‐19 pandemic: Experiences from Kraków, Poland__
 
+## Year of publication
+
+2022
+
 ## Title of the article
 
 Urban green spaces management during the \textlessspan style="font-variant:small-caps;"\textgreaterCOVID\textless/span\textgreater ‐19 pandemic: Experiences from Kraków, Poland
@@ -9,10 +13,6 @@ Urban green spaces management during the \textlessspan style="font-variant:small
 ## DOI of the article
 
 10.1002/ldr.4469
-
-## Year of publication
-
-2022
 
 ## Referenced by other articles
 

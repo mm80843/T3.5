@@ -10,11 +10,11 @@ Critical infrastructure should adopt a resilience-based approach that focuses on
 
 * [Preparing critical infrastructure for the future: Lessons learnt from the Covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_129.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Future "black swan" events](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3373.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [resilience-based practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4313.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Future "black swan" events](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3373.md)
 

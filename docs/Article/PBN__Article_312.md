@@ -2,6 +2,10 @@
 
 # __Future (post-COVID) digital, smart and sustainable cities in the wake of 6G: Digital twins, immersive realities and new urban economies__
 
+## Year of publication
+
+2021
+
 ## Title of the article
 
 Future (post-COVID) digital, smart and sustainable cities in the wake of 6G: Digital twins, immersive realities and new urban economies
@@ -9,10 +13,6 @@ Future (post-COVID) digital, smart and sustainable cities in the wake of 6G: Dig
 ## DOI of the article
 
 10.1016/j.landusepol.2020.105201
-
-## Year of publication
-
-2021
 
 ## Referenced by other articles
 

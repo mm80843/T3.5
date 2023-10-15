@@ -14,13 +14,6 @@ Integral part of the control strategy, workers in all risk groups should use app
 * [COVID-19 and its Modes of Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_225.md)
 * [Role of Information Technology in Covid-19 Prevention](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_267.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Exposure to SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2614.md)
-* [Infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2622.md)
-* [Spread of virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2684.md)
-* [Contagion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2685.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1053.md)
@@ -32,4 +25,11 @@ Integral part of the control strategy, workers in all risk groups should use app
 * [facemasks or respirators](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3291.md)
 * [n95 masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3786.md)
 * [eye protection gear](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3787.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Exposure to SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2614.md)
+* [Infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2622.md)
+* [Spread of virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2684.md)
+* [Contagion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2685.md)
 

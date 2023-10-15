@@ -83,6 +83,14 @@
 * [Early detection and personalized treatment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1404.md)
 * [Improved treatment guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1413.md)
 
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Patients](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_148.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
+
 ## Risk affecting this stakeholder
 
 * [Airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_252.md)
@@ -154,12 +162,4 @@
 * [Inefficient medication delivery](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2188.md)
 * [Healthcare-](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2322.md)
 * [Tissue tropism and pathogenesis of SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2360.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Patients](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_148.md)
 

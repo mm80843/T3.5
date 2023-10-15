@@ -2,9 +2,21 @@
 
 # __Inadequate surveillance and monitoring__
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+* [Strengthening of surveillance systems, increased monitoring of vector populations and disease incidence](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3057.md)
+
+## People affected by this risk
+
+* [general populations in areas with vector-borne disease prevalence](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1572.md)
+
+## Name of the risk
+
+Inability to target interventions effectively, missed transmission hotspots
+
+## Description of the risk
+
+Insufficient data on disease prevalence and vector populations
 
 ## Property: has_RiskType
 
@@ -16,37 +28,25 @@
 * [public health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_222.md)
 * [research institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_413.md)
 
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
 ## Property: has_RiskHealth
 
-
-## Description of the risk
-
-Insufficient data on disease prevalence and vector populations
-
-## Articles mentionning the risk
-
-* [The importance of vector control for the control and elimination of vector-borne diseases](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_64.md)
-
-## Technologies linked to the risk
-
-
-## People affected by this risk
-
-* [general populations in areas with vector-borne disease prevalence](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1572.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
 
-## Mitigations of this risk
+## Articles mentionning the risk
 
-* [Strengthening of surveillance systems, increased monitoring of vector populations and disease incidence](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3057.md)
+* [The importance of vector control for the control and elimination of vector-borne diseases](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_64.md)
 
 ## Property: has_RiskGBN
 
 * [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Name of the risk
+## Technologies linked to the risk
 
-Inability to target interventions effectively, missed transmission hotspots
 

@@ -2,9 +2,21 @@
 
 # __Decay of SARS-CoV-2 in wastewater__
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+* [Improve detection methods and adjust decay kinetics for accurate estimation of virus prevalence in wastewater samples.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1962.md)
+
+## People affected by this risk
+
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+
+## Name of the risk
+
+May result in loss of virus signal and inaccurate estimation of virus prevalence in wastewater samples.
+
+## Description of the risk
+
+The SARS-CoV-2 virus degrades over time in wastewater, potentially affecting the accuracy of virus detection.
 
 ## Property: has_RiskType
 
@@ -15,41 +27,29 @@
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
 * [wastewater testing laboratories](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_939.md)
 
+## Property: has_RiskISO_Purpose
+
+* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+
 ## Property: has_RiskHealth
 
 * [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
-## Description of the risk
+## Property: has_RiskISO_Impact
 
-The SARS-CoV-2 virus degrades over time in wastewater, potentially affecting the accuracy of virus detection.
+* [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_4.md)
 
 ## Articles mentionning the risk
 
 * [Computational analysis of SARS-CoV-2/COVID-19 surveillance by wastewater-based epidemiology locally and globally: Feasibility, economy, opportunities and challenges](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_252.md)
+
+## Property: has_RiskGBN
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
 ## Technologies linked to the risk
 
 * [improved detection methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_709.md)
 * [adjusting decay kinetics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_710.md)
 * [quality control in wastewater sampling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_711.md)
-
-## People affected by this risk
-
-* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
-
-## Property: has_RiskISO_Impact
-
-* [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_4.md)
-
-## Mitigations of this risk
-
-* [Improve detection methods and adjust decay kinetics for accurate estimation of virus prevalence in wastewater samples.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1962.md)
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
-## Name of the risk
-
-May result in loss of virus signal and inaccurate estimation of virus prevalence in wastewater samples.
 

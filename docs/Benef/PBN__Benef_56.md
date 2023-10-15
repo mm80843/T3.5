@@ -2,19 +2,19 @@
 
 # __Reduction of fear__
 
-## Articles mentionning this Benefit
-
-* [The psychological impact of COVID-19 on the mental health in the general population](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_12.md)
-
 ## Stakeholders benefitting from this Benefit
 
 * [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+
+## Name of the Benefit
+
+Accurate information can alleviate fears and reduce anxiety
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved mental well-being and reduced stress levels](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_54.md)
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Accurate information can alleviate fears and reduce anxiety
+* [The psychological impact of COVID-19 on the mental health in the general population](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_12.md)
 

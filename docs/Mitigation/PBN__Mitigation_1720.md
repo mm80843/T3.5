@@ -10,12 +10,12 @@ Develop and distribute e-learning packages to educate healthcare workforce on ma
 
 * [COVID-19: A new digital dawn?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_93.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Lack of educational resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3233.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [e-learning platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_959.md)
 * [digital content creation tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4029.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of educational resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3233.md)
 

@@ -2,11 +2,11 @@
 
 # __proper training and use of ppe__
 
-## Risks linked to this technology
-
-* [Safety risks for wastewater sampling personnel](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1053.md)
-
 ## This Technology is identified by the following QID
 
 * [Q1333024](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1333024.md)
+
+## Risks linked to this technology
+
+* [Safety risks for wastewater sampling personnel](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1053.md)
 

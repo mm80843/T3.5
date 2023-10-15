@@ -2,11 +2,11 @@
 
 # __backup generators__
 
-## Risks linked to this technology
-
-* [EU1](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2209.md)
-
 ## This Technology is identified by the following QID
 
 * [Q1364228](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1364228.md)
+
+## Risks linked to this technology
+
+* [EU1](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2209.md)
 

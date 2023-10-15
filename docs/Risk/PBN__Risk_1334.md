@@ -2,9 +2,21 @@
 
 # __Contamination of healthcare workers__
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
+* [Use appropriate personal protective equipment (PPE) and adhere to hygiene protocols.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1828.md)
+
+## People affected by this risk
+
+* [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
+
+## Name of the risk
+
+Endangerment of healthcare workers and potential spread of the virus.
+
+## Description of the risk
+
+A significant number of healthcare workers have been infected with Covid-19.
 
 ## Property: has_RiskType
 
@@ -15,40 +27,28 @@
 
 * [hospital management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_239.md)
 
+## Property: has_RiskISO_Purpose
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
+
 ## Property: has_RiskHealth
 
 * [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Description of the risk
-
-A significant number of healthcare workers have been infected with Covid-19.
-
-## Articles mentionning the risk
-
-* [Toilets dominate environmental detection of SARS-CoV-2 virus in a hospital](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_196.md)
-
-## Technologies linked to the risk
-
-* [proper training on ppe usage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_511.md)
-* [strict adherence to hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_512.md)
-
-## People affected by this risk
-
-* [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
 
-## Mitigations of this risk
+## Articles mentionning the risk
 
-* [Use appropriate personal protective equipment (PPE) and adhere to hygiene protocols.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1828.md)
+* [Toilets dominate environmental detection of SARS-CoV-2 virus in a hospital](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_196.md)
 
 ## Property: has_RiskGBN
 
 * [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Name of the risk
+## Technologies linked to the risk
 
-Endangerment of healthcare workers and potential spread of the virus.
+* [proper training on ppe usage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_511.md)
+* [strict adherence to hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_512.md)
 

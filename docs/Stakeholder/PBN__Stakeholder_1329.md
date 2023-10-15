@@ -2,15 +2,15 @@
 
 # __treasury departments__
 
-## Risk affecting this stakeholder
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Declining yields on treasury instruments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1978.md)
+* [Government and Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_8.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [National Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_7.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## Risk affecting this stakeholder
 
-* [Government and Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_8.md)
+* [Declining yields on treasury instruments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1978.md)
 

@@ -2,11 +2,11 @@
 
 # __improved design and operation of hvac systems__
 
-## Risks linked to this technology
-
-* [Poor ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1426.md)
-
 ## This Technology is identified by the following QID
 
 * [Q1601541](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1601541.md)
+
+## Risks linked to this technology
+
+* [Poor ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1426.md)
 

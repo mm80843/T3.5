@@ -27,6 +27,14 @@
 * [Protection of civil rights](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1201.md)
 * [Efficient resource utilization](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1203.md)
 
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Public](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_147.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
+
 ## Risk affecting this stakeholder
 
 * [Privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_47.md)
@@ -37,12 +45,4 @@
 * [Ineffective use of open government projects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1200.md)
 * [Inadequate governance and leadership](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1344.md)
 * [Data privacy and public perception](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1921.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Public](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_147.md)
 

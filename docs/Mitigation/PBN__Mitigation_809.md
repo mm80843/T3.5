@@ -10,11 +10,11 @@ Implementing staggered work hours and schedules to reduce the number of people p
 
 * [A study on office workplace modification during the COVID-19 pandemic in The Netherlands](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_193.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
 
 * [communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_168.md)
 * [scheduling software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_634.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

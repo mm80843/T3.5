@@ -2,9 +2,22 @@
 
 # __Security challenges__
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+* [Implement lightweight and scalable security mechanisms, utilize encryption and blockchain](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2743.md)
+
+## People affected by this risk
+
+* [healthcare organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_216.md)
+* [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
+
+## Name of the risk
+
+Breach of sensitive information, disruption of healthcare services
+
+## Description of the risk
+
+Attempted attacks on healthcare databases and MIoT devices
 
 ## Property: has_RiskType
 
@@ -15,17 +28,25 @@
 * [application developers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1403.md)
 * [network and system administrators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1404.md)
 
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
 ## Property: has_RiskHealth
 
 * [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
 
-## Description of the risk
+## Property: has_RiskISO_Impact
 
-Attempted attacks on healthcare databases and MIoT devices
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
 
 ## Articles mentionning the risk
 
 * [The role of 5G for digital healthcare against COVID-19 pandemic: Opportunities and challenges](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_9.md)
+
+## Property: has_RiskGBN
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
 ## Technologies linked to the risk
 
@@ -33,25 +54,4 @@ Attempted attacks on healthcare databases and MIoT devices
 * [encryption](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_97.md)
 * [ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_278.md)
 * [ml](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1581.md)
-
-## People affected by this risk
-
-* [healthcare organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_216.md)
-* [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
-
-## Property: has_RiskISO_Impact
-
-* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
-
-## Mitigations of this risk
-
-* [Implement lightweight and scalable security mechanisms, utilize encryption and blockchain](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2743.md)
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
-## Name of the risk
-
-Breach of sensitive information, disruption of healthcare services
 

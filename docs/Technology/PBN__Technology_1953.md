@@ -2,11 +2,11 @@
 
 # __research on viral cell entry mechanisms__
 
-## Risks linked to this technology
-
-* [Cell entry of SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2359.md)
-
 ## This Technology is identified by the following QID
 
 * [Q4118894](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4118894.md)
+
+## Risks linked to this technology
+
+* [Cell entry of SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2359.md)
 

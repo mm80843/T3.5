@@ -6,15 +6,15 @@
 
 * [Q17154120](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q17154120.md)
 
-## Risk affecting this stakeholder
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Globalization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2075.md)
+* [Types of Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_22.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_2.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## Risk affecting this stakeholder
 
-* [Types of Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_22.md)
+* [Globalization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2075.md)
 

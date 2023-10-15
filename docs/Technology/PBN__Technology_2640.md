@@ -2,13 +2,13 @@
 
 # __Online financial education resources__
 
-## This Technology is identified by the following QID
-
-* [Q59243211](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q59243211.md)
-
 ## This Technology belongs to this TechGroup
 
 * [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_11.md)
+
+## This Technology is identified by the following QID
+
+* [Q59243211](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q59243211.md)
 
 ## This Technology belongs to this TechSubgroup
 

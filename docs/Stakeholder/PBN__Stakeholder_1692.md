@@ -6,11 +6,11 @@
 
 * [Q2306047](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2306047.md)
 
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_2.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Specific Roles and Job Titles](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_21.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_2.md)
 

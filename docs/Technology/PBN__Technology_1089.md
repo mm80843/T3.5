@@ -2,14 +2,14 @@
 
 # __websites__
 
+## This Technology belongs to this TechGroup
+
+* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_1.md)
+
 ## Risks linked to this technology
 
 * [Confusion and Uncertainty](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1723.md)
 * [Limited access to COVID-19 mitigation information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1784.md)
-
-## This Technology belongs to this TechGroup
-
-* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_1.md)
 
 ## This Technology belongs to this TechSubgroup
 

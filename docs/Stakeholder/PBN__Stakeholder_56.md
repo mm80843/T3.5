@@ -12,6 +12,13 @@
 * [Proper data management](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_73.md)
 * [Control and governance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_74.md)
 
+## This Stakeholder belongs to this StakeholderSubgroup
+
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
+
 ## Risks that can be mitigated by this stakeholder
 
 * [Privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_47.md)
@@ -19,11 +26,4 @@
 * [Security breaches](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1070.md)
 * [Propaganda](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1071.md)
 * [Lack of control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1072.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
 

@@ -2,11 +2,11 @@
 
 # __mindfulness and stress reduction techniques__
 
-## Risks linked to this technology
-
-* [Student and faculty stress](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2148.md)
-
 ## This Technology is identified by the following QID
 
 * [Q341036](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q341036.md)
+
+## Risks linked to this technology
+
+* [Student and faculty stress](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2148.md)
 

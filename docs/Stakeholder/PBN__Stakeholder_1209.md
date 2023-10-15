@@ -2,14 +2,14 @@
 
 # __cleaning companies__
 
-## Risks that can be mitigated by this stakeholder
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Contamination of HVAC systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1806.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_2.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## Risks that can be mitigated by this stakeholder
 
+* [Contamination of HVAC systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1806.md)
 

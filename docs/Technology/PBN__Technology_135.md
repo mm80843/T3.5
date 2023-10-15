@@ -2,6 +2,17 @@
 
 # __communication platforms__
 
+## This Technology belongs to this TechGroup
+
+* [AI tools](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_0.md)
+* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_11.md)
+
+## This Technology enables the following mitigations
+
+* [Effective communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_318.md)
+* [Enhance cross-sectoral engagement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2093.md)
+* [Remote therapy services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2165.md)
+
 ## Risks linked to this technology
 
 * [Contractual problems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_731.md)
@@ -20,19 +31,8 @@
 
 * [Q3635085](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3635085.md)
 
-## This Technology belongs to this TechGroup
-
-* [AI tools](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_0.md)
-* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_11.md)
-
 ## This Technology belongs to this TechSubgroup
 
 * [Communication and Data Sharing](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_3.md)
 * [Collaboration and Communication Platforms](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_5.md)
-
-## This Technology enables the following mitigations
-
-* [Effective communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_318.md)
-* [Enhance cross-sectoral engagement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2093.md)
-* [Remote therapy services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2165.md)
 

@@ -2,19 +2,19 @@
 
 # __Improved systems design__
 
-## Articles mentionning this Benefit
-
-* [Applications of ultraviolet germicidal irradiation disinfection in health care facilities: Effective adjunct, but not stand-alone technology](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_61.md)
-
 ## Stakeholders benefitting from this Benefit
 
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+
+## Name of the Benefit
+
+Further research needed on efficacy of UVGI systems
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved understanding and optimization of UVGI systems](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_336.md)
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Further research needed on efficacy of UVGI systems
+* [Applications of ultraviolet germicidal irradiation disinfection in health care facilities: Effective adjunct, but not stand-alone technology](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_61.md)
 

@@ -2,19 +2,19 @@
 
 # __Reduction in electricity bills__
 
-## Articles mentionning this Benefit
-
-* [Coronavirus comes home? Energy use, home energy management, and the social-psychological factors of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_119.md)
-
 ## Stakeholders benefitting from this Benefit
 
 * [household consumers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_248.md)
+
+## Name of the Benefit
+
+HEMS can optimize energy use and reduce electricity bills for households, providing cost savings.
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors would benefit from increased demand for HEMS, leading to potential business growth and profit.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_648.md)
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-HEMS can optimize energy use and reduce electricity bills for households, providing cost savings.
+* [Coronavirus comes home? Energy use, home energy management, and the social-psychological factors of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_119.md)
 

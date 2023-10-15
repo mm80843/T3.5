@@ -32,6 +32,13 @@
 * [Contactless delivery and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1270.md)
 * [Early detection and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1271.md)
 
+## This Stakeholder belongs to this StakeholderSubgroup
+
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
+
 ## Risk affecting this stakeholder
 
 * [Spread of contagious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_20.md)
@@ -202,11 +209,4 @@
 
 * [Transmission of coronaviruses from contaminated surfaces to hands](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1551.md)
 * [Ineffective disease screening and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1800.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
 

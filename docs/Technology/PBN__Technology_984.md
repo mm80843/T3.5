@@ -2,11 +2,11 @@
 
 # __collaborative planning and decision-making processes__
 
-## Risks linked to this technology
-
-* [Lack of multi-sectoral collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1648.md)
-
 ## This Technology is identified by the following QID
 
 * [Q388791](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q388791.md)
+
+## Risks linked to this technology
+
+* [Lack of multi-sectoral collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1648.md)
 

@@ -2,12 +2,6 @@
 
 # __ai__
 
-## Risks linked to this technology
-
-* [Lack of effective technical systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1197.md)
-* [Impact on information technology, media, and research & development](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1816.md)
-* [Security challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2094.md)
-
 ## This Technology is identified by the following QID
 
 * [Q69906](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q69906.md)
@@ -39,4 +33,10 @@
 * [Monitoring sewage for virus detection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1633.md)
 * [Rapid deployment of new healthcare applications and services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1946.md)
 * [Screening techniques for patient severity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2353.md)
+
+## Risks linked to this technology
+
+* [Lack of effective technical systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1197.md)
+* [Impact on information technology, media, and research & development](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1816.md)
+* [Security challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2094.md)
 

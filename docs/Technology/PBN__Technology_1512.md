@@ -2,11 +2,11 @@
 
 # __income support measures__
 
-## Risks linked to this technology
-
-* [Unemployment and underemployment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2038.md)
-
 ## This Technology is identified by the following QID
 
 * [Q70471322](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q70471322.md)
+
+## Risks linked to this technology
+
+* [Unemployment and underemployment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2038.md)
 

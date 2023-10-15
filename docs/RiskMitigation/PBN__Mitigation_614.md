@@ -10,10 +10,10 @@ Negative air ionization is a physical effect that occurs when airborne particles
 
 * [Upper-Room Ultraviolet Light and Negative Air Ionization to Prevent Tuberculosis Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_105.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
 
 * [electrostatic space charge systems (escss)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3362.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

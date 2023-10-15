@@ -2,20 +2,20 @@
 
 # __Reduced transport-related emissions__
 
-## Articles mentionning this Benefit
-
-* [COVID-19: Lessons for an Urban(izing) World](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_85.md)
-
 ## Stakeholders benefitting from this Benefit
 
 * [environment](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_116.md)
 * [urban population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_198.md)
 
+## Name of the Benefit
+
+Implementing mobility limitations and promoting teleworking can lead to a reduction in transport-related emissions, contributing to improved air quality and environmental sustainability in urban areas.
+
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors in renewable energy and sustainability solutions can benefit from increased demand and adoption, potentially leading to increased revenue and profitability.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_455.md)
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Implementing mobility limitations and promoting teleworking can lead to a reduction in transport-related emissions, contributing to improved air quality and environmental sustainability in urban areas.
+* [COVID-19: Lessons for an Urban(izing) World](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_85.md)
 

@@ -2,11 +2,11 @@
 
 # __energy assistance programs__
 
-## Risks linked to this technology
-
-* [Financial burden on low-income households](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1567.md)
-
 ## This Technology is identified by the following QID
 
 * [Q5376986](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5376986.md)
+
+## Risks linked to this technology
+
+* [Financial burden on low-income households](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1567.md)
 

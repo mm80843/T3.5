@@ -2,9 +2,21 @@
 
 # __Lack of Deterrence__
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
+* [Strengthening enforcement, increasing certainty of punishment, awareness of penalties and consequences](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2966.md)
+
+## People affected by this risk
+
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+
+## Name of the risk
+
+Encouraging non-compliance, disregard for authority and rules
+
+## Description of the risk
+
+Ineffectiveness of punishment and sanctions in deterring non-compliance
 
 ## Property: has_RiskType
 
@@ -15,40 +27,28 @@
 * [government authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_302.md)
 * [law enforcement agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_603.md)
 
+## Property: has_RiskISO_Purpose
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
+
 ## Property: has_RiskHealth
 
 * [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
-
-## Description of the risk
-
-Ineffectiveness of punishment and sanctions in deterring non-compliance
-
-## Articles mentionning the risk
-
-* [Compliance with COVID-19 Mitigation Measures in the United States](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_253.md)
-
-## Technologies linked to the risk
-
-* [monitoring and surveillance technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1858.md)
-* [increased law enforcement presence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1859.md)
-
-## People affected by this risk
-
-* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
 
-## Mitigations of this risk
+## Articles mentionning the risk
 
-* [Strengthening enforcement, increasing certainty of punishment, awareness of penalties and consequences](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2966.md)
+* [Compliance with COVID-19 Mitigation Measures in the United States](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_253.md)
 
 ## Property: has_RiskGBN
 
 * [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Name of the risk
+## Technologies linked to the risk
 
-Encouraging non-compliance, disregard for authority and rules
+* [monitoring and surveillance technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1858.md)
+* [increased law enforcement presence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1859.md)
 

@@ -10,10 +10,10 @@ To limit the movement and interaction of individuals within the community to min
 
 * [COVID-19: The forgotten priorities of the pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_236.md)
 
+## This Mitigation is enabled by the following technologies
+
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Transmission in the community](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3029.md)
-
-## This Mitigation is enabled by the following technologies
-
 

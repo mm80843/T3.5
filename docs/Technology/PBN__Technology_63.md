@@ -2,6 +2,11 @@
 
 # __home-based exercise programs__
 
+## This Technology belongs to this TechGroup
+
+* [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_8.md)
+* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
+
 ## Risks linked to this technology
 
 * [Decreased Physical Activity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1056.md)
@@ -9,11 +14,6 @@
 ## This Technology is identified by the following QID
 
 * [Q219067](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q219067.md)
-
-## This Technology belongs to this TechGroup
-
-* [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_8.md)
-* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
 
 ## This Technology belongs to this TechSubgroup
 

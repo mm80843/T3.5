@@ -2,9 +2,13 @@
 
 # __Indoor Air Quality: Rethinking rules of building design strategies in post-pandemic architecture__
 
-## Summary of the article
+## Short summary of the article
 
-The article discusses how the design of buildings can help prevent the spread of diseases like COVID-19. It explains that poor air quality and ventilation can increase the risk of getting sick. The article suggests that architects and engineers need to work together to create better indoor environments that have good ventilation and air filtration. It also discusses different strategies, like using UV light or plants, to clean the air inside buildings. The article emphasizes the need for collaboration between different fields and the use of technology to create healthier buildings. It concludes by saying that improving indoor air quality should be a priority in the design of buildings to protect people's health.
+This research paper discusses the importance of improving indoor air quality (IAQ) in the context of the COVID-19 pandemic. The paper highlights the association between COVID-19 infection and air pollution, emphasizing the role of air quality in controlling the spread of the virus. It also emphasizes the need for a holistic approach to address IAQ challenges, integrating building design strategies and engineering controls. The paper explains various engineering and construction controls that can be implemented to limit indoor infection risks, including ventilation, air filtration, air disinfection, and biofiltration technologies. It discusses the benefits and limitations of these interventions and emphasizes the importance of collaboration between architects and engineers. The paper suggests the use of computer-aided design tools and simulations to optimize ventilation systems and improve IAQ. It also discusses the role of artificial intelligence and advanced sensing technologies in monitoring IAQ and optimizing building operation and management. Overall, the paper highlights the need for constructing healthier indoor environments and suggests that future architectural designs should prioritize IAQ to protect occupants from airborne diseases.
+
+## Year of publication
+
+2021
 
 ## Title of the article
 
@@ -17,6 +21,18 @@ Indoor Air Quality: Rethinking rules of building design strategies in post-pande
 * [Inadequate air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1742.md)
 * [Lack of air disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1743.md)
 * [Inadequate building design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1744.md)
+
+## DOI of the article
+
+10.1016/j.envres.2020.110471
+
+## Benefits listed in this article
+
+* [Pathogen inactivation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_998.md)
+* [Improved IAQ](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_996.md)
+* [Reduced airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_997.md)
+* [Improved IAQ and air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_999.md)
+* [Natural ventilation and air distribution](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1000.md)
 
 ## This article points to following mitigation
 
@@ -36,25 +52,9 @@ Indoor Air Quality: Rethinking rules of building design strategies in post-pande
 * [Biofiltration technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1306.md)
 * [Nanotechnology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1308.md)
 
-## Benefits listed in this article
+## Summary of the article
 
-* [Pathogen inactivation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_998.md)
-* [Improved IAQ](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_996.md)
-* [Reduced airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_997.md)
-* [Improved IAQ and air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_999.md)
-* [Natural ventilation and air distribution](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1000.md)
-
-## Short summary of the article
-
-This research paper discusses the importance of improving indoor air quality (IAQ) in the context of the COVID-19 pandemic. The paper highlights the association between COVID-19 infection and air pollution, emphasizing the role of air quality in controlling the spread of the virus. It also emphasizes the need for a holistic approach to address IAQ challenges, integrating building design strategies and engineering controls. The paper explains various engineering and construction controls that can be implemented to limit indoor infection risks, including ventilation, air filtration, air disinfection, and biofiltration technologies. It discusses the benefits and limitations of these interventions and emphasizes the importance of collaboration between architects and engineers. The paper suggests the use of computer-aided design tools and simulations to optimize ventilation systems and improve IAQ. It also discusses the role of artificial intelligence and advanced sensing technologies in monitoring IAQ and optimizing building operation and management. Overall, the paper highlights the need for constructing healthier indoor environments and suggests that future architectural designs should prioritize IAQ to protect occupants from airborne diseases.
-
-## DOI of the article
-
-10.1016/j.envres.2020.110471
-
-## Year of publication
-
-2021
+The article discusses how the design of buildings can help prevent the spread of diseases like COVID-19. It explains that poor air quality and ventilation can increase the risk of getting sick. The article suggests that architects and engineers need to work together to create better indoor environments that have good ventilation and air filtration. It also discusses different strategies, like using UV light or plants, to clean the air inside buildings. The article emphasizes the need for collaboration between different fields and the use of technology to create healthier buildings. It concludes by saying that improving indoor air quality should be a priority in the design of buildings to protect people's health.
 
 ## Referenced by other articles
 

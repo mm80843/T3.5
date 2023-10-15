@@ -2,6 +2,10 @@
 
 # __Infrastructures of Care for Public Housing Residents During COVID-19 Detention: Failures, Glitches and Possibilities to Care With__
 
+## Year of publication
+
+2022
+
 ## Title of the article
 
 Infrastructures of Care for Public Housing Residents During COVID-19 Detention: Failures, Glitches and Possibilities to Care With
@@ -9,10 +13,6 @@ Infrastructures of Care for Public Housing Residents During COVID-19 Detention: 
 ## DOI of the article
 
 10.1080/08111146.2022.2123317
-
-## Year of publication
-
-2022
 
 ## Referenced by other articles
 

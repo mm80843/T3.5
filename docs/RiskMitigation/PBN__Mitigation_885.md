@@ -10,11 +10,11 @@ Providing accurate and calm communication to prevent panic buying and hoarding o
 
 * [Coronavirus disease 2019: The harms of exaggerated information and non‐evidence‐based measures](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_101.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Panic buying and hoarding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2792.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [accurate and calm communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3516.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Panic buying and hoarding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2792.md)
 

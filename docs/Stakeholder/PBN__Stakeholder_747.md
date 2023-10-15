@@ -6,6 +6,13 @@
 
 * [Q16281722](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q16281722.md)
 
+## This Stakeholder belongs to this StakeholderSubgroup
+
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Technology Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_12.md)
+
 ## Risk affecting this stakeholder
 
 * [Loss of data transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1234.md)
@@ -16,11 +23,4 @@
 * [Loss of data transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1234.md)
 * [Unauthorized access to data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1235.md)
 * [Sensor failure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1236.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Technology Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_12.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
 

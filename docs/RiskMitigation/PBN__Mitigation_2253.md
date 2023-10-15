@@ -10,9 +10,9 @@ The provision of publicly funded and managed healthcare systems can ensure effec
 
 * [The COVID-19 pandemic: Lessons on building more equal and sustainable societies](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_124.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
+
+
+## Risks possibly mitigated by this Mitigation
 
 

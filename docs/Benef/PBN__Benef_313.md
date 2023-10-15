@@ -2,19 +2,19 @@
 
 # __Reduction of infection__
 
-## Articles mentionning this Benefit
-
-* [Applications of ultraviolet germicidal irradiation disinfection in health care facilities: Effective adjunct, but not stand-alone technology](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_61.md)
-
 ## Stakeholders benefitting from this Benefit
 
 * [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
+
+## Name of the Benefit
+
+UVGI inactivates airborne viruses and bacteria
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Increased occupant health and reduced healthcare costs](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_331.md)
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-UVGI inactivates airborne viruses and bacteria
+* [Applications of ultraviolet germicidal irradiation disinfection in health care facilities: Effective adjunct, but not stand-alone technology](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_61.md)
 

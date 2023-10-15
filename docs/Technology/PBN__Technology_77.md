@@ -2,11 +2,11 @@
 
 # __community mobilization__
 
-## Risks linked to this technology
-
-* [Unhealthy household environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_781.md)
-
 ## This Technology is identified by the following QID
 
 * [Q5154987](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5154987.md)
+
+## Risks linked to this technology
+
+* [Unhealthy household environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_781.md)
 

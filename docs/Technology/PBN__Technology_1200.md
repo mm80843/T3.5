@@ -2,11 +2,11 @@
 
 # __risk assessment and management technologies__
 
-## Risks linked to this technology
-
-* [Exposure to foreign shocks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1838.md)
-
 ## This Technology is identified by the following QID
 
 * [Q1058438](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1058438.md)
+
+## Risks linked to this technology
+
+* [Exposure to foreign shocks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1838.md)
 

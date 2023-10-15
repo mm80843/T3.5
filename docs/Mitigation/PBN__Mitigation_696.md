@@ -10,10 +10,10 @@ Provide an interface for professionals to visualize IEQ data, examine the runnin
 
 * [An Intelligent IEQ Monitoring and Feedback System: Development and Applications](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_62.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
 
 * [web platform](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3390.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

@@ -2,6 +2,10 @@
 
 # __regular maintenance of ventilation systems__
 
+## This Technology belongs to this TechGroup
+
+* [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_9.md)
+
 ## Risks linked to this technology
 
 * [Poor Indoor Air Quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1121.md)
@@ -9,10 +13,6 @@
 ## This Technology is identified by the following QID
 
 * [Q3766250](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3766250.md)
-
-## This Technology belongs to this TechGroup
-
-* [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_9.md)
 
 ## This Technology belongs to this TechSubgroup
 

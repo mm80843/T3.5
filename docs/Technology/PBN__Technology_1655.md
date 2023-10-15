@@ -2,11 +2,11 @@
 
 # __self-assessment applications__
 
-## Risks linked to this technology
-
-* [Self-health evaluation before boarding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2137.md)
-
 ## This Technology is identified by the following QID
 
 * [Q1602656](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1602656.md)
+
+## Risks linked to this technology
+
+* [Self-health evaluation before boarding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2137.md)
 

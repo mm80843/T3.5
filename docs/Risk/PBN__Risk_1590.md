@@ -2,9 +2,22 @@
 
 # __Exclusion of non-English speaking populations__
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
+* [Expand research to include non-English social media platforms and languages](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2123.md)
+
+## People affected by this risk
+
+* [non-english speakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1022.md)
+* [individuals in non-english speaking countries](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1023.md)
+
+## Name of the risk
+
+Inaccurate or incomplete understanding of global loneliness experiences
+
+## Description of the risk
+
+Focus on Twitter feeds in English limits the representation of non-English speaking populations
 
 ## Property: has_RiskType
 
@@ -15,40 +28,27 @@
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
 * [translators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1024.md)
 
+## Property: has_RiskISO_Purpose
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
+
 ## Property: has_RiskHealth
 
-
-## Description of the risk
-
-Focus on Twitter feeds in English limits the representation of non-English speaking populations
-
-## Articles mentionning the risk
-
-* [How loneliness is talked about in social media during COVID-19 pandemic: Text mining of 4,492 Twitter feeds](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_190.md)
-
-## Technologies linked to the risk
-
-* [multilingual social media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_902.md)
-* [translation tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_903.md)
-
-## People affected by this risk
-
-* [non-english speakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1022.md)
-* [individuals in non-english speaking countries](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1023.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_4.md)
 
-## Mitigations of this risk
+## Articles mentionning the risk
 
-* [Expand research to include non-English social media platforms and languages](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2123.md)
+* [How loneliness is talked about in social media during COVID-19 pandemic: Text mining of 4,492 Twitter feeds](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_190.md)
 
 ## Property: has_RiskGBN
 
 * [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Name of the risk
+## Technologies linked to the risk
 
-Inaccurate or incomplete understanding of global loneliness experiences
+* [multilingual social media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_902.md)
+* [translation tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_903.md)
 

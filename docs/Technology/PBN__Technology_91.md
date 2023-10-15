@@ -2,11 +2,11 @@
 
 # __water purification and distribution technologies__
 
-## Risks linked to this technology
-
-* [Lack of running water](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1066.md)
-
 ## This Technology is identified by the following QID
 
 * [Q1463025](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1463025.md)
+
+## Risks linked to this technology
+
+* [Lack of running water](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1066.md)
 

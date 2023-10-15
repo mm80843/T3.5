@@ -10,11 +10,11 @@ Use of air filters effectively removes SARS-CoV-2 particles from the air in hosp
 
 * [Real-world data show that filters clean COVID-causing virus from air](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_155.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_252.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [high-efficiency particulate air (hepa) filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1692.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_252.md)
 

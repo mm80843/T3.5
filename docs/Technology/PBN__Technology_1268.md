@@ -2,11 +2,11 @@
 
 # __use operable windows and shading devices for natural ventilation and temperature control__
 
-## Risks linked to this technology
-
-* [Poor thermal comfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1883.md)
-
 ## This Technology is identified by the following QID
 
 * [Q1427418](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1427418.md)
+
+## Risks linked to this technology
+
+* [Poor thermal comfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1883.md)
 

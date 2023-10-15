@@ -2,6 +2,10 @@
 
 # __automated cleaning systems__
 
+## This Technology belongs to this TechGroup
+
+* [Drones and robots](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_17.md)
+
 ## Risks linked to this technology
 
 * [Lack of sanitation in shared spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1127.md)
@@ -10,10 +14,6 @@
 ## This Technology is identified by the following QID
 
 * [Q2590801](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2590801.md)
-
-## This Technology belongs to this TechGroup
-
-* [Drones and robots](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_17.md)
 
 ## This Technology belongs to this TechSubgroup
 

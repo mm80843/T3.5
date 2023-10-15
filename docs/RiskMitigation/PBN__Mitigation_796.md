@@ -10,10 +10,10 @@ Integrate global considerations into urban planning to address the interconnecte
 
 * [The Impact of COVID-19 on Public Space: A Review of the Emerging Questions](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_261.md)
 
+## This Mitigation is enabled by the following technologies
+
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Global consequences of local decisions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2748.md)
-
-## This Mitigation is enabled by the following technologies
-
 

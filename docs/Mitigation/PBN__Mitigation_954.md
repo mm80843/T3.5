@@ -10,12 +10,12 @@ Regular cleaning and disinfection of surfaces and commonly-touched items minimiz
 
 * [Impacts of COVID-19 on residential building energy use and performance](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_97.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [None](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2827.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [cleaning equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_363.md)
 * [disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_413.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [None](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2827.md)
 

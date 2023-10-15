@@ -10,12 +10,12 @@ Creating medium density environments that balance population density and built d
 
 * [The Role of Architecture and Urbanism in Preventing Pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_140.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [High population density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_620.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_922.md)
 * [architectural design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3564.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [High population density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_620.md)
 

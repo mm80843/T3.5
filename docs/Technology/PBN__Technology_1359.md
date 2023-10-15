@@ -2,11 +2,11 @@
 
 # __verification of results through multiple testing methods__
 
-## Risks linked to this technology
-
-* [False positive reactions in wastewater testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1950.md)
-
 ## This Technology is identified by the following QID
 
 * [Q1038757](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1038757.md)
+
+## Risks linked to this technology
+
+* [False positive reactions in wastewater testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1950.md)
 

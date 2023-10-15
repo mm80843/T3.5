@@ -10,13 +10,13 @@ Discover patterns in COVID-19 datasets to improve understanding and response
 
 * [A critical review of emerging technologies for tackling COVID ‐19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_91.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Limited data availability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2987.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_278.md)
 * [machine learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3004.md)
 * [computer vision](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3762.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Limited data availability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2987.md)
 

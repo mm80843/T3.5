@@ -2,6 +2,23 @@
 
 # __physical barriers__
 
+## This Technology belongs to this TechGroup
+
+* [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_9.md)
+
+## This Technology enables the following mitigations
+
+* [Social Distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_35.md)
+* [Implementing social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1125.md)
+* [Clear screens between seats](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_316.md)
+* [Physical Barriers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_865.md)
+* [Social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_894.md)
+* [Distancing and Building Layout](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1611.md)
+* [Physical Barriers (e.g., Plexiglass)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1735.md)
+* [Engineering Controls](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_298.md)
+* [One-way mobility circulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_407.md)
+* [Barrier Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_925.md)
+
 ## Risks linked to this technology
 
 * [Contagious diseases propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_153.md)
@@ -18,24 +35,7 @@
 
 * [Q808918](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q808918.md)
 
-## This Technology belongs to this TechGroup
-
-* [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_9.md)
-
 ## This Technology belongs to this TechSubgroup
 
 * [Touchless and Barrier Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_166.md)
-
-## This Technology enables the following mitigations
-
-* [Social Distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_35.md)
-* [Implementing social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1125.md)
-* [Clear screens between seats](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_316.md)
-* [Physical Barriers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_865.md)
-* [Social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_894.md)
-* [Distancing and Building Layout](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1611.md)
-* [Physical Barriers (e.g., Plexiglass)](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1735.md)
-* [Engineering Controls](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_298.md)
-* [One-way mobility circulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_407.md)
-* [Barrier Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_925.md)
 

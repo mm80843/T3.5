@@ -10,12 +10,12 @@ Implement governance models that promote transparency, citizen participation, an
 
 * [Learning from the COVID-19 pandemic in governing smart cities](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_177.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Risk of infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2469.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [blockchain](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_94.md)
 * [open data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1592.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Risk of infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2469.md)
 

@@ -2,6 +2,21 @@
 
 # __online platforms__
 
+## This Technology belongs to this TechGroup
+
+* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_1.md)
+* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_11.md)
+* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_3.md)
+* [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_8.md)
+
+## This Technology enables the following mitigations
+
+* [Social Network](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1730.md)
+* [Cognitive behavioral therapy (CBT), acceptance and commitment-based therapy (ACT), mindfulness-based stress reduction interventions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_209.md)
+* [Virtual ways of educating the general population and high-risk groups](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_211.md)
+* [Induction process online](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_898.md)
+* [Online delivery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2201.md)
+
 ## Risks linked to this technology
 
 * [Psychological impact of quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_33.md)
@@ -24,24 +39,9 @@
 
 * [Q582151](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q582151.md)
 
-## This Technology belongs to this TechGroup
-
-* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_1.md)
-* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_11.md)
-* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_3.md)
-* [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_8.md)
-
 ## This Technology belongs to this TechSubgroup
 
 * [Communication Technologies and Channels](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_27.md)
 * [Educational and Training Resources](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_39.md)
 * [Healthcare and Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_19.md)
-
-## This Technology enables the following mitigations
-
-* [Social Network](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1730.md)
-* [Cognitive behavioral therapy (CBT), acceptance and commitment-based therapy (ACT), mindfulness-based stress reduction interventions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_209.md)
-* [Virtual ways of educating the general population and high-risk groups](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_211.md)
-* [Induction process online](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_898.md)
-* [Online delivery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2201.md)
 

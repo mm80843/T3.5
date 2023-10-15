@@ -2,21 +2,21 @@
 
 # __Supportive community environment__
 
-## Articles mentionning this Benefit
-
-* [Reframe how to serve your community in the midst of a pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_53.md)
-
 ## Stakeholders benefitting from this Benefit
 
 * [staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_103.md)
 * [students](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_101.md)
 * [faculty](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_134.md)
 
+## Name of the Benefit
+
+Reduces stress levels and improves well-being
+
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors investing in this measure would benefit from a positive and inclusive campus culture, leading to increased student enrollment and retention.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_278.md)
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Reduces stress levels and improves well-being
+* [Reframe how to serve your community in the midst of a pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_53.md)
 

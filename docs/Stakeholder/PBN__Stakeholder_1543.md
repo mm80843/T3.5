@@ -6,16 +6,16 @@
 
 * [Q865](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q865.md)
 
-## Risk affecting this stakeholder
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Proximity to China](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2317.md)
-* [High number of flights](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2318.md)
-* [Intensive policy maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2320.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [National Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_7.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## Risk affecting this stakeholder
 
+* [Proximity to China](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2317.md)
+* [High number of flights](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2318.md)
+* [Intensive policy maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2320.md)
 

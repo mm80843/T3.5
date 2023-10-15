@@ -2,16 +2,16 @@
 
 # __communication agencies__
 
-## Risks that can be mitigated by this stakeholder
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Political mismanagement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1018.md)
-* [Manipulated media coverage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1019.md)
+* [Communication Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_34.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Media](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_3.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## Risks that can be mitigated by this stakeholder
 
-* [Communication Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_34.md)
+* [Political mismanagement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1018.md)
+* [Manipulated media coverage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1019.md)
 

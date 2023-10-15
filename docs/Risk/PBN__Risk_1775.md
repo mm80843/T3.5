@@ -2,9 +2,23 @@
 
 # __Internal risks__
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_10.md)
+* [Implement risk management strategies, establish contingency plans, enhance communication and collaboration among supply chain stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2347.md)
+
+## People affected by this risk
+
+* [suppliers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_283.md)
+* [supply chain managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_986.md)
+* [logistics providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_537.md)
+
+## Name of the risk
+
+Decreased productivity, delays in delivery, increased costs
+
+## Description of the risk
+
+Risks originating within the supply chain, such as disruptions in production, distribution, or transportation operations
 
 ## Property: has_RiskType
 
@@ -18,41 +32,27 @@
 * [supply chain managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_986.md)
 * [logistics providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_537.md)
 
+## Property: has_RiskISO_Purpose
+
+* [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_10.md)
+
 ## Property: has_RiskHealth
 
-
-## Description of the risk
-
-Risks originating within the supply chain, such as disruptions in production, distribution, or transportation operations
-
-## Articles mentionning the risk
-
-* [Mapping research in logistics and supply chain management during COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_4.md)
-
-## Technologies linked to the risk
-
-* [risk assessment and management tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1140.md)
-* [supply chain risk analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1141.md)
-
-## People affected by this risk
-
-* [suppliers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_283.md)
-* [supply chain managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_986.md)
-* [logistics providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_537.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_8.md)
 
-## Mitigations of this risk
+## Articles mentionning the risk
 
-* [Implement risk management strategies, establish contingency plans, enhance communication and collaboration among supply chain stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2347.md)
+* [Mapping research in logistics and supply chain management during COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_4.md)
 
 ## Property: has_RiskGBN
 
 * [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
-## Name of the risk
+## Technologies linked to the risk
 
-Decreased productivity, delays in delivery, increased costs
+* [risk assessment and management tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1140.md)
+* [supply chain risk analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1141.md)
 

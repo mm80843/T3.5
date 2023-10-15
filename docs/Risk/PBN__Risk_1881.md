@@ -2,9 +2,22 @@
 
 # __Lack of Healthcare Infrastructure__
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
+* [Improve healthcare facilities, increase capacity and resources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2474.md)
+
+## People affected by this risk
+
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+* [areas with limited healthcare access](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1272.md)
+
+## Name of the risk
+
+Overwhelmed healthcare systems, insufficient medical resources
+
+## Description of the risk
+
+Inadequate healthcare systems prevent effective response to outbreaks
 
 ## Property: has_RiskType
 
@@ -17,42 +30,29 @@
 * [healthcare institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_269.md)
 * [ngos](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_234.md)
 
+## Property: has_RiskISO_Purpose
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
+
 ## Property: has_RiskHealth
 
 * [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
-## Description of the risk
+## Property: has_RiskISO_Impact
 
-Inadequate healthcare systems prevent effective response to outbreaks
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
 
 ## Articles mentionning the risk
 
 * [COVID-19 Higher Mortality in Chinese Regions With Chronic Exposure to Lower Air Quality](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_42.md)
+
+## Property: has_RiskGBN
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
 ## Technologies linked to the risk
 
 * [telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_73.md)
 * [mobile healthcare units](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_209.md)
 * [medical supplies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1252.md)
-
-## People affected by this risk
-
-* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
-* [areas with limited healthcare access](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1272.md)
-
-## Property: has_RiskISO_Impact
-
-* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
-
-## Mitigations of this risk
-
-* [Improve healthcare facilities, increase capacity and resources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2474.md)
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
-## Name of the risk
-
-Overwhelmed healthcare systems, insufficient medical resources
 

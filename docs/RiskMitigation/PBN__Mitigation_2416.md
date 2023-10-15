@@ -10,10 +10,10 @@ Improved safety and sustainability in buildings
 
 * [Green Buildings: A Post COVID-19 Analysis of Preventive Measures of Spreading the Virus](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_290.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
 
 * [ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_139.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

@@ -2,11 +2,11 @@
 
 # __design and engineering solutions for upper-room uvgi systems__
 
-## Risks linked to this technology
-
-* [Harmful effects of UV-C light on humans if not properly shielded](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1173.md)
-
 ## This Technology is identified by the following QID
 
 * [Q961734](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q961734.md)
+
+## Risks linked to this technology
+
+* [Harmful effects of UV-C light on humans if not properly shielded](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1173.md)
 

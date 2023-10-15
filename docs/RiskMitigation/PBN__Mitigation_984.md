@@ -10,10 +10,10 @@ Allow contractors to claim an extension of time for project delays caused by the
 
 * [Mechanisms for addressing the impact of COVID-19 on infrastructure projects](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_115.md)
 
+## This Mitigation is enabled by the following technologies
+
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Delay in project](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2842.md)
-
-## This Mitigation is enabled by the following technologies
-
 

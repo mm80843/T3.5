@@ -10,10 +10,10 @@ Demonstrates the ability of startups to adjust their business models and practic
 
 * [Startups in times of crisis – A rapid response to the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_158.md)
 
+## This Mitigation is enabled by the following technologies
+
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Uncertainty and changes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2864.md)
-
-## This Mitigation is enabled by the following technologies
-
 

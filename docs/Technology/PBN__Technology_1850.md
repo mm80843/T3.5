@@ -2,11 +2,11 @@
 
 # __ai triage systems__
 
-## Risks linked to this technology
-
-* [Healthcare system overload](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2134.md)
-
 ## This Technology is identified by the following QID
 
 * [Q780067](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q780067.md)
+
+## Risks linked to this technology
+
+* [Healthcare system overload](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2134.md)
 

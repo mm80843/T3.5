@@ -2,12 +2,12 @@
 
 # __guidelines__
 
+## This Technology is identified by the following QID
+
+* [Q1630279](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1630279.md)
+
 ## Risks linked to this technology
 
 * [Lack of standards for publication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1340.md)
 * [Ethical concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2130.md)
-
-## This Technology is identified by the following QID
-
-* [Q1630279](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1630279.md)
 

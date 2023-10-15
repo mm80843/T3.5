@@ -2,19 +2,19 @@
 
 # __Improved effectiveness of mitigation efforts__
 
-## Articles mentionning this Benefit
-
-* [A general modeling framework for exploring the impact of individual concern and personal protection on vector-borne disease dynamics](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_217.md)
-
 ## Stakeholders benefitting from this Benefit
 
 * [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+
+## Name of the Benefit
+
+Emphasizing the use of personal protective measures can improve the overall effectiveness of mitigation efforts for mosquito-borne diseases.
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors can benefit from investing in the production and distribution of personal protective measures, as it can lead to increased demand and potential market growth.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1169.md)
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Emphasizing the use of personal protective measures can improve the overall effectiveness of mitigation efforts for mosquito-borne diseases.
+* [A general modeling framework for exploring the impact of individual concern and personal protection on vector-borne disease dynamics](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_217.md)
 

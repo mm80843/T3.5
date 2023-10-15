@@ -10,12 +10,12 @@ Regularly washing hands, using hand sanitizers, and disinfecting surfaces can he
 
 * [Covid-19 and asset management in EU: a preliminary assessment of performance and investment styles](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_271.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Spread of Contagious Disease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3227.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_413.md)
 * [hand sanitizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_412.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Spread of Contagious Disease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3227.md)
 

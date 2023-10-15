@@ -10,6 +10,16 @@
 * [Increased recognition of UGS importance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_968.md)
 * [Improved understanding and analysis of public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1245.md)
 
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Urban Planning Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_0.md)
+* [Public and Municipal Services](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_9.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
+* [City Officials](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_0.md)
+
 ## Risk affecting this stakeholder
 
 * [High population density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_620.md)
@@ -82,14 +92,4 @@
 * [Urban Activities and Points of Interests (POIs)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2380.md)
 * [Urban Inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2381.md)
 * [Reduction of environmental noise level](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2388.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
-* [City Officials](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_0.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Urban Planning Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_0.md)
-* [Public and Municipal Services](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_9.md)
 

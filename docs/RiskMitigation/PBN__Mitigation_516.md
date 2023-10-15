@@ -10,10 +10,10 @@ Establish international collaboration and coordination to promote uniform and st
 
 * [Wastewater surveillance for population-wide Covid-19: The present and future](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_213.md)
 
+## This Mitigation is enabled by the following technologies
+
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Lack of coordination and duplicative efforts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2609.md)
-
-## This Mitigation is enabled by the following technologies
-
 

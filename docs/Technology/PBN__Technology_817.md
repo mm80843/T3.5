@@ -2,11 +2,11 @@
 
 # __supply chain management platforms__
 
-## Risks linked to this technology
-
-* [Supply chain disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_10.md)
-
 ## This Technology is identified by the following QID
 
 * [Q492886](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q492886.md)
+
+## Risks linked to this technology
+
+* [Supply chain disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_10.md)
 

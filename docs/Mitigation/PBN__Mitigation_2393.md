@@ -10,10 +10,10 @@ Wolbachia is a type of bacteria that can be introduced into mosquito populations
 
 * [The importance of vector control for the control and elimination of vector-borne diseases](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_64.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
 
 * [introduction of wolbachia bacteria into mosquitoes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4464.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

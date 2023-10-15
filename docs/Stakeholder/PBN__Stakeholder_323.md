@@ -10,6 +10,14 @@
 * [Brand image reinforcement](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_798.md)
 * [Attract attention](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_799.md)
 
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Retail and Consumer Services](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_29.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
+
 ## Risk affecting this stakeholder
 
 * [Disruption of supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1130.md)
@@ -27,12 +35,4 @@
 * [Inadequate Compliance Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1727.md)
 * [Changes in demand patterns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1772.md)
 * [Panic buying](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2281.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Retail and Consumer Services](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_29.md)
 

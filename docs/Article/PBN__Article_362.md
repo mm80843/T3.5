@@ -2,6 +2,10 @@
 
 # __Healthy Sustainable Cities and the COVID-19 Pandemic: A Sustainable Development Goals Perspective__
 
+## Year of publication
+
+2021
+
 ## Title of the article
 
 Healthy Sustainable Cities and the COVID-19 Pandemic: A Sustainable Development Goals Perspective
@@ -9,10 +13,6 @@ Healthy Sustainable Cities and the COVID-19 Pandemic: A Sustainable Development 
 ## DOI of the article
 
 10.1007/978-981-16-3860-2_6
-
-## Year of publication
-
-2021
 
 ## Referenced by other articles
 

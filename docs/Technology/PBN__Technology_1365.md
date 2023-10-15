@@ -2,11 +2,11 @@
 
 # __including mobile testing units and at-home testing kits__
 
-## Risks linked to this technology
-
-* [Incomplete coverage of mild or asymptomatic cases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1952.md)
-
 ## This Technology is identified by the following QID
 
 * [Q2115486](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2115486.md)
+
+## Risks linked to this technology
+
+* [Incomplete coverage of mild or asymptomatic cases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1952.md)
 

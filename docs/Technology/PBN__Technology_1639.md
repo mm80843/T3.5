@@ -2,11 +2,11 @@
 
 # __standardization efforts__
 
-## Risks linked to this technology
-
-* [Interoperability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2129.md)
-
 ## This Technology is identified by the following QID
 
 * [Q369577](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q369577.md)
+
+## Risks linked to this technology
+
+* [Interoperability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2129.md)
 

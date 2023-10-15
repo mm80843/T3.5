@@ -10,10 +10,10 @@ Uses Wi-Fi signals for real-time display of epidemic data, allowing users to acc
 
 * [Mobile Technology Solution for COVID-19: Surveillance and Prevention](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_239.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
 
 * [wi-fi](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4019.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

@@ -10,10 +10,10 @@ Seeks out patients with severe respiratory symptoms who tested negative for infl
 
 * [Response to COVID-19 in Taiwan: Big Data Analytics, New Technology, and Proactive Testing](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_24.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
 
 * [national health insurance (nhi) database](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4409.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

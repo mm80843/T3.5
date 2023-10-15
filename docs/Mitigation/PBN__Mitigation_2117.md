@@ -10,10 +10,10 @@ Implementing AI-based triage systems, such as online medical chatbots, to help p
 
 * [Digital technology and COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_278.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
 
 * [artificial intelligence (ai)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1714.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

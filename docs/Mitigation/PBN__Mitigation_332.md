@@ -10,10 +10,10 @@ Combining self-reported symptoms with data from wearables to improve detection a
 
 * [Wearable technology and COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_195.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
 
 * [self-reporting functionality in wearables](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3166.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

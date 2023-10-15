@@ -7,11 +7,11 @@
 * [Q11974939](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q11974939.md)
 * [Q59283400](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q59283400.md)
 
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Healthcare Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_45.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
 

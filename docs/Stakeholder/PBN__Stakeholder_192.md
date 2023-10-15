@@ -10,16 +10,16 @@
 
 * [Contactless identification](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_402.md)
 
-## Risks that can be mitigated by this stakeholder
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Similar stability to SARS-CoV-1](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2274.md)
-* [Increase in disease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2284.md)
+* [Healthcare](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_48.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## Risks that can be mitigated by this stakeholder
 
-* [Healthcare](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_48.md)
+* [Similar stability to SARS-CoV-1](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2274.md)
+* [Increase in disease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2284.md)
 

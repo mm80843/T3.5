@@ -2,6 +2,11 @@
 
 # __water purification systems__
 
+## This Technology belongs to this TechGroup
+
+* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
+* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
+
 ## Risks linked to this technology
 
 * [Inadequate sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1399.md)
@@ -10,11 +15,6 @@
 ## This Technology is identified by the following QID
 
 * [Q1463025](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1463025.md)
-
-## This Technology belongs to this TechGroup
-
-* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
-* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
 
 ## This Technology belongs to this TechSubgroup
 

@@ -10,12 +10,12 @@ Provide options for changing the space layout to meet different needs and improv
 
 * [How is COVID-19 Experience Transforming Sustainability Requirements of Residential Buildings? A Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_67.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Comfort and privacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3359.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [adjustable walls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4291.md)
 * [screens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4292.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Comfort and privacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3359.md)
 

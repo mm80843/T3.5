@@ -2,6 +2,14 @@
 
 # __data scientists__
 
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Data Management and Security](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_152.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Technology Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_12.md)
+
 ## Risk affecting this stakeholder
 
 * [Lack of consensus on interoperability standards](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_812.md)
@@ -27,12 +35,4 @@
 * [Data quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1753.md)
 * [Logical inconsistencies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1940.md)
 * [Lack of data standardization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1942.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Technology Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_12.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Data Management and Security](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_152.md)
 

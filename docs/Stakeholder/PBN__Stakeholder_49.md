@@ -10,6 +10,14 @@
 * [improvement](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_979.md)
 * [Business support](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1012.md)
 
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Business and Financial Services](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_58.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
+
 ## Risk affecting this stakeholder
 
 * [Reduced sales and fixed costs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1598.md)
@@ -25,12 +33,4 @@
 * [Barriers to accessing funding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_560.md)
 * [Reduced sales and fixed costs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1598.md)
 * [Unfavorable economic climate for innovation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1599.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Business and Financial Services](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_58.md)
 

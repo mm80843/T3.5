@@ -2,9 +2,22 @@
 
 # __Patient Rapport__
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+* [Trainees involve attending surgeon in final patient counseling to ensure comprehensive care and rapport.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1745.md)
+
+## People affected by this risk
+
+* [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
+* [surgical trainees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_42.md)
+
+## Name of the risk
+
+Difficulty in building trust and patient satisfaction.
+
+## Description of the risk
+
+Establishing rapport with patients without in-person encounters during telehealth clinic visits can be challenging.
 
 ## Property: has_RiskType
 
@@ -15,40 +28,27 @@
 * [surgical educators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_778.md)
 * [attending surgeons](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_782.md)
 
+## Property: has_RiskISO_Purpose
+
+* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+
 ## Property: has_RiskHealth
 
 * [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
-
-## Description of the risk
-
-Establishing rapport with patients without in-person encounters during telehealth clinic visits can be challenging.
-
-## Articles mentionning the risk
-
-* [Using Technology to Maintain the Education of Residents During the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_11.md)
-
-## Technologies linked to the risk
-
-* [telehealth conferencing software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_391.md)
-
-## People affected by this risk
-
-* [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
-* [surgical trainees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_42.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
 
-## Mitigations of this risk
+## Articles mentionning the risk
 
-* [Trainees involve attending surgeon in final patient counseling to ensure comprehensive care and rapport.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1745.md)
+* [Using Technology to Maintain the Education of Residents During the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_11.md)
 
 ## Property: has_RiskGBN
 
 * [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
-## Name of the risk
+## Technologies linked to the risk
 
-Difficulty in building trust and patient satisfaction.
+* [telehealth conferencing software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_391.md)
 

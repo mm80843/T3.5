@@ -2,6 +2,19 @@
 
 # __video conferencing__
 
+## This Technology belongs to this TechGroup
+
+* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_3.md)
+
+## This Technology enables the following mitigations
+
+* [Telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_147.md)
+* [Adoption of remote working](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_131.md)
+* [Establishing virtual platforms and telecommunication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_208.md)
+* [Telemedicine and remote consultation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1252.md)
+* [Facilitating remote work](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2278.md)
+* [Virtual care platforms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2377.md)
+
 ## Risks linked to this technology
 
 * [Negative psychological effects of quarantine and social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_643.md)
@@ -14,19 +27,6 @@
 
 * [Q238354](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q238354.md)
 
-## This Technology belongs to this TechGroup
-
-* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_3.md)
-
 ## This Technology belongs to this TechSubgroup
 
-
-## This Technology enables the following mitigations
-
-* [Telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_147.md)
-* [Adoption of remote working](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_131.md)
-* [Establishing virtual platforms and telecommunication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_208.md)
-* [Telemedicine and remote consultation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1252.md)
-* [Facilitating remote work](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2278.md)
-* [Virtual care platforms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2377.md)
 

@@ -2,6 +2,10 @@
 
 # __public health campaigns__
 
+## This Technology belongs to this TechGroup
+
+* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_1.md)
+
 ## Risks linked to this technology
 
 * [Lack of adherence to preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1107.md)
@@ -19,10 +23,6 @@
 ## This Technology is identified by the following QID
 
 * [Q189603](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q189603.md)
-
-## This Technology belongs to this TechGroup
-
-* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_1.md)
 
 ## This Technology belongs to this TechSubgroup
 

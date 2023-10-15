@@ -2,9 +2,22 @@
 
 # __Low sensitivity of current assays for SARS-CoV-2 detection in sewage__
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+* [Improvement of assay sensitivity through the development and implementation of more sensitive and specific assays for SARS-CoV-2 detection in sewage samples.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2168.md)
+
+## People affected by this risk
+
+* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+* [laboratories performing wastewater testing](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1053.md)
+
+## Name of the risk
+
+Low sensitivity of assays can lead to underestimation of the presence and extent of SARS-CoV-2 circulation in the population, hampering effective public health interventions.
+
+## Description of the risk
+
+The low sensitivity of current assays for detecting SARS-CoV-2 RNA in sewage samples can result in false negative results and hinder accurate monitoring of virus circulation in the population.
 
 ## Property: has_RiskType
 
@@ -15,40 +28,27 @@
 * [laboratories](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_5.md)
 * [research institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_413.md)
 
+## Property: has_RiskISO_Purpose
+
+* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+
 ## Property: has_RiskHealth
 
 * [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Description of the risk
-
-The low sensitivity of current assays for detecting SARS-CoV-2 RNA in sewage samples can result in false negative results and hinder accurate monitoring of virus circulation in the population.
-
-## Articles mentionning the risk
-
-* [First detection of SARS-CoV-2 in untreated wastewaters in Italy](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_37.md)
-
-## Technologies linked to the risk
-
-* [development and optimization of more sensitive and specific assays for sars-cov-2 detection in sewage samples](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_950.md)
-
-## People affected by this risk
-
-* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
-* [laboratories performing wastewater testing](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1053.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_4.md)
 
-## Mitigations of this risk
+## Articles mentionning the risk
 
-* [Improvement of assay sensitivity through the development and implementation of more sensitive and specific assays for SARS-CoV-2 detection in sewage samples.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2168.md)
+* [First detection of SARS-CoV-2 in untreated wastewaters in Italy](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_37.md)
 
 ## Property: has_RiskGBN
 
 * [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
-## Name of the risk
+## Technologies linked to the risk
 
-Low sensitivity of assays can lead to underestimation of the presence and extent of SARS-CoV-2 circulation in the population, hampering effective public health interventions.
+* [development and optimization of more sensitive and specific assays for sars-cov-2 detection in sewage samples](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_950.md)
 

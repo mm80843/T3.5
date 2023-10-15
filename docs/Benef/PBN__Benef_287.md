@@ -2,11 +2,6 @@
 
 # __Continued access to education__
 
-## Articles mentionning this Benefit
-
-* [COVID-19: IMPACT OF THE PANDEMIC ON THE SUSTAINABLE DEVELOPMENT GOALS](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_58.md)
-* [COVID-19 pandemic and mitigation strategies: implications for maternal and child health and nutrition](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_222.md)
-
 ## Stakeholders benefitting from this Benefit
 
 * [women](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_23.md)
@@ -14,12 +9,17 @@
 * [children](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_62.md)
 * [students](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_101.md)
 
+## Name of the Benefit
+
+Access to educational resources and continued learning
+
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors benefit from increased demand for educational technology and online learning platforms, leading to higher market demand and potential investment opportunities.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_306.md)
 * [Improved educational outcomes, reduced risk of undernutrition](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1193.md)
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Access to educational resources and continued learning
+* [COVID-19: IMPACT OF THE PANDEMIC ON THE SUSTAINABLE DEVELOPMENT GOALS](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_58.md)
+* [COVID-19 pandemic and mitigation strategies: implications for maternal and child health and nutrition](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_222.md)
 

@@ -2,11 +2,11 @@
 
 # __membrane filtration__
 
-## Risks linked to this technology
-
-* [Ineffectiveness of conventional wastewater treatment processes in removing SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2341.md)
-
 ## This Technology is identified by the following QID
 
 * [Q244772](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q244772.md)
+
+## Risks linked to this technology
+
+* [Ineffectiveness of conventional wastewater treatment processes in removing SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2341.md)
 

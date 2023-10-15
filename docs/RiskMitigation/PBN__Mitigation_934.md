@@ -10,11 +10,11 @@ Increasing ventilation in rooms to reduce the concentration of virus and prevent
 
 * [Persistence of coronaviruses on inanimate surfaces and their inactivation with biocidal agents](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_233.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Viral Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2817.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [ventilation system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3194.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Viral Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2817.md)
 

@@ -2,9 +2,13 @@
 
 # __Supporting Technologies for COVID-19 Prevention: Systemized Review__
 
-## Summary of the article
+## Short summary of the article
 
-During the COVID-19 pandemic, many new inventions and technologies were developed to help prevent and treat the disease. One example is 3D-printed personal protective equipment (PPE), like face shields and masks, which were made to help with the shortage of PPE globally. There are also smart PPEs that have extra features, like translating spoken words into text or purifying the air. Testing methods have also improved, with faster and more efficient ways to test for the virus. For medical treatment, new ventilators that can help people breathe were developed. Overall, these inventions are important in fighting the pandemic and keeping people safe.
+This research paper reviews technologies developed in response to the COVID-19 pandemic, focusing on small to medium-sized supporting equipment such as facial masks and ventilators for prevention and treatment. The study identified 23 cases of inventions related to personal protective equipment (PPE), testing methods, and medical treatment. Regarding PPE, advancements were found in 3D printing technology for the production of face shields and masks, as well as the development of smart PPE with features such as language translation, air purification, and integrated communication devices. The study also highlighted the importance of environmentally-friendly PPE made from recycled materials. In terms of testing methods, innovations included at-home sample collection kits and rapid diagnostic tests for the detection of SARS-CoV-2 antigens. The review also discussed the development of scalable ventilators and alternative respiratory support devices. The study emphasized the need for rigorous testing and approval of these technologies for safety and efficiency before widespread implementation. The paper concludes with recommendations for future pandemic response, including increasing national reserves of critical medical supplies, optimizing manufacturing workflows, and promoting low-cost scalable solutions.
+
+## Year of publication
+
+2022
 
 ## Title of the article
 
@@ -23,14 +27,9 @@ Supporting Technologies for COVID-19 Prevention: Systemized Review
 * [Challenges in ventilator production](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2404.md)
 * [Safety concerns with alternative ventilator designs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2405.md)
 
-## This article points to following mitigation
+## DOI of the article
 
-* [3D-Printed PPE](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2473.md)
-* [Smart PPE](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2474.md)
-* [Green PPE](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2475.md)
-* [3D-Printed Isolation Wards](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2476.md)
-* [Ventilator Innovations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2478.md)
-* [Rapid Testing Methods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2477.md)
+10.2196/30344
 
 ## Benefits listed in this article
 
@@ -40,17 +39,18 @@ Supporting Technologies for COVID-19 Prevention: Systemized Review
 * [Faster results](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1265.md)
 * [Scalability and accessibility](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1266.md)
 
-## Short summary of the article
+## This article points to following mitigation
 
-This research paper reviews technologies developed in response to the COVID-19 pandemic, focusing on small to medium-sized supporting equipment such as facial masks and ventilators for prevention and treatment. The study identified 23 cases of inventions related to personal protective equipment (PPE), testing methods, and medical treatment. Regarding PPE, advancements were found in 3D printing technology for the production of face shields and masks, as well as the development of smart PPE with features such as language translation, air purification, and integrated communication devices. The study also highlighted the importance of environmentally-friendly PPE made from recycled materials. In terms of testing methods, innovations included at-home sample collection kits and rapid diagnostic tests for the detection of SARS-CoV-2 antigens. The review also discussed the development of scalable ventilators and alternative respiratory support devices. The study emphasized the need for rigorous testing and approval of these technologies for safety and efficiency before widespread implementation. The paper concludes with recommendations for future pandemic response, including increasing national reserves of critical medical supplies, optimizing manufacturing workflows, and promoting low-cost scalable solutions.
+* [3D-Printed PPE](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2473.md)
+* [Smart PPE](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2474.md)
+* [Green PPE](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2475.md)
+* [3D-Printed Isolation Wards](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2476.md)
+* [Ventilator Innovations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2478.md)
+* [Rapid Testing Methods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2477.md)
 
-## DOI of the article
+## Summary of the article
 
-10.2196/30344
-
-## Year of publication
-
-2022
+During the COVID-19 pandemic, many new inventions and technologies were developed to help prevent and treat the disease. One example is 3D-printed personal protective equipment (PPE), like face shields and masks, which were made to help with the shortage of PPE globally. There are also smart PPEs that have extra features, like translating spoken words into text or purifying the air. Testing methods have also improved, with faster and more efficient ways to test for the virus. For medical treatment, new ventilators that can help people breathe were developed. Overall, these inventions are important in fighting the pandemic and keeping people safe.
 
 ## Referenced by other articles
 

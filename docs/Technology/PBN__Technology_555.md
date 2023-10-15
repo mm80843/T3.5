@@ -2,11 +2,11 @@
 
 # __use of personal protective equipment in schools and day care facilities__
 
-## Risks linked to this technology
-
-* [Schoolchildren and children in day care](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1354.md)
-
 ## This Technology is identified by the following QID
 
 * [Q1333024](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1333024.md)
+
+## Risks linked to this technology
+
+* [Schoolchildren and children in day care](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1354.md)
 

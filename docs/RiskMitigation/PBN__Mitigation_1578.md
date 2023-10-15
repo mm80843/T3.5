@@ -10,10 +10,10 @@ Proliferation of network-addressable devices embedded in everyday objects for in
 
 * [Continuous IEQ monitoring system: Context and development](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_160.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
 
 * [internet of things](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2919.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

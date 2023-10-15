@@ -6,14 +6,14 @@
 
 * [Q5422399](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5422399.md)
 
-## Risk affecting this stakeholder
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Poor Thermal Conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1118.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## Risk affecting this stakeholder
 
+* [Poor Thermal Conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1118.md)
 

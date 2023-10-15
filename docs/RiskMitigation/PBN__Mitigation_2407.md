@@ -10,11 +10,11 @@ Allows users to access and explore outbreak data without coding, providing a use
 
 * [Open-source analytics tools for studying the COVID-19 coronavirus outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_218.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
 
 * [rstudio shiny framework](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4477.md)
 * [web development tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4478.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

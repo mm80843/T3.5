@@ -2,9 +2,9 @@
 
 # __epidemiologists__
 
-## Risks that can be mitigated by this stakeholder
+## Risk affecting this stakeholder
 
-* [Homogeneous mixing assumptions in epidemic models](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1213.md)
+* [Inaccurate forecasting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2365.md)
 
 ## This Stakeholder can get these Benefits from mitigation measures
 
@@ -12,7 +12,7 @@
 * [Improved estimation of reproduction numbers](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_828.md)
 * [Enriched ontology](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1237.md)
 
-## Risk affecting this stakeholder
+## Risks that can be mitigated by this stakeholder
 
-* [Inaccurate forecasting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2365.md)
+* [Homogeneous mixing assumptions in epidemic models](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1213.md)
 

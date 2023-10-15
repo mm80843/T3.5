@@ -2,9 +2,24 @@
 
 # __Population susceptibility__
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_275.md)
+* [Blood types](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_597.md)
+* [Prioritize testing and protection for vulnerable populations, such as the elderly and those with underlying health conditions.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3063.md)
+
+## People affected by this risk
+
+* [elderly individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_806.md)
+* [individuals with underlying health conditions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_889.md)
+
+## Name of the risk
+
+Higher risk of infection and mortality among vulnerable populations.
+
+## Description of the risk
+
+Susceptibility to SARS-CoV-2 varies among different populations based on age, gender, and other factors.
 
 ## Property: has_RiskType
 
@@ -17,42 +32,27 @@
 * [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
 * [public health officials](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_310.md)
 
+## Property: has_RiskISO_Purpose
+
+* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+
 ## Property: has_RiskHealth
 
 * [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Description of the risk
-
-Susceptibility to SARS-CoV-2 varies among different populations based on age, gender, and other factors.
-
-## Articles mentionning the risk
-
-* [Current knowledge of COVID-19: Advances, challenges and future perspectives](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_118.md)
-
-## Technologies linked to the risk
-
-* [targeted testing and protection measures based on population characteristics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1957.md)
-
-## People affected by this risk
-
-* [elderly individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_806.md)
-* [individuals with underlying health conditions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_889.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Living and working environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_1.md)
 
-## Mitigations of this risk
+## Articles mentionning the risk
 
-* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_275.md)
-* [Blood types](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_597.md)
-* [Prioritize testing and protection for vulnerable populations, such as the elderly and those with underlying health conditions.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3063.md)
+* [Current knowledge of COVID-19: Advances, challenges and future perspectives](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_118.md)
 
 ## Property: has_RiskGBN
 
 * [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Name of the risk
+## Technologies linked to the risk
 
-Higher risk of infection and mortality among vulnerable populations.
+* [targeted testing and protection measures based on population characteristics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1957.md)
 

@@ -10,13 +10,13 @@ Adopting design features that are suitable for the climate, such as courtyards, 
 
 * [Occupants’ behavior and activity patterns influencing the energy consumption in the Kuwaiti residences](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_260.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Inefficient energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2427.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [courtyard concept](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2956.md)
 * [thick walls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2957.md)
 * [wind catchers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2958.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Inefficient energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2427.md)
 

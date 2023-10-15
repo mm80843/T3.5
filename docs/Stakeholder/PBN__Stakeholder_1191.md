@@ -7,15 +7,15 @@
 * [Q1006644](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1006644.md)
 * [Q2991162](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2991162.md)
 
-## Risks that can be mitigated by this stakeholder
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Heterogeneity of state policies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1786.md)
+* [Government and Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_8.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [National Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_7.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## Risks that can be mitigated by this stakeholder
 
-* [Government and Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_8.md)
+* [Heterogeneity of state policies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1786.md)
 

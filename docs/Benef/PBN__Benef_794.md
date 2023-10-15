@@ -2,19 +2,16 @@
 
 # __Financial support__
 
-## Articles mentionning this Benefit
-
-* [How COVID-19 Redefines the Concept of Sustainability](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_202.md)
-* [Mitigation strategies to fight the COVID-19 pandemic—present, future and beyond](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_200.md)
-* [Startups in times of crisis – A rapid response to the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_158.md)
-* [Non-medical Interventions to Reduce the Burden of Psychosocial and Economic Impacts of COVID-19 Pandemic: A Scope Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_243.md)
-
 ## Stakeholders benefitting from this Benefit
 
 * [startups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_322.md)
 * [businesses and individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_383.md)
 * [industries](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_389.md)
 * [impoverished households](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_460.md)
+
+## Name of the Benefit
+
+Provides immediate relief and stability, prevents further economic decline
 
 ## Description of Benefits pertaining to Beneficiaries
 
@@ -23,7 +20,10 @@
 * [Private investors would benefit from the financial stability of industries and potential increase in stock value](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1084.md)
 * [Stabilizes households, prevents poverty, stimulates the economy](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1314.md)
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Provides immediate relief and stability, prevents further economic decline
+* [How COVID-19 Redefines the Concept of Sustainability](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_202.md)
+* [Mitigation strategies to fight the COVID-19 pandemic—present, future and beyond](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_200.md)
+* [Startups in times of crisis – A rapid response to the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_158.md)
+* [Non-medical Interventions to Reduce the Burden of Psychosocial and Economic Impacts of COVID-19 Pandemic: A Scope Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_243.md)
 

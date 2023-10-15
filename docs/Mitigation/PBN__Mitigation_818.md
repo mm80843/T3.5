@@ -10,11 +10,11 @@ Wearing masks in public spaces helps to reduce the spread of airborne pathogens 
 
 * [Assessing the health and hygiene performance of apartment buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_180.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_252.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1053.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_252.md)
 

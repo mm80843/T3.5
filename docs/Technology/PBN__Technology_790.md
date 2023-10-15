@@ -2,11 +2,11 @@
 
 # __advanced liquid disinfectants__
 
-## Risks linked to this technology
-
-* [Inefficacy of liquid disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1510.md)
-
 ## This Technology is identified by the following QID
 
 * [Q73984](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q73984.md)
+
+## Risks linked to this technology
+
+* [Inefficacy of liquid disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1510.md)
 

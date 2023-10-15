@@ -84,6 +84,14 @@
 * [Reduction of airborne viruses](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1337.md)
 * [Killing or inhibition of germs](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1338.md)
 
+## This Stakeholder belongs to this StakeholderSubgroup
+
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
+* [Building Occupants](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_11.md)
+
 ## Risk affecting this stakeholder
 
 * [Noise pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_150.md)
@@ -136,12 +144,4 @@
 * [Surface stability of SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2271.md)
 * [Variability of virus stability on different surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2272.md)
 * [High occupant density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2395.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
-* [Building Occupants](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_11.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
 

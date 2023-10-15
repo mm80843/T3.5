@@ -10,12 +10,12 @@ Collecting data using robust methods and unbiased sampling techniques to avoid b
 
 * [Coronavirus disease 2019: The harms of exaggerated information and non‐evidence‐based measures](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_101.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Biased estimates and inferences](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2795.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [robust data collection methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3520.md)
 * [unbiased sampling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3521.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Biased estimates and inferences](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2795.md)
 

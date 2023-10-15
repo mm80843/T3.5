@@ -6,11 +6,11 @@
 
 10.1177/03091325211038718
 
-## Year of publication
-
-2022
-
 ## Title of the article
 
 Automated infrastructure: COVID-19 and the shifting geographies of supply chain capitalism
+
+## Year of publication
+
+2022
 

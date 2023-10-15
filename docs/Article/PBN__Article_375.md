@@ -2,6 +2,10 @@
 
 # __Meta-synthesis of COVID-19 lessons: charting sustainable management of future pandemics__
 
+## Year of publication
+
+2021
+
 ## Title of the article
 
 Meta-synthesis of COVID-19 lessons: charting sustainable management of future pandemics
@@ -9,10 +13,6 @@ Meta-synthesis of COVID-19 lessons: charting sustainable management of future pa
 ## DOI of the article
 
 10.1080/12265934.2021.1936136
-
-## Year of publication
-
-2021
 
 ## Referenced by other articles
 

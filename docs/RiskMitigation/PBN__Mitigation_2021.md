@@ -10,10 +10,10 @@ Robots can reduce interpersonal contact, assist with delivery and transportation
 
 * [The role of contemporary digital tools and technologies in COVID19 crisis: An exploratory analysis](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_226.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
 
 * [robotics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1173.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

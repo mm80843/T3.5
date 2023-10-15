@@ -10,10 +10,10 @@ Large number of wireless sensing devices measuring and disseminating useful info
 
 * [Continuous IEQ monitoring system: Context and development](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_160.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
 
 * [wireless sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3929.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

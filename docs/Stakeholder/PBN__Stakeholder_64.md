@@ -17,6 +17,14 @@
 * [Scalability and accessibility](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1266.md)
 * [Decreased workload for healthcare staff](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1399.md)
 
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Healthcare](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_48.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
+
 ## Risk affecting this stakeholder
 
 * [Shortage of medical equipment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_764.md)
@@ -28,12 +36,4 @@
 ## Risks that can be mitigated by this stakeholder
 
 * [Inefficient medication delivery](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2188.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Healthcare](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_48.md)
 

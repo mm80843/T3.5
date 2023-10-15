@@ -2,9 +2,22 @@
 
 # __Shortage of personal protective equipment (PPE)__
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+* [Increase production and distribution of PPE, implement reuse and recycling programs.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2018.md)
+
+## People affected by this risk
+
+* [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+
+## Name of the risk
+
+Increased risk of exposure to the virus, higher rates of infection among healthcare workers.
+
+## Description of the risk
+
+There is a shortage of PPE, such as masks and gloves, for healthcare workers and the general population.
 
 ## Property: has_RiskType
 
@@ -16,41 +29,28 @@
 * [manufacturers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_34.md)
 * [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
 
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
 ## Property: has_RiskHealth
 
 * [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Description of the risk
-
-There is a shortage of PPE, such as masks and gloves, for healthcare workers and the general population.
-
-## Articles mentionning the risk
-
-* [Sars-CoV-2 (COVID-19) inactivation capability of copper-coated touch surface fabricated by cold-spray technology](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_16.md)
-
-## Technologies linked to the risk
-
-* [manufacturing facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_766.md)
-* [supply chain management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_767.md)
-
-## People affected by this risk
-
-* [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
-* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Community infrastructures](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_9.md)
 
-## Mitigations of this risk
+## Articles mentionning the risk
 
-* [Increase production and distribution of PPE, implement reuse and recycling programs.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2018.md)
+* [Sars-CoV-2 (COVID-19) inactivation capability of copper-coated touch surface fabricated by cold-spray technology](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_16.md)
 
 ## Property: has_RiskGBN
 
 * [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Name of the risk
+## Technologies linked to the risk
 
-Increased risk of exposure to the virus, higher rates of infection among healthcare workers.
+* [manufacturing facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_766.md)
+* [supply chain management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_767.md)
 

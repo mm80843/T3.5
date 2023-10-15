@@ -2,11 +2,11 @@
 
 # __vegetation management techniques__
 
-## Risks linked to this technology
-
-* [Lack of maintenance and upkeep of UGS](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2258.md)
-
 ## This Technology is identified by the following QID
 
 * [Q1387972](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1387972.md)
+
+## Risks linked to this technology
+
+* [Lack of maintenance and upkeep of UGS](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2258.md)
 

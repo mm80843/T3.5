@@ -2,11 +2,11 @@
 
 # __hazard mapping tools__
 
-## Risks linked to this technology
-
-* [Vulnerability to natural hazards](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2229.md)
-
 ## This Technology is identified by the following QID
 
 * [Q1503166](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1503166.md)
+
+## Risks linked to this technology
+
+* [Vulnerability to natural hazards](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2229.md)
 

@@ -2,11 +2,6 @@
 
 # __internet access__
 
-## Risks linked to this technology
-
-* [Education disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_234.md)
-* [Unequal impact on the educational outcomes of children of immigrants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1846.md)
-
 ## This Technology is identified by the following QID
 
 * [Q1472399](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1472399.md)
@@ -31,4 +26,9 @@
 * [Posting caps with real data related to COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_972.md)
 * [Enhanced education access and equity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1072.md)
 * [Increased access to teleworking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1499.md)
+
+## Risks linked to this technology
+
+* [Education disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_234.md)
+* [Unequal impact on the educational outcomes of children of immigrants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1846.md)
 

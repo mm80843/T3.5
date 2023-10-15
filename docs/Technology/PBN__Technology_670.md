@@ -2,11 +2,11 @@
 
 # __upgraded hvac systems__
 
-## Risks linked to this technology
-
-* [Inadequate infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1419.md)
-
 ## This Technology is identified by the following QID
 
 * [Q1798773](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1798773.md)
+
+## Risks linked to this technology
+
+* [Inadequate infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1419.md)
 

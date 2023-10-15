@@ -2,35 +2,9 @@
 
 # __blockchain technology__
 
-## Risks linked to this technology
-
-* [Supply chain disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_10.md)
-* [Privacy and security concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_25.md)
-* [Privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_47.md)
-* [Shortage of medical equipment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_764.md)
-* [Spread of false information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_848.md)
-* [Risk of infection through face-to-face contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_849.md)
-* [Disruption of supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1130.md)
-* [Delayed infectious disease reporting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1240.md)
-* [Corruption in donation process](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1241.md)
-* [Privacy and data protection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1274.md)
-* [Misinformation and fake news](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1372.md)
-* [Supply chain disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1400.md)
-* [Legal and contractual disputes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1865.md)
-* [Lack of trustable data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2066.md)
-* [Globalization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2075.md)
-* [Inefficient medication delivery](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2188.md)
-
-## This Technology is identified by the following QID
-
-* [Q20514253](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q20514253.md)
-
 ## This Technology belongs to this TechGroup
 
 * [Blockchain and cryptography](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_10.md)
-
-## This Technology belongs to this TechSubgroup
-
 
 ## This Technology enables the following mitigations
 
@@ -56,4 +30,30 @@
 * [Medication delivery through blockchain](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2118.md)
 * [Improved online education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1887.md)
 * [Blockchain for data security](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1247.md)
+
+## Risks linked to this technology
+
+* [Supply chain disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_10.md)
+* [Privacy and security concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_25.md)
+* [Privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_47.md)
+* [Shortage of medical equipment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_764.md)
+* [Spread of false information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_848.md)
+* [Risk of infection through face-to-face contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_849.md)
+* [Disruption of supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1130.md)
+* [Delayed infectious disease reporting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1240.md)
+* [Corruption in donation process](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1241.md)
+* [Privacy and data protection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1274.md)
+* [Misinformation and fake news](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1372.md)
+* [Supply chain disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1400.md)
+* [Legal and contractual disputes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1865.md)
+* [Lack of trustable data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2066.md)
+* [Globalization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2075.md)
+* [Inefficient medication delivery](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2188.md)
+
+## This Technology is identified by the following QID
+
+* [Q20514253](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q20514253.md)
+
+## This Technology belongs to this TechSubgroup
+
 

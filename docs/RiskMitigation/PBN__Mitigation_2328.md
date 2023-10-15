@@ -10,9 +10,9 @@ Complete removal of visible contaminants on surfaces of treatment facilities and
 
 * [SARS-CoV-2 RNA detection of hospital isolation wards hygiene monitoring during the Coronavirus Disease 2019 outbreak in a Chinese hospital](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_55.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
+
+
+## Risks possibly mitigated by this Mitigation
 
 

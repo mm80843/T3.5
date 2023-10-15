@@ -11,16 +11,16 @@
 * [Reduction of health risks](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_936.md)
 * [Reduction of disease spread and contamination](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_937.md)
 
-## Risks that can be mitigated by this stakeholder
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Contamination of surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1332.md)
-* [Environmental](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1582.md)
-* [Healthcare-](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2322.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## Risks that can be mitigated by this stakeholder
 
+* [Contamination of surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1332.md)
+* [Environmental](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1582.md)
+* [Healthcare-](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2322.md)
 

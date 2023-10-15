@@ -2,11 +2,11 @@
 
 # __touchless technologies for doors and faucets__
 
-## Risks linked to this technology
-
-* [Transmission through contaminated surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1374.md)
-
 ## This Technology is identified by the following QID
 
 * [Q656656](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q656656.md)
+
+## Risks linked to this technology
+
+* [Transmission through contaminated surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1374.md)
 

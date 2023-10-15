@@ -12,11 +12,11 @@ Isolate individuals who have been in contact with confirmed cases to prevent fur
 * [COVID-19 Pandemic: Prevention and Protection Measures to Be Adopted at the Workplace](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_284.md)
 * [Persistence of coronaviruses on inanimate surfaces and their inactivation with biocidal agents](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_233.md)
 
+## This Mitigation is enabled by the following technologies
+
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Viral Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2817.md)
 * [International Spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3282.md)
-
-## This Mitigation is enabled by the following technologies
-
 

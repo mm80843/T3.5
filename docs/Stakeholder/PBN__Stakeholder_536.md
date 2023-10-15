@@ -12,6 +12,14 @@
 * [Deterrence of anti-social behavior](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1384.md)
 * [Efficient crisis response](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1389.md)
 
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [City Officials and Administrators](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_4.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [City Officials](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_0.md)
+
 ## Risks that can be mitigated by this stakeholder
 
 * [Future of large public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_912.md)
@@ -20,12 +28,4 @@
 * [Fewer people in public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1464.md)
 * [Changes in use and behavior in public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1465.md)
 * [Perceptions of public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1466.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [City Officials](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_0.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [City Officials and Administrators](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_4.md)
 

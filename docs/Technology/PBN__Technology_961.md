@@ -2,11 +2,11 @@
 
 # __communication and mediation platforms__
 
-## Risks linked to this technology
-
-* [Increase in neighbour noise during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1632.md)
-
 ## This Technology is identified by the following QID
 
 * [Q223871](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q223871.md)
+
+## Risks linked to this technology
+
+* [Increase in neighbour noise during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1632.md)
 

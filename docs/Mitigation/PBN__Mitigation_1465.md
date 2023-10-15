@@ -10,11 +10,11 @@ Providing accurate and timely information to the public through various communic
 
 * [The impacts of knowledge, risk perception, emotion and information on citizens’ protective behaviors during the outbreak of COVID-19: a cross-sectional study in China](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_74.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
 
 * [media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3640.md)
 * [government communications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3885.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

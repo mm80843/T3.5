@@ -2,11 +2,11 @@
 
 # __remote education technologies__
 
-## Risks linked to this technology
-
-* [School closures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1887.md)
-
 ## This Technology is identified by the following QID
 
 * [Q1068473](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1068473.md)
+
+## Risks linked to this technology
+
+* [School closures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1887.md)
 

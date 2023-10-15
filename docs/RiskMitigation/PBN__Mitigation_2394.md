@@ -10,13 +10,13 @@ Spatial repellents are chemicals that prevent mosquitoes or other vectors from e
 
 * [The importance of vector control for the control and elimination of vector-borne diseases](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_64.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
 
 * [spatial repellents](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4465.md)
 * [such as coils](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4466.md)
 * [emanators](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4467.md)
 * [or impregnated fabric](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4468.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

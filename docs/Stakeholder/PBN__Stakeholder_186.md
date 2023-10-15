@@ -10,6 +10,13 @@
 
 * [Enhanced operational efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_394.md)
 
+## This Stakeholder belongs to this StakeholderSubgroup
+
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
+
 ## Risk affecting this stakeholder
 
 * [Economic impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_124.md)
@@ -28,11 +35,4 @@
 * [Cybersecurity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2282.md)
 * [Person-to-person transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2372.md)
 * [Remote operation and telecommuting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2376.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
 

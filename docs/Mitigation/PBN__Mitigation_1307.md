@@ -11,12 +11,12 @@ Creating reactive ions in the air that react with airborne contaminants, includi
 * [Designing Post COVID-19 Buildings: Approaches for Achieving Healthy Buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_282.md)
 * [Indoor Air Quality: Rethinking rules of building design strategies in post-pandemic architecture](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_206.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Ozone emissions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3016.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [high voltage electrodes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3779.md)
 * [bipolar ionization technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3851.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Ozone emissions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3016.md)
 

@@ -2,6 +2,14 @@
 
 # __disinfectant sprays__
 
+## This Technology belongs to this TechGroup
+
+* [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_9.md)
+
+## This Technology enables the following mitigations
+
+* [Surface Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_932.md)
+
 ## Risks linked to this technology
 
 * [Contamination of floor surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1420.md)
@@ -12,15 +20,7 @@
 
 * [Q73984](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q73984.md)
 
-## This Technology belongs to this TechGroup
-
-* [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_9.md)
-
 ## This Technology belongs to this TechSubgroup
 
 * [Disinfection Equipment and Supplies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_87.md)
-
-## This Technology enables the following mitigations
-
-* [Surface Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_932.md)
 

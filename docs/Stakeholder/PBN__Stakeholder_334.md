@@ -14,18 +14,18 @@
 * [Multifunctional space](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_825.md)
 * [Enhanced balcony features](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_826.md)
 
-## Risks that can be mitigated by this stakeholder
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Limited space in apartments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1672.md)
-* [Limited access to nature and fresh air](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1674.md)
-* [Lack of privacy in apartments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1676.md)
+* [Owners](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_59.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
 * [Housing And Property](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_10.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## Risks that can be mitigated by this stakeholder
 
-* [Owners](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_59.md)
+* [Limited space in apartments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1672.md)
+* [Limited access to nature and fresh air](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1674.md)
+* [Lack of privacy in apartments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1676.md)
 

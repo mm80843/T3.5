@@ -10,12 +10,12 @@ Using IoT and sensors to monitor and prioritize essential services like power, w
 
 * [The Smart City and Covid‐19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_294.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Service disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3423.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_200.md)
 * [iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_277.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Service disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3423.md)
 

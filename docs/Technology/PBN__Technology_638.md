@@ -2,11 +2,11 @@
 
 # __diversification strategies__
 
-## Risks linked to this technology
-
-* [Financial impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_599.md)
-
 ## This Technology is identified by the following QID
 
 * [Q731453](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q731453.md)
+
+## Risks linked to this technology
+
+* [Financial impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_599.md)
 

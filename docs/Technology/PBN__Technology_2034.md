@@ -2,11 +2,11 @@
 
 # __adherence to regulatory standards__
 
-## Risks linked to this technology
-
-* [Safety concerns with alternative ventilator designs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2405.md)
-
 ## This Technology is identified by the following QID
 
 * [Q626741](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q626741.md)
+
+## Risks linked to this technology
+
+* [Safety concerns with alternative ventilator designs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2405.md)
 

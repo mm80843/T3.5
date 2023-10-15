@@ -6,6 +6,14 @@
 
 * [Remote healthcare and work](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_105.md)
 
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Educational Institutions](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_16.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Education](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_1.md)
+
 ## Risks that can be mitigated by this stakeholder
 
 * [Digital divide and information gap](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_751.md)
@@ -17,12 +25,4 @@
 * [Limited accessibility due to education level](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2246.md)
 * [Lack of digital literacy and skills](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2328.md)
 * [Remote operation and telecommuting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2376.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Education](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_1.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Educational Institutions](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_16.md)
 

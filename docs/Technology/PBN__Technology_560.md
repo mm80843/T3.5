@@ -2,11 +2,11 @@
 
 # __use of telemedicine for remote care__
 
-## Risks linked to this technology
-
-* [Spread of COVID-19 through institutions for care of the elderly](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1355.md)
-
 ## This Technology is identified by the following QID
 
 * [Q46994](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q46994.md)
+
+## Risks linked to this technology
+
+* [Spread of COVID-19 through institutions for care of the elderly](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1355.md)
 

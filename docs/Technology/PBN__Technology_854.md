@@ -2,11 +2,11 @@
 
 # __hydrogen peroxide__
 
-## Risks linked to this technology
-
-* [Inactivation of coronaviruses by biocidal agents in suspension tests](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1549.md)
-
 ## This Technology is identified by the following QID
 
 * [Q171877](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q171877.md)
+
+## Risks linked to this technology
+
+* [Inactivation of coronaviruses by biocidal agents in suspension tests](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1549.md)
 

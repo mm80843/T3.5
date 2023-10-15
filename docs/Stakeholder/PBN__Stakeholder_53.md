@@ -26,6 +26,14 @@
 * [Potential return on investment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_928.md)
 * [Economic growth and sustainable development](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_929.md)
 
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Society](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_128.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Community Stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_8.md)
+
 ## Risk affecting this stakeholder
 
 * [Energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_745.md)
@@ -36,12 +44,4 @@
 ## Risks that can be mitigated by this stakeholder
 
 * [Cyber-attacks and disinformation campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2228.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Community Stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_8.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Society](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_128.md)
 

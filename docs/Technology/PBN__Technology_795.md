@@ -2,10 +2,6 @@
 
 # __digital contact tracing__
 
-## Risks linked to this technology
-
-* [Insufficient outbreak investigation and response](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1514.md)
-
 ## This Technology is identified by the following QID
 
 * [Q1128437](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1128437.md)
@@ -13,4 +9,8 @@
 ## This Technology enables the following mitigations
 
 * [Contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_250.md)
+
+## Risks linked to this technology
+
+* [Insufficient outbreak investigation and response](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1514.md)
 

@@ -10,10 +10,10 @@ Using Unity 3D to visualize the optimal physical space layouts and generate 3D s
 
 * [Social distancing enhanced automated optimal design of physical spaces in the wake of the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_186.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
 
 * [unity 3d](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4342.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

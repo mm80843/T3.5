@@ -6,11 +6,11 @@
 
 10.1596/978-1-4648-0527-1
 
-## Year of publication
-
-2017
-
 ## Title of the article
 
 Disease Control Priorities, Third Edition (Volume 9): Improving Health and Reducing Poverty
+
+## Year of publication
+
+2017
 

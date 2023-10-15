@@ -2,9 +2,23 @@
 
 # __Impact on developing countries__
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+* [Global cooperation for economic recovery](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_625.md)
+* [Provide support and financial assistance to developing countries, promote debt relief and global cooperation.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2953.md)
+
+## People affected by this risk
+
+* [vulnerable communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_28.md)
+* [individuals in developing countries](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1518.md)
+
+## Name of the risk
+
+Increase in poverty, decline in exports, loss of jobs and income, economic instability.
+
+## Description of the risk
+
+Developing countries face economic and social impacts due to disruptions in global supply chains, tourism, remittances, and capital flows.
 
 ## Property: has_RiskType
 
@@ -15,40 +29,26 @@
 * [governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
 * [international organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_242.md)
 
+## Property: has_RiskISO_Purpose
+
+* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+
 ## Property: has_RiskHealth
 
 * [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Description of the risk
-
-Developing countries face economic and social impacts due to disruptions in global supply chains, tourism, remittances, and capital flows.
-
-## Articles mentionning the risk
-
-* [The COVID-19 pandemic: Lessons on building more equal and sustainable societies](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_124.md)
-
-## Technologies linked to the risk
-
-
-## People affected by this risk
-
-* [vulnerable communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_28.md)
-* [individuals in developing countries](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1518.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Living and working environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_1.md)
 
-## Mitigations of this risk
+## Articles mentionning the risk
 
-* [Global cooperation for economic recovery](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_625.md)
-* [Provide support and financial assistance to developing countries, promote debt relief and global cooperation.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2953.md)
+* [The COVID-19 pandemic: Lessons on building more equal and sustainable societies](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_124.md)
 
 ## Property: has_RiskGBN
 
 * [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Name of the risk
+## Technologies linked to the risk
 
-Increase in poverty, decline in exports, loss of jobs and income, economic instability.
 

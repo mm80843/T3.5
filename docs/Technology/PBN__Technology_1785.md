@@ -2,6 +2,10 @@
 
 # __gardening spaces__
 
+## This Technology belongs to this TechGroup
+
+* [Urban technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_14.md)
+
 ## Risks linked to this technology
 
 * [LS2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2222.md)
@@ -9,10 +13,6 @@
 ## This Technology is identified by the following QID
 
 * [Q124946](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q124946.md)
-
-## This Technology belongs to this TechGroup
-
-* [Urban technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_14.md)
 
 ## This Technology belongs to this TechSubgroup
 

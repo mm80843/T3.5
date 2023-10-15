@@ -2,9 +2,21 @@
 
 # __Higher likelihood of COVID-19 infection among immigrants__
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
+* [Targeted communication strategies, improving housing conditions, and enhancing public transport safety measures.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2428.md)
+
+## People affected by this risk
+
+* [immigrants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_489.md)
+
+## Name of the risk
+
+Immigrants face a higher risk of catching COVID-19 compared to native-born individuals.
+
+## Description of the risk
+
+Immigrants are more likely to contract COVID-19 due to factors such as poor housing conditions, reliance on public transport, and living in densely populated areas.
 
 ## Property: has_RiskType
 
@@ -15,40 +27,28 @@
 * [governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
 * [health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1249.md)
 
+## Property: has_RiskISO_Purpose
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
+
 ## Property: has_RiskHealth
 
 * [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Description of the risk
-
-Immigrants are more likely to contract COVID-19 due to factors such as poor housing conditions, reliance on public transport, and living in densely populated areas.
-
-## Articles mentionning the risk
-
-* [What has been the impact of the COVID-19 pandemic on immigrants? An update on recent evidence](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_287.md)
-
-## Technologies linked to the risk
-
-* [contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_11.md)
-* [improved testing capabilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_571.md)
-
-## People affected by this risk
-
-* [immigrants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_489.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
 
-## Mitigations of this risk
+## Articles mentionning the risk
 
-* [Targeted communication strategies, improving housing conditions, and enhancing public transport safety measures.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2428.md)
+* [What has been the impact of the COVID-19 pandemic on immigrants? An update on recent evidence](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_287.md)
 
 ## Property: has_RiskGBN
 
 * [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Name of the risk
+## Technologies linked to the risk
 
-Immigrants face a higher risk of catching COVID-19 compared to native-born individuals.
+* [contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_11.md)
+* [improved testing capabilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_571.md)
 

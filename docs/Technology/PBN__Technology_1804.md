@@ -2,11 +2,11 @@
 
 # __support for entrepreneurship__
 
-## Risks linked to this technology
-
-* [Desertification of urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2232.md)
-
 ## This Technology is identified by the following QID
 
 * [Q3908516](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3908516.md)
+
+## Risks linked to this technology
+
+* [Desertification of urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2232.md)
 

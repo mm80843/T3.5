@@ -10,10 +10,10 @@ Ensures individuals maintain a safe distance from each other in office spaces to
 
 * [The impact of COVID-19 outbreak on United Kingdom infrastructure sector](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_141.md)
 
+## This Mitigation is enabled by the following technologies
+
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Difficulty in collaboration and communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2799.md)
-
-## This Mitigation is enabled by the following technologies
-
 

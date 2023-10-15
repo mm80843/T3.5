@@ -2,11 +2,11 @@
 
 # __production optimization tools__
 
-## Risks linked to this technology
-
-* [Scarcity of medical equipment and medication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1020.md)
-
 ## This Technology is identified by the following QID
 
 * [Q353396](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q353396.md)
+
+## Risks linked to this technology
+
+* [Scarcity of medical equipment and medication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1020.md)
 

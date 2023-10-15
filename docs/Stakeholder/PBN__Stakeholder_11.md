@@ -10,6 +10,14 @@
 
 * [Estimation of exposure metrics](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_16.md)
 
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Real Estate and Construction](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_31.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
+
 ## Risk affecting this stakeholder
 
 * [Home structure differences](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1483.md)
@@ -26,12 +34,4 @@
 * [Limited access to outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1740.md)
 * [Inadequate building design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1744.md)
 * [Environmental-based](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2107.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Real Estate and Construction](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_31.md)
 

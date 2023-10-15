@@ -2,11 +2,11 @@
 
 # __sanitation technologies__
 
-## Risks linked to this technology
-
-* [Virus propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1032.md)
-
 ## This Technology is identified by the following QID
 
 * [Q949149](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q949149.md)
+
+## Risks linked to this technology
+
+* [Virus propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1032.md)
 

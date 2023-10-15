@@ -10,13 +10,13 @@ Rapidly convert public venues into hospitals with adaptable infrastructure to me
 
 * [Emergency Healthcare Facilities: Managing Design in a Post Covid-19 World](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_122.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Limited time for project delivery](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2959.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [flexible mechanical](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3727.md)
 * [electrical](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3728.md)
 * [and plumbing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3729.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Limited time for project delivery](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2959.md)
 

@@ -2,11 +2,11 @@
 
 # __improved screening and testing methods__
 
-## Risks linked to this technology
-
-* [Contamination of blood products](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2053.md)
-
 ## This Technology is identified by the following QID
 
 * [Q1163564](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1163564.md)
+
+## Risks linked to this technology
+
+* [Contamination of blood products](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2053.md)
 

@@ -10,10 +10,10 @@ Communicates accurate and reliable medical data, adhering to privacy and data pr
 
 * [Health Information Exchange with Blockchain amid Covid-19-like Pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_78.md)
 
+## This Mitigation is enabled by the following technologies
+
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Miscommunication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2576.md)
-
-## This Mitigation is enabled by the following technologies
-
 

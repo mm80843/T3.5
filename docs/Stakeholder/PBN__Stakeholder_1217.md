@@ -6,14 +6,14 @@
 
 * [Q36861741](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q36861741.md)
 
-## Risk affecting this stakeholder
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Impact on real estate and housing sector](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1814.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## Risk affecting this stakeholder
 
+* [Impact on real estate and housing sector](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1814.md)
 

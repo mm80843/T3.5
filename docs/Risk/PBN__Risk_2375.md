@@ -2,9 +2,22 @@
 
 # __Limited social interactions and mental health impact__
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+* [Deployment of social robots for continued social interactions and support.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3084.md)
+
+## People affected by this risk
+
+* [patients in quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1581.md)
+* [individuals in isolation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1582.md)
+
+## Name of the risk
+
+Increased risk of mental health issues
+
+## Description of the risk
+
+Prolonged isolation due to quarantine measures may negatively impact mental health. Social robots can provide continued social interactions and adherence to treatment without the risk of disease transmission.
 
 ## Property: has_RiskType
 
@@ -15,40 +28,27 @@
 * [healthcare institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_269.md)
 * [mental health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_605.md)
 
+## Property: has_RiskISO_Purpose
+
+* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+
 ## Property: has_RiskHealth
 
 * [mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
-
-## Description of the risk
-
-Prolonged isolation due to quarantine measures may negatively impact mental health. Social robots can provide continued social interactions and adherence to treatment without the risk of disease transmission.
-
-## Articles mentionning the risk
-
-* [Combating COVID-19—The role of robotics in managing public health and infectious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_23.md)
-
-## Technologies linked to the risk
-
-* [social robots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1987.md)
-
-## People affected by this risk
-
-* [patients in quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1581.md)
-* [individuals in isolation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1582.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
 
-## Mitigations of this risk
+## Articles mentionning the risk
 
-* [Deployment of social robots for continued social interactions and support.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3084.md)
+* [Combating COVID-19—The role of robotics in managing public health and infectious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_23.md)
 
 ## Property: has_RiskGBN
 
 * [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
-## Name of the risk
+## Technologies linked to the risk
 
-Increased risk of mental health issues
+* [social robots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1987.md)
 

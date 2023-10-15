@@ -2,11 +2,11 @@
 
 # __isolation and quarantine room equipment__
 
-## Risks linked to this technology
-
-* [Isolation and quarantine facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2139.md)
-
 ## This Technology is identified by the following QID
 
 * [Q182899](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q182899.md)
+
+## Risks linked to this technology
+
+* [Isolation and quarantine facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2139.md)
 

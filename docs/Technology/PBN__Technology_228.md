@@ -2,6 +2,10 @@
 
 # __antimicrobial surfaces__
 
+## This Technology belongs to this TechGroup
+
+* [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_9.md)
+
 ## Risks linked to this technology
 
 * [Persistence of SARS-CoV-2 on surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1141.md)
@@ -10,10 +14,6 @@
 ## This Technology is identified by the following QID
 
 * [Q68541106](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q68541106.md)
-
-## This Technology belongs to this TechGroup
-
-* [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_9.md)
 
 ## This Technology belongs to this TechSubgroup
 

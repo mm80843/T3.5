@@ -10,11 +10,11 @@ Poor access to water leads to water storage practices that enable mosquito breed
 
 * [Challenges to Mitigating the Urban Health Burden of Mosquito-Borne Diseases in the Face of Climate Change](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_95.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Increased mosquito breeding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2933.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [improved water supply](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3663.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Increased mosquito breeding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2933.md)
 

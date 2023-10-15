@@ -18,14 +18,14 @@
 * [Reduction of health risks](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_936.md)
 * [Fecal coliform and pathogen destruction in wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_938.md)
 
-## Risk affecting this stakeholder
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Decreased carbon emissions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1254.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Environmental Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_13.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## Risk affecting this stakeholder
 
+* [Decreased carbon emissions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1254.md)
 

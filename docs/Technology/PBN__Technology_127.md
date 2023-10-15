@@ -2,11 +2,11 @@
 
 # __ergonomic office furniture__
 
-## Risks linked to this technology
-
-* [Impact on Working Performance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1081.md)
-
 ## This Technology is identified by the following QID
 
 * [Q1021677](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1021677.md)
+
+## Risks linked to this technology
+
+* [Impact on Working Performance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1081.md)
 

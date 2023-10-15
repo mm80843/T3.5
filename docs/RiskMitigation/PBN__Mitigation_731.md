@@ -10,12 +10,12 @@ Shift harm from home by making violence visible to external surveillance and sup
 
 * [Dangerous liaisons? Applying the social harm perspective to the social inequality, housing and health trifecta during the Covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_2.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Domestic violence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1766.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [cctv cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3409.md)
 * [wearables](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3410.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Domestic violence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1766.md)
 

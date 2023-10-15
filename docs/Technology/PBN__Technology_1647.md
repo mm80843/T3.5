@@ -2,11 +2,11 @@
 
 # __green technology__
 
-## Risks linked to this technology
-
-* [Environmental](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1582.md)
-
 ## This Technology is identified by the following QID
 
 * [Q3516929](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3516929.md)
+
+## Risks linked to this technology
+
+* [Environmental](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1582.md)
 

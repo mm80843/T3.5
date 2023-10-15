@@ -2,10 +2,6 @@
 
 # __Increased inclusivity and accessibility__
 
-## Articles mentionning this Benefit
-
-* [The Impact of COVID-19 on Public Space: A Review of the Emerging Questions](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_261.md)
-
 ## Stakeholders benefitting from this Benefit
 
 * [women](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_23.md)
@@ -17,11 +13,15 @@
 * [low-income residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_490.md)
 * [youth](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_491.md)
 
+## Name of the Benefit
+
+Improved access to public space, reduced disparities, enhanced social inclusion
+
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved quality of life, reduced social inequalities](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1403.md)
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Improved access to public space, reduced disparities, enhanced social inclusion
+* [The Impact of COVID-19 on Public Space: A Review of the Emerging Questions](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_261.md)
 

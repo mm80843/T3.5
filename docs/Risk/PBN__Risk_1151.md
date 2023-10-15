@@ -2,9 +2,22 @@
 
 # __Need for standardization and validation of analytical protocols__
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+* [Development and implementation of validated methodological protocols for the quantitative analysis of SARS-CoV-2 in wastewater.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1603.md)
+
+## People affected by this risk
+
+* [laboratory personnel](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_690.md)
+* [researchers in wastewater analysis](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_691.md)
+
+## Name of the risk
+
+Potential variations in results and difficulties in comparing data across different studies or laboratories.
+
+## Description of the risk
+
+There is a need for standardized and validated protocols for the quantitative analysis of SARS-CoV-2 in wastewater using PCR methods.
 
 ## Property: has_RiskType
 
@@ -16,39 +29,26 @@
 * [scientists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_46.md)
 * [laboratory personnel](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_690.md)
 
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
 ## Property: has_RiskHealth
 
 * [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
-
-## Description of the risk
-
-There is a need for standardized and validated protocols for the quantitative analysis of SARS-CoV-2 in wastewater using PCR methods.
-
-## Articles mentionning the risk
-
-* [Wastewater-Based Epidemiology to monitor COVID-19 outbreak: Present and future diagnostic methods to be in your radar](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_178.md)
-
-## Technologies linked to the risk
-
-
-## People affected by this risk
-
-* [laboratory personnel](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_690.md)
-* [researchers in wastewater analysis](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_691.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
 
-## Mitigations of this risk
+## Articles mentionning the risk
 
-* [Development and implementation of validated methodological protocols for the quantitative analysis of SARS-CoV-2 in wastewater.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1603.md)
+* [Wastewater-Based Epidemiology to monitor COVID-19 outbreak: Present and future diagnostic methods to be in your radar](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_178.md)
 
 ## Property: has_RiskGBN
 
 * [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Name of the risk
+## Technologies linked to the risk
 
-Potential variations in results and difficulties in comparing data across different studies or laboratories.
 

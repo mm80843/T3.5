@@ -10,13 +10,13 @@ Creating an environment that allows for effective non-verbal communication, whil
 
 * [Social distancing enhanced automated optimal design of physical spaces in the wake of the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_186.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
 
 * [well-lit environment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4330.md)
 * [neutral background](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4331.md)
 * [absence of noise](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4332.md)
 * [short distance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4333.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

@@ -2,15 +2,15 @@
 
 # __ecologists__
 
-## Risks that can be mitigated by this stakeholder
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Zoonotic disease emergence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_488.md)
+* [Ecology](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_165.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Environmental Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_13.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## Risks that can be mitigated by this stakeholder
 
-* [Ecology](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_165.md)
+* [Zoonotic disease emergence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_488.md)
 

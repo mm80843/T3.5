@@ -6,15 +6,15 @@
 
 * [Q17154120](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q17154120.md)
 
-## Risk affecting this stakeholder
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Propagation of shocks in GVCs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1839.md)
+* [Economic and Trade Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_122.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [National Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_7.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## Risk affecting this stakeholder
 
-* [Economic and Trade Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_122.md)
+* [Propagation of shocks in GVCs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1839.md)
 

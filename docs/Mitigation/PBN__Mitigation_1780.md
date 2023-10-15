@@ -10,11 +10,11 @@ Implement and enforce active smoke-free policies in neighbourhoods to reduce sec
 
 * [A comprehensive review on indoor air quality monitoring systems for enhanced public health](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_281.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Secondhand Smoke Exposure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3250.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [policy implementation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4060.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Secondhand Smoke Exposure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3250.md)
 

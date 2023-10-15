@@ -2,11 +2,11 @@
 
 # __hygiene education programs__
 
-## Risks linked to this technology
-
-* [Inadequate sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1399.md)
-
 ## This Technology is identified by the following QID
 
 * [Q858206](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q858206.md)
+
+## Risks linked to this technology
+
+* [Inadequate sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1399.md)
 

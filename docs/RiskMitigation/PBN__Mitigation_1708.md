@@ -10,12 +10,12 @@ Ensuring barrier-free access to green infrastructure and public spaces promotes 
 
 * [Urban Green Infrastructure and Green Open Spaces: An Issue of Social Fairness in Times of COVID-19 Crisis](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_83.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Social inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_858.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [universal design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4023.md)
 * [accessibility features](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4024.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Social inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_858.md)
 

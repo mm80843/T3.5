@@ -10,11 +10,11 @@ Nano-spray technology involves the use of graphene-based nanomaterials, such as 
 
 * [Graphene-based nanomaterials as antimicrobial surface coatings: A parallel approach to restrain the expansion of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_187.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Personal protection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2493.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [graphene-based nanomaterials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_212.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Personal protection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2493.md)
 

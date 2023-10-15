@@ -2,6 +2,15 @@
 
 # __remote sensing__
 
+## This Technology belongs to this TechGroup
+
+* [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_8.md)
+* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
+
+## This Technology enables the following mitigations
+
+* [Telemedicine and remote healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_288.md)
+
 ## Risks linked to this technology
 
 * [Lack of effective technical systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1197.md)
@@ -15,17 +24,8 @@
 * [Q110969468](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q110969468.md)
 * [Q199687](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q199687.md)
 
-## This Technology belongs to this TechGroup
-
-* [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_8.md)
-* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
-
 ## This Technology belongs to this TechSubgroup
 
 * [Communication and Connectivity](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_112.md)
 * [Environmental and Outdoor Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_91.md)
-
-## This Technology enables the following mitigations
-
-* [Telemedicine and remote healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_288.md)
 

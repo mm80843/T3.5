@@ -2,6 +2,10 @@
 
 # __Prophylactic Architecture: Formulating the Concept of Pandemic-Resilient Homes__
 
+## Year of publication
+
+2022
+
 ## Title of the article
 
 Prophylactic Architecture: Formulating the Concept of Pandemic-Resilient Homes
@@ -9,10 +13,6 @@ Prophylactic Architecture: Formulating the Concept of Pandemic-Resilient Homes
 ## DOI of the article
 
 10.3390/buildings12070927
-
-## Year of publication
-
-2022
 
 ## Referenced by other articles
 

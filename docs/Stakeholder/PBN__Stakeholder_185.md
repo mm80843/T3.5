@@ -10,14 +10,14 @@
 
 * [Expanded Workforce](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_393.md)
 
-## Risk affecting this stakeholder
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Limited Rotations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1263.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_2.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## Risk affecting this stakeholder
 
+* [Limited Rotations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1263.md)
 

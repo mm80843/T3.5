@@ -2,11 +2,11 @@
 
 # __scalability in production__
 
-## Risks linked to this technology
-
-* [Challenges in ventilator production](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2404.md)
-
 ## This Technology is identified by the following QID
 
 * [Q727490](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q727490.md)
+
+## Risks linked to this technology
+
+* [Challenges in ventilator production](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2404.md)
 

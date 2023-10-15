@@ -10,10 +10,10 @@ Improving ventilation systems to reduce the dispersal of microbes and control th
 
 * [Architectural Design Drives the Biogeography of Indoor Bacterial Communities](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_52.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
 
 * [ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_139.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

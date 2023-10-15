@@ -2,14 +2,14 @@
 
 # __Data analytics__
 
-## This Technology is identified by the following QID
-
-* [Q485396](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q485396.md)
-
 ## This Technology belongs to this TechGroup
 
 * [AI tools](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_0.md)
 * [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_15.md)
+
+## This Technology is identified by the following QID
+
+* [Q485396](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q485396.md)
 
 ## This Technology belongs to this TechSubgroup
 

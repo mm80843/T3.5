@@ -10,12 +10,12 @@ Replaces human workers with machines to minimize human interaction and reduce th
 
 * [Pandemics and Automation: Will the Lost Jobs Come Back?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_98.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Job displacement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2011.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_358.md)
 * [robotics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1173.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Job displacement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2011.md)
 

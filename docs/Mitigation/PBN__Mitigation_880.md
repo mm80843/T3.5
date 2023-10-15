@@ -10,12 +10,12 @@ Using hand sanitizers or alcohol-based disinfectants when soap and water are not
 
 * [Coronavirus disease 2019: The harms of exaggerated information and non‐evidence‐based measures](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_101.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Disease transmission through contaminated hands](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2786.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [hand sanitizer solutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3510.md)
 * [alcohol-based disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3511.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Disease transmission through contaminated hands](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2786.md)
 

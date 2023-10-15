@@ -2,19 +2,19 @@
 
 # __Equality__
 
-## Articles mentionning this Benefit
-
-* [Non-medical Interventions to Reduce the Burden of Psychosocial and Economic Impacts of COVID-19 Pandemic: A Scope Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_243.md)
-
 ## Stakeholders benefitting from this Benefit
 
 * [vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_115.md)
+
+## Name of the Benefit
+
+Reduces disparities, provides equal access to resources and support
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Increases social equity and improves social cohesion, leading to stable and inclusive communities](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1316.md)
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Reduces disparities, provides equal access to resources and support
+* [Non-medical Interventions to Reduce the Burden of Psychosocial and Economic Impacts of COVID-19 Pandemic: A Scope Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_243.md)
 

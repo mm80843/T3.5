@@ -6,15 +6,15 @@
 
 * [Q24965464](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q24965464.md)
 
-## Risk affecting this stakeholder
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Inadequate energy modeling for residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1568.md)
+* [Energy](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_30.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## Risk affecting this stakeholder
 
-* [Energy](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_30.md)
+* [Inadequate energy modeling for residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1568.md)
 

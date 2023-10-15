@@ -2,11 +2,11 @@
 
 # __cultural sensitivity training__
 
-## Risks linked to this technology
-
-* [Guidelines for funerals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1352.md)
-
 ## This Technology is identified by the following QID
 
 * [Q5188097](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5188097.md)
+
+## Risks linked to this technology
+
+* [Guidelines for funerals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1352.md)
 

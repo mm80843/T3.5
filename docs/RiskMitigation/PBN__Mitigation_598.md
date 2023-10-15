@@ -10,10 +10,10 @@ Early action in implementing mitigation measures can delay outbreaks and slow do
 
 * [Covid-19 and community mitigation strategies in a pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_112.md)
 
+## This Mitigation is enabled by the following technologies
+
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Delayed outbreak, manageable levels](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2647.md)
-
-## This Mitigation is enabled by the following technologies
-
 

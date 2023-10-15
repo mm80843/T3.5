@@ -2,14 +2,14 @@
 
 # __green corridors__
 
-## Risks linked to this technology
-
-* [Urban heat islands (UHIs)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_367.md)
-
 ## This Technology belongs to this TechGroup
 
 * [Urban technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_14.md)
 * [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
+
+## Risks linked to this technology
+
+* [Urban heat islands (UHIs)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_367.md)
 
 ## This Technology belongs to this TechSubgroup
 

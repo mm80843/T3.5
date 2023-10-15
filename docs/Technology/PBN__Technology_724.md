@@ -2,11 +2,11 @@
 
 # __health-focused design principles and guidelines__
 
-## Risks linked to this technology
-
-* [Mainstreaming health criteria](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1459.md)
-
 ## This Technology is identified by the following QID
 
 * [Q1519843](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1519843.md)
+
+## Risks linked to this technology
+
+* [Mainstreaming health criteria](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1459.md)
 

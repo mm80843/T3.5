@@ -10,10 +10,10 @@ Embrace complementary combinations of funding sources to reduce risk and ensure 
 
 * [Building sustainable finance for resilient protected and conserved areas: lessons from COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_33.md)
 
+## This Mitigation is enabled by the following technologies
+
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Financial instability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1082.md)
-
-## This Mitigation is enabled by the following technologies
-
 

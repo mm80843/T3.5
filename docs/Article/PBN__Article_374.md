@@ -6,11 +6,11 @@
 
 10.15187/adr.2015.02.113.1.71
 
-## Year of publication
-
-2015
-
 ## Title of the article
 
 Biophilic Design and Bio-Collaboration
+
+## Year of publication
+
+2015
 

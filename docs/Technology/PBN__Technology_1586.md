@@ -2,10 +2,6 @@
 
 # __l5go networks__
 
-## Risks linked to this technology
-
-* [Limited connectivity challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2096.md)
-
 ## This Technology is identified by the following QID
 
 * [Q29724718](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q29724718.md)
@@ -13,4 +9,8 @@
 ## This Technology enables the following mitigations
 
 * [5G deployment and limited connectivity challenges](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1952.md)
+
+## Risks linked to this technology
+
+* [Limited connectivity challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2096.md)
 

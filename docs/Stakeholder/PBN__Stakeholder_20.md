@@ -52,6 +52,14 @@
 * [Enhanced functionality and reliability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1396.md)
 * [Prevention of economic shrinkage](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1401.md)
 
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [General Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_88.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
+
 ## Risk affecting this stakeholder
 
 * [Privacy and security concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_25.md)
@@ -128,12 +136,4 @@
 * [transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2285.md)
 * [Lack of hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2287.md)
 * [Person-to-person transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2372.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [General Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_88.md)
 

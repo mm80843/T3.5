@@ -10,11 +10,11 @@ Installing UV lamps in high-risk spaces to disinfect the air and reduce the conc
 
 * [Review and comparison of HVAC operation guidelines in different countries during the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_45.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Shielding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2707.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [ultraviolet (uv) lamps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3408.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Shielding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2707.md)
 

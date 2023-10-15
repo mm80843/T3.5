@@ -2,6 +2,14 @@
 
 # __stress management__
 
+## This Technology belongs to this TechGroup
+
+* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
+
+## This Technology enables the following mitigations
+
+* [Physical and Mental Health](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_303.md)
+
 ## Risks linked to this technology
 
 * [Stress and burnout among healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1900.md)
@@ -10,14 +18,6 @@
 
 * [Q1404268](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1404268.md)
 
-## This Technology belongs to this TechGroup
-
-* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
-
 ## This Technology belongs to this TechSubgroup
 
-
-## This Technology enables the following mitigations
-
-* [Physical and Mental Health](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_303.md)
 

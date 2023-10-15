@@ -2,19 +2,19 @@
 
 # __Strengthened vector control programs__
 
-## Articles mentionning this Benefit
-
-* [The importance of vector control for the control and elimination of vector-borne diseases](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_64.md)
-
 ## Stakeholders benefitting from this Benefit
 
 * [national and international vector control programs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_160.md)
+
+## Name of the Benefit
+
+Increased funding and capacity for vector control can strengthen vector control programs, improving their ability to implement and manage prevention and control measures.
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Investing in vector control programs can improve the effectiveness and sustainability of disease prevention and control efforts, leading to reduced disease burden and potentially increasing economic productivity.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_356.md)
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Increased funding and capacity for vector control can strengthen vector control programs, improving their ability to implement and manage prevention and control measures.
+* [The importance of vector control for the control and elimination of vector-borne diseases](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_64.md)
 

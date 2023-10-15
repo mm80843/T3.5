@@ -2,8 +2,22 @@
 
 # __AQ4__
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
+* [Provide natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2874.md)
+
+## People affected by this risk
+
+* [residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
+* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
+
+## Name of the risk
+
+Increase air freshness and health
+
+## Description of the risk
+
+Level of natural ventilation
 
 ## Property: has_RiskType
 
@@ -14,40 +28,26 @@
 * [building management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1105.md)
 * [facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1487.md)
 
+## Property: has_RiskISO_Purpose
+
+
 ## Property: has_RiskHealth
 
 * [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
-## Description of the risk
+## Property: has_RiskISO_Impact
 
-Level of natural ventilation
 
 ## Articles mentionning the risk
 
 * [Assessment method for new sustainability indicators providing pandemic resilience for residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_51.md)
 
-## Technologies linked to the risk
-
-* [openable windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1748.md)
-* [outdoor air monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1749.md)
-
-## People affected by this risk
-
-* [residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
-* [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
-
-## Property: has_RiskISO_Impact
-
-
-## Mitigations of this risk
-
-* [Provide natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2874.md)
-
 ## Property: has_RiskGBN
 
 * [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
-## Name of the risk
+## Technologies linked to the risk
 
-Increase air freshness and health
+* [openable windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1748.md)
+* [outdoor air monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1749.md)
 

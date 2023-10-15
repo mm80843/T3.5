@@ -2,9 +2,22 @@
 
 # __Increased prevalence of human schistosomiasis resulting from dam constructions__
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+* [Proper sanitation and hygiene practices, snail control programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2217.md)
+
+## People affected by this risk
+
+* [construction workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_197.md)
+* [communities living close to dams](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1094.md)
+
+## Name of the risk
+
+Increased disease burden, public health impact
+
+## Description of the risk
+
+Dam construction increases the prevalence of schistosomiasis, a parasitic disease
 
 ## Property: has_RiskType
 
@@ -15,39 +28,26 @@
 * [public health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_0.md)
 * [dam construction companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1095.md)
 
+## Property: has_RiskISO_Purpose
+
+* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+
 ## Property: has_RiskHealth
 
 * [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Description of the risk
-
-Dam construction increases the prevalence of schistosomiasis, a parasitic disease
-
-## Articles mentionning the risk
-
-* [Making green infrastructure healthier infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_20.md)
-
-## Technologies linked to the risk
-
-
-## People affected by this risk
-
-* [construction workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_197.md)
-* [communities living close to dams](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1094.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_12.md)
 
-## Mitigations of this risk
+## Articles mentionning the risk
 
-* [Proper sanitation and hygiene practices, snail control programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2217.md)
+* [Making green infrastructure healthier infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_20.md)
 
 ## Property: has_RiskGBN
 
 * [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
-## Name of the risk
+## Technologies linked to the risk
 
-Increased disease burden, public health impact
 

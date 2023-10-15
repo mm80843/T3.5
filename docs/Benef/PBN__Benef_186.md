@@ -2,19 +2,19 @@
 
 # __Improved health and wellbeing__
 
-## Articles mentionning this Benefit
-
-* [Urban form: Realising the value of green space: a planners’ perspective on the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_41.md)
-
 ## Stakeholders benefitting from this Benefit
 
 * [individuals and communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_106.md)
+
+## Name of the Benefit
+
+Access to green space positively affects physical activity, healthier habits and behaviours, and improved health outcomes
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved health outcomes can lead to reduced healthcare costs and increased property values in communities](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_191.md)
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Access to green space positively affects physical activity, healthier habits and behaviours, and improved health outcomes
+* [Urban form: Realising the value of green space: a planners’ perspective on the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_41.md)
 

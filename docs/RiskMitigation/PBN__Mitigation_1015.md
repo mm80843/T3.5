@@ -10,11 +10,11 @@ Ensure healthcare facilities are equipped with necessary resources and capacity 
 
 * [How loneliness is talked about in social media during COVID-19 pandemic: Text mining of 4,492 Twitter feeds](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_190.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
 
 * [medical equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_108.md)
 * [supplies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3459.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

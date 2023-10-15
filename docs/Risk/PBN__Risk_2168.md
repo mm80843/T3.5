@@ -2,9 +2,22 @@
 
 # __Spread of SARS-CoV-2 through the air__
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+* [Use of portable air filters to remove SARS-CoV-2 particles from the air in hospital wards](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2834.md)
+
+## People affected by this risk
+
+* [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
+* [medical staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_93.md)
+
+## Name of the risk
+
+Increased risk of infection for patients and medical staff
+
+## Description of the risk
+
+Research shows that SARS-CoV-2 particles can be found in the air of hospital wards, increasing the risk of transmission.
 
 ## Property: has_RiskType
 
@@ -14,40 +27,27 @@
 
 * [hospital](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1473.md)
 
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
 ## Property: has_RiskHealth
 
 * [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Description of the risk
-
-Research shows that SARS-CoV-2 particles can be found in the air of hospital wards, increasing the risk of transmission.
-
-## Articles mentionning the risk
-
-* [Real-world data show that filters clean COVID-causing virus from air](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_155.md)
-
-## Technologies linked to the risk
-
-* [high-efficiency particulate air (hepa) filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1692.md)
-
-## People affected by this risk
-
-* [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
-* [medical staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_93.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_4.md)
 
-## Mitigations of this risk
+## Articles mentionning the risk
 
-* [Use of portable air filters to remove SARS-CoV-2 particles from the air in hospital wards](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2834.md)
+* [Real-world data show that filters clean COVID-causing virus from air](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_155.md)
 
 ## Property: has_RiskGBN
 
 * [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
-## Name of the risk
+## Technologies linked to the risk
 
-Increased risk of infection for patients and medical staff
+* [high-efficiency particulate air (hepa) filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1692.md)
 

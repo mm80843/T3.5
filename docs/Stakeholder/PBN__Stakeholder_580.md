@@ -2,12 +2,12 @@
 
 # __families__
 
-## Risks that can be mitigated by this stakeholder
-
-* [Decreased Physical Activity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1056.md)
-
 ## Risk affecting this stakeholder
 
 * [Food insecurity and poor-quality diets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_777.md)
 * [School closures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1887.md)
+
+## Risks that can be mitigated by this stakeholder
+
+* [Decreased Physical Activity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1056.md)
 

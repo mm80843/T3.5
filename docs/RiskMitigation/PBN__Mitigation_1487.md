@@ -10,12 +10,12 @@ Establish platforms for sharing information on malaria prevention strategies bet
 
 * [Decision Making within the Built Environment as a Strategy for Mitigating the Risk of Malaria and Other Vector-Borne Diseases](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_272.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Lack of communication and information sharing among stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3102.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [knowledge management platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3888.md)
 * [portals](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3889.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of communication and information sharing among stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3102.md)
 

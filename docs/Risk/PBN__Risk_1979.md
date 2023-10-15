@@ -2,9 +2,23 @@
 
 # __Superior performance of actively managed funds__
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Attractiveness](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_9.md)
+* [Skilled fund management, strategic asset allocation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2593.md)
+
+## People affected by this risk
+
+* [investors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_49.md)
+* [fund managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1330.md)
+* [asset management companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1331.md)
+
+## Name of the risk
+
+Higher returns, investment advantages
+
+## Description of the risk
+
+Actively managed funds outperform individual securities and passive indices
 
 ## Property: has_RiskType
 
@@ -16,43 +30,29 @@
 * [fund management companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1332.md)
 * [investment professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1333.md)
 
+## Property: has_RiskISO_Purpose
+
+* [Attractiveness](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_9.md)
+
 ## Property: has_RiskHealth
 
 * [economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_3.md)
 
-## Description of the risk
+## Property: has_RiskISO_Impact
 
-Actively managed funds outperform individual securities and passive indices
+* [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_8.md)
 
 ## Articles mentionning the risk
 
 * [Covid-19 and asset management in EU: a preliminary assessment of performance and investment styles](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_271.md)
+
+## Property: has_RiskGBN
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
 ## Technologies linked to the risk
 
 * [data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1069.md)
 * [fund management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1416.md)
 * [performance tracking tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1417.md)
-
-## People affected by this risk
-
-* [investors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_49.md)
-* [fund managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1330.md)
-* [asset management companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1331.md)
-
-## Property: has_RiskISO_Impact
-
-* [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_8.md)
-
-## Mitigations of this risk
-
-* [Skilled fund management, strategic asset allocation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2593.md)
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
-## Name of the risk
-
-Higher returns, investment advantages
 

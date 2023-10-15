@@ -2,7 +2,7 @@
 
 # __logistics providers__
 
-## Risks that can be mitigated by this stakeholder
+## Risk affecting this stakeholder
 
 * [Lack of supply chain visibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1773.md)
 * [Supply chain complexity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1774.md)
@@ -12,7 +12,7 @@
 
 * [Efficient supply chain operations](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1383.md)
 
-## Risk affecting this stakeholder
+## Risks that can be mitigated by this stakeholder
 
 * [Lack of supply chain visibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1773.md)
 * [Supply chain complexity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1774.md)

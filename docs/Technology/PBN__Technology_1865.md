@@ -2,11 +2,11 @@
 
 # __suitable treatment and__
 
-## Risks linked to this technology
-
-* [Increase in disease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2284.md)
-
 ## This Technology is identified by the following QID
 
 * [Q179661](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q179661.md)
+
+## Risks linked to this technology
+
+* [Increase in disease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2284.md)
 

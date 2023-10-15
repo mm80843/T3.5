@@ -2,11 +2,11 @@
 
 # __use of data analytics to identify high-risk areas and populations__
 
-## Risks linked to this technology
-
-* [Socio-economic factors and regional characteristics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1357.md)
-
 ## This Technology is identified by the following QID
 
 * [Q4150801](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4150801.md)
+
+## Risks linked to this technology
+
+* [Socio-economic factors and regional characteristics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1357.md)
 

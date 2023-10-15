@@ -2,10 +2,6 @@
 
 # __social support systems__
 
-## Risks linked to this technology
-
-* [Societal and socio-economic gaps](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_750.md)
-
 ## This Technology is identified by the following QID
 
 * [Q2297111](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2297111.md)
@@ -13,4 +9,8 @@
 ## This Technology enables the following mitigations
 
 * [Promoting inclusivity in development](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1078.md)
+
+## Risks linked to this technology
+
+* [Societal and socio-economic gaps](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_750.md)
 

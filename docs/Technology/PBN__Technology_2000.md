@@ -2,11 +2,11 @@
 
 # __empathy-building programs__
 
-## Risks linked to this technology
-
-* [Stigma and discrimination towards COVID-19 patients](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2385.md)
-
 ## This Technology is identified by the following QID
 
 * [Q182263](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q182263.md)
+
+## Risks linked to this technology
+
+* [Stigma and discrimination towards COVID-19 patients](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2385.md)
 

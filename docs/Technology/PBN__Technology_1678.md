@@ -2,11 +2,11 @@
 
 # __credit guarantee schemes (cgss)__
 
-## Risks linked to this technology
-
-* [Difficulty accessing finance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2158.md)
-
 ## This Technology is identified by the following QID
 
 * [Q3095288](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3095288.md)
+
+## Risks linked to this technology
+
+* [Difficulty accessing finance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2158.md)
 

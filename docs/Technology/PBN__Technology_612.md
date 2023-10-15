@@ -2,11 +2,11 @@
 
 # __rapid diagnostic tests__
 
-## Risks linked to this technology
-
-* [Lag between infection and death](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1392.md)
-
 ## This Technology enables the following mitigations
 
 * [Rapid Isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1016.md)
+
+## Risks linked to this technology
+
+* [Lag between infection and death](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1392.md)
 

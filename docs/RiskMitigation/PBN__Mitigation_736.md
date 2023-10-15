@@ -10,11 +10,11 @@ Reduce harm by introducing measures such as rent controls that alleviate housing
 
 * [Dangerous liaisons? Applying the social harm perspective to the social inequality, housing and health trifecta during the Covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_2.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Health harming behaviors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2708.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [regulatory policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3417.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Health harming behaviors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2708.md)
 

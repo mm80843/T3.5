@@ -2,9 +2,22 @@
 
 # __Inadequate mosquito control__
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+* [Develop innovative control methods, improve environmental hygiene, enhance urban planning strategies.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2195.md)
+
+## People affected by this risk
+
+* [urban populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_997.md)
+* [especially those living in areas with high mosquito populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1069.md)
+
+## Name of the risk
+
+Increased risk of mosquito-borne diseases and disease outbreaks.
+
+## Description of the risk
+
+Current mosquito control strategies are inadequate, especially for urban areas, leading to increased mosquito populations and disease transmission.
 
 ## Property: has_RiskType
 
@@ -17,42 +30,29 @@
 * [vector control agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1068.md)
 * [community engagement organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1070.md)
 
+## Property: has_RiskISO_Purpose
+
+* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+
 ## Property: has_RiskHealth
 
 * [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
-## Description of the risk
+## Property: has_RiskISO_Impact
 
-Current mosquito control strategies are inadequate, especially for urban areas, leading to increased mosquito populations and disease transmission.
+* [Living and working environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_1.md)
 
 ## Articles mentionning the risk
 
 * [Challenges to Mitigating the Urban Health Burden of Mosquito-Borne Diseases in the Face of Climate Change](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_95.md)
+
+## Property: has_RiskGBN
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
 ## Technologies linked to the risk
 
 * [auto-dissemination of insecticides](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_980.md)
 * [toxic baited sugar traps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_981.md)
 * [improved water management and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_982.md)
-
-## People affected by this risk
-
-* [urban populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_997.md)
-* [especially those living in areas with high mosquito populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1069.md)
-
-## Property: has_RiskISO_Impact
-
-* [Living and working environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_1.md)
-
-## Mitigations of this risk
-
-* [Develop innovative control methods, improve environmental hygiene, enhance urban planning strategies.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2195.md)
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
-## Name of the risk
-
-Increased risk of mosquito-borne diseases and disease outbreaks.
 

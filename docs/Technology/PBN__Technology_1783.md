@@ -2,11 +2,11 @@
 
 # __local food supply__
 
-## Risks linked to this technology
-
-* [LS1](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2221.md)
-
 ## This Technology is identified by the following QID
 
 * [Q5465458](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5465458.md)
+
+## Risks linked to this technology
+
+* [LS1](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2221.md)
 

@@ -10,13 +10,13 @@ Enable data sharing and formal reasoning for biomedical data and research
 
 * [The COVID-19 epidemiology and monitoring ontology](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_259.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
 
 * [owl 2](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3977.md)
 * [obo ontology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3978.md)
 * [dl-based formalism](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3979.md)
 * [semantic web standard](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3980.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

@@ -10,12 +10,12 @@ Create individual spaces, install barriers, avoid overcrowding
 
 * [COVID-19 Experience Transforming the Protective Environment of Office Buildings and Spaces](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_120.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Close contact transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1904.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [physical barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_343.md)
 * [open plan layout redesign](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3943.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Close contact transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1904.md)
 

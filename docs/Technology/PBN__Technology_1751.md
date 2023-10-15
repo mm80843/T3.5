@@ -2,11 +2,11 @@
 
 # __proper disposal of disinfectants__
 
-## Risks linked to this technology
-
-* [WQ1](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2204.md)
-
 ## This Technology is identified by the following QID
 
 * [Q24887418](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q24887418.md)
+
+## Risks linked to this technology
+
+* [WQ1](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2204.md)
 

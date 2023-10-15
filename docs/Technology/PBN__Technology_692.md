@@ -2,11 +2,11 @@
 
 # __quality control tools__
 
-## Risks linked to this technology
-
-* [Improper implementation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_297.md)
-
 ## This Technology is identified by the following QID
 
 * [Q827792](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q827792.md)
+
+## Risks linked to this technology
+
+* [Improper implementation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_297.md)
 

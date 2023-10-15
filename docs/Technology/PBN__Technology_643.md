@@ -2,11 +2,11 @@
 
 # __sensor integration and development__
 
-## Risks linked to this technology
-
-* [Limited sensor capability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1404.md)
-
 ## This Technology is identified by the following QID
 
 * [Q167676](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q167676.md)
+
+## Risks linked to this technology
+
+* [Limited sensor capability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1404.md)
 

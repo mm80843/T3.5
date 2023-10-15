@@ -10,11 +10,11 @@ Regular disinfection of surfaces removes or inactivates the virus on fomites, re
 
 * [Environmental factors involved in SARS-CoV-2 transmission: effect and role of indoor environmental quality in the strategy for COVID-19 infection control](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_249.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Contaminated surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1802.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [disinfectant products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3063.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Contaminated surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1802.md)
 

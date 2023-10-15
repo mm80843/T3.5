@@ -10,10 +10,10 @@ Encourage the use of open-source platforms and systems for WBE to facilitate wid
 
 * [Wastewater surveillance for population-wide Covid-19: The present and future](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_213.md)
 
+## This Mitigation is enabled by the following technologies
+
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Proprietary monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2610.md)
-
-## This Mitigation is enabled by the following technologies
-
 

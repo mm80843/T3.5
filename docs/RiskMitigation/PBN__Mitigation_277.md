@@ -10,10 +10,10 @@ Dehumidifying the air to remove harmful volatile organic compounds (VOCs) and po
 
 * [Methods for air cleaning and protection of building occupants from airborne pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_240.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
 
 * [silica gel desiccant rotor](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3109.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

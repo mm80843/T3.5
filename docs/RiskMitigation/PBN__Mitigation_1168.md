@@ -10,10 +10,10 @@ Encouraging online shopping and adapting frontages of houses and communities to 
 
 * [Impact of Covid-19 on the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_10.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
 
 * [internet access](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1211.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

@@ -10,12 +10,12 @@ Wastewater monitoring can track the presence and prevalence of viral genetic mat
 
 * [SARS-CoV-2 RNA in wastewater anticipated COVID-19 occurrence in a low prevalence area](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_96.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
 
 * [wastewater treatment plants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1353.md)
 * [dna/rna extraction methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4000.md)
 * [real-time rt-pcr](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4001.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

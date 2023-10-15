@@ -2,11 +2,11 @@
 
 # __ontology-based approaches__
 
-## Risks linked to this technology
-
-* [Incomplete coverage of information in ontologies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1454.md)
-
 ## This Technology is identified by the following QID
 
 * [Q1027508](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1027508.md)
+
+## Risks linked to this technology
+
+* [Incomplete coverage of information in ontologies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1454.md)
 

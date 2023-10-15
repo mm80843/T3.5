@@ -2,6 +2,10 @@
 
 # __cleaning and disinfection protocols__
 
+## This Technology belongs to this TechGroup
+
+* [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_9.md)
+
 ## Risks linked to this technology
 
 * [Risk of human infection from contact with contaminated solids (fomites)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1177.md)
@@ -9,10 +13,6 @@
 ## This Technology is identified by the following QID
 
 * [Q24887418](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q24887418.md)
-
-## This Technology belongs to this TechGroup
-
-* [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_9.md)
 
 ## This Technology belongs to this TechSubgroup
 

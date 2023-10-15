@@ -2,9 +2,21 @@
 
 # __Artificially lit and ventilated spaces__
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
+* [Design spaces that prioritize natural light and ventilation, incorporate biophilic design principles](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2570.md)
+
+## People affected by this risk
+
+* [occupants of buildings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_917.md)
+
+## Name of the risk
+
+Increased risk of chronic diseases and health issues
+
+## Description of the risk
+
+Reliance on artificial environmental conditions can contribute to the incidence of chronic diseases, allergies, and sick building syndrome
 
 ## Property: has_RiskType
 
@@ -16,40 +28,28 @@
 * [architects](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_431.md)
 * [facility managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_166.md)
 
+## Property: has_RiskISO_Purpose
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
+
 ## Property: has_RiskHealth
 
 * [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Description of the risk
-
-Reliance on artificial environmental conditions can contribute to the incidence of chronic diseases, allergies, and sick building syndrome
-
-## Articles mentionning the risk
-
-* [How Architecture Fails in Conditions of Crisis: a Discussion on the Value of Interior Design over the COVID-19 Outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_34.md)
-
-## Technologies linked to the risk
-
-* [use energy-efficient lighting and ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1373.md)
-* [biophilic design strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1374.md)
-
-## People affected by this risk
-
-* [occupants of buildings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_917.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Living and working environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_1.md)
 
-## Mitigations of this risk
+## Articles mentionning the risk
 
-* [Design spaces that prioritize natural light and ventilation, incorporate biophilic design principles](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2570.md)
+* [How Architecture Fails in Conditions of Crisis: a Discussion on the Value of Interior Design over the COVID-19 Outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_34.md)
 
 ## Property: has_RiskGBN
 
 * [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
-## Name of the risk
+## Technologies linked to the risk
 
-Increased risk of chronic diseases and health issues
+* [use energy-efficient lighting and ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1373.md)
+* [biophilic design strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1374.md)
 

@@ -2,6 +2,14 @@
 
 # __sanitation systems__
 
+## This Technology belongs to this TechGroup
+
+* [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_9.md)
+
+## This Technology enables the following mitigations
+
+* [Faecal management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_559.md)
+
 ## Risks linked to this technology
 
 * [Inadequate sanitation and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1163.md)
@@ -12,14 +20,6 @@
 
 * [Q949149](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q949149.md)
 
-## This Technology belongs to this TechGroup
-
-* [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_9.md)
-
 ## This Technology belongs to this TechSubgroup
 
-
-## This Technology enables the following mitigations
-
-* [Faecal management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_559.md)
 

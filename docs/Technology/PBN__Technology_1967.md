@@ -2,11 +2,11 @@
 
 # __data backup and storage__
 
-## Risks linked to this technology
-
-* [Data unavailability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2364.md)
-
 ## This Technology is identified by the following QID
 
 * [Q194274](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q194274.md)
+
+## Risks linked to this technology
+
+* [Data unavailability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2364.md)
 

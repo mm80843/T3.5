@@ -2,9 +2,23 @@
 
 # __Development of a COVID-19 crisis management plan__
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Technology and innovation](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_20.md)
+* [Forming an ad hoc committee](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_467.md)
+* [Forming an ad hoc committee to establish a preparedness plan](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1986.md)
+
+## People affected by this risk
+
+* [healthcare organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_216.md)
+* [nursing managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_203.md)
+
+## Name of the risk
+
+Ineffective response to the pandemic and inability to handle crisis situations efficiently
+
+## Description of the risk
+
+Lack of preparedness plan in place
 
 ## Property: has_RiskType
 
@@ -15,40 +29,26 @@
 * [healthcare organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_216.md)
 * [nursing managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_203.md)
 
+## Property: has_RiskISO_Purpose
+
+* [Technology and innovation](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_20.md)
+
 ## Property: has_RiskHealth
 
 * [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
-
-## Description of the risk
-
-Lack of preparedness plan in place
-
-## Articles mentionning the risk
-
-* [Management of the COVID-19 pandemic: challenges, practices, and organizational support](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_92.md)
-
-## Technologies linked to the risk
-
-
-## People affected by this risk
-
-* [healthcare organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_216.md)
-* [nursing managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_203.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Innovation, Creativity and research](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_2.md)
 
-## Mitigations of this risk
+## Articles mentionning the risk
 
-* [Forming an ad hoc committee](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_467.md)
-* [Forming an ad hoc committee to establish a preparedness plan](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1986.md)
+* [Management of the COVID-19 pandemic: challenges, practices, and organizational support](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_92.md)
 
 ## Property: has_RiskGBN
 
 * [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Name of the risk
+## Technologies linked to the risk
 
-Ineffective response to the pandemic and inability to handle crisis situations efficiently
 

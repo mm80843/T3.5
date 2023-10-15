@@ -2,6 +2,14 @@
 
 # __social networks__
 
+## This Technology belongs to this TechGroup
+
+* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_3.md)
+
+## This Technology enables the following mitigations
+
+* [Social Support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1726.md)
+
 ## Risks linked to this technology
 
 * [Psychological impact of quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_33.md)
@@ -12,14 +20,6 @@
 * [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2061.md)
 * [Social support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2062.md)
 
-## This Technology belongs to this TechGroup
-
-* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_3.md)
-
 ## This Technology belongs to this TechSubgroup
 
-
-## This Technology enables the following mitigations
-
-* [Social Support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1726.md)
 

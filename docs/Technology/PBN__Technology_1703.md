@@ -2,11 +2,11 @@
 
 # __sustainable tourism initiatives__
 
-## Risks linked to this technology
-
-* [Reduction in tourism revenue](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2176.md)
-
 ## This Technology is identified by the following QID
 
 * [Q1344240](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1344240.md)
+
+## Risks linked to this technology
+
+* [Reduction in tourism revenue](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2176.md)
 

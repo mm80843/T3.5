@@ -2,11 +2,11 @@
 
 # __policy engagement__
 
-## Risks linked to this technology
-
-* [Lack of Legislation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1102.md)
-
 ## This Technology is identified by the following QID
 
 * [Q3907287](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3907287.md)
+
+## Risks linked to this technology
+
+* [Lack of Legislation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1102.md)
 

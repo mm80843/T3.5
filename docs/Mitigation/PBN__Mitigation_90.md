@@ -10,11 +10,11 @@ Replacing old appliances with energy-efficient models to reduce overall energy c
 
 * [Occupants’ behavior and activity patterns influencing the energy consumption in the Kuwaiti residences](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_260.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [High energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2431.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [energy-efficient technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2960.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [High energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2431.md)
 

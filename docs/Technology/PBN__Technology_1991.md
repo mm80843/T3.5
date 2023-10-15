@@ -2,11 +2,11 @@
 
 # __face mask usage__
 
-## Risks linked to this technology
-
-* [Urban Mobility and Commute Patterns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2379.md)
-
 ## This Technology is identified by the following QID
 
 * [Q3064085](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3064085.md)
+
+## Risks linked to this technology
+
+* [Urban Mobility and Commute Patterns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2379.md)
 

@@ -2,11 +2,11 @@
 
 # __cost reduction strategies__
 
-## Risks linked to this technology
-
-* [Inequality of access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1232.md)
-
 ## This Technology is identified by the following QID
 
 * [Q3454688](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3454688.md)
+
+## Risks linked to this technology
+
+* [Inequality of access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1232.md)
 

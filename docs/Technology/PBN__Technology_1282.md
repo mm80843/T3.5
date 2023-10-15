@@ -2,11 +2,11 @@
 
 # __mental health care support__
 
-## Risks linked to this technology
-
-* [Stress and burnout among healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1900.md)
-
 ## This Technology is identified by the following QID
 
 * [Q67076049](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q67076049.md)
+
+## Risks linked to this technology
+
+* [Stress and burnout among healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1900.md)
 

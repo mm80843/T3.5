@@ -2,11 +2,11 @@
 
 # __improved healthcare technology__
 
-## Risks linked to this technology
-
-* [Health care, surveillance, and monitoring gaps](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1621.md)
-
 ## This Technology is identified by the following QID
 
 * [Q1519843](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1519843.md)
+
+## Risks linked to this technology
+
+* [Health care, surveillance, and monitoring gaps](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1621.md)
 

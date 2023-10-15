@@ -10,11 +10,11 @@ Securely store and share COVID-19 data while protecting privacy and preventing t
 
 * [A critical review of emerging technologies for tackling COVID ‐19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_91.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Data breaches, scalability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2990.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_211.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Data breaches, scalability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2990.md)
 

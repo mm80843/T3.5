@@ -10,11 +10,11 @@ Implementing effective urban planning and design at the edges of cities can mini
 
 * [COVID-19: Lessons for an Urban(izing) World](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_85.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Spread of infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2408.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [urban planning and design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1178.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Spread of infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2408.md)
 

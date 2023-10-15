@@ -10,11 +10,11 @@ Automatically turn on and off heating/cooling only when needed
 
 * [How is COVID-19 Experience Transforming Sustainability Requirements of Residential Buildings? A Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_67.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_745.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [smart temperature control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4279.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_745.md)
 

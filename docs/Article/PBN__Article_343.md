@@ -6,11 +6,11 @@
 
 10.1016/j.ypmed.2021.106425
 
-## Year of publication
-
-2021
-
 ## Title of the article
 
 A call to action: Improving urban green spaces to reduce health inequalities exacerbated by COVID-19
+
+## Year of publication
+
+2021
 

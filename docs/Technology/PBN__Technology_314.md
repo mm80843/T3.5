@@ -2,14 +2,14 @@
 
 # __research institutions__
 
+## This Technology belongs to this TechGroup
+
+* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_15.md)
+
 ## Risks linked to this technology
 
 * [Comparability of far-UVC light with conventional germicidal UV light](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1230.md)
 * [Lack of medication and vaccines for COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1495.md)
-
-## This Technology belongs to this TechGroup
-
-* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_15.md)
 
 ## This Technology belongs to this TechSubgroup
 

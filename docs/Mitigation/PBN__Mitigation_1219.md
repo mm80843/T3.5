@@ -10,11 +10,11 @@ Use steam or specialized steam bags for cost-effective sterilization of equipmen
 
 * [Emergency Healthcare Facilities: Managing Design in a Post Covid-19 World](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_122.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Sterilization of equipment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2968.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [steam or specialized commercial steam bags](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3735.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Sterilization of equipment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2968.md)
 

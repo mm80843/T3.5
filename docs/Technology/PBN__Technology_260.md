@@ -2,11 +2,11 @@
 
 # __computational fluid dynamics (cfd) modeling__
 
-## Risks linked to this technology
-
-* [Decoupling of larger aerosol particles from air stream in upper-room UVGI system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1175.md)
-
 ## This Technology is identified by the following QID
 
 * [Q24717965](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q24717965.md)
+
+## Risks linked to this technology
+
+* [Decoupling of larger aerosol particles from air stream in upper-room UVGI system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1175.md)
 

@@ -6,11 +6,11 @@
 
 10.1109/ICSSIT53264.2022.9716560
 
-## Year of publication
-
-2022
-
 ## Title of the article
 
 Contactless Door System with Temperature Detection for Covid-19
+
+## Year of publication
+
+2022
 

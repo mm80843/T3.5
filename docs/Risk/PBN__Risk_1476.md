@@ -2,9 +2,22 @@
 
 # __Support at individual level__
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+* [Promoting communication, collaboration, and providing material support and resources to healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1994.md)
+
+## People affected by this risk
+
+* [healthcare organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_216.md)
+* [nurses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_952.md)
+
+## Name of the risk
+
+Improved well-being and morale of healthcare workers
+
+## Description of the risk
+
+Support provided to individuals during the crisis
 
 ## Property: has_RiskType
 
@@ -15,39 +28,26 @@
 * [healthcare organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_216.md)
 * [nursing managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_203.md)
 
+## Property: has_RiskISO_Purpose
+
+* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+
 ## Property: has_RiskHealth
 
 * [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
-
-## Description of the risk
-
-Support provided to individuals during the crisis
-
-## Articles mentionning the risk
-
-* [Management of the COVID-19 pandemic: challenges, practices, and organizational support](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_92.md)
-
-## Technologies linked to the risk
-
-
-## People affected by this risk
-
-* [healthcare organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_216.md)
-* [nurses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_952.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_5.md)
 
-## Mitigations of this risk
+## Articles mentionning the risk
 
-* [Promoting communication, collaboration, and providing material support and resources to healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1994.md)
+* [Management of the COVID-19 pandemic: challenges, practices, and organizational support](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_92.md)
 
 ## Property: has_RiskGBN
 
 * [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
-## Name of the risk
+## Technologies linked to the risk
 
-Improved well-being and morale of healthcare workers
 

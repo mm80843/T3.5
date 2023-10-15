@@ -10,12 +10,12 @@ Living spaces should have direct access to green areas, such as balconies or ver
 
 * [Biophilic Design to Enhance Residence Comfort in Covid Era](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_179.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Lack of nature exposure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2953.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [balcony](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3704.md)
 * [vertical gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3705.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of nature exposure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2953.md)
 

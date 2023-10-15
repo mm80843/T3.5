@@ -2,6 +2,22 @@
 
 # __telemedicine__
 
+## This Technology belongs to this TechGroup
+
+* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_3.md)
+* [Drones and robots](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_17.md)
+
+## This Technology enables the following mitigations
+
+* [Virtual clinics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_151.md)
+* [Enhance Access to Mental Health Care](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1834.md)
+* [Support to Overstretched Staff](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1873.md)
+* [Accelerating Transition towards Digitalization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1875.md)
+* [Telemedicine and remote healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_288.md)
+* [Psychoeducation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1601.md)
+* [Psychosocial support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1602.md)
+* [Equitable Healthcare Access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1650.md)
+
 ## Risks linked to this technology
 
 * [Limited care and restricted health services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_779.md)
@@ -29,24 +45,8 @@
 
 * [Q46994](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q46994.md)
 
-## This Technology belongs to this TechGroup
-
-* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_3.md)
-* [Drones and robots](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_17.md)
-
 ## This Technology belongs to this TechSubgroup
 
 * [Telemedicine and Telehealth Services](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_28.md)
 * [Telemedicine and Remote Access](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_109.md)
-
-## This Technology enables the following mitigations
-
-* [Virtual clinics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_151.md)
-* [Enhance Access to Mental Health Care](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1834.md)
-* [Support to Overstretched Staff](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1873.md)
-* [Accelerating Transition towards Digitalization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1875.md)
-* [Telemedicine and remote healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_288.md)
-* [Psychoeducation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1601.md)
-* [Psychosocial support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1602.md)
-* [Equitable Healthcare Access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1650.md)
 

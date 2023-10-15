@@ -2,11 +2,11 @@
 
 # __non-toxic nanomaterials__
 
-## Risks linked to this technology
-
-* [Toxicity of nanomaterials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1134.md)
-
 ## This Technology is identified by the following QID
 
 * [Q967847](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q967847.md)
+
+## Risks linked to this technology
+
+* [Toxicity of nanomaterials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1134.md)
 

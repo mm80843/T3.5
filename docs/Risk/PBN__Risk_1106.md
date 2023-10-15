@@ -2,9 +2,21 @@
 
 # __Inadequate visitor access control__
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+* [Strengthen security measures such as identification checks and surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1553.md)
+
+## People affected by this risk
+
+* [gated community residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_201.md)
+
+## Name of the risk
+
+Increased risk of infection and reduced safety
+
+## Description of the risk
+
+Lack of control over who can enter gated communities
 
 ## Property: has_RiskType
 
@@ -15,40 +27,28 @@
 * [gated community administration](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_634.md)
 * [security personnel](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_635.md)
 
+## Property: has_RiskISO_Purpose
+
+* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+
 ## Property: has_RiskHealth
 
 * [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Description of the risk
-
-Lack of control over who can enter gated communities
-
-## Articles mentionning the risk
-
-* [Housing Experience in Gated Communities in the Time of Pandemics: Lessons Learned from COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_87.md)
-
-## Technologies linked to the risk
-
-* [access control systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_164.md)
-* [surveillance cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_165.md)
-
-## People affected by this risk
-
-* [gated community residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_201.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Living and working environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_1.md)
 
-## Mitigations of this risk
+## Articles mentionning the risk
 
-* [Strengthen security measures such as identification checks and surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1553.md)
+* [Housing Experience in Gated Communities in the Time of Pandemics: Lessons Learned from COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_87.md)
 
 ## Property: has_RiskGBN
 
 * [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Name of the risk
+## Technologies linked to the risk
 
-Increased risk of infection and reduced safety
+* [access control systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_164.md)
+* [surveillance cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_165.md)
 

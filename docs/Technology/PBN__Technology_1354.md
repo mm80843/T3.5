@@ -2,11 +2,11 @@
 
 # __automated windows__
 
-## Risks linked to this technology
-
-* [Inadequate ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_713.md)
-
 ## This Technology is identified by the following QID
 
 * [Q787116](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q787116.md)
+
+## Risks linked to this technology
+
+* [Inadequate ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_713.md)
 

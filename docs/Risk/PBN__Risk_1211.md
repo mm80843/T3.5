@@ -2,9 +2,21 @@
 
 # __Spatial inequalities in mobility patterns__
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+* [Design interventions to evenly distribute activity hubs and transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1663.md)
+
+## People affected by this risk
+
+* [residents of neighborhoods with limited access to activity hubs and transportation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_725.md)
+
+## Name of the risk
+
+Unequal spread of contagious diseases and variations in infection rates
+
+## Description of the risk
+
+Unequal distribution of mobility patterns across neighborhoods
 
 ## Property: has_RiskType
 
@@ -16,39 +28,27 @@
 * [urban planners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_125.md)
 * [city officials](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_726.md)
 
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
 ## Property: has_RiskHealth
 
 * [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Description of the risk
-
-Unequal distribution of mobility patterns across neighborhoods
-
-## Articles mentionning the risk
-
-* [Understanding the role of urban design in disease spreading](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_69.md)
-
-## Technologies linked to the risk
-
-* [urban planning and design techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_296.md)
-
-## People affected by this risk
-
-* [residents of neighborhoods with limited access to activity hubs and transportation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_725.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Mobility](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_14.md)
 
-## Mitigations of this risk
+## Articles mentionning the risk
 
-* [Design interventions to evenly distribute activity hubs and transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1663.md)
+* [Understanding the role of urban design in disease spreading](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_69.md)
 
 ## Property: has_RiskGBN
 
 * [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
-## Name of the risk
+## Technologies linked to the risk
 
-Unequal spread of contagious diseases and variations in infection rates
+* [urban planning and design techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_296.md)
 

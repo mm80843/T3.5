@@ -6,15 +6,15 @@
 
 * [Q17154120](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q17154120.md)
 
-## Risk affecting this stakeholder
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Limited flexibility in adjusting to shocks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1840.md)
+* [Business and Financial Services](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_58.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## Risk affecting this stakeholder
 
-* [Business and Financial Services](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_58.md)
+* [Limited flexibility in adjusting to shocks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1840.md)
 

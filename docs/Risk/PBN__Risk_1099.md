@@ -2,8 +2,22 @@
 
 # __Governance__
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
+* [Establish standards and protocols, promote collaboration and knowledge sharing among stakeholders.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1546.md)
+
+## People affected by this risk
+
+* [government agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_55.md)
+* [technology providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_630.md)
+
+## Name of the risk
+
+Difficulty in coordination and interoperability between different systems and technologies.
+
+## Description of the risk
+
+Lack of standards, protocols, and agreements for integrating fragmented digital transformation technologies.
 
 ## Property: has_RiskType
 
@@ -15,40 +29,26 @@
 * [government agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_55.md)
 * [industry associations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_631.md)
 
+## Property: has_RiskISO_Purpose
+
+
 ## Property: has_RiskHealth
 
 
-## Description of the risk
+## Property: has_RiskISO_Impact
 
-Lack of standards, protocols, and agreements for integrating fragmented digital transformation technologies.
 
 ## Articles mentionning the risk
 
 * [Leveraging Digital Transformation Technologies to Tackle COVID-19: Proposing a Privacy-First Holistic Framework](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_297.md)
+
+## Property: has_RiskGBN
+
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
 ## Technologies linked to the risk
 
 * [collaboration platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_155.md)
 * [standards](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_153.md)
 * [protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_154.md)
-
-## People affected by this risk
-
-* [government agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_55.md)
-* [technology providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_630.md)
-
-## Property: has_RiskISO_Impact
-
-
-## Mitigations of this risk
-
-* [Establish standards and protocols, promote collaboration and knowledge sharing among stakeholders.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1546.md)
-
-## Property: has_RiskGBN
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
-
-## Name of the risk
-
-Difficulty in coordination and interoperability between different systems and technologies.
 

@@ -2,11 +2,11 @@
 
 # __building material technologies__
 
-## Risks linked to this technology
-
-* [Lack of hygienic building materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1739.md)
-
 ## This Technology is identified by the following QID
 
 * [Q12144907](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q12144907.md)
+
+## Risks linked to this technology
+
+* [Lack of hygienic building materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1739.md)
 

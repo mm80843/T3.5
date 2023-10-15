@@ -2,6 +2,10 @@
 
 # __ngos__
 
+## This Stakeholder can get these Benefits from mitigation measures
+
+* [Disseminating evidence through various mediums](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_549.md)
+
 ## Risks that can be mitigated by this stakeholder
 
 * [Reduction in domestic public budgets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_106.md)
@@ -37,8 +41,4 @@
 * [Use of biomass fuels](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2018.md)
 * [Water and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2037.md)
 * [Social inequality and lifestyle](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2051.md)
-
-## This Stakeholder can get these Benefits from mitigation measures
-
-* [Disseminating evidence through various mediums](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_549.md)
 

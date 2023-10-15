@@ -2,11 +2,11 @@
 
 # __energy-efficient hvac systems and smart thermostat technology__
 
-## Risks linked to this technology
-
-* [Increased HVAC loads during pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1565.md)
-
 ## This Technology is identified by the following QID
 
 * [Q1601541](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1601541.md)
+
+## Risks linked to this technology
+
+* [Increased HVAC loads during pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1565.md)
 

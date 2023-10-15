@@ -10,9 +10,9 @@ Transparently communicate the potential impact of pandemic-related factors on re
 
 * [Validity of energy social research during and after COVID-19: challenges, considerations, and responses](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_289.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
+
+
+## Risks possibly mitigated by this Mitigation
 
 

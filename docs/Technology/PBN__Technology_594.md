@@ -2,11 +2,11 @@
 
 # __targeted healthcare services__
 
-## Risks linked to this technology
-
-* [Risk of high fatality rate in vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1378.md)
-
 ## This Technology is identified by the following QID
 
 * [Q55645123](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q55645123.md)
+
+## Risks linked to this technology
+
+* [Risk of high fatality rate in vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1378.md)
 

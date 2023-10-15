@@ -2,11 +2,11 @@
 
 # __distance learning technology__
 
-## Risks linked to this technology
-
-* [Education disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_234.md)
-
 ## This Technology is identified by the following QID
 
 * [Q1362939](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1362939.md)
+
+## Risks linked to this technology
+
+* [Education disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_234.md)
 

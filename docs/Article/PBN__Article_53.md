@@ -2,9 +2,13 @@
 
 # __Reframe how to serve your community in the midst of a pandemic__
 
-## Summary of the article
+## Short summary of the article
 
-The campus police at FMU have been taking extra precautions to keep everyone safe during the COVID-19 pandemic. They have increased their efforts to clean and disinfect the campus. The police officers now patrol separately instead of sharing a patrol car. Even before the pandemic, the campus police received training on safety and hygiene. Despite the changes, the officers are still focused on keeping the campus safe and are finding meaning in their work. They also try to be helpful and kind to students and faculty who might be stressed during this time. The campus police see themselves as representatives of the university and strive to make a good impression on everyone they meet.
+This research abstract summarizes the strategies employed by FMU (a campus) to prioritize team safety during the COVID-19 pandemic. The campus has made adjustments to ensure social distancing in classrooms and has intensified decontamination efforts. The campus police department, consisting of fully certified state police officers, has been trained in universal precautions for hygiene and safety even before the pandemic. Despite these changes, there hasn't been a decrease in morale among the officers, who continue to find meaning in their work. The department emphasizes community policing and provides support and assistance to students and faculty during this stressful time. The campus police officers actively engage with the community, introducing themselves to unfamiliar individuals and functioning as representatives of the university. The role of campus law enforcement extends beyond regular interactions and includes being spokespersons for the university. For further inquiries, contact Donald Tarbell at dtarbell@fmarion.edu.
+
+## Year of publication
+
+2020
 
 ## Title of the article
 
@@ -19,15 +23,9 @@ Reframe how to serve your community in the midst of a pandemic
 * [Failure to prioritize team safety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2150.md)
 * [Lack of awareness about campus safety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2151.md)
 
-## This article points to following mitigation
+## DOI of the article
 
-* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2.md)
-* [Hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1744.md)
-* [Decontamination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2049.md)
-* [Patrol separately](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2050.md)
-* [Universal precautions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2051.md)
-* [Patience and compassion](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2052.md)
-* [Community engagement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2053.md)
+10.1002/casr.30670
 
 ## Benefits listed in this article
 
@@ -38,15 +36,17 @@ Reframe how to serve your community in the midst of a pandemic
 * [Supportive community environment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_266.md)
 * [Enhanced sense of safety](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_267.md)
 
-## Short summary of the article
+## This article points to following mitigation
 
-This research abstract summarizes the strategies employed by FMU (a campus) to prioritize team safety during the COVID-19 pandemic. The campus has made adjustments to ensure social distancing in classrooms and has intensified decontamination efforts. The campus police department, consisting of fully certified state police officers, has been trained in universal precautions for hygiene and safety even before the pandemic. Despite these changes, there hasn't been a decrease in morale among the officers, who continue to find meaning in their work. The department emphasizes community policing and provides support and assistance to students and faculty during this stressful time. The campus police officers actively engage with the community, introducing themselves to unfamiliar individuals and functioning as representatives of the university. The role of campus law enforcement extends beyond regular interactions and includes being spokespersons for the university. For further inquiries, contact Donald Tarbell at dtarbell@fmarion.edu.
+* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2.md)
+* [Hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1744.md)
+* [Decontamination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2049.md)
+* [Patrol separately](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2050.md)
+* [Universal precautions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2051.md)
+* [Patience and compassion](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2052.md)
+* [Community engagement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2053.md)
 
-## DOI of the article
+## Summary of the article
 
-10.1002/casr.30670
-
-## Year of publication
-
-2020
+The campus police at FMU have been taking extra precautions to keep everyone safe during the COVID-19 pandemic. They have increased their efforts to clean and disinfect the campus. The police officers now patrol separately instead of sharing a patrol car. Even before the pandemic, the campus police received training on safety and hygiene. Despite the changes, the officers are still focused on keeping the campus safe and are finding meaning in their work. They also try to be helpful and kind to students and faculty who might be stressed during this time. The campus police see themselves as representatives of the university and strive to make a good impression on everyone they meet.
 

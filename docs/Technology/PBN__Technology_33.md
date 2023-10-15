@@ -2,11 +2,11 @@
 
 # __preparedness strategies__
 
-## Risks linked to this technology
-
-* [Lack of preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_492.md)
-
 ## This Technology is identified by the following QID
 
 * [Q4583103](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4583103.md)
+
+## Risks linked to this technology
+
+* [Lack of preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_492.md)
 

@@ -2,14 +2,14 @@
 
 # __VPN__
 
+## This Technology belongs to this TechGroup
+
+* [Blockchain and cryptography](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_10.md)
+
 ## This Technology is identified by the following QID
 
 * [Q170963](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q170963.md)
 * [Q2875989](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2875989.md)
-
-## This Technology belongs to this TechGroup
-
-* [Blockchain and cryptography](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_10.md)
 
 ## This Technology belongs to this TechSubgroup
 

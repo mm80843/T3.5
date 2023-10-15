@@ -2,9 +2,21 @@
 
 # __Inadequate community engagement__
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+* [Community mobilization and education, involvement of community leaders and stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3058.md)
+
+## People affected by this risk
+
+* [general populations in areas with vector control programs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1571.md)
+
+## Name of the risk
+
+Reduced effectiveness of interventions, lack of sustained behavior change
+
+## Description of the risk
+
+Lack of community participation and cooperation in vector control programs
 
 ## Property: has_RiskType
 
@@ -16,37 +28,25 @@
 * [public health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_222.md)
 * [community leaders](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_606.md)
 
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
 ## Property: has_RiskHealth
 
-
-## Description of the risk
-
-Lack of community participation and cooperation in vector control programs
-
-## Articles mentionning the risk
-
-* [The importance of vector control for the control and elimination of vector-borne diseases](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_64.md)
-
-## Technologies linked to the risk
-
-
-## People affected by this risk
-
-* [general populations in areas with vector control programs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1571.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Living and working environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_1.md)
 
-## Mitigations of this risk
+## Articles mentionning the risk
 
-* [Community mobilization and education, involvement of community leaders and stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3058.md)
+* [The importance of vector control for the control and elimination of vector-borne diseases](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_64.md)
 
 ## Property: has_RiskGBN
 
 * [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
-## Name of the risk
+## Technologies linked to the risk
 
-Reduced effectiveness of interventions, lack of sustained behavior change
 

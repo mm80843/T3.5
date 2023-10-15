@@ -11,11 +11,11 @@ Investing in active transportation infrastructure, such as walking and cycling i
 * [Urban design attributes and resilience: COVID-19 evidence from New York City](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_6.md)
 * [Treating two pandemics for the price of one: Chronic and infectious disease impacts of the built and natural environment](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_174.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Higher COVID-19 mortality rate](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2682.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [cycling and pedestrian infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4499.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Higher COVID-19 mortality rate](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2682.md)
 

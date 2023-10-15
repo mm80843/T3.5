@@ -2,9 +2,21 @@
 
 # __Financial strain as a risk factor for intimate partner violence__
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Social cohesion](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_5.md)
+* [Provide financial assistance and resources to individuals and families facing economic hardship, promote economic empowerment programs for women](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1471.md)
+
+## People affected by this risk
+
+* [women experiencing economic hardship](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_565.md)
+
+## Name of the risk
+
+Increased likelihood of domestic violence incidents and escalation of violence
+
+## Description of the risk
+
+Economic impacts of the pandemic, such as job loss and financial insecurity, contribute to increased stress and tension in relationships, leading to higher risk of intimate partner violence
 
 ## Property: has_RiskType
 
@@ -17,41 +29,29 @@
 * [employers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_180.md)
 * [community organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_150.md)
 
+## Property: has_RiskISO_Purpose
+
+* [Social cohesion](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_5.md)
+
 ## Property: has_RiskHealth
 
 * [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 * [economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_3.md)
 
-## Description of the risk
+## Property: has_RiskISO_Impact
 
-Economic impacts of the pandemic, such as job loss and financial insecurity, contribute to increased stress and tension in relationships, leading to higher risk of intimate partner violence
+* [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_5.md)
 
 ## Articles mentionning the risk
 
 * [COVID-19 and the rise of intimate partner violence](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_8.md)
 
-## Technologies linked to the risk
-
-* [financial support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_44.md)
-* [job creation initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_45.md)
-
-## People affected by this risk
-
-* [women experiencing economic hardship](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_565.md)
-
-## Property: has_RiskISO_Impact
-
-* [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_5.md)
-
-## Mitigations of this risk
-
-* [Provide financial assistance and resources to individuals and families facing economic hardship, promote economic empowerment programs for women](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1471.md)
-
 ## Property: has_RiskGBN
 
 * [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Name of the risk
+## Technologies linked to the risk
 
-Increased likelihood of domestic violence incidents and escalation of violence
+* [financial support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_44.md)
+* [job creation initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_45.md)
 

@@ -2,9 +2,22 @@
 
 # __Lack of filters for reliable information__
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+* [Implement peer-review process, encourage use of reputable sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2449.md)
+
+## People affected by this risk
+
+* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
+* [scientific community](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_348.md)
+
+## Name of the risk
+
+Decreased credibility and trust in scientific community
+
+## Description of the risk
+
+Absence of mechanisms to verify the reliability of scientific data
 
 ## Property: has_RiskType
 
@@ -15,41 +28,28 @@
 * [research institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_413.md)
 * [scientific journals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_971.md)
 
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
 ## Property: has_RiskHealth
 
 * [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
-
-## Description of the risk
-
-Absence of mechanisms to verify the reliability of scientific data
-
-## Articles mentionning the risk
-
-* [Infodemic and the spread of fake news in the COVID-19-era](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_299.md)
-
-## Technologies linked to the risk
-
-* [peer-review systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1228.md)
-* [reputable scientific journals](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1229.md)
-
-## People affected by this risk
-
-* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
-* [scientific community](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_348.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Governance, empowerment and engagement](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_6.md)
 
-## Mitigations of this risk
+## Articles mentionning the risk
 
-* [Implement peer-review process, encourage use of reputable sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2449.md)
+* [Infodemic and the spread of fake news in the COVID-19-era](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_299.md)
 
 ## Property: has_RiskGBN
 
 * [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
-## Name of the risk
+## Technologies linked to the risk
 
-Decreased credibility and trust in scientific community
+* [peer-review systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1228.md)
+* [reputable scientific journals](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1229.md)
 

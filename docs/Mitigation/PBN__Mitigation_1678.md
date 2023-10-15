@@ -10,11 +10,11 @@ TaqMan real-time RT-PCR is a sensitive and accurate method for detecting and qua
 
 * [SARS-CoV-2 RNA in wastewater anticipated COVID-19 occurrence in a low prevalence area](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_96.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
 
 * [taqman rt-qpcr assay](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4004.md)
 * [lightcycler 480 instrument](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4005.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

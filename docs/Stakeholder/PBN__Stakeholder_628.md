@@ -2,13 +2,13 @@
 
 # __it professionals__
 
+## Risk affecting this stakeholder
+
+* [Lack of consensus on interoperability standards](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_812.md)
+
 ## Risks that can be mitigated by this stakeholder
 
 * [Data Acquisition and Integration](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1096.md)
 * [Scalability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1101.md)
 * [Lack of Infrastructure for 5G Network](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1103.md)
-
-## Risk affecting this stakeholder
-
-* [Lack of consensus on interoperability standards](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_812.md)
 

@@ -2,9 +2,21 @@
 
 # __Misinterpretation of park use data__
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Attractiveness](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_9.md)
+* [Clearly define and communicate the concept of "park" in data collection methods.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2159.md)
+
+## People affected by this risk
+
+* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+
+## Name of the risk
+
+Inaccurate assessment of park use patterns and potential biases in conclusions.
+
+## Description of the risk
+
+Different interpretations of the term "park" may lead to inaccuracies or inconsistencies in self-reported and geo-tracking data.
 
 ## Property: has_RiskType
 
@@ -14,37 +26,25 @@
 
 * [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
 
+## Property: has_RiskISO_Purpose
+
+* [Attractiveness](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_9.md)
+
 ## Property: has_RiskHealth
 
-
-## Description of the risk
-
-Different interpretations of the term "park" may lead to inaccuracies or inconsistencies in self-reported and geo-tracking data.
-
-## Articles mentionning the risk
-
-* [Urban Park Use During the COVID-19 Pandemic: Are Socially Vulnerable Communities Disproportionately Impacted?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_276.md)
-
-## Technologies linked to the risk
-
-
-## People affected by this risk
-
-* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Innovation, Creativity and research](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_2.md)
 
-## Mitigations of this risk
+## Articles mentionning the risk
 
-* [Clearly define and communicate the concept of "park" in data collection methods.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2159.md)
+* [Urban Park Use During the COVID-19 Pandemic: Are Socially Vulnerable Communities Disproportionately Impacted?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_276.md)
 
 ## Property: has_RiskGBN
 
 * [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Name of the risk
+## Technologies linked to the risk
 
-Inaccurate assessment of park use patterns and potential biases in conclusions.
 

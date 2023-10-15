@@ -6,14 +6,14 @@
 
 * [Q389735](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q389735.md)
 
-## Risk affecting this stakeholder
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [High air pollution levels](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1145.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## Risk affecting this stakeholder
 
+* [High air pollution levels](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1145.md)
 

@@ -2,11 +2,11 @@
 
 # __uv germicidal radiation__
 
-## Risks linked to this technology
-
-* [Transmission in closed spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1943.md)
-
 ## This Technology is identified by the following QID
 
 * [Q11391](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q11391.md)
+
+## Risks linked to this technology
+
+* [Transmission in closed spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1943.md)
 

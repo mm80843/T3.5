@@ -2,11 +2,11 @@
 
 # __online mental health platforms__
 
-## Risks linked to this technology
-
-* [Cyberchondria](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1611.md)
-
 ## This Technology is identified by the following QID
 
 * [Q30290602](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q30290602.md)
+
+## Risks linked to this technology
+
+* [Cyberchondria](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1611.md)
 

@@ -2,10 +2,6 @@
 
 # __financial support__
 
-## Risks linked to this technology
-
-* [Negative impact of interventions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1389.md)
-
 ## This Technology is identified by the following QID
 
 * [Q70471322](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q70471322.md)
@@ -16,4 +12,8 @@
 * [Addressing precarity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_742.md)
 * [Supporting access to technology and capital goods in Global South](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1006.md)
 * [Job retention schemes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1505.md)
+
+## Risks linked to this technology
+
+* [Negative impact of interventions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1389.md)
 

@@ -2,9 +2,22 @@
 
 # __Stigmatization and discrimination__
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+* [Promote inclusivity, educate the public about the virus and the importance of empathy and support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2417.md)
+
+## People affected by this risk
+
+* [marginalized communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_22.md)
+* [individuals from stigmatized groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1240.md)
+
+## Name of the risk
+
+Social exclusion, mental health impact on stigmatized individuals, hindrance to effective public health measures
+
+## Description of the risk
+
+Associating certain groups or individuals with the virus based on stereotypes or misinformation
 
 ## Property: has_RiskType
 
@@ -16,41 +29,28 @@
 * [ngos](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_234.md)
 * [community organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_150.md)
 
+## Property: has_RiskISO_Purpose
+
+* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+
 ## Property: has_RiskHealth
 
 * [mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
-
-## Description of the risk
-
-Associating certain groups or individuals with the virus based on stereotypes or misinformation
-
-## Articles mentionning the risk
-
-* [COVID-19 misinformation: Accuracy of articles about coronavirus prevention mostly shared on social media](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_283.md)
-
-## Technologies linked to the risk
-
-* [anti-stigma campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1191.md)
-* [cultural competence training](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1192.md)
-
-## People affected by this risk
-
-* [marginalized communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_22.md)
-* [individuals from stigmatized groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1240.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
 
-## Mitigations of this risk
+## Articles mentionning the risk
 
-* [Promote inclusivity, educate the public about the virus and the importance of empathy and support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2417.md)
+* [COVID-19 misinformation: Accuracy of articles about coronavirus prevention mostly shared on social media](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_283.md)
 
 ## Property: has_RiskGBN
 
 * [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Name of the risk
+## Technologies linked to the risk
 
-Social exclusion, mental health impact on stigmatized individuals, hindrance to effective public health measures
+* [anti-stigma campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1191.md)
+* [cultural competence training](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1192.md)
 

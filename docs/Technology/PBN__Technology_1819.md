@@ -2,11 +2,11 @@
 
 # __web-based platforms__
 
-## Risks linked to this technology
-
-* [Restriction in delivery capability for PFA interventions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2244.md)
-
 ## This Technology is identified by the following QID
 
 * [Q271680](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q271680.md)
+
+## Risks linked to this technology
+
+* [Restriction in delivery capability for PFA interventions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2244.md)
 

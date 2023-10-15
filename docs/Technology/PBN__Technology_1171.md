@@ -2,6 +2,10 @@
 
 # __drones for medical supply delivery__
 
+## This Technology belongs to this TechGroup
+
+* [Drones and robots](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_17.md)
+
 ## Risks linked to this technology
 
 * [Impact on healthcare systems and pharmaceutical industry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1812.md)
@@ -9,10 +13,6 @@
 ## This Technology is identified by the following QID
 
 * [Q20786933](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q20786933.md)
-
-## This Technology belongs to this TechGroup
-
-* [Drones and robots](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_17.md)
 
 ## This Technology belongs to this TechSubgroup
 

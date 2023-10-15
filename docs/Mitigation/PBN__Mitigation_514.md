@@ -10,10 +10,10 @@ Establish the relationship between the marker measured in wastewater and the act
 
 * [Wastewater surveillance for population-wide Covid-19: The present and future](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_213.md)
 
+## This Mitigation is enabled by the following technologies
+
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Unknown calibration of data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2607.md)
-
-## This Mitigation is enabled by the following technologies
-
 

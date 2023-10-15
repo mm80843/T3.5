@@ -2,11 +2,11 @@
 
 # __data analytics for targeted assistance__
 
-## Risks linked to this technology
-
-* [Economic crisis](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_231.md)
-
 ## This Technology is identified by the following QID
 
 * [Q485396](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q485396.md)
+
+## Risks linked to this technology
+
+* [Economic crisis](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_231.md)
 

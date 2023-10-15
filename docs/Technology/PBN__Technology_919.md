@@ -2,11 +2,11 @@
 
 # __government regulations__
 
-## Risks linked to this technology
-
-* [Insufficient non-pharmaceutical interventions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1603.md)
-
 ## This Technology enables the following mitigations
 
 * [Stay-at-home orders](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_952.md)
+
+## Risks linked to this technology
+
+* [Insufficient non-pharmaceutical interventions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1603.md)
 

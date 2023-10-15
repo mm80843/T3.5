@@ -2,20 +2,20 @@
 
 # __Reduction in mosquito breeding__
 
-## Articles mentionning this Benefit
-
-* [Making green infrastructure healthier infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_20.md)
-
 ## Stakeholders benefitting from this Benefit
 
 * [residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
 * [public health](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_58.md)
 
+## Name of the Benefit
+
+Increased water movement and aeration can reduce mosquito breeding in urban bodies of water, decreasing the risk of mosquito-borne diseases
+
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Investing in water movement and aeration can improve public health outcomes by reducing the risk of mosquito-borne diseases for residents.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_89.md)
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Increased water movement and aeration can reduce mosquito breeding in urban bodies of water, decreasing the risk of mosquito-borne diseases
+* [Making green infrastructure healthier infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_20.md)
 

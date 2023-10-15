@@ -10,12 +10,12 @@ Proper air filtration and ventilation help to reduce the concentration of infect
 
 * [El impacto del teletrabajo en tiempos del COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_108.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Contagion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2685.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_138.md)
 * [hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_185.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Contagion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2685.md)
 

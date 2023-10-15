@@ -22,6 +22,14 @@
 * [Improved community resilience](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1300.md)
 * [Positive environmental externalities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1301.md)
 
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Residents](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_72.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Community Stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_8.md)
+
 ## Risk affecting this stakeholder
 
 * [Neglected green space quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_533.md)
@@ -57,12 +65,4 @@
 * [Loss of UGS due to urban development](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2257.md)
 * [Urban Activities and Points of Interests (POIs)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2380.md)
 * [Reduction of environmental noise level](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2388.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Community Stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_8.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Residents](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_72.md)
 

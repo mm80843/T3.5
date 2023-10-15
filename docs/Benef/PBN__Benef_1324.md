@@ -2,19 +2,19 @@
 
 # __Reduced exposure to harmful pollutants__
 
-## Articles mentionning this Benefit
-
-* [A comprehensive review on indoor air quality monitoring systems for enhanced public health](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_281.md)
-
 ## Stakeholders benefitting from this Benefit
 
 * [women and young children](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_521.md)
+
+## Name of the Benefit
+
+Improved cooking systems reduce the concentration of harmful pollutants such as CO and PM2.5, resulting in better indoor air quality and reduced health risks.
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Investment in improved cooking systems can lead to improved health outcomes for women and children, reducing healthcare costs and improving overall well-being.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1496.md)
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Improved cooking systems reduce the concentration of harmful pollutants such as CO and PM2.5, resulting in better indoor air quality and reduced health risks.
+* [A comprehensive review on indoor air quality monitoring systems for enhanced public health](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_281.md)
 

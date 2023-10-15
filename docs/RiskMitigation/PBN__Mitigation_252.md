@@ -10,13 +10,13 @@ Utilizes UV-C radiation emitted by multiple emitters to disinfect a whole room, 
 
 * [Efficacy of an Automated Multiple Emitter Whole-Room Ultraviolet-C Disinfection System Against Coronaviruses MHV and MERS-CoV](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_269.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
 
 * [uv-c emitters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3094.md)
 * [touch screen control tablet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3095.md)
 * [motion sensor](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3096.md)
 * [laser](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3097.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

@@ -2,9 +2,27 @@
 
 # __Increased waste__
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+* [Waste management strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1147.md)
+* [Implement proper waste management and recycling systems, encourage environmentally-friendly consumer behavior.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3099.md)
+* [Online shopping for home delivery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2450.md)
+* [Repeal of disposable bag bans](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2454.md)
+* [Increased use of single-use packaging](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2455.md)
+
+## People affected by this risk
+
+* [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+* [waste management workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1210.md)
+
+## Name of the risk
+
+Increased pollution, strain on waste management systems, and public health risks.
+
+## Description of the risk
+
+Increased generation of organic and inorganic waste due to online shopping and medical waste from the pandemic.
 
 ## Property: has_RiskType
 
@@ -16,46 +34,28 @@
 * [healthcare industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_423.md)
 * [waste management industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1589.md)
 
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
 ## Property: has_RiskHealth
 
 * [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Description of the risk
-
-Increased generation of organic and inorganic waste due to online shopping and medical waste from the pandemic.
-
-## Articles mentionning the risk
-
-* [Indirect effects of COVID-19 on the environment](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_238.md)
-
-## Technologies linked to the risk
-
-* [waste management technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_867.md)
-* [recycling infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2003.md)
-
-## People affected by this risk
-
-* [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
-* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
-* [waste management workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1210.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_5.md)
 
-## Mitigations of this risk
+## Articles mentionning the risk
 
-* [Waste management strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1147.md)
-* [Implement proper waste management and recycling systems, encourage environmentally-friendly consumer behavior.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3099.md)
-* [Online shopping for home delivery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2450.md)
-* [Repeal of disposable bag bans](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2454.md)
-* [Increased use of single-use packaging](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2455.md)
+* [Indirect effects of COVID-19 on the environment](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_238.md)
 
 ## Property: has_RiskGBN
 
 * [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
-## Name of the risk
+## Technologies linked to the risk
 
-Increased pollution, strain on waste management systems, and public health risks.
+* [waste management technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_867.md)
+* [recycling infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2003.md)
 

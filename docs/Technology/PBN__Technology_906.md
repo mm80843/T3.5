@@ -2,6 +2,14 @@
 
 # __social distancing__
 
+## This Technology belongs to this TechGroup
+
+* [Enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_7.md)
+
+## This Technology enables the following mitigations
+
+* [Strict adherence to COVID-19 preventative measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_157.md)
+
 ## Risks linked to this technology
 
 * [Local transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1595.md)
@@ -13,15 +21,7 @@
 
 * [Q30314010](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q30314010.md)
 
-## This Technology belongs to this TechGroup
-
-* [Enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_7.md)
-
 ## This Technology belongs to this TechSubgroup
 
 * [Public Health and Safety Measures](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_52.md)
-
-## This Technology enables the following mitigations
-
-* [Strict adherence to COVID-19 preventative measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_157.md)
 

@@ -10,11 +10,11 @@ Incorporate dynamics of human behaviour within the building, simulating realisti
 
 * [Designing a Multi-Agent Occupant Simulation System to Support Facility Planning and Analysis for COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_26.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [High complexity of infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2922.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [behaviour transition matrix](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3651.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [High complexity of infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2922.md)
 

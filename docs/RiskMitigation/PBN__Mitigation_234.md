@@ -10,10 +10,10 @@ Biosensors are cost-effective sensing systems that can provide rapid and accurat
 
 * [Wastewater-Based Epidemiology to monitor COVID-19 outbreak: Present and future diagnostic methods to be in your radar](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_178.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
 
 * [electrochemical reactions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3078.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

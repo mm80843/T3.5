@@ -2,11 +2,11 @@
 
 # __risk communication strategies__
 
-## Risks linked to this technology
-
-* [Biased risk perception](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1818.md)
-
 ## This Technology is identified by the following QID
 
 * [Q24889807](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q24889807.md)
+
+## Risks linked to this technology
+
+* [Biased risk perception](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1818.md)
 

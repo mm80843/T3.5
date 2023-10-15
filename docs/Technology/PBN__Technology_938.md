@@ -2,11 +2,11 @@
 
 # __trusted sources certification__
 
-## Risks linked to this technology
-
-* [Online information trust](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1613.md)
-
 ## This Technology is identified by the following QID
 
 * [Q7848233](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7848233.md)
+
+## Risks linked to this technology
+
+* [Online information trust](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1613.md)
 

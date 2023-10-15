@@ -2,9 +2,22 @@
 
 # __Ineffectiveness of conventional wastewater treatment processes in removing SARS-CoV-2__
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+* [Implement advanced treatment processes, such as ozonation or membrane filtration, to improve removal efficiency of SARS-CoV-2 RNA.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3043.md)
+
+## People affected by this risk
+
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+* [ecosystem](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1563.md)
+
+## Name of the risk
+
+Risk of releasing SARS-CoV-2 genetic material into the environment through treated wastewater.
+
+## Description of the risk
+
+Conventional activated-sludge wastewater treatment plants have poor removal efficiency for SARS-CoV-2 RNA.
 
 ## Property: has_RiskType
 
@@ -14,41 +27,28 @@
 
 * [wastewater treatment plant operators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1050.md)
 
+## Property: has_RiskISO_Purpose
+
+* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+
 ## Property: has_RiskHealth
 
 * [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Description of the risk
-
-Conventional activated-sludge wastewater treatment plants have poor removal efficiency for SARS-CoV-2 RNA.
-
-## Articles mentionning the risk
-
-* [Detection of SARS-CoV-2 in raw and treated wastewater in Germany – Suitability for COVID-19 surveillance and potential transmission risks](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_0.md)
-
-## Technologies linked to the risk
-
-* [ozonation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1932.md)
-* [membrane filtration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1933.md)
-
-## People affected by this risk
-
-* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
-* [ecosystem](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1563.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
 
-## Mitigations of this risk
+## Articles mentionning the risk
 
-* [Implement advanced treatment processes, such as ozonation or membrane filtration, to improve removal efficiency of SARS-CoV-2 RNA.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3043.md)
+* [Detection of SARS-CoV-2 in raw and treated wastewater in Germany – Suitability for COVID-19 surveillance and potential transmission risks](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_0.md)
 
 ## Property: has_RiskGBN
 
 * [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
-## Name of the risk
+## Technologies linked to the risk
 
-Risk of releasing SARS-CoV-2 genetic material into the environment through treated wastewater.
+* [ozonation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1932.md)
+* [membrane filtration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1933.md)
 

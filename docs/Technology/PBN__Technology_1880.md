@@ -2,11 +2,11 @@
 
 # __safety barriers__
 
-## Risks linked to this technology
-
-* [Health risks from UV-C radiation exposure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2297.md)
-
 ## This Technology is identified by the following QID
 
 * [Q24906](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q24906.md)
+
+## Risks linked to this technology
+
+* [Health risks from UV-C radiation exposure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2297.md)
 

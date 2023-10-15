@@ -2,10 +2,6 @@
 
 # __statistical analysis__
 
-## Risks linked to this technology
-
-* [Overfitting of Anomaly Detection Models](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1258.md)
-
 ## This Technology is identified by the following QID
 
 * [Q67369489](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q67369489.md)
@@ -16,4 +12,8 @@
 * [Regression modeling](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1196.md)
 * [Multinomial logistic regression](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1197.md)
 * [Country-specific analyses](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1200.md)
+
+## Risks linked to this technology
+
+* [Overfitting of Anomaly Detection Models](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1258.md)
 

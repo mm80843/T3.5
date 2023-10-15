@@ -2,6 +2,20 @@
 
 # __signage__
 
+## This Technology belongs to this TechGroup
+
+* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
+* [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_9.md)
+
+## This Technology enables the following mitigations
+
+* [Social Distancing Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_521.md)
+* [Proper handwashing hygiene promotion](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_554.md)
+* [Worker Education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_870.md)
+* [Worker traffic flow direction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2032.md)
+* [One-way mobility circulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_407.md)
+* [Health and safety rule signage](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1897.md)
+
 ## Risks linked to this technology
 
 * [Establish a one-way mobility circulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_264.md)
@@ -16,22 +30,8 @@
 
 * [Q1211272](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1211272.md)
 
-## This Technology belongs to this TechGroup
-
-* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
-* [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_9.md)
-
 ## This Technology belongs to this TechSubgroup
 
 * [Public Awareness and Information Sharing](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_50.md)
 * [Public Health Measures and Education](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_47.md)
-
-## This Technology enables the following mitigations
-
-* [Social Distancing Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_521.md)
-* [Proper handwashing hygiene promotion](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_554.md)
-* [Worker Education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_870.md)
-* [Worker traffic flow direction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2032.md)
-* [One-way mobility circulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_407.md)
-* [Health and safety rule signage](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1897.md)
 

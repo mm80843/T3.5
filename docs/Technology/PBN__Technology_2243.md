@@ -2,13 +2,13 @@
 
 # __Data standardization tools__
 
-## This Technology is identified by the following QID
-
-* [Q1328899](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1328899.md)
-
 ## This Technology belongs to this TechGroup
 
 * [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
+
+## This Technology is identified by the following QID
+
+* [Q1328899](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1328899.md)
 
 ## This Technology belongs to this TechSubgroup
 

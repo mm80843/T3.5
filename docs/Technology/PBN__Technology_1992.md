@@ -2,11 +2,11 @@
 
 # __alternative modes of transportation__
 
-## Risks linked to this technology
-
-* [Urban Mobility and Commute Patterns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2379.md)
-
 ## This Technology is identified by the following QID
 
 * [Q334166](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q334166.md)
+
+## Risks linked to this technology
+
+* [Urban Mobility and Commute Patterns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2379.md)
 

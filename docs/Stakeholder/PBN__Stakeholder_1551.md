@@ -6,15 +6,15 @@
 
 * [Q718998](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q718998.md)
 
-## Risks that can be mitigated by this stakeholder
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Inadequate allocation of community service facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2325.md)
+* [Community Developers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_141.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Community Stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_8.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## Risks that can be mitigated by this stakeholder
 
-* [Community Developers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_141.md)
+* [Inadequate allocation of community service facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2325.md)
 

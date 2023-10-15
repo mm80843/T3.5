@@ -2,9 +2,21 @@
 
 # __Fear of COVID-19__
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+* [Provide accurate and reassuring information, promote mental health support.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1675.md)
+
+## People affected by this risk
+
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+
+## Name of the risk
+
+Increased stress and anxiety, reduced adherence to guidelines.
+
+## Description of the risk
+
+Fear of COVID-19 can affect physical and mental health.
 
 ## Property: has_RiskType
 
@@ -15,38 +27,26 @@
 * [public health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_173.md)
 * [mental health professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_368.md)
 
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
 ## Property: has_RiskHealth
 
 * [mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
-
-## Description of the risk
-
-Fear of COVID-19 can affect physical and mental health.
-
-## Articles mentionning the risk
-
-* [COVID-19 media fatigue: predictors of decreasing interest and avoidance of COVID-19–related news](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_153.md)
-
-## Technologies linked to the risk
-
-
-## People affected by this risk
-
-* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
 
-## Mitigations of this risk
+## Articles mentionning the risk
 
-* [Provide accurate and reassuring information, promote mental health support.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1675.md)
+* [COVID-19 media fatigue: predictors of decreasing interest and avoidance of COVID-19–related news](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_153.md)
 
 ## Property: has_RiskGBN
 
 * [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Name of the risk
+## Technologies linked to the risk
 
-Increased stress and anxiety, reduced adherence to guidelines.
 

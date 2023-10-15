@@ -10,11 +10,11 @@ Designing personalized indoor environments with individual controls at the room 
 
 * [Reflecting on Impacts of COVID19 on Sustainable Buildings and Cities](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_110.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Higher costs and complexity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2697.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [computational fluid dynamics (cfd) analyses](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3402.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Higher costs and complexity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2697.md)
 

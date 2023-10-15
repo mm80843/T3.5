@@ -10,10 +10,10 @@ Proactively monitors and identifies potential novel human-infecting coronaviruse
 
 * [Current knowledge of COVID-19: Advances, challenges and future perspectives](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_118.md)
 
+## This Mitigation is enabled by the following technologies
+
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Future threats of new pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3443.md)
-
-## This Mitigation is enabled by the following technologies
-
 

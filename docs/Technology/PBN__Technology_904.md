@@ -2,11 +2,11 @@
 
 # __comparative data analysis__
 
-## Risks linked to this technology
-
-* [Reliability of social media data for research](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1591.md)
-
 ## This Technology is identified by the following QID
 
 * [Q58901591](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q58901591.md)
+
+## Risks linked to this technology
+
+* [Reliability of social media data for research](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1591.md)
 

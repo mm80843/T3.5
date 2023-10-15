@@ -6,16 +6,16 @@
 
 * [Q69940813](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q69940813.md)
 
-## Risks that can be mitigated by this stakeholder
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Reduction of physical activity during quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1713.md)
-* [Lack of access to regular sporting or exercise routines](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1716.md)
+* [Fitness and Sports](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_56.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## Risks that can be mitigated by this stakeholder
 
-* [Fitness and Sports](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_56.md)
+* [Reduction of physical activity during quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1713.md)
+* [Lack of access to regular sporting or exercise routines](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1716.md)
 

@@ -6,11 +6,11 @@
 
 * [Q12794619](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q12794619.md)
 
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Housing And Property](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_10.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Owners](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_59.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Housing And Property](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_10.md)
 

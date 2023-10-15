@@ -2,11 +2,11 @@
 
 # __it department__
 
-## Risks that can be mitigated by this stakeholder
+## Risk affecting this stakeholder
 
 * [Loss of data transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1234.md)
 
-## Risk affecting this stakeholder
+## Risks that can be mitigated by this stakeholder
 
 * [Loss of data transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1234.md)
 

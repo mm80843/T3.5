@@ -2,19 +2,19 @@
 
 # __Reduced occupancy density__
 
-## Articles mentionning this Benefit
-
-* [Assessing the health and hygiene performance of apartment buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_180.md)
-
 ## Stakeholders benefitting from this Benefit
 
 * [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
+
+## Name of the Benefit
+
+Lower risk of exposure due to reduced number of people in the building
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors can attract tenants by offering safer working environments, increasing leasing demand and rental income](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_975.md)
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Lower risk of exposure due to reduced number of people in the building
+* [Assessing the health and hygiene performance of apartment buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_180.md)
 

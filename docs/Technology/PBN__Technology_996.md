@@ -2,11 +2,11 @@
 
 # __online travel platforms__
 
-## Risks linked to this technology
-
-* [Time Risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_88.md)
-
 ## This Technology is identified by the following QID
 
 * [Q217107](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q217107.md)
+
+## Risks linked to this technology
+
+* [Time Risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_88.md)
 

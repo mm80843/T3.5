@@ -10,11 +10,11 @@ Controlling the temperature in indoor spaces to reduce the survival and transmis
 
 * [Climate and the spread of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_145.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Controlling temperature](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2545.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [hvac system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3190.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Controlling temperature](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2545.md)
 

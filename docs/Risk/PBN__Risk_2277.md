@@ -2,9 +2,21 @@
 
 # __Negative Emotions__
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+* [Mental health support services, stress management programs, promoting self-care activities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2965.md)
+
+## People affected by this risk
+
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+
+## Name of the risk
+
+Mental distress, increased stress levels, decreased well-being
+
+## Description of the risk
+
+Feelings of anxiety, fear, and frustration due to the measures
 
 ## Property: has_RiskType
 
@@ -15,40 +27,28 @@
 * [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
 * [mental health professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_368.md)
 
+## Property: has_RiskISO_Purpose
+
+* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+
 ## Property: has_RiskHealth
 
 * [mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
-
-## Description of the risk
-
-Feelings of anxiety, fear, and frustration due to the measures
-
-## Articles mentionning the risk
-
-* [Compliance with COVID-19 Mitigation Measures in the United States](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_253.md)
-
-## Technologies linked to the risk
-
-* [mental health apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_117.md)
-* [teletherapy platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1857.md)
-
-## People affected by this risk
-
-* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
 
-## Mitigations of this risk
+## Articles mentionning the risk
 
-* [Mental health support services, stress management programs, promoting self-care activities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2965.md)
+* [Compliance with COVID-19 Mitigation Measures in the United States](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_253.md)
 
 ## Property: has_RiskGBN
 
 * [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
-## Name of the risk
+## Technologies linked to the risk
 
-Mental distress, increased stress levels, decreased well-being
+* [mental health apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_117.md)
+* [teletherapy platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1857.md)
 

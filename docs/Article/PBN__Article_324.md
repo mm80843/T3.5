@@ -2,6 +2,10 @@
 
 # __Government Strategies to Minimize the COVID-19 Fallout on MSMEs in India__
 
+## Year of publication
+
+2021
+
 ## Title of the article
 
 Government Strategies to Minimize the COVID-19 Fallout on MSMEs in India
@@ -9,10 +13,6 @@ Government Strategies to Minimize the COVID-19 Fallout on MSMEs in India
 ## DOI of the article
 
 10.4018/978-1-7998-6632-9.ch009
-
-## Year of publication
-
-2021
 
 ## Referenced by other articles
 

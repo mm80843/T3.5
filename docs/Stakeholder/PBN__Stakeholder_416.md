@@ -10,15 +10,15 @@
 
 * [Strengthening of local economies and employment opportunities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1042.md)
 
-## Risk affecting this stakeholder
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Economic instability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2026.md)
+* [Business and Financial Services](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_58.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## Risk affecting this stakeholder
 
-* [Business and Financial Services](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_58.md)
+* [Economic instability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2026.md)
 

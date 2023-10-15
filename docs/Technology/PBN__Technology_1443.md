@@ -2,11 +2,11 @@
 
 # __virtual social platforms and apps for connecting with others__
 
-## Risks linked to this technology
-
-* [Lack of social support and social isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1992.md)
-
 ## This Technology is identified by the following QID
 
 * [Q3220391](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3220391.md)
+
+## Risks linked to this technology
+
+* [Lack of social support and social isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1992.md)
 

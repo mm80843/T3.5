@@ -10,9 +10,6 @@ Transforming the indoor environment to improve health and well-being of occupant
 
 * [Green Buildings: A Post COVID-19 Analysis of Preventive Measures of Spreading the Virus](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_290.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
 
 * [energy efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3595.md)
@@ -22,4 +19,7 @@ Transforming the indoor environment to improve health and well-being of occupant
 * [green sustainable materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4484.md)
 * [sustainable site management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4485.md)
 * [commissioning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4486.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

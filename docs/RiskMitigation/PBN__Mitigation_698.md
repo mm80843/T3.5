@@ -10,10 +10,10 @@ Deploy a continuous IEQ monitoring system using wireless sensors for comprehensi
 
 * [An Intelligent IEQ Monitoring and Feedback System: Development and Applications](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_62.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
 
 * [continuous monitoring system based on wireless sensor network](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3392.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

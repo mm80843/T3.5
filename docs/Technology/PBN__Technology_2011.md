@@ -2,11 +2,11 @@
 
 # __space management software__
 
-## Risks linked to this technology
-
-* [High occupant density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2395.md)
-
 ## This Technology is identified by the following QID
 
 * [Q60054001](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q60054001.md)
+
+## Risks linked to this technology
+
+* [High occupant density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2395.md)
 

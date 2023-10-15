@@ -2,11 +2,11 @@
 
 # __rapid antigen tests__
 
-## Risks linked to this technology
-
-* [Testing strategy limitations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1507.md)
-
 ## This Technology is identified by the following QID
 
 * [Q3519062](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3519062.md)
+
+## Risks linked to this technology
+
+* [Testing strategy limitations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1507.md)
 

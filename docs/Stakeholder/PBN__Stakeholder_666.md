@@ -6,15 +6,15 @@
 
 * [Q57260671](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q57260671.md)
 
-## Risks that can be mitigated by this stakeholder
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Contagious transmission in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1140.md)
+* [Responsible or Working Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_78.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## Risks that can be mitigated by this stakeholder
 
-* [Responsible or Working Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_78.md)
+* [Contagious transmission in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1140.md)
 

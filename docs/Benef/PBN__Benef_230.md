@@ -2,19 +2,19 @@
 
 # __Enhanced ventilation__
 
-## Articles mentionning this Benefit
-
-* [Assessment method for new sustainability indicators providing pandemic resilience for residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_51.md)
-
 ## Stakeholders benefitting from this Benefit
 
 * [residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
+
+## Name of the Benefit
+
+Improved ventilation systems to maintain fresh air in the building, which can help prevent the spread of viruses and improve air quality
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Investment in this mitigation measure can increase the value of the property, attracting more tenants.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_237.md)
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Improved ventilation systems to maintain fresh air in the building, which can help prevent the spread of viruses and improve air quality
+* [Assessment method for new sustainability indicators providing pandemic resilience for residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_51.md)
 

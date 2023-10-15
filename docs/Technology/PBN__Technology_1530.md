@@ -2,11 +2,11 @@
 
 # __data analytics for tracking compliance__
 
-## Risks linked to this technology
-
-* [Lack of hygiene and cleanliness protocols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2048.md)
-
 ## This Technology is identified by the following QID
 
 * [Q1962328](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1962328.md)
+
+## Risks linked to this technology
+
+* [Lack of hygiene and cleanliness protocols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2048.md)
 

@@ -10,11 +10,11 @@ Supplement the ventilation systems to remove particles from the air and provide 
 
 * [The hierarchy of preventive measures to protect workers against the COVID-19 pandemic: A review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_73.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_252.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [air purifier with hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3287.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_252.md)
 

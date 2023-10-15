@@ -2,11 +2,11 @@
 
 # __land-use policies__
 
-## Risks linked to this technology
-
-* [Loss of green spaces due to urban development](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1379.md)
-
 ## This Technology is identified by the following QID
 
 * [Q837215](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q837215.md)
+
+## Risks linked to this technology
+
+* [Loss of green spaces due to urban development](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1379.md)
 

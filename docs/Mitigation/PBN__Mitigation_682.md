@@ -13,12 +13,6 @@ Regularly cleans and disinfects rooms and buildings to eliminate viruses and red
 * [Assessment of COVID-19 precautionary measures in sports facilities: A case study on a health club in Saudi Arabia](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_128.md)
 * [Perception of COVID-19 impacts on the construction industry over time](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_293.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1882.md)
-* [Surface contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2616.md)
-* [Contagion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2685.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_413.md)
@@ -27,4 +21,10 @@ Regularly cleans and disinfects rooms and buildings to eliminate viruses and red
 * [sanitizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_770.md)
 * [sanitization tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3379.md)
 * [sanitizing products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4225.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1882.md)
+* [Surface contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2616.md)
+* [Contagion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2685.md)
 

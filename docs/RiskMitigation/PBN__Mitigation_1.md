@@ -12,12 +12,6 @@ Identify and isolate infected individuals through widespread testing
 * [Mitigation strategies to fight the COVID-19 pandemic—present, future and beyond](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_200.md)
 * [Water and wastewater digital surveillance for monitoring and early detection of the COVID-19 hotspot: industry 4.0](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_162.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_974.md)
-* [High number of undetected cases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2977.md)
-* [Low testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3166.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_610.md)
@@ -25,4 +19,10 @@ Identify and isolate infected individuals through widespread testing
 * [rapid diagnosis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3747.md)
 * [test kits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3950.md)
 * [testing facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3527.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_974.md)
+* [High number of undetected cases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2977.md)
+* [Low testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3166.md)
 

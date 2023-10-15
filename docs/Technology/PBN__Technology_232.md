@@ -2,11 +2,11 @@
 
 # __ultraviolet germicidal irradiation__
 
-## Risks linked to this technology
-
-* [COVID-19 spread via aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1144.md)
-
 ## This Technology is identified by the following QID
 
 * [Q11391](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q11391.md)
+
+## Risks linked to this technology
+
+* [COVID-19 spread via aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1144.md)
 

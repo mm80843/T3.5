@@ -6,15 +6,15 @@
 
 * [Q1128437](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1128437.md)
 
-## Risk affecting this stakeholder
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Poor contact tracing process](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1722.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
 * [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## Risk affecting this stakeholder
 
+* [Poor contact tracing process](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1722.md)
 

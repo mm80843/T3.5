@@ -10,11 +10,11 @@ Deep learning algorithms help in finding new drug-like compounds against SARS-Co
 
 * [Exploring the Potential of Artificial Intelligence and Machine Learning to Combat COVID-19 and Existing Opportunities for LMIC: A Scoping Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_131.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Identification of effective drug compounds](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3045.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [deep learning algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3839.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Identification of effective drug compounds](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3045.md)
 

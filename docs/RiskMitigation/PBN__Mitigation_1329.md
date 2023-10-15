@@ -10,11 +10,11 @@ To prevent the spread of respiratory droplets that may contain the virus
 
 * [COVID-19: The forgotten priorities of the pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_236.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Contamination from respiratory droplets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3024.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [personal protective equipment (e.g. masks)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3797.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Contamination from respiratory droplets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3024.md)
 

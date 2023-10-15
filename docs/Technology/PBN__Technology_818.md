@@ -2,11 +2,11 @@
 
 # __project updates__
 
-## Risks linked to this technology
-
-* [Client confidence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1530.md)
-
 ## This Technology is identified by the following QID
 
 * [Q245962](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q245962.md)
+
+## Risks linked to this technology
+
+* [Client confidence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1530.md)
 

@@ -6,11 +6,11 @@
 
 10.1680/jcien.2021.174.2.52
 
-## Year of publication
-
-2021
-
 ## Title of the article
 
 Covid-19 and civil engineering – the need for a better understanding of epidemiology
+
+## Year of publication
+
+2021
 

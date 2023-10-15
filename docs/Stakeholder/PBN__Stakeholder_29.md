@@ -119,6 +119,14 @@
 * [Harmonized messaging](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1411.md)
 * [Reduced misinformation dissemination](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1414.md)
 
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Public](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_147.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
+
 ## Risk affecting this stakeholder
 
 * [Spread of contagious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_20.md)
@@ -269,12 +277,4 @@
 
 * [Indirect transmission via contaminated surfaces (fomites)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1243.md)
 * [Individual responsibility for sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1863.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Public](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_147.md)
 

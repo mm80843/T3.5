@@ -2,11 +2,11 @@
 
 # __virtual payment systems__
 
-## Risks linked to this technology
-
-* [Financial instability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1082.md)
-
 ## This Technology is identified by the following QID
 
 * [Q986008](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q986008.md)
+
+## Risks linked to this technology
+
+* [Financial instability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1082.md)
 

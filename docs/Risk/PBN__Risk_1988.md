@@ -2,9 +2,22 @@
 
 # __Legal and ethical considerations__
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+* [Development of clear legal and ethical guidelines, establishment of ethical review committees.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2603.md)
+
+## People affected by this risk
+
+* [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
+* [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
+
+## Name of the risk
+
+Balancing patient rights and public health, triage decisions, privacy and data protection.
+
+## Description of the risk
+
+Legal and ethical dilemmas in providing healthcare during a pandemic.
 
 ## Property: has_RiskType
 
@@ -16,41 +29,28 @@
 * [healthcare institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_269.md)
 * [ethics committees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_893.md)
 
+## Property: has_RiskISO_Purpose
+
+* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+
 ## Property: has_RiskHealth
 
 
-## Description of the risk
+## Property: has_RiskISO_Impact
 
-Legal and ethical dilemmas in providing healthcare during a pandemic.
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
 
 ## Articles mentionning the risk
 
 * [COVID-19: A new digital dawn?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_93.md)
+
+## Property: has_RiskGBN
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
 ## Technologies linked to the risk
 
 * [legal frameworks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1431.md)
 * [ethical guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1432.md)
 * [review committees](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1433.md)
-
-## People affected by this risk
-
-* [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
-* [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
-
-## Property: has_RiskISO_Impact
-
-* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
-
-## Mitigations of this risk
-
-* [Development of clear legal and ethical guidelines, establishment of ethical review committees.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2603.md)
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
-## Name of the risk
-
-Balancing patient rights and public health, triage decisions, privacy and data protection.
 

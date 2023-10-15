@@ -10,11 +10,11 @@ Provides direct access to real-time epidemiological data on the outbreak, facili
 
 * [Open-source analytics tools for studying the COVID-19 coronavirus outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_218.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
 
 * [r package (ncov2019)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4475.md)
 * [api calls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4476.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

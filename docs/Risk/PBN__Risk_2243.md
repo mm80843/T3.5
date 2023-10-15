@@ -2,9 +2,23 @@
 
 # __Limited human resources for occupational mental health interventions__
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Preservation and improvement of the environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_6.md)
+* [Task-shifting UBPI interventions to non-clinical staff or students, providing training and support for these individuals.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2921.md)
+
+## People affected by this risk
+
+* [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
+* [students](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_101.md)
+* [non-clinical staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1506.md)
+
+## Name of the risk
+
+Inadequate support for healthcare workers, increased risk of psychological distress and burnout.
+
+## Description of the risk
+
+Healthcare facilities may have limited human resources available to provide mental health interventions for healthcare workers.
 
 ## Property: has_RiskType
 
@@ -16,42 +30,28 @@
 * [healthcare institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_269.md)
 * [mental health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_605.md)
 
+## Property: has_RiskISO_Purpose
+
+* [Preservation and improvement of the environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_6.md)
+
 ## Property: has_RiskHealth
 
 * [mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
-
-## Description of the risk
-
-Healthcare facilities may have limited human resources available to provide mental health interventions for healthcare workers.
-
-## Articles mentionning the risk
-
-* [Ultra Brief Psychological Interventions for COVID-19 Pandemic: Introduction of a Locally-Adapted Brief Intervention for Mental Health and Psychosocial Support Service](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_258.md)
-
-## Technologies linked to the risk
-
-* [training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_82.md)
-* [task-shifting strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1818.md)
-
-## People affected by this risk
-
-* [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
-* [students](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_101.md)
-* [non-clinical staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1506.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_8.md)
 
-## Mitigations of this risk
+## Articles mentionning the risk
 
-* [Task-shifting UBPI interventions to non-clinical staff or students, providing training and support for these individuals.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2921.md)
+* [Ultra Brief Psychological Interventions for COVID-19 Pandemic: Introduction of a Locally-Adapted Brief Intervention for Mental Health and Psychosocial Support Service](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_258.md)
 
 ## Property: has_RiskGBN
 
 * [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
-## Name of the risk
+## Technologies linked to the risk
 
-Inadequate support for healthcare workers, increased risk of psychological distress and burnout.
+* [training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_82.md)
+* [task-shifting strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1818.md)
 

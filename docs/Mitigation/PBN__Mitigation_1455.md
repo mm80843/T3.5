@@ -10,10 +10,10 @@ Focus production on essential food products to meet high demand
 
 * [The socio-economic implications of the coronavirus pandemic (COVID-19): A review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_135.md)
 
+## This Mitigation is enabled by the following technologies
+
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Reduction in consumer choice, impact on manufacturers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3083.md)
-
-## This Mitigation is enabled by the following technologies
-
 

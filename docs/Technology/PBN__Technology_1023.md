@@ -2,11 +2,11 @@
 
 # __soap dispensers__
 
-## Risks linked to this technology
-
-* [Inadequate sanitation and hygiene facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1680.md)
-
 ## This Technology enables the following mitigations
 
 * [Proper handwashing hygiene promotion](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_554.md)
+
+## Risks linked to this technology
+
+* [Inadequate sanitation and hygiene facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1680.md)
 

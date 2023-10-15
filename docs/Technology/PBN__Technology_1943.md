@@ -2,6 +2,10 @@
 
 # __widespread testing programs__
 
+## This Technology belongs to this TechGroup
+
+* [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_8.md)
+
 ## Risks linked to this technology
 
 * [Limited effectiveness of digital systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2347.md)
@@ -9,10 +13,6 @@
 ## This Technology is identified by the following QID
 
 * [Q188522](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q188522.md)
-
-## This Technology belongs to this TechGroup
-
-* [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_8.md)
 
 ## This Technology belongs to this TechSubgroup
 

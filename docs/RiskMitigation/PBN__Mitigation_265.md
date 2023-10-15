@@ -15,13 +15,6 @@ Increasing fresh air circulation and removing indoor contaminants, including vir
 * [How loneliness is talked about in social media during COVID-19 pandemic: Text mining of 4,492 Twitter feeds](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_190.md)
 * [rahim_impact_2022 rahim_impact_2022](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_309.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Poor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_712.md)
-* [Transmission in closed spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1943.md)
-* [Spread of virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2684.md)
-* [Airborne spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3011.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_138.md)
@@ -31,4 +24,11 @@ Increasing fresh air circulation and removing indoor contaminants, including vir
 * [windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_140.md)
 * [mechanical ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_271.md)
 * [hvac system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3190.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Poor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_712.md)
+* [Transmission in closed spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1943.md)
+* [Spread of virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2684.md)
+* [Airborne spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3011.md)
 

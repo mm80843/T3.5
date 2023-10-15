@@ -2,11 +2,11 @@
 
 # __recycling infrastructure__
 
-## Risks linked to this technology
-
-* [Increased waste](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_842.md)
-
 ## This Technology is identified by the following QID
 
 * [Q132580](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q132580.md)
+
+## Risks linked to this technology
+
+* [Increased waste](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_842.md)
 

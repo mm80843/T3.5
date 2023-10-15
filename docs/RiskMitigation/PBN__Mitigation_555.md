@@ -18,6 +18,16 @@ Protecting individuals from inhaling or coming into contact with contaminated dr
 * [Persistence of coronaviruses on inanimate surfaces and their inactivation with biocidal agents](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_233.md)
 * [Real-world data show that filters clean COVID-causing virus from air](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_155.md)
 
+## This Mitigation is enabled by the following technologies
+
+* [masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1053.md)
+* [gloves](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_487.md)
+* [face shields](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_486.md)
+* [ppe](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1463.md)
+* [protective clothing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3337.md)
+* [n95 respirator](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3301.md)
+* [n95/ffp3 masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3369.md)
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_252.md)
@@ -28,14 +38,4 @@ Protecting individuals from inhaling or coming into contact with contaminated dr
 * [Transmission of the virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2861.md)
 * [Direct Contact Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2973.md)
 * [Person-to-Person Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3281.md)
-
-## This Mitigation is enabled by the following technologies
-
-* [masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1053.md)
-* [gloves](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_487.md)
-* [face shields](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_486.md)
-* [ppe](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1463.md)
-* [protective clothing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3337.md)
-* [n95 respirator](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3301.md)
-* [n95/ffp3 masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3369.md)
 

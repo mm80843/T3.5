@@ -2,9 +2,22 @@
 
 # __SARS-CoV-2 in wastewater__
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+* [Enhance water treatment processes, implement effective sanitation measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2213.md)
+
+## People affected by this risk
+
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+* [wastewater workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1086.md)
+
+## Name of the risk
+
+Health risk, potential community spread
+
+## Description of the risk
+
+Detection of SARS-CoV-2 in wastewater indicates potential health risk and could be used as a data source for monitoring virus circulation.
 
 ## Property: has_RiskType
 
@@ -15,41 +28,28 @@
 * [public health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_0.md)
 * [water treatment facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1087.md)
 
+## Property: has_RiskISO_Purpose
+
+* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+
 ## Property: has_RiskHealth
 
 * [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
-
-## Description of the risk
-
-Detection of SARS-CoV-2 in wastewater indicates potential health risk and could be used as a data source for monitoring virus circulation.
-
-## Articles mentionning the risk
-
-* [SARS-CoV-2 in wastewater: potential health risk, but also data source](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_70.md)
-
-## Technologies linked to the risk
-
-* [improved water treatment technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_998.md)
-* [wastewater surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_999.md)
-
-## People affected by this risk
-
-* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
-* [wastewater workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1086.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_4.md)
 
-## Mitigations of this risk
+## Articles mentionning the risk
 
-* [Enhance water treatment processes, implement effective sanitation measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2213.md)
+* [SARS-CoV-2 in wastewater: potential health risk, but also data source](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_70.md)
 
 ## Property: has_RiskGBN
 
 * [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
-## Name of the risk
+## Technologies linked to the risk
 
-Health risk, potential community spread
+* [improved water treatment technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_998.md)
+* [wastewater surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_999.md)
 

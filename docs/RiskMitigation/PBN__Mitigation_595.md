@@ -10,10 +10,10 @@ Restricting events and gatherings reduces the chance of transmission of respirat
 
 * [Covid-19 and community mitigation strategies in a pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_112.md)
 
+## This Mitigation is enabled by the following technologies
+
+
 ## Risks possibly mitigated by this Mitigation
 
 * [High rates of transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2643.md)
-
-## This Mitigation is enabled by the following technologies
-
 

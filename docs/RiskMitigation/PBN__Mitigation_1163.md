@@ -10,10 +10,10 @@ Designing non-centralized building systems to encourage movement, reduce congest
 
 * [Impact of Covid-19 on the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_10.md)
 
+## This Mitigation is enabled by the following technologies
+
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Increased risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2956.md)
-
-## This Mitigation is enabled by the following technologies
-
 

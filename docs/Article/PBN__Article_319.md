@@ -6,11 +6,11 @@
 
 10.5055/ajdm.2020.0365
 
-## Year of publication
-
-2020
-
 ## Title of the article
 
 Vancouver Convention Health Centre (COVID-19 Response): Planning, implementation, and four lessons learned
+
+## Year of publication
+
+2020
 

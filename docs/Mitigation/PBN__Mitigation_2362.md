@@ -10,12 +10,12 @@ Developing comprehensive procedures and plans at the city level to effectively r
 
 * [The Smart City and Covid‐19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_294.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Lack of preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_492.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [collaboration platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_155.md)
 * [expert consultation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4427.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_492.md)
 

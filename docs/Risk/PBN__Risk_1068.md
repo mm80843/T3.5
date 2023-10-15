@@ -2,9 +2,22 @@
 
 # __Lack of surveillance and control measures__
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+* [Strengthening surveillance and control programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1507.md)
+
+## People affected by this risk
+
+* [urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_593.md)
+* [especially those with high disease burden](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_594.md)
+
+## Name of the risk
+
+Difficulty in detecting and responding to outbreaks
+
+## Description of the risk
+
+Insufficient monitoring and control of disease vectors
 
 ## Property: has_RiskType
 
@@ -15,40 +28,27 @@
 * [local governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_568.md)
 * [public health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_222.md)
 
+## Property: has_RiskISO_Purpose
+
+* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+
 ## Property: has_RiskHealth
 
 * [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Description of the risk
-
-Insufficient monitoring and control of disease vectors
-
-## Articles mentionning the risk
-
-* [Global policy challenges for urban vector-borne disease risks](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_132.md)
-
-## Technologies linked to the risk
-
-* [vector surveillance and control technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_93.md)
-
-## People affected by this risk
-
-* [urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_593.md)
-* [especially those with high disease burden](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_594.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
 
-## Mitigations of this risk
+## Articles mentionning the risk
 
-* [Strengthening surveillance and control programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1507.md)
+* [Global policy challenges for urban vector-borne disease risks](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_132.md)
 
 ## Property: has_RiskGBN
 
 * [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
-## Name of the risk
+## Technologies linked to the risk
 
-Difficulty in detecting and responding to outbreaks
+* [vector surveillance and control technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_93.md)
 

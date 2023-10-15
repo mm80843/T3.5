@@ -2,9 +2,21 @@
 
 # __Lack of proper training__
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+* [Provide virtual reality-based training](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2738.md)
+
+## People affected by this risk
+
+* [medical staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_93.md)
+
+## Name of the risk
+
+Reduced effectiveness
+
+## Description of the risk
+
+Inadequate training for medical staff
 
 ## Property: has_RiskType
 
@@ -14,39 +26,27 @@
 
 * [healthcare institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_269.md)
 
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
 ## Property: has_RiskHealth
 
 * [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
-
-## Description of the risk
-
-Inadequate training for medical staff
-
-## Articles mentionning the risk
-
-* [Significant applications of virtual reality for COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_231.md)
-
-## Technologies linked to the risk
-
-* [virtual reality](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1233.md)
-
-## People affected by this risk
-
-* [medical staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_93.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Education and capacity building](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_7.md)
 
-## Mitigations of this risk
+## Articles mentionning the risk
 
-* [Provide virtual reality-based training](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2738.md)
+* [Significant applications of virtual reality for COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_231.md)
 
 ## Property: has_RiskGBN
 
 * [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
-## Name of the risk
+## Technologies linked to the risk
 
-Reduced effectiveness
+* [virtual reality](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1233.md)
 

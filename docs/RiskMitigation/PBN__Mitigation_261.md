@@ -10,12 +10,12 @@ Utilizes UV-C light to disinfect aerosolized bacteria and viruses suspended in t
 
 * [Upper-room ultraviolet air disinfection might help to reduce COVID-19 transmission in buildings: a feasibility study](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_163.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Harmful to humans](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2512.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [uv-c light](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3098.md)
 * [louvers or shields](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3099.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Harmful to humans](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2512.md)
 

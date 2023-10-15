@@ -10,11 +10,11 @@ Ability for construction and technical changes with minimal cost and disturbance
 
 * [Emergency Healthcare Facilities: Managing Design in a Post Covid-19 World](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_122.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Minimum cost and disturbance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2961.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [construction and technical changes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3730.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Minimum cost and disturbance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2961.md)
 

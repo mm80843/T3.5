@@ -2,11 +2,11 @@
 
 # __financial literacy and inclusion technologies__
 
-## Risks linked to this technology
-
-* [Lack of financial inclusion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2160.md)
-
 ## This Technology is identified by the following QID
 
 * [Q60852](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q60852.md)
+
+## Risks linked to this technology
+
+* [Lack of financial inclusion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2160.md)
 

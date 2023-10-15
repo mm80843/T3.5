@@ -2,6 +2,14 @@
 
 # __regulatory bodies__
 
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Regulatory Bodies](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_2.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [City Officials](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_0.md)
+
 ## Risk affecting this stakeholder
 
 * [Ethical considerations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_163.md)
@@ -21,12 +29,4 @@
 * [Long turnaround time for COVID-19 testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2402.md)
 * [False-negative results in COVID-19 testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2403.md)
 * [Safety concerns with alternative ventilator designs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2405.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [City Officials](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_0.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Regulatory Bodies](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_2.md)
 

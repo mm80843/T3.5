@@ -2,11 +2,11 @@
 
 # __infrastructure development and plumbing systems__
 
-## Risks linked to this technology
-
-* [Inadequate water and sanitation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1304.md)
-
 ## This Technology is identified by the following QID
 
 * [Q182612](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q182612.md)
+
+## Risks linked to this technology
+
+* [Inadequate water and sanitation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1304.md)
 

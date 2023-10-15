@@ -12,15 +12,15 @@
 * [Improved access to healthy diets](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_353.md)
 * [Improved food accessibility](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_354.md)
 
-## Risk affecting this stakeholder
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Limited access to healthy food](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1856.md)
-* [Limited access to physical activity environments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1857.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Community Stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_8.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## Risk affecting this stakeholder
 
+* [Limited access to healthy food](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1856.md)
+* [Limited access to physical activity environments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1857.md)
 

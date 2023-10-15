@@ -15,6 +15,13 @@
 * [Improvement in mental health and quality of life](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1136.md)
 * [Increased inclusivity and accessibility](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1250.md)
 
+## This Stakeholder belongs to this StakeholderSubgroup
+
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
+
 ## Risk affecting this stakeholder
 
 * [Inequities and exclusions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1467.md)
@@ -22,11 +29,4 @@
 * [Urban heat island effect and heat waves](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1968.md)
 * [Limited access to natural spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2114.md)
 * [Limited Capacity to Comply](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2279.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
 

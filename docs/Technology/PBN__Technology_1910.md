@@ -2,12 +2,12 @@
 
 # __disinfection methods__
 
+## This Technology is identified by the following QID
+
+* [Q24887418](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q24887418.md)
+
 ## Risks linked to this technology
 
 * [Environmental](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1582.md)
 * [Healthcare-](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2322.md)
-
-## This Technology is identified by the following QID
-
-* [Q24887418](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q24887418.md)
 

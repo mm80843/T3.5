@@ -2,14 +2,14 @@
 
 # __Supply chain management software__
 
-## This Technology is identified by the following QID
-
-* [Q492886](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q492886.md)
-
 ## This Technology belongs to this TechGroup
 
 * [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
 * [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
+
+## This Technology is identified by the following QID
+
+* [Q492886](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q492886.md)
 
 ## This Technology belongs to this TechSubgroup
 

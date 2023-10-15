@@ -2,6 +2,15 @@
 
 # __developers__
 
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Software and App Development](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_70.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
+* [Technology Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_12.md)
+
 ## Risk affecting this stakeholder
 
 * [Increase in off-site construction and engineering](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_244.md)
@@ -44,13 +53,4 @@
 * [Loss of UGS due to urban development](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2257.md)
 * [Lack of green space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2373.md)
 * [Poor translation accuracy in speech-transcribing face masks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2398.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
-* [Technology Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_12.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Software and App Development](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_70.md)
 

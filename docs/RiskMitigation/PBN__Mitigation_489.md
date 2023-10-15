@@ -10,10 +10,10 @@ Maintain or increase public sector allocations for PCAs through national budgets
 
 * [Building sustainable finance for resilient protected and conserved areas: lessons from COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_33.md)
 
+## This Mitigation is enabled by the following technologies
+
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Reallocation of funds from PCAs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2584.md)
-
-## This Mitigation is enabled by the following technologies
-
 

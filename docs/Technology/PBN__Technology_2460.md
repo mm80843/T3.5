@@ -2,13 +2,13 @@
 
 # __Use of digital platforms for public health education and awareness campaigns__
 
-## This Technology is identified by the following QID
-
-* [Q69964246](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q69964246.md)
-
 ## This Technology belongs to this TechGroup
 
 * [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_6.md)
+
+## This Technology is identified by the following QID
+
+* [Q69964246](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q69964246.md)
 
 ## This Technology belongs to this TechSubgroup
 

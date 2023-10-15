@@ -2,6 +2,10 @@
 
 # __reporting standards__
 
+## This Technology belongs to this TechGroup
+
+* [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_5.md)
+
 ## Risks linked to this technology
 
 * [Health inequities in data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1339.md)
@@ -9,10 +13,6 @@
 ## This Technology is identified by the following QID
 
 * [Q176691](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q176691.md)
-
-## This Technology belongs to this TechGroup
-
-* [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_5.md)
 
 ## This Technology belongs to this TechSubgroup
 

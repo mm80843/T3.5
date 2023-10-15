@@ -6,11 +6,11 @@
 
 10.4103/ijmr.ijmr_780_20
 
-## Year of publication
-
-2020
-
 ## Title of the article
 
 Public engagement is key for containing COVID-19 pandemic
+
+## Year of publication
+
+2020
 

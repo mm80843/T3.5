@@ -2,11 +2,11 @@
 
 # __improvement of testing accuracy and reliability__
 
-## Risks linked to this technology
-
-* [Invasive individual testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2367.md)
-
 ## This Technology is identified by the following QID
 
 * [Q1003030](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1003030.md)
+
+## Risks linked to this technology
+
+* [Invasive individual testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2367.md)
 

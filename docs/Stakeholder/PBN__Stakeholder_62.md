@@ -17,6 +17,14 @@
 * [Reduction in domestic violence and family conflict](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1137.md)
 * [Increased inclusivity and accessibility](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1250.md)
 
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Age Defined Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_77.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
+
 ## Risk affecting this stakeholder
 
 * [Education disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_234.md)
@@ -29,12 +37,4 @@
 * [Inequities and exclusions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1467.md)
 * [Gender-based violence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1877.md)
 * [Limited access to natural spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2114.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Age Defined Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_77.md)
 

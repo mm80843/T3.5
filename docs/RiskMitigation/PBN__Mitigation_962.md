@@ -10,12 +10,12 @@ Encourage users to check the validity of news sources before sharing
 
 * [The changes in the effects of social media use of Cypriots due to COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_185.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Circulation of fake news](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2833.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [internet access](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1211.md)
 * [fact-checking tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_7.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Circulation of fake news](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2833.md)
 

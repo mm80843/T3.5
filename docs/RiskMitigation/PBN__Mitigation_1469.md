@@ -10,10 +10,10 @@ Accurate information on medications for prevention of coronavirus transmission
 
 * [COVID-19 misinformation: Accuracy of articles about coronavirus prevention mostly shared on social media](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_283.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
 
 * [medications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3886.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

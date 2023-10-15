@@ -10,11 +10,11 @@ Provides accurate and transparent information to reassure and educate the public
 
 * [Response to COVID-19 in Taiwan: Big Data Analytics, New Technology, and Proactive Testing](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_24.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
 
 * [daily press briefings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4413.md)
 * [public service announcements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4414.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

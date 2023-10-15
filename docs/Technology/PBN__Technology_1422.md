@@ -2,6 +2,14 @@
 
 # __virtual learning platforms__
 
+## This Technology belongs to this TechGroup
+
+* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_11.md)
+
+## This Technology enables the following mitigations
+
+* [Distance learning/training](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_615.md)
+
 ## Risks linked to this technology
 
 * [Inadequate education and training](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1983.md)
@@ -11,14 +19,6 @@
 
 * [Q2349394](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2349394.md)
 
-## This Technology belongs to this TechGroup
-
-* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_11.md)
-
 ## This Technology belongs to this TechSubgroup
 
-
-## This Technology enables the following mitigations
-
-* [Distance learning/training](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_615.md)
 

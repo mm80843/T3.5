@@ -2,19 +2,19 @@
 
 # __Adjustment for social distancing__
 
-## Articles mentionning this Benefit
-
-* [Designing for COVID-2x: Reflecting on Future-Proofing Human Habitation for the Inevitable Next Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_149.md)
-
 ## Stakeholders benefitting from this Benefit
 
 * [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
+
+## Name of the Benefit
+
+Designing rooms with moveable partition walls and flexible layouts allows for adjustment and reconfiguration to maintain social distancing requirements.
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors benefit from improved safety measures, increased flexibility for future pandemics or emergencies, and potential increase in asset values.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_820.md)
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Designing rooms with moveable partition walls and flexible layouts allows for adjustment and reconfiguration to maintain social distancing requirements.
+* [Designing for COVID-2x: Reflecting on Future-Proofing Human Habitation for the Inevitable Next Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_149.md)
 

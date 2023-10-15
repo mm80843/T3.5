@@ -10,11 +10,11 @@ Strengthen community health systems to provide access to routine health services
 
 * [COVID-19 pandemic and mitigation strategies: implications for maternal and child health and nutrition](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_222.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Limited care and restricted health services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_779.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [community health workers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_478.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Limited care and restricted health services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_779.md)
 

@@ -2,6 +2,10 @@
 
 # __fitness facilities__
 
+## This Technology belongs to this TechGroup
+
+* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
+
 ## Risks linked to this technology
 
 * [Lack of physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1960.md)
@@ -9,10 +13,6 @@
 ## This Technology is identified by the following QID
 
 * [Q1065656](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1065656.md)
-
-## This Technology belongs to this TechGroup
-
-* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
 
 ## This Technology belongs to this TechSubgroup
 

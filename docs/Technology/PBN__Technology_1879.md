@@ -2,12 +2,12 @@
 
 # __uv germicidal irradiation systems__
 
+## This Technology is identified by the following QID
+
+* [Q11391](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q11391.md)
+
 ## Risks linked to this technology
 
 * [Transmission of SARS-CoV-2 through indoor air](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2294.md)
 * [Spread of other airborne pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2298.md)
-
-## This Technology is identified by the following QID
-
-* [Q11391](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q11391.md)
 

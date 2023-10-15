@@ -2,11 +2,11 @@
 
 # __iot devices for monitoring occupancy and air quality__
 
-## Risks linked to this technology
-
-* [Spread of contagious diseases in built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1162.md)
-
 ## This Technology is identified by the following QID
 
 * [Q65007050](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q65007050.md)
+
+## Risks linked to this technology
+
+* [Spread of contagious diseases in built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1162.md)
 

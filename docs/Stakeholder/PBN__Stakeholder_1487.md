@@ -2,6 +2,13 @@
 
 # __facilities__
 
+## This Stakeholder belongs to this StakeholderSubgroup
+
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
+
 ## Risks that can be mitigated by this stakeholder
 
 * [PVP1](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2190.md)
@@ -37,11 +44,4 @@
 * [PC4](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2220.md)
 * [LS1](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2221.md)
 * [LS2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2222.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
 

@@ -2,11 +2,11 @@
 
 # __translation tools__
 
-## Risks linked to this technology
-
-* [Exclusion of non-English speaking populations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1590.md)
-
 ## This Technology is identified by the following QID
 
 * [Q79798](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q79798.md)
+
+## Risks linked to this technology
+
+* [Exclusion of non-English speaking populations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1590.md)
 

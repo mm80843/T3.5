@@ -10,12 +10,12 @@ Identifying and monitoring individuals for potential infection to facilitate ear
 
 * [Emerging Technologies to Combat the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_116.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
 
 * [artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_358.md)
 * [big data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_276.md)
 * [smartphone apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4368.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

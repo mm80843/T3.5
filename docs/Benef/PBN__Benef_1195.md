@@ -2,19 +2,19 @@
 
 # __Reduced noise levels__
 
-## Articles mentionning this Benefit
-
-* [Attitudes towards outdoor and neighbour noise during the COVID-19 lockdown: A case study in London](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_247.md)
-
 ## Stakeholders benefitting from this Benefit
 
 * [residents,](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_467.md)
+
+## Name of the Benefit
+
+Significant reduction in
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Investing in traffic](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1330.md)
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Significant reduction in
+* [Attitudes towards outdoor and neighbour noise during the COVID-19 lockdown: A case study in London](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_247.md)
 

@@ -2,11 +2,11 @@
 
 # __targeted testing and protection measures based on population characteristics__
 
-## Risks linked to this technology
-
-* [Population susceptibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_429.md)
-
 ## This Technology is identified by the following QID
 
 * [Q3376054](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3376054.md)
+
+## Risks linked to this technology
+
+* [Population susceptibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_429.md)
 

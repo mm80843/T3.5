@@ -10,12 +10,12 @@ Minimize infection risk in confined spaces, such as classrooms, through ventilat
 
 * [Designing for COVID-2x: Reflecting on Future-Proofing Human Habitation for the Inevitable Next Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_149.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2622.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [desk-based extraction](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4186.md)
 * [flexible room design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4187.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2622.md)
 

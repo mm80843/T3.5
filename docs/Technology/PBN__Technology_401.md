@@ -2,11 +2,11 @@
 
 # __iot device manufacturers__
 
-## Risks linked to this technology
-
-* [IoT device vulnerabilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1276.md)
-
 ## This Technology is identified by the following QID
 
 * [Q251212](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q251212.md)
+
+## Risks linked to this technology
+
+* [IoT device vulnerabilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1276.md)
 

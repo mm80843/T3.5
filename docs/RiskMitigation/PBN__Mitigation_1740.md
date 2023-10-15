@@ -10,11 +10,11 @@ Implementing and enforcing public health measures, such as mask mandates, capaci
 
 * [Psychological Effects of Home Confinement and Social Distancing Derived from COVID-19 in the General Population—A Systematic Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_126.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
 
 * [regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1177.md)
 * [government policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1853.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

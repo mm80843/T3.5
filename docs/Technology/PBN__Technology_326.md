@@ -2,11 +2,11 @@
 
 # __smart energy management__
 
-## Risks linked to this technology
-
-* [Energy waste](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_826.md)
-
 ## This Technology is identified by the following QID
 
 * [Q1779504](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1779504.md)
+
+## Risks linked to this technology
+
+* [Energy waste](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_826.md)
 

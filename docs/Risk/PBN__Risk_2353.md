@@ -2,9 +2,21 @@
 
 # __Insecticide resistance__
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+* [Development and use of alternative insecticides, rotation of insecticides, combination treatments](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3055.md)
+
+## People affected by this risk
+
+* [general populations in areas with vector control programs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1571.md)
+
+## Name of the risk
+
+Reduced effectiveness of vector control methods, increased transmission of diseases
+
+## Description of the risk
+
+Increase in mosquitoes resistant to insecticides used in vector control
 
 ## Property: has_RiskType
 
@@ -16,40 +28,28 @@
 * [national governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_51.md)
 * [public health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_222.md)
 
+## Property: has_RiskISO_Purpose
+
+* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+
 ## Property: has_RiskHealth
 
 * [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Description of the risk
-
-Increase in mosquitoes resistant to insecticides used in vector control
-
-## Articles mentionning the risk
-
-* [The importance of vector control for the control and elimination of vector-borne diseases](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_64.md)
-
-## Technologies linked to the risk
-
-* [development of new insecticides](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1949.md)
-* [genetic manipulation of mosquitoes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1950.md)
-
-## People affected by this risk
-
-* [general populations in areas with vector control programs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1571.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
 
-## Mitigations of this risk
+## Articles mentionning the risk
 
-* [Development and use of alternative insecticides, rotation of insecticides, combination treatments](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3055.md)
+* [The importance of vector control for the control and elimination of vector-borne diseases](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_64.md)
 
 ## Property: has_RiskGBN
 
 * [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Name of the risk
+## Technologies linked to the risk
 
-Reduced effectiveness of vector control methods, increased transmission of diseases
+* [development of new insecticides](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1949.md)
+* [genetic manipulation of mosquitoes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1950.md)
 

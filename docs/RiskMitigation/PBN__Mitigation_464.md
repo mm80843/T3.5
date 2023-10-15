@@ -14,12 +14,6 @@ Provide individuals with appropriate PPE to reduce the risk of exposure to the v
 * [COVID-19 Pandemic: Prevention and Protection Measures to Be Adopted at the Workplace](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_284.md)
 * [Perception of COVID-19 impacts on the construction industry over time](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_293.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_252.md)
-* [Transmission of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2123.md)
-* [Inadequate PPE, Ineffective PPE, Non-compliance with PPE guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3237.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [face masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_342.md)
@@ -27,4 +21,10 @@ Provide individuals with appropriate PPE to reduce the risk of exposure to the v
 * [gloves](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_487.md)
 * [face shields](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_486.md)
 * [goggles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3245.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_252.md)
+* [Transmission of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2123.md)
+* [Inadequate PPE, Ineffective PPE, Non-compliance with PPE guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3237.md)
 

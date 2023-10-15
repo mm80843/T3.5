@@ -2,19 +2,19 @@
 
 # __Enhanced health monitoring__
 
-## Articles mentionning this Benefit
-
-* [The Smart City and Covid‐19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_294.md)
-
 ## Stakeholders benefitting from this Benefit
 
 * [public health officials](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_310.md)
+
+## Name of the Benefit
+
+Correlating movement, temperature, and health records to better understand health issues
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Early detection of health issues, improved public health and safety](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1563.md)
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Correlating movement, temperature, and health records to better understand health issues
+* [The Smart City and Covid‐19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_294.md)
 

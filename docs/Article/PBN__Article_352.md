@@ -2,6 +2,10 @@
 
 # __The role of perceived public and private green space in subjective health and wellbeing during and after the first peak of the COVID-19 outbreak__
 
+## Year of publication
+
+2021
+
 ## Title of the article
 
 The role of perceived public and private green space in subjective health and wellbeing during and after the first peak of the COVID-19 outbreak
@@ -9,10 +13,6 @@ The role of perceived public and private green space in subjective health and we
 ## DOI of the article
 
 10.1016/j.landurbplan.2021.104092
-
-## Year of publication
-
-2021
 
 ## Referenced by other articles
 

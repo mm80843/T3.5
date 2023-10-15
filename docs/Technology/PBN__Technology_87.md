@@ -2,11 +2,11 @@
 
 # __incentives for energy conservation__
 
-## Risks linked to this technology
-
-* [Unconscious occupant behavior](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1062.md)
-
 ## This Technology is identified by the following QID
 
 * [Q5377219](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5377219.md)
+
+## Risks linked to this technology
+
+* [Unconscious occupant behavior](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1062.md)
 

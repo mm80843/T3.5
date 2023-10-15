@@ -2,6 +2,10 @@
 
 # __public announcements__
 
+## This Technology is identified by the following QID
+
+* [Q1196567](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1196567.md)
+
 ## Risks linked to this technology
 
 * [Temporary regulations to monitor and restrict certain activities in public places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_272.md)
@@ -10,8 +14,4 @@
 * [Non-compliance with face mask rules](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1944.md)
 * [Lack of proper social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1945.md)
 * [Lack of communication and education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2016.md)
-
-## This Technology is identified by the following QID
-
-* [Q1196567](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1196567.md)
 

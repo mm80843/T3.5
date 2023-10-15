@@ -2,11 +2,11 @@
 
 # __international classification of diseases (icd) codes__
 
-## Risks linked to this technology
-
-* [Incomplete data capture](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1337.md)
-
 ## This Technology is identified by the following QID
 
 * [Q45127](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q45127.md)
+
+## Risks linked to this technology
+
+* [Incomplete data capture](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1337.md)
 

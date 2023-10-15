@@ -10,6 +10,14 @@
 
 * [Improved individualized decision-making](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1397.md)
 
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Healthcare](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_48.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
+
 ## Risk affecting this stakeholder
 
 * [Lack of public-health education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2184.md)
@@ -20,12 +28,4 @@
 * [Security and privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2083.md)
 * [Ineffective use of personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2170.md)
 * [Lack of public-health education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2184.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Healthcare](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_48.md)
 

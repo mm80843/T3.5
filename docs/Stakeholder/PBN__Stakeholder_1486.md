@@ -2,11 +2,11 @@
 
 # __pharmacies__
 
-## Risks that can be mitigated by this stakeholder
+## Risk affecting this stakeholder
 
 * [Inefficient medication delivery](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2188.md)
 
-## Risk affecting this stakeholder
+## Risks that can be mitigated by this stakeholder
 
 * [Inefficient medication delivery](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2188.md)
 

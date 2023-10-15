@@ -16,6 +16,15 @@
 * [Opportunity for unique projects](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1272.md)
 * [Positive environmental impacts](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1274.md)
 
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Real Estate and Construction](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_31.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
+* [Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_2.md)
+
 ## Risk affecting this stakeholder
 
 * [Social distancing challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_307.md)
@@ -43,13 +52,4 @@
 * [Risk of COVID-19 transmission in the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2045.md)
 * [Lack of hygiene and cleanliness protocols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2048.md)
 * [Financial crisis](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2067.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
-* [Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_2.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Real Estate and Construction](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_31.md)
 

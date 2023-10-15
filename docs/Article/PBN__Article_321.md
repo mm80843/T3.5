@@ -6,11 +6,11 @@
 
 10.1128/JVI.79.22.14244-14252.2005
 
-## Year of publication
-
-2005
-
 ## Title of the article
 
 Predicted Inactivation of Viruses of Relevance to Biodefense by Solar Radiation
+
+## Year of publication
+
+2005
 

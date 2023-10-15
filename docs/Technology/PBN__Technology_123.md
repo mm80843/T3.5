@@ -2,6 +2,10 @@
 
 # __video conferencing software__
 
+## This Technology belongs to this TechGroup
+
+* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_1.md)
+
 ## Risks linked to this technology
 
 * [Isolation and Lack of Social Interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1080.md)
@@ -9,10 +13,6 @@
 ## This Technology is identified by the following QID
 
 * [Q238354](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q238354.md)
-
-## This Technology belongs to this TechGroup
-
-* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_1.md)
 
 ## This Technology belongs to this TechSubgroup
 

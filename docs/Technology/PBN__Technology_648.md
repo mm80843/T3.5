@@ -2,11 +2,11 @@
 
 # __upgrading ventilation systems and implementing air purification methods__
 
-## Risks linked to this technology
-
-* [Inadequate indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1295.md)
-
 ## This Technology is identified by the following QID
 
 * [Q5334286](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5334286.md)
+
+## Risks linked to this technology
+
+* [Inadequate indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1295.md)
 

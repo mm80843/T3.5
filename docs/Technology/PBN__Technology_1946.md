@@ -2,6 +2,10 @@
 
 # __healthcare technologies and facilities__
 
+## This Technology belongs to this TechGroup
+
+* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
+
 ## Risks linked to this technology
 
 * [Health System Vulnerability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2350.md)
@@ -9,10 +13,6 @@
 ## This Technology is identified by the following QID
 
 * [Q4260475](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4260475.md)
-
-## This Technology belongs to this TechGroup
-
-* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
 
 ## This Technology belongs to this TechSubgroup
 

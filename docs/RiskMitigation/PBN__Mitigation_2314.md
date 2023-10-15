@@ -10,10 +10,10 @@ Incineration is a technology that uses high temperatures to burn hospital wastes
 
 * [Disinfection technology of hospital wastes and wastewater: Suggestions for disinfection strategy during coronavirus Disease 2019 (COVID-19) pandemic in China](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_191.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
 
 * [incinerator](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4404.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

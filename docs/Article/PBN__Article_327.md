@@ -2,6 +2,10 @@
 
 # __Towards Resilient Residential Buildings and Neighborhoods in Light of COVID-19 Pandemic—The Scenario of Podgorica, Montenegro__
 
+## Year of publication
+
+2022
+
 ## Title of the article
 
 Towards Resilient Residential Buildings and Neighborhoods in Light of COVID-19 Pandemic—The Scenario of Podgorica, Montenegro
@@ -9,10 +13,6 @@ Towards Resilient Residential Buildings and Neighborhoods in Light of COVID-19 P
 ## DOI of the article
 
 10.3390/su14031302
-
-## Year of publication
-
-2022
 
 ## Referenced by other articles
 

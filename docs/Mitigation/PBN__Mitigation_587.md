@@ -10,10 +10,10 @@ Using standardized questionnaires ensures consistency in data collection, allowi
 
 * [Multilevel Analysis of Personal, Non-Medical COVID-19-Related Impact Worldwide](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_39.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
 
 * [questionnaire design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3335.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

@@ -2,9 +2,21 @@
 
 # __Lack of occupant interest in energy conservation__
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+* [Increase electricity rates to reflect the actual cost and reduce government subsidies, provide financial incentives for energy conservation.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1502.md)
+
+## People affected by this risk
+
+* [occupants of residential buildings in kuwait](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_583.md)
+
+## Name of the risk
+
+Continued high energy consumption and limited motivation to engage in energy-saving behaviors.
+
+## Description of the risk
+
+Kuwaiti occupants may have little interest in energy conservation due to the low cost of electricity.
 
 ## Property: has_RiskType
 
@@ -16,39 +28,27 @@
 * [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
 * [ministry of electricity and water (mew)](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_584.md)
 
+## Property: has_RiskISO_Purpose
+
+* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+
 ## Property: has_RiskHealth
 
-
-## Description of the risk
-
-Kuwaiti occupants may have little interest in energy conservation due to the low cost of electricity.
-
-## Articles mentionning the risk
-
-* [Occupants’ behavior and activity patterns influencing the energy consumption in the Kuwaiti residences](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_260.md)
-
-## Technologies linked to the risk
-
-* [financial incentives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_53.md)
-* [tariff reforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_88.md)
-
-## People affected by this risk
-
-* [occupants of residential buildings in kuwait](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_583.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_8.md)
 
-## Mitigations of this risk
+## Articles mentionning the risk
 
-* [Increase electricity rates to reflect the actual cost and reduce government subsidies, provide financial incentives for energy conservation.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1502.md)
+* [Occupants’ behavior and activity patterns influencing the energy consumption in the Kuwaiti residences](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_260.md)
 
 ## Property: has_RiskGBN
 
 * [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Name of the risk
+## Technologies linked to the risk
 
-Continued high energy consumption and limited motivation to engage in energy-saving behaviors.
+* [financial incentives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_53.md)
+* [tariff reforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_88.md)
 

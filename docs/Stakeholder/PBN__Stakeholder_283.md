@@ -10,6 +10,13 @@
 
 * [Business continuity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_679.md)
 
+## This Stakeholder belongs to this StakeholderSubgroup
+
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
+
 ## Risk affecting this stakeholder
 
 * [Supply chain disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_10.md)
@@ -30,11 +37,4 @@
 * [Internal risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1775.md)
 * [Lack of Personal Protective Equipment (PPE)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1954.md)
 * [Delay in delivery of construction materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2068.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
 

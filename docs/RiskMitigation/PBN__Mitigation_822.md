@@ -10,9 +10,9 @@ Instituting legal measures and protocols to tackle public health emergencies
 
 * [The effect of large-scale anti-contagion policies on the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_103.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
+
+
+## Risks possibly mitigated by this Mitigation
 
 

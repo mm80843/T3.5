@@ -2,11 +2,11 @@
 
 # __cultural and linguistic adaptation tools__
 
-## Risks linked to this technology
-
-* [Lack of cultural sensitivity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2392.md)
-
 ## This Technology is identified by the following QID
 
 * [Q6554052](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6554052.md)
+
+## Risks linked to this technology
+
+* [Lack of cultural sensitivity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2392.md)
 

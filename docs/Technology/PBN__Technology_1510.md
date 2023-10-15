@@ -2,11 +2,11 @@
 
 # __water purification technology__
 
-## Risks linked to this technology
-
-* [Water and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2037.md)
-
 ## This Technology is identified by the following QID
 
 * [Q1463025](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1463025.md)
+
+## Risks linked to this technology
+
+* [Water and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2037.md)
 

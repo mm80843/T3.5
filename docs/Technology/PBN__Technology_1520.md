@@ -2,11 +2,11 @@
 
 # __iot devices for monitoring and controlling occupancy and airflow__
 
-## Risks linked to this technology
-
-* [Risk of COVID-19 transmission in the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2045.md)
-
 ## This Technology is identified by the following QID
 
 * [Q7075748](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7075748.md)
+
+## Risks linked to this technology
+
+* [Risk of COVID-19 transmission in the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2045.md)
 

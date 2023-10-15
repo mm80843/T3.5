@@ -2,11 +2,11 @@
 
 # __facial recognition systems__
 
-## Risks linked to this technology
-
-* [Failure to detect non-compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1947.md)
-
 ## This Technology enables the following mitigations
 
 * [Automated face recognition](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1815.md)
+
+## Risks linked to this technology
+
+* [Failure to detect non-compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1947.md)
 

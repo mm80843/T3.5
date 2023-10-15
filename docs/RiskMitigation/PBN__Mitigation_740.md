@@ -10,12 +10,12 @@ Reduce harm by criminalizing domestic violence and implementing policies and law
 
 * [Dangerous liaisons? Applying the social harm perspective to the social inequality, housing and health trifecta during the Covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_2.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Domestic violence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1766.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [legislation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3420.md)
 * [criminalization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3421.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Domestic violence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1766.md)
 

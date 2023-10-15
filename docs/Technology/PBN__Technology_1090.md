@@ -2,6 +2,14 @@
 
 # __apps__
 
+## This Technology belongs to this TechGroup
+
+* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_1.md)
+
+## This Technology enables the following mitigations
+
+* [Contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_250.md)
+
 ## Risks linked to this technology
 
 * [Confusion and Uncertainty](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1723.md)
@@ -10,15 +18,7 @@
 
 * [Q14911946](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q14911946.md)
 
-## This Technology belongs to this TechGroup
-
-* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_1.md)
-
 ## This Technology belongs to this TechSubgroup
 
 * [Apps and Mobile Technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_22.md)
-
-## This Technology enables the following mitigations
-
-* [Contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_250.md)
 

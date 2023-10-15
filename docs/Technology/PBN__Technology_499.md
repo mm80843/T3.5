@@ -2,11 +2,11 @@
 
 # __implementation of flexible work schedules__
 
-## Risks linked to this technology
-
-* [High occupant density in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1328.md)
-
 ## This Technology is identified by the following QID
 
 * [Q1428269](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1428269.md)
+
+## Risks linked to this technology
+
+* [High occupant density in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1328.md)
 

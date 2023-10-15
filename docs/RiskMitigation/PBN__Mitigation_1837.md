@@ -10,11 +10,11 @@ Implement policies that guarantee paid sick leave to ensure that individuals can
 
 * [Mental health economics: A prospective study on psychological flourishing and associations with healthcare costs and sickness benefit transfers in Denmark](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_189.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
 
 * [government legislation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4097.md)
 * [workplace policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4098.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

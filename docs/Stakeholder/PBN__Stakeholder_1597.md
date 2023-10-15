@@ -6,14 +6,14 @@
 
 * [Q20923490](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q20923490.md)
 
-## Risk affecting this stakeholder
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Poor translation accuracy in speech-transcribing face masks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2398.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## Risk affecting this stakeholder
 
+* [Poor translation accuracy in speech-transcribing face masks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2398.md)
 

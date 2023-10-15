@@ -10,9 +10,9 @@ Restricts the movement of individuals across national and state/county borders t
 
 * [Implications of COVID-19 control measures for diet and physical activity, and lessons for addressing other pandemics facing rapidly urbanising countries](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_68.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
+
+
+## Risks possibly mitigated by this Mitigation
 
 

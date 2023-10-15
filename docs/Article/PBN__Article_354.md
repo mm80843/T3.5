@@ -2,6 +2,10 @@
 
 # __How the 5G Enabled the COVID-19 Pandemic Prevention and Control: Materiality, Affordance, and (De-)Spatialization__
 
+## Year of publication
+
+2022
+
 ## Title of the article
 
 How the 5G Enabled the COVID-19 Pandemic Prevention and Control: Materiality, Affordance, and (De-)Spatialization
@@ -9,10 +13,6 @@ How the 5G Enabled the COVID-19 Pandemic Prevention and Control: Materiality, Af
 ## DOI of the article
 
 10.3390/ijerph19158965
-
-## Year of publication
-
-2022
 
 ## Referenced by other articles
 

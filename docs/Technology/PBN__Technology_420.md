@@ -2,11 +2,11 @@
 
 # __online plant stores__
 
-## Risks linked to this technology
-
-* [Lack of gardening/activity in green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1290.md)
-
 ## This Technology is identified by the following QID
 
 * [Q107122793](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q107122793.md)
+
+## Risks linked to this technology
+
+* [Lack of gardening/activity in green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1290.md)
 

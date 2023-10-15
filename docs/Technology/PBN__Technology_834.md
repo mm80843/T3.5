@@ -2,11 +2,11 @@
 
 # __animal surveillance__
 
-## Risks linked to this technology
-
-* [Contagion from animals to humans](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1539.md)
-
 ## This Technology is identified by the following QID
 
 * [Q2699839](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2699839.md)
+
+## Risks linked to this technology
+
+* [Contagion from animals to humans](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1539.md)
 

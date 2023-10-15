@@ -10,12 +10,12 @@ Develop digital communication strategies to share information, collaborate, and 
 
 * [COVID-19: A new digital dawn?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_93.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Lack of information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2599.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [digital communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_897.md)
 * [online forums](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4028.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2599.md)
 

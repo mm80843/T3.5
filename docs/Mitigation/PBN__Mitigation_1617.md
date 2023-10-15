@@ -10,11 +10,11 @@ Establish protocols for business continuity, allow flexible work arrangements
 
 * [COVID-19 Experience Transforming the Protective Environment of Office Buildings and Spaces](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_120.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Workplace closures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3164.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [flexible working models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3949.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Workplace closures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3164.md)
 

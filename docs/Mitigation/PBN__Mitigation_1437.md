@@ -10,10 +10,10 @@ Using wastewater monitoring to obtain information on SARS-CoV-2 incidence within
 
 * [nghiem_covid-19_2020 nghiem_covid-19_2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_308.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
 
 * [analytical genomic approaches](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3877.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

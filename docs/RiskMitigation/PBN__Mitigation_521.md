@@ -11,11 +11,11 @@ Implementing physical distance between individuals to reduce the transmission of
 * [Epidemics, Planning and the City: A Special Issue of Planning Perspectives](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_152.md)
 * [Respiratory pandemics, urban planning and design: A multidisciplinary rapid review of the literature](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_133.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
 
 * [signage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_230.md)
 * [crowd control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3429.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

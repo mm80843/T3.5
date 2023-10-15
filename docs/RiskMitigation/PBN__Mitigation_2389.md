@@ -10,11 +10,11 @@ IRS involves the application of residual insecticides to the inner walls of room
 
 * [The importance of vector control for the control and elimination of vector-borne diseases](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_64.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
 
 * [spraying equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2918.md)
 * [insecticides](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4456.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

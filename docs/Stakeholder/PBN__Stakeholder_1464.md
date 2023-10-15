@@ -6,15 +6,15 @@
 
 * [Q5227350](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5227350.md)
 
-## Risk affecting this stakeholder
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Regulatory frameworks for data protection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_811.md)
+* [Data Management and Security](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_152.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Technology Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_12.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## Risk affecting this stakeholder
 
-* [Data Management and Security](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_152.md)
+* [Regulatory frameworks for data protection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_811.md)
 

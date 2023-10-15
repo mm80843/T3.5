@@ -2,11 +2,11 @@
 
 # __affordable filter materials__
 
-## Risks linked to this technology
-
-* [Inconvenience and cost of mask filters in smart face masks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2400.md)
-
 ## This Technology is identified by the following QID
 
 * [Q605696](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q605696.md)
+
+## Risks linked to this technology
+
+* [Inconvenience and cost of mask filters in smart face masks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2400.md)
 

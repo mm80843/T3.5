@@ -10,10 +10,10 @@ Installing temporary floor panels to create softer floor surfaces for educationa
 
 * [Building Transformation for Precautionary Measures against COVID-19 Pandemic: Case of Off-Street Car Parking of Campuses](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_224.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
 
 * [tempfloor panels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4170.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

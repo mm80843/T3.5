@@ -2,11 +2,11 @@
 
 # __charitable organizations__
 
-## Risks that can be mitigated by this stakeholder
+## Risk affecting this stakeholder
 
 * [Corruption in donation process](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1241.md)
 
-## Risk affecting this stakeholder
+## Risks that can be mitigated by this stakeholder
 
 * [Corruption in donation process](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1241.md)
 

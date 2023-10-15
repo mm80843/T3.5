@@ -6,11 +6,11 @@
 
 10.1007/978-3-030-79515-3
 
-## Year of publication
-
-2022
-
 ## Title of the article
 
 The Handbook of Salutogenesis
+
+## Year of publication
+
+2022
 

@@ -2,6 +2,11 @@
 
 # __mental health professionals__
 
+## This Stakeholder can get these Benefits from mitigation measures
+
+* [Identification of high-risk individuals](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_933.md)
+* [Enhanced psychological treatment effectiveness](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1117.md)
+
 ## Risks that can be mitigated by this stakeholder
 
 * [Negative psychological effects of quarantine and social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_643.md)
@@ -21,9 +26,4 @@
 * [Lack of access to mental health services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1993.md)
 * [Alexithymia](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2060.md)
 * [Negative Emotions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2277.md)
-
-## This Stakeholder can get these Benefits from mitigation measures
-
-* [Identification of high-risk individuals](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_933.md)
-* [Enhanced psychological treatment effectiveness](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1117.md)
 

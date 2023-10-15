@@ -2,9 +2,23 @@
 
 # __Lack of accurate risk maps__
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
+* [Develop and use accurate and timely risk maps for targeted deployment of control measures and resources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2829.md)
+
+## People affected by this risk
+
+* [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
+* [local communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_85.md)
+* [malaria elimination programs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_182.md)
+
+## Name of the risk
+
+Increased number of malaria cases, higher morbidity and mortality rates
+
+## Description of the risk
+
+Inaccurate risk mapping can lead to ineffective deployment of resources and control measures, resulting in increased transmission of malaria
 
 ## Property: has_RiskType
 
@@ -15,41 +29,27 @@
 * [government health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_883.md)
 * [malaria elimination programs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_182.md)
 
+## Property: has_RiskISO_Purpose
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
+
 ## Property: has_RiskHealth
 
 * [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Description of the risk
-
-Inaccurate risk mapping can lead to ineffective deployment of resources and control measures, resulting in increased transmission of malaria
-
-## Articles mentionning the risk
-
-* [Integrating rapid risk mapping and mobile phone call record data for strategic malaria elimination planning](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_76.md)
-
-## Technologies linked to the risk
-
-* [geographic information systems (gis) technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1682.md)
-
-## People affected by this risk
-
-* [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
-* [local communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_85.md)
-* [malaria elimination programs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_182.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
 
-## Mitigations of this risk
+## Articles mentionning the risk
 
-* [Develop and use accurate and timely risk maps for targeted deployment of control measures and resources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2829.md)
+* [Integrating rapid risk mapping and mobile phone call record data for strategic malaria elimination planning](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_76.md)
 
 ## Property: has_RiskGBN
 
 * [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Name of the risk
+## Technologies linked to the risk
 
-Increased number of malaria cases, higher morbidity and mortality rates
+* [geographic information systems (gis) technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1682.md)
 

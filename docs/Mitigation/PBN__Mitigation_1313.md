@@ -10,11 +10,11 @@ Conducting regular maintenance and monitoring of buildings, including the ventil
 
 * [Indoor Air Quality: Rethinking rules of building design strategies in post-pandemic architecture](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_206.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
 
 * [regular physical examination](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3784.md)
 * [maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3785.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

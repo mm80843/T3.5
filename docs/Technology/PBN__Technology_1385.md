@@ -2,11 +2,11 @@
 
 # __simplified user interfaces__
 
-## Risks linked to this technology
-
-* [Low adoption and accessibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1963.md)
-
 ## This Technology is identified by the following QID
 
 * [Q47146](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q47146.md)
+
+## Risks linked to this technology
+
+* [Low adoption and accessibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1963.md)
 

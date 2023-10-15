@@ -6,15 +6,15 @@
 
 * [Q486972](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q486972.md)
 
-## Risk affecting this stakeholder
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Crowded living conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1486.md)
+* [Residents](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_72.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Community Stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_8.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## Risk affecting this stakeholder
 
-* [Residents](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_72.md)
+* [Crowded living conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1486.md)
 

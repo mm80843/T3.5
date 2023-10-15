@@ -15,13 +15,6 @@ Facilitating remote consultations between patients and healthcare providers, red
 * [Leveraging Digital Transformation Technologies to Tackle COVID-19: Proposing a Privacy-First Holistic Framework](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_297.md)
 * [Pandemics and Automation: Will the Lost Jobs Come Back?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_98.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Limited access to healthcare services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1984.md)
-* [Overburdened healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2740.md)
-* [Limited access to mental health services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3031.md)
-* [Limited access to care](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3242.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [video conferencing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_406.md)
@@ -35,4 +28,11 @@ Facilitating remote consultations between patients and healthcare providers, red
 * [telecommunication technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3060.md)
 * [telecommunication technology (e.g. internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3803.md)
 * [video conferencing)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3800.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Limited access to healthcare services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1984.md)
+* [Overburdened healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2740.md)
+* [Limited access to mental health services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3031.md)
+* [Limited access to care](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3242.md)
 

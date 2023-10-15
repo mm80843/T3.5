@@ -10,11 +10,11 @@ Using advanced modeling and simulation tools, such as CAD and CFD models, to stu
 
 * [Indoor Air Quality: Rethinking rules of building design strategies in post-pandemic architecture](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_206.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
 
 * [computer-aided design (cad) tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3782.md)
 * [cfd models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3783.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

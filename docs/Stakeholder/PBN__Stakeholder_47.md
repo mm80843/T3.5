@@ -31,6 +31,14 @@
 * [Prevention of economic shrinkage](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1401.md)
 * [Improved strategic management](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1402.md)
 
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Government and Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_8.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [National Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_7.md)
+
 ## Risk affecting this stakeholder
 
 * [Supply chain disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_10.md)
@@ -222,12 +230,4 @@
 * [Lack of access to green](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2289.md)
 * [Vulnerability to Control Measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2351.md)
 * [Shortages of Personal Protective Equipment (PPE)](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2396.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [National Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_7.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Government and Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_8.md)
 

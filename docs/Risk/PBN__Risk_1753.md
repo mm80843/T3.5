@@ -2,9 +2,22 @@
 
 # __Data quality__
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+* [Improve data quality through standardized data collection processes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2322.md)
+
+## People affected by this risk
+
+* [data scientists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_627.md)
+* [healthcare researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1168.md)
+
+## Name of the risk
+
+Development of inaccurate predictive models and hindered decision-making
+
+## Description of the risk
+
+Growing amount of data and poor-quality data aggregation
 
 ## Property: has_RiskType
 
@@ -16,40 +29,27 @@
 * [data scientists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_627.md)
 * [healthcare administrators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_559.md)
 
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
 ## Property: has_RiskHealth
 
 * [technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_5.md)
-
-## Description of the risk
-
-Growing amount of data and poor-quality data aggregation
-
-## Articles mentionning the risk
-
-* [Pandemic Analytics: How Countries are Leveraging Big Data Analytics and Artificial Intelligence to Fight COVID-19?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_106.md)
-
-## Technologies linked to the risk
-
-* [data cleansing and validation tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1126.md)
-
-## People affected by this risk
-
-* [data scientists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_627.md)
-* [healthcare researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1168.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_5.md)
 
-## Mitigations of this risk
+## Articles mentionning the risk
 
-* [Improve data quality through standardized data collection processes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2322.md)
+* [Pandemic Analytics: How Countries are Leveraging Big Data Analytics and Artificial Intelligence to Fight COVID-19?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_106.md)
 
 ## Property: has_RiskGBN
 
 * [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Name of the risk
+## Technologies linked to the risk
 
-Development of inaccurate predictive models and hindered decision-making
+* [data cleansing and validation tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1126.md)
 

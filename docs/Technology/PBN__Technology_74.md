@@ -2,6 +2,15 @@
 
 # __online learning platforms__
 
+## This Technology belongs to this TechGroup
+
+* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_11.md)
+
+## This Technology enables the following mitigations
+
+* [Online learning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_951.md)
+* [Online Education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1446.md)
+
 ## Risks linked to this technology
 
 * [Interrupted education for children and adults](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_780.md)
@@ -13,16 +22,7 @@
 
 * [Q182250](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q182250.md)
 
-## This Technology belongs to this TechGroup
-
-* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_11.md)
-
 ## This Technology belongs to this TechSubgroup
 
 * [Digital Learning Platforms and Tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_56.md)
-
-## This Technology enables the following mitigations
-
-* [Online learning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_951.md)
-* [Online Education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1446.md)
 

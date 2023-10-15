@@ -10,9 +10,9 @@ Living on a road with higher levels of greenness is associated with a lower incr
 
 * [Association between indoor-outdoor green features and psychological health during the COVID-19 lockdown in Italy: A cross-sectional nationwide study](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_146.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
+
+
+## Risks possibly mitigated by this Mitigation
 
 

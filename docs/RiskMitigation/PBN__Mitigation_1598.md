@@ -10,12 +10,12 @@ Ensuring proper airflow, ventilation, and thermal comfort in homes to improve oc
 
 * [How our homes impact our health: using a COVID-19 informed approach to examine urban apartment housing](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_279.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Poor indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_294.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_139.md)
 * [operable windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3938.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Poor indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_294.md)
 

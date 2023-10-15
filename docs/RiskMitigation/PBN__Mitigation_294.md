@@ -10,11 +10,11 @@ Control access points to the workplace through measures such as temperature scre
 
 * [Analysis of COVID-19 Concerns Raised by the Construction Workforce and Development of Mitigation Practices](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_82.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Spread of Virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2518.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [temperature screening](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_25.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Spread of Virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2518.md)
 

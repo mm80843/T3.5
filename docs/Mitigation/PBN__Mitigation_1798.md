@@ -10,11 +10,11 @@ Adopting different living arrangements based on adaptability and criteria such a
 
 * [From Viral City to Smart City: Learning from Pandemic Experiences](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_183.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
 
 * [flexible living arrangements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4077.md)
 * [adaptive criteria](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4078.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

@@ -10,11 +10,11 @@ Participating in virtual exercise classes to stay physically active while at hom
 
 * [Staying Physically Active During the Quarantine and Self-Isolation Period for Controlling and Mitigating the COVID-19 Pandemic: A Systematic Overview of the Literature](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_181.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
 
 * [internet access](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1211.md)
 * [video communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3229.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

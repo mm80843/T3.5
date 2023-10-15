@@ -2,9 +2,21 @@
 
 # __Inadequate use of personal protective equipment__
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+* [Provide appropriate PPE and ensure proper usage and maintenance.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1814.md)
+
+## People affected by this risk
+
+* [workers in all industries requiring ppe](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_843.md)
+
+## Name of the risk
+
+Increased risk of contracting COVID-19 due to inadequate protection.
+
+## Description of the risk
+
+Insufficient use or improper use of PPE can increase the risk of exposure.
 
 ## Property: has_RiskType
 
@@ -15,17 +27,25 @@
 * [employers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_180.md)
 * [health and safety professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_835.md)
 
+## Property: has_RiskISO_Purpose
+
+* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+
 ## Property: has_RiskHealth
 
 * [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
-## Description of the risk
+## Property: has_RiskISO_Impact
 
-Insufficient use or improper use of PPE can increase the risk of exposure.
+* [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_5.md)
 
 ## Articles mentionning the risk
 
 * [The hierarchy of preventive measures to protect workers against the COVID-19 pandemic: A review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_73.md)
+
+## Property: has_RiskGBN
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
 ## Technologies linked to the risk
 
@@ -34,24 +54,4 @@ Insufficient use or improper use of PPE can increase the risk of exposure.
 * [facemasks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_484.md)
 * [respirators](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_485.md)
 * [gowns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_488.md)
-
-## People affected by this risk
-
-* [workers in all industries requiring ppe](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_843.md)
-
-## Property: has_RiskISO_Impact
-
-* [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_5.md)
-
-## Mitigations of this risk
-
-* [Provide appropriate PPE and ensure proper usage and maintenance.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1814.md)
-
-## Property: has_RiskGBN
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
-## Name of the risk
-
-Increased risk of contracting COVID-19 due to inadequate protection.
 

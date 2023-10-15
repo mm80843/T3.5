@@ -2,6 +2,10 @@
 
 # __point-of-care testing devices__
 
+## This Technology belongs to this TechGroup
+
+* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_15.md)
+
 ## Risks linked to this technology
 
 * [Insufficient testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_740.md)
@@ -9,10 +13,6 @@
 ## This Technology is identified by the following QID
 
 * [Q491983](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q491983.md)
-
-## This Technology belongs to this TechGroup
-
-* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_15.md)
 
 ## This Technology belongs to this TechSubgroup
 

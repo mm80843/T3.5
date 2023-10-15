@@ -2,11 +2,11 @@
 
 # __participatory tools__
 
-## Risks linked to this technology
-
-* [Lack of public participation and citizen empowerment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2102.md)
-
 ## This Technology is identified by the following QID
 
 * [Q1038171](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1038171.md)
+
+## Risks linked to this technology
+
+* [Lack of public participation and citizen empowerment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2102.md)
 

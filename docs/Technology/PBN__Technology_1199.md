@@ -2,11 +2,11 @@
 
 # __supplier diversification technologies and supply chain management systems__
 
-## Risks linked to this technology
-
-* [Concentration of suppliers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1837.md)
-
 ## This Technology is identified by the following QID
 
 * [Q1357275](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1357275.md)
+
+## Risks linked to this technology
+
+* [Concentration of suppliers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1837.md)
 

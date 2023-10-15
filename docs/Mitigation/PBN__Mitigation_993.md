@@ -10,10 +10,10 @@ Take actions to promote economic recovery and stability to support the construct
 
 * [Mechanisms for addressing the impact of COVID-19 on infrastructure projects](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_115.md)
 
+## This Mitigation is enabled by the following technologies
+
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Economic decline](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_856.md)
-
-## This Mitigation is enabled by the following technologies
-
 

@@ -2,9 +2,21 @@
 
 # __Increased HVAC loads during pandemic__
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_0.md)
+* [Encourage energy efficiency practices, educate households on thermostat settings and HVAC maintenance, and promote the use of energy-efficient HVAC systems.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2095.md)
+
+## People affected by this risk
+
+* [households](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_764.md)
+
+## Name of the risk
+
+Increased electricity consumption and higher energy bills for households.
+
+## Description of the risk
+
+Increased use of heating, ventilation, and air conditioning (HVAC) systems due to more time spent at home during the pandemic.
 
 ## Property: has_RiskType
 
@@ -16,38 +28,26 @@
 * [energy companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1006.md)
 * [energy efficiency organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1007.md)
 
+## Property: has_RiskISO_Purpose
+
+* [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_0.md)
+
 ## Property: has_RiskHealth
 
-
-## Description of the risk
-
-Increased use of heating, ventilation, and air conditioning (HVAC) systems due to more time spent at home during the pandemic.
-
-## Articles mentionning the risk
-
-* [Impacts of COVID-19 on residential building energy use and performance](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_97.md)
-
-## Technologies linked to the risk
-
-* [energy-efficient hvac systems and smart thermostat technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_869.md)
-
-## People affected by this risk
-
-* [households](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_764.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
 
-## Mitigations of this risk
+## Articles mentionning the risk
 
-* [Encourage energy efficiency practices, educate households on thermostat settings and HVAC maintenance, and promote the use of energy-efficient HVAC systems.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2095.md)
+* [Impacts of COVID-19 on residential building energy use and performance](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_97.md)
 
 ## Property: has_RiskGBN
 
 * [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Name of the risk
+## Technologies linked to the risk
 
-Increased electricity consumption and higher energy bills for households.
+* [energy-efficient hvac systems and smart thermostat technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_869.md)
 

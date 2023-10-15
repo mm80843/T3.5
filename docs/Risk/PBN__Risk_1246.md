@@ -2,9 +2,22 @@
 
 # __Technical limitations of wearables__
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+* [Improving sensor accuracy, optimizing battery life, and enhancing compatibility with different platforms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1706.md)
+
+## People affected by this risk
+
+* [wearable users](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_374.md)
+* [individuals monitoring health conditions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_762.md)
+
+## Name of the risk
+
+Inaccurate readings, compromised reliability of data, and limited functionality of the wearables
+
+## Description of the risk
+
+Wearable devices may have technical limitations in terms of accuracy, battery life, and compatibility with different platforms
 
 ## Property: has_RiskType
 
@@ -15,40 +28,27 @@
 * [wearable manufacturers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_761.md)
 * [technology developers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_763.md)
 
+## Property: has_RiskISO_Purpose
+
+* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+
 ## Property: has_RiskHealth
 
 * [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
-## Description of the risk
+## Property: has_RiskISO_Impact
 
-Wearable devices may have technical limitations in terms of accuracy, battery life, and compatibility with different platforms
 
 ## Articles mentionning the risk
 
 * [The Rise of Wearable Devices during the COVID-19 Pandemic: A Systematic Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_99.md)
 
-## Technologies linked to the risk
-
-* [sensor calibration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_348.md)
-* [battery optimization techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_349.md)
-
-## People affected by this risk
-
-* [wearable users](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_374.md)
-* [individuals monitoring health conditions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_762.md)
-
-## Property: has_RiskISO_Impact
-
-
-## Mitigations of this risk
-
-* [Improving sensor accuracy, optimizing battery life, and enhancing compatibility with different platforms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1706.md)
-
 ## Property: has_RiskGBN
 
 * [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
-## Name of the risk
+## Technologies linked to the risk
 
-Inaccurate readings, compromised reliability of data, and limited functionality of the wearables
+* [sensor calibration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_348.md)
+* [battery optimization techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_349.md)
 

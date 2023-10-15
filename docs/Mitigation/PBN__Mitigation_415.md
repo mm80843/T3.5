@@ -10,11 +10,11 @@ Temporarily monitoring and restricting certain activities in public places, such
 
 * [10 Adaptive Measures for Public Places to face the COVID 19 Pandemic Outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_63.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Monitoring and restriction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2563.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [regulatory measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3206.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Monitoring and restriction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2563.md)
 

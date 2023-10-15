@@ -10,10 +10,10 @@ Risk communication strategies should be developed to address the concerns of div
 
 * [An e-mental health intervention to support burdened people in times of the COVID-19 pandemic: CoPE It](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_209.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
 
 * [comprehensive risk communication strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3081.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

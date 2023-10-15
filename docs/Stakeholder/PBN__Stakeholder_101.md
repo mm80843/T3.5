@@ -19,6 +19,15 @@
 * [Secure environment for online education](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1057.md)
 * [Online learning and virtual classes](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1161.md)
 
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Students](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_19.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
+* [Education](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_1.md)
+
 ## Risk affecting this stakeholder
 
 * [Education disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_234.md)
@@ -40,13 +49,4 @@
 * [Limited human resources for occupational mental health interventions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2243.md)
 * [Inefficient space utilization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2253.md)
 * [Remote operation and telecommuting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2376.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
-* [Education](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_1.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Students](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_19.md)
 

@@ -6,11 +6,11 @@
 
 10.18356/abfaaadd-en
 
-## Year of publication
-
-2020
-
 ## Title of the article
 
 Waste Management during the COVID-19 Pandemic: From Response to Recovery
+
+## Year of publication
+
+2020
 

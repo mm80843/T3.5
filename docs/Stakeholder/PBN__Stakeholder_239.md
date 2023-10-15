@@ -10,6 +10,14 @@
 
 * [Improved financial management](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_562.md)
 
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Healthcare Administration](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_49.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
+
 ## Risks that can be mitigated by this stakeholder
 
 * [Airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_252.md)
@@ -20,12 +28,4 @@
 * [Contagious diseases transmission through hospital wastes and wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2314.md)
 * [Improper disposal of pharmaceutical wastes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2315.md)
 * [Improper disposal of chemical wastes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2316.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Healthcare Administration](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_49.md)
 

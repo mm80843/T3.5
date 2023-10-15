@@ -10,11 +10,11 @@ To remove viruses and bacteria from the hands to prevent transmission
 
 * [COVID-19: The forgotten priorities of the pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_236.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Contaminated hands](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2505.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [soap and water or hand sanitizer](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3798.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Contaminated hands](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2505.md)
 

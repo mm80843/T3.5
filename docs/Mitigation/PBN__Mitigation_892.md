@@ -11,13 +11,13 @@ Allows employees to work while maintaining social distancing and reducing the ri
 * [The impact of COVID-19 outbreak on United Kingdom infrastructure sector](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_141.md)
 * [Implications of COVID-19 control measures for diet and physical activity, and lessons for addressing other pandemics facing rapidly urbanising countries](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_68.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Decreased productivity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2750.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [remote working technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_550.md)
 * [internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3058.md)
 * [technology devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3579.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Decreased productivity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2750.md)
 

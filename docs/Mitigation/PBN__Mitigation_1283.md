@@ -10,10 +10,10 @@ Promoting proper coughing and sneezing etiquette, such as covering mouth and nos
 
 * [Presence of SARS-Coronavirus-2 RNA in Sewage and Correlation with Reported COVID-19 Prevalence in the Early Stage of the Epidemic in The Netherlands](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_1.md)
 
+## This Mitigation is enabled by the following technologies
+
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_974.md)
-
-## This Mitigation is enabled by the following technologies
-
 

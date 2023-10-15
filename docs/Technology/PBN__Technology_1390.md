@@ -2,6 +2,10 @@
 
 # __urban planning and design tools__
 
+## This Technology belongs to this TechGroup
+
+* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
+
 ## Risks linked to this technology
 
 * [Uneven distribution of green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1966.md)
@@ -9,10 +13,6 @@
 ## This Technology is identified by the following QID
 
 * [Q69883](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q69883.md)
-
-## This Technology belongs to this TechGroup
-
-* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
 
 ## This Technology belongs to this TechSubgroup
 

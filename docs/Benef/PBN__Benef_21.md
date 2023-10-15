@@ -2,19 +2,19 @@
 
 # __Increased resilience and preparedness__
 
-## Articles mentionning this Benefit
-
-* [Mapping research in logistics and supply chain management during COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_4.md)
-
 ## Stakeholders benefitting from this Benefit
 
 * [supply chain stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_15.md)
+
+## Name of the Benefit
+
+Awareness and knowledge sharing can improve the resilience and preparedness of supply chain stakeholders, enabling better coordination and response during disruptions.
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors can benefit from a more resilient and agile supply chain, reducing the risk of disruptions impacting their operations and enhancing long-term asset value.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_21.md)
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Awareness and knowledge sharing can improve the resilience and preparedness of supply chain stakeholders, enabling better coordination and response during disruptions.
+* [Mapping research in logistics and supply chain management during COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_4.md)
 

@@ -2,9 +2,22 @@
 
 # __Ineffective public management models__
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
+* [Implement adaptive and flexible management models, improve coordination among different government levels](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1647.md)
+
+## People affected by this risk
+
+* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
+* [government officials](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_333.md)
+
+## Name of the risk
+
+Inability to effectively respond to the pandemic, leading to negative consequences for society (e.g., economic downturn, loss of trust in government)
+
+## Description of the risk
+
+Public administrations have shown ineffective response to the COVID-19 pandemic, lacking adaptability to turbulent times
 
 ## Property: has_RiskType
 
@@ -15,39 +28,26 @@
 * [policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_126.md)
 * [public administrations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_353.md)
 
+## Property: has_RiskISO_Purpose
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
+
 ## Property: has_RiskHealth
 
 * [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
-
-## Description of the risk
-
-Public administrations have shown ineffective response to the COVID-19 pandemic, lacking adaptability to turbulent times
-
-## Articles mentionning the risk
-
-* [Learning from the COVID-19 pandemic in governing smart cities](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_177.md)
-
-## Technologies linked to the risk
-
-
-## People affected by this risk
-
-* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
-* [government officials](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_333.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
 
-## Mitigations of this risk
+## Articles mentionning the risk
 
-* [Implement adaptive and flexible management models, improve coordination among different government levels](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1647.md)
+* [Learning from the COVID-19 pandemic in governing smart cities](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_177.md)
 
 ## Property: has_RiskGBN
 
 * [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Name of the risk
+## Technologies linked to the risk
 
-Inability to effectively respond to the pandemic, leading to negative consequences for society (e.g., economic downturn, loss of trust in government)
 

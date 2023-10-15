@@ -2,11 +2,11 @@
 
 # __online recruitment platforms__
 
-## Risks linked to this technology
-
-* [Recruitment challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1528.md)
-
 ## This Technology is identified by the following QID
 
 * [Q899277](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q899277.md)
+
+## Risks linked to this technology
+
+* [Recruitment challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1528.md)
 

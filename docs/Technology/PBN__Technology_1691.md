@@ -2,6 +2,10 @@
 
 # __mobile health technology__
 
+## This Technology belongs to this TechGroup
+
+* [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_6.md)
+
 ## Risks linked to this technology
 
 * [Insufficient surveillance of asymptomatic and unreported cases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2167.md)
@@ -9,10 +13,6 @@
 ## This Technology is identified by the following QID
 
 * [Q17069079](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q17069079.md)
-
-## This Technology belongs to this TechGroup
-
-* [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_6.md)
 
 ## This Technology belongs to this TechSubgroup
 

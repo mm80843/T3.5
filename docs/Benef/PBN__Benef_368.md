@@ -2,13 +2,6 @@
 
 # __Increased productivity__
 
-## Articles mentionning this Benefit
-
-* [Covid-19 Associated Risks and Mitigation Strategies relevant for the UK Construction Industry](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_210.md)
-* [Overcoming the Impact of COVID-19 Using Integrated Project Delivery Model](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_72.md)
-* [El impacto del teletrabajo en tiempos del COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_108.md)
-* [The Impact of Pandemic Crisis on the Survival of Construction Industry: A Case of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_168.md)
-
 ## Stakeholders benefitting from this Benefit
 
 * [contractors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_179.md)
@@ -20,6 +13,10 @@
 * [project stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_178.md)
 * [construction industry stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_345.md)
 
+## Name of the Benefit
+
+Offsite construction can help solve issues of labour shortages, low productivity, and social distancing, leading to increased productivity.
+
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved project performance, reduced schedule variance, increased asset value](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_395.md)
@@ -27,7 +24,10 @@
 * [Private investors would benefit from increased productivity and efficiency in project execution, leading to higher returns on investment.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_907.md)
 * [Private investors investing in offsite construction can benefit from increased productivity, higher asset value, and improved profitability.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1129.md)
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Offsite construction can help solve issues of labour shortages, low productivity, and social distancing, leading to increased productivity.
+* [Covid-19 Associated Risks and Mitigation Strategies relevant for the UK Construction Industry](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_210.md)
+* [Overcoming the Impact of COVID-19 Using Integrated Project Delivery Model](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_72.md)
+* [El impacto del teletrabajo en tiempos del COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_108.md)
+* [The Impact of Pandemic Crisis on the Survival of Construction Industry: A Case of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_168.md)
 

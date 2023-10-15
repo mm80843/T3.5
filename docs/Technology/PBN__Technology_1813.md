@@ -2,11 +2,11 @@
 
 # __secure telepsychiatry platforms__
 
-## Risks linked to this technology
-
-* [Confidentiality breach in telepsychiatry consultations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2240.md)
-
 ## This Technology is identified by the following QID
 
 * [Q1630941](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1630941.md)
+
+## Risks linked to this technology
+
+* [Confidentiality breach in telepsychiatry consultations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2240.md)
 

@@ -2,11 +2,11 @@
 
 # __benchmarking__
 
-## Risks linked to this technology
-
-* [Data quality and reliability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1535.md)
-
 ## This Technology is identified by the following QID
 
 * [Q816754](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q816754.md)
+
+## Risks linked to this technology
+
+* [Data quality and reliability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1535.md)
 

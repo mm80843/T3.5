@@ -10,12 +10,12 @@ Utilizing social media platforms to provide real-time updates, clarify uncertain
 
 * [Digital technology and COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_278.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
 
 * [social media platforms (e.g.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4229.md)
 * [facebook](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4230.md)
 * [twitter)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4231.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

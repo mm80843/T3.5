@@ -10,11 +10,11 @@ Broad perspective of resistance genes in a population, complement clinical data,
 
 * [Future perspectives of wastewater-based epidemiology: Monitoring infectious disease spread and resistance to the community level](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_48.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
 
 * [qpcr techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4139.md)
 * [next generation sequencing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4141.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

@@ -10,11 +10,11 @@ Provide healthcare services and support through mobile clinics and telemedicine
 
 * [Mitigation strategies to fight the COVID-19 pandemic—present, future and beyond](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_200.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_974.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [mobile technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2902.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_974.md)
 

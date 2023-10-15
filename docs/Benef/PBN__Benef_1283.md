@@ -2,19 +2,19 @@
 
 # __Reduced risk of mosquito-borne infections__
 
-## Articles mentionning this Benefit
-
-* [Decision Making within the Built Environment as a Strategy for Mitigating the Risk of Malaria and Other Vector-Borne Diseases](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_272.md)
-
 ## Stakeholders benefitting from this Benefit
 
 * [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
+
+## Name of the Benefit
+
+Modifying building envelopes to minimize the size and number of openings can reduce the ease with which mosquitoes can access buildings, leading to a lower risk of mosquito-borne infections such as malaria for building occupants.
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors investing in this mitigation measure can benefit from reduced healthcare costs, increased asset value of buildings due to improved occupant health and reduced risk of litigation.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1447.md)
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Modifying building envelopes to minimize the size and number of openings can reduce the ease with which mosquitoes can access buildings, leading to a lower risk of mosquito-borne infections such as malaria for building occupants.
+* [Decision Making within the Built Environment as a Strategy for Mitigating the Risk of Malaria and Other Vector-Borne Diseases](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_272.md)
 

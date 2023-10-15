@@ -2,11 +2,11 @@
 
 # __green infrastructure management__
 
-## Risks linked to this technology
-
-* [Poor quality of green space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1042.md)
-
 ## This Technology is identified by the following QID
 
 * [Q3427027](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3427027.md)
+
+## Risks linked to this technology
+
+* [Poor quality of green space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1042.md)
 

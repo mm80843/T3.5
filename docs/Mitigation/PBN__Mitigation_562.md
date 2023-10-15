@@ -10,11 +10,11 @@ Improve disease surveillance, evaluate treatment strategies and vaccines in real
 
 * [Data capture and sharing in the COVID-19 pandemic: a cause for concern](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_208.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Non-standardized data collection, heterogeneity in data terminologies, data sharing barriers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2625.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [ehrs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3304.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Non-standardized data collection, heterogeneity in data terminologies, data sharing barriers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2625.md)
 

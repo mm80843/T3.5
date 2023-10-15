@@ -10,10 +10,10 @@ Eave tubes are small plastic tubes that are inserted into the walls of a house, 
 
 * [The importance of vector control for the control and elimination of vector-borne diseases](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_64.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
 
 * [plastic tubes with insecticide-laden electrostatic netting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4469.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

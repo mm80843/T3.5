@@ -10,9 +10,9 @@ Advise individuals to reduce physical contact with others to minimize the transm
 
 * [Local response in health emergencies: key considerations for addressing the COVID-19 pandemic in informal urban settlements](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_36.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
+
+
+## Risks possibly mitigated by this Mitigation
 
 

@@ -10,10 +10,10 @@ Calculates viral titers and efficacy of the test substance
 
 * [A Continuously Active Antimicrobial Coating effective against Human Coronavirus 229E](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_246.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
 
 * [spearman-karber method](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3499.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

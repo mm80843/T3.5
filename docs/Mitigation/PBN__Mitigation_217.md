@@ -25,6 +25,14 @@ Regular handwashing with soap and water or the use of hand sanitizers reduces th
 * [Should I Stay or Should I Go? Tourists’ COVID-19 Risk Perception and Vacation Behavior Shift](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_81.md)
 * [Role of Information Technology in Covid-19 Prevention](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_267.md)
 
+## This Mitigation is enabled by the following technologies
+
+* [hand sanitizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_412.md)
+* [soap and water](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3064.md)
+* [soap](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3086.md)
+* [water](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3087.md)
+* [hand sanitizer](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3258.md)
+
 ## Risks possibly mitigated by this Mitigation
 
 * [COVID-19 spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_63.md)
@@ -39,12 +47,4 @@ Regular handwashing with soap and water or the use of hand sanitizers reduces th
 * [Transmission of pathogens through touch](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2713.md)
 * [Contagious disease propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2915.md)
 * [Potential medium of transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3120.md)
-
-## This Mitigation is enabled by the following technologies
-
-* [hand sanitizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_412.md)
-* [soap and water](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3064.md)
-* [soap](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3086.md)
-* [water](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3087.md)
-* [hand sanitizer](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3258.md)
 

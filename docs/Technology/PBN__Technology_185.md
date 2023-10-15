@@ -2,13 +2,6 @@
 
 # __hvac systems__
 
-## Risks linked to this technology
-
-* [Airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_252.md)
-* [Inadequate thermal comfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_342.md)
-* [Indoor Air Pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1116.md)
-* [Inadequate indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1295.md)
-
 ## This Technology is identified by the following QID
 
 * [Q1798773](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1798773.md)
@@ -49,4 +42,11 @@
 * [Avoidance of air recirculation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1431.md)
 * [Improved ventilation in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1509.md)
 * [Ventilation and Air Filtration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1713.md)
+
+## Risks linked to this technology
+
+* [Airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_252.md)
+* [Inadequate thermal comfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_342.md)
+* [Indoor Air Pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1116.md)
+* [Inadequate indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1295.md)
 

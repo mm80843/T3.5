@@ -2,6 +2,10 @@
 
 # __A critical review of heating, ventilation, and air conditioning (HVAC) systems within the context of a global SARS-CoV-2 epidemic__
 
+## Year of publication
+
+2021
+
 ## Title of the article
 
 A critical review of heating, ventilation, and air conditioning (HVAC) systems within the context of a global SARS-CoV-2 epidemic
@@ -9,10 +13,6 @@ A critical review of heating, ventilation, and air conditioning (HVAC) systems w
 ## DOI of the article
 
 10.1016/j.psep.2021.09.021
-
-## Year of publication
-
-2021
 
 ## Referenced by other articles
 

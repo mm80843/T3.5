@@ -2,11 +2,11 @@
 
 # __pathogen reduction technology__
 
-## Risks linked to this technology
-
-* [Contamination of blood products](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2053.md)
-
 ## This Technology is identified by the following QID
 
 * [Q170065](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q170065.md)
+
+## Risks linked to this technology
+
+* [Contamination of blood products](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2053.md)
 

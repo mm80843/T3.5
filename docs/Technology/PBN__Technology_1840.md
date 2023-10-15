@@ -2,11 +2,11 @@
 
 # __green roof and wall technologies__
 
-## Risks linked to this technology
-
-* [Loss of UGS due to urban development](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2257.md)
-
 ## This Technology is identified by the following QID
 
 * [Q48741](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q48741.md)
+
+## Risks linked to this technology
+
+* [Loss of UGS due to urban development](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2257.md)
 

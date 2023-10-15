@@ -2,11 +2,11 @@
 
 # __verification processes__
 
-## Risks linked to this technology
-
-* [Misinformation and fake applications](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1964.md)
-
 ## This Technology is identified by the following QID
 
 * [Q2919644](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2919644.md)
+
+## Risks linked to this technology
+
+* [Misinformation and fake applications](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1964.md)
 

@@ -14,16 +14,16 @@
 * [Control and prevention of future outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_867.md)
 * [Population-wide surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1210.md)
 
-## Risk affecting this stakeholder
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Inadequate global preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1157.md)
-* [Climate-associated diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1645.md)
+* [Public](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_147.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## Risk affecting this stakeholder
 
-* [Public](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_147.md)
+* [Inadequate global preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1157.md)
+* [Climate-associated diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1645.md)
 

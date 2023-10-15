@@ -2,9 +2,22 @@
 
 # __Exchange process (deal between university hospitals)__
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Attractiveness](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_9.md)
+* [Implementing collaborative agreements and policies for staff redistribution](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1990.md)
+
+## People affected by this risk
+
+* [healthcare organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_216.md)
+* [nurses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_952.md)
+
+## Name of the risk
+
+Efficient allocation of resources and alleviation of staffing shortages in specific hospitals
+
+## Description of the risk
+
+Redistribution of nursing staff between hospitals
 
 ## Property: has_RiskType
 
@@ -15,39 +28,26 @@
 * [healthcare organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_216.md)
 * [nursing managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_203.md)
 
+## Property: has_RiskISO_Purpose
+
+* [Attractiveness](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_9.md)
+
 ## Property: has_RiskHealth
 
 * [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Description of the risk
-
-Redistribution of nursing staff between hospitals
-
-## Articles mentionning the risk
-
-* [Management of the COVID-19 pandemic: challenges, practices, and organizational support](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_92.md)
-
-## Technologies linked to the risk
-
-
-## People affected by this risk
-
-* [healthcare organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_216.md)
-* [nurses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_952.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_8.md)
 
-## Mitigations of this risk
+## Articles mentionning the risk
 
-* [Implementing collaborative agreements and policies for staff redistribution](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1990.md)
+* [Management of the COVID-19 pandemic: challenges, practices, and organizational support](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_92.md)
 
 ## Property: has_RiskGBN
 
 * [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
-## Name of the risk
+## Technologies linked to the risk
 
-Efficient allocation of resources and alleviation of staffing shortages in specific hospitals
 

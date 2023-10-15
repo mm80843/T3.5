@@ -2,6 +2,10 @@
 
 # __The ventilation of buildings and other mitigating measures for COVID-19: a focus on wintertime__
 
+## Year of publication
+
+2021
+
 ## Title of the article
 
 The ventilation of buildings and other mitigating measures for COVID-19: a focus on wintertime
@@ -9,10 +13,6 @@ The ventilation of buildings and other mitigating measures for COVID-19: a focus
 ## DOI of the article
 
 10.1098/rspa.2020.0855
-
-## Year of publication
-
-2021
 
 ## Referenced by other articles
 

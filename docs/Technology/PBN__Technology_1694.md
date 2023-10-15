@@ -2,11 +2,11 @@
 
 # __job placement platforms__
 
-## Risks linked to this technology
-
-* [Job losses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2173.md)
-
 ## This Technology is identified by the following QID
 
 * [Q629194](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q629194.md)
+
+## Risks linked to this technology
+
+* [Job losses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2173.md)
 

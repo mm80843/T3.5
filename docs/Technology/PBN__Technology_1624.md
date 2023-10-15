@@ -2,11 +2,11 @@
 
 # __rapid testing and vaccine development__
 
-## Risks linked to this technology
-
-* [Risk of rapid spread and cross-sectorial impact of contagious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2118.md)
-
 ## This Technology is identified by the following QID
 
 * [Q27133094](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q27133094.md)
+
+## Risks linked to this technology
+
+* [Risk of rapid spread and cross-sectorial impact of contagious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2118.md)
 

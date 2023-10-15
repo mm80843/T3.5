@@ -10,11 +10,11 @@ Proper insulation of the building envelope can help reduce heat loss or gain, ma
 
 * [The Effect of Opening Windows on Air Change Rates in Two Homes](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_235.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Heat loss or gain](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2757.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [insulation materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_80.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Heat loss or gain](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2757.md)
 

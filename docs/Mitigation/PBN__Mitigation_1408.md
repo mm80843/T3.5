@@ -10,10 +10,10 @@ Utilize ultraviolet radiation to disinfect surfaces and air, reducing the concen
 
 * [Designing Post COVID-19 Buildings: Approaches for Achieving Healthy Buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_282.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
 
 * [ultraviolet radiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3850.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

@@ -2,11 +2,11 @@
 
 # __telehealth solutions__
 
-## Risks linked to this technology
-
-* [Impact on information technology, media, and research & development](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1816.md)
-
 ## This Technology is identified by the following QID
 
 * [Q4923501](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4923501.md)
+
+## Risks linked to this technology
+
+* [Impact on information technology, media, and research & development](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1816.md)
 

@@ -10,16 +10,16 @@
 
 * [Empowered communities and improved support systems](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_333.md)
 
-## Risk affecting this stakeholder
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Flexible public places to support essential sectors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_268.md)
-* [Maintenance of essential services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2337.md)
+* [Companies and Institutions](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_23.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_2.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## Risk affecting this stakeholder
 
-* [Companies and Institutions](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_23.md)
+* [Flexible public places to support essential sectors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_268.md)
+* [Maintenance of essential services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2337.md)
 

@@ -10,9 +10,6 @@ Repurposing existing medicines such as anti-bacterial, antimalarial, and antivir
 
 * [Nurture to nature via COVID-19, a self-regenerating environmental strategy of environment in global context](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_44.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
 
 * [anti-bacterial](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3917.md)
@@ -20,4 +17,7 @@ Repurposing existing medicines such as anti-bacterial, antimalarial, and antivir
 * [antiviral](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3919.md)
 * [protease inhibitors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3920.md)
 * [corticosteroids](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3921.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

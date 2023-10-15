@@ -2,9 +2,13 @@
 
 # __COVID-19 and the rise of intimate partner violence__
 
-## Summary of the article
+## Short summary of the article
 
-During the COVID-19 pandemic, many countries implemented stay-at-home policies to keep people safe from the virus. But these policies also had unintended consequences, like an increase in violence against women. In Peru, a study found that calls to a helpline for violence against women increased by 48% since the lockdown started in March. The increase in calls was seen across the country and was not limited to specific groups. It is important to find ways to protect women from violence during this time, such as providing cash transfers or other support.
+This research abstract summarizes a study on the unintended consequences of stay-at-home policies on intimate partner violence during the COVID-19 pandemic in Peru. The study used monthly data on calls made to the national helpline for violence against women from January 2007 to July 2020. The findings showed an increase in the incidence rate of calls to the helpline since the lockdown policies started in mid-March 2020. The effects of the lockdown policies on intimate partner violence increased over time, with higher call volumes in July compared to April. The study validated its methods through a double comparison and an event study approach. Robustness checks and heterogenous analysis showed that the rise in calls to the helpline was observed across all demographics and background characteristics. The findings suggest an urgent need for policies to mitigate the unintended effects of stay-at-home orders on intimate partner violence. The study also highlighted the potential role of cash transfers in reducing violence and called for further research on the impact of cash transfers on intimate partner violence during the pandemic.
+
+## Year of publication
+
+2021
 
 ## Title of the article
 
@@ -18,6 +22,14 @@ COVID-19 and the rise of intimate partner violence
 * [Financial strain as a risk factor for intimate partner violence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1038.md)
 * [Lack of awareness and education about intimate partner violence during the pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1039.md)
 
+## DOI of the article
+
+10.1016/j.worlddev.2020.105217
+
+## Benefits listed in this article
+
+* [Financial relief](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_34.md)
+
 ## This article points to following mitigation
 
 * [Education programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_47.md)
@@ -26,19 +38,7 @@ COVID-19 and the rise of intimate partner violence
 * [Increase helpline](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_46.md)
 * [Safe shelters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_49.md)
 
-## Benefits listed in this article
+## Summary of the article
 
-* [Financial relief](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_34.md)
-
-## Short summary of the article
-
-This research abstract summarizes a study on the unintended consequences of stay-at-home policies on intimate partner violence during the COVID-19 pandemic in Peru. The study used monthly data on calls made to the national helpline for violence against women from January 2007 to July 2020. The findings showed an increase in the incidence rate of calls to the helpline since the lockdown policies started in mid-March 2020. The effects of the lockdown policies on intimate partner violence increased over time, with higher call volumes in July compared to April. The study validated its methods through a double comparison and an event study approach. Robustness checks and heterogenous analysis showed that the rise in calls to the helpline was observed across all demographics and background characteristics. The findings suggest an urgent need for policies to mitigate the unintended effects of stay-at-home orders on intimate partner violence. The study also highlighted the potential role of cash transfers in reducing violence and called for further research on the impact of cash transfers on intimate partner violence during the pandemic.
-
-## DOI of the article
-
-10.1016/j.worlddev.2020.105217
-
-## Year of publication
-
-2021
+During the COVID-19 pandemic, many countries implemented stay-at-home policies to keep people safe from the virus. But these policies also had unintended consequences, like an increase in violence against women. In Peru, a study found that calls to a helpline for violence against women increased by 48% since the lockdown started in March. The increase in calls was seen across the country and was not limited to specific groups. It is important to find ways to protect women from violence during this time, such as providing cash transfers or other support.
 

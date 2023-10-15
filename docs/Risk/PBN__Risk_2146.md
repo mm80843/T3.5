@@ -2,9 +2,23 @@
 
 # __Inadequate social distancing__
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
+* [Implement strict social distancing measures, reduce class sizes, utilize remote learning options](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2808.md)
+
+## People affected by this risk
+
+* [staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_103.md)
+* [students](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_101.md)
+* [faculty](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_134.md)
+
+## Name of the risk
+
+Increased risk of disease transmission and outbreaks
+
+## Description of the risk
+
+Difficulty maintaining social distancing with multiple students in a classroom
 
 ## Property: has_RiskType
 
@@ -14,42 +28,28 @@
 
 * [university](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1457.md)
 
+## Property: has_RiskISO_Purpose
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
+
 ## Property: has_RiskHealth
 
 * [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Description of the risk
-
-Difficulty maintaining social distancing with multiple students in a classroom
-
-## Articles mentionning the risk
-
-* [Reframe how to serve your community in the midst of a pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_53.md)
-
-## Technologies linked to the risk
-
-* [virtual learning platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1422.md)
-* [online collaboration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1663.md)
-
-## People affected by this risk
-
-* [staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_103.md)
-* [students](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_101.md)
-* [faculty](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_134.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_5.md)
 
-## Mitigations of this risk
+## Articles mentionning the risk
 
-* [Implement strict social distancing measures, reduce class sizes, utilize remote learning options](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2808.md)
+* [Reframe how to serve your community in the midst of a pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_53.md)
 
 ## Property: has_RiskGBN
 
 * [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Name of the risk
+## Technologies linked to the risk
 
-Increased risk of disease transmission and outbreaks
+* [virtual learning platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1422.md)
+* [online collaboration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1663.md)
 

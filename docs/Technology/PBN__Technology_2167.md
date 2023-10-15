@@ -2,13 +2,13 @@
 
 # __Partnership agreements__
 
-## This Technology is identified by the following QID
-
-* [Q728646](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q728646.md)
-
 ## This Technology belongs to this TechGroup
 
 * [Social media](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_1.md)
+
+## This Technology is identified by the following QID
+
+* [Q728646](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q728646.md)
 
 ## This Technology belongs to this TechSubgroup
 

@@ -2,11 +2,11 @@
 
 # __targeted messaging__
 
-## Risks linked to this technology
-
-* [Politicization of public health measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1586.md)
-
 ## This Technology is identified by the following QID
 
 * [Q58199](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q58199.md)
+
+## Risks linked to this technology
+
+* [Politicization of public health measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1586.md)
 

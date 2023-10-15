@@ -10,6 +10,14 @@
 
 * [Reduction of misinformation sharing](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_144.md)
 
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Social Media Users](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_132.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Community Stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_8.md)
+
 ## Risk affecting this stakeholder
 
 * [Misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1033.md)
@@ -18,12 +26,4 @@
 * [Information overload](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1612.md)
 * [Online information trust](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1613.md)
 * [Inaccurate information on social media](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1827.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Community Stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_8.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Social Media Users](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_132.md)
 

@@ -2,6 +2,10 @@
 
 # __A systematic review of building systems and technologies to mitigate the spread of airborne viruses__
 
+## Year of publication
+
+2022
+
 ## Title of the article
 
 A systematic review of building systems and technologies to mitigate the spread of airborne viruses
@@ -9,10 +13,6 @@ A systematic review of building systems and technologies to mitigate the spread 
 ## DOI of the article
 
 10.1108/JFM-01-2021-0015
-
-## Year of publication
-
-2022
 
 ## Referenced by other articles
 

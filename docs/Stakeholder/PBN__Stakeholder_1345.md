@@ -6,16 +6,16 @@
 
 * [Q6817416](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6817416.md)
 
-## Risk affecting this stakeholder
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Lack of access to mental health services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1993.md)
+* [Health and Well-being](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_94.md)
+* [Individuals with Specific Conditions](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_86.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## Risk affecting this stakeholder
 
-* [Health and Well-being](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_94.md)
-* [Individuals with Specific Conditions](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_86.md)
+* [Lack of access to mental health services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1993.md)
 

@@ -2,11 +2,11 @@
 
 # __stockpiling technologies__
 
-## Risks linked to this technology
-
-* [Lack of preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_492.md)
-
 ## This Technology is identified by the following QID
 
 * [Q3761396](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3761396.md)
+
+## Risks linked to this technology
+
+* [Lack of preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_492.md)
 

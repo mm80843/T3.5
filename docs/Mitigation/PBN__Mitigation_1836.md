@@ -10,9 +10,9 @@ Improve social safety nets and welfare systems to provide support for individual
 
 * [Mental health economics: A prospective study on psychological flourishing and associations with healthcare costs and sickness benefit transfers in Denmark](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_189.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
+
+
+## Risks possibly mitigated by this Mitigation
 
 

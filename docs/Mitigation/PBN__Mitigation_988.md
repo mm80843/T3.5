@@ -10,10 +10,10 @@ Ensure that the supply chain for construction materials is resumed quickly to av
 
 * [Mechanisms for addressing the impact of COVID-19 on infrastructure projects](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_115.md)
 
+## This Mitigation is enabled by the following technologies
+
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Delays due to lack of materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2846.md)
-
-## This Mitigation is enabled by the following technologies
-
 

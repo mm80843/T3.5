@@ -2,11 +2,11 @@
 
 # __data validation systems__
 
-## Risks linked to this technology
-
-* [Data quality and accuracy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1923.md)
-
 ## This Technology is identified by the following QID
 
 * [Q3306762](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3306762.md)
+
+## Risks linked to this technology
+
+* [Data quality and accuracy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1923.md)
 

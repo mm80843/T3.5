@@ -11,6 +11,14 @@
 * [Accurate detection of virus](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1211.md)
 * [Improved strategic management](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1402.md)
 
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Public Health Agencies](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_43.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
+
 ## Risk affecting this stakeholder
 
 * [Limited learning from public health crises](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_647.md)
@@ -92,12 +100,4 @@
 * [Inadequate surveillance and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2355.md)
 * [Inadequate community engagement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2356.md)
 * [Emergence of new vector-borne diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2357.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Public Health Agencies](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_43.md)
 

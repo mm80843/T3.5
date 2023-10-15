@@ -2,11 +2,11 @@
 
 # __expansion of digital__
 
-## Risks linked to this technology
-
-* [Impact of reduced](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2291.md)
-
 ## This Technology is identified by the following QID
 
 * [Q690079](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q690079.md)
+
+## Risks linked to this technology
+
+* [Impact of reduced](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2291.md)
 

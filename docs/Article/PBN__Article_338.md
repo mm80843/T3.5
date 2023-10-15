@@ -6,11 +6,11 @@
 
 10.1016/j.pmedr.2016.11.007
 
-## Year of publication
-
-2017
-
 ## Title of the article
 
 Gardening is beneficial for health: A meta-analysis
+
+## Year of publication
+
+2017
 

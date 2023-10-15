@@ -2,11 +2,11 @@
 
 # __financial instruments for price hedging__
 
-## Risks linked to this technology
-
-* [Price volatility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1608.md)
-
 ## This Technology is identified by the following QID
 
 * [Q247506](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q247506.md)
+
+## Risks linked to this technology
+
+* [Price volatility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1608.md)
 

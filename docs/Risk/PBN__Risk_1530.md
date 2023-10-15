@@ -2,9 +2,21 @@
 
 # __Client confidence__
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+* [Maintain clear communication, demonstrate safety measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2058.md)
+
+## People affected by this risk
+
+* [clients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_297.md)
+
+## Name of the risk
+
+Potential delays or cancellation of projects
+
+## Description of the risk
+
+Maintaining client trust and confidence in project completion
 
 ## Property: has_RiskType
 
@@ -15,39 +27,27 @@
 * [contractors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_179.md)
 * [project managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_906.md)
 
+## Property: has_RiskISO_Purpose
+
+* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+
 ## Property: has_RiskHealth
 
-
-## Description of the risk
-
-Maintaining client trust and confidence in project completion
-
-## Articles mentionning the risk
-
-* [The impact of COVID-19 outbreak on United Kingdom infrastructure sector](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_141.md)
-
-## Technologies linked to the risk
-
-* [digital communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_816.md)
-* [project updates](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_818.md)
-
-## People affected by this risk
-
-* [clients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_297.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_8.md)
 
-## Mitigations of this risk
+## Articles mentionning the risk
 
-* [Maintain clear communication, demonstrate safety measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2058.md)
+* [The impact of COVID-19 outbreak on United Kingdom infrastructure sector](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_141.md)
 
 ## Property: has_RiskGBN
 
 * [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Name of the risk
+## Technologies linked to the risk
 
-Potential delays or cancellation of projects
+* [digital communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_816.md)
+* [project updates](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_818.md)
 

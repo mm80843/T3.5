@@ -10,9 +10,9 @@ Closing schools and universities to reduce transmission among students and staff
 
 * [The impact of COVID-19 and strategies for mitigation and suppression in low- and middle-income countries](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_65.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
+
+
+## Risks possibly mitigated by this Mitigation
 
 

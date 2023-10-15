@@ -2,11 +2,11 @@
 
 # __increased healthcare funding__
 
-## Risks linked to this technology
-
-* [Overwhelmed health sector](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1073.md)
-
 ## This Technology is identified by the following QID
 
 * [Q294308](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q294308.md)
+
+## Risks linked to this technology
+
+* [Overwhelmed health sector](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1073.md)
 

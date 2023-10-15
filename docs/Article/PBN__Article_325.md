@@ -6,11 +6,11 @@
 
 10.1186/s40249-017-0375-2
 
-## Year of publication
-
-2017
-
 ## Title of the article
 
 Addressing vulnerability, building resilience: community-based adaptation to vector-borne diseases in the context of global change
+
+## Year of publication
+
+2017
 

@@ -10,11 +10,11 @@ Using heat treatment to disinfect surfaces and objects that may be contaminated 
 
 * [Climate and the spread of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_145.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Heating surfaces and objects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2547.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [heat source](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3192.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Heating surfaces and objects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2547.md)
 

@@ -2,19 +2,19 @@
 
 # __Enhanced public health infrastructure__
 
-## Articles mentionning this Benefit
-
-* [The COVID-19 pandemic: Lessons on building more equal and sustainable societies](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_124.md)
-
 ## Stakeholders benefitting from this Benefit
 
 * [society](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_53.md)
+
+## Name of the Benefit
+
+Strengthening public health systems will improve healthcare delivery, disease prevention, and response to future pandemics.
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors can benefit from improved public health infrastructure through increased demand for healthcare services and potential investment opportunities in healthcare facilities and technology.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_670.md)
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Strengthening public health systems will improve healthcare delivery, disease prevention, and response to future pandemics.
+* [The COVID-19 pandemic: Lessons on building more equal and sustainable societies](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_124.md)
 

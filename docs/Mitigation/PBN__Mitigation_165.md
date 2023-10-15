@@ -10,11 +10,11 @@ Improving the performance of individual sensors by combining different transduce
 
 * [Wearable devices for the detection of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_296.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
 
 * [multimodal devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3023.md)
 * [multiplexed measurements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3024.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

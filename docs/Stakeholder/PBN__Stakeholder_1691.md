@@ -6,11 +6,11 @@
 
 * [Q55639](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q55639.md)
 
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_2.md)
-
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Sectors and Industries](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_25.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_2.md)
 

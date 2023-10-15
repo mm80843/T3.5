@@ -2,11 +2,11 @@
 
 # __improved screening measures on preprint servers__
 
-## Risks linked to this technology
-
-* [Spread of fraudulent studies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_615.md)
-
 ## This Technology is identified by the following QID
 
 * [Q626251](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q626251.md)
+
+## Risks linked to this technology
+
+* [Spread of fraudulent studies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_615.md)
 

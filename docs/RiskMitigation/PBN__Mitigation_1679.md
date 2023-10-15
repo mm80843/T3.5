@@ -10,10 +10,10 @@ Digital RT-qPCR is a highly sensitive method that can be used to quantify sample
 
 * [SARS-CoV-2 RNA in wastewater anticipated COVID-19 occurrence in a low prevalence area](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_96.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
 
 * [digital rt-qpcr assay](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4006.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

@@ -10,12 +10,12 @@ Enhance resilience and response to emergencies
 
 * [COVID-19 risks and systemic gaps in Nigeria: resilience building lessons for pandemic and climate change management](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_215.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Inadequate response and preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2912.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [preparedness planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3630.md)
 * [risk reduction measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3631.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Inadequate response and preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2912.md)
 

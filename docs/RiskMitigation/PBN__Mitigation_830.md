@@ -10,12 +10,12 @@ Recognizes and identifies individuals based on their facial features to ensure c
 
 * [Design and Implementation of Entry-level COVID-19 Digital Signage Player supporting Fever Detection, Face Mask Wearing Detection and KI-pass QR Code Checking](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_285.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [False positives, False negatives](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2762.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [image processing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3006.md)
 * [camera](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3478.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [False positives, False negatives](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2762.md)
 

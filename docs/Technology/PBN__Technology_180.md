@@ -2,11 +2,11 @@
 
 # __advanced materials__
 
-## Risks linked to this technology
-
-* [Reliability and robustness of wearable devices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1114.md)
-
 ## This Technology is identified by the following QID
 
 * [Q3595325](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3595325.md)
+
+## Risks linked to this technology
+
+* [Reliability and robustness of wearable devices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1114.md)
 

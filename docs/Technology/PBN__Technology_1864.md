@@ -2,6 +2,10 @@
 
 # __multi-factor authentication__
 
+## This Technology belongs to this TechGroup
+
+* [Blockchain and cryptography](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_10.md)
+
 ## Risks linked to this technology
 
 * [Cybersecurity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2282.md)
@@ -9,10 +13,6 @@
 ## This Technology is identified by the following QID
 
 * [Q7878662](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7878662.md)
-
-## This Technology belongs to this TechGroup
-
-* [Blockchain and cryptography](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_10.md)
 
 ## This Technology belongs to this TechSubgroup
 

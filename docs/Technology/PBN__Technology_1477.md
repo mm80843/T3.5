@@ -2,11 +2,11 @@
 
 # __inclusive economic policies__
 
-## Risks linked to this technology
-
-* [Social unrest](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2015.md)
-
 ## This Technology is identified by the following QID
 
 * [Q582577](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q582577.md)
+
+## Risks linked to this technology
+
+* [Social unrest](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2015.md)
 

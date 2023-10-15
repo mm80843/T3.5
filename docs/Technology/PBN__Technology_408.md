@@ -2,11 +2,11 @@
 
 # __online fitness platforms__
 
-## Risks linked to this technology
-
-* [Decreased physical activity during quarantine and social isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1277.md)
-
 ## This Technology is identified by the following QID
 
 * [Q16001686](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q16001686.md)
+
+## Risks linked to this technology
+
+* [Decreased physical activity during quarantine and social isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1277.md)
 

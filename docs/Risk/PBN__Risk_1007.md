@@ -2,9 +2,25 @@
 
 # __Overwhelmed healthcare system__
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_0.md)
+* [Telemedicine and remote testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1429.md)
+* [Tracking patient numbers and capacity prediction; balancing patient load across multiple hospitals; tracking key medical personnel and prioritizing their access to necessary items](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3037.md)
+* [Healthcare capacity expansion](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1136.md)
+* [Resilient healthcare system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1575.md)
+
+## People affected by this risk
+
+* [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
+* [medical personnel](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_184.md)
+
+## Name of the risk
+
+Inadequate healthcare services; inability to adequately treat patients
+
+## Description of the risk
+
+Hospitals and healthcare facilities being overwhelmed by a large number of patients during a pandemic
 
 ## Property: has_RiskType
 
@@ -15,43 +31,27 @@
 * [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
 * [city governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_354.md)
 
+## Property: has_RiskISO_Purpose
+
+* [Safety and security](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_0.md)
+
 ## Property: has_RiskHealth
 
 * [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Description of the risk
-
-Hospitals and healthcare facilities being overwhelmed by a large number of patients during a pandemic
-
-## Articles mentionning the risk
-
-* [The Smart City and Covid‐19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_294.md)
-
-## Technologies linked to the risk
-
-* [smart healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1931.md)
-
-## People affected by this risk
-
-* [patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
-* [medical personnel](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_184.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
 
-## Mitigations of this risk
+## Articles mentionning the risk
 
-* [Telemedicine and remote testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1429.md)
-* [Tracking patient numbers and capacity prediction; balancing patient load across multiple hospitals; tracking key medical personnel and prioritizing their access to necessary items](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3037.md)
-* [Healthcare capacity expansion](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1136.md)
-* [Resilient healthcare system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1575.md)
+* [The Smart City and Covid‐19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_294.md)
 
 ## Property: has_RiskGBN
 
 * [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
-## Name of the risk
+## Technologies linked to the risk
 
-Inadequate healthcare services; inability to adequately treat patients
+* [smart healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1931.md)
 

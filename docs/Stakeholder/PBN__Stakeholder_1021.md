@@ -6,15 +6,15 @@
 
 * [Q3400985](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3400985.md)
 
-## Risk affecting this stakeholder
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Decreased access to traditional research methodologies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1588.md)
+* [Academic Roles](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_11.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Education](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_1.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## Risk affecting this stakeholder
 
-* [Academic Roles](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_11.md)
+* [Decreased access to traditional research methodologies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1588.md)
 

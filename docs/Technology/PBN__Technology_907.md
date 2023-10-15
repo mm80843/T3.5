@@ -2,13 +2,13 @@
 
 # __testing capacity__
 
+## This Technology is identified by the following QID
+
+* [Q584804](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q584804.md)
+
 ## Risks linked to this technology
 
 * [High positivity rate](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_540.md)
 * [Lack of testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_543.md)
 * [Under-reporting of cases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_544.md)
-
-## This Technology is identified by the following QID
-
-* [Q584804](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q584804.md)
 

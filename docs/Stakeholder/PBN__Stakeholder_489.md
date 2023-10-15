@@ -15,6 +15,14 @@
 * [Minimized job losses](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1350.md)
 * [Increased skill levels](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1351.md)
 
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Minorities and Marginalized Groups](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_97.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
+
 ## Risk affecting this stakeholder
 
 * [Inequities and exclusions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1467.md)
@@ -22,12 +30,4 @@
 * [Higher COVID-19 hospitalizations and mortality among immigrants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1843.md)
 * [Lower vaccination rates among immigrants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1844.md)
 * [Disruption of immigrant employment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1845.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Minorities and Marginalized Groups](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_97.md)
 

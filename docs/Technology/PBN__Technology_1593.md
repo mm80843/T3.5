@@ -2,6 +2,10 @@
 
 # __equitable governance structures__
 
+## This Technology belongs to this TechGroup
+
+* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_11.md)
+
 ## Risks linked to this technology
 
 * [Inequalities in smart city development](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2099.md)
@@ -9,10 +13,6 @@
 ## This Technology is identified by the following QID
 
 * [Q1553864](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1553864.md)
-
-## This Technology belongs to this TechGroup
-
-* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_11.md)
 
 ## This Technology belongs to this TechSubgroup
 

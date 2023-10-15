@@ -2,9 +2,13 @@
 
 # __A general modeling framework for exploring the impact of individual concern and personal protection on vector-borne disease dynamics__
 
-## Summary of the article
+## Short summary of the article
 
-Scientists have found that climate change and population growth are contributing to an increase in mosquito-borne diseases. Mosquitoes are able to survive and spread in a wider range of habitats due to climate change. Additionally, factors like urbanization, travel, and trade make it easier for diseases to spread to new areas. Public health authorities have limited control over these factors, so they need to focus on strategies like mosquito control and public awareness campaigns to reduce the risk of outbreaks. Personal protective measures like using mosquito repellent and wearing protective clothing are also important in preventing the spread of diseases. It's important for people to be aware of the risks and take steps to protect themselves from mosquitoes.
+This research abstract summarizes a study that explores the effectiveness of personal protection measures, such as mosquito repellent and protective clothing, in mitigating mosquito-borne disease outbreaks. The study uses a compartmental model to examine the dynamics of mosquito-borne diseases in a population and considers individual-level behavioral drivers, such as concern for being bitten by mosquitoes and concern for disease transmission. The results show that while personal protection measures alone are not enough to significantly impact an outbreak, they can be effective in reducing the total number of infections when combined with community-level vector control measures. The study also finds that public health messaging should focus on both general mosquito bite prevention and disease transmission prevention, with the emphasis on one or the other depending on the level of community-level vector control. The findings highlight the importance of considering individual motivations and concerns when designing public health campaigns to reduce the burden of vector-borne diseases.
+
+## Year of publication
+
+2022
 
 ## Title of the article
 
@@ -18,13 +22,9 @@ A general modeling framework for exploring the impact of individual concern and 
 * [Low public knowledge and awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2009.md)
 * [Limited coordination across sub-populations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2010.md)
 
-## This article points to following mitigation
+## DOI of the article
 
-* [Larvicides and adulticides](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1751.md)
-* [Targeted communications](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1752.md)
-* [Surveillance of vector](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1753.md)
-* [Public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1091.md)
-* [Community-level vector control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1754.md)
+10.1186/s13071-022-05481-7
 
 ## Benefits listed in this article
 
@@ -34,15 +34,15 @@ A general modeling framework for exploring the impact of individual concern and 
 * [Improved effectiveness of mitigation efforts](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1048.md)
 * [Reduction in total number of infections](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1049.md)
 
-## Short summary of the article
+## This article points to following mitigation
 
-This research abstract summarizes a study that explores the effectiveness of personal protection measures, such as mosquito repellent and protective clothing, in mitigating mosquito-borne disease outbreaks. The study uses a compartmental model to examine the dynamics of mosquito-borne diseases in a population and considers individual-level behavioral drivers, such as concern for being bitten by mosquitoes and concern for disease transmission. The results show that while personal protection measures alone are not enough to significantly impact an outbreak, they can be effective in reducing the total number of infections when combined with community-level vector control measures. The study also finds that public health messaging should focus on both general mosquito bite prevention and disease transmission prevention, with the emphasis on one or the other depending on the level of community-level vector control. The findings highlight the importance of considering individual motivations and concerns when designing public health campaigns to reduce the burden of vector-borne diseases.
+* [Larvicides and adulticides](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1751.md)
+* [Targeted communications](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1752.md)
+* [Surveillance of vector](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1753.md)
+* [Public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1091.md)
+* [Community-level vector control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1754.md)
 
-## DOI of the article
+## Summary of the article
 
-10.1186/s13071-022-05481-7
-
-## Year of publication
-
-2022
+Scientists have found that climate change and population growth are contributing to an increase in mosquito-borne diseases. Mosquitoes are able to survive and spread in a wider range of habitats due to climate change. Additionally, factors like urbanization, travel, and trade make it easier for diseases to spread to new areas. Public health authorities have limited control over these factors, so they need to focus on strategies like mosquito control and public awareness campaigns to reduce the risk of outbreaks. Personal protective measures like using mosquito repellent and wearing protective clothing are also important in preventing the spread of diseases. It's important for people to be aware of the risks and take steps to protect themselves from mosquitoes.
 

@@ -2,19 +2,19 @@
 
 # __Increased protection in poorly ventilated areas__
 
-## Articles mentionning this Benefit
-
-* [How can airborne transmission of COVID-19 indoors be minimised?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_121.md)
-
 ## Stakeholders benefitting from this Benefit
 
 * [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
+
+## Name of the Benefit
+
+Improved air quality and reduced risk of exposure
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Reduced risk of infection, improved health outcomes](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_658.md)
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Improved air quality and reduced risk of exposure
+* [How can airborne transmission of COVID-19 indoors be minimised?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_121.md)
 

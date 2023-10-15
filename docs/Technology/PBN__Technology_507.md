@@ -2,11 +2,11 @@
 
 # __biocidal products__
 
-## Risks linked to this technology
-
-* [Contamination of surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1332.md)
-
 ## This Technology is identified by the following QID
 
 * [Q4914724](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4914724.md)
+
+## Risks linked to this technology
+
+* [Contamination of surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1332.md)
 

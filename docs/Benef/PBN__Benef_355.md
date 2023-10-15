@@ -2,19 +2,19 @@
 
 # __Protection of individual rights__
 
-## Articles mentionning this Benefit
-
-* [Implications of COVID-19 control measures for diet and physical activity, and lessons for addressing other pandemics facing rapidly urbanising countries](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_68.md)
-
 ## Stakeholders benefitting from this Benefit
 
 * [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+
+## Name of the Benefit
+
+Ensuring rights are respected in public health interventions safeguards privacy, avoids discrimination, and promotes equitable governance approaches
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved individual and collective rights, increased trust in public health measures, enhanced social cohesion](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_380.md)
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Ensuring rights are respected in public health interventions safeguards privacy, avoids discrimination, and promotes equitable governance approaches
+* [Implications of COVID-19 control measures for diet and physical activity, and lessons for addressing other pandemics facing rapidly urbanising countries](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_68.md)
 

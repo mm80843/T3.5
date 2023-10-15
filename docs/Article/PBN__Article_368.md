@@ -6,11 +6,11 @@
 
 10.3390/app10217514
 
-## Year of publication
-
-2020
-
 ## Title of the article
 
 DeepSOCIAL: Social Distancing Monitoring and Infection Risk Assessment in COVID-19 Pandemic
+
+## Year of publication
+
+2020
 

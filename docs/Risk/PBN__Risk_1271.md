@@ -2,9 +2,22 @@
 
 # __Faculty Engagement__
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+* [Invest time and effort in supporting faculty and increasing familiarity with technology.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1750.md)
+
+## People affected by this risk
+
+* [surgical trainees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_42.md)
+* [surgical educators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_778.md)
+
+## Name of the risk
+
+Decreased faculty engagement and interaction with trainees.
+
+## Description of the risk
+
+Some faculty may struggle with using novel technologies, which can affect their ability to effectively engage trainees.
 
 ## Property: has_RiskType
 
@@ -15,39 +28,26 @@
 * [surgical educators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_778.md)
 * [it support personnel](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_781.md)
 
+## Property: has_RiskISO_Purpose
+
+* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+
 ## Property: has_RiskHealth
 
 * [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
-
-## Description of the risk
-
-Some faculty may struggle with using novel technologies, which can affect their ability to effectively engage trainees.
-
-## Articles mentionning the risk
-
-* [Using Technology to Maintain the Education of Residents During the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_11.md)
-
-## Technologies linked to the risk
-
-
-## People affected by this risk
-
-* [surgical trainees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_42.md)
-* [surgical educators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_778.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Education and capacity building](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_7.md)
 
-## Mitigations of this risk
+## Articles mentionning the risk
 
-* [Invest time and effort in supporting faculty and increasing familiarity with technology.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1750.md)
+* [Using Technology to Maintain the Education of Residents During the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_11.md)
 
 ## Property: has_RiskGBN
 
 * [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
-## Name of the risk
+## Technologies linked to the risk
 
-Decreased faculty engagement and interaction with trainees.
 

@@ -10,13 +10,13 @@ Topical repellents are applied directly to the skin to repel mosquitoes and prev
 
 * [The importance of vector control for the control and elimination of vector-borne diseases](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_64.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
 
 * [topical repellents](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4458.md)
 * [such as deet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4459.md)
 * [picaridin](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4460.md)
 * [or oil of lemon eucalyptus](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4461.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

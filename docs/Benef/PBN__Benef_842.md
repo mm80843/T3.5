@@ -2,20 +2,20 @@
 
 # __Reduced infection risk, fewer infected people__
 
-## Articles mentionning this Benefit
-
-* [The effect of occupant distribution on energy consumption and COVID-19 infection in buildings: A case study of university building](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_169.md)
-
 ## Stakeholders benefitting from this Benefit
 
 * [public health](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_58.md)
 * [building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 
+## Name of the Benefit
+
+Optimizing occupant distribution reduces the number of infected people
+
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved public health, containment of COVID-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_916.md)
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Optimizing occupant distribution reduces the number of infected people
+* [The effect of occupant distribution on energy consumption and COVID-19 infection in buildings: A case study of university building](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_169.md)
 

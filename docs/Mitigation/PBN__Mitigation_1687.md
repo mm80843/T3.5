@@ -10,12 +10,12 @@ Allowing workers to enter and exit job sites without proximity and minimizing co
 
 * [Identifying Actions to Control and Mitigate the Effects of the COVID-19 Pandemic on Construction Organizations: Preliminary Findings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_220.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Congested areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3217.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_200.md)
 * [cctv](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1930.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Congested areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3217.md)
 

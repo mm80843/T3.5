@@ -10,11 +10,11 @@ Determine the amount citizens are willing to invest in green roofs
 
 * [The role of green roofs in post COVID-19 confinement: An analysis of willingness to pay](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_262.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
 
 * [surveys](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_900.md)
 * [marketing research](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3721.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

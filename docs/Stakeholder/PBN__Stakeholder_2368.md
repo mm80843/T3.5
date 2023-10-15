@@ -6,12 +6,12 @@
 
 * [Q109061](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q109061.md)
 
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Residential Characteristics](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_110.md)
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
 * [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Residential Characteristics](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_110.md)
 

@@ -10,10 +10,10 @@ Developing mobile apps that provide real-time information on public transportati
 
 * [Responsible Transport: A post-COVID agenda for transport policy and practice](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_148.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
 
 * [mobile app technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3152.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

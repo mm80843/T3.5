@@ -10,11 +10,11 @@ Ensure access to stable and reliable ICT infrastructure
 
 * [Assessment method for new sustainability indicators providing pandemic resilience for residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_51.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [ICT service disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3354.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [reliable and constant ict connection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4263.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [ICT service disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3354.md)
 

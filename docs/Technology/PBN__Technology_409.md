@@ -2,11 +2,11 @@
 
 # __parental supervision__
 
-## Risks linked to this technology
-
-* [Lack of physical activity in children and adolescents during quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1279.md)
-
 ## This Technology is identified by the following QID
 
 * [Q7136788](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7136788.md)
+
+## Risks linked to this technology
+
+* [Lack of physical activity in children and adolescents during quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1279.md)
 

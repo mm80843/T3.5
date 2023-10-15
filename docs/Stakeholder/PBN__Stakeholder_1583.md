@@ -6,15 +6,15 @@
 
 * [Q2069949](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2069949.md)
 
-## Risk affecting this stakeholder
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Urban Density and Crowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2378.md)
+* [Residents](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_72.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Community Stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_8.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## Risk affecting this stakeholder
 
-* [Residents](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_72.md)
+* [Urban Density and Crowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2378.md)
 

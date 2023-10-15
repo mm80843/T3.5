@@ -2,29 +2,9 @@
 
 # __data analytics__
 
-## Risks linked to this technology
-
-* [Spread of contagious epidemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_936.md)
-* [Lack of effective surveillance and tracking](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1710.md)
-* [Exposure to foreign shocks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1838.md)
-* [Propagation of shocks in GVCs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1839.md)
-* [Superior performance of actively managed funds](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1979.md)
-* [Inconsistent measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2001.md)
-* [Incomplete macroscopic models](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2003.md)
-* [Fragmented governance and lack of cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2063.md)
-
-## This Technology is identified by the following QID
-
-* [Q485396](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q485396.md)
-
 ## This Technology belongs to this TechGroup
 
 * [AI tools](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_0.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Data Analytics and Modeling](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_2.md)
-* [Supply Chain and Risk Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_9.md)
 
 ## This Technology enables the following mitigations
 
@@ -44,4 +24,24 @@
 * [Predictive Forecasting of Virus Spread](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1937.md)
 * [Plsmax technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2173.md)
 * [Screening techniques for patient severity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2353.md)
+
+## Risks linked to this technology
+
+* [Spread of contagious epidemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_936.md)
+* [Lack of effective surveillance and tracking](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1710.md)
+* [Exposure to foreign shocks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1838.md)
+* [Propagation of shocks in GVCs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1839.md)
+* [Superior performance of actively managed funds](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1979.md)
+* [Inconsistent measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2001.md)
+* [Incomplete macroscopic models](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2003.md)
+* [Fragmented governance and lack of cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2063.md)
+
+## This Technology is identified by the following QID
+
+* [Q485396](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q485396.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Data Analytics and Modeling](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_2.md)
+* [Supply Chain and Risk Management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_9.md)
 

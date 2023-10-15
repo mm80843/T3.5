@@ -2,11 +2,11 @@
 
 # __maintenance equipment__
 
-## Risks linked to this technology
-
-* [Building health issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1095.md)
-
 ## This Technology is identified by the following QID
 
 * [Q1043452](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1043452.md)
+
+## Risks linked to this technology
+
+* [Building health issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1095.md)
 

@@ -10,11 +10,11 @@ Identifying and isolating potentially infected individuals to prevent transmissi
 
 * [Identifying Actions to Control and Mitigate the Effects of the COVID-19 Pandemic on Construction Organizations: Preliminary Findings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_220.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Worker infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3212.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [body temperature scanners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4007.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Worker infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3212.md)
 

@@ -2,11 +2,11 @@
 
 # __precision agriculture technologies__
 
-## Risks linked to this technology
-
-* [Food insecurity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1876.md)
-
 ## This Technology is identified by the following QID
 
 * [Q4057127](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4057127.md)
+
+## Risks linked to this technology
+
+* [Food insecurity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1876.md)
 

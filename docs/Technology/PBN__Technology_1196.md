@@ -2,11 +2,11 @@
 
 # __use of drainage design and maintenance techniques__
 
-## Risks linked to this technology
-
-* [Poor drainage and management of water systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1835.md)
-
 ## This Technology is identified by the following QID
 
 * [Q7481320](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7481320.md)
+
+## Risks linked to this technology
+
+* [Poor drainage and management of water systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1835.md)
 

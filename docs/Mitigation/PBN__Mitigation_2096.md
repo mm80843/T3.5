@@ -10,12 +10,12 @@ Promoting local investment and leadership empowers local communities, enhances t
 
 * [Envisioning a resilient future for biodiversity conservation in the wake of the COVID‐19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_221.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Insufficient local engagement and authority in conservation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3344.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [community engagement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_51.md)
 * [local funding sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4226.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Insufficient local engagement and authority in conservation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3344.md)
 

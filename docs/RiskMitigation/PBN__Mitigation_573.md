@@ -10,12 +10,12 @@ Improve data sharing flows, adherence to data standards, facilitate data access
 
 * [Data capture and sharing in the COVID-19 pandemic: a cause for concern](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_208.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Resource requirements, sociopolitical barriers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2636.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [international registries](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3323.md)
 * [fair principles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3324.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Resource requirements, sociopolitical barriers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2636.md)
 

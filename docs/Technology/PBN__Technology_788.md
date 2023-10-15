@@ -2,12 +2,12 @@
 
 # __self-disinfecting surfaces__
 
+## This Technology is identified by the following QID
+
+* [Q24887418](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q24887418.md)
+
 ## Risks linked to this technology
 
 * [Recontamination of surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_865.md)
 * [Contamination of fomites](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1509.md)
-
-## This Technology is identified by the following QID
-
-* [Q24887418](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q24887418.md)
 

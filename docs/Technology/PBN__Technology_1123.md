@@ -2,11 +2,11 @@
 
 # __research and data collection methods__
 
-## Risks linked to this technology
-
-* [Lack of historical data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1750.md)
-
 ## This Technology is identified by the following QID
 
 * [Q4929239](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4929239.md)
+
+## Risks linked to this technology
+
+* [Lack of historical data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1750.md)
 

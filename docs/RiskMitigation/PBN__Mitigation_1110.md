@@ -10,11 +10,11 @@ Using negative air machines with high air flow and High Efficiency Particulate A
 
 * [Rapid expansion of temporary, reliable airborne-infection isolation rooms with negative air machines for critical COVID-19 patients](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_77.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Spread of pathogens or dust through the exhaust ducts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2929.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [negative air machines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3660.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Spread of pathogens or dust through the exhaust ducts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2929.md)
 

@@ -2,11 +2,11 @@
 
 # __maintenance and landscaping equipment__
 
-## Risks linked to this technology
-
-* [Inadequate maintenance of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1545.md)
-
 ## This Technology is identified by the following QID
 
 * [Q1494647](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1494647.md)
+
+## Risks linked to this technology
+
+* [Inadequate maintenance of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1545.md)
 

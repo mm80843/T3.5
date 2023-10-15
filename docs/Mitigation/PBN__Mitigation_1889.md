@@ -10,12 +10,12 @@ Blockchain-powered UAVs and robots can automate surveillance and contactless del
 
 * [Blockchain technology and its applications to combat COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_219.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
 
 * [blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_211.md)
 * [robots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3001.md)
 * [uavs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4124.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

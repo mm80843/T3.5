@@ -2,11 +2,11 @@
 
 # __capacity limits__
 
-## Risks linked to this technology
-
-* [Impact of lockdowns on access to green areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2247.md)
-
 ## This Technology is identified by the following QID
 
 * [Q584804](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q584804.md)
+
+## Risks linked to this technology
+
+* [Impact of lockdowns on access to green areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2247.md)
 

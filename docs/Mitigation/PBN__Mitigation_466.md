@@ -10,10 +10,10 @@ Conduct temperature checks to identify individuals with elevated body temperatur
 
 * [COVID-19 Pandemic: Prevention and Protection Measures to Be Adopted at the Workplace](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_284.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
 
 * [infrared thermometers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3246.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

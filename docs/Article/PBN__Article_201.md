@@ -2,9 +2,13 @@
 
 # __COVID19-Routes: A Safe Pedestrian Navigation Service__
 
-## Summary of the article
+## Short summary of the article
 
-COVID19-routes is a safe navigation service for pedestrians in cities that helps people avoid areas where they could get sick with COVID-19. It uses a danger model to identify risky areas in the city and a map of the city to find safe routes. The danger model is based on factors like the number of people in an area, how vulnerable they are to the virus, and how likely they are to spread it. The service provides routes that minimize the risk of contagion by avoiding dangerous areas. It has been tested and found to provide safer routes than other navigation systems.
+This study presents a safe navigation service for pedestrians in cities called COVID19-routes. The service aims to minimize the risk of COVID-19 infection by identifying and avoiding areas of the city that are considered dangerous. The service uses two models: an occupation model that represents the mobility patterns of citizens and a danger model that identifies potentially risky areas based on the occupation model and knowledge about the city's functioning. The models are integrated into a graph-based representation of the city's physical environment. The service provides routes that minimize the risk of contagion by avoiding dangerous areas. The performance of the service is evaluated by comparing the routes obtained by the service with routes provided by human respondents through surveys. The results show a significant improvement in reducing exposure to the virus compared to traditional navigation systems. The proposed system can also be used for other purposes such as finding safe routes at night or avoiding sunny areas in summer.
+
+## Year of publication
+
+2021
 
 ## Title of the article
 
@@ -17,6 +21,19 @@ COVID19-Routes: A Safe Pedestrian Navigation Service
 * [Occupancy density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1237.md)
 * [Inefficient navigation routes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1238.md)
 * [Inadequate public infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1239.md)
+
+## DOI of the article
+
+10.1109/ACCESS.2021.3092970
+
+## Benefits listed in this article
+
+* [Reduction of exposure](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_977.md)
+* [Asset value](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_978.md)
+* [Social and economic](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_980.md)
+* [improvement](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_979.md)
+* [recovery](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_981.md)
+* [Disease control](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_982.md)
 
 ## This article points to following mitigation
 
@@ -40,26 +57,9 @@ COVID19-Routes: A Safe Pedestrian Navigation Service
 * [Safe Pedestrian Navigation Service](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_353.md)
 * [Field Hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_362.md)
 
-## Benefits listed in this article
+## Summary of the article
 
-* [Reduction of exposure](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_977.md)
-* [Asset value](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_978.md)
-* [Social and economic](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_980.md)
-* [improvement](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_979.md)
-* [recovery](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_981.md)
-* [Disease control](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_982.md)
-
-## Short summary of the article
-
-This study presents a safe navigation service for pedestrians in cities called COVID19-routes. The service aims to minimize the risk of COVID-19 infection by identifying and avoiding areas of the city that are considered dangerous. The service uses two models: an occupation model that represents the mobility patterns of citizens and a danger model that identifies potentially risky areas based on the occupation model and knowledge about the city's functioning. The models are integrated into a graph-based representation of the city's physical environment. The service provides routes that minimize the risk of contagion by avoiding dangerous areas. The performance of the service is evaluated by comparing the routes obtained by the service with routes provided by human respondents through surveys. The results show a significant improvement in reducing exposure to the virus compared to traditional navigation systems. The proposed system can also be used for other purposes such as finding safe routes at night or avoiding sunny areas in summer.
-
-## DOI of the article
-
-10.1109/ACCESS.2021.3092970
-
-## Year of publication
-
-2021
+COVID19-routes is a safe navigation service for pedestrians in cities that helps people avoid areas where they could get sick with COVID-19. It uses a danger model to identify risky areas in the city and a map of the city to find safe routes. The danger model is based on factors like the number of people in an area, how vulnerable they are to the virus, and how likely they are to spread it. The service provides routes that minimize the risk of contagion by avoiding dangerous areas. It has been tested and found to provide safer routes than other navigation systems.
 
 ## Referenced by other articles
 

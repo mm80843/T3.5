@@ -10,10 +10,10 @@ Establish better communication channels to provide clear updates and educate bus
 
 * [Covid-19 Associated Risks and Mitigation Strategies relevant for the UK Construction Industry](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_210.md)
 
+## This Mitigation is enabled by the following technologies
+
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Lack of information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2599.md)
-
-## This Mitigation is enabled by the following technologies
-
 

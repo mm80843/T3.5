@@ -2,9 +2,21 @@
 
 # __Increase in disease__
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+* [Implementation of strict](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2972.md)
+
+## People affected by this risk
+
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+
+## Name of the risk
+
+Increased transmission and
+
+## Description of the risk
+
+Increase in the spread of contagious
 
 ## Property: has_RiskType
 
@@ -15,39 +27,27 @@
 * [governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
 * [healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_192.md)
 
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
 ## Property: has_RiskHealth
 
 * [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Description of the risk
-
-Increase in the spread of contagious
-
-## Articles mentionning the risk
-
-* [Urban nature in a time of crisis: recreational use of green space increases during the COVID-19 outbreak in Oslo, Norway](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_256.md)
-
-## Technologies linked to the risk
-
-* [suitable treatment and](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1865.md)
-
-## People affected by this risk
-
-* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_4.md)
 
-## Mitigations of this risk
+## Articles mentionning the risk
 
-* [Implementation of strict](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2972.md)
+* [Urban nature in a time of crisis: recreational use of green space increases during the COVID-19 outbreak in Oslo, Norway](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_256.md)
 
 ## Property: has_RiskGBN
 
 * [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Name of the risk
+## Technologies linked to the risk
 
-Increased transmission and
+* [suitable treatment and](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1865.md)
 

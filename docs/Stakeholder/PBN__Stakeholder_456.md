@@ -10,14 +10,14 @@
 
 * [Reduced risk of infection through contact](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1173.md)
 
-## Risk affecting this stakeholder
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Risk of infection through face-to-face contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_849.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## Risk affecting this stakeholder
 
+* [Risk of infection through face-to-face contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_849.md)
 

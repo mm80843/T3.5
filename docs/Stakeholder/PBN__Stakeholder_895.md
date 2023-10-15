@@ -6,15 +6,15 @@
 
 * [Q582577](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q582577.md)
 
-## Risks that can be mitigated by this stakeholder
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Negative impact of interventions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1389.md)
+* [Economic and Trade Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_122.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [National Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_7.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## Risks that can be mitigated by this stakeholder
 
-* [Economic and Trade Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_122.md)
+* [Negative impact of interventions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1389.md)
 

@@ -2,11 +2,11 @@
 
 # __mobile phone call data records__
 
-## Risks linked to this technology
-
-* [Limited data on human movement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2164.md)
-
 ## This Technology is identified by the following QID
 
 * [Q17517](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q17517.md)
+
+## Risks linked to this technology
+
+* [Limited data on human movement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2164.md)
 

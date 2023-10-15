@@ -2,14 +2,14 @@
 
 # __MEC__
 
+## This Technology belongs to this TechGroup
+
+* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
+
 ## This Technology is identified by the following QID
 
 * [Q1444671](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1444671.md)
 * [Q6805332](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6805332.md)
-
-## This Technology belongs to this TechGroup
-
-* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
 
 ## This Technology belongs to this TechSubgroup
 

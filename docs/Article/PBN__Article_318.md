@@ -2,6 +2,10 @@
 
 # __The COVID-19 pandemic: Impacts on cities and major lessons for urban planning, design, and management__
 
+## Year of publication
+
+2020
+
 ## Title of the article
 
 The COVID-19 pandemic: Impacts on cities and major lessons for urban planning, design, and management
@@ -9,10 +13,6 @@ The COVID-19 pandemic: Impacts on cities and major lessons for urban planning, d
 ## DOI of the article
 
 10.1016/j.scitotenv.2020.142391
-
-## Year of publication
-
-2020
 
 ## Referenced by other articles
 

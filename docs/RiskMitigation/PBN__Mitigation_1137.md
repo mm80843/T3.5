@@ -10,12 +10,12 @@ Provide accurate and timely information to the public to promote understanding a
 
 * [Seeing the invisible hand: Underlying effects of COVID-19 on tourists’ behavioral patterns](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_25.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Misinformation, panic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2936.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [public awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_102.md)
 * [media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3640.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Misinformation, panic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2936.md)
 

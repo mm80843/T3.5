@@ -2,9 +2,23 @@
 
 # __Lack of awareness and knowledge about green roofs__
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
+* [Increase public awareness and knowledge about the benefits and implementation of green roofs through education and outreach programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2246.md)
+
+## People affected by this risk
+
+* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
+* [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
+* [developers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_637.md)
+
+## Name of the risk
+
+Low adoption of green roofs in urban areas
+
+## Description of the risk
+
+Limited awareness and knowledge about the benefits and implementation of green roofs
 
 ## Property: has_RiskType
 
@@ -17,41 +31,27 @@
 * [municipalities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_493.md)
 * [non-profit organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_804.md)
 
+## Property: has_RiskISO_Purpose
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
+
 ## Property: has_RiskHealth
 
-
-## Description of the risk
-
-Limited awareness and knowledge about the benefits and implementation of green roofs
-
-## Articles mentionning the risk
-
-* [The role of green roofs in post COVID-19 confinement: An analysis of willingness to pay](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_262.md)
-
-## Technologies linked to the risk
-
-* [educational materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_495.md)
-* [information campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_437.md)
-
-## People affected by this risk
-
-* [general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
-* [building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
-* [developers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_637.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Education and capacity building](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_7.md)
 
-## Mitigations of this risk
+## Articles mentionning the risk
 
-* [Increase public awareness and knowledge about the benefits and implementation of green roofs through education and outreach programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2246.md)
+* [The role of green roofs in post COVID-19 confinement: An analysis of willingness to pay](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_262.md)
 
 ## Property: has_RiskGBN
 
 * [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
-## Name of the risk
+## Technologies linked to the risk
 
-Low adoption of green roofs in urban areas
+* [educational materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_495.md)
+* [information campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_437.md)
 

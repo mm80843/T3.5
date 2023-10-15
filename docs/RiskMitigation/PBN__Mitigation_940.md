@@ -10,10 +10,10 @@ Isolating infected individuals in rooms with negative air pressure to prevent th
 
 * [COVID-19 and its Modes of Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_225.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
 
 * [negative pressure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1746.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

@@ -2,11 +2,11 @@
 
 # __temperature screening devices__
 
-## Risks linked to this technology
-
-* [Concerns about health and safety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2000.md)
-
 ## This Technology is identified by the following QID
 
 * [Q107194400](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q107194400.md)
+
+## Risks linked to this technology
+
+* [Concerns about health and safety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2000.md)
 

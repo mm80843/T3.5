@@ -6,10 +6,10 @@
 
 * [Q918385](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q918385.md)
 
+## This Stakeholder belongs to this StakeholderSubgroup
+
+
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Education](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_1.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
 

@@ -2,9 +2,22 @@
 
 # __Ineffective NPHIs__
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Education and capacity building](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_19.md)
+* [Evaluate and update NPHIs based on scientific evidence, implement a combination of interventions, ensure compliance with guidelines](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2030.md)
+
+## People affected by this risk
+
+* [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
+* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+
+## Name of the risk
+
+Continued spread of the virus, increased burden on healthcare system, higher mortality rates
+
+## Description of the risk
+
+Non-pharmaceutical public health interventions that are not effective in reducing the transmission of COVID-19
 
 ## Property: has_RiskType
 
@@ -17,41 +30,28 @@
 * [public health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_0.md)
 * [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
 
+## Property: has_RiskISO_Purpose
+
+* [Education and capacity building](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_19.md)
+
 ## Property: has_RiskHealth
 
 * [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Description of the risk
-
-Non-pharmaceutical public health interventions that are not effective in reducing the transmission of COVID-19
-
-## Articles mentionning the risk
-
-* [Effectiveness of non-pharmaceutical public health interventions against COVID-19: A systematic review and meta-analysis](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_19.md)
-
-## Technologies linked to the risk
-
-* [public awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_102.md)
-* [behavioral change interventions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_780.md)
-
-## People affected by this risk
-
-* [healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
-* [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Innovation, Creativity and research](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_2.md)
 
-## Mitigations of this risk
+## Articles mentionning the risk
 
-* [Evaluate and update NPHIs based on scientific evidence, implement a combination of interventions, ensure compliance with guidelines](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2030.md)
+* [Effectiveness of non-pharmaceutical public health interventions against COVID-19: A systematic review and meta-analysis](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_19.md)
 
 ## Property: has_RiskGBN
 
 * [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
-## Name of the risk
+## Technologies linked to the risk
 
-Continued spread of the virus, increased burden on healthcare system, higher mortality rates
+* [public awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_102.md)
+* [behavioral change interventions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_780.md)
 

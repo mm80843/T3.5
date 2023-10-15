@@ -2,17 +2,15 @@
 
 # __Improved mental and physical health__
 
-## Articles mentionning this Benefit
-
-* [Biophilic Design to Enhance Residence Comfort in Covid Era](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_179.md)
-* [The role of green roofs in post COVID-19 confinement: An analysis of willingness to pay](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_262.md)
-* [How our homes impact our health: using a COVID-19 informed approach to examine urban apartment housing](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_279.md)
-
 ## Stakeholders benefitting from this Benefit
 
 * [occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
 * [urban residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_209.md)
 * [apartment residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_356.md)
+
+## Name of the Benefit
+
+Designing balconies and outdoor spaces that provide views of nature, support physical distancing, and promote biophilia can reduce stress, enhance mood, and improve overall well-being.
 
 ## Description of Benefits pertaining to Beneficiaries
 
@@ -20,7 +18,9 @@
 * [Private investors in green roofs can attract urban residents seeking improved well-being and health, increasing the value of their properties.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1405.md)
 * [Improved mental and physical health can lead to increased resident satisfaction, productivity, and reduced healthcare costs.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1489.md)
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Designing balconies and outdoor spaces that provide views of nature, support physical distancing, and promote biophilia can reduce stress, enhance mood, and improve overall well-being.
+* [Biophilic Design to Enhance Residence Comfort in Covid Era](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_179.md)
+* [The role of green roofs in post COVID-19 confinement: An analysis of willingness to pay](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_262.md)
+* [How our homes impact our health: using a COVID-19 informed approach to examine urban apartment housing](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_279.md)
 

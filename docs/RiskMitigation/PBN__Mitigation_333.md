@@ -10,10 +10,10 @@ Detects the presence of airborne viruses to provide early warning and protection
 
 * [Wearable technology and COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_195.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
 
 * [smart facemask technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3167.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

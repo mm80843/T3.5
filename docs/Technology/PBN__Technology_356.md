@@ -2,11 +2,11 @@
 
 # __electric vehicles__
 
-## Risks linked to this technology
-
-* [Decreased carbon emissions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1254.md)
-
 ## This Technology enables the following mitigations
 
 * [Green transportation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1099.md)
+
+## Risks linked to this technology
+
+* [Decreased carbon emissions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1254.md)
 

@@ -2,11 +2,11 @@
 
 # __digital control systems__
 
-## Risks linked to this technology
-
-* [Workplace safety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1920.md)
-
 ## This Technology is identified by the following QID
 
 * [Q6501221](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6501221.md)
+
+## Risks linked to this technology
+
+* [Workplace safety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1920.md)
 

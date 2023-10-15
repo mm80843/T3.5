@@ -10,10 +10,10 @@ Decreases pollution levels, improving air quality and reducing the risk of respi
 
 * [Effects of non-pharmaceutical interventions against COVID-19 on the incidence of other diseases](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_30.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
 
 * [pollution control measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3832.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

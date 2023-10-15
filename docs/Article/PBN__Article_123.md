@@ -2,9 +2,13 @@
 
 # __Contextualizing the Covid-19 pandemic for a carbon-constrained world: Insights for sustainability transitions, energy justice, and research methodology__
 
-## Summary of the article
+## Short summary of the article
 
-The Covid-19 pandemic has greatly affected the world. It has caused a lot of sickness and death, and it has also affected the economy and how people live their lives. One of the ways it has affected energy supply and demand is through lockdowns and travel restrictions. Because people have to stay at home, there is less need for energy like electricity and gas. This has also affected renewable energy, like solar power, because there is less money and support for it. The pandemic is also affecting fossil fuels like oil and gas, with prices going down and demand decreasing. The pandemic is also making it harder for some people to get access to energy and is worsening inequalities. Overall, the pandemic is changing the way we use energy and the effects can be both positive and negative.
+This research abstract summarizes a Special Section of Energy Research & Social Science that explores the connections between Covid-19 and energy and climate policy. The pandemic has had significant impacts on energy supply and demand, energy governance, and future low-carbon transitions. Key findings include the reduction in energy consumption and greenhouse gas emissions due to lockdown measures and travel restrictions, as well as the disruption to renewable energy sectors and global fossil fuel markets. The pandemic has also exacerbated energy poverty and vulnerability, particularly for marginalized groups, and has implications for energy justice and the just transition. Furthermore, the pandemic has influenced social practices and sustainability transitions, potentially accelerating or hindering progress towards sustainability goals. The pandemic has also raised important considerations for research practice and methodology, highlighting the need to adapt to the changing context and develop new ways of conducting research. Overall, the pandemic presents both risks and opportunities for energy and climate policy, and careful governance is required to ensure that sustainability is prioritized in the recovery process.
+
+## Year of publication
+
+2020
 
 ## Title of the article
 
@@ -18,6 +22,18 @@ Contextualizing the Covid-19 pandemic for a carbon-constrained world: Insights f
 * [High infection-to-fatality ratio, particularly for vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2111.md)
 * [Disruption of energy supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2112.md)
 * [Negative impact on renewable energy sector](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2113.md)
+
+## DOI of the article
+
+10.1016/j.erss.2020.101701
+
+## Benefits listed in this article
+
+* [Reduced energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_246.md)
+* [Enhanced energy infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_623.md)
+* [Energy affordability and security](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_624.md)
+* [Accelerated sustainability transitions](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_625.md)
+* [Job creation and economic recovery](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_626.md)
 
 ## This article points to following mitigation
 
@@ -48,25 +64,9 @@ Contextualizing the Covid-19 pandemic for a carbon-constrained world: Insights f
 * [Investment of economic stimulus funds in low-carbon technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1993.md)
 * [Green New Deals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1994.md)
 
-## Benefits listed in this article
+## Summary of the article
 
-* [Reduced energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_246.md)
-* [Enhanced energy infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_623.md)
-* [Energy affordability and security](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_624.md)
-* [Accelerated sustainability transitions](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_625.md)
-* [Job creation and economic recovery](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_626.md)
-
-## Short summary of the article
-
-This research abstract summarizes a Special Section of Energy Research & Social Science that explores the connections between Covid-19 and energy and climate policy. The pandemic has had significant impacts on energy supply and demand, energy governance, and future low-carbon transitions. Key findings include the reduction in energy consumption and greenhouse gas emissions due to lockdown measures and travel restrictions, as well as the disruption to renewable energy sectors and global fossil fuel markets. The pandemic has also exacerbated energy poverty and vulnerability, particularly for marginalized groups, and has implications for energy justice and the just transition. Furthermore, the pandemic has influenced social practices and sustainability transitions, potentially accelerating or hindering progress towards sustainability goals. The pandemic has also raised important considerations for research practice and methodology, highlighting the need to adapt to the changing context and develop new ways of conducting research. Overall, the pandemic presents both risks and opportunities for energy and climate policy, and careful governance is required to ensure that sustainability is prioritized in the recovery process.
-
-## DOI of the article
-
-10.1016/j.erss.2020.101701
-
-## Year of publication
-
-2020
+The Covid-19 pandemic has greatly affected the world. It has caused a lot of sickness and death, and it has also affected the economy and how people live their lives. One of the ways it has affected energy supply and demand is through lockdowns and travel restrictions. Because people have to stay at home, there is less need for energy like electricity and gas. This has also affected renewable energy, like solar power, because there is less money and support for it. The pandemic is also affecting fossil fuels like oil and gas, with prices going down and demand decreasing. The pandemic is also making it harder for some people to get access to energy and is worsening inequalities. Overall, the pandemic is changing the way we use energy and the effects can be both positive and negative.
 
 ## Referenced by other articles
 

@@ -2,10 +2,6 @@
 
 # __maintenance protocols__
 
-## Risks linked to this technology
-
-* [Microbial pollution from botanical filters](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2307.md)
-
 ## This Technology is identified by the following QID
 
 * [Q1043452](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1043452.md)
@@ -13,4 +9,8 @@
 ## This Technology enables the following mitigations
 
 * [Regular Cleaning and Maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1784.md)
+
+## Risks linked to this technology
+
+* [Microbial pollution from botanical filters](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2307.md)
 

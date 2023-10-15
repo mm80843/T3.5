@@ -6,15 +6,15 @@
 
 * [Q4791903](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4791903.md)
 
-## Risk affecting this stakeholder
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Globalization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2075.md)
+* [Travellers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_145.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## Risk affecting this stakeholder
 
-* [Travellers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_145.md)
+* [Globalization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2075.md)
 

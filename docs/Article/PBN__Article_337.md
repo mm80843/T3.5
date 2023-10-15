@@ -2,6 +2,10 @@
 
 # __Using a population-based Kalman estimator to model the COVID-19 epidemic in France: estimating associations between disease transmission and non-pharmaceutical interventions__
 
+## Year of publication
+
+2021
+
 ## Title of the article
 
 Using a population-based Kalman estimator to model the COVID-19 epidemic in France: estimating associations between disease transmission and non-pharmaceutical interventions
@@ -9,10 +13,6 @@ Using a population-based Kalman estimator to model the COVID-19 epidemic in Fran
 ## DOI of the article
 
 10.1101/2021.07.09.21260259
-
-## Year of publication
-
-2021
 
 ## Referenced by other articles
 

@@ -2,11 +2,11 @@
 
 # __transparent communication channels__
 
-## Risks linked to this technology
-
-* [Decreased trust in official sources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1572.md)
-
 ## This Technology is identified by the following QID
 
 * [Q733553](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q733553.md)
+
+## Risks linked to this technology
+
+* [Decreased trust in official sources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1572.md)
 

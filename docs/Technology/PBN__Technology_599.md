@@ -2,11 +2,11 @@
 
 # __mental health assessments__
 
-## Risks linked to this technology
-
-* [Neglected mental health impacts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1380.md)
-
 ## This Technology is identified by the following QID
 
 * [Q3510807](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3510807.md)
+
+## Risks linked to this technology
+
+* [Neglected mental health impacts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1380.md)
 

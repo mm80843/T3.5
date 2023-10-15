@@ -6,15 +6,15 @@
 
 * [Q192704](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q192704.md)
 
-## Risks that can be mitigated by this stakeholder
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Increased non-HVAC loads during pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1564.md)
-* [Increased HVAC loads during pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1565.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## Risks that can be mitigated by this stakeholder
 
+* [Increased non-HVAC loads during pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1564.md)
+* [Increased HVAC loads during pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1565.md)
 

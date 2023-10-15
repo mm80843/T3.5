@@ -2,6 +2,10 @@
 
 # __mental health resources__
 
+## This Technology belongs to this TechGroup
+
+* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_11.md)
+
 ## Risks linked to this technology
 
 * [Impact on psychological well-being](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1570.md)
@@ -10,10 +14,6 @@
 ## This Technology is identified by the following QID
 
 * [Q67076049](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q67076049.md)
-
-## This Technology belongs to this TechGroup
-
-* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_11.md)
 
 ## This Technology belongs to this TechSubgroup
 

@@ -2,9 +2,22 @@
 
 # __Confusion and Uncertainty__
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+* [Retailers should provide clear and updated information through signage, online channels, and verbal communication.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2288.md)
+
+## People affected by this risk
+
+* [customers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_221.md)
+* [employees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_220.md)
+
+## Name of the risk
+
+Customers may be unsure of how to behave or what services are available, leading to possible non-compliance with social distancing measures.
+
+## Description of the risk
+
+Lack of clear and consistent communication by retailers regarding social distancing behaviors and changes in store operations.
 
 ## Property: has_RiskType
 
@@ -14,17 +27,25 @@
 
 * [retailers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_323.md)
 
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
 ## Property: has_RiskHealth
 
 * [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
 
-## Description of the risk
+## Property: has_RiskISO_Impact
 
-Lack of clear and consistent communication by retailers regarding social distancing behaviors and changes in store operations.
+* [Education and capacity building](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_7.md)
 
 ## Articles mentionning the risk
 
 * [Retail Signage During the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_159.md)
+
+## Property: has_RiskGBN
+
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
 ## Technologies linked to the risk
 
@@ -32,25 +53,4 @@ Lack of clear and consistent communication by retailers regarding social distanc
 * [websites](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1089.md)
 * [apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1090.md)
 * [social media platforms can be used to provide accurate and timely information to customers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1091.md)
-
-## People affected by this risk
-
-* [customers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_221.md)
-* [employees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_220.md)
-
-## Property: has_RiskISO_Impact
-
-* [Education and capacity building](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_7.md)
-
-## Mitigations of this risk
-
-* [Retailers should provide clear and updated information through signage, online channels, and verbal communication.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2288.md)
-
-## Property: has_RiskGBN
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
-
-## Name of the risk
-
-Customers may be unsure of how to behave or what services are available, leading to possible non-compliance with social distancing measures.
 

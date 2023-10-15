@@ -2,6 +2,10 @@
 
 # __improved peer-review processes__
 
+## This Technology belongs to this TechGroup
+
+* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_15.md)
+
 ## Risks linked to this technology
 
 * [Peer-review failures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2332.md)
@@ -9,10 +13,6 @@
 ## This Technology is identified by the following QID
 
 * [Q7096397](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7096397.md)
-
-## This Technology belongs to this TechGroup
-
-* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_15.md)
 
 ## This Technology belongs to this TechSubgroup
 

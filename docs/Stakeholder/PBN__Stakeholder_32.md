@@ -42,6 +42,14 @@
 * [Early detection of carriers](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1400.md)
 * [Early detection and personalized treatment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1404.md)
 
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Healthcare Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_45.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
+
 ## Risk affecting this stakeholder
 
 * [Suboptimal data science literacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_813.md)
@@ -86,12 +94,4 @@
 * [Inadequate TB infection control measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1363.md)
 * [Aspecific and uncontrolled fears related to infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2054.md)
 * [Misdiagnosis and equipment malfunction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2345.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_4.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Healthcare Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_45.md)
 

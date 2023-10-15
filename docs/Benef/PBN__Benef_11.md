@@ -2,12 +2,6 @@
 
 # __Improved mental health outcomes__
 
-## Articles mentionning this Benefit
-
-* [Dangerous liaisons? Applying the social harm perspective to the social inequality, housing and health trifecta during the Covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_2.md)
-* [Psychological Effects of Home Confinement and Social Distancing Derived from COVID-19 in the General Population—A Systematic Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_126.md)
-* [Mental Health and the Covid-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_167.md)
-
 ## Stakeholders benefitting from this Benefit
 
 * [individuals with mental health issues](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_8.md)
@@ -15,13 +9,19 @@
 * [particularly those with low income or low education](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_267.md)
 * [individuals and communities affected by pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_341.md)
 
+## Name of the Benefit
+
+Access to psychosocial services through telemedicine
+
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Improved quality of life and overall well-being](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_11.md)
 * [Private investors would indirectly benefit from improved mental health outcomes, as it contributes to a more stable and productive workforce.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_684.md)
 * [Enhanced coping skills and reduced distress, leading to improved compliance with public health directives and better overall health outcomes](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_903.md)
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Access to psychosocial services through telemedicine
+* [Dangerous liaisons? Applying the social harm perspective to the social inequality, housing and health trifecta during the Covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_2.md)
+* [Psychological Effects of Home Confinement and Social Distancing Derived from COVID-19 in the General Population—A Systematic Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_126.md)
+* [Mental Health and the Covid-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_167.md)
 

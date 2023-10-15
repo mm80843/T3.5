@@ -10,11 +10,11 @@ Improve waste management practices to reduce disease transmission
 
 * [Global policy challenges for urban vector-borne disease risks](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_132.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Poor waste management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2434.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [waste management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2962.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Poor waste management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2434.md)
 

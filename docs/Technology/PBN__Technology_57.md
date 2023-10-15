@@ -2,11 +2,11 @@
 
 # __kgx__
 
-## Risks linked to this technology
-
-* [Limited automation and tool support for ontology models and applications for COVID-19 analytics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1047.md)
-
 ## This Technology is identified by the following QID
 
 * [Q3914146](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3914146.md)
+
+## Risks linked to this technology
+
+* [Limited automation and tool support for ontology models and applications for COVID-19 analytics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1047.md)
 

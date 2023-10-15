@@ -2,11 +2,11 @@
 
 # __bird deterrent devices__
 
-## Risks linked to this technology
-
-* [Increased annoyance from bird noise during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1634.md)
-
 ## This Technology is identified by the following QID
 
 * [Q685629](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q685629.md)
+
+## Risks linked to this technology
+
+* [Increased annoyance from bird noise during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1634.md)
 

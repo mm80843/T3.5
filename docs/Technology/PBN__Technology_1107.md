@@ -2,11 +2,11 @@
 
 # __architectural design and building technologies__
 
-## Risks linked to this technology
-
-* [Inadequate housing layout](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1737.md)
-
 ## This Technology is identified by the following QID
 
 * [Q4787070](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4787070.md)
+
+## Risks linked to this technology
+
+* [Inadequate housing layout](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1737.md)
 

@@ -2,11 +2,11 @@
 
 # __strengthen border control__
 
-## Risks linked to this technology
-
-* [Expanding urbanization and international travel](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2007.md)
-
 ## This Technology is identified by the following QID
 
 * [Q218719](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q218719.md)
+
+## Risks linked to this technology
+
+* [Expanding urbanization and international travel](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2007.md)
 

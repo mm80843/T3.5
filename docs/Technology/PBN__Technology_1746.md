@@ -2,10 +2,6 @@
 
 # __negative pressure__
 
-## Risks linked to this technology
-
-* [AQ3](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2202.md)
-
 ## This Technology is identified by the following QID
 
 * [Q331466](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q331466.md)
@@ -14,4 +10,8 @@
 
 * [Control the airflows in micro spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2131.md)
 * [Negative pressure isolation rooms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_940.md)
+
+## Risks linked to this technology
+
+* [AQ3](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2202.md)
 

@@ -10,10 +10,10 @@ Spreads awareness and disseminates reliable information related to COVID-19 in t
 
 * [Mobile Technology Solution for COVID-19: Surveillance and Prevention](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_239.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
 
 * [mobile app](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3748.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

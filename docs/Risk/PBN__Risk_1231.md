@@ -2,9 +2,22 @@
 
 # __Inaccuracy of data__
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
+* [Regular calibration and verification of wearable devices.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1682.md)
+
+## People affected by this risk
+
+* [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
+* [wearable device users](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_641.md)
+
+## Name of the risk
+
+Misdiagnosis, incorrect treatment decisions.
+
+## Description of the risk
+
+Wearables may provide inaccurate or unreliable data, leading to incorrect predictions or false alarms.
 
 ## Property: has_RiskType
 
@@ -15,41 +28,28 @@
 * [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
 * [wearable device manufacturers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_744.md)
 
+## Property: has_RiskISO_Purpose
+
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
+
 ## Property: has_RiskHealth
 
 * [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Description of the risk
-
-Wearables may provide inaccurate or unreliable data, leading to incorrect predictions or false alarms.
-
-## Articles mentionning the risk
-
-* [Wearable technology and COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_195.md)
-
-## Technologies linked to the risk
-
-* [improved sensor technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_315.md)
-* [data validation algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_316.md)
-
-## People affected by this risk
-
-* [healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
-* [wearable device users](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_641.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Innovation, Creativity and research](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_2.md)
 
-## Mitigations of this risk
+## Articles mentionning the risk
 
-* [Regular calibration and verification of wearable devices.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1682.md)
+* [Wearable technology and COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_195.md)
 
 ## Property: has_RiskGBN
 
 * [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Name of the risk
+## Technologies linked to the risk
 
-Misdiagnosis, incorrect treatment decisions.
+* [improved sensor technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_315.md)
+* [data validation algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_316.md)
 

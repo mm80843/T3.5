@@ -10,12 +10,12 @@ KT platforms can facilitate coordination and dialogue between stakeholders from 
 
 * [Amplifying the role of knowledge translation platforms in the COVID-19 pandemic response](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_111.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Silos](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2654.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [collaboration platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_155.md)
 * [real-time information exchange](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3345.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Silos](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2654.md)
 

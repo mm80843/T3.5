@@ -2,6 +2,15 @@
 
 # __acoustic panels__
 
+## This Technology belongs to this TechGroup
+
+* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
+* [Building materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_12.md)
+
+## This Technology enables the following mitigations
+
+* [Acoustic Design Planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_184.md)
+
 ## Risks linked to this technology
 
 * [Noise pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_150.md)
@@ -12,16 +21,7 @@
 
 * [Q1417134](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1417134.md)
 
-## This Technology belongs to this TechGroup
-
-* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
-* [Building materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_12.md)
-
 ## This Technology belongs to this TechSubgroup
 
 * [Indoor Environmental Quality](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_79.md)
-
-## This Technology enables the following mitigations
-
-* [Acoustic Design Planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_184.md)
 

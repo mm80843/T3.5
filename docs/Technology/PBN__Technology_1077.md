@@ -2,11 +2,11 @@
 
 # __crowd monitoring technologies__
 
-## Risks linked to this technology
-
-* [Increased risk of COVID-19 transmission in crowded public places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1715.md)
-
 ## This Technology is identified by the following QID
 
 * [Q5189194](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5189194.md)
+
+## Risks linked to this technology
+
+* [Increased risk of COVID-19 transmission in crowded public places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1715.md)
 

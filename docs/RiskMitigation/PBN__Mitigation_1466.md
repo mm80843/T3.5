@@ -10,9 +10,9 @@ Placing trust and confidence in official governmental media sources to ensure th
 
 * [The impacts of knowledge, risk perception, emotion and information on citizens’ protective behaviors during the outbreak of COVID-19: a cross-sectional study in China](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_74.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
+
+
+## Risks possibly mitigated by this Mitigation
 
 

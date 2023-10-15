@@ -2,11 +2,11 @@
 
 # __ethical guidelines__
 
-## Risks linked to this technology
-
-* [Legal and ethical considerations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1988.md)
-
 ## This Technology is identified by the following QID
 
 * [Q98139384](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q98139384.md)
+
+## Risks linked to this technology
+
+* [Legal and ethical considerations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1988.md)
 

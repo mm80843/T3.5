@@ -2,6 +2,10 @@
 
 # __language and academic support programs__
 
+## This Technology belongs to this TechGroup
+
+* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_11.md)
+
 ## Risks linked to this technology
 
 * [Unequal impact on the educational outcomes of children of immigrants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1846.md)
@@ -9,10 +13,6 @@
 ## This Technology is identified by the following QID
 
 * [Q2313213](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2313213.md)
-
-## This Technology belongs to this TechGroup
-
-* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_11.md)
 
 ## This Technology belongs to this TechSubgroup
 

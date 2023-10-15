@@ -2,11 +2,11 @@
 
 # __soundproofing technology__
 
-## Risks linked to this technology
-
-* [Excessive noise levels](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2252.md)
-
 ## This Technology is identified by the following QID
 
 * [Q589260](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q589260.md)
+
+## Risks linked to this technology
+
+* [Excessive noise levels](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2252.md)
 

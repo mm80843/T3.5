@@ -2,6 +2,15 @@
 
 # __automation__
 
+## This Technology belongs to this TechGroup
+
+* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
+
+## This Technology enables the following mitigations
+
+* [Alternative Means for Continuity of Basic Functions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1874.md)
+* [Facility Management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_747.md)
+
 ## Risks linked to this technology
 
 * [Reliance on global supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1995.md)
@@ -11,16 +20,7 @@
 
 * [Q184199](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q184199.md)
 
-## This Technology belongs to this TechGroup
-
-* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
-
 ## This Technology belongs to this TechSubgroup
 
 * [Hardware and Devices](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_117.md)
-
-## This Technology enables the following mitigations
-
-* [Alternative Means for Continuity of Basic Functions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1874.md)
-* [Facility Management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_747.md)
 

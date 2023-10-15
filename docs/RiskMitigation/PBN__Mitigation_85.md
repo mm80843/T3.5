@@ -10,12 +10,12 @@ Utilize existing informal educational systems to continue delivering health and 
 
 * [COVID-19 pandemic and mitigation strategies: implications for maternal and child health and nutrition](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_222.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Interrupted education for children and adults](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_780.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [community support groups](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_75.md)
 * [chws](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2955.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Interrupted education for children and adults](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_780.md)
 

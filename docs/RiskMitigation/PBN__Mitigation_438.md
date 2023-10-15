@@ -10,10 +10,10 @@ Collects and transmits real-time health data, enabling remote monitoring and qui
 
 * [Health Information Exchange with Blockchain amid Covid-19-like Pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_78.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
 
 * [iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_96.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

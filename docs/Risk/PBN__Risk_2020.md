@@ -2,9 +2,21 @@
 
 # __Lack of IAQ monitoring__
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+* [Implement IAQ monitoring systems to continuously measure and analyze indoor air quality parameters.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2643.md)
+
+## People affected by this risk
+
+* [building occupants in buildings without iaq monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1359.md)
+
+## Name of the risk
+
+Increased risk of exposure to high levels of indoor air pollutants without knowledge or ability to take corrective actions.
+
+## Description of the risk
+
+Lack of monitoring systems for indoor air quality leads to a lack of awareness and control over pollutant levels.
 
 ## Property: has_RiskType
 
@@ -16,40 +28,28 @@
 * [facility managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_166.md)
 * [iaq experts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1360.md)
 
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
 ## Property: has_RiskHealth
 
 * [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Description of the risk
-
-Lack of monitoring systems for indoor air quality leads to a lack of awareness and control over pollutant levels.
-
-## Articles mentionning the risk
-
-* [A comprehensive review on indoor air quality monitoring systems for enhanced public health](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_281.md)
-
-## Technologies linked to the risk
-
-* [indoor air quality sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1487.md)
-* [data monitoring and analysis systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1488.md)
-
-## People affected by this risk
-
-* [building occupants in buildings without iaq monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1359.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Education and capacity building](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_7.md)
 
-## Mitigations of this risk
+## Articles mentionning the risk
 
-* [Implement IAQ monitoring systems to continuously measure and analyze indoor air quality parameters.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2643.md)
+* [A comprehensive review on indoor air quality monitoring systems for enhanced public health](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_281.md)
 
 ## Property: has_RiskGBN
 
 * [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
-## Name of the risk
+## Technologies linked to the risk
 
-Increased risk of exposure to high levels of indoor air pollutants without knowledge or ability to take corrective actions.
+* [indoor air quality sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1487.md)
+* [data monitoring and analysis systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1488.md)
 

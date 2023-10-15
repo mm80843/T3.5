@@ -10,15 +10,15 @@
 
 * [Community development](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_45.md)
 
-## Risk affecting this stakeholder
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Lack of community connections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1293.md)
+* [Residents](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_72.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Community Stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_8.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## Risk affecting this stakeholder
 
-* [Residents](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_72.md)
+* [Lack of community connections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1293.md)
 

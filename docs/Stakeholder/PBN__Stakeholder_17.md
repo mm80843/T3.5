@@ -14,17 +14,17 @@
 * [Lower vulnerability to disease](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_698.md)
 * [Reducing environmental contamination](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_699.md)
 
-## Risk affecting this stakeholder
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Zoonotic infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1016.md)
-* [Environmental degradation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1343.md)
-* [Baylisascaris procyonis contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1425.md)
+* [General Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_88.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_9.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## Risk affecting this stakeholder
 
-* [General Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_88.md)
+* [Zoonotic infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1016.md)
+* [Environmental degradation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1343.md)
+* [Baylisascaris procyonis contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1425.md)
 

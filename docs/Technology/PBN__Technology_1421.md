@@ -2,11 +2,11 @@
 
 # __telework__
 
-## Risks linked to this technology
-
-* [Staff sickness and self-isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1982.md)
-
 ## This Technology is identified by the following QID
 
 * [Q1135326](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1135326.md)
+
+## Risks linked to this technology
+
+* [Staff sickness and self-isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1982.md)
 

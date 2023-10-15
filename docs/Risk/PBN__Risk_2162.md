@@ -2,9 +2,22 @@
 
 # __Varying credit guarantee ratios__
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Preservation and improvement of the environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_6.md)
+* [Develop sound credit guarantee schemes with varying guarantee ratios based on banks’ financial profile](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2828.md)
+
+## People affected by this risk
+
+* [financial institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_405.md)
+* [banks](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_528.md)
+
+## Name of the risk
+
+Inefficient allocation of guarantee resources, moral hazard
+
+## Description of the risk
+
+Credit guarantee ratios need to be tailored to the financial soundness of banks
 
 ## Property: has_RiskType
 
@@ -14,39 +27,26 @@
 
 * [governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
 
+## Property: has_RiskISO_Purpose
+
+* [Preservation and improvement of the environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_6.md)
+
 ## Property: has_RiskHealth
 
-
-## Description of the risk
-
-Credit guarantee ratios need to be tailored to the financial soundness of banks
-
-## Articles mentionning the risk
-
-* [COVID-19 and regional solutions for mitigating the risk of SME finance in selected ASEAN member states](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_292.md)
-
-## Technologies linked to the risk
-
-* [risk assessment and credit scoring technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1679.md)
-
-## People affected by this risk
-
-* [financial institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_405.md)
-* [banks](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_528.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Living and working environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_1.md)
 
-## Mitigations of this risk
+## Articles mentionning the risk
 
-* [Develop sound credit guarantee schemes with varying guarantee ratios based on banks’ financial profile](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2828.md)
+* [COVID-19 and regional solutions for mitigating the risk of SME finance in selected ASEAN member states](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_292.md)
 
 ## Property: has_RiskGBN
 
 * [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
 
-## Name of the risk
+## Technologies linked to the risk
 
-Inefficient allocation of guarantee resources, moral hazard
+* [risk assessment and credit scoring technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1679.md)
 

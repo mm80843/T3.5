@@ -2,11 +2,11 @@
 
 # __investigate material science to develop mosquito-resistant alternative building materials__
 
-## Risks linked to this technology
-
-* [Material selection for buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1834.md)
-
 ## This Technology is identified by the following QID
 
 * [Q206615](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q206615.md)
+
+## Risks linked to this technology
+
+* [Material selection for buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1834.md)
 

@@ -10,11 +10,11 @@ Ability to increase or reduce the size of a building
 
 * [Emergency Healthcare Facilities: Managing Design in a Post Covid-19 World](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_122.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Increase or reduce the size of a building](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2962.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [structural foundations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3731.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Increase or reduce the size of a building](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2962.md)
 

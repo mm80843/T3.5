@@ -2,6 +2,10 @@
 
 # __Impacts of COVID-19 on construction project management: a life cycle perspective__
 
+## Year of publication
+
+2022
+
 ## Title of the article
 
 Impacts of COVID-19 on construction project management: a life cycle perspective
@@ -9,10 +13,6 @@ Impacts of COVID-19 on construction project management: a life cycle perspective
 ## DOI of the article
 
 10.1108/ecam-10-2021-0873
-
-## Year of publication
-
-2022
 
 ## Referenced by other articles
 

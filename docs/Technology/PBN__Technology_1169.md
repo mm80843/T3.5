@@ -2,11 +2,11 @@
 
 # __technology for remote learning__
 
-## Risks linked to this technology
-
-* [Disruption in education system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1811.md)
-
 ## This Technology is identified by the following QID
 
 * [Q16473858](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q16473858.md)
+
+## Risks linked to this technology
+
+* [Disruption in education system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1811.md)
 

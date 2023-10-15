@@ -26,6 +26,14 @@
 * [Minimized job losses](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1350.md)
 * [Increased skill levels](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1351.md)
 
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Occupational and Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_27.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
+
 ## Risk affecting this stakeholder
 
 * [Sickness benefit transfers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2043.md)
@@ -88,12 +96,4 @@
 * [Exclusion and vulnerability of migrants and gig workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2266.md)
 * [Decline of employment and investment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2268.md)
 * [High Costs of Compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2276.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Occupational and Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_27.md)
 

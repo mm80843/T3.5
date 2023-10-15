@@ -2,11 +2,11 @@
 
 # __use of soap and hot water for handwashing__
 
-## Risks linked to this technology
-
-* [Lack of environmental precautions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1331.md)
-
 ## This Technology is identified by the following QID
 
 * [Q552461](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q552461.md)
+
+## Risks linked to this technology
+
+* [Lack of environmental precautions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1331.md)
 

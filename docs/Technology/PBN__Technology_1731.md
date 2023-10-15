@@ -2,11 +2,11 @@
 
 # __increase window size__
 
-## Risks linked to this technology
-
-* [PVP5](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2194.md)
-
 ## This Technology is identified by the following QID
 
 * [Q28949265](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q28949265.md)
+
+## Risks linked to this technology
+
+* [PVP5](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2194.md)
 

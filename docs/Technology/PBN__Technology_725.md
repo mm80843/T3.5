@@ -2,11 +2,11 @@
 
 # __green space planning strategies and design guidelines__
 
-## Risks linked to this technology
-
-* [New green space designs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1460.md)
-
 ## This Technology is identified by the following QID
 
 * [Q185035](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q185035.md)
+
+## Risks linked to this technology
+
+* [New green space designs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1460.md)
 

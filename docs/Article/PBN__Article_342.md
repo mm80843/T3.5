@@ -2,6 +2,10 @@
 
 # __Readiness Assessment of Green Building Certification Systems for Residential Buildings during Pandemics__
 
+## Year of publication
+
+2021
+
 ## Title of the article
 
 Readiness Assessment of Green Building Certification Systems for Residential Buildings during Pandemics
@@ -9,10 +13,6 @@ Readiness Assessment of Green Building Certification Systems for Residential Bui
 ## DOI of the article
 
 10.3390/su13020460
-
-## Year of publication
-
-2021
 
 ## Referenced by other articles
 

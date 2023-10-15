@@ -10,11 +10,11 @@ Promoting teleworking and web-based community building can facilitate remote wor
 
 * [COVID-19: Lessons for an Urban(izing) World](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_85.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Teleworking](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2415.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [information and communication technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2912.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Teleworking](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2415.md)
 

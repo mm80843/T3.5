@@ -2,11 +2,11 @@
 
 # __cleaning products and equipment__
 
-## Risks linked to this technology
-
-* [Ineffective cleaning practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2394.md)
-
 ## This Technology is identified by the following QID
 
 * [Q26270576](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q26270576.md)
+
+## Risks linked to this technology
+
+* [Ineffective cleaning practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2394.md)
 

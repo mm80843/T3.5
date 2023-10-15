@@ -2,21 +2,21 @@
 
 # __No pandemic__
 
-## Articles mentionning this Benefit
-
-* [COVID-ABS: An agent-based model of COVID-19 epidemic to simulate health and economic effects of social distancing interventions](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_139.md)
-
 ## Stakeholders benefitting from this Benefit
 
 * [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
 * [government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
 * [economy](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_91.md)
 
+## Name of the Benefit
+
+Normal economic conditions, no infection
+
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Reference scenario for comparison](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_755.md)
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Normal economic conditions, no infection
+* [COVID-ABS: An agent-based model of COVID-19 epidemic to simulate health and economic effects of social distancing interventions](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_139.md)
 

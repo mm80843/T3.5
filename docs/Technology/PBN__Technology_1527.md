@@ -2,11 +2,11 @@
 
 # __smart controls for ventilation and airflow management__
 
-## Risks linked to this technology
-
-* [Inadequate ventilation and airflow management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2047.md)
-
 ## This Technology is identified by the following QID
 
 * [Q5255013](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5255013.md)
+
+## Risks linked to this technology
+
+* [Inadequate ventilation and airflow management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2047.md)
 

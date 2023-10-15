@@ -2,9 +2,13 @@
 
 # __Digital technology and COVID-19__
 
-## Summary of the article
+## Short summary of the article
 
-In 2020, there were supposed to be exciting advancements in medicine and science using digital technologies like the internet of things, big-data analytics, artificial intelligence, and blockchain. These technologies could help us understand diseases, predict outcomes, and keep our healthcare systems running smoothly. But then the COVID-19 pandemic happened, and we had to find new ways to fight it. Traditional methods like quarantine and contact tracing are not enough this time. So, we can use these digital technologies to monitor and track the spread of the virus, analyze data to make better decisions, educate people about the virus, and even develop new treatments. It's like using new tools to help us in a new challenge.
+This research abstract explores the potential application of digital technologies such as the Internet of Things (IoT), big data analytics, artificial intelligence (AI), and blockchain in tackling the COVID-19 pandemic. The IoT provides real-time data collection for monitoring the pandemic, while big data enables modeling studies and assessment of preparedness in different regions. Digital technology also enhances public health education and communication through platforms like WhatsApp and social media. AI algorithms can be used for screening and triaging patients, as well as discovering new drugs. In terms of mitigating the impact of COVID-19, virtual clinics through telemedicine consultations and AI-based triage systems can help maintain clinical services. Blockchain technology can facilitate the timely delivery of medications. This summary highlights the potential for digital technologies to support traditional public health measures and improve the response to the COVID-19 pandemic.
+
+## Year of publication
+
+2020
 
 ## Title of the article
 
@@ -21,6 +25,20 @@ Digital technology and COVID-19
 * [Inefficient medication delivery](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2188.md)
 * [Lack of novel treatment options](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2189.md)
 
+## DOI of the article
+
+10.1038/s41591-020-0824-5
+
+## Benefits listed in this article
+
+* [Real-time data collection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1306.md)
+* [Enhanced preparation for outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1307.md)
+* [Improved public-health education](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1308.md)
+* [Efficient patient triage](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1309.md)
+* [Continuity of clinical care](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1310.md)
+* [Early symptom recognition and referral](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1311.md)
+* [Timely and accurate medication delivery](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1312.md)
+
 ## This article points to following mitigation
 
 * [Virtual clinics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_151.md)
@@ -35,25 +53,7 @@ Digital technology and COVID-19
 * [AI-based triage systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2117.md)
 * [Medication delivery through blockchain](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2118.md)
 
-## Benefits listed in this article
+## Summary of the article
 
-* [Real-time data collection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1306.md)
-* [Enhanced preparation for outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1307.md)
-* [Improved public-health education](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1308.md)
-* [Efficient patient triage](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1309.md)
-* [Continuity of clinical care](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1310.md)
-* [Early symptom recognition and referral](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1311.md)
-* [Timely and accurate medication delivery](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1312.md)
-
-## Short summary of the article
-
-This research abstract explores the potential application of digital technologies such as the Internet of Things (IoT), big data analytics, artificial intelligence (AI), and blockchain in tackling the COVID-19 pandemic. The IoT provides real-time data collection for monitoring the pandemic, while big data enables modeling studies and assessment of preparedness in different regions. Digital technology also enhances public health education and communication through platforms like WhatsApp and social media. AI algorithms can be used for screening and triaging patients, as well as discovering new drugs. In terms of mitigating the impact of COVID-19, virtual clinics through telemedicine consultations and AI-based triage systems can help maintain clinical services. Blockchain technology can facilitate the timely delivery of medications. This summary highlights the potential for digital technologies to support traditional public health measures and improve the response to the COVID-19 pandemic.
-
-## DOI of the article
-
-10.1038/s41591-020-0824-5
-
-## Year of publication
-
-2020
+In 2020, there were supposed to be exciting advancements in medicine and science using digital technologies like the internet of things, big-data analytics, artificial intelligence, and blockchain. These technologies could help us understand diseases, predict outcomes, and keep our healthcare systems running smoothly. But then the COVID-19 pandemic happened, and we had to find new ways to fight it. Traditional methods like quarantine and contact tracing are not enough this time. So, we can use these digital technologies to monitor and track the spread of the virus, analyze data to make better decisions, educate people about the virus, and even develop new treatments. It's like using new tools to help us in a new challenge.
 

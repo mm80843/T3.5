@@ -2,11 +2,11 @@
 
 # __continued technological advancements__
 
-## Risks linked to this technology
-
-* [Technological](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2131.md)
-
 ## This Technology is identified by the following QID
 
 * [Q762702](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q762702.md)
+
+## Risks linked to this technology
+
+* [Technological](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2131.md)
 

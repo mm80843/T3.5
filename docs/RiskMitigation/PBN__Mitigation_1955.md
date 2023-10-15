@@ -10,13 +10,13 @@ Centralized control center for data analysis and management of urban services an
 
 * [The three modes of existence of the pandemic smart city](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_250.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Privacy breach](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3305.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_200.md)
 * [cables](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4164.md)
 * [software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4165.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Privacy breach](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3305.md)
 

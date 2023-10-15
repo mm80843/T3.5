@@ -10,6 +10,14 @@
 
 * [Lower vulnerability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_32.md)
 
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Vulnerable Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_82.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
+
 ## Risk affecting this stakeholder
 
 * [Impact on developing countries](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_450.md)
@@ -19,12 +27,4 @@
 * [Disruption of global supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2265.md)
 * [Effects on gender equality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2267.md)
 * [Fragmentation of employment services and training](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2270.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Vulnerable Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_82.md)
 

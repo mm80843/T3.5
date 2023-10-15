@@ -2,20 +2,20 @@
 
 # __Monitoring vaccine efficacy__
 
-## Articles mentionning this Benefit
-
-* [Wearable technology for early detection of COVID-19: A systematic scoping review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_192.md)
-
 ## Stakeholders benefitting from this Benefit
 
 * [individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_20.md)
 * [healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_32.md)
 
+## Name of the Benefit
+
+Wearable technology can monitor physiological changes and detect breakthrough infections, allowing for timely booster shots
+
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Maintenance of high vaccine effectiveness, prevention of severe illness](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1031.md)
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Wearable technology can monitor physiological changes and detect breakthrough infections, allowing for timely booster shots
+* [Wearable technology for early detection of COVID-19: A systematic scoping review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_192.md)
 

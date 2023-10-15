@@ -6,15 +6,15 @@
 
 * [Q486972](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q486972.md)
 
-## Risk affecting this stakeholder
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Unequal distribution of street open spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1969.md)
+* [Environmental Conditions and Settings](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_107.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## Risk affecting this stakeholder
 
-* [Environmental Conditions and Settings](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_107.md)
+* [Unequal distribution of street open spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1969.md)
 

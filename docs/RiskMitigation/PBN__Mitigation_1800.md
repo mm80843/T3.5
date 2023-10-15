@@ -10,11 +10,11 @@ Prioritizing care for individuals with multiple health conditions and promoting 
 
 * [From Viral City to Smart City: Learning from Pandemic Experiences](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_183.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
 
 * [integrated care models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4079.md)
 * [coordinated services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4080.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

@@ -2,6 +2,10 @@
 
 # __Enhancing the role of facilities management in the fight against the COVID-19 (SARS-CoV-2) pandemic in developing countries’ public hospitals__
 
+## Year of publication
+
+2021
+
 ## Title of the article
 
 Enhancing the role of facilities management in the fight against the COVID-19 (SARS-CoV-2) pandemic in developing countries’ public hospitals
@@ -9,10 +13,6 @@ Enhancing the role of facilities management in the fight against the COVID-19 (S
 ## DOI of the article
 
 10.1108/JFM-06-2020-0034
-
-## Year of publication
-
-2021
 
 ## Referenced by other articles
 

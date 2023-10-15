@@ -2,19 +2,19 @@
 
 # __Mental health improvement__
 
-## Articles mentionning this Benefit
-
-* [Green spaces, especially forest, linked to lower SARS-CoV-2 infection rates: A one-year nationwide study](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_130.md)
-
 ## Stakeholders benefitting from this Benefit
 
 * [general population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+
+## Name of the Benefit
+
+Green spaces have a positive impact on mental health, reducing stress and promoting well-being, which can enhance immune function
 
 ## Description of Benefits pertaining to Beneficiaries
 
 * [Private investors in green spaces would benefit from increased demand for properties near green spaces, leading to higher property values.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_702.md)
 
-## Name of the Benefit
+## Articles mentionning this Benefit
 
-Green spaces have a positive impact on mental health, reducing stress and promoting well-being, which can enhance immune function
+* [Green spaces, especially forest, linked to lower SARS-CoV-2 infection rates: A one-year nationwide study](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_130.md)
 

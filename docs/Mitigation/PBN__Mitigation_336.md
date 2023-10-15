@@ -10,12 +10,12 @@ Increases availability of wearables by reducing prices and ensuring benefits are
 
 * [Wearable technology and COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_195.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Potential socioeconomic disparities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2535.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [market competition](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3170.md)
 * [technological advancements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3171.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Potential socioeconomic disparities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2535.md)
 

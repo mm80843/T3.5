@@ -2,11 +2,11 @@
 
 # __event planning guidelines__
 
-## Risks linked to this technology
-
-* [Transmission at mass gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1350.md)
-
 ## This Technology is identified by the following QID
 
 * [Q2040532](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2040532.md)
+
+## Risks linked to this technology
+
+* [Transmission at mass gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1350.md)
 

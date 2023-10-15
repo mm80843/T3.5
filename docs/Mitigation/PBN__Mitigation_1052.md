@@ -10,11 +10,11 @@ Using UV disinfection to reduce the risk of surface transmission in closed vehic
 
 * [The Role of Architecture and Urbanism in Preventing Pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_140.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Surface contamination in public transport](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2887.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [uv disinfection systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1143.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Surface contamination in public transport](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2887.md)
 

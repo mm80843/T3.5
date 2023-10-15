@@ -2,11 +2,11 @@
 
 # __improved negative ionizers__
 
-## Risks linked to this technology
-
-* [Inefficient negative air ionization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1364.md)
-
 ## This Technology is identified by the following QID
 
 * [Q107968](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q107968.md)
+
+## Risks linked to this technology
+
+* [Inefficient negative air ionization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1364.md)
 

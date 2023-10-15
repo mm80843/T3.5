@@ -2,16 +2,16 @@
 
 # __Data sharing platforms__
 
-## This Technology is identified by the following QID
-
-* [Q5227350](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5227350.md)
-
 ## This Technology belongs to this TechGroup
 
 * [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_8.md)
 * [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
 * [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_5.md)
 * [Blockchain and cryptography](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_10.md)
+
+## This Technology is identified by the following QID
+
+* [Q5227350](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5227350.md)
 
 ## This Technology belongs to this TechSubgroup
 

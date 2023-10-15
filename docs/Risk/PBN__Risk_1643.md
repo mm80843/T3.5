@@ -2,9 +2,22 @@
 
 # __Inadequate door-lock device__
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+* [Install devices to control sliding doors and prevent unintended door opening in AIIRs, especially for patients with mental illness or delirium](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2190.md)
+
+## People affected by this risk
+
+* [health care workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_408.md)
+* [patients in aiirs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1063.md)
+
+## Name of the risk
+
+Increased risk of patient egress and compromised infection control
+
+## Description of the risk
+
+Lack of door-lock devices to control access to patient rooms in AIIRs
 
 ## Property: has_RiskType
 
@@ -15,40 +28,27 @@
 * [medical personnel](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_184.md)
 * [hospital administration](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_799.md)
 
+## Property: has_RiskISO_Purpose
+
+* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+
 ## Property: has_RiskHealth
 
 * [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Description of the risk
-
-Lack of door-lock devices to control access to patient rooms in AIIRs
-
-## Articles mentionning the risk
-
-* [Rapid expansion of temporary, reliable airborne-infection isolation rooms with negative air machines for critical COVID-19 patients](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_77.md)
-
-## Technologies linked to the risk
-
-* [door-lock devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_971.md)
-
-## People affected by this risk
-
-* [health care workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_408.md)
-* [patients in aiirs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1063.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
 
-## Mitigations of this risk
+## Articles mentionning the risk
 
-* [Install devices to control sliding doors and prevent unintended door opening in AIIRs, especially for patients with mental illness or delirium](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2190.md)
+* [Rapid expansion of temporary, reliable airborne-infection isolation rooms with negative air machines for critical COVID-19 patients](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_77.md)
 
 ## Property: has_RiskGBN
 
 * [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Name of the risk
+## Technologies linked to the risk
 
-Increased risk of patient egress and compromised infection control
+* [door-lock devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_971.md)
 

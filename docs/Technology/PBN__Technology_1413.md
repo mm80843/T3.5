@@ -2,11 +2,11 @@
 
 # __credit scoring algorithms__
 
-## Risks linked to this technology
-
-* [Increased default rates](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1977.md)
-
 ## This Technology is identified by the following QID
 
 * [Q765517](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q765517.md)
+
+## Risks linked to this technology
+
+* [Increased default rates](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1977.md)
 

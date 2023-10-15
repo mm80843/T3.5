@@ -10,10 +10,10 @@ Uses forecasting models to predict future outbreak trends and provide insights f
 
 * [Open-source analytics tools for studying the COVID-19 coronavirus outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_218.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
 
 * [rstudio shiny framework](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4477.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

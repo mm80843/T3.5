@@ -2,6 +2,11 @@
 
 # __member states__
 
+## This Stakeholder can get these Benefits from mitigation measures
+
+* [Strengthened unity and cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_779.md)
+* [Enhanced economic support and stability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_780.md)
+
 ## Risks that can be mitigated by this stakeholder
 
 * [Regulatory frameworks for data protection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_811.md)
@@ -10,9 +15,4 @@
 * [Fragmented political responses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1585.md)
 * [Politicization of public health measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1586.md)
 * [Economic disparities among Member States](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1587.md)
-
-## This Stakeholder can get these Benefits from mitigation measures
-
-* [Strengthened unity and cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_779.md)
-* [Enhanced economic support and stability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_780.md)
 

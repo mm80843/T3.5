@@ -38,6 +38,14 @@ Minimizing physical contact between populations to decrease disease transmission
 * [An Automated System to Limit COVID-19 Using Facial Mask Detection in Smart City Network](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_265.md)
 * [Covid-19 and asset management in EU: a preliminary assessment of performance and investment styles](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_271.md)
 
+## This Mitigation is enabled by the following technologies
+
+* [physical barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_343.md)
+* [floor markings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_360.md)
+* [internet-based communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_23.md)
+* [technology-enabled monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2913.md)
+* [physical distance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3380.md)
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Spread of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_91.md)
@@ -54,12 +62,4 @@ Minimizing physical contact between populations to decrease disease transmission
 * [Non-compliance with social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3200.md)
 * [Spread of Contagious Disease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3227.md)
 * [Person-to-Person Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3281.md)
-
-## This Mitigation is enabled by the following technologies
-
-* [physical barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_343.md)
-* [floor markings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_360.md)
-* [internet-based communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_23.md)
-* [technology-enabled monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2913.md)
-* [physical distance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3380.md)
 

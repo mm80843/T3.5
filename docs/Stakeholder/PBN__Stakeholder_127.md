@@ -17,6 +17,14 @@
 * [Improved access to clean water and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1068.md)
 * [Extended reach of WBE](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1213.md)
 
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Vulnerable Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_82.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
+
 ## Risk affecting this stakeholder
 
 * [Spread of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_91.md)
@@ -48,12 +56,4 @@
 * [Risk of mental health issues during and after a pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2121.md)
 * [False and misleading information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2126.md)
 * [Limited Capacity to Comply](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2279.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Vulnerable Individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_82.md)
 

@@ -2,12 +2,12 @@
 
 # __---------------------------__
 
+## Risk affecting this stakeholder
+
+* [------------------------](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2286.md)
+
 ## Risks that can be mitigated by this stakeholder
 
 * [------------------------](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2286.md)
 * [-------------------](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2321.md)
-
-## Risk affecting this stakeholder
-
-* [------------------------](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2286.md)
 

@@ -2,9 +2,13 @@
 
 # __Antivirus-built environment: Lessons learned from Covid-19 pandemic__
 
-## Summary of the article
+## Short summary of the article
 
-The COVID-19 pandemic has shown us that our physical environment can be vulnerable to infections and diseases. Just like computer viruses can harm our digital world, the coronavirus can harm our built environment. Architects and planners are now thinking about how to design and build our cities to stop the virus from spreading. In the past, diseases like the bubonic plague and cholera have influenced the design of cities to be more healthy and hygienic. Now, with COVID-19, we need to come up with new ideas and strategies to protect ourselves from future pandemics. This study explores different areas of research and questions that can help us create an "antivirus-built environment" that can protect us from viruses and other diseases.
+This research abstract examines the potential for designing and building an antivirus-built environment to protect against the spread of COVID-19 and future pandemics. The study explores lessons from the cybersecurity world to apply to the built environment, similar to how digital structures are protected from computer viruses. It looks at historical examples of how infectious diseases have influenced architecture and urban planning, such as the Renaissance improvements motivated by the bubonic plague and modernist designs inspired by tuberculosis. The abstract highlights the need for research on various aspects, including the impact of social distancing and quarantine on design, the potential transmission dynamics of COVID-19 within the built environment, and the design challenges and solutions for post-pandemic public spaces, housing, and office spaces. The abstract also discusses the importance of incorporating nature and advanced technology into the design of the antivirus-built environment. It concludes by emphasizing the need for proactive measures and ongoing research to update and enhance the proposed vision for the antivirus-built environment.
+
+## Year of publication
+
+2020
 
 ## Title of the article
 
@@ -17,6 +21,19 @@ Antivirus-built environment: Lessons learned from Covid-19 pandemic
 * [Insufficient public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1738.md)
 * [Lack of hygienic building materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1739.md)
 * [Limited access to outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1740.md)
+
+## DOI of the article
+
+10.1016/j.scs.2020.102350
+
+## Benefits listed in this article
+
+* [Health and safety](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_524.md)
+* [Flexibility and adaptability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1408.md)
+* [Food security and sustainability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1406.md)
+* [Improved ventilation and air quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1407.md)
+* [Sanitation and cleanliness](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1409.md)
+* [Contactless interaction](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1410.md)
 
 ## This article points to following mitigation
 
@@ -42,26 +59,9 @@ Antivirus-built environment: Lessons learned from Covid-19 pandemic
 * [Lightweight Architecture](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1302.md)
 * [Hygienic Building Materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1303.md)
 
-## Benefits listed in this article
+## Summary of the article
 
-* [Health and safety](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_524.md)
-* [Flexibility and adaptability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1408.md)
-* [Food security and sustainability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1406.md)
-* [Improved ventilation and air quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1407.md)
-* [Sanitation and cleanliness](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1409.md)
-* [Contactless interaction](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1410.md)
-
-## Short summary of the article
-
-This research abstract examines the potential for designing and building an antivirus-built environment to protect against the spread of COVID-19 and future pandemics. The study explores lessons from the cybersecurity world to apply to the built environment, similar to how digital structures are protected from computer viruses. It looks at historical examples of how infectious diseases have influenced architecture and urban planning, such as the Renaissance improvements motivated by the bubonic plague and modernist designs inspired by tuberculosis. The abstract highlights the need for research on various aspects, including the impact of social distancing and quarantine on design, the potential transmission dynamics of COVID-19 within the built environment, and the design challenges and solutions for post-pandemic public spaces, housing, and office spaces. The abstract also discusses the importance of incorporating nature and advanced technology into the design of the antivirus-built environment. It concludes by emphasizing the need for proactive measures and ongoing research to update and enhance the proposed vision for the antivirus-built environment.
-
-## DOI of the article
-
-10.1016/j.scs.2020.102350
-
-## Year of publication
-
-2020
+The COVID-19 pandemic has shown us that our physical environment can be vulnerable to infections and diseases. Just like computer viruses can harm our digital world, the coronavirus can harm our built environment. Architects and planners are now thinking about how to design and build our cities to stop the virus from spreading. In the past, diseases like the bubonic plague and cholera have influenced the design of cities to be more healthy and hygienic. Now, with COVID-19, we need to come up with new ideas and strategies to protect ourselves from future pandemics. This study explores different areas of research and questions that can help us create an "antivirus-built environment" that can protect us from viruses and other diseases.
 
 ## Referenced by other articles
 

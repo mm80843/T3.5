@@ -10,10 +10,10 @@ Providing individual occupants with clean air in their breathing zone to protect
 
 * [Methods for air cleaning and protection of building occupants from airborne pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_240.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
 
 * [personalized air supply devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3114.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

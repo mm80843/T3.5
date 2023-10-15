@@ -10,17 +10,17 @@
 
 * [Identification of impacted businesses](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_566.md)
 
-## Risks that can be mitigated by this stakeholder
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Health Risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_83.md)
-* [Performance Risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_86.md)
-* [Impact on hospitality, tourism, and aviation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1813.md)
+* [Hospitality and Tourism](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_32.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## Risks that can be mitigated by this stakeholder
 
-* [Hospitality and Tourism](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_32.md)
+* [Health Risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_83.md)
+* [Performance Risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_86.md)
+* [Impact on hospitality, tourism, and aviation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1813.md)
 

@@ -2,11 +2,11 @@
 
 # __smart power strips__
 
-## Risks linked to this technology
-
-* [Increased energy usage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2225.md)
-
 ## This Technology is identified by the following QID
 
 * [Q15941790](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q15941790.md)
+
+## Risks linked to this technology
+
+* [Increased energy usage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2225.md)
 

@@ -6,15 +6,15 @@
 
 * [Q4430231](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q4430231.md)
 
-## Risk affecting this stakeholder
+## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Loss of family or friends and economic well-being due to COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1717.md)
+* [Health and Well-being](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_94.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
 * [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
 
-## This Stakeholder belongs to this StakeholderSubgroup
+## Risk affecting this stakeholder
 
-* [Health and Well-being](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_94.md)
+* [Loss of family or friends and economic well-being due to COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1717.md)
 

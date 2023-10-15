@@ -10,11 +10,11 @@ Expediting the development and production of vaccines to prevent the spread of t
 
 * [Emerging Technologies to Combat the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_116.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
 
 * [molecular technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4369.md)
 * [supercomputing facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4370.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

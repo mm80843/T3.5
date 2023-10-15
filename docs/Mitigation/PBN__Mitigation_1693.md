@@ -10,11 +10,11 @@ Improve health services and treat patients with better health outcomes through t
 
 * [Mobile Technology Solution for COVID-19: Surveillance and Prevention](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_239.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
 
 * [mobile technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2902.md)
 * [mhealth](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4018.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

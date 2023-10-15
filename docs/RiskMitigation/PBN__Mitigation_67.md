@@ -11,12 +11,12 @@ Using active video games that involve physical activity through interaction with
 * [Staying Physically Active During the Quarantine and Self-Isolation Period for Controlling and Mitigating the COVID-19 Pandemic: A Systematic Overview of the Literature](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_181.md)
 * [Mental Health and the Role of Physical Activity During the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_242.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
 
 * [electronic products for human-computer interaction](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2948.md)
 * [motion sensor controls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3232.md)
 * [video game consoles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3233.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

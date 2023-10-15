@@ -2,11 +2,11 @@
 
 # __smart ventilation systems__
 
-## Risks linked to this technology
-
-* [Indoor Air Pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1116.md)
-
 ## This Technology is identified by the following QID
 
 * [Q584049](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q584049.md)
+
+## Risks linked to this technology
+
+* [Indoor Air Pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1116.md)
 

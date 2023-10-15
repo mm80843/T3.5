@@ -2,10 +2,6 @@
 
 # __etc__
 
-## Risks linked to this technology
-
-* [Lack of proper ergonomic setup in home office](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1971.md)
-
 ## This Technology is identified by the following QID
 
 * [Q29583124](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q29583124.md)
@@ -14,4 +10,8 @@
 
 * [Surface Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_932.md)
 * [Cleaning and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_935.md)
+
+## Risks linked to this technology
+
+* [Lack of proper ergonomic setup in home office](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1971.md)
 

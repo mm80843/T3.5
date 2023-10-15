@@ -2,9 +2,21 @@
 
 # __Lack of supervision and accountability__
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+* [Establish clear performance expectations, regular check-ins, and project milestones. Implement software for monitoring progress, communication, and collaboration.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2588.md)
+
+## People affected by this risk
+
+* [teleworkers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1324.md)
+
+## Name of the risk
+
+Potential decrease in productivity, quality of work, and potential missed deadlines.
+
+## Description of the risk
+
+Remote work can lead to decreased supervision and accountability, which may result in decreased productivity and quality of work.
 
 ## Property: has_RiskType
 
@@ -15,41 +27,29 @@
 * [employers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_180.md)
 * [teleworkers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1324.md)
 
+## Property: has_RiskISO_Purpose
+
+* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+
 ## Property: has_RiskHealth
 
 * [other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
 
-## Description of the risk
+## Property: has_RiskISO_Impact
 
-Remote work can lead to decreased supervision and accountability, which may result in decreased productivity and quality of work.
+* [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_8.md)
 
 ## Articles mentionning the risk
 
 * [El impacto del teletrabajo en tiempos del COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_108.md)
+
+## Property: has_RiskGBN
+
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
 ## Technologies linked to the risk
 
 * [project management tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_633.md)
 * [communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_135.md)
 * [time tracking software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1408.md)
-
-## People affected by this risk
-
-* [teleworkers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1324.md)
-
-## Property: has_RiskISO_Impact
-
-* [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_8.md)
-
-## Mitigations of this risk
-
-* [Establish clear performance expectations, regular check-ins, and project milestones. Implement software for monitoring progress, communication, and collaboration.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2588.md)
-
-## Property: has_RiskGBN
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
-
-## Name of the risk
-
-Potential decrease in productivity, quality of work, and potential missed deadlines.
 

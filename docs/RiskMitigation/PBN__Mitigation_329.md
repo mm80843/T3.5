@@ -12,10 +12,6 @@ Continuous monitoring and analysis of vital signs and changes in the body to det
 * [The Rise of Wearable Devices during the COVID-19 Pandemic: A Systematic Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_99.md)
 * [Wearable technology for early detection of COVID-19: A systematic scoping review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_192.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Accuracy, skin irritation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2553.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_200.md)
@@ -26,4 +22,8 @@ Continuous monitoring and analysis of vital signs and changes in the body to det
 * [smartwatch](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3161.md)
 * [fitness tracker](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3162.md)
 * [wearable device](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3163.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Accuracy, skin irritation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2553.md)
 

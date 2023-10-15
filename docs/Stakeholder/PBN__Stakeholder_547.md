@@ -2,6 +2,10 @@
 
 # __media organizations__
 
+## Risk affecting this stakeholder
+
+* [Manipulated media coverage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1019.md)
+
 ## Risks that can be mitigated by this stakeholder
 
 * [Lack of awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_49.md)
@@ -25,8 +29,4 @@
 * [Lack of public awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2182.md)
 * [Misuse of preprints by media and bad-faith actors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2331.md)
 * [Misinformation on COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2382.md)
-
-## Risk affecting this stakeholder
-
-* [Manipulated media coverage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1019.md)
 

@@ -10,10 +10,10 @@ Emphasize the immediate impacts of climate change on individuals to increase awa
 
 * [What our response to the COVID-19 pandemic tells us of our capacity to respond to climate change](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_257.md)
 
+## This Mitigation is enabled by the following technologies
+
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Perception of climate change as distant](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2686.md)
-
-## This Mitigation is enabled by the following technologies
-
 

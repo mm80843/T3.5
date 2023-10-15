@@ -2,6 +2,11 @@
 
 # __remote mental health care__
 
+## This Technology belongs to this TechGroup
+
+* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_3.md)
+* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
+
 ## Risks linked to this technology
 
 * [Emotional distress and psychiatric illness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1896.md)
@@ -10,11 +15,6 @@
 ## This Technology is identified by the following QID
 
 * [Q55645123](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q55645123.md)
-
-## This Technology belongs to this TechGroup
-
-* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_3.md)
-* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
 
 ## This Technology belongs to this TechSubgroup
 

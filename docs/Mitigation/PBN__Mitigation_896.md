@@ -10,11 +10,11 @@ Enables construction workers to know their infection status and take appropriate
 
 * [The impact of COVID-19 outbreak on United Kingdom infrastructure sector](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_141.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Lack of knowledge of infection status](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2801.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [testing facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3527.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of knowledge of infection status](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2801.md)
 

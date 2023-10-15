@@ -2,9 +2,22 @@
 
 # __Baylisascaris procyonis contamination__
 
-## Property: has_RiskISO_Purpose
+## Mitigations of this risk
 
-* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+* [Effective methods for inactivating roundworm eggs, education on prevention measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1934.md)
+
+## People affected by this risk
+
+* [humans](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_17.md)
+* [particularly children](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_921.md)
+
+## Name of the risk
+
+Risk of infection by roundworm eggs and potential fatal neurologic disease
+
+## Description of the risk
+
+Contamination of objects and surfaces by roundworm eggs from raccoons
 
 ## Property: has_RiskType
 
@@ -15,39 +28,26 @@
 * [public health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_222.md)
 * [pest control services](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_922.md)
 
+## Property: has_RiskISO_Purpose
+
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_2.md)
+
 ## Property: has_RiskHealth
 
 * [physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-
-## Description of the risk
-
-Contamination of objects and surfaces by roundworm eggs from raccoons
-
-## Articles mentionning the risk
-
-* [Aerosol and Surface Distribution of Severe Acute Respiratory Syndrome Coronavirus 2 in Hospital Wards, Wuhan, China, 2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_263.md)
-
-## Technologies linked to the risk
-
-
-## People affected by this risk
-
-* [humans](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_17.md)
-* [particularly children](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_921.md)
 
 ## Property: has_RiskISO_Impact
 
 * [Governance, empowerment and engagement](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_6.md)
 
-## Mitigations of this risk
+## Articles mentionning the risk
 
-* [Effective methods for inactivating roundworm eggs, education on prevention measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1934.md)
+* [Aerosol and Surface Distribution of Severe Acute Respiratory Syndrome Coronavirus 2 in Hospital Wards, Wuhan, China, 2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_263.md)
 
 ## Property: has_RiskGBN
 
 * [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
 
-## Name of the risk
+## Technologies linked to the risk
 
-Risk of infection by roundworm eggs and potential fatal neurologic disease
 

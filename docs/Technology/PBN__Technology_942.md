@@ -2,11 +2,11 @@
 
 # __investment in education__
 
-## Risks linked to this technology
-
-* [Societal and socio-economic gaps](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_750.md)
-
 ## This Technology is identified by the following QID
 
 * [Q59243211](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q59243211.md)
+
+## Risks linked to this technology
+
+* [Societal and socio-economic gaps](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_750.md)
 

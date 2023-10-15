@@ -2,11 +2,11 @@
 
 # __online meeting platforms__
 
-## Risks linked to this technology
-
-* [Administrative controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2143.md)
-
 ## This Technology is identified by the following QID
 
 * [Q7935096](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q7935096.md)
+
+## Risks linked to this technology
+
+* [Administrative controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2143.md)
 

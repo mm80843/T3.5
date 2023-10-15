@@ -10,11 +10,11 @@ Ensure an efficient network for supplying medical gases, such as oxygen, to each
 
 * [Emergency Healthcare Facilities: Managing Design in a Post Covid-19 World](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_122.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Supply medical gases to each bed](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2965.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [efficient network](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3732.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Supply medical gases to each bed](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2965.md)
 

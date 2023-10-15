@@ -2,6 +2,15 @@
 
 # __digital devices__
 
+## This Technology belongs to this TechGroup
+
+* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
+
+## This Technology enables the following mitigations
+
+* [Teleworking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_479.md)
+* [Enhanced education access and equity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1072.md)
+
 ## Risks linked to this technology
 
 * [Digital exclusion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1369.md)
@@ -12,16 +21,7 @@
 
 * [Q690079](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q690079.md)
 
-## This Technology belongs to this TechGroup
-
-* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
-
 ## This Technology belongs to this TechSubgroup
 
 * [Communication and Connectivity](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_112.md)
-
-## This Technology enables the following mitigations
-
-* [Teleworking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_479.md)
-* [Enhanced education access and equity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1072.md)
 

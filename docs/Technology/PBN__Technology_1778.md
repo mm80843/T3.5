@@ -2,6 +2,10 @@
 
 # __cellular network__
 
+## This Technology belongs to this TechGroup
+
+* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
+
 ## Risks linked to this technology
 
 * [PC1](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2217.md)
@@ -9,10 +13,6 @@
 ## This Technology is identified by the following QID
 
 * [Q535695](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q535695.md)
-
-## This Technology belongs to this TechGroup
-
-* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
 
 ## This Technology belongs to this TechSubgroup
 

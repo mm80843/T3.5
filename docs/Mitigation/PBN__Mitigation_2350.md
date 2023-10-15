@@ -10,12 +10,12 @@ Monitoring and predicting patient numbers to identify potential healthcare facil
 
 * [The Smart City and Covid‐19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_294.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Overwhelmed healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1629.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1069.md)
 * [iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_277.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Overwhelmed healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1629.md)
 

@@ -10,11 +10,11 @@ Promoting health and prevention measures can help improve sanitation practices a
 
 * [COVID-19: Lessons for an Urban(izing) World](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_85.md)
 
-## Risks possibly mitigated by this Mitigation
-
-* [Sanitation practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2412.md)
-
 ## This Mitigation is enabled by the following technologies
 
 * [public health initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2908.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Sanitation practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2412.md)
 

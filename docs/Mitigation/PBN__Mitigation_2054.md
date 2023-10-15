@@ -10,10 +10,10 @@ Prevent urban expansion encroaching on wildlife habitat, reduce human activities
 
 * [Learning from pandemics: Applying resilience thinking to identify priorities for planning urban settlements](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_137.md)
 
+## This Mitigation is enabled by the following technologies
+
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Zoonotic disease emergence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_488.md)
-
-## This Mitigation is enabled by the following technologies
-
 

@@ -10,10 +10,10 @@ Promoting hygienic behaviors such as proper hand hygiene and respiratory etiquet
 
 * [Epidemics, Planning and the City: A Special Issue of Planning Perspectives](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_152.md)
 
-## Risks possibly mitigated by this Mitigation
-
-
 ## This Mitigation is enabled by the following technologies
 
 * [education and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_748.md)
+
+## Risks possibly mitigated by this Mitigation
+
 

@@ -2,6 +2,14 @@
 
 # __transportation authorities__
 
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Transportation Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_1.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [City Officials](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_0.md)
+
 ## Risk affecting this stakeholder
 
 * [Impacts on public transit](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1463.md)
@@ -17,12 +25,4 @@
 * [Travel and transportation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2029.md)
 * [Limited accessibility for low-income citizens](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2245.md)
 * [Urban Mobility and Commute Patterns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2379.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [City Officials](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_0.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Transportation Entities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_1.md)
 

@@ -2,6 +2,10 @@
 
 # __Public Health Interventions for COVID-19__
 
+## Year of publication
+
+2020
+
 ## Title of the article
 
 Public Health Interventions for COVID-19
@@ -9,10 +13,6 @@ Public Health Interventions for COVID-19
 ## DOI of the article
 
 10.1001/jama.2020.5910
-
-## Year of publication
-
-2020
 
 ## Referenced by other articles
 

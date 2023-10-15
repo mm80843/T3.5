@@ -15,6 +15,13 @@
 * [Greater community building](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_422.md)
 * [Equality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1181.md)
 
+## This Stakeholder belongs to this StakeholderSubgroup
+
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
+
 ## Risk affecting this stakeholder
 
 * [Emerging infectious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_159.md)
@@ -24,11 +31,4 @@
 * [Lack of Public Awareness and Education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1445.md)
 * [Limited access to healthcare services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1984.md)
 * [Contagion spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2077.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
 

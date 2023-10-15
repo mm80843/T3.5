@@ -2,11 +2,11 @@
 
 # __information filtering tools__
 
-## Risks linked to this technology
-
-* [Information overload](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1612.md)
-
 ## This Technology is identified by the following QID
 
 * [Q6031077](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q6031077.md)
+
+## Risks linked to this technology
+
+* [Information overload](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1612.md)
 
